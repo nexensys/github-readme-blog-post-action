@@ -1,0 +1,15 @@
+on: [push]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    name: Test the output
+    steps:
+      - name: Checkout
+        uses: actions/checkout@2
+      - name: Test
+        uses: ./
+        with:
+          feed_urls: ""
+      - name: Log the resulting files
+        run: "node -e 'console.log(require(`fs`).readdirSync(`./blog-post-list-output`))"

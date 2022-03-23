@@ -54,6 +54,7 @@ async function main() {
     let repoRawURL = `https://raw.githubusercontent.com/${github.context.repo.owner}/${github.context.repo.repo}/master/blog-post-list-output/`;
     meta.imageDark = repoRawURL + fileNamedark;
     meta.imageLight = repoRawURL + fileNamelight;
+    core.info(repoRawURL);
   }
 
   let markdown = "";
@@ -71,6 +72,8 @@ async function main() {
     /<!--\s*blog-post-list-start\s*-->[\s\S]*<!--\s*blog-post-list-end\s*-->/,
     markdown
   );
+  //todo: actualy rewrite the file
+  core.info(markdown);
 }
 
 function generateSVG(meta, delay = 0, dark = false) {
