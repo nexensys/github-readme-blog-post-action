@@ -20,7 +20,9 @@
   "dependencies": {
     "@actions/core": "^1.6.0",
     "@actions/github": "^5.0.0",
+    "buffer-to-data-url": "^1.0.0",
     "cheerio": "^1.0.0-rc.10",
+    "file-type": "^17.1.1",
     "node-fetch": "^3.2.3",
     "rss-parser": "^3.12.0"
   },
