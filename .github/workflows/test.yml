@@ -6,7 +6,7 @@ jobs:
     name: Test the output
     steps:
       - name: Checkout
-        uses: actions/checkout@2
+        uses: actions/checkout@3.0.0
       - name: Test
         uses: ./
         with:
