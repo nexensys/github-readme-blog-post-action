@@ -6,6 +6,8 @@ import Parser from "rss-parser";
 import { fileTypeFromBuffer } from "file-type";
 import bufferToDataUrl from "buffer-to-data-url";
 const toDataURL = bufferToDataUrl.default;
+import fs from "fs";
+import font from "./dataURLs/Roboto";
 
 const parser = new Parser({
   customFields: {
@@ -17,6 +19,8 @@ const maxItems = 5;
 async function main() {
   let feed = await loadFeed("https://dev.to/feed/codewithsadee");
   feed.items.splice(maxItems);
+  let delay = 0;
+  let metas = [];
   for (let post of feed.items) {
     core.info(`Loading data for post: ${post.title ?? post.link}`);
     let meta = await loadMetaData(post.link);
@@ -32,7 +36,122 @@ async function main() {
     );
     meta.categories = post.categories || null;
     meta.image = await loadImage(meta);
+    metas.push(meta);
+    if (!fs.existsSync("blog-post-list-output")) {
+      fs.mkdirSync("blog-post-list-output");
+    }
+    let svglight = generateSVG(meta, delay++ * 0.25, false);
+    let fileNamelight =
+      meta.title.replace(/[^a-zA-Z0-9\s]/g, "").replace(/\s/g, "_") +
+      "-light.svg";
+    let svgdark = generateSVG(meta, delay++ * 0.25, true);
+    let fileNamedark =
+      meta.title.replace(/[^a-zA-Z0-9\s]/g, "").replace(/\s/g, "_") +
+      "-dark.svg";
+    core.info(`Saving files: ${fileNamelight}, ${fileNamedark}`);
+    fs.writeFileSync("./blog-post-list-output/" + fileNamelight, svglight);
+    fs.writeFileSync("./blog-post-list-output/" + fileNamedark, svgdark);
+    let repoRawURL = `https://raw.githubusercontent.com/${github.context.repo.owner}/${github.context.repo.repo}/master/blog-post-list-output/`;
+    meta.imageDark = repoRawURL + fileNamedark;
+    meta.imageLight = repoRawURL + fileNamelight;
   }
+
+  let markdown = "";
+  for (let meta of metas) {
+    markdown += `[![${meta.title}](${
+      meta.imageLight + "#github-light-mode-only"
+    })](${meta.link})\n`;
+    markdown += `[![${meta.title}](${
+      meta.imageDark + "#github-dark-mode-only"
+    })](${meta.link})\n`;
+  }
+
+  let readme = fs.readFileSync("./README.md", "utf8");
+  readme = readme.replace(
+    /<!--\s*blog-post-list-start\s*-->[\s\S]*<!--\s*blog-post-list-end\s*-->/,
+    markdown
+  );
+}
+
+function generateSVG(meta, delay = 0, dark = false) {
+  let svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 610 110" width="600" height="100" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <style>
+      @font-face {
+        font-family: 'Roboto';
+        src: url('${font}') format('truetype');
+      }
+      .title {
+        font-size: 1.5em;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        white-space: nowrap;
+        margin-bottom: 5px;
+      }
+      .description {
+        font-size: 0.75em;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+      }
+      .date {
+        font-size: 0.5em;
+        opacity: 0.25;
+        text-align: end;
+        position: absolute;
+        bottom: 0;
+        right: 10px;
+      }
+      .text {
+        text-align: start;
+        padding: 5px;
+        height: calc(100% - 10px);
+        margin-left: 100px;
+        font-family: 'Roboto';
+        color: ${dark ? "#fff" : "#000"};
+      }
+      .image {
+        height: 100px;
+        width: 100px;
+        background-image: url("${meta.image}");
+        background-size: cover;
+        position: absolute;
+        top: 0;
+        left: 0;
+        border-radius: 10px;
+      }
+      .main {
+        transform: translate(610px, 0px);
+        animation: slideIn 1s ease-out forwards;
+        animation-delay: ${delay}s;
+      }
+      @keyframes slideIn {
+        to {
+          transform: translate(0px, 0px);
+        }
+      }
+    </style>
+    <clipPath id="clip">
+      <rect width="300" height="1.5em" />
+    </clipPath>
+  </defs>
+  <g class="main">
+    <rect class="content" width="600" height="100" fill="transparent" stroke="rgba(0, 0, 0, 0.5)" x="5" y="5" rx="10" />
+    <foreignObject width="600" height="100" x="5" y="5">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
+        <div class="image" />
+        <div class="text">
+          <div class="title">${meta.title}</div>
+          <div class="description">${meta.description}</div>
+          <div class="date">${meta.date.toLocaleDateString()}</div>
+        </div>
+      </div>
+    </foreignObject>
+  </g>
+</svg>`;
+  return svg;
 }
 
 async function loadFeed(url) {
