@@ -7,7 +7,7 @@ import { fileTypeFromBuffer } from "file-type";
 import bufferToDataUrl from "buffer-to-data-url";
 const toDataURL = bufferToDataUrl.default;
 import fs from "fs";
-import font from "./dataURLs/Roboto";
+import font from "./dataURLs/Roboto.txt";
 
 const parser = new Parser({
   customFields: {
