@@ -7,7 +7,6 @@ import { fileTypeFromBuffer } from "file-type";
 import bufferToDataUrl from "buffer-to-data-url";
 const toDataURL = bufferToDataUrl.default;
 import fs from "fs";
-import font from "./dataURLs/Roboto.txt";
 
 const parser = new Parser({
   customFields: {
@@ -80,10 +79,6 @@ function generateSVG(meta, delay = 0, dark = false) {
   let svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 610 110" width="600" height="100" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
     <style>
-      @font-face {
-        font-family: 'Roboto';
-        src: url('${font}') format('truetype');
-      }
       .title {
         font-size: 1.5em;
         text-overflow: ellipsis;
@@ -112,7 +107,7 @@ function generateSVG(meta, delay = 0, dark = false) {
         padding: 5px;
         height: calc(100% - 10px);
         margin-left: 100px;
-        font-family: 'Roboto';
+        font-family: 'Arial';
         color: ${dark ? "#fff" : "#000"};
       }
       .image {
