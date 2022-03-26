@@ -107,7 +107,7 @@ function generateSVG(meta, delay = 0, dark = false) {
         padding: 5px;
         height: calc(100% - 10px);
         margin-left: 100px;
-        font-family: 'Arial';
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
         color: ${dark ? "#fff" : "#000"};
       }
       .image {

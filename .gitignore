@@ -2,3 +2,4 @@ node_modules/
 test.md
 blog-post-list-output/
 test.js
+.cache/
