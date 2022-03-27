@@ -79,7 +79,8 @@ async function main() {
     markdown
   );
   //todo: actualy rewrite the file
-  core.info(markdown);
+  //write the resulting markdown back to the file
+  fs.writeFileSync(readmeFile, readme);
 }
 
 function generateSVG(meta, delay = 0, dark = false) {

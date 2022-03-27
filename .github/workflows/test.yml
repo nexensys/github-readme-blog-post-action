@@ -3,7 +3,7 @@ on: [push]
 jobs:
   test:
     runs-on: ubuntu-latest
-    name: Test the output
+    name: Make sure the action actually works
     steps:
       - name: Checkout
         uses: actions/checkout@v3
@@ -11,5 +11,10 @@ jobs:
         uses: ./
         with:
           feed_urls: ""
-      - name: Log the resulting files
-        run: "node -e 'console.log(require(`fs`).readdirSync(`./blog-post-list-output`))'"
+      - name: Commit changed files
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Save generated blog post images and changed readme
+          commit_username: Action CI Tester [BOT]
+          commit_author: ErrorGamer2000 (via BOT)
+          skip_checkout: true

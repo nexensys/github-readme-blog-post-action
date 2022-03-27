@@ -2,9 +2,9 @@
 
 Built with help from Github Copilot
 
-Test:
+Example:
 
-Recent blogs:
+Recent Blogs:
 
 <!-- blog-post-list-start -->
 <!-- blog-post-list-end -->
