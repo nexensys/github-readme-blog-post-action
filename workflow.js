@@ -51,12 +51,7 @@ async function main() {
 
   let markdown = "";
   for (let meta of metas) {
-    markdown += `[![${meta.title}](${
-      meta.imageLight + "#gh-light-mode-only"
-    })](${meta.url})\n`;
-    markdown += `[![${meta.title}](${meta.imageDark + "#gh-dark-mode-only"})](${
-      meta.url
-    })\n`;
+    markdown += `[![${meta.title}](${meta.imageURL})](${meta.url})\n`;
   }
 
   let readmeFile = fs
