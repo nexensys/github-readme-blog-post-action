@@ -44315,6 +44315,7 @@ function generateSVG(meta, delay = 0, dark = false) {
         position: absolute;
         bottom: 0;
         right: 10px;
+        color: white;
       }
       .image {
         height: 100px;
