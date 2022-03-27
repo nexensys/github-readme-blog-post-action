@@ -5,7 +5,7 @@ const cheerio = require("cheerio");
  *
  * @param {string} url
  */
-export default async function loadMetaData(url) {
+module.exports = async function loadMetaData(url) {
   try {
     let res = await fetch(url);
     let html = await res.text();
@@ -27,4 +27,4 @@ export default async function loadMetaData(url) {
   } catch {
     return null;
   }
-}
+};

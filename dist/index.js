@@ -2,13 +2,8 @@
 /******/ 	var __webpack_modules__ = ({
 
 /***/ 2395:
-/***/ ((__unused_webpack_module, __webpack_exports__, __nccwpck_require__) => {
+/***/ ((module, __unused_webpack_exports, __nccwpck_require__) => {
 
-"use strict";
-__nccwpck_require__.r(__webpack_exports__);
-/* harmony export */ __nccwpck_require__.d(__webpack_exports__, {
-/* harmony export */   "default": () => (/* binding */ loadMetaData)
-/* harmony export */ });
 const fetch = __nccwpck_require__(6913);
 const cheerio = __nccwpck_require__(4612);
 
@@ -16,7 +11,7 @@ const cheerio = __nccwpck_require__(4612);
  *
  * @param {string} url
  */
-async function loadMetaData(url) {
+module.exports = async function loadMetaData(url) {
   try {
     let res = await fetch(url);
     let html = await res.text();
@@ -38,7 +33,7 @@ async function loadMetaData(url) {
   } catch {
     return null;
   }
-}
+};
 
 
 /***/ }),
