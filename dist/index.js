@@ -44224,8 +44224,6 @@ const Parser = __nccwpck_require__(6946);
 const fileTypeFromBuffer = (__nccwpck_require__(3084)/* .fileTypeFromBuffer */ .pM);
 const toDataURL = __nccwpck_require__(5676);
 const fs = __nccwpck_require__(7147);
-
-const { log, error, warn } = console;
 const { exit } = process;
 
 const parser = new Parser({
@@ -44286,9 +44284,14 @@ async function main() {
     })](${meta.link})\n`;
   }
 
-  core.info(fs.readdirSync("./"));
-
-  let readme = fs.readFileSync("./README.md", "utf8");
+  let readmeFile = fs
+    .readdirSync(".")
+    .find((file) => file.toLowerCase() === "readme.md");
+  if (!readmeFile) {
+    core.error("No readme.md file found in the root directory");
+    exit(1);
+  }
+  let readme = fs.readFileSync(readmeFile, "utf8");
   readme = readme.replace(
     /<!--\s*blog-post-list-start\s*-->[\s\S]*<!--\s*blog-post-list-end\s*-->/,
     markdown
