@@ -2,9 +2,17 @@ name: "Github Blog Post List generator"
 description: "Generate a list of links to recent blog posts"
 inputs:
   feed_urls:
-    description: "a comma-seperated list or urls to load the feed from"
+    description: "A comma-seperated list or urls to load the feed from"
     required: true
     default: ""
+  max_posts_per_url:
+    description: "The maximum number of posts that should be displayed"
+    required: false
+    default: "5"
+  position_indicator:
+    description: "The text that the action uses to determine where to inject the post list. The action will look for two comments in the format <!-- ${position_indicator}:start --> and <!-- ${position_indicator}:end -->"
+    required: false
+    default: "blog-post-list"
 runs:
   using: "node16"
   main: "dist/index.js"

@@ -6,6 +6,7 @@
 
 const fetch = __nccwpck_require__(6913);
 const cheerio = __nccwpck_require__(4612);
+const core = __nccwpck_require__(2186);
 
 /**
  *
@@ -25,13 +26,15 @@ module.exports = async function loadMetaData(url) {
       .map(function ([key, value]) {
         return value;
       });
-    return Object.fromEntries(
+    let meta = Object.fromEntries(
       elems.map(function (el) {
         return [el.attribs.property.replace(/^og:/, ""), el.attribs.content];
       })
     );
+    core.debug(JSON.stringify(meta, null, 2));
+    return meta;
   } catch {
-    return null;
+    return {};
   }
 };
 
@@ -44234,6 +44237,7 @@ const parser = new Parser({
 const maxItems = 5;
 
 async function main() {
+  //todo: use feed input list
   let feed = await loadFeed("https://dev.to/feed/codewithsadee");
   feed.items.splice(maxItems);
   let delay = 0;
@@ -44257,7 +44261,7 @@ async function main() {
     if (!fs.existsSync("blog-post-list-output")) {
       fs.mkdirSync("blog-post-list-output");
     }
-    let svglight = generateSVG(meta, delay++ * 0.25, false);
+    let svglight = generateSVG(meta, delay * 0.25, false);
     let fileNamelight =
       meta.title.replace(/[^a-zA-Z0-9\s]/g, "").replace(/\s/g, "_") +
       "-light.svg";
@@ -44277,11 +44281,11 @@ async function main() {
   let markdown = "";
   for (let meta of metas) {
     markdown += `[![${meta.title}](${
-      meta.imageLight + "#github-light-mode-only"
-    })](${meta.link})\n`;
-    markdown += `[![${meta.title}](${
-      meta.imageDark + "#github-dark-mode-only"
-    })](${meta.link})\n`;
+      meta.imageLight + "#gh-light-mode-only"
+    })](${meta.url})\n`;
+    markdown += `[![${meta.title}](${meta.imageDark + "#gh-dark-mode-only"})](${
+      meta.url
+    })\n`;
   }
 
   let readmeFile = fs
@@ -44291,13 +44295,13 @@ async function main() {
     core.error("No readme.md file found in the root directory");
     exit(1);
   }
+
   let readme = fs.readFileSync(readmeFile, "utf8");
   readme = readme.replace(
-    /<!--\s*blog-post-list-start\s*-->[\s\S]*<!--\s*blog-post-list-end\s*-->/,
-    markdown
+    /(<!--\s*blog-post-list-start\s*-->)[\s\S]*(<!--\s*blog-post-list-end\s*-->)/,
+    `$1${markdown}$2`
   );
-  //todo: actualy rewrite the file
-  //write the resulting markdown back to the file
+
   fs.writeFileSync(readmeFile, readme);
 }
 

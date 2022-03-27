@@ -1,5 +1,6 @@
 const fetch = require("node-fetch");
 const cheerio = require("cheerio");
+const core = require("@actions/core");
 
 /**
  *
@@ -19,12 +20,14 @@ module.exports = async function loadMetaData(url) {
       .map(function ([key, value]) {
         return value;
       });
-    return Object.fromEntries(
+    let meta = Object.fromEntries(
       elems.map(function (el) {
         return [el.attribs.property.replace(/^og:/, ""), el.attribs.content];
       })
     );
+    core.debug(JSON.stringify(meta, null, 2));
+    return meta;
   } catch {
-    return null;
+    return {};
   }
 };
