@@ -1,12 +1,12 @@
-const core = require("@actions/core");
-const github = require("@actions/github");
-const loadMetaData = require("./metaData.js");
-const fetch = require("node-fetch");
-const Parser = require("rss-parser");
-const fileTypeFromBuffer = require("file-type").fileTypeFromBuffer;
-const toDataURL = require("buffer-to-data-url");
-const fs = require("fs");
-const { exit } = process;
+import * as core from "@actions/core";
+import * as github from "@actions/github";
+import fetch from "node-fetch";
+import Parser from "rss-parser";
+import toDataURL from "buffer-to-data-url";
+import { fileTypeFromBuffer } from "file-type";
+import fs from "fs";
+import { exit } from "process";
+import loadMetaData from "./metaData.js";
 
 const parser = new Parser({
   customFields: {

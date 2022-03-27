@@ -1,12 +1,12 @@
-const fetch = require("node-fetch");
-const cheerio = require("cheerio");
-const core = require("@actions/core");
+import fetch from "node-fetch";
+import * as cheerio from "cheerio";
+import * as core from "@actions/core";
 
 /**
  *
  * @param {string} url
  */
-module.exports = async function loadMetaData(url) {
+export default async function loadMetaData(url) {
   try {
     let res = await fetch(url);
     core.debug("Got response from fetch");
@@ -36,4 +36,4 @@ module.exports = async function loadMetaData(url) {
     core.debug("Failed to load meta data with error: " + e);
     return {};
   }
-};
+}
