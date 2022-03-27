@@ -15,6 +15,6 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Save generated blog post images and changed readme
-          commit_username: Action CI Tester [BOT]
+          commit_user_name: Action CI Tester [BOT]
           commit_author: ErrorGamer2000 (via BOT) <errorgamer2000@outlook.com>
           skip_checkout: true
