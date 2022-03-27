@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 610 110" width="600" height="100" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <style>
+      .title {
+        font-size: 1.5em;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        white-space: nowrap;
+        margin-bottom: 5px;
+      }
+      .description {
+        font-size: 0.75em;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+      }
+      .date {
+        font-size: 0.5em;
+        opacity: 0.25;
+        text-align: end;
+        position: absolute;
+        bottom: 0;
+        right: 10px;
+      }
+      .text {
+        text-align: start;
+        padding: 5px;
+        height: calc(100% - 10px);
+        margin-left: 100px;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+        color: #000;
+      }
+      .image {
+        height: 100px;
+        width: 100px;
+        background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=");
+        background-size: cover;
+        position: absolute;
+        top: 0;
+        left: 0;
+        border-radius: 10px;
+      }
+      .main {
+        transform: translate(610px, 0px);
+        animation: slideIn 1s ease-out forwards;
+        animation-delay: 1.5s;
+      }
+      @keyframes slideIn {
+        to {
+          transform: translate(0px, 0px);
+        }
+      }
+    </style>
+    <clipPath id="clip">
+      <rect width="300" height="1.5em" />
+    </clipPath>
+  </defs>
+  <g class="main">
+    <rect class="content" width="600" height="100" fill="transparent" stroke="rgba(0, 0, 0, 0.5)" x="5" y="5" rx="10" />
+    <foreignObject width="600" height="100" x="5" y="5">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
+        <div class="image" />
+        <div class="text">
+          <div class="title">Modern eCommerce website with HTML CSS JS 2022</div>
+          <div class="description">How to make modern ecommerce website using html css javascript
+In this video, I will show you how to create (mobile-first responsive) modern ecommcerce website.
+Live Website
+Github Repo
+HI 👋
+📺 My Channel : codewithsadee
+subscribe now
+Starter file
+index.txt
+Font - Poppins
+Icon
+0:00 - Demo
+Twitter : https://twitter.com/codewithsadee
+https://github.com/codewithsadee
+codewithsadee
+https://www.buymeacoffee.com/codewithsadee
+https://www.patreon.com/codewithsadee</div>
+          <div class="date">3/4/2022</div>
+        </div>
+      </div>
+    </foreignObject>
+  </g>
+</svg>
