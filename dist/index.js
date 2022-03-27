@@ -44286,6 +44286,8 @@ async function main() {
     })](${meta.link})\n`;
   }
 
+  core.info(fs.readdirSync("./"));
+
   let readme = fs.readFileSync("./README.md", "utf8");
   readme = readme.replace(
     /<!--\s*blog-post-list-start\s*-->[\s\S]*<!--\s*blog-post-list-end\s*-->/,
