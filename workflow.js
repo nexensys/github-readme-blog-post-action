@@ -1,4 +1,3 @@
-import core from "@actions/core";
 import github from "@actions/github";
 import loadMetaData from "./metaData.js";
 import fetch from "node-fetch";
@@ -7,6 +6,9 @@ import { fileTypeFromBuffer } from "file-type";
 import bufferToDataUrl from "buffer-to-data-url";
 const toDataURL = bufferToDataUrl.default;
 import fs from "fs";
+
+const { log, error, warn } = console;
+const { exit } = process;
 
 const parser = new Parser({
   customFields: {
@@ -21,7 +23,7 @@ async function main() {
   let delay = 0;
   let metas = [];
   for (let post of feed.items) {
-    core.info(`Loading data for post: ${post.title ?? post.link}`);
+    log(`Loading data for post: ${post.title ?? post.link}`);
     let meta = await loadMetaData(post.link);
     meta = Object.assign(
       {
@@ -47,13 +49,13 @@ async function main() {
     let fileNamedark =
       meta.title.replace(/[^a-zA-Z0-9\s]/g, "").replace(/\s/g, "_") +
       "-dark.svg";
-    core.info(`Saving files: ${fileNamelight}, ${fileNamedark}`);
+    log(`Saving files: ${fileNamelight}, ${fileNamedark}`);
     fs.writeFileSync("./blog-post-list-output/" + fileNamelight, svglight);
     fs.writeFileSync("./blog-post-list-output/" + fileNamedark, svgdark);
     let repoRawURL = `https://raw.githubusercontent.com/${github.context.repo.owner}/${github.context.repo.repo}/master/blog-post-list-output/`;
     meta.imageDark = repoRawURL + fileNamedark;
     meta.imageLight = repoRawURL + fileNamelight;
-    core.info(repoRawURL);
+    log(repoRawURL);
   }
 
   let markdown = "";
@@ -72,7 +74,7 @@ async function main() {
     markdown
   );
   //todo: actualy rewrite the file
-  core.info(markdown);
+  log(markdown);
 }
 
 function generateSVG(meta, delay = 0, dark = false) {
@@ -153,19 +155,19 @@ function generateSVG(meta, delay = 0, dark = false) {
 }
 
 async function loadFeed(url) {
-  core.info(`Loading feed data for: ${url}`);
+  log(`Loading feed data for: ${url}`);
   return await parser.parseURL(url);
 }
 
 async function loadImage(meta) {
   if (!meta.image) {
-    core.warning(`No thumbnail found!`);
+    warn(`No thumbnail found!`);
     return "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=";
   } else {
-    core.info(`Loading thumbnail...`);
+    log(`Loading thumbnail...`);
     let res = await fetch(meta.image);
     let arrayBuf = await res.arrayBuffer();
-    core.info("Converting thumbnail to data url...");
+    log("Converting thumbnail to data url...");
     let buf = Buffer.from(arrayBuf);
     let type = (await fileTypeFromBuffer(buf)).mime;
     return await toDataURL(type, buf);
