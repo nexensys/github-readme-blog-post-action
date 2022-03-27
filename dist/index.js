@@ -44187,7 +44187,6 @@ async function loadMetaData(url) {
       })
     );
     lib_core.debug("Got meta from elements");
-    lib_core.debug(JSON.stringify(meta, null, 2));
     return meta;
   } catch (e) {
     lib_core.debug("Failed to load meta data with error: " + e);
@@ -44238,31 +44237,18 @@ async function main() {
     if (!external_fs_default().existsSync("blog-post-list-output")) {
       external_fs_default().mkdirSync("blog-post-list-output");
     }
-    let svglight = generateSVG(meta, delay * 0.25, false);
-    let fileNamelight =
-      meta.title.replace(/[^a-zA-Z0-9\s]/g, "").replace(/\s/g, "_") +
-      "-light.svg";
-    let svgdark = generateSVG(meta, delay++ * 0.25, true);
-    let fileNamedark =
-      meta.title.replace(/[^a-zA-Z0-9\s]/g, "").replace(/\s/g, "_") +
-      "-dark.svg";
-    lib_core.info(`Saving files: ${fileNamelight}, ${fileNamedark}`);
-    external_fs_default().writeFileSync("./blog-post-list-output/" + fileNamelight, svglight);
-    external_fs_default().writeFileSync("./blog-post-list-output/" + fileNamedark, svgdark);
+    let svg = generateSVG(meta, delay++ * 0.25);
+    let fileName =
+      meta.title.replace(/[^a-zA-Z0-9\s]/g, "").replace(/\s/g, "_") + ".svg";
+    lib_core.info(`Saving file: ${fileName}`);
+    external_fs_default().writeFileSync("./blog-post-list-output/" + fileName, svg);
     let repoRawURL = `https://raw.githubusercontent.com/${github.context.repo.owner}/${github.context.repo.repo}/master/blog-post-list-output/`;
-    meta.imageDark = repoRawURL + fileNamedark;
-    meta.imageLight = repoRawURL + fileNamelight;
-    lib_core.info(repoRawURL);
+    meta.imageURL = repoRawURL + fileName;
   }
 
   let markdown = "";
   for (let meta of metas) {
-    markdown += `[![${meta.title}](${
-      meta.imageLight + "#gh-light-mode-only"
-    })](${meta.url})\n`;
-    markdown += `[![${meta.title}](${meta.imageDark + "#gh-dark-mode-only"})](${
-      meta.url
-    })\n`;
+    markdown += `[![${meta.title}](${meta.imageURL})](${meta.url})\n`;
   }
 
   let readmeFile = external_fs_default().readdirSync(".")
@@ -44281,7 +44267,7 @@ async function main() {
   external_fs_default().writeFileSync(readmeFile, readme);
 }
 
-function generateSVG(meta, delay = 0, dark = false) {
+function generateSVG(meta, delay = 0) {
   let svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 610 110" width="600" height="100" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
     <style>
@@ -44306,7 +44292,7 @@ function generateSVG(meta, delay = 0, dark = false) {
         height: calc(100% - 10px);
         margin-left: 100px;
         font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
-        color: ${dark ? "#fff" : "#000"};
+        color: black;
       }
       .date {
         font-size: 0.5em;
@@ -44315,7 +44301,7 @@ function generateSVG(meta, delay = 0, dark = false) {
         position: absolute;
         bottom: 0;
         right: 10px;
-        color: white;
+        color: black;
       }
       .image {
         height: 100px;
@@ -44343,7 +44329,7 @@ function generateSVG(meta, delay = 0, dark = false) {
     </clipPath>
   </defs>
   <g class="main">
-    <rect class="content" width="600" height="100" fill="transparent" stroke="rgba(0, 0, 0, 0.5)" x="5" y="5" rx="10" />
+    <rect class="content" width="600" height="100" fill="transparent" stroke="rgba(0, 0, 0, 0.5)" x="5" y="5" rx="10" fill="white" />
     <foreignObject width="600" height="100" x="5" y="5">
       <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
         <div class="image" />
