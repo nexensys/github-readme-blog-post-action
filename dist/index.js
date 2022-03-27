@@ -44305,7 +44305,7 @@ async function main() {
   let readme = fs.readFileSync(readmeFile, "utf8");
   readme = readme.replace(
     /(<!--\s*blog-post-list:start\s*-->)[\s\S]*(<!--\s*blog-post-list:end\s*-->)/,
-    `$1${markdown}$2`
+    `$1\n${markdown}$2`
   );
 
   fs.writeFileSync(readmeFile, readme);
