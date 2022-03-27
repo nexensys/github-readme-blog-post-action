@@ -3,8 +3,7 @@ import loadMetaData from "./metaData.js";
 import fetch from "node-fetch";
 import Parser from "rss-parser";
 import { fileTypeFromBuffer } from "file-type";
-import bufferToDataUrl from "buffer-to-data-url";
-const toDataURL = bufferToDataUrl.default;
+import toDataURL from "buffer-to-data-url";
 import fs from "fs";
 
 const { log, error, warn } = console;

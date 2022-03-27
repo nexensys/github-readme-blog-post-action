@@ -43518,7 +43518,6 @@ var external_fs_default = /*#__PURE__*/__nccwpck_require__.n(external_fs_);
 
 
 
-const toDataURL = (buffer_to_data_url_default())["default"];
 
 
 const { log, error, warn } = console;
@@ -43684,7 +43683,7 @@ async function loadImage(meta) {
     log("Converting thumbnail to data url...");
     let buf = Buffer.from(arrayBuf);
     let type = (await fileTypeFromBuffer(buf)).mime;
-    return await toDataURL(type, buf);
+    return await buffer_to_data_url_default()(type, buf);
   }
 }
 
