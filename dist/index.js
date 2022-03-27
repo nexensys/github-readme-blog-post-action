@@ -44300,14 +44300,6 @@ function generateSVG(meta, delay = 0, dark = false) {
         -webkit-line-clamp: 3;
         -webkit-box-orient: vertical;
       }
-      .date {
-        font-size: 0.5em;
-        opacity: 0.25;
-        text-align: end;
-        position: absolute;
-        bottom: 0;
-        right: 10px;
-      }
       .text {
         text-align: start;
         padding: 5px;
@@ -44315,6 +44307,14 @@ function generateSVG(meta, delay = 0, dark = false) {
         margin-left: 100px;
         font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
         color: ${dark ? "#fff" : "#000"};
+      }
+      .date {
+        font-size: 0.5em;
+        opacity: 0.25;
+        text-align: end;
+        position: absolute;
+        bottom: 0;
+        right: 10px;
       }
       .image {
         height: 100px;
