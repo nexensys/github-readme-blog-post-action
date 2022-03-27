@@ -16,5 +16,5 @@ jobs:
         with:
           commit_message: Save generated blog post images and changed readme
           commit_username: Action CI Tester [BOT]
-          commit_author: ErrorGamer2000 (via BOT)
+          commit_author: ErrorGamer2000 (via BOT) <errorgamer2000@outlook.com>
           skip_checkout: true
