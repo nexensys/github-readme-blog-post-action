@@ -44234,15 +44234,24 @@ async function main() {
     meta.categories = post.categories || null;
     meta.image = await loadImage(meta);
     metas.push(meta);
-    if (!external_fs_default().existsSync("blog-post-list-output")) {
-      external_fs_default().mkdirSync("blog-post-list-output");
+    if (!external_fs_default().existsSync("__blog-post-list-output__")) {
+      external_fs_default().mkdirSync("__blog-post-list-output__");
+    } else {
+      external_fs_default().readdirSync("__blog-post-list-output__").forEach((file) => {
+        external_fs_default().unlinkSync(`__blog-post-list-output__/${file}`);
+      });
     }
     let svg = generateSVG(meta, delay++ * 0.25);
     let fileName =
       meta.title.replace(/[^a-zA-Z0-9\s]/g, "").replace(/\s/g, "_") + ".svg";
     lib_core.info(`Saving file: ${fileName}`);
-    external_fs_default().writeFileSync("./blog-post-list-output/" + fileName, svg);
-    let repoRawURL = `https://raw.githubusercontent.com/${github.context.repo.owner}/${github.context.repo.repo}/master/blog-post-list-output/`;
+    external_fs_default().writeFileSync("./__blog-post-list-output__/" + fileName, svg);
+    let repoRawURL = `https://raw.githubusercontent.com/${
+      github.context.repo.owner
+    }/${github.context.repo.repo}/${github.context.ref.replace(
+      /refs\/(?:tags|heads)\//,
+      ""
+    )}/__blog-post-list-output__/`;
     meta.imageURL = repoRawURL + fileName;
   }
 
