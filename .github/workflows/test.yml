@@ -12,4 +12,4 @@ jobs:
         with:
           feed_urls: ""
       - name: Log the resulting files
-        run: "node -e 'console.log(require(`fs`).readdirSync(`./blog-post-list-output`))"
+        run: "node -e 'console.log(require(`fs`).readdirSync(`./blog-post-list-output`))'"
