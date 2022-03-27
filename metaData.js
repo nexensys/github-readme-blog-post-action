@@ -33,6 +33,7 @@ module.exports = async function loadMetaData(url) {
     core.debug(JSON.stringify(meta, null, 2));
     return meta;
   } catch {
+    core.debug("Failed to load meta data");
     return {};
   }
 };

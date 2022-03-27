@@ -39,6 +39,7 @@ module.exports = async function loadMetaData(url) {
     core.debug(JSON.stringify(meta, null, 2));
     return meta;
   } catch {
+    core.debug("Failed to load meta data");
     return {};
   }
 };
@@ -44303,7 +44304,7 @@ async function main() {
 
   let readme = fs.readFileSync(readmeFile, "utf8");
   readme = readme.replace(
-    /(<!--\s*blog-post-list-start\s*-->)[\s\S]*(<!--\s*blog-post-list-end\s*-->)/,
+    /(<!--\s*blog-post-list:start\s*-->)[\s\S]*(<!--\s*blog-post-list:end\s*-->)/,
     `$1${markdown}$2`
   );
 
