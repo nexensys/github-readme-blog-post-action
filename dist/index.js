@@ -38329,7 +38329,7 @@ function main() {
         for (let url of feedList) {
             let feed = yield load(url);
             let feedFolder = sanitizePath(feed.title);
-            let rawURL = repoRawURL + feedFolder + "/";
+            let rawURL = repoRawURL + "blog-post-list-output" + feedFolder + "/";
             fs_1.default.mkdirSync(`blog-post-list-output/${feedFolder}`);
             for (let image of feed.images) {
                 fs_1.default.writeFileSync(`blog-post-list-output/${feedFolder}/${image.imageFileName}`, image.image);
