@@ -142,7 +142,7 @@ function generateSVG(meta, delay = 0) {
     </clipPath>
   </defs>
   <g class="main">
-    <rect class="content" width="600" height="100" fill="transparent" stroke="rgba(0, 0, 0, 0.5)" x="5" y="5" rx="10" fill="white" />
+    <rect class="content" width="600" height="100" fill="white" stroke="rgba(0, 0, 0, 0.5)" x="5" y="5" rx="10" />
     <foreignObject width="600" height="100" x="5" y="5">
       <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
         <div class="image" />
