@@ -17,35 +17,64 @@ const parser = new Parser({
   }
 });
 
-const locale = core.getInput("locale");
+/* --------------------------------- Options -------------------------------- */
+
+const feedURLS = parseAndValidate<string>(
+  "feed_urls",
+  (value) => typeof value === "string"
+);
 
 const maxItems = parseAndValidate<number>(
   "max_posts_per_url",
-  function (value) {
-    return !(isNaN(value) || value < 0 || value === Infinity);
-  }
-);
-
-const showFeedData = parseAndValidate<boolean>(
-  "show_feed_data",
-  function (value) {
-    return typeof value === "boolean";
-  }
-);
-
-const showLastUpdatedDate = parseAndValidate<boolean>(
-  "show_last_updated_date",
-  function (value) {
-    return typeof value === "boolean";
-  }
+  (value) => !(isNaN(value) || value < 0 || value === Infinity)
 );
 
 const positionIndicator = parseAndValidate<string>(
   "position_indicator",
-  function (value: any) {
-    return typeof value === "string";
-  }
+  (value) => typeof value === "string"
 );
+
+const showFeedData = parseAndValidate<boolean>(
+  "show_feed_data",
+  (value) => typeof value === "boolean"
+);
+
+const showFeedTitle = parseAndValidate<boolean>(
+  "show_feed_title",
+  (value) => typeof value === "boolean"
+);
+
+const showFeedDescription = parseAndValidate<boolean>(
+  "show_feed_description",
+  (value) => typeof value === "boolean"
+);
+
+const showReadMore = parseAndValidate<boolean>(
+  "show_read_more",
+  (value) => typeof value === "boolean"
+);
+
+const showPostCount = parseAndValidate<boolean>(
+  "show_post_count",
+  (value) => typeof value === "boolean"
+);
+
+const showLastUpdatedDate = parseAndValidate<boolean>(
+  "show_last_updated_date",
+  (value) => typeof value === "boolean"
+);
+
+const showPostDate = parseAndValidate<boolean>(
+  "show_post_date",
+  (value) => typeof value === "boolean"
+);
+
+const locale = parseAndValidate<string>(
+  "locale",
+  (value) => typeof value === "string"
+);
+
+/* --------------------------------- Process -------------------------------- */
 
 async function main() {
   let repoRawURL = `https://raw.githubusercontent.com/${
@@ -61,10 +90,10 @@ async function main() {
       fs.unlinkSync(`blog-post-list-output/${file}`);
     });
   }
-  let feedURLS = core.getInput("feed_urls").split(",");
+  let feedList = feedURLS.split(",");
 
   let markdown = "";
-  for (let url of feedURLS) {
+  for (let url of feedList) {
     let feed = await load(url);
     let feedFolder = sanitizePath(feed.title);
     let rawURL = repoRawURL + feedFolder + "/";
@@ -96,6 +125,8 @@ async function main() {
   fs.writeFileSync(readmeFile, readme);
 }
 
+/* -------------------------------- Funtions -------------------------------- */
+
 function generateSVG(data: Required<MetaData>, delay = 0) {
   let svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 610 110" width="600" height="100" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
@@ -123,7 +154,9 @@ function generateSVG(data: Required<MetaData>, delay = 0) {
         font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
         color: black;
       }
-      .date {
+      ${
+        showPostDate
+          ? `     .date {
         font-size: 0.5em;
         opacity: 0.5;
         text-align: end;
@@ -131,6 +164,8 @@ function generateSVG(data: Required<MetaData>, delay = 0) {
         bottom: 0;
         right: 10px;
         color: black;
+      }`
+          : ""
       }
       .image {
         height: 100px;
@@ -167,7 +202,11 @@ function generateSVG(data: Required<MetaData>, delay = 0) {
         <div class="text">
           <div class="title">${data.title}</div>
           <div class="description">${data.description}</div>
-          <div class="date">${formatDate(data.date)}</div>
+          ${
+            showPostDate
+              ? `<div class="date">${formatDate(data.date)}</div>`
+              : ""
+          }
         </div>
       </div>
     </foreignObject>
@@ -178,10 +217,10 @@ function generateSVG(data: Required<MetaData>, delay = 0) {
 
 async function load(url: string): Promise<FeedData> {
   let feed = await loadFeed(url);
-  feed.items.splice(maxItems);
+  let items = feed.items.slice(0, maxItems);
   let delay = 0;
   let images: Img[] = [];
-  for (let post of feed.items) {
+  for (let post of items) {
     core.info(`Loading data for post: ${post.title ?? post.link}`);
     let meta = await loadMetaData(post.link as string);
     let data: Required<MetaData> = Object.assign(
@@ -211,18 +250,22 @@ async function load(url: string): Promise<FeedData> {
     title: feed.title || "",
     description: feed.description || "",
     url: feed.link || "",
-    updated: new Date()
+    updated: new Date(),
+    postCount: feed.items.length
   };
 }
 
-//todo: use inputs
 function generateFeedMarkdown(feed: FeedData, rawURL: string): string {
   let md = "";
-  md += `##  ${feed.title}\n\n`;
-  md += `${feed.description}\n\n`;
-  md += `[Read more](${feed.url})\n\n`;
-  md += `###  Last updated: ${formatDate(feed.updated)}\n\n`;
-  md += `###  ${feed.images.length} posts\n\n`;
+  if (showFeedData) {
+    if (showFeedTitle) md += `## ${feed.title}\n\n`;
+    if (showFeedDescription) md += `${feed.description}\n\n`;
+    if (showReadMore) md += `[Read more](${feed.url})\n\n`;
+    if (showLastUpdatedDate)
+      md += `#### Last updated: ${formatDate(feed.updated)}\n\n`;
+    if (showPostCount)
+      md += `#### Showing ${feed.images.length} of ${feed.postCount} posts.\n\n`;
+  }
   for (let image of feed.images) {
     md += `[![${image.title}](${rawURL + image.imageFileName})](${
       image.link
@@ -285,11 +328,18 @@ function escapeMarkdown(str: string): string {
     .replace(/\'/g, "\\'");
 }
 
-function formatDate(date: Date): string {
-  return new Intl.DateTimeFormat([locale, "en"], {
-    dateStyle: "full",
-    timeStyle: "long"
-  }).format(date);
+function formatDate(date: Date, time: boolean = false): string {
+  return new Intl.DateTimeFormat(
+    [locale, "en"],
+    time
+      ? {
+          dateStyle: "full",
+          timeStyle: "long"
+        }
+      : {
+          dateStyle: "short"
+        }
+  ).format(date);
 }
 
 function parseAndValidate<T>(

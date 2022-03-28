@@ -4,6 +4,7 @@ export interface FeedData {
   url: string;
   updated: Date;
   images: Img[];
+  postCount: number;
 }
 
 export interface Img {

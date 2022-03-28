@@ -14,11 +14,27 @@ inputs:
     required: false
     default: "blog-post-list"
   show_feed_data:
-    description: "Show the Title, description, and link of the feed on the readme."
+    description: "Show the title, description, and link of the feed on the readme."
+    required: false
+    default: "true"
+  show_feed_title:
+    description: "Show the title of the feed on the readme."
+    required: false
+    default: "true"
+  show_feed_description:
+    description: "Show the description of the feed on the readme."
+    required: false
+    default: "true"
+  show_read_more:
+    description: "Show the 'Read More' link to the feed on the readme."
     required: false
     default: "true"
   show_last_updated_date:
     description: "Show the date that the post list was last updated on the readme."
+    required: false
+    default: "true"
+  show_post_count:
+    description: "Show the number of posts displayed on the readme."
     required: false
     default: "true"
   show_post_date:
