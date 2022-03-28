@@ -96,7 +96,7 @@ async function main() {
   for (let url of feedList) {
     let feed = await load(url);
     let feedFolder = sanitizePath(feed.title);
-    let rawURL = repoRawURL + "blog-post-list-output" + feedFolder + "/";
+    let rawURL = repoRawURL + "blog-post-list-output/" + feedFolder + "/";
     fs.mkdirSync(`blog-post-list-output/${feedFolder}`);
     for (let image of feed.images) {
       fs.writeFileSync(
