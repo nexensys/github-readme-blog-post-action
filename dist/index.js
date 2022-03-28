@@ -38486,6 +38486,8 @@ function generateFeedMarkdown(feed, rawURL) {
             md += `#### Showing ${feed.images.length} of ${feed.postCount} posts.\n\n`;
     }
     for (let image of feed.images) {
+        core.debug("Raw URL: " + rawURL);
+        core.debug("Image File Name: " + image.imageFileName);
         md += `[![${image.title}](${rawURL + image.imageFileName})](${image.link})\n\n`;
     }
     return md;
