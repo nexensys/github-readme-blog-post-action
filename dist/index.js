@@ -38481,9 +38481,9 @@ function generateFeedMarkdown(feed, rawURL) {
         if (showReadMore)
             md += `[Read more](${feed.url})\n`;
         if (showLastUpdatedDate)
-            md += `#### Last updated: ${formatDate(feed.updated)}\n`;
+            md += `> Last updated: ${formatDate(feed.updated)}\n`;
         if (showPostCount)
-            md += `#### Showing ${feed.images.length} of ${feed.postCount} posts.\n`;
+            md += `> Showing ${feed.images.length} of ${feed.postCount} posts.\n`;
     }
     for (let image of feed.images) {
         core.debug("Raw URL: " + rawURL);
