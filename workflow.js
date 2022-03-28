@@ -21,11 +21,11 @@ async function main() {
   feed.items.splice(maxItems);
   let delay = 0;
   let metas = [];
-  if (!fs.existsSync("__blog-post-list-output__")) {
-    fs.mkdirSync("__blog-post-list-output__");
+  if (!fs.existsSync("blog-post-list-output")) {
+    fs.mkdirSync("blog-post-list-output");
   } else {
-    fs.readdirSync("__blog-post-list-output__").forEach((file) => {
-      fs.unlinkSync(`__blog-post-list-output__/${file}`);
+    fs.readdirSync("blog-post-list-output").forEach((file) => {
+      fs.unlinkSync(`blog-post-list-output/${file}`);
     });
   }
   for (let post of feed.items) {
@@ -48,13 +48,13 @@ async function main() {
     let fileName =
       meta.title.replace(/[^a-zA-Z0-9\s]/g, "").replace(/\s/g, "_") + ".svg";
     core.info(`Saving file: ${fileName}`);
-    fs.writeFileSync("./__blog-post-list-output__/" + fileName, svg);
+    fs.writeFileSync("./blog-post-list-output/" + fileName, svg);
     let repoRawURL = `https://raw.githubusercontent.com/${
       github.context.repo.owner
     }/${github.context.repo.repo}/${github.context.ref.replace(
       /refs\/(?:tags|heads)\//,
       ""
-    )}/__blog-post-list-output__/`;
+    )}/blog-post-list-output/`;
     meta.imageURL = repoRawURL + fileName;
   }
 
