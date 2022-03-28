@@ -120,7 +120,7 @@ async function main() {
     `(<!(-{2})\\s*${positionIndicator}:start\\s*\\2>)[\\s\\S]*(<!(-{2})\\s*${positionIndicator}:end\\s*\\4>)`
   );
 
-  readme = readme.replace(regex, `$1\n${markdown}$2`);
+  readme = readme.replace(regex, `$1\n${markdown}$3`);
 
   fs.writeFileSync(readmeFile, readme);
 }
