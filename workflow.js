@@ -109,7 +109,7 @@ function generateSVG(meta, delay = 0) {
       }
       .date {
         font-size: 0.5em;
-        opacity: 0.25;
+        opacity: 0.5;
         text-align: end;
         position: absolute;
         bottom: 0;
