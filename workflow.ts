@@ -1,40 +1,48 @@
 import * as core from "@actions/core";
 import * as github from "@actions/github";
 import fetch from "node-fetch";
-import Parser from "rss-parser";
+import Parser, { Output } from "rss-parser";
 import toDataURL from "buffer-to-data-url";
-import { fileTypeFromBuffer } from "file-type";
+import { fileTypeFromBuffer, FileTypeResult } from "file-type";
 import fs from "fs";
 import { exit } from "process";
 import loadMetaData from "./metaData.js";
 import path from "path";
 
+import { FeedData, Img, MetaData } from "./types";
+
 const parser = new Parser({
   customFields: {
-    items: ["dc:creator", "creator"]
+    item: ["dc:creator", "creator"]
   }
 });
 
 const locale = core.getInput("locale");
 
-const maxItems = parseAndValidate("max_posts_per_url", function (value) {
-  return !(isNaN(value) || value < 0 || v === Infinity);
-});
+const maxItems = parseAndValidate<number>(
+  "max_posts_per_url",
+  function (value) {
+    return !(isNaN(value) || value < 0 || value === Infinity);
+  }
+);
 
-const showFeedData = parseAndValidate("show_feed_data", function (value) {
-  return typeof value === "boolean";
-});
+const showFeedData = parseAndValidate<boolean>(
+  "show_feed_data",
+  function (value) {
+    return typeof value === "boolean";
+  }
+);
 
-const showLastUpdatedDate = parseAndValidate(
+const showLastUpdatedDate = parseAndValidate<boolean>(
   "show_last_updated_date",
   function (value) {
     return typeof value === "boolean";
   }
 );
 
-const positionIndicator = parseAndValidate(
+const positionIndicator = parseAndValidate<string>(
   "position_indicator",
-  function (value) {
+  function (value: any) {
     return typeof value === "string";
   }
 );
@@ -69,9 +77,6 @@ async function main() {
     }
     markdown += generateFeedMarkdown(feed, rawURL) + "\n\n";
   }
-  for (let meta of metas) {
-    markdown += `[![${meta.title}](${meta.imageURL})](${meta.url})\n`;
-  }
 
   let readmeFile = fs
     .readdirSync(".")
@@ -91,7 +96,7 @@ async function main() {
   fs.writeFileSync(readmeFile, readme);
 }
 
-function generateSVG(meta, delay = 0) {
+function generateSVG(data: Required<MetaData>, delay = 0) {
   let svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 610 110" width="600" height="100" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
     <style>
@@ -130,7 +135,7 @@ function generateSVG(meta, delay = 0) {
       .image {
         height: 100px;
         width: 100px;
-        background-image: url("${meta.image}");
+        background-image: url("${data.image}");
         background-size: cover;
         position: absolute;
         top: 0;
@@ -160,9 +165,9 @@ function generateSVG(meta, delay = 0) {
       <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
         <div class="image" />
         <div class="text">
-          <div class="title">${meta.title}</div>
-          <div class="description">${meta.description}</div>
-          <div class="date">${formatDate(meta.date)}</div>
+          <div class="title">${data.title}</div>
+          <div class="description">${data.description}</div>
+          <div class="date">${formatDate(data.date)}</div>
         </div>
       </div>
     </foreignObject>
@@ -171,48 +176,47 @@ function generateSVG(meta, delay = 0) {
   return svg;
 }
 
-async function load(url) {
+async function load(url: string): Promise<FeedData> {
   let feed = await loadFeed(url);
   feed.items.splice(maxItems);
   let delay = 0;
-  let images = [];
+  let images: Img[] = [];
   for (let post of feed.items) {
     core.info(`Loading data for post: ${post.title ?? post.link}`);
-    let meta = await loadMetaData(post.link);
-    meta = Object.assign(
+    let meta = await loadMetaData(post.link as string);
+    let data: Required<MetaData> = Object.assign(
       {
         url: post.link,
         title: post.title,
         description: post.contentSnippet,
         image: null,
-        date: new Date(post.isoDate)
+        date: new Date(post.isoDate as string)
       },
       meta
-    );
-    meta.categories = post.categories || null; //todo: actually use the categories
+    ) as Required<MetaData>;
     core.info("Generating post card...");
-    meta.image = await loadImage(meta);
-    let svg = generateSVG(meta, delay++ * 0.25);
-    let fileName = sanitizePath(meta.title) + ".svg";
+    data.image = await loadImage(data);
+    let svg = generateSVG(data, delay++ * 0.25);
+    let fileName = sanitizePath(data.title) + ".svg";
     images.push({
       image: svg,
-      link: meta.url,
-      title: meta.title,
+      link: data.url,
+      title: data.title,
       imageFileName: fileName
     });
   }
 
   return {
     images,
-    title: feed.title,
-    description: feed.description,
-    url: feed.link,
+    title: feed.title || "",
+    description: feed.description || "",
+    url: feed.link || "",
     updated: new Date()
   };
 }
 
 //todo: use inputs
-function generateFeedMarkdown(feed, rawURL) {
+function generateFeedMarkdown(feed: FeedData, rawURL: string): string {
   let md = "";
   md += `##  ${feed.title}\n\n`;
   md += `${feed.description}\n\n`;
@@ -227,12 +231,12 @@ function generateFeedMarkdown(feed, rawURL) {
   return md;
 }
 
-async function loadFeed(url) {
+async function loadFeed(url: string): Promise<Output<{}>> {
   core.info(`Loading feed data for: ${url}`);
   return await parser.parseURL(url);
 }
 
-async function loadImage(meta) {
+async function loadImage(meta: Required<MetaData>) {
   if (!meta.image) {
     core.warning(`No thumbnail found!`);
     return "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=";
@@ -242,12 +246,12 @@ async function loadImage(meta) {
     let arrayBuf = await res.arrayBuffer();
     core.info("Converting thumbnail to data url...");
     let buf = Buffer.from(arrayBuf);
-    let type = (await fileTypeFromBuffer(buf)).mime;
+    let type = ((await fileTypeFromBuffer(buf)) as FileTypeResult).mime;
     return await toDataURL(type, buf);
   }
 }
 
-function sanitizePath(p, removeSpaces = true) {
+function sanitizePath(p: string, removeSpaces = true) {
   return path.normalize(
     removeSpaces
       ? p.replace(/[/\\?%*:|"<>,]/g, "_")
@@ -255,7 +259,7 @@ function sanitizePath(p, removeSpaces = true) {
   );
 }
 
-function escapeMarkdown(str) {
+function escapeMarkdown(str: string): string {
   return str
     .replace(/\\/g, "\\\\")
     .replace(/\*/g, "\\*")
@@ -281,17 +285,25 @@ function escapeMarkdown(str) {
     .replace(/\'/g, "\\'");
 }
 
-function formatDate(date) {
+function formatDate(date: Date): string {
   return new Intl.DateTimeFormat([locale, "en"], {
     dateStyle: "full",
     timeStyle: "long"
   }).format(date);
 }
 
-function parseAndValidate(input, validateFn) {
+function parseAndValidate<T>(
+  input: string,
+  validateFn: (value: T) => boolean
+): T {
   let i = core.getInput(input);
+  let parsed;
   try {
-    let parsed = JSON.parse(i);
+    parsed = JSON.parse(i);
+  } catch {
+    parsed = i;
+  }
+  try {
     if (!validateFn(parsed)) {
       throw new Error("Invalid input");
     }

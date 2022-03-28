@@ -1,12 +1,13 @@
 import fetch from "node-fetch";
 import * as cheerio from "cheerio";
 import * as core from "@actions/core";
+import { MetaData } from "./types";
 
 /**
  *
  * @param {string} url
  */
-export default async function loadMetaData(url) {
+export default async function loadMetaData(url: string): Promise<MetaData> {
   try {
     let res = await fetch(url);
     core.debug("Got response from fetch");

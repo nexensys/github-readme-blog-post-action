@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "npx ncc build workflow.js -o dist"
+    "build": "npx ncc build workflow.ts -o dist"
   },
   "repository": {
     "type": "git",
@@ -29,6 +29,7 @@
     "rss-parser": "^3.12.0"
   },
   "devDependencies": {
+    "@types/node": "^17.0.23",
     "@vercel/ncc": "^0.33.3"
   }
 }
