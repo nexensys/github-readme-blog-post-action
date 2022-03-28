@@ -38321,7 +38321,7 @@ function main() {
         }
         else {
             fs_1.default.readdirSync("blog-post-list-output").forEach((file) => {
-                fs_1.default.unlinkSync(`blog-post-list-output/${file}`);
+                fs_1.default.rmSync(`blog-post-list-output/${file}`, { recursive: true });
             });
         }
         let feedList = feedURLS.split(",");
