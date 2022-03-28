@@ -38345,7 +38345,7 @@ function main() {
         }
         let readme = fs_1.default.readFileSync(readmeFile, "utf8");
         let regex = new RegExp(`(<!(-{2})\\s*${positionIndicator}:start\\s*\\2>)[\\s\\S]*(<!(-{2})\\s*${positionIndicator}:end\\s*\\4>)`);
-        readme = readme.replace(regex, `$1\n${markdown}$2`);
+        readme = readme.replace(regex, `$1\n${markdown}$3`);
         fs_1.default.writeFileSync(readmeFile, readme);
     });
 }
@@ -38513,10 +38513,8 @@ function loadImage(meta) {
         }
     });
 }
-function sanitizePath(p, removeSpaces = true) {
-    return path_1.default.normalize(removeSpaces
-        ? p.replace(/[/\\?%*:|"<>,]/g, "_")
-        : p.replace(/[/\\?%*:|"<>,\s]/g, "_"));
+function sanitizePath(p) {
+    return path_1.default.normalize(p.replace(/[/\\?%*:|"<>,\s]/g, "_"));
 }
 function escapeMarkdown(str) {
     return str
