@@ -6,13 +6,29 @@ inputs:
     required: true
     default: ""
   max_posts_per_url:
-    description: "The maximum number of posts that should be displayed"
+    description: "The maximum number of posts that should be displayed."
     required: false
     default: "5"
   position_indicator:
-    description: "The text that the action uses to determine where to inject the post list. The action will look for two comments in the format <!-- ${position_indicator}:start --> and <!-- ${position_indicator}:end -->"
+    description: "The text that the action uses to determine where to inject the post list. The action will look for two comments in the format <!-- ${position_indicator}:start --> and <!-- ${position_indicator}:end -->. Can me used to set up this action differently for multiple feeds."
     required: false
     default: "blog-post-list"
+  show_feed_data:
+    description: "Show the Title, description, and link of the feed on the readme."
+    required: false
+    default: "true"
+  show_last_updated_date:
+    description: "Show the date that the post list was last updated on the readme."
+    required: false
+    default: "true"
+  show_post_date:
+    description: "Show the date of the post on the card."
+    required: false
+    default: "true"
+  locale:
+    description: "The locale that the action uses. Currently only used to format dates."
+    required: false
+    default: "en"
 runs:
   using: "node16"
   main: "dist/index.js"

@@ -7,20 +7,45 @@ import { fileTypeFromBuffer } from "file-type";
 import fs from "fs";
 import { exit } from "process";
 import loadMetaData from "./metaData.js";
+import path from "path";
 
 const parser = new Parser({
   customFields: {
     items: ["dc:creator", "creator"]
   }
 });
-const maxItems = 5;
+
+const locale = core.getInput("locale");
+
+const maxItems = parseAndValidate("max_posts_per_url", function (value) {
+  return !(isNaN(value) || value < 0 || v === Infinity);
+});
+
+const showFeedData = parseAndValidate("show_feed_data", function (value) {
+  return typeof value === "boolean";
+});
+
+const showLastUpdatedDate = parseAndValidate(
+  "show_last_updated_date",
+  function (value) {
+    return typeof value === "boolean";
+  }
+);
+
+const positionIndicator = parseAndValidate(
+  "position_indicator",
+  function (value) {
+    return typeof value === "string";
+  }
+);
 
 async function main() {
-  //todo: use feed input list
-  let feed = await loadFeed("https://dev.to/feed/codewithsadee");
-  feed.items.splice(maxItems);
-  let delay = 0;
-  let metas = [];
+  let repoRawURL = `https://raw.githubusercontent.com/${
+    github.context.repo.owner
+  }/${github.context.repo.repo}/${github.context.ref.replace(
+    /refs\/(?:tags|heads)\//,
+    ""
+  )}/`;
   if (!fs.existsSync("blog-post-list-output")) {
     fs.mkdirSync("blog-post-list-output");
   } else {
@@ -28,37 +53,22 @@ async function main() {
       fs.unlinkSync(`blog-post-list-output/${file}`);
     });
   }
-  for (let post of feed.items) {
-    core.info(`Loading data for post: ${post.title ?? post.link}`);
-    let meta = await loadMetaData(post.link);
-    meta = Object.assign(
-      {
-        url: post.link,
-        title: post.title,
-        description: post.contentSnippet,
-        image: null,
-        date: new Date(post.isoDate)
-      },
-      meta
-    );
-    meta.categories = post.categories || null;
-    meta.image = await loadImage(meta);
-    metas.push(meta);
-    let svg = generateSVG(meta, delay++ * 0.25);
-    let fileName =
-      meta.title.replace(/[^a-zA-Z0-9\s]/g, "").replace(/\s/g, "_") + ".svg";
-    core.info(`Saving file: ${fileName}`);
-    fs.writeFileSync("./blog-post-list-output/" + fileName, svg);
-    let repoRawURL = `https://raw.githubusercontent.com/${
-      github.context.repo.owner
-    }/${github.context.repo.repo}/${github.context.ref.replace(
-      /refs\/(?:tags|heads)\//,
-      ""
-    )}/blog-post-list-output/`;
-    meta.imageURL = repoRawURL + fileName;
-  }
+  let feedURLS = core.getInput("feed_urls").split(",");
 
   let markdown = "";
+  for (let url of feedURLS) {
+    let feed = await load(url);
+    let feedFolder = sanitizePath(feed.title);
+    let rawURL = repoRawURL + feedFolder + "/";
+    fs.mkdirSync(`blog-post-list-output/${feedFolder}`);
+    for (let image of feed.images) {
+      fs.writeFileSync(
+        `blog-post-list-output/${feedFolder}/${image.imageFileName}`,
+        image.image
+      );
+    }
+    markdown += generateFeedMarkdown(feed, rawURL) + "\n\n";
+  }
   for (let meta of metas) {
     markdown += `[![${meta.title}](${meta.imageURL})](${meta.url})\n`;
   }
@@ -67,15 +77,16 @@ async function main() {
     .readdirSync(".")
     .find((file) => file.toLowerCase() === "readme.md");
   if (!readmeFile) {
-    core.error("No readme.md file found in the root directory");
+    core.setFailed("No readme.md file found in the root directory");
     exit(1);
   }
 
   let readme = fs.readFileSync(readmeFile, "utf8");
-  readme = readme.replace(
-    /(<!--\s*blog-post-list:start\s*-->)[\s\S]*(<!--\s*blog-post-list:end\s*-->)/,
-    `$1\n${markdown}$2`
+  let regex = new RegExp(
+    `(<!(-{2})\\s*${positionIndicator}:start\\s*\\2>)[\\s\\S]*(<!(-{2})\\s*${positionIndicator}:end\\s*\\4>)`
   );
+
+  readme = readme.replace(regex, `$1\n${markdown}$2`);
 
   fs.writeFileSync(readmeFile, readme);
 }
@@ -151,13 +162,69 @@ function generateSVG(meta, delay = 0) {
         <div class="text">
           <div class="title">${meta.title}</div>
           <div class="description">${meta.description}</div>
-          <div class="date">${meta.date.toLocaleDateString()}</div>
+          <div class="date">${formatDate(meta.date)}</div>
         </div>
       </div>
     </foreignObject>
   </g>
 </svg>`;
   return svg;
+}
+
+async function load(url) {
+  let feed = await loadFeed(url);
+  feed.items.splice(maxItems);
+  let delay = 0;
+  let images = [];
+  for (let post of feed.items) {
+    core.info(`Loading data for post: ${post.title ?? post.link}`);
+    let meta = await loadMetaData(post.link);
+    meta = Object.assign(
+      {
+        url: post.link,
+        title: post.title,
+        description: post.contentSnippet,
+        image: null,
+        date: new Date(post.isoDate)
+      },
+      meta
+    );
+    meta.categories = post.categories || null; //todo: actually use the categories
+    core.info("Generating post card...");
+    meta.image = await loadImage(meta);
+    let svg = generateSVG(meta, delay++ * 0.25);
+    let fileName = sanitizePath(meta.title) + ".svg";
+    images.push({
+      image: svg,
+      link: meta.url,
+      title: meta.title,
+      imageFileName: fileName
+    });
+  }
+
+  return {
+    images,
+    title: feed.title,
+    description: feed.description,
+    url: feed.link,
+    updated: new Date()
+  };
+}
+
+//todo: use inputs
+function generateFeedMarkdown(feed, rawURL) {
+  let md = "";
+  md += `##  ${feed.title}\n\n`;
+  md += `${feed.description}\n\n`;
+  md += `[Read more](${feed.url})\n\n`;
+  md += `###  Last updated: ${formatDate(feed.updated)}\n\n`;
+  md += `###  ${feed.images.length} posts\n\n`;
+  for (let image of feed.images) {
+    md += `[![${image.title}](${rawURL + image.imageFileName})](${
+      image.link
+    })\n\n`;
+  }
+  return md;
 }
 
 async function loadFeed(url) {
@@ -177,6 +244,61 @@ async function loadImage(meta) {
     let buf = Buffer.from(arrayBuf);
     let type = (await fileTypeFromBuffer(buf)).mime;
     return await toDataURL(type, buf);
+  }
+}
+
+function sanitizePath(p, removeSpaces = true) {
+  return path.normalize(
+    removeSpaces
+      ? p.replace(/[/\\?%*:|"<>,]/g, "_")
+      : p.replace(/[/\\?%*:|"<>,\s]/g, "_")
+  );
+}
+
+function escapeMarkdown(str) {
+  return str
+    .replace(/\\/g, "\\\\")
+    .replace(/\*/g, "\\*")
+    .replace(/_/g, "\\_")
+    .replace(/\[/g, "\\[")
+    .replace(/\]/g, "\\]")
+    .replace(/\(/g, "\\(")
+    .replace(/\)/g, "\\)")
+    .replace(/\{/g, "\\{")
+    .replace(/\}/g, "\\}")
+    .replace(/\^/g, "\\^")
+    .replace(/\+/g, "\\+")
+    .replace(/\-/g, "\\-")
+    .replace(/\|/g, "\\|")
+    .replace(/\</g, "\\<")
+    .replace(/\>/g, "\\>")
+    .replace(/\!/g, "\\!")
+    .replace(/\?/g, "\\?")
+    .replace(/\$/g, "\\$")
+    .replace(/\:/g, "\\:")
+    .replace(/\;/g, "\\;")
+    .replace(/\"/g, '\\"')
+    .replace(/\'/g, "\\'");
+}
+
+function formatDate(date) {
+  return new Intl.DateTimeFormat([locale, "en"], {
+    dateStyle: "full",
+    timeStyle: "long"
+  }).format(date);
+}
+
+function parseAndValidate(input, validateFn) {
+  let i = core.getInput(input);
+  try {
+    let parsed = JSON.parse(i);
+    if (!validateFn(parsed)) {
+      throw new Error("Invalid input");
+    }
+    return parsed;
+  } catch (e) {
+    core.setFailed(`Invalid input ${input}: ${e}`);
+    exit(1);
   }
 }
 
