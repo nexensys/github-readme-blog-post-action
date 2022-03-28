@@ -12,8 +12,8 @@ Recent Blogs:
 The latest articles on DEV Community by Sadee (@codewithsadee).
 
 [Read more](https://dev.to/codewithsadee)
-#### Last updated: 3/28/22
-#### Showing 5 of 12 posts.
+> Last updated: 3/28/22
+> Showing 5 of 12 posts.
 [![How to build NFT Marketplace website using HTML CSS JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community__Sadee/How_to_build_NFT_Marketplace_website_using_HTML_CSS_JS.svg)](https://dev.to/codewithsadee/how-to-build-nft-marketplace-website-using-html-css-js-kh7)
 [![How to build Audio stream app landing page using HTML CSS JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community__Sadee/How_to_build_Audio_stream_app_landing_page_using_HTML_CSS_JS.svg)](https://dev.to/codewithsadee/how-to-build-audio-stream-app-landing-page-using-html-css-js-1960)
 [![How to build personal portfolio using HTML CSS JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community__Sadee/How_to_build_personal_portfolio_using_HTML_CSS_JavaScript.svg)](https://dev.to/codewithsadee/how-to-build-personal-portfolio-using-html-css-javascript-37e2)
