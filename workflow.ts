@@ -294,12 +294,8 @@ async function loadImage(meta: Required<MetaData>) {
   }
 }
 
-function sanitizePath(p: string, removeSpaces = true) {
-  return path.normalize(
-    removeSpaces
-      ? p.replace(/[/\\?%*:|"<>,]/g, "_")
-      : p.replace(/[/\\?%*:|"<>,\s]/g, "_")
-  );
+function sanitizePath(p: string) {
+  return path.normalize(p.replace(/[/\\?%*:|"<>,\s]/g, "_"));
 }
 
 function escapeMarkdown(str: string): string {
