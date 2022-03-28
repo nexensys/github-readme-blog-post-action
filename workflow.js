@@ -125,6 +125,7 @@ function generateSVG(meta, delay = 0) {
         top: 0;
         left: 0;
         border-radius: 10px;
+        background-position: center;
       }
       .main {
         transform: translate(610px, 0px);
