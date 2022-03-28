@@ -44218,11 +44218,11 @@ async function main() {
   feed.items.splice(maxItems);
   let delay = 0;
   let metas = [];
-  if (!external_fs_default().existsSync("__blog-post-list-output__")) {
-    external_fs_default().mkdirSync("__blog-post-list-output__");
+  if (!external_fs_default().existsSync("blog-post-list-output")) {
+    external_fs_default().mkdirSync("blog-post-list-output");
   } else {
-    external_fs_default().readdirSync("__blog-post-list-output__").forEach((file) => {
-      external_fs_default().unlinkSync(`__blog-post-list-output__/${file}`);
+    external_fs_default().readdirSync("blog-post-list-output").forEach((file) => {
+      external_fs_default().unlinkSync(`blog-post-list-output/${file}`);
     });
   }
   for (let post of feed.items) {
@@ -44245,13 +44245,13 @@ async function main() {
     let fileName =
       meta.title.replace(/[^a-zA-Z0-9\s]/g, "").replace(/\s/g, "_") + ".svg";
     lib_core.info(`Saving file: ${fileName}`);
-    external_fs_default().writeFileSync("./__blog-post-list-output__/" + fileName, svg);
+    external_fs_default().writeFileSync("./blog-post-list-output/" + fileName, svg);
     let repoRawURL = `https://raw.githubusercontent.com/${
       github.context.repo.owner
     }/${github.context.repo.repo}/${github.context.ref.replace(
       /refs\/(?:tags|heads)\//,
       ""
-    )}/__blog-post-list-output__/`;
+    )}/blog-post-list-output/`;
     meta.imageURL = repoRawURL + fileName;
   }
 
