@@ -87,7 +87,7 @@ async function main() {
     fs.mkdirSync("blog-post-list-output");
   } else {
     fs.readdirSync("blog-post-list-output").forEach((file) => {
-      fs.unlinkSync(`blog-post-list-output/${file}`);
+      fs.rmSync(`blog-post-list-output/${file}`, { recursive: true });
     });
   }
   let feedList = feedURLS.split(",");
