@@ -10,7 +10,7 @@ jobs:
       - name: Test
         uses: ./
         with:
-          feed_urls: ""
+          feed_urls: "https://dev.to/feed/codewithsadee"
       - name: Commit changed files
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
