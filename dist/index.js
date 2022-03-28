@@ -44218,6 +44218,13 @@ async function main() {
   feed.items.splice(maxItems);
   let delay = 0;
   let metas = [];
+  if (!external_fs_default().existsSync("__blog-post-list-output__")) {
+    external_fs_default().mkdirSync("__blog-post-list-output__");
+  } else {
+    external_fs_default().readdirSync("__blog-post-list-output__").forEach((file) => {
+      external_fs_default().unlinkSync(`__blog-post-list-output__/${file}`);
+    });
+  }
   for (let post of feed.items) {
     lib_core.info(`Loading data for post: ${post.title ?? post.link}`);
     let meta = await loadMetaData(post.link);
@@ -44234,13 +44241,6 @@ async function main() {
     meta.categories = post.categories || null;
     meta.image = await loadImage(meta);
     metas.push(meta);
-    if (!external_fs_default().existsSync("__blog-post-list-output__")) {
-      external_fs_default().mkdirSync("__blog-post-list-output__");
-    } else {
-      external_fs_default().readdirSync("__blog-post-list-output__").forEach((file) => {
-        external_fs_default().unlinkSync(`__blog-post-list-output__/${file}`);
-      });
-    }
     let svg = generateSVG(meta, delay++ * 0.25);
     let fileName =
       meta.title.replace(/[^a-zA-Z0-9\s]/g, "").replace(/\s/g, "_") + ".svg";
