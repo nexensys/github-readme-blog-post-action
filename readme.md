@@ -7,6 +7,22 @@ Example:
 Recent Blogs:
 
 <!-- blog-post-list:start -->
+## reddit: the front page of the internet
+
+
+
+[Read more](https://www.reddit.com/)
+> Last updated: 3/28/22
+
+> Showing 5 of 25 posts.
+
+[![r/news - Chris Rock isn't pressing charges against Will Smith for Oscars slap](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/reddit__the_front_page_of_the_internet/r_news_-_Chris_Rock_isn't_pressing_charges_against_Will_Smith_for_Oscars_slap.svg)](https://www.reddit.com/r/news/comments/tq7ma1/chris_rock_isnt_pressing_charges_against_will/)
+[![r/HumansBeingBros - Stairs For The Cat](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/reddit__the_front_page_of_the_internet/r_HumansBeingBros_-_Stairs_For_The_Cat.svg)](https://www.reddit.com/r/HumansBeingBros/comments/tqbrk0/stairs_for_the_cat/)
+[![r/pics - Chris rocks face seconds before being hit by Will Smith](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/reddit__the_front_page_of_the_internet/r_pics_-_Chris_rocks_face_seconds_before_being_hit_by_Will_Smith.svg)](https://www.reddit.com/r/pics/comments/tq8my0/chris_rocks_face_seconds_before_being_hit_by_will/)
+[![r/worldnews - Roman Abramovich 'poisoned during Kyiv meeting with peace negotiators'](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/reddit__the_front_page_of_the_internet/r_worldnews_-_Roman_Abramovich_'poisoned_during_Kyiv_meeting_with_peace_negotiators'.svg)](https://www.reddit.com/r/worldnews/comments/tqbqf4/roman_abramovich_poisoned_during_kyiv_meeting/)
+[![r/Unexpected - already have....](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/reddit__the_front_page_of_the_internet/r_Unexpected_-_already_have.....svg)](https://www.reddit.com/r/Unexpected/comments/tq941b/already_have/)
+
+
 ## DEV Community: Sadee
 
 The latest articles on DEV Community by Sadee (@codewithsadee).
