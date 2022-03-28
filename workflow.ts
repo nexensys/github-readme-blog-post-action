@@ -260,18 +260,18 @@ function generateFeedMarkdown(feed: FeedData, rawURL: string): string {
   if (showFeedData) {
     if (showFeedTitle) md += `## ${feed.title}\n\n`;
     if (showFeedDescription) md += `${feed.description}\n\n`;
-    if (showReadMore) md += `[Read more](${feed.url})\n\n`;
+    if (showReadMore) md += `[Read more](${feed.url})\n`;
     if (showLastUpdatedDate)
-      md += `#### Last updated: ${formatDate(feed.updated)}\n\n`;
+      md += `#### Last updated: ${formatDate(feed.updated)}\n`;
     if (showPostCount)
-      md += `#### Showing ${feed.images.length} of ${feed.postCount} posts.\n\n`;
+      md += `#### Showing ${feed.images.length} of ${feed.postCount} posts.\n`;
   }
   for (let image of feed.images) {
     core.debug("Raw URL: " + rawURL);
     core.debug("Image File Name: " + image.imageFileName);
     md += `[![${image.title}](${rawURL + image.imageFileName})](${
       image.link
-    })\n\n`;
+    })\n`;
   }
   return md;
 }
