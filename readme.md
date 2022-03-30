@@ -7,25 +7,25 @@ Example:
 Recent Blogs:
 
 <!-- blog-post-list:start -->
-## DEV Community: Sadee
+## DEV Community
 
-The latest articles on DEV Community by Sadee (@codewithsadee).
+The most recent home feed on DEV Community.
 
-[Read more](https://dev.to/codewithsadee)
+[Read more](https://dev.to)
 > Last updated: 3/30/22
 
 > Showing 10 of 12 posts.
 
-[![Build a Digital marketing agency landing page using HTML CSS JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community__Sadee/Build_a_Digital_marketing_agency_landing_page_using_HTML_CSS_JS.svg)](https://dev.to/codewithsadee/build-a-digital-marketing-agency-landing-page-using-html-css-js-5cog)
-[![How to build NFT Marketplace website using HTML CSS JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community__Sadee/How_to_build_NFT_Marketplace_website_using_HTML_CSS_JS.svg)](https://dev.to/codewithsadee/how-to-build-nft-marketplace-website-using-html-css-js-kh7)
-[![How to build Audio stream app landing page using HTML CSS JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community__Sadee/How_to_build_Audio_stream_app_landing_page_using_HTML_CSS_JS.svg)](https://dev.to/codewithsadee/how-to-build-audio-stream-app-landing-page-using-html-css-js-1960)
-[![How to build personal portfolio using HTML CSS JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community__Sadee/How_to_build_personal_portfolio_using_HTML_CSS_JavaScript.svg)](https://dev.to/codewithsadee/how-to-build-personal-portfolio-using-html-css-javascript-37e2)
-[![Modern eCommerce website with HTML CSS JS 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community__Sadee/Modern_eCommerce_website_with_HTML_CSS_JS_2022.svg)](https://dev.to/codewithsadee/modern-ecommerce-website-with-html-css-js-2022-142i)
-[![Personal Blog Website using HTML CSS JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community__Sadee/Personal_Blog_Website_using_HTML_CSS_JS.svg)](https://dev.to/codewithsadee/personal-blog-website-using-html-css-js-2en2)
-[![Restaurant Website with HTML CSS JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community__Sadee/Restaurant_Website_with_HTML_CSS_JS.svg)](https://dev.to/codewithsadee/restaurant-website-with-html-css-js-3cel)
-[![Sunnyside Landing Page using HTML CSS JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community__Sadee/Sunnyside_Landing_Page_using_HTML_CSS_JS.svg)](https://dev.to/codewithsadee/sunnyside-landing-page-using-html-css-js-26aa)
-[![Animated Education Website with HTML CSS JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community__Sadee/Animated_Education_Website_with_HTML_CSS_JS.svg)](https://dev.to/codewithsadee/animated-education-website-with-html-css-js-3d8h)
-[![How to Create Bank Landing Page HTML CSS JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community__Sadee/How_to_Create_Bank_Landing_Page_HTML_CSS_JavaScript.svg)](https://dev.to/codewithsadee/how-to-create-bank-landing-page-html-css-javascript-44n5)
+[![5 books to learn algorithms and Data Structures](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community/5_books_to_learn_algorithms_and_Data_Structures.svg)](https://dev.to/digomic/5-books-to-learn-algorithms-and-data-structures-1i45)
+[![100 Days of Swift - Day 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community/100_Days_of_Swift_-_Day_2.svg)](https://dev.to/davjvo/100-days-of-swift-day-2-32n4)
+[![How to use Puppeteer inside a Docker container](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community/How_to_use_Puppeteer_inside_a_Docker_container.svg)](https://dev.to/cloudx/how-to-use-puppeteer-inside-a-docker-container-568c)
+[![101 touches of coding Linux tool with C# for fun](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community/101_touches_of_coding_Linux_tool_with_C#_for_fun.svg)](https://dev.to/stipecmv/101-touches-of-coding-linux-tool-with-c-for-fun-1gaa)
+[![Why We Chose Polygon Over Ethereum](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community/Why_We_Chose_Polygon_Over_Ethereum.svg)](https://dev.to/codecast/why-we-chose-polygon-over-ethereum-1o49)
+[![Turbocharge your monorepo with Lerna and Github Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community/Turbocharge_your_monorepo_with_Lerna_and_Github_Actions.svg)](https://dev.to/eteesh/turbocharge-your-monorepo-with-lerna-and-github-actions-3bgo)
+[![Recebendo e-mails utilizando o Google Apps Script.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community/Recebendo_e-mails_utilizando_o_Google_Apps_Script..svg)](https://dev.to/jhonyrdesouza/recebendo-e-mails-utilizando-o-google-apps-script-346j)
+[![What are some HTML attributes and tags that you’ve discovered recently?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community/What_are_some_HTML_attributes_and_tags_that_you’ve_discovered_recently_.svg)](https://dev.to/nickytonline/what-are-some-html-attributes-and-tags-that-youve-discovered-recently-35nl)
+[![Augmented Reality Application for Autonomous Transport Vehicle](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community/Augmented_Reality_Application_for_Autonomous_Transport_Vehicle.svg)](https://dev.to/zekeriyyaa_/augmented-reality-application-for-autonomous-transport-vehicle-4ipp)
+[![An Introduction To AWS CloudFront Functions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community/An_Introduction_To_AWS_CloudFront_Functions.svg)](https://dev.to/honeybadger/an-introduction-to-aws-cloudfront-functions-hh0)
 
 
 <!-- blog-post-list:end -->
