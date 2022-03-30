@@ -10,7 +10,7 @@ jobs:
       - name: Test
         uses: ./
         with:
-          feed_urls: "http://dev.to/feed/codewithsadee"
+          feed_urls: "https://dev.to/feed"
           max_posts_per_url: 10
       - name: Commit changed files
         uses: stefanzweifel/git-auto-commit-action@v4
