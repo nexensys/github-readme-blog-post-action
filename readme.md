@@ -12,7 +12,7 @@ Recent Blogs:
 The latest articles on DEV Community by Sadee (@codewithsadee).
 
 [Read more](https://dev.to/codewithsadee)
-> Last updated: 3/29/22
+> Last updated: 3/30/22
 
 > Showing 10 of 12 posts.
 
