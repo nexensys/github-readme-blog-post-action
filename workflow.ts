@@ -136,7 +136,6 @@ function generateSVG(data: Required<MetaData>, delay = 0) {
         text-overflow: ellipsis;
         overflow: hidden;
         white-space: nowrap;
-        margin-bottom: 5px;
       }
       .description {
         font-size: 0.75em;
@@ -148,8 +147,8 @@ function generateSVG(data: Required<MetaData>, delay = 0) {
       }
       .text {
         text-align: start;
-        padding: 5px;
-        height: calc(100% - 10px);
+        padding: 10px;
+        height: calc(100% - 20px);
         margin-left: 100px;
         font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
         color: black;
