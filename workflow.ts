@@ -331,7 +331,7 @@ function formatDate(date: Date, time: boolean = true): string {
     time
       ? {
           dateStyle: "full",
-          timeStyle: "long"
+          timeStyle: "short"
         }
       : {
           dateStyle: "short"
