@@ -38515,7 +38515,7 @@ function loadImage(meta) {
     });
 }
 function sanitizePath(p) {
-    return path_1.default.normalize(p.replace(/[/\\?%*:|"<>,\s]/g, "_"));
+    return path_1.default.normalize(p.replace(/[/\\?%*:|"<>,#\s]/g, "_"));
 }
 function escapeMarkdown(str) {
     return str
