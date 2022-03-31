@@ -38423,7 +38423,7 @@ function generateSVG(data, delay = 0) {
           <div class="title">${data.title}</div>
           <div class="description">${data.description}</div>
           ${showPostDate
-        ? `<div class="date">${formatDate(data.date)}</div>`
+        ? `<div class="date">${formatDate(data.date, false)}</div>`
         : ""}
         </div>
       </div>
@@ -38542,7 +38542,7 @@ function escapeMarkdown(str) {
         .replace(/\"/g, '\\"')
         .replace(/\'/g, "\\'");
 }
-function formatDate(date, time = false) {
+function formatDate(date, time = true) {
     return new Intl.DateTimeFormat([locale, "en"], time
         ? {
             dateStyle: "full",
