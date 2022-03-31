@@ -38546,7 +38546,7 @@ function formatDate(date, time = true) {
     return new Intl.DateTimeFormat([locale, "en"], time
         ? {
             dateStyle: "full",
-            timeStyle: "long"
+            timeStyle: "short"
         }
         : {
             dateStyle: "short"
