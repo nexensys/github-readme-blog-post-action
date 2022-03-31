@@ -46,7 +46,7 @@
       .main {
         transform: translate(610px, 0px);
         animation: slideIn 1s ease-out forwards;
-        animation-delay: 1s;
+        animation-delay: 1.5s;
         fill: white;
       }
       @keyframes slideIn {
