@@ -38429,12 +38429,12 @@ function generateSVG(data, delay = 0) {
       <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
         <div class="image" />
         <div class="text">
-          <div class="title">${data.title}</div>
-          <div class="description">${data.description}</div>
+          <div class="title">${escapeHTML(data.title)}</div>
+          <div class="description">${escapeHTML(data.description)}</div>
           ${showPostDate
-        ? `<div class="date">${formatDate(data.date, false)}</div>`
+        ? `<div class="date">${escapeHTML(formatDate(data.date, false))}</div>`
         : ""}
-          <div class="author">${data.author}</div>
+          <div class="author">${escapeHTML(data.author)}</div>
         </div>
       </div>
     </foreignObject>
@@ -38485,9 +38485,9 @@ function generateFeedMarkdown(feed, rawURL) {
     let md = "";
     if (showFeedData) {
         if (showFeedTitle)
-            md += `## ${feed.title}\n\n`;
+            md += `## ${escapeMarkdown(feed.title)}\n\n`;
         if (showFeedDescription)
-            md += `${feed.description}\n\n`;
+            md += `${escapeMarkdown(feed.description)}\n\n`;
         if (showReadMore)
             md += `[Read more](${feed.url})\n`;
         if (showLastUpdatedDate)
@@ -38527,6 +38527,9 @@ function loadImage(meta) {
 }
 function sanitizePath(p) {
     return path_1.default.normalize(p.replace(/[/\\?%*:|"<>,#\s\?&]/g, "_"));
+}
+function escapeHTML(unsafe) {
+    return unsafe.replace(/[\u0000-\u002F\u003A-\u0040\u005B-\u0060\u007B-\u00FF]/g, (c) => "&#" + ("000" + c.charCodeAt(0)).slice(-4) + ";");
 }
 function escapeMarkdown(str) {
     return str
