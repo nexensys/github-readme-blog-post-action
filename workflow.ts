@@ -166,7 +166,7 @@ function generateSVG(data: Required<MetaData>, delay = 0) {
         text-align: start;
         padding: 10px;
         height: calc(100% - 20px);
-        margin-left: 100px;
+        margin-left: ${data.image ? "100px" : "0"};
         font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
         color: black;
       }
@@ -183,7 +183,9 @@ function generateSVG(data: Required<MetaData>, delay = 0) {
       }`
           : ""
       }
-      .image {
+      ${
+        data.image
+          ? `.image {
         height: 100px;
         width: 100px;
         background-image: url("${data.image}");
@@ -193,6 +195,8 @@ function generateSVG(data: Required<MetaData>, delay = 0) {
         left: 0;
         border-radius: 10px;
         background-position: center;
+      }`
+          : ""
       }
       .main {
         transform: translate(610px, 0px);
@@ -206,7 +210,7 @@ function generateSVG(data: Required<MetaData>, delay = 0) {
         position: absolute;
         bottom: 0;
         padding-bottom: 5px;
-        left: 110px;
+        left: ${data.image ? "110px" : "10px"};
         color: black;
         max-width: 400px;
         overflow: hidden;
@@ -235,8 +239,7 @@ function generateSVG(data: Required<MetaData>, delay = 0) {
     <rect class="content" width="600" height="100" stroke="rgba(0, 0, 0, 0.5)" x="5" y="5" rx="10" />
     <foreignObject width="600" height="100" x="5" y="5">
       <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
-        <div class="image" />
-        <div class="text">
+        ${data.image ? `<div class="image" />\n` : ""}<div class="text">
           <div class="title">${escapeHTML(data.title)}</div>
           <div class="description">${escapeHTML(data.description)}</div>
           ${
@@ -329,10 +332,10 @@ async function loadFeed(url: string): Promise<Output<{}>> {
   return await parser.parseURL(url);
 }
 
-async function loadImage(meta: Required<MetaData>) {
+async function loadImage(meta: Required<MetaData>): Promise<string | null> {
   if (!meta.image) {
     core.warning(`No thumbnail found!`);
-    return "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=";
+    return null;
   } else {
     core.info(`Loading thumbnail...`);
     let res = await fetch(meta.image);
