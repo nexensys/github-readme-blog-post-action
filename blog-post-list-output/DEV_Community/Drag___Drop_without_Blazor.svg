@@ -74,9 +74,9 @@
       <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
         <div class="image" />
         <div class="text">
-          <div class="title">Drag & Drop without Blazor</div>
-          <div class="description">Building an enterprise web application but need to integrate drag &amp; drop functionality?  While...</div>
-          <div class="date">4/1/22</div>
+          <div class="title">Drag&#0032;&#0038;&#0032;Drop&#0032;without&#0032;Blazor</div>
+          <div class="description">Building&#0032;an&#0032;enterprise&#0032;web&#0032;application&#0032;but&#0032;need&#0032;to&#0032;integrate&#0032;drag&#0032;&#0038;amp&#0059;&#0032;drop&#0032;functionality&#0063;&#0032;&#0032;While&#0046;&#0046;&#0046;</div>
+          <div class="date">4&#0047;1&#0047;22</div>
           <div class="author">LRufenacht</div>
         </div>
       </div>

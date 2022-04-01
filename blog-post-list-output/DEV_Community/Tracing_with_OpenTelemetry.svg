@@ -74,10 +74,10 @@
       <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
         <div class="image" />
         <div class="text">
-          <div class="title">Tracing with OpenTelemetry</div>
-          <div class="description">Tracing gives you great insights into certain bottlenecks within your application. I'll go over the...</div>
-          <div class="date">4/1/22</div>
-          <div class="author">Glenn Bostoen</div>
+          <div class="title">Tracing&#0032;with&#0032;OpenTelemetry</div>
+          <div class="description">Tracing&#0032;gives&#0032;you&#0032;great&#0032;insights&#0032;into&#0032;certain&#0032;bottlenecks&#0032;within&#0032;your&#0032;application&#0046;&#0032;I&#0039;ll&#0032;go&#0032;over&#0032;the&#0046;&#0046;&#0046;</div>
+          <div class="date">4&#0047;1&#0047;22</div>
+          <div class="author">Glenn&#0032;Bostoen</div>
         </div>
       </div>
     </foreignObject>

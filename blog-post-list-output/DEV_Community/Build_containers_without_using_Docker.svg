@@ -74,10 +74,10 @@
       <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
         <div class="image" />
         <div class="text">
-          <div class="title">Build containers without using Docker</div>
-          <div class="description">In this post, I will quickly show you multiple ways of building your containers without having to...</div>
-          <div class="date">4/1/22</div>
-          <div class="author">Glenn Bostoen</div>
+          <div class="title">Build&#0032;containers&#0032;without&#0032;using&#0032;Docker</div>
+          <div class="description">In&#0032;this&#0032;post&#0044;&#0032;I&#0032;will&#0032;quickly&#0032;show&#0032;you&#0032;multiple&#0032;ways&#0032;of&#0032;building&#0032;your&#0032;containers&#0032;without&#0032;having&#0032;to&#0046;&#0046;&#0046;</div>
+          <div class="date">4&#0047;1&#0047;22</div>
+          <div class="author">Glenn&#0032;Bostoen</div>
         </div>
       </div>
     </foreignObject>

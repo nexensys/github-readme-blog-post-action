@@ -74,10 +74,10 @@
       <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
         <div class="image" />
         <div class="text">
-          <div class="title">JavaScript Array Methods - Filtering</div>
-          <div class="description">Array.prototype.filter()   I am back again writing about another useful and very common...</div>
-          <div class="date">4/1/22</div>
-          <div class="author">Tanwa Sripan</div>
+          <div class="title">JavaScript&#0032;Array&#0032;Methods&#0032;&#0045;&#0032;Filtering</div>
+          <div class="description">Array&#0046;prototype&#0046;filter&#0040;&#0041;&#0032;&#0032;&#0032;I&#0032;am&#0032;back&#0032;again&#0032;writing&#0032;about&#0032;another&#0032;useful&#0032;and&#0032;very&#0032;common&#0046;&#0046;&#0046;</div>
+          <div class="date">4&#0047;1&#0047;22</div>
+          <div class="author">Tanwa&#0032;Sripan</div>
         </div>
       </div>
     </foreignObject>

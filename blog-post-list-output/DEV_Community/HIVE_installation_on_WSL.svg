@@ -74,10 +74,10 @@
       <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
         <div class="image" />
         <div class="text">
-          <div class="title">HIVE installation on WSL</div>
-          <div class="description">Install and run hive   Install Apache Hive on windows Linux subsystem To configure Apache...</div>
-          <div class="date">4/1/22</div>
-          <div class="author">Anuj Vaghani</div>
+          <div class="title">HIVE&#0032;installation&#0032;on&#0032;WSL</div>
+          <div class="description">Install&#0032;and&#0032;run&#0032;hive&#0032;&#0032;&#0032;Install&#0032;Apache&#0032;Hive&#0032;on&#0032;windows&#0032;Linux&#0032;subsystem&#0032;To&#0032;configure&#0032;Apache&#0046;&#0046;&#0046;</div>
+          <div class="date">4&#0047;1&#0047;22</div>
+          <div class="author">Anuj&#0032;Vaghani</div>
         </div>
       </div>
     </foreignObject>

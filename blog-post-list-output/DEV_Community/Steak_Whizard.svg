@@ -74,10 +74,10 @@
       <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
         <div class="image" />
         <div class="text">
-          <div class="title">Steak Whizard</div>
-          <div class="description">The Philly Cheesesteak. Whether you love it or hate it, you likely have heard the never-ending debate...</div>
-          <div class="date">4/1/22</div>
-          <div class="author">Michael Lobman</div>
+          <div class="title">Steak&#0032;Whizard</div>
+          <div class="description">The&#0032;Philly&#0032;Cheesesteak&#0046;&#0032;Whether&#0032;you&#0032;love&#0032;it&#0032;or&#0032;hate&#0032;it&#0044;&#0032;you&#0032;likely&#0032;have&#0032;heard&#0032;the&#0032;never&#0045;ending&#0032;debate&#0046;&#0046;&#0046;</div>
+          <div class="date">4&#0047;1&#0047;22</div>
+          <div class="author">Michael&#0032;Lobman</div>
         </div>
       </div>
     </foreignObject>
