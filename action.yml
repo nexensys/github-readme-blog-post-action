@@ -2,7 +2,7 @@ name: "Github Blog Post List generator"
 description: "Generate a list of links to recent blog posts"
 inputs:
   feed_urls:
-    description: "A comma-seperated list or urls to load the feed from"
+    description: "A comma-seperated list or urls to load the feed from."
     required: true
     default: ""
   max_posts_per_url:
