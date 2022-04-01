@@ -69,17 +69,14 @@ const showPostDate = parseAndValidate<boolean>(
   (value) => typeof value === "boolean"
 );
 
-const locale: Intl.Locale & {
-  timeZones?: string[];
-} = new Intl.Locale(
-  parseAndValidate<string>("locale", (value) => typeof value === "string")
+const locale = parseAndValidate<string>(
+  "locale",
+  (value) => typeof value === "string"
 );
 
 const timeZone = parseAndValidate<string>(
   "time_zone",
-  (value) =>
-    typeof value === "string" &&
-    (locale.timeZones?.includes(value) || value === "UTC")
+  (value) => typeof value === "string"
 );
 
 /* --------------------------------- Process -------------------------------- */
@@ -355,7 +352,7 @@ function escapeMarkdown(str: string): string {
 
 function formatDate(date: Date, full: boolean = true): string {
   return new Intl.DateTimeFormat(
-    [locale.baseName as string, "en"],
+    [locale, "en"],
     full
       ? {
           dateStyle: "full",
