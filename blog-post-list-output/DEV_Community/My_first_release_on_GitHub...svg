@@ -46,17 +46,31 @@
       .main {
         transform: translate(610px, 0px);
         animation: slideIn 1s ease-out forwards;
-        animation-delay: 0.5s;
+        animation-delay: 1s;
         fill: white;
       }
-      .author {
-        font-size: 0.5em;
+      .data {
         opacity: 0.75;
         text-align: start;
         position: absolute;
         bottom: 0;
         left: 110px;
         color: black;
+        max-width: 300px;
+        overflow: hidden;
+        whitespace: nowrap;
+        text-overflow: ellipsis;
+      }
+      .author {
+        opacity: 0.75;
+        font-size: 0.5em;
+      }
+      .category {
+        background-color: rgba(0, 0, 0, 0.25);
+        border-radius: 0.25em;
+        padding: 0.25em;
+        font-size: 0.75em;
+        color: rgba(0, 0, 0, 0.4);
       }
       @keyframes slideIn {
         to {
@@ -77,7 +91,9 @@
           <div class="title">My&#0032;first&#0032;release&#0032;on&#0032;GitHub&#0046;&#0046;</div>
           <div class="description">https&#0058;&#0047;&#0047;github&#0046;com&#0047;carleii&#0047;school&#0045;management&#0045;app&#0045;v2&#0047;releases&#0047;tag&#0047;V1&#0046;7</div>
           <div class="date">4&#0047;1&#0047;22</div>
-          <div class="author">Call&#0032;me&#0032;carleii</div>
+          <div class="data">
+            <span class="author">Call&#0032;me&#0032;carleii</span> 
+          </div>
         </div>
       </div>
     </foreignObject>

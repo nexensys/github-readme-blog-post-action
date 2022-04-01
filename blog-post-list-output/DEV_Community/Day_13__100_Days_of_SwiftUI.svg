@@ -49,14 +49,28 @@
         animation-delay: 0.25s;
         fill: white;
       }
-      .author {
-        font-size: 0.5em;
+      .data {
         opacity: 0.75;
         text-align: start;
         position: absolute;
         bottom: 0;
         left: 110px;
         color: black;
+        max-width: 300px;
+        overflow: hidden;
+        whitespace: nowrap;
+        text-overflow: ellipsis;
+      }
+      .author {
+        opacity: 0.75;
+        font-size: 0.5em;
+      }
+      .category {
+        background-color: rgba(0, 0, 0, 0.25);
+        border-radius: 0.25em;
+        padding: 0.25em;
+        font-size: 0.75em;
+        color: rgba(0, 0, 0, 0.4);
       }
       @keyframes slideIn {
         to {
@@ -77,7 +91,9 @@
           <div class="title">Day&#0032;13&#0058;&#0032;100&#0032;Days&#0032;of&#0032;SwiftUI</div>
           <div class="description">Protocols&#0044;&#0032;extensions&#0044;&#0032;and&#0032;checkpoint&#0032;8&#0032;&#0032;&#0032;https&#0058;&#0047;&#0047;www&#0046;hackingwithswift&#0046;com&#0047;100&#0047;swiftui&#0047;13&#0032;&#0032;&#0032;&#0046;&#0046;&#0046;</div>
           <div class="date">4&#0047;1&#0047;22</div>
-          <div class="author">John&#0032;Kevin&#0032;Losito</div>
+          <div class="data">
+            <span class="author">John&#0032;Kevin&#0032;Losito</span> <span class="category">swift</span> <span class="category">swiftui</span> <span class="category">100daysofcode</span>
+          </div>
         </div>
       </div>
     </foreignObject>
