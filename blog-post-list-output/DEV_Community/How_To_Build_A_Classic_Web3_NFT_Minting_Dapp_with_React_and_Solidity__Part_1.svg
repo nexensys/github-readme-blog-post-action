@@ -46,19 +46,20 @@
       .main {
         transform: translate(610px, 0px);
         animation: slideIn 1s ease-out forwards;
-        animation-delay: 1.75s;
+        animation-delay: 2s;
         fill: white;
       }
       .data {
         opacity: 0.75;
         text-align: start;
         position: absolute;
-        bottom: 10px;
+        bottom: 0;
+        padding-bottom: 5px;
         left: 110px;
         color: black;
         max-width: 300px;
         overflow: hidden;
-        whitespace: nowrap;
+        white-space: nowrap;
         text-overflow: ellipsis;
       }
       .author {
