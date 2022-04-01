@@ -1,8 +1,10 @@
-on: [push]
+on:
+  schedule:
+    - cron: "0 */6 * * *"
 jobs:
   test:
     runs-on: ubuntu-latest
-    name: Update the Example on the Readme With New Code
+    name: Update the Example on the Readme
     steps:
       - name: Checkout
         uses: actions/checkout@v3
