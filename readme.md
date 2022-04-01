@@ -12,20 +12,20 @@ Recent Blogs:
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, March 31, 2022 at 12:53 AM
+> Last updated: Friday, April 1, 2022 at 3:15 PM
 
 > Showing 10 of 12 posts.
 
-[![The Great Migration: Upgrading CDK v1 to v2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community/The_Great_Migration__Upgrading_CDK_v1_to_v2.svg)](https://dev.to/aws-builders/the-great-migration-upgrading-cdk-v1-to-v2-4efe)
-[![Music genre classification](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community/Music_genre_classification.svg)](https://dev.to/mage_ai/music-genre-classification-2jmc)
-[![5 books to learn algorithms and Data Structures](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community/5_books_to_learn_algorithms_and_Data_Structures.svg)](https://dev.to/digomic/5-books-to-learn-algorithms-and-data-structures-1i45)
-[![100 Days of Swift - Day 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community/100_Days_of_Swift_-_Day_2.svg)](https://dev.to/davjvo/100-days-of-swift-day-2-32n4)
-[![How to use Puppeteer inside a Docker container](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community/How_to_use_Puppeteer_inside_a_Docker_container.svg)](https://dev.to/cloudx/how-to-use-puppeteer-inside-a-docker-container-568c)
-[![101 touches of coding Linux tool with C# for fun](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community/101_touches_of_coding_Linux_tool_with_C__for_fun.svg)](https://dev.to/stipecmv/101-touches-of-coding-linux-tool-with-c-for-fun-1gaa)
-[![Why We Chose Polygon Over Ethereum](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community/Why_We_Chose_Polygon_Over_Ethereum.svg)](https://dev.to/codecast/why-we-chose-polygon-over-ethereum-1o49)
-[![Turbocharge your monorepo with Lerna and Github Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community/Turbocharge_your_monorepo_with_Lerna_and_Github_Actions.svg)](https://dev.to/eteesh/turbocharge-your-monorepo-with-lerna-and-github-actions-3bgo)
-[![Recebendo e-mails utilizando o Google Apps Script.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community/Recebendo_e-mails_utilizando_o_Google_Apps_Script..svg)](https://dev.to/jhonyrdesouza/recebendo-e-mails-utilizando-o-google-apps-script-346j)
-[![What are some HTML attributes and tags that you’ve discovered recently?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community/What_are_some_HTML_attributes_and_tags_that_you’ve_discovered_recently_.svg)](https://dev.to/nickytonline/what-are-some-html-attributes-and-tags-that-youve-discovered-recently-35nl)
+[![Difference Between Web vs Hybrid vs Native Apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community/Difference_Between_Web_vs_Hybrid_vs_Native_Apps.svg)](https://dev.to/lambdatest/difference-between-web-vs-hybrid-vs-native-apps-4oce)
+[![Steak Whizard](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community/Steak_Whizard.svg)](https://dev.to/michaellobman/steak-whizard-2ikb)
+[![Linux Desktop: rolling releases and immutability](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community/Linux_Desktop__rolling_releases_and_immutability.svg)](https://dev.to/franute/linux-desktop-rolling-releases-and-immutability-35b7)
+[![JavaScript Array Methods - Filtering](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community/JavaScript_Array_Methods_-_Filtering.svg)](https://dev.to/justtanwa/javascript-array-methods-filtering-1k3p)
+[![Build containers without using Docker](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community/Build_containers_without_using_Docker.svg)](https://dev.to/gbostoen/build-containers-without-using-docker-bk)
+[![HIVE installation on WSL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community/HIVE_installation_on_WSL.svg)](https://dev.to/anujvaghani0/hive-installation-on-wls-mic)
+[![Tracing with OpenTelemetry](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community/Tracing_with_OpenTelemetry.svg)](https://dev.to/gbostoen/tracing-with-opentelemetry-p45)
+[![6 Biggest Mistakes Technical Founders Make](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community/6_Biggest_Mistakes_Technical_Founders_Make.svg)](https://dev.to/kennedyrose/6-biggest-mistakes-technical-founders-make-4f0j)
+[![Live Fronteiras-PPGCA: Rafael Parizi apresenta seu artigo no JSERD](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community/Live_Fronteiras-PPGCA__Rafael_Parizi_apresenta_seu_artigo_no_JSERD.svg)](https://dev.to/fronteirases/live-fronteiras-ppgca-rafael-parizi-apresenta-seu-artigo-no-jserd-5cl2)
+[![Drag & Drop without Blazor](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community/Drag_&_Drop_without_Blazor.svg)](https://dev.to/lrufenacht/drag-drop-without-blazor-6e8)
 
 
 <!-- blog-post-list:end -->
