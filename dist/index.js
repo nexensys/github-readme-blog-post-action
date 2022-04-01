@@ -38561,9 +38561,8 @@ function formatDate(date, full = true) {
     return new Intl.DateTimeFormat([locale, "en"], full
         ? {
             dateStyle: "full",
-            timeStyle: "short",
-            timeZone: timeZone,
-            timeZoneName: "short"
+            timeStyle: "medium",
+            timeZone: timeZone
         }
         : {
             dateStyle: "short"
