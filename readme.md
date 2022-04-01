@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, April 1, 2022 at 4:03:59 PM
+> Last updated: Friday, April 1, 2022 at 4:51:45 PM
 
 > Showing 5 of 12 posts.
 
-[![Complete Phaser 3 Game Development Guide: Part 0 (Installation and Importing)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Complete_Phaser_3_Game_Development_Guide__Part_0_(Installation_and_Importing).svg)](https://dev.to/the_unfactoring_guru/complete-phaser-3-game-development-guide-part-0-installation-and-importing-4903)
-[![Controlling and Monitoring Internet Traffic on a Router](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Controlling_and_Monitoring_Internet_Traffic_on_a_Router.svg)](https://dev.to/hetmansoftware/controlling-and-monitoring-internet-traffic-on-a-router-3mfg)
-[![Customizing a Drawer Element in a Quick App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Customizing_a_Drawer_Element_in_a_Quick_App.svg)](https://dev.to/josholadele/customizing-a-drawer-element-in-a-quick-app-93a)
-[![Top 3 Casts of the Week #4](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_3_Casts_of_the_Week__4.svg)](https://dev.to/codecast/top-3-casts-of-the-week-4-22nb)
-[![Qué es y como crear ETL en AWS Glue Parte 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Qué_es_y_como_crear_ETL_en_AWS_Glue_Parte_1.svg)](https://dev.to/davidshaek/que-es-y-como-crear-etl-en-aws-glue-parte-1-3jlj)
+[![Qué es y como crear ETL en AWS Glue Parte 3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Qué_es_y_como_crear_ETL_en_AWS_Glue_Parte_3.svg)](https://dev.to/davidshaek/que-es-y-como-crear-etl-en-aws-glue-parte-3-4n6n)
+[![What are the features of NFT Drops Calendar?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_are_the_features_of_NFT_Drops_Calendar_.svg)](https://dev.to/nftdropscalendar/what-are-the-features-of-nft-drops-calendar-5bof)
+[![Feature Flag Platform with FF4J, Spring, Postgres and Kubernetes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Feature_Flag_Platform_with_FF4J__Spring__Postgres_and_Kubernetes.svg)](https://dev.to/lucasnscr/feature-flag-platform-with-ff4j-spring-postgres-and-kubernetes-21hc)
+[![Resource Override](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Resource_Override.svg)](https://dev.to/vadimfilimonov/resource-override-6o8)
+[![🤔 What is Database Index?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🤔_What_is_Database_Index_.svg)](https://dev.to/kaziusan/what-is-database-index-4m5l)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, April 1, 2022 at 4:04:02 PM
+> Last updated: Friday, April 1, 2022 at 4:51:47 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, April 1, 2022 at 4:04:07 PM
+> Last updated: Friday, April 1, 2022 at 4:51:51 PM
 
 > Showing 5 of 30 posts.
 

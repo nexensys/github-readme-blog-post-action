@@ -78,11 +78,11 @@
       <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
         <div class="image" />
 <div class="text">
-          <div class="title">Qu&#0233;&#0032;es&#0032;y&#0032;como&#0032;crear&#0032;ETL&#0032;en&#0032;AWS&#0032;Glue&#0032;Parte&#0032;1</div>
-          <div class="description">Tal&#0032;vez&#0032;hayas&#0032;escuchado&#0032;el&#0032;t&#0233;rmino&#0032;&#0034;ETL&#0034;&#0032;m&#0225;s&#0032;de&#0032;una&#0032;vez&#0032;o&#0032;tal&#0032;vez&#0032;no&#0032;lo&#0032;hayas&#0032;escuchado&#0032;nunca&#0046;&#0032;En&#0046;&#0046;&#0046;</div>
+          <div class="title">Qu&#0233;&#0032;es&#0032;y&#0032;como&#0032;crear&#0032;ETL&#0032;en&#0032;AWS&#0032;Glue&#0032;Parte&#0032;3</div>
+          <div class="description">Continuando&#0032;con&#0032;la&#0032;tercera&#0032;y&#0032;final&#0032;parte&#0032;del&#0032;tutorial&#0044;&#0032;explicare&#0032;el&#0032;c&#0243;digo&#0032;de&#0032;nuestro&#0032;ejemplo&#0046;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;&#0046;&#0046;&#0046;</div>
           <div class="date">4&#0047;1&#0047;22</div>
           <div class="data">
-            <span class="author">David&#0032;Llerena</span> <span class="category">aws</span> <span class="category">beginners</span> <span class="category">tutorial</span> <span class="category">etl</span>
+            <span class="author">David&#0032;Llerena</span> 
           </div>
         </div>
       </div>
