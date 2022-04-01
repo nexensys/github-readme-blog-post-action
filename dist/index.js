@@ -38356,7 +38356,7 @@ function main() {
     });
 }
 /* -------------------------------- Funtions -------------------------------- */
-function generateSVG(data, delay = 0) {
+function generateSVG(data) {
     let svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 610 110" width="600" height="100" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
     <style>
@@ -38407,9 +38407,6 @@ function generateSVG(data, delay = 0) {
       }`
         : ""}
       .main {
-        transform: translate(610px, 0px);
-        animation: slideIn 1s ease-out forwards;
-        animation-delay: ${delay}s;
         fill: white;
       }
       .data {
@@ -38435,11 +38432,6 @@ function generateSVG(data, delay = 0) {
         padding: 0.125em 0.25em;
         font-size: 0.75em;
         color: rgba(0, 0, 0, 0.4);
-      }
-      @keyframes slideIn {
-        to {
-          transform: translate(0px, 0px);
-        }
       }
     </style>
   </defs>
@@ -38470,7 +38462,6 @@ function load(url) {
     return __awaiter(this, void 0, void 0, function* () {
         let feed = yield loadFeed(url);
         let items = feed.items.slice(0, maxItems);
-        let delay = 0;
         let images = [];
         for (let post of items) {
             core.info(`Loading data for post: ${(_a = post.title) !== null && _a !== void 0 ? _a : post.link}`);
@@ -38486,7 +38477,7 @@ function load(url) {
             }, meta);
             core.info("Generating post card...");
             data.image = yield loadImage(data);
-            let svg = generateSVG(data, delay++ * 0.25);
+            let svg = generateSVG(data);
             let fileName = sanitizePath(data.title) + ".svg";
             images.push({
                 image: svg,
