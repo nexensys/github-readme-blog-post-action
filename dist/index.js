@@ -38450,7 +38450,7 @@ function generateSVG(data, delay = 0) {
           <div class="title">${escapeHTML(data.title)}</div>
           <div class="description">${escapeHTML(data.description)}</div>
           ${showPostDate
-        ? `<div class="date">${escapeHTML(formatDate(data.date, false))}</div>`
+        ? `<div class="date">${escapeHTML(data.date ? formatDate(data.date, false) : "")}</div>`
         : ""}
           <div class="data">
             <span class="author">${escapeHTML(data.author)}</span> ${data.categories
@@ -38479,7 +38479,7 @@ function load(url) {
                 title: post.title,
                 description: post.contentSnippet || "",
                 image: null,
-                date: new Date(post.isoDate),
+                date: post.isoDate ? new Date(post.isoDate) : null,
                 author: post.creator || "",
                 categories: post.categories || []
             }, meta);
