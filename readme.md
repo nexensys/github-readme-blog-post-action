@@ -12,7 +12,7 @@ Recent Blogs:
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, April 1, 2022 at 3:15 PM
+> Last updated: Friday, April 1, 2022 at 3:17 PM
 
 > Showing 10 of 12 posts.
 
@@ -25,7 +25,7 @@ The most recent home feed on DEV Community.
 [![Tracing with OpenTelemetry](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community/Tracing_with_OpenTelemetry.svg)](https://dev.to/gbostoen/tracing-with-opentelemetry-p45)
 [![6 Biggest Mistakes Technical Founders Make](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community/6_Biggest_Mistakes_Technical_Founders_Make.svg)](https://dev.to/kennedyrose/6-biggest-mistakes-technical-founders-make-4f0j)
 [![Live Fronteiras-PPGCA: Rafael Parizi apresenta seu artigo no JSERD](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community/Live_Fronteiras-PPGCA__Rafael_Parizi_apresenta_seu_artigo_no_JSERD.svg)](https://dev.to/fronteirases/live-fronteiras-ppgca-rafael-parizi-apresenta-seu-artigo-no-jserd-5cl2)
-[![Drag & Drop without Blazor](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community/Drag_&_Drop_without_Blazor.svg)](https://dev.to/lrufenacht/drag-drop-without-blazor-6e8)
+[![Drag & Drop without Blazor](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community/Drag___Drop_without_Blazor.svg)](https://dev.to/lrufenacht/drag-drop-without-blazor-6e8)
 
 
 <!-- blog-post-list:end -->
