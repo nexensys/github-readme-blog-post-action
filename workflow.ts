@@ -356,9 +356,8 @@ function formatDate(date: Date, full: boolean = true): string {
     full
       ? {
           dateStyle: "full",
-          timeStyle: "short",
-          timeZone: timeZone,
-          timeZoneName: "short"
+          timeStyle: "medium",
+          timeZone: timeZone
         }
       : {
           dateStyle: "short"
