@@ -360,7 +360,7 @@ function formatDate(date: Date, full: boolean = true): string {
       ? {
           dateStyle: "full",
           timeStyle: "short",
-          timeZone,
+          timeZone: timeZone as string,
           timeZoneName: "short"
         }
       : {
