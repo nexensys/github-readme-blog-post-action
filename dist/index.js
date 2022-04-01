@@ -38313,6 +38313,11 @@ const showLastUpdatedDate = parseAndValidate("show_last_updated_date", (value) =
 const showPostDate = parseAndValidate("show_post_date", (value) => typeof value === "boolean");
 const locale = parseAndValidate("locale", (value) => typeof value === "string");
 const timeZone = parseAndValidate("time_zone", (value) => typeof value === "string");
+const outDir = parseAndValidate("output_dir", (value) => typeof value === "string");
+if (/[/\\?%*:|"<>]/.test(outDir)) {
+    core.setFailed(`Invalid output folder name "${outDir}". The name contains illegal characters.`);
+    (0, process_1.exit)(1);
+}
 /* --------------------------------- Process -------------------------------- */
 function main() {
     return __awaiter(this, void 0, void 0, function* () {
