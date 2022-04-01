@@ -7,7 +7,7 @@ import { fileTypeFromBuffer, FileTypeResult } from "file-type";
 import fs from "fs";
 import { exit } from "process";
 import loadMetaData from "./metaData.js";
-import path from "path";
+import path, { parse } from "path";
 
 import { FeedData, Img, MetaData } from "./types";
 
@@ -69,9 +69,17 @@ const showPostDate = parseAndValidate<boolean>(
   (value) => typeof value === "boolean"
 );
 
-const locale = parseAndValidate<string>(
-  "locale",
-  (value) => typeof value === "string"
+const locale: Intl.Locale & {
+  timeZones?: string[];
+} = new Intl.Locale(
+  parseAndValidate<string>("locale", (value) => typeof value === "string")
+);
+
+const timeZone = parseAndValidate<string>(
+  "time_zone",
+  (value) =>
+    typeof value === "string" &&
+    (locale.timeZones?.includes(value) || value === "UTC")
 );
 
 /* --------------------------------- Process -------------------------------- */
@@ -345,13 +353,15 @@ function escapeMarkdown(str: string): string {
     .replace(/\'/g, "\\'");
 }
 
-function formatDate(date: Date, time: boolean = true): string {
+function formatDate(date: Date, full: boolean = true): string {
   return new Intl.DateTimeFormat(
-    [locale, "en"],
-    time
+    [locale.baseName, "en"],
+    full
       ? {
           dateStyle: "full",
-          timeStyle: "short"
+          timeStyle: "short",
+          timeZone,
+          timeZoneName: "short"
         }
       : {
           dateStyle: "short"

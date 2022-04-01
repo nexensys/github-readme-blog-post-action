@@ -45,6 +45,10 @@ inputs:
     description: "The locale that the action uses. Currently only used to format dates."
     required: false
     default: "en"
+  time_zone:
+    description: "The time zone to use when formatting the las updated dates."
+    required: false
+    default: "UTC"
 runs:
   using: "node16"
   main: "dist/index.js"
