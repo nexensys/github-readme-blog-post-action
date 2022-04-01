@@ -38311,7 +38311,12 @@ const showReadMore = parseAndValidate("show_read_more", (value) => typeof value 
 const showPostCount = parseAndValidate("show_post_count", (value) => typeof value === "boolean");
 const showLastUpdatedDate = parseAndValidate("show_last_updated_date", (value) => typeof value === "boolean");
 const showPostDate = parseAndValidate("show_post_date", (value) => typeof value === "boolean");
-const locale = parseAndValidate("locale", (value) => typeof value === "string");
+const locale = new Intl.Locale(parseAndValidate("locale", (value) => typeof value === "string"));
+const timeZone = parseAndValidate("time_zone", (value) => {
+    var _a;
+    return typeof value === "string" &&
+        (((_a = locale.timeZones) === null || _a === void 0 ? void 0 : _a.includes(value)) || value === "UTC");
+});
 /* --------------------------------- Process -------------------------------- */
 function main() {
     return __awaiter(this, void 0, void 0, function* () {
@@ -38556,11 +38561,13 @@ function escapeMarkdown(str) {
         .replace(/\"/g, '\\"')
         .replace(/\'/g, "\\'");
 }
-function formatDate(date, time = true) {
-    return new Intl.DateTimeFormat([locale, "en"], time
+function formatDate(date, full = true) {
+    return new Intl.DateTimeFormat([locale.baseName, "en"], full
         ? {
             dateStyle: "full",
-            timeStyle: "short"
+            timeStyle: "short",
+            timeZone: timeZone,
+            timeZoneName: "short"
         }
         : {
             dateStyle: "short"
