@@ -355,12 +355,12 @@ function escapeMarkdown(str: string): string {
 
 function formatDate(date: Date, full: boolean = true): string {
   return new Intl.DateTimeFormat(
-    [locale.baseName, "en"],
+    [locale.baseName as string, "en"],
     full
       ? {
           dateStyle: "full",
           timeStyle: "short",
-          timeZone: timeZone as string,
+          timeZone: timeZone,
           timeZoneName: "short"
         }
       : {
