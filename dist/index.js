@@ -38509,7 +38509,7 @@ function generateFeedMarkdown(feed, rawURL) {
     let md = "";
     if (showFeedData) {
         if (showFeedTitle)
-            md += `## ${escapeMarkdown(feed.title)}\n\n`;
+            md += `## ${escapeMarkdown(feed.title.trim())}\n\n`;
         if (showFeedDescription)
             md += `${escapeMarkdown(feed.description)}\n\n`;
         if (showReadMore)
