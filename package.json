@@ -10,9 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/ErrorGamer2000/github-readme-blog-post-action.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "ErrorGamer2000",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ErrorGamer2000/github-readme-blog-post-action/issues"
   },
