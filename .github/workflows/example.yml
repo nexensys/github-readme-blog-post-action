@@ -15,6 +15,7 @@ jobs:
           max_posts_per_url: 10
           locale: "en-US"
           time_zone: "America/Denver"
+          output_dir: "generated_files"
       - name: Commit changed files
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
