@@ -242,7 +242,7 @@ function generateSVG(data: Required<MetaData>, delay = 0) {
           ${
             showPostDate
               ? `<div class="date">${escapeHTML(
-                  formatDate(data.date, false)
+                  data.date ? formatDate(data.date, false) : ""
                 )}</div>`
               : ""
           }
@@ -275,7 +275,7 @@ async function load(url: string): Promise<FeedData> {
         title: post.title,
         description: post.contentSnippet || "",
         image: null,
-        date: new Date(post.isoDate as string),
+        date: post.isoDate ? new Date(post.isoDate as string) : null,
         author: post.creator || "",
         categories: post.categories || []
       },
