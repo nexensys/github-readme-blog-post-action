@@ -1,4 +1,4 @@
-name: "Github Blog Post List generator"
+name: "Github Readme Blog Post Action"
 description: "A (somewhat) simple GitHub Action that generates a set of cards for recent blog posts."
 inputs:
   feed_urls:
