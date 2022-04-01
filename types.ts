@@ -20,5 +20,6 @@ export interface MetaData {
   description?: string;
   image?: null | string;
   date?: Date;
+  author?: string;
   [k: string]: any;
 }

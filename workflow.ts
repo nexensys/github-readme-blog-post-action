@@ -183,6 +183,15 @@ function generateSVG(data: Required<MetaData>, delay = 0) {
         animation-delay: ${delay}s;
         fill: white;
       }
+      .author {
+        font-size: 0.5em;
+        opacity: 0.75;
+        text-align: start;
+        position: absolute;
+        bottom: 0;
+        left: 110px;
+        color: black;
+      }
       @keyframes slideIn {
         to {
           transform: translate(0px, 0px);
@@ -206,6 +215,7 @@ function generateSVG(data: Required<MetaData>, delay = 0) {
               ? `<div class="date">${formatDate(data.date, false)}</div>`
               : ""
           }
+          <div class="author">${data.author}</div>
         </div>
       </div>
     </foreignObject>
@@ -228,7 +238,8 @@ async function load(url: string): Promise<FeedData> {
         title: post.title,
         description: post.contentSnippet,
         image: null,
-        date: new Date(post.isoDate as string)
+        date: new Date(post.isoDate as string),
+        author: post.creator
       },
       meta
     ) as Required<MetaData>;
