@@ -79,6 +79,18 @@ const timeZone = parseAndValidate<string>(
   (value) => typeof value === "string"
 );
 
+const outDir = parseAndValidate<string>(
+  "output_dir",
+  (value) => typeof value === "string"
+);
+
+if (/[/\\?%*:|"<>]/.test(outDir)) {
+  core.setFailed(
+    `Invalid output folder name "${outDir}". The name contains illegal characters.`
+  );
+  exit(1);
+}
+
 /* --------------------------------- Process -------------------------------- */
 
 async function main() {

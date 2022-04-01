@@ -49,6 +49,10 @@ inputs:
     description: "The time zone to use when formatting the las updated dates."
     required: false
     default: "UTC"
+  output_dir:
+    description: "The directory to save output files to."
+    required: false
+    default: "blog-post-list-output"
 runs:
   using: "node16"
   main: "dist/index.js"
