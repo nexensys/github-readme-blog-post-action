@@ -192,12 +192,13 @@ function generateSVG(data: Required<MetaData>, delay = 0) {
         opacity: 0.75;
         text-align: start;
         position: absolute;
-        bottom: 10px;
+        bottom: 0;
+        padding-bottom: 5px;
         left: 110px;
         color: black;
         max-width: 300px;
         overflow: hidden;
-        whitespace: nowrap;
+        white-space: nowrap;
         text-overflow: ellipsis;
       }
       .author {
