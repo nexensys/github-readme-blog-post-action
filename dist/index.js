@@ -38405,14 +38405,28 @@ function generateSVG(data, delay = 0) {
         animation-delay: ${delay}s;
         fill: white;
       }
-      .author {
-        font-size: 0.5em;
+      .data {
         opacity: 0.75;
         text-align: start;
         position: absolute;
         bottom: 0;
         left: 110px;
         color: black;
+        max-width: 300px;
+        overflow: hidden;
+        whitespace: nowrap;
+        text-overflow: ellipsis;
+      }
+      .author {
+        opacity: 0.75;
+        font-size: 0.5em;
+      }
+      .category {
+        background-color: rgba(0, 0, 0, 0.25);
+        border-radius: 0.25em;
+        padding: 0.25em;
+        font-size: 0.75em;
+        color: rgba(0, 0, 0, 0.4);
       }
       @keyframes slideIn {
         to {
@@ -38435,7 +38449,11 @@ function generateSVG(data, delay = 0) {
           ${showPostDate
         ? `<div class="date">${escapeHTML(formatDate(data.date, false))}</div>`
         : ""}
-          <div class="author">${escapeHTML(data.author)}</div>
+          <div class="data">
+            <span class="author">${escapeHTML(data.author)}</span> ${data.categories
+        .map((c) => `<span class="category">${escapeHTML(c)}</span>`)
+        .join(" ")}
+          </div>
         </div>
       </div>
     </foreignObject>
@@ -38459,7 +38477,8 @@ function load(url) {
                 description: post.contentSnippet,
                 image: null,
                 date: new Date(post.isoDate),
-                author: post.creator
+                author: post.creator,
+                categories: post.categories || []
             }, meta);
             core.info("Generating post card...");
             data.image = yield loadImage(data);
