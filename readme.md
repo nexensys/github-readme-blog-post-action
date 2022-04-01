@@ -10,7 +10,7 @@ Recent Blogs:
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, April 1, 2022 at 11:56:19 AM
+> Last updated: Friday, April 1, 2022 at 12:12:09 PM
 
 > Showing 5 of 12 posts.
 
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, April 1, 2022 at 11:56:22 AM
+> Last updated: Friday, April 1, 2022 at 12:12:16 PM
 
 > Showing 4 of 4 posts.
 
@@ -45,7 +45,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, April 1, 2022 at 11:56:27 AM
+> Last updated: Friday, April 1, 2022 at 12:12:19 PM
 
 > Showing 5 of 30 posts.
 
