@@ -192,7 +192,7 @@ function generateSVG(data: Required<MetaData>, delay = 0) {
         opacity: 0.75;
         text-align: start;
         position: absolute;
-        bottom: 0;
+        bottom: 10px;
         left: 110px;
         color: black;
         max-width: 300px;
