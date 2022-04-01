@@ -46,7 +46,7 @@
       .main {
         transform: translate(610px, 0px);
         animation: slideIn 1s ease-out forwards;
-        animation-delay: 0s;
+        animation-delay: 0.25s;
         fill: white;
       }
       .data {
@@ -85,7 +85,7 @@
     <foreignObject width="600" height="100" x="5" y="5">
       <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
         <div class="image" />
-        <div class="text">
+<div class="text">
           <div class="title">Responsive&#0032;SEO&#0032;Agency&#0032;Website&#0032;using&#0032;HTML&#0032;CSS&#0032;JavaScript</div>
           <div class="description">How&#0032;to&#0032;build&#0032;a&#0032;seo&#0032;agency&#0032;website&#0032;using&#0032;html&#0032;css&#0032;javascript&#0032;&#0032;In&#0032;this&#0032;video&#0044;&#0032;I&#0032;will&#0032;show&#0032;you&#0032;how&#0046;&#0046;&#0046;</div>
           <div class="date">4&#0047;1&#0047;22</div>

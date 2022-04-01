@@ -85,7 +85,7 @@
     <foreignObject width="600" height="100" x="5" y="5">
       <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
         <div class="image" />
-        <div class="text">
+<div class="text">
           <div class="title">Tips&#0032;for&#0032;creating&#0032;a&#0032;component&#0032;library</div>
           <div class="description">How&#0032;to&#0032;develop&#0032;a&#0032;component&#0032;library&#0032;that&#0032;everybody&#0032;will&#0032;want&#0032;to&#0032;use&#0033;</div>
           <div class="date"></div>

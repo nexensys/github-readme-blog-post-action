@@ -85,7 +85,7 @@
     <foreignObject width="600" height="100" x="5" y="5">
       <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
         <div class="image" />
-        <div class="text">
+<div class="text">
           <div class="title">Svend3r&#0044;&#0032;a&#0032;Plug&#0032;and&#0032;Play&#0032;Charting&#0032;Library&#0032;for&#0032;Your&#0032;Svelte&#0032;project&#0046;</div>
           <div class="description">Charts&#0032;are&#0032;tedious&#0044;&#0032;let&#0032;Svend3r&#0032;save&#0032;you&#0032;time…</div>
           <div class="date"></div>

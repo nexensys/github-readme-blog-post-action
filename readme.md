@@ -10,15 +10,15 @@ Recent Blogs:
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, April 1, 2022 at 11:50:57 AM
+> Last updated: Friday, April 1, 2022 at 11:56:19 AM
 
 > Showing 5 of 12 posts.
 
+[![Building and distributing a command line tool in Golang](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_and_distributing_a_command_line_tool_in_Golang.svg)](https://dev.to/mauriciolinhares/building-and-distributing-a-command-line-tool-in-golang-go0)
 [![Responsive SEO Agency Website using HTML CSS JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Responsive_SEO_Agency_Website_using_HTML_CSS_JavaScript.svg)](https://dev.to/codewithsadee/responsive-seo-agency-website-using-html-css-javascript-2fme)
 [![React NodeJS Soft Dashboard - Open-Source Full-Stack Starter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_NodeJS_Soft_Dashboard_-_Open-Source_Full-Stack_Starter.svg)](https://dev.to/sm0ke/react-nodejs-soft-dashboard-open-source-full-stack-starter-4bfb)
 [![wallet.dat](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/wallet.dat.svg)](https://dev.to/marstriyana/walletdat-4elj)
 [![Getting started with Loki and AKS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_started_with_Loki_and_AKS.svg)](https://dev.to/lastcoolnameleft/getting-started-with-loki-and-aks-522e)
-[![Three ways to import data into Postgres](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Three_ways_to_import_data_into_Postgres.svg)](https://dev.to/arctype/three-ways-to-import-data-into-postgres-38jk)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, April 1, 2022 at 11:51:00 AM
+> Last updated: Friday, April 1, 2022 at 11:56:22 AM
 
 > Showing 4 of 4 posts.
 
@@ -45,7 +45,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, April 1, 2022 at 11:51:05 AM
+> Last updated: Friday, April 1, 2022 at 11:56:27 AM
 
 > Showing 5 of 30 posts.
 

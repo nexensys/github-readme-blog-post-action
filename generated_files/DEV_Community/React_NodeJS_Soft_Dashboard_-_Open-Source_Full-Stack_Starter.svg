@@ -46,7 +46,7 @@
       .main {
         transform: translate(610px, 0px);
         animation: slideIn 1s ease-out forwards;
-        animation-delay: 0.25s;
+        animation-delay: 0.5s;
         fill: white;
       }
       .data {
@@ -85,7 +85,7 @@
     <foreignObject width="600" height="100" x="5" y="5">
       <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
         <div class="image" />
-        <div class="text">
+<div class="text">
           <div class="title">React&#0032;NodeJS&#0032;Soft&#0032;Dashboard&#0032;&#0045;&#0032;Open&#0045;Source&#0032;Full&#0045;Stack&#0032;Starter</div>
           <div class="description">Simple&#0032;full&#0045;stack&#0032;starter&#0032;that&#0032;uses&#0032;a&#0032;M&#0045;UI&#0032;React&#0032;design&#0032;powered&#0032;by&#0032;Express&#0047;NodeJS</div>
           <div class="date">4&#0047;1&#0047;22</div>

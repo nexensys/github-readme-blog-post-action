@@ -85,7 +85,7 @@
     <foreignObject width="600" height="100" x="5" y="5">
       <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
         <div class="image" />
-        <div class="text">
+<div class="text">
           <div class="title">Hide&#0032;the&#0032;Tooltip&#0032;in&#0032;ChartJS</div>
           <div class="description">Here&#0039;s&#0032;how&#0032;you&#0032;can&#0032;hide&#0032;the&#0032;default&#0032;tooltip&#0032;that&#0032;shows&#0032;when&#0032;you&#0032;mouse&#0032;over&#0032;a&#0032;ChartJS&#0032;chart&#0046;</div>
           <div class="date"></div>

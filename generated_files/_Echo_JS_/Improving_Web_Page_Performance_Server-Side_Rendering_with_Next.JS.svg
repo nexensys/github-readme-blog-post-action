@@ -85,7 +85,7 @@
     <foreignObject width="600" height="100" x="5" y="5">
       <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
         <div class="image" />
-        <div class="text">
+<div class="text">
           <div class="title">Improving&#0032;Web&#0032;Page&#0032;Performance&#0032;Server&#0045;Side&#0032;Rendering&#0032;with&#0032;Next&#0046;JS</div>
           <div class="description">Displaying&#0032;enticing&#0032;product&#0032;images&#0032;with&#0032;fast&#0032;load&#0032;speeds&#0032;on&#0032;high&#0045;traffic&#0032;pages&#0032;can&#0032;be&#0032;a&#0032;hard&#0046;&#0032;Learn&#0032;how&#0032;we&#0032;implemented&#0032;server&#0032;side&#0032;rendering&#0032;with&#0032;next&#0046;js</div>
           <div class="date"></div>
