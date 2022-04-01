@@ -21,5 +21,6 @@ export interface MetaData {
   image?: null | string;
   date?: Date;
   author?: string;
+  categories?: string[];
   [k: string]: any;
 }
