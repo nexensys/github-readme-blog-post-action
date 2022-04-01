@@ -196,7 +196,7 @@ function generateSVG(data: Required<MetaData>, delay = 0) {
         padding-bottom: 5px;
         left: 110px;
         color: black;
-        max-width: 300px;
+        max-width: 400px;
         overflow: hidden;
         white-space: nowrap;
         text-overflow: ellipsis;
@@ -218,9 +218,6 @@ function generateSVG(data: Required<MetaData>, delay = 0) {
         }
       }
     </style>
-    <clipPath id="clip">
-      <rect width="300" height="1.5em" />
-    </clipPath>
   </defs>
   <g class="main">
     <rect class="content" width="600" height="100" stroke="rgba(0, 0, 0, 0.5)" x="5" y="5" rx="10" />
