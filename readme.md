@@ -1,17 +1,17 @@
 > Warning: This is not complete
 
-Built with help from Github Copilot
-
 Example:
 
 Recent Blogs:
 
 <!-- blog-post-list:start -->
+
 ## DEV Community
 
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
+
 > Last updated: Friday, April 1, 2022 at 10:55:19 AM
 
 > Showing 10 of 12 posts.
@@ -26,6 +26,5 @@ The most recent home feed on DEV Community.
 [![Directus on YugabyteDB](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community/Directus_on_YugabyteDB.svg)](https://dev.to/yugabyte/directus-on-yugabytedb-4fpl)
 [![How To Build A Classic Web3 NFT Minting Dapp with React and Solidity: Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community/How_To_Build_A_Classic_Web3_NFT_Minting_Dapp_with_React_and_Solidity__Part_1.svg)](https://dev.to/daltonic/how-to-build-a-classic-web3-nft-minting-dapp-with-react-and-solidity-part-1-4ag)
 [![A new machine learning platform that helps you quickly build industrial-grade recommendation systems](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community/A_new_machine_learning_platform_that_helps_you_quickly_build_industrial-grade_recommendation_systems.svg)](https://dev.to/qazmkop/a-new-machine-learning-platform-that-helps-you-quickly-build-industrial-grade-recommendation-systems-5466)
-
 
 <!-- blog-post-list:end -->
