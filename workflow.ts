@@ -273,10 +273,10 @@ async function load(url: string): Promise<FeedData> {
       {
         url: post.link,
         title: post.title,
-        description: post.contentSnippet,
+        description: post.contentSnippet || "",
         image: null,
         date: new Date(post.isoDate as string),
-        author: post.creator,
+        author: post.creator || "",
         categories: post.categories || []
       },
       meta
