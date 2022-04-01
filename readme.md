@@ -12,20 +12,20 @@ Recent Blogs:
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, April 1, 2022 at 10:28:23 AM
+> Last updated: Friday, April 1, 2022 at 10:44:48 AM
 
 > Showing 10 of 12 posts.
 
 [![WHY IS PYTHON CONSIDERED A DREAM TICKET FOR HIGH-PAYING JOBS?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community/WHY_IS_PYTHON_CONSIDERED_A_DREAM_TICKET_FOR_HIGH-PAYING_JOBS_.svg)](https://dev.to/sandeepk27/why-is-python-considered-a-dream-ticket-for-high-paying-jobs-4hfc)
 [![Day 13: 100 Days of SwiftUI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community/Day_13__100_Days_of_SwiftUI.svg)](https://dev.to/johnkevinlosito/day-13-100-days-of-swiftui-4994)
+[![How Dare you!!! Nevermind](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community/How_Dare_you!!!_Nevermind.svg)](https://dev.to/carleii/how-dare-you-nevermind-16pe)
+[![11 Best CSS Grid Layout Generators](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community/11_Best_CSS_Grid_Layout_Generators.svg)](https://dev.to/lambdatest/11-best-css-grid-layout-generators-5203)
 [![My first release on GitHub..](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community/My_first_release_on_GitHub...svg)](https://dev.to/carleii/my-first-release-on-github-cb7)
+[![Understand how microservices can improve edge and embedded systems projects.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community/Understand_how_microservices_can_improve_edge_and_embedded_systems_projects..svg)](https://dev.to/luos/understand-how-microservices-can-improve-edge-and-embedded-systems-projects-3j5k)
+[![Directus on YugabyteDB](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community/Directus_on_YugabyteDB.svg)](https://dev.to/yugabyte/directus-on-yugabytedb-4fpl)
+[![How To Build A Classic Web3 NFT Minting Dapp with React and Solidity: Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community/How_To_Build_A_Classic_Web3_NFT_Minting_Dapp_with_React_and_Solidity__Part_1.svg)](https://dev.to/daltonic/how-to-build-a-classic-web3-nft-minting-dapp-with-react-and-solidity-part-1-4ag)
+[![A new machine learning platform that helps you quickly build industrial-grade recommendation systems](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community/A_new_machine_learning_platform_that_helps_you_quickly_build_industrial-grade_recommendation_systems.svg)](https://dev.to/qazmkop/a-new-machine-learning-platform-that-helps-you-quickly-build-industrial-grade-recommendation-systems-5466)
 [![How to find GCD of two or more numbers?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community/How_to_find_GCD_of_two_or_more_numbers_.svg)](https://dev.to/dchhitarka/how-to-find-gcd-of-two-or-more-numbers-ibi)
-[![Difference Between Web vs Hybrid vs Native Apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community/Difference_Between_Web_vs_Hybrid_vs_Native_Apps.svg)](https://dev.to/lambdatest/difference-between-web-vs-hybrid-vs-native-apps-4oce)
-[![Steak Whizard](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community/Steak_Whizard.svg)](https://dev.to/michaellobman/steak-whizard-2ikb)
-[![Linux Desktop: rolling releases and immutability](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community/Linux_Desktop__rolling_releases_and_immutability.svg)](https://dev.to/franute/linux-desktop-rolling-releases-and-immutability-35b7)
-[![JavaScript Array Methods - Filtering](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community/JavaScript_Array_Methods_-_Filtering.svg)](https://dev.to/justtanwa/javascript-array-methods-filtering-1k3p)
-[![Build containers without using Docker](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community/Build_containers_without_using_Docker.svg)](https://dev.to/gbostoen/build-containers-without-using-docker-bk)
-[![HIVE installation on WSL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/blog-post-list-output/DEV_Community/HIVE_installation_on_WSL.svg)](https://dev.to/anujvaghani0/hive-installation-on-wls-mic)
 
 
 <!-- blog-post-list:end -->

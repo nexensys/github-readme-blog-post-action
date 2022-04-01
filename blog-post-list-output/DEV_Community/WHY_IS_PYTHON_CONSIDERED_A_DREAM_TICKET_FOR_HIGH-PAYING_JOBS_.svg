@@ -49,14 +49,28 @@
         animation-delay: 0s;
         fill: white;
       }
-      .author {
-        font-size: 0.5em;
+      .data {
         opacity: 0.75;
         text-align: start;
         position: absolute;
         bottom: 0;
         left: 110px;
         color: black;
+        max-width: 300px;
+        overflow: hidden;
+        whitespace: nowrap;
+        text-overflow: ellipsis;
+      }
+      .author {
+        opacity: 0.75;
+        font-size: 0.5em;
+      }
+      .category {
+        background-color: rgba(0, 0, 0, 0.25);
+        border-radius: 0.25em;
+        padding: 0.25em;
+        font-size: 0.75em;
+        color: rgba(0, 0, 0, 0.4);
       }
       @keyframes slideIn {
         to {
@@ -77,7 +91,9 @@
           <div class="title">WHY&#0032;IS&#0032;PYTHON&#0032;CONSIDERED&#0032;A&#0032;DREAM&#0032;TICKET&#0032;FOR&#0032;HIGH&#0045;PAYING&#0032;JOBS&#0063;</div>
           <div class="description">Python&#0044;&#0032;for&#0032;na&#0239;ve&#0032;aspirants&#0044;&#0032;is&#0032;just&#0032;a&#0032;coding&#0032;language&#0032;but&#0032;otherwise&#0044;&#0032;it&#0032;is&#0032;considered&#0032;the&#0032;Swiss&#0032;army&#0046;&#0046;&#0046;</div>
           <div class="date">4&#0047;1&#0047;22</div>
-          <div class="author">sandeepk27</div>
+          <div class="data">
+            <span class="author">sandeepk27</span> 
+          </div>
         </div>
       </div>
     </foreignObject>
