@@ -309,7 +309,7 @@ async function load(url: string): Promise<FeedData> {
 function generateFeedMarkdown(feed: FeedData, rawURL: string): string {
   let md = "";
   if (showFeedData) {
-    if (showFeedTitle) md += `## ${escapeMarkdown(feed.title)}\n\n`;
+    if (showFeedTitle) md += `## ${escapeMarkdown(feed.title.trim())}\n\n`;
     if (showFeedDescription) md += `${escapeMarkdown(feed.description)}\n\n`;
     if (showReadMore) md += `[Read more](${feed.url})\n`;
     if (showLastUpdatedDate)
