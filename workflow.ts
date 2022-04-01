@@ -207,7 +207,7 @@ function generateSVG(data: Required<MetaData>, delay = 0) {
       .category {
         background-color: rgba(0, 0, 0, 0.25);
         border-radius: 0.25em;
-        padding: 0.25em;
+        padding: 0.125em 0.25em;
         font-size: 0.75em;
         color: rgba(0, 0, 0, 0.4);
       }
