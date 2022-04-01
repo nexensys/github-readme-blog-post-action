@@ -9,8 +9,8 @@ jobs:
       - name: Test
         uses: ./
         with:
-          feed_urls: "https://dev.to/feed"
-          max_posts_per_url: 10
+          feed_urls: "https://dev.to/feed,https://cprss.s3.amazonaws.com/javascriptweekly.com.xml,https://www.echojs.com/rss"
+          max_posts_per_url: 5
           locale: "en-US"
           time_zone: "America/Denver"
           output_dir: "generated_files"
