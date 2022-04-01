@@ -38322,12 +38322,12 @@ if (/[/\\?%*:|"<>]/.test(outDir)) {
 function main() {
     return __awaiter(this, void 0, void 0, function* () {
         let repoRawURL = `https://raw.githubusercontent.com/${github.context.repo.owner}/${github.context.repo.repo}/${github.context.ref.replace(/refs\/(?:tags|heads)\//, "")}/`;
-        if (!fs_1.default.existsSync("blog-post-list-output")) {
-            fs_1.default.mkdirSync("blog-post-list-output");
+        if (!fs_1.default.existsSync(outDir)) {
+            fs_1.default.mkdirSync(outDir);
         }
         else {
-            fs_1.default.readdirSync("blog-post-list-output").forEach((file) => {
-                fs_1.default.rmSync(`blog-post-list-output/${file}`, { recursive: true });
+            fs_1.default.readdirSync(outDir).forEach((file) => {
+                fs_1.default.rmSync(`${outDir}/${file}`, { recursive: true });
             });
         }
         let feedList = feedURLS.split(",");
@@ -38335,10 +38335,10 @@ function main() {
         for (let url of feedList) {
             let feed = yield load(url);
             let feedFolder = sanitizePath(feed.title);
-            let rawURL = repoRawURL + "blog-post-list-output/" + feedFolder + "/";
-            fs_1.default.mkdirSync(`blog-post-list-output/${feedFolder}`);
+            let rawURL = repoRawURL + `${outDir}/${feedFolder}/`;
+            fs_1.default.mkdirSync(`${outDir}/${feedFolder}`);
             for (let image of feed.images) {
-                fs_1.default.writeFileSync(`blog-post-list-output/${feedFolder}/${image.imageFileName}`, image.image);
+                fs_1.default.writeFileSync(`${outDir}/${feedFolder}/${image.imageFileName}`, image.image);
             }
             markdown += generateFeedMarkdown(feed, rawURL) + "\n\n";
         }
