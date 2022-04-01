@@ -34,9 +34,6 @@
       }
       
       .main {
-        transform: translate(610px, 0px);
-        animation: slideIn 1s ease-out forwards;
-        animation-delay: 0.5s;
         fill: white;
       }
       .data {
@@ -62,11 +59,6 @@
         padding: 0.125em 0.25em;
         font-size: 0.75em;
         color: rgba(0, 0, 0, 0.4);
-      }
-      @keyframes slideIn {
-        to {
-          transform: translate(0px, 0px);
-        }
       }
     </style>
   </defs>
