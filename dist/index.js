@@ -38477,10 +38477,10 @@ function load(url) {
             let data = Object.assign({
                 url: post.link,
                 title: post.title,
-                description: post.contentSnippet,
+                description: post.contentSnippet || "",
                 image: null,
                 date: new Date(post.isoDate),
-                author: post.creator,
+                author: post.creator || "",
                 categories: post.categories || []
             }, meta);
             core.info("Generating post card...");
