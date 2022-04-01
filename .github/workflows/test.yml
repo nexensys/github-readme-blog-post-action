@@ -12,6 +12,7 @@ jobs:
         with:
           feed_urls: "https://dev.to/feed"
           max_posts_per_url: 10
+          locale: "en-US"
       - name: Commit changed files
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
