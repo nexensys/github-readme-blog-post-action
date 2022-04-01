@@ -100,11 +100,11 @@ async function main() {
     /refs\/(?:tags|heads)\//,
     ""
   )}/`;
-  if (!fs.existsSync("blog-post-list-output")) {
-    fs.mkdirSync("blog-post-list-output");
+  if (!fs.existsSync(outDir)) {
+    fs.mkdirSync(outDir);
   } else {
-    fs.readdirSync("blog-post-list-output").forEach((file) => {
-      fs.rmSync(`blog-post-list-output/${file}`, { recursive: true });
+    fs.readdirSync(outDir).forEach((file) => {
+      fs.rmSync(`${outDir}/${file}`, { recursive: true });
     });
   }
   let feedList = feedURLS.split(",");
@@ -113,11 +113,11 @@ async function main() {
   for (let url of feedList) {
     let feed = await load(url);
     let feedFolder = sanitizePath(feed.title);
-    let rawURL = repoRawURL + "blog-post-list-output/" + feedFolder + "/";
-    fs.mkdirSync(`blog-post-list-output/${feedFolder}`);
+    let rawURL = repoRawURL + `${outDir}/${feedFolder}/`;
+    fs.mkdirSync(`${outDir}/${feedFolder}`);
     for (let image of feed.images) {
       fs.writeFileSync(
-        `blog-post-list-output/${feedFolder}/${image.imageFileName}`,
+        `${outDir}/${feedFolder}/${image.imageFileName}`,
         image.image
       );
     }
