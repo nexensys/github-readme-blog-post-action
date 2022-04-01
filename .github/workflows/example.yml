@@ -14,6 +14,7 @@ jobs:
         with:
           feed_urls: "https://dev.to/feed,https://cprss.s3.amazonaws.com/javascriptweekly.com.xml,https://www.echojs.com/rss"
           max_posts_per_url: 5
+          postion_indicator: "post-list"
           locale: "en-US"
           time_zone: "America/Denver"
           output_dir: "generated_files"
