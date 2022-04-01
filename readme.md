@@ -2,14 +2,22 @@
 
 A (somewhat) simple github action that generates a set of cards for recent blog posts.
 
+### Table of Contents
+
+- [Quick Start](#quick-start)
+- [Inputs](#inputs)
+- [Usage Notes](#usage-notes)
+
 Here's an example of how it looks given the URLs for DEV Community, JavaScript Weekly, and Echo JS:
 
 <!-- post-list:start -->
+
 ## DEV Community
 
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
+
 > Last updated: Friday, April 1, 2022 at 5:07:14 PM
 
 > Showing 5 of 12 posts.
@@ -20,12 +28,12 @@ The most recent home feed on DEV Community.
 [![Resource Override](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Resource_Override.svg)](https://dev.to/vadimfilimonov/resource-override-6o8)
 [![🤔 What is Database Index?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🤔_What_is_Database_Index_.svg)](https://dev.to/kaziusan/what-is-database-index-4m5l)
 
-
 ## JavaScript Weekly
 
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
+
 > Last updated: Friday, April 1, 2022 at 5:07:16 PM
 
 > Showing 4 of 4 posts.
@@ -35,30 +43,27 @@ A newsletter of JavaScript articles, news and cool projects
 [![Getting creative with JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Getting_creative_with_JavaScript.svg)](https://javascriptweekly.com/issues/581)
 [![Bringing static type syntax into JavaScript itself](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Bringing_static_type_syntax_into_JavaScript_itself.svg)](https://javascriptweekly.com/issues/580)
 
-
 ## Echo JS
 
 Description pending
 
-[Read more](
-http://www.echojs.com
-)
+[Read more](http://www.echojs.com)
+
 > Last updated: Friday, April 1, 2022 at 5:07:22 PM
 
 > Showing 5 of 30 posts.
 
 [![Svend3r, a Plug and Play Charting Library for Your Svelte project.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Svend3r__a_Plug_and_Play_Charting_Library_for_Your_Svelte_project..svg)](https://medium.com/@isaaclsaunders/svend3r-a-plug-and-play-charting-library-for-your-svelte-project-2753b8762ec8)
-[![Hide the Tooltip in ChartJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Hide_the_Tooltip_in_ChartJS.svg)](
-https://masteringjs.io/tutorials/chartjs/hide-tooltip
-)
+[![Hide the Tooltip in ChartJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Hide_the_Tooltip_in_ChartJS.svg)](https://masteringjs.io/tutorials/chartjs/hide-tooltip)
 [![Hivelance](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Hivelance.svg)](https://hivelance.com)
 [![Improving Web Page Performance Server-Side Rendering with Next.JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Improving_Web_Page_Performance_Server-Side_Rendering_with_Next.JS.svg)](https://doordash.engineering/2022/03/29/improving-web-page-performance-at-doordash-throughserver-side-rendering-with-next-js/)
 [![Tips for creating a component library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Tips_for_creating_a_component_library.svg)](https://blog.openreplay.com/tips-for-creating-a-component-library)
 
-
 <!-- post-list:end -->
 
 # Quick Start
+
+This action runs out-of-the-box, whit only one provided input.
 
 Create a `.yml` file with the desired filename, and paste the following:
 
@@ -94,9 +99,7 @@ Replace the FEEDS with a comma-seperated list of [RSS feed](https://rss.com/blog
 
 list, and **_BAM!_** You have yourself an automatic action that runs every 6 hours and when you change any of the files in your readme!
 
-# Docs
-
-# Options
+# Inputs
 
 <table>
   <thead>
@@ -112,7 +115,7 @@ list, and **_BAM!_** You have yourself an automatic action that runs every 6 hou
       <td><code>feed_urls</code></td>
       <td><code>string</code></td>
       <td><code>""</code></td>
-      <td>A (comma-seperated) list of RSS feed URLs to load posts from.</td>
+      <td>A (comma-seperated) list of RSS feed URLs to load posts from. This is the only required input.</td>
     </tr>
     <tr>
       <td><code>max_posts_per_url</code></td>
@@ -196,3 +199,12 @@ list, and **_BAM!_** You have yourself an automatic action that runs every 6 hou
 -->
   </tbody>
 </table>
+
+# Usage Notes
+
+- Make sure that you use an action that will commit changed files to the repository after this action has run, so that the files actually get changed.
+- If you have an image that is not loading, create an issue with the template `Missing Image Bug`.
+- If you spot a card rendering error, make an issue with the template `Rendering Error`.
+- Other bugs/errors should be made with the `Unidentified Error` template.
+- I am a solo dev, and will get back to you as soon as I can, so expect to wait several weeks depending on how many other issues there are.
+- Enjoy and share! 🤗
