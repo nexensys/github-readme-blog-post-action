@@ -2,12 +2,6 @@
 
 A (somewhat) simple github action that generates a set of cards for recent blog posts.
 
-### Table of Contents
-
-- [Quick Start](#quick-start)
-- [Inputs](#inputs)
-- [Usage Notes](#usage-notes)
-
 Here's an example of how it looks given the URLs for DEV Community, JavaScript Weekly, and Echo JS:
 
 <!-- post-list:start -->
@@ -46,9 +40,7 @@ A newsletter of JavaScript articles, news and cool projects
 
 Description pending
 
-[Read more](
-http://www.echojs.com
-)
+[Read more](http://www.echojs.com)
 > Last updated: Friday, April 1, 2022 at 5:17:50 PM
 
 > Showing 5 of 30 posts.
@@ -60,13 +52,11 @@ https://masteringjs.io/tutorials/chartjs/hide-tooltip
 [![Hivelance](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Hivelance.svg)](https://hivelance.com)
 [![Improving Web Page Performance Server-Side Rendering with Next.JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Improving_Web_Page_Performance_Server-Side_Rendering_with_Next.JS.svg)](https://doordash.engineering/2022/03/29/improving-web-page-performance-at-doordash-throughserver-side-rendering-with-next-js/)
 [![Tips for creating a component library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Tips_for_creating_a_component_library.svg)](https://blog.openreplay.com/tips-for-creating-a-component-library)
-
-
 <!-- post-list:end -->
 
 # Quick Start
 
-This action runs out-of-the-box, whit only one provided input.
+This action runs out-of-the-box, with only one provided input.
 
 Create a `.yml` file with the desired filename, and paste the following:
 
@@ -136,7 +126,7 @@ list, and **_BAM!_** You have yourself an automatic action that runs every 6 hou
       <td><code>show_feed_data</code></td>
       <td><code>boolean</code></td>
       <td><code>true</code></td>
-      <td>Whether or not to show the generated markdown describing the feed, which includes teh title of the feed, the description of the feed, the Read More link, the last updated date, and the post count. Each of these can also be individually toggled with the following options. This will override any of the specific options, so it is better to disable/enable them specifically if you want to remove some elements.</td>
+      <td>Whether or not to show the generated markdown describing the feed, which includes the title of the feed, the description of the feed, the <code>Read More</code> link, the last updated date, and the post count. Each of these can also be individually toggled with the following options. This will override any of the specific options, so it is better to disable/enable them specifically if you want to remove some elements.</td>
     </tr>
     <tr>
       <td><code>show_feed_title</code></td>
