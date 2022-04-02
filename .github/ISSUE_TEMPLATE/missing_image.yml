@@ -11,7 +11,7 @@ body:
     attributes:
       label: What is the title of the post that the image was supposed to be for?
       description: The text that shows next to the broken image icon instead of the image.
-    validation:
+    validations:
       required: true
   - type: dropdown
     id: browsers
@@ -37,4 +37,4 @@ body:
     attributes:
       label: Action errors and warnings
       description: Copy and paste the content of any errors or warnings that are shown in the workflow run.
-      render: shell
+      render: Shell
