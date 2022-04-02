@@ -10,7 +10,7 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, April 2, 2022 at 4:02:15 PM
+> Last updated: Saturday, April 2, 2022 at 4:03:58 PM
 
 > Showing 5 of 12 posts.
 
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, April 2, 2022 at 4:02:18 PM
+> Last updated: Saturday, April 2, 2022 at 4:04:01 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, April 2, 2022 at 4:02:20 PM
+> Last updated: Saturday, April 2, 2022 at 4:04:05 PM
 
 > Showing 5 of 30 posts.
 
