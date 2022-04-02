@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, April 2, 2022 at 6:14:32 AM
+> Last updated: Saturday, April 2, 2022 at 12:10:28 PM
 
 > Showing 5 of 12 posts.
 
-[![What is your favorite nosql database and why?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_your_favorite_nosql_database_and_why_.svg)](https://dev.to/saptakbhoumik/what-is-your-favorite-nosql-database-and-why-2mef)
-[![Ways to Reduce your Front-End Codes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ways_to_Reduce_your_Front-End_Codes.svg)](https://dev.to/zhcalvin/ways-to-reduce-your-front-end-codes-30hl)
-[![Startup tech stack and role smells](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Startup_tech_stack_and_role_smells.svg)](https://dev.to/kanishka/startup-tech-stack-and-role-smells-eg7)
-[![An Opiniated React Stack](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/An_Opiniated_React_Stack.svg)](https://dev.to/kachidk/an-opiniated-react-stack-im6)
-[![Optimize query size in Django](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Optimize_query_size_in_Django.svg)](https://dev.to/koladev/optimize-query-size-in-django-4nh9)
+[![Reactive programming in action - part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Reactive_programming_in_action_-_part_1.svg)](https://dev.to/scristobal/reactive-programming-in-action-part-1-h75)
+[![IMPROVE ACCESS TO JUSTICE WITH DEEPGRAM](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/IMPROVE_ACCESS_TO_JUSTICE_WITH_DEEPGRAM.svg)](https://dev.to/programamkenya/improve-access-to-justice-with-deepgram-3c6b)
+[![Onde é salvo uma variável?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Onde_é_salvo_uma_variável_.svg)](https://dev.to/vaf/onde-e-salvo-uma-variavel-4l1f)
+[![What are props in react js ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_are_props_in_react_js__.svg)](https://dev.to/shrey802/what-are-props-in-react-js--887)
+[![My first contribution](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_first_contribution.svg)](https://dev.to/ahmedbrs/my-first-contribution-4pdi)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, April 2, 2022 at 6:14:35 AM
+> Last updated: Saturday, April 2, 2022 at 12:10:30 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, April 2, 2022 at 6:14:41 AM
+> Last updated: Saturday, April 2, 2022 at 12:10:33 PM
 
 > Showing 5 of 30 posts.
 
+[![Building CRUD Apps with NextJs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_CRUD_Apps_with_NextJs.svg)](https://blog.openreplay.com/building-crud-apps-with-nextjs)
+[![GitHub - wlucha/angular-starter: Angular 13 Starter with ESLint, Material, Transloco, Jest, TestCafe, Docker & Prettier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_wlucha_angular-starter__Angular_13_Starter_with_ESLint__Material__Transloco__Jest__TestCafe__Docker___Prettier.svg)](https://github.com/wlucha/angular-starter)
+[![GitHub - vroby65/Inspector: visual editor html](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_vroby65_Inspector__visual_editor_html.svg)](https://github.com/vroby65/Inspector)
 [![Svend3r, a Plug and Play Charting Library for Your Svelte project.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Svend3r__a_Plug_and_Play_Charting_Library_for_Your_Svelte_project..svg)](https://medium.com/@isaaclsaunders/svend3r-a-plug-and-play-charting-library-for-your-svelte-project-2753b8762ec8)
 [![Hide the Tooltip in ChartJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Hide_the_Tooltip_in_ChartJS.svg)](
 https://masteringjs.io/tutorials/chartjs/hide-tooltip
 )
-[![Hivelance](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Hivelance.svg)](https://hivelance.com)
-[![Improving Web Page Performance Server-Side Rendering with Next.JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Improving_Web_Page_Performance_Server-Side_Rendering_with_Next.JS.svg)](https://doordash.engineering/2022/03/29/improving-web-page-performance-at-doordash-throughserver-side-rendering-with-next-js/)
-[![Tips for creating a component library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Tips_for_creating_a_component_library.svg)](https://blog.openreplay.com/tips-for-creating-a-component-library)
 
 
 <!-- post-list:end -->
