@@ -1,3 +1,4 @@
+name: Update example images
 on:
   push:
   schedule:
