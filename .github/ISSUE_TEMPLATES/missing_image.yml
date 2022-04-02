@@ -1,0 +1,40 @@
+name: Missing Image Bug
+description: Report a bug that causes an image to not be loaded.
+title: "[Missing Image]: "
+labels: [bug, missing image]
+body:
+  - type: markdown
+    attributes:
+      value: "> Thanks for taking the time to fill out this report! Please fill out all provided inputs."
+  - type: input
+    id: posttitle
+    attributes:
+      label: What is the title of the post that the image was supposed to be for?
+      description: The text that shows next to the broken image icon instead of the image.
+    validation:
+      required: true
+  - type: dropdown
+    id: browsers
+    attributes:
+      label: What browsers are you seeing the problem on?
+      multiple: true
+      options:
+        - Firefox
+        - Chrome
+        - Safari
+        - Microsoft Edge
+        - Other
+  - type: textarea
+    id: actionconfig
+    attributes:
+      label: Workflow configuration yml file
+      description: Copy and paste the contents of the .yml workflow that is causing the error.
+      render: yml
+    validations:
+      required: true
+  - type: textarea
+    id: errorwarning
+    attributes:
+      label: Action errors and warnings
+      description: Copy and paste the content of any errors or warnings that are shown in the workflow run.
+      render: shell
