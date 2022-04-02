@@ -12,9 +12,9 @@ export default async function loadMetaData(url: string): Promise<MetaData> {
     let res = await fetch(url);
     core.debug("Got response from fetch");
     let html = await res.text();
-    core.debug("Got html from response");
+    core.debug("Got HTML from response");
     let $ = cheerio.load(html);
-    core.debug("Loaded html into cheerio");
+    core.debug("Loaded HTML into Cheerio");
     let elems = Object.entries(
       $("meta[property ^= 'og:']:not([property='og:type'])")
     )
@@ -24,7 +24,7 @@ export default async function loadMetaData(url: string): Promise<MetaData> {
       .map(function ([key, value]) {
         return value;
       });
-    core.debug("Got elements from cheerio");
+    core.debug("Got elements from Cheerio");
     let meta = Object.fromEntries(
       elems.map(function (el) {
         return [el.attribs.property.replace(/^og:/, ""), el.attribs.content];

@@ -1,5 +1,5 @@
-name: "Github Blog Post List generator"
-description: "Generate a list of links to recent blog posts"
+name: "Github Readme Blog Post Action"
+description: "A (somewhat) simple GitHub Action that generates a set of cards for recent blog posts."
 inputs:
   feed_urls:
     description: "A comma-seperated list or urls to load the feed from."

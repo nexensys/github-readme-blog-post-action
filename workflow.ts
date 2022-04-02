@@ -128,7 +128,7 @@ async function main() {
     .readdirSync(".")
     .find((file) => file.toLowerCase() === "readme.md");
   if (!readmeFile) {
-    core.setFailed("No readme.md file found in the root directory");
+    core.setFailed("No README.md file found in the root directory");
     exit(1);
   }
 
