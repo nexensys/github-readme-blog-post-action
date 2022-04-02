@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, April 2, 2022 at 12:11:32 AM
+> Last updated: Saturday, April 2, 2022 at 6:14:32 AM
 
 > Showing 5 of 12 posts.
 
-[![Overhaul your Terminal with Zsh + Posh + More](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Overhaul_your_Terminal_with_Zsh_+_Posh_+_More.svg)](https://dev.to/timwjames/overhaul-your-terminal-with-zsh-plugins-more-3oag)
-[![Golang - Installation and Hello World](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Golang_-_Installation_and_Hello_World.svg)](https://dev.to/mr_destructive/golang-installation-and-hello-world-4gn0)
-[![Adding Jest tests to a project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Adding_Jest_tests_to_a_project.svg)](https://dev.to/dailydevtips1/adding-jest-tests-to-a-project-3hai)
-[![Sanity Testing vs Smoke Testing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Sanity_Testing_vs_Smoke_Testing.svg)](https://dev.to/webomates/sanity-testing-vs-smoke-testing-5bm4)
-[![Mining and Nonce in Bitcoin](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mining_and_Nonce_in_Bitcoin.svg)](https://dev.to/vchiranjeeviak/mining-and-nonce-in-bitcoin-4cjc)
+[![What is your favorite nosql database and why?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_your_favorite_nosql_database_and_why_.svg)](https://dev.to/saptakbhoumik/what-is-your-favorite-nosql-database-and-why-2mef)
+[![Ways to Reduce your Front-End Codes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ways_to_Reduce_your_Front-End_Codes.svg)](https://dev.to/zhcalvin/ways-to-reduce-your-front-end-codes-30hl)
+[![Startup tech stack and role smells](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Startup_tech_stack_and_role_smells.svg)](https://dev.to/kanishka/startup-tech-stack-and-role-smells-eg7)
+[![An Opiniated React Stack](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/An_Opiniated_React_Stack.svg)](https://dev.to/kachidk/an-opiniated-react-stack-im6)
+[![Optimize query size in Django](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Optimize_query_size_in_Django.svg)](https://dev.to/koladev/optimize-query-size-in-django-4nh9)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, April 2, 2022 at 12:11:36 AM
+> Last updated: Saturday, April 2, 2022 at 6:14:35 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, April 2, 2022 at 12:11:40 AM
+> Last updated: Saturday, April 2, 2022 at 6:14:41 AM
 
 > Showing 5 of 30 posts.
 
