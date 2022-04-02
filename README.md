@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, April 2, 2022 at 1:55:53 PM
+> Last updated: Saturday, April 2, 2022 at 3:55:06 PM
 
 > Showing 5 of 12 posts.
 
-[![Recordle - Using Deepgram To Build On My Favorite Game](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Recordle_-_Using_Deepgram_To_Build_On_My_Favorite_Game.svg)](https://dev.to/jaydongoodrich/recordle-using-deepgram-to-build-on-my-favorite-game-1jn0)
-[![The Ultimate Guide to The Ultimate Guide to Getting Started in Data Science](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Ultimate_Guide_to_The_Ultimate_Guide_to_Getting_Started_in_Data_Science.svg)](https://dev.to/marrie/the-ultimate-guide-to-the-ultimate-guide-to-getting-started-in-data-science-cad)
-[![More scalable applications only using forms and webcomponents](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/More_scalable_applications_only_using_forms_and_webcomponents.svg)](https://dev.to/uppercod/more-scalable-applications-only-using-forms-and-webcomponents-14ld)
-[![02/04/2022:](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/02_04_2022_.svg)](https://dev.to/miki916/02042022-245h)
-[![how can i get python modules on windows 11 ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/how_can_i_get_python_modules_on_windows_11__.svg)](https://dev.to/ten_code_10/how-can-i-get-python-modules-on-windows-11--566h)
+[![Media Queries Level 5: the ability to respond to user needs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Media_Queries_Level_5__the_ability_to_respond_to_user_needs.svg)](https://dev.to/angellicaaraujo/media-queries-level-5-the-ability-to-respond-to-user-needs-2p68)
+[![Flutter App IOS Build 💫 🌌 ✨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Flutter_App_IOS_Build_💫_🌌_✨.svg)](https://dev.to/gulsenkeskin/flutter-app-ios-build-48lc)
+[![Documenting Code in C#](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Documenting_Code_in_C_.svg)](https://dev.to/pixelatedlagg/documenting-code-in-c-3f6c)
+[![Enabling keyboard navigation on your Mac](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Enabling_keyboard_navigation_on_your_Mac.svg)](https://dev.to/nickytonline/enabling-keyboard-navigation-on-your-mac-1hjb)
+[![Pensamento e verdade](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Pensamento_e_verdade.svg)](https://dev.to/maryrouse200/pensamento-e-verdade-4nc8)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, April 2, 2022 at 1:55:56 PM
+> Last updated: Saturday, April 2, 2022 at 3:55:10 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, April 2, 2022 at 1:56:00 PM
+> Last updated: Saturday, April 2, 2022 at 3:55:14 PM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - parunev/Brick-Destroyer-Java: A simple Java Brick game. JFrame/JPanel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_parunev_Brick-Destroyer-Java__A_simple_Java_Brick_game._JFrame_JPanel.svg)](https://github.com/parunev/Brick-Destroyer-Java)
 [![Building CRUD Apps with NextJs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_CRUD_Apps_with_NextJs.svg)](https://blog.openreplay.com/building-crud-apps-with-nextjs)
 [![GitHub - wlucha/angular-starter: Angular 13 Starter with ESLint, Material, Transloco, Jest, TestCafe, Docker & Prettier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_wlucha_angular-starter__Angular_13_Starter_with_ESLint__Material__Transloco__Jest__TestCafe__Docker___Prettier.svg)](https://github.com/wlucha/angular-starter)
 [![GitHub - vroby65/Inspector: visual editor html](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_vroby65_Inspector__visual_editor_html.svg)](https://github.com/vroby65/Inspector)
 [![Svend3r, a Plug and Play Charting Library for Your Svelte project.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Svend3r__a_Plug_and_Play_Charting_Library_for_Your_Svelte_project..svg)](https://medium.com/@isaaclsaunders/svend3r-a-plug-and-play-charting-library-for-your-svelte-project-2753b8762ec8)
-[![Hide the Tooltip in ChartJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Hide_the_Tooltip_in_ChartJS.svg)](
-https://masteringjs.io/tutorials/chartjs/hide-tooltip
-)
 
 
 <!-- post-list:end -->
