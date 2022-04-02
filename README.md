@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, April 2, 2022 at 12:10:28 PM
+> Last updated: Saturday, April 2, 2022 at 1:54:40 PM
 
 > Showing 5 of 12 posts.
 
-[![Reactive programming in action - part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Reactive_programming_in_action_-_part_1.svg)](https://dev.to/scristobal/reactive-programming-in-action-part-1-h75)
-[![IMPROVE ACCESS TO JUSTICE WITH DEEPGRAM](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/IMPROVE_ACCESS_TO_JUSTICE_WITH_DEEPGRAM.svg)](https://dev.to/programamkenya/improve-access-to-justice-with-deepgram-3c6b)
-[![Onde é salvo uma variável?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Onde_é_salvo_uma_variável_.svg)](https://dev.to/vaf/onde-e-salvo-uma-variavel-4l1f)
-[![What are props in react js ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_are_props_in_react_js__.svg)](https://dev.to/shrey802/what-are-props-in-react-js--887)
-[![My first contribution](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_first_contribution.svg)](https://dev.to/ahmedbrs/my-first-contribution-4pdi)
+[![Recordle - Using Deepgram To Build On My Favorite Game](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Recordle_-_Using_Deepgram_To_Build_On_My_Favorite_Game.svg)](https://dev.to/jaydongoodrich/recordle-using-deepgram-to-build-on-my-favorite-game-1jn0)
+[![The Ultimate Guide to The Ultimate Guide to Getting Started in Data Science](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Ultimate_Guide_to_The_Ultimate_Guide_to_Getting_Started_in_Data_Science.svg)](https://dev.to/marrie/the-ultimate-guide-to-the-ultimate-guide-to-getting-started-in-data-science-cad)
+[![More scalable applications only using forms and webcomponents](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/More_scalable_applications_only_using_forms_and_webcomponents.svg)](https://dev.to/uppercod/more-scalable-applications-only-using-forms-and-webcomponents-14ld)
+[![02/04/2022:](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/02_04_2022_.svg)](https://dev.to/miki916/02042022-245h)
+[![how can i get python modules on windows 11 ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/how_can_i_get_python_modules_on_windows_11__.svg)](https://dev.to/ten_code_10/how-can-i-get-python-modules-on-windows-11--566h)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, April 2, 2022 at 12:10:30 PM
+> Last updated: Saturday, April 2, 2022 at 1:54:42 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, April 2, 2022 at 12:10:33 PM
+> Last updated: Saturday, April 2, 2022 at 1:54:44 PM
 
 > Showing 5 of 30 posts.
 
