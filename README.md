@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, April 1, 2022 at 5:17:43 PM
+> Last updated: Friday, April 1, 2022 at 6:35:29 PM
 
 > Showing 5 of 12 posts.
 
-[![Fun interactivity using react-stars!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Fun_interactivity_using_react-stars!.svg)](https://dev.to/asherscott/fun-interactivity-using-react-stars-2n7n)
-[![Splitting String on Date Format Producing an Array](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Splitting_String_on_Date_Format_Producing_an_Array.svg)](https://dev.to/briang123/splitting-string-on-date-format-producing-an-array-468l)
-[![I'm building a telegram bot to remind me changing my car oil](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I'm_building_a_telegram_bot_to_remind_me_changing_my_car_oil.svg)](https://dev.to/nagi/im-building-a-telegram-bot-to-remind-me-changing-my-car-oil-2dan)
-[![BuiltInNYC lists "startups" that are old?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/BuiltInNYC_lists__startups__that_are_old_.svg)](https://dev.to/kanishka/builtinnyc-lists-startups-that-are-old-1icf)
-[![Qué es y como crear ETL en AWS Glue Parte 3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Qué_es_y_como_crear_ETL_en_AWS_Glue_Parte_3.svg)](https://dev.to/davidshaek/que-es-y-como-crear-etl-en-aws-glue-parte-3-4n6n)
+[![Amazing Surprise to Bezos](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Amazing_Surprise_to_Bezos.svg)](https://dev.to/breakfree/amazing-surprise-to-bezos-3mbp)
+[![The Ultimate Guide to Getting Started in Data Science.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Ultimate_Guide_to_Getting_Started_in_Data_Science..svg)](https://dev.to/gateremark/the-ultimate-guide-to-getting-started-in-data-science-2c7a)
+[![Apuntes de React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Apuntes_de_React.svg)](https://dev.to/tiffmonique/apuntes-de-react-51ie)
+[![Diferenças entre escopos no JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Diferenças_entre_escopos_no_JavaScript.svg)](https://dev.to/pliniohr/diferencas-entre-escopos-no-javascript-3190)
+[![What I learned after 20+ years of software development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_I_learned_after_20+_years_of_software_development.svg)](https://dev.to/thiagomg/what-i-learned-after-20-years-of-software-development-2gd2)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, April 1, 2022 at 5:17:45 PM
+> Last updated: Friday, April 1, 2022 at 6:35:31 PM
 
 > Showing 4 of 4 posts.
 
@@ -40,8 +40,10 @@ A newsletter of JavaScript articles, news and cool projects
 
 Description pending
 
-[Read more](http://www.echojs.com)
-> Last updated: Friday, April 1, 2022 at 5:17:50 PM
+[Read more](
+http://www.echojs.com
+)
+> Last updated: Friday, April 1, 2022 at 6:35:34 PM
 
 > Showing 5 of 30 posts.
 
@@ -52,6 +54,8 @@ https://masteringjs.io/tutorials/chartjs/hide-tooltip
 [![Hivelance](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Hivelance.svg)](https://hivelance.com)
 [![Improving Web Page Performance Server-Side Rendering with Next.JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Improving_Web_Page_Performance_Server-Side_Rendering_with_Next.JS.svg)](https://doordash.engineering/2022/03/29/improving-web-page-performance-at-doordash-throughserver-side-rendering-with-next-js/)
 [![Tips for creating a component library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Tips_for_creating_a_component_library.svg)](https://blog.openreplay.com/tips-for-creating-a-component-library)
+
+
 <!-- post-list:end -->
 
 # Quick Start
