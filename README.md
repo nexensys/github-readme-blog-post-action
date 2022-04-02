@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, April 2, 2022 at 4:03:58 PM
+> Last updated: Saturday, April 2, 2022 at 5:59:22 PM
 
 > Showing 5 of 12 posts.
 
-[![Media Queries Level 5: the ability to respond to user needs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Media_Queries_Level_5__the_ability_to_respond_to_user_needs.svg)](https://dev.to/angellicaaraujo/media-queries-level-5-the-ability-to-respond-to-user-needs-2p68)
-[![Flutter App IOS Build 💫 🌌 ✨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Flutter_App_IOS_Build_💫_🌌_✨.svg)](https://dev.to/gulsenkeskin/flutter-app-ios-build-48lc)
-[![Documenting Code in C#](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Documenting_Code_in_C_.svg)](https://dev.to/pixelatedlagg/documenting-code-in-c-3f6c)
-[![Enabling keyboard navigation on your Mac](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Enabling_keyboard_navigation_on_your_Mac.svg)](https://dev.to/nickytonline/enabling-keyboard-navigation-on-your-mac-1hjb)
-[![Pensamento e verdade](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Pensamento_e_verdade.svg)](https://dev.to/maryrouse200/pensamento-e-verdade-4nc8)
+[![The Ultimate Guide to Getting Started in Data Science](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Ultimate_Guide_to_Getting_Started_in_Data_Science.svg)](https://dev.to/nelsonchege13/the-ultimate-guide-to-getting-started-in-data-science-npp)
+[![A guide to build an encrypted email service on Solana with Anchor](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_guide_to_build_an_encrypted_email_service_on_Solana_with_Anchor.svg)](https://dev.to/gabrieldemian/a-guide-to-build-an-encrypted-email-service-on-solana-with-anchor-2ci7)
+[![The way to remove unused CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_way_to_remove_unused_CSS.svg)](https://dev.to/sawabe0912/the-way-to-remove-unused-css-5g05)
+[![Unpacking JavaScript 01: Prototypes(--emulating proto runtime--)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unpacking_JavaScript_01__Prototypes(--emulating_proto_runtime--).svg)](https://dev.to/sfundomhlungu/unpacking-javascript-01-prototypes-emulating-proto-runtime--1m68)
+[![Unpacking JavaScript 00: Introduction](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unpacking_JavaScript_00__Introduction.svg)](https://dev.to/sfundomhlungu/unpacking-javascript-00-introduction-2c33)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, April 2, 2022 at 4:04:01 PM
+> Last updated: Saturday, April 2, 2022 at 5:59:24 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, April 2, 2022 at 4:04:05 PM
+> Last updated: Saturday, April 2, 2022 at 5:59:27 PM
 
 > Showing 5 of 30 posts.
 
