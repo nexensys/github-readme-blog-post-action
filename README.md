@@ -10,13 +10,13 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, April 1, 2022 at 6:35:29 PM
+> Last updated: Friday, April 1, 2022 at 6:42:46 PM
 
 > Showing 5 of 12 posts.
 
 [![Amazing Surprise to Bezos](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Amazing_Surprise_to_Bezos.svg)](https://dev.to/breakfree/amazing-surprise-to-bezos-3mbp)
 [![The Ultimate Guide to Getting Started in Data Science.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Ultimate_Guide_to_Getting_Started_in_Data_Science..svg)](https://dev.to/gateremark/the-ultimate-guide-to-getting-started-in-data-science-2c7a)
-[![Apuntes de React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Apuntes_de_React.svg)](https://dev.to/tiffmonique/apuntes-de-react-51ie)
+[![Apuntes de React (Parte 1)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Apuntes_de_React_(Parte_1).svg)](https://dev.to/tiffmonique/apuntes-de-react-51ie)
 [![Diferenças entre escopos no JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Diferenças_entre_escopos_no_JavaScript.svg)](https://dev.to/pliniohr/diferencas-entre-escopos-no-javascript-3190)
 [![What I learned after 20+ years of software development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_I_learned_after_20+_years_of_software_development.svg)](https://dev.to/thiagomg/what-i-learned-after-20-years-of-software-development-2gd2)
 
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, April 1, 2022 at 6:35:31 PM
+> Last updated: Friday, April 1, 2022 at 6:42:50 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, April 1, 2022 at 6:35:34 PM
+> Last updated: Friday, April 1, 2022 at 6:42:54 PM
 
 > Showing 5 of 30 posts.
 
