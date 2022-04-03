@@ -92,7 +92,7 @@ Replace the FEEDS with a comma-seperated list of [RSS feed](https://rss.com/blog
 <!-- blog-post-list:end -->
 ```
 
-list, and **_BAM!_** You have yourself an automatic action that runs every 6 hours and when you change any of the files in your readme!
+where you want the list, and **_BAM!_** You have yourself an automatic action that runs every 6 hours and when you change any of the files in your readme!
 
 # Inputs
 
