@@ -412,4 +412,8 @@ function parseAndValidate<T>(
   }
 }
 
+/* ----------------------------------- Run ---------------------------------- */
+
+core.startGroup("Run Blog Post List Action");
 main();
+core.endGroup();
