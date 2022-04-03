@@ -40,3 +40,7 @@ body:
       label: Action errors and warnings
       description: Copy and paste the content of any errors or warnings that are shown in the workflow run.
       render: Shell
+  - type: textarea
+    id: info
+    attributes:
+      label: Other information
