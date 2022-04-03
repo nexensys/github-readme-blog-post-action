@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, April 3, 2022 at 9:12:29 AM
+> Last updated: Sunday, April 3, 2022 at 12:10:47 PM
 
 > Showing 5 of 12 posts.
 
-[![What can you do to enhance your programming abilities?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_can_you_do_to_enhance_your_programming_abilities_.svg)](https://dev.to/saaaa_/how-can-i-improve-my-programming-skills-1op2)
-[![NuxtJS Templates - A Curated List](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/NuxtJS_Templates_-_A_Curated_List.svg)](https://dev.to/sm0ke/nuxtjs-templates-a-curated-list-3bh2)
-[![Getting started with GitHub Actions and workflows](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_started_with_GitHub_Actions_and_workflows.svg)](https://dev.to/typescripttv/getting-started-with-github-actions-and-workflows-2ki2)
-[![Graph Algorithm - Bipartite Graph(BFS)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Graph_Algorithm_-_Bipartite_Graph(BFS).svg)](https://dev.to/rohithv07/graph-algorithm-bipartite-graphbfs-4f3b)
-[![How long did it take you to get comfortable with coding?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_long_did_it_take_you_to_get_comfortable_with_coding_.svg)](https://dev.to/starbist/how-long-did-it-take-you-to-get-comfortable-with-coding-4c09)
+[![50 Github Repositories for a developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/50_Github_Repositories_for_a_developer.svg)](https://dev.to/dhanushnehru/50-github-repositories-for-a-developer-631)
+[![The Ultimate Guide To Getting Started In Data Science](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Ultimate_Guide_To_Getting_Started_In_Data_Science.svg)](https://dev.to/brayan_kai/the-ultimate-guide-to-getting-started-in-data-science-4h9b)
+[![How to reload an SSR Page](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_reload_an_SSR_Page.svg)](https://dev.to/perkinsjr/how-to-reload-an-ssr-page-2a9g)
+[![Adding Google Analytics using Publish](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Adding_Google_Analytics_using_Publish.svg)](https://dev.to/emin_ui/adding-google-analytics-using-publish-19c3)
+[![On the road again with New Relic in 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/On_the_road_again_with_New_Relic_in_2022.svg)](https://dev.to/newrelic/on-the-road-again-with-new-relic-in-2022-2l4g)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, April 3, 2022 at 9:12:31 AM
+> Last updated: Sunday, April 3, 2022 at 12:10:49 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, April 3, 2022 at 9:12:36 AM
+> Last updated: Sunday, April 3, 2022 at 12:10:53 PM
 
 > Showing 5 of 30 posts.
 
