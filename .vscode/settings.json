@@ -1,0 +1,5 @@
+{
+  "yaml.schemas": {
+    "https://json.schemastore.org/github-issue-config.json": "file:///g%3A/Github/github-readme-blog-post-action/.github/ISSUE_TEMPLATE/config.yml"
+  }
+}
