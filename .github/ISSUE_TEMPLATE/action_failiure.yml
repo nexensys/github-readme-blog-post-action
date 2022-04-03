@@ -1,0 +1,33 @@
+name: Action Failed
+description: The action failed to complete.
+title: "[Action Failed]: "
+labels: [bug, action failed]
+body:
+  - type: markdown
+    attributes:
+      value: "> Thanks for taking the time to fill out this report! Please fill out all provided inputs."
+  - type: textarea
+    id: actionconfig
+    attributes:
+      label: Workflow configuration yml file
+      description: Copy and paste the contents of the .yml workflow that is causing the error.
+      render: yml
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        To see the full log, open the repository settings on the repo that is creating the error,
+        and open actions secrets. Create a secret named `ACTIONS_STEP_DEBUG` and set it to `true`.
+  - type: textarea
+    id: logs
+    attributes:
+      label: Error Logs
+      description: Download the logs from the failed action job, and then paste the log from the step running this action here.
+      render: Shell
+    validations:
+      required: true
+  - type: textarea
+    id: info
+    attributes:
+      label: Other information
