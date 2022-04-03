@@ -85,7 +85,7 @@ const outDir = parseAndValidate<string>(
 );
 
 if (/[/\\?%*:|"<>]/.test(outDir)) {
-  core.setFailed(
+  core.error(
     `Invalid output folder name "${outDir}". The name contains illegal characters.`
   );
   exit(1);
@@ -128,7 +128,7 @@ async function main() {
     .readdirSync(".")
     .find((file) => file.toLowerCase() === "readme.md");
   if (!readmeFile) {
-    core.setFailed("No README.md file found in the root directory");
+    core.error("No README.md file found in the root directory");
     exit(1);
   }
 
@@ -407,7 +407,7 @@ function parseAndValidate<T>(
     }
     return parsed;
   } catch (e) {
-    core.setFailed(`Invalid input ${input}: ${e}`);
+    core.error(`Invalid input ${input}: ${e}`);
     exit(1);
   }
 }
