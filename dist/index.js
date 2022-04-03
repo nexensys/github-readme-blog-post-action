@@ -38315,7 +38315,7 @@ const locale = parseAndValidate("locale", (value) => typeof value === "string");
 const timeZone = parseAndValidate("time_zone", (value) => typeof value === "string");
 const outDir = parseAndValidate("output_dir", (value) => typeof value === "string");
 if (/[/\\?%*:|"<>]/.test(outDir)) {
-    core.setFailed(`Invalid output folder name "${outDir}". The name contains illegal characters.`);
+    core.error(`Invalid output folder name "${outDir}". The name contains illegal characters.`);
     (0, process_1.exit)(1);
 }
 /* --------------------------------- Process -------------------------------- */
@@ -38346,7 +38346,7 @@ function main() {
             .readdirSync(".")
             .find((file) => file.toLowerCase() === "readme.md");
         if (!readmeFile) {
-            core.setFailed("No README.md file found in the root directory");
+            core.error("No README.md file found in the root directory");
             (0, process_1.exit)(1);
         }
         let readme = fs_1.default.readFileSync(readmeFile, "utf8");
@@ -38598,11 +38598,14 @@ function parseAndValidate(input, validateFn) {
         return parsed;
     }
     catch (e) {
-        core.setFailed(`Invalid input ${input}: ${e}`);
+        core.error(`Invalid input ${input}: ${e}`);
         (0, process_1.exit)(1);
     }
 }
+/* ----------------------------------- Run ---------------------------------- */
+core.startGroup("Run Blog Post List Action");
 main();
+core.endGroup();
 
 
 /***/ }),
