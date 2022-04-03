@@ -1,0 +1,16 @@
+name: First Issue
+on: [issues]
+
+jobs:
+  greeter:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: JJ/pr-greeting-action@releases/v1
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          greeting: |
+            Hello @#, looks like this is the first time that you have created an issue here.
+            Thank you for taking the time to fill out this issue,
+            as these issues are the only way that I am able to find and fix bugs with this action.
+            If you think that you know how to fix this issue, go ahead and create a pull request,
+            and I will review it as soon as I can.
