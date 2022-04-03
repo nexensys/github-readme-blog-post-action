@@ -1,6 +1,7 @@
-name: First Issue
-on: [issues]
-
+on:
+  issues:
+    types:
+      - opened
 jobs:
   greeter:
     runs-on: ubuntu-latest
