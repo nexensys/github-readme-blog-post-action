@@ -223,7 +223,7 @@ function generateSVG(data: Required<MetaData>) {
         border-radius: 0.25em;
         padding: 0.125em 0.25em;
         font-size: 0.75em;
-        color: rgba(0, 0, 0, 0.4);
+        color: rgba(0, 0, 0, 0.8);
       }
     </style>
   </defs>
