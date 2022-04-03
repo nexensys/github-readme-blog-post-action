@@ -38216,9 +38216,9 @@ function loadMetaData(url) {
             let res = yield (0, node_fetch_1.default)(url);
             core.debug("Got response from fetch");
             let html = yield res.text();
-            core.debug("Got html from response");
+            core.debug("Got HTML from response");
             let $ = cheerio.load(html);
-            core.debug("Loaded html into cheerio");
+            core.debug("Loaded HTML into Cheerio");
             let elems = Object.entries($("meta[property ^= 'og:']:not([property='og:type'])"))
                 .filter(function ([key, value]) {
                 return !isNaN(Number(key));
@@ -38226,7 +38226,7 @@ function loadMetaData(url) {
                 .map(function ([key, value]) {
                 return value;
             });
-            core.debug("Got elements from cheerio");
+            core.debug("Got elements from Cheerio");
             let meta = Object.fromEntries(elems.map(function (el) {
                 return [el.attribs.property.replace(/^og:/, ""), el.attribs.content];
             }));
@@ -38346,7 +38346,7 @@ function main() {
             .readdirSync(".")
             .find((file) => file.toLowerCase() === "readme.md");
         if (!readmeFile) {
-            core.setFailed("No readme.md file found in the root directory");
+            core.setFailed("No README.md file found in the root directory");
             (0, process_1.exit)(1);
         }
         let readme = fs_1.default.readFileSync(readmeFile, "utf8");
@@ -38431,7 +38431,7 @@ function generateSVG(data) {
         border-radius: 0.25em;
         padding: 0.125em 0.25em;
         font-size: 0.75em;
-        color: rgba(0, 0, 0, 0.4);
+        color: rgba(0, 0, 0, 0.8);
       }
     </style>
   </defs>
