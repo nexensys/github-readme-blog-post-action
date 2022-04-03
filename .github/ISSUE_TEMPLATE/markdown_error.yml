@@ -1,0 +1,27 @@
+name: Generated Markdown Error
+description: Report an error with the generated output markdown.
+title: "[Markdown Error]: "
+labels: [bug, markdown error]
+body:
+  - type: markdown
+    attributes:
+      value: "> Thanks for taking the time to fill out this report! Please fill out all provided inputs."
+  - type: input
+    attributes:
+      label: Link to broken markdown
+      description: Provide a link to the README containing the broken markdown.
+      placeholder: https://github.com/{username}/{repo}/blob/{branch}/README.md
+    validations:
+      required: true
+  - type: textarea
+    id: actionconfig
+    attributes:
+      label: Workflow configuration yml file
+      description: Copy and paste the contents of the .yml workflow that is causing the error.
+      render: yml
+    validations:
+      required: true
+  - type: textarea
+    id: info
+    attributes:
+      label: Other information
