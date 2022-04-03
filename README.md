@@ -10,13 +10,13 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, April 2, 2022 at 7:11:23 PM
+> Last updated: Saturday, April 2, 2022 at 7:16:23 PM
 
 > Showing 5 of 12 posts.
 
 [![The Ultimate Guide to Getting Started in Data Science](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Ultimate_Guide_to_Getting_Started_in_Data_Science.svg)](https://dev.to/nelsonchege13/the-ultimate-guide-to-getting-started-in-data-science-npp)
 [![A guide to build an encrypted email service on Solana with Anchor](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_guide_to_build_an_encrypted_email_service_on_Solana_with_Anchor.svg)](https://dev.to/gabrieldemian/a-guide-to-build-an-encrypted-email-service-on-solana-with-anchor-2ci7)
-[![The way to remove unused CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_way_to_remove_unused_CSS.svg)](https://dev.to/sawabe0912/the-way-to-remove-unused-css-5g05)
+[![The one way to remove unused CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_one_way_to_remove_unused_CSS.svg)](https://dev.to/sawabe0912/the-way-to-remove-unused-css-5g05)
 [![Unpacking JavaScript 01: Prototypes(--emulating proto runtime--)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unpacking_JavaScript_01__Prototypes(--emulating_proto_runtime--).svg)](https://dev.to/sfundomhlungu/unpacking-javascript-01-prototypes-emulating-proto-runtime--1m68)
 [![Unpacking JavaScript 00: Introduction](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unpacking_JavaScript_00__Introduction.svg)](https://dev.to/sfundomhlungu/unpacking-javascript-00-introduction-2c33)
 
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, April 2, 2022 at 7:11:25 PM
+> Last updated: Saturday, April 2, 2022 at 7:16:26 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, April 2, 2022 at 7:11:28 PM
+> Last updated: Saturday, April 2, 2022 at 7:16:28 PM
 
 > Showing 5 of 30 posts.
 
