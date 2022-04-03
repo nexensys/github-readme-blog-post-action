@@ -68,7 +68,7 @@ on:
   schedule:
     - cron: "0 */6 * * *"
 jobs:
-  test:
+  blog:
     runs-on: ubuntu-latest
     name: Fetch and Generate Blog Posts
     steps:
