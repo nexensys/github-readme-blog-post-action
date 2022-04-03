@@ -24,6 +24,8 @@ body:
         - Safari
         - Microsoft Edge
         - Other
+    validations:
+      required: true
   - type: textarea
     id: actionconfig
     attributes:
