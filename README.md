@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, April 3, 2022 at 12:11:29 AM
+> Last updated: Sunday, April 3, 2022 at 6:15:11 AM
 
 > Showing 5 of 12 posts.
 
-[![3 Dev.to tips I hoped someone told me](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/3_Dev.to_tips_I_hoped_someone_told_me.svg)](https://dev.to/freebeliever/3-devto-tips-i-hoped-someone-told-me-54c3)
-[![15+ Best Resources for free fonts on the Internet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/15+_Best_Resources_for_free_fonts_on_the_Internet.svg)](https://dev.to/mihir27/15-best-resources-for-free-fonts-on-the-internet-hkg)
-[![React 18: Everything you need to know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_18__Everything_you_need_to_know.svg)](https://dev.to/ruppysuppy/react-18-everything-you-need-to-know-lh2)
-[![React Portals: create and open modals with keyboard keys](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Portals__create_and_open_modals_with_keyboard_keys.svg)](https://dev.to/djra26111990/react-portals-create-and-open-modals-with-keyboard-keys-1gc2)
-[![Common Jest matchers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Common_Jest_matchers.svg)](https://dev.to/dailydevtips1/common-jest-matchers-3819)
+[![Images and words (Image detection sample) - MR Tutorial for Nreal Light](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Images_and_words_(Image_detection_sample)_-_MR_Tutorial_for_Nreal_Light.svg)](https://dev.to/kara_d_en/images-and-words-image-detection-sample-mr-tutorial-for-nreal-light-2j03)
+[![Writing Custom Migrations in Django](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Writing_Custom_Migrations_in_Django.svg)](https://dev.to/koladev/writing-custom-migrations-in-django-3eli)
+[![EC2 - Elastic Compute Cloud](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/EC2_-_Elastic_Compute_Cloud.svg)](https://dev.to/aws-builders/ec2-elastic-compute-cloud-l91)
+[![All side optimized Next.js translations](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/All_side_optimized_Next.js_translations.svg)](https://dev.to/adrai/all-side-optimized-nextjs-translations-4n9i)
+[![Mantis React - Open-Source M-UI Template](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mantis_React_-_Open-Source_M-UI_Template.svg)](https://dev.to/sm0ke/mantis-react-open-source-m-ui-template-50b4)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, April 3, 2022 at 12:11:31 AM
+> Last updated: Sunday, April 3, 2022 at 6:15:14 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, April 3, 2022 at 12:11:34 AM
+> Last updated: Sunday, April 3, 2022 at 6:15:18 AM
 
 > Showing 5 of 30 posts.
 
+[![How to set configuration variables in Next.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_set_configuration_variables_in_Next.js.svg)](https://blog.vulcanjs.org/how-to-set-configuration-variables-in-next-js-a81505e43dad)
 [![More scalable applications only using forms and webcomponents](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/More_scalable_applications_only_using_forms_and_webcomponents.svg)](https://dev.to/uppercod/more-scalable-applications-only-using-forms-and-webcomponents-14ld)
 [![GitHub - parunev/Brick-Destroyer-Java: A simple Java Brick game. JFrame/JPanel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_parunev_Brick-Destroyer-Java__A_simple_Java_Brick_game._JFrame_JPanel.svg)](https://github.com/parunev/Brick-Destroyer-Java)
 [![Building CRUD Apps with NextJs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_CRUD_Apps_with_NextJs.svg)](https://blog.openreplay.com/building-crud-apps-with-nextjs)
 [![GitHub - wlucha/angular-starter: Angular 13 Starter with ESLint, Material, Transloco, Jest, TestCafe, Docker & Prettier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_wlucha_angular-starter__Angular_13_Starter_with_ESLint__Material__Transloco__Jest__TestCafe__Docker___Prettier.svg)](https://github.com/wlucha/angular-starter)
-[![GitHub - vroby65/Inspector: visual editor html](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_vroby65_Inspector__visual_editor_html.svg)](https://github.com/vroby65/Inspector)
 
 
 <!-- post-list:end -->
