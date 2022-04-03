@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, April 3, 2022 at 6:15:11 AM
+> Last updated: Sunday, April 3, 2022 at 9:11:29 AM
 
 > Showing 5 of 12 posts.
 
-[![Images and words (Image detection sample) - MR Tutorial for Nreal Light](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Images_and_words_(Image_detection_sample)_-_MR_Tutorial_for_Nreal_Light.svg)](https://dev.to/kara_d_en/images-and-words-image-detection-sample-mr-tutorial-for-nreal-light-2j03)
-[![Writing Custom Migrations in Django](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Writing_Custom_Migrations_in_Django.svg)](https://dev.to/koladev/writing-custom-migrations-in-django-3eli)
-[![EC2 - Elastic Compute Cloud](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/EC2_-_Elastic_Compute_Cloud.svg)](https://dev.to/aws-builders/ec2-elastic-compute-cloud-l91)
-[![All side optimized Next.js translations](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/All_side_optimized_Next.js_translations.svg)](https://dev.to/adrai/all-side-optimized-nextjs-translations-4n9i)
-[![Mantis React - Open-Source M-UI Template](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mantis_React_-_Open-Source_M-UI_Template.svg)](https://dev.to/sm0ke/mantis-react-open-source-m-ui-template-50b4)
+[![What can you do to enhance your programming abilities?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_can_you_do_to_enhance_your_programming_abilities_.svg)](https://dev.to/saaaa_/how-can-i-improve-my-programming-skills-1op2)
+[![NuxtJS Templates - A Curated List](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/NuxtJS_Templates_-_A_Curated_List.svg)](https://dev.to/sm0ke/nuxtjs-templates-a-curated-list-3bh2)
+[![Getting started with GitHub Actions and workflows](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_started_with_GitHub_Actions_and_workflows.svg)](https://dev.to/typescripttv/getting-started-with-github-actions-and-workflows-2ki2)
+[![Graph Algorithm - Bipartite Graph(BFS)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Graph_Algorithm_-_Bipartite_Graph(BFS).svg)](https://dev.to/rohithv07/graph-algorithm-bipartite-graphbfs-4f3b)
+[![How long did it take you to get comfortable with coding?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_long_did_it_take_you_to_get_comfortable_with_coding_.svg)](https://dev.to/starbist/how-long-did-it-take-you-to-get-comfortable-with-coding-4c09)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, April 3, 2022 at 6:15:14 AM
+> Last updated: Sunday, April 3, 2022 at 9:11:31 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, April 3, 2022 at 6:15:18 AM
+> Last updated: Sunday, April 3, 2022 at 9:11:37 AM
 
 > Showing 5 of 30 posts.
 
@@ -51,7 +51,7 @@ http://www.echojs.com
 [![More scalable applications only using forms and webcomponents](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/More_scalable_applications_only_using_forms_and_webcomponents.svg)](https://dev.to/uppercod/more-scalable-applications-only-using-forms-and-webcomponents-14ld)
 [![GitHub - parunev/Brick-Destroyer-Java: A simple Java Brick game. JFrame/JPanel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_parunev_Brick-Destroyer-Java__A_simple_Java_Brick_game._JFrame_JPanel.svg)](https://github.com/parunev/Brick-Destroyer-Java)
 [![Building CRUD Apps with NextJs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_CRUD_Apps_with_NextJs.svg)](https://blog.openreplay.com/building-crud-apps-with-nextjs)
-[![GitHub - wlucha/angular-starter: Angular 13 Starter with ESLint, Material, Transloco, Jest, TestCafe, Docker & Prettier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_wlucha_angular-starter__Angular_13_Starter_with_ESLint__Material__Transloco__Jest__TestCafe__Docker___Prettier.svg)](https://github.com/wlucha/angular-starter)
+[![GitHub - wlucha/angular-starter: Angular 13 Starter with Storybook, Transloco, Jest, TestCafe, Docker, ESLint, Material & Prettier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_wlucha_angular-starter__Angular_13_Starter_with_Storybook__Transloco__Jest__TestCafe__Docker__ESLint__Material___Prettier.svg)](https://github.com/wlucha/angular-starter)
 
 
 <!-- post-list:end -->
