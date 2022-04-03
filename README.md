@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, April 3, 2022 at 12:10:47 PM
+> Last updated: Sunday, April 3, 2022 at 3:03:11 PM
 
 > Showing 5 of 12 posts.
 
-[![50 Github Repositories for a developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/50_Github_Repositories_for_a_developer.svg)](https://dev.to/dhanushnehru/50-github-repositories-for-a-developer-631)
-[![The Ultimate Guide To Getting Started In Data Science](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Ultimate_Guide_To_Getting_Started_In_Data_Science.svg)](https://dev.to/brayan_kai/the-ultimate-guide-to-getting-started-in-data-science-4h9b)
-[![How to reload an SSR Page](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_reload_an_SSR_Page.svg)](https://dev.to/perkinsjr/how-to-reload-an-ssr-page-2a9g)
-[![Adding Google Analytics using Publish](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Adding_Google_Analytics_using_Publish.svg)](https://dev.to/emin_ui/adding-google-analytics-using-publish-19c3)
-[![On the road again with New Relic in 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/On_the_road_again_with_New_Relic_in_2022.svg)](https://dev.to/newrelic/on-the-road-again-with-new-relic-in-2022-2l4g)
+[![INSTALACIÓN AIRE ACONDICIONADO MADRID](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/INSTALACIÓN_AIRE_ACONDICIONADO_MADRID.svg)](https://dev.to/siraj5050/instalacion-aire-acondicionado-madrid-np5)
+[![Deepgram Speech Recognize using AI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deepgram_Speech_Recognize_using_AI.svg)](https://dev.to/avacado98/deepgram-speech-recognize-using-ai-2d7p)
+[![JavaScript Array Methods - Some & Every](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_Array_Methods_-_Some___Every.svg)](https://dev.to/justtanwa/javascript-array-methods-some-every-30bb)
+[![99 Lifechanging Money Affirmations for Financial Abundance](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/99_Lifechanging_Money_Affirmations_for_Financial_Abundance.svg)](https://dev.to/monyaffi/99-lifechanging-money-affirmations-for-financial-abundance-nji)
+[![Basic Git commands for development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Basic_Git_commands_for_development.svg)](https://dev.to/abhinandanmishra1/basic-git-commands-for-development-1766)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, April 3, 2022 at 12:10:49 PM
+> Last updated: Sunday, April 3, 2022 at 3:03:13 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,13 +43,13 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, April 3, 2022 at 12:10:53 PM
+> Last updated: Sunday, April 3, 2022 at 3:03:19 PM
 
 > Showing 5 of 30 posts.
 
 [![How to set configuration variables in Next.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_set_configuration_variables_in_Next.js.svg)](https://blog.vulcanjs.org/how-to-set-configuration-variables-in-next-js-a81505e43dad)
 [![More scalable applications only using forms and webcomponents](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/More_scalable_applications_only_using_forms_and_webcomponents.svg)](https://dev.to/uppercod/more-scalable-applications-only-using-forms-and-webcomponents-14ld)
-[![GitHub - parunev/Brick-Destroyer-Java: A simple Java Brick game. JFrame/JPanel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_parunev_Brick-Destroyer-Java__A_simple_Java_Brick_game._JFrame_JPanel.svg)](https://github.com/parunev/Brick-Destroyer-Java)
+[![Build software better, together](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_software_better__together.svg)](https://github.com)
 [![Building CRUD Apps with NextJs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_CRUD_Apps_with_NextJs.svg)](https://blog.openreplay.com/building-crud-apps-with-nextjs)
 [![GitHub - wlucha/angular-starter: Angular 13 Starter with Storybook, Transloco, Jest, TestCafe, Docker, ESLint, Material & Prettier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_wlucha_angular-starter__Angular_13_Starter_with_Storybook__Transloco__Jest__TestCafe__Docker__ESLint__Material___Prettier.svg)](https://github.com/wlucha/angular-starter)
 
