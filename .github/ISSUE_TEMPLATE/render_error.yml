@@ -1,0 +1,40 @@
+name: Rendering Error
+description: Report a rendering bug or error in an image.
+title: "[Rendering Error]: "
+labels: [bug, render error]
+body:
+  - type: markdown
+    attributes:
+      value: "> Thanks for taking the time to fill out this report! Please fill out all provided inputs."
+  - type: input
+    attributes:
+      label: Link to broken image
+      description: Provide a link to the broken image in the github repository.
+      placeholder: https://github.com/{username}/{repo}/blob/{branch}/{output_folder}/{image_folder}/{image}.svg
+    validations:
+      required: true
+  - type: dropdown
+    id: browsers
+    attributes:
+      label: What browsers are you seeing the problem on?
+      multiple: true
+      options:
+        - Firefox
+        - Chrome
+        - Safari
+        - Microsoft Edge
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: actionconfig
+    attributes:
+      label: Workflow configuration yml file
+      description: Copy and paste the contents of the .yml workflow that is causing the error.
+      render: yml
+    validations:
+      required: true
+  - type: textarea
+    id: info
+    attributes:
+      label: Other information
