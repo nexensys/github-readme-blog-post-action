@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, April 2, 2022 at 7:23:41 PM
+> Last updated: Sunday, April 3, 2022 at 12:11:29 AM
 
 > Showing 5 of 12 posts.
 
-[![The Ultimate Guide to Getting Started in Data Science](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Ultimate_Guide_to_Getting_Started_in_Data_Science.svg)](https://dev.to/nelsonchege13/the-ultimate-guide-to-getting-started-in-data-science-npp)
-[![A guide to build an encrypted email service on Solana with Anchor](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_guide_to_build_an_encrypted_email_service_on_Solana_with_Anchor.svg)](https://dev.to/gabrieldemian/a-guide-to-build-an-encrypted-email-service-on-solana-with-anchor-2ci7)
-[![The one way to remove unused CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_one_way_to_remove_unused_CSS.svg)](https://dev.to/sawabe0912/the-way-to-remove-unused-css-5g05)
-[![Unpacking JavaScript 01: Prototypes(--emulating proto runtime--)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unpacking_JavaScript_01__Prototypes(--emulating_proto_runtime--).svg)](https://dev.to/sfundomhlungu/unpacking-javascript-01-prototypes-emulating-proto-runtime--1m68)
-[![Unpacking JavaScript 00: Introduction](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unpacking_JavaScript_00__Introduction.svg)](https://dev.to/sfundomhlungu/unpacking-javascript-00-introduction-2c33)
+[![3 Dev.to tips I hoped someone told me](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/3_Dev.to_tips_I_hoped_someone_told_me.svg)](https://dev.to/freebeliever/3-devto-tips-i-hoped-someone-told-me-54c3)
+[![15+ Best Resources for free fonts on the Internet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/15+_Best_Resources_for_free_fonts_on_the_Internet.svg)](https://dev.to/mihir27/15-best-resources-for-free-fonts-on-the-internet-hkg)
+[![React 18: Everything you need to know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_18__Everything_you_need_to_know.svg)](https://dev.to/ruppysuppy/react-18-everything-you-need-to-know-lh2)
+[![React Portals: create and open modals with keyboard keys](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Portals__create_and_open_modals_with_keyboard_keys.svg)](https://dev.to/djra26111990/react-portals-create-and-open-modals-with-keyboard-keys-1gc2)
+[![Common Jest matchers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Common_Jest_matchers.svg)](https://dev.to/dailydevtips1/common-jest-matchers-3819)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, April 2, 2022 at 7:23:43 PM
+> Last updated: Sunday, April 3, 2022 at 12:11:31 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, April 2, 2022 at 7:23:46 PM
+> Last updated: Sunday, April 3, 2022 at 12:11:34 AM
 
 > Showing 5 of 30 posts.
 
+[![More scalable applications only using forms and webcomponents](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/More_scalable_applications_only_using_forms_and_webcomponents.svg)](https://dev.to/uppercod/more-scalable-applications-only-using-forms-and-webcomponents-14ld)
 [![GitHub - parunev/Brick-Destroyer-Java: A simple Java Brick game. JFrame/JPanel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_parunev_Brick-Destroyer-Java__A_simple_Java_Brick_game._JFrame_JPanel.svg)](https://github.com/parunev/Brick-Destroyer-Java)
 [![Building CRUD Apps with NextJs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_CRUD_Apps_with_NextJs.svg)](https://blog.openreplay.com/building-crud-apps-with-nextjs)
 [![GitHub - wlucha/angular-starter: Angular 13 Starter with ESLint, Material, Transloco, Jest, TestCafe, Docker & Prettier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_wlucha_angular-starter__Angular_13_Starter_with_ESLint__Material__Transloco__Jest__TestCafe__Docker___Prettier.svg)](https://github.com/wlucha/angular-starter)
 [![GitHub - vroby65/Inspector: visual editor html](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_vroby65_Inspector__visual_editor_html.svg)](https://github.com/vroby65/Inspector)
-[![Svend3r, a Plug and Play Charting Library for Your Svelte project.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Svend3r__a_Plug_and_Play_Charting_Library_for_Your_Svelte_project..svg)](https://medium.com/@isaaclsaunders/svend3r-a-plug-and-play-charting-library-for-your-svelte-project-2753b8762ec8)
 
 
 <!-- post-list:end -->
