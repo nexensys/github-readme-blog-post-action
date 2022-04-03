@@ -38604,8 +38604,7 @@ function parseAndValidate(input, validateFn) {
 }
 /* ----------------------------------- Run ---------------------------------- */
 core.startGroup("Run Blog Post List Action");
-main();
-core.endGroup();
+main().then(() => void core.endGroup());
 
 
 /***/ }),
