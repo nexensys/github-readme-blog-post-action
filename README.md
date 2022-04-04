@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, April 3, 2022 at 6:43:43 PM
+> Last updated: Monday, April 4, 2022 at 12:12:20 AM
 
 > Showing 5 of 12 posts.
 
-[![Business Sales Analysis Web App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Business_Sales_Analysis_Web_App.svg)](https://dev.to/designegycreatives/business-sales-analysis-web-app-41f0)
-[![I Miss The Good Old Backend Days - What Do You Prefer?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_Miss_The_Good_Old_Backend_Days_-_What_Do_You_Prefer_.svg)](https://dev.to/tuwang/i-miss-the-good-old-backend-days-what-do-you-prefer-1l4)
-[![RP2: Open-source, Privacy-focused Crypto Tax Software](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/RP2__Open-source__Privacy-focused_Crypto_Tax_Software.svg)](https://dev.to/eprbell/rp2-open-source-crypto-tax-software-f20)
-[![i made a job site just for remote developers.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/i_made_a_job_site_just_for_remote_developers..svg)](https://dev.to/jenulius/i-made-a-job-site-just-for-remote-developers-23lg)
-[![I Created The Fastest C++ Strings System Ever!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_Created_The_Fastest_C++_Strings_System_Ever!.svg)](https://dev.to/xeerx/i-created-the-fastest-c-strings-system-ever-4121)
+[![How many platforms do you use to market yourself and your work?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_many_platforms_do_you_use_to_market_yourself_and_your_work_.svg)](https://dev.to/tmchuynh/how-many-platforms-do-you-use-to-market-yourself-and-your-work-5f72)
+[![Websocket not working in React.Js production build](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Websocket_not_working_in_React.Js_production_build.svg)](https://dev.to/emexrevolarter/websocket-not-working-in-reactjs-production-build-4gkf)
+[![How to Add the Symbol Palette to an Angular Diagram Component](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Add_the_Symbol_Palette_to_an_Angular_Diagram_Component.svg)](https://dev.to/syncfusion/how-to-add-the-symbol-palette-to-an-angular-diagram-component-3gjk)
+[![9 lessons a developer can learn from gym](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/9_lessons_a_developer_can_learn_from_gym.svg)](https://dev.to/canopassoftware/9-lessons-a-developer-can-learn-from-gym-884)
+[![MegaBurn Reviews - REALLY FAKE? They’ll Never Tell You!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/MegaBurn_Reviews_-_REALLY_FAKE__They’ll_Never_Tell_You!.svg)](https://dev.to/megaburnbuy/megaburn-reviews-really-fake-theyll-never-tell-you-47pf)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, April 3, 2022 at 6:43:46 PM
+> Last updated: Monday, April 4, 2022 at 12:12:23 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, April 3, 2022 at 6:43:50 PM
+> Last updated: Monday, April 4, 2022 at 12:12:28 AM
 
 > Showing 5 of 30 posts.
 
