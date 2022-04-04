@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, April 3, 2022 at 3:03:11 PM
+> Last updated: Sunday, April 3, 2022 at 6:08:19 PM
 
 > Showing 5 of 12 posts.
 
-[![INSTALACIÓN AIRE ACONDICIONADO MADRID](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/INSTALACIÓN_AIRE_ACONDICIONADO_MADRID.svg)](https://dev.to/siraj5050/instalacion-aire-acondicionado-madrid-np5)
-[![Deepgram Speech Recognize using AI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deepgram_Speech_Recognize_using_AI.svg)](https://dev.to/avacado98/deepgram-speech-recognize-using-ai-2d7p)
-[![JavaScript Array Methods - Some & Every](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_Array_Methods_-_Some___Every.svg)](https://dev.to/justtanwa/javascript-array-methods-some-every-30bb)
-[![99 Lifechanging Money Affirmations for Financial Abundance](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/99_Lifechanging_Money_Affirmations_for_Financial_Abundance.svg)](https://dev.to/monyaffi/99-lifechanging-money-affirmations-for-financial-abundance-nji)
-[![Basic Git commands for development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Basic_Git_commands_for_development.svg)](https://dev.to/abhinandanmishra1/basic-git-commands-for-development-1766)
+[![Business Sales Analysis Web App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Business_Sales_Analysis_Web_App.svg)](https://dev.to/designegycreatives/business-sales-analysis-web-app-41f0)
+[![I Miss The Good Old Backend Days - What Do You Prefer?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_Miss_The_Good_Old_Backend_Days_-_What_Do_You_Prefer_.svg)](https://dev.to/tuwang/i-miss-the-good-old-backend-days-what-do-you-prefer-1l4)
+[![RP2: Open-source, Privacy-focused Crypto Tax Software](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/RP2__Open-source__Privacy-focused_Crypto_Tax_Software.svg)](https://dev.to/eprbell/rp2-open-source-crypto-tax-software-f20)
+[![i made a job site just for remote developers.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/i_made_a_job_site_just_for_remote_developers..svg)](https://dev.to/jenulius/i-made-a-job-site-just-for-remote-developers-23lg)
+[![I Created The Fastest C++ Strings System Ever!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_Created_The_Fastest_C++_Strings_System_Ever!.svg)](https://dev.to/xeerx/i-created-the-fastest-c-strings-system-ever-4121)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, April 3, 2022 at 3:03:13 PM
+> Last updated: Sunday, April 3, 2022 at 6:08:21 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, April 3, 2022 at 3:03:19 PM
+> Last updated: Sunday, April 3, 2022 at 6:08:26 PM
 
 > Showing 5 of 30 posts.
 
