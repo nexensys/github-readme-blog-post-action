@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, April 4, 2022 at 6:16:19 AM
+> Last updated: Monday, April 4, 2022 at 12:12:23 PM
 
 > Showing 5 of 12 posts.
 
-[![Faire une conversion rapide de vos fichiers NSF au format MSG ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Faire_une_conversion_rapide_de_vos_fichiers_NSF_au_format_MSG__.svg)](https://dev.to/terry_edwards_8e5c421ad89/faire-une-conversion-rapide-de-vos-fichiers-nsf-au-format-msg--30ac)
-[![Art of debugging](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Art_of_debugging.svg)](https://dev.to/varenya/art-of-debugging-17gg)
-[![Python Libraries, modules and packages.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Python_Libraries__modules_and_packages..svg)](https://dev.to/joshwaoti/python-libraries-modules-and-packages-gp6)
-[![Android - Multiple Draggable objects in Jetpack Compose](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Android_-_Multiple_Draggable_objects_in_Jetpack_Compose.svg)](https://dev.to/canopassoftware/android-multiple-draggable-objects-in-jetpack-compose-1a3j)
-[![Free Online Courses To Master MS Excel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Free_Online_Courses_To_Master_MS_Excel.svg)](https://dev.to/anoopsajjan/free-online-courses-to-master-ms-excel-153o)
+[![Web Components 101: Framework Comparison](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Web_Components_101__Framework_Comparison.svg)](https://dev.to/this-is-learning/web-components-101-framework-comparison-989)
+[![How to read a CSV File in C# (Step by Step Tutorial)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_read_a_CSV_File_in_C__(Step_by_Step_Tutorial).svg)](https://dev.to/bristolsamo/how-to-read-a-csv-file-in-c-step-by-step-tutorial-19pn)
+[![Amplication & React: Create the Backend](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Amplication___React__Create_the_Backend.svg)](https://dev.to/amplication/amplication-react-create-the-backend-43lf)
+[![The journey of sharing a wired USB printer over the network](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_journey_of_sharing_a_wired_USB_printer_over_the_network.svg)](https://dev.to/maciekmm/the-journey-of-sharing-a-wired-usb-printer-over-the-network-fg8)
+[![Make a URL Shortener with SvelteKit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Make_a_URL_Shortener_with_SvelteKit.svg)](https://dev.to/spences10/make-a-url-shortener-with-sveltekit-46c0)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, April 4, 2022 at 6:16:22 AM
+> Last updated: Monday, April 4, 2022 at 12:12:26 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, April 4, 2022 at 6:16:27 AM
+> Last updated: Monday, April 4, 2022 at 12:12:33 PM
 
 > Showing 5 of 30 posts.
 
+[![Replacing Enzyme with React Testing Library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Replacing_Enzyme_with_React_Testing_Library.svg)](http://wanago.io/2022/04/04/enzyme-react-testing-library/)
 [![How to set configuration variables in Next.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_set_configuration_variables_in_Next.js.svg)](https://blog.vulcanjs.org/how-to-set-configuration-variables-in-next-js-a81505e43dad)
 [![More scalable applications only using forms and webcomponents](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/More_scalable_applications_only_using_forms_and_webcomponents.svg)](https://dev.to/uppercod/more-scalable-applications-only-using-forms-and-webcomponents-14ld)
 [![Build software better, together](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_software_better__together.svg)](https://github.com)
 [![Building CRUD Apps with NextJs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_CRUD_Apps_with_NextJs.svg)](https://blog.openreplay.com/building-crud-apps-with-nextjs)
-[![GitHub - wlucha/angular-starter: Angular 13 Starter with Storybook, Transloco, Jest, TestCafe, Docker, ESLint, Material & Prettier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_wlucha_angular-starter__Angular_13_Starter_with_Storybook__Transloco__Jest__TestCafe__Docker__ESLint__Material___Prettier.svg)](https://github.com/wlucha/angular-starter)
 
 
 <!-- post-list:end -->
