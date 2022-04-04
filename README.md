@@ -182,7 +182,7 @@ in the README where you want the list, and **_BAM!_** You have yourself an autom
       <td><code>output_dir</code></td>
       <td><code>string</code></td>
       <td><code>"blog-post-list-output"</code></td>
-      <td>The directory to store the post card images in. Must be in the root directory (i.e. no path seperators <code>/</code> or <code>\</code>) and cannot include the characters <code>/\?%*:|"&lt;&gt;</code>.</td>
+      <td>The directory to store the post card images in. Must be in the root directory (i.e. no path separators <code>/</code> or <code>\</code>) and cannot include the characters <code>/\?%*:|"&lt;&gt;</code>.</td>
     </tr>
 <!--
     <tr>
