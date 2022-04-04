@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, April 4, 2022 at 12:12:20 AM
+> Last updated: Monday, April 4, 2022 at 6:16:19 AM
 
 > Showing 5 of 12 posts.
 
-[![How many platforms do you use to market yourself and your work?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_many_platforms_do_you_use_to_market_yourself_and_your_work_.svg)](https://dev.to/tmchuynh/how-many-platforms-do-you-use-to-market-yourself-and-your-work-5f72)
-[![Websocket not working in React.Js production build](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Websocket_not_working_in_React.Js_production_build.svg)](https://dev.to/emexrevolarter/websocket-not-working-in-reactjs-production-build-4gkf)
-[![How to Add the Symbol Palette to an Angular Diagram Component](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Add_the_Symbol_Palette_to_an_Angular_Diagram_Component.svg)](https://dev.to/syncfusion/how-to-add-the-symbol-palette-to-an-angular-diagram-component-3gjk)
-[![9 lessons a developer can learn from gym](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/9_lessons_a_developer_can_learn_from_gym.svg)](https://dev.to/canopassoftware/9-lessons-a-developer-can-learn-from-gym-884)
-[![MegaBurn Reviews - REALLY FAKE? They’ll Never Tell You!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/MegaBurn_Reviews_-_REALLY_FAKE__They’ll_Never_Tell_You!.svg)](https://dev.to/megaburnbuy/megaburn-reviews-really-fake-theyll-never-tell-you-47pf)
+[![Faire une conversion rapide de vos fichiers NSF au format MSG ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Faire_une_conversion_rapide_de_vos_fichiers_NSF_au_format_MSG__.svg)](https://dev.to/terry_edwards_8e5c421ad89/faire-une-conversion-rapide-de-vos-fichiers-nsf-au-format-msg--30ac)
+[![Art of debugging](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Art_of_debugging.svg)](https://dev.to/varenya/art-of-debugging-17gg)
+[![Python Libraries, modules and packages.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Python_Libraries__modules_and_packages..svg)](https://dev.to/joshwaoti/python-libraries-modules-and-packages-gp6)
+[![Android - Multiple Draggable objects in Jetpack Compose](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Android_-_Multiple_Draggable_objects_in_Jetpack_Compose.svg)](https://dev.to/canopassoftware/android-multiple-draggable-objects-in-jetpack-compose-1a3j)
+[![Free Online Courses To Master MS Excel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Free_Online_Courses_To_Master_MS_Excel.svg)](https://dev.to/anoopsajjan/free-online-courses-to-master-ms-excel-153o)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, April 4, 2022 at 12:12:23 AM
+> Last updated: Monday, April 4, 2022 at 6:16:22 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, April 4, 2022 at 12:12:28 AM
+> Last updated: Monday, April 4, 2022 at 6:16:27 AM
 
 > Showing 5 of 30 posts.
 
