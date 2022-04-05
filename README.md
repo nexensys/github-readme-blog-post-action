@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, April 4, 2022 at 6:42:15 PM
+> Last updated: Tuesday, April 5, 2022 at 12:12:43 AM
 
 > Showing 5 of 12 posts.
 
-[![How to add claps to your blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_add_claps_to_your_blog.svg)](https://dev.to/perkinsjr/how-to-add-claps-to-your-blog-34ii)
-[![Make a GIF your Cursor in Chrome](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Make_a_GIF_your_Cursor_in_Chrome.svg)](https://dev.to/chris_hayes/make-a-gif-your-cursor-in-chrome-4odo)
-[![Listified Tokens, or Somebody's JavaScript Homework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Listified_Tokens__or_Somebody's_JavaScript_Homework.svg)](https://dev.to/365erik/listified-tokens-or-somebodys-javascript-homework-4heo)
-[![Estilos de case no mundo do desenvolvimento](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Estilos_de_case_no_mundo_do_desenvolvimento.svg)](https://dev.to/jhonywalkeer/estilos-de-case-no-mundo-do-desenvolvimento-2jf5)
-[![Using Javascript to fix Wordpress annoyances in a wordpress-y way](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_Javascript_to_fix_Wordpress_annoyances_in_a_wordpress-y_way.svg)](https://dev.to/hariseldon27/using-javascript-to-fix-wordpress-annoyances-in-a-wordpress-y-way-4ijl)
+[![How Startups Metrics Can Help You Measure Your Startup Progress?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_Startups_Metrics_Can_Help_You_Measure_Your_Startup_Progress_.svg)](https://dev.to/artonweb1/how-startups-metrics-can-help-you-measure-your-startup-progress-254a)
+[![Are There Any Side Effects Of Prima Belle Skin Serum?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Are_There_Any_Side_Effects_Of_Prima_Belle_Skin_Serum_.svg)](https://dev.to/primabelleskin/are-there-any-side-effects-of-prima-belle-skin-serum-klb)
+[![Speed up your Code!!!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Speed_up_your_Code!!!.svg)](https://dev.to/skazi019/speed-up-your-code-39de)
+[![E6websolutions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/E6websolutions.svg)](https://dev.to/damasiya_maulik/e6websolutions-4i0a)
+[![Swift - Error Handling, Assertions and PreConditions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Swift_-_Error_Handling__Assertions_and_PreConditions.svg)](https://dev.to/naveenragul/swift-error-handling-29b4)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, April 4, 2022 at 6:42:18 PM
+> Last updated: Tuesday, April 5, 2022 at 12:12:46 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, April 4, 2022 at 6:42:26 PM
+> Last updated: Tuesday, April 5, 2022 at 12:12:52 AM
 
 > Showing 5 of 30 posts.
 
+[![PugtoHtml Converter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/PugtoHtml_Converter.svg)](https://www.ubercompute.com/pug-to-html)
+[![Modern web animations with Gsap and Vue 3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Modern_web_animations_with_Gsap_and_Vue_3.svg)](https://blog.openreplay.com/modern-web-animations-with-gsap-and-vue-3)
 [![Replacing Enzyme with React Testing Library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Replacing_Enzyme_with_React_Testing_Library.svg)](http://wanago.io/2022/04/04/enzyme-react-testing-library/)
 [![How to set configuration variables in Next.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_set_configuration_variables_in_Next.js.svg)](https://blog.vulcanjs.org/how-to-set-configuration-variables-in-next-js-a81505e43dad)
 [![More scalable applications only using forms and webcomponents](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/More_scalable_applications_only_using_forms_and_webcomponents.svg)](https://dev.to/uppercod/more-scalable-applications-only-using-forms-and-webcomponents-14ld)
-[![Building CRUD Apps with NextJs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_CRUD_Apps_with_NextJs.svg)](https://blog.openreplay.com/building-crud-apps-with-nextjs)
-[![GitHub - wlucha/angular-starter: Angular 13 Starter with Storybook, Transloco, Jest, TestCafe, Docker, ESLint, Material & Prettier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_wlucha_angular-starter__Angular_13_Starter_with_Storybook__Transloco__Jest__TestCafe__Docker__ESLint__Material___Prettier.svg)](https://github.com/wlucha/angular-starter)
 
 
 <!-- post-list:end -->
