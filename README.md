@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, April 5, 2022 at 12:12:43 AM
+> Last updated: Tuesday, April 5, 2022 at 6:14:09 AM
 
 > Showing 5 of 12 posts.
 
-[![How Startups Metrics Can Help You Measure Your Startup Progress?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_Startups_Metrics_Can_Help_You_Measure_Your_Startup_Progress_.svg)](https://dev.to/artonweb1/how-startups-metrics-can-help-you-measure-your-startup-progress-254a)
-[![Are There Any Side Effects Of Prima Belle Skin Serum?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Are_There_Any_Side_Effects_Of_Prima_Belle_Skin_Serum_.svg)](https://dev.to/primabelleskin/are-there-any-side-effects-of-prima-belle-skin-serum-klb)
-[![Speed up your Code!!!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Speed_up_your_Code!!!.svg)](https://dev.to/skazi019/speed-up-your-code-39de)
-[![E6websolutions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/E6websolutions.svg)](https://dev.to/damasiya_maulik/e6websolutions-4i0a)
-[![Swift - Error Handling, Assertions and PreConditions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Swift_-_Error_Handling__Assertions_and_PreConditions.svg)](https://dev.to/naveenragul/swift-error-handling-29b4)
+[![Consistent hash in Go.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Consistent_hash_in_Go..svg)](https://dev.to/kevwan/consistent-hash-in-go-3aob)
+[![Created a vertical timeline component 😃](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Created_a_vertical_timeline_component_😃.svg)](https://dev.to/k_penguin_sato/created-a-vertical-timeline-component-18oe)
+[![The devil is in the details…](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_devil_is_in_the_details….svg)](https://dev.to/codepo8/the-devil-is-in-the-details-2keb)
+[![Headless Explained to a 5-Year-Old](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Headless_Explained_to_a_5-Year-Old.svg)](https://dev.to/medusajs/headless-explained-to-a-5-year-old-56bh)
+[![simple mehandi design](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/simple_mehandi_design.svg)](https://dev.to/blogsoch/simple-mehandi-design-21b6)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, April 5, 2022 at 12:12:46 AM
+> Last updated: Tuesday, April 5, 2022 at 6:14:12 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, April 5, 2022 at 12:12:52 AM
+> Last updated: Tuesday, April 5, 2022 at 6:14:20 AM
 
 > Showing 5 of 30 posts.
 
+[![Episode 5 - Code Quality and Why You Don't Need to Comment your Code with Christian Clausen - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_5_-_Code_Quality_and_Why_You_Don't_Need_to_Comment_your_Code_with_Christian_Clausen_-_20minJS.svg)](https://podcast.20minjs.com/1952066/10374519-episode-5-code-quality-and-why-you-don-t-need-to-comment-your-code-with-christian-clausen)
 [![PugtoHtml Converter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/PugtoHtml_Converter.svg)](https://www.ubercompute.com/pug-to-html)
 [![Modern web animations with Gsap and Vue 3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Modern_web_animations_with_Gsap_and_Vue_3.svg)](https://blog.openreplay.com/modern-web-animations-with-gsap-and-vue-3)
 [![Replacing Enzyme with React Testing Library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Replacing_Enzyme_with_React_Testing_Library.svg)](http://wanago.io/2022/04/04/enzyme-react-testing-library/)
 [![How to set configuration variables in Next.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_set_configuration_variables_in_Next.js.svg)](https://blog.vulcanjs.org/how-to-set-configuration-variables-in-next-js-a81505e43dad)
-[![More scalable applications only using forms and webcomponents](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/More_scalable_applications_only_using_forms_and_webcomponents.svg)](https://dev.to/uppercod/more-scalable-applications-only-using-forms-and-webcomponents-14ld)
 
 
 <!-- post-list:end -->
