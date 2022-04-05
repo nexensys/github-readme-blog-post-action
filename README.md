@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, April 4, 2022 at 12:12:23 PM
+> Last updated: Monday, April 4, 2022 at 6:42:15 PM
 
 > Showing 5 of 12 posts.
 
-[![Web Components 101: Framework Comparison](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Web_Components_101__Framework_Comparison.svg)](https://dev.to/this-is-learning/web-components-101-framework-comparison-989)
-[![How to read a CSV File in C# (Step by Step Tutorial)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_read_a_CSV_File_in_C__(Step_by_Step_Tutorial).svg)](https://dev.to/bristolsamo/how-to-read-a-csv-file-in-c-step-by-step-tutorial-19pn)
-[![Amplication & React: Create the Backend](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Amplication___React__Create_the_Backend.svg)](https://dev.to/amplication/amplication-react-create-the-backend-43lf)
-[![The journey of sharing a wired USB printer over the network](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_journey_of_sharing_a_wired_USB_printer_over_the_network.svg)](https://dev.to/maciekmm/the-journey-of-sharing-a-wired-usb-printer-over-the-network-fg8)
-[![Make a URL Shortener with SvelteKit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Make_a_URL_Shortener_with_SvelteKit.svg)](https://dev.to/spences10/make-a-url-shortener-with-sveltekit-46c0)
+[![How to add claps to your blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_add_claps_to_your_blog.svg)](https://dev.to/perkinsjr/how-to-add-claps-to-your-blog-34ii)
+[![Make a GIF your Cursor in Chrome](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Make_a_GIF_your_Cursor_in_Chrome.svg)](https://dev.to/chris_hayes/make-a-gif-your-cursor-in-chrome-4odo)
+[![Listified Tokens, or Somebody's JavaScript Homework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Listified_Tokens__or_Somebody's_JavaScript_Homework.svg)](https://dev.to/365erik/listified-tokens-or-somebodys-javascript-homework-4heo)
+[![Estilos de case no mundo do desenvolvimento](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Estilos_de_case_no_mundo_do_desenvolvimento.svg)](https://dev.to/jhonywalkeer/estilos-de-case-no-mundo-do-desenvolvimento-2jf5)
+[![Using Javascript to fix Wordpress annoyances in a wordpress-y way](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_Javascript_to_fix_Wordpress_annoyances_in_a_wordpress-y_way.svg)](https://dev.to/hariseldon27/using-javascript-to-fix-wordpress-annoyances-in-a-wordpress-y-way-4ijl)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, April 4, 2022 at 12:12:26 PM
+> Last updated: Monday, April 4, 2022 at 6:42:18 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, April 4, 2022 at 12:12:33 PM
+> Last updated: Monday, April 4, 2022 at 6:42:26 PM
 
 > Showing 5 of 30 posts.
 
 [![Replacing Enzyme with React Testing Library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Replacing_Enzyme_with_React_Testing_Library.svg)](http://wanago.io/2022/04/04/enzyme-react-testing-library/)
 [![How to set configuration variables in Next.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_set_configuration_variables_in_Next.js.svg)](https://blog.vulcanjs.org/how-to-set-configuration-variables-in-next-js-a81505e43dad)
 [![More scalable applications only using forms and webcomponents](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/More_scalable_applications_only_using_forms_and_webcomponents.svg)](https://dev.to/uppercod/more-scalable-applications-only-using-forms-and-webcomponents-14ld)
-[![Build software better, together](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_software_better__together.svg)](https://github.com)
 [![Building CRUD Apps with NextJs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_CRUD_Apps_with_NextJs.svg)](https://blog.openreplay.com/building-crud-apps-with-nextjs)
+[![GitHub - wlucha/angular-starter: Angular 13 Starter with Storybook, Transloco, Jest, TestCafe, Docker, ESLint, Material & Prettier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_wlucha_angular-starter__Angular_13_Starter_with_Storybook__Transloco__Jest__TestCafe__Docker__ESLint__Material___Prettier.svg)](https://github.com/wlucha/angular-starter)
 
 
 <!-- post-list:end -->
