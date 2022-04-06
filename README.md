@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, April 5, 2022 at 6:47:41 PM
+> Last updated: Wednesday, April 6, 2022 at 12:11:34 AM
 
 > Showing 5 of 12 posts.
 
-[![Tracking My Progress With The Data Science Marathon (Week 2).](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tracking_My_Progress_With_The_Data_Science_Marathon_(Week_2)..svg)](https://dev.to/seniorcitizen/tracking-my-progress-with-the-data-science-marathon-week-2-1cn7)
-[![Tips for Bootcamp Students](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tips_for_Bootcamp_Students.svg)](https://dev.to/mkienbus/tips-for-bootcamp-students-20m8)
-[![Stop Writing DRY Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Stop_Writing_DRY_Code.svg)](https://dev.to/dbanty/stop-writing-dry-code-51em)
-[![O Básico: JWT - JSON Web Token](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/O_Básico__JWT_-_JSON_Web_Token.svg)](https://dev.to/gabrielhsilvestre/o-basico-jwt-json-web-token-2akc)
-[![Traffic Data Analysis with Apache Spark Based on Autonomous Transport Vehicle Data](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Traffic_Data_Analysis_with_Apache_Spark_Based_on_Autonomous_Transport_Vehicle_Data.svg)](https://dev.to/zekeriyyaa_/traffic-data-analysis-with-apache-spark-based-on-autonomous-transport-vehicle-data-4leg)
+[![40+ JavaScript Project For Beginners [ Beginners - Advance]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/40+_JavaScript_Project_For_Beginners_[_Beginners_-_Advance].svg)](https://dev.to/hnodes/40-javascript-project-for-beginners-beginners-advance-196k)
+[![What are the most useful conferences for developers?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_are_the_most_useful_conferences_for_developers_.svg)](https://dev.to/tmchuynh/what-are-the-most-useful-conferences-for-developers-2h0k)
+[![What Do You Consider a Must Have for Your Code Editor?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_Do_You_Consider_a_Must_Have_for_Your_Code_Editor_.svg)](https://dev.to/jeremyf/what-do-you-consider-a-must-have-for-your-code-editor-2n7l)
+[![Creating a Discord clone using Sendbird UIKit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_a_Discord_clone_using_Sendbird_UIKit.svg)](https://dev.to/michellewong27/creating-a-discord-clone-using-sendbird-uikit-3g4l)
+[![Basic Git](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Basic_Git.svg)](https://dev.to/randylopulalan/basic-git-2mb5)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, April 5, 2022 at 6:47:44 PM
+> Last updated: Wednesday, April 6, 2022 at 12:11:36 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, April 5, 2022 at 6:47:50 PM
+> Last updated: Wednesday, April 6, 2022 at 12:11:43 AM
 
 > Showing 5 of 30 posts.
 
