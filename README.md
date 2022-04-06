@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, April 6, 2022 at 6:18:00 AM
+> Last updated: Wednesday, April 6, 2022 at 12:12:07 PM
 
 > Showing 5 of 12 posts.
 
-[![Do you have a dotfiles repository?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Do_you_have_a_dotfiles_repository_.svg)](https://dev.to/jmau111/do-you-have-a-dotfiles-repository-27fk)
-[![Remove Image Background With Cloudinary and Pixelz: A Tutorial](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Remove_Image_Background_With_Cloudinary_and_Pixelz__A_Tutorial.svg)](https://dev.to/iphiee_oma/remove-image-background-with-cloudinary-and-pixelz-a-tutorial-23f6)
-[![Quick MacOS tip: Preview as a built-in zoom lens](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Quick_MacOS_tip__Preview_as_a_built-in_zoom_lens.svg)](https://dev.to/codepo8/quick-macos-tip-preview-as-a-built-in-zoom-lens-1jle)
-[![Project Prism: on the road to building an open smartphone](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Project_Prism__on_the_road_to_building_an_open_smartphone.svg)](https://dev.to/liveg/project-prism-on-the-road-to-building-an-open-smartphone-50lg)
-[![tsParticles 1.43.1 Released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/tsParticles_1.43.1_Released.svg)](https://dev.to/matteobruni/tsparticles-1431-released-44p2)
+[![Speech-To-Text Technology: The mental health angle (Innovative Ideas Challenge)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Speech-To-Text_Technology__The_mental_health_angle_(Innovative_Ideas_Challenge).svg)](https://dev.to/salimcodes/speech-to-text-technology-the-mental-health-angle-innovative-ideas-challenge-n87)
+[![React 18 Quick Guide & Core Concepts Explained](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_18_Quick_Guide___Core_Concepts_Explained.svg)](https://dev.to/shrutikapoor08/react-18-quick-guide-core-concepts-explained-519p)
+[![AWS S3 : Day 4&5](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_S3___Day_4_5.svg)](https://dev.to/chinmayej/aws-s3-day-45-2p4f)
+[![The 4 Short Frontend tips for April](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_4_Short_Frontend_tips_for_April.svg)](https://dev.to/melnik909/the-4-short-frontend-tips-for-april-4e00)
+[![AWS: Using Existing Subnets with Availability Zones in CDK with TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS__Using_Existing_Subnets_with_Availability_Zones_in_CDK_with_TypeScript.svg)](https://dev.to/ellismichael/aws-using-existing-subnets-with-availability-zones-in-cdk-with-typescript-e7h)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, April 6, 2022 at 6:18:02 AM
+> Last updated: Wednesday, April 6, 2022 at 12:12:11 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, April 6, 2022 at 6:18:08 AM
+> Last updated: Wednesday, April 6, 2022 at 12:12:17 PM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - orefalo/svelte-splitpanes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_orefalo_svelte-splitpanes.svg)](https://github.com/orefalo/svelte-splitpanes)
+[![GitHub - w-mcilhagga/dst: dead simple templating using tagged templates in javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_w-mcilhagga_dst__dead_simple_templating_using_tagged_templates_in_javascript.svg)](https://github.com/w-mcilhagga/dst)
+[![Make Beautifully Resilient Apps With Progressive Enhancement](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Make_Beautifully_Resilient_Apps_With_Progressive_Enhancement.svg)](https://austingil.com/resilient-applications-progressive-enhancement/)
 [![Episode 5 - Code Quality and Why You Don't Need to Comment your Code with Christian Clausen - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_5_-_Code_Quality_and_Why_You_Don't_Need_to_Comment_your_Code_with_Christian_Clausen_-_20minJS.svg)](https://podcast.20minjs.com/1952066/10374519-episode-5-code-quality-and-why-you-don-t-need-to-comment-your-code-with-christian-clausen)
 [![Replacing Enzyme with React Testing Library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Replacing_Enzyme_with_React_Testing_Library.svg)](http://wanago.io/2022/04/04/enzyme-react-testing-library/)
-[![How to set configuration variables in Next.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_set_configuration_variables_in_Next.js.svg)](https://blog.vulcanjs.org/how-to-set-configuration-variables-in-next-js-a81505e43dad)
-[![More scalable applications only using forms and webcomponents](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/More_scalable_applications_only_using_forms_and_webcomponents.svg)](https://dev.to/uppercod/more-scalable-applications-only-using-forms-and-webcomponents-14ld)
-[![Building CRUD Apps with NextJs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_CRUD_Apps_with_NextJs.svg)](https://blog.openreplay.com/building-crud-apps-with-nextjs)
 
 
 <!-- post-list:end -->
