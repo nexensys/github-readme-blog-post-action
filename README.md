@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, April 6, 2022 at 12:11:34 AM
+> Last updated: Wednesday, April 6, 2022 at 6:18:00 AM
 
 > Showing 5 of 12 posts.
 
-[![40+ JavaScript Project For Beginners [ Beginners - Advance]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/40+_JavaScript_Project_For_Beginners_[_Beginners_-_Advance].svg)](https://dev.to/hnodes/40-javascript-project-for-beginners-beginners-advance-196k)
-[![What are the most useful conferences for developers?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_are_the_most_useful_conferences_for_developers_.svg)](https://dev.to/tmchuynh/what-are-the-most-useful-conferences-for-developers-2h0k)
-[![What Do You Consider a Must Have for Your Code Editor?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_Do_You_Consider_a_Must_Have_for_Your_Code_Editor_.svg)](https://dev.to/jeremyf/what-do-you-consider-a-must-have-for-your-code-editor-2n7l)
-[![Creating a Discord clone using Sendbird UIKit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_a_Discord_clone_using_Sendbird_UIKit.svg)](https://dev.to/michellewong27/creating-a-discord-clone-using-sendbird-uikit-3g4l)
-[![Basic Git](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Basic_Git.svg)](https://dev.to/randylopulalan/basic-git-2mb5)
+[![Do you have a dotfiles repository?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Do_you_have_a_dotfiles_repository_.svg)](https://dev.to/jmau111/do-you-have-a-dotfiles-repository-27fk)
+[![Remove Image Background With Cloudinary and Pixelz: A Tutorial](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Remove_Image_Background_With_Cloudinary_and_Pixelz__A_Tutorial.svg)](https://dev.to/iphiee_oma/remove-image-background-with-cloudinary-and-pixelz-a-tutorial-23f6)
+[![Quick MacOS tip: Preview as a built-in zoom lens](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Quick_MacOS_tip__Preview_as_a_built-in_zoom_lens.svg)](https://dev.to/codepo8/quick-macos-tip-preview-as-a-built-in-zoom-lens-1jle)
+[![Project Prism: on the road to building an open smartphone](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Project_Prism__on_the_road_to_building_an_open_smartphone.svg)](https://dev.to/liveg/project-prism-on-the-road-to-building-an-open-smartphone-50lg)
+[![tsParticles 1.43.1 Released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/tsParticles_1.43.1_Released.svg)](https://dev.to/matteobruni/tsparticles-1431-released-44p2)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, April 6, 2022 at 12:11:36 AM
+> Last updated: Wednesday, April 6, 2022 at 6:18:02 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, April 6, 2022 at 12:11:43 AM
+> Last updated: Wednesday, April 6, 2022 at 6:18:08 AM
 
 > Showing 5 of 30 posts.
 
