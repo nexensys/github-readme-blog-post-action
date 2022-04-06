@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, April 5, 2022 at 12:11:20 PM
+> Last updated: Tuesday, April 5, 2022 at 6:47:41 PM
 
 > Showing 5 of 12 posts.
 
-[![Technical Writing: Optimize Your Content Creation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Technical_Writing__Optimize_Your_Content_Creation.svg)](https://dev.to/deepgram/technical-writing-optimize-your-content-creation-2cim)
-[![Disabling all the fields in a form (Formik)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Disabling_all_the_fields_in_a_form_(Formik).svg)](https://dev.to/atosh502/disabling-all-the-fields-in-a-form-formik-2ec2)
-[![Add autocomplete search to your Strapi blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Add_autocomplete_search_to_your_Strapi_blog.svg)](https://dev.to/algolia/add-autocomplete-search-to-your-strapi-blog-263h)
-[![Sobre motivação, início e constância.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Sobre_motivação__início_e_constância..svg)](https://dev.to/carvalhodanielg/sobre-motivacao-inicio-e-constancia-30hj)
-[![How To Find Element By Text In Selenium WebDriver](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Find_Element_By_Text_In_Selenium_WebDriver.svg)](https://dev.to/lambdatest/how-to-find-element-by-text-in-selenium-webdriver-1l58)
+[![Tracking My Progress With The Data Science Marathon (Week 2).](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tracking_My_Progress_With_The_Data_Science_Marathon_(Week_2)..svg)](https://dev.to/seniorcitizen/tracking-my-progress-with-the-data-science-marathon-week-2-1cn7)
+[![Tips for Bootcamp Students](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tips_for_Bootcamp_Students.svg)](https://dev.to/mkienbus/tips-for-bootcamp-students-20m8)
+[![Stop Writing DRY Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Stop_Writing_DRY_Code.svg)](https://dev.to/dbanty/stop-writing-dry-code-51em)
+[![O Básico: JWT - JSON Web Token](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/O_Básico__JWT_-_JSON_Web_Token.svg)](https://dev.to/gabrielhsilvestre/o-basico-jwt-json-web-token-2akc)
+[![Traffic Data Analysis with Apache Spark Based on Autonomous Transport Vehicle Data](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Traffic_Data_Analysis_with_Apache_Spark_Based_on_Autonomous_Transport_Vehicle_Data.svg)](https://dev.to/zekeriyyaa_/traffic-data-analysis-with-apache-spark-based-on-autonomous-transport-vehicle-data-4leg)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, April 5, 2022 at 12:11:23 PM
+> Last updated: Tuesday, April 5, 2022 at 6:47:44 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, April 5, 2022 at 12:11:26 PM
+> Last updated: Tuesday, April 5, 2022 at 6:47:50 PM
 
 > Showing 5 of 30 posts.
 
-[![The Most Popular Angular Component Libraries To Try in 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Most_Popular_Angular_Component_Libraries_To_Try_in_2022.svg)](https://www.websoptimization.com/blog/best-angular-component-libraries/)
-[![A Guide to grinding Leetcode](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/A_Guide_to_grinding_Leetcode.svg)](
-https://mirror.xyz/0xB299F537dF94884C17A850F227D66A484A9a17ea/0DlskqMhbb6edl3-hiJUqneq8vqdGoMTrSx8xW8hEyw
-)
 [![Episode 5 - Code Quality and Why You Don't Need to Comment your Code with Christian Clausen - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_5_-_Code_Quality_and_Why_You_Don't_Need_to_Comment_your_Code_with_Christian_Clausen_-_20minJS.svg)](https://podcast.20minjs.com/1952066/10374519-episode-5-code-quality-and-why-you-don-t-need-to-comment-your-code-with-christian-clausen)
-[![PugtoHtml Converter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/PugtoHtml_Converter.svg)](https://www.ubercompute.com/pug-to-html)
-[![Modern web animations with Gsap and Vue 3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Modern_web_animations_with_Gsap_and_Vue_3.svg)](https://blog.openreplay.com/modern-web-animations-with-gsap-and-vue-3)
+[![Replacing Enzyme with React Testing Library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Replacing_Enzyme_with_React_Testing_Library.svg)](http://wanago.io/2022/04/04/enzyme-react-testing-library/)
+[![How to set configuration variables in Next.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_set_configuration_variables_in_Next.js.svg)](https://blog.vulcanjs.org/how-to-set-configuration-variables-in-next-js-a81505e43dad)
+[![More scalable applications only using forms and webcomponents](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/More_scalable_applications_only_using_forms_and_webcomponents.svg)](https://dev.to/uppercod/more-scalable-applications-only-using-forms-and-webcomponents-14ld)
+[![Building CRUD Apps with NextJs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_CRUD_Apps_with_NextJs.svg)](https://blog.openreplay.com/building-crud-apps-with-nextjs)
 
 
 <!-- post-list:end -->
