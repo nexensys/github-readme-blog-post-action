@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, April 6, 2022 at 12:12:07 PM
+> Last updated: Wednesday, April 6, 2022 at 6:44:51 PM
 
 > Showing 5 of 12 posts.
 
-[![Speech-To-Text Technology: The mental health angle (Innovative Ideas Challenge)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Speech-To-Text_Technology__The_mental_health_angle_(Innovative_Ideas_Challenge).svg)](https://dev.to/salimcodes/speech-to-text-technology-the-mental-health-angle-innovative-ideas-challenge-n87)
-[![React 18 Quick Guide & Core Concepts Explained](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_18_Quick_Guide___Core_Concepts_Explained.svg)](https://dev.to/shrutikapoor08/react-18-quick-guide-core-concepts-explained-519p)
-[![AWS S3 : Day 4&5](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_S3___Day_4_5.svg)](https://dev.to/chinmayej/aws-s3-day-45-2p4f)
-[![The 4 Short Frontend tips for April](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_4_Short_Frontend_tips_for_April.svg)](https://dev.to/melnik909/the-4-short-frontend-tips-for-april-4e00)
-[![AWS: Using Existing Subnets with Availability Zones in CDK with TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS__Using_Existing_Subnets_with_Availability_Zones_in_CDK_with_TypeScript.svg)](https://dev.to/ellismichael/aws-using-existing-subnets-with-availability-zones-in-cdk-with-typescript-e7h)
+[![The Big Server Farm in the Sky](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Big_Server_Farm_in_the_Sky.svg)](https://dev.to/zacharyp/the-big-server-farm-in-the-sky-b5c)
+[![[Deepgram x DEV Hackathon Submission Post Placeholder Title]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/[Deepgram_x_DEV_Hackathon_Submission_Post_Placeholder_Title].svg)](https://dev.to/banging12/deepgram-x-dev-hackathon-submission-post-placeholder-title-3di1)
+[![How to Build Scalable Architecture for your Next.js Project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Build_Scalable_Architecture_for_your_Next.js_Project.svg)](https://dev.to/alexeagleson/how-to-build-scalable-architecture-for-your-nextjs-project-2pb7)
+[![Optimizing Active Record queries](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Optimizing_Active_Record_queries.svg)](https://dev.to/kattyacuevas/optimizing-active-record-queries-4i84)
+[![Optimización de queries en Rails](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Optimización_de_queries_en_Rails.svg)](https://dev.to/kattyacuevas/optimizacion-de-queries-en-rails-5hkj)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, April 6, 2022 at 12:12:11 PM
+> Last updated: Wednesday, April 6, 2022 at 6:44:55 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, April 6, 2022 at 12:12:17 PM
+> Last updated: Wednesday, April 6, 2022 at 6:45:01 PM
 
 > Showing 5 of 30 posts.
 
