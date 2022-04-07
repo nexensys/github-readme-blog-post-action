@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, April 7, 2022 at 6:17:48 AM
+> Last updated: Thursday, April 7, 2022 at 12:11:23 PM
 
 > Showing 5 of 12 posts.
 
-[![Integration of Huawei Direction API in Navigation Glove IoT application Using Kotlin - Part 4](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Integration_of_Huawei_Direction_API_in_Navigation_Glove_IoT_application_Using_Kotlin_-_Part_4.svg)](https://dev.to/hmscommunity/integration-of-huawei-direction-api-in-navigation-glove-iot-application-using-kotlin-part-4-7e9)
-[![Why I switched from MINT to MANJARO](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_I_switched_from_MINT_to_MANJARO.svg)](https://dev.to/benherbst/why-i-switched-from-mint-to-manjaro-1766)
-[![Hello World 👋 in various languages](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Hello_World_👋_in_various_languages.svg)](https://dev.to/ndrohith/hello-world-in-various-languages-4c5k)
-[![Best Indian Restaurants in Amsterdam](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_Indian_Restaurants_in_Amsterdam.svg)](https://dev.to/tomholland09/best-indian-restaurants-in-amsterdam-5h74)
-[![Fetching an Ethereum Contract's ABI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Fetching_an_Ethereum_Contract's_ABI.svg)](https://dev.to/mannyuncharted/fetching-an-ethereum-contracts-abi-56gk)
+[![Welcome Thread - v168](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Welcome_Thread_-_v168.svg)](https://dev.to/thepracticaldev/welcome-thread-v168-30f0)
+[![My Visual Studio Code Extensions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_Visual_Studio_Code_Extensions.svg)](https://dev.to/nivin378/my-visual-studio-code-extensions-4fi7)
+[![Introducing the First XRP Ledger Campus Ambassadors](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_the_First_XRP_Ledger_Campus_Ambassadors.svg)](https://dev.to/ripplexdev/introducing-the-first-xrp-ledger-campus-ambassadors-1fb2)
+[![Transcribe voice using Deepgram SDK , NestJS and SolidJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Transcribe_voice_using_Deepgram_SDK___NestJS_and_SolidJS.svg)](https://dev.to/harshmangalam/transcribe-voice-using-deepgram-sdk-nestjs-and-solidjs-end)
+[![React MUI Templates - Open-Source and FREE](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_MUI_Templates_-_Open-Source_and_FREE.svg)](https://dev.to/sm0ke/mui-template-open-source-and-free-5eh8)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, April 7, 2022 at 6:17:52 AM
+> Last updated: Thursday, April 7, 2022 at 12:11:26 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,21 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, April 7, 2022 at 6:17:55 AM
+> Last updated: Thursday, April 7, 2022 at 12:11:29 PM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - ehmicky/wild-wild-path: 🤠 Object property paths with wildcards and regexps 🌵](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ehmicky_wild-wild-path__🤠_Object_property_paths_with_wildcards_and_regexps_🌵.svg)](https://github.com/ehmicky/wild-wild-path)
+[![Filter Duplicates with Lodash's uniq() Function](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Filter_Duplicates_with_Lodash's_uniq()_Function.svg)](
+https://masteringjs.io/tutorials/lodash/filter-duplicates
+)
+[![Building a visx Dashboard with Cube - Cube Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_a_visx_Dashboard_with_Cube_-_Cube_Blog.svg)](https://cube.dev/blog/building-a-visx-dashboard-with-cube)
+[![GitHub - anatoliygatt/numeric-stepper: 🎛 A numeric stepper component for React.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_anatoliygatt_numeric-stepper__🎛_A_numeric_stepper_component_for_React..svg)](https://github.com/anatoliygatt/numeric-stepper)
 [![
 Hiring a good offshore software development
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Hiring_a_good_offshore_software_development_.svg)](
 https://saigontechnology.com/offshore-software-development-services
 )
-[![Improving Your DevSecOps Workflow with Jscrambler](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Improving_Your_DevSecOps_Workflow_with_Jscrambler.svg)](https://medium.com/@Jscrambler/improving-your-devsecops-workflow-with-jscrambler-6ef75ce50489)
-[![GitHub - orefalo/svelte-splitpanes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_orefalo_svelte-splitpanes.svg)](https://github.com/orefalo/svelte-splitpanes)
-[![GitHub - w-mcilhagga/dst: dead simple templating using tagged templates in javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_w-mcilhagga_dst__dead_simple_templating_using_tagged_templates_in_javascript.svg)](https://github.com/w-mcilhagga/dst)
-[![Make Beautifully Resilient Apps With Progressive Enhancement](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Make_Beautifully_Resilient_Apps_With_Progressive_Enhancement.svg)](https://austingil.com/resilient-applications-progressive-enhancement/)
 
 
 <!-- post-list:end -->
