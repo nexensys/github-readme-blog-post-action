@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, April 6, 2022 at 6:44:51 PM
+> Last updated: Thursday, April 7, 2022 at 12:12:11 AM
 
 > Showing 5 of 12 posts.
 
-[![The Big Server Farm in the Sky](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Big_Server_Farm_in_the_Sky.svg)](https://dev.to/zacharyp/the-big-server-farm-in-the-sky-b5c)
-[![[Deepgram x DEV Hackathon Submission Post Placeholder Title]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/[Deepgram_x_DEV_Hackathon_Submission_Post_Placeholder_Title].svg)](https://dev.to/banging12/deepgram-x-dev-hackathon-submission-post-placeholder-title-3di1)
-[![How to Build Scalable Architecture for your Next.js Project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Build_Scalable_Architecture_for_your_Next.js_Project.svg)](https://dev.to/alexeagleson/how-to-build-scalable-architecture-for-your-nextjs-project-2pb7)
-[![Optimizing Active Record queries](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Optimizing_Active_Record_queries.svg)](https://dev.to/kattyacuevas/optimizing-active-record-queries-4i84)
-[![Optimización de queries en Rails](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Optimización_de_queries_en_Rails.svg)](https://dev.to/kattyacuevas/optimizacion-de-queries-en-rails-5hkj)
+[![Adding voice assistant to React Apps using Alan AI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Adding_voice_assistant_to_React_Apps_using_Alan_AI.svg)](https://dev.to/aniket762/adding-voice-assistant-to-react-apps-using-alan-ai-4071)
+[![Lecciones aprendidas como Lead Software Engineer, Parte 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Lecciones_aprendidas_como_Lead_Software_Engineer__Parte_1.svg)](https://dev.to/cecitorresmx/lecciones-aprendidas-como-lead-software-engineer-parte-1-3n50)
+[![Material Kit React - Open-Source React Template](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Material_Kit_React_-_Open-Source_React_Template.svg)](https://dev.to/sm0ke/material-kit-react-open-source-react-template-bj7)
+[![Benefits Of Shredded Keto Supplement](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Benefits_Of_Shredded_Keto_Supplement.svg)](https://dev.to/shreddedket/benefits-of-shredded-keto-supplement-4ai6)
+[![Create a watermark / Drupal 8](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_a_watermark___Drupal_8.svg)](https://dev.to/vadimfilimonov/create-a-watermark-drupal-8-4ie7)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, April 6, 2022 at 6:44:55 PM
+> Last updated: Thursday, April 7, 2022 at 12:12:15 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, April 6, 2022 at 6:45:01 PM
+> Last updated: Thursday, April 7, 2022 at 12:12:22 AM
 
 > Showing 5 of 30 posts.
 
