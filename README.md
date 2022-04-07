@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, April 7, 2022 at 12:12:11 AM
+> Last updated: Thursday, April 7, 2022 at 6:17:48 AM
 
 > Showing 5 of 12 posts.
 
-[![Adding voice assistant to React Apps using Alan AI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Adding_voice_assistant_to_React_Apps_using_Alan_AI.svg)](https://dev.to/aniket762/adding-voice-assistant-to-react-apps-using-alan-ai-4071)
-[![Lecciones aprendidas como Lead Software Engineer, Parte 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Lecciones_aprendidas_como_Lead_Software_Engineer__Parte_1.svg)](https://dev.to/cecitorresmx/lecciones-aprendidas-como-lead-software-engineer-parte-1-3n50)
-[![Material Kit React - Open-Source React Template](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Material_Kit_React_-_Open-Source_React_Template.svg)](https://dev.to/sm0ke/material-kit-react-open-source-react-template-bj7)
-[![Benefits Of Shredded Keto Supplement](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Benefits_Of_Shredded_Keto_Supplement.svg)](https://dev.to/shreddedket/benefits-of-shredded-keto-supplement-4ai6)
-[![Create a watermark / Drupal 8](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_a_watermark___Drupal_8.svg)](https://dev.to/vadimfilimonov/create-a-watermark-drupal-8-4ie7)
+[![Integration of Huawei Direction API in Navigation Glove IoT application Using Kotlin - Part 4](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Integration_of_Huawei_Direction_API_in_Navigation_Glove_IoT_application_Using_Kotlin_-_Part_4.svg)](https://dev.to/hmscommunity/integration-of-huawei-direction-api-in-navigation-glove-iot-application-using-kotlin-part-4-7e9)
+[![Why I switched from MINT to MANJARO](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_I_switched_from_MINT_to_MANJARO.svg)](https://dev.to/benherbst/why-i-switched-from-mint-to-manjaro-1766)
+[![Hello World 👋 in various languages](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Hello_World_👋_in_various_languages.svg)](https://dev.to/ndrohith/hello-world-in-various-languages-4c5k)
+[![Best Indian Restaurants in Amsterdam](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_Indian_Restaurants_in_Amsterdam.svg)](https://dev.to/tomholland09/best-indian-restaurants-in-amsterdam-5h74)
+[![Fetching an Ethereum Contract's ABI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Fetching_an_Ethereum_Contract's_ABI.svg)](https://dev.to/mannyuncharted/fetching-an-ethereum-contracts-abi-56gk)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, April 7, 2022 at 12:12:15 AM
+> Last updated: Thursday, April 7, 2022 at 6:17:52 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, April 7, 2022 at 12:12:22 AM
+> Last updated: Thursday, April 7, 2022 at 6:17:55 AM
 
 > Showing 5 of 30 posts.
 
+[![
+Hiring a good offshore software development
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Hiring_a_good_offshore_software_development_.svg)](
+https://saigontechnology.com/offshore-software-development-services
+)
+[![Improving Your DevSecOps Workflow with Jscrambler](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Improving_Your_DevSecOps_Workflow_with_Jscrambler.svg)](https://medium.com/@Jscrambler/improving-your-devsecops-workflow-with-jscrambler-6ef75ce50489)
 [![GitHub - orefalo/svelte-splitpanes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_orefalo_svelte-splitpanes.svg)](https://github.com/orefalo/svelte-splitpanes)
 [![GitHub - w-mcilhagga/dst: dead simple templating using tagged templates in javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_w-mcilhagga_dst__dead_simple_templating_using_tagged_templates_in_javascript.svg)](https://github.com/w-mcilhagga/dst)
 [![Make Beautifully Resilient Apps With Progressive Enhancement](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Make_Beautifully_Resilient_Apps_With_Progressive_Enhancement.svg)](https://austingil.com/resilient-applications-progressive-enhancement/)
-[![Episode 5 - Code Quality and Why You Don't Need to Comment your Code with Christian Clausen - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_5_-_Code_Quality_and_Why_You_Don't_Need_to_Comment_your_Code_with_Christian_Clausen_-_20minJS.svg)](https://podcast.20minjs.com/1952066/10374519-episode-5-code-quality-and-why-you-don-t-need-to-comment-your-code-with-christian-clausen)
-[![Replacing Enzyme with React Testing Library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Replacing_Enzyme_with_React_Testing_Library.svg)](http://wanago.io/2022/04/04/enzyme-react-testing-library/)
 
 
 <!-- post-list:end -->
