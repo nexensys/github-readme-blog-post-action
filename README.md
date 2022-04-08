@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, April 7, 2022 at 6:44:56 PM
+> Last updated: Friday, April 8, 2022 at 12:12:27 AM
 
 > Showing 5 of 12 posts.
 
-[![Um pouco sobre meu primeiro livro na área de tecnologia](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Um_pouco_sobre_meu_primeiro_livro_na_área_de_tecnologia.svg)](https://dev.to/bendevoficial/um-pouco-sobre-meu-primeiro-livro-na-area-de-tecnologia-1nci)
-[![Syrch is a Word Search Game](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Syrch_is_a_Word_Search_Game.svg)](https://dev.to/mbarzeev/syrch-is-a-word-search-game-4ekd)
-[![Music genre classification part 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Music_genre_classification_part_2.svg)](https://dev.to/mage_ai/music-genre-classification-part-2-26n5)
-[![Total POS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Total_POS.svg)](https://dev.to/ushieru/total-pos-4d80)
-[![I’m trying to create a modal](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I’m_trying_to_create_a_modal.svg)](https://dev.to/1800paid/im-trying-to-create-a-modal-5f5e)
+[![Sketch-icons makes it simple to import icons](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Sketch-icons_makes_it_simple_to_import_icons.svg)](https://dev.to/ndrohith/sketch-icons-makes-it-simple-to-import-icons-4lkm)
+[![Solidity Programming language tutorial](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Solidity_Programming_language_tutorial.svg)](https://dev.to/dumboprogrammer/solidity-programming-language-tutorial-1e4d)
+[![7 JavaScript clean coding tips every developer should know 😎](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/7_JavaScript_clean_coding_tips_every_developer_should_know_😎.svg)](https://dev.to/braincuber_technologies/7-javascript-clean-coding-tips-every-developer-should-know-3pno)
+[![Angular Universal ENV Variables on Vercel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Angular_Universal_ENV_Variables_on_Vercel.svg)](https://dev.to/jdgamble555/angular-universal-env-variables-on-vercel-e6j)
+[![Learning Rust You Need a Cognitive Frame](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Learning_Rust_You_Need_a_Cognitive_Frame.svg)](https://dev.to/zhanghandong/learning-rust-you-need-a-cognitive-frame-41oa)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, April 7, 2022 at 6:44:58 PM
+> Last updated: Friday, April 8, 2022 at 12:12:31 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, April 7, 2022 at 6:45:01 PM
+> Last updated: Friday, April 8, 2022 at 12:12:34 AM
 
 > Showing 5 of 30 posts.
 
