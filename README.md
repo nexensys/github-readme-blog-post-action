@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, April 8, 2022 at 12:12:27 AM
+> Last updated: Friday, April 8, 2022 at 6:16:14 AM
 
 > Showing 5 of 12 posts.
 
-[![Sketch-icons makes it simple to import icons](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Sketch-icons_makes_it_simple_to_import_icons.svg)](https://dev.to/ndrohith/sketch-icons-makes-it-simple-to-import-icons-4lkm)
-[![Solidity Programming language tutorial](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Solidity_Programming_language_tutorial.svg)](https://dev.to/dumboprogrammer/solidity-programming-language-tutorial-1e4d)
-[![7 JavaScript clean coding tips every developer should know 😎](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/7_JavaScript_clean_coding_tips_every_developer_should_know_😎.svg)](https://dev.to/braincuber_technologies/7-javascript-clean-coding-tips-every-developer-should-know-3pno)
-[![Angular Universal ENV Variables on Vercel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Angular_Universal_ENV_Variables_on_Vercel.svg)](https://dev.to/jdgamble555/angular-universal-env-variables-on-vercel-e6j)
-[![Learning Rust You Need a Cognitive Frame](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Learning_Rust_You_Need_a_Cognitive_Frame.svg)](https://dev.to/zhanghandong/learning-rust-you-need-a-cognitive-frame-41oa)
+[![Introducing ToneFinder: A Game Designer's Attempt to help people with disabilities 🎧](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_ToneFinder__A_Game_Designer's_Attempt_to_help_people_with_disabilities_🎧.svg)](https://dev.to/mrbuddesigner/introducing-tonefinder-a-game-designers-attempt-to-help-people-with-disabilities-3m41)
+[![Liquid Lenses Market Impact Analysis, and Forecasts to 2028](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Liquid_Lenses_Market_Impact_Analysis__and_Forecasts_to_2028.svg)](https://dev.to/rohan_adc18/liquid-lenses-market-impact-analysis-and-forecasts-to-2028-5153)
+[![Meet Setplex at NAB Show 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Meet_Setplex_at_NAB_Show_2022.svg)](https://dev.to/setplex/meet-setplex-at-nab-show-2022-4m5f)
+[![Lists in your reading list](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Lists_in_your_reading_list.svg)](https://dev.to/vulcanwm/lists-in-your-reading-list-2fk0)
+[![Why CDK changes the everything for building DevOps teams that own something end-to-end](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_CDK_changes_the_everything_for_building_DevOps_teams_that_own_something_end-to-end.svg)](https://dev.to/aws-builders/why-cdk-changes-the-everything-for-building-devops-teams-that-own-something-end-to-end-1idi)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, April 8, 2022 at 12:12:31 AM
+> Last updated: Friday, April 8, 2022 at 6:16:16 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, April 8, 2022 at 12:12:34 AM
+> Last updated: Friday, April 8, 2022 at 6:16:19 AM
 
 > Showing 5 of 30 posts.
 
