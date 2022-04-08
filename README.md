@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, April 8, 2022 at 6:16:14 AM
+> Last updated: Friday, April 8, 2022 at 12:12:14 PM
 
 > Showing 5 of 12 posts.
 
-[![Introducing ToneFinder: A Game Designer's Attempt to help people with disabilities 🎧](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_ToneFinder__A_Game_Designer's_Attempt_to_help_people_with_disabilities_🎧.svg)](https://dev.to/mrbuddesigner/introducing-tonefinder-a-game-designers-attempt-to-help-people-with-disabilities-3m41)
-[![Liquid Lenses Market Impact Analysis, and Forecasts to 2028](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Liquid_Lenses_Market_Impact_Analysis__and_Forecasts_to_2028.svg)](https://dev.to/rohan_adc18/liquid-lenses-market-impact-analysis-and-forecasts-to-2028-5153)
-[![Meet Setplex at NAB Show 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Meet_Setplex_at_NAB_Show_2022.svg)](https://dev.to/setplex/meet-setplex-at-nab-show-2022-4m5f)
-[![Lists in your reading list](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Lists_in_your_reading_list.svg)](https://dev.to/vulcanwm/lists-in-your-reading-list-2fk0)
-[![Why CDK changes the everything for building DevOps teams that own something end-to-end](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_CDK_changes_the_everything_for_building_DevOps_teams_that_own_something_end-to-end.svg)](https://dev.to/aws-builders/why-cdk-changes-the-everything-for-building-devops-teams-that-own-something-end-to-end-1idi)
+[![From Python to Java: Comprehensions and Streams](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/From_Python_to_Java__Comprehensions_and_Streams.svg)](https://dev.to/dylanfw/from-python-to-java-comprehensions-and-streams-3j53)
+[![Kubernetes cluster and what happens when we deploy a POD.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Kubernetes_cluster_and_what_happens_when_we_deploy_a_POD..svg)](https://dev.to/rajeshsgr/kubernetes-cluster-and-what-happens-when-we-deploy-a-pod-4nh0)
+[![How to send a email using Sendgrid and Node.js ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_send_a_email_using_Sendgrid_and_Node.js__.svg)](https://dev.to/imkarthikeyan/how-to-send-a-email-using-sendgrid-and-nodejs--2l39)
+[![How to Hash and Salt Passwords in Golang Using SHA-512 and Why You Shouldn’t 😤](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Hash_and_Salt_Passwords_in_Golang_Using_SHA-512_and_Why_You_Shouldn’t_😤.svg)](https://dev.to/gregorygaines/how-to-hash-and-salt-passwords-in-golang-using-sha-512-and-why-you-shouldnt-2ifh)
+[![Remote debugging Github actions workflow](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Remote_debugging_Github_actions_workflow.svg)](https://dev.to/neeldev96/remote-debugging-github-actions-workflow-24jn)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, April 8, 2022 at 6:16:16 AM
+> Last updated: Friday, April 8, 2022 at 12:12:17 PM
 
 > Showing 4 of 4 posts.
 
+[![Format JavaScript as the Romans do?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Format_JavaScript_as_the_Romans_do_.svg)](https://javascriptweekly.com/issues/584)
 [![Time to get decorating](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Time_to_get_decorating.svg)](https://javascriptweekly.com/issues/583)
 [![React 18 due any day now..](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/React_18_due_any_day_now...svg)](https://javascriptweekly.com/issues/582)
 [![Getting creative with JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Getting_creative_with_JavaScript.svg)](https://javascriptweekly.com/issues/581)
-[![Bringing static type syntax into JavaScript itself](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Bringing_static_type_syntax_into_JavaScript_itself.svg)](https://javascriptweekly.com/issues/580)
 
 
 ## Echo JS
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, April 8, 2022 at 6:16:19 AM
+> Last updated: Friday, April 8, 2022 at 12:12:21 PM
 
 > Showing 5 of 30 posts.
 
