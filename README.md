@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, April 8, 2022 at 6:42:05 PM
+> Last updated: Saturday, April 9, 2022 at 12:11:56 AM
 
 > Showing 5 of 12 posts.
 
-[![Introducing Kids to Coding](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_Kids_to_Coding.svg)](https://dev.to/safaal28/introducing-kids-to-coding-3hm5)
-[![Is blockchain a kind of linked list?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Is_blockchain_a_kind_of_linked_list_.svg)](https://dev.to/josethz00/is-blockchain-a-kind-of-linked-lists-4lm1)
-[![Batch file upload processing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Batch_file_upload_processing.svg)](https://dev.to/basavasa1/batch-file-upload-processing-hdb)
-[![Add font-size controls to Trix's toolbar](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Add_font-size_controls_to_Trix's_toolbar.svg)](https://dev.to/rockwell/add-font-size-controls-to-trixs-toolbar-1hgd)
-[![Crickets, or hey, I work for a FAANG now and everything is NDA](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Crickets__or_hey__I_work_for_a_FAANG_now_and_everything_is_NDA.svg)](https://dev.to/annaspies/crickets-or-hey-i-work-for-a-faang-now-and-everything-is-nda-1a4c)
+[![Jest partial snapshot matching](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Jest_partial_snapshot_matching.svg)](https://dev.to/dailydevtips1/jest-partial-snapshot-matching-410e)
+[![Git Worktree](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Git_Worktree.svg)](https://dev.to/knitesh/git-worktree-2km2)
+[![learning together to be a better coders...!!!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/learning_together_to_be_a_better_coders...!!!.svg)](https://dev.to/indracurious/learning-together-to-be-a-better-coders-4cjg)
+[![5 Best Tools for Software Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Best_Tools_for_Software_Developers.svg)](https://dev.to/taylorcodes/5-best-tools-for-software-developers-471o)
+[![I want to learn React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_want_to_learn_React.svg)](https://dev.to/kevincp17/i-want-to-learn-react-45i6)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, April 8, 2022 at 6:42:08 PM
+> Last updated: Saturday, April 9, 2022 at 12:11:58 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, April 8, 2022 at 6:42:10 PM
+> Last updated: Saturday, April 9, 2022 at 12:12:00 AM
 
 > Showing 5 of 30 posts.
 
