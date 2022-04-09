@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, April 8, 2022 at 12:12:14 PM
+> Last updated: Friday, April 8, 2022 at 6:42:05 PM
 
 > Showing 5 of 12 posts.
 
-[![From Python to Java: Comprehensions and Streams](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/From_Python_to_Java__Comprehensions_and_Streams.svg)](https://dev.to/dylanfw/from-python-to-java-comprehensions-and-streams-3j53)
-[![Kubernetes cluster and what happens when we deploy a POD.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Kubernetes_cluster_and_what_happens_when_we_deploy_a_POD..svg)](https://dev.to/rajeshsgr/kubernetes-cluster-and-what-happens-when-we-deploy-a-pod-4nh0)
-[![How to send a email using Sendgrid and Node.js ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_send_a_email_using_Sendgrid_and_Node.js__.svg)](https://dev.to/imkarthikeyan/how-to-send-a-email-using-sendgrid-and-nodejs--2l39)
-[![How to Hash and Salt Passwords in Golang Using SHA-512 and Why You Shouldn’t 😤](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Hash_and_Salt_Passwords_in_Golang_Using_SHA-512_and_Why_You_Shouldn’t_😤.svg)](https://dev.to/gregorygaines/how-to-hash-and-salt-passwords-in-golang-using-sha-512-and-why-you-shouldnt-2ifh)
-[![Remote debugging Github actions workflow](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Remote_debugging_Github_actions_workflow.svg)](https://dev.to/neeldev96/remote-debugging-github-actions-workflow-24jn)
+[![Introducing Kids to Coding](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_Kids_to_Coding.svg)](https://dev.to/safaal28/introducing-kids-to-coding-3hm5)
+[![Is blockchain a kind of linked list?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Is_blockchain_a_kind_of_linked_list_.svg)](https://dev.to/josethz00/is-blockchain-a-kind-of-linked-lists-4lm1)
+[![Batch file upload processing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Batch_file_upload_processing.svg)](https://dev.to/basavasa1/batch-file-upload-processing-hdb)
+[![Add font-size controls to Trix's toolbar](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Add_font-size_controls_to_Trix's_toolbar.svg)](https://dev.to/rockwell/add-font-size-controls-to-trixs-toolbar-1hgd)
+[![Crickets, or hey, I work for a FAANG now and everything is NDA](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Crickets__or_hey__I_work_for_a_FAANG_now_and_everything_is_NDA.svg)](https://dev.to/annaspies/crickets-or-hey-i-work-for-a-faang-now-and-everything-is-nda-1a4c)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, April 8, 2022 at 12:12:17 PM
+> Last updated: Friday, April 8, 2022 at 6:42:08 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, April 8, 2022 at 12:12:21 PM
+> Last updated: Friday, April 8, 2022 at 6:42:10 PM
 
 > Showing 5 of 30 posts.
 
+[![trueVoting/README.md at master · PlanckItDev/trueVoting](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/trueVoting_README.md_at_master_·_PlanckItDev_trueVoting.svg)](https://github.com/PlanckItDev/trueVoting)
+[![WebAssembly in my Browser Desktop Environment](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/WebAssembly_in_my_Browser_Desktop_Environment.svg)](https://dev.to/dustinbrett/webassembly-in-my-browser-desktop-environment-3n06)
 [![Building and Rendering charts with Nivo in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_and_Rendering_charts_with_Nivo_in_React.svg)](https://blog.openreplay.com/building-and-rendering-charts-with-nivo-in-react)
 [![GitHub - ehmicky/wild-wild-path: 🤠 Object property paths with wildcards and regexps 🌵](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ehmicky_wild-wild-path__🤠_Object_property_paths_with_wildcards_and_regexps_🌵.svg)](https://github.com/ehmicky/wild-wild-path)
 [![Filter Duplicates with Lodash's uniq() Function](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Filter_Duplicates_with_Lodash's_uniq()_Function.svg)](
 https://masteringjs.io/tutorials/lodash/filter-duplicates
 )
-[![Building a visx Dashboard with Cube - Cube Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_a_visx_Dashboard_with_Cube_-_Cube_Blog.svg)](https://cube.dev/blog/building-a-visx-dashboard-with-cube)
-[![GitHub - anatoliygatt/numeric-stepper: 🎛 A numeric stepper component for React.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_anatoliygatt_numeric-stepper__🎛_A_numeric_stepper_component_for_React..svg)](https://github.com/anatoliygatt/numeric-stepper)
 
 
 <!-- post-list:end -->
