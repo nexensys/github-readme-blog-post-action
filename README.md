@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, April 9, 2022 at 12:11:56 AM
+> Last updated: Saturday, April 9, 2022 at 6:15:01 AM
 
 > Showing 5 of 12 posts.
 
-[![Jest partial snapshot matching](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Jest_partial_snapshot_matching.svg)](https://dev.to/dailydevtips1/jest-partial-snapshot-matching-410e)
-[![Git Worktree](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Git_Worktree.svg)](https://dev.to/knitesh/git-worktree-2km2)
-[![learning together to be a better coders...!!!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/learning_together_to_be_a_better_coders...!!!.svg)](https://dev.to/indracurious/learning-together-to-be-a-better-coders-4cjg)
-[![5 Best Tools for Software Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Best_Tools_for_Software_Developers.svg)](https://dev.to/taylorcodes/5-best-tools-for-software-developers-471o)
-[![I want to learn React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_want_to_learn_React.svg)](https://dev.to/kevincp17/i-want-to-learn-react-45i6)
+[![Structured configuration in Go](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Structured_configuration_in_Go.svg)](https://dev.to/andrewpillar/structured-configuration-in-go-4ap7)
+[![How I started My Open-Source contribution Journey.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_I_started_My_Open-Source_contribution_Journey..svg)](https://dev.to/amolshelke2/how-i-started-my-open-source-contribution-journey-d8j)
+[![Breaking the deadlock for low-code - Part-2 Leverage on low-code platforms and key advantages](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Breaking_the_deadlock_for_low-code_-_Part-2_Leverage_on_low-code_platforms_and_key_advantages.svg)](https://dev.to/swatantra/breaking-the-deadlock-for-low-code-part-2-leverage-on-low-code-platforms-and-key-advantages-bg4)
+[![OpenTelemetry and Jaeger | Key concepts, features, and differences](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/OpenTelemetry_and_Jaeger___Key_concepts__features__and_differences.svg)](https://dev.to/signoz/opentelemetry-and-jaeger-key-concepts-features-and-differences-4pd8)
+[![Keep your JavaScript repository clean](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Keep_your_JavaScript_repository_clean.svg)](https://dev.to/strdr4605/keep-your-javascript-repository-clean-5gg0)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, April 9, 2022 at 12:11:58 AM
+> Last updated: Saturday, April 9, 2022 at 6:15:05 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, April 9, 2022 at 12:12:00 AM
+> Last updated: Saturday, April 9, 2022 at 6:15:08 AM
 
 > Showing 5 of 30 posts.
 
