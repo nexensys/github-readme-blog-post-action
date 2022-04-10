@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, April 10, 2022 at 6:15:01 AM
+> Last updated: Sunday, April 10, 2022 at 12:11:23 PM
 
 > Showing 5 of 12 posts.
 
-[![Flutter Widgets](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Flutter_Widgets.svg)](https://dev.to/zapeeosheikh/flutter-widgets-1mm9)
-[![How to turn HTML webpage into an Image?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_turn_HTML_webpage_into_an_Image_.svg)](https://dev.to/jasmin/how-to-turn-html-webpage-into-an-image-n1c)
-[![Managing vim plugins using pathogen](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Managing_vim_plugins_using_pathogen.svg)](https://dev.to/snikhill/managing-vim-plugins-using-pathogen-55g9)
-[![From ISO to AMI - how to create your own custom AMI?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/From_ISO_to_AMI_-_how_to_create_your_own_custom_AMI_.svg)](https://dev.to/otomato_io/from-iso-to-ami-how-to-create-your-own-custom-ami-5213)
-[![I need some contributors for two big projects](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_need_some_contributors_for_two_big_projects.svg)](https://dev.to/josephfir/i-need-some-contributors-for-two-big-projects-55j2)
+[![Level Up Your Wordle Game With Deepgram AI.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Level_Up_Your_Wordle_Game_With_Deepgram_AI..svg)](https://dev.to/wiseai/level-up-your-wordle-game-with-deepgram-ai-4kj3)
+[![8 Best Content Security Policies for 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/8_Best_Content_Security_Policies_for_2022.svg)](https://dev.to/yayabobi/8-best-content-security-policies-for-2022-d4b)
+[![The Best Fun Online Quizzes and Games to Keep You Entertained All Day](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Best_Fun_Online_Quizzes_and_Games_to_Keep_You_Entertained_All_Day.svg)](https://dev.to/eduletegamified/the-best-fun-online-quizzes-and-games-to-keep-you-entertained-all-day-51pj)
+[![What are some things that folks might not be aware of about TypeScript?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_are_some_things_that_folks_might_not_be_aware_of_about_TypeScript_.svg)](https://dev.to/nickytonline/what-are-some-things-that-folks-might-not-be-aware-of-about-typescript-3442)
+[![CSS Tips and ️Tricks You Will Add To ️Cart 💖🛒](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CSS_Tips_and_️Tricks_You_Will_Add_To_️Cart_💖🛒.svg)](https://dev.to/devsyedmohsin/css-tips-and-tricks-you-will-add-to-cart-163p)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, April 10, 2022 at 6:15:04 AM
+> Last updated: Sunday, April 10, 2022 at 12:11:27 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, April 10, 2022 at 6:15:06 AM
+> Last updated: Sunday, April 10, 2022 at 12:11:29 PM
 
 > Showing 5 of 30 posts.
 
