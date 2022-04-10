@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, April 9, 2022 at 6:45:03 PM
+> Last updated: Sunday, April 10, 2022 at 12:11:50 AM
 
 > Showing 5 of 12 posts.
 
-[![Remote Access Private EC2 Instances via System Manager](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Remote_Access_Private_EC2_Instances_via_System_Manager.svg)](https://dev.to/entest/remote-access-private-ec2-instances-via-system-manager-42en)
-[![[Parte 7] ASP.NET: Creando un Sistema Auditable](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/[Parte_7]_ASP.NET__Creando_un_Sistema_Auditable.svg)](https://dev.to/isaacojeda/parte-7-aspnet-creando-un-sistema-auditable-31nf)
-[![This is a test](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/This_is_a_test.svg)](https://dev.to/joaogcs/this-is-a-test-jpk)
-[![Flutter Experience](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Flutter_Experience.svg)](https://dev.to/zapeeosheikh/flutter-experience-5dfg)
-[![Interact with existing Smart Contract](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Interact_with_existing_Smart_Contract.svg)](https://dev.to/christianerdtmann/interact-with-existing-smart-contract-41e3)
+[![Command Line Tools for Productive Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Command_Line_Tools_for_Productive_Developers.svg)](https://dev.to/timwjames/command-line-tools-for-productive-developers-pph)
+[![Rest parameters of JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Rest_parameters_of_JavaScript.svg)](https://dev.to/ashutoshbw314/rest-parameters-of-javascript-3jk3)
+[![Amazing New Tab Focus Page With JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Amazing_New_Tab_Focus_Page_With_JavaScript.svg)](https://dev.to/eduardoslompo/amazing-new-tab-focus-page-with-javascript-3jkg)
+[![100 Days of Code: The Complete Python Pro Bootcamp for 2022 - Day 5](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/100_Days_of_Code__The_Complete_Python_Pro_Bootcamp_for_2022_-_Day_5.svg)](https://dev.to/mike_kameta_aed62d48c2d0f/100-days-of-code-the-complete-python-pro-bootcamp-for-2022-day-5-21eo)
+[![Grit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Grit.svg)](https://dev.to/warmastr/grit-1m34)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, April 9, 2022 at 6:45:06 PM
+> Last updated: Sunday, April 10, 2022 at 12:11:53 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, April 9, 2022 at 6:45:07 PM
+> Last updated: Sunday, April 10, 2022 at 12:11:55 AM
 
 > Showing 5 of 30 posts.
 
