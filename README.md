@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, April 10, 2022 at 12:11:50 AM
+> Last updated: Sunday, April 10, 2022 at 6:15:01 AM
 
 > Showing 5 of 12 posts.
 
-[![Command Line Tools for Productive Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Command_Line_Tools_for_Productive_Developers.svg)](https://dev.to/timwjames/command-line-tools-for-productive-developers-pph)
-[![Rest parameters of JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Rest_parameters_of_JavaScript.svg)](https://dev.to/ashutoshbw314/rest-parameters-of-javascript-3jk3)
-[![Amazing New Tab Focus Page With JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Amazing_New_Tab_Focus_Page_With_JavaScript.svg)](https://dev.to/eduardoslompo/amazing-new-tab-focus-page-with-javascript-3jkg)
-[![100 Days of Code: The Complete Python Pro Bootcamp for 2022 - Day 5](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/100_Days_of_Code__The_Complete_Python_Pro_Bootcamp_for_2022_-_Day_5.svg)](https://dev.to/mike_kameta_aed62d48c2d0f/100-days-of-code-the-complete-python-pro-bootcamp-for-2022-day-5-21eo)
-[![Grit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Grit.svg)](https://dev.to/warmastr/grit-1m34)
+[![Flutter Widgets](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Flutter_Widgets.svg)](https://dev.to/zapeeosheikh/flutter-widgets-1mm9)
+[![How to turn HTML webpage into an Image?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_turn_HTML_webpage_into_an_Image_.svg)](https://dev.to/jasmin/how-to-turn-html-webpage-into-an-image-n1c)
+[![Managing vim plugins using pathogen](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Managing_vim_plugins_using_pathogen.svg)](https://dev.to/snikhill/managing-vim-plugins-using-pathogen-55g9)
+[![From ISO to AMI - how to create your own custom AMI?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/From_ISO_to_AMI_-_how_to_create_your_own_custom_AMI_.svg)](https://dev.to/otomato_io/from-iso-to-ami-how-to-create-your-own-custom-ami-5213)
+[![I need some contributors for two big projects](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_need_some_contributors_for_two_big_projects.svg)](https://dev.to/josephfir/i-need-some-contributors-for-two-big-projects-55j2)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, April 10, 2022 at 12:11:53 AM
+> Last updated: Sunday, April 10, 2022 at 6:15:04 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, April 10, 2022 at 12:11:55 AM
+> Last updated: Sunday, April 10, 2022 at 6:15:06 AM
 
 > Showing 5 of 30 posts.
 
