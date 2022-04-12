@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, April 12, 2022 at 6:16:21 AM
+> Last updated: Tuesday, April 12, 2022 at 12:11:51 PM
 
 > Showing 5 of 12 posts.
 
-[![What computer science concepts should most devs understand, at least a bit?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_computer_science_concepts_should_most_devs_understand__at_least_a_bit_.svg)](https://dev.to/sherrydays/what-computer-science-concepts-should-most-devs-understand-at-least-a-bit-3agc)
-[![Function purity and referential transparency](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Function_purity_and_referential_transparency.svg)](https://dev.to/ruizb/function-purity-and-referential-transparency-7h1)
-[![What Is VDI And How Does It Work?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_Is_VDI_And_How_Does_It_Work_.svg)](https://dev.to/acevdihosting/what-is-vdi-and-how-does-it-work-1n3e)
-[![How To Minimize Browsers In Selenium WebDriver Using JUnit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Minimize_Browsers_In_Selenium_WebDriver_Using_JUnit.svg)](https://dev.to/lambdatest/how-to-minimize-browsers-in-selenium-webdriver-using-junit-19m1)
-[![20 Animated Logos to Spark Your Inspiration](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/20_Animated_Logos_to_Spark_Your_Inspiration.svg)](https://dev.to/svgatorapp/20-animated-logos-to-spark-your-inspiration-3c66)
+[![HowToFindOperSourceAngularProjects](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/HowToFindOperSourceAngularProjects.svg)](https://dev.to/ashraf13506/howtofindopersourceangularprojects-37kc)
+[![These 3 differences between Reactjs and React Native are easy to spot.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/These_3_differences_between_Reactjs_and_React_Native_are_easy_to_spot..svg)](https://dev.to/napoleon039/these-3-differences-between-reactjs-and-react-native-are-easy-to-spot-53d0)
+[![How to receive messages in group chats using telegram bot app without full access in Telegram bot on NestJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_receive_messages_in_group_chats_using_telegram_bot_app_without_full_access_in_Telegram_bot_on_NestJS.svg)](https://dev.to/endykaufman/how-to-receive-messages-in-group-chats-using-telegram-bot-app-without-full-access-in-telegram-bot-on-nestjs-4k6m)
+[![GitHub profile](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/GitHub_profile.svg)](https://dev.to/pradumnasaraf/github-profile-4aan)
+[![Why Arduino fails to receive ACK signal?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_Arduino_fails_to_receive_ACK_signal_.svg)](https://dev.to/pcmagas/why-arduino-fails-to-receive-ack-signal-8e4)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, April 12, 2022 at 6:16:25 AM
+> Last updated: Tuesday, April 12, 2022 at 12:11:54 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, April 12, 2022 at 6:16:27 AM
+> Last updated: Tuesday, April 12, 2022 at 12:11:55 PM
 
 > Showing 5 of 30 posts.
 
+[![The difference() function in Lodash](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_difference()_function_in_Lodash.svg)](
+https://masteringjs.io/tutorials/lodash/difference
+)
+[![GitHub - jfscoertzen/HTON: JSON to HTML Interpreter and framework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_jfscoertzen_HTON__JSON_to_HTML_Interpreter_and_framework.svg)](https://github.com/jfscoertzen/HTON)
 [![How To Handle Deep Linking in a React Native App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_To_Handle_Deep_Linking_in_a_React_Native_App.svg)](https://dev.to/jscrambler/how-to-handle-deep-linking-in-a-react-native-app-o5d)
 [![Vue UI Components: 15 Libraries & Kits - Stack Diary](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Vue_UI_Components__15_Libraries___Kits_-_Stack_Diary.svg)](https://stackdiary.com/vue-ui-components-kits/)
 [![JavaScript function composition: What’s the big deal?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_function_composition__What’s_the_big_deal_.svg)](https://jrsinclair.com/articles/2022/javascript-function-composition-whats-the-big-deal/)
-[![This is Formilk](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/This_is_Formilk.svg)](https://dev.to/uppercod/this-is-formilk-1mbh)
-[![How to build a CMS-powered blog with Nuxt](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_build_a_CMS-powered_blog_with_Nuxt.svg)](https://blog.openreplay.com/how-to-build-a-cms-powered-blog-with-nuxt)
 
 
 <!-- post-list:end -->
