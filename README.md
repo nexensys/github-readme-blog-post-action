@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, April 10, 2022 at 12:11:23 PM
+> Last updated: Tuesday, April 12, 2022 at 6:16:21 AM
 
 > Showing 5 of 12 posts.
 
-[![Level Up Your Wordle Game With Deepgram AI.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Level_Up_Your_Wordle_Game_With_Deepgram_AI..svg)](https://dev.to/wiseai/level-up-your-wordle-game-with-deepgram-ai-4kj3)
-[![8 Best Content Security Policies for 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/8_Best_Content_Security_Policies_for_2022.svg)](https://dev.to/yayabobi/8-best-content-security-policies-for-2022-d4b)
-[![The Best Fun Online Quizzes and Games to Keep You Entertained All Day](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Best_Fun_Online_Quizzes_and_Games_to_Keep_You_Entertained_All_Day.svg)](https://dev.to/eduletegamified/the-best-fun-online-quizzes-and-games-to-keep-you-entertained-all-day-51pj)
-[![What are some things that folks might not be aware of about TypeScript?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_are_some_things_that_folks_might_not_be_aware_of_about_TypeScript_.svg)](https://dev.to/nickytonline/what-are-some-things-that-folks-might-not-be-aware-of-about-typescript-3442)
-[![CSS Tips and ️Tricks You Will Add To ️Cart 💖🛒](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CSS_Tips_and_️Tricks_You_Will_Add_To_️Cart_💖🛒.svg)](https://dev.to/devsyedmohsin/css-tips-and-tricks-you-will-add-to-cart-163p)
+[![What computer science concepts should most devs understand, at least a bit?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_computer_science_concepts_should_most_devs_understand__at_least_a_bit_.svg)](https://dev.to/sherrydays/what-computer-science-concepts-should-most-devs-understand-at-least-a-bit-3agc)
+[![Function purity and referential transparency](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Function_purity_and_referential_transparency.svg)](https://dev.to/ruizb/function-purity-and-referential-transparency-7h1)
+[![What Is VDI And How Does It Work?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_Is_VDI_And_How_Does_It_Work_.svg)](https://dev.to/acevdihosting/what-is-vdi-and-how-does-it-work-1n3e)
+[![How To Minimize Browsers In Selenium WebDriver Using JUnit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Minimize_Browsers_In_Selenium_WebDriver_Using_JUnit.svg)](https://dev.to/lambdatest/how-to-minimize-browsers-in-selenium-webdriver-using-junit-19m1)
+[![20 Animated Logos to Spark Your Inspiration](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/20_Animated_Logos_to_Spark_Your_Inspiration.svg)](https://dev.to/svgatorapp/20-animated-logos-to-spark-your-inspiration-3c66)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, April 10, 2022 at 12:11:27 PM
+> Last updated: Tuesday, April 12, 2022 at 6:16:25 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, April 10, 2022 at 12:11:29 PM
+> Last updated: Tuesday, April 12, 2022 at 6:16:27 AM
 
 > Showing 5 of 30 posts.
 
-[![GitHub - massCodeIO/massCode: Next version of massCode [WIP]. A free and open source code snippets manager for developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_massCodeIO_massCode__Next_version_of_massCode_[WIP]._A_free_and_open_source_code_snippets_manager_for_developers.svg)](https://github.com/massCodeIO/massCode)
-[![Front-end testing: principles, levels, libraries, and automation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Front-end_testing__principles__levels__libraries__and_automation.svg)](https://blog.openreplay.com/front-end-testing-principles-levels-libraries-and-automation)
-[![trueVoting/README.md at master · PlanckItDev/trueVoting](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/trueVoting_README.md_at_master_·_PlanckItDev_trueVoting.svg)](https://github.com/PlanckItDev/trueVoting)
-[![WebAssembly in my Browser Desktop Environment](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/WebAssembly_in_my_Browser_Desktop_Environment.svg)](https://dev.to/dustinbrett/webassembly-in-my-browser-desktop-environment-3n06)
-[![Building and Rendering charts with Nivo in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_and_Rendering_charts_with_Nivo_in_React.svg)](https://blog.openreplay.com/building-and-rendering-charts-with-nivo-in-react)
+[![How To Handle Deep Linking in a React Native App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_To_Handle_Deep_Linking_in_a_React_Native_App.svg)](https://dev.to/jscrambler/how-to-handle-deep-linking-in-a-react-native-app-o5d)
+[![Vue UI Components: 15 Libraries & Kits - Stack Diary](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Vue_UI_Components__15_Libraries___Kits_-_Stack_Diary.svg)](https://stackdiary.com/vue-ui-components-kits/)
+[![JavaScript function composition: What’s the big deal?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_function_composition__What’s_the_big_deal_.svg)](https://jrsinclair.com/articles/2022/javascript-function-composition-whats-the-big-deal/)
+[![This is Formilk](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/This_is_Formilk.svg)](https://dev.to/uppercod/this-is-formilk-1mbh)
+[![How to build a CMS-powered blog with Nuxt](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_build_a_CMS-powered_blog_with_Nuxt.svg)](https://blog.openreplay.com/how-to-build-a-cms-powered-blog-with-nuxt)
 
 
 <!-- post-list:end -->
