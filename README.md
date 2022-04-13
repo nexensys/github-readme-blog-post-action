@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, April 13, 2022 at 6:16:29 AM
+> Last updated: Wednesday, April 13, 2022 at 12:13:03 PM
 
 > Showing 5 of 12 posts.
 
-[![Make and deploy your own blog in under 30 mins](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Make_and_deploy_your_own_blog_in_under_30_mins.svg)](https://dev.to/nexxeln/make-and-deploy-your-own-blog-in-under-30-mins-448p)
-[![Zero Trust Explained](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Zero_Trust_Explained.svg)](https://dev.to/sturdy5/zero-trust-explained-2mj4)
-[![How to detect scroll direction in vanilla JavaScript (to make a goofy logo animation)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_detect_scroll_direction_in_vanilla_JavaScript_(to_make_a_goofy_logo_animation).svg)](https://dev.to/robole/how-to-detect-scroll-direction-in-vanilla-javascript-to-make-a-goofy-logo-animation-njc)
-[![Optimum Keto Reviews | You Need To Know About It Before Buying](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Optimum_Keto_Reviews___You_Need_To_Know_About_It_Before_Buying.svg)](https://dev.to/optimumketobenefits/optimum-keto-reviews-you-need-to-know-about-it-before-buying-2g29)
-[![Integration of Huawei Account kit, Remote Configuration Service and Crash kit in Flutter DietApp – Part 5](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Integration_of_Huawei_Account_kit__Remote_Configuration_Service_and_Crash_kit_in_Flutter_DietApp_–_Part_5.svg)](https://dev.to/hmscommunity/integration-of-huawei-account-kit-remote-configuration-service-and-crash-kit-in-flutter-dietapp-part-5-3392)
+[![How to set up WYSIWYG editing in MkDocs with CloudCannon](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_set_up_WYSIWYG_editing_in_MkDocs_with_CloudCannon.svg)](https://dev.to/cloudcannon/how-to-set-up-wysiwyg-editing-in-mkdocs-with-cloudcannon-1na4)
+[![Grow traffic to your GitHub profile w/ GitHub Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Grow_traffic_to_your_GitHub_profile_w__GitHub_Actions.svg)](https://dev.to/francescobianco/grow-traffic-to-your-github-profile-2n2a)
+[![AWS Karpenter Hands-on](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_Karpenter_Hands-on.svg)](https://dev.to/aws-builders/aws-karpenter-hands-on-custom-resources-1am9)
+[![Build a Web App with Pandas](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_a_Web_App_with_Pandas.svg)](https://dev.to/pcarrogarcia/build-a-web-app-with-pandas-5d86)
+[![Defensa Penal - Abogado](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Defensa_Penal_-_Abogado.svg)](https://dev.to/andreacastillo822/defensa-penal-abogado-452d)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, April 13, 2022 at 6:16:32 AM
+> Last updated: Wednesday, April 13, 2022 at 12:13:07 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,16 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, April 13, 2022 at 6:16:33 AM
+> Last updated: Wednesday, April 13, 2022 at 12:13:09 PM
 
 > Showing 5 of 30 posts.
 
+[![Women Make • Download all your leetcode solutions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Women_Make_•_Download_all_your_leetcode_solutions.svg)](https://womenmake.com/posts/sP6R0Mzj1D/download-all-your-leetcode-solutions)
+[![
+Synvert - write snippet code to rewrite your project code
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Synvert_-_write_snippet_code_to_rewrite_your_project_code_.svg)](
+https://synvert.xinminlabs.com/javascript/home/
+)
 [![Aurelia: Build Powerful Web Apps with Simple Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Aurelia__Build_Powerful_Web_Apps_with_Simple_Javascript.svg)](https://blog.openreplay.com/aurelia-build-powerful-web-apps-with-simple-javascript)
 [![Episode 6 - Svelte and Contributing to Open-Source with Geoff Rich - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_6_-_Svelte_and_Contributing_to_Open-Source_with_Geoff_Rich_-_20minJS.svg)](https://podcast.20minjs.com/1952066/10417700-episode-6-svelte-and-contributing-to-open-source-with-geoff-rich)
 [![
@@ -54,8 +60,6 @@ Rich in fiber foods
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Rich_in_fiber_foods_.svg)](
 https://www.webhealthmantra.com/high-fiber-foods/
 )
-[![GitHub - jfscoertzen/HTON: JSON to HTML Interpreter and framework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_jfscoertzen_HTON__JSON_to_HTML_Interpreter_and_framework.svg)](https://github.com/jfscoertzen/HTON)
-[![How To Handle Deep Linking in a React Native App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_To_Handle_Deep_Linking_in_a_React_Native_App.svg)](https://dev.to/jscrambler/how-to-handle-deep-linking-in-a-react-native-app-o5d)
 
 
 <!-- post-list:end -->
