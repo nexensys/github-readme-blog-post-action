@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, April 13, 2022 at 12:12:52 AM
+> Last updated: Wednesday, April 13, 2022 at 6:16:29 AM
 
 > Showing 5 of 12 posts.
 
-[![Leaving tailwindcss to the past.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Leaving_tailwindcss_to_the_past..svg)](https://dev.to/akashpattnaik/leaving-tailwindcss-to-the-past-36fn)
-[![Programmatically Printing PDFs on Windows](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Programmatically_Printing_PDFs_on_Windows.svg)](https://dev.to/krowemoh/programmatically-printing-pdfs-on-windows-ff)
-[![Benefits Of BPS-5 Supplement](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Benefits_Of_BPS-5_Supplement.svg)](https://dev.to/bps5buy/benefits-of-bps-5-supplement-4508)
-[![How to disable right-click on your website?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_disable_right-click_on_your_website_.svg)](https://dev.to/codewithsnowbit/how-to-disable-right-click-on-your-website-5dca)
-[![How to control ReactJS MUI table column height and width](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_control_ReactJS_MUI_table_column_height_and_width.svg)](https://dev.to/shyamoec/how-to-control-reactjs-mui-table-column-height-and-width-4f2n)
+[![Make and deploy your own blog in under 30 mins](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Make_and_deploy_your_own_blog_in_under_30_mins.svg)](https://dev.to/nexxeln/make-and-deploy-your-own-blog-in-under-30-mins-448p)
+[![Zero Trust Explained](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Zero_Trust_Explained.svg)](https://dev.to/sturdy5/zero-trust-explained-2mj4)
+[![How to detect scroll direction in vanilla JavaScript (to make a goofy logo animation)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_detect_scroll_direction_in_vanilla_JavaScript_(to_make_a_goofy_logo_animation).svg)](https://dev.to/robole/how-to-detect-scroll-direction-in-vanilla-javascript-to-make-a-goofy-logo-animation-njc)
+[![Optimum Keto Reviews | You Need To Know About It Before Buying](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Optimum_Keto_Reviews___You_Need_To_Know_About_It_Before_Buying.svg)](https://dev.to/optimumketobenefits/optimum-keto-reviews-you-need-to-know-about-it-before-buying-2g29)
+[![Integration of Huawei Account kit, Remote Configuration Service and Crash kit in Flutter DietApp – Part 5](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Integration_of_Huawei_Account_kit__Remote_Configuration_Service_and_Crash_kit_in_Flutter_DietApp_–_Part_5.svg)](https://dev.to/hmscommunity/integration-of-huawei-account-kit-remote-configuration-service-and-crash-kit-in-flutter-dietapp-part-5-3392)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, April 13, 2022 at 12:12:55 AM
+> Last updated: Wednesday, April 13, 2022 at 6:16:32 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,12 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, April 13, 2022 at 12:12:57 AM
+> Last updated: Wednesday, April 13, 2022 at 6:16:33 AM
 
 > Showing 5 of 30 posts.
 
+[![Aurelia: Build Powerful Web Apps with Simple Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Aurelia__Build_Powerful_Web_Apps_with_Simple_Javascript.svg)](https://blog.openreplay.com/aurelia-build-powerful-web-apps-with-simple-javascript)
+[![Episode 6 - Svelte and Contributing to Open-Source with Geoff Rich - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_6_-_Svelte_and_Contributing_to_Open-Source_with_Geoff_Rich_-_20minJS.svg)](https://podcast.20minjs.com/1952066/10417700-episode-6-svelte-and-contributing-to-open-source-with-geoff-rich)
 [![
 Rich in fiber foods
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Rich_in_fiber_foods_.svg)](
@@ -54,8 +56,6 @@ https://www.webhealthmantra.com/high-fiber-foods/
 )
 [![GitHub - jfscoertzen/HTON: JSON to HTML Interpreter and framework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_jfscoertzen_HTON__JSON_to_HTML_Interpreter_and_framework.svg)](https://github.com/jfscoertzen/HTON)
 [![How To Handle Deep Linking in a React Native App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_To_Handle_Deep_Linking_in_a_React_Native_App.svg)](https://dev.to/jscrambler/how-to-handle-deep-linking-in-a-react-native-app-o5d)
-[![JavaScript function composition: What’s the big deal?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_function_composition__What’s_the_big_deal_.svg)](https://jrsinclair.com/articles/2022/javascript-function-composition-whats-the-big-deal/)
-[![This is Formilk](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/This_is_Formilk.svg)](https://dev.to/uppercod/this-is-formilk-1mbh)
 
 
 <!-- post-list:end -->
