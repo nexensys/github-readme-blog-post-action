@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, April 12, 2022 at 6:49:17 PM
+> Last updated: Wednesday, April 13, 2022 at 12:12:52 AM
 
 > Showing 5 of 12 posts.
 
-[![A beginner introduction to Arch Linux pacman](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_beginner_introduction_to_Arch_Linux_pacman.svg)](https://dev.to/zt4ff_1/a-beginner-introduction-to-arch-linux-pacman-1ec6)
-[![A Step-by-Step Guide to IBM i Modernization Tools](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Step-by-Step_Guide_to_IBM_i_Modernization_Tools.svg)](https://dev.to/ideradevtools/a-step-by-step-guide-to-ibm-i-modernization-tools-2a3m)
-[![Very much a beginner...](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Very_much_a_beginner....svg)](https://dev.to/onthefritz/very-much-a-beginner-15ph)
-[!['is' vs '==' to Check if Two Elements are Equal in Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/'is'_vs_'=='_to_Check_if_Two_Elements_are_Equal_in_Python.svg)](https://dev.to/cscarpitta/is-vs-to-check-if-two-elements-are-equal-in-python-5d08)
-[![Ubuntu 22 rocks!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ubuntu_22_rocks!.svg)](https://dev.to/makar2/ubuntu-22-rocks-6di)
+[![Leaving tailwindcss to the past.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Leaving_tailwindcss_to_the_past..svg)](https://dev.to/akashpattnaik/leaving-tailwindcss-to-the-past-36fn)
+[![Programmatically Printing PDFs on Windows](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Programmatically_Printing_PDFs_on_Windows.svg)](https://dev.to/krowemoh/programmatically-printing-pdfs-on-windows-ff)
+[![Benefits Of BPS-5 Supplement](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Benefits_Of_BPS-5_Supplement.svg)](https://dev.to/bps5buy/benefits-of-bps-5-supplement-4508)
+[![How to disable right-click on your website?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_disable_right-click_on_your_website_.svg)](https://dev.to/codewithsnowbit/how-to-disable-right-click-on-your-website-5dca)
+[![How to control ReactJS MUI table column height and width](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_control_ReactJS_MUI_table_column_height_and_width.svg)](https://dev.to/shyamoec/how-to-control-reactjs-mui-table-column-height-and-width-4f2n)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, April 12, 2022 at 6:49:20 PM
+> Last updated: Wednesday, April 13, 2022 at 12:12:55 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, April 12, 2022 at 6:49:24 PM
+> Last updated: Wednesday, April 13, 2022 at 12:12:57 AM
 
 > Showing 5 of 30 posts.
 
+[![
+Rich in fiber foods
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Rich_in_fiber_foods_.svg)](
+https://www.webhealthmantra.com/high-fiber-foods/
+)
 [![GitHub - jfscoertzen/HTON: JSON to HTML Interpreter and framework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_jfscoertzen_HTON__JSON_to_HTML_Interpreter_and_framework.svg)](https://github.com/jfscoertzen/HTON)
 [![How To Handle Deep Linking in a React Native App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_To_Handle_Deep_Linking_in_a_React_Native_App.svg)](https://dev.to/jscrambler/how-to-handle-deep-linking-in-a-react-native-app-o5d)
 [![JavaScript function composition: What’s the big deal?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_function_composition__What’s_the_big_deal_.svg)](https://jrsinclair.com/articles/2022/javascript-function-composition-whats-the-big-deal/)
 [![This is Formilk](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/This_is_Formilk.svg)](https://dev.to/uppercod/this-is-formilk-1mbh)
-[![Using AbortController to deal with race conditions in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_AbortController_to_deal_with_race_conditions_in_React.svg)](http://wanago.io/2022/04/11/abort-controller-race-conditions-react/)
 
 
 <!-- post-list:end -->
