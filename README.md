@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, April 14, 2022 at 6:18:40 AM
+> Last updated: Thursday, April 14, 2022 at 12:14:21 PM
 
 > Showing 5 of 12 posts.
 
-[![Incident Response for AWS MySQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Incident_Response_for_AWS_MySQL.svg)](https://dev.to/giladmaayan/incident-response-for-aws-mysql-32l6)
-[![Thoughts of Learning typescript for the past few weeks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Thoughts_of_Learning_typescript_for_the_past_few_weeks.svg)](https://dev.to/kamrulhaider/thoughts-of-learning-typescript-for-the-past-few-weeks-3966)
-[![What is the difference between pip and pip3?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_the_difference_between_pip_and_pip3_.svg)](https://dev.to/softhunt/what-is-the-difference-between-pip-and-pip3-5haj)
-[![Online Pharmacy App Development by EMedStore](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Online_Pharmacy_App_Development_by_EMedStore.svg)](https://dev.to/emedstore_pharmait/online-pharmacy-app-development-by-emedstore-5928)
-[![A Style Guide For HTML & CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Style_Guide_For_HTML___CSS.svg)](https://dev.to/theaccordance/a-style-guide-for-html-css-4p6e)
+[![React Forms — Formik vs. Hook Form vs. Final Form](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Forms_—_Formik_vs._Hook_Form_vs._Final_Form.svg)](https://dev.to/sm0ke/react-forms-formik-vs-hook-form-vs-final-form-c1e)
+[![Django Tutorial Part 6 -- polls アプリでテーブルの中身を好きな順番で並べる](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Django_Tutorial_Part_6_--_polls_アプリでテーブルの中身を好きな順番で並べる.svg)](https://dev.to/kaede_io/django-tutorial-part-6-polls-no-index-de-questiontext-wobing-beru-1log)
+[![How to Get the URL for Pictures](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Get_the_URL_for_Pictures.svg)](https://dev.to/tieje/how-to-get-the-url-for-pictures-30o6)
+[![Web <=2.0 Apps/Sites are Never Safe to Use](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Web__=2.0_Apps_Sites_are_Never_Safe_to_Use.svg)](https://dev.to/suicide/web-20-appssites-are-never-safe-to-use-c98)
+[![What are simple tools for creating a standalone API-only service?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_are_simple_tools_for_creating_a_standalone_API-only_service_.svg)](https://dev.to/ben/what-are-simple-tools-for-creating-a-standalone-api-only-service-4gio)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, April 14, 2022 at 6:18:43 AM
+> Last updated: Thursday, April 14, 2022 at 12:14:24 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, April 14, 2022 at 6:18:46 AM
+> Last updated: Thursday, April 14, 2022 at 12:14:26 PM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - BobbyWilt/Spotify_Song_Recommender: This project leverages spotify's api and provided user playlists to create and tune a neural network model that generates song recommendations based off of song data in provided playlists.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_BobbyWilt_Spotify_Song_Recommender__This_project_leverages_spotify's_api_and_provided_user_playlists_to_create_and_tune_a_neural_network_model_that_generates_song_recommendations_based_off_of_song_data_in_provided_playlists..svg)](https://github.com/BobbyWilt/Spotify_Song_Recommender)
+[![Forever Functional - From methods to functions, and back](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Forever_Functional_-_From_methods_to_functions__and_back.svg)](https://blog.openreplay.com/forever-functional-from-methods-to-functions-and-back)
 [![Top NFT Marketplace Development Trends for 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Top_NFT_Marketplace_Development_Trends_for_2022.svg)](https://assetfinx.medium.com/top-nft-marketplace-development-trends-for-2022-5a10cd61c9cc)
 [![GitHub - JamieLivingstone/node-clean-architecture: A Node template that follows the Clean Architecture principles and encourages good practices.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_JamieLivingstone_node-clean-architecture__A_Node_template_that_follows_the_Clean_Architecture_principles_and_encourages_good_practices..svg)](https://github.com/JamieLivingstone/node-clean-architecture)
 [![Full power of AWS with Heroku-like experience](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Full_power_of_AWS_with_Heroku-like_experience.svg)](https://stacktape.com)
-[![Japa - A feature rich testing framework for Node.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Japa_-_A_feature_rich_testing_framework_for_Node.js.svg)](https://japa.dev)
-[![Release v2.6.0 · qax-os/excelize](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Release_v2.6.0_·_qax-os_excelize.svg)](/qax-os/excelize/releases/tag/v2.6.0)
 
 
 <!-- post-list:end -->
