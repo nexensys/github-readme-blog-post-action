@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, April 13, 2022 at 6:52:11 PM
+> Last updated: Thursday, April 14, 2022 at 12:13:29 AM
 
 > Showing 5 of 12 posts.
 
-[![How to Act on Preparation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Act_on_Preparation.svg)](https://dev.to/samp_reston/how-to-act-on-preparation-4hig)
-[![Managing secrets, API keys and more with Serverless](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Managing_secrets__API_keys_and_more_with_Serverless.svg)](https://dev.to/serverless_inc/managing-secrets-api-keys-and-more-with-serverless-kba)
-[![Nice to meet you.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Nice_to_meet_you..svg)](https://dev.to/sirinoks/nice-to-meet-you-a8f)
-[![TIL: Timecop has a safe mode](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/TIL__Timecop_has_a_safe_mode.svg)](https://dev.to/antonivanopoulos/til-timecop-has-a-safe-mode-5h8g)
-[![Tech start-up ideas](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tech_start-up_ideas.svg)](https://dev.to/freebeliever/tech-start-up-ideas-14i7)
+[![Applications of Data Science 😎](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Applications_of_Data_Science_😎.svg)](https://dev.to/codewithsom/applications-of-data-science-1g2c)
+[![Selenium Automation won’t get you to DevOps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Selenium_Automation_won’t_get_you_to_DevOps.svg)](https://dev.to/webomates/selenium-automation-wont-get-you-to-devops-4hda)
+[![Jira and Trello](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Jira_and_Trello.svg)](https://dev.to/tmchuynh/jira-and-trello-1he5)
+[![Django Update Post](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Django_Update_Post.svg)](https://dev.to/phansivang/django-update-post-2fkh)
+[![RapidSSL Wildcard Certificate](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/RapidSSL_Wildcard_Certificate.svg)](https://dev.to/https_india/rapidssl-wildcard-certificate-4ho4)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, April 13, 2022 at 6:52:14 PM
+> Last updated: Thursday, April 14, 2022 at 12:13:33 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,12 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, April 13, 2022 at 6:52:16 PM
+> Last updated: Thursday, April 14, 2022 at 12:13:36 AM
 
 > Showing 5 of 30 posts.
 
+[![Japa - A feature rich testing framework for Node.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Japa_-_A_feature_rich_testing_framework_for_Node.js.svg)](https://japa.dev)
+[![Release v2.6.0 · qax-os/excelize](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Release_v2.6.0_·_qax-os_excelize.svg)](/qax-os/excelize/releases/tag/v2.6.0)
 [![Women Make • Download all your leetcode solutions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Women_Make_•_Download_all_your_leetcode_solutions.svg)](https://womenmake.com/posts/sP6R0Mzj1D/download-all-your-leetcode-solutions)
 [![
 Synvert - write snippet code to rewrite your project code
@@ -54,8 +56,6 @@ Synvert - write snippet code to rewrite your project code
 https://synvert.xinminlabs.com/javascript/home/
 )
 [![Aurelia: Build Powerful Web Apps with Simple Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Aurelia__Build_Powerful_Web_Apps_with_Simple_Javascript.svg)](https://blog.openreplay.com/aurelia-build-powerful-web-apps-with-simple-javascript)
-[![Episode 6 - Svelte and Contributing to Open-Source with Geoff Rich - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_6_-_Svelte_and_Contributing_to_Open-Source_with_Geoff_Rich_-_20minJS.svg)](https://podcast.20minjs.com/1952066/10417700-episode-6-svelte-and-contributing-to-open-source-with-geoff-rich)
-[![GitHub - jfscoertzen/HTON: JSON to HTML Interpreter and framework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_jfscoertzen_HTON__JSON_to_HTML_Interpreter_and_framework.svg)](https://github.com/jfscoertzen/HTON)
 
 
 <!-- post-list:end -->
