@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, April 14, 2022 at 12:13:29 AM
+> Last updated: Thursday, April 14, 2022 at 6:18:40 AM
 
 > Showing 5 of 12 posts.
 
-[![Applications of Data Science 😎](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Applications_of_Data_Science_😎.svg)](https://dev.to/codewithsom/applications-of-data-science-1g2c)
-[![Selenium Automation won’t get you to DevOps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Selenium_Automation_won’t_get_you_to_DevOps.svg)](https://dev.to/webomates/selenium-automation-wont-get-you-to-devops-4hda)
-[![Jira and Trello](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Jira_and_Trello.svg)](https://dev.to/tmchuynh/jira-and-trello-1he5)
-[![Django Update Post](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Django_Update_Post.svg)](https://dev.to/phansivang/django-update-post-2fkh)
-[![RapidSSL Wildcard Certificate](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/RapidSSL_Wildcard_Certificate.svg)](https://dev.to/https_india/rapidssl-wildcard-certificate-4ho4)
+[![Incident Response for AWS MySQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Incident_Response_for_AWS_MySQL.svg)](https://dev.to/giladmaayan/incident-response-for-aws-mysql-32l6)
+[![Thoughts of Learning typescript for the past few weeks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Thoughts_of_Learning_typescript_for_the_past_few_weeks.svg)](https://dev.to/kamrulhaider/thoughts-of-learning-typescript-for-the-past-few-weeks-3966)
+[![What is the difference between pip and pip3?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_the_difference_between_pip_and_pip3_.svg)](https://dev.to/softhunt/what-is-the-difference-between-pip-and-pip3-5haj)
+[![Online Pharmacy App Development by EMedStore](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Online_Pharmacy_App_Development_by_EMedStore.svg)](https://dev.to/emedstore_pharmait/online-pharmacy-app-development-by-emedstore-5928)
+[![A Style Guide For HTML & CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Style_Guide_For_HTML___CSS.svg)](https://dev.to/theaccordance/a-style-guide-for-html-css-4p6e)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, April 14, 2022 at 12:13:33 AM
+> Last updated: Thursday, April 14, 2022 at 6:18:43 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, April 14, 2022 at 12:13:36 AM
+> Last updated: Thursday, April 14, 2022 at 6:18:46 AM
 
 > Showing 5 of 30 posts.
 
+[![Top NFT Marketplace Development Trends for 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Top_NFT_Marketplace_Development_Trends_for_2022.svg)](https://assetfinx.medium.com/top-nft-marketplace-development-trends-for-2022-5a10cd61c9cc)
+[![GitHub - JamieLivingstone/node-clean-architecture: A Node template that follows the Clean Architecture principles and encourages good practices.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_JamieLivingstone_node-clean-architecture__A_Node_template_that_follows_the_Clean_Architecture_principles_and_encourages_good_practices..svg)](https://github.com/JamieLivingstone/node-clean-architecture)
+[![Full power of AWS with Heroku-like experience](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Full_power_of_AWS_with_Heroku-like_experience.svg)](https://stacktape.com)
 [![Japa - A feature rich testing framework for Node.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Japa_-_A_feature_rich_testing_framework_for_Node.js.svg)](https://japa.dev)
 [![Release v2.6.0 · qax-os/excelize](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Release_v2.6.0_·_qax-os_excelize.svg)](/qax-os/excelize/releases/tag/v2.6.0)
-[![Women Make • Download all your leetcode solutions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Women_Make_•_Download_all_your_leetcode_solutions.svg)](https://womenmake.com/posts/sP6R0Mzj1D/download-all-your-leetcode-solutions)
-[![
-Synvert - write snippet code to rewrite your project code
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Synvert_-_write_snippet_code_to_rewrite_your_project_code_.svg)](
-https://synvert.xinminlabs.com/javascript/home/
-)
-[![Aurelia: Build Powerful Web Apps with Simple Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Aurelia__Build_Powerful_Web_Apps_with_Simple_Javascript.svg)](https://blog.openreplay.com/aurelia-build-powerful-web-apps-with-simple-javascript)
 
 
 <!-- post-list:end -->
