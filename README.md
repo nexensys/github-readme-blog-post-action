@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, April 13, 2022 at 12:13:03 PM
+> Last updated: Wednesday, April 13, 2022 at 6:52:11 PM
 
 > Showing 5 of 12 posts.
 
-[![How to set up WYSIWYG editing in MkDocs with CloudCannon](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_set_up_WYSIWYG_editing_in_MkDocs_with_CloudCannon.svg)](https://dev.to/cloudcannon/how-to-set-up-wysiwyg-editing-in-mkdocs-with-cloudcannon-1na4)
-[![Grow traffic to your GitHub profile w/ GitHub Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Grow_traffic_to_your_GitHub_profile_w__GitHub_Actions.svg)](https://dev.to/francescobianco/grow-traffic-to-your-github-profile-2n2a)
-[![AWS Karpenter Hands-on](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_Karpenter_Hands-on.svg)](https://dev.to/aws-builders/aws-karpenter-hands-on-custom-resources-1am9)
-[![Build a Web App with Pandas](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_a_Web_App_with_Pandas.svg)](https://dev.to/pcarrogarcia/build-a-web-app-with-pandas-5d86)
-[![Defensa Penal - Abogado](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Defensa_Penal_-_Abogado.svg)](https://dev.to/andreacastillo822/defensa-penal-abogado-452d)
+[![How to Act on Preparation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Act_on_Preparation.svg)](https://dev.to/samp_reston/how-to-act-on-preparation-4hig)
+[![Managing secrets, API keys and more with Serverless](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Managing_secrets__API_keys_and_more_with_Serverless.svg)](https://dev.to/serverless_inc/managing-secrets-api-keys-and-more-with-serverless-kba)
+[![Nice to meet you.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Nice_to_meet_you..svg)](https://dev.to/sirinoks/nice-to-meet-you-a8f)
+[![TIL: Timecop has a safe mode](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/TIL__Timecop_has_a_safe_mode.svg)](https://dev.to/antonivanopoulos/til-timecop-has-a-safe-mode-5h8g)
+[![Tech start-up ideas](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tech_start-up_ideas.svg)](https://dev.to/freebeliever/tech-start-up-ideas-14i7)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, April 13, 2022 at 12:13:07 PM
+> Last updated: Wednesday, April 13, 2022 at 6:52:14 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, April 13, 2022 at 12:13:09 PM
+> Last updated: Wednesday, April 13, 2022 at 6:52:16 PM
 
 > Showing 5 of 30 posts.
 
@@ -55,11 +55,7 @@ https://synvert.xinminlabs.com/javascript/home/
 )
 [![Aurelia: Build Powerful Web Apps with Simple Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Aurelia__Build_Powerful_Web_Apps_with_Simple_Javascript.svg)](https://blog.openreplay.com/aurelia-build-powerful-web-apps-with-simple-javascript)
 [![Episode 6 - Svelte and Contributing to Open-Source with Geoff Rich - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_6_-_Svelte_and_Contributing_to_Open-Source_with_Geoff_Rich_-_20minJS.svg)](https://podcast.20minjs.com/1952066/10417700-episode-6-svelte-and-contributing-to-open-source-with-geoff-rich)
-[![
-Rich in fiber foods
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Rich_in_fiber_foods_.svg)](
-https://www.webhealthmantra.com/high-fiber-foods/
-)
+[![GitHub - jfscoertzen/HTON: JSON to HTML Interpreter and framework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_jfscoertzen_HTON__JSON_to_HTML_Interpreter_and_framework.svg)](https://github.com/jfscoertzen/HTON)
 
 
 <!-- post-list:end -->
