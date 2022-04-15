@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, April 15, 2022 at 6:16:08 AM
+> Last updated: Friday, April 15, 2022 at 12:13:36 PM
 
 > Showing 5 of 12 posts.
 
-[![Is FaunaDB The Next Big Database Technology?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Is_FaunaDB_The_Next_Big_Database_Technology_.svg)](https://dev.to/codesphere/is-faunadb-the-next-big-database-technology-ad6)
-[![How to Start writing Python 3 Program](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Start_writing_Python_3_Program.svg)](https://dev.to/shriekdj/how-to-start-writing-python-3-program-222d)
-[![How to master python in 1 week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_master_python_in_1_week.svg)](https://dev.to/ramanbansal/how-to-master-python-in-1-week-489h)
-[![FinOps Foundation’s “FinOps Certified Professional” Certification](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/FinOps_Foundation’s_“FinOps_Certified_Professional”_Certification.svg)](https://dev.to/aws-builders/finops-foundations-finops-certified-professional-certification-37df)
-[![Project Two: Connect Four](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Project_Two__Connect_Four.svg)](https://dev.to/shiahalan/project-two-connect-four-fbc)
+[![[SwiftUI] How to change Navigation Bar background color with custom font?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/[SwiftUI]_How_to_change_Navigation_Bar_background_color_with_custom_font_.svg)](https://dev.to/stevenselcuk/swiftui-how-to-change-navigation-bar-background-color-with-custom-font-40i3)
+[![How to use a proxy in Next.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_a_proxy_in_Next.js.svg)](https://dev.to/logrocket/how-to-use-a-proxy-in-nextjs-5gh0)
+[![When did you know you wanted to be a software developer?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/When_did_you_know_you_wanted_to_be_a_software_developer_.svg)](https://dev.to/ben/when-did-you-know-you-wanted-to-be-a-software-developer-3h8e)
+[![Essential VS Code extensions for TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Essential_VS_Code_extensions_for_TypeScript.svg)](https://dev.to/logrocket/essential-vs-code-extensions-for-typescript-3e5l)
+[![How to Create Multiple Wildcard Routes at the Same Root Path in Laravel.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Create_Multiple_Wildcard_Routes_at_the_Same_Root_Path_in_Laravel..svg)](https://dev.to/cwraytech/how-to-create-multiple-wildcard-routes-at-the-same-root-path-in-laravel-2j42)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, April 15, 2022 at 6:16:11 AM
+> Last updated: Friday, April 15, 2022 at 12:13:39 PM
 
 > Showing 4 of 4 posts.
 
+[![On function composition in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/On_function_composition_in_JavaScript.svg)](https://javascriptweekly.com/issues/585)
 [![Format JavaScript as the Romans do?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Format_JavaScript_as_the_Romans_do_.svg)](https://javascriptweekly.com/issues/584)
 [![Time to get decorating](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Time_to_get_decorating.svg)](https://javascriptweekly.com/issues/583)
 [![React 18 due any day now..](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/React_18_due_any_day_now...svg)](https://javascriptweekly.com/issues/582)
-[![Getting creative with JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Getting_creative_with_JavaScript.svg)](https://javascriptweekly.com/issues/581)
 
 
 ## Echo JS
@@ -43,15 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, April 15, 2022 at 6:16:14 AM
+> Last updated: Friday, April 15, 2022 at 12:13:42 PM
 
 > Showing 5 of 30 posts.
 
+[![The document.createElement Function in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_document.createElement_Function_in_JavaScript.svg)](
+https://masteringjs.io/tutorials/fundamentals/create-element
+)
+[![The Most Popular Node.js Frameworks in 2022 - Stack Diary](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Most_Popular_Node.js_Frameworks_in_2022_-_Stack_Diary.svg)](https://stackdiary.com/node-js-frameworks/)
+[![Building a nivo Dashboard with Cube - Cube Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_a_nivo_Dashboard_with_Cube_-_Cube_Blog.svg)](https://cube.dev/blog/building-a-nivo-dashboard-with-cube)
 [![.Net Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/.Net_Development.svg)](https://www.vindaloosofttech.com/dot-net-development/)
 [![GitHub - ruilisi/fortune-sheet: FortuneSheet is an online spreadsheet component library that provides out-of-the-box features just like Excel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ruilisi_fortune-sheet__FortuneSheet_is_an_online_spreadsheet_component_library_that_provides_out-of-the-box_features_just_like_Excel.svg)](https://github.com/ruilisi/fortune-sheet)
-[![Blueberry Banana - Visual Studio Marketplace](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Blueberry_Banana_-_Visual_Studio_Marketplace.svg)](https://marketplace.visualstudio.com/items?itemName=pshershov.blueberry-banana)
-[![React Portal: All You Need to Know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_Portal__All_You_Need_to_Know.svg)](https://lyty.dev/blog/react-portal-react-portal-examples/)
-[![GitHub - BobbyWilt/Spotify_Song_Recommender: This project leverages spotify's api and provided user playlists to create and tune a neural network model that generates song recommendations based off of song data in provided playlists.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_BobbyWilt_Spotify_Song_Recommender__This_project_leverages_spotify's_api_and_provided_user_playlists_to_create_and_tune_a_neural_network_model_that_generates_song_recommendations_based_off_of_song_data_in_provided_playlists..svg)](https://github.com/BobbyWilt/Spotify_Song_Recommender)
 
 
 <!-- post-list:end -->
