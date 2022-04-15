@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, April 14, 2022 at 6:46:13 PM
+> Last updated: Friday, April 15, 2022 at 12:12:51 AM
 
 > Showing 5 of 12 posts.
 
-[![April 14th, 2022: What did you learn this week?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/April_14th__2022__What_did_you_learn_this_week_.svg)](https://dev.to/nickytonline/april-14th-2022-what-did-you-learn-this-week-98b)
-[![The Ultimate Guide To AP SETUP GUIDE](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Ultimate_Guide_To_AP_SETUP_GUIDE.svg)](https://dev.to/andrew_clark_63de9d21dd12/the-ultimate-guide-to-ap-setup-guide-16a9)
-[![Why is my Rockspace WiFi extender not connecting?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_is_my_Rockspace_WiFi_extender_not_connecting_.svg)](https://dev.to/rocky_drulo_83d2922968874/why-is-my-rockspace-wifi-extender-not-connecting-113m)
-[![How to sign in to watch movies and TV shows - Roku Support](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_sign_in_to_watch_movies_and_TV_shows_-_Roku_Support.svg)](https://dev.to/andrew_clark_63de9d21dd12/how-to-sign-in-to-watch-movies-and-tv-shows-roku-support-lj0)
-[![Stop Wasting Time And Start DLINKROUTER.LOCAL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Stop_Wasting_Time_And_Start_DLINKROUTER.LOCAL.svg)](https://dev.to/andrew_clark_63de9d21dd12/stop-wasting-time-and-start-dlinkrouterlocal-23oa)
+[![Convert any image to tiny, sussy AmongUs Characters ඞඞ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Convert_any_image_to_tiny__sussy_AmongUs_Characters_ඞඞ.svg)](https://dev.to/dhravya/convert-any-image-to-tiny-sussy-amongus-characters-ngng-28da)
+[![Serendipia](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Serendipia.svg)](https://dev.to/ushieru/serendipia-iff)
+[![AWS IoT Demo with CDK and Amplify](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_IoT_Demo_with_CDK_and_Amplify.svg)](https://dev.to/entest/aws-iot-demo-with-cdk-and-amplify-1i69)
+[![Django Models: Basics and Best Practices](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Django_Models__Basics_and_Best_Practices.svg)](https://dev.to/pragativerma18/django-models-basics-and-best-practices-49e4)
+[![100 Days of Swift - Day 8 (and 9)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/100_Days_of_Swift_-_Day_8_(and_9).svg)](https://dev.to/davjvo/100-days-of-swift-day-8-and-9-1fbi)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, April 14, 2022 at 6:46:17 PM
+> Last updated: Friday, April 15, 2022 at 12:12:54 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, April 14, 2022 at 6:46:21 PM
+> Last updated: Friday, April 15, 2022 at 12:12:58 AM
 
 > Showing 5 of 30 posts.
 
