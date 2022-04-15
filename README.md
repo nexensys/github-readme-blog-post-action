@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, April 15, 2022 at 12:12:51 AM
+> Last updated: Friday, April 15, 2022 at 6:16:08 AM
 
 > Showing 5 of 12 posts.
 
-[![Convert any image to tiny, sussy AmongUs Characters ඞඞ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Convert_any_image_to_tiny__sussy_AmongUs_Characters_ඞඞ.svg)](https://dev.to/dhravya/convert-any-image-to-tiny-sussy-amongus-characters-ngng-28da)
-[![Serendipia](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Serendipia.svg)](https://dev.to/ushieru/serendipia-iff)
-[![AWS IoT Demo with CDK and Amplify](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_IoT_Demo_with_CDK_and_Amplify.svg)](https://dev.to/entest/aws-iot-demo-with-cdk-and-amplify-1i69)
-[![Django Models: Basics and Best Practices](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Django_Models__Basics_and_Best_Practices.svg)](https://dev.to/pragativerma18/django-models-basics-and-best-practices-49e4)
-[![100 Days of Swift - Day 8 (and 9)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/100_Days_of_Swift_-_Day_8_(and_9).svg)](https://dev.to/davjvo/100-days-of-swift-day-8-and-9-1fbi)
+[![Is FaunaDB The Next Big Database Technology?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Is_FaunaDB_The_Next_Big_Database_Technology_.svg)](https://dev.to/codesphere/is-faunadb-the-next-big-database-technology-ad6)
+[![How to Start writing Python 3 Program](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Start_writing_Python_3_Program.svg)](https://dev.to/shriekdj/how-to-start-writing-python-3-program-222d)
+[![How to master python in 1 week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_master_python_in_1_week.svg)](https://dev.to/ramanbansal/how-to-master-python-in-1-week-489h)
+[![FinOps Foundation’s “FinOps Certified Professional” Certification](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/FinOps_Foundation’s_“FinOps_Certified_Professional”_Certification.svg)](https://dev.to/aws-builders/finops-foundations-finops-certified-professional-certification-37df)
+[![Project Two: Connect Four](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Project_Two__Connect_Four.svg)](https://dev.to/shiahalan/project-two-connect-four-fbc)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, April 15, 2022 at 12:12:54 AM
+> Last updated: Friday, April 15, 2022 at 6:16:11 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, April 15, 2022 at 12:12:58 AM
+> Last updated: Friday, April 15, 2022 at 6:16:14 AM
 
 > Showing 5 of 30 posts.
 
+[![.Net Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/.Net_Development.svg)](https://www.vindaloosofttech.com/dot-net-development/)
+[![GitHub - ruilisi/fortune-sheet: FortuneSheet is an online spreadsheet component library that provides out-of-the-box features just like Excel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ruilisi_fortune-sheet__FortuneSheet_is_an_online_spreadsheet_component_library_that_provides_out-of-the-box_features_just_like_Excel.svg)](https://github.com/ruilisi/fortune-sheet)
+[![Blueberry Banana - Visual Studio Marketplace](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Blueberry_Banana_-_Visual_Studio_Marketplace.svg)](https://marketplace.visualstudio.com/items?itemName=pshershov.blueberry-banana)
 [![React Portal: All You Need to Know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_Portal__All_You_Need_to_Know.svg)](https://lyty.dev/blog/react-portal-react-portal-examples/)
 [![GitHub - BobbyWilt/Spotify_Song_Recommender: This project leverages spotify's api and provided user playlists to create and tune a neural network model that generates song recommendations based off of song data in provided playlists.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_BobbyWilt_Spotify_Song_Recommender__This_project_leverages_spotify's_api_and_provided_user_playlists_to_create_and_tune_a_neural_network_model_that_generates_song_recommendations_based_off_of_song_data_in_provided_playlists..svg)](https://github.com/BobbyWilt/Spotify_Song_Recommender)
-[![Forever Functional - From methods to functions, and back](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Forever_Functional_-_From_methods_to_functions__and_back.svg)](https://blog.openreplay.com/forever-functional-from-methods-to-functions-and-back)
-[![Top NFT Marketplace Development Trends for 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Top_NFT_Marketplace_Development_Trends_for_2022.svg)](https://assetfinx.medium.com/top-nft-marketplace-development-trends-for-2022-5a10cd61c9cc)
-[![GitHub - JamieLivingstone/node-clean-architecture: A Node template that follows the Clean Architecture principles and encourages good practices.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_JamieLivingstone_node-clean-architecture__A_Node_template_that_follows_the_Clean_Architecture_principles_and_encourages_good_practices..svg)](https://github.com/JamieLivingstone/node-clean-architecture)
 
 
 <!-- post-list:end -->
