@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, April 15, 2022 at 12:13:36 PM
+> Last updated: Friday, April 15, 2022 at 6:44:50 PM
 
 > Showing 5 of 12 posts.
 
-[![[SwiftUI] How to change Navigation Bar background color with custom font?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/[SwiftUI]_How_to_change_Navigation_Bar_background_color_with_custom_font_.svg)](https://dev.to/stevenselcuk/swiftui-how-to-change-navigation-bar-background-color-with-custom-font-40i3)
-[![How to use a proxy in Next.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_a_proxy_in_Next.js.svg)](https://dev.to/logrocket/how-to-use-a-proxy-in-nextjs-5gh0)
-[![When did you know you wanted to be a software developer?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/When_did_you_know_you_wanted_to_be_a_software_developer_.svg)](https://dev.to/ben/when-did-you-know-you-wanted-to-be-a-software-developer-3h8e)
-[![Essential VS Code extensions for TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Essential_VS_Code_extensions_for_TypeScript.svg)](https://dev.to/logrocket/essential-vs-code-extensions-for-typescript-3e5l)
-[![How to Create Multiple Wildcard Routes at the Same Root Path in Laravel.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Create_Multiple_Wildcard_Routes_at_the_Same_Root_Path_in_Laravel..svg)](https://dev.to/cwraytech/how-to-create-multiple-wildcard-routes-at-the-same-root-path-in-laravel-2j42)
+[![Make your own Online Identity Mapping site](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Make_your_own_Online_Identity_Mapping_site.svg)](https://dev.to/about14sheep/make-your-own-online-identity-mapping-site-4b5c)
+[![The Journey to Arch](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Journey_to_Arch.svg)](https://dev.to/h4ppyr0gu3/the-journey-to-arch-5d7o)
+[![XML::Sig 0.57 Released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/XML__Sig_0.57_Released.svg)](https://dev.to/timlegge/xmlsig-057-released-2i1e)
+[![Kotlin Coroutines Basics - Simple Android App Demo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Kotlin_Coroutines_Basics_-_Simple_Android_App_Demo.svg)](https://dev.to/vtsen/kotlin-coroutines-basics-simple-android-app-demo-2p2f)
+[![Esoteric Sorting Algorithms](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Esoteric_Sorting_Algorithms.svg)](https://dev.to/viviandai/esoteric-sorting-algorithms-j4o)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, April 15, 2022 at 12:13:39 PM
+> Last updated: Friday, April 15, 2022 at 6:44:54 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, April 15, 2022 at 12:13:42 PM
+> Last updated: Friday, April 15, 2022 at 6:44:58 PM
 
 > Showing 5 of 30 posts.
 
