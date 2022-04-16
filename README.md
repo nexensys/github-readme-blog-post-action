@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, April 16, 2022 at 12:11:55 AM
+> Last updated: Saturday, April 16, 2022 at 6:15:45 AM
 
 > Showing 5 of 12 posts.
 
-[![Monitor gRPC calls with OpenTelemetry - explained with a Golang example](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Monitor_gRPC_calls_with_OpenTelemetry_-_explained_with_a_Golang_example.svg)](https://dev.to/signoz/monitor-grpc-calls-with-opentelemetry-explained-with-a-golang-example-350o)
-[![How to Forward a domain to another domain](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Forward_a_domain_to_another_domain.svg)](https://dev.to/segun_aderinola/how-to-forward-a-domain-to-another-domain-4i5n)
-[![Renew Detox - Simple Weight Loss Finally Feel In Control Around Food!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Renew_Detox_-_Simple_Weight_Loss_Finally_Feel_In_Control_Around_Food!.svg)](https://dev.to/renewdetoxbuy/renew-detox-simple-weight-loss-finally-feel-in-control-around-food-2bjh)
-[![Top Benefits of tomato for skin complexion](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_Benefits_of_tomato_for_skin_complexion.svg)](https://dev.to/justinder/top-benefits-of-tomato-for-skin-complexion-4de7)
-[![Implementing OpenTelemetry in Angular application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Implementing_OpenTelemetry_in_Angular_application.svg)](https://dev.to/signoz/implementing-opentelemetry-in-angular-application-f45)
+[![Create A Killer Portfolio in 7 Easy Steps 😎️](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_A_Killer_Portfolio_in_7_Easy_Steps_😎️.svg)](https://dev.to/eludadev/create-a-killer-portfolio-in-7-easy-steps-2ac5)
+[![How to communicate between an iframe and the parent page](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_communicate_between_an_iframe_and_the_parent_page.svg)](https://dev.to/alexadam/how-to-communicate-between-an-iframe-and-the-parent-page-37k7)
+[![Heroku's GitHub integration has been stopped!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Heroku's_GitHub_integration_has_been_stopped!.svg)](https://dev.to/lukeecart/herokus-github-integration-has-been-stopped-a7c)
+[![Edit comments or not?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Edit_comments_or_not_.svg)](https://dev.to/jmau111/edit-comments-or-not-3a2n)
+[![BPO Services | BPO Process Outsourcing Company](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/BPO_Services___BPO_Process_Outsourcing_Company.svg)](https://dev.to/aayanali/bpo-services-bpo-process-outsourcing-company-9da)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, April 16, 2022 at 12:11:59 AM
+> Last updated: Saturday, April 16, 2022 at 6:15:48 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, April 16, 2022 at 12:12:03 AM
+> Last updated: Saturday, April 16, 2022 at 6:15:52 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - rohinivsenthil/rabbitrace: Visual Studio Code extension to help manage RabbitMQ queues and exchanges](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_rohinivsenthil_rabbitrace__Visual_Studio_Code_extension_to_help_manage_RabbitMQ_queues_and_exchanges.svg)](https://github.com/rohinivsenthil/rabbitrace)
 [![
 Angry Chickens 2 - Easter slingshot game with physics
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Angry_Chickens_2_-_Easter_slingshot_game_with_physics_.svg)](
@@ -57,7 +58,6 @@ https://masteringjs.io/tutorials/fundamentals/create-element
 )
 [![The Most Popular Node.js Frameworks in 2022 - Stack Diary](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Most_Popular_Node.js_Frameworks_in_2022_-_Stack_Diary.svg)](https://stackdiary.com/node-js-frameworks/)
 [![Building a nivo Dashboard with Cube - Cube Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_a_nivo_Dashboard_with_Cube_-_Cube_Blog.svg)](https://cube.dev/blog/building-a-nivo-dashboard-with-cube)
-[![GitHub - ruilisi/fortune-sheet: FortuneSheet is an online spreadsheet component library that provides out-of-the-box features just like Excel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ruilisi_fortune-sheet__FortuneSheet_is_an_online_spreadsheet_component_library_that_provides_out-of-the-box_features_just_like_Excel.svg)](https://github.com/ruilisi/fortune-sheet)
 
 
 <!-- post-list:end -->
