@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, April 16, 2022 at 6:15:45 AM
+> Last updated: Saturday, April 16, 2022 at 12:11:54 PM
 
 > Showing 5 of 12 posts.
 
-[![Create A Killer Portfolio in 7 Easy Steps 😎️](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_A_Killer_Portfolio_in_7_Easy_Steps_😎️.svg)](https://dev.to/eludadev/create-a-killer-portfolio-in-7-easy-steps-2ac5)
-[![How to communicate between an iframe and the parent page](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_communicate_between_an_iframe_and_the_parent_page.svg)](https://dev.to/alexadam/how-to-communicate-between-an-iframe-and-the-parent-page-37k7)
-[![Heroku's GitHub integration has been stopped!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Heroku's_GitHub_integration_has_been_stopped!.svg)](https://dev.to/lukeecart/herokus-github-integration-has-been-stopped-a7c)
-[![Edit comments or not?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Edit_comments_or_not_.svg)](https://dev.to/jmau111/edit-comments-or-not-3a2n)
-[![BPO Services | BPO Process Outsourcing Company](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/BPO_Services___BPO_Process_Outsourcing_Company.svg)](https://dev.to/aayanali/bpo-services-bpo-process-outsourcing-company-9da)
+[![Appwrite Community Report #2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Appwrite_Community_Report__2.svg)](https://dev.to/appwrite/appwrite-community-report-2-3bg8)
+[![Life Learnings in NutShell](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Life_Learnings_in_NutShell.svg)](https://dev.to/zapeeosheikh/life-learnings-in-nutshell-370p)
+[![Next JS : Basic features](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Next_JS___Basic_features.svg)](https://dev.to/sandeshsapkota/next-js-basic-features-33n5)
+[![Reliability Restaurant – How to approach software reliability as a mindset](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Reliability_Restaurant_–_How_to_approach_software_reliability_as_a_mindset.svg)](https://dev.to/anttispitkanen/reliability-restaurant-how-to-approach-software-reliability-as-a-mindset-3656)
+[![Kubernetes Learning Part I - Application Architecture Decision and Purpose of K8s](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Kubernetes_Learning_Part_I_-_Application_Architecture_Decision_and_Purpose_of_K8s.svg)](https://dev.to/kcdchennai/kubernetes-learning-part-i-application-architecture-decision-and-purpose-of-k8s-38kk)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, April 16, 2022 at 6:15:48 AM
+> Last updated: Saturday, April 16, 2022 at 12:11:57 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, April 16, 2022 at 6:15:52 AM
+> Last updated: Saturday, April 16, 2022 at 12:12:00 PM
 
 > Showing 5 of 30 posts.
 
+[![Ajax Battle: XMLHttpRequest vs the Fetch API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Ajax_Battle__XMLHttpRequest_vs_the_Fetch_API.svg)](https://blog.openreplay.com/ajax-battle-xmlhttprequest-vs-the-fetch-api)
 [![GitHub - rohinivsenthil/rabbitrace: Visual Studio Code extension to help manage RabbitMQ queues and exchanges](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_rohinivsenthil_rabbitrace__Visual_Studio_Code_extension_to_help_manage_RabbitMQ_queues_and_exchanges.svg)](https://github.com/rohinivsenthil/rabbitrace)
 [![
 Angry Chickens 2 - Easter slingshot game with physics
@@ -57,7 +58,6 @@ https://slicker.me/javascript/ac2/chickens2.htm
 https://masteringjs.io/tutorials/fundamentals/create-element
 )
 [![The Most Popular Node.js Frameworks in 2022 - Stack Diary](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Most_Popular_Node.js_Frameworks_in_2022_-_Stack_Diary.svg)](https://stackdiary.com/node-js-frameworks/)
-[![Building a nivo Dashboard with Cube - Cube Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_a_nivo_Dashboard_with_Cube_-_Cube_Blog.svg)](https://cube.dev/blog/building-a-nivo-dashboard-with-cube)
 
 
 <!-- post-list:end -->
