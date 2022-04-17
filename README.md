@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, April 17, 2022 at 12:13:34 AM
+> Last updated: Sunday, April 17, 2022 at 6:15:20 AM
 
 > Showing 5 of 12 posts.
 
-[![Best Chrome Extensions to boost GitHub](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_Chrome_Extensions_to_boost_GitHub.svg)](https://dev.to/pragativerma18/best-chrome-extensions-to-boost-github-550j)
-[![Javascript 1O1 series : Writing loops with For, While and Do while.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Javascript_1O1_series___Writing_loops_with_For__While_and_Do_while..svg)](https://dev.to/osam1010/javascript-1o1-series-writing-loops-with-for-while-and-do-while-1ib3)
-[![Why you cannot pass location.reload as an argument](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_you_cannot_pass_location.reload_as_an_argument.svg)](https://dev.to/anshsaini/why-you-cannot-pass-locationreload-as-an-argument-26n1)
-[![Intro to Website Accessibility with CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Intro_to_Website_Accessibility_with_CSS.svg)](https://dev.to/fig781/intro-to-website-accessibility-with-css-5715)
-[![Why Data Structures and Algorithms are Important ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_Data_Structures_and_Algorithms_are_Important__.svg)](https://dev.to/codewithsom/why-data-structures-and-algorithms-are-important--24nd)
+[![Cryptocurrency Exchange Development Company](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cryptocurrency_Exchange_Development_Company.svg)](https://dev.to/tarateller1992/cryptocurrency-exchange-development-company-4737)
+[![Deploy Web App to IIS with Zero Downtime in Visual Studio](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deploy_Web_App_to_IIS_with_Zero_Downtime_in_Visual_Studio.svg)](https://dev.to/mark0960/deploy-web-app-to-iis-with-zero-downtime-in-visual-studio-3f5k)
+[![Baby steps into Tech](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Baby_steps_into_Tech.svg)](https://dev.to/allison_m_08b9005267b3bcf/baby-steps-into-tech-3790)
+[![🗃️ How to use Mongoose with Next.js for MongoDB?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🗃️_How_to_use_Mongoose_with_Next.js_for_MongoDB_.svg)](https://dev.to/maxprogramming/how-to-use-mongoose-with-nextjs-for-mongodb-4966)
+[![Turning MPA to SPA with Virtual DOM](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Turning_MPA_to_SPA_with_Virtual_DOM.svg)](https://dev.to/aidenybai/turning-mpa-to-spa-with-virtual-dom-5abd)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, April 17, 2022 at 12:13:37 AM
+> Last updated: Sunday, April 17, 2022 at 6:15:22 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, April 17, 2022 at 12:13:40 AM
+> Last updated: Sunday, April 17, 2022 at 6:15:25 AM
 
 > Showing 5 of 30 posts.
 
