@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, April 16, 2022 at 12:11:54 PM
+> Last updated: Saturday, April 16, 2022 at 6:47:03 PM
 
 > Showing 5 of 12 posts.
 
-[![Appwrite Community Report #2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Appwrite_Community_Report__2.svg)](https://dev.to/appwrite/appwrite-community-report-2-3bg8)
-[![Life Learnings in NutShell](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Life_Learnings_in_NutShell.svg)](https://dev.to/zapeeosheikh/life-learnings-in-nutshell-370p)
-[![Next JS : Basic features](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Next_JS___Basic_features.svg)](https://dev.to/sandeshsapkota/next-js-basic-features-33n5)
-[![Reliability Restaurant – How to approach software reliability as a mindset](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Reliability_Restaurant_–_How_to_approach_software_reliability_as_a_mindset.svg)](https://dev.to/anttispitkanen/reliability-restaurant-how-to-approach-software-reliability-as-a-mindset-3656)
-[![Kubernetes Learning Part I - Application Architecture Decision and Purpose of K8s](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Kubernetes_Learning_Part_I_-_Application_Architecture_Decision_and_Purpose_of_K8s.svg)](https://dev.to/kcdchennai/kubernetes-learning-part-i-application-architecture-decision-and-purpose-of-k8s-38kk)
+[![npm ERR! @heroku/buildpack-registry not accessible from @heroku-cli/plugin-buildpacks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/npm_ERR!_@heroku_buildpack-registry_not_accessible_from_@heroku-cli_plugin-buildpacks.svg)](https://dev.to/msoup/npm-err-herokubuildpack-registry-not-accessible-from-heroku-cliplugin-buildpacks-4dn6)
+[![What You Need To Know On Web Hosting Services](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_You_Need_To_Know_On_Web_Hosting_Services.svg)](https://dev.to/riskfrosh/what-you-need-to-know-on-web-hosting-services-160f)
+[![Warp is the future of terminals](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Warp_is_the_future_of_terminals.svg)](https://dev.to/perkinsjr/warp-is-the-future-of-terminals-24hh)
+[![Higher Order Components.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Higher_Order_Components..svg)](https://dev.to/mainakibe/higher-order-components-1637)
+[![Hello DevTo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Hello_DevTo.svg)](https://dev.to/agueria/hello-devto-7og)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, April 16, 2022 at 12:11:57 PM
+> Last updated: Saturday, April 16, 2022 at 6:47:06 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, April 16, 2022 at 12:12:00 PM
+> Last updated: Saturday, April 16, 2022 at 6:47:08 PM
 
 > Showing 5 of 30 posts.
 
