@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, April 17, 2022 at 6:15:20 AM
+> Last updated: Sunday, April 17, 2022 at 12:11:24 PM
 
 > Showing 5 of 12 posts.
 
-[![Cryptocurrency Exchange Development Company](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cryptocurrency_Exchange_Development_Company.svg)](https://dev.to/tarateller1992/cryptocurrency-exchange-development-company-4737)
-[![Deploy Web App to IIS with Zero Downtime in Visual Studio](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deploy_Web_App_to_IIS_with_Zero_Downtime_in_Visual_Studio.svg)](https://dev.to/mark0960/deploy-web-app-to-iis-with-zero-downtime-in-visual-studio-3f5k)
-[![Baby steps into Tech](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Baby_steps_into_Tech.svg)](https://dev.to/allison_m_08b9005267b3bcf/baby-steps-into-tech-3790)
-[![🗃️ How to use Mongoose with Next.js for MongoDB?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🗃️_How_to_use_Mongoose_with_Next.js_for_MongoDB_.svg)](https://dev.to/maxprogramming/how-to-use-mongoose-with-nextjs-for-mongodb-4966)
-[![Turning MPA to SPA with Virtual DOM](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Turning_MPA_to_SPA_with_Virtual_DOM.svg)](https://dev.to/aidenybai/turning-mpa-to-spa-with-virtual-dom-5abd)
+[![Is time travel possible?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Is_time_travel_possible_.svg)](https://dev.to/elsa/is-time-travel-possible-32i6)
+[![Hyperledger Fabric nedir?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Hyperledger_Fabric_nedir_.svg)](https://dev.to/aciklab/hyperledger-fabric-nedir-4kfg)
+[![Beautify your GitHub repo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Beautify_your_GitHub_repo.svg)](https://dev.to/nfrankel/beautify-your-github-repo-2co7)
+[![Deploy a Docker image to Google Cloud using Cloud Run](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deploy_a_Docker_image_to_Google_Cloud_using_Cloud_Run.svg)](https://dev.to/adafycheng/deploy-a-docker-image-to-google-cloud-using-cloud-run-3oh0)
+[![Learn Javascript Destructuring using Github Copilot Labs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Learn_Javascript_Destructuring_using_Github_Copilot_Labs.svg)](https://dev.to/drsimplegraffiti/learn-javascript-destructuring-using-github-copilot-labs-2kd6)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, April 17, 2022 at 6:15:22 AM
+> Last updated: Sunday, April 17, 2022 at 12:11:27 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, April 17, 2022 at 6:15:25 AM
+> Last updated: Sunday, April 17, 2022 at 12:11:29 PM
 
 > Showing 5 of 30 posts.
 
