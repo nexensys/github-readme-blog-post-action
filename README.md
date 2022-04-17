@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, April 16, 2022 at 6:47:03 PM
+> Last updated: Sunday, April 17, 2022 at 12:13:34 AM
 
 > Showing 5 of 12 posts.
 
-[![npm ERR! @heroku/buildpack-registry not accessible from @heroku-cli/plugin-buildpacks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/npm_ERR!_@heroku_buildpack-registry_not_accessible_from_@heroku-cli_plugin-buildpacks.svg)](https://dev.to/msoup/npm-err-herokubuildpack-registry-not-accessible-from-heroku-cliplugin-buildpacks-4dn6)
-[![What You Need To Know On Web Hosting Services](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_You_Need_To_Know_On_Web_Hosting_Services.svg)](https://dev.to/riskfrosh/what-you-need-to-know-on-web-hosting-services-160f)
-[![Warp is the future of terminals](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Warp_is_the_future_of_terminals.svg)](https://dev.to/perkinsjr/warp-is-the-future-of-terminals-24hh)
-[![Higher Order Components.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Higher_Order_Components..svg)](https://dev.to/mainakibe/higher-order-components-1637)
-[![Hello DevTo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Hello_DevTo.svg)](https://dev.to/agueria/hello-devto-7og)
+[![Best Chrome Extensions to boost GitHub](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_Chrome_Extensions_to_boost_GitHub.svg)](https://dev.to/pragativerma18/best-chrome-extensions-to-boost-github-550j)
+[![Javascript 1O1 series : Writing loops with For, While and Do while.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Javascript_1O1_series___Writing_loops_with_For__While_and_Do_while..svg)](https://dev.to/osam1010/javascript-1o1-series-writing-loops-with-for-while-and-do-while-1ib3)
+[![Why you cannot pass location.reload as an argument](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_you_cannot_pass_location.reload_as_an_argument.svg)](https://dev.to/anshsaini/why-you-cannot-pass-locationreload-as-an-argument-26n1)
+[![Intro to Website Accessibility with CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Intro_to_Website_Accessibility_with_CSS.svg)](https://dev.to/fig781/intro-to-website-accessibility-with-css-5715)
+[![Why Data Structures and Algorithms are Important ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_Data_Structures_and_Algorithms_are_Important__.svg)](https://dev.to/codewithsom/why-data-structures-and-algorithms-are-important--24nd)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, April 16, 2022 at 6:47:06 PM
+> Last updated: Sunday, April 17, 2022 at 12:13:37 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, April 16, 2022 at 6:47:08 PM
+> Last updated: Sunday, April 17, 2022 at 12:13:40 AM
 
 > Showing 5 of 30 posts.
 
