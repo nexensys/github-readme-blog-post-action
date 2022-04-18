@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, April 18, 2022 at 12:12:55 AM
+> Last updated: Monday, April 18, 2022 at 6:17:37 AM
 
 > Showing 5 of 12 posts.
 
-[![Blockchain Architecture](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Blockchain_Architecture.svg)](https://dev.to/kcdchennai/blockchain-architecture-3643)
-[![How to manage your professional career?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_manage_your_professional_career_.svg)](https://dev.to/this-is-learning/how-to-manage-your-professional-career-5bf)
-[![Why is WordPress the best CMS in 2022?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_is_WordPress_the_best_CMS_in_2022_.svg)](https://dev.to/aitglobalindia/why-is-wordpress-the-best-cms-in-2022-3g0p)
-[![Metadata about the workloads with Downward API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Metadata_about_the_workloads_with_Downward_API.svg)](https://dev.to/ashokan/metadata-about-the-workloads-with-downward-api-3nee)
-[![Morphotop Library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Morphotop_Library.svg)](https://dev.to/medsaid2001/morphotop-library-3057)
+[![How to use Open() in Python?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_Open()_in_Python_.svg)](https://dev.to/hrishikesh1990/how-to-use-open-in-python-1pb3)
+[![What cloud services do you use? (Personal and team)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_cloud_services_do_you_use__(Personal_and_team).svg)](https://dev.to/ben/what-cloud-services-do-you-use-personal-and-team-4agd)
+[![GitHub API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/GitHub_API.svg)](https://dev.to/tmchuynh/github-api-4kk)
+[![A brief Introduction to OpenAPI Specification](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_brief_Introduction_to_OpenAPI_Specification.svg)](https://dev.to/nathan20/a-brief-introduction-to-openapi-specification-4mgd)
+[![Open Source Adventures: Episode 38: Update script for Russian Losses App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Open_Source_Adventures__Episode_38__Update_script_for_Russian_Losses_App.svg)](https://dev.to/taw/open-source-adventures-episode-38-update-script-for-russian-losses-app-52lk)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, April 18, 2022 at 12:12:58 AM
+> Last updated: Monday, April 18, 2022 at 6:17:41 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,12 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, April 18, 2022 at 12:13:00 AM
+> Last updated: Monday, April 18, 2022 at 6:17:47 AM
 
 > Showing 5 of 30 posts.
 
+[![JavaScript testing #10. Advanced mocking with Jest and React Testing Library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_testing__10._Advanced_mocking_with_Jest_and_React_Testing_Library.svg)](http://wanago.io/2022/04/18/advanced-mocking-jest-react-testing-library/)
+[![Free Push-To-Talk Android SDK awaits your implementation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Free_Push-To-Talk_Android_SDK_awaits_your_implementation.svg)](https://dev.to/voicepingapp/free-push-to-talk-android-sdk-awaits-your-implementation-hnf)
 [![Ajax Battle: XMLHttpRequest vs the Fetch API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Ajax_Battle__XMLHttpRequest_vs_the_Fetch_API.svg)](https://blog.openreplay.com/ajax-battle-xmlhttprequest-vs-the-fetch-api)
 [![GitHub - rohinivsenthil/rabbitrace: Visual Studio Code extension to help manage RabbitMQ queues and exchanges](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_rohinivsenthil_rabbitrace__Visual_Studio_Code_extension_to_help_manage_RabbitMQ_queues_and_exchanges.svg)](https://github.com/rohinivsenthil/rabbitrace)
 [![
@@ -54,10 +56,6 @@ Angry Chickens 2 - Easter slingshot game with physics
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Angry_Chickens_2_-_Easter_slingshot_game_with_physics_.svg)](
 https://slicker.me/javascript/ac2/chickens2.htm
 )
-[![The document.createElement Function in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_document.createElement_Function_in_JavaScript.svg)](
-https://masteringjs.io/tutorials/fundamentals/create-element
-)
-[![The Most Popular Node.js Frameworks in 2022 - Stack Diary](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Most_Popular_Node.js_Frameworks_in_2022_-_Stack_Diary.svg)](https://stackdiary.com/node-js-frameworks/)
 
 
 <!-- post-list:end -->
