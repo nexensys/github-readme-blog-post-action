@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, April 17, 2022 at 6:54:26 PM
+> Last updated: Monday, April 18, 2022 at 12:12:55 AM
 
 > Showing 5 of 12 posts.
 
-[![The Cryptography In Cryptocurrency](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Cryptography_In_Cryptocurrency.svg)](https://dev.to/marlonaesparza/the-cryptography-in-cryptocurrency-4lk6)
-[![The Tyranny of the Rocket Equation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Tyranny_of_the_Rocket_Equation.svg)](https://dev.to/rmion/the-tyranny-of-the-rocket-equation-32na)
-[![Terminal-based Game - BlackJack](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Terminal-based_Game_-_BlackJack.svg)](https://dev.to/mrjwalker_/terminal-based-game-blackjack-44pc)
-[![Scalable, No-Code, AutoML Solution on Your Amazon Cloud](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Scalable__No-Code__AutoML_Solution_on_Your_Amazon_Cloud.svg)](https://dev.to/thuwarakesh/scalable-no-code-automl-solution-on-your-amazon-cloud-nc5)
-[![OCAPI-Proxy v2.1.4](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/OCAPI-Proxy_v2.1.4.svg)](https://dev.to/johnfacey/ocapi-proxy-v214-5e2j)
+[![Blockchain Architecture](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Blockchain_Architecture.svg)](https://dev.to/kcdchennai/blockchain-architecture-3643)
+[![How to manage your professional career?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_manage_your_professional_career_.svg)](https://dev.to/this-is-learning/how-to-manage-your-professional-career-5bf)
+[![Why is WordPress the best CMS in 2022?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_is_WordPress_the_best_CMS_in_2022_.svg)](https://dev.to/aitglobalindia/why-is-wordpress-the-best-cms-in-2022-3g0p)
+[![Metadata about the workloads with Downward API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Metadata_about_the_workloads_with_Downward_API.svg)](https://dev.to/ashokan/metadata-about-the-workloads-with-downward-api-3nee)
+[![Morphotop Library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Morphotop_Library.svg)](https://dev.to/medsaid2001/morphotop-library-3057)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, April 17, 2022 at 6:54:29 PM
+> Last updated: Monday, April 18, 2022 at 12:12:58 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, April 17, 2022 at 6:54:32 PM
+> Last updated: Monday, April 18, 2022 at 12:13:00 AM
 
 > Showing 5 of 30 posts.
 
