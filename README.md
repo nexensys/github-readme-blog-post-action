@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, April 19, 2022 at 6:18:40 AM
+> Last updated: Tuesday, April 19, 2022 at 12:12:05 PM
 
 > Showing 5 of 12 posts.
 
-[![The complete guide to managing translation projects with Excel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_complete_guide_to_managing_translation_projects_with_Excel.svg)](https://dev.to/pelirroja/the-complete-guide-to-managing-translation-projects-with-excel-dob)
-[![hugo-blog-theme Ough-Hugo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/hugo-blog-theme_Ough-Hugo.svg)](https://dev.to/fabform/hugo-blog-theme-ough-hugo-g3c)
-[![Using a different geocode service for different countries](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_a_different_geocode_service_for_different_countries.svg)](https://dev.to/superface/using-a-different-geocode-service-for-different-countries-2j07)
-[![Tech updates for 3rd week of April 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tech_updates_for_3rd_week_of_April_2022.svg)](https://dev.to/scrrumlabs/tech-updates-for-3rd-week-of-april-2022-2dpn)
-[![JavaScript Array Key as Object Type](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_Array_Key_as_Object_Type.svg)](https://dev.to/mykyta0723/javascript-array-key-as-object-type-1p3)
+[![Goodbye, Google Analytics - Why and How You Should Leave The Platform](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Goodbye__Google_Analytics_-_Why_and_How_You_Should_Leave_The_Platform.svg)](https://dev.to/martinheinz/goodbye-google-analytics-why-and-how-you-should-leave-the-platform-530l)
+[![Self healing code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Self_healing_code.svg)](https://dev.to/jobber/self-healing-code-46o9)
+[![Announcing CodeLand 2022's First Keynote Speaker: Angie Jones!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Announcing_CodeLand_2022's_First_Keynote_Speaker__Angie_Jones!.svg)](https://dev.to/codenewbieteam/announcing-codeland-2022s-first-keynote-speaker-angie-jones-12p0)
+[![Dissecting Trades in a Uniswap Transaction with the Sort API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dissecting_Trades_in_a_Uniswap_Transaction_with_the_Sort_API.svg)](https://dev.to/sort_xyz/dissecting-trades-in-a-uniswap-transaction-with-the-sort-api-52jl)
+[![Node.js 18: fetch API, Test Runner module, and more](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Node.js_18__fetch_API__Test_Runner_module__and_more.svg)](https://dev.to/cloudx/nodejs-18-fetch-api-test-runner-module-and-more-2ckg)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, April 19, 2022 at 6:18:42 AM
+> Last updated: Tuesday, April 19, 2022 at 12:12:09 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, April 19, 2022 at 6:18:47 AM
+> Last updated: Tuesday, April 19, 2022 at 12:12:12 PM
 
 > Showing 5 of 30 posts.
 
+[![React State vs Props: Understanding the Comparison](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_State_vs_Props__Understanding_the_Comparison.svg)](https://dev.to/aglowiditsolutions/react-state-vs-props-understanding-the-comparison-176d)
 [![Ecommerce Website Development Services - Mobile App Development Services](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Ecommerce_Website_Development_Services_-_Mobile_App_Development_Services.svg)](https://www.wedowebapps.com/)
 [![React State Management Using Easy Peasy](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_State_Management_Using_Easy_Peasy.svg)](https://blog.openreplay.com/react-state-management-using-easy-peasy)
 [![The firstChild Property in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_firstChild_Property_in_JavaScript.svg)](
 https://masteringjs.io/tutorials/fundamentals/firstchild
 )
 [![GitHub - ognis1205/slam-at-home: Real-time SLAM System at Home.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ognis1205_slam-at-home__Real-time_SLAM_System_at_Home..svg)](https://github.com/ognis1205/slam-at-home)
-[![JavaScript testing #10. Advanced mocking with Jest and React Testing Library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_testing__10._Advanced_mocking_with_Jest_and_React_Testing_Library.svg)](http://wanago.io/2022/04/18/advanced-mocking-jest-react-testing-library/)
 
 
 <!-- post-list:end -->
