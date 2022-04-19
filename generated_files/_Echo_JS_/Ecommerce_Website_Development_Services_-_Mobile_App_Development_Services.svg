@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 610 110" width="600" height="100" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <style>
+      .title {
+        font-size: 1.5em;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        white-space: nowrap;
+      }
+      .description {
+        font-size: 0.75em;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+      }
+      .text {
+        text-align: start;
+        padding: 10px;
+        height: calc(100% - 20px);
+        margin-left: 100px;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+        color: black;
+      }
+           .date {
+        font-size: 0.5em;
+        opacity: 0.5;
+        text-align: end;
+        position: absolute;
+        bottom: 0;
+        right: 10px;
+        color: black;
+      }
+      .image {
+        height: 100px;
+        width: 100px;
+        background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC4AAAAuCAYAAABXuSs3AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAP7SURBVHgB7Vg7TxtBEF4f5pAQpCAREgiBeQYkU10a0sRVkJBokor/mHRUqUwTNzGNLQHmYdPgCBEksHnYvPJ91tla1nMvEifNfQXYs7uzszPfzsxaqRgxYsSIEeM/IFGpVMZM4c3NTXNpaemXighJ1+DgYG10dLSuXgDqu7+/X9dliUTiZHZ2djOJzykMLuuD/f39zdPT0y9RNjw4OHCgxzE2qZ2fn2+qHsBKpVK5x8dH07t2rVbLqJDAIYfwzxGG8ouLizXVA1j8A8O/9fX1NfSBp6en8cPDw+UwSnDIdVOG9SWEtKR6hJbh9Mrt7e22sLnjetMTpAjmDesyUuTh4SGvegir/QGXsQADqsa4L2W8KILoZXtFkTYs/Qu8lI1CGYkiQB73pqp6jKT+hV46OjrK4uOqLncpU9azjBdFwOtQFNnd3R1Gqpy6urp6lUwmba7F/5Owh06agpmZmWPkz4KRItuUaaU2UuTy8rKLInd3d4Gpj2upi5FsNptMvZ0xplNEt0aqBR3AkoT1ej1PD+gynTJeFAniNdYvwMOfqctrDqPIosOIqqiGp9PpJk8tKHUQjRWBIidzc3O+FLm4uBjBugzu0YAKBxa08UiGEwwVOFcwxLZZZRkZUGRLBeDs7GzVb5x6zMSA72mv+UnlA1bVUqk0blnWa59poShiRsk1rIEIFOGMUlsH+xNw/z339IuOr+EEqyou0CdJCasjKBKmOkq5vgG9m9PT08/aDfdSfnU57slzT6q04VbVn9IYNt4LWk8PSt6GQ7YnJiY8O1DeGaEgdhBoODeGgVPSGKLgBK2XaObm+0LQWuz7w1Ovz7pWzoVxGa9xprWgtNVoNN6YMqEbFYFIe7bVvoYjhb2TwmzAkR4QAWiqP4Sn4cwECOmCLmOIbdv+bs5lVIrFoq3+IUTD/R4Gk5OTRfPSMCpDQ0MiZcDTRtemluXbKoeBaLjbSwwbxnUeBlIXycIkUQZzu/jMuxHU57vz7NCGu13fs1JrPgy8Hh4SZfDwrpiHJMI8DUHLFRXG8ChvR+nhwSgNDAxkdBn7HqkO0Dnse5QAHr5cLn+QmjHIWlkqoQtxITckiszPz2elDdhTw9CuqooI5fQ8zXnoezYkHYwm0mMVVKvAwzb3Z4/iV+65puPxl7wdw75VOQ+NWE7SwT2ZvXCJP7J7hMjRjWbnKa1pGe5eqhf9vBD2rcp51KciAJ7fg+FihbXIJ6k6Rvl5Iexblf0HDMmajxQJWF9AA7Z1fX1dleYndnZ2UuBfSjAm0o85LFjgatdl2t/fz62trT07FDkPaoxh/lvsPdKmBg1ES3tML+t7cz4c4yD/j7nzIv88GCNGjBgxYvwV/AYYSqc27cbbAgAAAABJRU5ErkJggg==");
+        background-size: cover;
+        position: absolute;
+        top: 0;
+        left: 0;
+        border-radius: 10px;
+        background-position: center;
+      }
+      .main {
+        fill: white;
+      }
+      .data {
+        opacity: 0.75;
+        text-align: start;
+        position: absolute;
+        bottom: 0;
+        padding-bottom: 5px;
+        left: 110px;
+        color: black;
+        max-width: 400px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+      }
+      .author {
+        opacity: 0.75;
+        font-size: 0.5em;
+      }
+      .category {
+        background-color: rgba(0, 0, 0, 0.25);
+        border-radius: 0.25em;
+        padding: 0.125em 0.25em;
+        font-size: 0.75em;
+        color: rgba(0, 0, 0, 0.8);
+      }
+    </style>
+  </defs>
+  <g class="main">
+    <rect class="content" width="600" height="100" stroke="rgba(0, 0, 0, 0.5)" x="5" y="5" rx="10" />
+    <foreignObject width="600" height="100" x="5" y="5">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
+        <div class="image" />
+<div class="text">
+          <div class="title">Ecommerce&#0032;Website&#0032;Development&#0032;Services&#0032;&#0045;&#0032;Mobile&#0032;App&#0032;Development&#0032;Services</div>
+          <div class="description">WEDOWEBAPPS&#0032;LLC&#0032;is&#0032;a&#0032;leading&#0032;IT&#0032;company&#0032;engaged&#0032;in&#0032;providing&#0032;prominent&#0032;solutions&#0032;for&#0032;ECommerce&#0032;Website&#0032;development&#0044;&#0032;Mobile&#0032;App&#0032;Development&#0044;&#0032;UI&#0047;UX&#0032;and&#0032;Digital&#0032;Marketing&#0032;to&#0032;its&#0032;globally&#0032;spread&#0032;clients&#0046;</div>
+          <div class="date"></div>
+          <div class="data">
+            <span class="author"></span> 
+          </div>
+        </div>
+      </div>
+    </foreignObject>
+  </g>
+</svg>
