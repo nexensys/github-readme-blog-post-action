@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, April 18, 2022 at 12:12:36 PM
+> Last updated: Monday, April 18, 2022 at 6:52:11 PM
 
 > Showing 5 of 12 posts.
 
-[![React js finding item id in the api data.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_js_finding_item_id_in_the_api_data..svg)](https://dev.to/ashumishra485/react-js-finding-item-id-in-the-api-data-4j8m)
-[![Using testing-playground with React Testing Library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_testing-playground_with_React_Testing_Library.svg)](https://dev.to/katieraby/using-testing-playground-with-react-testing-library-26j7)
-[![Getting Started with React Query](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_Started_with_React_Query.svg)](https://dev.to/code_with_aravind/getting-started-with-react-query-9lp)
-[![Is Internet Computer (ICP) really decentralized?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Is_Internet_Computer_(ICP)_really_decentralized_.svg)](https://dev.to/mkenzo_8/is-internet-computer-icp-really-decentralized-1boe)
-[![What are some things that you don't like about git?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_are_some_things_that_you_don't_like_about_git_.svg)](https://dev.to/bhupesh/what-are-some-things-that-you-dont-like-about-git-ek9)
+[![Context In React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Context_In_React.svg)](https://dev.to/georgeoffley/context-in-react-4fda)
+[![Desacoplando a camada de domínio de uma aplicação das outras camadas](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Desacoplando_a_camada_de_domínio_de_uma_aplicação_das_outras_camadas.svg)](https://dev.to/2020nani/desacoplando-a-camada-de-dominio-de-uma-aplicacao-das-outras-camadas-2b0b)
+[![My approach building a serverless application that notifies me of gasoline prices](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_approach_building_a_serverless_application_that_notifies_me_of_gasoline_prices.svg)](https://dev.to/joseangel1196/my-approach-building-a-serverless-application-that-notifies-me-of-gasoline-prices-1hg8)
+[![dev log 02](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/dev_log_02.svg)](https://dev.to/heyoitsjuice/dev-log-02-2cdl)
+[![My "Artisinal" Ingress](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My__Artisinal__Ingress.svg)](https://dev.to/nabsul/my-artisinal-ingress-28me)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, April 18, 2022 at 12:12:38 PM
+> Last updated: Monday, April 18, 2022 at 6:52:15 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, April 18, 2022 at 12:12:42 PM
+> Last updated: Monday, April 18, 2022 at 6:52:21 PM
 
 > Showing 5 of 30 posts.
 
+[![React State Management Using Easy Peasy](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_State_Management_Using_Easy_Peasy.svg)](https://blog.openreplay.com/react-state-management-using-easy-peasy)
+[![The firstChild Property in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_firstChild_Property_in_JavaScript.svg)](
+https://masteringjs.io/tutorials/fundamentals/firstchild
+)
 [![GitHub - ognis1205/slam-at-home: Real-time SLAM System at Home.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ognis1205_slam-at-home__Real-time_SLAM_System_at_Home..svg)](https://github.com/ognis1205/slam-at-home)
 [![JavaScript testing #10. Advanced mocking with Jest and React Testing Library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_testing__10._Advanced_mocking_with_Jest_and_React_Testing_Library.svg)](http://wanago.io/2022/04/18/advanced-mocking-jest-react-testing-library/)
 [![Free Push-To-Talk Android SDK awaits your implementation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Free_Push-To-Talk_Android_SDK_awaits_your_implementation.svg)](https://dev.to/voicepingapp/free-push-to-talk-android-sdk-awaits-your-implementation-hnf)
-[![Ajax Battle: XMLHttpRequest vs the Fetch API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Ajax_Battle__XMLHttpRequest_vs_the_Fetch_API.svg)](https://blog.openreplay.com/ajax-battle-xmlhttprequest-vs-the-fetch-api)
-[![GitHub - rohinivsenthil/rabbitrace: Visual Studio Code extension to help manage RabbitMQ queues and exchanges](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_rohinivsenthil_rabbitrace__Visual_Studio_Code_extension_to_help_manage_RabbitMQ_queues_and_exchanges.svg)](https://github.com/rohinivsenthil/rabbitrace)
 
 
 <!-- post-list:end -->
