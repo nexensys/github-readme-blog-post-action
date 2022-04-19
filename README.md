@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, April 18, 2022 at 6:52:11 PM
+> Last updated: Tuesday, April 19, 2022 at 12:13:07 AM
 
 > Showing 5 of 12 posts.
 
-[![Context In React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Context_In_React.svg)](https://dev.to/georgeoffley/context-in-react-4fda)
-[![Desacoplando a camada de domínio de uma aplicação das outras camadas](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Desacoplando_a_camada_de_domínio_de_uma_aplicação_das_outras_camadas.svg)](https://dev.to/2020nani/desacoplando-a-camada-de-dominio-de-uma-aplicacao-das-outras-camadas-2b0b)
-[![My approach building a serverless application that notifies me of gasoline prices](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_approach_building_a_serverless_application_that_notifies_me_of_gasoline_prices.svg)](https://dev.to/joseangel1196/my-approach-building-a-serverless-application-that-notifies-me-of-gasoline-prices-1hg8)
-[![dev log 02](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/dev_log_02.svg)](https://dev.to/heyoitsjuice/dev-log-02-2cdl)
-[![My "Artisinal" Ingress](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My__Artisinal__Ingress.svg)](https://dev.to/nabsul/my-artisinal-ingress-28me)
+[![AppSeed - New Version](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AppSeed_-_New_Version.svg)](https://dev.to/sm0ke/appseed-new-version-32a)
+[![Building Laravel 8 Eloquent Query Example](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_Laravel_8_Eloquent_Query_Example.svg)](https://dev.to/codeanddeploy/building-laravel-8-eloquent-query-example-1md9)
+[![Parallel Go tests executed against a PostgreSQL database running on Docker](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Parallel_Go_tests_executed_against_a_PostgreSQL_database_running_on_Docker.svg)](https://dev.to/adrianbrad/parallel-go-tests-executed-against-a-postgresql-database-running-on-docker-2m1m)
+[![Javascript Random Number Generator using jQuery](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Javascript_Random_Number_Generator_using_jQuery.svg)](https://dev.to/codeanddeploy/javascript-random-number-generator-using-jquery-11a0)
+[![Class based decorators in python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Class_based_decorators_in_python.svg)](https://dev.to/kcdchennai/class-based-decorators-in-python-1kmi)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, April 18, 2022 at 6:52:15 PM
+> Last updated: Tuesday, April 19, 2022 at 12:13:09 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, April 18, 2022 at 6:52:21 PM
+> Last updated: Tuesday, April 19, 2022 at 12:13:14 AM
 
 > Showing 5 of 30 posts.
 
