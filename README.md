@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, April 19, 2022 at 6:55:16 PM
+> Last updated: Wednesday, April 20, 2022 at 12:12:58 AM
 
 > Showing 5 of 12 posts.
 
-[![I Store My Infra-as-Code This Way, You SHOULD Too.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_Store_My_Infra-as-Code_This_Way__You_SHOULD_Too..svg)](https://dev.to/n3wt0n/i-store-my-infra-as-code-this-way-you-should-too-1pa3)
-[![How does glob work in Python?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_does_glob_work_in_Python_.svg)](https://dev.to/code_with_ali/how-does-glob-work-in-python-4olm)
-[![Learning Clojure, part II](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Learning_Clojure__part_II.svg)](https://dev.to/cazevedo/learning-clojure-part-ii-22b4)
-[![Working with Lists in Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Working_with_Lists_in_Python.svg)](https://dev.to/ahmedgouda/working-with-lists-in-python-5cj)
-[![Thank u](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Thank_u.svg)](https://dev.to/pythonpony/thank-u-58o1)
+[![How to integrate WhatsApp messaging using TWILIO?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_integrate_WhatsApp_messaging_using_TWILIO_.svg)](https://dev.to/hvaishnav/how-to-integrate-whatsapp-messaging-using-twilio-41gk)
+[![About Kathmandu to Lukla Flights](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/About_Kathmandu_to_Lukla_Flights.svg)](https://dev.to/nepflights/about-kathmandu-to-lukla-flights-1j5)
+[![Unstated: a light & simple state management library for React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unstated__a_light___simple_state_management_library_for_React.svg)](https://dev.to/aexol-studio/unstated-a-light-simple-state-management-library-for-react-3b4e)
+[![Top Mistakes To Avoid While Using React Native](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_Mistakes_To_Avoid_While_Using_React_Native.svg)](https://dev.to/sdpl21/top-mistakes-to-avoid-while-using-react-native-3fl1)
+[![Which articles are you missing?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Which_articles_are_you_missing_.svg)](https://dev.to/dailydevtips1/which-articles-are-you-missing-564m)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, April 19, 2022 at 6:55:19 PM
+> Last updated: Wednesday, April 20, 2022 at 12:13:00 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, April 19, 2022 at 6:55:23 PM
+> Last updated: Wednesday, April 20, 2022 at 12:13:03 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - wlucha/angular-starter: Angular 13 Starter with Storybook, Transloco, Jest, TestCafe, Docker, ESLint, Material & Prettier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_wlucha_angular-starter__Angular_13_Starter_with_Storybook__Transloco__Jest__TestCafe__Docker__ESLint__Material___Prettier.svg)](https://github.com/wlucha/angular-starter)
+[![Nearshore vs Offshore vs Onshore: What Is The Difference?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Nearshore_vs_Offshore_vs_Onshore__What_Is_The_Difference_.svg)](https://medium.com/@anh.dao_42279/nearshore-vs-offshore-vs-onshore-what-is-the-difference-ea0526ff2245)
 [![Create a Drag-and-Drop Zone in React with react-dropzone](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Create_a_Drag-and-Drop_Zone_in_React_with_react-dropzone.svg)](https://blog.openreplay.com/create-a-drag-and-drop-zone-in-react-with-react-dropzone)
 [![React State vs Props: Understanding the Comparison](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_State_vs_Props__Understanding_the_Comparison.svg)](https://dev.to/aglowiditsolutions/react-state-vs-props-understanding-the-comparison-176d)
 [![React State Management Using Easy Peasy](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_State_Management_Using_Easy_Peasy.svg)](https://blog.openreplay.com/react-state-management-using-easy-peasy)
-[![The firstChild Property in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_firstChild_Property_in_JavaScript.svg)](
-https://masteringjs.io/tutorials/fundamentals/firstchild
-)
-[![GitHub - ognis1205/slam-at-home: Real-time SLAM System at Home.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ognis1205_slam-at-home__Real-time_SLAM_System_at_Home..svg)](https://github.com/ognis1205/slam-at-home)
 
 
 <!-- post-list:end -->
