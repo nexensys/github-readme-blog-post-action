@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, April 19, 2022 at 12:12:05 PM
+> Last updated: Tuesday, April 19, 2022 at 6:55:16 PM
 
 > Showing 5 of 12 posts.
 
-[![Goodbye, Google Analytics - Why and How You Should Leave The Platform](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Goodbye__Google_Analytics_-_Why_and_How_You_Should_Leave_The_Platform.svg)](https://dev.to/martinheinz/goodbye-google-analytics-why-and-how-you-should-leave-the-platform-530l)
-[![Self healing code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Self_healing_code.svg)](https://dev.to/jobber/self-healing-code-46o9)
-[![Announcing CodeLand 2022's First Keynote Speaker: Angie Jones!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Announcing_CodeLand_2022's_First_Keynote_Speaker__Angie_Jones!.svg)](https://dev.to/codenewbieteam/announcing-codeland-2022s-first-keynote-speaker-angie-jones-12p0)
-[![Dissecting Trades in a Uniswap Transaction with the Sort API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dissecting_Trades_in_a_Uniswap_Transaction_with_the_Sort_API.svg)](https://dev.to/sort_xyz/dissecting-trades-in-a-uniswap-transaction-with-the-sort-api-52jl)
-[![Node.js 18: fetch API, Test Runner module, and more](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Node.js_18__fetch_API__Test_Runner_module__and_more.svg)](https://dev.to/cloudx/nodejs-18-fetch-api-test-runner-module-and-more-2ckg)
+[![I Store My Infra-as-Code This Way, You SHOULD Too.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_Store_My_Infra-as-Code_This_Way__You_SHOULD_Too..svg)](https://dev.to/n3wt0n/i-store-my-infra-as-code-this-way-you-should-too-1pa3)
+[![How does glob work in Python?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_does_glob_work_in_Python_.svg)](https://dev.to/code_with_ali/how-does-glob-work-in-python-4olm)
+[![Learning Clojure, part II](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Learning_Clojure__part_II.svg)](https://dev.to/cazevedo/learning-clojure-part-ii-22b4)
+[![Working with Lists in Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Working_with_Lists_in_Python.svg)](https://dev.to/ahmedgouda/working-with-lists-in-python-5cj)
+[![Thank u](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Thank_u.svg)](https://dev.to/pythonpony/thank-u-58o1)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, April 19, 2022 at 12:12:09 PM
+> Last updated: Tuesday, April 19, 2022 at 6:55:19 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,12 +43,12 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, April 19, 2022 at 12:12:12 PM
+> Last updated: Tuesday, April 19, 2022 at 6:55:23 PM
 
 > Showing 5 of 30 posts.
 
+[![Create a Drag-and-Drop Zone in React with react-dropzone](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Create_a_Drag-and-Drop_Zone_in_React_with_react-dropzone.svg)](https://blog.openreplay.com/create-a-drag-and-drop-zone-in-react-with-react-dropzone)
 [![React State vs Props: Understanding the Comparison](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_State_vs_Props__Understanding_the_Comparison.svg)](https://dev.to/aglowiditsolutions/react-state-vs-props-understanding-the-comparison-176d)
-[![Ecommerce Website Development Services - Mobile App Development Services](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Ecommerce_Website_Development_Services_-_Mobile_App_Development_Services.svg)](https://www.wedowebapps.com/)
 [![React State Management Using Easy Peasy](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_State_Management_Using_Easy_Peasy.svg)](https://blog.openreplay.com/react-state-management-using-easy-peasy)
 [![The firstChild Property in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_firstChild_Property_in_JavaScript.svg)](
 https://masteringjs.io/tutorials/fundamentals/firstchild
