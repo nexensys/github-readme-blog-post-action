@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, April 20, 2022 at 6:18:25 AM
+> Last updated: Wednesday, April 20, 2022 at 12:11:54 PM
 
 > Showing 5 of 12 posts.
 
-[![Método Confiable para Convertir Cocumentos NSF de Lotus Notes a PST de Outlook](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Método_Confiable_para_Convertir_Cocumentos_NSF_de_Lotus_Notes_a_PST_de_Outlook.svg)](https://dev.to/rajisog/metodo-confiable-para-convertir-cocumentos-nsf-de-lotus-notes-a-pst-de-outlook-i28)
-[![What's new with React 18](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What's_new_with_React_18.svg)](https://dev.to/appsignal/whats-new-with-react-18-3pnm)
-[![Introduction to the lighting-fast plugin manager, vim-jetpack](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_to_the_lighting-fast_plugin_manager__vim-jetpack.svg)](https://dev.to/tani/introduction-to-the-lighting-fast-plugin-manager-vim-jetpack-5h8j)
-[![Week 3 - Toggle App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Week_3_-_Toggle_App.svg)](https://dev.to/this_mkhy/week-3-toggle-app-bo8)
-[![Is Disaster Recovery Worth It In Serverless Applications?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Is_Disaster_Recovery_Worth_It_In_Serverless_Applications_.svg)](https://dev.to/aws-builders/is-disaster-recovery-worth-it-in-serverless-applications-44mn)
+[![Why No-Code Won't Take Your Jobs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_No-Code_Won't_Take_Your_Jobs.svg)](https://dev.to/mikhailkaran/why-no-code-wont-take-your-jobs-5am9)
+[![A Designer’s Perspective: How To Improve Communication Between Designers And Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Designer’s_Perspective__How_To_Improve_Communication_Between_Designers_And_Developers.svg)](https://dev.to/loopstudioteam/a-designers-perspective-how-to-improve-communication-between-designers-and-developers-4fb5)
+[![React Virtual DOM](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Virtual_DOM.svg)](https://dev.to/pujakundu/react-virtual-dom-4f54)
+[![Coding standards: what are they and why do you need them](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Coding_standards__what_are_they_and_why_do_you_need_them.svg)](https://dev.to/codacy/coding-standards-what-are-they-and-why-do-you-need-them-51db)
+[![Understanding SushiSwap's MasterChef staking rewards](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_SushiSwap's_MasterChef_staking_rewards.svg)](https://dev.to/heymarkkop/understanding-sushiswaps-masterchef-staking-rewards-1m6f)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, April 20, 2022 at 6:18:27 AM
+> Last updated: Wednesday, April 20, 2022 at 12:11:58 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, April 20, 2022 at 6:18:30 AM
+> Last updated: Wednesday, April 20, 2022 at 12:12:01 PM
 
 > Showing 5 of 30 posts.
 
-[![GitHub - wlucha/angular-starter: Angular 13 Starter with Storybook, Transloco, Jest, TestCafe, Docker, ESLint, Material & Prettier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_wlucha_angular-starter__Angular_13_Starter_with_Storybook__Transloco__Jest__TestCafe__Docker__ESLint__Material___Prettier.svg)](https://github.com/wlucha/angular-starter)
-[![Nearshore vs Offshore vs Onshore: What Is The Difference?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Nearshore_vs_Offshore_vs_Onshore__What_Is_The_Difference_.svg)](https://medium.com/@anh.dao_42279/nearshore-vs-offshore-vs-onshore-what-is-the-difference-ea0526ff2245)
-[![Create a Drag-and-Drop Zone in React with react-dropzone](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Create_a_Drag-and-Drop_Zone_in_React_with_react-dropzone.svg)](https://blog.openreplay.com/create-a-drag-and-drop-zone-in-react-with-react-dropzone)
-[![React State vs Props: Understanding the Differences](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_State_vs_Props__Understanding_the_Differences.svg)](https://dev.to/aglowiditsolutions/react-state-vs-props-understanding-the-comparison-176d)
-[![React State Management Using Easy Peasy](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_State_Management_Using_Easy_Peasy.svg)](https://blog.openreplay.com/react-state-management-using-easy-peasy)
+[![A naturally asynchronous store 🤓](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/A_naturally_asynchronous_store_🤓.svg)](https://dev.to/uppercod/a-naturally-asynchronous-store-57f4)
+[![GitHub - rerender2021/ave-color-picker: A simple color picker powered by avernakis.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_rerender2021_ave-color-picker__A_simple_color_picker_powered_by_avernakis..svg)](https://github.com/rerender2021/ave-color-picker)
+[![GitHub - Forward-Software/react-auth: Simplify your Auth flow when working with React apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Forward-Software_react-auth__Simplify_your_Auth_flow_when_working_with_React_apps.svg)](https://github.com/Forward-Software/react-auth)
+[![Using Webiny Headless CMS With Our New Starter Kits for Gatsby and NextJS | Webiny](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_Webiny_Headless_CMS_With_Our_New_Starter_Kits_for_Gatsby_and_NextJS___Webiny.svg)](
+https://www.webiny.com/blog/get-started-quickly-new-starters-gatsby-nextjs
+)
+[![Episode 7 - Metaprogramming in JavaScript with Luis Atencio - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_7_-_Metaprogramming_in_JavaScript_with_Luis_Atencio_-_20minJS.svg)](https://podcast.20minjs.com/1952066/10458743-episode-7-metaprogramming-in-javascript-with-luis-atencio)
 
 
 <!-- post-list:end -->
