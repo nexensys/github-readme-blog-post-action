@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, April 20, 2022 at 12:11:54 PM
+> Last updated: Wednesday, April 20, 2022 at 6:51:14 PM
 
 > Showing 5 of 12 posts.
 
-[![Why No-Code Won't Take Your Jobs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_No-Code_Won't_Take_Your_Jobs.svg)](https://dev.to/mikhailkaran/why-no-code-wont-take-your-jobs-5am9)
-[![A Designer’s Perspective: How To Improve Communication Between Designers And Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Designer’s_Perspective__How_To_Improve_Communication_Between_Designers_And_Developers.svg)](https://dev.to/loopstudioteam/a-designers-perspective-how-to-improve-communication-between-designers-and-developers-4fb5)
-[![React Virtual DOM](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Virtual_DOM.svg)](https://dev.to/pujakundu/react-virtual-dom-4f54)
-[![Coding standards: what are they and why do you need them](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Coding_standards__what_are_they_and_why_do_you_need_them.svg)](https://dev.to/codacy/coding-standards-what-are-they-and-why-do-you-need-them-51db)
-[![Understanding SushiSwap's MasterChef staking rewards](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_SushiSwap's_MasterChef_staking_rewards.svg)](https://dev.to/heymarkkop/understanding-sushiswaps-masterchef-staking-rewards-1m6f)
+[![Day 12: Up all night](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Day_12__Up_all_night.svg)](https://dev.to/yvad60/day-12-up-all-night-63h)
+[![Google T5 Translation as a Service with Just 7 lines of Codes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Google_T5_Translation_as_a_Service_with_Just_7_lines_of_Codes.svg)](https://dev.to/wjiuhe/google-t5-translation-as-a-service-with-just-7-lines-of-codes-5dfm)
+[![#42 - How many pages in a book? - Codewars Kata (6 kyu)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_42_-_How_many_pages_in_a_book__-_Codewars_Kata_(6_kyu).svg)](https://dev.to/cesar__dlr/42-how-many-pages-in-a-book-codewars-kata-6-kyu-4m9i)
+[![10 Plugins You’d Love to Have as a Noob in 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_Plugins_You’d_Love_to_Have_as_a_Noob_in_2022.svg)](https://dev.to/iamodebiyi/10-plugins-youd-love-to-have-as-a-noob-in-2022-20ap)
+[![Hello, world!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Hello__world!.svg)](https://dev.to/felms/hello-world-55of)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, April 20, 2022 at 12:11:58 PM
+> Last updated: Wednesday, April 20, 2022 at 6:51:17 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, April 20, 2022 at 12:12:01 PM
+> Last updated: Wednesday, April 20, 2022 at 6:51:19 PM
 
 > Showing 5 of 30 posts.
 
