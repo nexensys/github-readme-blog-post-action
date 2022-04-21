@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, April 21, 2022 at 12:12:09 AM
+> Last updated: Thursday, April 21, 2022 at 6:17:00 AM
 
 > Showing 5 of 12 posts.
 
-[![Signing requests to AWS services using axios](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Signing_requests_to_AWS_services_using_axios.svg)](https://dev.to/aws-builders/signing-requests-to-aws-services-using-axios-1043)
-[![Some unknown HTML tags](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Some_unknown_HTML_tags.svg)](https://dev.to/ndrohith/some-unknown-html-tags-f4c)
-[![Web Scrapping with Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Web_Scrapping_with_Python.svg)](https://dev.to/code_with_ali/web-scrapping-with-python-2p9n)
-[![How to create namespaces in Kubernetes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_namespaces_in_Kubernetes.svg)](https://dev.to/ada_pow/how-to-create-namespaces-in-kubernetes-4jok)
-[![How to write better as a developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_write_better_as_a_developer.svg)](https://dev.to/how-to-dev/how-to-write-better-as-a-developer-342g)
+[![How Tesla’s tech stack is a testimony to the need for open source solutions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_Tesla’s_tech_stack_is_a_testimony_to_the_need_for_open_source_solutions.svg)](https://dev.to/shahednasser/how-teslas-tech-stack-is-a-testimony-to-the-need-for-open-source-solutions-5c6e)
+[![How to customize Keycloak themes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_customize_Keycloak_themes.svg)](https://dev.to/trigo/how-to-customize-keycloak-themes-545)
+[![Things to try before Neural Networks.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Things_to_try_before_Neural_Networks..svg)](https://dev.to/codewithsom/things-to-try-before-neural-networks-1061)
+[![10+ Unique Websites to find Web Design Inspiration for Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10+_Unique_Websites_to_find_Web_Design_Inspiration_for_Developers.svg)](https://dev.to/cesscode/10-unique-websites-to-find-web-design-inspiration-for-developers-1j0j)
+[![Fish Shell Function](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Fish_Shell_Function.svg)](https://dev.to/jeongoon/fish-shell-function-p2l)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, April 21, 2022 at 12:12:13 AM
+> Last updated: Thursday, April 21, 2022 at 6:17:03 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, April 21, 2022 at 12:12:16 AM
+> Last updated: Thursday, April 21, 2022 at 6:17:05 AM
 
 > Showing 5 of 30 posts.
 
+[![JavaScript Animation Libraries: 10 Popular Choices - Stack Diary](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Animation_Libraries__10_Popular_Choices_-_Stack_Diary.svg)](https://stackdiary.com/javascript-animation-libraries/)
+[![What Is Offshore Development Center (ODC)? How To Set Up An ODC?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_Is_Offshore_Development_Center_(ODC)__How_To_Set_Up_An_ODC_.svg)](https://medium.com/@anh.dao_42279/what-is-offshore-development-center-odc-how-to-set-up-an-odc-4eb13544ce4c)
+[![GitHub - blacksmithop/Portfolio: Responsive portfolio website with auto-build workflow](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_blacksmithop_Portfolio__Responsive_portfolio_website_with_auto-build_workflow.svg)](https://github.com/blacksmithop/Portfolio)
 [![What makes the web slow? browser's bottleneck](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_makes_the_web_slow__browser's_bottleneck.svg)](https://medhatdawoud.net/blog/what-makes-the-web-slow)
 [![A naturally asynchronous store 🤓](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/A_naturally_asynchronous_store_🤓.svg)](https://dev.to/uppercod/a-naturally-asynchronous-store-57f4)
-[![GitHub - rerender2021/ave-color-picker: A simple color picker powered by avernakis.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_rerender2021_ave-color-picker__A_simple_color_picker_powered_by_avernakis..svg)](https://github.com/rerender2021/ave-color-picker)
-[![GitHub - Forward-Software/react-auth: Simplify your Auth flow when working with React apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Forward-Software_react-auth__Simplify_your_Auth_flow_when_working_with_React_apps.svg)](https://github.com/Forward-Software/react-auth)
-[![Using Webiny Headless CMS With Our New Starter Kits for Gatsby and NextJS | Webiny](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_Webiny_Headless_CMS_With_Our_New_Starter_Kits_for_Gatsby_and_NextJS___Webiny.svg)](
-https://www.webiny.com/blog/get-started-quickly-new-starters-gatsby-nextjs
-)
 
 
 <!-- post-list:end -->
