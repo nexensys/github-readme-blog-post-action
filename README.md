@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, April 20, 2022 at 6:51:14 PM
+> Last updated: Thursday, April 21, 2022 at 12:12:09 AM
 
 > Showing 5 of 12 posts.
 
-[![Day 12: Up all night](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Day_12__Up_all_night.svg)](https://dev.to/yvad60/day-12-up-all-night-63h)
-[![Google T5 Translation as a Service with Just 7 lines of Codes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Google_T5_Translation_as_a_Service_with_Just_7_lines_of_Codes.svg)](https://dev.to/wjiuhe/google-t5-translation-as-a-service-with-just-7-lines-of-codes-5dfm)
-[![#42 - How many pages in a book? - Codewars Kata (6 kyu)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_42_-_How_many_pages_in_a_book__-_Codewars_Kata_(6_kyu).svg)](https://dev.to/cesar__dlr/42-how-many-pages-in-a-book-codewars-kata-6-kyu-4m9i)
-[![10 Plugins You’d Love to Have as a Noob in 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_Plugins_You’d_Love_to_Have_as_a_Noob_in_2022.svg)](https://dev.to/iamodebiyi/10-plugins-youd-love-to-have-as-a-noob-in-2022-20ap)
-[![Hello, world!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Hello__world!.svg)](https://dev.to/felms/hello-world-55of)
+[![Signing requests to AWS services using axios](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Signing_requests_to_AWS_services_using_axios.svg)](https://dev.to/aws-builders/signing-requests-to-aws-services-using-axios-1043)
+[![Some unknown HTML tags](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Some_unknown_HTML_tags.svg)](https://dev.to/ndrohith/some-unknown-html-tags-f4c)
+[![Web Scrapping with Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Web_Scrapping_with_Python.svg)](https://dev.to/code_with_ali/web-scrapping-with-python-2p9n)
+[![How to create namespaces in Kubernetes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_namespaces_in_Kubernetes.svg)](https://dev.to/ada_pow/how-to-create-namespaces-in-kubernetes-4jok)
+[![How to write better as a developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_write_better_as_a_developer.svg)](https://dev.to/how-to-dev/how-to-write-better-as-a-developer-342g)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, April 20, 2022 at 6:51:17 PM
+> Last updated: Thursday, April 21, 2022 at 12:12:13 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, April 20, 2022 at 6:51:19 PM
+> Last updated: Thursday, April 21, 2022 at 12:12:16 AM
 
 > Showing 5 of 30 posts.
 
+[![What makes the web slow? browser's bottleneck](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_makes_the_web_slow__browser's_bottleneck.svg)](https://medhatdawoud.net/blog/what-makes-the-web-slow)
 [![A naturally asynchronous store 🤓](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/A_naturally_asynchronous_store_🤓.svg)](https://dev.to/uppercod/a-naturally-asynchronous-store-57f4)
 [![GitHub - rerender2021/ave-color-picker: A simple color picker powered by avernakis.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_rerender2021_ave-color-picker__A_simple_color_picker_powered_by_avernakis..svg)](https://github.com/rerender2021/ave-color-picker)
 [![GitHub - Forward-Software/react-auth: Simplify your Auth flow when working with React apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Forward-Software_react-auth__Simplify_your_Auth_flow_when_working_with_React_apps.svg)](https://github.com/Forward-Software/react-auth)
 [![Using Webiny Headless CMS With Our New Starter Kits for Gatsby and NextJS | Webiny](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_Webiny_Headless_CMS_With_Our_New_Starter_Kits_for_Gatsby_and_NextJS___Webiny.svg)](
 https://www.webiny.com/blog/get-started-quickly-new-starters-gatsby-nextjs
 )
-[![Episode 7 - Metaprogramming in JavaScript with Luis Atencio - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_7_-_Metaprogramming_in_JavaScript_with_Luis_Atencio_-_20minJS.svg)](https://podcast.20minjs.com/1952066/10458743-episode-7-metaprogramming-in-javascript-with-luis-atencio)
 
 
 <!-- post-list:end -->
