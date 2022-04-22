@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, April 21, 2022 at 6:52:08 PM
+> Last updated: Friday, April 22, 2022 at 12:13:08 AM
 
 > Showing 5 of 12 posts.
 
-[![What is your favorite NAS distro/software?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_your_favorite_NAS_distro_software_.svg)](https://dev.to/quik2007/what-is-your-favorite-nas-distrosoftware-3ajh)
-[![Day 561 : Let Me Down](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Day_561___Let_Me_Down.svg)](https://dev.to/dwane/day-561-let-me-down-4417)
-[![Investigating Machine Learning Techniques to Improve Spec Tests — IV](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Investigating_Machine_Learning_Techniques_to_Improve_Spec_Tests_—_IV.svg)](https://dev.to/serpapi/investigating-machine-learning-techniques-to-improve-spec-tests-iv-15cg)
-[![Encapsulation in TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Encapsulation_in_TypeScript.svg)](https://dev.to/trash07/encapsulation-in-typescript-2dda)
-[![Join the New Fade Technology Private Beta for Mux Developers.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Join_the_New_Fade_Technology_Private_Beta_for_Mux_Developers..svg)](https://dev.to/fadetechnology/join-the-new-fade-technology-private-beta-for-mux-developers-53ip)
+[![Building a PHP Blog Platform from Scratch without a Framework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_PHP_Blog_Platform_from_Scratch_without_a_Framework.svg)](https://dev.to/cmd05/building-a-php-blog-platform-from-scratch-without-a-framework-3b18)
+[![Oprah Winfrey CBD Gummies Reviews (Updated 2022) - Shocking Scam Alert, legitimate or fake?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Oprah_Winfrey_CBD_Gummies_Reviews_(Updated_2022)_-_Shocking_Scam_Alert__legitimate_or_fake_.svg)](https://dev.to/oprahcbdbears/oprah-winfrey-cbd-gummies-reviews-updated-2022-shocking-scam-alert-legitimate-or-fake-1i4m)
+[![Why You Need To Understand Test Management Strategy To Become Pro?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_You_Need_To_Understand_Test_Management_Strategy_To_Become_Pro_.svg)](https://dev.to/lambdatest/why-you-need-to-understand-test-management-strategy-to-become-pro-3ljp)
+[![Best Email Marketing Services Providers.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_Email_Marketing_Services_Providers..svg)](https://dev.to/bulkmailserver3/best-email-marketing-services-providers-3847)
+[![A simple browser extension to select a custom background for a new tab in your browser.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_simple_browser_extension_to_select_a_custom_background_for_a_new_tab_in_your_browser..svg)](https://dev.to/cmd05/a-simple-browser-extension-to-select-a-custom-background-for-a-new-tab-in-your-browser-97)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, April 21, 2022 at 6:52:12 PM
+> Last updated: Friday, April 22, 2022 at 12:13:11 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,21 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, April 21, 2022 at 6:52:20 PM
+> Last updated: Friday, April 22, 2022 at 12:13:14 AM
 
 > Showing 5 of 30 posts.
 
+[![
+The Past, Present, and Future of Virtual DOM
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_The_Past__Present__and_Future_of_Virtual_DOM_.svg)](
+https://aidenybai.com/thoughts/virtual-dom
+)
 [![Mastering CSS Transitions with React 18](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Mastering_CSS_Transitions_with_React_18.svg)](https://blog.openreplay.com/mastering-css-transitions-with-react-18)
 [![How to Fix 'Query was already executed' in Mongoose](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Fix_'Query_was_already_executed'_in_Mongoose.svg)](
 https://masteringjs.io/tutorials/mongoose/query-was-already-executed
 )
 [![Moving from Next to Remix](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Moving_from_Next_to_Remix.svg)](https://blog.openreplay.com/moving-from-next-to-remix)
 [![JavaScript Animation Libraries: 10 Popular Choices - Stack Diary](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Animation_Libraries__10_Popular_Choices_-_Stack_Diary.svg)](https://stackdiary.com/javascript-animation-libraries/)
-[![What Is Offshore Development Center (ODC)? How To Set Up An ODC?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_Is_Offshore_Development_Center_(ODC)__How_To_Set_Up_An_ODC_.svg)](https://medium.com/@anh.dao_42279/what-is-offshore-development-center-odc-how-to-set-up-an-odc-4eb13544ce4c)
 
 
 <!-- post-list:end -->
