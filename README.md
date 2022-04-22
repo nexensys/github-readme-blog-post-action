@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, April 22, 2022 at 12:13:08 AM
+> Last updated: Friday, April 22, 2022 at 6:18:59 AM
 
 > Showing 5 of 12 posts.
 
-[![Building a PHP Blog Platform from Scratch without a Framework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_PHP_Blog_Platform_from_Scratch_without_a_Framework.svg)](https://dev.to/cmd05/building-a-php-blog-platform-from-scratch-without-a-framework-3b18)
-[![Oprah Winfrey CBD Gummies Reviews (Updated 2022) - Shocking Scam Alert, legitimate or fake?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Oprah_Winfrey_CBD_Gummies_Reviews_(Updated_2022)_-_Shocking_Scam_Alert__legitimate_or_fake_.svg)](https://dev.to/oprahcbdbears/oprah-winfrey-cbd-gummies-reviews-updated-2022-shocking-scam-alert-legitimate-or-fake-1i4m)
-[![Why You Need To Understand Test Management Strategy To Become Pro?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_You_Need_To_Understand_Test_Management_Strategy_To_Become_Pro_.svg)](https://dev.to/lambdatest/why-you-need-to-understand-test-management-strategy-to-become-pro-3ljp)
-[![Best Email Marketing Services Providers.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_Email_Marketing_Services_Providers..svg)](https://dev.to/bulkmailserver3/best-email-marketing-services-providers-3847)
-[![A simple browser extension to select a custom background for a new tab in your browser.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_simple_browser_extension_to_select_a_custom_background_for_a_new_tab_in_your_browser..svg)](https://dev.to/cmd05/a-simple-browser-extension-to-select-a-custom-background-for-a-new-tab-in-your-browser-97)
+[![C++ uchun run komandasi](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/C++_uchun_run_komandasi.svg)](https://dev.to/wahidd/c-uchun-run-komandasi-3oo9)
+[![How to make URLs pretty using Netlify](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_make_URLs_pretty_using_Netlify.svg)](https://dev.to/eke/how-to-make-urls-pretty-using-netlify-1a4k)
+[![OctoChats - April 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/OctoChats_-_April_2022.svg)](https://dev.to/techielass/octochats-april-2022-4flm)
+[![Creating a new HydePHP app from scratch](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_a_new_HydePHP_app_from_scratch.svg)](https://dev.to/stresseddev/creating-a-new-hydephp-app-from-scratch-51o3)
+[![The Triangle of INJECTIONS: Learn How To detect these vulnerabilities + How To avoid them](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Triangle_of_INJECTIONS__Learn_How_To_detect_these_vulnerabilities_+_How_To_avoid_them.svg)](https://dev.to/dotnetsafer/the-triangle-of-injections-learn-how-to-detect-these-vulnerabilities-how-to-avoid-them-1g03)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, April 22, 2022 at 12:13:11 AM
+> Last updated: Friday, April 22, 2022 at 6:19:02 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,12 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, April 22, 2022 at 12:13:14 AM
+> Last updated: Friday, April 22, 2022 at 6:19:06 AM
 
 > Showing 5 of 30 posts.
 
+[![Release Neutralinojs v4.5.0 released! · neutralinojs/neutralinojs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Release_Neutralinojs_v4.5.0_released!_·_neutralinojs_neutralinojs.svg)](/neutralinojs/neutralinojs/releases/tag/v4.5.0)
+[![Mokens league raises --Mn Funding!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Mokens_league_raises_--Mn_Funding!.svg)](https://medium.com/@hivelancetechnologies/mokens-league-raises-2mm-funding-72ee1a155af9)
 [![
 The Past, Present, and Future of Virtual DOM
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_The_Past__Present__and_Future_of_Virtual_DOM_.svg)](
@@ -56,8 +58,6 @@ https://aidenybai.com/thoughts/virtual-dom
 [![How to Fix 'Query was already executed' in Mongoose](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Fix_'Query_was_already_executed'_in_Mongoose.svg)](
 https://masteringjs.io/tutorials/mongoose/query-was-already-executed
 )
-[![Moving from Next to Remix](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Moving_from_Next_to_Remix.svg)](https://blog.openreplay.com/moving-from-next-to-remix)
-[![JavaScript Animation Libraries: 10 Popular Choices - Stack Diary](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Animation_Libraries__10_Popular_Choices_-_Stack_Diary.svg)](https://stackdiary.com/javascript-animation-libraries/)
 
 
 <!-- post-list:end -->
