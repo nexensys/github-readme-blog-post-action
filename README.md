@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, April 21, 2022 at 12:13:14 PM
+> Last updated: Thursday, April 21, 2022 at 6:52:08 PM
 
 > Showing 5 of 12 posts.
 
-[![Marko: Compiling Fine-Grained Reactivity](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Marko__Compiling_Fine-Grained_Reactivity.svg)](https://dev.to/ryansolid/marko-compiling-fine-grained-reactivity-4lk4)
-[![New NFT Landing Page Template](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/New_NFT_Landing_Page_Template.svg)](https://dev.to/kumard3/new-nft-landing-page-template-31b9)
-[![Getting started with contributing to open source – Real world example](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_started_with_contributing_to_open_source_–_Real_world_example.svg)](https://dev.to/nagi/getting-started-with-contributing-to-open-source-real-world-example-3kpp)
-[![Unable to connect Zookeeper in gke cluster](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unable_to_connect_Zookeeper_in_gke_cluster.svg)](https://dev.to/ramkrishna2k3/unable-to-connect-zookeeper-in-gke-cluster-25c3)
-[![Shallow Copy vs Deep Copy in Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Shallow_Copy_vs_Deep_Copy_in_Javascript.svg)](https://dev.to/nagi/shallow-copy-vs-deep-copy-in-javascript-53d1)
+[![What is your favorite NAS distro/software?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_your_favorite_NAS_distro_software_.svg)](https://dev.to/quik2007/what-is-your-favorite-nas-distrosoftware-3ajh)
+[![Day 561 : Let Me Down](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Day_561___Let_Me_Down.svg)](https://dev.to/dwane/day-561-let-me-down-4417)
+[![Investigating Machine Learning Techniques to Improve Spec Tests — IV](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Investigating_Machine_Learning_Techniques_to_Improve_Spec_Tests_—_IV.svg)](https://dev.to/serpapi/investigating-machine-learning-techniques-to-improve-spec-tests-iv-15cg)
+[![Encapsulation in TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Encapsulation_in_TypeScript.svg)](https://dev.to/trash07/encapsulation-in-typescript-2dda)
+[![Join the New Fade Technology Private Beta for Mux Developers.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Join_the_New_Fade_Technology_Private_Beta_for_Mux_Developers..svg)](https://dev.to/fadetechnology/join-the-new-fade-technology-private-beta-for-mux-developers-53ip)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, April 21, 2022 at 12:13:17 PM
+> Last updated: Thursday, April 21, 2022 at 6:52:12 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, April 21, 2022 at 12:13:20 PM
+> Last updated: Thursday, April 21, 2022 at 6:52:20 PM
 
 > Showing 5 of 30 posts.
 
+[![Mastering CSS Transitions with React 18](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Mastering_CSS_Transitions_with_React_18.svg)](https://blog.openreplay.com/mastering-css-transitions-with-react-18)
+[![How to Fix 'Query was already executed' in Mongoose](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Fix_'Query_was_already_executed'_in_Mongoose.svg)](
+https://masteringjs.io/tutorials/mongoose/query-was-already-executed
+)
 [![Moving from Next to Remix](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Moving_from_Next_to_Remix.svg)](https://blog.openreplay.com/moving-from-next-to-remix)
 [![JavaScript Animation Libraries: 10 Popular Choices - Stack Diary](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Animation_Libraries__10_Popular_Choices_-_Stack_Diary.svg)](https://stackdiary.com/javascript-animation-libraries/)
 [![What Is Offshore Development Center (ODC)? How To Set Up An ODC?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_Is_Offshore_Development_Center_(ODC)__How_To_Set_Up_An_ODC_.svg)](https://medium.com/@anh.dao_42279/what-is-offshore-development-center-odc-how-to-set-up-an-odc-4eb13544ce4c)
-[![GitHub - blacksmithop/Portfolio: Responsive portfolio website with auto-build workflow](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_blacksmithop_Portfolio__Responsive_portfolio_website_with_auto-build_workflow.svg)](https://github.com/blacksmithop/Portfolio)
-[![What makes the web slow? browser's bottleneck](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_makes_the_web_slow__browser's_bottleneck.svg)](https://medhatdawoud.net/blog/what-makes-the-web-slow)
 
 
 <!-- post-list:end -->
