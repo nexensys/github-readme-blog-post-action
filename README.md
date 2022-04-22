@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, April 22, 2022 at 6:18:59 AM
+> Last updated: Friday, April 22, 2022 at 12:11:58 PM
 
 > Showing 5 of 12 posts.
 
-[![C++ uchun run komandasi](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/C++_uchun_run_komandasi.svg)](https://dev.to/wahidd/c-uchun-run-komandasi-3oo9)
-[![How to make URLs pretty using Netlify](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_make_URLs_pretty_using_Netlify.svg)](https://dev.to/eke/how-to-make-urls-pretty-using-netlify-1a4k)
-[![OctoChats - April 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/OctoChats_-_April_2022.svg)](https://dev.to/techielass/octochats-april-2022-4flm)
-[![Creating a new HydePHP app from scratch](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_a_new_HydePHP_app_from_scratch.svg)](https://dev.to/stresseddev/creating-a-new-hydephp-app-from-scratch-51o3)
-[![The Triangle of INJECTIONS: Learn How To detect these vulnerabilities + How To avoid them](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Triangle_of_INJECTIONS__Learn_How_To_detect_these_vulnerabilities_+_How_To_avoid_them.svg)](https://dev.to/dotnetsafer/the-triangle-of-injections-learn-how-to-detect-these-vulnerabilities-how-to-avoid-them-1g03)
+[![Who's the Better Hire? - Jack of All Trades OR Master of One](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Who's_the_Better_Hire__-_Jack_of_All_Trades_OR_Master_of_One.svg)](https://dev.to/tmchuynh/whos-the-better-hire-jack-of-all-trades-or-master-of-one-3b6a)
+[![What are the pain points of your beloved tech stack?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_are_the_pain_points_of_your_beloved_tech_stack_.svg)](https://dev.to/hunghvu/what-are-the-pain-points-of-your-beloved-tech-stack-59f2)
+[![All you need to know about writing Least Privilege IAM Policies](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/All_you_need_to_know_about_writing_Least_Privilege_IAM_Policies.svg)](https://dev.to/aysharshad/all-you-need-to-know-about-writing-least-privilege-iam-policies-3okj)
+[![Function Declaration vs Function Expression](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Function_Declaration_vs_Function_Expression.svg)](https://dev.to/dawrounn/function-declaration-vs-function-expression-2g9k)
+[![You've been sent here because you've designed a site which has text over the top of an image](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/You've_been_sent_here_because_you've_designed_a_site_which_has_text_over_the_top_of_an_image.svg)](https://dev.to/rossangus/youve-been-sent-here-because-youve-designed-a-site-which-has-text-over-the-top-of-an-image-1o17)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, April 22, 2022 at 6:19:02 AM
+> Last updated: Friday, April 22, 2022 at 12:12:01 PM
 
 > Showing 4 of 4 posts.
 
+[![Node.js 18, WebAssembly 2.0, and Ember 4.3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Node.js_18__WebAssembly_2.0__and_Ember_4.3.svg)](https://javascriptweekly.com/issues/586)
 [![On function composition in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/On_function_composition_in_JavaScript.svg)](https://javascriptweekly.com/issues/585)
 [![Format JavaScript as the Romans do?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Format_JavaScript_as_the_Romans_do_.svg)](https://javascriptweekly.com/issues/584)
 [![Time to get decorating](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Time_to_get_decorating.svg)](https://javascriptweekly.com/issues/583)
-[![React 18 due any day now..](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/React_18_due_any_day_now...svg)](https://javascriptweekly.com/issues/582)
 
 
 ## Echo JS
@@ -43,20 +43,18 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, April 22, 2022 at 6:19:06 AM
+> Last updated: Friday, April 22, 2022 at 12:12:07 PM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - digaev/chainify-url: Object Oriented URL Builder](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_digaev_chainify-url__Object_Oriented_URL_Builder.svg)](https://github.com/digaev/chainify-url)
+[![Which Types Of Strategy We Can Use To Get Success For IT Recruiting?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Which_Types_Of_Strategy_We_Can_Use_To_Get_Success_For_IT_Recruiting_.svg)](https://www.scutify.com/articles/2022-04-22-which-types-of-strategy-we-can-use-to-get-success-for-it-recruiting)
 [![Release Neutralinojs v4.5.0 released! · neutralinojs/neutralinojs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Release_Neutralinojs_v4.5.0_released!_·_neutralinojs_neutralinojs.svg)](/neutralinojs/neutralinojs/releases/tag/v4.5.0)
 [![Mokens league raises --Mn Funding!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Mokens_league_raises_--Mn_Funding!.svg)](https://medium.com/@hivelancetechnologies/mokens-league-raises-2mm-funding-72ee1a155af9)
 [![
 The Past, Present, and Future of Virtual DOM
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_The_Past__Present__and_Future_of_Virtual_DOM_.svg)](
 https://aidenybai.com/thoughts/virtual-dom
-)
-[![Mastering CSS Transitions with React 18](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Mastering_CSS_Transitions_with_React_18.svg)](https://blog.openreplay.com/mastering-css-transitions-with-react-18)
-[![How to Fix 'Query was already executed' in Mongoose](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Fix_'Query_was_already_executed'_in_Mongoose.svg)](
-https://masteringjs.io/tutorials/mongoose/query-was-already-executed
 )
 
 
