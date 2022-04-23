@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, April 23, 2022 at 6:15:58 AM
+> Last updated: Saturday, April 23, 2022 at 12:11:09 PM
 
 > Showing 5 of 12 posts.
 
-[![How We Migrated from Javascript and Flow to TypeScript at Osome](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_We_Migrated_from_Javascript_and_Flow_to_TypeScript_at_Osome.svg)](https://dev.to/frolovdev/how-we-migrated-from-javascript-and-flow-to-typescript-at-osome-4661)
-[![Github New : View your contributions in 3D, VR and IRL!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Github_New___View_your_contributions_in_3D__VR_and_IRL!.svg)](https://dev.to/rohithv07/github-new-view-your-contributions-in-3d-vr-and-irl-1oi7)
-[![How do I implement a plagiarism detector completely from scratch and it has to be fast as well?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_do_I_implement_a_plagiarism_detector_completely_from_scratch_and_it_has_to_be_fast_as_well_.svg)](https://dev.to/saptakbhoumik/how-do-i-implement-a-plagiarism-detector-completely-from-scratch-and-it-has-to-be-fast-as-well-4371)
-[![How web browsers work - part 2 (with illustrations)🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_web_browsers_work_-_part_2_(with_illustrations)🚀.svg)](https://dev.to/arikaturika/how-web-browsers-work-part-2-with-illustrations-1gn5)
-[![11 Productive Websites for Web Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/11_Productive_Websites_for_Web_Developers.svg)](https://dev.to/suprabhasupi/11-productive-websites-for-web-developers-2f1)
+[![PythonIsCool - Introduction](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/PythonIsCool_-_Introduction.svg)](https://dev.to/vulcanwm/pythoniscool-introduction-1bi6)
+[![Great Free CSS Course by Google 😻🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Great_Free_CSS_Course_by_Google_😻🔥.svg)](https://dev.to/rammcodes/great-free-css-course-by-google-3hb8)
+[![Why I Chose C#](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_I_Chose_C_.svg)](https://dev.to/chadwinjdeysel/why-i-chose-c-48ng)
+[![Refactoring #5: From arrays to Data Transfer Objects](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Refactoring__5__From_arrays_to_Data_Transfer_Objects.svg)](https://dev.to/genijaho/refactoring-5-from-arrays-to-data-transfer-objects-4f0l)
+[![AWS Glue - ETL Power !](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_Glue_-_ETL_Power_!.svg)](https://dev.to/manvi007/aws-glue-etl-power--1gpf)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, April 23, 2022 at 6:16:00 AM
+> Last updated: Saturday, April 23, 2022 at 12:11:13 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, April 23, 2022 at 6:16:08 AM
+> Last updated: Saturday, April 23, 2022 at 12:11:19 PM
 
 > Showing 5 of 30 posts.
 
