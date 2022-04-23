@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, April 22, 2022 at 6:46:31 PM
+> Last updated: Saturday, April 23, 2022 at 12:11:56 AM
 
 > Showing 5 of 12 posts.
 
-[![Why Fail-fast Offensive Programming is better?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_Fail-fast_Offensive_Programming_is_better_.svg)](https://dev.to/vtsen/why-fail-fast-offensive-programming-is-better-1gko)
-[![Creating a forum with React and Appwrite – Part 3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_a_forum_with_React_and_Appwrite_–_Part_3.svg)](https://dev.to/alexcodes/creating-a-forum-with-react-and-appwrite-part-3-5chp)
-[![Javascript Productivity with Lodash](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Javascript_Productivity_with_Lodash.svg)](https://dev.to/ankitaabad/javascript-productivity-with-lodash-535f)
-[![React Custom Hooks Simplified](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Custom_Hooks_Simplified.svg)](https://dev.to/shahabbukhari/react-custom-hooks-simplified-3ljm)
-[![Python 101 : The Ultimate Python Tutorial For Beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Python_101___The_Ultimate_Python_Tutorial_For_Beginners.svg)](https://dev.to/aliaformo/python-101-the-ultimate-python-tutorial-for-beginners-c8e)
+[![How to Build the Perfect Developer Portfolio 🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Build_the_Perfect_Developer_Portfolio_🔥.svg)](https://dev.to/harshhhdev/how-to-build-the-perfect-developer-portfolio-576l)
+[![A new DAG execution tool built with Go](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_new_DAG_execution_tool_built_with_Go.svg)](https://dev.to/yohamta/a-new-dag-execution-tool-built-with-go-2ml5)
+[![How to call a function in another script in Godot's Visual Script](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_call_a_function_in_another_script_in_Godot's_Visual_Script.svg)](https://dev.to/archerallstars/how-to-call-a-function-in-another-script-in-godots-visual-script-1elm)
+[![How to build a faucet CLI using NodeJS 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_build_a_faucet_CLI_using_NodeJS_🚀.svg)](https://dev.to/kira272921/how-to-build-a-faucet-cli-using-nodejs-3iik)
+[![Git Techniques to Undo your Mistakes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Git_Techniques_to_Undo_your_Mistakes.svg)](https://dev.to/timwjames/git-techniques-to-undo-your-mistakes-1jl2)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, April 22, 2022 at 6:46:34 PM
+> Last updated: Saturday, April 23, 2022 at 12:11:59 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, April 22, 2022 at 6:46:45 PM
+> Last updated: Saturday, April 23, 2022 at 12:12:06 AM
 
 > Showing 5 of 30 posts.
 
