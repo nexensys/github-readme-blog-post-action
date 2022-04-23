@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, April 22, 2022 at 12:11:58 PM
+> Last updated: Friday, April 22, 2022 at 6:46:31 PM
 
 > Showing 5 of 12 posts.
 
-[![Who's the Better Hire? - Jack of All Trades OR Master of One](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Who's_the_Better_Hire__-_Jack_of_All_Trades_OR_Master_of_One.svg)](https://dev.to/tmchuynh/whos-the-better-hire-jack-of-all-trades-or-master-of-one-3b6a)
-[![What are the pain points of your beloved tech stack?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_are_the_pain_points_of_your_beloved_tech_stack_.svg)](https://dev.to/hunghvu/what-are-the-pain-points-of-your-beloved-tech-stack-59f2)
-[![All you need to know about writing Least Privilege IAM Policies](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/All_you_need_to_know_about_writing_Least_Privilege_IAM_Policies.svg)](https://dev.to/aysharshad/all-you-need-to-know-about-writing-least-privilege-iam-policies-3okj)
-[![Function Declaration vs Function Expression](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Function_Declaration_vs_Function_Expression.svg)](https://dev.to/dawrounn/function-declaration-vs-function-expression-2g9k)
-[![You've been sent here because you've designed a site which has text over the top of an image](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/You've_been_sent_here_because_you've_designed_a_site_which_has_text_over_the_top_of_an_image.svg)](https://dev.to/rossangus/youve-been-sent-here-because-youve-designed-a-site-which-has-text-over-the-top-of-an-image-1o17)
+[![Why Fail-fast Offensive Programming is better?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_Fail-fast_Offensive_Programming_is_better_.svg)](https://dev.to/vtsen/why-fail-fast-offensive-programming-is-better-1gko)
+[![Creating a forum with React and Appwrite – Part 3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_a_forum_with_React_and_Appwrite_–_Part_3.svg)](https://dev.to/alexcodes/creating-a-forum-with-react-and-appwrite-part-3-5chp)
+[![Javascript Productivity with Lodash](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Javascript_Productivity_with_Lodash.svg)](https://dev.to/ankitaabad/javascript-productivity-with-lodash-535f)
+[![React Custom Hooks Simplified](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Custom_Hooks_Simplified.svg)](https://dev.to/shahabbukhari/react-custom-hooks-simplified-3ljm)
+[![Python 101 : The Ultimate Python Tutorial For Beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Python_101___The_Ultimate_Python_Tutorial_For_Beginners.svg)](https://dev.to/aliaformo/python-101-the-ultimate-python-tutorial-for-beginners-c8e)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, April 22, 2022 at 12:12:01 PM
+> Last updated: Friday, April 22, 2022 at 6:46:34 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, April 22, 2022 at 12:12:07 PM
+> Last updated: Friday, April 22, 2022 at 6:46:45 PM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - nuxodin/dump.js: dump a javascript object](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_nuxodin_dump.js__dump_a_javascript_object.svg)](https://github.com/nuxodin/dump.js)
 [![GitHub - digaev/chainify-url: Object Oriented URL Builder](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_digaev_chainify-url__Object_Oriented_URL_Builder.svg)](https://github.com/digaev/chainify-url)
 [![Which Types Of Strategy We Can Use To Get Success For IT Recruiting?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Which_Types_Of_Strategy_We_Can_Use_To_Get_Success_For_IT_Recruiting_.svg)](https://www.scutify.com/articles/2022-04-22-which-types-of-strategy-we-can-use-to-get-success-for-it-recruiting)
 [![Release Neutralinojs v4.5.0 released! · neutralinojs/neutralinojs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Release_Neutralinojs_v4.5.0_released!_·_neutralinojs_neutralinojs.svg)](/neutralinojs/neutralinojs/releases/tag/v4.5.0)
 [![Mokens league raises --Mn Funding!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Mokens_league_raises_--Mn_Funding!.svg)](https://medium.com/@hivelancetechnologies/mokens-league-raises-2mm-funding-72ee1a155af9)
-[![
-The Past, Present, and Future of Virtual DOM
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_The_Past__Present__and_Future_of_Virtual_DOM_.svg)](
-https://aidenybai.com/thoughts/virtual-dom
-)
 
 
 <!-- post-list:end -->
