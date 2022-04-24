@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, April 24, 2022 at 6:15:33 AM
+> Last updated: Sunday, April 24, 2022 at 12:11:18 PM
 
 > Showing 5 of 12 posts.
 
-[![THANK YOU DEV! (The power of community feedback! 💘)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/THANK_YOU_DEV!_(The_power_of_community_feedback!_💘).svg)](https://dev.to/wordsmithcloud/the-power-of-dev-community-feedback-391d)
-[![Software documentation is still relevant in certain environments](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Software_documentation_is_still_relevant_in_certain_environments.svg)](https://dev.to/robmulpeter/inspired-to-write-useful-software-documentation-2cm1)
-[![TemplatesKart | New landing page built with ChakraUI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/TemplatesKart___New_landing_page_built_with_ChakraUI.svg)](https://dev.to/m_ahmad/templateskart-new-landing-page-built-with-chakraui-1345)
-[![Cryptocurrency Exchange Software Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cryptocurrency_Exchange_Software_Development.svg)](https://dev.to/justinmichael/cryptocurrency-exchange-software-development-2kob)
-[![JSON to Table Viewer/Converter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JSON_to_Table_Viewer_Converter.svg)](https://dev.to/foxinfotech/json-to-table-viewerconverter-4423)
+[![Setup Micro Frontend Application with React Js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Setup_Micro_Frontend_Application_with_React_Js.svg)](https://dev.to/shivampawar/setup-micro-frontend-application-with-react-js-m87)
+[![Elixir: Dockerizando Aplicações Phoenix 🐳](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Elixir__Dockerizando_Aplicações_Phoenix_🐳.svg)](https://dev.to/maiquitome/elixir-dockerizando-aplicacoes-phoenix-19gg)
+[![Last Write Wins - A Conflict resolution strategy](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Last_Write_Wins_-_A_Conflict_resolution_strategy.svg)](https://dev.to/dogealgo/last-write-wins-a-conflict-resolution-strategy-2al6)
+[![Introduction to Regex](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_to_Regex.svg)](https://dev.to/yohanesss/introduction-to-regex-1lej)
+[![The 4 Short Frontend tips for April](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_4_Short_Frontend_tips_for_April.svg)](https://dev.to/melnik909/the-4-short-frontend-tips-for-april-4989)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, April 24, 2022 at 6:15:36 AM
+> Last updated: Sunday, April 24, 2022 at 12:11:20 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, April 24, 2022 at 6:15:43 AM
+> Last updated: Sunday, April 24, 2022 at 12:11:28 PM
 
 > Showing 5 of 30 posts.
 
