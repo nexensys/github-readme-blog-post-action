@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, April 23, 2022 at 12:11:09 PM
+> Last updated: Saturday, April 23, 2022 at 6:44:42 PM
 
 > Showing 5 of 12 posts.
 
-[![PythonIsCool - Introduction](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/PythonIsCool_-_Introduction.svg)](https://dev.to/vulcanwm/pythoniscool-introduction-1bi6)
-[![Great Free CSS Course by Google 😻🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Great_Free_CSS_Course_by_Google_😻🔥.svg)](https://dev.to/rammcodes/great-free-css-course-by-google-3hb8)
-[![Why I Chose C#](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_I_Chose_C_.svg)](https://dev.to/chadwinjdeysel/why-i-chose-c-48ng)
-[![Refactoring #5: From arrays to Data Transfer Objects](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Refactoring__5__From_arrays_to_Data_Transfer_Objects.svg)](https://dev.to/genijaho/refactoring-5-from-arrays-to-data-transfer-objects-4f0l)
-[![AWS Glue - ETL Power !](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_Glue_-_ETL_Power_!.svg)](https://dev.to/manvi007/aws-glue-etl-power--1gpf)
+[![Python 101: The Ultimate Python Tutorial For Beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Python_101__The_Ultimate_Python_Tutorial_For_Beginners.svg)](https://dev.to/bochaberidaisy/python-101-the-ultimate-python-tutorial-for-beginners-f5l)
+[![while loop 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/while_loop_2.svg)](https://dev.to/jamoliddin0710/while-loop-2-lda)
+[![While loop 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/While_loop_1.svg)](https://dev.to/jamoliddin0710/while-loop-1-5gim)
+[![Software architecture and Abstraction for newbie](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Software_architecture_and_Abstraction_for_newbie.svg)](https://dev.to/vickodev/software-architecture-and-abstraction-for-newbie-3nob)
+[![Creating Swipable Item using Vanilla JS/HTML/CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_Swipable_Item_using_Vanilla_JS_HTML_CSS.svg)](https://dev.to/ksckaan1/creating-swipable-item-using-vanilla-jshtmlcss-2mfj)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, April 23, 2022 at 12:11:13 PM
+> Last updated: Saturday, April 23, 2022 at 6:44:44 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, April 23, 2022 at 12:11:19 PM
+> Last updated: Saturday, April 23, 2022 at 6:44:52 PM
 
 > Showing 5 of 30 posts.
 
