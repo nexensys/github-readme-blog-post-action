@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, April 23, 2022 at 6:44:42 PM
+> Last updated: Sunday, April 24, 2022 at 12:12:26 AM
 
 > Showing 5 of 12 posts.
 
+[![7 More Killer One-Liners in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/7_More_Killer_One-Liners_in_JavaScript.svg)](https://dev.to/ruppysuppy/7-more-killer-one-liners-in-javascript-2gf8)
+[![Introduction to Regex](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_to_Regex.svg)](https://dev.to/yohanesss/introduction-to-regex-1pmj)
+[![PostgreSQL 14: TLS Connection](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/PostgreSQL_14__TLS_Connection.svg)](https://dev.to/nabbisen/postgresql-14-tls-connection-184l)
+[![PostgreSQL 14.2 On OpenBSD 7.1: Install](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/PostgreSQL_14.2_On_OpenBSD_7.1__Install.svg)](https://dev.to/nabbisen/postgresql-142-on-openbsd-71-install-2alh)
 [![Python 101: The Ultimate Python Tutorial For Beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Python_101__The_Ultimate_Python_Tutorial_For_Beginners.svg)](https://dev.to/bochaberidaisy/python-101-the-ultimate-python-tutorial-for-beginners-f5l)
-[![while loop 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/while_loop_2.svg)](https://dev.to/jamoliddin0710/while-loop-2-lda)
-[![While loop 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/While_loop_1.svg)](https://dev.to/jamoliddin0710/while-loop-1-5gim)
-[![Software architecture and Abstraction for newbie](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Software_architecture_and_Abstraction_for_newbie.svg)](https://dev.to/vickodev/software-architecture-and-abstraction-for-newbie-3nob)
-[![Creating Swipable Item using Vanilla JS/HTML/CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_Swipable_Item_using_Vanilla_JS_HTML_CSS.svg)](https://dev.to/ksckaan1/creating-swipable-item-using-vanilla-jshtmlcss-2mfj)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, April 23, 2022 at 6:44:44 PM
+> Last updated: Sunday, April 24, 2022 at 12:12:28 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, April 23, 2022 at 6:44:52 PM
+> Last updated: Sunday, April 24, 2022 at 12:12:35 AM
 
 > Showing 5 of 30 posts.
 
