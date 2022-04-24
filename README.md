@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, April 24, 2022 at 12:12:26 AM
+> Last updated: Sunday, April 24, 2022 at 6:15:33 AM
 
 > Showing 5 of 12 posts.
 
-[![7 More Killer One-Liners in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/7_More_Killer_One-Liners_in_JavaScript.svg)](https://dev.to/ruppysuppy/7-more-killer-one-liners-in-javascript-2gf8)
-[![Introduction to Regex](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_to_Regex.svg)](https://dev.to/yohanesss/introduction-to-regex-1pmj)
-[![PostgreSQL 14: TLS Connection](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/PostgreSQL_14__TLS_Connection.svg)](https://dev.to/nabbisen/postgresql-14-tls-connection-184l)
-[![PostgreSQL 14.2 On OpenBSD 7.1: Install](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/PostgreSQL_14.2_On_OpenBSD_7.1__Install.svg)](https://dev.to/nabbisen/postgresql-142-on-openbsd-71-install-2alh)
-[![Python 101: The Ultimate Python Tutorial For Beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Python_101__The_Ultimate_Python_Tutorial_For_Beginners.svg)](https://dev.to/bochaberidaisy/python-101-the-ultimate-python-tutorial-for-beginners-f5l)
+[![THANK YOU DEV! (The power of community feedback! 💘)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/THANK_YOU_DEV!_(The_power_of_community_feedback!_💘).svg)](https://dev.to/wordsmithcloud/the-power-of-dev-community-feedback-391d)
+[![Software documentation is still relevant in certain environments](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Software_documentation_is_still_relevant_in_certain_environments.svg)](https://dev.to/robmulpeter/inspired-to-write-useful-software-documentation-2cm1)
+[![TemplatesKart | New landing page built with ChakraUI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/TemplatesKart___New_landing_page_built_with_ChakraUI.svg)](https://dev.to/m_ahmad/templateskart-new-landing-page-built-with-chakraui-1345)
+[![Cryptocurrency Exchange Software Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cryptocurrency_Exchange_Software_Development.svg)](https://dev.to/justinmichael/cryptocurrency-exchange-software-development-2kob)
+[![JSON to Table Viewer/Converter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JSON_to_Table_Viewer_Converter.svg)](https://dev.to/foxinfotech/json-to-table-viewerconverter-4423)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, April 24, 2022 at 12:12:28 AM
+> Last updated: Sunday, April 24, 2022 at 6:15:36 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, April 24, 2022 at 12:12:35 AM
+> Last updated: Sunday, April 24, 2022 at 6:15:43 AM
 
 > Showing 5 of 30 posts.
 
+[![JavaScript Closures Explained Simply](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Closures_Explained_Simply.svg)](https://www.youtube.com/watch?v=hctBPFsbSu0)
 [![A Dive into React Storybook](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/A_Dive_into_React_Storybook.svg)](https://blog.openreplay.com/a-dive-into-react-storybook)
 [![GitHub - nuxodin/dump.js: dump a javascript object](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_nuxodin_dump.js__dump_a_javascript_object.svg)](https://github.com/nuxodin/dump.js)
 [![GitHub - digaev/chainify-url: Object Oriented URL Builder](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_digaev_chainify-url__Object_Oriented_URL_Builder.svg)](https://github.com/digaev/chainify-url)
 [![Which Types Of Strategy We Can Use To Get Success For IT Recruiting?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Which_Types_Of_Strategy_We_Can_Use_To_Get_Success_For_IT_Recruiting_.svg)](https://www.scutify.com/articles/2022-04-22-which-types-of-strategy-we-can-use-to-get-success-for-it-recruiting)
-[![Release Neutralinojs v4.5.0 released! · neutralinojs/neutralinojs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Release_Neutralinojs_v4.5.0_released!_·_neutralinojs_neutralinojs.svg)](/neutralinojs/neutralinojs/releases/tag/v4.5.0)
 
 
 <!-- post-list:end -->
