@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, April 24, 2022 at 6:42:35 PM
+> Last updated: Monday, April 25, 2022 at 12:13:53 AM
 
 > Showing 5 of 12 posts.
 
-[![JavaScript arrow functions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_arrow_functions.svg)](https://dev.to/fig781/javascript-arrow-functions-43h4)
-[![Strings 💫 🌌 ✨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Strings_💫_🌌_✨.svg)](https://dev.to/gulsenkeskin/strings-4268)
-[![DOM nima va u qanday ishlaydi?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/DOM_nima_va_u_qanday_ishlaydi_.svg)](https://dev.to/dawroun/dom-nima-va-u-qanday-ishlaydi-20k0)
-[![Dart Typing 💫 🌌 ✨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dart_Typing_💫_🌌_✨.svg)](https://dev.to/gulsenkeskin/dart-typing-74k)
-[![Introducting Lightship 0.1.0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducting_Lightship_0.1.0.svg)](https://dev.to/khalyomede/introducting-lightship-010-3834)
+[![How JWT (JSON Web Token) authentication works?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_JWT_(JSON_Web_Token)_authentication_works_.svg)](https://dev.to/kcdchennai/how-jwt-json-web-token-authentication-works-21e7)
+[![Pattern program in Java](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Pattern_program_in_Java.svg)](https://dev.to/satish538/pattern-program-in-java-4l9e)
+[![All about NextJS routing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/All_about_NextJS_routing.svg)](https://dev.to/mhsadique/all-about-nextjs-routing-16e3)
+[![Creating a Free Static API using a GitHub Repository](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_a_Free_Static_API_using_a_GitHub_Repository.svg)](https://dev.to/darrian/creating-a-free-static-api-using-a-github-repository-4lf2)
+[![The Rest and the Spread operator of JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Rest_and_the_Spread_operator_of_JS.svg)](https://dev.to/umangm05/the-rest-and-the-spread-operator-of-js-8an)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, April 24, 2022 at 6:42:37 PM
+> Last updated: Monday, April 25, 2022 at 12:13:57 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, April 24, 2022 at 6:42:41 PM
+> Last updated: Monday, April 25, 2022 at 12:14:01 AM
 
 > Showing 5 of 30 posts.
 
