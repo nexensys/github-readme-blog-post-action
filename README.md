@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, April 24, 2022 at 12:11:18 PM
+> Last updated: Sunday, April 24, 2022 at 6:42:35 PM
 
 > Showing 5 of 12 posts.
 
-[![Setup Micro Frontend Application with React Js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Setup_Micro_Frontend_Application_with_React_Js.svg)](https://dev.to/shivampawar/setup-micro-frontend-application-with-react-js-m87)
-[![Elixir: Dockerizando Aplicações Phoenix 🐳](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Elixir__Dockerizando_Aplicações_Phoenix_🐳.svg)](https://dev.to/maiquitome/elixir-dockerizando-aplicacoes-phoenix-19gg)
-[![Last Write Wins - A Conflict resolution strategy](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Last_Write_Wins_-_A_Conflict_resolution_strategy.svg)](https://dev.to/dogealgo/last-write-wins-a-conflict-resolution-strategy-2al6)
-[![Introduction to Regex](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_to_Regex.svg)](https://dev.to/yohanesss/introduction-to-regex-1lej)
-[![The 4 Short Frontend tips for April](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_4_Short_Frontend_tips_for_April.svg)](https://dev.to/melnik909/the-4-short-frontend-tips-for-april-4989)
+[![JavaScript arrow functions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_arrow_functions.svg)](https://dev.to/fig781/javascript-arrow-functions-43h4)
+[![Strings 💫 🌌 ✨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Strings_💫_🌌_✨.svg)](https://dev.to/gulsenkeskin/strings-4268)
+[![DOM nima va u qanday ishlaydi?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/DOM_nima_va_u_qanday_ishlaydi_.svg)](https://dev.to/dawroun/dom-nima-va-u-qanday-ishlaydi-20k0)
+[![Dart Typing 💫 🌌 ✨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dart_Typing_💫_🌌_✨.svg)](https://dev.to/gulsenkeskin/dart-typing-74k)
+[![Introducting Lightship 0.1.0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducting_Lightship_0.1.0.svg)](https://dev.to/khalyomede/introducting-lightship-010-3834)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, April 24, 2022 at 12:11:20 PM
+> Last updated: Sunday, April 24, 2022 at 6:42:37 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, April 24, 2022 at 12:11:28 PM
+> Last updated: Sunday, April 24, 2022 at 6:42:41 PM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - vernuntii/vernuntii: Simple semantic versioning with git integration.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_vernuntii_vernuntii__Simple_semantic_versioning_with_git_integration..svg)](https://github.com/vernuntii/vernuntii)
 [![JavaScript Closures Explained Simply](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Closures_Explained_Simply.svg)](https://www.youtube.com/watch?v=hctBPFsbSu0)
 [![A Dive into React Storybook](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/A_Dive_into_React_Storybook.svg)](https://blog.openreplay.com/a-dive-into-react-storybook)
 [![GitHub - nuxodin/dump.js: dump a javascript object](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_nuxodin_dump.js__dump_a_javascript_object.svg)](https://github.com/nuxodin/dump.js)
 [![GitHub - digaev/chainify-url: Object Oriented URL Builder](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_digaev_chainify-url__Object_Oriented_URL_Builder.svg)](https://github.com/digaev/chainify-url)
-[![Which Types Of Strategy We Can Use To Get Success For IT Recruiting?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Which_Types_Of_Strategy_We_Can_Use_To_Get_Success_For_IT_Recruiting_.svg)](https://www.scutify.com/articles/2022-04-22-which-types-of-strategy-we-can-use-to-get-success-for-it-recruiting)
 
 
 <!-- post-list:end -->
