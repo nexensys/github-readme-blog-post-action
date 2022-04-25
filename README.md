@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, April 25, 2022 at 12:13:53 AM
+> Last updated: Monday, April 25, 2022 at 6:17:53 AM
 
 > Showing 5 of 12 posts.
 
-[![How JWT (JSON Web Token) authentication works?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_JWT_(JSON_Web_Token)_authentication_works_.svg)](https://dev.to/kcdchennai/how-jwt-json-web-token-authentication-works-21e7)
-[![Pattern program in Java](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Pattern_program_in_Java.svg)](https://dev.to/satish538/pattern-program-in-java-4l9e)
-[![All about NextJS routing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/All_about_NextJS_routing.svg)](https://dev.to/mhsadique/all-about-nextjs-routing-16e3)
-[![Creating a Free Static API using a GitHub Repository](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_a_Free_Static_API_using_a_GitHub_Repository.svg)](https://dev.to/darrian/creating-a-free-static-api-using-a-github-repository-4lf2)
-[![The Rest and the Spread operator of JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Rest_and_the_Spread_operator_of_JS.svg)](https://dev.to/umangm05/the-rest-and-the-spread-operator-of-js-8an)
+[![Cryptocurrency Exchange Website Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cryptocurrency_Exchange_Website_Development.svg)](https://dev.to/pedrorodri/cryptocurrency-exchange-website-development-3eha)
+[![How to create an awesome Github Profile README ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_an_awesome_Github_Profile_README__.svg)](https://dev.to/bpsmartdesign/how-to-create-an-awesome-github-profile-readme--oim)
+[![Build a Unique Domain Hosting Environment for Google Domains with AWS Amplify](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_a_Unique_Domain_Hosting_Environment_for_Google_Domains_with_AWS_Amplify.svg)](https://dev.to/aws-builders/build-a-unique-domain-hosting-environment-for-google-domains-with-aws-amplify-19jn)
+[![This Is How I Publish My Newsletter Every Week Without Fail](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/This_Is_How_I_Publish_My_Newsletter_Every_Week_Without_Fail.svg)](https://dev.to/mishacreatrix/this-is-how-i-publish-my-newsletter-every-week-without-fail-13fg)
+[![Whatsapp Clone for Android & IOS using Flutter & Python - Part 1 (Complete Tutorial)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Whatsapp_Clone_for_Android___IOS_using_Flutter___Python_-_Part_1_(Complete_Tutorial).svg)](https://dev.to/yash_makan/whatsapp-clone-for-android-ios-using-flutter-python-part-1-complete-tutorial-4in1)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, April 25, 2022 at 12:13:57 AM
+> Last updated: Monday, April 25, 2022 at 6:17:55 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, April 25, 2022 at 12:14:01 AM
+> Last updated: Monday, April 25, 2022 at 6:17:58 AM
 
 > Showing 5 of 30 posts.
 
+[![Run mrdoob/three.js with Codeit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Run_mrdoob_three.js_with_Codeit.svg)](https://codeit.codes)
 [![GitHub - vernuntii/vernuntii: Simple semantic versioning with git integration.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_vernuntii_vernuntii__Simple_semantic_versioning_with_git_integration..svg)](https://github.com/vernuntii/vernuntii)
 [![JavaScript Closures Explained Simply](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Closures_Explained_Simply.svg)](https://www.youtube.com/watch?v=hctBPFsbSu0)
 [![A Dive into React Storybook](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/A_Dive_into_React_Storybook.svg)](https://blog.openreplay.com/a-dive-into-react-storybook)
 [![GitHub - nuxodin/dump.js: dump a javascript object](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_nuxodin_dump.js__dump_a_javascript_object.svg)](https://github.com/nuxodin/dump.js)
-[![GitHub - digaev/chainify-url: Object Oriented URL Builder](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_digaev_chainify-url__Object_Oriented_URL_Builder.svg)](https://github.com/digaev/chainify-url)
 
 
 <!-- post-list:end -->
