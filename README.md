@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, April 25, 2022 at 6:17:53 AM
+> Last updated: Monday, April 25, 2022 at 12:13:27 PM
 
 > Showing 5 of 12 posts.
 
-[![Cryptocurrency Exchange Website Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cryptocurrency_Exchange_Website_Development.svg)](https://dev.to/pedrorodri/cryptocurrency-exchange-website-development-3eha)
-[![How to create an awesome Github Profile README ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_an_awesome_Github_Profile_README__.svg)](https://dev.to/bpsmartdesign/how-to-create-an-awesome-github-profile-readme--oim)
-[![Build a Unique Domain Hosting Environment for Google Domains with AWS Amplify](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_a_Unique_Domain_Hosting_Environment_for_Google_Domains_with_AWS_Amplify.svg)](https://dev.to/aws-builders/build-a-unique-domain-hosting-environment-for-google-domains-with-aws-amplify-19jn)
-[![This Is How I Publish My Newsletter Every Week Without Fail](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/This_Is_How_I_Publish_My_Newsletter_Every_Week_Without_Fail.svg)](https://dev.to/mishacreatrix/this-is-how-i-publish-my-newsletter-every-week-without-fail-13fg)
-[![Whatsapp Clone for Android & IOS using Flutter & Python - Part 1 (Complete Tutorial)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Whatsapp_Clone_for_Android___IOS_using_Flutter___Python_-_Part_1_(Complete_Tutorial).svg)](https://dev.to/yash_makan/whatsapp-clone-for-android-ios-using-flutter-python-part-1-complete-tutorial-4in1)
+[![Freela Web, First and most important steps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Freela_Web__First_and_most_important_steps.svg)](https://dev.to/freelaweb/freela-web-first-and-most-important-steps-1oca)
+[![Spring Transaction Debugging in Production with Lightrun](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Spring_Transaction_Debugging_in_Production_with_Lightrun.svg)](https://dev.to/codenameone/spring-transaction-debugging-in-production-with-lightrun-jl4)
+[![Automatically Send Invoices With WhatsApp](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Automatically_Send_Invoices_With_WhatsApp.svg)](https://dev.to/freshbooks/automatically-send-invoices-with-whatsapp-fii)
+[![How web browsers work - parsing the HTML (part 3, with illustrations)📜🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_web_browsers_work_-_parsing_the_HTML_(part_3__with_illustrations)📜🔥.svg)](https://dev.to/arikaturika/how-web-browsers-work-parsing-the-html-part-3-with-illustrations-45fi)
+[![Please, help The UX&a11y tips to grow 🙏](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Please__help_The_UX_a11y_tips_to_grow_🙏.svg)](https://dev.to/melnik909/please-help-the-uxa11y-tips-to-grow-216m)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, April 25, 2022 at 6:17:55 AM
+> Last updated: Monday, April 25, 2022 at 12:13:30 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, April 25, 2022 at 6:17:58 AM
+> Last updated: Monday, April 25, 2022 at 12:13:33 PM
 
 > Showing 5 of 30 posts.
 
