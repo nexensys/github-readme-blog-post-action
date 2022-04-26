@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, April 25, 2022 at 12:13:27 PM
+> Last updated: Monday, April 25, 2022 at 6:51:10 PM
 
 > Showing 5 of 12 posts.
 
-[![Freela Web, First and most important steps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Freela_Web__First_and_most_important_steps.svg)](https://dev.to/freelaweb/freela-web-first-and-most-important-steps-1oca)
-[![Spring Transaction Debugging in Production with Lightrun](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Spring_Transaction_Debugging_in_Production_with_Lightrun.svg)](https://dev.to/codenameone/spring-transaction-debugging-in-production-with-lightrun-jl4)
-[![Automatically Send Invoices With WhatsApp](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Automatically_Send_Invoices_With_WhatsApp.svg)](https://dev.to/freshbooks/automatically-send-invoices-with-whatsapp-fii)
-[![How web browsers work - parsing the HTML (part 3, with illustrations)📜🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_web_browsers_work_-_parsing_the_HTML_(part_3__with_illustrations)📜🔥.svg)](https://dev.to/arikaturika/how-web-browsers-work-parsing-the-html-part-3-with-illustrations-45fi)
-[![Please, help The UX&a11y tips to grow 🙏](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Please__help_The_UX_a11y_tips_to_grow_🙏.svg)](https://dev.to/melnik909/please-help-the-uxa11y-tips-to-grow-216m)
+[![Um terminal funcional e de respeito](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Um_terminal_funcional_e_de_respeito.svg)](https://dev.to/deverebor/um-terminal-funcional-e-de-respeito-7jf)
+[![Criando um envio de newsletter com AWS SNS e Nodejs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Criando_um_envio_de_newsletter_com_AWS_SNS_e_Nodejs.svg)](https://dev.to/feministech/criando-um-envio-de-newsletter-com-aws-sns-e-nodejs-4a2a)
+[![Acionamento do motor de acordo com a hora.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Acionamento_do_motor_de_acordo_com_a_hora..svg)](https://dev.to/henriquebros/acionamento-do-motor-de-acordo-com-a-hora-3co3)
+[!["There's a Dashboard for That" New Open Source Template for Bug Tracking](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_There's_a_Dashboard_for_That__New_Open_Source_Template_for_Bug_Tracking.svg)](https://dev.to/maximwheatley/theres-a-dashboard-for-that-new-open-source-template-for-bug-tracking-5cpb)
+[![Converse antes de tirar conclusões.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Converse_antes_de_tirar_conclusões..svg)](https://dev.to/biosbug/converse-antes-de-tirar-conclusoes-4op8)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, April 25, 2022 at 12:13:30 PM
+> Last updated: Monday, April 25, 2022 at 6:51:12 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, April 25, 2022 at 12:13:33 PM
+> Last updated: Monday, April 25, 2022 at 6:51:17 PM
 
 > Showing 5 of 30 posts.
 
+[![Build a Lightweight Web Component with Lit.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_a_Lightweight_Web_Component_with_Lit.js.svg)](https://blog.openreplay.com/build-a-lightweight-web-component-with-lit-js)
+[![JavaScript testing #11. Spying on functions. Pitfalls of not resetting Jest mocks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_testing__11._Spying_on_functions._Pitfalls_of_not_resetting_Jest_mocks.svg)](http://wanago.io/2022/04/25/javascript-testing-spying-on-functions-resetting-jest-mocks/)
 [![Run mrdoob/three.js with Codeit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Run_mrdoob_three.js_with_Codeit.svg)](https://codeit.codes)
 [![GitHub - vernuntii/vernuntii: Simple semantic versioning with git integration.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_vernuntii_vernuntii__Simple_semantic_versioning_with_git_integration..svg)](https://github.com/vernuntii/vernuntii)
 [![JavaScript Closures Explained Simply](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Closures_Explained_Simply.svg)](https://www.youtube.com/watch?v=hctBPFsbSu0)
-[![A Dive into React Storybook](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/A_Dive_into_React_Storybook.svg)](https://blog.openreplay.com/a-dive-into-react-storybook)
-[![GitHub - nuxodin/dump.js: dump a javascript object](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_nuxodin_dump.js__dump_a_javascript_object.svg)](https://github.com/nuxodin/dump.js)
 
 
 <!-- post-list:end -->
