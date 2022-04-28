@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, April 27, 2022 at 7:06:10 PM
+> Last updated: Thursday, April 28, 2022 at 12:15:12 AM
 
 > Showing 5 of 12 posts.
 
-[![Nesneye Yönelik (Object-Orientated) Dil Özellikleri 💫 🌌 ✨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Nesneye_Yönelik_(Object-Orientated)_Dil_Özellikleri_💫_🌌_✨.svg)](https://dev.to/gulsenkeskin/nesneye-yonelik-object-orientated-dil-ozellikleri-2lkd)
-[![FLiP-Py-Pi-GasThermal: Building an IoT Edge Application with Apache Pulsar and Python for TVOC and CO2 Ingest](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/FLiP-Py-Pi-GasThermal__Building_an_IoT_Edge_Application_with_Apache_Pulsar_and_Python_for_TVOC_and_CO2_Ingest.svg)](https://dev.to/tspannhw/flip-py-pi-gasthermal-building-an-iot-edge-application-with-apache-pulsar-and-python-for-tvoc-and-co2-ingest-1gdo)
-[![Accessing localhost application over the internet - with Ngrok](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Accessing_localhost_application_over_the_internet_-_with_Ngrok.svg)](https://dev.to/omoyemi/accessing-localhost-application-over-the-internet-with-ngrok-ljh)
-[![How to prepare for SC-400 Exam ?.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_prepare_for_SC-400_Exam__..svg)](https://dev.to/makendrang/how-to-prepare-for-sc-400-exam--3ipo)
-[![Do you Prototype before coding?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Do_you_Prototype_before_coding_.svg)](https://dev.to/efraimjer/do-you-prototype-before-coding-24l8)
+[![Humor is a great way to discover and enjoy programming so I built ProgrammerHumor.io](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Humor_is_a_great_way_to_discover_and_enjoy_programming_so_I_built_ProgrammerHumor.io.svg)](https://dev.to/prgrmmrhumor_io/humor-is-a-great-way-to-discover-and-enjoy-programming-so-i-built-programmerhumorio-g76)
+[![Using AWS Lambda Function URL to build a Serverless backend for Slack](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_AWS_Lambda_Function_URL_to_build_a_Serverless_backend_for_Slack.svg)](https://dev.to/aws/using-aws-lambda-function-url-to-build-a-serverless-backend-for-slack-3j73)
+[![Can a twitter bot get 1,000 followers in 100 days? A challenge to myself and this community](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Can_a_twitter_bot_get_1_000_followers_in_100_days__A_challenge_to_myself_and_this_community.svg)](https://dev.to/dhravya/can-a-twitter-bot-get-1000-followers-in-100-days-a-challenge-to-myself-and-this-community-358n)
+[![{Insert Hacktoberfest 2021-Related Title Here}](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/{Insert_Hacktoberfest_2021-Related_Title_Here}.svg)](https://dev.to/bungfut/insert-hacktoberfest-2021-related-title-here-5h1o)
+[![Cartoon Filter Using OpenCV and Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cartoon_Filter_Using_OpenCV_and_Python.svg)](https://dev.to/ethand91/cartoon-filter-using-opencv-and-python-3nj5)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, April 27, 2022 at 7:06:13 PM
+> Last updated: Thursday, April 28, 2022 at 12:15:16 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, April 27, 2022 at 7:06:16 PM
+> Last updated: Thursday, April 28, 2022 at 12:15:18 AM
 
 > Showing 5 of 30 posts.
 
+[![How to make a Bootstrap 5 theme: typography](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_make_a_Bootstrap_5_theme__typography.svg)](https://adropincalm.com/blog/how-to-make-a-bootstrap-5-theme-typography/)
 [![tsocket - expose localhost to internet | tsocket - Share local site to internet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/tsocket_-_expose_localhost_to_internet___tsocket_-_Share_local_site_to_internet.svg)](https://www.metered.ca/tools/tsocket/)
 [![Building a Video Chat App with Next.js, 100ms, and TailwindCSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_a_Video_Chat_App_with_Next.js__100ms__and_TailwindCSS.svg)](https://blog.openreplay.com/building-a-video-chat-app-with-next-js-100ms-and-tailwindcss)
 [![Pnpm and Nx monorepo. Part 1 | Javier Brea](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Pnpm_and_Nx_monorepo._Part_1___Javier_Brea.svg)](
 https://www.javierbrea.com/blog/pnpm-nx-monorepo-01/
 )
 [![GitHub - p-chan/react-adobe-fonts: A React library to use Adobe Fonts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_p-chan_react-adobe-fonts__A_React_library_to_use_Adobe_Fonts.svg)](https://github.com/p-chan/react-adobe-fonts)
-[![Episode 8 - Data Oriented Programming with Yehonathan Sharvit - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_8_-_Data_Oriented_Programming_with_Yehonathan_Sharvit_-_20minJS.svg)](https://podcast.20minjs.com/1952066/10498331-episode-8-data-oriented-programming-with-yehonathan-sharvit)
 
 
 <!-- post-list:end -->
