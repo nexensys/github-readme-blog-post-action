@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, April 28, 2022 at 6:18:22 AM
+> Last updated: Thursday, April 28, 2022 at 12:13:46 PM
 
 > Showing 5 of 12 posts.
 
-[![My Frequently Used git Commands](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_Frequently_Used_git_Commands.svg)](https://dev.to/rohithv07/my-frequently-used-git-commands-3g1h)
-[![Every developer should be aware of the following GitHub repositories.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Every_developer_should_be_aware_of_the_following_GitHub_repositories..svg)](https://dev.to/annoh_karlgusta/every-developer-should-be-aware-of-the-following-github-repositories-4hmg)
-[![Unleash the power of bookmarklets](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unleash_the_power_of_bookmarklets.svg)](https://dev.to/amirhe/unleash-the-power-of-bookmarklets-4397)
-[![Variables](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Variables.svg)](https://dev.to/diamondkhan/variables-4pch)
-[![Java Interview - abstract](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Java_Interview_-_abstract.svg)](https://dev.to/yigi/java-interview-abstract-1e32)
+[![Listen to DevNews S8E3: Elon Musk’s Twitter Takeover, Security Vulnerabilities in Web3, & more!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Listen_to_DevNews_S8E3__Elon_Musk’s_Twitter_Takeover__Security_Vulnerabilities_in_Web3____more!.svg)](https://dev.to/levisharpe/listen-to-devnews-s8e3-elon-musks-twitter-takeover-security-vulnerabilities-in-web3-more-1h7c)
+[![[Desafio] - API com Rate Limit - HTTP 429](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/[Desafio]_-_API_com_Rate_Limit_-_HTTP_429.svg)](https://dev.to/zanfranceschi/desafio-api-com-rate-limit-http-429-a53)
+[![AWS Badges y como obtenerlas](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_Badges_y_como_obtenerlas.svg)](https://dev.to/davidshaek/aws-badges-y-como-obtenerlas-47n6)
+[![Find files and directories in CLI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Find_files_and_directories_in_CLI.svg)](https://dev.to/baransel/find-files-and-directories-in-cli-1m58)
+[![JavaScript has a problem with decimals](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_has_a_problem_with_decimals.svg)](https://dev.to/nicozerpa/javascript-has-a-problem-with-decimals-5dj8)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, April 28, 2022 at 6:18:25 AM
+> Last updated: Thursday, April 28, 2022 at 12:13:48 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,21 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, April 28, 2022 at 6:18:27 AM
+> Last updated: Thursday, April 28, 2022 at 12:13:51 PM
 
 > Showing 5 of 30 posts.
 
+[![Building a Next.js Dashboard with Dynamic Charts and SSR - Cube Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_a_Next.js_Dashboard_with_Dynamic_Charts_and_SSR_-_Cube_Blog.svg)](https://cube.dev/blog/building-nextjs-dashboard-with-dynamic-charts-and-ssr)
+[![Flanets](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Flanets.svg)](https://flanets.io)
+[![Pnpm and Nx monorepo. Part 2 | Javier Brea](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Pnpm_and_Nx_monorepo._Part_2___Javier_Brea.svg)](
+https://www.javierbrea.com/blog/pnpm-nx-monorepo-02/
+)
 [![How we Use Design Tokens in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_we_Use_Design_Tokens_in_React.svg)](https://blog.bitsrc.io/how-we-use-design-tokens-in-react-5396dd897ace)
 [![CSS Snippets - 30 seconds of code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/CSS_Snippets_-_30_seconds_of_code.svg)](
 https://www.30secondsofcode.org/css/p/1
 )
-[![
-Treat your users right with HTTP Cache and Segmented Rendering
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Treat_your_users_right_with_HTTP_Cache_and_Segmented_Rendering_.svg)](
-https://medium.com/me/stats/post/7a4f4761b549
-)
-[![6 Lessons Learned from Using Playwright for UI Tests - Yonatan Kra](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/6_Lessons_Learned_from_Using_Playwright_for_UI_Tests_-_Yonatan_Kra.svg)](https://yonatankra.com/6-lessons-learned-from-using-playwright/)
-[![How to make a Bootstrap 5 theme: typography](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_make_a_Bootstrap_5_theme__typography.svg)](https://adropincalm.com/blog/how-to-make-a-bootstrap-5-theme-typography/)
 
 
 <!-- post-list:end -->
