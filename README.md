@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, April 25, 2022 at 6:51:10 PM
+> Last updated: Wednesday, April 27, 2022 at 7:06:10 PM
 
 > Showing 5 of 12 posts.
 
-[![Um terminal funcional e de respeito](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Um_terminal_funcional_e_de_respeito.svg)](https://dev.to/deverebor/um-terminal-funcional-e-de-respeito-7jf)
-[![Criando um envio de newsletter com AWS SNS e Nodejs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Criando_um_envio_de_newsletter_com_AWS_SNS_e_Nodejs.svg)](https://dev.to/feministech/criando-um-envio-de-newsletter-com-aws-sns-e-nodejs-4a2a)
-[![Acionamento do motor de acordo com a hora.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Acionamento_do_motor_de_acordo_com_a_hora..svg)](https://dev.to/henriquebros/acionamento-do-motor-de-acordo-com-a-hora-3co3)
-[!["There's a Dashboard for That" New Open Source Template for Bug Tracking](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_There's_a_Dashboard_for_That__New_Open_Source_Template_for_Bug_Tracking.svg)](https://dev.to/maximwheatley/theres-a-dashboard-for-that-new-open-source-template-for-bug-tracking-5cpb)
-[![Converse antes de tirar conclusões.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Converse_antes_de_tirar_conclusões..svg)](https://dev.to/biosbug/converse-antes-de-tirar-conclusoes-4op8)
+[![Nesneye Yönelik (Object-Orientated) Dil Özellikleri 💫 🌌 ✨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Nesneye_Yönelik_(Object-Orientated)_Dil_Özellikleri_💫_🌌_✨.svg)](https://dev.to/gulsenkeskin/nesneye-yonelik-object-orientated-dil-ozellikleri-2lkd)
+[![FLiP-Py-Pi-GasThermal: Building an IoT Edge Application with Apache Pulsar and Python for TVOC and CO2 Ingest](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/FLiP-Py-Pi-GasThermal__Building_an_IoT_Edge_Application_with_Apache_Pulsar_and_Python_for_TVOC_and_CO2_Ingest.svg)](https://dev.to/tspannhw/flip-py-pi-gasthermal-building-an-iot-edge-application-with-apache-pulsar-and-python-for-tvoc-and-co2-ingest-1gdo)
+[![Accessing localhost application over the internet - with Ngrok](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Accessing_localhost_application_over_the_internet_-_with_Ngrok.svg)](https://dev.to/omoyemi/accessing-localhost-application-over-the-internet-with-ngrok-ljh)
+[![How to prepare for SC-400 Exam ?.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_prepare_for_SC-400_Exam__..svg)](https://dev.to/makendrang/how-to-prepare-for-sc-400-exam--3ipo)
+[![Do you Prototype before coding?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Do_you_Prototype_before_coding_.svg)](https://dev.to/efraimjer/do-you-prototype-before-coding-24l8)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, April 25, 2022 at 6:51:12 PM
+> Last updated: Wednesday, April 27, 2022 at 7:06:13 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, April 25, 2022 at 6:51:17 PM
+> Last updated: Wednesday, April 27, 2022 at 7:06:16 PM
 
 > Showing 5 of 30 posts.
 
-[![Build a Lightweight Web Component with Lit.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_a_Lightweight_Web_Component_with_Lit.js.svg)](https://blog.openreplay.com/build-a-lightweight-web-component-with-lit-js)
-[![JavaScript testing #11. Spying on functions. Pitfalls of not resetting Jest mocks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_testing__11._Spying_on_functions._Pitfalls_of_not_resetting_Jest_mocks.svg)](http://wanago.io/2022/04/25/javascript-testing-spying-on-functions-resetting-jest-mocks/)
-[![Run mrdoob/three.js with Codeit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Run_mrdoob_three.js_with_Codeit.svg)](https://codeit.codes)
-[![GitHub - vernuntii/vernuntii: Simple semantic versioning with git integration.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_vernuntii_vernuntii__Simple_semantic_versioning_with_git_integration..svg)](https://github.com/vernuntii/vernuntii)
-[![JavaScript Closures Explained Simply](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Closures_Explained_Simply.svg)](https://www.youtube.com/watch?v=hctBPFsbSu0)
+[![tsocket - expose localhost to internet | tsocket - Share local site to internet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/tsocket_-_expose_localhost_to_internet___tsocket_-_Share_local_site_to_internet.svg)](https://www.metered.ca/tools/tsocket/)
+[![Building a Video Chat App with Next.js, 100ms, and TailwindCSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_a_Video_Chat_App_with_Next.js__100ms__and_TailwindCSS.svg)](https://blog.openreplay.com/building-a-video-chat-app-with-next-js-100ms-and-tailwindcss)
+[![Pnpm and Nx monorepo. Part 1 | Javier Brea](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Pnpm_and_Nx_monorepo._Part_1___Javier_Brea.svg)](
+https://www.javierbrea.com/blog/pnpm-nx-monorepo-01/
+)
+[![GitHub - p-chan/react-adobe-fonts: A React library to use Adobe Fonts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_p-chan_react-adobe-fonts__A_React_library_to_use_Adobe_Fonts.svg)](https://github.com/p-chan/react-adobe-fonts)
+[![Episode 8 - Data Oriented Programming with Yehonathan Sharvit - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_8_-_Data_Oriented_Programming_with_Yehonathan_Sharvit_-_20minJS.svg)](https://podcast.20minjs.com/1952066/10498331-episode-8-data-oriented-programming-with-yehonathan-sharvit)
 
 
 <!-- post-list:end -->
