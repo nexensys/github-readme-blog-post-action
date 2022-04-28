@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, April 28, 2022 at 12:15:12 AM
+> Last updated: Thursday, April 28, 2022 at 6:18:22 AM
 
 > Showing 5 of 12 posts.
 
-[![Humor is a great way to discover and enjoy programming so I built ProgrammerHumor.io](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Humor_is_a_great_way_to_discover_and_enjoy_programming_so_I_built_ProgrammerHumor.io.svg)](https://dev.to/prgrmmrhumor_io/humor-is-a-great-way-to-discover-and-enjoy-programming-so-i-built-programmerhumorio-g76)
-[![Using AWS Lambda Function URL to build a Serverless backend for Slack](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_AWS_Lambda_Function_URL_to_build_a_Serverless_backend_for_Slack.svg)](https://dev.to/aws/using-aws-lambda-function-url-to-build-a-serverless-backend-for-slack-3j73)
-[![Can a twitter bot get 1,000 followers in 100 days? A challenge to myself and this community](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Can_a_twitter_bot_get_1_000_followers_in_100_days__A_challenge_to_myself_and_this_community.svg)](https://dev.to/dhravya/can-a-twitter-bot-get-1000-followers-in-100-days-a-challenge-to-myself-and-this-community-358n)
-[![{Insert Hacktoberfest 2021-Related Title Here}](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/{Insert_Hacktoberfest_2021-Related_Title_Here}.svg)](https://dev.to/bungfut/insert-hacktoberfest-2021-related-title-here-5h1o)
-[![Cartoon Filter Using OpenCV and Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cartoon_Filter_Using_OpenCV_and_Python.svg)](https://dev.to/ethand91/cartoon-filter-using-opencv-and-python-3nj5)
+[![My Frequently Used git Commands](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_Frequently_Used_git_Commands.svg)](https://dev.to/rohithv07/my-frequently-used-git-commands-3g1h)
+[![Every developer should be aware of the following GitHub repositories.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Every_developer_should_be_aware_of_the_following_GitHub_repositories..svg)](https://dev.to/annoh_karlgusta/every-developer-should-be-aware-of-the-following-github-repositories-4hmg)
+[![Unleash the power of bookmarklets](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unleash_the_power_of_bookmarklets.svg)](https://dev.to/amirhe/unleash-the-power-of-bookmarklets-4397)
+[![Variables](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Variables.svg)](https://dev.to/diamondkhan/variables-4pch)
+[![Java Interview - abstract](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Java_Interview_-_abstract.svg)](https://dev.to/yigi/java-interview-abstract-1e32)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, April 28, 2022 at 12:15:16 AM
+> Last updated: Thursday, April 28, 2022 at 6:18:25 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,21 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, April 28, 2022 at 12:15:18 AM
+> Last updated: Thursday, April 28, 2022 at 6:18:27 AM
 
 > Showing 5 of 30 posts.
 
-[![How to make a Bootstrap 5 theme: typography](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_make_a_Bootstrap_5_theme__typography.svg)](https://adropincalm.com/blog/how-to-make-a-bootstrap-5-theme-typography/)
-[![tsocket - expose localhost to internet | tsocket - Share local site to internet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/tsocket_-_expose_localhost_to_internet___tsocket_-_Share_local_site_to_internet.svg)](https://www.metered.ca/tools/tsocket/)
-[![Building a Video Chat App with Next.js, 100ms, and TailwindCSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_a_Video_Chat_App_with_Next.js__100ms__and_TailwindCSS.svg)](https://blog.openreplay.com/building-a-video-chat-app-with-next-js-100ms-and-tailwindcss)
-[![Pnpm and Nx monorepo. Part 1 | Javier Brea](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Pnpm_and_Nx_monorepo._Part_1___Javier_Brea.svg)](
-https://www.javierbrea.com/blog/pnpm-nx-monorepo-01/
+[![How we Use Design Tokens in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_we_Use_Design_Tokens_in_React.svg)](https://blog.bitsrc.io/how-we-use-design-tokens-in-react-5396dd897ace)
+[![CSS Snippets - 30 seconds of code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/CSS_Snippets_-_30_seconds_of_code.svg)](
+https://www.30secondsofcode.org/css/p/1
 )
-[![GitHub - p-chan/react-adobe-fonts: A React library to use Adobe Fonts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_p-chan_react-adobe-fonts__A_React_library_to_use_Adobe_Fonts.svg)](https://github.com/p-chan/react-adobe-fonts)
+[![
+Treat your users right with HTTP Cache and Segmented Rendering
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Treat_your_users_right_with_HTTP_Cache_and_Segmented_Rendering_.svg)](
+https://medium.com/me/stats/post/7a4f4761b549
+)
+[![6 Lessons Learned from Using Playwright for UI Tests - Yonatan Kra](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/6_Lessons_Learned_from_Using_Playwright_for_UI_Tests_-_Yonatan_Kra.svg)](https://yonatankra.com/6-lessons-learned-from-using-playwright/)
+[![How to make a Bootstrap 5 theme: typography](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_make_a_Bootstrap_5_theme__typography.svg)](https://adropincalm.com/blog/how-to-make-a-bootstrap-5-theme-typography/)
 
 
 <!-- post-list:end -->
