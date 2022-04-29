@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, April 28, 2022 at 6:49:46 PM
+> Last updated: Friday, April 29, 2022 at 12:13:07 AM
 
 > Showing 5 of 12 posts.
 
+[![A better way to work with URLs using vueUse useFetch() + useUrl()](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_better_way_to_work_with_URLs_using_vueUse_useFetch()_+_useUrl().svg)](https://dev.to/rainxh11/a-better-way-to-work-with-urls-using-vueuse-usefetch-useurl-4309)
+[![Rethink your Licensing Strategy with NetLicensing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Rethink_your_Licensing_Strategy_with_NetLicensing.svg)](https://dev.to/netlicensing/rethink-your-licensing-strategy-with-netlicensing-4gjb)
+[![A Git cheat sheet – $get git](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Git_cheat_sheet_–_$get_git.svg)](https://dev.to/aws-builders/a-git-cheat-sheet-get-git-2jm3)
+[![How to prepare for AZ-900 Exam ?.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_prepare_for_AZ-900_Exam__..svg)](https://dev.to/makendrang/how-to-prepare-for-az-900-exam--3ggi)
 [![Deploying web application on CI/CD Pipeline using Heroku and GitHub Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deploying_web_application_on_CI_CD_Pipeline_using_Heroku_and_GitHub_Actions.svg)](https://dev.to/kavishsanghvi/deploying-web-application-on-cicd-pipeline-using-heroku-and-github-actions-714)
-[![Programming HORROR Stories](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Programming_HORROR_Stories.svg)](https://dev.to/burkeholland/programming-horror-stories-21m)
-[![April 28th, 2022: What did you learn this week?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/April_28th__2022__What_did_you_learn_this_week_.svg)](https://dev.to/nickytonline/april-28th-2022-what-did-you-learn-this-week-3ha7)
-[![Discussion and Comment of the Week - v2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Discussion_and_Comment_of_the_Week_-_v2.svg)](https://dev.to/devteam/discussion-and-comment-of-the-week-v2-137)
-[![Using counters in CSS to number elements automatically](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_counters_in_CSS_to_number_elements_automatically.svg)](https://dev.to/saranshk/using-counters-in-css-to-number-elements-automatically-18e)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, April 28, 2022 at 6:49:49 PM
+> Last updated: Friday, April 29, 2022 at 12:13:10 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, April 28, 2022 at 6:52:02 PM
+> Last updated: Friday, April 29, 2022 at 12:13:13 AM
 
 > Showing 5 of 30 posts.
 
@@ -53,9 +53,7 @@ https://masteringjs.io/tutorials/mongoose/find-certain-fields
 )
 [![Building a Next.js Dashboard with Dynamic Charts and SSR - Cube Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_a_Next.js_Dashboard_with_Dynamic_Charts_and_SSR_-_Cube_Blog.svg)](https://cube.dev/blog/building-nextjs-dashboard-with-dynamic-charts-and-ssr)
 [![Flanets](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Flanets.svg)](https://flanets.io)
-[![
-Building a Node.js monorepo with Pnpm and Nx
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Building_a_Node.js_monorepo_with_Pnpm_and_Nx_.svg)](
+[![Pnpm and Nx monorepo. Part 2 | Javier Brea](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Pnpm_and_Nx_monorepo._Part_2___Javier_Brea.svg)](
 https://www.javierbrea.com/blog/pnpm-nx-monorepo-02/
 )
 
