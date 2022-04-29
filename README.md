@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, April 29, 2022 at 6:17:51 AM
+> Last updated: Friday, April 29, 2022 at 12:12:50 PM
 
 > Showing 5 of 12 posts.
 
-[![Password show/hide button using vanilla JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Password_show_hide_button_using_vanilla_JS.svg)](https://dev.to/devrohit0/password-showhide-button-using-vanilla-js-27ai)
-[![A Simple Introduction To Java - Object Oriented Programming - Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Simple_Introduction_To_Java_-_Object_Oriented_Programming_-_Part_1.svg)](https://dev.to/otumianempire/a-simple-introduction-to-java-object-oriented-programming-part-1-60k)
-[![How to Convince Your Dev Team that Cloud Cost Management is Important?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Convince_Your_Dev_Team_that_Cloud_Cost_Management_is_Important_.svg)](https://dev.to/castai/how-to-convince-your-dev-team-that-cloud-cost-management-is-important-kl4)
-[![Monitor and troubleshoot Consul with Prometheus](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Monitor_and_troubleshoot_Consul_with_Prometheus.svg)](https://dev.to/eckelon/monitor-and-troubleshoot-consul-with-prometheus-2pkf)
-[![Console.time() and Console.timeEnd()](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Console.time()_and_Console.timeEnd().svg)](https://dev.to/ashwani3011/consoletime-and-consoletimeend-4p3f)
+[![What was your win this week?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_was_your_win_this_week_.svg)](https://dev.to/devteam/what-was-your-win-this-week-2ke8)
+[![Hacking The Appwrite Hackathon](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Hacking_The_Appwrite_Hackathon.svg)](https://dev.to/appwrite/hacking-the-appwrite-hackathon-28lc)
+[![OpenAPI Editor - Free IN-Browser Developer Tool](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/OpenAPI_Editor_-_Free_IN-Browser_Developer_Tool.svg)](https://dev.to/sm0ke/openapi-editor-free-in-browser-developer-tool-2jee)
+[![How to dynamically change collection in from client side ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_dynamically_change_collection_in_from_client_side__.svg)](https://dev.to/ivkemilioner/how-to-dynamically-change-collection-in-from-client-side--5oa)
+[![Negative interactions are infrequent but highly visible, with consequences for project activity](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Negative_interactions_are_infrequent_but_highly_visible__with_consequences_for_project_activity.svg)](https://dev.to/luos/negative-interactions-are-infrequent-but-highly-visible-with-consequences-for-project-activity-52f7)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, April 29, 2022 at 6:17:54 AM
+> Last updated: Friday, April 29, 2022 at 12:12:54 PM
 
 > Showing 4 of 4 posts.
 
+[![Let's build a JavaScript bundler](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Let's_build_a_JavaScript_bundler.svg)](https://javascriptweekly.com/issues/587)
 [![Node.js 18, WebAssembly 2.0, and Ember 4.3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Node.js_18__WebAssembly_2.0__and_Ember_4.3.svg)](https://javascriptweekly.com/issues/586)
 [![On function composition in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/On_function_composition_in_JavaScript.svg)](https://javascriptweekly.com/issues/585)
 [![Format JavaScript as the Romans do?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Format_JavaScript_as_the_Romans_do_.svg)](https://javascriptweekly.com/issues/584)
-[![Time to get decorating](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Time_to_get_decorating.svg)](https://javascriptweekly.com/issues/583)
 
 
 ## Echo JS
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, April 29, 2022 at 6:17:57 AM
+> Last updated: Friday, April 29, 2022 at 12:12:56 PM
 
 > Showing 5 of 30 posts.
 
