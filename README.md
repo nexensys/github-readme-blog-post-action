@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, April 28, 2022 at 12:13:46 PM
+> Last updated: Thursday, April 28, 2022 at 6:49:46 PM
 
 > Showing 5 of 12 posts.
 
-[![Listen to DevNews S8E3: Elon Musk’s Twitter Takeover, Security Vulnerabilities in Web3, & more!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Listen_to_DevNews_S8E3__Elon_Musk’s_Twitter_Takeover__Security_Vulnerabilities_in_Web3____more!.svg)](https://dev.to/levisharpe/listen-to-devnews-s8e3-elon-musks-twitter-takeover-security-vulnerabilities-in-web3-more-1h7c)
-[![[Desafio] - API com Rate Limit - HTTP 429](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/[Desafio]_-_API_com_Rate_Limit_-_HTTP_429.svg)](https://dev.to/zanfranceschi/desafio-api-com-rate-limit-http-429-a53)
-[![AWS Badges y como obtenerlas](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_Badges_y_como_obtenerlas.svg)](https://dev.to/davidshaek/aws-badges-y-como-obtenerlas-47n6)
-[![Find files and directories in CLI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Find_files_and_directories_in_CLI.svg)](https://dev.to/baransel/find-files-and-directories-in-cli-1m58)
-[![JavaScript has a problem with decimals](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_has_a_problem_with_decimals.svg)](https://dev.to/nicozerpa/javascript-has-a-problem-with-decimals-5dj8)
+[![Deploying web application on CI/CD Pipeline using Heroku and GitHub Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deploying_web_application_on_CI_CD_Pipeline_using_Heroku_and_GitHub_Actions.svg)](https://dev.to/kavishsanghvi/deploying-web-application-on-cicd-pipeline-using-heroku-and-github-actions-714)
+[![Programming HORROR Stories](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Programming_HORROR_Stories.svg)](https://dev.to/burkeholland/programming-horror-stories-21m)
+[![April 28th, 2022: What did you learn this week?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/April_28th__2022__What_did_you_learn_this_week_.svg)](https://dev.to/nickytonline/april-28th-2022-what-did-you-learn-this-week-3ha7)
+[![Discussion and Comment of the Week - v2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Discussion_and_Comment_of_the_Week_-_v2.svg)](https://dev.to/devteam/discussion-and-comment-of-the-week-v2-137)
+[![Using counters in CSS to number elements automatically](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_counters_in_CSS_to_number_elements_automatically.svg)](https://dev.to/saranshk/using-counters-in-css-to-number-elements-automatically-18e)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, April 28, 2022 at 12:13:48 PM
+> Last updated: Thursday, April 28, 2022 at 6:49:49 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,18 +43,20 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, April 28, 2022 at 12:13:51 PM
+> Last updated: Thursday, April 28, 2022 at 6:52:02 PM
 
 > Showing 5 of 30 posts.
 
+[![ReSvelte- A Svelte Developer Tool and Component Tree Visualizer (VS Code Extension)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/ReSvelte-_A_Svelte_Developer_Tool_and_Component_Tree_Visualizer_(VS_Code_Extension).svg)](https://medium.com/@hoon.park97/resvelte-a-svelte-developer-tool-and-component-tree-visualizer-vs-code-extension-20e39ddc13a0)
+[![Mongoose find() Certain Fields](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Mongoose_find()_Certain_Fields.svg)](
+https://masteringjs.io/tutorials/mongoose/find-certain-fields
+)
 [![Building a Next.js Dashboard with Dynamic Charts and SSR - Cube Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_a_Next.js_Dashboard_with_Dynamic_Charts_and_SSR_-_Cube_Blog.svg)](https://cube.dev/blog/building-nextjs-dashboard-with-dynamic-charts-and-ssr)
 [![Flanets](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Flanets.svg)](https://flanets.io)
-[![Pnpm and Nx monorepo. Part 2 | Javier Brea](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Pnpm_and_Nx_monorepo._Part_2___Javier_Brea.svg)](
+[![
+Building a Node.js monorepo with Pnpm and Nx
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Building_a_Node.js_monorepo_with_Pnpm_and_Nx_.svg)](
 https://www.javierbrea.com/blog/pnpm-nx-monorepo-02/
-)
-[![How we Use Design Tokens in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_we_Use_Design_Tokens_in_React.svg)](https://blog.bitsrc.io/how-we-use-design-tokens-in-react-5396dd897ace)
-[![CSS Snippets - 30 seconds of code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/CSS_Snippets_-_30_seconds_of_code.svg)](
-https://www.30secondsofcode.org/css/p/1
 )
 
 
