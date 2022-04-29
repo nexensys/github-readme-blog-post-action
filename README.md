@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, April 29, 2022 at 12:13:07 AM
+> Last updated: Friday, April 29, 2022 at 6:17:51 AM
 
 > Showing 5 of 12 posts.
 
-[![A better way to work with URLs using vueUse useFetch() + useUrl()](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_better_way_to_work_with_URLs_using_vueUse_useFetch()_+_useUrl().svg)](https://dev.to/rainxh11/a-better-way-to-work-with-urls-using-vueuse-usefetch-useurl-4309)
-[![Rethink your Licensing Strategy with NetLicensing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Rethink_your_Licensing_Strategy_with_NetLicensing.svg)](https://dev.to/netlicensing/rethink-your-licensing-strategy-with-netlicensing-4gjb)
-[![A Git cheat sheet – $get git](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Git_cheat_sheet_–_$get_git.svg)](https://dev.to/aws-builders/a-git-cheat-sheet-get-git-2jm3)
-[![How to prepare for AZ-900 Exam ?.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_prepare_for_AZ-900_Exam__..svg)](https://dev.to/makendrang/how-to-prepare-for-az-900-exam--3ggi)
-[![Deploying web application on CI/CD Pipeline using Heroku and GitHub Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deploying_web_application_on_CI_CD_Pipeline_using_Heroku_and_GitHub_Actions.svg)](https://dev.to/kavishsanghvi/deploying-web-application-on-cicd-pipeline-using-heroku-and-github-actions-714)
+[![Password show/hide button using vanilla JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Password_show_hide_button_using_vanilla_JS.svg)](https://dev.to/devrohit0/password-showhide-button-using-vanilla-js-27ai)
+[![A Simple Introduction To Java - Object Oriented Programming - Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Simple_Introduction_To_Java_-_Object_Oriented_Programming_-_Part_1.svg)](https://dev.to/otumianempire/a-simple-introduction-to-java-object-oriented-programming-part-1-60k)
+[![How to Convince Your Dev Team that Cloud Cost Management is Important?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Convince_Your_Dev_Team_that_Cloud_Cost_Management_is_Important_.svg)](https://dev.to/castai/how-to-convince-your-dev-team-that-cloud-cost-management-is-important-kl4)
+[![Monitor and troubleshoot Consul with Prometheus](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Monitor_and_troubleshoot_Consul_with_Prometheus.svg)](https://dev.to/eckelon/monitor-and-troubleshoot-consul-with-prometheus-2pkf)
+[![Console.time() and Console.timeEnd()](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Console.time()_and_Console.timeEnd().svg)](https://dev.to/ashwani3011/consoletime-and-consoletimeend-4p3f)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, April 29, 2022 at 12:13:10 AM
+> Last updated: Friday, April 29, 2022 at 6:17:54 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, April 29, 2022 at 12:13:13 AM
+> Last updated: Friday, April 29, 2022 at 6:17:57 AM
 
 > Showing 5 of 30 posts.
 
+[![Fetching data in Redux using RTK Query](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Fetching_data_in_Redux_using_RTK_Query.svg)](https://blog.openreplay.com/fetching-data-in-redux-using-rtk-query)
 [![ReSvelte- A Svelte Developer Tool and Component Tree Visualizer (VS Code Extension)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/ReSvelte-_A_Svelte_Developer_Tool_and_Component_Tree_Visualizer_(VS_Code_Extension).svg)](https://medium.com/@hoon.park97/resvelte-a-svelte-developer-tool-and-component-tree-visualizer-vs-code-extension-20e39ddc13a0)
 [![Mongoose find() Certain Fields](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Mongoose_find()_Certain_Fields.svg)](
 https://masteringjs.io/tutorials/mongoose/find-certain-fields
 )
 [![Building a Next.js Dashboard with Dynamic Charts and SSR - Cube Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_a_Next.js_Dashboard_with_Dynamic_Charts_and_SSR_-_Cube_Blog.svg)](https://cube.dev/blog/building-nextjs-dashboard-with-dynamic-charts-and-ssr)
 [![Flanets](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Flanets.svg)](https://flanets.io)
-[![Pnpm and Nx monorepo. Part 2 | Javier Brea](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Pnpm_and_Nx_monorepo._Part_2___Javier_Brea.svg)](
-https://www.javierbrea.com/blog/pnpm-nx-monorepo-02/
-)
 
 
 <!-- post-list:end -->
