@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, April 30, 2022 at 6:15:53 AM
+> Last updated: Saturday, April 30, 2022 at 12:11:51 PM
 
 > Showing 5 of 12 posts.
 
-[![Appwrite Community Report #4](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Appwrite_Community_Report__4.svg)](https://dev.to/appwrite/appwrite-community-report-4-5cg8)
-[![The Chatbot Part 1 : Behind the curtains of NLP](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Chatbot_Part_1___Behind_the_curtains_of_NLP.svg)](https://dev.to/jdprabasha/the-chatbot-part-1-behind-the-curtains-of-nlp-e9d)
-[![The MongoDB CRUD Database Operations🍃](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_MongoDB_CRUD_Database_Operations🍃.svg)](https://dev.to/kithminiii/the-mongodb-crud-database-operations-999)
-[![My Journey towards Full-Stack 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_Journey_towards_Full-Stack_🚀.svg)](https://dev.to/gulshanaggarwal/my-journey-towards-full-stack-58kb)
-[![🚀 Angular 13 + ESLint, Material + Transloco + Jest, TestCafe + Docker + Prettier 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🚀_Angular_13_+_ESLint__Material_+_Transloco_+_Jest__TestCafe_+_Docker_+_Prettier_🚀.svg)](https://dev.to/wlucha/angular-13-eslint-material-transloco-jest-testcafe-docker-prettier-30be)
+[![Detecting Fake News with Python and Machine Learning.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Detecting_Fake_News_with_Python_and_Machine_Learning..svg)](https://dev.to/jasonomondi/detecting-fake-news-with-python-and-machine-learning-d8c)
+[![plusOne Array of Integers in Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/plusOne_Array_of_Integers_in_Javascript.svg)](https://dev.to/urstrulyvishwak/plusone-array-of-integers-in-javascript-1ln5)
+[![maxSubArraySum in Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/maxSubArraySum_in_Javascript.svg)](https://dev.to/urstrulyvishwak/maxsubarraysum-in-javascript-5138)
+[![The design concept of an almighty Opensource project about machine learning platform](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_design_concept_of_an_almighty_Opensource_project_about_machine_learning_platform.svg)](https://dev.to/qazmkop/the-design-concept-of-an-almighty-opensource-project-about-machine-learning-platform-46p)
+[![Getting started with Git and Github](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_started_with_Git_and_Github.svg)](https://dev.to/mbugua70/getting-started-with-git-and-github-3mg)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, April 30, 2022 at 6:15:56 AM
+> Last updated: Saturday, April 30, 2022 at 12:11:54 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, April 30, 2022 at 6:15:59 AM
+> Last updated: Saturday, April 30, 2022 at 12:12:00 PM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - samdenty/git-icons: Mac CLI that adds folder icons to your local repos](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_samdenty_git-icons__Mac_CLI_that_adds_folder_icons_to_your_local_repos.svg)](https://github.com/samdenty/git-icons)
+[![How we employed the new ECMAScript Module Support in typescript - Yonatan Kra](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_we_employed_the_new_ECMAScript_Module_Support_in_typescript_-_Yonatan_Kra.svg)](https://yonatankra.com/how-to-use-the-new-ecmascript-module-in-typescript/)
 [![Top ReactJS Developer Tools in 2022-23 [React Dev Tools] - OpenXcell](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Top_ReactJS_Developer_Tools_in_2022-23_[React_Dev_Tools]_-_OpenXcell.svg)](https://www.openxcell.com/blog/reactjs-developer-tools/)
 [![GitHub - wlucha/angular-starter: Angular 13 Starter with Storybook, Transloco, Jest, TestCafe, Docker, ESLint, Material & Prettier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_wlucha_angular-starter__Angular_13_Starter_with_Storybook__Transloco__Jest__TestCafe__Docker__ESLint__Material___Prettier.svg)](https://github.com/wlucha/angular-starter)
 [![Fetching data in Redux using RTK Query](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Fetching_data_in_Redux_using_RTK_Query.svg)](https://blog.openreplay.com/fetching-data-in-redux-using-rtk-query)
-[![ReSvelte- A Svelte Developer Tool and Component Tree Visualizer (VS Code Extension)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/ReSvelte-_A_Svelte_Developer_Tool_and_Component_Tree_Visualizer_(VS_Code_Extension).svg)](https://medium.com/@hoon.park97/resvelte-a-svelte-developer-tool-and-component-tree-visualizer-vs-code-extension-20e39ddc13a0)
-[![Mongoose find() Certain Fields](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Mongoose_find()_Certain_Fields.svg)](
-https://masteringjs.io/tutorials/mongoose/find-certain-fields
-)
 
 
 <!-- post-list:end -->
