@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, April 30, 2022 at 12:12:20 AM
+> Last updated: Saturday, April 30, 2022 at 6:15:53 AM
 
 > Showing 5 of 12 posts.
 
-[![How to publish a package to npm](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_publish_a_package_to_npm.svg)](https://dev.to/mohsenkamrani/how-to-publish-a-package-to-npm-1n8a)
-[![Making a blog with Directus, MDX, and Next.js On-Demand ISR](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Making_a_blog_with_Directus__MDX__and_Next.js_On-Demand_ISR.svg)](https://dev.to/anishde12020/making-a-blog-with-directus-mdx-and-nextjs-on-demand-isr-4k3g)
-[![Upgrading from Angular 8 to 13](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Upgrading_from_Angular_8_to_13.svg)](https://dev.to/windmateus/upgrading-from-angular-8-to-13-2lj1)
-[![OIDC Authentication for Express Apps with Asgardeo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/OIDC_Authentication_for_Express_Apps_with_Asgardeo.svg)](https://dev.to/suvink/oidc-authentication-for-express-apps-with-asgardeo-5gbe)
-[![Curve Fitting: An explain of key concepts of machine learning](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Curve_Fitting__An_explain_of_key_concepts_of_machine_learning.svg)](https://dev.to/rlrocha/curve-fitting-an-explain-of-key-concepts-of-machine-learning-ia2)
+[![Appwrite Community Report #4](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Appwrite_Community_Report__4.svg)](https://dev.to/appwrite/appwrite-community-report-4-5cg8)
+[![The Chatbot Part 1 : Behind the curtains of NLP](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Chatbot_Part_1___Behind_the_curtains_of_NLP.svg)](https://dev.to/jdprabasha/the-chatbot-part-1-behind-the-curtains-of-nlp-e9d)
+[![The MongoDB CRUD Database Operations🍃](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_MongoDB_CRUD_Database_Operations🍃.svg)](https://dev.to/kithminiii/the-mongodb-crud-database-operations-999)
+[![My Journey towards Full-Stack 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_Journey_towards_Full-Stack_🚀.svg)](https://dev.to/gulshanaggarwal/my-journey-towards-full-stack-58kb)
+[![🚀 Angular 13 + ESLint, Material + Transloco + Jest, TestCafe + Docker + Prettier 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🚀_Angular_13_+_ESLint__Material_+_Transloco_+_Jest__TestCafe_+_Docker_+_Prettier_🚀.svg)](https://dev.to/wlucha/angular-13-eslint-material-transloco-jest-testcafe-docker-prettier-30be)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, April 30, 2022 at 12:12:24 AM
+> Last updated: Saturday, April 30, 2022 at 6:15:56 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, April 30, 2022 at 12:12:28 AM
+> Last updated: Saturday, April 30, 2022 at 6:15:59 AM
 
 > Showing 5 of 30 posts.
 
+[![Top ReactJS Developer Tools in 2022-23 [React Dev Tools] - OpenXcell](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Top_ReactJS_Developer_Tools_in_2022-23_[React_Dev_Tools]_-_OpenXcell.svg)](https://www.openxcell.com/blog/reactjs-developer-tools/)
+[![GitHub - wlucha/angular-starter: Angular 13 Starter with Storybook, Transloco, Jest, TestCafe, Docker, ESLint, Material & Prettier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_wlucha_angular-starter__Angular_13_Starter_with_Storybook__Transloco__Jest__TestCafe__Docker__ESLint__Material___Prettier.svg)](https://github.com/wlucha/angular-starter)
 [![Fetching data in Redux using RTK Query](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Fetching_data_in_Redux_using_RTK_Query.svg)](https://blog.openreplay.com/fetching-data-in-redux-using-rtk-query)
 [![ReSvelte- A Svelte Developer Tool and Component Tree Visualizer (VS Code Extension)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/ReSvelte-_A_Svelte_Developer_Tool_and_Component_Tree_Visualizer_(VS_Code_Extension).svg)](https://medium.com/@hoon.park97/resvelte-a-svelte-developer-tool-and-component-tree-visualizer-vs-code-extension-20e39ddc13a0)
 [![Mongoose find() Certain Fields](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Mongoose_find()_Certain_Fields.svg)](
 https://masteringjs.io/tutorials/mongoose/find-certain-fields
 )
-[![Building a Next.js Dashboard with Dynamic Charts and SSR - Cube Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_a_Next.js_Dashboard_with_Dynamic_Charts_and_SSR_-_Cube_Blog.svg)](https://cube.dev/blog/building-nextjs-dashboard-with-dynamic-charts-and-ssr)
-[![Flanets](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Flanets.svg)](https://flanets.io)
 
 
 <!-- post-list:end -->
