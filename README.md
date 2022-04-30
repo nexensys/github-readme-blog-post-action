@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, April 29, 2022 at 6:55:08 PM
+> Last updated: Saturday, April 30, 2022 at 12:12:20 AM
 
 > Showing 5 of 12 posts.
 
-[![JavaScript really needs a way to load local files. . .](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_really_needs_a_way_to_load_local_files._._..svg)](https://dev.to/baenencalin/javascript-really-needs-a-way-to-load-local-files--2akl)
-[![The best keyboard I ever had for coding - Revisited](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_best_keyboard_I_ever_had_for_coding_-_Revisited.svg)](https://dev.to/joelbonetr/the-best-keyboard-i-ever-had-for-coding-revisited-dic)
-[![Using Local Storage for Remembering User Visits](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_Local_Storage_for_Remembering_User_Visits.svg)](https://dev.to/riapacheco/using-local-storage-for-remembering-user-visits-coe)
-[![Help me become a Google Cloud customer, earn <!-- post-list:start -->0.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Help_me_become_a_Google_Cloud_customer__earn_<!-- post-list:start -->0..svg)](https://dev.to/thorstenhirsch/help-me-become-a-google-cloud-customer-earn-10-2n31)
-[![Appwrite Hackathon Reminder ⏰](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Appwrite_Hackathon_Reminder_⏰.svg)](https://dev.to/devteam/appwrite-hackathon-reminder-53ga)
+[![How to publish a package to npm](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_publish_a_package_to_npm.svg)](https://dev.to/mohsenkamrani/how-to-publish-a-package-to-npm-1n8a)
+[![Making a blog with Directus, MDX, and Next.js On-Demand ISR](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Making_a_blog_with_Directus__MDX__and_Next.js_On-Demand_ISR.svg)](https://dev.to/anishde12020/making-a-blog-with-directus-mdx-and-nextjs-on-demand-isr-4k3g)
+[![Upgrading from Angular 8 to 13](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Upgrading_from_Angular_8_to_13.svg)](https://dev.to/windmateus/upgrading-from-angular-8-to-13-2lj1)
+[![OIDC Authentication for Express Apps with Asgardeo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/OIDC_Authentication_for_Express_Apps_with_Asgardeo.svg)](https://dev.to/suvink/oidc-authentication-for-express-apps-with-asgardeo-5gbe)
+[![Curve Fitting: An explain of key concepts of machine learning](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Curve_Fitting__An_explain_of_key_concepts_of_machine_learning.svg)](https://dev.to/rlrocha/curve-fitting-an-explain-of-key-concepts-of-machine-learning-ia2)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, April 29, 2022 at 6:55:12 PM
+> Last updated: Saturday, April 30, 2022 at 12:12:24 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, April 29, 2022 at 6:55:15 PM
+> Last updated: Saturday, April 30, 2022 at 12:12:28 AM
 
 > Showing 5 of 30 posts.
 
