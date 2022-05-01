@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, May 1, 2022 at 12:12:23 AM
+> Last updated: Sunday, May 1, 2022 at 6:16:59 AM
 
 > Showing 5 of 12 posts.
 
-[![Top JavaScript Tips](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_JavaScript_Tips.svg)](https://dev.to/jagroop2000/top-javascript-tips-2613)
-[![Project showcase: Country Currency Information Search](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Project_showcase__Country_Currency_Information_Search.svg)](https://dev.to/fig781/project-showcase-country-currency-information-search-1pcj)
-[![Batching in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Batching_in_React.svg)](https://dev.to/shivamjjha/batching-in-react-4pp3)
-[![🤡 AWS CDK 101 - 🤾‍♂ Using layers in Lambda functions and saving JSON to S3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🤡_AWS_CDK_101_-_🤾‍♂_Using_layers_in_Lambda_functions_and_saving_JSON_to_S3.svg)](https://dev.to/aravindvcyber/aws-cdk-101-using-layers-in-lambda-functions-and-saving-json-to-s3-46fg)
-[![Basic Guide in Estimating Project Size by Using Story Points](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Basic_Guide_in_Estimating_Project_Size_by_Using_Story_Points.svg)](https://dev.to/thegreytangent/basic-guide-in-estimating-project-size-by-using-story-points-1k5g)
+[![Cuidado com esse código no Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cuidado_com_esse_código_no_Javascript.svg)](https://dev.to/magoacademico/cuidado-com-esse-codigo-no-javascript-fab)
+[![Amazing Python Programs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Amazing_Python_Programs.svg)](https://dev.to/codewithsom/amazing-python-programs-110)
+[![Watery : A water delivery solution android app](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Watery___A_water_delivery_solution_android_app.svg)](https://dev.to/joysankar2001/watery-a-water-delivery-solution-android-app-3ep9)
+[![Music game](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Music_game.svg)](https://dev.to/vulcanwm/music-game-20in)
+[![[DevBook Social Medial App build with flutter and appwrite ]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/[DevBook_Social_Medial_App_build_with_flutter_and_appwrite_].svg)](https://dev.to/b14cknc0d3/devbook-social-medial-app-build-with-flutter-and-appwrite--14jo)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, May 1, 2022 at 12:12:25 AM
+> Last updated: Sunday, May 1, 2022 at 6:17:02 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, May 1, 2022 at 12:12:29 AM
+> Last updated: Sunday, May 1, 2022 at 6:17:07 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - dflex-js/dflex at echojs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_dflex-js_dflex_at_echojs.svg)](https://github.com/dflex-js/dflex)
 [![GitHub - samdenty/git-icons: Mac App/CLI that adds folder icons to your repos](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_samdenty_git-icons__Mac_App_CLI_that_adds_folder_icons_to_your_repos.svg)](https://github.com/samdenty/git-icons)
 [![How we employed the new ECMAScript Module Support in typescript - Yonatan Kra](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_we_employed_the_new_ECMAScript_Module_Support_in_typescript_-_Yonatan_Kra.svg)](https://yonatankra.com/how-to-use-the-new-ecmascript-module-in-typescript/)
 [![Top ReactJS Developer Tools in 2022-23 [React Dev Tools] - OpenXcell](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Top_ReactJS_Developer_Tools_in_2022-23_[React_Dev_Tools]_-_OpenXcell.svg)](https://www.openxcell.com/blog/reactjs-developer-tools/)
 [![GitHub - wlucha/angular-starter: Angular 13 Starter with Storybook, Transloco, Jest, TestCafe, Docker, ESLint, Material & Prettier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_wlucha_angular-starter__Angular_13_Starter_with_Storybook__Transloco__Jest__TestCafe__Docker__ESLint__Material___Prettier.svg)](https://github.com/wlucha/angular-starter)
-[![Fetching data in Redux using RTK Query](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Fetching_data_in_Redux_using_RTK_Query.svg)](https://blog.openreplay.com/fetching-data-in-redux-using-rtk-query)
 
 
 <!-- post-list:end -->
