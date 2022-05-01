@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, April 30, 2022 at 12:11:51 PM
+> Last updated: Saturday, April 30, 2022 at 7:00:52 PM
 
 > Showing 5 of 12 posts.
 
-[![Detecting Fake News with Python and Machine Learning.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Detecting_Fake_News_with_Python_and_Machine_Learning..svg)](https://dev.to/jasonomondi/detecting-fake-news-with-python-and-machine-learning-d8c)
-[![plusOne Array of Integers in Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/plusOne_Array_of_Integers_in_Javascript.svg)](https://dev.to/urstrulyvishwak/plusone-array-of-integers-in-javascript-1ln5)
-[![maxSubArraySum in Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/maxSubArraySum_in_Javascript.svg)](https://dev.to/urstrulyvishwak/maxsubarraysum-in-javascript-5138)
-[![The design concept of an almighty Opensource project about machine learning platform](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_design_concept_of_an_almighty_Opensource_project_about_machine_learning_platform.svg)](https://dev.to/qazmkop/the-design-concept-of-an-almighty-opensource-project-about-machine-learning-platform-46p)
-[![Getting started with Git and Github](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_started_with_Git_and_Github.svg)](https://dev.to/mbugua70/getting-started-with-git-and-github-3mg)
+[![Building an URL Shortener with Github Actions, Serverless Framework, and AWS Function Urls](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_an_URL_Shortener_with_Github_Actions__Serverless_Framework__and_AWS_Function_Urls.svg)](https://dev.to/davidshaek/building-an-url-shortener-with-github-actions-serverless-framework-and-aws-function-urls-468f)
+[![What's the point of programming contests?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What's_the_point_of_programming_contests_.svg)](https://dev.to/westernal/whats-the-point-of-programming-contests-10ag)
+[![Css Grid](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Css_Grid.svg)](https://dev.to/priest24/css-grid-3eeg)
+[![Get DEV.to Articles Using DEV API - The Missing Piece of Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Get_DEV.to_Articles_Using_DEV_API_-_The_Missing_Piece_of_Code.svg)](https://dev.to/tmchuynh/get-devto-articles-using-dev-api-4oag)
+[![What is the greatest achievement you have made in your life?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_the_greatest_achievement_you_have_made_in_your_life_.svg)](https://dev.to/elsa/what-achievement-do-you-think-you-have-made-in-your-life-4n6p)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, April 30, 2022 at 12:11:54 PM
+> Last updated: Saturday, April 30, 2022 at 7:00:54 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,11 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, April 30, 2022 at 12:12:00 PM
+> Last updated: Saturday, April 30, 2022 at 7:00:58 PM
 
 > Showing 5 of 30 posts.
 
-[![GitHub - samdenty/git-icons: Mac CLI that adds folder icons to your local repos](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_samdenty_git-icons__Mac_CLI_that_adds_folder_icons_to_your_local_repos.svg)](https://github.com/samdenty/git-icons)
+[![GitHub - samdenty/git-icons: Mac App/CLI that adds folder icons to your repos](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_samdenty_git-icons__Mac_App_CLI_that_adds_folder_icons_to_your_repos.svg)](https://github.com/samdenty/git-icons)
 [![How we employed the new ECMAScript Module Support in typescript - Yonatan Kra](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_we_employed_the_new_ECMAScript_Module_Support_in_typescript_-_Yonatan_Kra.svg)](https://yonatankra.com/how-to-use-the-new-ecmascript-module-in-typescript/)
 [![Top ReactJS Developer Tools in 2022-23 [React Dev Tools] - OpenXcell](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Top_ReactJS_Developer_Tools_in_2022-23_[React_Dev_Tools]_-_OpenXcell.svg)](https://www.openxcell.com/blog/reactjs-developer-tools/)
 [![GitHub - wlucha/angular-starter: Angular 13 Starter with Storybook, Transloco, Jest, TestCafe, Docker, ESLint, Material & Prettier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_wlucha_angular-starter__Angular_13_Starter_with_Storybook__Transloco__Jest__TestCafe__Docker__ESLint__Material___Prettier.svg)](https://github.com/wlucha/angular-starter)
