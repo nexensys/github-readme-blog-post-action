@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, May 1, 2022 at 6:16:59 AM
+> Last updated: Sunday, May 1, 2022 at 12:11:21 PM
 
 > Showing 5 of 12 posts.
 
-[![Cuidado com esse código no Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cuidado_com_esse_código_no_Javascript.svg)](https://dev.to/magoacademico/cuidado-com-esse-codigo-no-javascript-fab)
-[![Amazing Python Programs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Amazing_Python_Programs.svg)](https://dev.to/codewithsom/amazing-python-programs-110)
-[![Watery : A water delivery solution android app](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Watery___A_water_delivery_solution_android_app.svg)](https://dev.to/joysankar2001/watery-a-water-delivery-solution-android-app-3ep9)
-[![Music game](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Music_game.svg)](https://dev.to/vulcanwm/music-game-20in)
-[![[DevBook Social Medial App build with flutter and appwrite ]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/[DevBook_Social_Medial_App_build_with_flutter_and_appwrite_].svg)](https://dev.to/b14cknc0d3/devbook-social-medial-app-build-with-flutter-and-appwrite--14jo)
+[![How to avoid AWS unintentional charges ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_avoid_AWS_unintentional_charges__.svg)](https://dev.to/aws-builders/how-to-avoid-aws-unintentional-charges--3dam)
+[![Getting Started with Serverless and AWS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_Started_with_Serverless_and_AWS.svg)](https://dev.to/jaytparekh7121994/getting-started-with-serverless-and-aws-365e)
+[![Set up ESLint, Prettier and Husky in a React project | a step by step guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Set_up_ESLint__Prettier_and_Husky_in_a_React_project___a_step_by_step_guide.svg)](https://dev.to/yvad60/setup-eslint-prettier-and-husky-in-a-node-project-a-step-by-step-guide-946)
+[![Mongo shell commands to get you through the day](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mongo_shell_commands_to_get_you_through_the_day.svg)](https://dev.to/benmatselby/mongo-shell-commands-to-get-you-through-the-day-56n0)
+[![What is vector search engine?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_vector_search_engine_.svg)](https://dev.to/asmit2952/what-are-vector-search-engines-3lp1)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, May 1, 2022 at 6:17:02 AM
+> Last updated: Sunday, May 1, 2022 at 12:11:25 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, May 1, 2022 at 6:17:07 AM
+> Last updated: Sunday, May 1, 2022 at 12:11:30 PM
 
 > Showing 5 of 30 posts.
 
