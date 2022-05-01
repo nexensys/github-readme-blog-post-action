@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, April 30, 2022 at 7:00:52 PM
+> Last updated: Sunday, May 1, 2022 at 12:12:23 AM
 
 > Showing 5 of 12 posts.
 
-[![Building an URL Shortener with Github Actions, Serverless Framework, and AWS Function Urls](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_an_URL_Shortener_with_Github_Actions__Serverless_Framework__and_AWS_Function_Urls.svg)](https://dev.to/davidshaek/building-an-url-shortener-with-github-actions-serverless-framework-and-aws-function-urls-468f)
-[![What's the point of programming contests?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What's_the_point_of_programming_contests_.svg)](https://dev.to/westernal/whats-the-point-of-programming-contests-10ag)
-[![Css Grid](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Css_Grid.svg)](https://dev.to/priest24/css-grid-3eeg)
-[![Get DEV.to Articles Using DEV API - The Missing Piece of Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Get_DEV.to_Articles_Using_DEV_API_-_The_Missing_Piece_of_Code.svg)](https://dev.to/tmchuynh/get-devto-articles-using-dev-api-4oag)
-[![What is the greatest achievement you have made in your life?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_the_greatest_achievement_you_have_made_in_your_life_.svg)](https://dev.to/elsa/what-achievement-do-you-think-you-have-made-in-your-life-4n6p)
+[![Top JavaScript Tips](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_JavaScript_Tips.svg)](https://dev.to/jagroop2000/top-javascript-tips-2613)
+[![Project showcase: Country Currency Information Search](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Project_showcase__Country_Currency_Information_Search.svg)](https://dev.to/fig781/project-showcase-country-currency-information-search-1pcj)
+[![Batching in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Batching_in_React.svg)](https://dev.to/shivamjjha/batching-in-react-4pp3)
+[![🤡 AWS CDK 101 - 🤾‍♂ Using layers in Lambda functions and saving JSON to S3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🤡_AWS_CDK_101_-_🤾‍♂_Using_layers_in_Lambda_functions_and_saving_JSON_to_S3.svg)](https://dev.to/aravindvcyber/aws-cdk-101-using-layers-in-lambda-functions-and-saving-json-to-s3-46fg)
+[![Basic Guide in Estimating Project Size by Using Story Points](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Basic_Guide_in_Estimating_Project_Size_by_Using_Story_Points.svg)](https://dev.to/thegreytangent/basic-guide-in-estimating-project-size-by-using-story-points-1k5g)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, April 30, 2022 at 7:00:54 PM
+> Last updated: Sunday, May 1, 2022 at 12:12:25 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, April 30, 2022 at 7:00:58 PM
+> Last updated: Sunday, May 1, 2022 at 12:12:29 AM
 
 > Showing 5 of 30 posts.
 
