@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, May 1, 2022 at 6:50:12 PM
+> Last updated: Monday, May 2, 2022 at 12:13:11 AM
 
 > Showing 5 of 12 posts.
 
-[![Getting hired as a software engineer in Poland vs UK](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_hired_as_a_software_engineer_in_Poland_vs_UK.svg)](https://dev.to/beetlehope/getting-hired-as-a-software-engineer-in-poland-vs-uk-5bae)
-[![Design Patterns in Typescript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Design_Patterns_in_Typescript.svg)](https://dev.to/triyanox/design-patterns-in-typescript-e68)
-[![How to Utilize Vercel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Utilize_Vercel.svg)](https://dev.to/sparvero12/how-to-utilize-vercel-5a8l)
-[![Rapid Goal Setting; Making Flexible Changes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Rapid_Goal_Setting;_Making_Flexible_Changes.svg)](https://dev.to/haleyelder/rapid-goal-setting-making-flexible-changes-35i0)
-[![5 CSS properties you don't know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_CSS_properties_you_don't_know.svg)](https://dev.to/justice_hub/5-css-properties-you-dont-know-2ilp)
+[![90% of software engineering is integrating janky APIs, and I love it](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/90__of_software_engineering_is_integrating_janky_APIs__and_I_love_it.svg)](https://dev.to/wesen/90-of-software-engineering-is-integrating-janky-apis-and-i-love-it-4k41)
+[![How to make a CLI based movie scrapper using NodeJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_make_a_CLI_based_movie_scrapper_using_NodeJS.svg)](https://dev.to/raptorcentauri/how-to-make-a-cli-based-movie-scrapper-using-nodejs-1252)
+[![22 JavaScript Canvas Filters (Just like Instagram) #SmartHack](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/22_JavaScript_Canvas_Filters_(Just_like_Instagram)__SmartHack.svg)](https://dev.to/vipertechofficial/22-javascript-canvas-filters-just-like-instagram-smarthack-55b)
+[![Block3 Project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Block3_Project.svg)](https://dev.to/mateolafalce/block3-project-1fa8)
+[![Svelte: Labeled Statements](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Svelte__Labeled_Statements.svg)](https://dev.to/aryakris/svelte-labeled-statements-1c6n)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, May 1, 2022 at 6:50:16 PM
+> Last updated: Monday, May 2, 2022 at 12:13:14 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, May 1, 2022 at 6:50:24 PM
+> Last updated: Monday, May 2, 2022 at 12:13:18 AM
 
 > Showing 5 of 30 posts.
 
