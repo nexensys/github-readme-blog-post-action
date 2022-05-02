@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, May 2, 2022 at 12:13:11 AM
+> Last updated: Monday, May 2, 2022 at 6:18:35 AM
 
 > Showing 5 of 12 posts.
 
-[![90% of software engineering is integrating janky APIs, and I love it](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/90__of_software_engineering_is_integrating_janky_APIs__and_I_love_it.svg)](https://dev.to/wesen/90-of-software-engineering-is-integrating-janky-apis-and-i-love-it-4k41)
-[![How to make a CLI based movie scrapper using NodeJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_make_a_CLI_based_movie_scrapper_using_NodeJS.svg)](https://dev.to/raptorcentauri/how-to-make-a-cli-based-movie-scrapper-using-nodejs-1252)
-[![22 JavaScript Canvas Filters (Just like Instagram) #SmartHack](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/22_JavaScript_Canvas_Filters_(Just_like_Instagram)__SmartHack.svg)](https://dev.to/vipertechofficial/22-javascript-canvas-filters-just-like-instagram-smarthack-55b)
-[![Block3 Project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Block3_Project.svg)](https://dev.to/mateolafalce/block3-project-1fa8)
-[![Svelte: Labeled Statements](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Svelte__Labeled_Statements.svg)](https://dev.to/aryakris/svelte-labeled-statements-1c6n)
+[![How I Use Polywork As a Student](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_I_Use_Polywork_As_a_Student.svg)](https://dev.to/vibalijoshi/how-i-use-polywork-as-a-student-37mb)
+[![PHP Array: A Gross Mistake](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/PHP_Array__A_Gross_Mistake.svg)](https://dev.to/xedinunknown/php-array-a-gross-mistake-3np4)
+[![Graph Algorithm - Cycle Detection in Directed Graph using DFS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Graph_Algorithm_-_Cycle_Detection_in_Directed_Graph_using_DFS.svg)](https://dev.to/rohithv07/graph-algorithm-cycle-detection-in-directed-graph-using-dfs-4bl5)
+[![A Guide to Understanding Vue Lifecycle Hooks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Guide_to_Understanding_Vue_Lifecycle_Hooks.svg)](https://dev.to/smpnjn/a-guide-to-understanding-vue-lifecycle-hooks-kdl)
+[![I made a game in two days](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_made_a_game_in_two_days.svg)](https://dev.to/dumboprogrammer/i-made-a-game-in-two-days-45e3)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, May 2, 2022 at 12:13:14 AM
+> Last updated: Monday, May 2, 2022 at 6:18:39 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, May 2, 2022 at 12:13:18 AM
+> Last updated: Monday, May 2, 2022 at 6:18:44 AM
 
 > Showing 5 of 30 posts.
 
+[![Learn Wordpress by searching the wpUniverse](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Learn_Wordpress_by_searching_the_wpUniverse.svg)](https://wpuniverse.online/)
 [![GitHub - dflex-js/dflex at echojs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_dflex-js_dflex_at_echojs.svg)](https://github.com/dflex-js/dflex)
 [![How we employed the new ECMAScript Module Support in typescript - Yonatan Kra](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_we_employed_the_new_ECMAScript_Module_Support_in_typescript_-_Yonatan_Kra.svg)](https://yonatankra.com/how-to-use-the-new-ecmascript-module-in-typescript/)
 [![Top ReactJS Developer Tools in 2022-23 [React Dev Tools] - OpenXcell](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Top_ReactJS_Developer_Tools_in_2022-23_[React_Dev_Tools]_-_OpenXcell.svg)](https://www.openxcell.com/blog/reactjs-developer-tools/)
 [![GitHub - wlucha/angular-starter: Angular 13 Starter with Storybook, Transloco, Jest, TestCafe, Docker, ESLint, Material & Prettier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_wlucha_angular-starter__Angular_13_Starter_with_Storybook__Transloco__Jest__TestCafe__Docker__ESLint__Material___Prettier.svg)](https://github.com/wlucha/angular-starter)
-[![Fetching data in Redux using RTK Query](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Fetching_data_in_Redux_using_RTK_Query.svg)](https://blog.openreplay.com/fetching-data-in-redux-using-rtk-query)
 
 
 <!-- post-list:end -->
