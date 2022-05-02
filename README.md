@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, May 2, 2022 at 6:18:35 AM
+> Last updated: Monday, May 2, 2022 at 12:12:18 PM
 
 > Showing 5 of 12 posts.
 
-[![How I Use Polywork As a Student](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_I_Use_Polywork_As_a_Student.svg)](https://dev.to/vibalijoshi/how-i-use-polywork-as-a-student-37mb)
-[![PHP Array: A Gross Mistake](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/PHP_Array__A_Gross_Mistake.svg)](https://dev.to/xedinunknown/php-array-a-gross-mistake-3np4)
-[![Graph Algorithm - Cycle Detection in Directed Graph using DFS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Graph_Algorithm_-_Cycle_Detection_in_Directed_Graph_using_DFS.svg)](https://dev.to/rohithv07/graph-algorithm-cycle-detection-in-directed-graph-using-dfs-4bl5)
-[![A Guide to Understanding Vue Lifecycle Hooks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Guide_to_Understanding_Vue_Lifecycle_Hooks.svg)](https://dev.to/smpnjn/a-guide-to-understanding-vue-lifecycle-hooks-kdl)
-[![I made a game in two days](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_made_a_game_in_two_days.svg)](https://dev.to/dumboprogrammer/i-made-a-game-in-two-days-45e3)
+[![Lunes de música... ¿Qué estás escuchando? 🎵](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Lunes_de_música..._¿Qué_estás_escuchando__🎵.svg)](https://dev.to/duxtech/lunes-de-musica-que-estas-escuchando-2jcm)
+[![thin.dev: Realtime-by-default BaaS (Backend-as-a-Service)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/thin.dev__Realtime-by-default_BaaS_(Backend-as-a-Service).svg)](https://dev.to/digitallyinduced/thindev-realtime-by-default-baas-backend-as-a-service-32po)
+[![Why Is OSS Good For The World?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_Is_OSS_Good_For_The_World_.svg)](https://dev.to/appwrite/why-is-oss-good-for-the-world-4pn3)
+[![How to Avoid React Context Trap](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Avoid_React_Context_Trap.svg)](https://dev.to/perssondennis/how-to-avoid-react-context-trap-1705)
+[![Changelog #0015 — 🐑 Duplicating collections and more](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Changelog__0015_—_🐑_Duplicating_collections_and_more.svg)](https://dev.to/pie/changelog-0015-duplicating-collections-and-more-3j2k)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, May 2, 2022 at 6:18:39 AM
+> Last updated: Monday, May 2, 2022 at 12:12:22 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, May 2, 2022 at 6:18:44 AM
+> Last updated: Monday, May 2, 2022 at 12:12:27 PM
 
 > Showing 5 of 30 posts.
 
-[![Learn Wordpress by searching the wpUniverse](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Learn_Wordpress_by_searching_the_wpUniverse.svg)](https://wpuniverse.online/)
 [![GitHub - dflex-js/dflex at echojs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_dflex-js_dflex_at_echojs.svg)](https://github.com/dflex-js/dflex)
 [![How we employed the new ECMAScript Module Support in typescript - Yonatan Kra](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_we_employed_the_new_ECMAScript_Module_Support_in_typescript_-_Yonatan_Kra.svg)](https://yonatankra.com/how-to-use-the-new-ecmascript-module-in-typescript/)
-[![Top ReactJS Developer Tools in 2022-23 [React Dev Tools] - OpenXcell](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Top_ReactJS_Developer_Tools_in_2022-23_[React_Dev_Tools]_-_OpenXcell.svg)](https://www.openxcell.com/blog/reactjs-developer-tools/)
 [![GitHub - wlucha/angular-starter: Angular 13 Starter with Storybook, Transloco, Jest, TestCafe, Docker, ESLint, Material & Prettier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_wlucha_angular-starter__Angular_13_Starter_with_Storybook__Transloco__Jest__TestCafe__Docker__ESLint__Material___Prettier.svg)](https://github.com/wlucha/angular-starter)
+[![Fetching data in Redux using RTK Query](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Fetching_data_in_Redux_using_RTK_Query.svg)](https://blog.openreplay.com/fetching-data-in-redux-using-rtk-query)
+[![ReSvelte- A Svelte Developer Tool and Component Tree Visualizer (VS Code Extension)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/ReSvelte-_A_Svelte_Developer_Tool_and_Component_Tree_Visualizer_(VS_Code_Extension).svg)](https://medium.com/@hoon.park97/resvelte-a-svelte-developer-tool-and-component-tree-visualizer-vs-code-extension-20e39ddc13a0)
 
 
 <!-- post-list:end -->
