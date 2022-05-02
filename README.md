@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, May 1, 2022 at 12:11:21 PM
+> Last updated: Sunday, May 1, 2022 at 6:50:12 PM
 
 > Showing 5 of 12 posts.
 
-[![How to avoid AWS unintentional charges ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_avoid_AWS_unintentional_charges__.svg)](https://dev.to/aws-builders/how-to-avoid-aws-unintentional-charges--3dam)
-[![Getting Started with Serverless and AWS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_Started_with_Serverless_and_AWS.svg)](https://dev.to/jaytparekh7121994/getting-started-with-serverless-and-aws-365e)
-[![Set up ESLint, Prettier and Husky in a React project | a step by step guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Set_up_ESLint__Prettier_and_Husky_in_a_React_project___a_step_by_step_guide.svg)](https://dev.to/yvad60/setup-eslint-prettier-and-husky-in-a-node-project-a-step-by-step-guide-946)
-[![Mongo shell commands to get you through the day](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mongo_shell_commands_to_get_you_through_the_day.svg)](https://dev.to/benmatselby/mongo-shell-commands-to-get-you-through-the-day-56n0)
-[![What is vector search engine?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_vector_search_engine_.svg)](https://dev.to/asmit2952/what-are-vector-search-engines-3lp1)
+[![Getting hired as a software engineer in Poland vs UK](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_hired_as_a_software_engineer_in_Poland_vs_UK.svg)](https://dev.to/beetlehope/getting-hired-as-a-software-engineer-in-poland-vs-uk-5bae)
+[![Design Patterns in Typescript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Design_Patterns_in_Typescript.svg)](https://dev.to/triyanox/design-patterns-in-typescript-e68)
+[![How to Utilize Vercel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Utilize_Vercel.svg)](https://dev.to/sparvero12/how-to-utilize-vercel-5a8l)
+[![Rapid Goal Setting; Making Flexible Changes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Rapid_Goal_Setting;_Making_Flexible_Changes.svg)](https://dev.to/haleyelder/rapid-goal-setting-making-flexible-changes-35i0)
+[![5 CSS properties you don't know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_CSS_properties_you_don't_know.svg)](https://dev.to/justice_hub/5-css-properties-you-dont-know-2ilp)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, May 1, 2022 at 12:11:25 PM
+> Last updated: Sunday, May 1, 2022 at 6:50:16 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, May 1, 2022 at 12:11:30 PM
+> Last updated: Sunday, May 1, 2022 at 6:50:24 PM
 
 > Showing 5 of 30 posts.
 
 [![GitHub - dflex-js/dflex at echojs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_dflex-js_dflex_at_echojs.svg)](https://github.com/dflex-js/dflex)
-[![GitHub - samdenty/git-icons: Mac App/CLI that adds folder icons to your repos](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_samdenty_git-icons__Mac_App_CLI_that_adds_folder_icons_to_your_repos.svg)](https://github.com/samdenty/git-icons)
 [![How we employed the new ECMAScript Module Support in typescript - Yonatan Kra](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_we_employed_the_new_ECMAScript_Module_Support_in_typescript_-_Yonatan_Kra.svg)](https://yonatankra.com/how-to-use-the-new-ecmascript-module-in-typescript/)
 [![Top ReactJS Developer Tools in 2022-23 [React Dev Tools] - OpenXcell](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Top_ReactJS_Developer_Tools_in_2022-23_[React_Dev_Tools]_-_OpenXcell.svg)](https://www.openxcell.com/blog/reactjs-developer-tools/)
 [![GitHub - wlucha/angular-starter: Angular 13 Starter with Storybook, Transloco, Jest, TestCafe, Docker, ESLint, Material & Prettier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_wlucha_angular-starter__Angular_13_Starter_with_Storybook__Transloco__Jest__TestCafe__Docker__ESLint__Material___Prettier.svg)](https://github.com/wlucha/angular-starter)
+[![Fetching data in Redux using RTK Query](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Fetching_data_in_Redux_using_RTK_Query.svg)](https://blog.openreplay.com/fetching-data-in-redux-using-rtk-query)
 
 
 <!-- post-list:end -->
