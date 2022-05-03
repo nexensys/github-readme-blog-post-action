@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, May 2, 2022 at 12:12:18 PM
+> Last updated: Monday, May 2, 2022 at 6:52:08 PM
 
 > Showing 5 of 12 posts.
 
-[![Lunes de música... ¿Qué estás escuchando? 🎵](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Lunes_de_música..._¿Qué_estás_escuchando__🎵.svg)](https://dev.to/duxtech/lunes-de-musica-que-estas-escuchando-2jcm)
-[![thin.dev: Realtime-by-default BaaS (Backend-as-a-Service)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/thin.dev__Realtime-by-default_BaaS_(Backend-as-a-Service).svg)](https://dev.to/digitallyinduced/thindev-realtime-by-default-baas-backend-as-a-service-32po)
-[![Why Is OSS Good For The World?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_Is_OSS_Good_For_The_World_.svg)](https://dev.to/appwrite/why-is-oss-good-for-the-world-4pn3)
-[![How to Avoid React Context Trap](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Avoid_React_Context_Trap.svg)](https://dev.to/perssondennis/how-to-avoid-react-context-trap-1705)
-[![Changelog #0015 — 🐑 Duplicating collections and more](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Changelog__0015_—_🐑_Duplicating_collections_and_more.svg)](https://dev.to/pie/changelog-0015-duplicating-collections-and-more-3j2k)
+[![Understanding an Open Source Codebase](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_an_Open_Source_Codebase.svg)](https://dev.to/free_one/understanding-an-open-source-codebase-2ek9)
+[![Next.js - How to optimize fonts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Next.js_-_How_to_optimize_fonts.svg)](https://dev.to/perkinsjr/nextjs-how-to-optimize-fonts-4i7e)
+[![React state management - Part 1: Introduction & local state management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_state_management_-_Part_1__Introduction___local_state_management.svg)](https://dev.to/iamshour/react-state-management-part-1-introduction-local-state-management-23h0)
+[![What's the longest build time you've experienced?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What's_the_longest_build_time_you've_experienced_.svg)](https://dev.to/softwaredotcom/whats-the-longest-build-time-youve-experienced-k2j)
+[![Engineering Metrics Benchmarks: What Makes Elite Teams?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Engineering_Metrics_Benchmarks__What_Makes_Elite_Teams_.svg)](https://dev.to/linearb/engineering-metrics-benchmarks-what-makes-elite-teams-4bbo)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, May 2, 2022 at 12:12:22 PM
+> Last updated: Monday, May 2, 2022 at 6:52:11 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, May 2, 2022 at 12:12:27 PM
+> Last updated: Monday, May 2, 2022 at 6:52:17 PM
 
 > Showing 5 of 30 posts.
 
+[![Building a Mobile App using HTML, CSS, and JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_a_Mobile_App_using_HTML__CSS__and_JavaScript.svg)](https://blog.openreplay.com/building-a-mobile-app-using-html-css-and-javascript)
+[![JavaScript testing #12. Testing downloaded files and file inputs with Cypress](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_testing__12._Testing_downloaded_files_and_file_inputs_with_Cypress.svg)](http://wanago.io/2022/05/02/javascript-testing-downloaded-files-file-inputs-cypress/)
 [![GitHub - dflex-js/dflex at echojs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_dflex-js_dflex_at_echojs.svg)](https://github.com/dflex-js/dflex)
 [![How we employed the new ECMAScript Module Support in typescript - Yonatan Kra](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_we_employed_the_new_ECMAScript_Module_Support_in_typescript_-_Yonatan_Kra.svg)](https://yonatankra.com/how-to-use-the-new-ecmascript-module-in-typescript/)
 [![GitHub - wlucha/angular-starter: Angular 13 Starter with Storybook, Transloco, Jest, TestCafe, Docker, ESLint, Material & Prettier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_wlucha_angular-starter__Angular_13_Starter_with_Storybook__Transloco__Jest__TestCafe__Docker__ESLint__Material___Prettier.svg)](https://github.com/wlucha/angular-starter)
-[![Fetching data in Redux using RTK Query](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Fetching_data_in_Redux_using_RTK_Query.svg)](https://blog.openreplay.com/fetching-data-in-redux-using-rtk-query)
-[![ReSvelte- A Svelte Developer Tool and Component Tree Visualizer (VS Code Extension)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/ReSvelte-_A_Svelte_Developer_Tool_and_Component_Tree_Visualizer_(VS_Code_Extension).svg)](https://medium.com/@hoon.park97/resvelte-a-svelte-developer-tool-and-component-tree-visualizer-vs-code-extension-20e39ddc13a0)
 
 
 <!-- post-list:end -->
