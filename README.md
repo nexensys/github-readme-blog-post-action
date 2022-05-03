@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, May 2, 2022 at 6:52:08 PM
+> Last updated: Tuesday, May 3, 2022 at 12:12:59 AM
 
 > Showing 5 of 12 posts.
 
-[![Understanding an Open Source Codebase](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_an_Open_Source_Codebase.svg)](https://dev.to/free_one/understanding-an-open-source-codebase-2ek9)
-[![Next.js - How to optimize fonts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Next.js_-_How_to_optimize_fonts.svg)](https://dev.to/perkinsjr/nextjs-how-to-optimize-fonts-4i7e)
-[![React state management - Part 1: Introduction & local state management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_state_management_-_Part_1__Introduction___local_state_management.svg)](https://dev.to/iamshour/react-state-management-part-1-introduction-local-state-management-23h0)
-[![What's the longest build time you've experienced?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What's_the_longest_build_time_you've_experienced_.svg)](https://dev.to/softwaredotcom/whats-the-longest-build-time-youve-experienced-k2j)
-[![Engineering Metrics Benchmarks: What Makes Elite Teams?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Engineering_Metrics_Benchmarks__What_Makes_Elite_Teams_.svg)](https://dev.to/linearb/engineering-metrics-benchmarks-what-makes-elite-teams-4bbo)
+[![Best 13 Podcast Episodes About Personalization](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_13_Podcast_Episodes_About_Personalization.svg)](https://dev.to/ninetailed/best-13-podcast-episodes-about-personalization-2jml)
+[![Even programmers need a Reset](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Even_programmers_need_a_Reset.svg)](https://dev.to/anamdiazs/even-programmers-need-a-reset-29mf)
+[![Handling errors in Remix](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Handling_errors_in_Remix.svg)](https://dev.to/dailydevtips1/handling-errors-in-remix-2pnp)
+[![Controller & Uncontrolled forms](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Controller___Uncontrolled_forms.svg)](https://dev.to/jriveraddiaz/controller-uncontrolled-forms-26m6)
+[![An easy safety in git](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/An_easy_safety_in_git.svg)](https://dev.to/kwstannard/an-easy-safety-in-git-2a5h)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, May 2, 2022 at 6:52:11 PM
+> Last updated: Tuesday, May 3, 2022 at 12:13:02 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, May 2, 2022 at 6:52:17 PM
+> Last updated: Tuesday, May 3, 2022 at 12:13:08 AM
 
 > Showing 5 of 30 posts.
 
+[![
+Celopunk auction opensource
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Celopunk_auction_opensource_.svg)](
+https://celopunk-auction.vercel.app/
+)
 [![Building a Mobile App using HTML, CSS, and JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_a_Mobile_App_using_HTML__CSS__and_JavaScript.svg)](https://blog.openreplay.com/building-a-mobile-app-using-html-css-and-javascript)
 [![JavaScript testing #12. Testing downloaded files and file inputs with Cypress](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_testing__12._Testing_downloaded_files_and_file_inputs_with_Cypress.svg)](http://wanago.io/2022/05/02/javascript-testing-downloaded-files-file-inputs-cypress/)
 [![GitHub - dflex-js/dflex at echojs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_dflex-js_dflex_at_echojs.svg)](https://github.com/dflex-js/dflex)
 [![How we employed the new ECMAScript Module Support in typescript - Yonatan Kra](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_we_employed_the_new_ECMAScript_Module_Support_in_typescript_-_Yonatan_Kra.svg)](https://yonatankra.com/how-to-use-the-new-ecmascript-module-in-typescript/)
-[![GitHub - wlucha/angular-starter: Angular 13 Starter with Storybook, Transloco, Jest, TestCafe, Docker, ESLint, Material & Prettier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_wlucha_angular-starter__Angular_13_Starter_with_Storybook__Transloco__Jest__TestCafe__Docker__ESLint__Material___Prettier.svg)](https://github.com/wlucha/angular-starter)
 
 
 <!-- post-list:end -->
