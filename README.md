@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, May 3, 2022 at 12:12:59 AM
+> Last updated: Tuesday, May 3, 2022 at 6:20:56 AM
 
 > Showing 5 of 12 posts.
 
-[![Best 13 Podcast Episodes About Personalization](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_13_Podcast_Episodes_About_Personalization.svg)](https://dev.to/ninetailed/best-13-podcast-episodes-about-personalization-2jml)
-[![Even programmers need a Reset](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Even_programmers_need_a_Reset.svg)](https://dev.to/anamdiazs/even-programmers-need-a-reset-29mf)
-[![Handling errors in Remix](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Handling_errors_in_Remix.svg)](https://dev.to/dailydevtips1/handling-errors-in-remix-2pnp)
-[![Controller & Uncontrolled forms](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Controller___Uncontrolled_forms.svg)](https://dev.to/jriveraddiaz/controller-uncontrolled-forms-26m6)
-[![An easy safety in git](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/An_easy_safety_in_git.svg)](https://dev.to/kwstannard/an-easy-safety-in-git-2a5h)
+[![How to build a search input component with Tailwind CSS and Flowbite](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_build_a_search_input_component_with_Tailwind_CSS_and_Flowbite.svg)](https://dev.to/themesberg/how-to-build-a-search-input-component-with-tailwind-css-and-flowbite-12b1)
+[![Why Discord Is a Must-Have for OSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_Discord_Is_a_Must-Have_for_OSS.svg)](https://dev.to/appwrite/why-discord-is-a-must-have-for-oss-2jpj)
+[![Design Pattern in TypeScript: Command Pattern](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Design_Pattern_in_TypeScript__Command_Pattern.svg)](https://dev.to/bhargavmantha/design-pattern-in-typescript-command-pattern-3fg5)
+[![Debugging Nodejs in VSCode](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Debugging_Nodejs_in_VSCode.svg)](https://dev.to/dealwith/debugging-nodejs-in-vscode-14jk)
+[![How to create your first Helm plugin?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_your_first_Helm_plugin_.svg)](https://dev.to/kcdchennai/how-to-create-your-first-helm-plugin-4i0g)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, May 3, 2022 at 12:13:02 AM
+> Last updated: Tuesday, May 3, 2022 at 6:20:59 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,13 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, May 3, 2022 at 12:13:08 AM
+> Last updated: Tuesday, May 3, 2022 at 6:21:02 AM
 
 > Showing 5 of 30 posts.
 
+[![Pnpm and Nx monorepo. Part 3 | Javier Brea](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Pnpm_and_Nx_monorepo._Part_3___Javier_Brea.svg)](
+https://www.javierbrea.com/blog/pnpm-nx-monorepo-03/
+)
 [![
 Celopunk auction opensource
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Celopunk_auction_opensource_.svg)](
@@ -55,7 +58,6 @@ https://celopunk-auction.vercel.app/
 [![Building a Mobile App using HTML, CSS, and JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_a_Mobile_App_using_HTML__CSS__and_JavaScript.svg)](https://blog.openreplay.com/building-a-mobile-app-using-html-css-and-javascript)
 [![JavaScript testing #12. Testing downloaded files and file inputs with Cypress](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_testing__12._Testing_downloaded_files_and_file_inputs_with_Cypress.svg)](http://wanago.io/2022/05/02/javascript-testing-downloaded-files-file-inputs-cypress/)
 [![GitHub - dflex-js/dflex at echojs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_dflex-js_dflex_at_echojs.svg)](https://github.com/dflex-js/dflex)
-[![How we employed the new ECMAScript Module Support in typescript - Yonatan Kra](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_we_employed_the_new_ECMAScript_Module_Support_in_typescript_-_Yonatan_Kra.svg)](https://yonatankra.com/how-to-use-the-new-ecmascript-module-in-typescript/)
 
 
 <!-- post-list:end -->
