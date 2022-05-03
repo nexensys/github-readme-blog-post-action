@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, May 3, 2022 at 6:20:56 AM
+> Last updated: Tuesday, May 3, 2022 at 12:12:18 PM
 
 > Showing 5 of 12 posts.
 
-[![How to build a search input component with Tailwind CSS and Flowbite](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_build_a_search_input_component_with_Tailwind_CSS_and_Flowbite.svg)](https://dev.to/themesberg/how-to-build-a-search-input-component-with-tailwind-css-and-flowbite-12b1)
-[![Why Discord Is a Must-Have for OSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_Discord_Is_a_Must-Have_for_OSS.svg)](https://dev.to/appwrite/why-discord-is-a-must-have-for-oss-2jpj)
-[![Design Pattern in TypeScript: Command Pattern](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Design_Pattern_in_TypeScript__Command_Pattern.svg)](https://dev.to/bhargavmantha/design-pattern-in-typescript-command-pattern-3fg5)
-[![Debugging Nodejs in VSCode](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Debugging_Nodejs_in_VSCode.svg)](https://dev.to/dealwith/debugging-nodejs-in-vscode-14jk)
-[![How to create your first Helm plugin?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_your_first_Helm_plugin_.svg)](https://dev.to/kcdchennai/how-to-create-your-first-helm-plugin-4i0g)
+[![Create a Robust Blog-Post-Reads Counter in Next.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_a_Robust_Blog-Post-Reads_Counter_in_Next.js.svg)](https://dev.to/hackmamba/create-a-robust-blog-post-reads-counter-in-nextjs-52jl)
+[![Create & Use Code Snippets using Codiga Code Snippets💡](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create___Use_Code_Snippets_using_Codiga_Code_Snippets💡.svg)](https://dev.to/theinfosecguy/create-use-code-snippets-using-codiga-code-snippets-oa7)
+[![Por que você não acredita na sua capacidade?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Por_que_você_não_acredita_na_sua_capacidade_.svg)](https://dev.to/acaverna/por-que-voce-nao-acredita-na-sua-capacidade-51pg)
+[![Use Variable Font For Better Performance](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Use_Variable_Font_For_Better_Performance.svg)](https://dev.to/codewithshripal/use-variable-font-for-better-performance-2dog)
+[![Kelsey Hightower to Speak at CodeLand 2022!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Kelsey_Hightower_to_Speak_at_CodeLand_2022!.svg)](https://dev.to/codenewbieteam/kelsey-hightower-to-speak-at-codeland-2022-1686)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, May 3, 2022 at 6:20:59 AM
+> Last updated: Tuesday, May 3, 2022 at 12:12:20 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,21 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, May 3, 2022 at 6:21:02 AM
+> Last updated: Tuesday, May 3, 2022 at 12:12:25 PM
 
 > Showing 5 of 30 posts.
 
 [![Pnpm and Nx monorepo. Part 3 | Javier Brea](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Pnpm_and_Nx_monorepo._Part_3___Javier_Brea.svg)](
 https://www.javierbrea.com/blog/pnpm-nx-monorepo-03/
 )
-[![
-Celopunk auction opensource
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Celopunk_auction_opensource_.svg)](
-https://celopunk-auction.vercel.app/
-)
 [![Building a Mobile App using HTML, CSS, and JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_a_Mobile_App_using_HTML__CSS__and_JavaScript.svg)](https://blog.openreplay.com/building-a-mobile-app-using-html-css-and-javascript)
 [![JavaScript testing #12. Testing downloaded files and file inputs with Cypress](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_testing__12._Testing_downloaded_files_and_file_inputs_with_Cypress.svg)](http://wanago.io/2022/05/02/javascript-testing-downloaded-files-file-inputs-cypress/)
 [![GitHub - dflex-js/dflex at echojs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_dflex-js_dflex_at_echojs.svg)](https://github.com/dflex-js/dflex)
+[![How we employed the new ECMAScript Module Support in typescript - Yonatan Kra](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_we_employed_the_new_ECMAScript_Module_Support_in_typescript_-_Yonatan_Kra.svg)](https://yonatankra.com/how-to-use-the-new-ecmascript-module-in-typescript/)
 
 
 <!-- post-list:end -->
