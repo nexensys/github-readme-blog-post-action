@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, May 3, 2022 at 12:12:18 PM
+> Last updated: Tuesday, May 3, 2022 at 6:51:29 PM
 
 > Showing 5 of 12 posts.
 
-[![Create a Robust Blog-Post-Reads Counter in Next.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_a_Robust_Blog-Post-Reads_Counter_in_Next.js.svg)](https://dev.to/hackmamba/create-a-robust-blog-post-reads-counter-in-nextjs-52jl)
-[![Create & Use Code Snippets using Codiga Code Snippets💡](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create___Use_Code_Snippets_using_Codiga_Code_Snippets💡.svg)](https://dev.to/theinfosecguy/create-use-code-snippets-using-codiga-code-snippets-oa7)
-[![Por que você não acredita na sua capacidade?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Por_que_você_não_acredita_na_sua_capacidade_.svg)](https://dev.to/acaverna/por-que-voce-nao-acredita-na-sua-capacidade-51pg)
-[![Use Variable Font For Better Performance](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Use_Variable_Font_For_Better_Performance.svg)](https://dev.to/codewithshripal/use-variable-font-for-better-performance-2dog)
-[![Kelsey Hightower to Speak at CodeLand 2022!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Kelsey_Hightower_to_Speak_at_CodeLand_2022!.svg)](https://dev.to/codenewbieteam/kelsey-hightower-to-speak-at-codeland-2022-1686)
+[![[Desafio] - Busca em Fontes Desestruturadas](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/[Desafio]_-_Busca_em_Fontes_Desestruturadas.svg)](https://dev.to/zanfranceschi/desafio-busca-em-fontes-desestruturadas-554n)
+[![Deploying PostgreSQL in a Local Kubernetes Cluster](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deploying_PostgreSQL_in_a_Local_Kubernetes_Cluster.svg)](https://dev.to/otomato_io/deploying-postgresql-in-a-local-kubernetes-cluster-230n)
+[!["Deploying Elixir: Advanced Topics" eBook](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_Deploying_Elixir__Advanced_Topics__eBook.svg)](https://dev.to/miguelcoba/deploying-elixir-advanced-topics-ebook-1moa)
+[![Using GitHub Actions to deploy a web page to Raspberry Pi](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_GitHub_Actions_to_deploy_a_web_page_to_Raspberry_Pi.svg)](https://dev.to/hnrq/using-github-actions-to-deploy-a-web-page-to-raspberry-pi-46bi)
+[![3 Predictions About How Technology Businesses Will Change In 10 Years](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/3_Predictions_About_How_Technology_Businesses_Will_Change_In_10_Years.svg)](https://dev.to/linearb/3-predictions-about-how-technology-businesses-will-change-in-10-years-18pk)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, May 3, 2022 at 12:12:20 PM
+> Last updated: Tuesday, May 3, 2022 at 6:51:32 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, May 3, 2022 at 12:12:25 PM
+> Last updated: Tuesday, May 3, 2022 at 6:51:37 PM
 
 > Showing 5 of 30 posts.
 
