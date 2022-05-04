@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, May 4, 2022 at 6:19:34 AM
+> Last updated: Wednesday, May 4, 2022 at 12:12:40 PM
 
 > Showing 5 of 12 posts.
 
-[![Node.js 18 Release: What's New](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Node.js_18_Release__What's_New.svg)](https://dev.to/appsignal/nodejs-18-release-whats-new-5dmh)
-[![When Disaster Strikes: Production Troubleshooting](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/When_Disaster_Strikes__Production_Troubleshooting.svg)](https://dev.to/codenameone/when-disaster-strikes-production-troubleshooting-7a0)
-[![What and how do I perform a search operation in Typesense?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_and_how_do_I_perform_a_search_operation_in_Typesense_.svg)](https://dev.to/aviyel/what-and-how-do-i-perform-a-search-operation-in-typesense-5gc5)
-[![Build a robot NFT on the Ethereum blockchain with Solidity and Replit (part 1)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_a_robot_NFT_on_the_Ethereum_blockchain_with_Solidity_and_Replit_(part_1).svg)](https://dev.to/ritza/build-a-robot-nft-on-the-ethereum-blockchain-with-solidity-and-replit-part-1-4ne3)
-[![Do I build or buy an API?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Do_I_build_or_buy_an_API_.svg)](https://dev.to/ummshivacodes/do-i-build-or-buy-an-api-ep9)
+[![Only one open-source project can be saved for future humanity. Which one would you choose?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Only_one_open-source_project_can_be_saved_for_future_humanity._Which_one_would_you_choose_.svg)](https://dev.to/marplex/only-one-open-source-project-can-be-saved-for-future-humanity-which-one-would-you-choose-14c6)
+[![run python code in html files](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/run_python_code_in_html_files.svg)](https://dev.to/m7d/run-python-code-in-html-files-c8n)
+[![Book notes: Turn the Ship Around!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Book_notes__Turn_the_Ship_Around!.svg)](https://dev.to/danlebrero/book-notes-turn-the-ship-around-3lba)
+[![Programming Tip #6: Pattern Matching](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Programming_Tip__6__Pattern_Matching.svg)](https://dev.to/jesterxl/programming-tip-6-pattern-matching-4h39)
+[![Turn Your Blog Post Into A Virtual Talk](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Turn_Your_Blog_Post_Into_A_Virtual_Talk.svg)](https://dev.to/adiatiayu/turn-your-blog-post-into-a-virtual-talk-3fg3)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, May 4, 2022 at 6:19:36 AM
+> Last updated: Wednesday, May 4, 2022 at 12:12:42 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, May 4, 2022 at 6:19:40 AM
+> Last updated: Wednesday, May 4, 2022 at 12:12:45 PM
 
 > Showing 5 of 30 posts.
 
-[![Import SVGs as React Components | How to code Tutorial](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Import_SVGs_as_React_Components___How_to_code_Tutorial.svg)](https://www.youtube.com/watch?v=KOo8UuoY33I)
-[![Learn How to Use Lambda Layers by Building an Image Resize Function Using Sharp | Webiny](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Learn_How_to_Use_Lambda_Layers_by_Building_an_Image_Resize_Function_Using_Sharp___Webiny.svg)](
-https://www.webiny.com/blog/learn-how-to-use-lambda-layers
-)
-[![Cloud Consulting, Serverless Analytics, Development, DevOps | Datavizz](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Cloud_Consulting__Serverless_Analytics__Development__DevOps___Datavizz.svg)](https://www.datavizz.in/)
-[![Sherlogs + quick-logger-be: create, view and search through your logs with ease](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Sherlogs_+_quick-logger-be__create__view_and_search_through_your_logs_with_ease.svg)](https://medium.com/@crystalpederson88/sherlogs-quick-logger-be-create-view-and-search-through-your-logs-with-ease-e0254f386172)
-[![Pnpm and Nx monorepo. Part 3 | Javier Brea](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Pnpm_and_Nx_monorepo._Part_3___Javier_Brea.svg)](
-https://www.javierbrea.com/blog/pnpm-nx-monorepo-03/
-)
+[![GitHub - victorqribeiro/simpleWFC: A simplified version of the Wave Function Collapse algorithm](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_victorqribeiro_simpleWFC__A_simplified_version_of_the_Wave_Function_Collapse_algorithm.svg)](https://github.com/victorqribeiro/simpleWFC)
+[![5 Best Lerna Alternatives](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/5_Best_Lerna_Alternatives.svg)](https://javascript.plainenglish.io/5-best-lerna-alternatives-42ffe75d403e)
+[![GitHub - rustq/napi-nanoid: The NAPI nanoid written in Rust](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_rustq_napi-nanoid__The_NAPI_nanoid_written_in_Rust.svg)](https://github.com/rustq/napi-nanoid)
+[![8 Javascript quiz that may confuse you](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/8_Javascript_quiz_that_may_confuse_you.svg)](https://pitayan.com/posts/8-javascript-quiz-that-may-confuse-you)
+[![GitHub - elbwalker/walker.js: Autotrack library for analytics implementation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_elbwalker_walker.js__Autotrack_library_for_analytics_implementation.svg)](https://github.com/elbwalker/walker.js)
 
 
 <!-- post-list:end -->
