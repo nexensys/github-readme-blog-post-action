@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, May 4, 2022 at 12:14:19 AM
+> Last updated: Wednesday, May 4, 2022 at 6:19:34 AM
 
 > Showing 5 of 12 posts.
 
-[![Write an Integration test, not a Unit test](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Write_an_Integration_test__not_a_Unit_test.svg)](https://dev.to/alkondrashov/write-an-integration-test-not-a-unit-test-6d5)
-[![How do you evaluate the quality of your interface?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_do_you_evaluate_the_quality_of_your_interface_.svg)](https://dev.to/omanoels/how-do-you-evaluate-the-quality-of-your-interface-4m87)
-[![📱 AWS CDK 101 - 👯 Fetching JSON from S3 through stepfunction](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/📱_AWS_CDK_101_-_👯_Fetching_JSON_from_S3_through_stepfunction.svg)](https://dev.to/aravindvcyber/aws-cdk-101-fetching-json-from-s3-through-stepfunction-15ob)
-[![Understanding Parts of the Web](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_Parts_of_the_Web.svg)](https://dev.to/ajeasmith/understanding-parts-of-the-web-44cd)
-[![Don't use 100vh for mobile responsive](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Don't_use_100vh_for_mobile_responsive.svg)](https://dev.to/nirazanbasnet/dont-use-100vh-for-mobile-responsive-3o97)
+[![Node.js 18 Release: What's New](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Node.js_18_Release__What's_New.svg)](https://dev.to/appsignal/nodejs-18-release-whats-new-5dmh)
+[![When Disaster Strikes: Production Troubleshooting](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/When_Disaster_Strikes__Production_Troubleshooting.svg)](https://dev.to/codenameone/when-disaster-strikes-production-troubleshooting-7a0)
+[![What and how do I perform a search operation in Typesense?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_and_how_do_I_perform_a_search_operation_in_Typesense_.svg)](https://dev.to/aviyel/what-and-how-do-i-perform-a-search-operation-in-typesense-5gc5)
+[![Build a robot NFT on the Ethereum blockchain with Solidity and Replit (part 1)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_a_robot_NFT_on_the_Ethereum_blockchain_with_Solidity_and_Replit_(part_1).svg)](https://dev.to/ritza/build-a-robot-nft-on-the-ethereum-blockchain-with-solidity-and-replit-part-1-4ne3)
+[![Do I build or buy an API?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Do_I_build_or_buy_an_API_.svg)](https://dev.to/ummshivacodes/do-i-build-or-buy-an-api-ep9)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, May 4, 2022 at 12:14:21 AM
+> Last updated: Wednesday, May 4, 2022 at 6:19:36 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, May 4, 2022 at 12:14:27 AM
+> Last updated: Wednesday, May 4, 2022 at 6:19:40 AM
 
 > Showing 5 of 30 posts.
 
+[![Import SVGs as React Components | How to code Tutorial](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Import_SVGs_as_React_Components___How_to_code_Tutorial.svg)](https://www.youtube.com/watch?v=KOo8UuoY33I)
+[![Learn How to Use Lambda Layers by Building an Image Resize Function Using Sharp | Webiny](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Learn_How_to_Use_Lambda_Layers_by_Building_an_Image_Resize_Function_Using_Sharp___Webiny.svg)](
+https://www.webiny.com/blog/learn-how-to-use-lambda-layers
+)
+[![Cloud Consulting, Serverless Analytics, Development, DevOps | Datavizz](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Cloud_Consulting__Serverless_Analytics__Development__DevOps___Datavizz.svg)](https://www.datavizz.in/)
 [![Sherlogs + quick-logger-be: create, view and search through your logs with ease](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Sherlogs_+_quick-logger-be__create__view_and_search_through_your_logs_with_ease.svg)](https://medium.com/@crystalpederson88/sherlogs-quick-logger-be-create-view-and-search-through-your-logs-with-ease-e0254f386172)
 [![Pnpm and Nx monorepo. Part 3 | Javier Brea](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Pnpm_and_Nx_monorepo._Part_3___Javier_Brea.svg)](
 https://www.javierbrea.com/blog/pnpm-nx-monorepo-03/
 )
-[![Building a Mobile App using HTML, CSS, and JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_a_Mobile_App_using_HTML__CSS__and_JavaScript.svg)](https://blog.openreplay.com/building-a-mobile-app-using-html-css-and-javascript)
-[![JavaScript testing #12. Testing downloaded files and file inputs with Cypress](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_testing__12._Testing_downloaded_files_and_file_inputs_with_Cypress.svg)](http://wanago.io/2022/05/02/javascript-testing-downloaded-files-file-inputs-cypress/)
-[![GitHub - dflex-js/dflex at echojs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_dflex-js_dflex_at_echojs.svg)](https://github.com/dflex-js/dflex)
 
 
 <!-- post-list:end -->
