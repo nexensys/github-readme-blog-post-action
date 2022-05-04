@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, May 3, 2022 at 6:51:29 PM
+> Last updated: Wednesday, May 4, 2022 at 12:14:19 AM
 
 > Showing 5 of 12 posts.
 
-[![[Desafio] - Busca em Fontes Desestruturadas](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/[Desafio]_-_Busca_em_Fontes_Desestruturadas.svg)](https://dev.to/zanfranceschi/desafio-busca-em-fontes-desestruturadas-554n)
-[![Deploying PostgreSQL in a Local Kubernetes Cluster](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deploying_PostgreSQL_in_a_Local_Kubernetes_Cluster.svg)](https://dev.to/otomato_io/deploying-postgresql-in-a-local-kubernetes-cluster-230n)
-[!["Deploying Elixir: Advanced Topics" eBook](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_Deploying_Elixir__Advanced_Topics__eBook.svg)](https://dev.to/miguelcoba/deploying-elixir-advanced-topics-ebook-1moa)
-[![Using GitHub Actions to deploy a web page to Raspberry Pi](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_GitHub_Actions_to_deploy_a_web_page_to_Raspberry_Pi.svg)](https://dev.to/hnrq/using-github-actions-to-deploy-a-web-page-to-raspberry-pi-46bi)
-[![3 Predictions About How Technology Businesses Will Change In 10 Years](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/3_Predictions_About_How_Technology_Businesses_Will_Change_In_10_Years.svg)](https://dev.to/linearb/3-predictions-about-how-technology-businesses-will-change-in-10-years-18pk)
+[![Write an Integration test, not a Unit test](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Write_an_Integration_test__not_a_Unit_test.svg)](https://dev.to/alkondrashov/write-an-integration-test-not-a-unit-test-6d5)
+[![How do you evaluate the quality of your interface?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_do_you_evaluate_the_quality_of_your_interface_.svg)](https://dev.to/omanoels/how-do-you-evaluate-the-quality-of-your-interface-4m87)
+[![📱 AWS CDK 101 - 👯 Fetching JSON from S3 through stepfunction](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/📱_AWS_CDK_101_-_👯_Fetching_JSON_from_S3_through_stepfunction.svg)](https://dev.to/aravindvcyber/aws-cdk-101-fetching-json-from-s3-through-stepfunction-15ob)
+[![Understanding Parts of the Web](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_Parts_of_the_Web.svg)](https://dev.to/ajeasmith/understanding-parts-of-the-web-44cd)
+[![Don't use 100vh for mobile responsive](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Don't_use_100vh_for_mobile_responsive.svg)](https://dev.to/nirazanbasnet/dont-use-100vh-for-mobile-responsive-3o97)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, May 3, 2022 at 6:51:32 PM
+> Last updated: Wednesday, May 4, 2022 at 12:14:21 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, May 3, 2022 at 6:51:37 PM
+> Last updated: Wednesday, May 4, 2022 at 12:14:27 AM
 
 > Showing 5 of 30 posts.
 
+[![Sherlogs + quick-logger-be: create, view and search through your logs with ease](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Sherlogs_+_quick-logger-be__create__view_and_search_through_your_logs_with_ease.svg)](https://medium.com/@crystalpederson88/sherlogs-quick-logger-be-create-view-and-search-through-your-logs-with-ease-e0254f386172)
 [![Pnpm and Nx monorepo. Part 3 | Javier Brea](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Pnpm_and_Nx_monorepo._Part_3___Javier_Brea.svg)](
 https://www.javierbrea.com/blog/pnpm-nx-monorepo-03/
 )
 [![Building a Mobile App using HTML, CSS, and JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_a_Mobile_App_using_HTML__CSS__and_JavaScript.svg)](https://blog.openreplay.com/building-a-mobile-app-using-html-css-and-javascript)
 [![JavaScript testing #12. Testing downloaded files and file inputs with Cypress](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_testing__12._Testing_downloaded_files_and_file_inputs_with_Cypress.svg)](http://wanago.io/2022/05/02/javascript-testing-downloaded-files-file-inputs-cypress/)
 [![GitHub - dflex-js/dflex at echojs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_dflex-js_dflex_at_echojs.svg)](https://github.com/dflex-js/dflex)
-[![How we employed the new ECMAScript Module Support in typescript - Yonatan Kra](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_we_employed_the_new_ECMAScript_Module_Support_in_typescript_-_Yonatan_Kra.svg)](https://yonatankra.com/how-to-use-the-new-ecmascript-module-in-typescript/)
 
 
 <!-- post-list:end -->
