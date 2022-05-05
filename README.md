@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, May 4, 2022 at 6:52:39 PM
+> Last updated: Thursday, May 5, 2022 at 12:13:30 AM
 
 > Showing 5 of 12 posts.
 
-[![Manage resource locks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Manage_resource_locks.svg)](https://dev.to/umar_abdulqadri_3e900d548/manage-resource-locks-3flh)
-[![It took me two hours to fix a really simple problem](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/It_took_me_two_hours_to_fix_a_really_simple_problem.svg)](https://dev.to/baraa_baba/it-took-me-two-hours-to-fix-a-really-simple-problem-55bo)
-[![Implementation of Azure IoT Hub](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Implementation_of_Azure_IoT_Hub.svg)](https://dev.to/umar_abdulqadri_3e900d548/implementation-of-azure-iot-hub-3l31)
-[![Microfrontends ( React Example)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Microfrontends_(_React_Example).svg)](https://dev.to/obaldthepedro/microfrontends-react-example-2f10)
-[![Fetch API is new old version of AJAX](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Fetch_API_is_new_old_version_of_AJAX.svg)](https://dev.to/diogorodrigues/fetch-api-is-new-old-version-of-ajax-1m14)
+[![How to Solve QueryCursor.js Mongoose error with NVM](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Solve_QueryCursor.js_Mongoose_error_with_NVM.svg)](https://dev.to/eunit/how-to-solve-querycursorjs-mongoose-error-with-nvm-2j4j)
+[![Revisiting the Pain: The World without Git](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Revisiting_the_Pain__The_World_without_Git.svg)](https://dev.to/kcdchennai/revisiting-the-pain-the-world-without-git-3jod)
+[![Remix loading data from an external API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Remix_loading_data_from_an_external_API.svg)](https://dev.to/dailydevtips1/remix-loading-data-from-an-external-api-1pab)
+[![React Tricks Miniseries 4: How to pass props more efficiently](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Tricks_Miniseries_4__How_to_pass_props_more_efficiently.svg)](https://dev.to/theeasydev/react-tricks-miniseries-4-how-to-pass-props-more-efficiently-g5m)
+[![Understanding closures in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_closures_in_JavaScript.svg)](https://dev.to/digomic/understanding-closures-in-javascript-54pg)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, May 4, 2022 at 6:52:43 PM
+> Last updated: Thursday, May 5, 2022 at 12:13:32 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, May 4, 2022 at 6:52:48 PM
+> Last updated: Thursday, May 5, 2022 at 12:13:37 AM
 
 > Showing 5 of 30 posts.
 
