@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, May 4, 2022 at 12:12:40 PM
+> Last updated: Wednesday, May 4, 2022 at 6:52:39 PM
 
 > Showing 5 of 12 posts.
 
-[![Only one open-source project can be saved for future humanity. Which one would you choose?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Only_one_open-source_project_can_be_saved_for_future_humanity._Which_one_would_you_choose_.svg)](https://dev.to/marplex/only-one-open-source-project-can-be-saved-for-future-humanity-which-one-would-you-choose-14c6)
-[![run python code in html files](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/run_python_code_in_html_files.svg)](https://dev.to/m7d/run-python-code-in-html-files-c8n)
-[![Book notes: Turn the Ship Around!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Book_notes__Turn_the_Ship_Around!.svg)](https://dev.to/danlebrero/book-notes-turn-the-ship-around-3lba)
-[![Programming Tip #6: Pattern Matching](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Programming_Tip__6__Pattern_Matching.svg)](https://dev.to/jesterxl/programming-tip-6-pattern-matching-4h39)
-[![Turn Your Blog Post Into A Virtual Talk](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Turn_Your_Blog_Post_Into_A_Virtual_Talk.svg)](https://dev.to/adiatiayu/turn-your-blog-post-into-a-virtual-talk-3fg3)
+[![Manage resource locks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Manage_resource_locks.svg)](https://dev.to/umar_abdulqadri_3e900d548/manage-resource-locks-3flh)
+[![It took me two hours to fix a really simple problem](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/It_took_me_two_hours_to_fix_a_really_simple_problem.svg)](https://dev.to/baraa_baba/it-took-me-two-hours-to-fix-a-really-simple-problem-55bo)
+[![Implementation of Azure IoT Hub](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Implementation_of_Azure_IoT_Hub.svg)](https://dev.to/umar_abdulqadri_3e900d548/implementation-of-azure-iot-hub-3l31)
+[![Microfrontends ( React Example)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Microfrontends_(_React_Example).svg)](https://dev.to/obaldthepedro/microfrontends-react-example-2f10)
+[![Fetch API is new old version of AJAX](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Fetch_API_is_new_old_version_of_AJAX.svg)](https://dev.to/diogorodrigues/fetch-api-is-new-old-version-of-ajax-1m14)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, May 4, 2022 at 12:12:42 PM
+> Last updated: Wednesday, May 4, 2022 at 6:52:43 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, May 4, 2022 at 12:12:45 PM
+> Last updated: Wednesday, May 4, 2022 at 6:52:48 PM
 
 > Showing 5 of 30 posts.
 
