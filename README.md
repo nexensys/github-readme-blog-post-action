@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, May 5, 2022 at 6:19:48 AM
+> Last updated: Thursday, May 5, 2022 at 12:14:00 PM
 
 > Showing 5 of 12 posts.
 
-[![Implementing OpenTelemetry in a Gin application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Implementing_OpenTelemetry_in_a_Gin_application.svg)](https://dev.to/signoz/implementing-opentelemetry-in-a-gin-application-6l2)
-[![Thank You](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Thank_You.svg)](https://dev.to/yongdev/thank-you-5b2i)
-[![20 Web Design Examples for Startups](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/20_Web_Design_Examples_for_Startups.svg)](https://dev.to/sumatosoft/20-web-design-examples-for-startups-4adj)
-[![From building to selling - EP.05](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/From_building_to_selling_-_EP.05.svg)](https://dev.to/twankrui/from-building-to-selling-ep05-31i9)
-[![How to build OAuth Provider Authentication with React and Altogic](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_build_OAuth_Provider_Authentication_with_React_and_Altogic.svg)](https://dev.to/altogic/how-to-build-oauth-provider-authentication-with-react-and-altogic-1g75)
+[![My Take on: "What Skills Make a Great Software Engineer?"](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_Take_on___What_Skills_Make_a_Great_Software_Engineer__.svg)](https://dev.to/intesar/my-take-on-what-skills-make-a-great-software-engineer-40a0)
+[![React Tricks Miniseries 6: How to use useEffect properly](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Tricks_Miniseries_6__How_to_use_useEffect_properly.svg)](https://dev.to/theeasydev/react-tricks-miniseries-6-how-to-use-useeffect-properly-17lg)
+[![State of Development: 5-5-2022; Gold Language](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/State_of_Development__5-5-2022;_Gold_Language.svg)](https://dev.to/colack/state-of-development-5-5-2022-gold-language-and-megashell-16lk)
+[![5 websites to take your front-end skills to the next level](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_websites_to_take_your_front-end_skills_to_the_next_level.svg)](https://dev.to/iarchitsharma/5-websites-to-take-your-front-end-skills-to-the-next-level-17gh)
+[![Enhance FreeRTOS with Luos: Allow you to develop your projects using microservices](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Enhance_FreeRTOS_with_Luos__Allow_you_to_develop_your_projects_using_microservices.svg)](https://dev.to/luos/enhance-freertos-with-luos-allow-you-to-develop-your-projects-using-microservices-1llb)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, May 5, 2022 at 6:19:51 AM
+> Last updated: Thursday, May 5, 2022 at 12:14:04 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, May 5, 2022 at 6:19:55 AM
+> Last updated: Thursday, May 5, 2022 at 12:14:14 PM
 
 > Showing 5 of 30 posts.
 
+[![Empty Objects are Truthy in JavaScript?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Empty_Objects_are_Truthy_in_JavaScript_.svg)](
+https://masteringjs.io/tutorials/fundamentals/empty-object-truthy
+)
 [![Episode 9 - Front-end testing with Lucas da Costa - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_9_-_Front-end_testing_with_Lucas_da_Costa_-_20minJS.svg)](https://podcast.20minjs.com/1952066/10548782-episode-9-front-end-testing-with-lucas-da-costa)
 [![GitHub - victorqribeiro/simpleWFC: A simplified version of the Wave Function Collapse algorithm](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_victorqribeiro_simpleWFC__A_simplified_version_of_the_Wave_Function_Collapse_algorithm.svg)](https://github.com/victorqribeiro/simpleWFC)
 [![5 Best Lerna Alternatives](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/5_Best_Lerna_Alternatives.svg)](https://javascript.plainenglish.io/5-best-lerna-alternatives-42ffe75d403e)
 [![GitHub - rustq/napi-nanoid: The NAPI nanoid written in Rust](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_rustq_napi-nanoid__The_NAPI_nanoid_written_in_Rust.svg)](https://github.com/rustq/napi-nanoid)
-[![8 Javascript quiz that may confuse you](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/8_Javascript_quiz_that_may_confuse_you.svg)](https://pitayan.com/posts/8-javascript-quiz-that-may-confuse-you)
 
 
 <!-- post-list:end -->
