@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, May 5, 2022 at 12:13:30 AM
+> Last updated: Thursday, May 5, 2022 at 6:19:48 AM
 
 > Showing 5 of 12 posts.
 
-[![How to Solve QueryCursor.js Mongoose error with NVM](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Solve_QueryCursor.js_Mongoose_error_with_NVM.svg)](https://dev.to/eunit/how-to-solve-querycursorjs-mongoose-error-with-nvm-2j4j)
-[![Revisiting the Pain: The World without Git](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Revisiting_the_Pain__The_World_without_Git.svg)](https://dev.to/kcdchennai/revisiting-the-pain-the-world-without-git-3jod)
-[![Remix loading data from an external API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Remix_loading_data_from_an_external_API.svg)](https://dev.to/dailydevtips1/remix-loading-data-from-an-external-api-1pab)
-[![React Tricks Miniseries 4: How to pass props more efficiently](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Tricks_Miniseries_4__How_to_pass_props_more_efficiently.svg)](https://dev.to/theeasydev/react-tricks-miniseries-4-how-to-pass-props-more-efficiently-g5m)
-[![Understanding closures in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_closures_in_JavaScript.svg)](https://dev.to/digomic/understanding-closures-in-javascript-54pg)
+[![Implementing OpenTelemetry in a Gin application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Implementing_OpenTelemetry_in_a_Gin_application.svg)](https://dev.to/signoz/implementing-opentelemetry-in-a-gin-application-6l2)
+[![Thank You](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Thank_You.svg)](https://dev.to/yongdev/thank-you-5b2i)
+[![20 Web Design Examples for Startups](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/20_Web_Design_Examples_for_Startups.svg)](https://dev.to/sumatosoft/20-web-design-examples-for-startups-4adj)
+[![From building to selling - EP.05](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/From_building_to_selling_-_EP.05.svg)](https://dev.to/twankrui/from-building-to-selling-ep05-31i9)
+[![How to build OAuth Provider Authentication with React and Altogic](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_build_OAuth_Provider_Authentication_with_React_and_Altogic.svg)](https://dev.to/altogic/how-to-build-oauth-provider-authentication-with-react-and-altogic-1g75)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, May 5, 2022 at 12:13:32 AM
+> Last updated: Thursday, May 5, 2022 at 6:19:51 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, May 5, 2022 at 12:13:37 AM
+> Last updated: Thursday, May 5, 2022 at 6:19:55 AM
 
 > Showing 5 of 30 posts.
 
+[![Episode 9 - Front-end testing with Lucas da Costa - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_9_-_Front-end_testing_with_Lucas_da_Costa_-_20minJS.svg)](https://podcast.20minjs.com/1952066/10548782-episode-9-front-end-testing-with-lucas-da-costa)
 [![GitHub - victorqribeiro/simpleWFC: A simplified version of the Wave Function Collapse algorithm](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_victorqribeiro_simpleWFC__A_simplified_version_of_the_Wave_Function_Collapse_algorithm.svg)](https://github.com/victorqribeiro/simpleWFC)
 [![5 Best Lerna Alternatives](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/5_Best_Lerna_Alternatives.svg)](https://javascript.plainenglish.io/5-best-lerna-alternatives-42ffe75d403e)
 [![GitHub - rustq/napi-nanoid: The NAPI nanoid written in Rust](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_rustq_napi-nanoid__The_NAPI_nanoid_written_in_Rust.svg)](https://github.com/rustq/napi-nanoid)
 [![8 Javascript quiz that may confuse you](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/8_Javascript_quiz_that_may_confuse_you.svg)](https://pitayan.com/posts/8-javascript-quiz-that-may-confuse-you)
-[![GitHub - elbwalker/walker.js: Autotrack library for analytics implementation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_elbwalker_walker.js__Autotrack_library_for_analytics_implementation.svg)](https://github.com/elbwalker/walker.js)
 
 
 <!-- post-list:end -->
