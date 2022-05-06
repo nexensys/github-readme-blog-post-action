@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, May 6, 2022 at 12:14:23 AM
+> Last updated: Friday, May 6, 2022 at 6:17:52 AM
 
 > Showing 5 of 12 posts.
 
-[![The amazing SEO powers of Remix](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_amazing_SEO_powers_of_Remix.svg)](https://dev.to/dailydevtips1/the-amazing-seo-powers-of-remix-32a3)
-[![GitLive's Tool Window Just Got a Major Upgrade in IntelliJ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/GitLive's_Tool_Window_Just_Got_a_Major_Upgrade_in_IntelliJ.svg)](https://dev.to/gitlive/gitlives-tool-window-just-got-a-major-upgrade-in-intellij-4ekh)
-[![Dart - From scratch to deploy 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dart_-_From_scratch_to_deploy_🚀.svg)](https://dev.to/ushieru/dart-from-scratch-to-deploy-2o4l)
-[![Unit testing Vue components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unit_testing_Vue_components.svg)](https://dev.to/jankaritech/unit-testing-vue-components-5gk1)
-[![Fix Permission denied (public key) With Gitlab Windows](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Fix_Permission_denied_(public_key)_With_Gitlab_Windows.svg)](https://dev.to/datmt/fix-permission-denied-public-key-with-gitlab-windows-161b)
+[![Create an image slider using HTML and CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_an_image_slider_using_HTML_and_CSS.svg)](https://dev.to/taimoorsattar7/create-an-image-slider-using-html-and-css-250l)
+[![Prototypes in Javascript in 5 minutes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Prototypes_in_Javascript_in_5_minutes.svg)](https://dev.to/juliecherner/prototypes-in-javascript-in-5-minutes-18i0)
+[![Creating Various Filters With OpenCV/Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_Various_Filters_With_OpenCV_Python.svg)](https://dev.to/ethand91/creating-various-filters-with-opencvpython-3077)
+[![Have you built your Github portolio?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Have_you_built_your_Github_portolio_.svg)](https://dev.to/karmablackshaw/have-you-built-your-github-portolio-be5)
+[![Cloud Pricing Comparison: AWS vs. Azure vs. Google Cloud Platform in 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cloud_Pricing_Comparison__AWS_vs._Azure_vs._Google_Cloud_Platform_in_2022.svg)](https://dev.to/castai/cloud-pricing-comparison-aws-vs-azure-vs-google-cloud-platform-in-2022-no2)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, May 6, 2022 at 12:14:25 AM
+> Last updated: Friday, May 6, 2022 at 6:17:54 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,21 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, May 6, 2022 at 12:14:27 AM
+> Last updated: Friday, May 6, 2022 at 6:17:57 AM
 
 > Showing 5 of 30 posts.
 
+[![
+Seo Services - Aparajayah
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Seo_Services_-_Aparajayah_.svg)](
+https://www.aparajayah.com/internet-marketing/search-engine-optimization
+)
 [![Announcing DeSolver for GraphQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Announcing_DeSolver_for_GraphQL.svg)](https://medium.com/@miakangnyc/announcing-desolver-for-graphql-697b4f893025)
 [![Introduction to Authenticated Encryption for the Working Developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Introduction_to_Authenticated_Encryption_for_the_Working_Developer.svg)](https://www.geekabyte.io/2022/05/introduction-to-authenticated.html)
 [![useReducer Is A Better Option Than useState](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/useReducer_Is_A_Better_Option_Than_useState.svg)](https://blog.openreplay.com/usereducer-is-a-better-option-than-usestate)
 [![Empty Objects are Truthy in JavaScript?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Empty_Objects_are_Truthy_in_JavaScript_.svg)](
 https://masteringjs.io/tutorials/fundamentals/empty-object-truthy
 )
-[![Episode 9 - Front-end testing with Lucas da Costa - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_9_-_Front-end_testing_with_Lucas_da_Costa_-_20minJS.svg)](https://podcast.20minjs.com/1952066/10548782-episode-9-front-end-testing-with-lucas-da-costa)
 
 
 <!-- post-list:end -->
