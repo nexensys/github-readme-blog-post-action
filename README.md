@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, May 5, 2022 at 6:44:14 PM
+> Last updated: Friday, May 6, 2022 at 12:14:23 AM
 
 > Showing 5 of 12 posts.
 
-[![How to Use Dynamic Routing in React to Improve UX](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Use_Dynamic_Routing_in_React_to_Improve_UX.svg)](https://dev.to/nickmendez/how-to-use-dynamic-routing-in-react-to-improve-ux-4i5e)
-[![Lets talk a bit about ISO/IEC 27001](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Lets_talk_a_bit_about_ISO_IEC_27001.svg)](https://dev.to/aws-builders/lets-talk-a-bit-about-isoiec-27001-1gpl)
-[![Using Next Middleware to access and use geolocation in a non dynamic route](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_Next_Middleware_to_access_and_use_geolocation_in_a_non_dynamic_route.svg)](https://dev.to/perkinsjr/using-next-middleware-to-access-and-use-geolocation-in-a-non-dynamic-route-25n)
-[![Listen to DevNews S8E4: A Surge In Hacks Against Russia, Privacy Concerns With Mental Health Apps, & more!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Listen_to_DevNews_S8E4__A_Surge_In_Hacks_Against_Russia__Privacy_Concerns_With_Mental_Health_Apps____more!.svg)](https://dev.to/devteam/listen-to-devnews-s8e4-a-surge-in-hacks-against-russia-privacy-concerns-with-mental-health-apps-more-3ga)
-[![Measuring React styled-components performance & best practices](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Measuring_React_styled-components_performance___best_practices.svg)](https://dev.to/useanvil/measuring-react-styled-components-performance-best-practices-2ggb)
+[![The amazing SEO powers of Remix](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_amazing_SEO_powers_of_Remix.svg)](https://dev.to/dailydevtips1/the-amazing-seo-powers-of-remix-32a3)
+[![GitLive's Tool Window Just Got a Major Upgrade in IntelliJ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/GitLive's_Tool_Window_Just_Got_a_Major_Upgrade_in_IntelliJ.svg)](https://dev.to/gitlive/gitlives-tool-window-just-got-a-major-upgrade-in-intellij-4ekh)
+[![Dart - From scratch to deploy 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dart_-_From_scratch_to_deploy_🚀.svg)](https://dev.to/ushieru/dart-from-scratch-to-deploy-2o4l)
+[![Unit testing Vue components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unit_testing_Vue_components.svg)](https://dev.to/jankaritech/unit-testing-vue-components-5gk1)
+[![Fix Permission denied (public key) With Gitlab Windows](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Fix_Permission_denied_(public_key)_With_Gitlab_Windows.svg)](https://dev.to/datmt/fix-permission-denied-public-key-with-gitlab-windows-161b)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, May 5, 2022 at 6:44:18 PM
+> Last updated: Friday, May 6, 2022 at 12:14:25 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, May 5, 2022 at 6:44:22 PM
+> Last updated: Friday, May 6, 2022 at 12:14:27 AM
 
 > Showing 5 of 30 posts.
 
