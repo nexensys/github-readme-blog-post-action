@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, May 5, 2022 at 12:14:00 PM
+> Last updated: Thursday, May 5, 2022 at 6:44:14 PM
 
 > Showing 5 of 12 posts.
 
-[![My Take on: "What Skills Make a Great Software Engineer?"](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_Take_on___What_Skills_Make_a_Great_Software_Engineer__.svg)](https://dev.to/intesar/my-take-on-what-skills-make-a-great-software-engineer-40a0)
-[![React Tricks Miniseries 6: How to use useEffect properly](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Tricks_Miniseries_6__How_to_use_useEffect_properly.svg)](https://dev.to/theeasydev/react-tricks-miniseries-6-how-to-use-useeffect-properly-17lg)
-[![State of Development: 5-5-2022; Gold Language](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/State_of_Development__5-5-2022;_Gold_Language.svg)](https://dev.to/colack/state-of-development-5-5-2022-gold-language-and-megashell-16lk)
-[![5 websites to take your front-end skills to the next level](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_websites_to_take_your_front-end_skills_to_the_next_level.svg)](https://dev.to/iarchitsharma/5-websites-to-take-your-front-end-skills-to-the-next-level-17gh)
-[![Enhance FreeRTOS with Luos: Allow you to develop your projects using microservices](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Enhance_FreeRTOS_with_Luos__Allow_you_to_develop_your_projects_using_microservices.svg)](https://dev.to/luos/enhance-freertos-with-luos-allow-you-to-develop-your-projects-using-microservices-1llb)
+[![How to Use Dynamic Routing in React to Improve UX](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Use_Dynamic_Routing_in_React_to_Improve_UX.svg)](https://dev.to/nickmendez/how-to-use-dynamic-routing-in-react-to-improve-ux-4i5e)
+[![Lets talk a bit about ISO/IEC 27001](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Lets_talk_a_bit_about_ISO_IEC_27001.svg)](https://dev.to/aws-builders/lets-talk-a-bit-about-isoiec-27001-1gpl)
+[![Using Next Middleware to access and use geolocation in a non dynamic route](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_Next_Middleware_to_access_and_use_geolocation_in_a_non_dynamic_route.svg)](https://dev.to/perkinsjr/using-next-middleware-to-access-and-use-geolocation-in-a-non-dynamic-route-25n)
+[![Listen to DevNews S8E4: A Surge In Hacks Against Russia, Privacy Concerns With Mental Health Apps, & more!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Listen_to_DevNews_S8E4__A_Surge_In_Hacks_Against_Russia__Privacy_Concerns_With_Mental_Health_Apps____more!.svg)](https://dev.to/devteam/listen-to-devnews-s8e4-a-surge-in-hacks-against-russia-privacy-concerns-with-mental-health-apps-more-3ga)
+[![Measuring React styled-components performance & best practices](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Measuring_React_styled-components_performance___best_practices.svg)](https://dev.to/useanvil/measuring-react-styled-components-performance-best-practices-2ggb)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, May 5, 2022 at 12:14:04 PM
+> Last updated: Thursday, May 5, 2022 at 6:44:18 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, May 5, 2022 at 12:14:14 PM
+> Last updated: Thursday, May 5, 2022 at 6:44:22 PM
 
 > Showing 5 of 30 posts.
 
+[![Announcing DeSolver for GraphQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Announcing_DeSolver_for_GraphQL.svg)](https://medium.com/@miakangnyc/announcing-desolver-for-graphql-697b4f893025)
+[![Introduction to Authenticated Encryption for the Working Developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Introduction_to_Authenticated_Encryption_for_the_Working_Developer.svg)](https://www.geekabyte.io/2022/05/introduction-to-authenticated.html)
+[![useReducer Is A Better Option Than useState](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/useReducer_Is_A_Better_Option_Than_useState.svg)](https://blog.openreplay.com/usereducer-is-a-better-option-than-usestate)
 [![Empty Objects are Truthy in JavaScript?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Empty_Objects_are_Truthy_in_JavaScript_.svg)](
 https://masteringjs.io/tutorials/fundamentals/empty-object-truthy
 )
 [![Episode 9 - Front-end testing with Lucas da Costa - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_9_-_Front-end_testing_with_Lucas_da_Costa_-_20minJS.svg)](https://podcast.20minjs.com/1952066/10548782-episode-9-front-end-testing-with-lucas-da-costa)
-[![GitHub - victorqribeiro/simpleWFC: A simplified version of the Wave Function Collapse algorithm](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_victorqribeiro_simpleWFC__A_simplified_version_of_the_Wave_Function_Collapse_algorithm.svg)](https://github.com/victorqribeiro/simpleWFC)
-[![5 Best Lerna Alternatives](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/5_Best_Lerna_Alternatives.svg)](https://javascript.plainenglish.io/5-best-lerna-alternatives-42ffe75d403e)
-[![GitHub - rustq/napi-nanoid: The NAPI nanoid written in Rust](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_rustq_napi-nanoid__The_NAPI_nanoid_written_in_Rust.svg)](https://github.com/rustq/napi-nanoid)
 
 
 <!-- post-list:end -->
