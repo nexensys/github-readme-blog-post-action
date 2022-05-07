@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, May 6, 2022 at 12:12:25 PM
+> Last updated: Friday, May 6, 2022 at 6:46:09 PM
 
 > Showing 5 of 12 posts.
 
-[![How do I learn things so fast?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_do_I_learn_things_so_fast_.svg)](https://dev.to/developerbishwas/how-do-you-learn-things-so-fast-pfg)
-[![Final Weekend of the Appwrite Hackathon on DEV!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Final_Weekend_of_the_Appwrite_Hackathon_on_DEV!.svg)](https://dev.to/devteam/final-weekend-of-the-appwrite-hackathon-on-dev-4ljd)
-[![Making your form more inclusive](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Making_your_form_more_inclusive.svg)](https://dev.to/unnotedme/making-your-form-more-inclusive-2imf)
-[![Document Object Model Specification](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Document_Object_Model_Specification.svg)](https://dev.to/cleancodestudio/document-object-model-specification-2a9o)
-[![12 Web Development Podcasts That Inform and Inspire](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/12_Web_Development_Podcasts_That_Inform_and_Inspire.svg)](https://dev.to/thisdotmedia/12-web-development-podcasts-that-inform-and-inspire-ng6)
+[![How I scanned dev.to APIs for vulnerabilities](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_I_scanned_dev.to_APIs_for_vulnerabilities.svg)](https://dev.to/intesar/how-i-scanned-devto-apis-for-vulnerabilities-7jj)
+[![Resilient Imports with Auto-Generated TypeScript Aliases](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Resilient_Imports_with_Auto-Generated_TypeScript_Aliases.svg)](https://dev.to/zachbryant/resilient-imports-with-auto-generated-typescript-aliases-59go)
+[![What jobs exist in IT?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_jobs_exist_in_IT_.svg)](https://dev.to/ben/what-jobs-exist-in-it-m0e)
+[![#05: Securing Static Web Apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_05__Securing_Static_Web_Apps.svg)](https://dev.to/azure/05-securing-static-web-apps-5fe3)
+[![Build and Deploy ERC20 Token in 3 Steps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_and_Deploy_ERC20_Token_in_3_Steps.svg)](https://dev.to/olanetsoft/build-and-deploy-erc20-token-in-3-steps-1a8n)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, May 6, 2022 at 12:12:27 PM
+> Last updated: Friday, May 6, 2022 at 6:46:12 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, May 6, 2022 at 12:12:30 PM
+> Last updated: Friday, May 6, 2022 at 6:46:15 PM
 
 > Showing 5 of 30 posts.
 
+[![Simple communication between page and browser extension](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Simple_communication_between_page_and_browser_extension.svg)](https://dev.to/przemyslawjanpietrzak/simple-communication-between-page-and-browser-extension-1knf)
 [![
 Animated quadratic curves (pure JS)
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Animated_quadratic_curves_(pure_JS)_.svg)](
@@ -59,7 +60,6 @@ https://www.aparajayah.com/internet-marketing/search-engine-optimization
 )
 [![Announcing DeSolver for GraphQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Announcing_DeSolver_for_GraphQL.svg)](https://medium.com/@miakangnyc/announcing-desolver-for-graphql-697b4f893025)
 [![Introduction to Authenticated Encryption for the Working Developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Introduction_to_Authenticated_Encryption_for_the_Working_Developer.svg)](https://www.geekabyte.io/2022/05/introduction-to-authenticated.html)
-[![useReducer Is A Better Option Than useState](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/useReducer_Is_A_Better_Option_Than_useState.svg)](https://blog.openreplay.com/usereducer-is-a-better-option-than-usestate)
 
 
 <!-- post-list:end -->
