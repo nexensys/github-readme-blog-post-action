@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, May 7, 2022 at 6:16:42 AM
+> Last updated: Saturday, May 7, 2022 at 12:11:13 PM
 
 > Showing 5 of 12 posts.
 
-[![Advice about ML](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Advice_about_ML.svg)](https://dev.to/gokturks7c/advice-about-ml-2b91)
-[![Imposter syndrome is about systemic discrimination](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Imposter_syndrome_is_about_systemic_discrimination.svg)](https://dev.to/wesen/imposter-syndrome-is-about-systemic-discrimination-dmp)
-[![JavaScript Tips and Tricks Part -II](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_Tips_and_Tricks_Part_-II.svg)](https://dev.to/jagroop2000/javascript-tips-and-tricks-part-ii-3o7l)
-[![Experience New Console of EC2 Launch Instance and its Volume Encryption with Custom Key](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Experience_New_Console_of_EC2_Launch_Instance_and_its_Volume_Encryption_with_Custom_Key.svg)](https://dev.to/aws-builders/experience-new-console-of-ec2-launch-instance-and-its-volume-encryption-with-custom-key-4i1j)
-[![Can You Use A Template For Your Web Development Portfolio? 🤔](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Can_You_Use_A_Template_For_Your_Web_Development_Portfolio__🤔.svg)](https://dev.to/rammcodes/can-you-use-a-template-for-your-web-development-portfolio-258)
+[![Learn KOTLIN in 25 minutes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Learn_KOTLIN_in_25_minutes.svg)](https://dev.to/bekbrace/learn-kotlin-in-25-minutes-i2b)
+[![Don't abuse critical sections](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Don't_abuse_critical_sections.svg)](https://dev.to/oryaacov/dont-abuse-critical-sections-26fc)
+[![Ruby on Rails(ROR) development environment setup(Mac OS)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ruby_on_Rails(ROR)_development_environment_setup(Mac_OS).svg)](https://dev.to/codesalley/ruby-on-railsror-development-environment-setupmac-os-4ack)
+[![Virtual Machines 101](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Virtual_Machines_101.svg)](https://dev.to/kcdchennai/virtual-machines-101-2gmg)
+[![Prevent the Overfitting through Regularization: An example by Ridge Regression](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Prevent_the_Overfitting_through_Regularization__An_example_by_Ridge_Regression.svg)](https://dev.to/rlrocha/prevent-the-overfitting-through-regularization-an-example-by-ridge-regression-45hd)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, May 7, 2022 at 6:16:45 AM
+> Last updated: Saturday, May 7, 2022 at 12:11:15 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, May 7, 2022 at 6:16:47 AM
+> Last updated: Saturday, May 7, 2022 at 12:11:17 PM
 
 > Showing 5 of 30 posts.
 
