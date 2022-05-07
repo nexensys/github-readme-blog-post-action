@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, May 7, 2022 at 12:12:49 AM
+> Last updated: Saturday, May 7, 2022 at 6:16:42 AM
 
 > Showing 5 of 12 posts.
 
-[![How Machine Learning is used in E-Commerce ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_Machine_Learning_is_used_in_E-Commerce__.svg)](https://dev.to/codewithsom/how-machine-learning-is-used-in-e-commerce--3mab)
-[![Video processing in browser using FFmpeg.wasm and Solidjs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Video_processing_in_browser_using_FFmpeg.wasm_and_Solidjs.svg)](https://dev.to/kcdchennai/video-processing-in-browser-using-ffmpegwasm-and-solidjs-1jl3)
-[![How to Develop Linux Applications (Part 2)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Develop_Linux_Applications_(Part_2).svg)](https://dev.to/tmchuynh/how-to-develop-linux-applications-part-2-7im)
-[![How to Develop Linux Applications (Part 1)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Develop_Linux_Applications_(Part_1).svg)](https://dev.to/tmchuynh/how-to-develop-linux-applications-part-1-2c18)
-[![Javascript Animation 13](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Javascript_Animation_13.svg)](https://dev.to/fullstackhacker/javascript-animation-13-1akj)
+[![Advice about ML](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Advice_about_ML.svg)](https://dev.to/gokturks7c/advice-about-ml-2b91)
+[![Imposter syndrome is about systemic discrimination](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Imposter_syndrome_is_about_systemic_discrimination.svg)](https://dev.to/wesen/imposter-syndrome-is-about-systemic-discrimination-dmp)
+[![JavaScript Tips and Tricks Part -II](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_Tips_and_Tricks_Part_-II.svg)](https://dev.to/jagroop2000/javascript-tips-and-tricks-part-ii-3o7l)
+[![Experience New Console of EC2 Launch Instance and its Volume Encryption with Custom Key](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Experience_New_Console_of_EC2_Launch_Instance_and_its_Volume_Encryption_with_Custom_Key.svg)](https://dev.to/aws-builders/experience-new-console-of-ec2-launch-instance-and-its-volume-encryption-with-custom-key-4i1j)
+[![Can You Use A Template For Your Web Development Portfolio? 🤔](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Can_You_Use_A_Template_For_Your_Web_Development_Portfolio__🤔.svg)](https://dev.to/rammcodes/can-you-use-a-template-for-your-web-development-portfolio-258)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, May 7, 2022 at 12:12:52 AM
+> Last updated: Saturday, May 7, 2022 at 6:16:45 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, May 7, 2022 at 12:12:54 AM
+> Last updated: Saturday, May 7, 2022 at 6:16:47 AM
 
 > Showing 5 of 30 posts.
 
