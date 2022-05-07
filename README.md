@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, May 6, 2022 at 6:46:09 PM
+> Last updated: Saturday, May 7, 2022 at 12:12:49 AM
 
 > Showing 5 of 12 posts.
 
-[![How I scanned dev.to APIs for vulnerabilities](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_I_scanned_dev.to_APIs_for_vulnerabilities.svg)](https://dev.to/intesar/how-i-scanned-devto-apis-for-vulnerabilities-7jj)
-[![Resilient Imports with Auto-Generated TypeScript Aliases](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Resilient_Imports_with_Auto-Generated_TypeScript_Aliases.svg)](https://dev.to/zachbryant/resilient-imports-with-auto-generated-typescript-aliases-59go)
-[![What jobs exist in IT?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_jobs_exist_in_IT_.svg)](https://dev.to/ben/what-jobs-exist-in-it-m0e)
-[![#05: Securing Static Web Apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_05__Securing_Static_Web_Apps.svg)](https://dev.to/azure/05-securing-static-web-apps-5fe3)
-[![Build and Deploy ERC20 Token in 3 Steps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_and_Deploy_ERC20_Token_in_3_Steps.svg)](https://dev.to/olanetsoft/build-and-deploy-erc20-token-in-3-steps-1a8n)
+[![How Machine Learning is used in E-Commerce ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_Machine_Learning_is_used_in_E-Commerce__.svg)](https://dev.to/codewithsom/how-machine-learning-is-used-in-e-commerce--3mab)
+[![Video processing in browser using FFmpeg.wasm and Solidjs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Video_processing_in_browser_using_FFmpeg.wasm_and_Solidjs.svg)](https://dev.to/kcdchennai/video-processing-in-browser-using-ffmpegwasm-and-solidjs-1jl3)
+[![How to Develop Linux Applications (Part 2)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Develop_Linux_Applications_(Part_2).svg)](https://dev.to/tmchuynh/how-to-develop-linux-applications-part-2-7im)
+[![How to Develop Linux Applications (Part 1)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Develop_Linux_Applications_(Part_1).svg)](https://dev.to/tmchuynh/how-to-develop-linux-applications-part-1-2c18)
+[![Javascript Animation 13](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Javascript_Animation_13.svg)](https://dev.to/fullstackhacker/javascript-animation-13-1akj)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, May 6, 2022 at 6:46:12 PM
+> Last updated: Saturday, May 7, 2022 at 12:12:52 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, May 6, 2022 at 6:46:15 PM
+> Last updated: Saturday, May 7, 2022 at 12:12:54 AM
 
 > Showing 5 of 30 posts.
 
