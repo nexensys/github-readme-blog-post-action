@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, May 7, 2022 at 6:48:23 PM
+> Last updated: Sunday, May 8, 2022 at 12:12:52 AM
 
 > Showing 5 of 12 posts.
 
+[![Types of Steganography methods that are used for hiding confidential data.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Types_of_Steganography_methods_that_are_used_for_hiding_confidential_data..svg)](https://dev.to/prasan26/types-of-steganography-methods-that-are-used-for-hiding-confidential-data-1ebj)
+[![EKS Blueprints - Modular Constructs for your Kubernetes cluster](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/EKS_Blueprints_-_Modular_Constructs_for_your_Kubernetes_cluster.svg)](https://dev.to/aws-builders/eks-blueprints-modular-constructs-for-your-kubernetes-cluster-10ld)
+[![Review Pull Requests with git worktrees](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Review_Pull_Requests_with_git_worktrees.svg)](https://dev.to/waylonwalker/review-pull-requests-with-git-worktrees-545p)
 [![Structs in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Structs_in_JavaScript.svg)](https://dev.to/joelbonetr/structs-in-javascript-1p9l)
 [![How to use client-side only packages with SSR in Gatsby and Next.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_client-side_only_packages_with_SSR_in_Gatsby_and_Next.js.svg)](https://dev.to/elisabethleonhardt/how-to-use-client-side-only-packages-with-ssr-in-gatsby-and-nextjs-3pfa)
-[![What is a landing page and what should be included in the design?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_a_landing_page_and_what_should_be_included_in_the_design_.svg)](https://dev.to/philipmcnill/what-is-a-landing-page-and-what-should-be-included-in-the-design-3lk6)
-[![What is Indexifembedded?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_Indexifembedded_.svg)](https://dev.to/colinmcdermott/what-is-indexifembedded-1ha1)
-[![Free 10 new Chakra UI components - TemplatesKart](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Free_10_new_Chakra_UI_components_-_TemplatesKart.svg)](https://dev.to/m_ahmad/free-10-new-chakra-ui-components-templateskart-1dc5)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, May 7, 2022 at 6:48:26 PM
+> Last updated: Sunday, May 8, 2022 at 12:12:55 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, May 7, 2022 at 6:48:29 PM
+> Last updated: Sunday, May 8, 2022 at 12:13:00 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - rerender2021/ave-image-diff: A simple image diff tool powered by avernakis.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_rerender2021_ave-image-diff__A_simple_image_diff_tool_powered_by_avernakis..svg)](https://github.com/rerender2021/ave-image-diff)
 [![Measuring web performance, How fast is fast?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Measuring_web_performance__How_fast_is_fast_.svg)](https://medhatdawoud.net/blog/measuring-web-performance)
 [![Looking for Pull Request](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Looking_for_Pull_Request.svg)](https://lookingforpullrequests.carrd.co)
 [![Simple communication between page and browser extension](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Simple_communication_between_page_and_browser_extension.svg)](https://dev.to/przemyslawjanpietrzak/simple-communication-between-page-and-browser-extension-1knf)
@@ -54,11 +55,6 @@ http://www.echojs.com
 Animated quadratic curves (pure JS)
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Animated_quadratic_curves_(pure_JS)_.svg)](
 https://slicker.me/javascript/curves.htm
-)
-[![
-Seo Services - Aparajayah
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Seo_Services_-_Aparajayah_.svg)](
-https://www.aparajayah.com/internet-marketing/search-engine-optimization
 )
 
 
