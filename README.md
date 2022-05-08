@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, May 8, 2022 at 6:16:34 AM
+> Last updated: Sunday, May 8, 2022 at 12:11:22 PM
 
 > Showing 5 of 12 posts.
 
-[![The ABCs of NestJS: A Beginner’s guide with MongoDB(Mongoose).](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_ABCs_of_NestJS__A_Beginner’s_guide_with_MongoDB(Mongoose)..svg)](https://dev.to/davidekete/the-abcs-of-nestjs-a-beginners-guide-with-mongodbmongoose-2ln)
-[![Deploy WordPress App to Amazon Lightsail](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deploy_WordPress_App_to_Amazon_Lightsail.svg)](https://dev.to/aws-builders/deploy-wordpress-app-to-amazon-lightsail-48i)
-[![What are the best IDE for beginners?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_are_the_best_IDE_for_beginners_.svg)](https://dev.to/amirrezaheydari/what-are-the-best-ide-for-beginners-5de0)
-[![I hated React JS, but nowadays I can’t live without it…](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_hated_React_JS__but_nowadays_I_can’t_live_without_it….svg)](https://dev.to/developerbishwas/i-hated-react-js-but-nowadays-i-cant-live-without-it-51i6)
-[![Introduction to Programming - Compiler and Interpreter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_to_Programming_-_Compiler_and_Interpreter.svg)](https://dev.to/dchhitarka/introduction-to-programming-compiler-and-interpreter-23a4)
+[![What's Your Heading?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What's_Your_Heading_.svg)](https://dev.to/colabottles/whats-your-heading-2eak)
+[![Please, share your feedback about my content 🙏](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Please__share_your_feedback_about_my_content_🙏.svg)](https://dev.to/melnik909/please-share-your-feedback-about-my-content-3n8i)
+[![How do you work with computers and the web that is different from non-developers?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_do_you_work_with_computers_and_the_web_that_is_different_from_non-developers_.svg)](https://dev.to/ben/how-do-you-work-with-computers-and-the-web-that-is-different-from-non-developers-57c8)
+[![Add custom fonts react-native for iOS and don't die trying](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Add_custom_fonts_react-native_for_iOS_and_don't_die_trying.svg)](https://dev.to/antoomartini/add-custom-fonts-react-native-for-ios-and-dont-die-trying-7bg)
+[![🚁 AWS CDK 101 - 🐬 Fetching JSON from dynamodb vs S3 through stepfunction](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🚁_AWS_CDK_101_-_🐬_Fetching_JSON_from_dynamodb_vs_S3_through_stepfunction.svg)](https://dev.to/aravindvcyber/aws-cdk-101-fetching-json-from-dynamodb-vs-s3-through-stepfunction-1mb7)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, May 8, 2022 at 6:16:36 AM
+> Last updated: Sunday, May 8, 2022 at 12:11:25 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, May 8, 2022 at 6:16:38 AM
+> Last updated: Sunday, May 8, 2022 at 12:11:29 PM
 
 > Showing 5 of 30 posts.
 
