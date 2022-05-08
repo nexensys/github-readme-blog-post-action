@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, May 7, 2022 at 12:11:13 PM
+> Last updated: Saturday, May 7, 2022 at 6:48:23 PM
 
 > Showing 5 of 12 posts.
 
-[![Learn KOTLIN in 25 minutes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Learn_KOTLIN_in_25_minutes.svg)](https://dev.to/bekbrace/learn-kotlin-in-25-minutes-i2b)
-[![Don't abuse critical sections](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Don't_abuse_critical_sections.svg)](https://dev.to/oryaacov/dont-abuse-critical-sections-26fc)
-[![Ruby on Rails(ROR) development environment setup(Mac OS)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ruby_on_Rails(ROR)_development_environment_setup(Mac_OS).svg)](https://dev.to/codesalley/ruby-on-railsror-development-environment-setupmac-os-4ack)
-[![Virtual Machines 101](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Virtual_Machines_101.svg)](https://dev.to/kcdchennai/virtual-machines-101-2gmg)
-[![Prevent the Overfitting through Regularization: An example by Ridge Regression](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Prevent_the_Overfitting_through_Regularization__An_example_by_Ridge_Regression.svg)](https://dev.to/rlrocha/prevent-the-overfitting-through-regularization-an-example-by-ridge-regression-45hd)
+[![Structs in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Structs_in_JavaScript.svg)](https://dev.to/joelbonetr/structs-in-javascript-1p9l)
+[![How to use client-side only packages with SSR in Gatsby and Next.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_client-side_only_packages_with_SSR_in_Gatsby_and_Next.js.svg)](https://dev.to/elisabethleonhardt/how-to-use-client-side-only-packages-with-ssr-in-gatsby-and-nextjs-3pfa)
+[![What is a landing page and what should be included in the design?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_a_landing_page_and_what_should_be_included_in_the_design_.svg)](https://dev.to/philipmcnill/what-is-a-landing-page-and-what-should-be-included-in-the-design-3lk6)
+[![What is Indexifembedded?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_Indexifembedded_.svg)](https://dev.to/colinmcdermott/what-is-indexifembedded-1ha1)
+[![Free 10 new Chakra UI components - TemplatesKart](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Free_10_new_Chakra_UI_components_-_TemplatesKart.svg)](https://dev.to/m_ahmad/free-10-new-chakra-ui-components-templateskart-1dc5)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, May 7, 2022 at 12:11:15 PM
+> Last updated: Saturday, May 7, 2022 at 6:48:26 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,12 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, May 7, 2022 at 12:11:17 PM
+> Last updated: Saturday, May 7, 2022 at 6:48:29 PM
 
 > Showing 5 of 30 posts.
 
+[![Measuring web performance, How fast is fast?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Measuring_web_performance__How_fast_is_fast_.svg)](https://medhatdawoud.net/blog/measuring-web-performance)
+[![Looking for Pull Request](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Looking_for_Pull_Request.svg)](https://lookingforpullrequests.carrd.co)
 [![Simple communication between page and browser extension](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Simple_communication_between_page_and_browser_extension.svg)](https://dev.to/przemyslawjanpietrzak/simple-communication-between-page-and-browser-extension-1knf)
 [![
 Animated quadratic curves (pure JS)
@@ -58,8 +60,6 @@ Seo Services - Aparajayah
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Seo_Services_-_Aparajayah_.svg)](
 https://www.aparajayah.com/internet-marketing/search-engine-optimization
 )
-[![Announcing DeSolver for GraphQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Announcing_DeSolver_for_GraphQL.svg)](https://medium.com/@miakangnyc/announcing-desolver-for-graphql-697b4f893025)
-[![Introduction to Authenticated Encryption for the Working Developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Introduction_to_Authenticated_Encryption_for_the_Working_Developer.svg)](https://www.geekabyte.io/2022/05/introduction-to-authenticated.html)
 
 
 <!-- post-list:end -->
