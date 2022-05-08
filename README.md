@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, May 8, 2022 at 12:12:52 AM
+> Last updated: Sunday, May 8, 2022 at 6:16:34 AM
 
 > Showing 5 of 12 posts.
 
-[![Types of Steganography methods that are used for hiding confidential data.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Types_of_Steganography_methods_that_are_used_for_hiding_confidential_data..svg)](https://dev.to/prasan26/types-of-steganography-methods-that-are-used-for-hiding-confidential-data-1ebj)
-[![EKS Blueprints - Modular Constructs for your Kubernetes cluster](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/EKS_Blueprints_-_Modular_Constructs_for_your_Kubernetes_cluster.svg)](https://dev.to/aws-builders/eks-blueprints-modular-constructs-for-your-kubernetes-cluster-10ld)
-[![Review Pull Requests with git worktrees](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Review_Pull_Requests_with_git_worktrees.svg)](https://dev.to/waylonwalker/review-pull-requests-with-git-worktrees-545p)
-[![Structs in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Structs_in_JavaScript.svg)](https://dev.to/joelbonetr/structs-in-javascript-1p9l)
-[![How to use client-side only packages with SSR in Gatsby and Next.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_client-side_only_packages_with_SSR_in_Gatsby_and_Next.js.svg)](https://dev.to/elisabethleonhardt/how-to-use-client-side-only-packages-with-ssr-in-gatsby-and-nextjs-3pfa)
+[![The ABCs of NestJS: A Beginner’s guide with MongoDB(Mongoose).](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_ABCs_of_NestJS__A_Beginner’s_guide_with_MongoDB(Mongoose)..svg)](https://dev.to/davidekete/the-abcs-of-nestjs-a-beginners-guide-with-mongodbmongoose-2ln)
+[![Deploy WordPress App to Amazon Lightsail](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deploy_WordPress_App_to_Amazon_Lightsail.svg)](https://dev.to/aws-builders/deploy-wordpress-app-to-amazon-lightsail-48i)
+[![What are the best IDE for beginners?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_are_the_best_IDE_for_beginners_.svg)](https://dev.to/amirrezaheydari/what-are-the-best-ide-for-beginners-5de0)
+[![I hated React JS, but nowadays I can’t live without it…](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_hated_React_JS__but_nowadays_I_can’t_live_without_it….svg)](https://dev.to/developerbishwas/i-hated-react-js-but-nowadays-i-cant-live-without-it-51i6)
+[![Introduction to Programming - Compiler and Interpreter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_to_Programming_-_Compiler_and_Interpreter.svg)](https://dev.to/dchhitarka/introduction-to-programming-compiler-and-interpreter-23a4)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, May 8, 2022 at 12:12:55 AM
+> Last updated: Sunday, May 8, 2022 at 6:16:36 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, May 8, 2022 at 12:13:00 AM
+> Last updated: Sunday, May 8, 2022 at 6:16:38 AM
 
 > Showing 5 of 30 posts.
 
