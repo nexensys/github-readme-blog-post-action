@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, May 9, 2022 at 6:18:49 AM
+> Last updated: Monday, May 9, 2022 at 12:12:26 PM
 
 > Showing 5 of 12 posts.
 
-[![Top 15 Utility Tools For Testers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_15_Utility_Tools_For_Testers.svg)](https://dev.to/lambdatest/top-15-utility-tools-for-testers-1gip)
-[![App Generator - Code a simple Dashboard using AppSeed](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/App_Generator_-_Code_a_simple_Dashboard_using_AppSeed.svg)](https://dev.to/sm0ke/app-generator-code-a-simple-dashboard-using-appseed-3ld1)
-[![8 Unconventional YouTube Channels for Software Engineers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/8_Unconventional_YouTube_Channels_for_Software_Engineers.svg)](https://dev.to/maddy/8-unconventional-youtube-channels-for-software-engineers-54d4)
-[![(Not) giving up one’s Agency: some personal notes about beyond tellerrand conference 2022 in Düsseldorf](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/(Not)_giving_up_one’s_Agency__some_personal_notes_about_beyond_tellerrand_conference_2022_in_Düsseldorf.svg)](https://dev.to/ingosteinke/not-giving-up-ones-agency-some-personal-notes-about-beyond-tellerrand-conference-2022-in-dusseldorf-1de0)
-[![What if your apps get rebuilt, only from reading the commit messages?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_if_your_apps_get_rebuilt__only_from_reading_the_commit_messages_.svg)](https://dev.to/jankapunkt/what-if-your-apps-get-rebuilt-only-from-reading-the-commit-messages-2cbf)
+[![Tipi, a new solution to build C++ projects easier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tipi__a_new_solution_to_build_C++_projects_easier.svg)](https://dev.to/sandordargo/tipi-a-new-solution-to-build-c-projects-easier-545d)
+[![Pascal's Triangle](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Pascal's_Triangle.svg)](https://dev.to/user64bit/pascals-triangle-1kjn)
+[![A Visualizer for PyTorch Image Transformations](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Visualizer_for_PyTorch_Image_Transformations.svg)](https://dev.to/mage_ai/a-visualizer-for-pytorch-image-transformations-n2f)
+[![My Experience With React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_Experience_With_React.svg)](https://dev.to/logamill/my-experience-with-react-1aai)
+[![Introducing the Mayfield + DEV discussion series](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_the_Mayfield_+_DEV_discussion_series.svg)](https://dev.to/devteam/introducing-the-mayfield-dev-discussion-series-2cbo)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, May 9, 2022 at 6:18:52 AM
+> Last updated: Monday, May 9, 2022 at 12:12:30 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, May 9, 2022 at 6:18:59 AM
+> Last updated: Monday, May 9, 2022 at 12:12:35 PM
 
 > Showing 5 of 30 posts.
 
+[![vscode.email | A Newsletter featuring news, tips, and tricks for VS Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/vscode.email___A_Newsletter_featuring_news__tips__and_tricks_for_VS_Code.svg)](https://vscode.email)
 [![GitHub - Aro1914/AroTable: A self-sorting integer data structure.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Aro1914_AroTable__A_self-sorting_integer_data_structure..svg)](https://github.com/Aro1914/AroTable)
 [![GitHub - rerender2021/ave-image-diff: A simple image diff tool powered by avernakis.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_rerender2021_ave-image-diff__A_simple_image_diff_tool_powered_by_avernakis..svg)](https://github.com/rerender2021/ave-image-diff)
 [![Measuring web performance, How fast is fast?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Measuring_web_performance__How_fast_is_fast_.svg)](https://medhatdawoud.net/blog/measuring-web-performance)
 [![Looking for Pull Request](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Looking_for_Pull_Request.svg)](https://lookingforpullrequests.carrd.co)
-[![Simple communication between page and browser extension](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Simple_communication_between_page_and_browser_extension.svg)](https://dev.to/przemyslawjanpietrzak/simple-communication-between-page-and-browser-extension-1knf)
 
 
 <!-- post-list:end -->
