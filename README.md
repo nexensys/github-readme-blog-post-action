@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, May 9, 2022 at 12:13:40 AM
+> Last updated: Monday, May 9, 2022 at 6:18:49 AM
 
 > Showing 5 of 12 posts.
 
-[![AWS Serverless: start with your best friends](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_Serverless__start_with_your_best_friends.svg)](https://dev.to/aws-builders/aws-serverless-start-with-your-best-friends-3a6i)
-[![Building Applications with Astro Build & Azure Static Web Apps CLI!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_Applications_with_Astro_Build___Azure_Static_Web_Apps_CLI!.svg)](https://dev.to/azure/building-applications-with-astro-build-azure-static-web-apps-cli-a20)
-[![Why does WINE not want to run my game? How can I fix it? - WINE log.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_does_WINE_not_want_to_run_my_game__How_can_I_fix_it__-_WINE_log..svg)](https://dev.to/baenencalin/why-does-wine-not-want-to-run-my-game-how-can-i-fix-it-wine-log-20ma)
-[![SEO For Bootstrapped Founders](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/SEO_For_Bootstrapped_Founders.svg)](https://dev.to/tomzaragoza/seo-for-bootstrapped-founders-3i2a)
-[![Is anyone else on DEV a furry?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Is_anyone_else_on_DEV_a_furry_.svg)](https://dev.to/baenencalin/is-anyone-else-on-dev-a-furry-2915)
+[![Top 15 Utility Tools For Testers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_15_Utility_Tools_For_Testers.svg)](https://dev.to/lambdatest/top-15-utility-tools-for-testers-1gip)
+[![App Generator - Code a simple Dashboard using AppSeed](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/App_Generator_-_Code_a_simple_Dashboard_using_AppSeed.svg)](https://dev.to/sm0ke/app-generator-code-a-simple-dashboard-using-appseed-3ld1)
+[![8 Unconventional YouTube Channels for Software Engineers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/8_Unconventional_YouTube_Channels_for_Software_Engineers.svg)](https://dev.to/maddy/8-unconventional-youtube-channels-for-software-engineers-54d4)
+[![(Not) giving up one’s Agency: some personal notes about beyond tellerrand conference 2022 in Düsseldorf](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/(Not)_giving_up_one’s_Agency__some_personal_notes_about_beyond_tellerrand_conference_2022_in_Düsseldorf.svg)](https://dev.to/ingosteinke/not-giving-up-ones-agency-some-personal-notes-about-beyond-tellerrand-conference-2022-in-dusseldorf-1de0)
+[![What if your apps get rebuilt, only from reading the commit messages?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_if_your_apps_get_rebuilt__only_from_reading_the_commit_messages_.svg)](https://dev.to/jankapunkt/what-if-your-apps-get-rebuilt-only-from-reading-the-commit-messages-2cbf)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, May 9, 2022 at 12:13:43 AM
+> Last updated: Monday, May 9, 2022 at 6:18:52 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, May 9, 2022 at 12:13:45 AM
+> Last updated: Monday, May 9, 2022 at 6:18:59 AM
 
 > Showing 5 of 30 posts.
 
