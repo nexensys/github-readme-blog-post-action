@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, May 8, 2022 at 12:11:22 PM
+> Last updated: Sunday, May 8, 2022 at 6:52:00 PM
 
 > Showing 5 of 12 posts.
 
-[![What's Your Heading?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What's_Your_Heading_.svg)](https://dev.to/colabottles/whats-your-heading-2eak)
-[![Please, share your feedback about my content 🙏](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Please__share_your_feedback_about_my_content_🙏.svg)](https://dev.to/melnik909/please-share-your-feedback-about-my-content-3n8i)
-[![How do you work with computers and the web that is different from non-developers?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_do_you_work_with_computers_and_the_web_that_is_different_from_non-developers_.svg)](https://dev.to/ben/how-do-you-work-with-computers-and-the-web-that-is-different-from-non-developers-57c8)
-[![Add custom fonts react-native for iOS and don't die trying](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Add_custom_fonts_react-native_for_iOS_and_don't_die_trying.svg)](https://dev.to/antoomartini/add-custom-fonts-react-native-for-ios-and-dont-die-trying-7bg)
-[![🚁 AWS CDK 101 - 🐬 Fetching JSON from dynamodb vs S3 through stepfunction](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🚁_AWS_CDK_101_-_🐬_Fetching_JSON_from_dynamodb_vs_S3_through_stepfunction.svg)](https://dev.to/aravindvcyber/aws-cdk-101-fetching-json-from-dynamodb-vs-s3-through-stepfunction-1mb7)
+[![Running a Single Test with Spaces in Minitest](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Running_a_Single_Test_with_Spaces_in_Minitest.svg)](https://dev.to/software_writer/running-a-single-test-with-spaces-in-minitest-12l8)
+[![You’re Doing Environment Variables All Wrong - A Node.js Perspective](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/You’re_Doing_Environment_Variables_All_Wrong_-_A_Node.js_Perspective.svg)](https://dev.to/saikojosh/youre-doing-environment-variables-all-wrong-a-nodejs-perspective-20g0)
+[![What’s your placeholder name?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What’s_your_placeholder_name_.svg)](https://dev.to/noriller/whats-your-placeholder-name-3g7d)
+[![TOTAL POS - Table Control](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/TOTAL_POS_-_Table_Control.svg)](https://dev.to/ushieru/total-pos-table-control-57a1)
+[![Functional Programming in javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Functional_Programming_in_javascript.svg)](https://dev.to/digomic/functional-programming-in-javascript-m11)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, May 8, 2022 at 12:11:25 PM
+> Last updated: Sunday, May 8, 2022 at 6:52:03 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, May 8, 2022 at 12:11:29 PM
+> Last updated: Sunday, May 8, 2022 at 6:52:06 PM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - Aro1914/AroTable: A self-sorting integer data structure.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Aro1914_AroTable__A_self-sorting_integer_data_structure..svg)](https://github.com/Aro1914/AroTable)
 [![GitHub - rerender2021/ave-image-diff: A simple image diff tool powered by avernakis.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_rerender2021_ave-image-diff__A_simple_image_diff_tool_powered_by_avernakis..svg)](https://github.com/rerender2021/ave-image-diff)
 [![Measuring web performance, How fast is fast?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Measuring_web_performance__How_fast_is_fast_.svg)](https://medhatdawoud.net/blog/measuring-web-performance)
 [![Looking for Pull Request](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Looking_for_Pull_Request.svg)](https://lookingforpullrequests.carrd.co)
 [![Simple communication between page and browser extension](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Simple_communication_between_page_and_browser_extension.svg)](https://dev.to/przemyslawjanpietrzak/simple-communication-between-page-and-browser-extension-1knf)
-[![
-Animated quadratic curves (pure JS)
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Animated_quadratic_curves_(pure_JS)_.svg)](
-https://slicker.me/javascript/curves.htm
-)
 
 
 <!-- post-list:end -->
