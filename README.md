@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, May 8, 2022 at 6:52:00 PM
+> Last updated: Monday, May 9, 2022 at 12:13:40 AM
 
 > Showing 5 of 12 posts.
 
-[![Running a Single Test with Spaces in Minitest](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Running_a_Single_Test_with_Spaces_in_Minitest.svg)](https://dev.to/software_writer/running-a-single-test-with-spaces-in-minitest-12l8)
-[![You’re Doing Environment Variables All Wrong - A Node.js Perspective](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/You’re_Doing_Environment_Variables_All_Wrong_-_A_Node.js_Perspective.svg)](https://dev.to/saikojosh/youre-doing-environment-variables-all-wrong-a-nodejs-perspective-20g0)
-[![What’s your placeholder name?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What’s_your_placeholder_name_.svg)](https://dev.to/noriller/whats-your-placeholder-name-3g7d)
-[![TOTAL POS - Table Control](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/TOTAL_POS_-_Table_Control.svg)](https://dev.to/ushieru/total-pos-table-control-57a1)
-[![Functional Programming in javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Functional_Programming_in_javascript.svg)](https://dev.to/digomic/functional-programming-in-javascript-m11)
+[![AWS Serverless: start with your best friends](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_Serverless__start_with_your_best_friends.svg)](https://dev.to/aws-builders/aws-serverless-start-with-your-best-friends-3a6i)
+[![Building Applications with Astro Build & Azure Static Web Apps CLI!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_Applications_with_Astro_Build___Azure_Static_Web_Apps_CLI!.svg)](https://dev.to/azure/building-applications-with-astro-build-azure-static-web-apps-cli-a20)
+[![Why does WINE not want to run my game? How can I fix it? - WINE log.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_does_WINE_not_want_to_run_my_game__How_can_I_fix_it__-_WINE_log..svg)](https://dev.to/baenencalin/why-does-wine-not-want-to-run-my-game-how-can-i-fix-it-wine-log-20ma)
+[![SEO For Bootstrapped Founders](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/SEO_For_Bootstrapped_Founders.svg)](https://dev.to/tomzaragoza/seo-for-bootstrapped-founders-3i2a)
+[![Is anyone else on DEV a furry?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Is_anyone_else_on_DEV_a_furry_.svg)](https://dev.to/baenencalin/is-anyone-else-on-dev-a-furry-2915)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, May 8, 2022 at 6:52:03 PM
+> Last updated: Monday, May 9, 2022 at 12:13:43 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, May 8, 2022 at 6:52:06 PM
+> Last updated: Monday, May 9, 2022 at 12:13:45 AM
 
 > Showing 5 of 30 posts.
 
