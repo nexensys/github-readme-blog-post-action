@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, May 10, 2022 at 12:13:00 AM
+> Last updated: Tuesday, May 10, 2022 at 6:22:01 AM
 
 > Showing 5 of 12 posts.
 
-[![Asynchronous JavaScript Course (Async/Await, Promises, Callbacks)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Asynchronous_JavaScript_Course_(Async_Await__Promises__Callbacks).svg)](https://dev.to/wenura/asynchronous-javascript-course-asyncawait-promises-callbacks-2nof)
-[![React Node.js Booking App Full Tutorial | MERN Stack Reservation App (JWT, Cookies, Context API)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Node.js_Booking_App_Full_Tutorial___MERN_Stack_Reservation_App_(JWT__Cookies__Context_API).svg)](https://dev.to/wenura/react-nodejs-booking-app-full-tutorial-mern-stack-reservation-app-jwt-cookies-context-api-314e)
-[![day 3/100 days of code i forgot](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/day_3_100_days_of_code_i_forgot.svg)](https://dev.to/themmako/day-3100-days-of-code-i-forgot-hk)
-[![CSS Alignment techniques](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CSS_Alignment_techniques.svg)](https://dev.to/davo_man/css-alignment-techniques-1191)
-[![Static Typing VS Dynamic Typing: The Difference Explained](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Static_Typing_VS_Dynamic_Typing__The_Difference_Explained.svg)](https://dev.to/arjunms/static-typing-vs-dynamic-typing-the-difference-explained-4n39)
+[![How to Create the Perfect Sponsors Profile for Your Open Source Project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Create_the_Perfect_Sponsors_Profile_for_Your_Open_Source_Project.svg)](https://dev.to/github/how-to-create-the-perfect-sponsors-profile-for-your-open-source-project-3747)
+[![CSP vs Actor model for concurrency](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CSP_vs_Actor_model_for_concurrency.svg)](https://dev.to/karanpratapsingh/csp-vs-actor-model-for-concurrency-1cpg)
+[![8 Best Blockchains that Support NFTs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/8_Best_Blockchains_that_Support_NFTs.svg)](https://dev.to/shtefcs/8-best-blockchains-that-support-nfts-199f)
+[![useMindMap](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/useMindMap.svg)](https://dev.to/benweier/usemindmap-1j3f)
+[![Create a Fully Open Source Next.js Ecommerce Store with Live Chat using Chatwoot](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_a_Fully_Open_Source_Next.js_Ecommerce_Store_with_Live_Chat_using_Chatwoot.svg)](https://dev.to/medusajs/create-a-fully-open-source-nextjs-ecommerce-store-with-live-chat-using-chatwoot-1fld)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, May 10, 2022 at 12:13:02 AM
+> Last updated: Tuesday, May 10, 2022 at 6:22:03 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, May 10, 2022 at 12:13:06 AM
+> Last updated: Tuesday, May 10, 2022 at 6:22:08 AM
 
 > Showing 5 of 30 posts.
 
+[![
+Mern Stack Developers - Aparajayah
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Mern_Stack_Developers_-_Aparajayah_.svg)](
+http://www.echojs.com/news/40675
+)
+[![The State of Frontend 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_State_of_Frontend_2022.svg)](https://tsh.io/state-of-frontend/)
+[![How to Implement Redux Reducers for React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Implement_Redux_Reducers_for_React.svg)](https://blog.openreplay.com/how-to-implement-redux-reducers-for-react)
 [![State Management in Angular Using NGXS - Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/State_Management_in_Angular_Using_NGXS_-_Part_1.svg)](https://auth0.com/blog/state-management-in-angular-with-ngxs-part-1/)
 [![Dynamic and recursive forms with Formik and TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Dynamic_and_recursive_forms_with_Formik_and_TypeScript.svg)](http://wanago.io/2022/05/09/dynamic-recursive-forms-formik-typescript-react/)
-[![Working with the img HTML Tag in Vue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Working_with_the_img_HTML_Tag_in_Vue.svg)](
-https://masteringjs.io/tutorials/vue/img-tag
-)
-[![GitHub - Aro1914/AroTable: A self-sorting integer data structure.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Aro1914_AroTable__A_self-sorting_integer_data_structure..svg)](https://github.com/Aro1914/AroTable)
-[![GitHub - rerender2021/ave-image-diff: A simple image diff tool powered by avernakis.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_rerender2021_ave-image-diff__A_simple_image_diff_tool_powered_by_avernakis..svg)](https://github.com/rerender2021/ave-image-diff)
 
 
 <!-- post-list:end -->
