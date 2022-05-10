@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, May 10, 2022 at 6:22:01 AM
+> Last updated: Tuesday, May 10, 2022 at 12:13:00 PM
 
 > Showing 5 of 12 posts.
 
-[![How to Create the Perfect Sponsors Profile for Your Open Source Project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Create_the_Perfect_Sponsors_Profile_for_Your_Open_Source_Project.svg)](https://dev.to/github/how-to-create-the-perfect-sponsors-profile-for-your-open-source-project-3747)
-[![CSP vs Actor model for concurrency](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CSP_vs_Actor_model_for_concurrency.svg)](https://dev.to/karanpratapsingh/csp-vs-actor-model-for-concurrency-1cpg)
-[![8 Best Blockchains that Support NFTs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/8_Best_Blockchains_that_Support_NFTs.svg)](https://dev.to/shtefcs/8-best-blockchains-that-support-nfts-199f)
-[![useMindMap](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/useMindMap.svg)](https://dev.to/benweier/usemindmap-1j3f)
-[![Create a Fully Open Source Next.js Ecommerce Store with Live Chat using Chatwoot](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_a_Fully_Open_Source_Next.js_Ecommerce_Store_with_Live_Chat_using_Chatwoot.svg)](https://dev.to/medusajs/create-a-fully-open-source-nextjs-ecommerce-store-with-live-chat-using-chatwoot-1fld)
+[![How to use Spark and Pandas to prepare big data](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_Spark_and_Pandas_to_prepare_big_data.svg)](https://dev.to/mage_ai/how-to-use-spark-and-pandas-to-prepare-big-data-4efg)
+[![I created the first interplanetary exchange platform.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_created_the_first_interplanetary_exchange_platform..svg)](https://dev.to/simerca/i-created-the-first-interplanetary-exchange-platform-61d)
+[![Animating in React (The Many Ways!)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Animating_in_React_(The_Many_Ways!).svg)](https://dev.to/israelmitolu/animating-in-react-the-many-ways-gm5)
+[![Monitor your Elixir application with OpenTelemetry and SigNoz 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Monitor_your_Elixir_application_with_OpenTelemetry_and_SigNoz_🚀.svg)](https://dev.to/signoz/monitor-your-elixir-application-with-opentelemetry-and-signoz-2g30)
+[![Getting started with Stripe Tax via the Orders API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_started_with_Stripe_Tax_via_the_Orders_API.svg)](https://dev.to/stripe/getting-started-with-stripe-tax-via-the-orders-api-5ci3)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, May 10, 2022 at 6:22:03 AM
+> Last updated: Tuesday, May 10, 2022 at 12:13:03 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, May 10, 2022 at 6:22:08 AM
+> Last updated: Tuesday, May 10, 2022 at 12:13:05 PM
 
 > Showing 5 of 30 posts.
 
+[![Fine Blanking Parts Manufacturers | jyoashengineers.com](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Fine_Blanking_Parts_Manufacturers___jyoashengineers.com.svg)](https://www.jyoashengineers.com/fine-blanking-parts)
 [![
 Mern Stack Developers - Aparajayah
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Mern_Stack_Developers_-_Aparajayah_.svg)](
@@ -55,7 +56,6 @@ http://www.echojs.com/news/40675
 [![The State of Frontend 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_State_of_Frontend_2022.svg)](https://tsh.io/state-of-frontend/)
 [![How to Implement Redux Reducers for React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Implement_Redux_Reducers_for_React.svg)](https://blog.openreplay.com/how-to-implement-redux-reducers-for-react)
 [![State Management in Angular Using NGXS - Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/State_Management_in_Angular_Using_NGXS_-_Part_1.svg)](https://auth0.com/blog/state-management-in-angular-with-ngxs-part-1/)
-[![Dynamic and recursive forms with Formik and TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Dynamic_and_recursive_forms_with_Formik_and_TypeScript.svg)](http://wanago.io/2022/05/09/dynamic-recursive-forms-formik-typescript-react/)
 
 
 <!-- post-list:end -->
