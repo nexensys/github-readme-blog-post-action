@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, May 9, 2022 at 6:47:50 PM
+> Last updated: Tuesday, May 10, 2022 at 12:13:00 AM
 
 > Showing 5 of 12 posts.
 
-[![XIRR Function](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/XIRR_Function.svg)](https://dev.to/designegycreatives/xirr-function-i75)
-[![DDD Módulos](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/DDD_Módulos.svg)](https://dev.to/yanpiing/ddd-modulos-17cp)
-[![Is web penetration testing worth it?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Is_web_penetration_testing_worth_it_.svg)](https://dev.to/intesar/is-web-penetration-testing-worth-it-nmh)
-[![Growing On Dev.to - It's Possible](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Growing_On_Dev.to_-_It's_Possible.svg)](https://dev.to/tmchuynh/growing-on-devto-its-possible-19ia)
-[![Converting your vanilla Javascript app to TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Converting_your_vanilla_Javascript_app_to_TypeScript.svg)](https://dev.to/useanvil/converting-your-vanilla-javascript-app-to-typescript-1bki)
+[![Asynchronous JavaScript Course (Async/Await, Promises, Callbacks)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Asynchronous_JavaScript_Course_(Async_Await__Promises__Callbacks).svg)](https://dev.to/wenura/asynchronous-javascript-course-asyncawait-promises-callbacks-2nof)
+[![React Node.js Booking App Full Tutorial | MERN Stack Reservation App (JWT, Cookies, Context API)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Node.js_Booking_App_Full_Tutorial___MERN_Stack_Reservation_App_(JWT__Cookies__Context_API).svg)](https://dev.to/wenura/react-nodejs-booking-app-full-tutorial-mern-stack-reservation-app-jwt-cookies-context-api-314e)
+[![day 3/100 days of code i forgot](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/day_3_100_days_of_code_i_forgot.svg)](https://dev.to/themmako/day-3100-days-of-code-i-forgot-hk)
+[![CSS Alignment techniques](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CSS_Alignment_techniques.svg)](https://dev.to/davo_man/css-alignment-techniques-1191)
+[![Static Typing VS Dynamic Typing: The Difference Explained](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Static_Typing_VS_Dynamic_Typing__The_Difference_Explained.svg)](https://dev.to/arjunms/static-typing-vs-dynamic-typing-the-difference-explained-4n39)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, May 9, 2022 at 6:47:54 PM
+> Last updated: Tuesday, May 10, 2022 at 12:13:02 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, May 9, 2022 at 6:48:01 PM
+> Last updated: Tuesday, May 10, 2022 at 12:13:06 AM
 
 > Showing 5 of 30 posts.
 
