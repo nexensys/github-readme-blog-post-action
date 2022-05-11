@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, May 11, 2022 at 12:15:05 AM
+> Last updated: Wednesday, May 11, 2022 at 6:20:32 AM
 
 > Showing 5 of 12 posts.
 
-[![App progress - Day 3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/App_progress_-_Day_3.svg)](https://dev.to/advikguptadev/app-progress-day-3-2j4g)
-[![STOP using require() in node backend](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/STOP_using_require()_in_node_backend.svg)](https://dev.to/harshkumar77/stop-using-require-in-node-backend-1470)
-[![Angular 13 Detect Width and Height of Screen Tutorial](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Angular_13_Detect_Width_and_Height_of_Screen_Tutorial.svg)](https://dev.to/dhanush9952/angular-13-detect-width-and-height-of-screen-tutorial-1of9)
-[![8 real useful Chrome Dev & Design extensions 👨🏻‍💻](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/8_real_useful_Chrome_Dev___Design_extensions_👨🏻‍💻.svg)](https://dev.to/thiagoow/8-real-useful-chrome-dev-extensions-ohd)
-[![Offlex - Video Streaming Platform (Day 1/3)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Offlex_-_Video_Streaming_Platform_(Day_1_3).svg)](https://dev.to/msanchezdev/offlex-video-streaming-platform-day-13-on0)
+[![Pitch me on Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Pitch_me_on_Python.svg)](https://dev.to/ben/pitch-me-on-python-1loj)
+[![Progmattic method chaining](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Progmattic_method_chaining.svg)](https://dev.to/adam_cyclones/progmattic-method-chaining-1dnm)
+[![Blockchain-based Cloud Computing 3: BaaS by Azure](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Blockchain-based_Cloud_Computing_3__BaaS_by_Azure.svg)](https://dev.to/jessica_veit/blockchain-based-cloud-computing-3-baas-by-azure-5fne)
+[![DOCKET APPLICATION USING APPWRITE](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/DOCKET_APPLICATION_USING_APPWRITE.svg)](https://dev.to/maturusupriya/docket-application-using-appwrite-27f9)
+[![Evocore - my new portfolio project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Evocore_-_my_new_portfolio_project.svg)](https://dev.to/catrin__s/evocore-my-new-portfolio-project-28en)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, May 11, 2022 at 12:15:08 AM
+> Last updated: Wednesday, May 11, 2022 at 6:20:35 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, May 11, 2022 at 12:15:12 AM
+> Last updated: Wednesday, May 11, 2022 at 6:20:38 AM
 
 > Showing 5 of 30 posts.
 
+[![Quokka JS   The Best JS Playground Extension | Absolutely quick JS code testing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Quokka_JS___The_Best_JS_Playground_Extension___Absolutely_quick_JS_code_testing.svg)](https://www.youtube.com/watch?v=00i8S-4CYe4)
+[![Episode 10 - Accessibility in Web Applications with Graham Ritchie - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_10_-_Accessibility_in_Web_Applications_with_Graham_Ritchie_-_20minJS.svg)](https://podcast.20minjs.com/1952066/10591058-episode-10-accessibility-in-web-applications-with-graham-ritchie)
 [![JavaScript Desktop Environment (React/Next.js)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Desktop_Environment_(React_Next.js).svg)](https://www.youtube.com/watch?v=akrXeI6T-X4)
 [![The State of Frontend 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_State_of_Frontend_2022.svg)](https://tsh.io/state-of-frontend/)
 [![How to Implement Redux Reducers for React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Implement_Redux_Reducers_for_React.svg)](https://blog.openreplay.com/how-to-implement-redux-reducers-for-react)
-[![State Management in Angular Using NGXS - Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/State_Management_in_Angular_Using_NGXS_-_Part_1.svg)](https://auth0.com/blog/state-management-in-angular-with-ngxs-part-1/)
-[![Dynamic and recursive forms with Formik and TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Dynamic_and_recursive_forms_with_Formik_and_TypeScript.svg)](http://wanago.io/2022/05/09/dynamic-recursive-forms-formik-typescript-react/)
 
 
 <!-- post-list:end -->
