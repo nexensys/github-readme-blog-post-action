@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, May 10, 2022 at 6:56:43 PM
+> Last updated: Wednesday, May 11, 2022 at 12:15:05 AM
 
 > Showing 5 of 12 posts.
 
-[![AND/OR/NOT - How To Get The Rows You Want More Precisely](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AND_OR_NOT_-_How_To_Get_The_Rows_You_Want_More_Precisely.svg)](https://dev.to/designegycreatives/andornot-how-to-get-the-rows-you-want-more-precisely-4c23)
-[![How to add a Blank Directory to your Git Repository](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_add_a_Blank_Directory_to_your_Git_Repository.svg)](https://dev.to/smpnjn/how-to-add-a-blank-directory-to-your-git-repository-2jcj)
-[![The difference between created and mounted in Vue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_difference_between_created_and_mounted_in_Vue.svg)](https://dev.to/smpnjn/the-difference-between-created-and-mounted-in-vue-48mi)
-[![How to give Props Default Values in Vue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_give_Props_Default_Values_in_Vue.svg)](https://dev.to/smpnjn/how-to-give-props-default-values-in-vue-4jhb)
-[![How to pass arguments to events like on:click in Svelte](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_pass_arguments_to_events_like_on_click_in_Svelte.svg)](https://dev.to/smpnjn/how-to-pass-arguments-to-events-like-onclick-in-svelte-79l)
+[![App progress - Day 3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/App_progress_-_Day_3.svg)](https://dev.to/advikguptadev/app-progress-day-3-2j4g)
+[![STOP using require() in node backend](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/STOP_using_require()_in_node_backend.svg)](https://dev.to/harshkumar77/stop-using-require-in-node-backend-1470)
+[![Angular 13 Detect Width and Height of Screen Tutorial](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Angular_13_Detect_Width_and_Height_of_Screen_Tutorial.svg)](https://dev.to/dhanush9952/angular-13-detect-width-and-height-of-screen-tutorial-1of9)
+[![8 real useful Chrome Dev & Design extensions 👨🏻‍💻](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/8_real_useful_Chrome_Dev___Design_extensions_👨🏻‍💻.svg)](https://dev.to/thiagoow/8-real-useful-chrome-dev-extensions-ohd)
+[![Offlex - Video Streaming Platform (Day 1/3)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Offlex_-_Video_Streaming_Platform_(Day_1_3).svg)](https://dev.to/msanchezdev/offlex-video-streaming-platform-day-13-on0)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, May 10, 2022 at 6:56:45 PM
+> Last updated: Wednesday, May 11, 2022 at 12:15:08 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, May 10, 2022 at 6:56:50 PM
+> Last updated: Wednesday, May 11, 2022 at 12:15:12 AM
 
 > Showing 5 of 30 posts.
 
