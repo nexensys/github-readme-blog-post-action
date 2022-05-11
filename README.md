@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, May 11, 2022 at 6:20:32 AM
+> Last updated: Wednesday, May 11, 2022 at 12:12:10 PM
 
 > Showing 5 of 12 posts.
 
-[![Pitch me on Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Pitch_me_on_Python.svg)](https://dev.to/ben/pitch-me-on-python-1loj)
-[![Progmattic method chaining](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Progmattic_method_chaining.svg)](https://dev.to/adam_cyclones/progmattic-method-chaining-1dnm)
-[![Blockchain-based Cloud Computing 3: BaaS by Azure](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Blockchain-based_Cloud_Computing_3__BaaS_by_Azure.svg)](https://dev.to/jessica_veit/blockchain-based-cloud-computing-3-baas-by-azure-5fne)
-[![DOCKET APPLICATION USING APPWRITE](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/DOCKET_APPLICATION_USING_APPWRITE.svg)](https://dev.to/maturusupriya/docket-application-using-appwrite-27f9)
-[![Evocore - my new portfolio project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Evocore_-_my_new_portfolio_project.svg)](https://dev.to/catrin__s/evocore-my-new-portfolio-project-28en)
+[![Introducing Thunder ⚡](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_Thunder_⚡.svg)](https://dev.to/ajay___mehta/introducing-thunder-55pg)
+[![Use variables in your package.json](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Use_variables_in_your_package.json.svg)](https://dev.to/tykok/use-variables-in-your-packagejson-331j)
+[![building a real-time cryptocurrency info table with React, MUI(material-ui) and coinmarket cap API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/building_a_real-time_cryptocurrency_info_table_with_React__MUI(material-ui)_and_coinmarket_cap_API.svg)](https://dev.to/kevinkh89/building-a-real-time-cryptocurrency-info-table-with-react-muimaterial-ui-and-coinmarket-cap-api-91l)
+[![The 5 Short Frontend tips for May](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_5_Short_Frontend_tips_for_May.svg)](https://dev.to/melnik909/the-5-short-frontend-tips-for-may-586g)
+[![What is React?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_React_.svg)](https://dev.to/sharmayatendra/what-is-react-gmp)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, May 11, 2022 at 6:20:35 AM
+> Last updated: Wednesday, May 11, 2022 at 12:12:13 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, May 11, 2022 at 6:20:38 AM
+> Last updated: Wednesday, May 11, 2022 at 12:12:15 PM
 
 > Showing 5 of 30 posts.
 
