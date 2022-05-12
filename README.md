@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, May 12, 2022 at 6:19:41 AM
+> Last updated: Thursday, May 12, 2022 at 12:15:29 PM
 
 > Showing 5 of 12 posts.
 
-[![How to Use a Monorepo to Deploy Your Gatsby Ecommerce Storefront and Admin](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Use_a_Monorepo_to_Deploy_Your_Gatsby_Ecommerce_Storefront_and_Admin.svg)](https://dev.to/medusajs/how-to-use-a-monorepo-to-deploy-your-gatsby-ecommerce-storefront-and-admin-24kf)
-[![How to create SEO friendly documentation with DocZ? 📜✍️](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_SEO_friendly_documentation_with_DocZ__📜✍️.svg)](https://dev.to/aviyel/how-to-create-seo-friendly-documentation-with-docz-1b9h)
-[![Digital Withdrawal](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Digital_Withdrawal.svg)](https://dev.to/garbalau/digital-withdrawal-311g)
-[![Groovy Gotchas - Loops, Closures, and Jenkins DSLs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Groovy_Gotchas_-_Loops__Closures__and_Jenkins_DSLs.svg)](https://dev.to/taikedz/gruelling-groovy-gotchas-loops-closures-and-jenkins-dsls-9pe)
-[![Shortcut for AWS CDK credentials: insanely simple setup for SSO, SAML, and named profiles](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Shortcut_for_AWS_CDK_credentials__insanely_simple_setup_for_SSO__SAML__and_named_profiles.svg)](https://dev.to/aws-builders/shortcut-for-aws-cdk-credentials-insanely-simple-setup-for-sso-saml-and-named-profiles-35a9)
+[![How to use the main function in Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_the_main_function_in_Python.svg)](https://dev.to/makendrang/how-to-use-the-main-function-in-python-1ee5)
+[![Anonymous Controller](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Anonymous_Controller.svg)](https://dev.to/raghavdhingra/anonymous-controller-49lo)
+[![Spring clean your home directory! Or should you? 🌻🧹🤔](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Spring_clean_your_home_directory!_Or_should_you__🌻🧹🤔.svg)](https://dev.to/robole/spring-clean-your-home-directory-or-should-i-2cge)
+[![Call to action for all VS Code users!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Call_to_action_for_all_VS_Code_users!.svg)](https://dev.to/devteam/call-to-action-for-all-vs-code-users-5b2l)
+[![The Complete Web Developer in 2022: Zero to Mastery](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Complete_Web_Developer_in_2022__Zero_to_Mastery.svg)](https://dev.to/aswin2001barath/the-complete-web-developer-in-2022-zero-to-mastery-5dm1)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, May 12, 2022 at 6:19:45 AM
+> Last updated: Thursday, May 12, 2022 at 12:15:33 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, May 12, 2022 at 6:19:48 AM
+> Last updated: Thursday, May 12, 2022 at 12:15:36 PM
 
 > Showing 5 of 30 posts.
 
