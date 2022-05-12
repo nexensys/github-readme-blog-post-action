@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, May 11, 2022 at 12:12:10 PM
+> Last updated: Wednesday, May 11, 2022 at 6:52:41 PM
 
 > Showing 5 of 12 posts.
 
-[![Introducing Thunder ⚡](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_Thunder_⚡.svg)](https://dev.to/ajay___mehta/introducing-thunder-55pg)
-[![Use variables in your package.json](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Use_variables_in_your_package.json.svg)](https://dev.to/tykok/use-variables-in-your-packagejson-331j)
-[![building a real-time cryptocurrency info table with React, MUI(material-ui) and coinmarket cap API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/building_a_real-time_cryptocurrency_info_table_with_React__MUI(material-ui)_and_coinmarket_cap_API.svg)](https://dev.to/kevinkh89/building-a-real-time-cryptocurrency-info-table-with-react-muimaterial-ui-and-coinmarket-cap-api-91l)
-[![The 5 Short Frontend tips for May](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_5_Short_Frontend_tips_for_May.svg)](https://dev.to/melnik909/the-5-short-frontend-tips-for-may-586g)
-[![What is React?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_React_.svg)](https://dev.to/sharmayatendra/what-is-react-gmp)
+[![InfoAbout.me](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/InfoAbout.me.svg)](https://dev.to/mdsahiloss/infoaboutme-165h)
+[![Season 9 of DevDiscuss is here! Let's talk about design patterns...](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Season_9_of_DevDiscuss_is_here!_Let's_talk_about_design_patterns....svg)](https://dev.to/devteam/season-9-of-devdiscuss-is-here-lets-talk-about-design-patterns-16bj)
+[![Encrypting Folders on MacOS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Encrypting_Folders_on_MacOS.svg)](https://dev.to/0xmichaelwahl/encrypting-folders-on-macos-18hb)
+[![Scraping Buy: Scripting for a Purchase](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Scraping_Buy__Scripting_for_a_Purchase.svg)](https://dev.to/kevin_j_m/scraping-buy-scripting-for-a-purchase-584o)
+[![Kubernetes 1.24 Released: What’s New?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Kubernetes_1.24_Released__What’s_New_.svg)](https://dev.to/talhakhalid101/kubernetes-124-released-whats-new-3ddh)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, May 11, 2022 at 12:12:13 PM
+> Last updated: Wednesday, May 11, 2022 at 6:52:45 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, May 11, 2022 at 12:12:15 PM
+> Last updated: Wednesday, May 11, 2022 at 6:52:49 PM
 
 > Showing 5 of 30 posts.
 
+[![Fix ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Fix_.svg)](
+https://masteringjs.io/tutorials/vue/elements-in-iteration-expect-to-have-v-bind-key
+)
 [![Quokka JS   The Best JS Playground Extension | Absolutely quick JS code testing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Quokka_JS___The_Best_JS_Playground_Extension___Absolutely_quick_JS_code_testing.svg)](https://www.youtube.com/watch?v=00i8S-4CYe4)
 [![Episode 10 - Accessibility in Web Applications with Graham Ritchie - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_10_-_Accessibility_in_Web_Applications_with_Graham_Ritchie_-_20minJS.svg)](https://podcast.20minjs.com/1952066/10591058-episode-10-accessibility-in-web-applications-with-graham-ritchie)
 [![JavaScript Desktop Environment (React/Next.js)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Desktop_Environment_(React_Next.js).svg)](https://www.youtube.com/watch?v=akrXeI6T-X4)
 [![The State of Frontend 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_State_of_Frontend_2022.svg)](https://tsh.io/state-of-frontend/)
-[![How to Implement Redux Reducers for React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Implement_Redux_Reducers_for_React.svg)](https://blog.openreplay.com/how-to-implement-redux-reducers-for-react)
 
 
 <!-- post-list:end -->
