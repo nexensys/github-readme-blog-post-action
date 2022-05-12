@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, May 12, 2022 at 12:14:47 AM
+> Last updated: Thursday, May 12, 2022 at 6:19:41 AM
 
 > Showing 5 of 12 posts.
 
-[![Adding tailwind typography plugin in Remix](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Adding_tailwind_typography_plugin_in_Remix.svg)](https://dev.to/dailydevtips1/adding-tailwind-typography-plugin-in-remix-4g4g)
-[![[BADGE.AR] Create NFTs from your Achievements](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/[BADGE.AR]_Create_NFTs_from_your_Achievements.svg)](https://dev.to/catrielmuller/badgear-create-nfts-from-your-achievements-226f)
-[![Library vs Framework vs API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Library_vs_Framework_vs_API.svg)](https://dev.to/pixelatedlagg/library-vs-framework-vs-api-3bjb)
-[![Flutter release 3.0.0 What's new ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Flutter_release_3.0.0_What's_new__.svg)](https://dev.to/frezyx/flutter-release-300-whats-new--4c3a)
-[![Ecosystem and Frameworks: My Role at Netlify](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ecosystem_and_Frameworks__My_Role_at_Netlify.svg)](https://dev.to/nickytonline/ecosystem-and-frameworks-my-role-at-netlify-306b)
+[![How to Use a Monorepo to Deploy Your Gatsby Ecommerce Storefront and Admin](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Use_a_Monorepo_to_Deploy_Your_Gatsby_Ecommerce_Storefront_and_Admin.svg)](https://dev.to/medusajs/how-to-use-a-monorepo-to-deploy-your-gatsby-ecommerce-storefront-and-admin-24kf)
+[![How to create SEO friendly documentation with DocZ? 📜✍️](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_SEO_friendly_documentation_with_DocZ__📜✍️.svg)](https://dev.to/aviyel/how-to-create-seo-friendly-documentation-with-docz-1b9h)
+[![Digital Withdrawal](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Digital_Withdrawal.svg)](https://dev.to/garbalau/digital-withdrawal-311g)
+[![Groovy Gotchas - Loops, Closures, and Jenkins DSLs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Groovy_Gotchas_-_Loops__Closures__and_Jenkins_DSLs.svg)](https://dev.to/taikedz/gruelling-groovy-gotchas-loops-closures-and-jenkins-dsls-9pe)
+[![Shortcut for AWS CDK credentials: insanely simple setup for SSO, SAML, and named profiles](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Shortcut_for_AWS_CDK_credentials__insanely_simple_setup_for_SSO__SAML__and_named_profiles.svg)](https://dev.to/aws-builders/shortcut-for-aws-cdk-credentials-insanely-simple-setup-for-sso-saml-and-named-profiles-35a9)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, May 12, 2022 at 12:14:50 AM
+> Last updated: Thursday, May 12, 2022 at 6:19:45 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, May 12, 2022 at 12:14:52 AM
+> Last updated: Thursday, May 12, 2022 at 6:19:48 AM
 
 > Showing 5 of 30 posts.
 
+[![Interview Officer: "Tell me about Cookies Session and Tokens". Me: "Emm..."](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Interview_Officer___Tell_me_about_Cookies_Session_and_Tokens_._Me___Emm..._.svg)](https://pitayan.com/posts/sessions-cookies-and-tokens)
 [![Implementing user authentication in React with SuperTokens](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Implementing_user_authentication_in_React_with_SuperTokens.svg)](https://blog.openreplay.com/implementing-user-authentication-in-react-with-supertokens)
 [![Fix ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Fix_.svg)](
 https://masteringjs.io/tutorials/vue/elements-in-iteration-expect-to-have-v-bind-key
 )
 [![Quokka JS   The Best JS Playground Extension | Absolutely quick JS code testing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Quokka_JS___The_Best_JS_Playground_Extension___Absolutely_quick_JS_code_testing.svg)](https://www.youtube.com/watch?v=00i8S-4CYe4)
 [![Episode 10 - Accessibility in Web Applications with Graham Ritchie - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_10_-_Accessibility_in_Web_Applications_with_Graham_Ritchie_-_20minJS.svg)](https://podcast.20minjs.com/1952066/10591058-episode-10-accessibility-in-web-applications-with-graham-ritchie)
-[![JavaScript Desktop Environment (React/Next.js)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Desktop_Environment_(React_Next.js).svg)](https://www.youtube.com/watch?v=akrXeI6T-X4)
 
 
 <!-- post-list:end -->
