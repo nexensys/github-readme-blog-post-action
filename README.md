@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, May 13, 2022 at 6:28:18 AM
+> Last updated: Friday, May 13, 2022 at 12:14:24 PM
 
 > Showing 5 of 12 posts.
 
-[![The 10 Best C# Books to Help You Learn or Improve Your Skills📚](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_10_Best_C__Books_to_Help_You_Learn_or_Improve_Your_Skills📚.svg)](https://dev.to/dotnetsafer/the-10-best-c-books-to-help-you-learn-or-improve-your-skills-30j)
-[![My take on commenting code - Explain why, not how](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_take_on_commenting_code_-_Explain_why__not_how.svg)](https://dev.to/nombrekeff/my-take-on-commenting-code-explain-why-not-how-3bg2)
-[![This Week in Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/This_Week_in_Python.svg)](https://dev.to/bascodes/this-week-in-python-4dd0)
-[![How Are NFTs Tied to the Metaverse?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_Are_NFTs_Tied_to_the_Metaverse_.svg)](https://dev.to/shtefcs/how-are-nfts-tied-to-the-metaverse-3453)
-[![Why You Need to Build Your Next Single Page Application with Vue Js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_You_Need_to_Build_Your_Next_Single_Page_Application_with_Vue_Js.svg)](https://dev.to/sumyya_khan/why-you-need-to-build-your-next-single-page-application-with-vue-js-247f)
+[![nth-child and nth-last-child](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/nth-child_and_nth-last-child.svg)](https://dev.to/derekprice/nth-child-and-nth-last-child-293o)
+[![Block-level vs Inline HTML Elements](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Block-level_vs_Inline_HTML_Elements.svg)](https://dev.to/dawroun/block-level-vs-inline-html-elements-2lg1)
+[![What is the most rewarding part of your job?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_the_most_rewarding_part_of_your_job_.svg)](https://dev.to/devteam/what-is-the-most-rewarding-part-of-your-job-28jd)
+[![Cache a response in Vercel using SSR and serverless functions in SvelteKit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cache_a_response_in_Vercel_using_SSR_and_serverless_functions_in_SvelteKit.svg)](https://dev.to/aspnxdd/cache-a-response-in-vercel-using-ssr-and-serverless-functions-in-svelte-kit-g92)
+[![Mood boards, Grayscale & Style Tiles](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mood_boards__Grayscale___Style_Tiles.svg)](https://dev.to/miyaocodes/mood-boards-grayscale-style-tiles-18mh)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, May 13, 2022 at 6:28:21 AM
+> Last updated: Friday, May 13, 2022 at 12:14:28 PM
 
 > Showing 4 of 4 posts.
 
+[![19 hours of D3.js??](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/19_hours_of_D3.js__.svg)](https://javascriptweekly.com/issues/589)
 [![A 2022 take on TodoMVC in plain JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/A_2022_take_on_TodoMVC_in_plain_JS.svg)](https://javascriptweekly.com/issues/588)
 [![Let's build a JavaScript bundler](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Let's_build_a_JavaScript_bundler.svg)](https://javascriptweekly.com/issues/587)
 [![Node.js 18, WebAssembly 2.0, and Ember 4.3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Node.js_18__WebAssembly_2.0__and_Ember_4.3.svg)](https://javascriptweekly.com/issues/586)
-[![On function composition in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/On_function_composition_in_JavaScript.svg)](https://javascriptweekly.com/issues/585)
 
 
 ## Echo JS
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, May 13, 2022 at 6:28:24 AM
+> Last updated: Friday, May 13, 2022 at 12:14:31 PM
 
 > Showing 5 of 30 posts.
 
+[![State Management in Angular Using NGXS - Part 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/State_Management_in_Angular_Using_NGXS_-_Part_2.svg)](https://auth0.com/blog/state-management-in-angular-with-ngxs-part-2/)
 [![State management in React with MobX](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/State_management_in_React_with_MobX.svg)](https://blog.openreplay.com/state-management-in-react-with-mobx)
 [![Interview Officer: "Tell me about Cookies Session and Tokens". Me: "Emm..."](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Interview_Officer___Tell_me_about_Cookies_Session_and_Tokens_._Me___Emm..._.svg)](https://pitayan.com/posts/sessions-cookies-and-tokens)
 [![Implementing user authentication in React with SuperTokens](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Implementing_user_authentication_in_React_with_SuperTokens.svg)](https://blog.openreplay.com/implementing-user-authentication-in-react-with-supertokens)
 [![Fix ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Fix_.svg)](
 https://masteringjs.io/tutorials/vue/elements-in-iteration-expect-to-have-v-bind-key
 )
-[![Quokka JS   The Best JS Playground Extension | Absolutely quick JS code testing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Quokka_JS___The_Best_JS_Playground_Extension___Absolutely_quick_JS_code_testing.svg)](https://www.youtube.com/watch?v=00i8S-4CYe4)
 
 
 <!-- post-list:end -->
