@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, May 13, 2022 at 12:16:32 AM
+> Last updated: Friday, May 13, 2022 at 6:28:18 AM
 
 > Showing 5 of 12 posts.
 
-[![Understanding /etc/passwd file in Linux](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding__etc_passwd_file_in_Linux.svg)](https://dev.to/kcdchennai/understanding-etcpasswd-file-in-linux-1k2d)
-[![Event sourcing - basic concepts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Event_sourcing_-_basic_concepts.svg)](https://dev.to/cultureamp/event-sourcing-basic-concepts-52ik)
-[![AWS open source news and updates, #112](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_open_source_news_and_updates___112.svg)](https://dev.to/aws/aws-open-source-news-and-updates-112-5bjp)
-[![Unverified, Partially and Verified Commits](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unverified__Partially_and_Verified_Commits.svg)](https://dev.to/yokwejuste_87/unverified-partially-and-verified-commits-1j70)
-[![Docker remove all image, volume, container](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Docker_remove_all_image__volume__container.svg)](https://dev.to/iamtekson/docker-remove-all-image-volume-container-3j54)
+[![The 10 Best C# Books to Help You Learn or Improve Your Skills📚](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_10_Best_C__Books_to_Help_You_Learn_or_Improve_Your_Skills📚.svg)](https://dev.to/dotnetsafer/the-10-best-c-books-to-help-you-learn-or-improve-your-skills-30j)
+[![My take on commenting code - Explain why, not how](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_take_on_commenting_code_-_Explain_why__not_how.svg)](https://dev.to/nombrekeff/my-take-on-commenting-code-explain-why-not-how-3bg2)
+[![This Week in Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/This_Week_in_Python.svg)](https://dev.to/bascodes/this-week-in-python-4dd0)
+[![How Are NFTs Tied to the Metaverse?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_Are_NFTs_Tied_to_the_Metaverse_.svg)](https://dev.to/shtefcs/how-are-nfts-tied-to-the-metaverse-3453)
+[![Why You Need to Build Your Next Single Page Application with Vue Js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_You_Need_to_Build_Your_Next_Single_Page_Application_with_Vue_Js.svg)](https://dev.to/sumyya_khan/why-you-need-to-build-your-next-single-page-application-with-vue-js-247f)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, May 13, 2022 at 12:16:35 AM
+> Last updated: Friday, May 13, 2022 at 6:28:21 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, May 13, 2022 at 12:16:39 AM
+> Last updated: Friday, May 13, 2022 at 6:28:24 AM
 
 > Showing 5 of 30 posts.
 
