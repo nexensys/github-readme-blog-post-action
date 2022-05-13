@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, May 12, 2022 at 6:58:46 PM
+> Last updated: Friday, May 13, 2022 at 12:16:32 AM
 
 > Showing 5 of 12 posts.
 
-[![Handling Errors In JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Handling_Errors_In_JavaScript.svg)](https://dev.to/omoyemi/handling-errors-in-javascript-36g7)
-[![May 12th, 2022: What did you learn this week?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/May_12th__2022__What_did_you_learn_this_week_.svg)](https://dev.to/nickytonline/may-12th-2022-what-did-you-learn-this-week-8il)
-[![Ruby: "the best" language for general automation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ruby___the_best__language_for_general_automation.svg)](https://dev.to/rodmatola/ruby-the-best-language-for-general-automation-gh3)
-[![InfoAbout.me](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/InfoAbout.me.svg)](https://dev.to/mdsahiloss/infoaboutme-5aca)
-[![Scheduled Twitter Threads (Scett) - Appwrite x DEV Hackathon](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Scheduled_Twitter_Threads_(Scett)_-_Appwrite_x_DEV_Hackathon.svg)](https://dev.to/xinnks/scheduled-twitter-threads-scett-appwrite-x-dev-hackathon-592e)
+[![Understanding /etc/passwd file in Linux](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding__etc_passwd_file_in_Linux.svg)](https://dev.to/kcdchennai/understanding-etcpasswd-file-in-linux-1k2d)
+[![Event sourcing - basic concepts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Event_sourcing_-_basic_concepts.svg)](https://dev.to/cultureamp/event-sourcing-basic-concepts-52ik)
+[![AWS open source news and updates, #112](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_open_source_news_and_updates___112.svg)](https://dev.to/aws/aws-open-source-news-and-updates-112-5bjp)
+[![Unverified, Partially and Verified Commits](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unverified__Partially_and_Verified_Commits.svg)](https://dev.to/yokwejuste_87/unverified-partially-and-verified-commits-1j70)
+[![Docker remove all image, volume, container](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Docker_remove_all_image__volume__container.svg)](https://dev.to/iamtekson/docker-remove-all-image-volume-container-3j54)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, May 12, 2022 at 6:58:49 PM
+> Last updated: Friday, May 13, 2022 at 12:16:35 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, May 12, 2022 at 6:58:53 PM
+> Last updated: Friday, May 13, 2022 at 12:16:39 AM
 
 > Showing 5 of 30 posts.
 
+[![State management in React with MobX](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/State_management_in_React_with_MobX.svg)](https://blog.openreplay.com/state-management-in-react-with-mobx)
 [![Interview Officer: "Tell me about Cookies Session and Tokens". Me: "Emm..."](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Interview_Officer___Tell_me_about_Cookies_Session_and_Tokens_._Me___Emm..._.svg)](https://pitayan.com/posts/sessions-cookies-and-tokens)
 [![Implementing user authentication in React with SuperTokens](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Implementing_user_authentication_in_React_with_SuperTokens.svg)](https://blog.openreplay.com/implementing-user-authentication-in-react-with-supertokens)
 [![Fix ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Fix_.svg)](
 https://masteringjs.io/tutorials/vue/elements-in-iteration-expect-to-have-v-bind-key
 )
 [![Quokka JS   The Best JS Playground Extension | Absolutely quick JS code testing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Quokka_JS___The_Best_JS_Playground_Extension___Absolutely_quick_JS_code_testing.svg)](https://www.youtube.com/watch?v=00i8S-4CYe4)
-[![Episode 10 - Accessibility in Web Applications with Graham Ritchie - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_10_-_Accessibility_in_Web_Applications_with_Graham_Ritchie_-_20minJS.svg)](https://podcast.20minjs.com/1952066/10591058-episode-10-accessibility-in-web-applications-with-graham-ritchie)
 
 
 <!-- post-list:end -->
