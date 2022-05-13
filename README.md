@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, May 12, 2022 at 12:15:29 PM
+> Last updated: Thursday, May 12, 2022 at 6:58:46 PM
 
 > Showing 5 of 12 posts.
 
-[![How to use the main function in Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_the_main_function_in_Python.svg)](https://dev.to/makendrang/how-to-use-the-main-function-in-python-1ee5)
-[![Anonymous Controller](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Anonymous_Controller.svg)](https://dev.to/raghavdhingra/anonymous-controller-49lo)
-[![Spring clean your home directory! Or should you? 🌻🧹🤔](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Spring_clean_your_home_directory!_Or_should_you__🌻🧹🤔.svg)](https://dev.to/robole/spring-clean-your-home-directory-or-should-i-2cge)
-[![Call to action for all VS Code users!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Call_to_action_for_all_VS_Code_users!.svg)](https://dev.to/devteam/call-to-action-for-all-vs-code-users-5b2l)
-[![The Complete Web Developer in 2022: Zero to Mastery](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Complete_Web_Developer_in_2022__Zero_to_Mastery.svg)](https://dev.to/aswin2001barath/the-complete-web-developer-in-2022-zero-to-mastery-5dm1)
+[![Handling Errors In JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Handling_Errors_In_JavaScript.svg)](https://dev.to/omoyemi/handling-errors-in-javascript-36g7)
+[![May 12th, 2022: What did you learn this week?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/May_12th__2022__What_did_you_learn_this_week_.svg)](https://dev.to/nickytonline/may-12th-2022-what-did-you-learn-this-week-8il)
+[![Ruby: "the best" language for general automation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ruby___the_best__language_for_general_automation.svg)](https://dev.to/rodmatola/ruby-the-best-language-for-general-automation-gh3)
+[![InfoAbout.me](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/InfoAbout.me.svg)](https://dev.to/mdsahiloss/infoaboutme-5aca)
+[![Scheduled Twitter Threads (Scett) - Appwrite x DEV Hackathon](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Scheduled_Twitter_Threads_(Scett)_-_Appwrite_x_DEV_Hackathon.svg)](https://dev.to/xinnks/scheduled-twitter-threads-scett-appwrite-x-dev-hackathon-592e)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, May 12, 2022 at 12:15:33 PM
+> Last updated: Thursday, May 12, 2022 at 6:58:49 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, May 12, 2022 at 12:15:36 PM
+> Last updated: Thursday, May 12, 2022 at 6:58:53 PM
 
 > Showing 5 of 30 posts.
 
