@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, May 13, 2022 at 12:14:24 PM
+> Last updated: Friday, May 13, 2022 at 7:01:34 PM
 
 > Showing 5 of 12 posts.
 
-[![nth-child and nth-last-child](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/nth-child_and_nth-last-child.svg)](https://dev.to/derekprice/nth-child-and-nth-last-child-293o)
-[![Block-level vs Inline HTML Elements](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Block-level_vs_Inline_HTML_Elements.svg)](https://dev.to/dawroun/block-level-vs-inline-html-elements-2lg1)
-[![What is the most rewarding part of your job?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_the_most_rewarding_part_of_your_job_.svg)](https://dev.to/devteam/what-is-the-most-rewarding-part-of-your-job-28jd)
-[![Cache a response in Vercel using SSR and serverless functions in SvelteKit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cache_a_response_in_Vercel_using_SSR_and_serverless_functions_in_SvelteKit.svg)](https://dev.to/aspnxdd/cache-a-response-in-vercel-using-ssr-and-serverless-functions-in-svelte-kit-g92)
-[![Mood boards, Grayscale & Style Tiles](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mood_boards__Grayscale___Style_Tiles.svg)](https://dev.to/miyaocodes/mood-boards-grayscale-style-tiles-18mh)
+[![Useful Linux Commands](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Useful_Linux_Commands.svg)](https://dev.to/software_writer/useful-linux-commands-2acn)
+[![4 Things Developers Should Know About Recruiting Neurodiverse People](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/4_Things_Developers_Should_Know_About_Recruiting_Neurodiverse_People.svg)](https://dev.to/linearb/4-things-developers-should-know-about-recruiting-neurodiverse-people-1kda)
+[![Por qué Storybook?: la herramienta de desarrollo de componentes utilizada por más de 30_000 proyectos](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Por_qué_Storybook___la_herramienta_de_desarrollo_de_componentes_utilizada_por_más_de_30_000_proyectos.svg)](https://dev.to/khriztianmoreno/por-que-storybook-la-herramienta-de-desarrollo-de-componentes-utilizada-por-mas-de-30000-proyectos-5h77)
+[![Dreams come true ! I became the founder of the Cameroon 🇨🇲PHP community 🎊](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dreams_come_true_!_I_became_the_founder_of_the_Cameroon_🇨🇲PHP_community_🎊.svg)](https://dev.to/carleii_dev/dreams-come-true-i-became-the-founder-of-the-cameroon-php-community-i3i)
+[![Find DigitalOcean at KubeCon + CloudNativeCon EU 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Find_DigitalOcean_at_KubeCon_+_CloudNativeCon_EU_2022.svg)](https://dev.to/digitalocean/find-digitalocean-at-kubecon-cloudnativecon-eu-2022-5cp0)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, May 13, 2022 at 12:14:28 PM
+> Last updated: Friday, May 13, 2022 at 7:01:38 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, May 13, 2022 at 12:14:31 PM
+> Last updated: Friday, May 13, 2022 at 7:01:42 PM
 
 > Showing 5 of 30 posts.
 
+[![
+[Ask EchoJS] TypeScript For Articles
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_[Ask_EchoJS]_TypeScript_For_Articles_.svg)](
+http://www.echojs.com/news/40685
+)
 [![State Management in Angular Using NGXS - Part 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/State_Management_in_Angular_Using_NGXS_-_Part_2.svg)](https://auth0.com/blog/state-management-in-angular-with-ngxs-part-2/)
 [![State management in React with MobX](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/State_management_in_React_with_MobX.svg)](https://blog.openreplay.com/state-management-in-react-with-mobx)
 [![Interview Officer: "Tell me about Cookies Session and Tokens". Me: "Emm..."](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Interview_Officer___Tell_me_about_Cookies_Session_and_Tokens_._Me___Emm..._.svg)](https://pitayan.com/posts/sessions-cookies-and-tokens)
 [![Implementing user authentication in React with SuperTokens](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Implementing_user_authentication_in_React_with_SuperTokens.svg)](https://blog.openreplay.com/implementing-user-authentication-in-react-with-supertokens)
-[![Fix ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Fix_.svg)](
-https://masteringjs.io/tutorials/vue/elements-in-iteration-expect-to-have-v-bind-key
-)
 
 
 <!-- post-list:end -->
