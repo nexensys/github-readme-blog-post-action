@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, May 14, 2022 at 12:30:53 AM
+> Last updated: Saturday, May 14, 2022 at 6:19:30 AM
 
 > Showing 5 of 12 posts.
 
-[![15+ Python Advanced Concepts You Must Know- Codexashish](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/15+_Python_Advanced_Concepts_You_Must_Know-_Codexashish.svg)](https://dev.to/mailashish/15-python-advanced-concepts-you-must-know-codexashish-40e7)
-[![Remix Markdown overview page](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Remix_Markdown_overview_page.svg)](https://dev.to/dailydevtips1/remix-markdown-overview-page-26a4)
-[![How to Transition from Web2 to Web3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Transition_from_Web2_to_Web3.svg)](https://dev.to/danytulumidis/how-to-transition-from-web2-to-web3-1n3g)
-[![How to quickly setup a Let's Encrypt certificate in Azure Container Apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_quickly_setup_a_Let's_Encrypt_certificate_in_Azure_Container_Apps.svg)](https://dev.to/shibayan/how-to-quickly-setup-a-lets-encrypt-certificate-in-azure-container-apps-3nd7)
-[![Fun with justify-content](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Fun_with_justify-content.svg)](https://dev.to/alvaromontoro/fun-with-justify-content-olk)
+[![Pitch me on PHP](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Pitch_me_on_PHP.svg)](https://dev.to/ben/pitch-me-on-php-5bdc)
+[![I made an open source chatroulette app](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_made_an_open_source_chatroulette_app.svg)](https://dev.to/lorenzotinfena/i-made-an-open-source-chatroulette-app-d08)
+[![Open Source Adventures: Episode 58: PyScript: First Impressions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Open_Source_Adventures__Episode_58__PyScript__First_Impressions.svg)](https://dev.to/taw/open-source-adventures-episode-58-pyscript-first-impressions-4684)
+[![Tips to use "sed" command](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tips_to_use__sed__command.svg)](https://dev.to/mxglt/tips-to-use-sed-command-448n)
+[![Simple Serverless Scheduler](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Simple_Serverless_Scheduler.svg)](https://dev.to/aws-builders/simple-serverless-scheduler-25c7)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, May 14, 2022 at 12:30:57 AM
+> Last updated: Saturday, May 14, 2022 at 6:19:32 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, May 14, 2022 at 12:31:00 AM
+> Last updated: Saturday, May 14, 2022 at 6:19:35 AM
 
 > Showing 5 of 30 posts.
 
