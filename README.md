@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, May 13, 2022 at 7:01:34 PM
+> Last updated: Saturday, May 14, 2022 at 12:30:53 AM
 
 > Showing 5 of 12 posts.
 
-[![Useful Linux Commands](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Useful_Linux_Commands.svg)](https://dev.to/software_writer/useful-linux-commands-2acn)
-[![4 Things Developers Should Know About Recruiting Neurodiverse People](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/4_Things_Developers_Should_Know_About_Recruiting_Neurodiverse_People.svg)](https://dev.to/linearb/4-things-developers-should-know-about-recruiting-neurodiverse-people-1kda)
-[![Por qué Storybook?: la herramienta de desarrollo de componentes utilizada por más de 30_000 proyectos](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Por_qué_Storybook___la_herramienta_de_desarrollo_de_componentes_utilizada_por_más_de_30_000_proyectos.svg)](https://dev.to/khriztianmoreno/por-que-storybook-la-herramienta-de-desarrollo-de-componentes-utilizada-por-mas-de-30000-proyectos-5h77)
-[![Dreams come true ! I became the founder of the Cameroon 🇨🇲PHP community 🎊](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dreams_come_true_!_I_became_the_founder_of_the_Cameroon_🇨🇲PHP_community_🎊.svg)](https://dev.to/carleii_dev/dreams-come-true-i-became-the-founder-of-the-cameroon-php-community-i3i)
-[![Find DigitalOcean at KubeCon + CloudNativeCon EU 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Find_DigitalOcean_at_KubeCon_+_CloudNativeCon_EU_2022.svg)](https://dev.to/digitalocean/find-digitalocean-at-kubecon-cloudnativecon-eu-2022-5cp0)
+[![15+ Python Advanced Concepts You Must Know- Codexashish](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/15+_Python_Advanced_Concepts_You_Must_Know-_Codexashish.svg)](https://dev.to/mailashish/15-python-advanced-concepts-you-must-know-codexashish-40e7)
+[![Remix Markdown overview page](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Remix_Markdown_overview_page.svg)](https://dev.to/dailydevtips1/remix-markdown-overview-page-26a4)
+[![How to Transition from Web2 to Web3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Transition_from_Web2_to_Web3.svg)](https://dev.to/danytulumidis/how-to-transition-from-web2-to-web3-1n3g)
+[![How to quickly setup a Let's Encrypt certificate in Azure Container Apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_quickly_setup_a_Let's_Encrypt_certificate_in_Azure_Container_Apps.svg)](https://dev.to/shibayan/how-to-quickly-setup-a-lets-encrypt-certificate-in-azure-container-apps-3nd7)
+[![Fun with justify-content](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Fun_with_justify-content.svg)](https://dev.to/alvaromontoro/fun-with-justify-content-olk)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, May 13, 2022 at 7:01:38 PM
+> Last updated: Saturday, May 14, 2022 at 12:30:57 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, May 13, 2022 at 7:01:42 PM
+> Last updated: Saturday, May 14, 2022 at 12:31:00 AM
 
 > Showing 5 of 30 posts.
 
