@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, May 14, 2022 at 6:19:30 AM
+> Last updated: Saturday, May 14, 2022 at 12:12:41 PM
 
 > Showing 5 of 12 posts.
 
-[![Pitch me on PHP](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Pitch_me_on_PHP.svg)](https://dev.to/ben/pitch-me-on-php-5bdc)
-[![I made an open source chatroulette app](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_made_an_open_source_chatroulette_app.svg)](https://dev.to/lorenzotinfena/i-made-an-open-source-chatroulette-app-d08)
-[![Open Source Adventures: Episode 58: PyScript: First Impressions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Open_Source_Adventures__Episode_58__PyScript__First_Impressions.svg)](https://dev.to/taw/open-source-adventures-episode-58-pyscript-first-impressions-4684)
-[![Tips to use "sed" command](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tips_to_use__sed__command.svg)](https://dev.to/mxglt/tips-to-use-sed-command-448n)
-[![Simple Serverless Scheduler](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Simple_Serverless_Scheduler.svg)](https://dev.to/aws-builders/simple-serverless-scheduler-25c7)
+[![What is the Lakehouse, the latest Direction of Big Data Architecture?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_the_Lakehouse__the_latest_Direction_of_Big_Data_Architecture_.svg)](https://dev.to/qazmkop/what-is-the-lakehouse-the-latest-direction-of-big-data-architecture-59i)
+[![10+ Best Mobile App Themes of 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10+_Best_Mobile_App_Themes_of_2022.svg)](https://dev.to/mrcflorian/mobile-app-themes-1col)
+[![Setting up Laravel with SQL Server AND Laragon on Windows](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Setting_up_Laravel_with_SQL_Server_AND_Laragon_on_Windows.svg)](https://dev.to/retinqdon/setting-up-laravel-with-sql-server-and-laragon-on-windows-2cp9)
+[![PHP Hangman Game](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/PHP_Hangman_Game.svg)](https://dev.to/mmj/php-hangman-game-4b26)
+[![Avoid AutoRaise to activate the window while pressing down the Command Key](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Avoid_AutoRaise_to_activate_the_window_while_pressing_down_the_Command_Key.svg)](https://dev.to/brisbanewebdeveloper/avoid-autoraise-to-activate-the-window-while-pressing-down-the-command-key-305h)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, May 14, 2022 at 6:19:32 AM
+> Last updated: Saturday, May 14, 2022 at 12:12:44 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, May 14, 2022 at 6:19:35 AM
+> Last updated: Saturday, May 14, 2022 at 12:12:52 PM
 
 > Showing 5 of 30 posts.
 
+[![How to elegantly use BEM in vue3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_elegantly_use_BEM_in_vue3.svg)](https://dev.to/kesion/how-to-elegantly-use-bem-in-vue3-91k)
 [![
 [Ask EchoJS] TypeScript For Articles
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_[Ask_EchoJS]_TypeScript_For_Articles_.svg)](
@@ -55,7 +56,6 @@ http://www.echojs.com/news/40685
 [![State Management in Angular Using NGXS - Part 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/State_Management_in_Angular_Using_NGXS_-_Part_2.svg)](https://auth0.com/blog/state-management-in-angular-with-ngxs-part-2/)
 [![State management in React with MobX](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/State_management_in_React_with_MobX.svg)](https://blog.openreplay.com/state-management-in-react-with-mobx)
 [![Interview Officer: "Tell me about Cookies Session and Tokens". Me: "Emm..."](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Interview_Officer___Tell_me_about_Cookies_Session_and_Tokens_._Me___Emm..._.svg)](https://pitayan.com/posts/sessions-cookies-and-tokens)
-[![Implementing user authentication in React with SuperTokens](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Implementing_user_authentication_in_React_with_SuperTokens.svg)](https://blog.openreplay.com/implementing-user-authentication-in-react-with-supertokens)
 
 
 <!-- post-list:end -->
