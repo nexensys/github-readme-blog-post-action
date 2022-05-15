@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, May 14, 2022 at 7:03:28 PM
+> Last updated: Sunday, May 15, 2022 at 12:13:07 AM
 
 > Showing 5 of 12 posts.
 
-[![Back to Lisp Part 1 - Working Inside the Language](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Back_to_Lisp_Part_1_-_Working_Inside_the_Language.svg)](https://dev.to/wesen/back-to-lisp-part-1-working-inside-the-language-1f9h)
-[![Ly - A Nerd's Display Manager](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ly_-_A_Nerd's_Display_Manager.svg)](https://dev.to/wenura/ly-a-nerds-display-manager-8of)
-[![Force Send ETH - 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Force_Send_ETH_-_2.svg)](https://dev.to/rushanksavant/force-send-eth-2-5b1l)
-[![Force Send ETH - 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Force_Send_ETH_-_1.svg)](https://dev.to/rushanksavant/force-send-eth-1-2on1)
-[![JavaScript - Map](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_-_Map.svg)](https://dev.to/justtanwa/javascript-map-ko1)
+[![7 Easy Hacks for Developers to become a Productivity Jedi ⚡️](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/7_Easy_Hacks_for_Developers_to_become_a_Productivity_Jedi_⚡️.svg)](https://dev.to/ruppysuppy/7-easy-hacks-for-developers-to-become-a-productivity-jedi-12h0)
+[![What is SASS | All-time-dev?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_SASS___All-time-dev_.svg)](https://dev.to/alltimedevlopment/what-is-sass-all-time-dev-47k8)
+[![I was tired of making banners for my blogs, so I automated it](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_was_tired_of_making_banners_for_my_blogs__so_I_automated_it.svg)](https://dev.to/dhravya/i-was-tired-of-making-banners-for-my-blogs-so-i-automated-it-5hnd)
+[![React-Native Top Tips](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React-Native_Top_Tips.svg)](https://dev.to/jagroop2000/react-native-top-tips-58c4)
+[![30 days of Leapfrog Student Partnership Program Learning Challenge.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/30_days_of_Leapfrog_Student_Partnership_Program_Learning_Challenge..svg)](https://dev.to/aakas/30-days-of-leapfrog-student-partnership-program-learning-challenge-3o8k)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, May 14, 2022 at 7:03:30 PM
+> Last updated: Sunday, May 15, 2022 at 12:13:10 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, May 14, 2022 at 7:03:33 PM
+> Last updated: Sunday, May 15, 2022 at 12:13:13 AM
 
 > Showing 5 of 30 posts.
 
