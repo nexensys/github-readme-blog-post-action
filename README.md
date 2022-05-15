@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, May 15, 2022 at 6:17:29 AM
+> Last updated: Sunday, May 15, 2022 at 12:12:22 PM
 
 > Showing 5 of 12 posts.
 
-[![How to Choose The Right Database for Your Application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Choose_The_Right_Database_for_Your_Application.svg)](https://dev.to/apoorvtyagi/how-to-choose-the-right-database-for-your-application-1dk3)
-[![Beautify Github Profile](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Beautify_Github_Profile.svg)](https://dev.to/rzashakeri/beautify-github-profile-6ld)
-[![What's new in SeaORM 0.8.0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What's_new_in_SeaORM_0.8.0.svg)](https://dev.to/seaql/whats-new-in-seaorm-080-3cf5)
-[![Building a startup | Days 1 - 5](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_startup___Days_1_-_5.svg)](https://dev.to/advikguptadev/building-a-startup-days-1-5-2h97)
-[![FLEX BOX](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/FLEX_BOX.svg)](https://dev.to/allison_m_08b9005267b3bcf/flex-box-2jck)
+[![Lambda Layers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Lambda_Layers.svg)](https://dev.to/viv92945316/lambda-layers-437n)
+[![How to create an EC2 instance on AWS using Terraform ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_an_EC2_instance_on_AWS_using_Terraform__.svg)](https://dev.to/kcdchennai/create-an-ec2-instance-on-aws-using-terraform-4n8a)
+[![Front-end Developer roadmap](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Front-end_Developer_roadmap.svg)](https://dev.to/dealwith/front-end-developer-roadmap-2gi0)
+[![Create your own bytecode Vm from scratch](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_your_own_bytecode_Vm_from_scratch.svg)](https://dev.to/saptakbhoumik/create-your-own-bytecode-vm-from-scratch-2364)
+[![Google ending Edu shared drives : everything you need to know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Google_ending_Edu_shared_drives___everything_you_need_to_know.svg)](https://dev.to/edm115/google-ending-edu-shared-drives-everything-you-need-to-know-4k87)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, May 15, 2022 at 6:17:31 AM
+> Last updated: Sunday, May 15, 2022 at 12:12:25 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, May 15, 2022 at 6:17:33 AM
+> Last updated: Sunday, May 15, 2022 at 12:12:27 PM
 
 > Showing 5 of 30 posts.
 
