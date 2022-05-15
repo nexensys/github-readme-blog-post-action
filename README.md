@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, May 14, 2022 at 12:12:41 PM
+> Last updated: Saturday, May 14, 2022 at 7:03:28 PM
 
 > Showing 5 of 12 posts.
 
-[![What is the Lakehouse, the latest Direction of Big Data Architecture?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_the_Lakehouse__the_latest_Direction_of_Big_Data_Architecture_.svg)](https://dev.to/qazmkop/what-is-the-lakehouse-the-latest-direction-of-big-data-architecture-59i)
-[![10+ Best Mobile App Themes of 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10+_Best_Mobile_App_Themes_of_2022.svg)](https://dev.to/mrcflorian/mobile-app-themes-1col)
-[![Setting up Laravel with SQL Server AND Laragon on Windows](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Setting_up_Laravel_with_SQL_Server_AND_Laragon_on_Windows.svg)](https://dev.to/retinqdon/setting-up-laravel-with-sql-server-and-laragon-on-windows-2cp9)
-[![PHP Hangman Game](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/PHP_Hangman_Game.svg)](https://dev.to/mmj/php-hangman-game-4b26)
-[![Avoid AutoRaise to activate the window while pressing down the Command Key](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Avoid_AutoRaise_to_activate_the_window_while_pressing_down_the_Command_Key.svg)](https://dev.to/brisbanewebdeveloper/avoid-autoraise-to-activate-the-window-while-pressing-down-the-command-key-305h)
+[![Back to Lisp Part 1 - Working Inside the Language](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Back_to_Lisp_Part_1_-_Working_Inside_the_Language.svg)](https://dev.to/wesen/back-to-lisp-part-1-working-inside-the-language-1f9h)
+[![Ly - A Nerd's Display Manager](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ly_-_A_Nerd's_Display_Manager.svg)](https://dev.to/wenura/ly-a-nerds-display-manager-8of)
+[![Force Send ETH - 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Force_Send_ETH_-_2.svg)](https://dev.to/rushanksavant/force-send-eth-2-5b1l)
+[![Force Send ETH - 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Force_Send_ETH_-_1.svg)](https://dev.to/rushanksavant/force-send-eth-1-2on1)
+[![JavaScript - Map](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_-_Map.svg)](https://dev.to/justtanwa/javascript-map-ko1)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, May 14, 2022 at 12:12:44 PM
+> Last updated: Saturday, May 14, 2022 at 7:03:30 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, May 14, 2022 at 12:12:52 PM
+> Last updated: Saturday, May 14, 2022 at 7:03:33 PM
 
 > Showing 5 of 30 posts.
 
