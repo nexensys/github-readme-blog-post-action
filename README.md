@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, May 15, 2022 at 12:13:07 AM
+> Last updated: Sunday, May 15, 2022 at 6:17:29 AM
 
 > Showing 5 of 12 posts.
 
-[![7 Easy Hacks for Developers to become a Productivity Jedi ⚡️](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/7_Easy_Hacks_for_Developers_to_become_a_Productivity_Jedi_⚡️.svg)](https://dev.to/ruppysuppy/7-easy-hacks-for-developers-to-become-a-productivity-jedi-12h0)
-[![What is SASS | All-time-dev?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_SASS___All-time-dev_.svg)](https://dev.to/alltimedevlopment/what-is-sass-all-time-dev-47k8)
-[![I was tired of making banners for my blogs, so I automated it](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_was_tired_of_making_banners_for_my_blogs__so_I_automated_it.svg)](https://dev.to/dhravya/i-was-tired-of-making-banners-for-my-blogs-so-i-automated-it-5hnd)
-[![React-Native Top Tips](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React-Native_Top_Tips.svg)](https://dev.to/jagroop2000/react-native-top-tips-58c4)
-[![30 days of Leapfrog Student Partnership Program Learning Challenge.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/30_days_of_Leapfrog_Student_Partnership_Program_Learning_Challenge..svg)](https://dev.to/aakas/30-days-of-leapfrog-student-partnership-program-learning-challenge-3o8k)
+[![How to Choose The Right Database for Your Application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Choose_The_Right_Database_for_Your_Application.svg)](https://dev.to/apoorvtyagi/how-to-choose-the-right-database-for-your-application-1dk3)
+[![Beautify Github Profile](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Beautify_Github_Profile.svg)](https://dev.to/rzashakeri/beautify-github-profile-6ld)
+[![What's new in SeaORM 0.8.0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What's_new_in_SeaORM_0.8.0.svg)](https://dev.to/seaql/whats-new-in-seaorm-080-3cf5)
+[![Building a startup | Days 1 - 5](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_startup___Days_1_-_5.svg)](https://dev.to/advikguptadev/building-a-startup-days-1-5-2h97)
+[![FLEX BOX](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/FLEX_BOX.svg)](https://dev.to/allison_m_08b9005267b3bcf/flex-box-2jck)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, May 15, 2022 at 12:13:10 AM
+> Last updated: Sunday, May 15, 2022 at 6:17:31 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, May 15, 2022 at 12:13:13 AM
+> Last updated: Sunday, May 15, 2022 at 6:17:33 AM
 
 > Showing 5 of 30 posts.
 
