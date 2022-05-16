@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, May 15, 2022 at 6:53:27 PM
+> Last updated: Monday, May 16, 2022 at 12:16:43 AM
 
 > Showing 5 of 12 posts.
 
-[![How to Drive Free Traffic to your Website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Drive_Free_Traffic_to_your_Website.svg)](https://dev.to/jessicaagorye/how-to-drive-free-traffic-to-your-website-4f75)
-[![Web3 and the future of finance.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Web3_and_the_future_of_finance..svg)](https://dev.to/firdavs_kasymov/web3-and-the-future-of-finance-2601)
-[![Tailwind CSS Customization Summary](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tailwind_CSS_Customization_Summary.svg)](https://dev.to/nrikiji/tailwind-css-customization-summary-3421)
-[![What is `this`? Technical debt!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_`this`__Technical_debt!.svg)](https://dev.to/vangware/what-is-this-technical-debt-3150)
-[![SOLID: O conceito por trás do código](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/SOLID__O_conceito_por_trás_do_código.svg)](https://dev.to/rubemfsv/solid-o-conceito-por-tras-do-codigo-5fd1)
+[![What exactly is Frontmatter?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_exactly_is_Frontmatter_.svg)](https://dev.to/dailydevtips1/what-exactly-is-frontmatter-123g)
+[![How to speed up a Web App loading time by 10x faster!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_speed_up_a_Web_App_loading_time_by_10x_faster!.svg)](https://dev.to/mtwn105/how-to-speed-up-a-web-app-loading-time-by-10x-faster-1oke)
+[![How to properly internationalize a Vue application using i18next](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_properly_internationalize_a_Vue_application_using_i18next.svg)](https://dev.to/adrai/how-to-properly-internationalize-a-vue-application-using-i18next-1doj)
+[![I created gui scraper](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_created_gui_scraper.svg)](https://dev.to/sripadhs/i-created-gui-scraper-1i85)
+[![How to add Dark mode in Next.js Application using Tailwind CSS.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_add_Dark_mode_in_Next.js_Application_using_Tailwind_CSS..svg)](https://dev.to/rashidalikalwar/how-to-add-dark-mode-in-nextjs-application-using-tailwind-css-49bg)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, May 15, 2022 at 6:53:30 PM
+> Last updated: Monday, May 16, 2022 at 12:16:46 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, May 15, 2022 at 6:53:33 PM
+> Last updated: Monday, May 16, 2022 at 12:16:49 AM
 
 > Showing 5 of 30 posts.
 
