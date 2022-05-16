@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, May 15, 2022 at 12:12:22 PM
+> Last updated: Sunday, May 15, 2022 at 6:53:27 PM
 
 > Showing 5 of 12 posts.
 
-[![Lambda Layers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Lambda_Layers.svg)](https://dev.to/viv92945316/lambda-layers-437n)
-[![How to create an EC2 instance on AWS using Terraform ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_an_EC2_instance_on_AWS_using_Terraform__.svg)](https://dev.to/kcdchennai/create-an-ec2-instance-on-aws-using-terraform-4n8a)
-[![Front-end Developer roadmap](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Front-end_Developer_roadmap.svg)](https://dev.to/dealwith/front-end-developer-roadmap-2gi0)
-[![Create your own bytecode Vm from scratch](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_your_own_bytecode_Vm_from_scratch.svg)](https://dev.to/saptakbhoumik/create-your-own-bytecode-vm-from-scratch-2364)
-[![Google ending Edu shared drives : everything you need to know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Google_ending_Edu_shared_drives___everything_you_need_to_know.svg)](https://dev.to/edm115/google-ending-edu-shared-drives-everything-you-need-to-know-4k87)
+[![How to Drive Free Traffic to your Website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Drive_Free_Traffic_to_your_Website.svg)](https://dev.to/jessicaagorye/how-to-drive-free-traffic-to-your-website-4f75)
+[![Web3 and the future of finance.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Web3_and_the_future_of_finance..svg)](https://dev.to/firdavs_kasymov/web3-and-the-future-of-finance-2601)
+[![Tailwind CSS Customization Summary](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tailwind_CSS_Customization_Summary.svg)](https://dev.to/nrikiji/tailwind-css-customization-summary-3421)
+[![What is `this`? Technical debt!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_`this`__Technical_debt!.svg)](https://dev.to/vangware/what-is-this-technical-debt-3150)
+[![SOLID: O conceito por trás do código](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/SOLID__O_conceito_por_trás_do_código.svg)](https://dev.to/rubemfsv/solid-o-conceito-por-tras-do-codigo-5fd1)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, May 15, 2022 at 12:12:25 PM
+> Last updated: Sunday, May 15, 2022 at 6:53:30 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, May 15, 2022 at 12:12:27 PM
+> Last updated: Sunday, May 15, 2022 at 6:53:33 PM
 
 > Showing 5 of 30 posts.
 
