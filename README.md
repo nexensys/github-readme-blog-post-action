@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, May 16, 2022 at 12:16:43 AM
+> Last updated: Monday, May 16, 2022 at 6:20:34 AM
 
 > Showing 5 of 12 posts.
 
-[![What exactly is Frontmatter?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_exactly_is_Frontmatter_.svg)](https://dev.to/dailydevtips1/what-exactly-is-frontmatter-123g)
-[![How to speed up a Web App loading time by 10x faster!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_speed_up_a_Web_App_loading_time_by_10x_faster!.svg)](https://dev.to/mtwn105/how-to-speed-up-a-web-app-loading-time-by-10x-faster-1oke)
-[![How to properly internationalize a Vue application using i18next](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_properly_internationalize_a_Vue_application_using_i18next.svg)](https://dev.to/adrai/how-to-properly-internationalize-a-vue-application-using-i18next-1doj)
-[![I created gui scraper](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_created_gui_scraper.svg)](https://dev.to/sripadhs/i-created-gui-scraper-1i85)
-[![How to add Dark mode in Next.js Application using Tailwind CSS.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_add_Dark_mode_in_Next.js_Application_using_Tailwind_CSS..svg)](https://dev.to/rashidalikalwar/how-to-add-dark-mode-in-nextjs-application-using-tailwind-css-49bg)
+[![From zero to 10,000 stars and 160 contributors on GitHub](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/From_zero_to_10_000_stars_and_160_contributors_on_GitHub.svg)](https://dev.to/tooljet/from-zero-to-10000-stars-and-160-contributors-on-github-3057)
+[![Postman File Upload (Image & Video)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Postman_File_Upload_(Image___Video).svg)](https://dev.to/automationbro/postman-file-upload-image-video-3cn1)
+[![Introdução ao SEO - SEO #00](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introdução_ao_SEO_-_SEO__00.svg)](https://dev.to/gabrielgomeso/introducao-ao-seo-seo-00-2bh6)
+[![What does being a senior mean to you?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_does_being_a_senior_mean_to_you_.svg)](https://dev.to/nombrekeff/what-does-being-a-senior-mean-to-you-62f)
+[![What Tool Do You Wish Was Open Source?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_Tool_Do_You_Wish_Was_Open_Source_.svg)](https://dev.to/medusajs/what-tool-do-you-wish-was-open-source-i67)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, May 16, 2022 at 12:16:46 AM
+> Last updated: Monday, May 16, 2022 at 6:20:36 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, May 16, 2022 at 12:16:49 AM
+> Last updated: Monday, May 16, 2022 at 6:20:40 AM
 
 > Showing 5 of 30 posts.
 
+[![Blockchain Game Development Company](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Blockchain_Game_Development_Company.svg)](https://www.dappsfirm.com/blockchain-game-development)
 [![How to elegantly use BEM in vue3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_elegantly_use_BEM_in_vue3.svg)](https://dev.to/kesion/how-to-elegantly-use-bem-in-vue3-91k)
 [![
 [Ask EchoJS] TypeScript For Articles
@@ -55,7 +56,6 @@ http://www.echojs.com/news/40685
 )
 [![State Management in Angular Using NGXS - Part 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/State_Management_in_Angular_Using_NGXS_-_Part_2.svg)](https://auth0.com/blog/state-management-in-angular-with-ngxs-part-2/)
 [![State management in React with MobX](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/State_management_in_React_with_MobX.svg)](https://blog.openreplay.com/state-management-in-react-with-mobx)
-[![Interview Officer: "Tell me about Cookies Session and Tokens". Me: "Emm..."](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Interview_Officer___Tell_me_about_Cookies_Session_and_Tokens_._Me___Emm..._.svg)](https://pitayan.com/posts/sessions-cookies-and-tokens)
 
 
 <!-- post-list:end -->
