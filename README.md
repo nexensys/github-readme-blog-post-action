@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, May 17, 2022 at 6:19:49 AM
+> Last updated: Tuesday, May 17, 2022 at 12:12:53 PM
 
 > Showing 5 of 12 posts.
 
-[![GitLive Now Works With Any Git Repository in WebStorm!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/GitLive_Now_Works_With_Any_Git_Repository_in_WebStorm!.svg)](https://dev.to/gitlive/gitlive-now-works-with-any-git-repository-in-webstorm-39bh)
-[![Would You Make A Svelte Todo App?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Would_You_Make_A_Svelte_Todo_App_.svg)](https://dev.to/hr21don/would-you-make-a-svelte-todo-app-pb2)
-[![How to build a search bar component with Tailwind CSS and Flowbite](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_build_a_search_bar_component_with_Tailwind_CSS_and_Flowbite.svg)](https://dev.to/themesberg/how-to-build-a-search-bar-component-with-tailwind-css-and-flowbite-527b)
-[![When last did you try something hard?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/When_last_did_you_try_something_hard_.svg)](https://dev.to/femolacaster/when-last-did-you-try-something-hard-35ea)
-[![Is "The Great Resignation" a real thing?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Is__The_Great_Resignation__a_real_thing_.svg)](https://dev.to/booboboston/is-the-great-resignation-a-real-thing-5g9o)
+[![5 Bad Practices That Can Make Your C# Code Messy - And How to Avoid Them](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Bad_Practices_That_Can_Make_Your_C__Code_Messy_-_And_How_to_Avoid_Them.svg)](https://dev.to/dotnetsafer/5-bad-practices-that-can-make-your-c-code-messy-and-how-to-avoid-them-3p0f)
+[![App Generator - Build Really Nice Presentation Sites with Ease (free service)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/App_Generator_-_Build_Really_Nice_Presentation_Sites_with_Ease_(free_service).svg)](https://dev.to/sm0ke/app-generator-build-really-nice-presentation-sites-with-ease-free-service-l3n)
+[![Swiftly Awaiting Async Code Using Appwrite](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Swiftly_Awaiting_Async_Code_Using_Appwrite.svg)](https://dev.to/appwrite/swiftly-awaiting-async-code-using-appwrite-1c6c)
+[![What side hustle are you doing along with coding?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_side_hustle_are_you_doing_along_with_coding_.svg)](https://dev.to/gauravsoni97/what-side-hustle-are-you-doing-along-with-coding-33nh)
+[![What you need to be prepared for any job interview 🎙](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_you_need_to_be_prepared_for_any_job_interview_🎙.svg)](https://dev.to/codenewbieteam/what-you-need-to-be-prepared-for-any-job-interview-codenewbie-podcast-3mg2)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, May 17, 2022 at 6:19:52 AM
+> Last updated: Tuesday, May 17, 2022 at 12:12:57 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, May 17, 2022 at 6:19:56 AM
+> Last updated: Tuesday, May 17, 2022 at 12:13:04 PM
 
 > Showing 5 of 30 posts.
 
