@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 610 110" width="600" height="100" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <style>
+      .title {
+        font-size: 1.5em;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        white-space: nowrap;
+      }
+      .description {
+        font-size: 0.75em;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+      }
+      .text {
+        text-align: start;
+        padding: 10px;
+        height: calc(100% - 20px);
+        margin-left: 100px;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+        color: black;
+      }
+           .date {
+        font-size: 0.5em;
+        opacity: 0.5;
+        text-align: end;
+        position: absolute;
+        bottom: 0;
+        right: 10px;
+        color: black;
+      }
+      .image {
+        height: 100px;
+        width: 100px;
+        background-image: url("data:image/png;base64,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");
+        background-size: cover;
+        position: absolute;
+        top: 0;
+        left: 0;
+        border-radius: 10px;
+        background-position: center;
+      }
+      .main {
+        fill: white;
+      }
+      .data {
+        opacity: 0.75;
+        text-align: start;
+        position: absolute;
+        bottom: 0;
+        padding-bottom: 5px;
+        left: 110px;
+        color: black;
+        max-width: 400px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+      }
+      .author {
+        opacity: 0.75;
+        font-size: 0.5em;
+      }
+      .category {
+        background-color: rgba(0, 0, 0, 0.25);
+        border-radius: 0.25em;
+        padding: 0.125em 0.25em;
+        font-size: 0.75em;
+        color: rgba(0, 0, 0, 0.8);
+      }
+    </style>
+  </defs>
+  <g class="main">
+    <rect class="content" width="600" height="100" stroke="rgba(0, 0, 0, 0.5)" x="5" y="5" rx="10" />
+    <foreignObject width="600" height="100" x="5" y="5">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
+        <div class="image" />
+<div class="text">
+          <div class="title">Don&#0039;t&#0032;Use&#0032;Console&#0046;log&#0032;to&#0032;Log&#0032;a&#0032;List&#0032;of&#0032;Objects&#0033;</div>
+          <div class="description">When&#0032;debugging&#0032;your&#0032;JavaScript&#0032;application&#0044;&#0032;console&#0046;log&#0040;&#0041;&#0032;is&#0032;one&#0032;of&#0032;the&#0032;most&#0032;valuable&#0032;methods&#0032;to&#0032;log&#0046;&#0046;&#0046;</div>
+          <div class="date">5&#0047;17&#0047;22</div>
+          <div class="data">
+            <span class="author">Mangabo&#0032;Kolawole</span> <span class="category">web</span> <span class="category">javascript</span> <span class="category">typescript</span>
+          </div>
+        </div>
+      </div>
+    </foreignObject>
+  </g>
+</svg>
