@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, May 17, 2022 at 12:13:51 AM
+> Last updated: Tuesday, May 17, 2022 at 6:19:49 AM
 
 > Showing 5 of 12 posts.
 
-[![Don't Use Console.log to Log a List of Objects!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Don't_Use_Console.log_to_Log_a_List_of_Objects!.svg)](https://dev.to/koladev/dont-use-consolelog-to-log-a-list-of-objects-1nga)
-[![A11Y 101: What is accessibility](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A11Y_101__What_is_accessibility.svg)](https://dev.to/dailydevtips1/a11y-101-what-is-accessibility-518o)
-[![Google-clone - Google Search Clone Built Using React/Next js And Tailwind CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Google-clone_-_Google_Search_Clone_Built_Using_React_Next_js_And_Tailwind_CSS.svg)](https://dev.to/cosmicwanderer7/google-clone-google-search-clone-built-using-reactnext-js-and-tailwind-css-4j09)
-[![What language or ecosystem have you worked with for work that you would NEVER choose to work in again?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_language_or_ecosystem_have_you_worked_with_for_work_that_you_would_NEVER_choose_to_work_in_again_.svg)](https://dev.to/dinerdas/what-language-or-ecosystem-have-you-worked-with-for-work-that-you-would-never-choose-to-work-in-again-4e9j)
-[![3 Extensions from chrome web store](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/3_Extensions_from_chrome_web_store.svg)](https://dev.to/matheusmprado/3-extensions-from-chrome-web-store-1ei0)
+[![GitLive Now Works With Any Git Repository in WebStorm!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/GitLive_Now_Works_With_Any_Git_Repository_in_WebStorm!.svg)](https://dev.to/gitlive/gitlive-now-works-with-any-git-repository-in-webstorm-39bh)
+[![Would You Make A Svelte Todo App?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Would_You_Make_A_Svelte_Todo_App_.svg)](https://dev.to/hr21don/would-you-make-a-svelte-todo-app-pb2)
+[![How to build a search bar component with Tailwind CSS and Flowbite](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_build_a_search_bar_component_with_Tailwind_CSS_and_Flowbite.svg)](https://dev.to/themesberg/how-to-build-a-search-bar-component-with-tailwind-css-and-flowbite-527b)
+[![When last did you try something hard?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/When_last_did_you_try_something_hard_.svg)](https://dev.to/femolacaster/when-last-did-you-try-something-hard-35ea)
+[![Is "The Great Resignation" a real thing?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Is__The_Great_Resignation__a_real_thing_.svg)](https://dev.to/booboboston/is-the-great-resignation-a-real-thing-5g9o)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, May 17, 2022 at 12:13:54 AM
+> Last updated: Tuesday, May 17, 2022 at 6:19:52 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, May 17, 2022 at 12:13:59 AM
+> Last updated: Tuesday, May 17, 2022 at 6:19:56 AM
 
 > Showing 5 of 30 posts.
 
