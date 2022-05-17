@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, May 16, 2022 at 12:17:19 PM
+> Last updated: Monday, May 16, 2022 at 6:51:25 PM
 
 > Showing 5 of 12 posts.
 
-[![JavaScript Promise Chaining - Avoid Callback Hell](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_Promise_Chaining_-_Avoid_Callback_Hell.svg)](https://dev.to/hunghvu/javascript-promise-chaining-avoid-callback-hell-16ef)
-[![A Simple TypeScript Class to query information from DynamoDB](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Simple_TypeScript_Class_to_query_information_from_DynamoDB.svg)](https://dev.to/zerquix18/a-simple-typescript-class-to-query-information-from-dynamodb-2hce)
-[![How to use AWS EC2 with Boto3 & Python - Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_AWS_EC2_with_Boto3___Python_-_Part_1.svg)](https://dev.to/kcdchennai/how-to-use-aws-ec2-with-boto3-python-part-1-i48)
-[![Build a simple dApp using truffle, ganache, Ethers,js and React(1)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_a_simple_dApp_using_truffle__ganache__Ethers_js_and_React(1).svg)](https://dev.to/yongchanghe/build-a-simple-dapp-using-truffle-ganache-ethersjs-and-react1-52bl)
-[![🔗 Blockchain Basics](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🔗_Blockchain_Basics.svg)](https://dev.to/envoy_/blockchain-basics-2j2d)
+[![Setup Jest and React Testing Library in a React project | a step-by-step guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Setup_Jest_and_React_Testing_Library_in_a_React_project___a_step-by-step_guide.svg)](https://dev.to/yvad60/setup-jest-and-react-testing-library-in-a-react-project-a-step-by-step-guide-1mf0)
+[![May 16th, 2022: VS Code Tip of the Week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/May_16th__2022__VS_Code_Tip_of_the_Week.svg)](https://dev.to/vscodetips/may-16th-2022-vs-code-tip-of-the-week-151c)
+[![Introducing Depot — A faster way to build Docker images](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_Depot_—_A_faster_way_to_build_Docker_images.svg)](https://dev.to/depot/introducing-depot-a-faster-way-to-build-docker-images-bd3)
+[![SDD Conference Top Takeaways - Evolutionary Architecture](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/SDD_Conference_Top_Takeaways_-_Evolutionary_Architecture.svg)](https://dev.to/tekiegirl/sdd-conference-top-takeaways-evolutionary-architecture-50b6)
+[![Twelve Amazing Free Hugo Documentation Themes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Twelve_Amazing_Free_Hugo_Documentation_Themes.svg)](https://dev.to/cloudcannon/twelve-amazing-free-hugo-documentation-themes-4fgl)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, May 16, 2022 at 12:17:21 PM
+> Last updated: Monday, May 16, 2022 at 6:51:29 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, May 16, 2022 at 12:17:23 PM
+> Last updated: Monday, May 16, 2022 at 6:51:35 PM
 
 > Showing 5 of 30 posts.
 
+[![Pikaso v2.6 released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Pikaso_v2.6_released.svg)](https://dev.to/raminmousavi/pikaso-v26-released-4lld)
+[![Creating recursive and dynamic forms with React Hook Form and TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Creating_recursive_and_dynamic_forms_with_React_Hook_Form_and_TypeScript.svg)](http://wanago.io/2022/05/16/recursive-dynamic-forms-react-hook-form-typescript/)
+[![
+PicMo 5: Vanilla JavaScript emoji picker, no framework dependency
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_PicMo_5__Vanilla_JavaScript_emoji_picker__no_framework_dependency_.svg)](https://picmojs.com/)
 [![BudLib](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/BudLib.svg)](https://github.com/budlib)
 [![Building a Composable UI Component Library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_a_Composable_UI_Component_Library.svg)](https://bit.dev/)
-[![How to elegantly use BEM in vue3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_elegantly_use_BEM_in_vue3.svg)](https://dev.to/kesion/how-to-elegantly-use-bem-in-vue3-91k)
-[![
-[Ask EchoJS] TypeScript For Articles
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_[Ask_EchoJS]_TypeScript_For_Articles_.svg)](
-http://www.echojs.com/news/40685
-)
-[![State Management in Angular Using NGXS - Part 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/State_Management_in_Angular_Using_NGXS_-_Part_2.svg)](https://auth0.com/blog/state-management-in-angular-with-ngxs-part-2/)
 
 
 <!-- post-list:end -->
