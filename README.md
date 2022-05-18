@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, May 17, 2022 at 6:42:02 PM
+> Last updated: Wednesday, May 18, 2022 at 12:13:19 AM
 
 > Showing 5 of 12 posts.
 
-[![Data Mining And SQL Practice PDFs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Data_Mining_And_SQL_Practice_PDFs.svg)](https://dev.to/designegycreatives/data-mining-and-sql-practice-pdfs-18g5)
-[![Kubernetes or Cloud Foundry : Cloud-Native App Deployment](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Kubernetes_or_Cloud_Foundry___Cloud-Native_App_Deployment.svg)](https://dev.to/iamrahul/kubernetes-or-cloud-foundry-cloud-native-app-deployment-512k)
-[![Cómo escribir excelentes commits](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cómo_escribir_excelentes_commits.svg)](https://dev.to/marcoetmx/como-escribir-excelentes-commits-5159)
-[![What developer products/tools should exist, but don't?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_developer_products_tools_should_exist__but_don't_.svg)](https://dev.to/devteam/what-developer-productstools-should-exist-but-dont-4ooe)
-[![Git Commit Message Template in Terminal and VS Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Git_Commit_Message_Template_in_Terminal_and_VS_Code.svg)](https://dev.to/abbeyperini/git-commit-message-template-in-terminal-and-vs-code-326p)
+[![Dockerizing Your Node.js Application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dockerizing_Your_Node.js_Application.svg)](https://dev.to/pavanbelagatti/dockerizing-your-nodejs-application-1o17)
+[![Create React App With Netlify CMS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_React_App_With_Netlify_CMS.svg)](https://dev.to/wenura/create-react-app-with-netlify-cms-l8d)
+[![Build and Deploy 5 JavaScript & React API Projects in 10 Hours - Full Course | RapidAPI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_and_Deploy_5_JavaScript___React_API_Projects_in_10_Hours_-_Full_Course___RapidAPI.svg)](https://dev.to/wenura/build-and-deploy-5-javascript-react-api-projects-in-10-hours-full-course-rapidapi-5057)
+[!["pcieport 0000:00:1c.7" Diski Dolduran Log Problemi Çözümü](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_pcieport_0000_00_1c.7__Diski_Dolduran_Log_Problemi_Çözümü.svg)](https://dev.to/aciklab/pcieport-0000001c7-diski-dolduran-log-problemi-cozumu-3f6c)
+[![A11Y 101: Type of users and how they interact](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A11Y_101__Type_of_users_and_how_they_interact.svg)](https://dev.to/dailydevtips1/a11y-101-type-of-users-and-how-they-interact-1dfi)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, May 17, 2022 at 6:42:05 PM
+> Last updated: Wednesday, May 18, 2022 at 12:13:22 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, May 17, 2022 at 6:42:13 PM
+> Last updated: Wednesday, May 18, 2022 at 12:13:26 AM
 
 > Showing 5 of 30 posts.
 
