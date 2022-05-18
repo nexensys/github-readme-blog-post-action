@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, May 18, 2022 at 12:13:19 AM
+> Last updated: Wednesday, May 18, 2022 at 6:19:40 AM
 
 > Showing 5 of 12 posts.
 
-[![Dockerizing Your Node.js Application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dockerizing_Your_Node.js_Application.svg)](https://dev.to/pavanbelagatti/dockerizing-your-nodejs-application-1o17)
-[![Create React App With Netlify CMS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_React_App_With_Netlify_CMS.svg)](https://dev.to/wenura/create-react-app-with-netlify-cms-l8d)
-[![Build and Deploy 5 JavaScript & React API Projects in 10 Hours - Full Course | RapidAPI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_and_Deploy_5_JavaScript___React_API_Projects_in_10_Hours_-_Full_Course___RapidAPI.svg)](https://dev.to/wenura/build-and-deploy-5-javascript-react-api-projects-in-10-hours-full-course-rapidapi-5057)
-[!["pcieport 0000:00:1c.7" Diski Dolduran Log Problemi Çözümü](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_pcieport_0000_00_1c.7__Diski_Dolduran_Log_Problemi_Çözümü.svg)](https://dev.to/aciklab/pcieport-0000001c7-diski-dolduran-log-problemi-cozumu-3f6c)
-[![A11Y 101: Type of users and how they interact](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A11Y_101__Type_of_users_and_how_they_interact.svg)](https://dev.to/dailydevtips1/a11y-101-type-of-users-and-how-they-interact-1dfi)
+[![uname Command in CLI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/uname_Command_in_CLI.svg)](https://dev.to/baransel/uname-command-in-cli-470n)
+[![Prefer using Flutter's SingleActivator instead of LogicalKeySet if you can | LLF #7](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Prefer_using_Flutter's_SingleActivator_instead_of_LogicalKeySet_if_you_can___LLF__7.svg)](https://dev.to/nombrekeff/prefer-using-flutters-singleactivator-instead-of-logicalkeyset-if-you-can-llf-7-17d4)
+[![Automate All the Boring Kubernetes Operations with Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Automate_All_the_Boring_Kubernetes_Operations_with_Python.svg)](https://dev.to/martinheinz/automate-all-the-boring-kubernetes-operations-with-python-4o1c)
+[![How to Automatically Generate Tokens for CodeArtifact (Maven) in Windows](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Automatically_Generate_Tokens_for_CodeArtifact_(Maven)_in_Windows.svg)](https://dev.to/fanmixco/automatic-token-generation-for-maven-in-codeartifact-in-windows-15k6)
+[![#16: Test Automation with Playwright](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_16__Test_Automation_with_Playwright.svg)](https://dev.to/azure/16-test-automation-with-playwright-odk)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, May 18, 2022 at 12:13:22 AM
+> Last updated: Wednesday, May 18, 2022 at 6:19:43 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, May 18, 2022 at 12:13:26 AM
+> Last updated: Wednesday, May 18, 2022 at 6:19:45 AM
 
 > Showing 5 of 30 posts.
 
+[![How to implement String includes() in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_implement_String_includes()_in_JavaScript.svg)](https://www.youtube.com/watch?v=j30ApITjrhY)
+[![Vulcan Docs | Vulcan](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Vulcan_Docs___Vulcan.svg)](https://vulcan-docs.vercel.app/)
 [![GitHub - hua1995116/mmt: A tool that automatically opens multiple panes to execute multiple commands in MacOS + iTerm2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_hua1995116_mmt__A_tool_that_automatically_opens_multiple_panes_to_execute_multiple_commands_in_MacOS_+_iTerm2.svg)](https://github.com/hua1995116/mmt)
 [![React 18: Features Breakdown](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_18__Features_Breakdown.svg)](https://blog.openreplay.com/react-18-features-breakdown)
 [![Pikaso v2.6 released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Pikaso_v2.6_released.svg)](https://dev.to/raminmousavi/pikaso-v26-released-4lld)
-[![Creating recursive and dynamic forms with React Hook Form and TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Creating_recursive_and_dynamic_forms_with_React_Hook_Form_and_TypeScript.svg)](http://wanago.io/2022/05/16/recursive-dynamic-forms-react-hook-form-typescript/)
-[![
-PicMo 5: Vanilla JavaScript emoji picker, no framework dependency
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_PicMo_5__Vanilla_JavaScript_emoji_picker__no_framework_dependency_.svg)](https://picmojs.com/)
 
 
 <!-- post-list:end -->
