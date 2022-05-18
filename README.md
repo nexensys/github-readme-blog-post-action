@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, May 17, 2022 at 12:12:53 PM
+> Last updated: Tuesday, May 17, 2022 at 6:42:02 PM
 
 > Showing 5 of 12 posts.
 
-[![5 Bad Practices That Can Make Your C# Code Messy - And How to Avoid Them](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Bad_Practices_That_Can_Make_Your_C__Code_Messy_-_And_How_to_Avoid_Them.svg)](https://dev.to/dotnetsafer/5-bad-practices-that-can-make-your-c-code-messy-and-how-to-avoid-them-3p0f)
-[![App Generator - Build Really Nice Presentation Sites with Ease (free service)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/App_Generator_-_Build_Really_Nice_Presentation_Sites_with_Ease_(free_service).svg)](https://dev.to/sm0ke/app-generator-build-really-nice-presentation-sites-with-ease-free-service-l3n)
-[![Swiftly Awaiting Async Code Using Appwrite](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Swiftly_Awaiting_Async_Code_Using_Appwrite.svg)](https://dev.to/appwrite/swiftly-awaiting-async-code-using-appwrite-1c6c)
-[![What side hustle are you doing along with coding?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_side_hustle_are_you_doing_along_with_coding_.svg)](https://dev.to/gauravsoni97/what-side-hustle-are-you-doing-along-with-coding-33nh)
-[![What you need to be prepared for any job interview 🎙](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_you_need_to_be_prepared_for_any_job_interview_🎙.svg)](https://dev.to/codenewbieteam/what-you-need-to-be-prepared-for-any-job-interview-codenewbie-podcast-3mg2)
+[![Data Mining And SQL Practice PDFs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Data_Mining_And_SQL_Practice_PDFs.svg)](https://dev.to/designegycreatives/data-mining-and-sql-practice-pdfs-18g5)
+[![Kubernetes or Cloud Foundry : Cloud-Native App Deployment](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Kubernetes_or_Cloud_Foundry___Cloud-Native_App_Deployment.svg)](https://dev.to/iamrahul/kubernetes-or-cloud-foundry-cloud-native-app-deployment-512k)
+[![Cómo escribir excelentes commits](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cómo_escribir_excelentes_commits.svg)](https://dev.to/marcoetmx/como-escribir-excelentes-commits-5159)
+[![What developer products/tools should exist, but don't?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_developer_products_tools_should_exist__but_don't_.svg)](https://dev.to/devteam/what-developer-productstools-should-exist-but-dont-4ooe)
+[![Git Commit Message Template in Terminal and VS Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Git_Commit_Message_Template_in_Terminal_and_VS_Code.svg)](https://dev.to/abbeyperini/git-commit-message-template-in-terminal-and-vs-code-326p)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, May 17, 2022 at 12:12:57 PM
+> Last updated: Tuesday, May 17, 2022 at 6:42:05 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, May 17, 2022 at 12:13:04 PM
+> Last updated: Tuesday, May 17, 2022 at 6:42:13 PM
 
 > Showing 5 of 30 posts.
 
