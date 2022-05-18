@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, May 18, 2022 at 6:19:40 AM
+> Last updated: Wednesday, May 18, 2022 at 12:12:40 PM
 
 > Showing 5 of 12 posts.
 
-[![uname Command in CLI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/uname_Command_in_CLI.svg)](https://dev.to/baransel/uname-command-in-cli-470n)
-[![Prefer using Flutter's SingleActivator instead of LogicalKeySet if you can | LLF #7](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Prefer_using_Flutter's_SingleActivator_instead_of_LogicalKeySet_if_you_can___LLF__7.svg)](https://dev.to/nombrekeff/prefer-using-flutters-singleactivator-instead-of-logicalkeyset-if-you-can-llf-7-17d4)
-[![Automate All the Boring Kubernetes Operations with Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Automate_All_the_Boring_Kubernetes_Operations_with_Python.svg)](https://dev.to/martinheinz/automate-all-the-boring-kubernetes-operations-with-python-4o1c)
-[![How to Automatically Generate Tokens for CodeArtifact (Maven) in Windows](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Automatically_Generate_Tokens_for_CodeArtifact_(Maven)_in_Windows.svg)](https://dev.to/fanmixco/automatic-token-generation-for-maven-in-codeartifact-in-windows-15k6)
-[![#16: Test Automation with Playwright](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_16__Test_Automation_with_Playwright.svg)](https://dev.to/azure/16-test-automation-with-playwright-odk)
+[![What really matters in a coding interview?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_really_matters_in_a_coding_interview_.svg)](https://dev.to/rohitsahay18/what-really-matters-in-a-coding-interview-59ch)
+[![Whatsapp Clone for Android & IOS using Flutter & Python - Part 3 (Complete Tutorial)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Whatsapp_Clone_for_Android___IOS_using_Flutter___Python_-_Part_3_(Complete_Tutorial).svg)](https://dev.to/yash_makan/whatsapp-clone-for-android-ios-using-flutter-python-part-3-complete-tutorial-l5c)
+[![Meta(Facebook) University Grad (Full Time) Interview Experience — Off Campus](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Meta(Facebook)_University_Grad_(Full_Time)_Interview_Experience_—_Off_Campus.svg)](https://dev.to/pawanupadhyay10/metafacebook-university-grad-full-time-interview-experience-off-campus-1038)
+[![CodedThemes - Free Products (React, Angular, Bootstrap)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CodedThemes_-_Free_Products_(React__Angular__Bootstrap).svg)](https://dev.to/sm0ke/codedthemes-free-products-react-angular-bootstrap-4e27)
+[![How-to Get Free API Security Testing Report](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How-to_Get_Free_API_Security_Testing_Report.svg)](https://dev.to/intesar/how-to-get-free-api-security-testing-report-1lbh)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, May 18, 2022 at 6:19:43 AM
+> Last updated: Wednesday, May 18, 2022 at 12:12:42 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, May 18, 2022 at 6:19:45 AM
+> Last updated: Wednesday, May 18, 2022 at 12:12:44 PM
 
 > Showing 5 of 30 posts.
 
-[![How to implement String includes() in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_implement_String_includes()_in_JavaScript.svg)](https://www.youtube.com/watch?v=j30ApITjrhY)
+[![GitHub - epicmaxco/vuestic-ui: Free and Open Source UI Library for Vue 3 🤘](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_epicmaxco_vuestic-ui__Free_and_Open_Source_UI_Library_for_Vue_3_🤘.svg)](https://github.com/epicmaxco/vuestic-ui)
+[![How to use String includes() in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_use_String_includes()_in_JavaScript.svg)](https://www.youtube.com/watch?v=j30ApITjrhY)
 [![Vulcan Docs | Vulcan](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Vulcan_Docs___Vulcan.svg)](https://vulcan-docs.vercel.app/)
 [![GitHub - hua1995116/mmt: A tool that automatically opens multiple panes to execute multiple commands in MacOS + iTerm2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_hua1995116_mmt__A_tool_that_automatically_opens_multiple_panes_to_execute_multiple_commands_in_MacOS_+_iTerm2.svg)](https://github.com/hua1995116/mmt)
 [![React 18: Features Breakdown](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_18__Features_Breakdown.svg)](https://blog.openreplay.com/react-18-features-breakdown)
-[![Pikaso v2.6 released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Pikaso_v2.6_released.svg)](https://dev.to/raminmousavi/pikaso-v26-released-4lld)
 
 
 <!-- post-list:end -->
