@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, May 19, 2022 at 12:13:19 AM
+> Last updated: Thursday, May 19, 2022 at 6:18:29 AM
 
 > Showing 5 of 12 posts.
 
-[![Getting Started with PouchDB](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_Started_with_PouchDB.svg)](https://dev.to/imkarthikeyan/getting-started-with-pouchdb-541k)
-[![[Free]Google is giving free courses for everyone.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/[Free]Google_is_giving_free_courses_for_everyone..svg)](https://dev.to/pramit_marattha/freegoogle-is-giving-free-courses-for-everyone-1f1o)
-[![How to install any software in Ubuntu](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_install_any_software_in_Ubuntu.svg)](https://dev.to/mitul3737/how-to-install-any-software-in-ubuntu-1f5n)
-[![Rapyd Developer Newsletter: May, 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Rapyd_Developer_Newsletter__May__2022.svg)](https://dev.to/rapyd/rapyd-developer-newsletter-may-2022-fp3)
-[![Things you might not know about HTML](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Things_you_might_not_know_about_HTML.svg)](https://dev.to/tilakjain123/things-you-might-not-know-about-html-2904)
+[![Angular, AWS Amplify manage mutiple environment diff based backend in easy way](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Angular__AWS_Amplify_manage_mutiple_environment_diff_based_backend_in_easy_way.svg)](https://dev.to/sefatanam/angular-aws-amplify-manage-mutiple-environment-diff-based-backend-in-easy-way-38c1)
+[![Create an Open Source Ecommerce Marketplace Part 2: Vender-Specific Orders](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_an_Open_Source_Ecommerce_Marketplace_Part_2__Vender-Specific_Orders.svg)](https://dev.to/medusajs/create-an-open-source-ecommerce-marketplace-part-2-vender-specific-orders-1m80)
+[![React Hooks Best Practices in 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Hooks_Best_Practices_in_2022.svg)](https://dev.to/kuldeeptarapara/react-hooks-best-practices-in-2022-4bh0)
+[![How to tell a Junior Dev that what they've done is wrong?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_tell_a_Junior_Dev_that_what_they've_done_is_wrong_.svg)](https://dev.to/nombrekeff/how-to-tell-a-junior-dev-that-what-theyve-done-is-wrong-4igo)
+[![10 Free API resources for beginners 🤩](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_Free_API_resources_for_beginners_🤩.svg)](https://dev.to/gulshanaggarwal/10-free-api-resources-for-beginners-11ia)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, May 19, 2022 at 12:13:22 AM
+> Last updated: Thursday, May 19, 2022 at 6:18:31 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, May 19, 2022 at 12:13:24 AM
+> Last updated: Thursday, May 19, 2022 at 6:18:34 AM
 
 > Showing 5 of 30 posts.
 
