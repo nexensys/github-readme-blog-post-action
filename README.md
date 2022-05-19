@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, May 18, 2022 at 6:59:46 PM
+> Last updated: Thursday, May 19, 2022 at 12:13:19 AM
 
 > Showing 5 of 12 posts.
 
-[![Does functional programming have any advantage in real environments?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Does_functional_programming_have_any_advantage_in_real_environments_.svg)](https://dev.to/alesbe/does-functional-programming-have-any-advantage-in-real-environments-3dek)
-[![What is your development philosophy?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_your_development_philosophy_.svg)](https://dev.to/adam_cyclones/what-is-your-development-philosophy-5af4)
-[![Why Data Structures and Algorithms are important](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_Data_Structures_and_Algorithms_are_important.svg)](https://dev.to/geekdroid07/why-data-structures-and-algorithms-are-important-6pl)
-[![Remix :: CRUD com Supabase - Parte 06 - Testando a inserção de novos registros](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Remix____CRUD_com_Supabase_-_Parte_06_-_Testando_a_inserção_de_novos_registros.svg)](https://dev.to/juniormartinxo/remix-crud-com-supabase-parte-06-testando-a-insercao-de-novos-registros-2m64)
-[![Remix :: CRUD com Supabase - Parte 05 - Trabalhando com formulário](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Remix____CRUD_com_Supabase_-_Parte_05_-_Trabalhando_com_formulário.svg)](https://dev.to/juniormartinxo/remix-crud-com-supabase-parte-05-trabalhando-com-formulario-5g14)
+[![Getting Started with PouchDB](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_Started_with_PouchDB.svg)](https://dev.to/imkarthikeyan/getting-started-with-pouchdb-541k)
+[![[Free]Google is giving free courses for everyone.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/[Free]Google_is_giving_free_courses_for_everyone..svg)](https://dev.to/pramit_marattha/freegoogle-is-giving-free-courses-for-everyone-1f1o)
+[![How to install any software in Ubuntu](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_install_any_software_in_Ubuntu.svg)](https://dev.to/mitul3737/how-to-install-any-software-in-ubuntu-1f5n)
+[![Rapyd Developer Newsletter: May, 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Rapyd_Developer_Newsletter__May__2022.svg)](https://dev.to/rapyd/rapyd-developer-newsletter-may-2022-fp3)
+[![Things you might not know about HTML](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Things_you_might_not_know_about_HTML.svg)](https://dev.to/tilakjain123/things-you-might-not-know-about-html-2904)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, May 18, 2022 at 6:59:48 PM
+> Last updated: Thursday, May 19, 2022 at 12:13:22 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, May 18, 2022 at 6:59:50 PM
+> Last updated: Thursday, May 19, 2022 at 12:13:24 AM
 
 > Showing 5 of 30 posts.
 
