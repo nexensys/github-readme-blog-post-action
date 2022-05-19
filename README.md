@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, May 19, 2022 at 6:18:29 AM
+> Last updated: Thursday, May 19, 2022 at 12:20:13 PM
 
 > Showing 5 of 12 posts.
 
-[![Angular, AWS Amplify manage mutiple environment diff based backend in easy way](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Angular__AWS_Amplify_manage_mutiple_environment_diff_based_backend_in_easy_way.svg)](https://dev.to/sefatanam/angular-aws-amplify-manage-mutiple-environment-diff-based-backend-in-easy-way-38c1)
-[![Create an Open Source Ecommerce Marketplace Part 2: Vender-Specific Orders](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_an_Open_Source_Ecommerce_Marketplace_Part_2__Vender-Specific_Orders.svg)](https://dev.to/medusajs/create-an-open-source-ecommerce-marketplace-part-2-vender-specific-orders-1m80)
-[![React Hooks Best Practices in 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Hooks_Best_Practices_in_2022.svg)](https://dev.to/kuldeeptarapara/react-hooks-best-practices-in-2022-4bh0)
-[![How to tell a Junior Dev that what they've done is wrong?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_tell_a_Junior_Dev_that_what_they've_done_is_wrong_.svg)](https://dev.to/nombrekeff/how-to-tell-a-junior-dev-that-what-theyve-done-is-wrong-4igo)
-[![10 Free API resources for beginners 🤩](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_Free_API_resources_for_beginners_🤩.svg)](https://dev.to/gulshanaggarwal/10-free-api-resources-for-beginners-11ia)
+[![Random Number Game - Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Random_Number_Game_-_Python.svg)](https://dev.to/vulcanwm/random-number-game-python-476g)
+[![What are the best cross-platform mobile development options *today*.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_are_the_best_cross-platform_mobile_development_options__today_..svg)](https://dev.to/booboboston/what-are-the-best-cross-platform-mobile-development-options-today-22pd)
+[![Build a CRUD application using Django, React & Docker - 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_a_CRUD_application_using_Django__React___Docker_-_2022.svg)](https://dev.to/koladev/build-a-crud-application-using-django-react-docker-2022-11f4)
+[![How to Bind to a DataTemplate in UWP](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Bind_to_a_DataTemplate_in_UWP.svg)](https://dev.to/saulodias/how-to-bind-to-a-datatemplate-in-uwp-4di5)
+[![AMAZON WEB SERVICES ANNOUNCEMENTS APRIL 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AMAZON_WEB_SERVICES_ANNOUNCEMENTS_APRIL_2022.svg)](https://dev.to/aws-builders/amazon-web-services-announcements-april-2022-27da)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, May 19, 2022 at 6:18:31 AM
+> Last updated: Thursday, May 19, 2022 at 12:20:16 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, May 19, 2022 at 6:18:34 AM
+> Last updated: Thursday, May 19, 2022 at 12:20:18 PM
 
 > Showing 5 of 30 posts.
 
+[![@esmj/size](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/@esmj_size.svg)](https://www.npmjs.com/package/@esmj/size)
+[![End-to-End testing with Jesteer will supercharge your development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/End-to-End_testing_with_Jesteer_will_supercharge_your_development.svg)](https://medium.com/@truszala_98544/end-to-end-testing-with-jesteer-will-supercharge-your-development-227121e3f504)
+[![Angular Unit Testing Using Jasmine and Karma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Angular_Unit_Testing_Using_Jasmine_and_Karma.svg)](https://esketchers.com/angular-unit-testing-using-jasmine-and-karma/)
 [![React state management libraries in 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_state_management_libraries_in_2022.svg)](http://www.albertgao.xyz/2022/02/19/react-state-management-libraries-2022/index.html)
 [![FOREVER FUNCTIONAL: Structuring a React project functionally](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/FOREVER_FUNCTIONAL__Structuring_a_React_project_functionally.svg)](https://blog.openreplay.com/forever-functional-structuring-a-react-project-functionally)
-[![simple-keyboard - simple-keyboard - Javascript Virtual Keyboard](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/simple-keyboard_-_simple-keyboard_-_Javascript_Virtual_Keyboard.svg)](
-https://hodgef.com/simple-keyboard/
-)
-[![GitHub - epicmaxco/vuestic-ui: Free and Open Source UI Library for Vue 3 🤘](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_epicmaxco_vuestic-ui__Free_and_Open_Source_UI_Library_for_Vue_3_🤘.svg)](https://github.com/epicmaxco/vuestic-ui)
-[![How to use String includes() in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_use_String_includes()_in_JavaScript.svg)](https://www.youtube.com/watch?v=j30ApITjrhY)
 
 
 <!-- post-list:end -->
