@@ -67,8 +67,8 @@
     <foreignObject width="600" height="100" x="5" y="5">
       <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
         <div class="text">
-          <div class="title">Vulcan&#0032;Docs&#0032;&#0124;&#0032;Vulcan</div>
-          <div class="description">Documentation&#0032;of&#0032;VulcanJS&#0032;&#0045;&#0032;The&#0032;full&#0045;stack&#0032;JavaScript&#0032;toolkit</div>
+          <div class="title">React&#0032;state&#0032;management&#0032;libraries&#0032;in&#0032;2022</div>
+          <div class="description">The&#0032;React&#0032;state&#0032;management&#0032;library&#0032;is&#0032;a&#0032;constant&#0032;topic&#0032;in&#0032;React&#0032;community&#0044;&#0032;but&#0032;seems&#0032;we&#0032;are&#0032;pretty&#0032;settled&#0032;recently&#0032;with&#0032;some&#0032;obvious&#0032;winners&#0046;&#0032;This&#0032;blog&#0032;will&#0032;focus&#0032;all&#0032;the&#0032;popular&#0032;choices&#0032;and&#0032;compare</div>
           <div class="date"></div>
           <div class="data">
             <span class="author"></span> 
