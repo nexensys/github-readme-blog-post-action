@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, May 19, 2022 at 6:53:27 PM
+> Last updated: Friday, May 20, 2022 at 12:13:21 AM
 
 > Showing 5 of 12 posts.
 
-[![Hack the Galaxy: See the World From a Different Perspective](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Hack_the_Galaxy__See_the_World_From_a_Different_Perspective.svg)](https://dev.to/rapyd/hack-the-galaxy-see-the-world-from-a-different-perspective-d18)
-[![Name your top 3 favorite software products that you use](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Name_your_top_3_favorite_software_products_that_you_use.svg)](https://dev.to/devteam/name-your-top-3-favorite-software-products-that-you-use-l22)
-[![Quem é Mandys?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Quem_é_Mandys_.svg)](https://dev.to/feministech/quem-e-mandys-3ai9)
-[![Why Engineers Make the Best Entrepreneurs w/ Drata's Co-founder & CTO Daniel Marashlian](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_Engineers_Make_the_Best_Entrepreneurs_w__Drata's_Co-founder___CTO_Daniel_Marashlian.svg)](https://dev.to/linearb/why-engineers-make-the-best-entrepreneurs-w-dratas-co-founder-cto-daniel-marashlian-3b6o)
-[![February 19th, 2022: What did you learn this week?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/February_19th__2022__What_did_you_learn_this_week_.svg)](https://dev.to/nickytonline/february-19th-2022-what-did-you-learn-this-week-93m)
+[![Best 7 Platforms to Level Up Your Frontend Skills 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_7_Platforms_to_Level_Up_Your_Frontend_Skills_🚀.svg)](https://dev.to/ranaharoon3222/best-7-platforms-to-level-up-your-frontend-skills-4bjb)
+[![Roadmap to Xamarin Forms 5.0 | iFour Technolab](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Roadmap_to_Xamarin_Forms_5.0___iFour_Technolab.svg)](https://dev.to/harshalsuthar/roadmap-to-xamarin-forms-50-ifour-technolab-113f)
+[![Integration of unit testing with ASP.NET Core - iFour](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Integration_of_unit_testing_with_ASP.NET_Core_-_iFour.svg)](https://dev.to/harshalsuthar/integration-of-unit-testing-with-aspnet-core-ifour-22o3)
+[![Light/Dark Theme Calculator](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Light_Dark_Theme_Calculator.svg)](https://dev.to/rembertdesigns/lightdark-theme-calculator-18pb)
+[![What does it mean to truly be Server-Less (Serverless)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_does_it_mean_to_truly_be_Server-Less_(Serverless).svg)](https://dev.to/jordan_t/what-does-it-mean-to-truly-be-server-less-serverless-dld)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, May 19, 2022 at 6:53:31 PM
+> Last updated: Friday, May 20, 2022 at 12:13:25 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, May 19, 2022 at 6:53:33 PM
+> Last updated: Friday, May 20, 2022 at 12:13:27 AM
 
 > Showing 5 of 30 posts.
 
