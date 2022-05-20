@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, May 20, 2022 at 6:18:39 AM
+> Last updated: Friday, May 20, 2022 at 12:12:40 PM
 
 > Showing 5 of 12 posts.
 
-[![Pitch me on C#](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Pitch_me_on_C_.svg)](https://dev.to/ben/pitch-me-on-c-56n5)
-[![Cloud Functions Using the New Kotlin Runtime](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cloud_Functions_Using_the_New_Kotlin_Runtime.svg)](https://dev.to/appwrite/cloud-functions-using-the-new-kotlin-runtime-3ejo)
-[![How to build textarea components using Tailwind CSS and Flowbite](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_build_textarea_components_using_Tailwind_CSS_and_Flowbite.svg)](https://dev.to/themesberg/how-to-build-textarea-components-using-tailwind-css-and-flowbite-18ol)
-[![React Higher-Order Components vs React Hook](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Higher-Order_Components_vs_React_Hook.svg)](https://dev.to/hiteshtech/react-higher-order-componentsvs-react-hook-2lfp)
-[![How do you prepare for standup meetings?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_do_you_prepare_for_standup_meetings_.svg)](https://dev.to/dinerdas/how-do-you-prepare-for-standup-meetings-1kno)
+[![Do you want to work with Microsoft and students?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Do_you_want_to_work_with_Microsoft_and_students_.svg)](https://dev.to/azure/do-you-want-to-work-with-microsoft-and-students-p5l)
+[![You are doing testing wrong](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/You_are_doing_testing_wrong.svg)](https://dev.to/hi_iam_chris/you-are-doing-testing-wrong-1e6j)
+[![Symfony Station Communiqué — 20 May 2022. A look at Symfony, PHP, and Cybersecurity News!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Symfony_Station_Communiqué_—_20_May_2022._A_look_at_Symfony__PHP__and_Cybersecurity_News!.svg)](https://dev.to/reubenwalker64/symfony-station-communique-20-may-2022-a-look-at-symfony-php-and-cybersecurity-news-2fh8)
+[![RGB Color Slider](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/RGB_Color_Slider.svg)](https://dev.to/rembertdesigns/rgb-color-slider-2fk2)
+[![MongoDB $weeklyUpdate #70 (May 20, 2022): Apache Spark, Verizon, and MongoDB World!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/MongoDB_$weeklyUpdate__70_(May_20__2022)__Apache_Spark__Verizon__and_MongoDB_World!.svg)](https://dev.to/mongodb/mongodb-weeklyupdate-70-may-20-2022-apache-spark-verizon-and-mongodb-world-54il)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, May 20, 2022 at 6:18:43 AM
+> Last updated: Friday, May 20, 2022 at 12:12:43 PM
 
 > Showing 4 of 4 posts.
 
+[![Getting animated](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Getting_animated.svg)](https://javascriptweekly.com/issues/590)
 [![19 hours of D3.js??](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/19_hours_of_D3.js__.svg)](https://javascriptweekly.com/issues/589)
 [![A 2022 take on TodoMVC in plain JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/A_2022_take_on_TodoMVC_in_plain_JS.svg)](https://javascriptweekly.com/issues/588)
 [![Let's build a JavaScript bundler](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Let's_build_a_JavaScript_bundler.svg)](https://javascriptweekly.com/issues/587)
-[![Node.js 18, WebAssembly 2.0, and Ember 4.3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Node.js_18__WebAssembly_2.0__and_Ember_4.3.svg)](https://javascriptweekly.com/issues/586)
 
 
 ## Echo JS
@@ -43,13 +43,13 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, May 20, 2022 at 6:18:47 AM
+> Last updated: Friday, May 20, 2022 at 12:12:49 PM
 
 > Showing 5 of 30 posts.
 
 [![Capture the flag: A Node.js web app vulnerability practice (part 1)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Capture_the_flag__A_Node.js_web_app_vulnerability_practice_(part_1).svg)](https://pitayan.com/posts/capture-web-app-vulnerabilities)
 [![@esmj/size](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/@esmj_size.svg)](https://www.npmjs.com/package/@esmj/size)
-[![End-to-End testing with Jesteer will supercharge your development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/End-to-End_testing_with_Jesteer_will_supercharge_your_development.svg)](https://medium.com/@truszala_98544/end-to-end-testing-with-jesteer-will-supercharge-your-development-227121e3f504)
+[![End-to-End testing with Jesteer will supercharge your development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/End-to-End_testing_with_Jesteer_will_supercharge_your_development.svg)](https://medium.com/@timruszala/end-to-end-testing-with-jesteer-will-supercharge-your-development-227121e3f504)
 [![Angular Unit Testing Using Jasmine and Karma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Angular_Unit_Testing_Using_Jasmine_and_Karma.svg)](https://esketchers.com/angular-unit-testing-using-jasmine-and-karma/)
 [![React state management libraries in 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_state_management_libraries_in_2022.svg)](http://www.albertgao.xyz/2022/02/19/react-state-management-libraries-2022/index.html)
 
