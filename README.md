@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, May 20, 2022 at 12:13:21 AM
+> Last updated: Friday, May 20, 2022 at 6:18:39 AM
 
 > Showing 5 of 12 posts.
 
-[![Best 7 Platforms to Level Up Your Frontend Skills 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_7_Platforms_to_Level_Up_Your_Frontend_Skills_🚀.svg)](https://dev.to/ranaharoon3222/best-7-platforms-to-level-up-your-frontend-skills-4bjb)
-[![Roadmap to Xamarin Forms 5.0 | iFour Technolab](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Roadmap_to_Xamarin_Forms_5.0___iFour_Technolab.svg)](https://dev.to/harshalsuthar/roadmap-to-xamarin-forms-50-ifour-technolab-113f)
-[![Integration of unit testing with ASP.NET Core - iFour](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Integration_of_unit_testing_with_ASP.NET_Core_-_iFour.svg)](https://dev.to/harshalsuthar/integration-of-unit-testing-with-aspnet-core-ifour-22o3)
-[![Light/Dark Theme Calculator](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Light_Dark_Theme_Calculator.svg)](https://dev.to/rembertdesigns/lightdark-theme-calculator-18pb)
-[![What does it mean to truly be Server-Less (Serverless)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_does_it_mean_to_truly_be_Server-Less_(Serverless).svg)](https://dev.to/jordan_t/what-does-it-mean-to-truly-be-server-less-serverless-dld)
+[![Pitch me on C#](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Pitch_me_on_C_.svg)](https://dev.to/ben/pitch-me-on-c-56n5)
+[![Cloud Functions Using the New Kotlin Runtime](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cloud_Functions_Using_the_New_Kotlin_Runtime.svg)](https://dev.to/appwrite/cloud-functions-using-the-new-kotlin-runtime-3ejo)
+[![How to build textarea components using Tailwind CSS and Flowbite](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_build_textarea_components_using_Tailwind_CSS_and_Flowbite.svg)](https://dev.to/themesberg/how-to-build-textarea-components-using-tailwind-css-and-flowbite-18ol)
+[![React Higher-Order Components vs React Hook](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Higher-Order_Components_vs_React_Hook.svg)](https://dev.to/hiteshtech/react-higher-order-componentsvs-react-hook-2lfp)
+[![How do you prepare for standup meetings?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_do_you_prepare_for_standup_meetings_.svg)](https://dev.to/dinerdas/how-do-you-prepare-for-standup-meetings-1kno)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, May 20, 2022 at 12:13:25 AM
+> Last updated: Friday, May 20, 2022 at 6:18:43 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, May 20, 2022 at 12:13:27 AM
+> Last updated: Friday, May 20, 2022 at 6:18:47 AM
 
 > Showing 5 of 30 posts.
 
+[![Capture the flag: A Node.js web app vulnerability practice (part 1)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Capture_the_flag__A_Node.js_web_app_vulnerability_practice_(part_1).svg)](https://pitayan.com/posts/capture-web-app-vulnerabilities)
 [![@esmj/size](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/@esmj_size.svg)](https://www.npmjs.com/package/@esmj/size)
 [![End-to-End testing with Jesteer will supercharge your development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/End-to-End_testing_with_Jesteer_will_supercharge_your_development.svg)](https://medium.com/@truszala_98544/end-to-end-testing-with-jesteer-will-supercharge-your-development-227121e3f504)
 [![Angular Unit Testing Using Jasmine and Karma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Angular_Unit_Testing_Using_Jasmine_and_Karma.svg)](https://esketchers.com/angular-unit-testing-using-jasmine-and-karma/)
 [![React state management libraries in 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_state_management_libraries_in_2022.svg)](http://www.albertgao.xyz/2022/02/19/react-state-management-libraries-2022/index.html)
-[![FOREVER FUNCTIONAL: Structuring a React project functionally](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/FOREVER_FUNCTIONAL__Structuring_a_React_project_functionally.svg)](https://blog.openreplay.com/forever-functional-structuring-a-react-project-functionally)
 
 
 <!-- post-list:end -->
