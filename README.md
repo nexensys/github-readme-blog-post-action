@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, May 19, 2022 at 12:20:13 PM
+> Last updated: Thursday, May 19, 2022 at 6:53:27 PM
 
 > Showing 5 of 12 posts.
 
-[![Random Number Game - Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Random_Number_Game_-_Python.svg)](https://dev.to/vulcanwm/random-number-game-python-476g)
-[![What are the best cross-platform mobile development options *today*.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_are_the_best_cross-platform_mobile_development_options__today_..svg)](https://dev.to/booboboston/what-are-the-best-cross-platform-mobile-development-options-today-22pd)
-[![Build a CRUD application using Django, React & Docker - 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_a_CRUD_application_using_Django__React___Docker_-_2022.svg)](https://dev.to/koladev/build-a-crud-application-using-django-react-docker-2022-11f4)
-[![How to Bind to a DataTemplate in UWP](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Bind_to_a_DataTemplate_in_UWP.svg)](https://dev.to/saulodias/how-to-bind-to-a-datatemplate-in-uwp-4di5)
-[![AMAZON WEB SERVICES ANNOUNCEMENTS APRIL 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AMAZON_WEB_SERVICES_ANNOUNCEMENTS_APRIL_2022.svg)](https://dev.to/aws-builders/amazon-web-services-announcements-april-2022-27da)
+[![Hack the Galaxy: See the World From a Different Perspective](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Hack_the_Galaxy__See_the_World_From_a_Different_Perspective.svg)](https://dev.to/rapyd/hack-the-galaxy-see-the-world-from-a-different-perspective-d18)
+[![Name your top 3 favorite software products that you use](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Name_your_top_3_favorite_software_products_that_you_use.svg)](https://dev.to/devteam/name-your-top-3-favorite-software-products-that-you-use-l22)
+[![Quem é Mandys?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Quem_é_Mandys_.svg)](https://dev.to/feministech/quem-e-mandys-3ai9)
+[![Why Engineers Make the Best Entrepreneurs w/ Drata's Co-founder & CTO Daniel Marashlian](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_Engineers_Make_the_Best_Entrepreneurs_w__Drata's_Co-founder___CTO_Daniel_Marashlian.svg)](https://dev.to/linearb/why-engineers-make-the-best-entrepreneurs-w-dratas-co-founder-cto-daniel-marashlian-3b6o)
+[![February 19th, 2022: What did you learn this week?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/February_19th__2022__What_did_you_learn_this_week_.svg)](https://dev.to/nickytonline/february-19th-2022-what-did-you-learn-this-week-93m)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, May 19, 2022 at 12:20:16 PM
+> Last updated: Thursday, May 19, 2022 at 6:53:31 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, May 19, 2022 at 12:20:18 PM
+> Last updated: Thursday, May 19, 2022 at 6:53:33 PM
 
 > Showing 5 of 30 posts.
 
