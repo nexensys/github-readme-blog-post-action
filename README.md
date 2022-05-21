@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, May 21, 2022 at 12:13:48 AM
+> Last updated: Saturday, May 21, 2022 at 6:17:07 AM
 
 > Showing 5 of 12 posts.
 
-[![How I created a minimal linktree like page for me in just 2 hours.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_I_created_a_minimal_linktree_like_page_for_me_in_just_2_hours..svg)](https://dev.to/asheeshh/how-i-created-a-minimal-linktree-like-page-for-me-in-just-2-hours-ncp)
-[![Web Dasturlashda Matematika (Part 1)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Web_Dasturlashda_Matematika_(Part_1).svg)](https://dev.to/nomanoff_tech/web-dasturlashda-matematika-part-1-2080)
-[![How to free up space in Ubuntu](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_free_up_space_in_Ubuntu.svg)](https://dev.to/a4abs/how-to-free-up-space-in-ubuntu-29a0)
-[![Avoid Redux ,Build an Optimal add to cart system with UseReducer and useContext in React NEXT.js 😎](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Avoid_Redux__Build_an_Optimal_add_to_cart_system_with_UseReducer_and_useContext_in_React_NEXT.js_😎.svg)](https://dev.to/aframson/avoid-redux-build-an-optimal-add-to-cart-system-with-usereducer-and-usecontext-in-react-nextjs-9c2)
-[![Read this before using React 18...](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Read_this_before_using_React_18....svg)](https://dev.to/josiahayres/read-this-before-using-react-18-5971)
+[![Serverless Application is not as secure as you might think!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Serverless_Application_is_not_as_secure_as_you_might_think!.svg)](https://dev.to/smartscanner/serverless-application-is-not-as-secure-as-you-might-think-4dpb)
+[![#javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_javascript.svg)](https://dev.to/ayoubelsvg/javascript-3nb1)
+[![React Important concepts you should know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Important_concepts_you_should_know.svg)](https://dev.to/mojodev/react-important-concepts-you-should-know-a6o)
+[![Azure Weekly Updates - 21st May 2022 - Part 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Azure_Weekly_Updates_-_21st_May_2022_-_Part_2.svg)](https://dev.to/kcdchennai/azure-weekly-updates-21st-may-2022-part-2-1kih)
+[![Azure Weekly Updates - 21st May 2022 - Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Azure_Weekly_Updates_-_21st_May_2022_-_Part_1.svg)](https://dev.to/kcdchennai/azure-weekly-updates-21st-may-2022-part-1-4c3i)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, May 21, 2022 at 12:13:56 AM
+> Last updated: Saturday, May 21, 2022 at 6:17:11 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, May 21, 2022 at 12:14:01 AM
+> Last updated: Saturday, May 21, 2022 at 6:17:17 AM
 
 > Showing 5 of 30 posts.
 
+[![iOS vs Android Development for Your Mobile App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/iOS_vs_Android_Development_for_Your_Mobile_App.svg)](
+https://gtechwebsolutions.com/blog/ios-vs-android-development/
+)
+[![UseTransition() Vs UseDeferredValue() In React 18](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/UseTransition()_Vs_UseDeferredValue()_In_React_18.svg)](https://blog.openreplay.com/usetransition-vs-usedeferredvalue-in-react-18)
 [![Capture the flag: A Node.js web app vulnerability practice (part 1)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Capture_the_flag__A_Node.js_web_app_vulnerability_practice_(part_1).svg)](https://pitayan.com/posts/capture-web-app-vulnerabilities)
 [![@esmj/size](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/@esmj_size.svg)](https://www.npmjs.com/package/@esmj/size)
 [![End-to-End testing with Jesteer will supercharge your development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/End-to-End_testing_with_Jesteer_will_supercharge_your_development.svg)](https://medium.com/@timruszala/end-to-end-testing-with-jesteer-will-supercharge-your-development-227121e3f504)
-[![Angular Unit Testing Using Jasmine and Karma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Angular_Unit_Testing_Using_Jasmine_and_Karma.svg)](https://esketchers.com/angular-unit-testing-using-jasmine-and-karma/)
-[![React state management libraries in 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_state_management_libraries_in_2022.svg)](http://www.albertgao.xyz/2022/02/19/react-state-management-libraries-2022/index.html)
 
 
 <!-- post-list:end -->
