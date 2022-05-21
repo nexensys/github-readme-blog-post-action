@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, May 20, 2022 at 12:12:40 PM
+> Last updated: Friday, May 20, 2022 at 6:45:04 PM
 
 > Showing 5 of 12 posts.
 
-[![Do you want to work with Microsoft and students?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Do_you_want_to_work_with_Microsoft_and_students_.svg)](https://dev.to/azure/do-you-want-to-work-with-microsoft-and-students-p5l)
-[![You are doing testing wrong](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/You_are_doing_testing_wrong.svg)](https://dev.to/hi_iam_chris/you-are-doing-testing-wrong-1e6j)
-[![Symfony Station Communiqué — 20 May 2022. A look at Symfony, PHP, and Cybersecurity News!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Symfony_Station_Communiqué_—_20_May_2022._A_look_at_Symfony__PHP__and_Cybersecurity_News!.svg)](https://dev.to/reubenwalker64/symfony-station-communique-20-may-2022-a-look-at-symfony-php-and-cybersecurity-news-2fh8)
-[![RGB Color Slider](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/RGB_Color_Slider.svg)](https://dev.to/rembertdesigns/rgb-color-slider-2fk2)
-[![MongoDB $weeklyUpdate #70 (May 20, 2022): Apache Spark, Verizon, and MongoDB World!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/MongoDB_$weeklyUpdate__70_(May_20__2022)__Apache_Spark__Verizon__and_MongoDB_World!.svg)](https://dev.to/mongodb/mongodb-weeklyupdate-70-may-20-2022-apache-spark-verizon-and-mongodb-world-54il)
+[![4-in-1 Telecom iOS Build 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/4-in-1_Telecom_iOS_Build_2.svg)](https://dev.to/4-in-1-telecomm/4-in-1-telecom-ios-build-2-31ok)
+[![Introduction to `this`, `new` & OOP](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_to_`this`__`new`___OOP.svg)](https://dev.to/topcode007/introduction-to-this-new-oop-1o1b)
+[![Installing the Ruby Plugin for Prettier in VS Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Installing_the_Ruby_Plugin_for_Prettier_in_VS_Code.svg)](https://dev.to/drayeleo/installing-the-ruby-plugin-for-prettier-in-vs-code-2m6c)
+[![Python Wrapper for newly announced WhatsApp Cloud API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Python_Wrapper_for_newly_announced_WhatsApp_Cloud_API.svg)](https://dev.to/kalebu/python-wrapper-for-newly-announced-whatsapp-cloud-api-4obd)
+[![I finally completed my portfolio](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_finally_completed_my_portfolio.svg)](https://dev.to/taepal467/i-finally-completed-my-portfolio-i01)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, May 20, 2022 at 12:12:43 PM
+> Last updated: Friday, May 20, 2022 at 6:45:07 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, May 20, 2022 at 12:12:49 PM
+> Last updated: Friday, May 20, 2022 at 6:45:09 PM
 
 > Showing 5 of 30 posts.
 
