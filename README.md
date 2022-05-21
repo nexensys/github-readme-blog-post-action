@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, May 21, 2022 at 6:17:07 AM
+> Last updated: Saturday, May 21, 2022 at 12:11:50 PM
 
 > Showing 5 of 12 posts.
 
-[![Serverless Application is not as secure as you might think!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Serverless_Application_is_not_as_secure_as_you_might_think!.svg)](https://dev.to/smartscanner/serverless-application-is-not-as-secure-as-you-might-think-4dpb)
-[![#javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_javascript.svg)](https://dev.to/ayoubelsvg/javascript-3nb1)
-[![React Important concepts you should know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Important_concepts_you_should_know.svg)](https://dev.to/mojodev/react-important-concepts-you-should-know-a6o)
-[![Azure Weekly Updates - 21st May 2022 - Part 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Azure_Weekly_Updates_-_21st_May_2022_-_Part_2.svg)](https://dev.to/kcdchennai/azure-weekly-updates-21st-may-2022-part-2-1kih)
-[![Azure Weekly Updates - 21st May 2022 - Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Azure_Weekly_Updates_-_21st_May_2022_-_Part_1.svg)](https://dev.to/kcdchennai/azure-weekly-updates-21st-may-2022-part-1-4c3i)
+[![Rust Is Great !](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Rust_Is_Great_!.svg)](https://dev.to/bekbrace/rust-is-great--2bdl)
+[![How to Add KMS etcd encryption to an AKS cluster](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Add_KMS_etcd_encryption_to_an_AKS_cluster.svg)](https://dev.to/kcdchennai/how-to-add-kms-etcd-encryption-to-an-aks-cluster-2m69)
+[![Hacking Bootstrap CSS for Better Looking Websites](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Hacking_Bootstrap_CSS_for_Better_Looking_Websites.svg)](https://dev.to/thefullstackdev/hacking-bootstrap-css-for-better-looking-websites-5a21)
+[![AWS open source news and updates, #113](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_open_source_news_and_updates___113.svg)](https://dev.to/aws/aws-open-source-news-and-updates-113-16a4)
+[![☔️ AWS CDK 101 - ⛅️ Dynamodb streams triggering batch deleteObjects S3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/☔️_AWS_CDK_101_-_⛅️_Dynamodb_streams_triggering_batch_deleteObjects_S3.svg)](https://dev.to/aravindvcyber/aws-cdk-101-dynamodb-streams-triggering-batch-deleteobjects-s3-2abn)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, May 21, 2022 at 6:17:11 AM
+> Last updated: Saturday, May 21, 2022 at 12:11:52 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, May 21, 2022 at 6:17:17 AM
+> Last updated: Saturday, May 21, 2022 at 12:11:57 PM
 
 > Showing 5 of 30 posts.
 
