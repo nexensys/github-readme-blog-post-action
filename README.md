@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, May 21, 2022 at 6:49:34 PM
+> Last updated: Sunday, May 22, 2022 at 12:12:51 AM
 
 > Showing 5 of 12 posts.
 
-[![Create Instance Scheduler on Serverless by using Lambda, DynamoDB, API Gateway, Cognito,S3 and CloudFront](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_Instance_Scheduler_on_Serverless_by_using_Lambda__DynamoDB__API_Gateway__Cognito_S3_and_CloudFront.svg)](https://dev.to/aws-builders/create-instance-scheduler-on-serverless-by-using-lambda-dynamodb-api-gateway-cognitos3-and-cloudfront-1op8)
-[![Learning Golang - day 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Learning_Golang_-_day_1.svg)](https://dev.to/makneta/learning-golang-day-1-58n1)
-[![Why Microsoft and How I achieved my Goal](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_Microsoft_and_How_I_achieved_my_Goal.svg)](https://dev.to/debs_obrien/why-microsoft-and-how-i-achieved-my-goal-4194)
-[![How do you set expectations in your work?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_do_you_set_expectations_in_your_work_.svg)](https://dev.to/sherrydays/how-do-you-set-expectations-in-your-work-1mk1)
-[![How to Be Consistent with Content Creation for Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Be_Consistent_with_Content_Creation_for_Developers.svg)](https://dev.to/koladev/how-to-be-consistent-with-content-creation-for-developers-16f2)
+[![A11Y 101: Evaluating my website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A11Y_101__Evaluating_my_website.svg)](https://dev.to/dailydevtips1/a11y-101-evaluating-my-website-135k)
+[![HTML Text Formatting](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/HTML_Text_Formatting.svg)](https://dev.to/goodboyks/html-text-formatting-43e1)
+[![A Modern Day SAST Strategy explained.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Modern_Day_SAST_Strategy_explained..svg)](https://dev.to/vishwasnarayan5/a-modern-day-sast-strategy-explained-38o)
+[![Top 10 Reasons Why Laravel 9 Is The Most Popular PHP Framework-Codexashish](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_10_Reasons_Why_Laravel_9_Is_The_Most_Popular_PHP_Framework-Codexashish.svg)](https://dev.to/mailashish/top-10-reasons-why-laravel-9-is-the-most-popular-php-framework-codexashish-69g)
+[![Top 5 Python Modules for Game development- Codexashish](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_5_Python_Modules_for_Game_development-_Codexashish.svg)](https://dev.to/mailashish/top-5-python-modules-for-game-development-codexashish-26m6)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, May 21, 2022 at 6:49:39 PM
+> Last updated: Sunday, May 22, 2022 at 12:12:54 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, May 21, 2022 at 6:49:43 PM
+> Last updated: Sunday, May 22, 2022 at 12:12:59 AM
 
 > Showing 5 of 30 posts.
 
