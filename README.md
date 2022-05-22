@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, May 22, 2022 at 12:12:51 AM
+> Last updated: Sunday, May 22, 2022 at 6:17:00 AM
 
 > Showing 5 of 12 posts.
 
-[![A11Y 101: Evaluating my website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A11Y_101__Evaluating_my_website.svg)](https://dev.to/dailydevtips1/a11y-101-evaluating-my-website-135k)
-[![HTML Text Formatting](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/HTML_Text_Formatting.svg)](https://dev.to/goodboyks/html-text-formatting-43e1)
-[![A Modern Day SAST Strategy explained.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Modern_Day_SAST_Strategy_explained..svg)](https://dev.to/vishwasnarayan5/a-modern-day-sast-strategy-explained-38o)
-[![Top 10 Reasons Why Laravel 9 Is The Most Popular PHP Framework-Codexashish](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_10_Reasons_Why_Laravel_9_Is_The_Most_Popular_PHP_Framework-Codexashish.svg)](https://dev.to/mailashish/top-10-reasons-why-laravel-9-is-the-most-popular-php-framework-codexashish-69g)
-[![Top 5 Python Modules for Game development- Codexashish](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_5_Python_Modules_for_Game_development-_Codexashish.svg)](https://dev.to/mailashish/top-5-python-modules-for-game-development-codexashish-26m6)
+[![Generate application metrics using SpringBoot and Micrometer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Generate_application_metrics_using_SpringBoot_and_Micrometer.svg)](https://dev.to/sabyasachi/generate-application-metrics-using-springboot-and-micrometer-39mo)
+[![DO NOT do this, while building a React app!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/DO_NOT_do_this__while_building_a_React_app!.svg)](https://dev.to/zabdeldjallil/do-not-do-this-while-building-a-react-app-4d7i)
+[![Use firebase in your React App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Use_firebase_in_your_React_App.svg)](https://dev.to/chamodperera/using-firebase-in-your-react-app-jpb)
+[![How to create and deploy an Express.js app to Vercel?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_and_deploy_an_Express.js_app_to_Vercel_.svg)](https://dev.to/murtuzaalisurti/how-to-create-and-deploy-an-expressjs-app-to-vercel-2c42)
+[![Webauthn - Emails vs Username](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Webauthn_-_Emails_vs_Username.svg)](https://dev.to/dagnelies/webauthn-emails-vs-username-1df2)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, May 22, 2022 at 12:12:54 AM
+> Last updated: Sunday, May 22, 2022 at 6:17:03 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, May 22, 2022 at 12:12:59 AM
+> Last updated: Sunday, May 22, 2022 at 6:17:05 AM
 
 > Showing 5 of 30 posts.
 
