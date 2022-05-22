@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, May 21, 2022 at 12:11:50 PM
+> Last updated: Saturday, May 21, 2022 at 6:49:34 PM
 
 > Showing 5 of 12 posts.
 
-[![Rust Is Great !](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Rust_Is_Great_!.svg)](https://dev.to/bekbrace/rust-is-great--2bdl)
-[![How to Add KMS etcd encryption to an AKS cluster](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Add_KMS_etcd_encryption_to_an_AKS_cluster.svg)](https://dev.to/kcdchennai/how-to-add-kms-etcd-encryption-to-an-aks-cluster-2m69)
-[![Hacking Bootstrap CSS for Better Looking Websites](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Hacking_Bootstrap_CSS_for_Better_Looking_Websites.svg)](https://dev.to/thefullstackdev/hacking-bootstrap-css-for-better-looking-websites-5a21)
-[![AWS open source news and updates, #113](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_open_source_news_and_updates___113.svg)](https://dev.to/aws/aws-open-source-news-and-updates-113-16a4)
-[![☔️ AWS CDK 101 - ⛅️ Dynamodb streams triggering batch deleteObjects S3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/☔️_AWS_CDK_101_-_⛅️_Dynamodb_streams_triggering_batch_deleteObjects_S3.svg)](https://dev.to/aravindvcyber/aws-cdk-101-dynamodb-streams-triggering-batch-deleteobjects-s3-2abn)
+[![Create Instance Scheduler on Serverless by using Lambda, DynamoDB, API Gateway, Cognito,S3 and CloudFront](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_Instance_Scheduler_on_Serverless_by_using_Lambda__DynamoDB__API_Gateway__Cognito_S3_and_CloudFront.svg)](https://dev.to/aws-builders/create-instance-scheduler-on-serverless-by-using-lambda-dynamodb-api-gateway-cognitos3-and-cloudfront-1op8)
+[![Learning Golang - day 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Learning_Golang_-_day_1.svg)](https://dev.to/makneta/learning-golang-day-1-58n1)
+[![Why Microsoft and How I achieved my Goal](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_Microsoft_and_How_I_achieved_my_Goal.svg)](https://dev.to/debs_obrien/why-microsoft-and-how-i-achieved-my-goal-4194)
+[![How do you set expectations in your work?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_do_you_set_expectations_in_your_work_.svg)](https://dev.to/sherrydays/how-do-you-set-expectations-in-your-work-1mk1)
+[![How to Be Consistent with Content Creation for Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Be_Consistent_with_Content_Creation_for_Developers.svg)](https://dev.to/koladev/how-to-be-consistent-with-content-creation-for-developers-16f2)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, May 21, 2022 at 12:11:52 PM
+> Last updated: Saturday, May 21, 2022 at 6:49:39 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, May 21, 2022 at 12:11:57 PM
+> Last updated: Saturday, May 21, 2022 at 6:49:43 PM
 
 > Showing 5 of 30 posts.
 
