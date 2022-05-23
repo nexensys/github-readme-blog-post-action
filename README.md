@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, May 23, 2022 at 6:18:21 AM
+> Last updated: Monday, May 23, 2022 at 12:12:33 PM
 
 > Showing 5 of 12 posts.
 
-[![Node.js MySQL vs Node.js MySQL + Sculter.js (which one is better?)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Node.js_MySQL_vs_Node.js_MySQL_+_Sculter.js_(which_one_is_better_).svg)](https://dev.to/jahongir2007/nodejs-mysql-vs-nodejs-mysql-sculterjs-which-one-is-better-4649)
-[![⛔ Squash commits considered harmful ⛔](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/⛔_Squash_commits_considered_harmful_⛔.svg)](https://dev.to/wesen/squash-commits-considered-harmful-ob1)
-[![Angular Standalone Components y su impacto en la modularidad](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Angular_Standalone_Components_y_su_impacto_en_la_modularidad.svg)](https://dev.to/danyparedes/angular-standalone-components-y-su-impacto-en-la-modularidad-195h)
-[![The guide to Laravel admin panels](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_guide_to_Laravel_admin_panels.svg)](https://dev.to/forestadmin/the-guide-to-laravel-admin-panels-2g5j)
-[![DevOps: An Introduction](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/DevOps__An_Introduction.svg)](https://dev.to/abhishe89636035/devops-an-introduction-5cdp)
+[![Appwrite Storage Meets Wasabi Cloud Storage](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Appwrite_Storage_Meets_Wasabi_Cloud_Storage.svg)](https://dev.to/appwrite/appwrite-storage-meets-wasabi-cloud-storage-g4p)
+[![Linear, Random or Binary Search](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Linear__Random_or_Binary_Search.svg)](https://dev.to/vulcanwm/linear-random-or-binary-search-5pb)
+[![Who Teaches You Professionalism The Most? 3 Effective Tools](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Who_Teaches_You_Professionalism_The_Most__3_Effective_Tools.svg)](https://dev.to/motivatedman/who-teaches-you-professionalism-the-most-3-effective-tools-5gd4)
+[![Basics to Master topics in javascript 🔥🔥everyone must know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Basics_to_Master_topics_in_javascript_🔥🔥everyone_must_know.svg)](https://dev.to/ranaharoon3222/basics-to-master-topics-in-javascript-everyone-must-know-3p23)
+[![Introducing Rediscovering Ruby](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_Rediscovering_Ruby.svg)](https://dev.to/ridhwana/introducing-rediscovering-ruby-53bk)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, May 23, 2022 at 6:18:24 AM
+> Last updated: Monday, May 23, 2022 at 12:12:36 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,23 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, May 23, 2022 at 6:18:28 AM
+> Last updated: Monday, May 23, 2022 at 12:12:39 PM
 
 > Showing 5 of 30 posts.
 
+[![
+Which refrigerator has the fastest ice maker?
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Which_refrigerator_has_the_fastest_ice_maker__.svg)](
+http://www.echojs.com/news/40712
+)
+[![
+How much weight can you hang on a 2x4 wall?
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_How_much_weight_can_you_hang_on_a_2x4_wall__.svg)](
+http://www.echojs.com/news/40711
+)
 [![Improving code quality in Typescript with compiler options](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Improving_code_quality_in_Typescript_with_compiler_options.svg)](https://blog.openreplay.com/improving-code-quality-in-typescript-with-compiler-options)
 [![What’s New in Flutter 3?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What’s_New_in_Flutter_3_.svg)](https://dev.to/aglowiditsolutions/whats-new-in-flutter-3-1i4b)
 [![Load testing and the anatomy of DDoS attacks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Load_testing_and_the_anatomy_of_DDoS_attacks.svg)](https://creotip.io/posts/load-testing-and-the-anatomy-of-ddos-attacks)
-[![iOS vs Android Development for Your Mobile App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/iOS_vs_Android_Development_for_Your_Mobile_App.svg)](
-https://gtechwebsolutions.com/blog/ios-vs-android-development/
-)
-[![UseTransition() Vs UseDeferredValue() In React 18](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/UseTransition()_Vs_UseDeferredValue()_In_React_18.svg)](https://blog.openreplay.com/usetransition-vs-usedeferredvalue-in-react-18)
 
 
 <!-- post-list:end -->
