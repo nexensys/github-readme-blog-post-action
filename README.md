@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, May 24, 2022 at 12:13:33 AM
+> Last updated: Tuesday, May 24, 2022 at 6:19:20 AM
 
 > Showing 5 of 12 posts.
 
-[![Data Science with Python Certification.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Data_Science_with_Python_Certification..svg)](https://dev.to/iampankajnagla/data-science-with-python-certification-52n8)
-[![Do we really need AWS?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Do_we_really_need_AWS_.svg)](https://dev.to/jordan_t/do-we-really-need-aws-3hao)
-[![A11Y 101: Semantic HTML always wins](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A11Y_101__Semantic_HTML_always_wins.svg)](https://dev.to/dailydevtips1/a11y-101-semantic-html-always-wins-4mi)
-[![Tutorial - Create a contract from another contract with solidity](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tutorial_-_Create_a_contract_from_another_contract_with_solidity.svg)](https://dev.to/yongchanghe/tutorial-create-a-contract-from-another-contract-with-solidity-498a)
-[![💥 AWS CDK 101 - 🐣 Event source mapping with Cfn property override](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/💥_AWS_CDK_101_-_🐣_Event_source_mapping_with_Cfn_property_override.svg)](https://dev.to/aravindvcyber/aws-cdk-101-event-source-mapping-with-cfn-property-override-3laa)
+[![Accepting Your Lows and how to get out of Them](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Accepting_Your_Lows_and_how_to_get_out_of_Them.svg)](https://dev.to/jessica_veit/accepting-your-lows-and-how-to-get-out-of-them-oc1)
+[![How I passed the AWS Security Speciality exam with mostly free content 🥇](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_I_passed_the_AWS_Security_Speciality_exam_with_mostly_free_content_🥇.svg)](https://dev.to/aws-heroes/how-i-passed-the-aws-security-speciality-exam-with-mostly-free-content-3id3)
+[![Different types of security token](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Different_types_of_security_token.svg)](https://dev.to/oneadvanced/different-types-of-security-token-4on)
+[![Released on Product Hunt Today](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Released_on_Product_Hunt_Today.svg)](https://dev.to/mariostopfer/released-on-product-hunt-today-2jgc)
+[![The NodeJS 18 Fetch API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_NodeJS_18_Fetch_API.svg)](https://dev.to/andrewbaisden/the-nodejs-18-fetch-api-72m)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, May 24, 2022 at 12:13:36 AM
+> Last updated: Tuesday, May 24, 2022 at 6:19:22 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,13 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, May 24, 2022 at 12:13:40 AM
+> Last updated: Tuesday, May 24, 2022 at 6:19:26 AM
 
 > Showing 5 of 30 posts.
 
-[![
-Enums in Mongoose - Mastering JS
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Enums_in_Mongoose_-_Mastering_JS_.svg)](
+[![Enums in Mongoose](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Enums_in_Mongoose.svg)](
 https://masteringjs.io/tutorials/mongoose/enum
 )
 [![API with NestJS #62. Introduction to MikroORM with PostgreSQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__62._Introduction_to_MikroORM_with_PostgreSQL.svg)](http://wanago.io/2022/05/23/api-nestjs-mikroorm-postgresql/)
