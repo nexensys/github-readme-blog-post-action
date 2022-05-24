@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, May 23, 2022 at 6:55:34 PM
+> Last updated: Tuesday, May 24, 2022 at 12:13:33 AM
 
 > Showing 5 of 12 posts.
 
-[![Websites for design inspiration and html and css template downloads](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Websites_for_design_inspiration_and_html_and_css_template_downloads.svg)](https://dev.to/hebertdev/websites-for-design-inspiration-and-html-and-css-template-downloads-4pf1)
-[![My Reading List for Developer Educators](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_Reading_List_for_Developer_Educators.svg)](https://dev.to/meganesulli/my-reading-list-for-developer-educators-3f6l)
-[![How to learn programming without any programming language?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_learn_programming_without_any_programming_language_.svg)](https://dev.to/marinsborg/how-to-learn-programming-without-any-programming-language-47pd)
-[![HostProcess Containers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/HostProcess_Containers.svg)](https://dev.to/kcdchennai/hostprocess-containers-52mo)
-[![Ruby interview questions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ruby_interview_questions.svg)](https://dev.to/neodelf/ruby-interview-questions-1k4c)
+[![Data Science with Python Certification.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Data_Science_with_Python_Certification..svg)](https://dev.to/iampankajnagla/data-science-with-python-certification-52n8)
+[![Do we really need AWS?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Do_we_really_need_AWS_.svg)](https://dev.to/jordan_t/do-we-really-need-aws-3hao)
+[![A11Y 101: Semantic HTML always wins](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A11Y_101__Semantic_HTML_always_wins.svg)](https://dev.to/dailydevtips1/a11y-101-semantic-html-always-wins-4mi)
+[![Tutorial - Create a contract from another contract with solidity](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tutorial_-_Create_a_contract_from_another_contract_with_solidity.svg)](https://dev.to/yongchanghe/tutorial-create-a-contract-from-another-contract-with-solidity-498a)
+[![💥 AWS CDK 101 - 🐣 Event source mapping with Cfn property override](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/💥_AWS_CDK_101_-_🐣_Event_source_mapping_with_Cfn_property_override.svg)](https://dev.to/aravindvcyber/aws-cdk-101-event-source-mapping-with-cfn-property-override-3laa)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, May 23, 2022 at 6:55:37 PM
+> Last updated: Tuesday, May 24, 2022 at 12:13:36 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, May 23, 2022 at 6:55:44 PM
+> Last updated: Tuesday, May 24, 2022 at 12:13:40 AM
 
 > Showing 5 of 30 posts.
 
+[![
+Enums in Mongoose - Mastering JS
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Enums_in_Mongoose_-_Mastering_JS_.svg)](
+https://masteringjs.io/tutorials/mongoose/enum
+)
 [![API with NestJS #62. Introduction to MikroORM with PostgreSQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__62._Introduction_to_MikroORM_with_PostgreSQL.svg)](http://wanago.io/2022/05/23/api-nestjs-mikroorm-postgresql/)
 [![Improving code quality in Typescript with compiler options](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Improving_code_quality_in_Typescript_with_compiler_options.svg)](https://blog.openreplay.com/improving-code-quality-in-typescript-with-compiler-options)
 [![UseTransition() Vs UseDeferredValue() In React 18](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/UseTransition()_Vs_UseDeferredValue()_In_React_18.svg)](https://blog.openreplay.com/usetransition-vs-usedeferredvalue-in-react-18)
 [![Capture the flag: A Node.js web app vulnerability practice (part 1)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Capture_the_flag__A_Node.js_web_app_vulnerability_practice_(part_1).svg)](https://pitayan.com/posts/capture-web-app-vulnerabilities)
-[![@esmj/size](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/@esmj_size.svg)](https://www.npmjs.com/package/@esmj/size)
 
 
 <!-- post-list:end -->
