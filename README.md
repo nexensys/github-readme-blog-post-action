@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, May 24, 2022 at 6:19:20 AM
+> Last updated: Tuesday, May 24, 2022 at 12:14:00 PM
 
 > Showing 5 of 12 posts.
 
-[![Accepting Your Lows and how to get out of Them](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Accepting_Your_Lows_and_how_to_get_out_of_Them.svg)](https://dev.to/jessica_veit/accepting-your-lows-and-how-to-get-out-of-them-oc1)
-[![How I passed the AWS Security Speciality exam with mostly free content 🥇](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_I_passed_the_AWS_Security_Speciality_exam_with_mostly_free_content_🥇.svg)](https://dev.to/aws-heroes/how-i-passed-the-aws-security-speciality-exam-with-mostly-free-content-3id3)
-[![Different types of security token](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Different_types_of_security_token.svg)](https://dev.to/oneadvanced/different-types-of-security-token-4on)
-[![Released on Product Hunt Today](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Released_on_Product_Hunt_Today.svg)](https://dev.to/mariostopfer/released-on-product-hunt-today-2jgc)
-[![The NodeJS 18 Fetch API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_NodeJS_18_Fetch_API.svg)](https://dev.to/andrewbaisden/the-nodejs-18-fetch-api-72m)
+[![Learnings After 400 API Security Testing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Learnings_After_400_API_Security_Testing.svg)](https://dev.to/intesar/learnings-after-400-api-security-testing-4icf)
+[![Introducing DigitalOcean Functions: A powerful serverless computing solution](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_DigitalOcean_Functions__A_powerful_serverless_computing_solution.svg)](https://dev.to/digitalocean/introducing-digitalocean-functions-a-powerful-serverless-computing-solution-3c48)
+[![Should I search for a job, and then move? Or move and then search?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Should_I_search_for_a_job__and_then_move__Or_move_and_then_search_.svg)](https://dev.to/sloan/should-i-search-for-a-job-and-then-move-or-move-and-then-search-5116)
+[![Appstore submission: Does your app use encryption? How to determine if your app contain encryption?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Appstore_submission__Does_your_app_use_encryption__How_to_determine_if_your_app_contain_encryption_.svg)](https://dev.to/akhil_karonnon_/appstore-submission-does-your-app-use-encryption-how-to-determine-if-your-app-contain-encryption-2gab)
+[![Towards understanding ML predictions - Introduction](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Towards_understanding_ML_predictions_-_Introduction.svg)](https://dev.to/malakar_soham/towards-understanding-ml-predictions-introduction-26nc)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, May 24, 2022 at 6:19:22 AM
+> Last updated: Tuesday, May 24, 2022 at 12:14:04 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, May 24, 2022 at 6:19:26 AM
+> Last updated: Tuesday, May 24, 2022 at 12:14:09 PM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - imchell/nimblog: Build static blog with lines of HTML and Markdown.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_imchell_nimblog__Build_static_blog_with_lines_of_HTML_and_Markdown..svg)](https://github.com/imchell/nimblog)
 [![Enums in Mongoose](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Enums_in_Mongoose.svg)](
 https://masteringjs.io/tutorials/mongoose/enum
 )
 [![API with NestJS #62. Introduction to MikroORM with PostgreSQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__62._Introduction_to_MikroORM_with_PostgreSQL.svg)](http://wanago.io/2022/05/23/api-nestjs-mikroorm-postgresql/)
 [![Improving code quality in Typescript with compiler options](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Improving_code_quality_in_Typescript_with_compiler_options.svg)](https://blog.openreplay.com/improving-code-quality-in-typescript-with-compiler-options)
 [![UseTransition() Vs UseDeferredValue() In React 18](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/UseTransition()_Vs_UseDeferredValue()_In_React_18.svg)](https://blog.openreplay.com/usetransition-vs-usedeferredvalue-in-react-18)
-[![Capture the flag: A Node.js web app vulnerability practice (part 1)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Capture_the_flag__A_Node.js_web_app_vulnerability_practice_(part_1).svg)](https://pitayan.com/posts/capture-web-app-vulnerabilities)
 
 
 <!-- post-list:end -->
