@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, May 25, 2022 at 12:13:36 AM
+> Last updated: Wednesday, May 25, 2022 at 6:21:30 AM
 
 > Showing 5 of 12 posts.
 
-[![7 Hot 🔥 features that will get you started with dart ⏭️](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/7_Hot_🔥_features_that_will_get_you_started_with_dart_⏭️.svg)](https://dev.to/dmutoni/7-hot-features-that-will-get-you-started-with-dart-847)
-[![Create a custom React stopwatch timer component](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_a_custom_React_stopwatch_timer_component.svg)](https://dev.to/michaelburrows/create-a-custom-react-stopwatch-timer-component-de1)
-[![May 24th, 2022: VS Code Tip of the Week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/May_24th__2022__VS_Code_Tip_of_the_Week.svg)](https://dev.to/vscodetips/may-24th-2022-vs-code-tip-of-the-week-2llp)
-[![yuqieang](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/yuqieang.svg)](https://dev.to/yuqieang_yu_ca63d856b8321/yuqieang-4cd)
-[![50+ hints JS(ES6+) developer must know (4th part)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/50+_hints_JS(ES6+)_developer_must_know_(4th_part).svg)](https://dev.to/stormytalent/50-hints-jses6-developer-must-know-4th-part-4ecl)
+[![Tracing MongoDB calls with OpenTelemetry](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tracing_MongoDB_calls_with_OpenTelemetry.svg)](https://dev.to/signoz/tracing-mongodb-calls-with-opentelemetry-3bk4)
+[![call(), apply(), bind() in Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/call()__apply()__bind()_in_Javascript.svg)](https://dev.to/dawroun/call-apply-bind-in-javascript-3dil)
+[![Taking Open Source contributions and communities to next level with the Reward System](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Taking_Open_Source_contributions_and_communities_to_next_level_with_the_Reward_System.svg)](https://dev.to/itsrakesh/taking-open-source-contributions-and-communities-to-next-level-with-the-reward-system-40e0)
+[![The Easy Way To Build A Tic Tac Toe Game!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Easy_Way_To_Build_A_Tic_Tac_Toe_Game!.svg)](https://dev.to/hr21don/the-easy-way-to-build-a-tic-tac-toe-game-51h7)
+[![Code Assignment That Was Given To Me During My Web Developer Interview - Episode 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Code_Assignment_That_Was_Given_To_Me_During_My_Web_Developer_Interview_-_Episode_1.svg)](https://dev.to/rammcodes/code-assignment-that-i-got-during-my-web-developer-interview-episode-1-b2j)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, May 25, 2022 at 12:13:40 AM
+> Last updated: Wednesday, May 25, 2022 at 6:21:32 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, May 25, 2022 at 12:13:47 AM
+> Last updated: Wednesday, May 25, 2022 at 6:21:37 AM
 
 > Showing 5 of 30 posts.
 
