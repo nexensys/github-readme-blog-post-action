@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, May 24, 2022 at 12:14:00 PM
+> Last updated: Tuesday, May 24, 2022 at 6:54:17 PM
 
 > Showing 5 of 12 posts.
 
-[![Learnings After 400 API Security Testing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Learnings_After_400_API_Security_Testing.svg)](https://dev.to/intesar/learnings-after-400-api-security-testing-4icf)
-[![Introducing DigitalOcean Functions: A powerful serverless computing solution](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_DigitalOcean_Functions__A_powerful_serverless_computing_solution.svg)](https://dev.to/digitalocean/introducing-digitalocean-functions-a-powerful-serverless-computing-solution-3c48)
-[![Should I search for a job, and then move? Or move and then search?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Should_I_search_for_a_job__and_then_move__Or_move_and_then_search_.svg)](https://dev.to/sloan/should-i-search-for-a-job-and-then-move-or-move-and-then-search-5116)
-[![Appstore submission: Does your app use encryption? How to determine if your app contain encryption?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Appstore_submission__Does_your_app_use_encryption__How_to_determine_if_your_app_contain_encryption_.svg)](https://dev.to/akhil_karonnon_/appstore-submission-does-your-app-use-encryption-how-to-determine-if-your-app-contain-encryption-2gab)
-[![Towards understanding ML predictions - Introduction](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Towards_understanding_ML_predictions_-_Introduction.svg)](https://dev.to/malakar_soham/towards-understanding-ml-predictions-introduction-26nc)
+[![50+ hints JS(ES6+) developer must know (4th part)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/50+_hints_JS(ES6+)_developer_must_know_(4th_part).svg)](https://dev.to/stormytalent/50-hints-jses6-developer-must-know-4th-part-4ecl)
+[![Common Kubernetes terminology we should know - Part 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Common_Kubernetes_terminology_we_should_know_-_Part_2.svg)](https://dev.to/kcdchennai/common-kubernetes-terminology-we-should-know-part-2-4mbe)
+[![Common Kubernetes terminology we should know - Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Common_Kubernetes_terminology_we_should_know_-_Part_1.svg)](https://dev.to/kcdchennai/common-kubernetes-terminology-we-should-know-part-1-1an9)
+[![Upgrading to Gitlab 15.0 CE from Gitlab 14.9.3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Upgrading_to_Gitlab_15.0_CE_from_Gitlab_14.9.3.svg)](https://dev.to/konung/upgrading-to-gitlab-150-ce-from-gitlab-1493-if5)
+[![Web Designer vs Web Developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Web_Designer_vs_Web_Developer.svg)](https://dev.to/ozziescode/web-designer-vs-web-developer-57d7)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, May 24, 2022 at 12:14:04 PM
+> Last updated: Tuesday, May 24, 2022 at 6:54:21 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, May 24, 2022 at 12:14:09 PM
+> Last updated: Tuesday, May 24, 2022 at 6:54:26 PM
 
 > Showing 5 of 30 posts.
 
