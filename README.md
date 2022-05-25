@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, May 24, 2022 at 6:54:17 PM
+> Last updated: Wednesday, May 25, 2022 at 12:13:36 AM
 
 > Showing 5 of 12 posts.
 
+[![7 Hot 🔥 features that will get you started with dart ⏭️](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/7_Hot_🔥_features_that_will_get_you_started_with_dart_⏭️.svg)](https://dev.to/dmutoni/7-hot-features-that-will-get-you-started-with-dart-847)
+[![Create a custom React stopwatch timer component](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_a_custom_React_stopwatch_timer_component.svg)](https://dev.to/michaelburrows/create-a-custom-react-stopwatch-timer-component-de1)
+[![May 24th, 2022: VS Code Tip of the Week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/May_24th__2022__VS_Code_Tip_of_the_Week.svg)](https://dev.to/vscodetips/may-24th-2022-vs-code-tip-of-the-week-2llp)
+[![yuqieang](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/yuqieang.svg)](https://dev.to/yuqieang_yu_ca63d856b8321/yuqieang-4cd)
 [![50+ hints JS(ES6+) developer must know (4th part)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/50+_hints_JS(ES6+)_developer_must_know_(4th_part).svg)](https://dev.to/stormytalent/50-hints-jses6-developer-must-know-4th-part-4ecl)
-[![Common Kubernetes terminology we should know - Part 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Common_Kubernetes_terminology_we_should_know_-_Part_2.svg)](https://dev.to/kcdchennai/common-kubernetes-terminology-we-should-know-part-2-4mbe)
-[![Common Kubernetes terminology we should know - Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Common_Kubernetes_terminology_we_should_know_-_Part_1.svg)](https://dev.to/kcdchennai/common-kubernetes-terminology-we-should-know-part-1-1an9)
-[![Upgrading to Gitlab 15.0 CE from Gitlab 14.9.3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Upgrading_to_Gitlab_15.0_CE_from_Gitlab_14.9.3.svg)](https://dev.to/konung/upgrading-to-gitlab-150-ce-from-gitlab-1493-if5)
-[![Web Designer vs Web Developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Web_Designer_vs_Web_Developer.svg)](https://dev.to/ozziescode/web-designer-vs-web-developer-57d7)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, May 24, 2022 at 6:54:21 PM
+> Last updated: Wednesday, May 25, 2022 at 12:13:40 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, May 24, 2022 at 6:54:26 PM
+> Last updated: Wednesday, May 25, 2022 at 12:13:47 AM
 
 > Showing 5 of 30 posts.
 
