@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, May 25, 2022 at 6:55:41 PM
+> Last updated: Thursday, May 26, 2022 at 12:13:22 AM
 
 > Showing 5 of 12 posts.
 
-[![Low-Code: A high level overview](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Low-Code__A_high_level_overview.svg)](https://dev.to/swatantra/low-code-a-high-level-overview-5c6g)
-[![Creating an EC2 instance on AWS using Terraform ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_an_EC2_instance_on_AWS_using_Terraform__.svg)](https://dev.to/makendrang/creating-an-ec2-instance-on-aws-using-terraform--41ki)
-[![Using AWS EC2 with Boto3 & Python - Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_AWS_EC2_with_Boto3___Python_-_Part_1.svg)](https://dev.to/makendrang/using-aws-ec2-with-boto3-python-part-1-52g5)
-[![Using AWS EC2 with Boto3 & Python - Part 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_AWS_EC2_with_Boto3___Python_-_Part_2.svg)](https://dev.to/makendrang/using-aws-ec2-with-boto3-python-part-2-3gmi)
-[![How to create AKS using Terraform - Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_AKS_using_Terraform_-_Part_1.svg)](https://dev.to/makendrang/how-to-create-aks-using-terraform-part-1-5bkf)
+[![Building a startup | Days 11 - 15](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_startup___Days_11_-_15.svg)](https://dev.to/advikguptadev/building-a-startup-days-1-15-od9)
+[![7 Shocking HTML tips you probably don't know about](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/7_Shocking_HTML_tips_you_probably_don't_know_about.svg)](https://dev.to/babib/7-shocking-html-tips-you-probably-dont-know-about-ggd)
+[![A11Y 101: Ensure landmarks are unique](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A11Y_101__Ensure_landmarks_are_unique.svg)](https://dev.to/dailydevtips1/a11y-101-ensure-landmarks-are-unique-5bi1)
+[![My journey over the last two months](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_journey_over_the_last_two_months.svg)](https://dev.to/awalhossain/my-last-two-months-journey-f48)
+[![Understanding the need for useEvent() React hook.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_the_need_for_useEvent()_React_hook..svg)](https://dev.to/swastikyadav/understanding-the-need-for-useevent-react-hook-51g2)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, May 25, 2022 at 6:55:45 PM
+> Last updated: Thursday, May 26, 2022 at 12:13:25 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, May 25, 2022 at 6:55:51 PM
+> Last updated: Thursday, May 26, 2022 at 12:13:30 AM
 
 > Showing 5 of 30 posts.
 
@@ -51,7 +51,7 @@ http://www.echojs.com
 [![Node.js configuration provider | Javier Brea](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Node.js_configuration_provider___Javier_Brea.svg)](
 https://www.javierbrea.com/blog/modular-configuration-provider/
 )
-[![GitHub - imchell/nimblog: Build static blog with lines of HTML and Markdown.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_imchell_nimblog__Build_static_blog_with_lines_of_HTML_and_Markdown..svg)](https://github.com/imchell/nimblog)
+[![GitHub - imchell/nimblog: 🏗 Build static blog with lines of HTML and Markdown.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_imchell_nimblog__🏗_Build_static_blog_with_lines_of_HTML_and_Markdown..svg)](https://github.com/imchell/nimblog)
 [![Enums in Mongoose](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Enums_in_Mongoose.svg)](
 https://masteringjs.io/tutorials/mongoose/enum
 )
