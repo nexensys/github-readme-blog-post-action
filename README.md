@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, May 26, 2022 at 6:18:55 AM
+> Last updated: Thursday, May 26, 2022 at 12:13:30 PM
 
 > Showing 5 of 12 posts.
 
-[![How to Collect Feedback & Track Feature Requests in Intercom?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Collect_Feedback___Track_Feature_Requests_in_Intercom_.svg)](https://dev.to/oktuned/how-to-collect-feedback-track-feature-requests-in-intercom-2h96)
-[![Learning Go Web Development From Zero](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Learning_Go_Web_Development_From_Zero.svg)](https://dev.to/samzhangjy/learning-go-web-development-from-zero-a1l)
-[![How To Perform Mobile Web Browser Testing [2022]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Perform_Mobile_Web_Browser_Testing_[2022].svg)](https://dev.to/lambdatest/how-to-perform-mobile-web-browser-testing-2022-25f2)
-[![Cron Expression Descriptor](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cron_Expression_Descriptor.svg)](https://dev.to/devfan/cron-expression-descriptor-1p66)
-[![Introducing the new ramp-up guide for developers, Azure Skills Navigator](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_the_new_ramp-up_guide_for_developers__Azure_Skills_Navigator.svg)](https://dev.to/azure/introducing-the-new-ramp-up-guide-for-developers-azure-skills-navigator-2bd4)
+[![What is Styled-Components?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_Styled-Components_.svg)](https://dev.to/jc21romadulce/what-is-styled-components-51o)
+[![Automate syndication of your content with Eleventy, dev.to, and GitHub Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Automate_syndication_of_your_content_with_Eleventy__dev.to__and_GitHub_Actions.svg)](https://dev.to/nickytonline/my-eleventy-meetup-talk-3b2p)
+[![3 Things To Know Before Building with PyScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/3_Things_To_Know_Before_Building_with_PyScript.svg)](https://dev.to/dolbyio/3-things-to-know-before-building-with-pyscript-4f6n)
+[![Javascript map()method](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Javascript_map()method.svg)](https://dev.to/talenttinaapi/javascript-mapmethod-42ne)
+[![How I crack GSoC 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_I_crack_GSoC_2022.svg)](https://dev.to/vedantjain03/how-i-crack-gsoc-2022-3ag4)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, May 26, 2022 at 6:18:58 AM
+> Last updated: Thursday, May 26, 2022 at 12:13:34 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, May 26, 2022 at 6:19:02 AM
+> Last updated: Thursday, May 26, 2022 at 12:13:38 PM
 
 > Showing 5 of 30 posts.
 
