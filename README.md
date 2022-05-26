@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, May 26, 2022 at 12:13:22 AM
+> Last updated: Thursday, May 26, 2022 at 6:18:55 AM
 
 > Showing 5 of 12 posts.
 
-[![Building a startup | Days 11 - 15](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_startup___Days_11_-_15.svg)](https://dev.to/advikguptadev/building-a-startup-days-1-15-od9)
-[![7 Shocking HTML tips you probably don't know about](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/7_Shocking_HTML_tips_you_probably_don't_know_about.svg)](https://dev.to/babib/7-shocking-html-tips-you-probably-dont-know-about-ggd)
-[![A11Y 101: Ensure landmarks are unique](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A11Y_101__Ensure_landmarks_are_unique.svg)](https://dev.to/dailydevtips1/a11y-101-ensure-landmarks-are-unique-5bi1)
-[![My journey over the last two months](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_journey_over_the_last_two_months.svg)](https://dev.to/awalhossain/my-last-two-months-journey-f48)
-[![Understanding the need for useEvent() React hook.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_the_need_for_useEvent()_React_hook..svg)](https://dev.to/swastikyadav/understanding-the-need-for-useevent-react-hook-51g2)
+[![How to Collect Feedback & Track Feature Requests in Intercom?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Collect_Feedback___Track_Feature_Requests_in_Intercom_.svg)](https://dev.to/oktuned/how-to-collect-feedback-track-feature-requests-in-intercom-2h96)
+[![Learning Go Web Development From Zero](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Learning_Go_Web_Development_From_Zero.svg)](https://dev.to/samzhangjy/learning-go-web-development-from-zero-a1l)
+[![How To Perform Mobile Web Browser Testing [2022]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Perform_Mobile_Web_Browser_Testing_[2022].svg)](https://dev.to/lambdatest/how-to-perform-mobile-web-browser-testing-2022-25f2)
+[![Cron Expression Descriptor](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cron_Expression_Descriptor.svg)](https://dev.to/devfan/cron-expression-descriptor-1p66)
+[![Introducing the new ramp-up guide for developers, Azure Skills Navigator](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_the_new_ramp-up_guide_for_developers__Azure_Skills_Navigator.svg)](https://dev.to/azure/introducing-the-new-ramp-up-guide-for-developers-azure-skills-navigator-2bd4)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, May 26, 2022 at 12:13:25 AM
+> Last updated: Thursday, May 26, 2022 at 6:18:58 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, May 26, 2022 at 12:13:30 AM
+> Last updated: Thursday, May 26, 2022 at 6:19:02 AM
 
 > Showing 5 of 30 posts.
 
+[![vue-superman/packages/class-mock at master · 2214962083/vue-superman](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/vue-superman_packages_class-mock_at_master_·_2214962083_vue-superman.svg)](https://github.com/2214962083/vue-superman)
+[![Getting Started with the Svelte Framework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Getting_Started_with_the_Svelte_Framework.svg)](https://cfe.dev/events/gettings-started-with-svelte/)
+[![Building a Code Snippet Highlighter in Next.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_a_Code_Snippet_Highlighter_in_Next.js.svg)](https://blog.openreplay.com/building-a-code-snippet-highlighter-in-next-js)
+[![List of Best React Static Site Generators to Use in 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/List_of_Best_React_Static_Site_Generators_to_Use_in_2022.svg)](https://dev.to/aglowiditsolutions/list-of-best-react-static-site-generators-to-use-in-2022-3il6)
 [![GitHub - u1ui/counter.el: counting numbers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_u1ui_counter.el__counting_numbers.svg)](https://github.com/u1ui/counter.el)
-[![Node.js configuration provider | Javier Brea](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Node.js_configuration_provider___Javier_Brea.svg)](
-https://www.javierbrea.com/blog/modular-configuration-provider/
-)
-[![GitHub - imchell/nimblog: 🏗 Build static blog with lines of HTML and Markdown.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_imchell_nimblog__🏗_Build_static_blog_with_lines_of_HTML_and_Markdown..svg)](https://github.com/imchell/nimblog)
-[![Enums in Mongoose](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Enums_in_Mongoose.svg)](
-https://masteringjs.io/tutorials/mongoose/enum
-)
-[![API with NestJS #62. Introduction to MikroORM with PostgreSQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__62._Introduction_to_MikroORM_with_PostgreSQL.svg)](http://wanago.io/2022/05/23/api-nestjs-mikroorm-postgresql/)
 
 
 <!-- post-list:end -->
