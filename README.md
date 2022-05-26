@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, May 25, 2022 at 12:12:37 PM
+> Last updated: Wednesday, May 25, 2022 at 6:55:41 PM
 
 > Showing 5 of 12 posts.
 
-[![TypeORM: Object-relational mapping with Node.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/TypeORM__Object-relational_mapping_with_Node.js.svg)](https://dev.to/logrocket/typeorm-object-relational-mapping-with-nodejs-3698)
-[![PrestaShop Integration with Vue Storefront is ready!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/PrestaShop_Integration_with_Vue_Storefront_is_ready!.svg)](https://dev.to/vue-storefront/prestashop-integration-with-vue-storefront-is-ready-4p95)
-[![If you're a Tech interviewer .. what's the quality you search the most in the interviewee ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/If_you're_a_Tech_interviewer_.._what's_the_quality_you_search_the_most_in_the_interviewee__.svg)](https://dev.to/bekbrace/if-youre-a-tech-interviewer-whats-the-quality-you-search-the-most-in-the-interviewee--199e)
-[![React should change the documentation to React Hooks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_should_change_the_documentation_to_React_Hooks.svg)](https://dev.to/alesbe/react-should-change-the-documentation-to-react-hooks-3pon)
-[![Mastering Regular Expression (RegEx) in Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_Regular_Expression_(RegEx)_in_Javascript.svg)](https://dev.to/kai_wenzel/mastering-regular-expression-regex-in-javascript-54jo)
+[![Low-Code: A high level overview](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Low-Code__A_high_level_overview.svg)](https://dev.to/swatantra/low-code-a-high-level-overview-5c6g)
+[![Creating an EC2 instance on AWS using Terraform ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_an_EC2_instance_on_AWS_using_Terraform__.svg)](https://dev.to/makendrang/creating-an-ec2-instance-on-aws-using-terraform--41ki)
+[![Using AWS EC2 with Boto3 & Python - Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_AWS_EC2_with_Boto3___Python_-_Part_1.svg)](https://dev.to/makendrang/using-aws-ec2-with-boto3-python-part-1-52g5)
+[![Using AWS EC2 with Boto3 & Python - Part 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_AWS_EC2_with_Boto3___Python_-_Part_2.svg)](https://dev.to/makendrang/using-aws-ec2-with-boto3-python-part-2-3gmi)
+[![How to create AKS using Terraform - Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_AKS_using_Terraform_-_Part_1.svg)](https://dev.to/makendrang/how-to-create-aks-using-terraform-part-1-5bkf)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, May 25, 2022 at 12:12:40 PM
+> Last updated: Wednesday, May 25, 2022 at 6:55:45 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, May 25, 2022 at 12:12:43 PM
+> Last updated: Wednesday, May 25, 2022 at 6:55:51 PM
 
 > Showing 5 of 30 posts.
 
