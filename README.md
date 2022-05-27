@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, May 26, 2022 at 12:13:30 PM
+> Last updated: Thursday, May 26, 2022 at 6:51:19 PM
 
 > Showing 5 of 12 posts.
 
-[![What is Styled-Components?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_Styled-Components_.svg)](https://dev.to/jc21romadulce/what-is-styled-components-51o)
-[![Automate syndication of your content with Eleventy, dev.to, and GitHub Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Automate_syndication_of_your_content_with_Eleventy__dev.to__and_GitHub_Actions.svg)](https://dev.to/nickytonline/my-eleventy-meetup-talk-3b2p)
-[![3 Things To Know Before Building with PyScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/3_Things_To_Know_Before_Building_with_PyScript.svg)](https://dev.to/dolbyio/3-things-to-know-before-building-with-pyscript-4f6n)
-[![Javascript map()method](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Javascript_map()method.svg)](https://dev.to/talenttinaapi/javascript-mapmethod-42ne)
-[![How I crack GSoC 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_I_crack_GSoC_2022.svg)](https://dev.to/vedantjain03/how-i-crack-gsoc-2022-3ag4)
+[![Private Link Service integration in Azure Kubernetes Service](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Private_Link_Service_integration_in_Azure_Kubernetes_Service.svg)](https://dev.to/makendrang/private-link-service-integration-in-azure-kubernetes-service-53kj)
+[![CSI storage driver support on Azure Kubernetes Service](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CSI_storage_driver_support_on_Azure_Kubernetes_Service.svg)](https://dev.to/makendrang/csi-storage-driver-support-on-azure-kubernetes-service-7ji)
+[![How automatic repair works in Azure Kubernetes Service](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_automatic_repair_works_in_Azure_Kubernetes_Service.svg)](https://dev.to/makendrang/how-automatic-repair-works-in-azure-kubernetes-service-hpf)
+[![May 26th, 2022: What did you learn this week?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/May_26th__2022__What_did_you_learn_this_week_.svg)](https://dev.to/nickytonline/may-26th-2022-what-did-you-learn-this-week-2lc4)
+[![SQL Interview Questions CheatSheet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/SQL_Interview_Questions_CheatSheet.svg)](https://dev.to/zainshahbaz786/sql-interview-questions-cheatsheet-3f0m)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, May 26, 2022 at 12:13:34 PM
+> Last updated: Thursday, May 26, 2022 at 6:51:22 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, May 26, 2022 at 12:13:38 PM
+> Last updated: Thursday, May 26, 2022 at 6:51:26 PM
 
 > Showing 5 of 30 posts.
 
+[![Build Secure Ionic Apps with Angular and JHipster](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_Secure_Ionic_Apps_with_Angular_and_JHipster.svg)](https://auth0.com/blog/ionic-angular-jhipster/)
 [![vue-superman/packages/class-mock at master · 2214962083/vue-superman](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/vue-superman_packages_class-mock_at_master_·_2214962083_vue-superman.svg)](https://github.com/2214962083/vue-superman)
 [![Getting Started with the Svelte Framework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Getting_Started_with_the_Svelte_Framework.svg)](https://cfe.dev/events/gettings-started-with-svelte/)
 [![Building a Code Snippet Highlighter in Next.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_a_Code_Snippet_Highlighter_in_Next.js.svg)](https://blog.openreplay.com/building-a-code-snippet-highlighter-in-next-js)
 [![List of Best React Static Site Generators to Use in 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/List_of_Best_React_Static_Site_Generators_to_Use_in_2022.svg)](https://dev.to/aglowiditsolutions/list-of-best-react-static-site-generators-to-use-in-2022-3il6)
-[![GitHub - u1ui/counter.el: counting numbers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_u1ui_counter.el__counting_numbers.svg)](https://github.com/u1ui/counter.el)
 
 
 <!-- post-list:end -->
