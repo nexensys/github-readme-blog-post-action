@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, May 27, 2022 at 6:20:00 AM
+> Last updated: Friday, May 27, 2022 at 12:14:44 PM
 
 > Showing 5 of 12 posts.
 
-[![Do you think Python is overrated ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Do_you_think_Python_is_overrated__.svg)](https://dev.to/bekbrace/do-you-think-python-language-is-overrated--4eh2)
-[![Hardstuck Fresh Graduate](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Hardstuck_Fresh_Graduate.svg)](https://dev.to/sem1colons/hardstuck-fresh-graduate-5ecp)
-[![Dear Junior Developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dear_Junior_Developer.svg)](https://dev.to/glowreeyah/dear-junior-developer-4he)
-[![AI for Sales](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AI_for_Sales.svg)](https://dev.to/ochwada/ai-for-sales-d9m)
-[![AWS open source news and updates, #114](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_open_source_news_and_updates___114.svg)](https://dev.to/aws/aws-open-source-news-and-updates-114-51ng)
+[![Overview of HostProcess containers in AKS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Overview_of_HostProcess_containers_in_AKS.svg)](https://dev.to/makendrang/overview-of-hostprocess-containers-in-aks-2h5g)
+[![🎉 Another interview is out, what a week 🎉](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🎉_Another_interview_is_out__what_a_week_🎉.svg)](https://dev.to/beetlehope/another-interview-is-out-what-a-week-64b)
+[![Overview of Azure Arc](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Overview_of_Azure_Arc.svg)](https://dev.to/makendrang/overview-of-azure-arc-13i7)
+[![Create a Markdoc plugin in less than 15 lines of code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_a_Markdoc_plugin_in_less_than_15_lines_of_code.svg)](https://dev.to/stripe/create-a-markdoc-plugin-in-less-than-15-lines-of-code-39jk)
+[![Favourite fonts?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Favourite_fonts_.svg)](https://dev.to/vulcanwm/favourite-fonts-12f9)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, May 27, 2022 at 6:20:03 AM
+> Last updated: Friday, May 27, 2022 at 12:14:48 PM
 
 > Showing 4 of 4 posts.
 
+[![Airbnb's uncommon route to faster JS builds](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Airbnb's_uncommon_route_to_faster_JS_builds.svg)](https://javascriptweekly.com/issues/591)
 [![Getting animated](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Getting_animated.svg)](https://javascriptweekly.com/issues/590)
 [![19 hours of D3.js??](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/19_hours_of_D3.js__.svg)](https://javascriptweekly.com/issues/589)
 [![A 2022 take on TodoMVC in plain JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/A_2022_take_on_TodoMVC_in_plain_JS.svg)](https://javascriptweekly.com/issues/588)
-[![Let's build a JavaScript bundler](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Let's_build_a_JavaScript_bundler.svg)](https://javascriptweekly.com/issues/587)
 
 
 ## Echo JS
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, May 27, 2022 at 6:20:05 AM
+> Last updated: Friday, May 27, 2022 at 12:14:52 PM
 
 > Showing 5 of 30 posts.
 
+[![Release Neutralinojs v4.6.0 released! · neutralinojs/neutralinojs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Release_Neutralinojs_v4.6.0_released!_·_neutralinojs_neutralinojs.svg)](/neutralinojs/neutralinojs/releases/tag/v4.6.0)
 [![Episode 12 - Redux Toolkit and State Management in React with Mark Erikson - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_12_-_Redux_Toolkit_and_State_Management_in_React_with_Mark_Erikson_-_20minJS.svg)](https://podcast.20minjs.com/1952066/10665172-episode-12-redux-toolkit-and-state-management-in-react-with-mark-erikson)
 [![Build Secure Ionic Apps with Angular and JHipster](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_Secure_Ionic_Apps_with_Angular_and_JHipster.svg)](https://auth0.com/blog/ionic-angular-jhipster/)
 [![vue-superman/packages/class-mock at master · 2214962083/vue-superman](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/vue-superman_packages_class-mock_at_master_·_2214962083_vue-superman.svg)](https://github.com/2214962083/vue-superman)
 [![Getting Started with the Svelte Framework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Getting_Started_with_the_Svelte_Framework.svg)](https://cfe.dev/events/gettings-started-with-svelte/)
-[![Building a Code Snippet Highlighter in Next.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_a_Code_Snippet_Highlighter_in_Next.js.svg)](https://blog.openreplay.com/building-a-code-snippet-highlighter-in-next-js)
 
 
 <!-- post-list:end -->
