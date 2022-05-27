@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, May 27, 2022 at 12:14:07 AM
+> Last updated: Friday, May 27, 2022 at 6:20:00 AM
 
 > Showing 5 of 12 posts.
 
-[![A11Y 101: Missing form labels](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A11Y_101__Missing_form_labels.svg)](https://dev.to/dailydevtips1/a11y-101-missing-form-labels-2f1e)
-[![Showcase: Zen Mode 2.0 - Hide Everything. Mute Everything.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Showcase__Zen_Mode_2.0_-_Hide_Everything._Mute_Everything..svg)](https://dev.to/pradeepb28_/showcase-zen-mode-20-hide-everything-mute-everything-4eoh)
-[![Fake data generator in Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Fake_data_generator_in_Python.svg)](https://dev.to/soniarpit/fake-data-generator-in-python-mi0)
-[![**Some of the things you need to learn before getting started on Node**](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/__Some_of_the_things_you_need_to_learn_before_getting_started_on_Node__.svg)](https://dev.to/jane49cloud/some-of-the-things-you-need-to-learn-before-getting-started-on-node-38hi)
-[![Clean Architecture: implementando meu primeiro Use Case](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Clean_Architecture__implementando_meu_primeiro_Use_Case.svg)](https://dev.to/yanpiing/clean-architecture-implementando-meu-primeiro-use-case-4oe7)
+[![Do you think Python is overrated ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Do_you_think_Python_is_overrated__.svg)](https://dev.to/bekbrace/do-you-think-python-language-is-overrated--4eh2)
+[![Hardstuck Fresh Graduate](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Hardstuck_Fresh_Graduate.svg)](https://dev.to/sem1colons/hardstuck-fresh-graduate-5ecp)
+[![Dear Junior Developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dear_Junior_Developer.svg)](https://dev.to/glowreeyah/dear-junior-developer-4he)
+[![AI for Sales](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AI_for_Sales.svg)](https://dev.to/ochwada/ai-for-sales-d9m)
+[![AWS open source news and updates, #114](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_open_source_news_and_updates___114.svg)](https://dev.to/aws/aws-open-source-news-and-updates-114-51ng)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, May 27, 2022 at 12:14:11 AM
+> Last updated: Friday, May 27, 2022 at 6:20:03 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, May 27, 2022 at 12:14:31 AM
+> Last updated: Friday, May 27, 2022 at 6:20:05 AM
 
 > Showing 5 of 30 posts.
 
+[![Episode 12 - Redux Toolkit and State Management in React with Mark Erikson - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_12_-_Redux_Toolkit_and_State_Management_in_React_with_Mark_Erikson_-_20minJS.svg)](https://podcast.20minjs.com/1952066/10665172-episode-12-redux-toolkit-and-state-management-in-react-with-mark-erikson)
 [![Build Secure Ionic Apps with Angular and JHipster](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_Secure_Ionic_Apps_with_Angular_and_JHipster.svg)](https://auth0.com/blog/ionic-angular-jhipster/)
 [![vue-superman/packages/class-mock at master · 2214962083/vue-superman](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/vue-superman_packages_class-mock_at_master_·_2214962083_vue-superman.svg)](https://github.com/2214962083/vue-superman)
 [![Getting Started with the Svelte Framework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Getting_Started_with_the_Svelte_Framework.svg)](https://cfe.dev/events/gettings-started-with-svelte/)
 [![Building a Code Snippet Highlighter in Next.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_a_Code_Snippet_Highlighter_in_Next.js.svg)](https://blog.openreplay.com/building-a-code-snippet-highlighter-in-next-js)
-[![List of Best React Static Site Generators to Use in 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/List_of_Best_React_Static_Site_Generators_to_Use_in_2022.svg)](https://dev.to/aglowiditsolutions/list-of-best-react-static-site-generators-to-use-in-2022-3il6)
 
 
 <!-- post-list:end -->
