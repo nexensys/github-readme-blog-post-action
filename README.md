@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, May 26, 2022 at 6:51:19 PM
+> Last updated: Friday, May 27, 2022 at 12:14:07 AM
 
 > Showing 5 of 12 posts.
 
-[![Private Link Service integration in Azure Kubernetes Service](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Private_Link_Service_integration_in_Azure_Kubernetes_Service.svg)](https://dev.to/makendrang/private-link-service-integration-in-azure-kubernetes-service-53kj)
-[![CSI storage driver support on Azure Kubernetes Service](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CSI_storage_driver_support_on_Azure_Kubernetes_Service.svg)](https://dev.to/makendrang/csi-storage-driver-support-on-azure-kubernetes-service-7ji)
-[![How automatic repair works in Azure Kubernetes Service](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_automatic_repair_works_in_Azure_Kubernetes_Service.svg)](https://dev.to/makendrang/how-automatic-repair-works-in-azure-kubernetes-service-hpf)
-[![May 26th, 2022: What did you learn this week?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/May_26th__2022__What_did_you_learn_this_week_.svg)](https://dev.to/nickytonline/may-26th-2022-what-did-you-learn-this-week-2lc4)
-[![SQL Interview Questions CheatSheet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/SQL_Interview_Questions_CheatSheet.svg)](https://dev.to/zainshahbaz786/sql-interview-questions-cheatsheet-3f0m)
+[![A11Y 101: Missing form labels](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A11Y_101__Missing_form_labels.svg)](https://dev.to/dailydevtips1/a11y-101-missing-form-labels-2f1e)
+[![Showcase: Zen Mode 2.0 - Hide Everything. Mute Everything.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Showcase__Zen_Mode_2.0_-_Hide_Everything._Mute_Everything..svg)](https://dev.to/pradeepb28_/showcase-zen-mode-20-hide-everything-mute-everything-4eoh)
+[![Fake data generator in Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Fake_data_generator_in_Python.svg)](https://dev.to/soniarpit/fake-data-generator-in-python-mi0)
+[![**Some of the things you need to learn before getting started on Node**](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/__Some_of_the_things_you_need_to_learn_before_getting_started_on_Node__.svg)](https://dev.to/jane49cloud/some-of-the-things-you-need-to-learn-before-getting-started-on-node-38hi)
+[![Clean Architecture: implementando meu primeiro Use Case](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Clean_Architecture__implementando_meu_primeiro_Use_Case.svg)](https://dev.to/yanpiing/clean-architecture-implementando-meu-primeiro-use-case-4oe7)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, May 26, 2022 at 6:51:22 PM
+> Last updated: Friday, May 27, 2022 at 12:14:11 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, May 26, 2022 at 6:51:26 PM
+> Last updated: Friday, May 27, 2022 at 12:14:31 AM
 
 > Showing 5 of 30 posts.
 
