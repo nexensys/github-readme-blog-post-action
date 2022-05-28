@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, May 27, 2022 at 12:14:44 PM
+> Last updated: Friday, May 27, 2022 at 6:51:09 PM
 
 > Showing 5 of 12 posts.
 
-[![Overview of HostProcess containers in AKS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Overview_of_HostProcess_containers_in_AKS.svg)](https://dev.to/makendrang/overview-of-hostprocess-containers-in-aks-2h5g)
-[![🎉 Another interview is out, what a week 🎉](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🎉_Another_interview_is_out__what_a_week_🎉.svg)](https://dev.to/beetlehope/another-interview-is-out-what-a-week-64b)
-[![Overview of Azure Arc](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Overview_of_Azure_Arc.svg)](https://dev.to/makendrang/overview-of-azure-arc-13i7)
-[![Create a Markdoc plugin in less than 15 lines of code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_a_Markdoc_plugin_in_less_than_15_lines_of_code.svg)](https://dev.to/stripe/create-a-markdoc-plugin-in-less-than-15-lines-of-code-39jk)
-[![Favourite fonts?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Favourite_fonts_.svg)](https://dev.to/vulcanwm/favourite-fonts-12f9)
+[![Patrones de Diseño con Python (Observer)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Patrones_de_Diseño_con_Python_(Observer).svg)](https://dev.to/v3n2r4/patrones-de-diseno-con-python-observer-2073)
+[![#26: Azure Functions & SWA](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_26__Azure_Functions___SWA.svg)](https://dev.to/azure/26-azure-functions-swa-3gi8)
+[![CodeLand 2022 is less than three weeks away 🤯](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CodeLand_2022_is_less_than_three_weeks_away_🤯.svg)](https://dev.to/codenewbieteam/codeland-2022-is-less-than-three-weeks-away-22eb)
+[![How we can use BYOIP in Azure ?.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_we_can_use_BYOIP_in_Azure__..svg)](https://dev.to/makendrang/how-we-can-use-byoip-in-azure--5bid)
+[![Amazon RDS - MySQL for .NET Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Amazon_RDS_-_MySQL_for_.NET_Developers.svg)](https://dev.to/aws-builders/amazon-rds-mysql-for-net-developers-5986)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, May 27, 2022 at 12:14:48 PM
+> Last updated: Friday, May 27, 2022 at 6:51:11 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, May 27, 2022 at 12:14:52 PM
+> Last updated: Friday, May 27, 2022 at 6:51:14 PM
 
 > Showing 5 of 30 posts.
 
