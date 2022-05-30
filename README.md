@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, May 27, 2022 at 6:51:09 PM
+> Last updated: Monday, May 30, 2022 at 12:12:34 PM
 
 > Showing 5 of 12 posts.
 
-[![Patrones de Diseño con Python (Observer)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Patrones_de_Diseño_con_Python_(Observer).svg)](https://dev.to/v3n2r4/patrones-de-diseno-con-python-observer-2073)
-[![#26: Azure Functions & SWA](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_26__Azure_Functions___SWA.svg)](https://dev.to/azure/26-azure-functions-swa-3gi8)
-[![CodeLand 2022 is less than three weeks away 🤯](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CodeLand_2022_is_less_than_three_weeks_away_🤯.svg)](https://dev.to/codenewbieteam/codeland-2022-is-less-than-three-weeks-away-22eb)
-[![How we can use BYOIP in Azure ?.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_we_can_use_BYOIP_in_Azure__..svg)](https://dev.to/makendrang/how-we-can-use-byoip-in-azure--5bid)
-[![Amazon RDS - MySQL for .NET Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Amazon_RDS_-_MySQL_for_.NET_Developers.svg)](https://dev.to/aws-builders/amazon-rds-mysql-for-net-developers-5986)
+[![85 JavaScript Code Assists for Visual Studio Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/85_JavaScript_Code_Assists_for_Visual_Studio_Code.svg)](https://dev.to/lgrammel/85-javascript-code-assists-for-visual-studio-code-1akh)
+[![Testing Your Python Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Testing_Your_Python_Code.svg)](https://dev.to/ahmedgouda/testing-your-python-code-17dd)
+[![What is GitHub Copilot ?.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_GitHub_Copilot__..svg)](https://dev.to/makendrang/what-is-github-copilot--2l19)
+[![Virtual Coffee Lunch & Learn: Asking Coding Questions with Bekah Hawrot Weigel & Nick Taylor](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Virtual_Coffee_Lunch___Learn__Asking_Coding_Questions_with_Bekah_Hawrot_Weigel___Nick_Taylor.svg)](https://dev.to/virtualcoffee/virtual-coffee-lunch-learn-asking-coding-questions-with-bekah-hawrot-weigel-nick-taylor-2bcj)
+[![Code in Rust : Guess Z Number ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Code_in_Rust___Guess_Z_Number__.svg)](https://dev.to/bekbrace/code-in-rust-guess-z-number-402n)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, May 27, 2022 at 6:51:11 PM
+> Last updated: Monday, May 30, 2022 at 12:12:38 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, May 27, 2022 at 6:51:14 PM
+> Last updated: Monday, May 30, 2022 at 12:12:46 PM
 
 > Showing 5 of 30 posts.
 
-[![Release Neutralinojs v4.6.0 released! · neutralinojs/neutralinojs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Release_Neutralinojs_v4.6.0_released!_·_neutralinojs_neutralinojs.svg)](/neutralinojs/neutralinojs/releases/tag/v4.6.0)
-[![Episode 12 - Redux Toolkit and State Management in React with Mark Erikson - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_12_-_Redux_Toolkit_and_State_Management_in_React_with_Mark_Erikson_-_20minJS.svg)](https://podcast.20minjs.com/1952066/10665172-episode-12-redux-toolkit-and-state-management-in-react-with-mark-erikson)
-[![Build Secure Ionic Apps with Angular and JHipster](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_Secure_Ionic_Apps_with_Angular_and_JHipster.svg)](https://auth0.com/blog/ionic-angular-jhipster/)
-[![vue-superman/packages/class-mock at master · 2214962083/vue-superman](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/vue-superman_packages_class-mock_at_master_·_2214962083_vue-superman.svg)](https://github.com/2214962083/vue-superman)
-[![Getting Started with the Svelte Framework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Getting_Started_with_the_Svelte_Framework.svg)](https://cfe.dev/events/gettings-started-with-svelte/)
+[![API with NestJS #63. Relationships with PostgreSQL and MikroORM](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__63._Relationships_with_PostgreSQL_and_MikroORM.svg)](http://wanago.io/2022/05/30/api-nestjs-relationships-postgresql-mikroorm/)
+[![How I Built an "OS" with React for My Portfolio Website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_I_Built_an__OS__with_React_for_My_Portfolio_Website.svg)](https://www.youtube.com/watch?v=JLgsiOKhz9Q)
+[![How to Make an iOS App For Your Business? [CHECKLIST]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Make_an_iOS_App_For_Your_Business__[CHECKLIST].svg)](https://www.ideamotive.co/blog/how-to-make-an-ios-app-for-your-business)
+[![
+Building a Decentralized Blockchain App with Vue and Tezos
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Building_a_Decentralized_Blockchain_App_with_Vue_and_Tezos_.svg)](
+https://blog.openreplay.com/building-a-decentralized-app-with-vue-and-tezos
+)
+[![How we Build a Component Library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_we_Build_a_Component_Library.svg)](https://javascript.plainenglish.io/how-we-build-a-component-library-12735d09e131)
 
 
 <!-- post-list:end -->
