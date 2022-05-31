@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, May 30, 2022 at 12:12:34 PM
+> Last updated: Monday, May 30, 2022 at 6:54:28 PM
 
 > Showing 5 of 12 posts.
 
-[![85 JavaScript Code Assists for Visual Studio Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/85_JavaScript_Code_Assists_for_Visual_Studio_Code.svg)](https://dev.to/lgrammel/85-javascript-code-assists-for-visual-studio-code-1akh)
-[![Testing Your Python Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Testing_Your_Python_Code.svg)](https://dev.to/ahmedgouda/testing-your-python-code-17dd)
-[![What is GitHub Copilot ?.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_GitHub_Copilot__..svg)](https://dev.to/makendrang/what-is-github-copilot--2l19)
-[![Virtual Coffee Lunch & Learn: Asking Coding Questions with Bekah Hawrot Weigel & Nick Taylor](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Virtual_Coffee_Lunch___Learn__Asking_Coding_Questions_with_Bekah_Hawrot_Weigel___Nick_Taylor.svg)](https://dev.to/virtualcoffee/virtual-coffee-lunch-learn-asking-coding-questions-with-bekah-hawrot-weigel-nick-taylor-2bcj)
-[![Code in Rust : Guess Z Number ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Code_in_Rust___Guess_Z_Number__.svg)](https://dev.to/bekbrace/code-in-rust-guess-z-number-402n)
+[![The Base64 challenge](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Base64_challenge.svg)](https://dev.to/chad_r_stewart/the-base64-challenge-4adh)
+[![How do you use "find" vs "get" prefix?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_do_you_use__find__vs__get__prefix_.svg)](https://dev.to/attkinsonjakob/how-do-you-use-find-vs-get-prefix-5g8n)
+[![How to Approach Every Programming Interview Regardless of the Topic](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Approach_Every_Programming_Interview_Regardless_of_the_Topic.svg)](https://dev.to/dannyhabibs/how-to-approach-every-programming-interview-regardless-of-the-topic-30n5)
+[![5 basic styled-components skills I’ve learned](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_basic_styled-components_skills_I’ve_learned.svg)](https://dev.to/lada496/5-basic-styled-components-skills-ive-learned-1n46)
+[![Implementing health checks PT.1 - Asp.Net Core 6 configuration](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Implementing_health_checks_PT.1_-_Asp.Net_Core_6_configuration.svg)](https://dev.to/krusty93/implementing-health-checks-pt1-aspnet-core-6-configuration-6gp)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, May 30, 2022 at 12:12:38 PM
+> Last updated: Monday, May 30, 2022 at 6:54:32 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, May 30, 2022 at 12:12:46 PM
+> Last updated: Monday, May 30, 2022 at 6:54:38 PM
 
 > Showing 5 of 30 posts.
 
+[![Version 2.9 release notes | FoalTS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Version_2.9_release_notes___FoalTS.svg)](https://foalts.org/blog/2022/05/29/version-2.9-release-notes)
 [![API with NestJS #63. Relationships with PostgreSQL and MikroORM](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__63._Relationships_with_PostgreSQL_and_MikroORM.svg)](http://wanago.io/2022/05/30/api-nestjs-relationships-postgresql-mikroorm/)
 [![How I Built an "OS" with React for My Portfolio Website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_I_Built_an__OS__with_React_for_My_Portfolio_Website.svg)](https://www.youtube.com/watch?v=JLgsiOKhz9Q)
 [![How to Make an iOS App For Your Business? [CHECKLIST]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Make_an_iOS_App_For_Your_Business__[CHECKLIST].svg)](https://www.ideamotive.co/blog/how-to-make-an-ios-app-for-your-business)
@@ -55,7 +56,6 @@ Building a Decentralized Blockchain App with Vue and Tezos
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Building_a_Decentralized_Blockchain_App_with_Vue_and_Tezos_.svg)](
 https://blog.openreplay.com/building-a-decentralized-app-with-vue-and-tezos
 )
-[![How we Build a Component Library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_we_Build_a_Component_Library.svg)](https://javascript.plainenglish.io/how-we-build-a-component-library-12735d09e131)
 
 
 <!-- post-list:end -->
