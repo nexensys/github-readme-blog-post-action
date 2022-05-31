@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, May 31, 2022 at 6:20:08 AM
+> Last updated: Tuesday, May 31, 2022 at 12:12:37 PM
 
 > Showing 5 of 12 posts.
 
-[![What was your Dev Journey?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_was_your_Dev_Journey_.svg)](https://dev.to/thekillerrex27/what-was-your-dev-journey-7dc)
-[![Do You Have a Forever Project?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Do_You_Have_a_Forever_Project_.svg)](https://dev.to/solidi/do-you-have-a-forever-project-kpk)
-[![VS Code or VS Codium - which should I use?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/VS_Code_or_VS_Codium_-_which_should_I_use_.svg)](https://dev.to/robole/vs-code-or-vs-codium-which-should-i-use-53oj)
-[![use chart.js with node](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/use_chart.js_with_node.svg)](https://dev.to/srcmgra/use-chartjs-with-node-1e2k)
-[![What makes DevOps engineers so much more money than software developers? Are their daily responsibilities really so complicated?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_makes_DevOps_engineers_so_much_more_money_than_software_developers__Are_their_daily_responsibilities_really_so_complicated_.svg)](https://dev.to/taniazhydkova/what-makes-devops-engineers-so-much-more-money-than-software-developers-are-their-daily-responsibilities-really-so-complicated-mn9)
+[![How do you define an ideal portfolio?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_do_you_define_an_ideal_portfolio_.svg)](https://dev.to/blogdesire/how-do-you-define-an-ideal-portfolio-bbb)
+[![What is the framework that you use the most for backend?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_the_framework_that_you_use_the_most_for_backend_.svg)](https://dev.to/sherikxd/what-is-the-framework-that-you-use-the-most-for-backend-3dnf)
+[![How web browsers work - the render tree + reflow & paint (part 7, with illustrations) 👁‍🗨☑️](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_web_browsers_work_-_the_render_tree_+_reflow___paint_(part_7__with_illustrations)_👁‍🗨☑️.svg)](https://dev.to/arikaturika/how-web-browsers-work-the-render-tree-reflow-paint-part-7-with-illustrations-2o5)
+[![How to Customize your Medusa Server and Next.js Storefront to Add Product Reviews](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Customize_your_Medusa_Server_and_Next.js_Storefront_to_Add_Product_Reviews.svg)](https://dev.to/medusajs/how-to-customize-your-medusa-server-and-nextjs-storefront-to-add-product-reviews-j8c)
+[![Typescript Generics explained easily](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Typescript_Generics_explained_easily.svg)](https://dev.to/thatanjan/typescript-generics-explained-easily-113a)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, May 31, 2022 at 6:20:15 AM
+> Last updated: Tuesday, May 31, 2022 at 12:12:41 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, May 31, 2022 at 6:20:20 AM
+> Last updated: Tuesday, May 31, 2022 at 12:12:46 PM
 
 > Showing 5 of 30 posts.
 
