@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, May 31, 2022 at 12:13:52 AM
+> Last updated: Tuesday, May 31, 2022 at 6:20:08 AM
 
 > Showing 5 of 12 posts.
 
-[![JS Date-Time libraries you should use instead of traditional methods 😋](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JS_Date-Time_libraries_you_should_use_instead_of_traditional_methods_😋.svg)](https://dev.to/gulshanaggarwal/js-date-time-libraries-you-should-use-instead-of-traditional-methods-1lc4)
-[![Rpm Tabanlı Sistemlerde Kaptan Kurulumu](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Rpm_Tabanlı_Sistemlerde_Kaptan_Kurulumu.svg)](https://dev.to/aciklab/rpm-tabanli-sistemlerde-kaptan-kurulumu-51kc)
-[![Speech commander terminal](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Speech_commander_terminal.svg)](https://dev.to/dhanush9952/speech-commander-terminal-5d7b)
-[![Writing and Testing a stdin script with TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Writing_and_Testing_a_stdin_script_with_TypeScript.svg)](https://dev.to/viglioni/writing-and-testing-a-stdin-script-with-typescript-57mb)
-[![What I learned about anxiety](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_I_learned_about_anxiety.svg)](https://dev.to/supeergabs_/what-i-learned-about-anxiety-1ipa)
+[![What was your Dev Journey?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_was_your_Dev_Journey_.svg)](https://dev.to/thekillerrex27/what-was-your-dev-journey-7dc)
+[![Do You Have a Forever Project?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Do_You_Have_a_Forever_Project_.svg)](https://dev.to/solidi/do-you-have-a-forever-project-kpk)
+[![VS Code or VS Codium - which should I use?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/VS_Code_or_VS_Codium_-_which_should_I_use_.svg)](https://dev.to/robole/vs-code-or-vs-codium-which-should-i-use-53oj)
+[![use chart.js with node](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/use_chart.js_with_node.svg)](https://dev.to/srcmgra/use-chartjs-with-node-1e2k)
+[![What makes DevOps engineers so much more money than software developers? Are their daily responsibilities really so complicated?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_makes_DevOps_engineers_so_much_more_money_than_software_developers__Are_their_daily_responsibilities_really_so_complicated_.svg)](https://dev.to/taniazhydkova/what-makes-devops-engineers-so-much-more-money-than-software-developers-are-their-daily-responsibilities-really-so-complicated-mn9)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, May 31, 2022 at 12:13:55 AM
+> Last updated: Tuesday, May 31, 2022 at 6:20:15 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, May 31, 2022 at 12:13:59 AM
+> Last updated: Tuesday, May 31, 2022 at 6:20:20 AM
 
 > Showing 5 of 30 posts.
 
+[![Tilepieces](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Tilepieces.svg)](https://tilepieces.net/index.html)
+[![Fast web applications using Astro](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Fast_web_applications_using_Astro.svg)](https://blog.openreplay.com/fast-web-applications-using-astro)
+[![GitHub - tolgee/tolgee-platform: Tolgee is translation management cloud platform made for translating modern web applications. It works great with JS frameworks like React, Angular, Vue and others.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_tolgee_tolgee-platform__Tolgee_is_translation_management_cloud_platform_made_for_translating_modern_web_applications._It_works_great_with_JS_frameworks_like_React__Angular__Vue_and_others..svg)](https://github.com/tolgee/tolgee-platform)
 [![Version 2.9 release notes | FoalTS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Version_2.9_release_notes___FoalTS.svg)](https://foalts.org/blog/2022/05/29/version-2.9-release-notes)
 [![API with NestJS #63. Relationships with PostgreSQL and MikroORM](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__63._Relationships_with_PostgreSQL_and_MikroORM.svg)](http://wanago.io/2022/05/30/api-nestjs-relationships-postgresql-mikroorm/)
-[![How I Built an "OS" with React for My Portfolio Website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_I_Built_an__OS__with_React_for_My_Portfolio_Website.svg)](https://www.youtube.com/watch?v=JLgsiOKhz9Q)
-[![How to Make an iOS App For Your Business? [CHECKLIST]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Make_an_iOS_App_For_Your_Business__[CHECKLIST].svg)](https://www.ideamotive.co/blog/how-to-make-an-ios-app-for-your-business)
-[![
-Building a Decentralized Blockchain App with Vue and Tezos
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Building_a_Decentralized_Blockchain_App_with_Vue_and_Tezos_.svg)](
-https://blog.openreplay.com/building-a-decentralized-app-with-vue-and-tezos
-)
 
 
 <!-- post-list:end -->
