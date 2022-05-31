@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, May 30, 2022 at 6:54:28 PM
+> Last updated: Tuesday, May 31, 2022 at 12:13:52 AM
 
 > Showing 5 of 12 posts.
 
-[![The Base64 challenge](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Base64_challenge.svg)](https://dev.to/chad_r_stewart/the-base64-challenge-4adh)
-[![How do you use "find" vs "get" prefix?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_do_you_use__find__vs__get__prefix_.svg)](https://dev.to/attkinsonjakob/how-do-you-use-find-vs-get-prefix-5g8n)
-[![How to Approach Every Programming Interview Regardless of the Topic](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Approach_Every_Programming_Interview_Regardless_of_the_Topic.svg)](https://dev.to/dannyhabibs/how-to-approach-every-programming-interview-regardless-of-the-topic-30n5)
-[![5 basic styled-components skills I’ve learned](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_basic_styled-components_skills_I’ve_learned.svg)](https://dev.to/lada496/5-basic-styled-components-skills-ive-learned-1n46)
-[![Implementing health checks PT.1 - Asp.Net Core 6 configuration](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Implementing_health_checks_PT.1_-_Asp.Net_Core_6_configuration.svg)](https://dev.to/krusty93/implementing-health-checks-pt1-aspnet-core-6-configuration-6gp)
+[![JS Date-Time libraries you should use instead of traditional methods 😋](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JS_Date-Time_libraries_you_should_use_instead_of_traditional_methods_😋.svg)](https://dev.to/gulshanaggarwal/js-date-time-libraries-you-should-use-instead-of-traditional-methods-1lc4)
+[![Rpm Tabanlı Sistemlerde Kaptan Kurulumu](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Rpm_Tabanlı_Sistemlerde_Kaptan_Kurulumu.svg)](https://dev.to/aciklab/rpm-tabanli-sistemlerde-kaptan-kurulumu-51kc)
+[![Speech commander terminal](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Speech_commander_terminal.svg)](https://dev.to/dhanush9952/speech-commander-terminal-5d7b)
+[![Writing and Testing a stdin script with TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Writing_and_Testing_a_stdin_script_with_TypeScript.svg)](https://dev.to/viglioni/writing-and-testing-a-stdin-script-with-typescript-57mb)
+[![What I learned about anxiety](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_I_learned_about_anxiety.svg)](https://dev.to/supeergabs_/what-i-learned-about-anxiety-1ipa)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, May 30, 2022 at 6:54:32 PM
+> Last updated: Tuesday, May 31, 2022 at 12:13:55 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, May 30, 2022 at 6:54:38 PM
+> Last updated: Tuesday, May 31, 2022 at 12:13:59 AM
 
 > Showing 5 of 30 posts.
 
