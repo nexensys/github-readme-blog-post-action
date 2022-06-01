@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, June 1, 2022 at 6:22:01 AM
+> Last updated: Wednesday, June 1, 2022 at 12:13:00 PM
 
 > Showing 5 of 12 posts.
 
-[![Hoisting in JavaScript 🔥 😍[Visually Explained]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Hoisting_in_JavaScript_🔥_😍[Visually_Explained].svg)](https://dev.to/narottam04/hoisting-in-javascript-visually-explained-cfa)
-[![How we used Go 1.18 when designing our Identifiers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_we_used_Go_1.18_when_designing_our_Identifiers.svg)](https://dev.to/encore/how-we-used-go-118-when-designing-our-identifiers-597h)
-[![Write and deploy blogs in seconds with comments support](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Write_and_deploy_blogs_in_seconds_with_comments_support.svg)](https://dev.to/kekdadabest/write-and-deploy-blogs-in-seconds-with-comments-support-18h1)
-[![What is the best way to prepare for the MS-900 Exam?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_the_best_way_to_prepare_for_the_MS-900_Exam_.svg)](https://dev.to/makendrang/what-is-the-best-way-to-prepare-for-the-ms-900-exam-562b)
-[![tracing writes and locks in YugabyteDB](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/tracing_writes_and_locks_in_YugabyteDB.svg)](https://dev.to/franckpachot/tracing-writes-and-locks-in-yugabytedb-3gbh)
+[![CSS isn't magic. All nuances about the position property](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CSS_isn't_magic._All_nuances_about_the_position_property.svg)](https://dev.to/melnik909/css-isnt-magic-all-nuances-about-the-position-property-53fa)
+[![Celebrating LGBTQIA+ Pride with donations to the Marsha P. Johnson Institute 💖](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Celebrating_LGBTQIA+_Pride_with_donations_to_the_Marsha_P._Johnson_Institute_💖.svg)](https://dev.to/devteam/celebrating-lgbtqia-pride-with-donations-to-the-marsha-p-johnson-institute-33aj)
+[![The optimal approach to find the nth Fibonacci number using recursion in Java](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_optimal_approach_to_find_the_nth_Fibonacci_number_using_recursion_in_Java.svg)](https://dev.to/sumant4ssm/the-optimal-approach-to-find-the-nth-fibonacci-number-using-recursion-in-java-1lmf)
+[![How to work effectively with strings in JS!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_work_effectively_with_strings_in_JS!.svg)](https://dev.to/kai_wenzel/how-to-work-effectively-with-strings-in-js-25ko)
+[![Getting Along with Your Co-workers... All of Them 🎙](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_Along_with_Your_Co-workers..._All_of_Them_🎙.svg)](https://dev.to/devteam/getting-along-with-your-co-workers-all-of-them-hlk)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, June 1, 2022 at 6:22:03 AM
+> Last updated: Wednesday, June 1, 2022 at 12:13:04 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, June 1, 2022 at 6:22:06 AM
+> Last updated: Wednesday, June 1, 2022 at 12:13:08 PM
 
 > Showing 5 of 30 posts.
 
+[![Supabase tutorial: Building fast data visualization apps - Cube Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Supabase_tutorial__Building_fast_data_visualization_apps_-_Cube_Blog.svg)](https://cube.dev/blog/supabase-tutorial-fast-data-visualization-apps)
+[![What is Edge Compute? It's kind of like knitting dog hats](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_is_Edge_Compute__It's_kind_of_like_knitting_dog_hats.svg)](https://austingil.com/edge-compute-knitted-dog-hats/)
 [![QR Codes generation with React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/QR_Codes_generation_with_React.svg)](https://blog.openreplay.com/qr-codes-generation-with-react)
 [![React v18.0 – React Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_v18.0_–_React_Blog.svg)](https://reactjs.org/blog/2022/03/29/react-v18.html)
 [![GitHub - gkiely/flux-machine: Spec compliant finite state machines using JSX and chainable methods](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_gkiely_flux-machine__Spec_compliant_finite_state_machines_using_JSX_and_chainable_methods.svg)](https://github.com/gkiely/flux-machine)
-[![Tilepieces](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Tilepieces.svg)](https://tilepieces.net/index.html)
-[![Fast web applications using Astro](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Fast_web_applications_using_Astro.svg)](https://blog.openreplay.com/fast-web-applications-using-astro)
 
 
 <!-- post-list:end -->
