@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, June 1, 2022 at 12:18:30 AM
+> Last updated: Wednesday, June 1, 2022 at 6:22:01 AM
 
 > Showing 5 of 12 posts.
 
-[![My LinkedIn Account got restricted](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_LinkedIn_Account_got_restricted.svg)](https://dev.to/krishnaagarwal/my-linkedin-account-got-restricted-1o6p)
-[![How web browsers work - the render tree (part 7, with illustrations)💻 ⏳](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_web_browsers_work_-_the_render_tree_(part_7__with_illustrations)💻_⏳.svg)](https://dev.to/arikaturika/how-web-browsers-work-the-render-tree-part-7-with-illustrations-24h3)
-[![Flutter Web and Rive Animation Tutorial](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Flutter_Web_and_Rive_Animation_Tutorial.svg)](https://dev.to/suhavi/flutter-web-and-rive-animation-tutorial-5f5k)
-[![It doesn't matter who you are. What you can do is the only thing that matters](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/It_doesn't_matter_who_you_are._What_you_can_do_is_the_only_thing_that_matters.svg)](https://dev.to/criscmd/it-doesnt-matter-who-you-are-what-you-can-do-is-the-only-thing-that-matters-2dh1)
-[![How I made a really fast Link Shortener that runs on the edge](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_I_made_a_really_fast_Link_Shortener_that_runs_on_the_edge.svg)](https://dev.to/nexxeln/how-i-made-a-really-fast-link-shortener-that-runs-on-the-edge-2gm)
+[![Hoisting in JavaScript 🔥 😍[Visually Explained]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Hoisting_in_JavaScript_🔥_😍[Visually_Explained].svg)](https://dev.to/narottam04/hoisting-in-javascript-visually-explained-cfa)
+[![How we used Go 1.18 when designing our Identifiers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_we_used_Go_1.18_when_designing_our_Identifiers.svg)](https://dev.to/encore/how-we-used-go-118-when-designing-our-identifiers-597h)
+[![Write and deploy blogs in seconds with comments support](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Write_and_deploy_blogs_in_seconds_with_comments_support.svg)](https://dev.to/kekdadabest/write-and-deploy-blogs-in-seconds-with-comments-support-18h1)
+[![What is the best way to prepare for the MS-900 Exam?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_the_best_way_to_prepare_for_the_MS-900_Exam_.svg)](https://dev.to/makendrang/what-is-the-best-way-to-prepare-for-the-ms-900-exam-562b)
+[![tracing writes and locks in YugabyteDB](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/tracing_writes_and_locks_in_YugabyteDB.svg)](https://dev.to/franckpachot/tracing-writes-and-locks-in-yugabytedb-3gbh)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, June 1, 2022 at 12:18:33 AM
+> Last updated: Wednesday, June 1, 2022 at 6:22:03 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, June 1, 2022 at 12:18:36 AM
+> Last updated: Wednesday, June 1, 2022 at 6:22:06 AM
 
 > Showing 5 of 30 posts.
 
+[![QR Codes generation with React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/QR_Codes_generation_with_React.svg)](https://blog.openreplay.com/qr-codes-generation-with-react)
 [![React v18.0 – React Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_v18.0_–_React_Blog.svg)](https://reactjs.org/blog/2022/03/29/react-v18.html)
 [![GitHub - gkiely/flux-machine: Spec compliant finite state machines using JSX and chainable methods](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_gkiely_flux-machine__Spec_compliant_finite_state_machines_using_JSX_and_chainable_methods.svg)](https://github.com/gkiely/flux-machine)
 [![Tilepieces](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Tilepieces.svg)](https://tilepieces.net/index.html)
 [![Fast web applications using Astro](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Fast_web_applications_using_Astro.svg)](https://blog.openreplay.com/fast-web-applications-using-astro)
-[![GitHub - tolgee/tolgee-platform: Tolgee is translation management cloud platform made for translating modern web applications. It works great with JS frameworks like React, Angular, Vue and others.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_tolgee_tolgee-platform__Tolgee_is_translation_management_cloud_platform_made_for_translating_modern_web_applications._It_works_great_with_JS_frameworks_like_React__Angular__Vue_and_others..svg)](https://github.com/tolgee/tolgee-platform)
 
 
 <!-- post-list:end -->
