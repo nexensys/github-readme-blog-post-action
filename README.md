@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, June 1, 2022 at 6:58:36 PM
+> Last updated: Thursday, June 2, 2022 at 12:13:39 AM
 
 > Showing 5 of 12 posts.
 
-[![Are native web components useful?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Are_native_web_components_useful_.svg)](https://dev.to/matiasdandrea/are-native-web-components-useful-18kd)
-[![[Asia + Europe] No-Code Experiments for WebPerf & more on WebPageTest LIVE! on June 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/[Asia_+_Europe]_No-Code_Experiments_for_WebPerf___more_on_WebPageTest_LIVE!_on_June_2.svg)](https://dev.to/jeenaj/no-code-experiments-for-webperf-more-on-webpagetest-live-on-june-2-36b5)
-[![How to Rename Git branch locally and Remotely](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Rename_Git_branch_locally_and_Remotely.svg)](https://dev.to/unkletayo/how-to-rename-git-branch-locally-and-remotely-9af)
-[![JavaScript: Unary Operators](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript__Unary_Operators.svg)](https://dev.to/thatgirlvictoria/javascript-unary-operators-43dk)
-[![Python daily exercise 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Python_daily_exercise_1.svg)](https://dev.to/mathewchan/daily-exercise-194b)
+[![Create Rock-Paper-Scissor Game in Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_Rock-Paper-Scissor_Game_in_Python.svg)](https://dev.to/krishnaagarwal/create-rock-paper-scissor-game-in-python-202m)
+[![Creating a course is a good idea?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_a_course_is_a_good_idea_.svg)](https://dev.to/yourmdsarfaraj/creating-a-course-is-a-good-idea-p1h)
+[![📢 IT'S HAPPENING! Mint NFT's for your OSS contributions! Aviyel is Now LIVE on product hunt!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/📢_IT'S_HAPPENING!_Mint_NFT's_for_your_OSS_contributions!_Aviyel_is_Now_LIVE_on_product_hunt!.svg)](https://dev.to/aviyel/big-announcement-omg-its-happening-aviyel-is-live-on-product-hunt-186h)
+[![Understanding JWT](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_JWT.svg)](https://dev.to/_mohanmurali/understanding-jwt-2728)
+[![LeetCode :-Implement strStr() with Solution](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/LeetCode__-Implement_strStr()_with_Solution.svg)](https://dev.to/rohan2596/leetcode-implement-strstr-with-solution-474a)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, June 1, 2022 at 6:58:40 PM
+> Last updated: Thursday, June 2, 2022 at 12:13:42 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, June 1, 2022 at 6:58:44 PM
+> Last updated: Thursday, June 2, 2022 at 12:13:44 AM
 
 > Showing 5 of 30 posts.
 
