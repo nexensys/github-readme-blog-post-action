@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, June 2, 2022 at 6:21:09 AM
+> Last updated: Thursday, June 2, 2022 at 12:12:37 PM
 
 > Showing 5 of 12 posts.
 
-[![React useState with History](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_useState_with_History.svg)](https://dev.to/zirkelc/react-usestate-with-history-2m5f)
-[![Building an Uber Eats Clone](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_an_Uber_Eats_Clone.svg)](https://dev.to/formance/building-an-uber-eats-clone-38j8)
-[![what do you do when you are on bench?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/what_do_you_do_when_you_are_on_bench_.svg)](https://dev.to/adarshgoyal/what-do-you-do-when-you-are-on-bench-1l9)
-[![React-query Cache in Local Storage with persistQueryClient](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React-query_Cache_in_Local_Storage_with_persistQueryClient.svg)](https://dev.to/rodionchachura/react-query-cache-in-local-storage-with-persistqueryclient-3ifk)
-[![I am looking for a technical cofounder.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_am_looking_for_a_technical_cofounder..svg)](https://dev.to/sologub/i-am-looking-for-a-technical-cofounder-8j6)
+[![Web site checklist - for developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Web_site_checklist_-_for_developers.svg)](https://dev.to/andreasbergqvist/web-site-checklist-for-developers-11ff)
+[![Application scaffolding with Laravel Blueprint](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Application_scaffolding_with_Laravel_Blueprint.svg)](https://dev.to/alphaolomi/application-scaffolding-with-laravel-blueprint-2f96)
+[![Join me in the #100DaysOfWeb3 challenge](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Join_me_in_the__100DaysOfWeb3_challenge.svg)](https://dev.to/itsrakesh/join-me-in-the-100daysofweb3-challenge-jjk)
+[![Adding Slog Logger to Actix Web](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Adding_Slog_Logger_to_Actix_Web.svg)](https://dev.to/chaudharypraveen98/adding-slog-logger-to-actix-web-2332)
+[![Consumindo GraphQL com Elixir?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Consumindo_GraphQL_com_Elixir_.svg)](https://dev.to/wlsf/consumindo-graphql-com-elixir-2pp)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, June 2, 2022 at 6:21:11 AM
+> Last updated: Thursday, June 2, 2022 at 12:12:41 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, June 2, 2022 at 6:21:13 AM
+> Last updated: Thursday, June 2, 2022 at 12:12:46 PM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - oslabs-beta/Deno-Redlock: Redlock algorithm for Deno](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_oslabs-beta_Deno-Redlock__Redlock_algorithm_for_Deno.svg)](https://github.com/oslabs-beta/Deno-Redlock)
+[![
+svve11 - an open source library of components designed with accessibility as a priority
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_svve11_-_an_open_source_library_of_components_designed_with_accessibility_as_a_priority_.svg)](
+https://svve11.io/
+)
 [![GitHub - yessGlory17/programmer-browser: A fast-searching and space-saving browser specially designed for programmers.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_yessGlory17_programmer-browser__A_fast-searching_and_space-saving_browser_specially_designed_for_programmers..svg)](https://github.com/yessGlory17/programmer-browser)
 [![GitHub - coreui/coreui-react: CoreUI React.js UI Components. CoreUI for React.js replaces and extends the Bootstrap javascript. Components have been built from scratch as true React.js hook components, without jQuery and unneeded dependencies.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_coreui_coreui-react__CoreUI_React.js_UI_Components._CoreUI_for_React.js_replaces_and_extends_the_Bootstrap_javascript._Components_have_been_built_from_scratch_as_true_React.js_hook_components__without_jQuery_and_unneeded_dependencies..svg)](https://github.com/coreui/coreui-react)
 [![Supabase tutorial: Building fast data visualization apps - Cube Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Supabase_tutorial__Building_fast_data_visualization_apps_-_Cube_Blog.svg)](https://cube.dev/blog/supabase-tutorial-fast-data-visualization-apps)
-[![QR Codes generation with React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/QR_Codes_generation_with_React.svg)](https://blog.openreplay.com/qr-codes-generation-with-react)
-[![React v18.0 – React Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_v18.0_–_React_Blog.svg)](https://reactjs.org/blog/2022/03/29/react-v18.html)
 
 
 <!-- post-list:end -->
