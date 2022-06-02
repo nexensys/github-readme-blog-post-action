@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, June 2, 2022 at 12:13:39 AM
+> Last updated: Thursday, June 2, 2022 at 6:21:09 AM
 
 > Showing 5 of 12 posts.
 
-[![Create Rock-Paper-Scissor Game in Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_Rock-Paper-Scissor_Game_in_Python.svg)](https://dev.to/krishnaagarwal/create-rock-paper-scissor-game-in-python-202m)
-[![Creating a course is a good idea?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_a_course_is_a_good_idea_.svg)](https://dev.to/yourmdsarfaraj/creating-a-course-is-a-good-idea-p1h)
-[![📢 IT'S HAPPENING! Mint NFT's for your OSS contributions! Aviyel is Now LIVE on product hunt!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/📢_IT'S_HAPPENING!_Mint_NFT's_for_your_OSS_contributions!_Aviyel_is_Now_LIVE_on_product_hunt!.svg)](https://dev.to/aviyel/big-announcement-omg-its-happening-aviyel-is-live-on-product-hunt-186h)
-[![Understanding JWT](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_JWT.svg)](https://dev.to/_mohanmurali/understanding-jwt-2728)
-[![LeetCode :-Implement strStr() with Solution](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/LeetCode__-Implement_strStr()_with_Solution.svg)](https://dev.to/rohan2596/leetcode-implement-strstr-with-solution-474a)
+[![React useState with History](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_useState_with_History.svg)](https://dev.to/zirkelc/react-usestate-with-history-2m5f)
+[![Building an Uber Eats Clone](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_an_Uber_Eats_Clone.svg)](https://dev.to/formance/building-an-uber-eats-clone-38j8)
+[![what do you do when you are on bench?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/what_do_you_do_when_you_are_on_bench_.svg)](https://dev.to/adarshgoyal/what-do-you-do-when-you-are-on-bench-1l9)
+[![React-query Cache in Local Storage with persistQueryClient](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React-query_Cache_in_Local_Storage_with_persistQueryClient.svg)](https://dev.to/rodionchachura/react-query-cache-in-local-storage-with-persistqueryclient-3ifk)
+[![I am looking for a technical cofounder.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_am_looking_for_a_technical_cofounder..svg)](https://dev.to/sologub/i-am-looking-for-a-technical-cofounder-8j6)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, June 2, 2022 at 12:13:42 AM
+> Last updated: Thursday, June 2, 2022 at 6:21:11 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, June 2, 2022 at 12:13:44 AM
+> Last updated: Thursday, June 2, 2022 at 6:21:13 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - yessGlory17/programmer-browser: A fast-searching and space-saving browser specially designed for programmers.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_yessGlory17_programmer-browser__A_fast-searching_and_space-saving_browser_specially_designed_for_programmers..svg)](https://github.com/yessGlory17/programmer-browser)
+[![GitHub - coreui/coreui-react: CoreUI React.js UI Components. CoreUI for React.js replaces and extends the Bootstrap javascript. Components have been built from scratch as true React.js hook components, without jQuery and unneeded dependencies.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_coreui_coreui-react__CoreUI_React.js_UI_Components._CoreUI_for_React.js_replaces_and_extends_the_Bootstrap_javascript._Components_have_been_built_from_scratch_as_true_React.js_hook_components__without_jQuery_and_unneeded_dependencies..svg)](https://github.com/coreui/coreui-react)
 [![Supabase tutorial: Building fast data visualization apps - Cube Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Supabase_tutorial__Building_fast_data_visualization_apps_-_Cube_Blog.svg)](https://cube.dev/blog/supabase-tutorial-fast-data-visualization-apps)
 [![QR Codes generation with React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/QR_Codes_generation_with_React.svg)](https://blog.openreplay.com/qr-codes-generation-with-react)
 [![React v18.0 – React Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_v18.0_–_React_Blog.svg)](https://reactjs.org/blog/2022/03/29/react-v18.html)
-[![GitHub - gkiely/flux-machine: Spec compliant finite state machines using JSX and chainable methods](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_gkiely_flux-machine__Spec_compliant_finite_state_machines_using_JSX_and_chainable_methods.svg)](https://github.com/gkiely/flux-machine)
-[![Tilepieces](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Tilepieces.svg)](https://tilepieces.net/index.html)
 
 
 <!-- post-list:end -->
