@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, June 3, 2022 at 12:13:02 AM
+> Last updated: Friday, June 3, 2022 at 6:17:46 AM
 
 > Showing 5 of 12 posts.
 
-[![Finding the Way with useNavigate() in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Finding_the_Way_with_useNavigate()_in_React.svg)](https://dev.to/penelopedurand/finding-the-way-with-usenavigate-in-react-2632)
-[![A11Y 101: Buttons vs links](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A11Y_101__Buttons_vs_links.svg)](https://dev.to/dailydevtips1/a11y-101-buttons-vs-links-4hlp)
-[![Want to Join a Rapid Growth Satellite Startup?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Want_to_Join_a_Rapid_Growth_Satellite_Startup_.svg)](https://dev.to/jgntruong/want-to-join-a-rapid-growth-satellite-startup-akb)
-[![#1470 Crazy mathematics. Shuffle the Array in place O(1);](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_1470_Crazy_mathematics._Shuffle_the_Array_in_place_O(1);.svg)](https://dev.to/rajeshroyal/1470-crazy-mathematics-shuffle-the-array-in-place-o1-35cg)
-[![Quem é Samantha?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Quem_é_Samantha_.svg)](https://dev.to/feministech/quem-e-samantha-3ig0)
+[![U.S. Department of Commerce Support <!-- post-list:start --> Million to Guymon Based Businesses](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/U.S._Department_of_Commerce_Support_<!-- post-list:start -->_Million_to_Guymon_Based_Businesses.svg)](https://dev.to/pankajdas0909/us-department-of-commerce-support-1-million-to-guymon-based-businesses-3kgo)
+[![First Post : Lets connect on Github](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/First_Post___Lets_connect_on_Github.svg)](https://dev.to/aj019/first-post-lets-connect-on-github-53i5)
+[![IL y a des francais ici?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/IL_y_a_des_francais_ici_.svg)](https://dev.to/carleii_dev/il-y-a-des-francais-ici-5160)
+[![Portfolio Ideas - An open-source repository for inspiration](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Portfolio_Ideas_-_An_open-source_repository_for_inspiration.svg)](https://dev.to/eke/portfolio-ideas-an-open-source-repository-for-inspiration-4k6e)
+[![My favorite Dart features - And why I love them](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_favorite_Dart_features_-_And_why_I_love_them.svg)](https://dev.to/nombrekeff/my-favorite-dart-features-and-why-i-love-them-10mc)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, June 3, 2022 at 12:13:05 AM
+> Last updated: Friday, June 3, 2022 at 6:17:49 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, June 3, 2022 at 12:13:07 AM
+> Last updated: Friday, June 3, 2022 at 6:17:51 AM
 
 > Showing 5 of 30 posts.
 
+[![
+Web3 Authentication with Next.js, React, and Moralis
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Web3_Authentication_with_Next.js__React__and_Moralis_.svg)](
+https://blog.openreplay.com/web3-authentication-with-next-js-react-and-moralis
+)
 [![
 Today we launch Svelvet
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Today_we_launch_Svelvet_.svg)](
@@ -59,7 +64,6 @@ svve11 - an open source library of components designed with accessibility as a p
 https://svve11.io/
 )
 [![GitHub - yessGlory17/programmer-browser: A fast-searching and space-saving browser specially designed for programmers.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_yessGlory17_programmer-browser__A_fast-searching_and_space-saving_browser_specially_designed_for_programmers..svg)](https://github.com/yessGlory17/programmer-browser)
-[![GitHub - coreui/coreui-react: CoreUI React.js UI Components. CoreUI for React.js replaces and extends the Bootstrap javascript. Components have been built from scratch as true React.js hook components, without jQuery and unneeded dependencies.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_coreui_coreui-react__CoreUI_React.js_UI_Components._CoreUI_for_React.js_replaces_and_extends_the_Bootstrap_javascript._Components_have_been_built_from_scratch_as_true_React.js_hook_components__without_jQuery_and_unneeded_dependencies..svg)](https://github.com/coreui/coreui-react)
 
 
 <!-- post-list:end -->
