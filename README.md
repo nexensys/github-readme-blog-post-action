@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, June 2, 2022 at 12:12:37 PM
+> Last updated: Thursday, June 2, 2022 at 6:44:06 PM
 
 > Showing 5 of 12 posts.
 
-[![Web site checklist - for developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Web_site_checklist_-_for_developers.svg)](https://dev.to/andreasbergqvist/web-site-checklist-for-developers-11ff)
-[![Application scaffolding with Laravel Blueprint](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Application_scaffolding_with_Laravel_Blueprint.svg)](https://dev.to/alphaolomi/application-scaffolding-with-laravel-blueprint-2f96)
-[![Join me in the #100DaysOfWeb3 challenge](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Join_me_in_the__100DaysOfWeb3_challenge.svg)](https://dev.to/itsrakesh/join-me-in-the-100daysofweb3-challenge-jjk)
-[![Adding Slog Logger to Actix Web](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Adding_Slog_Logger_to_Actix_Web.svg)](https://dev.to/chaudharypraveen98/adding-slog-logger-to-actix-web-2332)
-[![Consumindo GraphQL com Elixir?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Consumindo_GraphQL_com_Elixir_.svg)](https://dev.to/wlsf/consumindo-graphql-com-elixir-2pp)
+[![How to solve: Plugin "react" was conflicted between ".eslintrc »](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_solve__Plugin__react__was_conflicted_between__.eslintrc_».svg)](https://dev.to/crisprg/how-to-solve-plugin-react-was-conflicted-5fjc)
+[![I made two new web tools with React and Django, and here's my experience!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_made_two_new_web_tools_with_React_and_Django__and_here's_my_experience!.svg)](https://dev.to/developerbishwas/i-made-two-new-web-tools-with-react-and-django-and-heres-my-experience-5d99)
+[![June 2nd, 2022: What did you learn this week?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/June_2nd__2022__What_did_you_learn_this_week_.svg)](https://dev.to/nickytonline/june-2nd-2022-what-did-you-learn-this-week-5507)
+[![The Quest to Build the Perfect Bot w/ Ubisoft's Joshua Romoff](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Quest_to_Build_the_Perfect_Bot_w__Ubisoft's_Joshua_Romoff.svg)](https://dev.to/linearb/the-quest-to-build-the-perfect-bot-w-ubisofts-joshua-romoff-ek1)
+[![Redis: Data Caching](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Redis__Data_Caching.svg)](https://dev.to/drsimplegraffiti/redis-data-caching-3lla)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, June 2, 2022 at 12:12:41 PM
+> Last updated: Thursday, June 2, 2022 at 6:44:09 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, June 2, 2022 at 12:12:46 PM
+> Last updated: Thursday, June 2, 2022 at 6:44:11 PM
 
 > Showing 5 of 30 posts.
 
+[![
+Today we launch Svelvet
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Today_we_launch_Svelvet_.svg)](
+http://svelvet.io/
+)
 [![GitHub - oslabs-beta/Deno-Redlock: Redlock algorithm for Deno](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_oslabs-beta_Deno-Redlock__Redlock_algorithm_for_Deno.svg)](https://github.com/oslabs-beta/Deno-Redlock)
 [![
 svve11 - an open source library of components designed with accessibility as a priority
@@ -55,7 +60,6 @@ https://svve11.io/
 )
 [![GitHub - yessGlory17/programmer-browser: A fast-searching and space-saving browser specially designed for programmers.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_yessGlory17_programmer-browser__A_fast-searching_and_space-saving_browser_specially_designed_for_programmers..svg)](https://github.com/yessGlory17/programmer-browser)
 [![GitHub - coreui/coreui-react: CoreUI React.js UI Components. CoreUI for React.js replaces and extends the Bootstrap javascript. Components have been built from scratch as true React.js hook components, without jQuery and unneeded dependencies.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_coreui_coreui-react__CoreUI_React.js_UI_Components._CoreUI_for_React.js_replaces_and_extends_the_Bootstrap_javascript._Components_have_been_built_from_scratch_as_true_React.js_hook_components__without_jQuery_and_unneeded_dependencies..svg)](https://github.com/coreui/coreui-react)
-[![Supabase tutorial: Building fast data visualization apps - Cube Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Supabase_tutorial__Building_fast_data_visualization_apps_-_Cube_Blog.svg)](https://cube.dev/blog/supabase-tutorial-fast-data-visualization-apps)
 
 
 <!-- post-list:end -->
