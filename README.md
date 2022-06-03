@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, June 3, 2022 at 6:17:46 AM
+> Last updated: Friday, June 3, 2022 at 12:14:16 PM
 
 > Showing 5 of 12 posts.
 
-[![U.S. Department of Commerce Support <!-- post-list:start --> Million to Guymon Based Businesses](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/U.S._Department_of_Commerce_Support_<!-- post-list:start -->_Million_to_Guymon_Based_Businesses.svg)](https://dev.to/pankajdas0909/us-department-of-commerce-support-1-million-to-guymon-based-businesses-3kgo)
-[![First Post : Lets connect on Github](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/First_Post___Lets_connect_on_Github.svg)](https://dev.to/aj019/first-post-lets-connect-on-github-53i5)
-[![IL y a des francais ici?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/IL_y_a_des_francais_ici_.svg)](https://dev.to/carleii_dev/il-y-a-des-francais-ici-5160)
-[![Portfolio Ideas - An open-source repository for inspiration](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Portfolio_Ideas_-_An_open-source_repository_for_inspiration.svg)](https://dev.to/eke/portfolio-ideas-an-open-source-repository-for-inspiration-4k6e)
-[![My favorite Dart features - And why I love them](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_favorite_Dart_features_-_And_why_I_love_them.svg)](https://dev.to/nombrekeff/my-favorite-dart-features-and-why-i-love-them-10mc)
+[![OpenAPI Flaws - Required in Schemas](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/OpenAPI_Flaws_-_Required_in_Schemas.svg)](https://dev.to/vsapronov/openapi-flaws-required-in-schemas-m8b)
+[![What's the deal with algorithms?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What's_the_deal_with_algorithms_.svg)](https://dev.to/jgarberosource/whats-the-deal-with-algorithms-2jec)
+[![Nullish Coalescing Operator(??)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Nullish_Coalescing_Operator(__).svg)](https://dev.to/sahiba0915/nullish-coalescing-operator-452i)
+[![Making npm Packages with SvelteKit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Making_npm_Packages_with_SvelteKit.svg)](https://dev.to/spences10/making-npm-packages-with-sveltekit-4dp)
+[![Appwrite Community Report #8](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Appwrite_Community_Report__8.svg)](https://dev.to/appwrite/appwrite-community-report-8-3m02)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, June 3, 2022 at 6:17:49 AM
+> Last updated: Friday, June 3, 2022 at 12:14:20 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, June 3, 2022 at 6:17:51 AM
+> Last updated: Friday, June 3, 2022 at 12:14:24 PM
 
 > Showing 5 of 30 posts.
 
-[![
-Web3 Authentication with Next.js, React, and Moralis
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Web3_Authentication_with_Next.js__React__and_Moralis_.svg)](
-https://blog.openreplay.com/web3-authentication-with-next-js-react-and-moralis
-)
+[![Web3 Authentication with Next.js, React, and Moralis](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Web3_Authentication_with_Next.js__React__and_Moralis.svg)](https://blog.openreplay.com/web3-authentication-with-next-js-react-and-moralis)
 [![
 Today we launch Svelvet
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Today_we_launch_Svelvet_.svg)](
