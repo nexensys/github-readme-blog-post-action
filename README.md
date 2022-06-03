@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, June 2, 2022 at 6:44:06 PM
+> Last updated: Friday, June 3, 2022 at 12:13:02 AM
 
 > Showing 5 of 12 posts.
 
-[![How to solve: Plugin "react" was conflicted between ".eslintrc »](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_solve__Plugin__react__was_conflicted_between__.eslintrc_».svg)](https://dev.to/crisprg/how-to-solve-plugin-react-was-conflicted-5fjc)
-[![I made two new web tools with React and Django, and here's my experience!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_made_two_new_web_tools_with_React_and_Django__and_here's_my_experience!.svg)](https://dev.to/developerbishwas/i-made-two-new-web-tools-with-react-and-django-and-heres-my-experience-5d99)
-[![June 2nd, 2022: What did you learn this week?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/June_2nd__2022__What_did_you_learn_this_week_.svg)](https://dev.to/nickytonline/june-2nd-2022-what-did-you-learn-this-week-5507)
-[![The Quest to Build the Perfect Bot w/ Ubisoft's Joshua Romoff](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Quest_to_Build_the_Perfect_Bot_w__Ubisoft's_Joshua_Romoff.svg)](https://dev.to/linearb/the-quest-to-build-the-perfect-bot-w-ubisofts-joshua-romoff-ek1)
-[![Redis: Data Caching](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Redis__Data_Caching.svg)](https://dev.to/drsimplegraffiti/redis-data-caching-3lla)
+[![Finding the Way with useNavigate() in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Finding_the_Way_with_useNavigate()_in_React.svg)](https://dev.to/penelopedurand/finding-the-way-with-usenavigate-in-react-2632)
+[![A11Y 101: Buttons vs links](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A11Y_101__Buttons_vs_links.svg)](https://dev.to/dailydevtips1/a11y-101-buttons-vs-links-4hlp)
+[![Want to Join a Rapid Growth Satellite Startup?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Want_to_Join_a_Rapid_Growth_Satellite_Startup_.svg)](https://dev.to/jgntruong/want-to-join-a-rapid-growth-satellite-startup-akb)
+[![#1470 Crazy mathematics. Shuffle the Array in place O(1);](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_1470_Crazy_mathematics._Shuffle_the_Array_in_place_O(1);.svg)](https://dev.to/rajeshroyal/1470-crazy-mathematics-shuffle-the-array-in-place-o1-35cg)
+[![Quem é Samantha?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Quem_é_Samantha_.svg)](https://dev.to/feministech/quem-e-samantha-3ig0)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, June 2, 2022 at 6:44:09 PM
+> Last updated: Friday, June 3, 2022 at 12:13:05 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, June 2, 2022 at 6:44:11 PM
+> Last updated: Friday, June 3, 2022 at 12:13:07 AM
 
 > Showing 5 of 30 posts.
 
