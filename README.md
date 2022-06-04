@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, June 3, 2022 at 12:14:16 PM
+> Last updated: Friday, June 3, 2022 at 6:48:19 PM
 
 > Showing 5 of 12 posts.
 
-[![OpenAPI Flaws - Required in Schemas](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/OpenAPI_Flaws_-_Required_in_Schemas.svg)](https://dev.to/vsapronov/openapi-flaws-required-in-schemas-m8b)
-[![What's the deal with algorithms?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What's_the_deal_with_algorithms_.svg)](https://dev.to/jgarberosource/whats-the-deal-with-algorithms-2jec)
-[![Nullish Coalescing Operator(??)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Nullish_Coalescing_Operator(__).svg)](https://dev.to/sahiba0915/nullish-coalescing-operator-452i)
-[![Making npm Packages with SvelteKit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Making_npm_Packages_with_SvelteKit.svg)](https://dev.to/spences10/making-npm-packages-with-sveltekit-4dp)
-[![Appwrite Community Report #8](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Appwrite_Community_Report__8.svg)](https://dev.to/appwrite/appwrite-community-report-8-3m02)
+[![Here's How to Join Us at CodeLand 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Here's_How_to_Join_Us_at_CodeLand_2022.svg)](https://dev.to/codenewbieteam/heres-how-to-join-us-at-codeland-2022-35h3)
+[![Dynamic nested forms with Turbo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dynamic_nested_forms_with_Turbo.svg)](https://dev.to/pezza/dynamic-nested-forms-with-turbo-3786)
+[![Simple REST API Android App in Kotlin - Various HTTP Client Library Implementations](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Simple_REST_API_Android_App_in_Kotlin_-_Various_HTTP_Client_Library_Implementations.svg)](https://dev.to/vtsen/simple-rest-api-android-app-in-kotlin-various-http-client-library-implementations-11i2)
+[![Daily.dev, an article feed service developers need](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Daily.dev__an_article_feed_service_developers_need.svg)](https://dev.to/drift_dev/dailydev-an-article-feed-service-developers-need-2904)
+[![VIDEO: How to modularize your monolith frontend](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/VIDEO__How_to_modularize_your_monolith_frontend.svg)](https://dev.to/richkurtzman/video-how-to-modularize-your-monolith-frontend-15eg)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, June 3, 2022 at 12:14:20 PM
+> Last updated: Friday, June 3, 2022 at 6:48:22 PM
 
 > Showing 4 of 4 posts.
 
+[![Sure, you can make games in Word with JavaScript now.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Sure__you_can_make_games_in_Word_with_JavaScript_now..svg)](https://javascriptweekly.com/issues/592)
 [![Airbnb's uncommon route to faster JS builds](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Airbnb's_uncommon_route_to_faster_JS_builds.svg)](https://javascriptweekly.com/issues/591)
 [![Getting animated](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Getting_animated.svg)](https://javascriptweekly.com/issues/590)
 [![19 hours of D3.js??](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/19_hours_of_D3.js__.svg)](https://javascriptweekly.com/issues/589)
-[![A 2022 take on TodoMVC in plain JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/A_2022_take_on_TodoMVC_in_plain_JS.svg)](https://javascriptweekly.com/issues/588)
 
 
 ## Echo JS
@@ -43,23 +43,23 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, June 3, 2022 at 12:14:24 PM
+> Last updated: Friday, June 3, 2022 at 6:48:25 PM
 
 > Showing 5 of 30 posts.
 
+[![2D sketches with React and the Canvas API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/2D_sketches_with_React_and_the_Canvas_API.svg)](https://blog.openreplay.com/2d-sketches-with-react-and-the-canvas-api)
 [![Web3 Authentication with Next.js, React, and Moralis](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Web3_Authentication_with_Next.js__React__and_Moralis.svg)](https://blog.openreplay.com/web3-authentication-with-next-js-react-and-moralis)
 [![
 Today we launch Svelvet
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Today_we_launch_Svelvet_.svg)](
 http://svelvet.io/
 )
-[![GitHub - oslabs-beta/Deno-Redlock: Redlock algorithm for Deno](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_oslabs-beta_Deno-Redlock__Redlock_algorithm_for_Deno.svg)](https://github.com/oslabs-beta/Deno-Redlock)
+[![GitHub - oslabs-beta/Deno-Redlock: Deno's first lightweight, secure distributed lock manager utilizing the Redlock algorithm](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_oslabs-beta_Deno-Redlock__Deno's_first_lightweight__secure_distributed_lock_manager_utilizing_the_Redlock_algorithm.svg)](https://github.com/oslabs-beta/Deno-Redlock)
 [![
 svve11 - an open source library of components designed with accessibility as a priority
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_svve11_-_an_open_source_library_of_components_designed_with_accessibility_as_a_priority_.svg)](
 https://svve11.io/
 )
-[![GitHub - yessGlory17/programmer-browser: A fast-searching and space-saving browser specially designed for programmers.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_yessGlory17_programmer-browser__A_fast-searching_and_space-saving_browser_specially_designed_for_programmers..svg)](https://github.com/yessGlory17/programmer-browser)
 
 
 <!-- post-list:end -->
