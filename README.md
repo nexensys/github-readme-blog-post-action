@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, June 4, 2022 at 6:14:55 AM
+> Last updated: Saturday, June 4, 2022 at 12:11:07 PM
 
 > Showing 5 of 12 posts.
 
-[![Code 15 React Projects - Complete Course](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Code_15_React_Projects_-_Complete_Course.svg)](https://dev.to/wenura/code-15-react-projects-complete-course-2b28)
-[![Preview File before uploading in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Preview_File_before_uploading_in_React.svg)](https://dev.to/j471n/preview-file-before-uploading-in-react-27kn)
-[![Side project: Life-Advise Web App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Side_project__Life-Advise_Web_App.svg)](https://dev.to/osam1010/side-project-life-advise-web-app-34e0)
-[![What is your favorite music when you are programming?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_your_favorite_music_when_you_are_programming_.svg)](https://dev.to/naddurkostia/what-is-your-favorite-music-when-you-are-programming-749)
-[![Ruby cryptographic gems](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ruby_cryptographic_gems.svg)](https://dev.to/andrepiske/ruby-cryptographic-gems-1p5o)
+[![Build Cooking Website Using Badaso](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_Cooking_Website_Using_Badaso.svg)](https://dev.to/huiralb/build-cooking-website-using-badaso-2pcb)
+[![JavaScript - JSON](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_-_JSON.svg)](https://dev.to/justtanwa/javascript-json-510f)
+[![How to generate Random Flags of Countries ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_generate_Random_Flags_of_Countries__.svg)](https://dev.to/cbmgit/how-to-generate-random-flags-of-countries--42kd)
+[![Coding and ADHD - Can't Remember](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Coding_and_ADHD_-_Can't_Remember.svg)](https://dev.to/abbeyperini/coding-and-adhd-cant-remember-30b4)
+[![What are the first steps you take when starting a new thing from scratch?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_are_the_first_steps_you_take_when_starting_a_new_thing_from_scratch_.svg)](https://dev.to/brunoj/what-are-the-first-steps-you-take-when-starting-a-new-thing-from-scratch-2mlo)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, June 4, 2022 at 6:14:58 AM
+> Last updated: Saturday, June 4, 2022 at 12:11:10 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, June 4, 2022 at 6:15:06 AM
+> Last updated: Saturday, June 4, 2022 at 12:11:17 PM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - speedapi/info: API building toolkit - information and specifications](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_speedapi_info__API_building_toolkit_-_information_and_specifications.svg)](https://github.com/speedapi/info)
 [![Home – Iqra Technology](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Home_–_Iqra_Technology.svg)](https://iqratechnology.com/)
 [![2D sketches with React and the Canvas API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/2D_sketches_with_React_and_the_Canvas_API.svg)](https://blog.openreplay.com/2d-sketches-with-react-and-the-canvas-api)
 [![Web3 Authentication with Next.js, React, and Moralis](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Web3_Authentication_with_Next.js__React__and_Moralis.svg)](https://blog.openreplay.com/web3-authentication-with-next-js-react-and-moralis)
@@ -55,7 +56,6 @@ Today we launch Svelvet
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Today_we_launch_Svelvet_.svg)](
 http://svelvet.io/
 )
-[![GitHub - oslabs-beta/Deno-Redlock: Deno's first lightweight, secure distributed lock manager utilizing the Redlock algorithm](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_oslabs-beta_Deno-Redlock__Deno's_first_lightweight__secure_distributed_lock_manager_utilizing_the_Redlock_algorithm.svg)](https://github.com/oslabs-beta/Deno-Redlock)
 
 
 <!-- post-list:end -->
