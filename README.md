@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, June 4, 2022 at 12:11:33 AM
+> Last updated: Saturday, June 4, 2022 at 6:14:55 AM
 
 > Showing 5 of 12 posts.
 
-[![Power of the "new" keyword during constructor instantiation in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Power_of_the__new__keyword_during_constructor_instantiation_in_JavaScript.svg)](https://dev.to/emmanuelonah/power-of-the-new-keyword-during-constructor-instantiation-in-javascript-482c)
-[![How to Easily Deploy a Spring Boot Application on AWS Fargate](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Easily_Deploy_a_Spring_Boot_Application_on_AWS_Fargate.svg)](https://dev.to/aws-builders/how-to-easily-deploy-a-spring-boot-application-on-aws-fargate-38nh)
-[![DAY ONE: LEARNING ABOUT CSS SELECTORS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/DAY_ONE__LEARNING_ABOUT_CSS_SELECTORS.svg)](https://dev.to/maame_codes/day-one-learning-about-css-selectors-4h27)
-[![Here's How to Join Us at CodeLand 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Here's_How_to_Join_Us_at_CodeLand_2022.svg)](https://dev.to/codenewbieteam/heres-how-to-join-us-at-codeland-2022-35h3)
-[![Dynamic nested forms with Turbo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dynamic_nested_forms_with_Turbo.svg)](https://dev.to/pezza/dynamic-nested-forms-with-turbo-3786)
+[![Code 15 React Projects - Complete Course](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Code_15_React_Projects_-_Complete_Course.svg)](https://dev.to/wenura/code-15-react-projects-complete-course-2b28)
+[![Preview File before uploading in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Preview_File_before_uploading_in_React.svg)](https://dev.to/j471n/preview-file-before-uploading-in-react-27kn)
+[![Side project: Life-Advise Web App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Side_project__Life-Advise_Web_App.svg)](https://dev.to/osam1010/side-project-life-advise-web-app-34e0)
+[![What is your favorite music when you are programming?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_your_favorite_music_when_you_are_programming_.svg)](https://dev.to/naddurkostia/what-is-your-favorite-music-when-you-are-programming-749)
+[![Ruby cryptographic gems](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ruby_cryptographic_gems.svg)](https://dev.to/andrepiske/ruby-cryptographic-gems-1p5o)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, June 4, 2022 at 12:11:36 AM
+> Last updated: Saturday, June 4, 2022 at 6:14:58 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, June 4, 2022 at 12:11:40 AM
+> Last updated: Saturday, June 4, 2022 at 6:15:06 AM
 
 > Showing 5 of 30 posts.
 
+[![Home – Iqra Technology](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Home_–_Iqra_Technology.svg)](https://iqratechnology.com/)
 [![2D sketches with React and the Canvas API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/2D_sketches_with_React_and_the_Canvas_API.svg)](https://blog.openreplay.com/2d-sketches-with-react-and-the-canvas-api)
 [![Web3 Authentication with Next.js, React, and Moralis](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Web3_Authentication_with_Next.js__React__and_Moralis.svg)](https://blog.openreplay.com/web3-authentication-with-next-js-react-and-moralis)
 [![
@@ -55,11 +56,6 @@ Today we launch Svelvet
 http://svelvet.io/
 )
 [![GitHub - oslabs-beta/Deno-Redlock: Deno's first lightweight, secure distributed lock manager utilizing the Redlock algorithm](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_oslabs-beta_Deno-Redlock__Deno's_first_lightweight__secure_distributed_lock_manager_utilizing_the_Redlock_algorithm.svg)](https://github.com/oslabs-beta/Deno-Redlock)
-[![
-svve11 - an open source library of components designed with accessibility as a priority
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_svve11_-_an_open_source_library_of_components_designed_with_accessibility_as_a_priority_.svg)](
-https://svve11.io/
-)
 
 
 <!-- post-list:end -->
