@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, June 3, 2022 at 6:48:19 PM
+> Last updated: Saturday, June 4, 2022 at 12:11:33 AM
 
 > Showing 5 of 12 posts.
 
+[![Power of the "new" keyword during constructor instantiation in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Power_of_the__new__keyword_during_constructor_instantiation_in_JavaScript.svg)](https://dev.to/emmanuelonah/power-of-the-new-keyword-during-constructor-instantiation-in-javascript-482c)
+[![How to Easily Deploy a Spring Boot Application on AWS Fargate](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Easily_Deploy_a_Spring_Boot_Application_on_AWS_Fargate.svg)](https://dev.to/aws-builders/how-to-easily-deploy-a-spring-boot-application-on-aws-fargate-38nh)
+[![DAY ONE: LEARNING ABOUT CSS SELECTORS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/DAY_ONE__LEARNING_ABOUT_CSS_SELECTORS.svg)](https://dev.to/maame_codes/day-one-learning-about-css-selectors-4h27)
 [![Here's How to Join Us at CodeLand 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Here's_How_to_Join_Us_at_CodeLand_2022.svg)](https://dev.to/codenewbieteam/heres-how-to-join-us-at-codeland-2022-35h3)
 [![Dynamic nested forms with Turbo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dynamic_nested_forms_with_Turbo.svg)](https://dev.to/pezza/dynamic-nested-forms-with-turbo-3786)
-[![Simple REST API Android App in Kotlin - Various HTTP Client Library Implementations](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Simple_REST_API_Android_App_in_Kotlin_-_Various_HTTP_Client_Library_Implementations.svg)](https://dev.to/vtsen/simple-rest-api-android-app-in-kotlin-various-http-client-library-implementations-11i2)
-[![Daily.dev, an article feed service developers need](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Daily.dev__an_article_feed_service_developers_need.svg)](https://dev.to/drift_dev/dailydev-an-article-feed-service-developers-need-2904)
-[![VIDEO: How to modularize your monolith frontend](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/VIDEO__How_to_modularize_your_monolith_frontend.svg)](https://dev.to/richkurtzman/video-how-to-modularize-your-monolith-frontend-15eg)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, June 3, 2022 at 6:48:22 PM
+> Last updated: Saturday, June 4, 2022 at 12:11:36 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, June 3, 2022 at 6:48:25 PM
+> Last updated: Saturday, June 4, 2022 at 12:11:40 AM
 
 > Showing 5 of 30 posts.
 
