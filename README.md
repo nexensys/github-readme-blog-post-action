@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, June 4, 2022 at 6:55:43 PM
+> Last updated: Sunday, June 5, 2022 at 12:11:40 AM
 
 > Showing 5 of 12 posts.
 
-[![OSS contributions in real life: Finbourne example, part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/OSS_contributions_in_real_life__Finbourne_example__part_1.svg)](https://dev.to/nikitakoselev/oss-contributions-in-real-life-finbourne-example-part-1-36b2)
-[![Master of Linked Lists data structure](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Master_of_Linked_Lists_data_structure.svg)](https://dev.to/mahmoudgalal/master-of-linked-lists-data-structure-edc)
-[![How to Create a Blog Using Next.js and Contentful CMS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Create_a_Blog_Using_Next.js_and_Contentful_CMS.svg)](https://dev.to/designly/how-to-create-a-blog-using-nextjs-and-contentful-cms-4286)
-[![Create an object from a string variable in PHP](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_an_object_from_a_string_variable_in_PHP.svg)](https://dev.to/yanyy/create-an-object-from-a-string-variable-in-php-2ld8)
-[![Difference between parameters and arguments in a function](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Difference_between_parameters_and_arguments_in_a_function.svg)](https://dev.to/jfitech/difference-between-parameters-and-arguments-in-a-function-1j14)
+[![7 Console Methods Used by Pros](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/7_Console_Methods_Used_by_Pros.svg)](https://dev.to/ruppysuppy/7-console-methods-used-by-pros-1g00)
+[![Laravel - Eloquent Date Methods](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Laravel_-_Eloquent_Date_Methods.svg)](https://dev.to/sandrocagara/laravel-eloquent-date-methods-47dp)
+[![List of Famous Machine Learning Patents](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/List_of_Famous_Machine_Learning_Patents.svg)](https://dev.to/hiromichinomata/list-of-famous-machine-learning-patents-49nh)
+[![Git and Github Tutorial: Beginner to Advanced (Part 2)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Git_and_Github_Tutorial__Beginner_to_Advanced_(Part_2).svg)](https://dev.to/suchintan/git-and-github-tutorial-beginner-to-advanced-part-2-2h5c)
+[![React-Markdown - How To Create a Copy Code Button](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React-Markdown_-_How_To_Create_a_Copy_Code_Button.svg)](https://dev.to/designly/react-markdown-how-to-create-a-copy-code-button-26cm)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, June 4, 2022 at 6:55:46 PM
+> Last updated: Sunday, June 5, 2022 at 12:11:43 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, June 4, 2022 at 6:55:50 PM
+> Last updated: Sunday, June 5, 2022 at 12:11:47 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - moneywithbots/bnb-eth-wallet-drainer: Hack to drain balance on anyones crypto wallet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_moneywithbots_bnb-eth-wallet-drainer__Hack_to_drain_balance_on_anyones_crypto_wallet.svg)](https://github.com/moneywithbots/bnb-eth-wallet-drainer)
 [![GitHub - speedapi/info: API building toolkit - information and specifications](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_speedapi_info__API_building_toolkit_-_information_and_specifications.svg)](https://github.com/speedapi/info)
 [![2D sketches with React and the Canvas API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/2D_sketches_with_React_and_the_Canvas_API.svg)](https://blog.openreplay.com/2d-sketches-with-react-and-the-canvas-api)
 [![Web3 Authentication with Next.js, React, and Moralis](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Web3_Authentication_with_Next.js__React__and_Moralis.svg)](https://blog.openreplay.com/web3-authentication-with-next-js-react-and-moralis)
@@ -55,7 +56,6 @@ Today we launch Svelvet
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Today_we_launch_Svelvet_.svg)](
 http://svelvet.io/
 )
-[![GitHub - oslabs-beta/Deno-Redlock: Deno's first lightweight, secure distributed lock manager utilizing the Redlock algorithm](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_oslabs-beta_Deno-Redlock__Deno's_first_lightweight__secure_distributed_lock_manager_utilizing_the_Redlock_algorithm.svg)](https://github.com/oslabs-beta/Deno-Redlock)
 
 
 <!-- post-list:end -->
