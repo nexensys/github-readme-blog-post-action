@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, June 5, 2022 at 6:15:51 AM
+> Last updated: Sunday, June 5, 2022 at 12:11:39 PM
 
 > Showing 5 of 12 posts.
 
-[![Just got my 1st Salesforce Swag](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Just_got_my_1st_Salesforce_Swag.svg)](https://dev.to/krishnaagarwal/just-got-my-1st-salesforce-swag-2f65)
-[![Data Structures: Graphs I](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Data_Structures__Graphs_I.svg)](https://dev.to/m13ha/data-structures-graphs-i-3mdg)
-[![How to navigate in xplr](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_navigate_in_xplr.svg)](https://dev.to/sayanarijit/how-to-navigate-in-xplr-54m1)
-[!["Kubernetes for beginners 2022" - Crash course](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_Kubernetes_for_beginners_2022__-_Crash_course.svg)](https://dev.to/tanmaygi/kubernetes-for-beginners-2022-crash-course-33b9)
-[![50 Projects In 50 Days — HTML, CSS & JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/50_Projects_In_50_Days_—_HTML__CSS___JavaScript.svg)](https://dev.to/maxrpark/50-projects-in-50-days-html-css-javascript-lo6)
+[![The 5 Short Frontend tips for June](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_5_Short_Frontend_tips_for_June.svg)](https://dev.to/melnik909/the-5-short-frontend-tips-for-june-28fl)
+[![Error: listen EADDRINUSE: address already in use XXXX](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Error__listen_EADDRINUSE__address_already_in_use_XXXX.svg)](https://dev.to/binarybeast880/error-listen-eaddrinuse-address-already-in-use-xxxx-jho)
+[![I made a 3D game in 1 LINE of CODE!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_made_a_3D_game_in_1_LINE_of_CODE!.svg)](https://dev.to/virejdasani/i-made-a-3d-game-in-1-line-of-code-1ofn)
+[![Software engineer interviews 101](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Software_engineer_interviews_101.svg)](https://dev.to/preemz/software-engineer-interviews-101-lhe)
+[![Side Project Sunday! Share your progress.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Side_Project_Sunday!_Share_your_progress..svg)](https://dev.to/ben/side-project-sunday-share-your-progress-4a6g)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, June 5, 2022 at 6:15:53 AM
+> Last updated: Sunday, June 5, 2022 at 12:11:43 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, June 5, 2022 at 6:15:56 AM
+> Last updated: Sunday, June 5, 2022 at 12:11:48 PM
 
 > Showing 5 of 30 posts.
 
