@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, June 5, 2022 at 12:11:40 AM
+> Last updated: Sunday, June 5, 2022 at 6:15:51 AM
 
 > Showing 5 of 12 posts.
 
-[![7 Console Methods Used by Pros](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/7_Console_Methods_Used_by_Pros.svg)](https://dev.to/ruppysuppy/7-console-methods-used-by-pros-1g00)
-[![Laravel - Eloquent Date Methods](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Laravel_-_Eloquent_Date_Methods.svg)](https://dev.to/sandrocagara/laravel-eloquent-date-methods-47dp)
-[![List of Famous Machine Learning Patents](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/List_of_Famous_Machine_Learning_Patents.svg)](https://dev.to/hiromichinomata/list-of-famous-machine-learning-patents-49nh)
-[![Git and Github Tutorial: Beginner to Advanced (Part 2)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Git_and_Github_Tutorial__Beginner_to_Advanced_(Part_2).svg)](https://dev.to/suchintan/git-and-github-tutorial-beginner-to-advanced-part-2-2h5c)
-[![React-Markdown - How To Create a Copy Code Button](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React-Markdown_-_How_To_Create_a_Copy_Code_Button.svg)](https://dev.to/designly/react-markdown-how-to-create-a-copy-code-button-26cm)
+[![Just got my 1st Salesforce Swag](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Just_got_my_1st_Salesforce_Swag.svg)](https://dev.to/krishnaagarwal/just-got-my-1st-salesforce-swag-2f65)
+[![Data Structures: Graphs I](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Data_Structures__Graphs_I.svg)](https://dev.to/m13ha/data-structures-graphs-i-3mdg)
+[![How to navigate in xplr](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_navigate_in_xplr.svg)](https://dev.to/sayanarijit/how-to-navigate-in-xplr-54m1)
+[!["Kubernetes for beginners 2022" - Crash course](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_Kubernetes_for_beginners_2022__-_Crash_course.svg)](https://dev.to/tanmaygi/kubernetes-for-beginners-2022-crash-course-33b9)
+[![50 Projects In 50 Days — HTML, CSS & JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/50_Projects_In_50_Days_—_HTML__CSS___JavaScript.svg)](https://dev.to/maxrpark/50-projects-in-50-days-html-css-javascript-lo6)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, June 5, 2022 at 12:11:43 AM
+> Last updated: Sunday, June 5, 2022 at 6:15:53 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, June 5, 2022 at 12:11:47 AM
+> Last updated: Sunday, June 5, 2022 at 6:15:56 AM
 
 > Showing 5 of 30 posts.
 
