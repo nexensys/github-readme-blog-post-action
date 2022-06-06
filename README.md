@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, June 6, 2022 at 6:19:29 AM
+> Last updated: Monday, June 6, 2022 at 12:12:02 PM
 
 > Showing 5 of 12 posts.
 
-[![How to make a slick CSS animation from Upload (TV series title sequence)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_make_a_slick_CSS_animation_from_Upload_(TV_series_title_sequence).svg)](https://dev.to/robole/how-to-make-a-slick-css-animation-from-upload-tv-series-title-sequence-2h8f)
-[![VirtualenvWrapper & Python Virtual Environments](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/VirtualenvWrapper___Python_Virtual_Environments.svg)](https://dev.to/jkariukidev/virtualenvwrapper-python-virtual-environments-3fj7)
-[![Docker series (Part 3): Running 3 different containers with 3 different images in Docker](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Docker_series_(Part_3)__Running_3_different_containers_with_3_different_images_in_Docker.svg)](https://dev.to/mitul3737/running-3-different-containers-with-3-different-images-in-docker-312l)
-[![Run Laravel on Different Port](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Run_Laravel_on_Different_Port.svg)](https://dev.to/krixnaas/run-laravel-on-different-port-58ab)
-[![What is your favorite thing about open source solutions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_your_favorite_thing_about_open_source_solutions.svg)](https://dev.to/medusajs/what-is-your-favorite-thing-about-open-source-solutions-19ne)
+[!["em" or "rem": Which Should I Use?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_em__or__rem___Which_Should_I_Use_.svg)](https://dev.to/drprime01/em-or-rem-which-should-i-use-4ag2)
+[![How to avoid problems on your javaScript code.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_avoid_problems_on_your_javaScript_code..svg)](https://dev.to/callmebobonwa/how-to-avoid-problems-on-your-javascript-code-p4k)
+[![Git Anti-patterns](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Git_Anti-patterns.svg)](https://dev.to/sublimegeek/git-anti-patterns-1ean)
+[![Corrigir no Docker: Got permission denied issue 🐳](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Corrigir_no_Docker__Got_permission_denied_issue_🐳.svg)](https://dev.to/eucarlos/corrigir-no-docker-got-permission-denied-issue-5ba)
+[![What are your specialties??](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_are_your_specialties__.svg)](https://dev.to/callmebobonwa/what-are-your-specialties-1cj3)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, June 6, 2022 at 6:19:33 AM
+> Last updated: Monday, June 6, 2022 at 12:12:05 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, June 6, 2022 at 6:19:39 AM
+> Last updated: Monday, June 6, 2022 at 12:12:08 PM
 
 > Showing 5 of 30 posts.
 
+[![React Portal: All You Need to Know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_Portal__All_You_Need_to_Know.svg)](https://lyty.dev/blog/react-portal-react-portal-examples/)
+[![GitHub - kaarambaa/Classification_automatization: An Open-Source application, providing an ability to create and fit classification ensemble models in no-code paradigm](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_kaarambaa_Classification_automatization__An_Open-Source_application__providing_an_ability_to_create_and_fit_classification_ensemble_models_in_no-code_paradigm.svg)](https://github.com/kaarambaa/Classification_automatization)
 [![How to use Chrome as a Code Editor and Debugger](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_use_Chrome_as_a_Code_Editor_and_Debugger.svg)](https://blog.openreplay.com/how-to-use-chrome-as-a-code-editor-and-debugger)
 [![GitHub - moneywithbots/bnb-eth-wallet-drainer: Hack to drain balance on anyones crypto wallet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_moneywithbots_bnb-eth-wallet-drainer__Hack_to_drain_balance_on_anyones_crypto_wallet.svg)](https://github.com/moneywithbots/bnb-eth-wallet-drainer)
 [![GitHub - speedapi/info: API building toolkit - information and specifications](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_speedapi_info__API_building_toolkit_-_information_and_specifications.svg)](https://github.com/speedapi/info)
-[![2D sketches with React and the Canvas API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/2D_sketches_with_React_and_the_Canvas_API.svg)](https://blog.openreplay.com/2d-sketches-with-react-and-the-canvas-api)
-[![Web3 Authentication with Next.js, React, and Moralis](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Web3_Authentication_with_Next.js__React__and_Moralis.svg)](https://blog.openreplay.com/web3-authentication-with-next-js-react-and-moralis)
 
 
 <!-- post-list:end -->
