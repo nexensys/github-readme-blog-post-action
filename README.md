@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, June 5, 2022 at 12:11:39 PM
+> Last updated: Sunday, June 5, 2022 at 6:54:09 PM
 
 > Showing 5 of 12 posts.
 
-[![The 5 Short Frontend tips for June](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_5_Short_Frontend_tips_for_June.svg)](https://dev.to/melnik909/the-5-short-frontend-tips-for-june-28fl)
-[![Error: listen EADDRINUSE: address already in use XXXX](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Error__listen_EADDRINUSE__address_already_in_use_XXXX.svg)](https://dev.to/binarybeast880/error-listen-eaddrinuse-address-already-in-use-xxxx-jho)
-[![I made a 3D game in 1 LINE of CODE!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_made_a_3D_game_in_1_LINE_of_CODE!.svg)](https://dev.to/virejdasani/i-made-a-3d-game-in-1-line-of-code-1ofn)
-[![Software engineer interviews 101](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Software_engineer_interviews_101.svg)](https://dev.to/preemz/software-engineer-interviews-101-lhe)
-[![Side Project Sunday! Share your progress.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Side_Project_Sunday!_Share_your_progress..svg)](https://dev.to/ben/side-project-sunday-share-your-progress-4a6g)
+[![What are you testing?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_are_you_testing_.svg)](https://dev.to/noriller/what-are-you-testing-35jd)
+[![Part One: Building a Decentralized Exchange with Solidity and React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Part_One__Building_a_Decentralized_Exchange_with_Solidity_and_React.svg)](https://dev.to/sleepytenor/part-one-building-a-decentralized-exchange-with-solidity-and-react-2ne0)
+[![Laravel Seeders and Factories](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Laravel_Seeders_and_Factories.svg)](https://dev.to/readymadecode/laravel-seeders-and-factories-3i6o)
+[![CSS: Dynamically Text Truncate](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CSS__Dynamically_Text_Truncate.svg)](https://dev.to/falselight/css-dynamically-text-truncate-2l16)
+[![Elixir metrics and StatsD](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Elixir_metrics_and_StatsD.svg)](https://dev.to/miguelcoba/elixir-metrics-and-statsd-ka9)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, June 5, 2022 at 12:11:43 PM
+> Last updated: Sunday, June 5, 2022 at 6:54:12 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, June 5, 2022 at 12:11:48 PM
+> Last updated: Sunday, June 5, 2022 at 6:54:20 PM
 
 > Showing 5 of 30 posts.
 
+[![How to use Chrome as a Code Editor and Debugger](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_use_Chrome_as_a_Code_Editor_and_Debugger.svg)](https://blog.openreplay.com/how-to-use-chrome-as-a-code-editor-and-debugger)
 [![GitHub - moneywithbots/bnb-eth-wallet-drainer: Hack to drain balance on anyones crypto wallet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_moneywithbots_bnb-eth-wallet-drainer__Hack_to_drain_balance_on_anyones_crypto_wallet.svg)](https://github.com/moneywithbots/bnb-eth-wallet-drainer)
 [![GitHub - speedapi/info: API building toolkit - information and specifications](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_speedapi_info__API_building_toolkit_-_information_and_specifications.svg)](https://github.com/speedapi/info)
 [![2D sketches with React and the Canvas API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/2D_sketches_with_React_and_the_Canvas_API.svg)](https://blog.openreplay.com/2d-sketches-with-react-and-the-canvas-api)
 [![Web3 Authentication with Next.js, React, and Moralis](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Web3_Authentication_with_Next.js__React__and_Moralis.svg)](https://blog.openreplay.com/web3-authentication-with-next-js-react-and-moralis)
-[![
-Today we launch Svelvet
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Today_we_launch_Svelvet_.svg)](
-http://svelvet.io/
-)
 
 
 <!-- post-list:end -->
