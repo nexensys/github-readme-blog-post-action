@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, June 5, 2022 at 6:54:09 PM
+> Last updated: Monday, June 6, 2022 at 6:19:29 AM
 
 > Showing 5 of 12 posts.
 
-[![What are you testing?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_are_you_testing_.svg)](https://dev.to/noriller/what-are-you-testing-35jd)
-[![Part One: Building a Decentralized Exchange with Solidity and React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Part_One__Building_a_Decentralized_Exchange_with_Solidity_and_React.svg)](https://dev.to/sleepytenor/part-one-building-a-decentralized-exchange-with-solidity-and-react-2ne0)
-[![Laravel Seeders and Factories](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Laravel_Seeders_and_Factories.svg)](https://dev.to/readymadecode/laravel-seeders-and-factories-3i6o)
-[![CSS: Dynamically Text Truncate](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CSS__Dynamically_Text_Truncate.svg)](https://dev.to/falselight/css-dynamically-text-truncate-2l16)
-[![Elixir metrics and StatsD](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Elixir_metrics_and_StatsD.svg)](https://dev.to/miguelcoba/elixir-metrics-and-statsd-ka9)
+[![How to make a slick CSS animation from Upload (TV series title sequence)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_make_a_slick_CSS_animation_from_Upload_(TV_series_title_sequence).svg)](https://dev.to/robole/how-to-make-a-slick-css-animation-from-upload-tv-series-title-sequence-2h8f)
+[![VirtualenvWrapper & Python Virtual Environments](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/VirtualenvWrapper___Python_Virtual_Environments.svg)](https://dev.to/jkariukidev/virtualenvwrapper-python-virtual-environments-3fj7)
+[![Docker series (Part 3): Running 3 different containers with 3 different images in Docker](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Docker_series_(Part_3)__Running_3_different_containers_with_3_different_images_in_Docker.svg)](https://dev.to/mitul3737/running-3-different-containers-with-3-different-images-in-docker-312l)
+[![Run Laravel on Different Port](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Run_Laravel_on_Different_Port.svg)](https://dev.to/krixnaas/run-laravel-on-different-port-58ab)
+[![What is your favorite thing about open source solutions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_your_favorite_thing_about_open_source_solutions.svg)](https://dev.to/medusajs/what-is-your-favorite-thing-about-open-source-solutions-19ne)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, June 5, 2022 at 6:54:12 PM
+> Last updated: Monday, June 6, 2022 at 6:19:33 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, June 5, 2022 at 6:54:20 PM
+> Last updated: Monday, June 6, 2022 at 6:19:39 AM
 
 > Showing 5 of 30 posts.
 
