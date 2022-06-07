@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, June 7, 2022 at 6:18:25 AM
+> Last updated: Tuesday, June 7, 2022 at 12:11:54 PM
 
 > Showing 5 of 12 posts.
 
-[![Process Analytics - May 2022 News](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Process_Analytics_-_May_2022_News.svg)](https://dev.to/process-analytics/process-analytics-may-2022-news-11h9)
-[![Collectible Card Game AI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Collectible_Card_Game_AI.svg)](https://dev.to/hiromichinomata/collectible-card-game-ai-2968)
-[![As a developer, how to estimate the time for a task?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/As_a_developer__how_to_estimate_the_time_for_a_task_.svg)](https://dev.to/ms_yogii/as-a-developer-how-to-estimate-the-time-for-a-task-44b)
-[![How to create and deploy an Azure Resource Manager template](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_and_deploy_an_Azure_Resource_Manager_template.svg)](https://dev.to/sarahnonye/how-to-create-and-deploy-an-azure-resource-manager-template-j3d)
-[![How I passed the AWS Machine Learning Specialty Exam](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_I_passed_the_AWS_Machine_Learning_Specialty_Exam.svg)](https://dev.to/bandolocyril/how-i-passed-the-aws-machine-learning-specialty-exam-4fgj)
+[![Favourite Coding Challenge Website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Favourite_Coding_Challenge_Website.svg)](https://dev.to/vulcanwm/favourite-coding-challenge-website-dp6)
+[![Most Useful Free Online Courses From Top Universities](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Most_Useful_Free_Online_Courses_From_Top_Universities.svg)](https://dev.to/yashtiwari1k/most-useful-free-online-courses-from-top-universities-48)
+[![Is it a good idea to build backend with nextJS?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Is_it_a_good_idea_to_build_backend_with_nextJS_.svg)](https://dev.to/mozammelh/is-it-a-good-idea-to-build-backend-with-nextjs-2oeg)
+[![Stunning Presentations with Asciidoctor and RevealJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Stunning_Presentations_with_Asciidoctor_and_RevealJS.svg)](https://dev.to/rprabhu/stunning-presentations-with-asciidoctor-and-revealjs-1d1m)
+[![Environment Variables in Heroku - Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Environment_Variables_in_Heroku_-_Python.svg)](https://dev.to/vulcanwm/environment-variables-in-heroku-python-385o)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, June 7, 2022 at 6:18:28 AM
+> Last updated: Tuesday, June 7, 2022 at 12:11:56 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, June 7, 2022 at 6:18:31 AM
+> Last updated: Tuesday, June 7, 2022 at 12:11:59 PM
 
 > Showing 5 of 30 posts.
 
