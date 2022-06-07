@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, June 6, 2022 at 12:12:02 PM
+> Last updated: Monday, June 6, 2022 at 6:42:48 PM
 
 > Showing 5 of 12 posts.
 
-[!["em" or "rem": Which Should I Use?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_em__or__rem___Which_Should_I_Use_.svg)](https://dev.to/drprime01/em-or-rem-which-should-i-use-4ag2)
-[![How to avoid problems on your javaScript code.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_avoid_problems_on_your_javaScript_code..svg)](https://dev.to/callmebobonwa/how-to-avoid-problems-on-your-javascript-code-p4k)
-[![Git Anti-patterns](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Git_Anti-patterns.svg)](https://dev.to/sublimegeek/git-anti-patterns-1ean)
-[![Corrigir no Docker: Got permission denied issue 🐳](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Corrigir_no_Docker__Got_permission_denied_issue_🐳.svg)](https://dev.to/eucarlos/corrigir-no-docker-got-permission-denied-issue-5ba)
-[![What are your specialties??](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_are_your_specialties__.svg)](https://dev.to/callmebobonwa/what-are-your-specialties-1cj3)
+[![Ultrasonic payments](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ultrasonic_payments.svg)](https://dev.to/stripe/ultrasonic-payments-2958)
+[![How to create additional SSH Keys](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_additional_SSH_Keys.svg)](https://dev.to/ibrarturi/how-to-create-additional-ssh-keys-ob6)
+[![How to store information in the Solana Blockchain](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_store_information_in_the_Solana_Blockchain.svg)](https://dev.to/mateolafalce/how-to-store-information-in-the-solana-blockchain-1f36)
+[![Some must know python modules for competitive programming](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Some_must_know_python_modules_for_competitive_programming.svg)](https://dev.to/kaushik94/some-must-know-python-modules-for-competitive-programming-43c3)
+[![Hero Images and Stylizing Your Portfolio Website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Hero_Images_and_Stylizing_Your_Portfolio_Website.svg)](https://dev.to/jennamoffitt/hero-images-and-stylizing-your-portfolio-website-1g50)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, June 6, 2022 at 12:12:05 PM
+> Last updated: Monday, June 6, 2022 at 6:42:51 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, June 6, 2022 at 12:12:08 PM
+> Last updated: Monday, June 6, 2022 at 6:42:56 PM
 
 > Showing 5 of 30 posts.
 
+[![API with NestJS #64. Transactions with PostgreSQL and MikroORM](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__64._Transactions_with_PostgreSQL_and_MikroORM.svg)](http://wanago.io/2022/06/06/api-nestjs-transactions-postgresql-mikroorm/)
 [![React Portal: All You Need to Know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_Portal__All_You_Need_to_Know.svg)](https://lyty.dev/blog/react-portal-react-portal-examples/)
 [![GitHub - kaarambaa/Classification_automatization: An Open-Source application, providing an ability to create and fit classification ensemble models in no-code paradigm](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_kaarambaa_Classification_automatization__An_Open-Source_application__providing_an_ability_to_create_and_fit_classification_ensemble_models_in_no-code_paradigm.svg)](https://github.com/kaarambaa/Classification_automatization)
 [![How to use Chrome as a Code Editor and Debugger](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_use_Chrome_as_a_Code_Editor_and_Debugger.svg)](https://blog.openreplay.com/how-to-use-chrome-as-a-code-editor-and-debugger)
 [![GitHub - moneywithbots/bnb-eth-wallet-drainer: Hack to drain balance on anyones crypto wallet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_moneywithbots_bnb-eth-wallet-drainer__Hack_to_drain_balance_on_anyones_crypto_wallet.svg)](https://github.com/moneywithbots/bnb-eth-wallet-drainer)
-[![GitHub - speedapi/info: API building toolkit - information and specifications](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_speedapi_info__API_building_toolkit_-_information_and_specifications.svg)](https://github.com/speedapi/info)
 
 
 <!-- post-list:end -->
