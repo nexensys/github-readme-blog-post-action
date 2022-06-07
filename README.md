@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, June 6, 2022 at 6:42:48 PM
+> Last updated: Tuesday, June 7, 2022 at 12:12:31 AM
 
 > Showing 5 of 12 posts.
 
-[![Ultrasonic payments](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ultrasonic_payments.svg)](https://dev.to/stripe/ultrasonic-payments-2958)
-[![How to create additional SSH Keys](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_additional_SSH_Keys.svg)](https://dev.to/ibrarturi/how-to-create-additional-ssh-keys-ob6)
-[![How to store information in the Solana Blockchain](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_store_information_in_the_Solana_Blockchain.svg)](https://dev.to/mateolafalce/how-to-store-information-in-the-solana-blockchain-1f36)
-[![Some must know python modules for competitive programming](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Some_must_know_python_modules_for_competitive_programming.svg)](https://dev.to/kaushik94/some-must-know-python-modules-for-competitive-programming-43c3)
-[![Hero Images and Stylizing Your Portfolio Website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Hero_Images_and_Stylizing_Your_Portfolio_Website.svg)](https://dev.to/jennamoffitt/hero-images-and-stylizing-your-portfolio-website-1g50)
+[![Building a math-based game: my journey so far](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_math-based_game__my_journey_so_far.svg)](https://dev.to/sifar/building-a-math-based-game-my-journey-so-far-3gdf)
+[![Getting Started with the Angular Tabs Component](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_Started_with_the_Angular_Tabs_Component.svg)](https://dev.to/syncfusion/getting-started-with-the-angular-tabs-component-4mmb)
+[![Data Analysis Free E-Books](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Data_Analysis_Free_E-Books.svg)](https://dev.to/designegycreatives/data-analysis-free-e-books-c86)
+[![How to Make Your 'CD's Less Painful](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Make_Your_'CD's_Less_Painful.svg)](https://dev.to/software_writer/how-to-make-your-cds-less-painful-3od0)
+[![Java for web frontend developers, part 1 : generating a simple project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Java_for_web_frontend_developers__part_1___generating_a_simple_project.svg)](https://dev.to/treblereel/java-for-web-frontend-developers-part-1-generating-a-simple-project-41jp)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, June 6, 2022 at 6:42:51 PM
+> Last updated: Tuesday, June 7, 2022 at 12:12:34 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, June 6, 2022 at 6:42:56 PM
+> Last updated: Tuesday, June 7, 2022 at 12:12:41 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - moneywithbots/pancakeswap-predictions-bot: pancakeswap predictions bot bnb bot bsc bot](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_moneywithbots_pancakeswap-predictions-bot__pancakeswap_predictions_bot_bnb_bot_bsc_bot.svg)](https://github.com/moneywithbots/pancakeswap-predictions-bot)
 [![API with NestJS #64. Transactions with PostgreSQL and MikroORM](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__64._Transactions_with_PostgreSQL_and_MikroORM.svg)](http://wanago.io/2022/06/06/api-nestjs-transactions-postgresql-mikroorm/)
 [![React Portal: All You Need to Know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_Portal__All_You_Need_to_Know.svg)](https://lyty.dev/blog/react-portal-react-portal-examples/)
 [![GitHub - kaarambaa/Classification_automatization: An Open-Source application, providing an ability to create and fit classification ensemble models in no-code paradigm](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_kaarambaa_Classification_automatization__An_Open-Source_application__providing_an_ability_to_create_and_fit_classification_ensemble_models_in_no-code_paradigm.svg)](https://github.com/kaarambaa/Classification_automatization)
 [![How to use Chrome as a Code Editor and Debugger](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_use_Chrome_as_a_Code_Editor_and_Debugger.svg)](https://blog.openreplay.com/how-to-use-chrome-as-a-code-editor-and-debugger)
-[![GitHub - moneywithbots/bnb-eth-wallet-drainer: Hack to drain balance on anyones crypto wallet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_moneywithbots_bnb-eth-wallet-drainer__Hack_to_drain_balance_on_anyones_crypto_wallet.svg)](https://github.com/moneywithbots/bnb-eth-wallet-drainer)
 
 
 <!-- post-list:end -->
