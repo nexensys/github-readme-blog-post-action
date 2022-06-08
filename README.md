@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, June 7, 2022 at 12:11:54 PM
+> Last updated: Tuesday, June 7, 2022 at 6:50:42 PM
 
 > Showing 5 of 12 posts.
 
-[![Favourite Coding Challenge Website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Favourite_Coding_Challenge_Website.svg)](https://dev.to/vulcanwm/favourite-coding-challenge-website-dp6)
-[![Most Useful Free Online Courses From Top Universities](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Most_Useful_Free_Online_Courses_From_Top_Universities.svg)](https://dev.to/yashtiwari1k/most-useful-free-online-courses-from-top-universities-48)
-[![Is it a good idea to build backend with nextJS?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Is_it_a_good_idea_to_build_backend_with_nextJS_.svg)](https://dev.to/mozammelh/is-it-a-good-idea-to-build-backend-with-nextjs-2oeg)
-[![Stunning Presentations with Asciidoctor and RevealJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Stunning_Presentations_with_Asciidoctor_and_RevealJS.svg)](https://dev.to/rprabhu/stunning-presentations-with-asciidoctor-and-revealjs-1d1m)
-[![Environment Variables in Heroku - Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Environment_Variables_in_Heroku_-_Python.svg)](https://dev.to/vulcanwm/environment-variables-in-heroku-python-385o)
+[![Generating nicely parsed schema files with pg_dump_schema_parser](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Generating_nicely_parsed_schema_files_with_pg_dump_schema_parser.svg)](https://dev.to/bolajiwahab/generating-nicely-parsed-schema-files-with-pgdumpschemaparser-4mhl)
+[![This Week In React #107: Plasmo, Panapasi, Fastify-DX, Remix, Solid, useInsertionEffect, JSI, Vite, Angular, Safari...](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/This_Week_In_React__107__Plasmo__Panapasi__Fastify-DX__Remix__Solid__useInsertionEffect__JSI__Vite__Angular__Safari....svg)](https://dev.to/sebastienlorber/this-week-in-react-107-plasmo-panapasi-fastify-dx-remix-solid-useinsertioneffect-jsi-vite-angular-safari-36ij)
+[![Demystifying useRef and useMemo in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Demystifying_useRef_and_useMemo_in_React.svg)](https://dev.to/bhavzlearn/demystifying-useref-and-usememo-in-react-4jcl)
+[![Don't use List in Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Don't_use_List_in_Python.svg)](https://dev.to/knassar702/dont-use-list-in-python-1hpa)
+[![How to Easily Connect to DigitalOcean's Managed MongoDB](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Easily_Connect_to_DigitalOcean's_Managed_MongoDB.svg)](https://dev.to/digitalocean/how-to-easily-connect-to-digitaloceans-managed-mongodb-5gd1)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, June 7, 2022 at 12:11:56 PM
+> Last updated: Tuesday, June 7, 2022 at 6:50:46 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, June 7, 2022 at 12:11:59 PM
+> Last updated: Tuesday, June 7, 2022 at 6:50:49 PM
 
 > Showing 5 of 30 posts.
 
+[![Creating a Responsive Admin Dashboard with React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Creating_a_Responsive_Admin_Dashboard_with_React.svg)](https://blog.openreplay.com/creating-a-responsive-admin-dashboard-with-react)
 [![Which Open Source CMS should I use? Directus, Payload, Strapi, Webiny ... 🤔](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Which_Open_Source_CMS_should_I_use__Directus__Payload__Strapi__Webiny_..._🤔.svg)](https://www.youtube.com/watch?v=QGVGRqjtx-o)
 [![Episode 14 - Web Components with Chris Holt and Rob Eisenberg - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_14_-_Web_Components_with_Chris_Holt_and_Rob_Eisenberg_-_20minJS.svg)](https://podcast.20minjs.com/1952066/10744129-episode-14-web-components-with-chris-holt-and-rob-eisenberg)
 [![How To Write Variables in Different Programming Languages - Erisanal](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_To_Write_Variables_in_Different_Programming_Languages_-_Erisanal.svg)](https://erisanal.com/how-to-write-variables-in-different-programming-languages/)
 [![Implementing a fully-custom Design Language System with Jetpack Compose — Part one: Foundation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Implementing_a_fully-custom_Design_Language_System_with_Jetpack_Compose_—_Part_one__Foundation.svg)](https://medium.com/volvo-cars-engineering/implementing-a-fully-custom-design-language-system-with-jetpack-compose-part-one-foundation-60f7b97678ad)
-[![GitHub - moneywithbots/pancakeswap-predictions-bot: pancakeswap predictions bot bnb bot bsc bot](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_moneywithbots_pancakeswap-predictions-bot__pancakeswap_predictions_bot_bnb_bot_bsc_bot.svg)](https://github.com/moneywithbots/pancakeswap-predictions-bot)
 
 
 <!-- post-list:end -->
