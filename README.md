@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, June 9, 2022 at 12:12:58 AM
+> Last updated: Thursday, June 9, 2022 at 6:19:47 AM
 
 > Showing 5 of 12 posts.
 
-[![The way to read Perl core source codes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_way_to_read_Perl_core_source_codes.svg)](https://dev.to/yukikimoto/the-way-to-read-perl-core-source-codes-34i4)
-[![The correct way to fetch data from API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_correct_way_to_fetch_data_from_API.svg)](https://dev.to/shashank1503cipher/the-correct-way-to-fetch-data-from-api-4l4b)
-[![Introduction To Arrays](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_To_Arrays.svg)](https://dev.to/abbhiishek/introduction-to-arrays-4d59)
-[![Compass Heading with AnimatedRotation in Flutter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Compass_Heading_with_AnimatedRotation_in_Flutter.svg)](https://dev.to/rlazom/compass-heading-with-animatedrotation-in-flutter-3ji2)
-[![🤖 Just Listed Tech Opportunities - Week #24 of 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🤖_Just_Listed_Tech_Opportunities_-_Week__24_of_2022.svg)](https://dev.to/shman/just-listed-tech-opportunities-week-24-of-2022-4ahk)
+[![Angular 13. What's new](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Angular_13._What's_new.svg)](https://dev.to/lucaspaganini/angular-13-whats-new-549m)
+[![Sum of All Odd Length Subarrays O(N) Leetcode #1588.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Sum_of_All_Odd_Length_Subarrays_O(N)_Leetcode__1588..svg)](https://dev.to/rajeshroyal/sum-of-all-odd-length-subarrays-on-leetcode-1588-1f2c)
+[![Question,Help, React local Storage](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Question_Help__React_local_Storage.svg)](https://dev.to/evansifyke/questionhelp-react-local-storage-6gi)
+[!["Crossing the Rubycon" at Code Your Future](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_Crossing_the_Rubycon__at_Code_Your_Future.svg)](https://dev.to/beetlehope/crossing-the-rubycon-at-code-yourfuture-56cm)
+[![5 (Surgical) Tips to Program More Efficiently in C#💉](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_(Surgical)_Tips_to_Program_More_Efficiently_in_C_💉.svg)](https://dev.to/dotnetsafer/5-surgical-tips-to-program-more-efficiently-in-c-3bh6)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, June 9, 2022 at 12:13:01 AM
+> Last updated: Thursday, June 9, 2022 at 6:19:49 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, June 9, 2022 at 12:13:03 AM
+> Last updated: Thursday, June 9, 2022 at 6:19:52 AM
 
 > Showing 5 of 30 posts.
 
+[![Content Management Systems for Gatsby](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Content_Management_Systems_for_Gatsby.svg)](https://blog.openreplay.com/content-management-systems-for-gatsby)
 [![GitHub - NaDeSys/SparkDB: CSV-to-database-structure project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_NaDeSys_SparkDB__CSV-to-database-structure_project.svg)](https://github.com/NaDeSys/SparkDB)
 [![Running Vim Text Editor in the Browser with WebAssembly](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Running_Vim_Text_Editor_in_the_Browser_with_WebAssembly.svg)](https://www.youtube.com/watch?v=ayOP3hyRVrc)
 [![How to Remove a null from an Object with Lodash](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Remove_a_null_from_an_Object_with_Lodash.svg)](
 https://masteringjs.io/tutorials/lodash/remove-null-from-object
 )
 [![JavaScript Design Patterns #10 - Builder Pattern](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Design_Patterns__10_-_Builder_Pattern.svg)](https://www.youtube.com/watch?v=McF9ak0kKjA)
-[![Creating a Responsive Admin Dashboard with React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Creating_a_Responsive_Admin_Dashboard_with_React.svg)](https://blog.openreplay.com/creating-a-responsive-admin-dashboard-with-react)
 
 
 <!-- post-list:end -->
