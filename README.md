@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, June 8, 2022 at 6:52:15 PM
+> Last updated: Thursday, June 9, 2022 at 12:12:58 AM
 
 > Showing 5 of 12 posts.
 
-[![Terraform for Dummies - Part 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Terraform_for_Dummies_-_Part_2.svg)](https://dev.to/stevenmcgown/terraform-for-dummies-part-2-2lfj)
-[![Introduction of React Context](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_of_React_Context.svg)](https://dev.to/yohanesss/introduction-of-react-context-1b5g)
-[![An Act of KINDNESS that Helped your Career](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/An_Act_of_KINDNESS_that_Helped_your_Career.svg)](https://dev.to/babib/an-act-of-kindness-that-helped-your-career-448)
-[![How do you work on projects you don't like? [Need mental support :(]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_do_you_work_on_projects_you_don't_like__[Need_mental_support__(].svg)](https://dev.to/ibxsb/how-do-you-work-on-projects-you-dont-like-need-mental-support--33k4)
-[![esbuild - Desarrollo sin dolor.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/esbuild_-_Desarrollo_sin_dolor..svg)](https://dev.to/ushieru/esbuild-desarrollo-sin-dolor-5hmf)
+[![The way to read Perl core source codes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_way_to_read_Perl_core_source_codes.svg)](https://dev.to/yukikimoto/the-way-to-read-perl-core-source-codes-34i4)
+[![The correct way to fetch data from API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_correct_way_to_fetch_data_from_API.svg)](https://dev.to/shashank1503cipher/the-correct-way-to-fetch-data-from-api-4l4b)
+[![Introduction To Arrays](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_To_Arrays.svg)](https://dev.to/abbhiishek/introduction-to-arrays-4d59)
+[![Compass Heading with AnimatedRotation in Flutter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Compass_Heading_with_AnimatedRotation_in_Flutter.svg)](https://dev.to/rlazom/compass-heading-with-animatedrotation-in-flutter-3ji2)
+[![🤖 Just Listed Tech Opportunities - Week #24 of 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🤖_Just_Listed_Tech_Opportunities_-_Week__24_of_2022.svg)](https://dev.to/shman/just-listed-tech-opportunities-week-24-of-2022-4ahk)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, June 8, 2022 at 6:52:18 PM
+> Last updated: Thursday, June 9, 2022 at 12:13:01 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, June 8, 2022 at 6:52:23 PM
+> Last updated: Thursday, June 9, 2022 at 12:13:03 AM
 
 > Showing 5 of 30 posts.
 
