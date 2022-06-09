@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, June 8, 2022 at 12:11:54 PM
+> Last updated: Wednesday, June 8, 2022 at 6:52:15 PM
 
 > Showing 5 of 12 posts.
 
-[![A new community space for open source maintainers and contributors! 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_new_community_space_for_open_source_maintainers_and_contributors!_🚀.svg)](https://dev.to/devteam/a-new-community-space-for-open-source-maintainers-and-contributors-32p3)
-[![Remote Debugging and Developer Observability](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Remote_Debugging_and_Developer_Observability.svg)](https://dev.to/codenameone/remote-debugging-and-developer-observability-22pb)
-[![What is Cloud Computing and its certifications](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_Cloud_Computing_and_its_certifications.svg)](https://dev.to/sandeepk27/what-is-cloud-computing-and-its-certifications-3jd7)
-[![Collecting data](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Collecting_data.svg)](https://dev.to/emailmarkup/collecting-data-1gdb)
-[![Cryptle - Wordle clone for Enarx](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cryptle_-_Wordle_clone_for_Enarx.svg)](https://dev.to/aryank21/cryptle-wordle-clone-for-enarx-bdf)
+[![Terraform for Dummies - Part 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Terraform_for_Dummies_-_Part_2.svg)](https://dev.to/stevenmcgown/terraform-for-dummies-part-2-2lfj)
+[![Introduction of React Context](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_of_React_Context.svg)](https://dev.to/yohanesss/introduction-of-react-context-1b5g)
+[![An Act of KINDNESS that Helped your Career](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/An_Act_of_KINDNESS_that_Helped_your_Career.svg)](https://dev.to/babib/an-act-of-kindness-that-helped-your-career-448)
+[![How do you work on projects you don't like? [Need mental support :(]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_do_you_work_on_projects_you_don't_like__[Need_mental_support__(].svg)](https://dev.to/ibxsb/how-do-you-work-on-projects-you-dont-like-need-mental-support--33k4)
+[![esbuild - Desarrollo sin dolor.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/esbuild_-_Desarrollo_sin_dolor..svg)](https://dev.to/ushieru/esbuild-desarrollo-sin-dolor-5hmf)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, June 8, 2022 at 12:11:56 PM
+> Last updated: Wednesday, June 8, 2022 at 6:52:18 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,21 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, June 8, 2022 at 12:13:04 PM
+> Last updated: Wednesday, June 8, 2022 at 6:52:23 PM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - NaDeSys/SparkDB: CSV-to-database-structure project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_NaDeSys_SparkDB__CSV-to-database-structure_project.svg)](https://github.com/NaDeSys/SparkDB)
+[![Running Vim Text Editor in the Browser with WebAssembly](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Running_Vim_Text_Editor_in_the_Browser_with_WebAssembly.svg)](https://www.youtube.com/watch?v=ayOP3hyRVrc)
 [![How to Remove a null from an Object with Lodash](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Remove_a_null_from_an_Object_with_Lodash.svg)](
 https://masteringjs.io/tutorials/lodash/remove-null-from-object
 )
 [![JavaScript Design Patterns #10 - Builder Pattern](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Design_Patterns__10_-_Builder_Pattern.svg)](https://www.youtube.com/watch?v=McF9ak0kKjA)
 [![Creating a Responsive Admin Dashboard with React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Creating_a_Responsive_Admin_Dashboard_with_React.svg)](https://blog.openreplay.com/creating-a-responsive-admin-dashboard-with-react)
-[![
-20MinJS - Episode 14 - Web Components with Chris Holt and Rob Eisenberg
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_20MinJS_-_Episode_14_-_Web_Components_with_Chris_Holt_and_Rob_Eisenberg_.svg)](
-https://podcast.20minjs.com/1952066/10744129-episode-14-web-components-with-chris-holt-and-rob-eisenberg
-)
-[![How To Write Variables in Different Programming Languages - Erisanal](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_To_Write_Variables_in_Different_Programming_Languages_-_Erisanal.svg)](https://erisanal.com/how-to-write-variables-in-different-programming-languages/)
 
 
 <!-- post-list:end -->
