@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, June 9, 2022 at 12:11:58 PM
+> Last updated: Thursday, June 9, 2022 at 6:53:58 PM
 
 > Showing 5 of 12 posts.
 
-[![Learn Django](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Learn_Django.svg)](https://dev.to/bekbrace/learn-django-3nl7)
-[![Front-End development vs. UI Design. or are both equally important](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Front-End_development_vs._UI_Design._or_are_both_equally_important.svg)](https://dev.to/sakaz22/front-end-development-vs-ui-design-or-are-both-equally-important-3bdm)
-[![I made 40+ ready to use templates for any industry](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_made_40+_ready_to_use_templates_for_any_industry.svg)](https://dev.to/rarestoma/i-made-40-ready-to-use-templates-for-any-industry-5hbo)
-[![Common Searching Algorithms in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Common_Searching_Algorithms_in_JavaScript.svg)](https://dev.to/hannahglazier/common-searching-algorithms-in-javascript-207e)
-[![What's your favorite (dev) newsletter?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What's_your_favorite_(dev)_newsletter_.svg)](https://dev.to/josefine/whats-your-favorite-dev-newsletter-2e2e)
+[![Using Data with Hugo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_Data_with_Hugo.svg)](https://dev.to/cloudcannon/using-data-with-hugo-110f)
+[![Blogging in Hugo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Blogging_in_Hugo.svg)](https://dev.to/cloudcannon/blogging-in-hugo-5anj)
+[![Hugo Templating Basics](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Hugo_Templating_Basics.svg)](https://dev.to/cloudcannon/hugo-templating-basics-1827)
+[![Hugo Partials](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Hugo_Partials.svg)](https://dev.to/cloudcannon/hugo-partials-no2)
+[![Layouts in Hugo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Layouts_in_Hugo.svg)](https://dev.to/cloudcannon/layouts-in-hugo-31hn)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, June 9, 2022 at 12:12:00 PM
+> Last updated: Thursday, June 9, 2022 at 6:54:02 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, June 9, 2022 at 12:12:03 PM
+> Last updated: Thursday, June 9, 2022 at 6:54:07 PM
 
 > Showing 5 of 30 posts.
 
