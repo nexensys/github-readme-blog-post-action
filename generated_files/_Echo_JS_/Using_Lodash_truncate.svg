@@ -78,8 +78,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
         <div class="image" />
 <div class="text">
-          <div class="title">How&#0032;to&#0032;Remove&#0032;a&#0032;null&#0032;from&#0032;an&#0032;Object&#0032;with&#0032;Lodash</div>
-          <div class="description">Here&#0039;s&#0032;how&#0032;you&#0032;can&#0032;remove&#0032;&#0096;null&#0096;&#0032;properties&#0032;from&#0032;a&#0032;JavaScript&#0032;object&#0032;using&#0032;Lodash&#0046;</div>
+          <div class="title">Using&#0032;Lodash&#0032;truncate</div>
+          <div class="description">Here&#0039;s&#0032;how&#0032;you&#0032;can&#0032;use&#0032;the&#0032;&#0096;truncate&#0040;&#0041;&#0096;&#0032;function&#0032;in&#0032;Lodash&#0032;to&#0032;trim&#0032;strings</div>
           <div class="date"></div>
           <div class="data">
             <span class="author"></span> 
