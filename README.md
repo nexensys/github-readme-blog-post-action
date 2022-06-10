@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, June 10, 2022 at 6:19:07 AM
+> Last updated: Friday, June 10, 2022 at 12:11:55 PM
 
 > Showing 5 of 12 posts.
 
-[![Appwrite Community Report #9](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Appwrite_Community_Report__9.svg)](https://dev.to/appwrite/appwrite-community-report-9-57l2)
-[![hostname Command in CLI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/hostname_Command_in_CLI.svg)](https://dev.to/baransel/hostname-command-in-cli-4fjl)
-[![Machine Learning for a Shopify store – a step by step guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Machine_Learning_for_a_Shopify_store_–_a_step_by_step_guide.svg)](https://dev.to/mindsdb/machine-learning-for-a-shopify-store-a-step-by-step-guide-2gmf)
-[![Suggest some project ideas..](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Suggest_some_project_ideas...svg)](https://dev.to/aakash1/suggest-some-project-ideas-pjd)
-[![AWS open source news and updates, #116](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_open_source_news_and_updates___116.svg)](https://dev.to/aws/aws-open-source-news-and-updates-116-22dj)
+[![Practical Use of Builder Pattern in Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Practical_Use_of_Builder_Pattern_in_Javascript.svg)](https://dev.to/yohanesss/practical-use-of-builder-pattern-in-javascript-4hg4)
+[![Node.js Tutorial for Beginners: Learn Node in 1 Hour](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Node.js_Tutorial_for_Beginners__Learn_Node_in_1_Hour.svg)](https://dev.to/wenura/nodejs-tutorial-for-beginners-learn-node-in-1-hour-40b)
+[![JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_Tutorial_for_Beginners__Learn_JavaScript_in_1_Hour.svg)](https://dev.to/wenura/javascript-tutorial-for-beginners-learn-javascript-in-1-hour-304m)
+[![Our new video jingle](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Our_new_video_jingle.svg)](https://dev.to/luos/our-new-video-jingle-27dm)
+[![How to Copy object?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Copy_object_.svg)](https://dev.to/ravikumar1002/how-to-copy-object-2hmf)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, June 10, 2022 at 6:19:09 AM
+> Last updated: Friday, June 10, 2022 at 12:11:58 PM
 
 > Showing 4 of 4 posts.
 
+[![Mathematics is the music of reason.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Mathematics_is_the_music_of_reason..svg)](https://javascriptweekly.com/issues/593)
 [![Sure, you can make games in Word with JavaScript now.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Sure__you_can_make_games_in_Word_with_JavaScript_now..svg)](https://javascriptweekly.com/issues/592)
 [![Airbnb's uncommon route to faster JS builds](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Airbnb's_uncommon_route_to_faster_JS_builds.svg)](https://javascriptweekly.com/issues/591)
 [![Getting animated](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Getting_animated.svg)](https://javascriptweekly.com/issues/590)
-[![19 hours of D3.js??](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/19_hours_of_D3.js__.svg)](https://javascriptweekly.com/issues/589)
 
 
 ## Echo JS
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, June 10, 2022 at 6:19:12 AM
+> Last updated: Friday, June 10, 2022 at 12:12:01 PM
 
 > Showing 5 of 30 posts.
 
