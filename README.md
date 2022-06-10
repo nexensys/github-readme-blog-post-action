@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, June 10, 2022 at 12:12:22 AM
+> Last updated: Friday, June 10, 2022 at 6:19:07 AM
 
 > Showing 5 of 12 posts.
 
-[![What are some advice for starting the first OSS?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_are_some_advice_for_starting_the_first_OSS_.svg)](https://dev.to/khokon/what-are-some-advice-for-starting-the-first-oss-1ffj)
-[![All Live Streaming Features in One Article](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/All_Live_Streaming_Features_in_One_Article.svg)](https://dev.to/davidrelo/all-live-streaming-features-in-one-article-29n6)
-[![How to Customize the React Breadcrumb Component using Templates](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Customize_the_React_Breadcrumb_Component_using_Templates.svg)](https://dev.to/syncfusion/how-to-customize-the-react-breadcrumb-component-using-templates-525a)
-[![A Starter Guide to Build an SEO Friendly Website (For 2022 SEO Noobs)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Starter_Guide_to_Build_an_SEO_Friendly_Website_(For_2022_SEO_Noobs).svg)](https://dev.to/sojinsamuel/a-starter-guide-to-build-an-seo-friendly-website-for-2022-seo-noobs-4md7)
-[![O que é Github?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/O_que_é_Github_.svg)](https://dev.to/luysla/o-que-e-github-1hlj)
+[![Appwrite Community Report #9](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Appwrite_Community_Report__9.svg)](https://dev.to/appwrite/appwrite-community-report-9-57l2)
+[![hostname Command in CLI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/hostname_Command_in_CLI.svg)](https://dev.to/baransel/hostname-command-in-cli-4fjl)
+[![Machine Learning for a Shopify store – a step by step guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Machine_Learning_for_a_Shopify_store_–_a_step_by_step_guide.svg)](https://dev.to/mindsdb/machine-learning-for-a-shopify-store-a-step-by-step-guide-2gmf)
+[![Suggest some project ideas..](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Suggest_some_project_ideas...svg)](https://dev.to/aakash1/suggest-some-project-ideas-pjd)
+[![AWS open source news and updates, #116](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_open_source_news_and_updates___116.svg)](https://dev.to/aws/aws-open-source-news-and-updates-116-22dj)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, June 10, 2022 at 12:12:26 AM
+> Last updated: Friday, June 10, 2022 at 6:19:09 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,21 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, June 10, 2022 at 12:12:29 AM
+> Last updated: Friday, June 10, 2022 at 6:19:12 AM
 
 > Showing 5 of 30 posts.
 
-[![
-JavaScript Builder Design Pattern
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_JavaScript_Builder_Design_Pattern_.svg)](
-https://www.dofactory.com/javascript/design-patterns/builder
-)
+[![Routing with React Router 6](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Routing_with_React_Router_6.svg)](https://blog.openreplay.com/routing-with-react-router-6)
 [![Using Lodash truncate](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_Lodash_truncate.svg)](
 https://masteringjs.io/tutorials/lodash/truncate
 )
-[![Content Management Systems for Gatsby](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Content_Management_Systems_for_Gatsby.svg)](https://blog.openreplay.com/content-management-systems-for-gatsby)
-[![GitHub - NaDeSys/SparkDB: CSV-to-database-structure project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_NaDeSys_SparkDB__CSV-to-database-structure_project.svg)](https://github.com/NaDeSys/SparkDB)
 [![Running Vim Text Editor in the Browser with WebAssembly](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Running_Vim_Text_Editor_in_the_Browser_with_WebAssembly.svg)](https://www.youtube.com/watch?v=ayOP3hyRVrc)
+[![How to Remove a null from an Object with Lodash](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Remove_a_null_from_an_Object_with_Lodash.svg)](
+https://masteringjs.io/tutorials/lodash/remove-null-from-object
+)
+[![JavaScript Design Patterns #10 - Builder Pattern](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Design_Patterns__10_-_Builder_Pattern.svg)](https://www.youtube.com/watch?v=McF9ak0kKjA)
 
 
 <!-- post-list:end -->
