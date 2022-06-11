@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, June 10, 2022 at 12:11:55 PM
+> Last updated: Friday, June 10, 2022 at 6:48:59 PM
 
 > Showing 5 of 12 posts.
 
-[![Practical Use of Builder Pattern in Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Practical_Use_of_Builder_Pattern_in_Javascript.svg)](https://dev.to/yohanesss/practical-use-of-builder-pattern-in-javascript-4hg4)
-[![Node.js Tutorial for Beginners: Learn Node in 1 Hour](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Node.js_Tutorial_for_Beginners__Learn_Node_in_1_Hour.svg)](https://dev.to/wenura/nodejs-tutorial-for-beginners-learn-node-in-1-hour-40b)
-[![JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_Tutorial_for_Beginners__Learn_JavaScript_in_1_Hour.svg)](https://dev.to/wenura/javascript-tutorial-for-beginners-learn-javascript-in-1-hour-304m)
-[![Our new video jingle](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Our_new_video_jingle.svg)](https://dev.to/luos/our-new-video-jingle-27dm)
-[![How to Copy object?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Copy_object_.svg)](https://dev.to/ravikumar1002/how-to-copy-object-2hmf)
+[![React beautiful animation reordering the list of items](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_beautiful_animation_reordering_the_list_of_items.svg)](https://dev.to/toantd90/react-beautiful-animation-reordering-the-list-of-items-1mbp)
+[![Hugo vs. Gatsby.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Hugo_vs._Gatsby.js.svg)](https://dev.to/cloudcannon/hugo-vs-gatsbyjs-35gd)
+[![The experience of creating my own JavaScript runtime - #1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_experience_of_creating_my_own_JavaScript_runtime_-__1.svg)](https://dev.to/victoriarose/the-experience-of-creating-my-own-javascript-runtime-1-4h9j)
+[![Autogenerating clients with FastAPI and Github Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Autogenerating_clients_with_FastAPI_and_Github_Actions.svg)](https://dev.to/propelauth/autogenerating-clients-with-fastapi-and-github-actions-2lm9)
+[![How to Make a Treemap in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Make_a_Treemap_in_JavaScript.svg)](https://dev.to/andreykh1985/how-to-make-a-treemap-in-javascript-5bn6)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, June 10, 2022 at 12:11:58 PM
+> Last updated: Friday, June 10, 2022 at 6:49:01 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, June 10, 2022 at 12:12:01 PM
+> Last updated: Friday, June 10, 2022 at 6:49:04 PM
 
 > Showing 5 of 30 posts.
 
