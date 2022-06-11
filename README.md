@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, June 11, 2022 at 12:11:27 AM
+> Last updated: Saturday, June 11, 2022 at 6:16:04 AM
 
 > Showing 5 of 12 posts.
 
-[![How to create a scroll to top button with vanilla JS & CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_a_scroll_to_top_button_with_vanilla_JS___CSS.svg)](https://dev.to/amirlotfi/how-to-create-a-scroll-to-top-button-with-vanilla-js-css-ji8)
-[![The End of Atom](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_End_of_Atom.svg)](https://dev.to/yokwejuste/the-end-of-atom-50p0)
-[![This is why everyone is using Reactjs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/This_is_why_everyone_is_using_Reactjs.svg)](https://dev.to/sanjaysinghrajpoot/key-features-that-comes-with-react-js-5fb5)
-[![Becoming a Modern Developer - Introduction](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Becoming_a_Modern_Developer_-_Introduction.svg)](https://dev.to/mittell/becoming-a-modern-developer-introduction-1ad0)
-[![Pure CSS Johnny Depp](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Pure_CSS_Johnny_Depp.svg)](https://dev.to/asyrafhussin4/pure-css-johnny-depp-4i5p)
+[![What are the internal workings of terminal commands?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_are_the_internal_workings_of_terminal_commands_.svg)](https://dev.to/siddhantkcode/what-are-the-internal-workings-of-terminal-commands-2ld1)
+[![What is Blockchain? How does it work? Why do we need it?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_Blockchain__How_does_it_work__Why_do_we_need_it_.svg)](https://dev.to/itsrakesh/what-is-blockchain-how-does-it-work-why-do-we-need-it-16ma)
+[![InDepth Guide for Customizing Angular Material Button](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/InDepth_Guide_for_Customizing_Angular_Material_Button.svg)](https://dev.to/shhdharmen/indepth-guide-for-customizing-angular-material-button-58do)
+[![free Instagram post today](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/free_Instagram_post_today.svg)](https://dev.to/technocraft27/free-instagram-post-today-21ip)
+[![10 Secure Coding Best Practices to Follow in Every Project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_Secure_Coding_Best_Practices_to_Follow_in_Every_Project.svg)](https://dev.to/smartscanner/10-secure-coding-best-practices-to-follow-in-every-project-1i9h)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, June 11, 2022 at 12:11:31 AM
+> Last updated: Saturday, June 11, 2022 at 6:16:08 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, June 11, 2022 at 12:11:36 AM
+> Last updated: Saturday, June 11, 2022 at 6:16:12 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - Comandeer/esm-loader-manager: Allows to use several ESM loaders in one Node.js application.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Comandeer_esm-loader-manager__Allows_to_use_several_ESM_loaders_in_one_Node.js_application..svg)](https://github.com/Comandeer/esm-loader-manager)
+[![GitHub - HC200ok/manual-data-masking: A lightweight javascript library for manual data masking](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_HC200ok_manual-data-masking__A_lightweight_javascript_library_for_manual_data_masking.svg)](https://github.com/HC200ok/manual-data-masking)
 [![Routing with React Router 6](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Routing_with_React_Router_6.svg)](https://blog.openreplay.com/routing-with-react-router-6)
 [![Using Lodash truncate](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_Lodash_truncate.svg)](
 https://masteringjs.io/tutorials/lodash/truncate
 )
 [![Running Vim Text Editor in the Browser with WebAssembly](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Running_Vim_Text_Editor_in_the_Browser_with_WebAssembly.svg)](https://www.youtube.com/watch?v=ayOP3hyRVrc)
-[![How to Remove a null from an Object with Lodash](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Remove_a_null_from_an_Object_with_Lodash.svg)](
-https://masteringjs.io/tutorials/lodash/remove-null-from-object
-)
-[![JavaScript Design Patterns #10 - Builder Pattern](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Design_Patterns__10_-_Builder_Pattern.svg)](https://www.youtube.com/watch?v=McF9ak0kKjA)
 
 
 <!-- post-list:end -->
