@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, June 11, 2022 at 6:16:04 AM
+> Last updated: Saturday, June 11, 2022 at 12:10:38 PM
 
 > Showing 5 of 12 posts.
 
-[![What are the internal workings of terminal commands?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_are_the_internal_workings_of_terminal_commands_.svg)](https://dev.to/siddhantkcode/what-are-the-internal-workings-of-terminal-commands-2ld1)
-[![What is Blockchain? How does it work? Why do we need it?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_Blockchain__How_does_it_work__Why_do_we_need_it_.svg)](https://dev.to/itsrakesh/what-is-blockchain-how-does-it-work-why-do-we-need-it-16ma)
-[![InDepth Guide for Customizing Angular Material Button](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/InDepth_Guide_for_Customizing_Angular_Material_Button.svg)](https://dev.to/shhdharmen/indepth-guide-for-customizing-angular-material-button-58do)
-[![free Instagram post today](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/free_Instagram_post_today.svg)](https://dev.to/technocraft27/free-instagram-post-today-21ip)
-[![10 Secure Coding Best Practices to Follow in Every Project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_Secure_Coding_Best_Practices_to_Follow_in_Every_Project.svg)](https://dev.to/smartscanner/10-secure-coding-best-practices-to-follow-in-every-project-1i9h)
+[![How to use advanced Typescript to define a `pipe` function](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_advanced_Typescript_to_define_a_`pipe`_function.svg)](https://dev.to/ecyrbe/how-to-use-advanced-typescript-to-define-a-pipe-function-381h)
+[![Adding Animated Wallpapers to my Personal Website / Desktop Environment](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Adding_Animated_Wallpapers_to_my_Personal_Website___Desktop_Environment.svg)](https://dev.to/dustinbrett/adding-animated-wallpapers-to-my-personal-website-desktop-environment-11do)
+[![Como automatizar o processo de versionamento de um projeto em Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Como_automatizar_o_processo_de_versionamento_de_um_projeto_em_Javascript.svg)](https://dev.to/andraderaul/como-automatizar-o-processo-de-versionamento-de-um-projeto-em-javascript-1kc9)
+[![Execute inside a docker container](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Execute_inside_a_docker_container.svg)](https://dev.to/dhanushnehru/execute-inside-a-docker-container-co3)
+[![Why did you choose dev.to?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_did_you_choose_dev.to_.svg)](https://dev.to/dumboprogrammer/why-did-you-chose-devto-1pdd)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, June 11, 2022 at 6:16:08 AM
+> Last updated: Saturday, June 11, 2022 at 12:10:40 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, June 11, 2022 at 6:16:12 AM
+> Last updated: Saturday, June 11, 2022 at 12:10:43 PM
 
 > Showing 5 of 30 posts.
 
