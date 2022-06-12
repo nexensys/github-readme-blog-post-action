@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, June 11, 2022 at 12:10:38 PM
+> Last updated: Saturday, June 11, 2022 at 6:53:31 PM
 
 > Showing 5 of 12 posts.
 
-[![How to use advanced Typescript to define a `pipe` function](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_advanced_Typescript_to_define_a_`pipe`_function.svg)](https://dev.to/ecyrbe/how-to-use-advanced-typescript-to-define-a-pipe-function-381h)
-[![Adding Animated Wallpapers to my Personal Website / Desktop Environment](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Adding_Animated_Wallpapers_to_my_Personal_Website___Desktop_Environment.svg)](https://dev.to/dustinbrett/adding-animated-wallpapers-to-my-personal-website-desktop-environment-11do)
-[![Como automatizar o processo de versionamento de um projeto em Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Como_automatizar_o_processo_de_versionamento_de_um_projeto_em_Javascript.svg)](https://dev.to/andraderaul/como-automatizar-o-processo-de-versionamento-de-um-projeto-em-javascript-1kc9)
-[![Execute inside a docker container](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Execute_inside_a_docker_container.svg)](https://dev.to/dhanushnehru/execute-inside-a-docker-container-co3)
-[![Why did you choose dev.to?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_did_you_choose_dev.to_.svg)](https://dev.to/dumboprogrammer/why-did-you-chose-devto-1pdd)
+[![Ağ istatistik uygulaması : IPTraf-ng](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ağ_istatistik_uygulaması___IPTraf-ng.svg)](https://dev.to/aciklab/ag-istatistik-uygulamasi-iptraf-ng-770)
+[![Estrutura do Vim/Neovim](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Estrutura_do_Vim_Neovim.svg)](https://dev.to/evertonlopesc/estrutura-do-vimneovim-1k1l)
+[![The need for Kubernetes and what it does?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_need_for_Kubernetes_and_what_it_does_.svg)](https://dev.to/bpb_online/the-need-for-kubernetes-and-what-it-does-5een)
+[![Websockets Chat Sample](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Websockets_Chat_Sample.svg)](https://dev.to/ion/websockets-chat-sample-470e)
+[![11 Tips For Getting Started with GAN (Generative Adversarial Network)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/11_Tips_For_Getting_Started_with_GAN_(Generative_Adversarial_Network).svg)](https://dev.to/imagescv/11-tips-for-getting-started-with-gan-generative-adversarial-network-elb)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, June 11, 2022 at 12:10:40 PM
+> Last updated: Saturday, June 11, 2022 at 6:53:33 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, June 11, 2022 at 12:10:43 PM
+> Last updated: Saturday, June 11, 2022 at 6:53:36 PM
 
 > Showing 5 of 30 posts.
 
+[![Make your app speak with React-Speech-kit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Make_your_app_speak_with_React-Speech-kit.svg)](https://blog.openreplay.com/make-your-app-speak-with-react-speech-kit)
 [![GitHub - Comandeer/esm-loader-manager: Allows to use several ESM loaders in one Node.js application.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Comandeer_esm-loader-manager__Allows_to_use_several_ESM_loaders_in_one_Node.js_application..svg)](https://github.com/Comandeer/esm-loader-manager)
 [![GitHub - HC200ok/manual-data-masking: A lightweight javascript library for manual data masking](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_HC200ok_manual-data-masking__A_lightweight_javascript_library_for_manual_data_masking.svg)](https://github.com/HC200ok/manual-data-masking)
 [![Routing with React Router 6](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Routing_with_React_Router_6.svg)](https://blog.openreplay.com/routing-with-react-router-6)
 [![Using Lodash truncate](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_Lodash_truncate.svg)](
 https://masteringjs.io/tutorials/lodash/truncate
 )
-[![Running Vim Text Editor in the Browser with WebAssembly](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Running_Vim_Text_Editor_in_the_Browser_with_WebAssembly.svg)](https://www.youtube.com/watch?v=ayOP3hyRVrc)
 
 
 <!-- post-list:end -->
