@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, June 12, 2022 at 12:12:41 AM
+> Last updated: Sunday, June 12, 2022 at 6:15:10 AM
 
 > Showing 5 of 12 posts.
 
-[![All Online Tools in “One Box”](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/All_Online_Tools_in_“One_Box”.svg)](https://dev.to/sktanwar2014/all-online-tools-in-one-box-16m4)
-[![Community Bonding Period at CircuitVerse — Google Summer of Code 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Community_Bonding_Period_at_CircuitVerse_—_Google_Summer_of_Code_2022.svg)](https://dev.to/vedantjain03/community-bonding-period-at-circuitverse-google-summer-of-code-2022-43cd)
-[![How to think like a programmer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_think_like_a_programmer.svg)](https://dev.to/mikhailkaran/how-to-think-like-a-programmer-4o5e)
-[![A Cool Way To Learn JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Cool_Way_To_Learn_JavaScript.svg)](https://dev.to/s_soumyakanta/a-cool-way-to-learn-javascript-5cbp)
-[![50+ hints JS(ES6+) developer must know (10th part)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/50+_hints_JS(ES6+)_developer_must_know_(10th_part).svg)](https://dev.to/stormytalent/50-hints-jses6-developer-must-know-10th-part-43ef)
+[![Text Formatting on HTML using JS Functions vs Angular Pipe.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Text_Formatting_on_HTML_using_JS_Functions_vs_Angular_Pipe..svg)](https://dev.to/shrihari/text-formatting-on-html-using-js-functions-vs-angular-pipe-1f8g)
+[![Understanding react hook(Part:1)-useState()](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_react_hook(Part_1)-useState().svg)](https://dev.to/srishtikprasad/understanding-react-hookpart1-usestate-5he1)
+[![.gitignore all .DS_Store files, even if already committed](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/.gitignore_all_.DS_Store_files__even_if_already_committed.svg)](https://dev.to/mattiadev/gitignore-mac-dsstore-files-even-if-already-committed-14dm)
+[![9 Beautiful Cool Text Effects using Google font Effects👌](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/9_Beautiful_Cool_Text_Effects_using_Google_font_Effects👌.svg)](https://dev.to/gulshanaggarwal/9-beautiful-cool-text-effects-using-google-font-effects-mn6)
+[![Retrieving latest asset prices in your React dApp](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Retrieving_latest_asset_prices_in_your_React_dApp.svg)](https://dev.to/murashow/retrieving-latest-asset-prices-in-your-react-dapp-23i9)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, June 12, 2022 at 12:12:44 AM
+> Last updated: Sunday, June 12, 2022 at 6:15:13 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,12 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, June 12, 2022 at 12:12:52 AM
+> Last updated: Sunday, June 12, 2022 at 6:15:58 AM
 
 > Showing 5 of 30 posts.
 
+[![Pikaso now supports NodeJs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Pikaso_now_supports_NodeJs.svg)](https://dev.to/raminmousavi/pikaso-now-supports-nodejs-3p9k)
+[![GitHub - lbkolev/arbitrage-gossip: Monitor cryptocurrency exchanges and alert on different platforms whenever price discrepancy occurs.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_lbkolev_arbitrage-gossip__Monitor_cryptocurrency_exchanges_and_alert_on_different_platforms_whenever_price_discrepancy_occurs..svg)](https://github.com/lbkolev/arbitrage-gossip)
 [![
 Tunnel Run game in 170 lines of pure JS
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Tunnel_Run_game_in_170_lines_of_pure_JS_.svg)](
@@ -54,8 +56,6 @@ https://slicker.me/javascript/tunnel/tunnel_run.htm
 )
 [![Make your app speak with React-Speech-kit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Make_your_app_speak_with_React-Speech-kit.svg)](https://blog.openreplay.com/make-your-app-speak-with-react-speech-kit)
 [![GitHub - Comandeer/esm-loader-manager: Allows to use several ESM loaders in one Node.js application.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Comandeer_esm-loader-manager__Allows_to_use_several_ESM_loaders_in_one_Node.js_application..svg)](https://github.com/Comandeer/esm-loader-manager)
-[![GitHub - HC200ok/manual-data-masking: A lightweight javascript library for manual data masking](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_HC200ok_manual-data-masking__A_lightweight_javascript_library_for_manual_data_masking.svg)](https://github.com/HC200ok/manual-data-masking)
-[![Routing with React Router 6](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Routing_with_React_Router_6.svg)](https://blog.openreplay.com/routing-with-react-router-6)
 
 
 <!-- post-list:end -->
