@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, June 11, 2022 at 6:53:31 PM
+> Last updated: Sunday, June 12, 2022 at 12:12:41 AM
 
 > Showing 5 of 12 posts.
 
-[![Ağ istatistik uygulaması : IPTraf-ng](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ağ_istatistik_uygulaması___IPTraf-ng.svg)](https://dev.to/aciklab/ag-istatistik-uygulamasi-iptraf-ng-770)
-[![Estrutura do Vim/Neovim](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Estrutura_do_Vim_Neovim.svg)](https://dev.to/evertonlopesc/estrutura-do-vimneovim-1k1l)
-[![The need for Kubernetes and what it does?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_need_for_Kubernetes_and_what_it_does_.svg)](https://dev.to/bpb_online/the-need-for-kubernetes-and-what-it-does-5een)
-[![Websockets Chat Sample](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Websockets_Chat_Sample.svg)](https://dev.to/ion/websockets-chat-sample-470e)
-[![11 Tips For Getting Started with GAN (Generative Adversarial Network)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/11_Tips_For_Getting_Started_with_GAN_(Generative_Adversarial_Network).svg)](https://dev.to/imagescv/11-tips-for-getting-started-with-gan-generative-adversarial-network-elb)
+[![All Online Tools in “One Box”](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/All_Online_Tools_in_“One_Box”.svg)](https://dev.to/sktanwar2014/all-online-tools-in-one-box-16m4)
+[![Community Bonding Period at CircuitVerse — Google Summer of Code 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Community_Bonding_Period_at_CircuitVerse_—_Google_Summer_of_Code_2022.svg)](https://dev.to/vedantjain03/community-bonding-period-at-circuitverse-google-summer-of-code-2022-43cd)
+[![How to think like a programmer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_think_like_a_programmer.svg)](https://dev.to/mikhailkaran/how-to-think-like-a-programmer-4o5e)
+[![A Cool Way To Learn JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Cool_Way_To_Learn_JavaScript.svg)](https://dev.to/s_soumyakanta/a-cool-way-to-learn-javascript-5cbp)
+[![50+ hints JS(ES6+) developer must know (10th part)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/50+_hints_JS(ES6+)_developer_must_know_(10th_part).svg)](https://dev.to/stormytalent/50-hints-jses6-developer-must-know-10th-part-43ef)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, June 11, 2022 at 6:53:33 PM
+> Last updated: Sunday, June 12, 2022 at 12:12:44 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, June 11, 2022 at 6:53:36 PM
+> Last updated: Sunday, June 12, 2022 at 12:12:52 AM
 
 > Showing 5 of 30 posts.
 
+[![
+Tunnel Run game in 170 lines of pure JS
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Tunnel_Run_game_in_170_lines_of_pure_JS_.svg)](
+https://slicker.me/javascript/tunnel/tunnel_run.htm
+)
 [![Make your app speak with React-Speech-kit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Make_your_app_speak_with_React-Speech-kit.svg)](https://blog.openreplay.com/make-your-app-speak-with-react-speech-kit)
 [![GitHub - Comandeer/esm-loader-manager: Allows to use several ESM loaders in one Node.js application.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Comandeer_esm-loader-manager__Allows_to_use_several_ESM_loaders_in_one_Node.js_application..svg)](https://github.com/Comandeer/esm-loader-manager)
 [![GitHub - HC200ok/manual-data-masking: A lightweight javascript library for manual data masking](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_HC200ok_manual-data-masking__A_lightweight_javascript_library_for_manual_data_masking.svg)](https://github.com/HC200ok/manual-data-masking)
 [![Routing with React Router 6](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Routing_with_React_Router_6.svg)](https://blog.openreplay.com/routing-with-react-router-6)
-[![Using Lodash truncate](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_Lodash_truncate.svg)](
-https://masteringjs.io/tutorials/lodash/truncate
-)
 
 
 <!-- post-list:end -->
