@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, June 12, 2022 at 6:15:10 AM
+> Last updated: Sunday, June 12, 2022 at 12:10:55 PM
 
 > Showing 5 of 12 posts.
 
-[![Text Formatting on HTML using JS Functions vs Angular Pipe.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Text_Formatting_on_HTML_using_JS_Functions_vs_Angular_Pipe..svg)](https://dev.to/shrihari/text-formatting-on-html-using-js-functions-vs-angular-pipe-1f8g)
-[![Understanding react hook(Part:1)-useState()](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_react_hook(Part_1)-useState().svg)](https://dev.to/srishtikprasad/understanding-react-hookpart1-usestate-5he1)
-[![.gitignore all .DS_Store files, even if already committed](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/.gitignore_all_.DS_Store_files__even_if_already_committed.svg)](https://dev.to/mattiadev/gitignore-mac-dsstore-files-even-if-already-committed-14dm)
-[![9 Beautiful Cool Text Effects using Google font Effects👌](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/9_Beautiful_Cool_Text_Effects_using_Google_font_Effects👌.svg)](https://dev.to/gulshanaggarwal/9-beautiful-cool-text-effects-using-google-font-effects-mn6)
-[![Retrieving latest asset prices in your React dApp](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Retrieving_latest_asset_prices_in_your_React_dApp.svg)](https://dev.to/murashow/retrieving-latest-asset-prices-in-your-react-dapp-23i9)
+[![5 Things every developer needs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Things_every_developer_needs.svg)](https://dev.to/itskunal/5-things-every-developer-needs-khn)
+[![React Frontend Code Review- Checklist (Master Code Review)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Frontend_Code_Review-_Checklist_(Master_Code_Review).svg)](https://dev.to/ritikbanger/react-frontend-code-review-checklist-master-code-review-4die)
+[![A Complete Beginners Guide to JavaScript Modules (2022 Noobs are Welcome)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Complete_Beginners_Guide_to_JavaScript_Modules_(2022_Noobs_are_Welcome).svg)](https://dev.to/sojinsamuel/a-complete-beginners-guide-to-javascript-modules-2022-noobs-are-welcome-4lhm)
+[![Types of api testing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Types_of_api_testing.svg)](https://dev.to/noablst/types-of-api-testing-3mf8)
+[![A Real “Buildless” Modern Web Development Workflow? Oh Yes!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Real_“Buildless”_Modern_Web_Development_Workflow__Oh_Yes!.svg)](https://dev.to/jaredcwhite/a-real-buildless-modern-web-development-workflow-oh-yes-d9a)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, June 12, 2022 at 6:15:13 AM
+> Last updated: Sunday, June 12, 2022 at 12:10:59 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, June 12, 2022 at 6:15:58 AM
+> Last updated: Sunday, June 12, 2022 at 12:11:02 PM
 
 > Showing 5 of 30 posts.
 
+[![
+A customizable and easy-to-use data table component made with Vue.js 3.x.
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_A_customizable_and_easy-to-use_data_table_component_made_with_Vue.js_3.x._.svg)](
+https://hc200ok.github.io/vue3-easy-data-table-doc/
+)
 [![Pikaso now supports NodeJs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Pikaso_now_supports_NodeJs.svg)](https://dev.to/raminmousavi/pikaso-now-supports-nodejs-3p9k)
 [![GitHub - lbkolev/arbitrage-gossip: Monitor cryptocurrency exchanges and alert on different platforms whenever price discrepancy occurs.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_lbkolev_arbitrage-gossip__Monitor_cryptocurrency_exchanges_and_alert_on_different_platforms_whenever_price_discrepancy_occurs..svg)](https://github.com/lbkolev/arbitrage-gossip)
 [![
@@ -55,7 +60,6 @@ Tunnel Run game in 170 lines of pure JS
 https://slicker.me/javascript/tunnel/tunnel_run.htm
 )
 [![Make your app speak with React-Speech-kit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Make_your_app_speak_with_React-Speech-kit.svg)](https://blog.openreplay.com/make-your-app-speak-with-react-speech-kit)
-[![GitHub - Comandeer/esm-loader-manager: Allows to use several ESM loaders in one Node.js application.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Comandeer_esm-loader-manager__Allows_to_use_several_ESM_loaders_in_one_Node.js_application..svg)](https://github.com/Comandeer/esm-loader-manager)
 
 
 <!-- post-list:end -->
