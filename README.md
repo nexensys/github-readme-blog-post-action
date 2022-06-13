@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, June 13, 2022 at 6:19:50 AM
+> Last updated: Monday, June 13, 2022 at 12:13:49 PM
 
 > Showing 5 of 12 posts.
 
-[![The Qwak Machine Learning (ML) Production Platform Advantage](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Qwak_Machine_Learning_(ML)_Production_Platform_Advantage.svg)](https://dev.to/venturecation/the-qwak-machine-learning-ml-production-platform-advantage-17p3)
-[![What is your GitHub profile? Share it here! ⚛️](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_your_GitHub_profile__Share_it_here!_⚛️.svg)](https://dev.to/meatboy/what-is-your-github-profile-share-it-here-55c8)
-[![Pixel-pretty-close](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Pixel-pretty-close.svg)](https://dev.to/topcode007/pixel-pretty-close-2n2d)
-[![Migrating from VS Code to VS Codium on Linux painlessly](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Migrating_from_VS_Code_to_VS_Codium_on_Linux_painlessly.svg)](https://dev.to/robole/migrating-from-vs-code-to-vs-codium-on-linux-painlessly-3ejd)
-[![JavaScript Interview Questions Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_Interview_Questions_Part_1.svg)](https://dev.to/arjuncodess/javascript-interview-questions-part-1-1mo0)
+[![AWS NLP Newsletter - June 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_NLP_Newsletter_-_June_2022.svg)](https://dev.to/aws/aws-nlp-newsletter-june-2022-2hml)
+[![How to Leverage Kubecost to view real-time K8s spend data in Azure](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Leverage_Kubecost_to_view_real-time_K8s_spend_data_in_Azure.svg)](https://dev.to/makendrang/how-to-leverage-kubecost-to-view-real-time-k8s-spend-data-in-azure-54l0)
+[![Maths x Coding Challenges](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Maths_x_Coding_Challenges.svg)](https://dev.to/vulcanwm/maths-x-coding-challenges-oo4)
+[![Resolvendo problema de performance no PostgreSQL com CTE](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Resolvendo_problema_de_performance_no_PostgreSQL_com_CTE.svg)](https://dev.to/leandronsp/resolvendo-problema-de-performance-no-postgresql-com-cte-468d)
+[![Saying No is the Ultimate Productivity Hack For 2022 Yes Man or Woman](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Saying_No_is_the_Ultimate_Productivity_Hack_For_2022_Yes_Man_or_Woman.svg)](https://dev.to/sojinsamuel/saying-no-is-the-ultimate-productivity-hack-for-2022-yes-man-or-woman-33fi)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, June 13, 2022 at 6:19:53 AM
+> Last updated: Monday, June 13, 2022 at 12:13:52 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, June 13, 2022 at 6:19:55 AM
+> Last updated: Monday, June 13, 2022 at 12:13:55 PM
 
 > Showing 5 of 30 posts.
 
+[![API with NestJS #65. Implementing soft deletes using MikroORM and filters](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__65._Implementing_soft_deletes_using_MikroORM_and_filters.svg)](http://wanago.io/2022/06/13/api-nestjs-soft-deletes-mikroorm-filters/)
+[![
+🖤 Easily create infinite scroll in your React components with useInfiniteScroll
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_🖤_Easily_create_infinite_scroll_in_your_React_components_with_useInfiniteScroll_.svg)](
+https://antonioru.github.io/beautiful-react-hooks/#/useInfiniteScroll
+)
 [![FoalTS 2022 survey is open! | FoalTS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/FoalTS_2022_survey_is_open!___FoalTS.svg)](https://foalts.org/blog/2022/06/13/FoalTS-2022-survey-is-open)
 [![Adding Animated Wallpapers to my Personal Website / Desktop Environment](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Adding_Animated_Wallpapers_to_my_Personal_Website___Desktop_Environment.svg)](https://dev.to/dustinbrett/adding-animated-wallpapers-to-my-personal-website-desktop-environment-11do)
 [![Introduction to Digital Signature for the Working Developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Introduction_to_Digital_Signature_for_the_Working_Developer.svg)](https://www.geekabyte.io/2022/06/introduction-to-digital-signature-for.html)
-[![Understanding the Template Element in HTML](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Understanding_the_Template_Element_in_HTML.svg)](https://blog.openreplay.com/understanding-the-template-element-in-html)
-[![
-A customizable and easy-to-use data table component made with Vue.js 3.x.
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_A_customizable_and_easy-to-use_data_table_component_made_with_Vue.js_3.x._.svg)](
-https://hc200ok.github.io/vue3-easy-data-table-doc/
-)
 
 
 <!-- post-list:end -->
