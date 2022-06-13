@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, June 13, 2022 at 12:13:54 AM
+> Last updated: Monday, June 13, 2022 at 6:19:50 AM
 
 > Showing 5 of 12 posts.
 
-[![Create a Docker based Self Hosted GitHub runner Linux container](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_a_Docker_based_Self_Hosted_GitHub_runner_Linux_container.svg)](https://dev.to/pwd9000/create-a-docker-based-self-hosted-github-runner-linux-container-48dh)
-[![FoalTS 2022 survey is open!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/FoalTS_2022_survey_is_open!.svg)](https://dev.to/loicpoullain/foalts-2022-survey-is-open-117c)
-[![async and await in javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/async_and_await_in_javascript.svg)](https://dev.to/digomic/async-and-await-in-javascript-2bc4)
-[![Learn how to Dynamically Add App Features with AWS AppConfig Feature Flags (+ Linux 101)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Learn_how_to_Dynamically_Add_App_Features_with_AWS_AppConfig_Feature_Flags_(+_Linux_101).svg)](https://dev.to/aws-builders/learn-how-to-dynamically-add-app-features-with-aws-appconfig-feature-flags-linux-101-4cai)
-[![Deep Insights into JavaScript Frameworks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deep_Insights_into_JavaScript_Frameworks.svg)](https://dev.to/ossinsight/deep-insights-into-javascript-frameworks-30d2)
+[![The Qwak Machine Learning (ML) Production Platform Advantage](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Qwak_Machine_Learning_(ML)_Production_Platform_Advantage.svg)](https://dev.to/venturecation/the-qwak-machine-learning-ml-production-platform-advantage-17p3)
+[![What is your GitHub profile? Share it here! ⚛️](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_your_GitHub_profile__Share_it_here!_⚛️.svg)](https://dev.to/meatboy/what-is-your-github-profile-share-it-here-55c8)
+[![Pixel-pretty-close](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Pixel-pretty-close.svg)](https://dev.to/topcode007/pixel-pretty-close-2n2d)
+[![Migrating from VS Code to VS Codium on Linux painlessly](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Migrating_from_VS_Code_to_VS_Codium_on_Linux_painlessly.svg)](https://dev.to/robole/migrating-from-vs-code-to-vs-codium-on-linux-painlessly-3ejd)
+[![JavaScript Interview Questions Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_Interview_Questions_Part_1.svg)](https://dev.to/arjuncodess/javascript-interview-questions-part-1-1mo0)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, June 13, 2022 at 12:13:57 AM
+> Last updated: Monday, June 13, 2022 at 6:19:53 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, June 13, 2022 at 12:13:59 AM
+> Last updated: Monday, June 13, 2022 at 6:19:55 AM
 
 > Showing 5 of 30 posts.
 
