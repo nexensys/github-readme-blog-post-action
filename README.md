@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, June 12, 2022 at 12:10:55 PM
+> Last updated: Sunday, June 12, 2022 at 6:54:38 PM
 
 > Showing 5 of 12 posts.
 
-[![5 Things every developer needs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Things_every_developer_needs.svg)](https://dev.to/itskunal/5-things-every-developer-needs-khn)
-[![React Frontend Code Review- Checklist (Master Code Review)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Frontend_Code_Review-_Checklist_(Master_Code_Review).svg)](https://dev.to/ritikbanger/react-frontend-code-review-checklist-master-code-review-4die)
-[![A Complete Beginners Guide to JavaScript Modules (2022 Noobs are Welcome)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Complete_Beginners_Guide_to_JavaScript_Modules_(2022_Noobs_are_Welcome).svg)](https://dev.to/sojinsamuel/a-complete-beginners-guide-to-javascript-modules-2022-noobs-are-welcome-4lhm)
-[![Types of api testing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Types_of_api_testing.svg)](https://dev.to/noablst/types-of-api-testing-3mf8)
-[![A Real “Buildless” Modern Web Development Workflow? Oh Yes!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Real_“Buildless”_Modern_Web_Development_Workflow__Oh_Yes!.svg)](https://dev.to/jaredcwhite/a-real-buildless-modern-web-development-workflow-oh-yes-d9a)
+[![How To Install And Configure The AWS CLI On Linux OS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Install_And_Configure_The_AWS_CLI_On_Linux_OS.svg)](https://dev.to/sholaumakhihe/how-to-install-and-configure-the-aws-cli-on-linux-os-2dma)
+[![3 actions to improve my English and the tools I must have - Dev Advocate Journey #DAJ 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/3_actions_to_improve_my_English_and_the_tools_I_must_have_-_Dev_Advocate_Journey__DAJ_2.svg)](https://dev.to/mafermazu/3-actions-to-improve-my-english-and-the-tools-i-must-have-dev-advocate-journey-daj-2-1n80)
+[![The Perfect Development Environment 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Perfect_Development_Environment_2022.svg)](https://dev.to/sagikazarmark/the-perfect-development-environment-2022-enf)
+[![React Component Lifecycle](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Component_Lifecycle.svg)](https://dev.to/vkton115/react-component-lifecycle-13c9)
+[![How I built a web app that emails me 5 random Kindle highlights daily](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_I_built_a_web_app_that_emails_me_5_random_Kindle_highlights_daily.svg)](https://dev.to/loicboset/how-i-built-a-web-app-that-emails-me-5-random-kindle-highlights-daily-5839)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, June 12, 2022 at 12:10:59 PM
+> Last updated: Sunday, June 12, 2022 at 6:54:40 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, June 12, 2022 at 12:11:02 PM
+> Last updated: Sunday, June 12, 2022 at 6:54:42 PM
 
 > Showing 5 of 30 posts.
 
+[![Understanding the Template Element in HTML](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Understanding_the_Template_Element_in_HTML.svg)](https://blog.openreplay.com/understanding-the-template-element-in-html)
 [![
 A customizable and easy-to-use data table component made with Vue.js 3.x.
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_A_customizable_and_easy-to-use_data_table_component_made_with_Vue.js_3.x._.svg)](
@@ -59,7 +60,6 @@ Tunnel Run game in 170 lines of pure JS
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Tunnel_Run_game_in_170_lines_of_pure_JS_.svg)](
 https://slicker.me/javascript/tunnel/tunnel_run.htm
 )
-[![Make your app speak with React-Speech-kit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Make_your_app_speak_with_React-Speech-kit.svg)](https://blog.openreplay.com/make-your-app-speak-with-react-speech-kit)
 
 
 <!-- post-list:end -->
