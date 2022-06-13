@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, June 12, 2022 at 6:54:38 PM
+> Last updated: Monday, June 13, 2022 at 12:13:54 AM
 
 > Showing 5 of 12 posts.
 
-[![How To Install And Configure The AWS CLI On Linux OS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Install_And_Configure_The_AWS_CLI_On_Linux_OS.svg)](https://dev.to/sholaumakhihe/how-to-install-and-configure-the-aws-cli-on-linux-os-2dma)
-[![3 actions to improve my English and the tools I must have - Dev Advocate Journey #DAJ 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/3_actions_to_improve_my_English_and_the_tools_I_must_have_-_Dev_Advocate_Journey__DAJ_2.svg)](https://dev.to/mafermazu/3-actions-to-improve-my-english-and-the-tools-i-must-have-dev-advocate-journey-daj-2-1n80)
-[![The Perfect Development Environment 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Perfect_Development_Environment_2022.svg)](https://dev.to/sagikazarmark/the-perfect-development-environment-2022-enf)
-[![React Component Lifecycle](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Component_Lifecycle.svg)](https://dev.to/vkton115/react-component-lifecycle-13c9)
-[![How I built a web app that emails me 5 random Kindle highlights daily](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_I_built_a_web_app_that_emails_me_5_random_Kindle_highlights_daily.svg)](https://dev.to/loicboset/how-i-built-a-web-app-that-emails-me-5-random-kindle-highlights-daily-5839)
+[![Create a Docker based Self Hosted GitHub runner Linux container](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_a_Docker_based_Self_Hosted_GitHub_runner_Linux_container.svg)](https://dev.to/pwd9000/create-a-docker-based-self-hosted-github-runner-linux-container-48dh)
+[![FoalTS 2022 survey is open!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/FoalTS_2022_survey_is_open!.svg)](https://dev.to/loicpoullain/foalts-2022-survey-is-open-117c)
+[![async and await in javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/async_and_await_in_javascript.svg)](https://dev.to/digomic/async-and-await-in-javascript-2bc4)
+[![Learn how to Dynamically Add App Features with AWS AppConfig Feature Flags (+ Linux 101)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Learn_how_to_Dynamically_Add_App_Features_with_AWS_AppConfig_Feature_Flags_(+_Linux_101).svg)](https://dev.to/aws-builders/learn-how-to-dynamically-add-app-features-with-aws-appconfig-feature-flags-linux-101-4cai)
+[![Deep Insights into JavaScript Frameworks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deep_Insights_into_JavaScript_Frameworks.svg)](https://dev.to/ossinsight/deep-insights-into-javascript-frameworks-30d2)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, June 12, 2022 at 6:54:40 PM
+> Last updated: Monday, June 13, 2022 at 12:13:57 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,22 +43,18 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, June 12, 2022 at 6:54:42 PM
+> Last updated: Monday, June 13, 2022 at 12:13:59 AM
 
 > Showing 5 of 30 posts.
 
+[![FoalTS 2022 survey is open! | FoalTS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/FoalTS_2022_survey_is_open!___FoalTS.svg)](https://foalts.org/blog/2022/06/13/FoalTS-2022-survey-is-open)
+[![Adding Animated Wallpapers to my Personal Website / Desktop Environment](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Adding_Animated_Wallpapers_to_my_Personal_Website___Desktop_Environment.svg)](https://dev.to/dustinbrett/adding-animated-wallpapers-to-my-personal-website-desktop-environment-11do)
+[![Introduction to Digital Signature for the Working Developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Introduction_to_Digital_Signature_for_the_Working_Developer.svg)](https://www.geekabyte.io/2022/06/introduction-to-digital-signature-for.html)
 [![Understanding the Template Element in HTML](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Understanding_the_Template_Element_in_HTML.svg)](https://blog.openreplay.com/understanding-the-template-element-in-html)
 [![
 A customizable and easy-to-use data table component made with Vue.js 3.x.
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_A_customizable_and_easy-to-use_data_table_component_made_with_Vue.js_3.x._.svg)](
 https://hc200ok.github.io/vue3-easy-data-table-doc/
-)
-[![Pikaso now supports NodeJs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Pikaso_now_supports_NodeJs.svg)](https://dev.to/raminmousavi/pikaso-now-supports-nodejs-3p9k)
-[![GitHub - lbkolev/arbitrage-gossip: Monitor cryptocurrency exchanges and alert on different platforms whenever price discrepancy occurs.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_lbkolev_arbitrage-gossip__Monitor_cryptocurrency_exchanges_and_alert_on_different_platforms_whenever_price_discrepancy_occurs..svg)](https://github.com/lbkolev/arbitrage-gossip)
-[![
-Tunnel Run game in 170 lines of pure JS
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Tunnel_Run_game_in_170_lines_of_pure_JS_.svg)](
-https://slicker.me/javascript/tunnel/tunnel_run.htm
 )
 
 
