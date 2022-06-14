@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, June 13, 2022 at 12:13:49 PM
+> Last updated: Monday, June 13, 2022 at 6:59:36 PM
 
 > Showing 5 of 12 posts.
 
-[![AWS NLP Newsletter - June 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_NLP_Newsletter_-_June_2022.svg)](https://dev.to/aws/aws-nlp-newsletter-june-2022-2hml)
-[![How to Leverage Kubecost to view real-time K8s spend data in Azure](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Leverage_Kubecost_to_view_real-time_K8s_spend_data_in_Azure.svg)](https://dev.to/makendrang/how-to-leverage-kubecost-to-view-real-time-k8s-spend-data-in-azure-54l0)
-[![Maths x Coding Challenges](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Maths_x_Coding_Challenges.svg)](https://dev.to/vulcanwm/maths-x-coding-challenges-oo4)
-[![Resolvendo problema de performance no PostgreSQL com CTE](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Resolvendo_problema_de_performance_no_PostgreSQL_com_CTE.svg)](https://dev.to/leandronsp/resolvendo-problema-de-performance-no-postgresql-com-cte-468d)
-[![Saying No is the Ultimate Productivity Hack For 2022 Yes Man or Woman](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Saying_No_is_the_Ultimate_Productivity_Hack_For_2022_Yes_Man_or_Woman.svg)](https://dev.to/sojinsamuel/saying-no-is-the-ultimate-productivity-hack-for-2022-yes-man-or-woman-33fi)
+[![turn your website to android app in a few minutes and publish to google play](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/turn_your_website_to_android_app_in_a_few_minutes_and_publish_to_google_play.svg)](https://dev.to/amreldessouki/add-your-website-link-and-publish-your-android-app-in-a-few-minutes-3iel)
+[![Funciones de flecha en JavaScript + this](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Funciones_de_flecha_en_JavaScript_+_this.svg)](https://dev.to/jairdev/funciones-de-flecha-en-javascript-this-480a)
+[![VSCode Like a Pro on Your Mac](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/VSCode_Like_a_Pro_on_Your_Mac.svg)](https://dev.to/alternate_robot/vscode-like-a-pro-on-your-mac-44f1)
+[![11ty Second 11ty: Basics of Collections](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/11ty_Second_11ty__Basics_of_Collections.svg)](https://dev.to/brob/11ty-second-11ty-basics-of-collections-286f)
+[![Can you remember how many project you have worked on as a programmer ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Can_you_remember_how_many_project_you_have_worked_on_as_a_programmer__.svg)](https://dev.to/callmebobonwa/can-you-remember-how-many-project-you-have-worked-on-as-a-programmer-36h0)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, June 13, 2022 at 12:13:52 PM
+> Last updated: Monday, June 13, 2022 at 6:59:39 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, June 13, 2022 at 12:13:55 PM
+> Last updated: Monday, June 13, 2022 at 6:59:43 PM
 
 > Showing 5 of 30 posts.
 
@@ -55,7 +55,7 @@ https://antonioru.github.io/beautiful-react-hooks/#/useInfiniteScroll
 )
 [![FoalTS 2022 survey is open! | FoalTS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/FoalTS_2022_survey_is_open!___FoalTS.svg)](https://foalts.org/blog/2022/06/13/FoalTS-2022-survey-is-open)
 [![Adding Animated Wallpapers to my Personal Website / Desktop Environment](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Adding_Animated_Wallpapers_to_my_Personal_Website___Desktop_Environment.svg)](https://dev.to/dustinbrett/adding-animated-wallpapers-to-my-personal-website-desktop-environment-11do)
-[![Introduction to Digital Signature for the Working Developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Introduction_to_Digital_Signature_for_the_Working_Developer.svg)](https://www.geekabyte.io/2022/06/introduction-to-digital-signature-for.html)
+[![Understanding the Template Element in HTML](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Understanding_the_Template_Element_in_HTML.svg)](https://blog.openreplay.com/understanding-the-template-element-in-html)
 
 
 <!-- post-list:end -->
