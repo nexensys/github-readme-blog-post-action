@@ -67,7 +67,7 @@
     <foreignObject width="600" height="100" x="5" y="5">
       <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
         <div class="text">
-          <div class="title">&#0010;🖤&#0032;Easily&#0032;create&#0032;infinite&#0032;scroll&#0032;in&#0032;your&#0032;React&#0032;components&#0032;with&#0032;useInfiniteScroll&#0010;</div>
+          <div class="title">&#0010;Easily&#0032;create&#0032;infinite&#0032;scroll&#0032;in&#0032;your&#0032;React&#0032;components&#0032;with&#0032;useInfiniteScroll&#0010;</div>
           <div class="description">Comments</div>
           <div class="date"></div>
           <div class="data">

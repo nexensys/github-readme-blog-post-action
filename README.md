@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, June 14, 2022 at 6:18:59 AM
+> Last updated: Tuesday, June 14, 2022 at 12:11:53 PM
 
 > Showing 5 of 12 posts.
 
-[![How to Reduce Time Spent on Refactoring? 3 Tips✅✅✅](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Reduce_Time_Spent_on_Refactoring__3_Tips✅✅✅.svg)](https://dev.to/alexomeyer/how-to-reduce-time-spent-on-refactoring-3-tips-5gmm)
-[![How to Create a Nuxt.js Ecommerce Storefront from Scratch Using Medusa Part 2: Adding Cart Functionality](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Create_a_Nuxt.js_Ecommerce_Storefront_from_Scratch_Using_Medusa_Part_2__Adding_Cart_Functionality.svg)](https://dev.to/medusajs/how-to-create-a-nuxtjs-ecommerce-storefront-from-scratch-using-medusa-part-2-adding-cart-functionality-9be)
-[![Create interesting blob shapes with CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_interesting_blob_shapes_with_CSS.svg)](https://dev.to/wenura/create-interesting-blob-shapes-with-css-cj)
-[![Angular 14: All the Important Features and Updates](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Angular_14__All_the_Important_Features_and_Updates.svg)](https://dev.to/dreamsoft4you/angular-14-all-the-important-features-and-updates-1bp1)
-[![I built the trendiest admin dashboard for React using the latest UI trends! Use it for free!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_built_the_trendiest_admin_dashboard_for_React_using_the_latest_UI_trends!_Use_it_for_free!.svg)](https://dev.to/fredy/i-built-the-trendiest-admin-dashboard-for-react-using-the-latest-ui-trends-use-it-for-free-21pn)
+[![Updating React App deployed on Firebase](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Updating_React_App_deployed_on_Firebase.svg)](https://dev.to/aniketkumarsinha/updating-react-app-deployed-on-firebase-kp2)
+[![Working With Remix-Router In React JS - A Look at New Data APIs in DataBrowserRouter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Working_With_Remix-Router_In_React_JS_-_A_Look_at_New_Data_APIs_in_DataBrowserRouter.svg)](https://dev.to/aaronksaunders/working-with-remix-router-in-react-js-a-look-at-new-data-apis-in-databrowserrouter-1b0l)
+[![20 chart.js Alternatives](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/20_chart.js_Alternatives.svg)](https://dev.to/gil_finkelstein/20-chartjs-alternatives-45aj)
+[![Node.js vs Rust performance for webservers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Node.js_vs_Rust_performance_for_webservers.svg)](https://dev.to/gfauchart/nodejs-vs-rust-performance-for-webservers-3npg)
+[![Scan to Cart QR Codes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Scan_to_Cart_QR_Codes.svg)](https://dev.to/birinderlobana/scan-to-cart-qr-codes-2gdc)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, June 14, 2022 at 6:19:02 AM
+> Last updated: Tuesday, June 14, 2022 at 12:11:56 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, June 14, 2022 at 6:19:08 AM
+> Last updated: Tuesday, June 14, 2022 at 12:12:01 PM
 
 > Showing 5 of 30 posts.
 
@@ -51,8 +51,8 @@ http://www.echojs.com
 [![Episode 15 - Web Components (part 2) with Chris Holt and Rob Eisenberg - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_15_-_Web_Components_(part_2)_with_Chris_Holt_and_Rob_Eisenberg_-_20minJS.svg)](https://podcast.20minjs.com/1952066/10783154-episode-15-web-components-part-2-with-chris-holt-and-rob-eisenberg)
 [![API with NestJS #65. Implementing soft deletes using MikroORM and filters](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__65._Implementing_soft_deletes_using_MikroORM_and_filters.svg)](http://wanago.io/2022/06/13/api-nestjs-soft-deletes-mikroorm-filters/)
 [![
-🖤 Easily create infinite scroll in your React components with useInfiniteScroll
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_🖤_Easily_create_infinite_scroll_in_your_React_components_with_useInfiniteScroll_.svg)](
+Easily create infinite scroll in your React components with useInfiniteScroll
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Easily_create_infinite_scroll_in_your_React_components_with_useInfiniteScroll_.svg)](
 https://antonioru.github.io/beautiful-react-hooks/#/useInfiniteScroll
 )
 [![FoalTS 2022 survey is open! | FoalTS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/FoalTS_2022_survey_is_open!___FoalTS.svg)](https://foalts.org/blog/2022/06/13/FoalTS-2022-survey-is-open)
