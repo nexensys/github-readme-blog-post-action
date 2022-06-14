@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, June 13, 2022 at 6:59:36 PM
+> Last updated: Tuesday, June 14, 2022 at 12:13:09 AM
 
 > Showing 5 of 12 posts.
 
-[![turn your website to android app in a few minutes and publish to google play](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/turn_your_website_to_android_app_in_a_few_minutes_and_publish_to_google_play.svg)](https://dev.to/amreldessouki/add-your-website-link-and-publish-your-android-app-in-a-few-minutes-3iel)
-[![Funciones de flecha en JavaScript + this](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Funciones_de_flecha_en_JavaScript_+_this.svg)](https://dev.to/jairdev/funciones-de-flecha-en-javascript-this-480a)
-[![VSCode Like a Pro on Your Mac](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/VSCode_Like_a_Pro_on_Your_Mac.svg)](https://dev.to/alternate_robot/vscode-like-a-pro-on-your-mac-44f1)
-[![11ty Second 11ty: Basics of Collections](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/11ty_Second_11ty__Basics_of_Collections.svg)](https://dev.to/brob/11ty-second-11ty-basics-of-collections-286f)
-[![Can you remember how many project you have worked on as a programmer ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Can_you_remember_how_many_project_you_have_worked_on_as_a_programmer__.svg)](https://dev.to/callmebobonwa/can-you-remember-how-many-project-you-have-worked-on-as-a-programmer-36h0)
+[![How I became an AWS Machine Learning Hero](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_I_became_an_AWS_Machine_Learning_Hero.svg)](https://dev.to/aws-heroes/how-i-became-an-aws-machine-learning-hero-5e75)
+[![Protect and Access you Kubernetes, Servers, Applications and Databases with Teleport](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Protect_and_Access_you_Kubernetes__Servers__Applications_and_Databases_with_Teleport.svg)](https://dev.to/n3wt0n/protect-and-access-you-kubernetes-servers-applications-and-databases-with-teleport-18oc)
+[![How to get paid article writing?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_get_paid_article_writing_.svg)](https://dev.to/yourmdsarfaraj/how-to-get-paid-article-writing-3bop)
+[![Tailwind CSS v/s Bootstrap: Which is a better framework to use](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tailwind_CSS_v_s_Bootstrap__Which_is_a_better_framework_to_use.svg)](https://dev.to/arjuncodess/tailwind-css-vs-bootstrap-which-is-a-better-framework-to-use-3bha)
+[![I have been using Fedora 36 for a month, here is my review.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_have_been_using_Fedora_36_for_a_month__here_is_my_review..svg)](https://dev.to/archerallstars/i-have-been-using-fedora-36-for-a-month-here-is-my-review-2c1h)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, June 13, 2022 at 6:59:39 PM
+> Last updated: Tuesday, June 14, 2022 at 12:13:12 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, June 13, 2022 at 6:59:43 PM
+> Last updated: Tuesday, June 14, 2022 at 12:13:18 AM
 
 > Showing 5 of 30 posts.
 
