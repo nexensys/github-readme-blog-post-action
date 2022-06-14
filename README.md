@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, June 14, 2022 at 12:13:09 AM
+> Last updated: Tuesday, June 14, 2022 at 6:18:59 AM
 
 > Showing 5 of 12 posts.
 
-[![How I became an AWS Machine Learning Hero](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_I_became_an_AWS_Machine_Learning_Hero.svg)](https://dev.to/aws-heroes/how-i-became-an-aws-machine-learning-hero-5e75)
-[![Protect and Access you Kubernetes, Servers, Applications and Databases with Teleport](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Protect_and_Access_you_Kubernetes__Servers__Applications_and_Databases_with_Teleport.svg)](https://dev.to/n3wt0n/protect-and-access-you-kubernetes-servers-applications-and-databases-with-teleport-18oc)
-[![How to get paid article writing?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_get_paid_article_writing_.svg)](https://dev.to/yourmdsarfaraj/how-to-get-paid-article-writing-3bop)
-[![Tailwind CSS v/s Bootstrap: Which is a better framework to use](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tailwind_CSS_v_s_Bootstrap__Which_is_a_better_framework_to_use.svg)](https://dev.to/arjuncodess/tailwind-css-vs-bootstrap-which-is-a-better-framework-to-use-3bha)
-[![I have been using Fedora 36 for a month, here is my review.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_have_been_using_Fedora_36_for_a_month__here_is_my_review..svg)](https://dev.to/archerallstars/i-have-been-using-fedora-36-for-a-month-here-is-my-review-2c1h)
+[![How to Reduce Time Spent on Refactoring? 3 Tips✅✅✅](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Reduce_Time_Spent_on_Refactoring__3_Tips✅✅✅.svg)](https://dev.to/alexomeyer/how-to-reduce-time-spent-on-refactoring-3-tips-5gmm)
+[![How to Create a Nuxt.js Ecommerce Storefront from Scratch Using Medusa Part 2: Adding Cart Functionality](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Create_a_Nuxt.js_Ecommerce_Storefront_from_Scratch_Using_Medusa_Part_2__Adding_Cart_Functionality.svg)](https://dev.to/medusajs/how-to-create-a-nuxtjs-ecommerce-storefront-from-scratch-using-medusa-part-2-adding-cart-functionality-9be)
+[![Create interesting blob shapes with CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_interesting_blob_shapes_with_CSS.svg)](https://dev.to/wenura/create-interesting-blob-shapes-with-css-cj)
+[![Angular 14: All the Important Features and Updates](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Angular_14__All_the_Important_Features_and_Updates.svg)](https://dev.to/dreamsoft4you/angular-14-all-the-important-features-and-updates-1bp1)
+[![I built the trendiest admin dashboard for React using the latest UI trends! Use it for free!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_built_the_trendiest_admin_dashboard_for_React_using_the_latest_UI_trends!_Use_it_for_free!.svg)](https://dev.to/fredy/i-built-the-trendiest-admin-dashboard-for-react-using-the-latest-ui-trends-use-it-for-free-21pn)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, June 14, 2022 at 12:13:12 AM
+> Last updated: Tuesday, June 14, 2022 at 6:19:02 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,12 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, June 14, 2022 at 12:13:18 AM
+> Last updated: Tuesday, June 14, 2022 at 6:19:08 AM
 
 > Showing 5 of 30 posts.
 
+[![Better Form Validation in React with Formik](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Better_Form_Validation_in_React_with_Formik.svg)](https://blog.openreplay.com/better-form-validation-in-react-with-formik)
+[![Episode 15 - Web Components (part 2) with Chris Holt and Rob Eisenberg - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_15_-_Web_Components_(part_2)_with_Chris_Holt_and_Rob_Eisenberg_-_20minJS.svg)](https://podcast.20minjs.com/1952066/10783154-episode-15-web-components-part-2-with-chris-holt-and-rob-eisenberg)
 [![API with NestJS #65. Implementing soft deletes using MikroORM and filters](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__65._Implementing_soft_deletes_using_MikroORM_and_filters.svg)](http://wanago.io/2022/06/13/api-nestjs-soft-deletes-mikroorm-filters/)
 [![
 🖤 Easily create infinite scroll in your React components with useInfiniteScroll
@@ -54,8 +56,6 @@ http://www.echojs.com
 https://antonioru.github.io/beautiful-react-hooks/#/useInfiniteScroll
 )
 [![FoalTS 2022 survey is open! | FoalTS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/FoalTS_2022_survey_is_open!___FoalTS.svg)](https://foalts.org/blog/2022/06/13/FoalTS-2022-survey-is-open)
-[![Adding Animated Wallpapers to my Personal Website / Desktop Environment](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Adding_Animated_Wallpapers_to_my_Personal_Website___Desktop_Environment.svg)](https://dev.to/dustinbrett/adding-animated-wallpapers-to-my-personal-website-desktop-environment-11do)
-[![Understanding the Template Element in HTML](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Understanding_the_Template_Element_in_HTML.svg)](https://blog.openreplay.com/understanding-the-template-element-in-html)
 
 
 <!-- post-list:end -->
