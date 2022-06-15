@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, June 14, 2022 at 6:54:54 PM
+> Last updated: Wednesday, June 15, 2022 at 12:12:19 AM
 
 > Showing 5 of 12 posts.
 
+[![Test Driven vs Behaviour Driven Development in RoR](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Test_Driven_vs_Behaviour_Driven_Development_in_RoR.svg)](https://dev.to/rachgrey/test-driven-vs-behaviour-driven-development-in-ror-kb2)
+[![Entendendo UNIX pipes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Entendendo_UNIX_pipes.svg)](https://dev.to/leandronsp/entendendo-unix-pipes-3k56)
+[![O que aprendi ao criar um monolito seguindo boas praticas de DDD e Clean Architecture](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/O_que_aprendi_ao_criar_um_monolito_seguindo_boas_praticas_de_DDD_e_Clean_Architecture.svg)](https://dev.to/yanpiing/o-que-aprendi-ao-criar-um-monolito-seguindo-boas-praticas-de-ddd-e-clean-architecture-b64)
 [![How to Prevent Merge Conflicts (or at least have less of them)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Prevent_Merge_Conflicts_(or_at_least_have_less_of_them).svg)](https://dev.to/github/how-to-prevent-merge-conflicts-or-at-least-have-less-of-them-109p)
 [![Create fake blockchaine to test youre smart-contract](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_fake_blockchaine_to_test_youre_smart-contract.svg)](https://dev.to/mrhili/create-fake-blockchaine-to-test-youre-smart-contract-39ng)
-[![Setup asdf & direnv](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Setup_asdf___direnv.svg)](https://dev.to/deepanchal/setup-asdf-direnv-5afo)
-[![Você conhece APL?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Você_conhece_APL_.svg)](https://dev.to/feministech/voce-conhece-apl-24b6)
-[![Instagram Advanced User Finder](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Instagram_Advanced_User_Finder.svg)](https://dev.to/suphi/instagram-advanced-user-finder-2538)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, June 14, 2022 at 6:54:57 PM
+> Last updated: Wednesday, June 15, 2022 at 12:12:22 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, June 14, 2022 at 6:55:02 PM
+> Last updated: Wednesday, June 15, 2022 at 12:12:29 AM
 
 > Showing 5 of 30 posts.
 
