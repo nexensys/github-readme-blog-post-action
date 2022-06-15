@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, June 15, 2022 at 12:12:19 AM
+> Last updated: Wednesday, June 15, 2022 at 6:18:06 AM
 
 > Showing 5 of 12 posts.
 
-[![Test Driven vs Behaviour Driven Development in RoR](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Test_Driven_vs_Behaviour_Driven_Development_in_RoR.svg)](https://dev.to/rachgrey/test-driven-vs-behaviour-driven-development-in-ror-kb2)
-[![Entendendo UNIX pipes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Entendendo_UNIX_pipes.svg)](https://dev.to/leandronsp/entendendo-unix-pipes-3k56)
-[![O que aprendi ao criar um monolito seguindo boas praticas de DDD e Clean Architecture](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/O_que_aprendi_ao_criar_um_monolito_seguindo_boas_praticas_de_DDD_e_Clean_Architecture.svg)](https://dev.to/yanpiing/o-que-aprendi-ao-criar-um-monolito-seguindo-boas-praticas-de-ddd-e-clean-architecture-b64)
-[![How to Prevent Merge Conflicts (or at least have less of them)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Prevent_Merge_Conflicts_(or_at_least_have_less_of_them).svg)](https://dev.to/github/how-to-prevent-merge-conflicts-or-at-least-have-less-of-them-109p)
-[![Create fake blockchaine to test youre smart-contract](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_fake_blockchaine_to_test_youre_smart-contract.svg)](https://dev.to/mrhili/create-fake-blockchaine-to-test-youre-smart-contract-39ng)
+[![Tech Radar for visualising Technology Strategy. What is it and how to build it?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tech_Radar_for_visualising_Technology_Strategy._What_is_it_and_how_to_build_it_.svg)](https://dev.to/ghostinthewire5/tech-radar-for-visualising-technology-strategy-what-is-it-and-how-to-build-it-gb8)
+[![Testing your Infrastructure as Code using Terratest](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Testing_your_Infrastructure_as_Code_using_Terratest.svg)](https://dev.to/akashw/testing-your-infrastructure-as-code-using-terratest-3hb6)
+[![My weaknesses as a manager](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_weaknesses_as_a_manager.svg)](https://dev.to/ksaaskil/my-weaknesses-as-a-manager-36pd)
+[![Designing a Scalable and Secure REST API Gateway](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Designing_a_Scalable_and_Secure_REST_API_Gateway.svg)](https://dev.to/roy8/designing-a-scalable-and-secure-rest-api-gateway-k5f)
+[![How to use Docker in your Node and React Applications](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_Docker_in_your_Node_and_React_Applications.svg)](https://dev.to/andrewbaisden/how-to-use-docker-in-your-node-and-react-applications-597e)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, June 15, 2022 at 12:12:22 AM
+> Last updated: Wednesday, June 15, 2022 at 6:18:10 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, June 15, 2022 at 12:12:29 AM
+> Last updated: Wednesday, June 15, 2022 at 6:18:15 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - tlandeka/authentication-microservice-with-domain-driven-design: Microservice for authentication with Domain Driven Design and CQRS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_tlandeka_authentication-microservice-with-domain-driven-design__Microservice_for_authentication_with_Domain_Driven_Design_and_CQRS.svg)](https://github.com/tlandeka/authentication-microservice-with-domain-driven-design)
 [![Better Form Validation in React with Formik](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Better_Form_Validation_in_React_with_Formik.svg)](https://blog.openreplay.com/better-form-validation-in-react-with-formik)
 [![Episode 15 - Web Components (part 2) with Chris Holt and Rob Eisenberg - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_15_-_Web_Components_(part_2)_with_Chris_Holt_and_Rob_Eisenberg_-_20minJS.svg)](https://podcast.20minjs.com/1952066/10783154-episode-15-web-components-part-2-with-chris-holt-and-rob-eisenberg)
 [![API with NestJS #65. Implementing soft deletes using MikroORM and filters](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__65._Implementing_soft_deletes_using_MikroORM_and_filters.svg)](http://wanago.io/2022/06/13/api-nestjs-soft-deletes-mikroorm-filters/)
@@ -55,7 +56,6 @@ Easily create infinite scroll in your React components with useInfiniteScroll
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Easily_create_infinite_scroll_in_your_React_components_with_useInfiniteScroll_.svg)](
 https://antonioru.github.io/beautiful-react-hooks/#/useInfiniteScroll
 )
-[![FoalTS 2022 survey is open! | FoalTS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/FoalTS_2022_survey_is_open!___FoalTS.svg)](https://foalts.org/blog/2022/06/13/FoalTS-2022-survey-is-open)
 
 
 <!-- post-list:end -->
