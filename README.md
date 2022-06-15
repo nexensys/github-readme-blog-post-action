@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, June 14, 2022 at 12:11:53 PM
+> Last updated: Tuesday, June 14, 2022 at 6:54:54 PM
 
 > Showing 5 of 12 posts.
 
-[![Updating React App deployed on Firebase](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Updating_React_App_deployed_on_Firebase.svg)](https://dev.to/aniketkumarsinha/updating-react-app-deployed-on-firebase-kp2)
-[![Working With Remix-Router In React JS - A Look at New Data APIs in DataBrowserRouter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Working_With_Remix-Router_In_React_JS_-_A_Look_at_New_Data_APIs_in_DataBrowserRouter.svg)](https://dev.to/aaronksaunders/working-with-remix-router-in-react-js-a-look-at-new-data-apis-in-databrowserrouter-1b0l)
-[![20 chart.js Alternatives](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/20_chart.js_Alternatives.svg)](https://dev.to/gil_finkelstein/20-chartjs-alternatives-45aj)
-[![Node.js vs Rust performance for webservers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Node.js_vs_Rust_performance_for_webservers.svg)](https://dev.to/gfauchart/nodejs-vs-rust-performance-for-webservers-3npg)
-[![Scan to Cart QR Codes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Scan_to_Cart_QR_Codes.svg)](https://dev.to/birinderlobana/scan-to-cart-qr-codes-2gdc)
+[![How to Prevent Merge Conflicts (or at least have less of them)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Prevent_Merge_Conflicts_(or_at_least_have_less_of_them).svg)](https://dev.to/github/how-to-prevent-merge-conflicts-or-at-least-have-less-of-them-109p)
+[![Create fake blockchaine to test youre smart-contract](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_fake_blockchaine_to_test_youre_smart-contract.svg)](https://dev.to/mrhili/create-fake-blockchaine-to-test-youre-smart-contract-39ng)
+[![Setup asdf & direnv](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Setup_asdf___direnv.svg)](https://dev.to/deepanchal/setup-asdf-direnv-5afo)
+[![Você conhece APL?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Você_conhece_APL_.svg)](https://dev.to/feministech/voce-conhece-apl-24b6)
+[![Instagram Advanced User Finder](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Instagram_Advanced_User_Finder.svg)](https://dev.to/suphi/instagram-advanced-user-finder-2538)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, June 14, 2022 at 12:11:56 PM
+> Last updated: Tuesday, June 14, 2022 at 6:54:57 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, June 14, 2022 at 12:12:01 PM
+> Last updated: Tuesday, June 14, 2022 at 6:55:02 PM
 
 > Showing 5 of 30 posts.
 
