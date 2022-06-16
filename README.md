@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, June 16, 2022 at 12:12:19 AM
+> Last updated: Thursday, June 16, 2022 at 6:18:56 AM
 
 > Showing 5 of 12 posts.
 
-[![New achivements of Mezon PHP Framework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/New_achivements_of_Mezon_PHP_Framework.svg)](https://dev.to/alexdodonov/new-achivements-of-mezon-php-framework-4g3h)
-[![Apache Airflow 2.3. Grid view the game changer.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Apache_Airflow_2.3._Grid_view_the_game_changer..svg)](https://dev.to/noppgithub/apache-airflow-23-grid-view-the-game-changer-49nd)
-[![Ansible For Everyone (Ansible Playbooks) - Part 3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ansible_For_Everyone_(Ansible_Playbooks)_-_Part_3.svg)](https://dev.to/aws-builders/ansible-for-everyone-ansible-playbooks-part-3-2dgj)
-[![Best Code to check if number is Prime](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_Code_to_check_if_number_is_Prime.svg)](https://dev.to/hebashakeel/best-code-to-check-if-number-is-prime-55nb)
-[![My New Portfolio and how to make one.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_New_Portfolio_and_how_to_make_one..svg)](https://dev.to/roman_soobben_22c01bcfb71/my-new-portfolio-and-how-to-make-one-49h2)
+[![Top 11 MYSQL monitoring tools in 2022 [open-source included]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_11_MYSQL_monitoring_tools_in_2022_[open-source_included].svg)](https://dev.to/signoz/top-11-mysql-monitoring-tools-in-2022-open-source-included-247m)
+[![Esse algoritmo vai te ajudar a entender quando utilizar Recursão ou Enum com Elixir.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Esse_algoritmo_vai_te_ajudar_a_entender_quando_utilizar_Recursão_ou_Enum_com_Elixir..svg)](https://dev.to/postelxpro/esse-algoritmo-vai-te-ajudar-a-entender-quando-utilizar-recursao-ou-enum-com-elixir-2pcf)
+[![Which Frontend Framework to Pick for Your E-commerce Storefront?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Which_Frontend_Framework_to_Pick_for_Your_E-commerce_Storefront_.svg)](https://dev.to/medusajs/which-frontend-framework-to-pick-for-your-e-commerce-storefront-12km)
+[![Flutter vs React Native: Head to Toe Comparison](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Flutter_vs_React_Native__Head_to_Toe_Comparison.svg)](https://dev.to/neha281104/flutter-vs-react-native-head-to-toe-comparison-1kj4)
+[![Using Google Sheets as your CMS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_Google_Sheets_as_your_CMS.svg)](https://dev.to/kaspera/using-google-sheets-as-your-cms-1h1p)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, June 16, 2022 at 12:12:23 AM
+> Last updated: Thursday, June 16, 2022 at 6:18:58 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, June 16, 2022 at 12:12:27 AM
+> Last updated: Thursday, June 16, 2022 at 6:19:01 AM
 
 > Showing 5 of 30 posts.
 
