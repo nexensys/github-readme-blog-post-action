@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, June 15, 2022 at 6:53:26 PM
+> Last updated: Thursday, June 16, 2022 at 12:12:19 AM
 
 > Showing 5 of 12 posts.
 
-[![🤖 New Engineering Opportunities - Week #25 of 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🤖_New_Engineering_Opportunities_-_Week__25_of_2022.svg)](https://dev.to/shman/new-engineering-opportunities-week-25-of-2022-5e7e)
-[![Entendendo Redux com ReactJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Entendendo_Redux_com_ReactJS.svg)](https://dev.to/engwilson/entendendo-redux-com-reactjs-p2l)
-[![Exploring Teams and SMTP with Appwrite](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exploring_Teams_and_SMTP_with_Appwrite.svg)](https://dev.to/gewenyu99/exploring-teams-and-smtp-with-appwrite-8fn)
-[![Free Data Engineering E-Books](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Free_Data_Engineering_E-Books.svg)](https://dev.to/designegycreatives/free-data-engineering-e-books-1l47)
-[![C++23: Narrowing contextual conversions to bool](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/C++23__Narrowing_contextual_conversions_to_bool.svg)](https://dev.to/sandordargo/c23-narrowing-contextual-conversions-to-bool-2fh8)
+[![New achivements of Mezon PHP Framework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/New_achivements_of_Mezon_PHP_Framework.svg)](https://dev.to/alexdodonov/new-achivements-of-mezon-php-framework-4g3h)
+[![Apache Airflow 2.3. Grid view the game changer.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Apache_Airflow_2.3._Grid_view_the_game_changer..svg)](https://dev.to/noppgithub/apache-airflow-23-grid-view-the-game-changer-49nd)
+[![Ansible For Everyone (Ansible Playbooks) - Part 3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ansible_For_Everyone_(Ansible_Playbooks)_-_Part_3.svg)](https://dev.to/aws-builders/ansible-for-everyone-ansible-playbooks-part-3-2dgj)
+[![Best Code to check if number is Prime](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_Code_to_check_if_number_is_Prime.svg)](https://dev.to/hebashakeel/best-code-to-check-if-number-is-prime-55nb)
+[![My New Portfolio and how to make one.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_New_Portfolio_and_how_to_make_one..svg)](https://dev.to/roman_soobben_22c01bcfb71/my-new-portfolio-and-how-to-make-one-49h2)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, June 15, 2022 at 6:53:30 PM
+> Last updated: Thursday, June 16, 2022 at 12:12:23 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, June 15, 2022 at 6:53:37 PM
+> Last updated: Thursday, June 16, 2022 at 12:12:27 AM
 
 > Showing 5 of 30 posts.
 
+[![Polyfills and helpers - How to save your bundle size](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Polyfills_and_helpers_-_How_to_save_your_bundle_size.svg)](https://www.nazha.co/posts/polyfills-and-helpers)
 [![Announcing Socket for GitHub 1.0 - Socket](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Announcing_Socket_for_GitHub_1.0_-_Socket.svg)](https://socket.dev/blog/socket-for-github-1.0)
 [![GitHub - yoxel/aurinko-workplace-apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_yoxel_aurinko-workplace-apps.svg)](https://github.com/yoxel/aurinko-workplace-apps)
 [![Better Form Validation in React with Formik](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Better_Form_Validation_in_React_with_Formik.svg)](https://blog.openreplay.com/better-form-validation-in-react-with-formik)
 [![Episode 15 - Web Components (part 2) with Chris Holt and Rob Eisenberg - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_15_-_Web_Components_(part_2)_with_Chris_Holt_and_Rob_Eisenberg_-_20minJS.svg)](https://podcast.20minjs.com/1952066/10783154-episode-15-web-components-part-2-with-chris-holt-and-rob-eisenberg)
-[![API with NestJS #65. Implementing soft deletes using MikroORM and filters](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__65._Implementing_soft_deletes_using_MikroORM_and_filters.svg)](http://wanago.io/2022/06/13/api-nestjs-soft-deletes-mikroorm-filters/)
 
 
 <!-- post-list:end -->
