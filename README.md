@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, June 16, 2022 at 6:18:56 AM
+> Last updated: Thursday, June 16, 2022 at 12:12:44 PM
 
 > Showing 5 of 12 posts.
 
-[![Top 11 MYSQL monitoring tools in 2022 [open-source included]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_11_MYSQL_monitoring_tools_in_2022_[open-source_included].svg)](https://dev.to/signoz/top-11-mysql-monitoring-tools-in-2022-open-source-included-247m)
-[![Esse algoritmo vai te ajudar a entender quando utilizar Recursão ou Enum com Elixir.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Esse_algoritmo_vai_te_ajudar_a_entender_quando_utilizar_Recursão_ou_Enum_com_Elixir..svg)](https://dev.to/postelxpro/esse-algoritmo-vai-te-ajudar-a-entender-quando-utilizar-recursao-ou-enum-com-elixir-2pcf)
-[![Which Frontend Framework to Pick for Your E-commerce Storefront?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Which_Frontend_Framework_to_Pick_for_Your_E-commerce_Storefront_.svg)](https://dev.to/medusajs/which-frontend-framework-to-pick-for-your-e-commerce-storefront-12km)
-[![Flutter vs React Native: Head to Toe Comparison](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Flutter_vs_React_Native__Head_to_Toe_Comparison.svg)](https://dev.to/neha281104/flutter-vs-react-native-head-to-toe-comparison-1kj4)
-[![Using Google Sheets as your CMS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_Google_Sheets_as_your_CMS.svg)](https://dev.to/kaspera/using-google-sheets-as-your-cms-1h1p)
+[![I'm having brain surgery.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I'm_having_brain_surgery..svg)](https://dev.to/antacid/im-having-brain-surgery-502h)
+[![The Xata Experience](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Xata_Experience.svg)](https://dev.to/atila/the-xata-experience-55g6)
+[![A missing namespace definition made me discover a practical Symfony Profiler feature](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_missing_namespace_definition_made_me_discover_a_practical_Symfony_Profiler_feature.svg)](https://dev.to/ingosteinke/a-missing-namespace-definition-made-me-discover-a-practical-symfony-profiler-feature-3l3i)
+[![Cyber-physical systems](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cyber-physical_systems.svg)](https://dev.to/luos/cyber-physical-systems-5e88)
+[![Get a free domain name for your projects.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Get_a_free_domain_name_for_your_projects..svg)](https://dev.to/itsaomi/get-a-free-domain-name-for-your-projects-4ddo)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, June 16, 2022 at 6:18:58 AM
+> Last updated: Thursday, June 16, 2022 at 12:12:48 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, June 16, 2022 at 6:19:01 AM
+> Last updated: Thursday, June 16, 2022 at 12:12:51 PM
 
 > Showing 5 of 30 posts.
 
+[![Bridging the Gap between Devs and D3.js with this One Tool](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Bridging_the_Gap_between_Devs_and_D3.js_with_this_One_Tool.svg)](https://medium.com/@antonio.jesus.Ayala/bringing-d3-with-ad3lie-988941491796)
+[![Introducing Point of Vue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Introducing_Point_of_Vue.svg)](https://medium.com/@shelbydneuman/introducing-point-of-vue-aaf45ee3f0d)
 [![Polyfills and helpers - How to save your bundle size](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Polyfills_and_helpers_-_How_to_save_your_bundle_size.svg)](https://www.nazha.co/posts/polyfills-and-helpers)
 [![Announcing Socket for GitHub 1.0 - Socket](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Announcing_Socket_for_GitHub_1.0_-_Socket.svg)](https://socket.dev/blog/socket-for-github-1.0)
 [![GitHub - yoxel/aurinko-workplace-apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_yoxel_aurinko-workplace-apps.svg)](https://github.com/yoxel/aurinko-workplace-apps)
-[![Better Form Validation in React with Formik](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Better_Form_Validation_in_React_with_Formik.svg)](https://blog.openreplay.com/better-form-validation-in-react-with-formik)
-[![Episode 15 - Web Components (part 2) with Chris Holt and Rob Eisenberg - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_15_-_Web_Components_(part_2)_with_Chris_Holt_and_Rob_Eisenberg_-_20minJS.svg)](https://podcast.20minjs.com/1952066/10783154-episode-15-web-components-part-2-with-chris-holt-and-rob-eisenberg)
 
 
 <!-- post-list:end -->
