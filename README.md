@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, June 17, 2022 at 12:13:31 AM
+> Last updated: Friday, June 17, 2022 at 6:19:30 AM
 
 > Showing 5 of 12 posts.
 
-[![CSS Logos: daily dev Logo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CSS_Logos__daily_dev_Logo.svg)](https://dev.to/dailydevtips1/css-logos-daily-dev-logo-3dfh)
-[![It's My Birthday](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/It's_My_Birthday.svg)](https://dev.to/shubhamtiwari909/its-my-birthday-eim)
-[![Jamstack in Action](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Jamstack_in_Action.svg)](https://dev.to/ushieru/jamstack-in-action-4b2l)
-[![A whole new developer ecosystem: CakeCutter 🍰](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_whole_new_developer_ecosystem__CakeCutter_🍰.svg)](https://dev.to/dhravya/a-whole-new-developer-ecosystem-cakecutter-5a3c)
-[![How to Become a Millionaire](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Become_a_Millionaire.svg)](https://dev.to/nbilyk/how-to-become-a-millionaire-3daf)
+[![Applying neural search while labelling your data](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Applying_neural_search_while_labelling_your_data.svg)](https://dev.to/shetty_07/applying-neural-search-while-labelling-your-data-1d4g)
+[![From Student👨‍🎓 To DevRel 🥑: A Memoir 📃](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/From_Student👨‍🎓_To_DevRel_🥑__A_Memoir_📃.svg)](https://dev.to/adityaoberai/from-student-to-devrel-a-memoir-43pf)
+[![How to create a blog website with React & firebase -> Series](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_a_blog_website_with_React___firebase_-__Series.svg)](https://dev.to/evansifyke/how-to-create-a-blog-website-with-react-firebase-series-34pk)
+[![React Native as a Strategic Technology Choice](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Native_as_a_Strategic_Technology_Choice.svg)](https://dev.to/mattermost/react-native-as-a-strategic-technology-choice-4d07)
+[![Laravel 9 Eloquent: Many-to-Many Relationships](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Laravel_9_Eloquent__Many-to-Many_Relationships.svg)](https://dev.to/cynthiacddc/laravel-9-eloquent-many-to-many-relationships-4dp2)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, June 17, 2022 at 12:13:34 AM
+> Last updated: Friday, June 17, 2022 at 6:19:32 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, June 17, 2022 at 12:13:36 AM
+> Last updated: Friday, June 17, 2022 at 6:19:34 AM
 
 > Showing 5 of 30 posts.
 
