@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, June 16, 2022 at 6:49:10 PM
+> Last updated: Friday, June 17, 2022 at 12:13:31 AM
 
 > Showing 5 of 12 posts.
 
-[![An FAQ + Resources to Navigate Your Way for a Solid Career in Coding 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/An_FAQ_+_Resources_to_Navigate_Your_Way_for_a_Solid_Career_in_Coding_🚀.svg)](https://dev.to/projectup/an-faq-resources-to-navigate-your-way-for-a-solid-career-in-coding-1k0n)
-[![Create a Recipe App in Django - Tutorial](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_a_Recipe_App_in_Django_-_Tutorial.svg)](https://dev.to/domvacchiano/create-a-recipe-app-in-django-tutorial-5hh)
-[![Part 0 Bonus: Logging, middlewares and migrating Image Manipulation functions into a Services file](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Part_0_Bonus__Logging__middlewares_and_migrating_Image_Manipulation_functions_into_a_Services_file.svg)](https://dev.to/chad_r_stewart/part-0-bonus-logging-middlewares-and-migrating-image-manipulation-functions-into-a-services-file-33h9)
-[![June 16th, 2022: What did you learn this week?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/June_16th__2022__What_did_you_learn_this_week_.svg)](https://dev.to/nickytonline/june-16th-2022-what-did-you-learn-this-week-1e3l)
-[![Getting the Respect Your Work Deserves: A Live Workshop w/ Engineering Coach Lena Reinhard](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_the_Respect_Your_Work_Deserves__A_Live_Workshop_w__Engineering_Coach_Lena_Reinhard.svg)](https://dev.to/linearb/getting-the-respect-your-work-deserves-a-live-workshop-w-engineering-coach-lena-reinhard-4kdd)
+[![CSS Logos: daily dev Logo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CSS_Logos__daily_dev_Logo.svg)](https://dev.to/dailydevtips1/css-logos-daily-dev-logo-3dfh)
+[![It's My Birthday](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/It's_My_Birthday.svg)](https://dev.to/shubhamtiwari909/its-my-birthday-eim)
+[![Jamstack in Action](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Jamstack_in_Action.svg)](https://dev.to/ushieru/jamstack-in-action-4b2l)
+[![A whole new developer ecosystem: CakeCutter 🍰](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_whole_new_developer_ecosystem__CakeCutter_🍰.svg)](https://dev.to/dhravya/a-whole-new-developer-ecosystem-cakecutter-5a3c)
+[![How to Become a Millionaire](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Become_a_Millionaire.svg)](https://dev.to/nbilyk/how-to-become-a-millionaire-3daf)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, June 16, 2022 at 6:49:14 PM
+> Last updated: Friday, June 17, 2022 at 12:13:34 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, June 16, 2022 at 6:49:16 PM
+> Last updated: Friday, June 17, 2022 at 12:13:36 AM
 
 > Showing 5 of 30 posts.
 
+[![Fetching and Updating Data with React Query](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Fetching_and_Updating_Data_with_React_Query.svg)](https://blog.openreplay.com/fetching-and-updating-data-with-react-query)
 [![ReacType 12.0 — Giving Context to Context](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/ReacType_12.0_—_Giving_Context_to_Context.svg)](https://medium.com/@salsaluga/reactype-12-0-giving-context-to-context-9aa7d4cf06)
 [![GitHub - MaadAli/node-sequelize-starter: A template to quickly start your node projects with sequelize](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_MaadAli_node-sequelize-starter__A_template_to_quickly_start_your_node_projects_with_sequelize.svg)](https://github.com/MaadAli/node-sequelize-starter)
 [![Phaze](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Phaze.svg)](https://phaze.vercel.app/)
 [![Bridging the Gap between Devs and D3.js with this One Tool](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Bridging_the_Gap_between_Devs_and_D3.js_with_this_One_Tool.svg)](https://medium.com/@antonio.jesus.Ayala/bringing-d3-with-ad3lie-988941491796)
-[![Introducing Point of Vue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Introducing_Point_of_Vue.svg)](https://medium.com/@shelbydneuman/introducing-point-of-vue-aaf45ee3f0d)
 
 
 <!-- post-list:end -->
