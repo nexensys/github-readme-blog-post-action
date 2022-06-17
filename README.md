@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, June 17, 2022 at 6:19:30 AM
+> Last updated: Friday, June 17, 2022 at 12:16:59 PM
 
 > Showing 5 of 12 posts.
 
-[![Applying neural search while labelling your data](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Applying_neural_search_while_labelling_your_data.svg)](https://dev.to/shetty_07/applying-neural-search-while-labelling-your-data-1d4g)
-[![From Student👨‍🎓 To DevRel 🥑: A Memoir 📃](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/From_Student👨‍🎓_To_DevRel_🥑__A_Memoir_📃.svg)](https://dev.to/adityaoberai/from-student-to-devrel-a-memoir-43pf)
-[![How to create a blog website with React & firebase -> Series](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_a_blog_website_with_React___firebase_-__Series.svg)](https://dev.to/evansifyke/how-to-create-a-blog-website-with-react-firebase-series-34pk)
-[![React Native as a Strategic Technology Choice](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Native_as_a_Strategic_Technology_Choice.svg)](https://dev.to/mattermost/react-native-as-a-strategic-technology-choice-4d07)
-[![Laravel 9 Eloquent: Many-to-Many Relationships](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Laravel_9_Eloquent__Many-to-Many_Relationships.svg)](https://dev.to/cynthiacddc/laravel-9-eloquent-many-to-many-relationships-4dp2)
+[![10 VS Code Extensions for Web Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_VS_Code_Extensions_for_Web_Developers.svg)](https://dev.to/naddurkostia/10-vs-code-extensions-for-web-developers-35bn)
+[![What's the difference between a library and a framework?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What's_the_difference_between_a_library_and_a_framework_.svg)](https://dev.to/ben/whats-the-difference-between-a-library-and-a-framework-1eaj)
+[![Decoupling Feature Releases from Deployment Using Feature Flags](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Decoupling_Feature_Releases_from_Deployment_Using_Feature_Flags.svg)](https://dev.to/daveyhert/decoupling-feature-releases-from-deployment-using-feature-flags-3oh5)
+[![Refresh Tokens: equilibrando segurança e usabilidade em aplicações!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Refresh_Tokens__equilibrando_segurança_e_usabilidade_em_aplicações!.svg)](https://dev.to/wnqueiroz/refresh-tokens-equilibrando-seguranca-e-usabilidade-em-aplicacoes-c6c)
+[![First real contact with Tailwind.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/First_real_contact_with_Tailwind..svg)](https://dev.to/jombojo/first-real-contact-with-tailwind-1g9m)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, June 17, 2022 at 6:19:32 AM
+> Last updated: Friday, June 17, 2022 at 12:17:03 PM
 
 > Showing 4 of 4 posts.
 
+[![AbortController, your newest friend](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/AbortController__your_newest_friend.svg)](https://javascriptweekly.com/issues/594)
 [![Mathematics is the music of reason.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Mathematics_is_the_music_of_reason..svg)](https://javascriptweekly.com/issues/593)
 [![Sure, you can make games in Word with JavaScript now.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Sure__you_can_make_games_in_Word_with_JavaScript_now..svg)](https://javascriptweekly.com/issues/592)
 [![Airbnb's uncommon route to faster JS builds](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Airbnb's_uncommon_route_to_faster_JS_builds.svg)](https://javascriptweekly.com/issues/591)
-[![Getting animated](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Getting_animated.svg)](https://javascriptweekly.com/issues/590)
 
 
 ## Echo JS
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, June 17, 2022 at 6:19:34 AM
+> Last updated: Friday, June 17, 2022 at 12:17:07 PM
 
 > Showing 5 of 30 posts.
 
