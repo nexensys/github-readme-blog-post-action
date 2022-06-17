@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, June 16, 2022 at 12:12:44 PM
+> Last updated: Thursday, June 16, 2022 at 6:49:10 PM
 
 > Showing 5 of 12 posts.
 
-[![I'm having brain surgery.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I'm_having_brain_surgery..svg)](https://dev.to/antacid/im-having-brain-surgery-502h)
-[![The Xata Experience](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Xata_Experience.svg)](https://dev.to/atila/the-xata-experience-55g6)
-[![A missing namespace definition made me discover a practical Symfony Profiler feature](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_missing_namespace_definition_made_me_discover_a_practical_Symfony_Profiler_feature.svg)](https://dev.to/ingosteinke/a-missing-namespace-definition-made-me-discover-a-practical-symfony-profiler-feature-3l3i)
-[![Cyber-physical systems](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cyber-physical_systems.svg)](https://dev.to/luos/cyber-physical-systems-5e88)
-[![Get a free domain name for your projects.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Get_a_free_domain_name_for_your_projects..svg)](https://dev.to/itsaomi/get-a-free-domain-name-for-your-projects-4ddo)
+[![An FAQ + Resources to Navigate Your Way for a Solid Career in Coding 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/An_FAQ_+_Resources_to_Navigate_Your_Way_for_a_Solid_Career_in_Coding_🚀.svg)](https://dev.to/projectup/an-faq-resources-to-navigate-your-way-for-a-solid-career-in-coding-1k0n)
+[![Create a Recipe App in Django - Tutorial](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_a_Recipe_App_in_Django_-_Tutorial.svg)](https://dev.to/domvacchiano/create-a-recipe-app-in-django-tutorial-5hh)
+[![Part 0 Bonus: Logging, middlewares and migrating Image Manipulation functions into a Services file](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Part_0_Bonus__Logging__middlewares_and_migrating_Image_Manipulation_functions_into_a_Services_file.svg)](https://dev.to/chad_r_stewart/part-0-bonus-logging-middlewares-and-migrating-image-manipulation-functions-into-a-services-file-33h9)
+[![June 16th, 2022: What did you learn this week?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/June_16th__2022__What_did_you_learn_this_week_.svg)](https://dev.to/nickytonline/june-16th-2022-what-did-you-learn-this-week-1e3l)
+[![Getting the Respect Your Work Deserves: A Live Workshop w/ Engineering Coach Lena Reinhard](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_the_Respect_Your_Work_Deserves__A_Live_Workshop_w__Engineering_Coach_Lena_Reinhard.svg)](https://dev.to/linearb/getting-the-respect-your-work-deserves-a-live-workshop-w-engineering-coach-lena-reinhard-4kdd)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, June 16, 2022 at 12:12:48 PM
+> Last updated: Thursday, June 16, 2022 at 6:49:14 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, June 16, 2022 at 12:12:51 PM
+> Last updated: Thursday, June 16, 2022 at 6:49:16 PM
 
 > Showing 5 of 30 posts.
 
+[![ReacType 12.0 — Giving Context to Context](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/ReacType_12.0_—_Giving_Context_to_Context.svg)](https://medium.com/@salsaluga/reactype-12-0-giving-context-to-context-9aa7d4cf06)
+[![GitHub - MaadAli/node-sequelize-starter: A template to quickly start your node projects with sequelize](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_MaadAli_node-sequelize-starter__A_template_to_quickly_start_your_node_projects_with_sequelize.svg)](https://github.com/MaadAli/node-sequelize-starter)
+[![Phaze](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Phaze.svg)](https://phaze.vercel.app/)
 [![Bridging the Gap between Devs and D3.js with this One Tool](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Bridging_the_Gap_between_Devs_and_D3.js_with_this_One_Tool.svg)](https://medium.com/@antonio.jesus.Ayala/bringing-d3-with-ad3lie-988941491796)
 [![Introducing Point of Vue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Introducing_Point_of_Vue.svg)](https://medium.com/@shelbydneuman/introducing-point-of-vue-aaf45ee3f0d)
-[![Polyfills and helpers - How to save your bundle size](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Polyfills_and_helpers_-_How_to_save_your_bundle_size.svg)](https://www.nazha.co/posts/polyfills-and-helpers)
-[![Announcing Socket for GitHub 1.0 - Socket](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Announcing_Socket_for_GitHub_1.0_-_Socket.svg)](https://socket.dev/blog/socket-for-github-1.0)
-[![GitHub - yoxel/aurinko-workplace-apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_yoxel_aurinko-workplace-apps.svg)](https://github.com/yoxel/aurinko-workplace-apps)
 
 
 <!-- post-list:end -->
