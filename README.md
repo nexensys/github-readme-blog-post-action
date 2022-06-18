@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, June 17, 2022 at 12:16:59 PM
+> Last updated: Friday, June 17, 2022 at 6:53:34 PM
 
 > Showing 5 of 12 posts.
 
-[![10 VS Code Extensions for Web Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_VS_Code_Extensions_for_Web_Developers.svg)](https://dev.to/naddurkostia/10-vs-code-extensions-for-web-developers-35bn)
-[![What's the difference between a library and a framework?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What's_the_difference_between_a_library_and_a_framework_.svg)](https://dev.to/ben/whats-the-difference-between-a-library-and-a-framework-1eaj)
-[![Decoupling Feature Releases from Deployment Using Feature Flags](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Decoupling_Feature_Releases_from_Deployment_Using_Feature_Flags.svg)](https://dev.to/daveyhert/decoupling-feature-releases-from-deployment-using-feature-flags-3oh5)
-[![Refresh Tokens: equilibrando segurança e usabilidade em aplicações!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Refresh_Tokens__equilibrando_segurança_e_usabilidade_em_aplicações!.svg)](https://dev.to/wnqueiroz/refresh-tokens-equilibrando-seguranca-e-usabilidade-em-aplicacoes-c6c)
-[![First real contact with Tailwind.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/First_real_contact_with_Tailwind..svg)](https://dev.to/jombojo/first-real-contact-with-tailwind-1g9m)
+[![Haciendo un fetching de datos y creando un custom hook. 🪝](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Haciendo_un_fetching_de_datos_y_creando_un_custom_hook._🪝.svg)](https://dev.to/franklin030601/hacer-un-fetching-de-datos-y-crear-un-custom-hook-4bjh)
+[![Immutable Vars and Clojure](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Immutable_Vars_and_Clojure.svg)](https://dev.to/quoll/immutable-vars-and-clojure-3nh8)
+[![Make the code wait for page load in python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Make_the_code_wait_for_page_load_in_python.svg)](https://dev.to/kodlogs/make-the-code-wait-for-page-load-in-python-21pi)
+[![Sdk location not found. define location with sdk.dir in the local.properties](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Sdk_location_not_found._define_location_with_sdk.dir_in_the_local.properties.svg)](https://dev.to/kodlogs/sdk-location-not-found-define-location-with-sdkdir-in-the-localproperties-448c)
+[![Could not insert new outlet connection could not find any information for the class named](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Could_not_insert_new_outlet_connection_could_not_find_any_information_for_the_class_named.svg)](https://dev.to/kodlogs/could-not-insert-new-outlet-connection-could-not-find-any-information-for-the-class-named-446i)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, June 17, 2022 at 12:17:03 PM
+> Last updated: Friday, June 17, 2022 at 6:53:37 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, June 17, 2022 at 12:17:07 PM
+> Last updated: Friday, June 17, 2022 at 6:53:42 PM
 
 > Showing 5 of 30 posts.
 
+[![JavaScript Debouncing Explained Simply](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Debouncing_Explained_Simply.svg)](https://www.youtube.com/watch?v=DwU6Q4bCAB0)
 [![Fetching and Updating Data with React Query](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Fetching_and_Updating_Data_with_React_Query.svg)](https://blog.openreplay.com/fetching-and-updating-data-with-react-query)
 [![ReacType 12.0 — Giving Context to Context](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/ReacType_12.0_—_Giving_Context_to_Context.svg)](https://medium.com/@salsaluga/reactype-12-0-giving-context-to-context-9aa7d4cf06)
 [![GitHub - MaadAli/node-sequelize-starter: A template to quickly start your node projects with sequelize](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_MaadAli_node-sequelize-starter__A_template_to_quickly_start_your_node_projects_with_sequelize.svg)](https://github.com/MaadAli/node-sequelize-starter)
 [![Phaze](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Phaze.svg)](https://phaze.vercel.app/)
-[![Bridging the Gap between Devs and D3.js with this One Tool](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Bridging_the_Gap_between_Devs_and_D3.js_with_this_One_Tool.svg)](https://medium.com/@antonio.jesus.Ayala/bringing-d3-with-ad3lie-988941491796)
 
 
 <!-- post-list:end -->
