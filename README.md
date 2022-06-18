@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, June 17, 2022 at 6:53:34 PM
+> Last updated: Saturday, June 18, 2022 at 12:11:26 AM
 
 > Showing 5 of 12 posts.
 
+[![Agile - Story Point Estimation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Agile_-_Story_Point_Estimation.svg)](https://dev.to/sureshayyanna/agile-story-point-estimation-29dl)
+[![Como customizar o prompt do seu terminal](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Como_customizar_o_prompt_do_seu_terminal.svg)](https://dev.to/feministech/como-customizar-o-prompt-do-seu-terminal-86l)
+[![Automatic Python Code Format with GitHub Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Automatic_Python_Code_Format_with_GitHub_Actions.svg)](https://dev.to/tomoyk/automatic-python-code-format-with-github-actions-458c)
+[![Missing Run Test in Android Studio](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Missing_Run_Test_in_Android_Studio.svg)](https://dev.to/vtsen/missing-run-test-in-android-studio-2ba1)
 [![Haciendo un fetching de datos y creando un custom hook. 🪝](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Haciendo_un_fetching_de_datos_y_creando_un_custom_hook._🪝.svg)](https://dev.to/franklin030601/hacer-un-fetching-de-datos-y-crear-un-custom-hook-4bjh)
-[![Immutable Vars and Clojure](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Immutable_Vars_and_Clojure.svg)](https://dev.to/quoll/immutable-vars-and-clojure-3nh8)
-[![Make the code wait for page load in python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Make_the_code_wait_for_page_load_in_python.svg)](https://dev.to/kodlogs/make-the-code-wait-for-page-load-in-python-21pi)
-[![Sdk location not found. define location with sdk.dir in the local.properties](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Sdk_location_not_found._define_location_with_sdk.dir_in_the_local.properties.svg)](https://dev.to/kodlogs/sdk-location-not-found-define-location-with-sdkdir-in-the-localproperties-448c)
-[![Could not insert new outlet connection could not find any information for the class named](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Could_not_insert_new_outlet_connection_could_not_find_any_information_for_the_class_named.svg)](https://dev.to/kodlogs/could-not-insert-new-outlet-connection-could-not-find-any-information-for-the-class-named-446i)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, June 17, 2022 at 6:53:37 PM
+> Last updated: Saturday, June 18, 2022 at 12:11:29 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,12 +43,16 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, June 17, 2022 at 6:53:42 PM
+> Last updated: Saturday, June 18, 2022 at 12:11:32 AM
 
 > Showing 5 of 30 posts.
 
 [![JavaScript Debouncing Explained Simply](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Debouncing_Explained_Simply.svg)](https://www.youtube.com/watch?v=DwU6Q4bCAB0)
-[![Fetching and Updating Data with React Query](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Fetching_and_Updating_Data_with_React_Query.svg)](https://blog.openreplay.com/fetching-and-updating-data-with-react-query)
+[![
+Fetching and Updating Data with React Query
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Fetching_and_Updating_Data_with_React_Query_.svg)](
+https://blog.openreplay.com/fetching-and-updating-data-with-react-query
+)
 [![ReacType 12.0 — Giving Context to Context](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/ReacType_12.0_—_Giving_Context_to_Context.svg)](https://medium.com/@salsaluga/reactype-12-0-giving-context-to-context-9aa7d4cf06)
 [![GitHub - MaadAli/node-sequelize-starter: A template to quickly start your node projects with sequelize](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_MaadAli_node-sequelize-starter__A_template_to_quickly_start_your_node_projects_with_sequelize.svg)](https://github.com/MaadAli/node-sequelize-starter)
 [![Phaze](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Phaze.svg)](https://phaze.vercel.app/)
