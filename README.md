@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, June 18, 2022 at 12:11:26 AM
+> Last updated: Saturday, June 18, 2022 at 6:16:03 AM
 
 > Showing 5 of 12 posts.
 
-[![Agile - Story Point Estimation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Agile_-_Story_Point_Estimation.svg)](https://dev.to/sureshayyanna/agile-story-point-estimation-29dl)
-[![Como customizar o prompt do seu terminal](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Como_customizar_o_prompt_do_seu_terminal.svg)](https://dev.to/feministech/como-customizar-o-prompt-do-seu-terminal-86l)
-[![Automatic Python Code Format with GitHub Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Automatic_Python_Code_Format_with_GitHub_Actions.svg)](https://dev.to/tomoyk/automatic-python-code-format-with-github-actions-458c)
-[![Missing Run Test in Android Studio](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Missing_Run_Test_in_Android_Studio.svg)](https://dev.to/vtsen/missing-run-test-in-android-studio-2ba1)
-[![Haciendo un fetching de datos y creando un custom hook. 🪝](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Haciendo_un_fetching_de_datos_y_creando_un_custom_hook._🪝.svg)](https://dev.to/franklin030601/hacer-un-fetching-de-datos-y-crear-un-custom-hook-4bjh)
+[![GNU/Linux üzerinde Microsoft fontlarının kullanımı](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/GNU_Linux_üzerinde_Microsoft_fontlarının_kullanımı.svg)](https://dev.to/aciklab/gnulinux-uzerinde-microsoft-fontlarinin-kullanimi-16ic)
+[![Which songs do you prefer while coding?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Which_songs_do_you_prefer_while_coding_.svg)](https://dev.to/a4akki/which-songs-do-you-prefer-while-coding-egj)
+[![DSA: Sorting like a boss with JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/DSA__Sorting_like_a_boss_with_JS.svg)](https://dev.to/ale3oula/dsa-sorting-like-a-boss-with-js-42om)
+[![CRUD api with Go Gin framework (production ready)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CRUD_api_with_Go_Gin_framework_(production_ready).svg)](https://dev.to/devniklesh/crud-api-with-go-gin-framework-production-ready-52jd)
+[![10 Best ways to get a Free Domain [2022]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_Best_ways_to_get_a_Free_Domain_[2022].svg)](https://dev.to/ittech/10-best-ways-to-get-a-free-domain-2022-5hii)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, June 18, 2022 at 12:11:29 AM
+> Last updated: Saturday, June 18, 2022 at 6:16:06 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, June 18, 2022 at 12:11:32 AM
+> Last updated: Saturday, June 18, 2022 at 6:16:09 AM
 
 > Showing 5 of 30 posts.
 
+[![Forever Functional: Many flavors of currying](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Forever_Functional__Many_flavors_of_currying.svg)](https://blog.openreplay.com/forever-functional-many-flavors-of-currying)
 [![JavaScript Debouncing Explained Simply](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Debouncing_Explained_Simply.svg)](https://www.youtube.com/watch?v=DwU6Q4bCAB0)
-[![
-Fetching and Updating Data with React Query
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Fetching_and_Updating_Data_with_React_Query_.svg)](
-https://blog.openreplay.com/fetching-and-updating-data-with-react-query
-)
+[![Fetching and Updating Data with React Query](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Fetching_and_Updating_Data_with_React_Query.svg)](https://blog.openreplay.com/fetching-and-updating-data-with-react-query)
 [![ReacType 12.0 — Giving Context to Context](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/ReacType_12.0_—_Giving_Context_to_Context.svg)](https://medium.com/@salsaluga/reactype-12-0-giving-context-to-context-9aa7d4cf06)
 [![GitHub - MaadAli/node-sequelize-starter: A template to quickly start your node projects with sequelize](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_MaadAli_node-sequelize-starter__A_template_to_quickly_start_your_node_projects_with_sequelize.svg)](https://github.com/MaadAli/node-sequelize-starter)
-[![Phaze](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Phaze.svg)](https://phaze.vercel.app/)
 
 
 <!-- post-list:end -->
