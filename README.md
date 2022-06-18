@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, June 18, 2022 at 6:16:03 AM
+> Last updated: Saturday, June 18, 2022 at 12:11:37 PM
 
 > Showing 5 of 12 posts.
 
-[![GNU/Linux üzerinde Microsoft fontlarının kullanımı](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/GNU_Linux_üzerinde_Microsoft_fontlarının_kullanımı.svg)](https://dev.to/aciklab/gnulinux-uzerinde-microsoft-fontlarinin-kullanimi-16ic)
-[![Which songs do you prefer while coding?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Which_songs_do_you_prefer_while_coding_.svg)](https://dev.to/a4akki/which-songs-do-you-prefer-while-coding-egj)
-[![DSA: Sorting like a boss with JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/DSA__Sorting_like_a_boss_with_JS.svg)](https://dev.to/ale3oula/dsa-sorting-like-a-boss-with-js-42om)
-[![CRUD api with Go Gin framework (production ready)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CRUD_api_with_Go_Gin_framework_(production_ready).svg)](https://dev.to/devniklesh/crud-api-with-go-gin-framework-production-ready-52jd)
-[![10 Best ways to get a Free Domain [2022]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_Best_ways_to_get_a_Free_Domain_[2022].svg)](https://dev.to/ittech/10-best-ways-to-get-a-free-domain-2022-5hii)
+[![Learn TypeScript — The Ultimate Beginners Guide : Built-in Types](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Learn_TypeScript_—_The_Ultimate_Beginners_Guide___Built-in_Types.svg)](https://dev.to/haddadzineddine/learn-typescript-the-ultimate-beginners-guide-built-in-types-1cii)
+[![Paracetamol.js💊| #146: Explica este código JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Paracetamol.js💊___146__Explica_este_código_JavaScript.svg)](https://dev.to/duxtech/paracetamoljs-146-explica-este-codigo-javascript-52me)
+[![Understanding JavaScript Closure in depth](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_JavaScript_Closure_in_depth.svg)](https://dev.to/srishtikprasad/understanding-javascript-closure-in-depth-411d)
+[![Golang Html tokenizer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Golang_Html_tokenizer.svg)](https://dev.to/dave3130/golang-html-tokenizer-5fh7)
+[![Create your First Command-line Application in Rust](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_your_First_Command-line_Application_in_Rust.svg)](https://dev.to/ahmadrosid/create-your-first-command-line-application-in-rust-7cp)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, June 18, 2022 at 6:16:06 AM
+> Last updated: Saturday, June 18, 2022 at 12:11:40 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, June 18, 2022 at 6:16:09 AM
+> Last updated: Saturday, June 18, 2022 at 12:11:43 PM
 
 > Showing 5 of 30 posts.
 
