@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, June 18, 2022 at 6:53:13 PM
+> Last updated: Sunday, June 19, 2022 at 12:11:51 AM
 
 > Showing 5 of 12 posts.
 
-[![Dark Mode Toggle Button in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dark_Mode_Toggle_Button_in_JavaScript.svg)](https://dev.to/codewithayan10/dark-mode-toggle-button-in-javascript-3fd9)
-[![tsParticles 2.1.0 Released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/tsParticles_2.1.0_Released.svg)](https://dev.to/matteobruni/tsparticles-210-released-33mg)
-[![The importance of Headings element for an accessible page](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_importance_of_Headings_element_for_an_accessible_page.svg)](https://dev.to/zelig880/the-importance-of-headings-element-for-an-accessible-page-19ig)
-[![Building a Scatter Plot in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_Scatter_Plot_in_JavaScript.svg)](https://dev.to/andreykh1985/scatter-plot-in-javascript-32h8)
-[![Introdução ao gRPC - Golang](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introdução_ao_gRPC_-_Golang.svg)](https://dev.to/gustavonicolau/introducao-ao-grpc-golang-210f)
+[![Pure CSS sunset scenery😍](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Pure_CSS_sunset_scenery😍.svg)](https://dev.to/dharmik48/pure-css-sunset-scenery-4jed)
+[![Becoming a Modern Developer - Week 0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Becoming_a_Modern_Developer_-_Week_0.svg)](https://dev.to/mittell/becoming-a-modern-developer-week-0-4n85)
+[![More Immutability and Clojure](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/More_Immutability_and_Clojure.svg)](https://dev.to/quoll/more-immutability-and-clojure-4cdk)
+[![Serving Single-Page Application in a single binary file with Go](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Serving_Single-Page_Application_in_a_single_binary_file_with_Go.svg)](https://dev.to/aryaprakasa/serving-single-page-application-in-a-single-binary-file-with-go-12ij)
+[![IntelliJ IDEA 2022.2 EAP 5 is released: Support for Spring 6 and Spring Boot 3 features!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/IntelliJ_IDEA_2022.2_EAP_5_is_released__Support_for_Spring_6_and_Spring_Boot_3_features!.svg)](https://dev.to/201206030/intellij-idea-20222-eap-5-is-released-support-for-spring-6-and-spring-boot-3-features-2b2i)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, June 18, 2022 at 6:53:15 PM
+> Last updated: Sunday, June 19, 2022 at 12:11:53 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, June 18, 2022 at 6:53:17 PM
+> Last updated: Sunday, June 19, 2022 at 12:11:56 AM
 
 > Showing 5 of 30 posts.
 
