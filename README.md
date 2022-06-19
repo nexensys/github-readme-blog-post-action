@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, June 18, 2022 at 12:11:37 PM
+> Last updated: Saturday, June 18, 2022 at 6:53:13 PM
 
 > Showing 5 of 12 posts.
 
-[![Learn TypeScript — The Ultimate Beginners Guide : Built-in Types](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Learn_TypeScript_—_The_Ultimate_Beginners_Guide___Built-in_Types.svg)](https://dev.to/haddadzineddine/learn-typescript-the-ultimate-beginners-guide-built-in-types-1cii)
-[![Paracetamol.js💊| #146: Explica este código JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Paracetamol.js💊___146__Explica_este_código_JavaScript.svg)](https://dev.to/duxtech/paracetamoljs-146-explica-este-codigo-javascript-52me)
-[![Understanding JavaScript Closure in depth](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_JavaScript_Closure_in_depth.svg)](https://dev.to/srishtikprasad/understanding-javascript-closure-in-depth-411d)
-[![Golang Html tokenizer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Golang_Html_tokenizer.svg)](https://dev.to/dave3130/golang-html-tokenizer-5fh7)
-[![Create your First Command-line Application in Rust](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_your_First_Command-line_Application_in_Rust.svg)](https://dev.to/ahmadrosid/create-your-first-command-line-application-in-rust-7cp)
+[![Dark Mode Toggle Button in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dark_Mode_Toggle_Button_in_JavaScript.svg)](https://dev.to/codewithayan10/dark-mode-toggle-button-in-javascript-3fd9)
+[![tsParticles 2.1.0 Released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/tsParticles_2.1.0_Released.svg)](https://dev.to/matteobruni/tsparticles-210-released-33mg)
+[![The importance of Headings element for an accessible page](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_importance_of_Headings_element_for_an_accessible_page.svg)](https://dev.to/zelig880/the-importance-of-headings-element-for-an-accessible-page-19ig)
+[![Building a Scatter Plot in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_Scatter_Plot_in_JavaScript.svg)](https://dev.to/andreykh1985/scatter-plot-in-javascript-32h8)
+[![Introdução ao gRPC - Golang](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introdução_ao_gRPC_-_Golang.svg)](https://dev.to/gustavonicolau/introducao-ao-grpc-golang-210f)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, June 18, 2022 at 12:11:40 PM
+> Last updated: Saturday, June 18, 2022 at 6:53:15 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, June 18, 2022 at 12:11:43 PM
+> Last updated: Saturday, June 18, 2022 at 6:53:17 PM
 
 > Showing 5 of 30 posts.
 
+[![Lorefnon | Blog | Type-safe event handling in Typescript with zod and ts-match](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Lorefnon___Blog___Type-safe_event_handling_in_Typescript_with_zod_and_ts-match.svg)](
+https://lorefnon.me/2022/06/18/type-safe-event-handling-with-zod-and-ts-pattern/
+)
 [![Forever Functional: Many flavors of currying](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Forever_Functional__Many_flavors_of_currying.svg)](https://blog.openreplay.com/forever-functional-many-flavors-of-currying)
 [![JavaScript Debouncing Explained Simply](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Debouncing_Explained_Simply.svg)](https://www.youtube.com/watch?v=DwU6Q4bCAB0)
 [![Fetching and Updating Data with React Query](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Fetching_and_Updating_Data_with_React_Query.svg)](https://blog.openreplay.com/fetching-and-updating-data-with-react-query)
 [![ReacType 12.0 — Giving Context to Context](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/ReacType_12.0_—_Giving_Context_to_Context.svg)](https://medium.com/@salsaluga/reactype-12-0-giving-context-to-context-9aa7d4cf06)
-[![GitHub - MaadAli/node-sequelize-starter: A template to quickly start your node projects with sequelize](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_MaadAli_node-sequelize-starter__A_template_to_quickly_start_your_node_projects_with_sequelize.svg)](https://github.com/MaadAli/node-sequelize-starter)
 
 
 <!-- post-list:end -->
