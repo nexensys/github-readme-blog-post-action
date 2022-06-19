@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, June 19, 2022 at 6:16:12 AM
+> Last updated: Sunday, June 19, 2022 at 12:10:50 PM
 
 > Showing 5 of 12 posts.
 
-[![HOW THE BROWSER RENDERS PAGES AND STORES DATA](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/HOW_THE_BROWSER_RENDERS_PAGES_AND_STORES_DATA.svg)](https://dev.to/joy_chiorlu/how-the-browser-renders-pages-and-stores-data-fo9)
-[![Day 1 of #100DaysOfCode](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Day_1_of__100DaysOfCode.svg)](https://dev.to/carleii_dev/day-1-of-100daysofcode-12ii)
-[![Proud to present you FakePowerShell , a Windows PowerShell clone built with Python.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Proud_to_present_you_FakePowerShell___a_Windows_PowerShell_clone_built_with_Python..svg)](https://dev.to/junaid_dev/proud-to-present-you-fakepowershell-a-windows-powershell-clone-built-with-python-1o16)
-[![Unit testing: #1 - Test one behaviour at a time.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unit_testing___1_-_Test_one_behaviour_at_a_time..svg)](https://dev.to/ms_74/unit-testing-1-test-one-behaviour-at-a-time-44i5)
-[![How to create a blog website with React & firebase -> Series2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_a_blog_website_with_React___firebase_-__Series2.svg)](https://dev.to/evansifyke/how-to-create-a-blog-website-with-react-firebase-series2-3jdd)
+[![How Template Literal Types work in TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_Template_Literal_Types_work_in_TypeScript.svg)](https://dev.to/smpnjn/how-template-literal-types-work-in-typescript-mdi)
+[![Making your own Express Middleware](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Making_your_own_Express_Middleware.svg)](https://dev.to/smpnjn/making-your-own-express-middleware-3a2)
+[![Creating a Reusable Tab Component in Vue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_a_Reusable_Tab_Component_in_Vue.svg)](https://dev.to/smpnjn/creating-a-reusable-tab-component-in-vue-2ni5)
+[![How to get the Full URL in Express on Node.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_get_the_Full_URL_in_Express_on_Node.js.svg)](https://dev.to/smpnjn/how-to-get-the-full-url-in-express-on-nodejs-2h23)
+[![How to make a Symbolic Link on Linux](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_make_a_Symbolic_Link_on_Linux.svg)](https://dev.to/smpnjn/how-to-make-a-symolic-link-on-linux-5hco)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, June 19, 2022 at 6:16:16 AM
+> Last updated: Sunday, June 19, 2022 at 12:10:52 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, June 19, 2022 at 6:16:21 AM
+> Last updated: Sunday, June 19, 2022 at 12:10:54 PM
 
 > Showing 5 of 30 posts.
 
