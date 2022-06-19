@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, June 19, 2022 at 12:11:51 AM
+> Last updated: Sunday, June 19, 2022 at 6:16:12 AM
 
 > Showing 5 of 12 posts.
 
-[![Pure CSS sunset scenery😍](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Pure_CSS_sunset_scenery😍.svg)](https://dev.to/dharmik48/pure-css-sunset-scenery-4jed)
-[![Becoming a Modern Developer - Week 0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Becoming_a_Modern_Developer_-_Week_0.svg)](https://dev.to/mittell/becoming-a-modern-developer-week-0-4n85)
-[![More Immutability and Clojure](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/More_Immutability_and_Clojure.svg)](https://dev.to/quoll/more-immutability-and-clojure-4cdk)
-[![Serving Single-Page Application in a single binary file with Go](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Serving_Single-Page_Application_in_a_single_binary_file_with_Go.svg)](https://dev.to/aryaprakasa/serving-single-page-application-in-a-single-binary-file-with-go-12ij)
-[![IntelliJ IDEA 2022.2 EAP 5 is released: Support for Spring 6 and Spring Boot 3 features!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/IntelliJ_IDEA_2022.2_EAP_5_is_released__Support_for_Spring_6_and_Spring_Boot_3_features!.svg)](https://dev.to/201206030/intellij-idea-20222-eap-5-is-released-support-for-spring-6-and-spring-boot-3-features-2b2i)
+[![HOW THE BROWSER RENDERS PAGES AND STORES DATA](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/HOW_THE_BROWSER_RENDERS_PAGES_AND_STORES_DATA.svg)](https://dev.to/joy_chiorlu/how-the-browser-renders-pages-and-stores-data-fo9)
+[![Day 1 of #100DaysOfCode](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Day_1_of__100DaysOfCode.svg)](https://dev.to/carleii_dev/day-1-of-100daysofcode-12ii)
+[![Proud to present you FakePowerShell , a Windows PowerShell clone built with Python.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Proud_to_present_you_FakePowerShell___a_Windows_PowerShell_clone_built_with_Python..svg)](https://dev.to/junaid_dev/proud-to-present-you-fakepowershell-a-windows-powershell-clone-built-with-python-1o16)
+[![Unit testing: #1 - Test one behaviour at a time.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unit_testing___1_-_Test_one_behaviour_at_a_time..svg)](https://dev.to/ms_74/unit-testing-1-test-one-behaviour-at-a-time-44i5)
+[![How to create a blog website with React & firebase -> Series2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_a_blog_website_with_React___firebase_-__Series2.svg)](https://dev.to/evansifyke/how-to-create-a-blog-website-with-react-firebase-series2-3jdd)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, June 19, 2022 at 12:11:53 AM
+> Last updated: Sunday, June 19, 2022 at 6:16:16 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, June 19, 2022 at 12:11:56 AM
+> Last updated: Sunday, June 19, 2022 at 6:16:21 AM
 
 > Showing 5 of 30 posts.
 
