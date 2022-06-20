@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, June 19, 2022 at 6:53:37 PM
+> Last updated: Monday, June 20, 2022 at 12:13:04 AM
 
 > Showing 5 of 12 posts.
 
+[![TypeScript Utility Types: The 6 Most Useful](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/TypeScript_Utility_Types__The_6_Most_Useful.svg)](https://dev.to/sachinchaurasiya/typescript-utility-types-the-6-most-useful-2bp4)
+[![Billboard Artist Recommendation Software](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Billboard_Artist_Recommendation_Software.svg)](https://dev.to/kumakyuta/billboard-artist-recommendation-software-3443)
+[![Como eu criei em algumas horas um site que busca propostas de freelas](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Como_eu_criei_em_algumas_horas_um_site_que_busca_propostas_de_freelas.svg)](https://dev.to/jnaraujo/como-eu-criei-em-algumas-horas-um-site-que-busca-propostas-de-freelas-4nh5)
 [![Best Practices for Successful Data Quality](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_Practices_for_Successful_Data_Quality.svg)](https://dev.to/bpb_online/best-practices-for-successful-data-quality-dif)
 [![Stateful vs Stateless Architecture](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Stateful_vs_Stateless_Architecture.svg)](https://dev.to/nyctonio/stateful-vs-stateless-architecture-1ao2)
-[![Data Structures and Algorithms-Intro](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Data_Structures_and_Algorithms-Intro.svg)](https://dev.to/tim254/data-structures-and-algorithms-intro-3ofn)
-[![How to test your typescript utility types](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_test_your_typescript_utility_types.svg)](https://dev.to/ecyrbe/how-to-unit-test-your-typescript-utility-types-3cnm)
-[![Side Project Sunday! What do you have going on?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Side_Project_Sunday!_What_do_you_have_going_on_.svg)](https://dev.to/ben/side-project-sunday-what-do-you-have-going-on-1lfp)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, June 19, 2022 at 6:53:40 PM
+> Last updated: Monday, June 20, 2022 at 12:13:07 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, June 19, 2022 at 6:53:42 PM
+> Last updated: Monday, June 20, 2022 at 12:13:14 AM
 
 > Showing 5 of 30 posts.
 
