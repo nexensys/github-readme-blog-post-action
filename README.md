@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, June 20, 2022 at 12:13:04 AM
+> Last updated: Monday, June 20, 2022 at 6:18:51 AM
 
 > Showing 5 of 12 posts.
 
-[![TypeScript Utility Types: The 6 Most Useful](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/TypeScript_Utility_Types__The_6_Most_Useful.svg)](https://dev.to/sachinchaurasiya/typescript-utility-types-the-6-most-useful-2bp4)
-[![Billboard Artist Recommendation Software](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Billboard_Artist_Recommendation_Software.svg)](https://dev.to/kumakyuta/billboard-artist-recommendation-software-3443)
-[![Como eu criei em algumas horas um site que busca propostas de freelas](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Como_eu_criei_em_algumas_horas_um_site_que_busca_propostas_de_freelas.svg)](https://dev.to/jnaraujo/como-eu-criei-em-algumas-horas-um-site-que-busca-propostas-de-freelas-4nh5)
-[![Best Practices for Successful Data Quality](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_Practices_for_Successful_Data_Quality.svg)](https://dev.to/bpb_online/best-practices-for-successful-data-quality-dif)
-[![Stateful vs Stateless Architecture](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Stateful_vs_Stateless_Architecture.svg)](https://dev.to/nyctonio/stateful-vs-stateless-architecture-1ao2)
+[![How to bulk upload files to S3 using node script](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_bulk_upload_files_to_S3_using_node_script.svg)](https://dev.to/gondar00/how-to-bulk-upload-files-to-s3-using-node-script-c37)
+[![Implementing Distributed Tracing in a Golang application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Implementing_Distributed_Tracing_in_a_Golang_application.svg)](https://dev.to/signoz/implementing-distributed-tracing-in-a-golang-application-5cm1)
+[![Senior Python Full Stack Developer (100% Remote Job)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Senior_Python_Full_Stack_Developer_(100__Remote_Job).svg)](https://dev.to/sojinsamuel/senior-python-full-stack-developer-100-remote-job-297j)
+[![How I fixed the feed on my website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_I_fixed_the_feed_on_my_website.svg)](https://dev.to/robole/how-i-fixed-the-feed-on-my-website-nk)
+[![Using React to create a Micro Frontend](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_React_to_create_a_Micro_Frontend.svg)](https://dev.to/entando/using-react-to-create-a-micro-frontend-4jn2)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, June 20, 2022 at 12:13:07 AM
+> Last updated: Monday, June 20, 2022 at 6:18:55 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, June 20, 2022 at 12:13:14 AM
+> Last updated: Monday, June 20, 2022 at 6:19:01 AM
 
 > Showing 5 of 30 posts.
 
+[![summary_large_image](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/summary_large_image.svg)](
+https://devquarterly.com/insights/trends
+)
 [![Lorefnon | Blog | Type-safe event handling in Typescript with zod and ts-match](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Lorefnon___Blog___Type-safe_event_handling_in_Typescript_with_zod_and_ts-match.svg)](
 https://lorefnon.me/2022/06/18/type-safe-event-handling-with-zod-and-ts-pattern/
 )
 [![Forever Functional: Many flavors of currying](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Forever_Functional__Many_flavors_of_currying.svg)](https://blog.openreplay.com/forever-functional-many-flavors-of-currying)
 [![JavaScript Debouncing Explained Simply](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Debouncing_Explained_Simply.svg)](https://www.youtube.com/watch?v=DwU6Q4bCAB0)
 [![Fetching and Updating Data with React Query](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Fetching_and_Updating_Data_with_React_Query.svg)](https://blog.openreplay.com/fetching-and-updating-data-with-react-query)
-[![ReacType 12.0 — Giving Context to Context](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/ReacType_12.0_—_Giving_Context_to_Context.svg)](https://medium.com/@salsaluga/reactype-12-0-giving-context-to-context-9aa7d4cf06)
 
 
 <!-- post-list:end -->
