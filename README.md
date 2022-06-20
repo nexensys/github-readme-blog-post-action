@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, June 19, 2022 at 12:10:50 PM
+> Last updated: Sunday, June 19, 2022 at 6:53:37 PM
 
 > Showing 5 of 12 posts.
 
-[![How Template Literal Types work in TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_Template_Literal_Types_work_in_TypeScript.svg)](https://dev.to/smpnjn/how-template-literal-types-work-in-typescript-mdi)
-[![Making your own Express Middleware](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Making_your_own_Express_Middleware.svg)](https://dev.to/smpnjn/making-your-own-express-middleware-3a2)
-[![Creating a Reusable Tab Component in Vue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_a_Reusable_Tab_Component_in_Vue.svg)](https://dev.to/smpnjn/creating-a-reusable-tab-component-in-vue-2ni5)
-[![How to get the Full URL in Express on Node.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_get_the_Full_URL_in_Express_on_Node.js.svg)](https://dev.to/smpnjn/how-to-get-the-full-url-in-express-on-nodejs-2h23)
-[![How to make a Symbolic Link on Linux](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_make_a_Symbolic_Link_on_Linux.svg)](https://dev.to/smpnjn/how-to-make-a-symolic-link-on-linux-5hco)
+[![Best Practices for Successful Data Quality](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_Practices_for_Successful_Data_Quality.svg)](https://dev.to/bpb_online/best-practices-for-successful-data-quality-dif)
+[![Stateful vs Stateless Architecture](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Stateful_vs_Stateless_Architecture.svg)](https://dev.to/nyctonio/stateful-vs-stateless-architecture-1ao2)
+[![Data Structures and Algorithms-Intro](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Data_Structures_and_Algorithms-Intro.svg)](https://dev.to/tim254/data-structures-and-algorithms-intro-3ofn)
+[![How to test your typescript utility types](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_test_your_typescript_utility_types.svg)](https://dev.to/ecyrbe/how-to-unit-test-your-typescript-utility-types-3cnm)
+[![Side Project Sunday! What do you have going on?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Side_Project_Sunday!_What_do_you_have_going_on_.svg)](https://dev.to/ben/side-project-sunday-what-do-you-have-going-on-1lfp)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, June 19, 2022 at 12:10:52 PM
+> Last updated: Sunday, June 19, 2022 at 6:53:40 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, June 19, 2022 at 12:10:54 PM
+> Last updated: Sunday, June 19, 2022 at 6:53:42 PM
 
 > Showing 5 of 30 posts.
 
