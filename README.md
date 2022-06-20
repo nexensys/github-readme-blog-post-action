@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, June 20, 2022 at 6:18:51 AM
+> Last updated: Monday, June 20, 2022 at 12:11:20 PM
 
 > Showing 5 of 12 posts.
 
-[![How to bulk upload files to S3 using node script](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_bulk_upload_files_to_S3_using_node_script.svg)](https://dev.to/gondar00/how-to-bulk-upload-files-to-s3-using-node-script-c37)
-[![Implementing Distributed Tracing in a Golang application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Implementing_Distributed_Tracing_in_a_Golang_application.svg)](https://dev.to/signoz/implementing-distributed-tracing-in-a-golang-application-5cm1)
-[![Senior Python Full Stack Developer (100% Remote Job)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Senior_Python_Full_Stack_Developer_(100__Remote_Job).svg)](https://dev.to/sojinsamuel/senior-python-full-stack-developer-100-remote-job-297j)
-[![How I fixed the feed on my website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_I_fixed_the_feed_on_my_website.svg)](https://dev.to/robole/how-i-fixed-the-feed-on-my-website-nk)
-[![Using React to create a Micro Frontend](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_React_to_create_a_Micro_Frontend.svg)](https://dev.to/entando/using-react-to-create-a-micro-frontend-4jn2)
+[![7 Ways To Use Email To Boost Organic Traffic](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/7_Ways_To_Use_Email_To_Boost_Organic_Traffic.svg)](https://dev.to/bhylucom/7-ways-to-use-email-to-boost-organic-traffic-489f)
+[![Simple Feedback Form using Html, CSS and Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Simple_Feedback_Form_using_Html__CSS_and_Javascript.svg)](https://dev.to/codewithayan10/simple-feedback-form-using-html-css-and-javascript-3bj3)
+[![Styling Simple Form forms with Tailwind](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Styling_Simple_Form_forms_with_Tailwind.svg)](https://dev.to/nejremeslnici/styling-simple-form-forms-with-tailwind-4pel)
+[![What is Throttle, What is the Throttle use, and how to create Throttle?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_Throttle__What_is_the_Throttle_use__and_how_to_create_Throttle_.svg)](https://dev.to/amirlotfi/what-is-throttle-what-is-the-throttle-use-and-how-to-create-throttle-78j)
+[![Taking VSCodium for a spin](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Taking_VSCodium_for_a_spin.svg)](https://dev.to/nfrankel/taking-vscodium-for-a-spin-569j)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, June 20, 2022 at 6:18:55 AM
+> Last updated: Monday, June 20, 2022 at 12:11:23 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, June 20, 2022 at 6:19:01 AM
+> Last updated: Monday, June 20, 2022 at 12:11:27 PM
 
 > Showing 5 of 30 posts.
 
+[![API with NestJS #66. Improving PostgreSQL performance with indexes using MikroORM](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__66._Improving_PostgreSQL_performance_with_indexes_using_MikroORM.svg)](http://wanago.io/2022/06/20/api-nestjs-postgresql-mikroorm-indexes/)
 [![summary_large_image](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/summary_large_image.svg)](
 https://devquarterly.com/insights/trends
 )
@@ -55,7 +56,6 @@ https://lorefnon.me/2022/06/18/type-safe-event-handling-with-zod-and-ts-pattern/
 )
 [![Forever Functional: Many flavors of currying](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Forever_Functional__Many_flavors_of_currying.svg)](https://blog.openreplay.com/forever-functional-many-flavors-of-currying)
 [![JavaScript Debouncing Explained Simply](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Debouncing_Explained_Simply.svg)](https://www.youtube.com/watch?v=DwU6Q4bCAB0)
-[![Fetching and Updating Data with React Query](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Fetching_and_Updating_Data_with_React_Query.svg)](https://blog.openreplay.com/fetching-and-updating-data-with-react-query)
 
 
 <!-- post-list:end -->
