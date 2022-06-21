@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, June 20, 2022 at 12:11:20 PM
+> Last updated: Monday, June 20, 2022 at 6:54:15 PM
 
 > Showing 5 of 12 posts.
 
-[![7 Ways To Use Email To Boost Organic Traffic](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/7_Ways_To_Use_Email_To_Boost_Organic_Traffic.svg)](https://dev.to/bhylucom/7-ways-to-use-email-to-boost-organic-traffic-489f)
-[![Simple Feedback Form using Html, CSS and Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Simple_Feedback_Form_using_Html__CSS_and_Javascript.svg)](https://dev.to/codewithayan10/simple-feedback-form-using-html-css-and-javascript-3bj3)
-[![Styling Simple Form forms with Tailwind](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Styling_Simple_Form_forms_with_Tailwind.svg)](https://dev.to/nejremeslnici/styling-simple-form-forms-with-tailwind-4pel)
-[![What is Throttle, What is the Throttle use, and how to create Throttle?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_Throttle__What_is_the_Throttle_use__and_how_to_create_Throttle_.svg)](https://dev.to/amirlotfi/what-is-throttle-what-is-the-throttle-use-and-how-to-create-throttle-78j)
-[![Taking VSCodium for a spin](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Taking_VSCodium_for_a_spin.svg)](https://dev.to/nfrankel/taking-vscodium-for-a-spin-569j)
+[![Deep Insight Into Open Source Databases](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deep_Insight_Into_Open_Source_Databases.svg)](https://dev.to/ossinsight/deep-insight-into-open-source-databases-5dcd)
+[![How To Prevent Secrets From Ending Up On Developer's Machines](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Prevent_Secrets_From_Ending_Up_On_Developer's_Machines.svg)](https://dev.to/doppler/how-to-prevent-secrets-from-ending-up-on-developers-machines-40cb)
+[![Data Structures 101: Introduction to Data Structures and Algorithms.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Data_Structures_101__Introduction_to_Data_Structures_and_Algorithms..svg)](https://dev.to/gateremark/data-structures-101-introduction-to-data-structures-and-algorithms-4oib)
+[![One line of CSS to add basic dark/light mode](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/One_line_of_CSS_to_add_basic_dark_light_mode.svg)](https://dev.to/codepo8/one-line-of-css-to-add-basic-darklight-mode-47o6)
+[![FLUTTER NETWORKING 💫 🌌 ✨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/FLUTTER_NETWORKING_💫_🌌_✨.svg)](https://dev.to/gulsenkeskin/flutter-networking-4889)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, June 20, 2022 at 12:11:23 PM
+> Last updated: Monday, June 20, 2022 at 6:54:18 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, June 20, 2022 at 12:11:27 PM
+> Last updated: Monday, June 20, 2022 at 6:54:22 PM
 
 > Showing 5 of 30 posts.
 
