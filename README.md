@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, June 21, 2022 at 12:12:15 AM
+> Last updated: Tuesday, June 21, 2022 at 6:23:08 AM
 
 > Showing 5 of 12 posts.
 
-[![Have you ever mistakenly created test data on production server?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Have_you_ever_mistakenly_created_test_data_on_production_server_.svg)](https://dev.to/yuki777/have-you-ever-mistakenly-used-a-development-server-for-a-production-server-3cke)
-[![I love listening to music when coding, and you should too!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_love_listening_to_music_when_coding__and_you_should_too!.svg)](https://dev.to/unitybuddy/i-love-listening-to-music-when-coding-and-you-should-too-3b1e)
-[![Understanding and tuning parameters of connection pools](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_and_tuning_parameters_of_connection_pools.svg)](https://dev.to/kevwan/understanding-and-tuning-parameters-of-connection-pools-1fdb)
-[![Integrating hCaptcha with Django-allauth](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Integrating_hCaptcha_with_Django-allauth.svg)](https://dev.to/dilutewater/integrating-hcaptcha-with-django-allauth-24lo)
-[![All about Formik & Formik Components and Yup Validation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/All_about_Formik___Formik_Components_and_Yup_Validation.svg)](https://dev.to/aliaa_ali_74b6acd24f78ece/all-about-formik-formik-components-and-yup-validation-3i2c)
+[![Prometheus vs Elasticsearch stack - Key concepts, features, and differences](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Prometheus_vs_Elasticsearch_stack_-_Key_concepts__features__and_differences.svg)](https://dev.to/signoz/prometheus-vs-elasticsearch-stack-key-concepts-features-and-differences-4h1d)
+[![How to Detect a Click Outside a React Component?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Detect_a_Click_Outside_a_React_Component_.svg)](https://dev.to/kuldeeptarapara/how-to-detect-a-click-outside-a-react-component-1k26)
+[![Tokenization of text with spaCy tokenizer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tokenization_of_text_with_spaCy_tokenizer.svg)](https://dev.to/meetkern/tokenization-of-text-with-spacy-tokenizer-g6m)
+[![Verbum - Rich Text Editor For React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Verbum_-_Rich_Text_Editor_For_React.svg)](https://dev.to/ozanyurtsever/verbum-rich-text-editor-for-react-1ia1)
+[![Technology Trends for Real Estate](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Technology_Trends_for_Real_Estate.svg)](https://dev.to/olgagalikua/technology-trends-for-real-estate-1521)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, June 21, 2022 at 12:12:18 AM
+> Last updated: Tuesday, June 21, 2022 at 6:23:11 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, June 21, 2022 at 12:12:23 AM
+> Last updated: Tuesday, June 21, 2022 at 6:23:18 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - ozanyurtsever/verbum: Verbum is a fully flexible text editor based on lexical framework.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ozanyurtsever_verbum__Verbum_is_a_fully_flexible_text_editor_based_on_lexical_framework..svg)](https://github.com/ozanyurtsever/verbum)
 [![API with NestJS #66. Improving PostgreSQL performance with indexes using MikroORM](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__66._Improving_PostgreSQL_performance_with_indexes_using_MikroORM.svg)](http://wanago.io/2022/06/20/api-nestjs-postgresql-mikroorm-indexes/)
 [![summary_large_image](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/summary_large_image.svg)](
 https://devquarterly.com/insights/trends
@@ -55,7 +56,6 @@ https://devquarterly.com/insights/trends
 https://lorefnon.me/2022/06/18/type-safe-event-handling-with-zod-and-ts-pattern/
 )
 [![Forever Functional: Many flavors of currying](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Forever_Functional__Many_flavors_of_currying.svg)](https://blog.openreplay.com/forever-functional-many-flavors-of-currying)
-[![JavaScript Debouncing Explained Simply](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Debouncing_Explained_Simply.svg)](https://www.youtube.com/watch?v=DwU6Q4bCAB0)
 
 
 <!-- post-list:end -->
