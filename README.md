@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, June 20, 2022 at 6:54:15 PM
+> Last updated: Tuesday, June 21, 2022 at 12:12:15 AM
 
 > Showing 5 of 12 posts.
 
-[![Deep Insight Into Open Source Databases](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deep_Insight_Into_Open_Source_Databases.svg)](https://dev.to/ossinsight/deep-insight-into-open-source-databases-5dcd)
-[![How To Prevent Secrets From Ending Up On Developer's Machines](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Prevent_Secrets_From_Ending_Up_On_Developer's_Machines.svg)](https://dev.to/doppler/how-to-prevent-secrets-from-ending-up-on-developers-machines-40cb)
-[![Data Structures 101: Introduction to Data Structures and Algorithms.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Data_Structures_101__Introduction_to_Data_Structures_and_Algorithms..svg)](https://dev.to/gateremark/data-structures-101-introduction-to-data-structures-and-algorithms-4oib)
-[![One line of CSS to add basic dark/light mode](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/One_line_of_CSS_to_add_basic_dark_light_mode.svg)](https://dev.to/codepo8/one-line-of-css-to-add-basic-darklight-mode-47o6)
-[![FLUTTER NETWORKING 💫 🌌 ✨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/FLUTTER_NETWORKING_💫_🌌_✨.svg)](https://dev.to/gulsenkeskin/flutter-networking-4889)
+[![Have you ever mistakenly created test data on production server?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Have_you_ever_mistakenly_created_test_data_on_production_server_.svg)](https://dev.to/yuki777/have-you-ever-mistakenly-used-a-development-server-for-a-production-server-3cke)
+[![I love listening to music when coding, and you should too!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_love_listening_to_music_when_coding__and_you_should_too!.svg)](https://dev.to/unitybuddy/i-love-listening-to-music-when-coding-and-you-should-too-3b1e)
+[![Understanding and tuning parameters of connection pools](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_and_tuning_parameters_of_connection_pools.svg)](https://dev.to/kevwan/understanding-and-tuning-parameters-of-connection-pools-1fdb)
+[![Integrating hCaptcha with Django-allauth](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Integrating_hCaptcha_with_Django-allauth.svg)](https://dev.to/dilutewater/integrating-hcaptcha-with-django-allauth-24lo)
+[![All about Formik & Formik Components and Yup Validation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/All_about_Formik___Formik_Components_and_Yup_Validation.svg)](https://dev.to/aliaa_ali_74b6acd24f78ece/all-about-formik-formik-components-and-yup-validation-3i2c)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, June 20, 2022 at 6:54:18 PM
+> Last updated: Tuesday, June 21, 2022 at 12:12:18 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, June 20, 2022 at 6:54:22 PM
+> Last updated: Tuesday, June 21, 2022 at 12:12:23 AM
 
 > Showing 5 of 30 posts.
 
