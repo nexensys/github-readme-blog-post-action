@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, June 21, 2022 at 6:23:08 AM
+> Last updated: Thursday, June 23, 2022 at 12:12:40 AM
 
 > Showing 5 of 12 posts.
 
-[![Prometheus vs Elasticsearch stack - Key concepts, features, and differences](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Prometheus_vs_Elasticsearch_stack_-_Key_concepts__features__and_differences.svg)](https://dev.to/signoz/prometheus-vs-elasticsearch-stack-key-concepts-features-and-differences-4h1d)
-[![How to Detect a Click Outside a React Component?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Detect_a_Click_Outside_a_React_Component_.svg)](https://dev.to/kuldeeptarapara/how-to-detect-a-click-outside-a-react-component-1k26)
-[![Tokenization of text with spaCy tokenizer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tokenization_of_text_with_spaCy_tokenizer.svg)](https://dev.to/meetkern/tokenization-of-text-with-spacy-tokenizer-g6m)
-[![Verbum - Rich Text Editor For React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Verbum_-_Rich_Text_Editor_For_React.svg)](https://dev.to/ozanyurtsever/verbum-rich-text-editor-for-react-1ia1)
-[![Technology Trends for Real Estate](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Technology_Trends_for_Real_Estate.svg)](https://dev.to/olgagalikua/technology-trends-for-real-estate-1521)
+[![For data structure and algorithm preparations, what platform do you use?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/For_data_structure_and_algorithm_preparations__what_platform_do_you_use_.svg)](https://dev.to/yourmdsarfaraj/for-data-structure-and-algorithm-preparations-what-platform-do-you-use-1h1j)
+[![How much HTML & CSS should you know before learning JavaScript? 🤔](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_much_HTML___CSS_should_you_know_before_learning_JavaScript__🤔.svg)](https://dev.to/rammcodes/how-much-html-css-should-you-know-before-learning-javascript-2njd)
+[![The Rails Configuration File (~/.railsrc)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Rails_Configuration_File_(~_.railsrc).svg)](https://dev.to/software_writer/the-rails-configuration-file-railsrc-4f4c)
+[![[Desafio] - Você Mudaria esse Projeto?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/[Desafio]_-_Você_Mudaria_esse_Projeto_.svg)](https://dev.to/zanfranceschi/desafio-voce-mudaria-esse-projeto-4og4)
+[![🤖 Brand New Engineering Open Positions - Week #26 of 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🤖_Brand_New_Engineering_Open_Positions_-_Week__26_of_2022.svg)](https://dev.to/shman/brand-new-engineering-open-positions-week-26-of-2022-jnj)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, June 21, 2022 at 6:23:11 AM
+> Last updated: Thursday, June 23, 2022 at 12:12:42 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, June 21, 2022 at 6:23:18 AM
+> Last updated: Thursday, June 23, 2022 at 12:12:44 AM
 
 > Showing 5 of 30 posts.
 
-[![GitHub - ozanyurtsever/verbum: Verbum is a fully flexible text editor based on lexical framework.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ozanyurtsever_verbum__Verbum_is_a_fully_flexible_text_editor_based_on_lexical_framework..svg)](https://github.com/ozanyurtsever/verbum)
-[![API with NestJS #66. Improving PostgreSQL performance with indexes using MikroORM](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__66._Improving_PostgreSQL_performance_with_indexes_using_MikroORM.svg)](http://wanago.io/2022/06/20/api-nestjs-postgresql-mikroorm-indexes/)
-[![summary_large_image](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/summary_large_image.svg)](
-https://devquarterly.com/insights/trends
+[![Best Hotels in Kodaikanal | Book Hotels in Kodaikanal](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Best_Hotels_in_Kodaikanal___Book_Hotels_in_Kodaikanal.svg)](https://www.greenlandskodaikanal.com/)
+[![Find Objects by Nested Properties with Lodash](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Find_Objects_by_Nested_Properties_with_Lodash.svg)](
+https://masteringjs.io/tutorials/lodash/find-nested-object
 )
-[![Lorefnon | Blog | Type-safe event handling in Typescript with zod and ts-match](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Lorefnon___Blog___Type-safe_event_handling_in_Typescript_with_zod_and_ts-match.svg)](
-https://lorefnon.me/2022/06/18/type-safe-event-handling-with-zod-and-ts-pattern/
-)
-[![Forever Functional: Many flavors of currying](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Forever_Functional__Many_flavors_of_currying.svg)](https://blog.openreplay.com/forever-functional-many-flavors-of-currying)
+[![Animated Wallpapers on my Personal Website (React/WebGL)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Animated_Wallpapers_on_my_Personal_Website_(React_WebGL).svg)](https://www.youtube.com/watch?v=R1XniLFptEM)
+[![rekwest](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/rekwest.svg)](https://www.npmjs.com/package/rekwest)
+[![Alternatives to React: Solid JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Alternatives_to_React__Solid_JS.svg)](https://blog.openreplay.com/alternatives-to-react-solid-js)
 
 
 <!-- post-list:end -->
