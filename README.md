@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, June 23, 2022 at 12:12:40 AM
+> Last updated: Thursday, June 23, 2022 at 6:20:13 AM
 
 > Showing 5 of 12 posts.
 
-[![For data structure and algorithm preparations, what platform do you use?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/For_data_structure_and_algorithm_preparations__what_platform_do_you_use_.svg)](https://dev.to/yourmdsarfaraj/for-data-structure-and-algorithm-preparations-what-platform-do-you-use-1h1j)
-[![How much HTML & CSS should you know before learning JavaScript? 🤔](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_much_HTML___CSS_should_you_know_before_learning_JavaScript__🤔.svg)](https://dev.to/rammcodes/how-much-html-css-should-you-know-before-learning-javascript-2njd)
-[![The Rails Configuration File (~/.railsrc)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Rails_Configuration_File_(~_.railsrc).svg)](https://dev.to/software_writer/the-rails-configuration-file-railsrc-4f4c)
-[![[Desafio] - Você Mudaria esse Projeto?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/[Desafio]_-_Você_Mudaria_esse_Projeto_.svg)](https://dev.to/zanfranceschi/desafio-voce-mudaria-esse-projeto-4og4)
-[![🤖 Brand New Engineering Open Positions - Week #26 of 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🤖_Brand_New_Engineering_Open_Positions_-_Week__26_of_2022.svg)](https://dev.to/shman/brand-new-engineering-open-positions-week-26-of-2022-jnj)
+[![Secretly Rank your Blog or News Website on Google Top Search Results](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Secretly_Rank_your_Blog_or_News_Website_on_Google_Top_Search_Results.svg)](https://dev.to/santosh3700/secretly-rank-your-blog-or-news-website-on-google-top-search-results-4cp4)
+[![Send SMS Messages with Node.js using the Vonage API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Send_SMS_Messages_with_Node.js_using_the_Vonage_API.svg)](https://dev.to/nditah/send-sms-messages-with-nodejs-using-the-vonage-api-208f)
+[![Deal Scoring- Part 1: Data Pre-processing in MySQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deal_Scoring-_Part_1__Data_Pre-processing_in_MySQL.svg)](https://dev.to/ochwada/deal-scoring-part-1-data-pre-processing-in-mysql-3ld9)
+[![Database of Databases](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Database_of_Databases.svg)](https://dev.to/rprabhu/database-of-databases-38cn)
+[![How do you deal with Mouse Arm Syndrome !](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_do_you_deal_with_Mouse_Arm_Syndrome_!.svg)](https://dev.to/shammisharma/how-do-you-deal-with-mouse-arm-syndrome--3ian)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, June 23, 2022 at 12:12:42 AM
+> Last updated: Thursday, June 23, 2022 at 6:20:16 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, June 23, 2022 at 12:12:44 AM
+> Last updated: Thursday, June 23, 2022 at 6:20:19 AM
 
 > Showing 5 of 30 posts.
 
+[![Turn on TS flag evolutionarily](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Turn_on_TS_flag_evolutionarily.svg)](https://dev.to/przemyslawjanpietrzak/turn-on-ts-flag-evolutionarily-1mca)
+[![Leverage data from RapidApi using Redux Toolkit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Leverage_data_from_RapidApi_using_Redux_Toolkit.svg)](https://blog.openreplay.com/leverage-data-from-rapidapi-using-redux-toolkit)
 [![Best Hotels in Kodaikanal | Book Hotels in Kodaikanal](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Best_Hotels_in_Kodaikanal___Book_Hotels_in_Kodaikanal.svg)](https://www.greenlandskodaikanal.com/)
 [![Find Objects by Nested Properties with Lodash](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Find_Objects_by_Nested_Properties_with_Lodash.svg)](
 https://masteringjs.io/tutorials/lodash/find-nested-object
 )
 [![Animated Wallpapers on my Personal Website (React/WebGL)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Animated_Wallpapers_on_my_Personal_Website_(React_WebGL).svg)](https://www.youtube.com/watch?v=R1XniLFptEM)
-[![rekwest](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/rekwest.svg)](https://www.npmjs.com/package/rekwest)
-[![Alternatives to React: Solid JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Alternatives_to_React__Solid_JS.svg)](https://blog.openreplay.com/alternatives-to-react-solid-js)
 
 
 <!-- post-list:end -->
