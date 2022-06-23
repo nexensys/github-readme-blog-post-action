@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, June 23, 2022 at 6:20:13 AM
+> Last updated: Thursday, June 23, 2022 at 12:13:04 PM
 
 > Showing 5 of 12 posts.
 
-[![Secretly Rank your Blog or News Website on Google Top Search Results](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Secretly_Rank_your_Blog_or_News_Website_on_Google_Top_Search_Results.svg)](https://dev.to/santosh3700/secretly-rank-your-blog-or-news-website-on-google-top-search-results-4cp4)
-[![Send SMS Messages with Node.js using the Vonage API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Send_SMS_Messages_with_Node.js_using_the_Vonage_API.svg)](https://dev.to/nditah/send-sms-messages-with-nodejs-using-the-vonage-api-208f)
-[![Deal Scoring- Part 1: Data Pre-processing in MySQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deal_Scoring-_Part_1__Data_Pre-processing_in_MySQL.svg)](https://dev.to/ochwada/deal-scoring-part-1-data-pre-processing-in-mysql-3ld9)
-[![Database of Databases](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Database_of_Databases.svg)](https://dev.to/rprabhu/database-of-databases-38cn)
-[![How do you deal with Mouse Arm Syndrome !](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_do_you_deal_with_Mouse_Arm_Syndrome_!.svg)](https://dev.to/shammisharma/how-do-you-deal-with-mouse-arm-syndrome--3ian)
+[![Clean Architecture: Layers and Boundaries](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Clean_Architecture__Layers_and_Boundaries.svg)](https://dev.to/rubemfsv/clean-architecture-layers-and-boundaries-13ed)
+[![convert your website to android app from your mobile in a few minutes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/convert_your_website_to_android_app_from_your_mobile_in_a_few_minutes.svg)](https://dev.to/amreldessouki/convert-your-website-to-android-app-from-your-mobile-in-a-few-minutes-2457)
+[![How to Build a Data Science Portfolio](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Build_a_Data_Science_Portfolio.svg)](https://dev.to/aashiya123/how-to-build-a-data-science-portfolio-kd9)
+[![AWS Amazon Intern Experience (+ Advice for Interns)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_Amazon_Intern_Experience_(+_Advice_for_Interns).svg)](https://dev.to/ankitdubey74/amazon-intern-experience-advice-for-interns-3med)
+[![Discussion and Comment of the Week - v8](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Discussion_and_Comment_of_the_Week_-_v8.svg)](https://dev.to/devteam/discussion-and-comment-of-the-week-v8-h24)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, June 23, 2022 at 6:20:16 AM
+> Last updated: Thursday, June 23, 2022 at 12:13:08 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, June 23, 2022 at 6:20:19 AM
+> Last updated: Thursday, June 23, 2022 at 12:13:11 PM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - BMSVieira/osticket-api: OSTicket Unofficial API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_BMSVieira_osticket-api__OSTicket_Unofficial_API.svg)](https://github.com/BMSVieira/osticket-api)
+[![Jamstack and Databases?!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Jamstack_and_Databases_!.svg)](https://cfe.dev/events/databases-and-the-jamstack/)
 [![Turn on TS flag evolutionarily](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Turn_on_TS_flag_evolutionarily.svg)](https://dev.to/przemyslawjanpietrzak/turn-on-ts-flag-evolutionarily-1mca)
 [![Leverage data from RapidApi using Redux Toolkit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Leverage_data_from_RapidApi_using_Redux_Toolkit.svg)](https://blog.openreplay.com/leverage-data-from-rapidapi-using-redux-toolkit)
 [![Best Hotels in Kodaikanal | Book Hotels in Kodaikanal](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Best_Hotels_in_Kodaikanal___Book_Hotels_in_Kodaikanal.svg)](https://www.greenlandskodaikanal.com/)
-[![Find Objects by Nested Properties with Lodash](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Find_Objects_by_Nested_Properties_with_Lodash.svg)](
-https://masteringjs.io/tutorials/lodash/find-nested-object
-)
-[![Animated Wallpapers on my Personal Website (React/WebGL)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Animated_Wallpapers_on_my_Personal_Website_(React_WebGL).svg)](https://www.youtube.com/watch?v=R1XniLFptEM)
 
 
 <!-- post-list:end -->
