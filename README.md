@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, June 23, 2022 at 6:53:28 PM
+> Last updated: Friday, June 24, 2022 at 12:13:09 AM
 
 > Showing 5 of 12 posts.
 
+[![Say Goodbye to console.log from Production environment](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Say_Goodbye_to_console.log_from_Production_environment.svg)](https://dev.to/gulshanaggarwal/say-goodbye-to-consolelog-from-production-environment-5382)
+[![🎤Começe já a palestrar!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🎤Começe_já_a_palestrar!.svg)](https://dev.to/lariazevedo/comece-ja-a-palestrar-4pfd)
+[![June 23rd, 2022: What did you learn this week?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/June_23rd__2022__What_did_you_learn_this_week_.svg)](https://dev.to/nickytonline/june-23rd-2022-what-did-you-learn-this-week-3l2d)
+[![How is a URL structured?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_is_a_URL_structured_.svg)](https://dev.to/christianpaez/how-is-a-url-structured-4jkl)
 [![The Best Solution to Burnout We’ve Ever Heard | A Conversation With Slack, Netlify & Ambassador Labs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Best_Solution_to_Burnout_We’ve_Ever_Heard___A_Conversation_With_Slack__Netlify___Ambassador_Labs.svg)](https://dev.to/linearb/the-best-solution-to-burnout-weve-ever-heard-a-conversation-with-slack-netlify-ambassador-labs-2i87)
-[![Simplifying Kubernetes CI/CD With Devtron](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Simplifying_Kubernetes_CI_CD_With_Devtron.svg)](https://dev.to/yitaek/simplifying-kubernetes-cicd-with-devtron-34gm)
-[![divmod() in Python Learn --](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/divmod()_in_Python_Learn_--.svg)](https://dev.to/gaurbprajapati/divmod-in-python-learn--5d4m)
-[![¿Cómo crear un buscador con efecto "debounce"? 🔎](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/¿Cómo_crear_un_buscador_con_efecto__debounce___🔎.svg)](https://dev.to/franklin030601/como-crear-un-buscador-con-efecto-debounce-4jcp)
-[![How to create a search engine with "debounce effect"? 🔎](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_a_search_engine_with__debounce_effect___🔎.svg)](https://dev.to/franklin030601/how-to-create-a-search-engine-with-debounce-effect-4hef)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, June 23, 2022 at 6:53:32 PM
+> Last updated: Friday, June 24, 2022 at 12:13:12 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, June 23, 2022 at 6:53:35 PM
+> Last updated: Friday, June 24, 2022 at 12:13:15 AM
 
 > Showing 5 of 30 posts.
 
