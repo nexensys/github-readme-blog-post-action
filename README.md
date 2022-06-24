@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, June 23, 2022 at 12:13:04 PM
+> Last updated: Thursday, June 23, 2022 at 6:53:28 PM
 
 > Showing 5 of 12 posts.
 
-[![Clean Architecture: Layers and Boundaries](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Clean_Architecture__Layers_and_Boundaries.svg)](https://dev.to/rubemfsv/clean-architecture-layers-and-boundaries-13ed)
-[![convert your website to android app from your mobile in a few minutes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/convert_your_website_to_android_app_from_your_mobile_in_a_few_minutes.svg)](https://dev.to/amreldessouki/convert-your-website-to-android-app-from-your-mobile-in-a-few-minutes-2457)
-[![How to Build a Data Science Portfolio](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Build_a_Data_Science_Portfolio.svg)](https://dev.to/aashiya123/how-to-build-a-data-science-portfolio-kd9)
-[![AWS Amazon Intern Experience (+ Advice for Interns)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_Amazon_Intern_Experience_(+_Advice_for_Interns).svg)](https://dev.to/ankitdubey74/amazon-intern-experience-advice-for-interns-3med)
-[![Discussion and Comment of the Week - v8](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Discussion_and_Comment_of_the_Week_-_v8.svg)](https://dev.to/devteam/discussion-and-comment-of-the-week-v8-h24)
+[![The Best Solution to Burnout We’ve Ever Heard | A Conversation With Slack, Netlify & Ambassador Labs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Best_Solution_to_Burnout_We’ve_Ever_Heard___A_Conversation_With_Slack__Netlify___Ambassador_Labs.svg)](https://dev.to/linearb/the-best-solution-to-burnout-weve-ever-heard-a-conversation-with-slack-netlify-ambassador-labs-2i87)
+[![Simplifying Kubernetes CI/CD With Devtron](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Simplifying_Kubernetes_CI_CD_With_Devtron.svg)](https://dev.to/yitaek/simplifying-kubernetes-cicd-with-devtron-34gm)
+[![divmod() in Python Learn --](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/divmod()_in_Python_Learn_--.svg)](https://dev.to/gaurbprajapati/divmod-in-python-learn--5d4m)
+[![¿Cómo crear un buscador con efecto "debounce"? 🔎](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/¿Cómo_crear_un_buscador_con_efecto__debounce___🔎.svg)](https://dev.to/franklin030601/como-crear-un-buscador-con-efecto-debounce-4jcp)
+[![How to create a search engine with "debounce effect"? 🔎](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_a_search_engine_with__debounce_effect___🔎.svg)](https://dev.to/franklin030601/how-to-create-a-search-engine-with-debounce-effect-4hef)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, June 23, 2022 at 12:13:08 PM
+> Last updated: Thursday, June 23, 2022 at 6:53:32 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, June 23, 2022 at 12:13:11 PM
+> Last updated: Thursday, June 23, 2022 at 6:53:35 PM
 
 > Showing 5 of 30 posts.
 
