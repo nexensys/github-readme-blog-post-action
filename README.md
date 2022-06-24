@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, June 24, 2022 at 12:13:09 AM
+> Last updated: Friday, June 24, 2022 at 6:19:19 AM
 
 > Showing 5 of 12 posts.
 
-[![Say Goodbye to console.log from Production environment](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Say_Goodbye_to_console.log_from_Production_environment.svg)](https://dev.to/gulshanaggarwal/say-goodbye-to-consolelog-from-production-environment-5382)
-[![🎤Começe já a palestrar!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🎤Começe_já_a_palestrar!.svg)](https://dev.to/lariazevedo/comece-ja-a-palestrar-4pfd)
-[![June 23rd, 2022: What did you learn this week?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/June_23rd__2022__What_did_you_learn_this_week_.svg)](https://dev.to/nickytonline/june-23rd-2022-what-did-you-learn-this-week-3l2d)
-[![How is a URL structured?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_is_a_URL_structured_.svg)](https://dev.to/christianpaez/how-is-a-url-structured-4jkl)
-[![The Best Solution to Burnout We’ve Ever Heard | A Conversation With Slack, Netlify & Ambassador Labs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Best_Solution_to_Burnout_We’ve_Ever_Heard___A_Conversation_With_Slack__Netlify___Ambassador_Labs.svg)](https://dev.to/linearb/the-best-solution-to-burnout-weve-ever-heard-a-conversation-with-slack-netlify-ambassador-labs-2i87)
+[![Monitoring a full-stack Nodejs application with open-source tools](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Monitoring_a_full-stack_Nodejs_application_with_open-source_tools.svg)](https://dev.to/signoz/monitoring-a-full-stack-nodejs-application-with-open-source-tools-3bjj)
+[![How to build a responsive header component with Tailwind CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_build_a_responsive_header_component_with_Tailwind_CSS.svg)](https://dev.to/themesberg/how-to-build-a-responsive-header-component-with-tailwind-css-2mae)
+[![Best way to Deploy NextJS HeadLess WordPress Website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_way_to_Deploy_NextJS_HeadLess_WordPress_Website.svg)](https://dev.to/santosh3700/best-way-to-deploy-nextjs-headless-wordpress-website-3i7m)
+[![AWS open source news and updates, #118](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_open_source_news_and_updates___118.svg)](https://dev.to/aws/aws-open-source-news-and-updates-118-12h4)
+[![JavaScript is not an untyped language](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_is_not_an_untyped_language.svg)](https://dev.to/miguelmj/javascript-is-not-an-untyped-language-1jkg)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, June 24, 2022 at 12:13:12 AM
+> Last updated: Friday, June 24, 2022 at 6:19:23 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, June 24, 2022 at 12:13:15 AM
+> Last updated: Friday, June 24, 2022 at 6:19:27 AM
 
 > Showing 5 of 30 posts.
 
