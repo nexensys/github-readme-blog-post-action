@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, June 24, 2022 at 6:19:19 AM
+> Last updated: Friday, June 24, 2022 at 12:12:51 PM
 
 > Showing 5 of 12 posts.
 
-[![Monitoring a full-stack Nodejs application with open-source tools](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Monitoring_a_full-stack_Nodejs_application_with_open-source_tools.svg)](https://dev.to/signoz/monitoring-a-full-stack-nodejs-application-with-open-source-tools-3bjj)
-[![How to build a responsive header component with Tailwind CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_build_a_responsive_header_component_with_Tailwind_CSS.svg)](https://dev.to/themesberg/how-to-build-a-responsive-header-component-with-tailwind-css-2mae)
-[![Best way to Deploy NextJS HeadLess WordPress Website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_way_to_Deploy_NextJS_HeadLess_WordPress_Website.svg)](https://dev.to/santosh3700/best-way-to-deploy-nextjs-headless-wordpress-website-3i7m)
-[![AWS open source news and updates, #118](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_open_source_news_and_updates___118.svg)](https://dev.to/aws/aws-open-source-news-and-updates-118-12h4)
-[![JavaScript is not an untyped language](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_is_not_an_untyped_language.svg)](https://dev.to/miguelmj/javascript-is-not-an-untyped-language-1jkg)
+[![4 Ways to Render JSX Conditionally in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/4_Ways_to_Render_JSX_Conditionally_in_React.svg)](https://dev.to/rasaf_ibrahim/4-ways-to-render-jsx-conditionally-in-react-2bal)
+[![What was your win this week?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_was_your_win_this_week_.svg)](https://dev.to/devteam/what-was-your-win-this-week-45f7)
+[![Gaming 🎮 in parallel with Programming 💻](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Gaming_🎮_in_parallel_with_Programming_💻.svg)](https://dev.to/rajeshj3/gaming-in-parallel-with-programming-4ea6)
+[![Simple todo API with complex concepts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Simple_todo_API_with_complex_concepts.svg)](https://dev.to/kumarkalyan/simple-todo-api-with-complex-concepts-301)
+[![Missing Introduction To React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Missing_Introduction_To_React.svg)](https://dev.to/khansa/missing-introduction-to-react-2ddo)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, June 24, 2022 at 6:19:23 AM
+> Last updated: Friday, June 24, 2022 at 12:12:54 PM
 
 > Showing 4 of 4 posts.
 
+[![What's new in ECMAScript 2022?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/What's_new_in_ECMAScript_2022_.svg)](https://javascriptweekly.com/issues/595)
 [![AbortController, your newest friend](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/AbortController__your_newest_friend.svg)](https://javascriptweekly.com/issues/594)
 [![Mathematics is the music of reason.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Mathematics_is_the_music_of_reason..svg)](https://javascriptweekly.com/issues/593)
 [![Sure, you can make games in Word with JavaScript now.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Sure__you_can_make_games_in_Word_with_JavaScript_now..svg)](https://javascriptweekly.com/issues/592)
-[![Airbnb's uncommon route to faster JS builds](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Airbnb's_uncommon_route_to_faster_JS_builds.svg)](https://javascriptweekly.com/issues/591)
 
 
 ## Echo JS
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, June 24, 2022 at 6:19:27 AM
+> Last updated: Friday, June 24, 2022 at 12:12:57 PM
 
 > Showing 5 of 30 posts.
 
