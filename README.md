@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, June 25, 2022 at 12:11:53 AM
+> Last updated: Saturday, June 25, 2022 at 6:15:27 AM
 
 > Showing 5 of 12 posts.
 
-[![CSS Battle: #1 - Simply Square](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CSS_Battle___1_-_Simply_Square.svg)](https://dev.to/j471n/css-battle-1-pilot-battle-1fhh)
-[![Let's write an image converter in 20 lines of html+js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Let's_write_an_image_converter_in_20_lines_of_html+js.svg)](https://dev.to/ninofiliu/lets-write-an-image-converter-in-20-lines-of-htmljs-bng)
-[![How to Add Bottom Navigation in Jetpack Compose?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Add_Bottom_Navigation_in_Jetpack_Compose_.svg)](https://dev.to/vtsen/how-to-add-bottom-navigation-in-jetpack-compose-1joj)
-[![Nihilism and the anti-corruption layer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Nihilism_and_the_anti-corruption_layer.svg)](https://dev.to/autonomousapps/nihilism-and-the-anti-corruption-layer-560n)
-[![How make a Triangle in CSS3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_make_a_Triangle_in_CSS3.svg)](https://dev.to/jmlpez/how-make-a-triangle-in-css3-1b8a)
+[![How to disable text selection with CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_disable_text_selection_with_CSS.svg)](https://dev.to/smpnjn/how-to-disable-text-selection-with-css-4jan)
+[![Where to Place Logger in Golang?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Where_to_Place_Logger_in_Golang_.svg)](https://dev.to/ilyakaznacheev/where-to-place-logger-in-golang-13o3)
+[![Postgres module for NestJS 8.x framework 😻](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Postgres_module_for_NestJS_8.x_framework_😻.svg)](https://dev.to/tony133/postgres-module-for-nestjs-8x-framework-599j)
+[![Converting JSX to downloadable pdf in react](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Converting_JSX_to_downloadable_pdf_in_react.svg)](https://dev.to/kazmi066/converting-jsx-to-downloadable-pdf-in-react-20bh)
+[![React Props complete guide for beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Props_complete_guide_for_beginners.svg)](https://dev.to/suchintan/use-react-props-like-a-pro--1gll)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, June 25, 2022 at 12:11:55 AM
+> Last updated: Saturday, June 25, 2022 at 6:15:30 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, June 25, 2022 at 12:12:00 AM
+> Last updated: Saturday, June 25, 2022 at 6:15:34 AM
 
 > Showing 5 of 30 posts.
 
+[![React vs Angular: who wins?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_vs_Angular__who_wins_.svg)](https://blog.openreplay.com/react-vs-angular-who-wins)
+[![GitHub - trinib/AdGuard-WireGuard-Unbound-DNScrypt: The ultimate self-hosted network security guide ─ Protection |  Privacy | Performance for your network 24/7 Accessible anywhere](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_trinib_AdGuard-WireGuard-Unbound-DNScrypt__The_ultimate_self-hosted_network_security_guide_─_Protection____Privacy___Performance_for_your_network_24_7_Accessible_anywhere.svg)](https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt)
 [![GitHub - BMSVieira/osticket-api: OSTicket Unofficial API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_BMSVieira_osticket-api__OSTicket_Unofficial_API.svg)](https://github.com/BMSVieira/osticket-api)
 [![Jamstack and Databases?!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Jamstack_and_Databases_!.svg)](https://cfe.dev/events/databases-and-the-jamstack/)
 [![Turn on TS flag evolutionarily](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Turn_on_TS_flag_evolutionarily.svg)](https://dev.to/przemyslawjanpietrzak/turn-on-ts-flag-evolutionarily-1mca)
-[![Leverage data from RapidApi using Redux Toolkit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Leverage_data_from_RapidApi_using_Redux_Toolkit.svg)](https://blog.openreplay.com/leverage-data-from-rapidapi-using-redux-toolkit)
-[![Find Objects by Nested Properties with Lodash](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Find_Objects_by_Nested_Properties_with_Lodash.svg)](
-https://masteringjs.io/tutorials/lodash/find-nested-object
-)
 
 
 <!-- post-list:end -->
