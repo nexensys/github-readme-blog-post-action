@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, June 24, 2022 at 12:12:51 PM
+> Last updated: Friday, June 24, 2022 at 6:53:29 PM
 
 > Showing 5 of 12 posts.
 
+[![Let's write an image converter in 20 lines of html+js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Let's_write_an_image_converter_in_20_lines_of_html+js.svg)](https://dev.to/ninofiliu/lets-write-an-image-converter-in-20-lines-of-htmljs-bng)
+[![How make a Triangle in CSS3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_make_a_Triangle_in_CSS3.svg)](https://dev.to/jmlpez/how-make-a-triangle-in-css3-1b8a)
+[![Olá mundo da programação concorrente](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Olá_mundo_da_programação_concorrente.svg)](https://dev.to/maiquitome/ola-mundo-da-programacao-concorrente-57mp)
+[![Git Best Practices](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Git_Best_Practices.svg)](https://dev.to/codiga/git-best-practices-2o46)
 [![4 Ways to Render JSX Conditionally in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/4_Ways_to_Render_JSX_Conditionally_in_React.svg)](https://dev.to/rasaf_ibrahim/4-ways-to-render-jsx-conditionally-in-react-2bal)
-[![What was your win this week?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_was_your_win_this_week_.svg)](https://dev.to/devteam/what-was-your-win-this-week-45f7)
-[![Gaming 🎮 in parallel with Programming 💻](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Gaming_🎮_in_parallel_with_Programming_💻.svg)](https://dev.to/rajeshj3/gaming-in-parallel-with-programming-4ea6)
-[![Simple todo API with complex concepts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Simple_todo_API_with_complex_concepts.svg)](https://dev.to/kumarkalyan/simple-todo-api-with-complex-concepts-301)
-[![Missing Introduction To React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Missing_Introduction_To_React.svg)](https://dev.to/khansa/missing-introduction-to-react-2ddo)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, June 24, 2022 at 12:12:54 PM
+> Last updated: Friday, June 24, 2022 at 6:53:37 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, June 24, 2022 at 12:12:57 PM
+> Last updated: Friday, June 24, 2022 at 6:53:42 PM
 
 > Showing 5 of 30 posts.
 
@@ -51,7 +51,9 @@ http://www.echojs.com
 [![Jamstack and Databases?!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Jamstack_and_Databases_!.svg)](https://cfe.dev/events/databases-and-the-jamstack/)
 [![Turn on TS flag evolutionarily](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Turn_on_TS_flag_evolutionarily.svg)](https://dev.to/przemyslawjanpietrzak/turn-on-ts-flag-evolutionarily-1mca)
 [![Leverage data from RapidApi using Redux Toolkit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Leverage_data_from_RapidApi_using_Redux_Toolkit.svg)](https://blog.openreplay.com/leverage-data-from-rapidapi-using-redux-toolkit)
-[![Best Hotels in Kodaikanal | Book Hotels in Kodaikanal](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Best_Hotels_in_Kodaikanal___Book_Hotels_in_Kodaikanal.svg)](https://www.greenlandskodaikanal.com/)
+[![Find Objects by Nested Properties with Lodash](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Find_Objects_by_Nested_Properties_with_Lodash.svg)](
+https://masteringjs.io/tutorials/lodash/find-nested-object
+)
 
 
 <!-- post-list:end -->

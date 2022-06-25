@@ -79,7 +79,7 @@
         <div class="image" />
 <div class="text">
           <div class="title">4&#0032;Ways&#0032;to&#0032;Render&#0032;JSX&#0032;Conditionally&#0032;in&#0032;React</div>
-          <div class="description">&#0160;&#0032;&#0032;Four&#0032;ways&#0032;of&#0032;conditional&#0032;rendering&#0058;&#0032;&#0032;&#0032;Ternary&#0032;Operator&#0032;Logical&#0032;Operator&#0032;if&#0044;&#0032;else&#0044;&#0032;else&#0032;if&#0032;Switch&#0046;&#0046;&#0046;</div>
+          <div class="description">Rendering&#0032;JSX&#0032;conditionally&#0032;is&#0032;a&#0032;very&#0032;common&#0032;and&#0032;essential&#0032;work&#0032;in&#0032;React&#0046;&#0032;There&#0032;are&#0032;4&#0032;ways&#0032;in&#0032;which&#0046;&#0046;&#0046;</div>
           <div class="date">6&#0047;24&#0047;22</div>
           <div class="data">
             <span class="author">Rasaf&#0032;Ibrahim</span> <span class="category">react</span> <span class="category">jsx</span> <span class="category">conditional</span> <span class="category">webdev</span>
