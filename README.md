@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, June 24, 2022 at 6:53:29 PM
+> Last updated: Saturday, June 25, 2022 at 12:11:53 AM
 
 > Showing 5 of 12 posts.
 
+[![CSS Battle: #1 - Simply Square](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CSS_Battle___1_-_Simply_Square.svg)](https://dev.to/j471n/css-battle-1-pilot-battle-1fhh)
 [![Let's write an image converter in 20 lines of html+js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Let's_write_an_image_converter_in_20_lines_of_html+js.svg)](https://dev.to/ninofiliu/lets-write-an-image-converter-in-20-lines-of-htmljs-bng)
+[![How to Add Bottom Navigation in Jetpack Compose?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Add_Bottom_Navigation_in_Jetpack_Compose_.svg)](https://dev.to/vtsen/how-to-add-bottom-navigation-in-jetpack-compose-1joj)
+[![Nihilism and the anti-corruption layer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Nihilism_and_the_anti-corruption_layer.svg)](https://dev.to/autonomousapps/nihilism-and-the-anti-corruption-layer-560n)
 [![How make a Triangle in CSS3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_make_a_Triangle_in_CSS3.svg)](https://dev.to/jmlpez/how-make-a-triangle-in-css3-1b8a)
-[![Olá mundo da programação concorrente](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Olá_mundo_da_programação_concorrente.svg)](https://dev.to/maiquitome/ola-mundo-da-programacao-concorrente-57mp)
-[![Git Best Practices](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Git_Best_Practices.svg)](https://dev.to/codiga/git-best-practices-2o46)
-[![4 Ways to Render JSX Conditionally in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/4_Ways_to_Render_JSX_Conditionally_in_React.svg)](https://dev.to/rasaf_ibrahim/4-ways-to-render-jsx-conditionally-in-react-2bal)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, June 24, 2022 at 6:53:37 PM
+> Last updated: Saturday, June 25, 2022 at 12:11:55 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, June 24, 2022 at 6:53:42 PM
+> Last updated: Saturday, June 25, 2022 at 12:12:00 AM
 
 > Showing 5 of 30 posts.
 
