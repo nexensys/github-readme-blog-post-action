@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, June 25, 2022 at 6:15:27 AM
+> Last updated: Saturday, June 25, 2022 at 12:12:10 PM
 
 > Showing 5 of 12 posts.
 
-[![How to disable text selection with CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_disable_text_selection_with_CSS.svg)](https://dev.to/smpnjn/how-to-disable-text-selection-with-css-4jan)
-[![Where to Place Logger in Golang?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Where_to_Place_Logger_in_Golang_.svg)](https://dev.to/ilyakaznacheev/where-to-place-logger-in-golang-13o3)
-[![Postgres module for NestJS 8.x framework 😻](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Postgres_module_for_NestJS_8.x_framework_😻.svg)](https://dev.to/tony133/postgres-module-for-nestjs-8x-framework-599j)
-[![Converting JSX to downloadable pdf in react](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Converting_JSX_to_downloadable_pdf_in_react.svg)](https://dev.to/kazmi066/converting-jsx-to-downloadable-pdf-in-react-20bh)
-[![React Props complete guide for beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Props_complete_guide_for_beginners.svg)](https://dev.to/suchintan/use-react-props-like-a-pro--1gll)
+[![Implementing reCAPTCHA V3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Implementing_reCAPTCHA_V3.svg)](https://dev.to/thedevdrawer/implementing-recaptcha-v3-1mm6)
+[![My checklist of PHP extensions used in Alpine docker image](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_checklist_of_PHP_extensions_used_in_Alpine_docker_image.svg)](https://dev.to/vikbert/my-checklist-of-php-extensions-used-in-alpine-docker-image-1g3j)
+[![Function visibility in Solidity Smart Contracts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Function_visibility_in_Solidity_Smart_Contracts.svg)](https://dev.to/seek4samurai/function-visibility-in-solidity-smart-contracts-3fhf)
+[![Ethics in AI and Data Science By Linux Foundation [edX]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ethics_in_AI_and_Data_Science_By_Linux_Foundation_[edX].svg)](https://dev.to/brlikhon/ethics-in-ai-and-data-science-by-linux-foundation-edx-2ald)
+[![GSoC 2022 CircuitVerse | Week 2 Report](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/GSoC_2022_CircuitVerse___Week_2_Report.svg)](https://dev.to/vedantjain03/gsoc-2022-circuitverse-week-2-report-519a)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, June 25, 2022 at 6:15:30 AM
+> Last updated: Saturday, June 25, 2022 at 12:12:13 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, June 25, 2022 at 6:15:34 AM
+> Last updated: Saturday, June 25, 2022 at 12:12:17 PM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - THHamiltonSmith/webdevhub: A hub for web developers that offers a variety of tools to help with any developing needs.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_THHamiltonSmith_webdevhub__A_hub_for_web_developers_that_offers_a_variety_of_tools_to_help_with_any_developing_needs..svg)](https://github.com/THHamiltonSmith/webdevhub)
 [![React vs Angular: who wins?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_vs_Angular__who_wins_.svg)](https://blog.openreplay.com/react-vs-angular-who-wins)
 [![GitHub - trinib/AdGuard-WireGuard-Unbound-DNScrypt: The ultimate self-hosted network security guide ─ Protection |  Privacy | Performance for your network 24/7 Accessible anywhere](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_trinib_AdGuard-WireGuard-Unbound-DNScrypt__The_ultimate_self-hosted_network_security_guide_─_Protection____Privacy___Performance_for_your_network_24_7_Accessible_anywhere.svg)](https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt)
 [![GitHub - BMSVieira/osticket-api: OSTicket Unofficial API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_BMSVieira_osticket-api__OSTicket_Unofficial_API.svg)](https://github.com/BMSVieira/osticket-api)
 [![Jamstack and Databases?!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Jamstack_and_Databases_!.svg)](https://cfe.dev/events/databases-and-the-jamstack/)
-[![Turn on TS flag evolutionarily](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Turn_on_TS_flag_evolutionarily.svg)](https://dev.to/przemyslawjanpietrzak/turn-on-ts-flag-evolutionarily-1mca)
 
 
 <!-- post-list:end -->
