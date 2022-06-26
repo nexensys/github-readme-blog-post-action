@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, June 26, 2022 at 12:11:31 AM
+> Last updated: Sunday, June 26, 2022 at 6:16:36 AM
 
 > Showing 5 of 12 posts.
 
-[![Revue - Sendy sync: project setup + Revue calls](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Revue_-_Sendy_sync__project_setup_+_Revue_calls.svg)](https://dev.to/dailydevtips1/revue-sendy-sync-project-setup-revue-calls-17fm)
-[![7 Lesser-Known VS Code Shortcuts to Speed Up your Development (with GIF Demos)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/7_Lesser-Known_VS_Code_Shortcuts_to_Speed_Up_your_Development_(with_GIF_Demos).svg)](https://dev.to/ruppysuppy/7-lesser-known-vs-code-shortcuts-to-speed-up-your-development-with-gif-demos-46m)
-[![k-nearest neighbors algorithm (k-NN)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/k-nearest_neighbors_algorithm_(k-NN).svg)](https://dev.to/umairshabbir_83/k-nearest-neighbors-algorithm-k-nn-46ml)
-[![9 useful code snippets for everyday JavaScript development || Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/9_useful_code_snippets_for_everyday_JavaScript_development____Part_1.svg)](https://dev.to/swastikyadav/9-useful-code-snippets-for-everyday-javascript-development-part-1-478a)
-[![How to securely store passwords in the database](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_securely_store_passwords_in_the_database.svg)](https://dev.to/opedroaravena/how-to-securely-store-passwords-in-the-database-1epb)
+[![What is programming <>??](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_programming_____.svg)](https://dev.to/evansifyke/what-is-programming--4bbd)
+[![How to create a portfolio website for free?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_a_portfolio_website_for_free_.svg)](https://dev.to/jihedkdiss/how-to-create-a-portfolio-website-for-free-4d0a)
+[![Data engineers must-see: The future trend of big data cloud services](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Data_engineers_must-see__The_future_trend_of_big_data_cloud_services.svg)](https://dev.to/qazmkop/data-engineers-must-see-the-future-trend-of-big-data-cloud-services-196p)
+[![1. MERN CRUD - Setup](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/1._MERN_CRUD_-_Setup.svg)](https://dev.to/shubhamtiwari909/mern-crud-setup-148a)
+[![Creating Morphing Animations with CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_Morphing_Animations_with_CSS.svg)](https://dev.to/amirlotfi/creating-morphing-animations-with-css-g0g)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, June 26, 2022 at 12:11:34 AM
+> Last updated: Sunday, June 26, 2022 at 6:16:40 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, June 26, 2022 at 12:11:36 AM
+> Last updated: Sunday, June 26, 2022 at 6:16:44 AM
 
 > Showing 5 of 30 posts.
 
