@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, June 25, 2022 at 6:56:52 PM
+> Last updated: Sunday, June 26, 2022 at 12:11:31 AM
 
 > Showing 5 of 12 posts.
 
-[![Brincando com Ecto.Query](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Brincando_com_Ecto.Query.svg)](https://dev.to/rohlacanna/brincando-com-ectoquery-4paj)
-[![Criando aplicativos no Android Wear OS com Jetpack Compose](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Criando_aplicativos_no_Android_Wear_OS_com_Jetpack_Compose.svg)](https://dev.to/tiagodanin/criando-aplicativos-no-android-wear-os-com-jetpack-compose-436g)
-[![Como sobrescrever uma regra do eslint para uma pasta específica](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Como_sobrescrever_uma_regra_do_eslint_para_uma_pasta_específica.svg)](https://dev.to/vinibispo/como-sobrescrever-uma-regra-do-eslint-para-uma-pasta-especifica-4o19)
-[![GitHub Copilot](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/GitHub_Copilot.svg)](https://dev.to/tmchuynh/github-copilot-1836)
-[![If you weren't a software developer, then what?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/If_you_weren't_a_software_developer__then_what_.svg)](https://dev.to/tmchuynh/if-you-werent-a-software-developer-then-what-62l)
+[![Revue - Sendy sync: project setup + Revue calls](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Revue_-_Sendy_sync__project_setup_+_Revue_calls.svg)](https://dev.to/dailydevtips1/revue-sendy-sync-project-setup-revue-calls-17fm)
+[![7 Lesser-Known VS Code Shortcuts to Speed Up your Development (with GIF Demos)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/7_Lesser-Known_VS_Code_Shortcuts_to_Speed_Up_your_Development_(with_GIF_Demos).svg)](https://dev.to/ruppysuppy/7-lesser-known-vs-code-shortcuts-to-speed-up-your-development-with-gif-demos-46m)
+[![k-nearest neighbors algorithm (k-NN)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/k-nearest_neighbors_algorithm_(k-NN).svg)](https://dev.to/umairshabbir_83/k-nearest-neighbors-algorithm-k-nn-46ml)
+[![9 useful code snippets for everyday JavaScript development || Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/9_useful_code_snippets_for_everyday_JavaScript_development____Part_1.svg)](https://dev.to/swastikyadav/9-useful-code-snippets-for-everyday-javascript-development-part-1-478a)
+[![How to securely store passwords in the database](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_securely_store_passwords_in_the_database.svg)](https://dev.to/opedroaravena/how-to-securely-store-passwords-in-the-database-1epb)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, June 25, 2022 at 6:56:55 PM
+> Last updated: Sunday, June 26, 2022 at 12:11:34 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, June 25, 2022 at 6:57:00 PM
+> Last updated: Sunday, June 26, 2022 at 12:11:36 AM
 
 > Showing 5 of 30 posts.
 
