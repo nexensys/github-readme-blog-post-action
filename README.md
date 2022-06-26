@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, June 25, 2022 at 12:12:10 PM
+> Last updated: Saturday, June 25, 2022 at 6:56:52 PM
 
 > Showing 5 of 12 posts.
 
-[![Implementing reCAPTCHA V3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Implementing_reCAPTCHA_V3.svg)](https://dev.to/thedevdrawer/implementing-recaptcha-v3-1mm6)
-[![My checklist of PHP extensions used in Alpine docker image](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_checklist_of_PHP_extensions_used_in_Alpine_docker_image.svg)](https://dev.to/vikbert/my-checklist-of-php-extensions-used-in-alpine-docker-image-1g3j)
-[![Function visibility in Solidity Smart Contracts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Function_visibility_in_Solidity_Smart_Contracts.svg)](https://dev.to/seek4samurai/function-visibility-in-solidity-smart-contracts-3fhf)
-[![Ethics in AI and Data Science By Linux Foundation [edX]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ethics_in_AI_and_Data_Science_By_Linux_Foundation_[edX].svg)](https://dev.to/brlikhon/ethics-in-ai-and-data-science-by-linux-foundation-edx-2ald)
-[![GSoC 2022 CircuitVerse | Week 2 Report](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/GSoC_2022_CircuitVerse___Week_2_Report.svg)](https://dev.to/vedantjain03/gsoc-2022-circuitverse-week-2-report-519a)
+[![Brincando com Ecto.Query](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Brincando_com_Ecto.Query.svg)](https://dev.to/rohlacanna/brincando-com-ectoquery-4paj)
+[![Criando aplicativos no Android Wear OS com Jetpack Compose](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Criando_aplicativos_no_Android_Wear_OS_com_Jetpack_Compose.svg)](https://dev.to/tiagodanin/criando-aplicativos-no-android-wear-os-com-jetpack-compose-436g)
+[![Como sobrescrever uma regra do eslint para uma pasta específica](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Como_sobrescrever_uma_regra_do_eslint_para_uma_pasta_específica.svg)](https://dev.to/vinibispo/como-sobrescrever-uma-regra-do-eslint-para-uma-pasta-especifica-4o19)
+[![GitHub Copilot](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/GitHub_Copilot.svg)](https://dev.to/tmchuynh/github-copilot-1836)
+[![If you weren't a software developer, then what?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/If_you_weren't_a_software_developer__then_what_.svg)](https://dev.to/tmchuynh/if-you-werent-a-software-developer-then-what-62l)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, June 25, 2022 at 12:12:13 PM
+> Last updated: Saturday, June 25, 2022 at 6:56:55 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, June 25, 2022 at 12:12:17 PM
+> Last updated: Saturday, June 25, 2022 at 6:57:00 PM
 
 > Showing 5 of 30 posts.
 
