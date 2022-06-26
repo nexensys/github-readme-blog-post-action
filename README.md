@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, June 26, 2022 at 6:16:36 AM
+> Last updated: Sunday, June 26, 2022 at 12:10:53 PM
 
 > Showing 5 of 12 posts.
 
-[![What is programming <>??](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_programming_____.svg)](https://dev.to/evansifyke/what-is-programming--4bbd)
-[![How to create a portfolio website for free?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_a_portfolio_website_for_free_.svg)](https://dev.to/jihedkdiss/how-to-create-a-portfolio-website-for-free-4d0a)
-[![Data engineers must-see: The future trend of big data cloud services](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Data_engineers_must-see__The_future_trend_of_big_data_cloud_services.svg)](https://dev.to/qazmkop/data-engineers-must-see-the-future-trend-of-big-data-cloud-services-196p)
-[![1. MERN CRUD - Setup](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/1._MERN_CRUD_-_Setup.svg)](https://dev.to/shubhamtiwari909/mern-crud-setup-148a)
-[![Creating Morphing Animations with CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_Morphing_Animations_with_CSS.svg)](https://dev.to/amirlotfi/creating-morphing-animations-with-css-g0g)
+[![Which headless CMS would you recommend for a blog site?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Which_headless_CMS_would_you_recommend_for_a_blog_site_.svg)](https://dev.to/hunghvu/which-headless-cms-would-you-recommend-for-a-blog-site-5cao)
+[![Which YouTube channels do you follow and would recommend as a programmer/developer?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Which_YouTube_channels_do_you_follow_and_would_recommend_as_a_programmer_developer_.svg)](https://dev.to/asheeshh/which-youtube-channels-do-you-follow-and-would-recommend-as-a-programmerdeveloper-l27)
+[![Angular - Use ChangeDetectionStrategy.OnPush](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Angular_-_Use_ChangeDetectionStrategy.OnPush.svg)](https://dev.to/sandrocagara/angular-use-changedetectionstrategyonpush-4n0g)
+[![How to resolve CORS issue in VueJs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_resolve_CORS_issue_in_VueJs.svg)](https://dev.to/gayathri_r/how-to-resolve-cors-issue-in-vuejs-2m62)
+[![What Website Would You Like to Create a New UI For?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_Website_Would_You_Like_to_Create_a_New_UI_For_.svg)](https://dev.to/perssondennis/what-website-would-you-like-to-create-a-new-ui-for-1npa)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, June 26, 2022 at 6:16:40 AM
+> Last updated: Sunday, June 26, 2022 at 12:10:57 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, June 26, 2022 at 6:16:44 AM
+> Last updated: Sunday, June 26, 2022 at 12:11:01 PM
 
 > Showing 5 of 30 posts.
 
