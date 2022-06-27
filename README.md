@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, June 26, 2022 at 6:58:17 PM
+> Last updated: Monday, June 27, 2022 at 12:14:43 AM
 
 > Showing 5 of 12 posts.
 
-[![React - You might not need that many states!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_-_You_might_not_need_that_many_states!.svg)](https://dev.to/noriller/react-you-might-not-need-that-many-states-5el)
-[![Golang e Rust: Qual é melhor?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Golang_e_Rust__Qual_é_melhor_.svg)](https://dev.to/feministech/golang-e-rust-qual-e-melhor-4559)
-[![Asynchronous CRUD Operations in Node js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Asynchronous_CRUD_Operations_in_Node_js.svg)](https://dev.to/crackingdemon/asynchronous-crud-operations-in-node-js-lgj)
-[![Find Your Balance to Help Prevent Burnout...](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Find_Your_Balance_to_Help_Prevent_Burnout....svg)](https://dev.to/dfeliciano3/find-your-balance-to-help-prevent-burnout-4ebm)
-[![DATA STRUCTURES AND ALGORITHMS 102:DEEP DIVE INTO DATA STRUCTURES AND ALGORITHMS IN PYTHON.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/DATA_STRUCTURES_AND_ALGORITHMS_102_DEEP_DIVE_INTO_DATA_STRUCTURES_AND_ALGORITHMS_IN_PYTHON..svg)](https://dev.to/violakithinji/data-structures-and-algorithms-102deep-dive-into-data-structures-and-algorithms-4n2f)
+[![Build a Better GitHub Insight Tool in a Week? A True Story](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_a_Better_GitHub_Insight_Tool_in_a_Week__A_True_Story.svg)](https://dev.to/ossinsight/build-a-better-github-insight-tool-in-a-week-a-true-story-14en)
+[![Climan is a small npm package that automates long & boring commands for you.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Climan_is_a_small_npm_package_that_automates_long___boring_commands_for_you..svg)](https://dev.to/quachhengtony/climan-is-a-small-npm-package-that-automates-long-boring-commands-for-you-4247)
+[![DevOps on Amazon Web Services (AWS)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/DevOps_on_Amazon_Web_Services_(AWS).svg)](https://dev.to/aws-builders/devops-on-amazon-web-services-aws-2eln)
+[![How I Learned to Think at Scale](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_I_Learned_to_Think_at_Scale.svg)](https://dev.to/helloitsian/how-i-learned-to-think-at-scale-4ioa)
+[![Start creating simple text editor library for Jetpack Compose](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Start_creating_simple_text_editor_library_for_Jetpack_Compose.svg)](https://dev.to/kaleidot725/start-creating-simple-text-editor-library-for-jetpack-compose-45jh)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, June 26, 2022 at 6:58:21 PM
+> Last updated: Monday, June 27, 2022 at 12:14:48 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, June 26, 2022 at 6:58:25 PM
+> Last updated: Monday, June 27, 2022 at 12:14:52 AM
 
 > Showing 5 of 30 posts.
 
