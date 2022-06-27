@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, June 26, 2022 at 12:10:53 PM
+> Last updated: Sunday, June 26, 2022 at 6:58:17 PM
 
 > Showing 5 of 12 posts.
 
-[![Which headless CMS would you recommend for a blog site?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Which_headless_CMS_would_you_recommend_for_a_blog_site_.svg)](https://dev.to/hunghvu/which-headless-cms-would-you-recommend-for-a-blog-site-5cao)
-[![Which YouTube channels do you follow and would recommend as a programmer/developer?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Which_YouTube_channels_do_you_follow_and_would_recommend_as_a_programmer_developer_.svg)](https://dev.to/asheeshh/which-youtube-channels-do-you-follow-and-would-recommend-as-a-programmerdeveloper-l27)
-[![Angular - Use ChangeDetectionStrategy.OnPush](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Angular_-_Use_ChangeDetectionStrategy.OnPush.svg)](https://dev.to/sandrocagara/angular-use-changedetectionstrategyonpush-4n0g)
-[![How to resolve CORS issue in VueJs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_resolve_CORS_issue_in_VueJs.svg)](https://dev.to/gayathri_r/how-to-resolve-cors-issue-in-vuejs-2m62)
-[![What Website Would You Like to Create a New UI For?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_Website_Would_You_Like_to_Create_a_New_UI_For_.svg)](https://dev.to/perssondennis/what-website-would-you-like-to-create-a-new-ui-for-1npa)
+[![React - You might not need that many states!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_-_You_might_not_need_that_many_states!.svg)](https://dev.to/noriller/react-you-might-not-need-that-many-states-5el)
+[![Golang e Rust: Qual é melhor?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Golang_e_Rust__Qual_é_melhor_.svg)](https://dev.to/feministech/golang-e-rust-qual-e-melhor-4559)
+[![Asynchronous CRUD Operations in Node js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Asynchronous_CRUD_Operations_in_Node_js.svg)](https://dev.to/crackingdemon/asynchronous-crud-operations-in-node-js-lgj)
+[![Find Your Balance to Help Prevent Burnout...](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Find_Your_Balance_to_Help_Prevent_Burnout....svg)](https://dev.to/dfeliciano3/find-your-balance-to-help-prevent-burnout-4ebm)
+[![DATA STRUCTURES AND ALGORITHMS 102:DEEP DIVE INTO DATA STRUCTURES AND ALGORITHMS IN PYTHON.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/DATA_STRUCTURES_AND_ALGORITHMS_102_DEEP_DIVE_INTO_DATA_STRUCTURES_AND_ALGORITHMS_IN_PYTHON..svg)](https://dev.to/violakithinji/data-structures-and-algorithms-102deep-dive-into-data-structures-and-algorithms-4n2f)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, June 26, 2022 at 12:10:57 PM
+> Last updated: Sunday, June 26, 2022 at 6:58:21 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, June 26, 2022 at 12:11:01 PM
+> Last updated: Sunday, June 26, 2022 at 6:58:25 PM
 
 > Showing 5 of 30 posts.
 
+[![Remove null from an Array with Lodash](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Remove_null_from_an_Array_with_Lodash.svg)](
+https://masteringjs.io/tutorials/lodash/remove-null-from-array
+)
 [![GitHub - THHamiltonSmith/webdevhub: A hub for web developers that offers a variety of tools to help with any developing needs.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_THHamiltonSmith_webdevhub__A_hub_for_web_developers_that_offers_a_variety_of_tools_to_help_with_any_developing_needs..svg)](https://github.com/THHamiltonSmith/webdevhub)
 [![React vs Angular: who wins?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_vs_Angular__who_wins_.svg)](https://blog.openreplay.com/react-vs-angular-who-wins)
 [![GitHub - trinib/AdGuard-WireGuard-Unbound-DNScrypt: The ultimate self-hosted network security guide ─ Protection |  Privacy | Performance for your network 24/7 Accessible anywhere](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_trinib_AdGuard-WireGuard-Unbound-DNScrypt__The_ultimate_self-hosted_network_security_guide_─_Protection____Privacy___Performance_for_your_network_24_7_Accessible_anywhere.svg)](https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt)
 [![GitHub - BMSVieira/osticket-api: OSTicket Unofficial API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_BMSVieira_osticket-api__OSTicket_Unofficial_API.svg)](https://github.com/BMSVieira/osticket-api)
-[![Jamstack and Databases?!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Jamstack_and_Databases_!.svg)](https://cfe.dev/events/databases-and-the-jamstack/)
 
 
 <!-- post-list:end -->
