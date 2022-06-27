@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, June 27, 2022 at 6:21:28 AM
+> Last updated: Monday, June 27, 2022 at 12:13:55 PM
 
 > Showing 5 of 12 posts.
 
-[![Add a table of contents (TOC) to your blog posts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Add_a_table_of_contents_(TOC)_to_your_blog_posts.svg)](https://dev.to/robole/add-a-table-of-contents-toc-to-your-blog-posts-99p)
-[![Adapting To Concept Drift In Time-Series Data](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Adapting_To_Concept_Drift_In_Time-Series_Data.svg)](https://dev.to/ambee/adapting-to-concept-drift-in-time-series-data-11ng)
-[![Build a Twitter Clone with Activity Feeds and React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_a_Twitter_Clone_with_Activity_Feeds_and_React.svg)](https://dev.to/dillionmegida/build-a-twitter-clone-with-activity-feeds-and-react-5fa0)
-[![How to Setup Nodejs Mongodb in Production server on Ubuntu 18.04 in AWS, GCP, Azure, Digital Ocean Cloud Instance or Locally](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Setup_Nodejs_Mongodb_in_Production_server_on_Ubuntu_18.04_in_AWS__GCP__Azure__Digital_Ocean_Cloud_Instance_or_Locally.svg)](https://dev.to/nditah/how-to-setup-nodejs-mongodb-in-production-server-on-ubuntu-1804-in-aws-gcp-azure-digital-ocean-cloud-instance-or-locally-16hk)
-[![What's Something New That You Learned in The Past Week?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What's_Something_New_That_You_Learned_in_The_Past_Week_.svg)](https://dev.to/medusajs/whats-something-new-did-you-learn-in-the-past-week-498h)
+[![FruitsClassifier on Fruits 360](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/FruitsClassifier_on_Fruits_360.svg)](https://dev.to/qbaocaca/fruitsclassifier-on-fruits-360-2653)
+[![FruitsClassifier with Pytorch Lightning 🍉](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/FruitsClassifier_with_Pytorch_Lightning_🍉.svg)](https://dev.to/qbaocaca/fruitsclassifier-with-pytorch-lightning-49gi)
+[![How To Make A Typescript + NodeJS Express Project with eslint, EJS and nodemon hot reload](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Make_A_Typescript_+_NodeJS_Express_Project_with_eslint__EJS_and_nodemon_hot_reload.svg)](https://dev.to/nyctonio/how-to-make-a-typescript-nodejs-express-project-with-eslint-ejs-and-nodemon-hot-reload-4e0b)
+[![AWS (EBS) Elastic Block Store](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_(EBS)_Elastic_Block_Store.svg)](https://dev.to/shyam1409/aws-ebs-elastic-block-store-odi)
+[![Convert Django website to PWA](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Convert_Django_website_to_PWA.svg)](https://dev.to/dilutewater/convert-django-website-to-pwa-59em)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, June 27, 2022 at 6:21:31 AM
+> Last updated: Monday, June 27, 2022 at 12:13:57 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, June 27, 2022 at 6:21:34 AM
+> Last updated: Monday, June 27, 2022 at 12:13:59 PM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - micnic/r-assign: Object.assign() with super powers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_micnic_r-assign__Object.assign()_with_super_powers.svg)](https://github.com/micnic/r-assign)
 [![FOREVER FUNCTIONAL--Working with functions... but partially!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/FOREVER_FUNCTIONAL--Working_with_functions..._but_partially!.svg)](https://blog.openreplay.com/forever-functional-working-with-functions-but-partially)
 [![Remove null from an Array with Lodash](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Remove_null_from_an_Array_with_Lodash.svg)](
 https://masteringjs.io/tutorials/lodash/remove-null-from-array
 )
 [![GitHub - THHamiltonSmith/webdevhub: A hub for web developers that offers a variety of tools to help with any developing needs.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_THHamiltonSmith_webdevhub__A_hub_for_web_developers_that_offers_a_variety_of_tools_to_help_with_any_developing_needs..svg)](https://github.com/THHamiltonSmith/webdevhub)
 [![React vs Angular: who wins?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_vs_Angular__who_wins_.svg)](https://blog.openreplay.com/react-vs-angular-who-wins)
-[![GitHub - trinib/AdGuard-WireGuard-Unbound-DNScrypt: The ultimate self-hosted network security guide ─ Protection |  Privacy | Performance for your network 24/7 Accessible anywhere](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_trinib_AdGuard-WireGuard-Unbound-DNScrypt__The_ultimate_self-hosted_network_security_guide_─_Protection____Privacy___Performance_for_your_network_24_7_Accessible_anywhere.svg)](https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt)
 
 
 <!-- post-list:end -->
