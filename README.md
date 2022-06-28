@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, June 28, 2022 at 12:13:12 AM
+> Last updated: Tuesday, June 28, 2022 at 6:20:26 AM
 
 > Showing 5 of 12 posts.
 
-[![Discorver the Third .NET MAUI (Release Candidate) Features!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Discorver_the_Third_.NET_MAUI_(Release_Candidate)_Features!.svg)](https://dev.to/dotnetsafer/discorver-the-third-net-maui-release-candidate-features-1699)
-[![Send Notifications Through Node.js App! 🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Send_Notifications_Through_Node.js_App!_🔥.svg)](https://dev.to/sujeetgund/send-notifications-through-nodejs-app-58fc)
-[![How to create neon text using vanilla CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_neon_text_using_vanilla_CSS.svg)](https://dev.to/amirlotfi/how-to-create-neon-text-using-vanilla-css-19k7)
-[![Como criar micro serviços - Nível fácil parte 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Como_criar_micro_serviços_-_Nível_fácil_parte_2.svg)](https://dev.to/jeanmolossi/como-criar-micro-servicos-nivel-facil-parte-2-43ln)
-[![5 AWS Lambda Pitfalls Most Developers Don't Know About](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_AWS_Lambda_Pitfalls_Most_Developers_Don't_Know_About.svg)](https://dev.to/bentorvo/5-aws-lambda-pitfalls-most-developers-dont-know-about-io4)
+[![[Challenge] Add numbers without (+-*/)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/[Challenge]_Add_numbers_without_(+-__).svg)](https://dev.to/nombrekeff/challenge-add-numbers-without--3mac)
+[![Choosing an OpenTelemetry backend - Things to keep in mind](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Choosing_an_OpenTelemetry_backend_-_Things_to_keep_in_mind.svg)](https://dev.to/signoz/choosing-an-opentelemetry-backend-things-to-keep-in-mind-23ao)
+[![Medusa + Nuxt.js + Stripe - How to Create a Nuxt.js Ecommerce Storefront from Scratch Using Medusa Part 3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Medusa_+_Nuxt.js_+_Stripe_-_How_to_Create_a_Nuxt.js_Ecommerce_Storefront_from_Scratch_Using_Medusa_Part_3.svg)](https://dev.to/medusajs/medusa-nuxtjs-stripe-how-to-create-a-nuxtjs-ecommerce-storefront-from-scratch-using-medusa-part-3-3jg0)
+[![Deploying a custom Mongodb operator using Helm Charts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deploying_a_custom_Mongodb_operator_using_Helm_Charts.svg)](https://dev.to/devtron_/deploying-a-custom-mongodb-operator-using-helm-charts-5hg2)
+[![Cloud Native Java Microservices with JHipster and Istio](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cloud_Native_Java_Microservices_with_JHipster_and_Istio.svg)](https://dev.to/jhipster/cloud-native-java-microservices-with-jhipster-and-istio-1emb)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, June 28, 2022 at 12:13:14 AM
+> Last updated: Tuesday, June 28, 2022 at 6:20:28 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, June 28, 2022 at 12:13:19 AM
+> Last updated: Tuesday, June 28, 2022 at 6:20:33 AM
 
 > Showing 5 of 30 posts.
 
