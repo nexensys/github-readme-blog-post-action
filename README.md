@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, June 27, 2022 at 12:13:55 PM
+> Last updated: Monday, June 27, 2022 at 6:56:34 PM
 
 > Showing 5 of 12 posts.
 
-[![FruitsClassifier on Fruits 360](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/FruitsClassifier_on_Fruits_360.svg)](https://dev.to/qbaocaca/fruitsclassifier-on-fruits-360-2653)
-[![FruitsClassifier with Pytorch Lightning 🍉](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/FruitsClassifier_with_Pytorch_Lightning_🍉.svg)](https://dev.to/qbaocaca/fruitsclassifier-with-pytorch-lightning-49gi)
-[![How To Make A Typescript + NodeJS Express Project with eslint, EJS and nodemon hot reload](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Make_A_Typescript_+_NodeJS_Express_Project_with_eslint__EJS_and_nodemon_hot_reload.svg)](https://dev.to/nyctonio/how-to-make-a-typescript-nodejs-express-project-with-eslint-ejs-and-nodemon-hot-reload-4e0b)
-[![AWS (EBS) Elastic Block Store](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_(EBS)_Elastic_Block_Store.svg)](https://dev.to/shyam1409/aws-ebs-elastic-block-store-odi)
-[![Convert Django website to PWA](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Convert_Django_website_to_PWA.svg)](https://dev.to/dilutewater/convert-django-website-to-pwa-59em)
+[![Interesting! Making different image parts clickable with HTML (codepen preview)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Interesting!_Making_different_image_parts_clickable_with_HTML_(codepen_preview).svg)](https://dev.to/babib/interesting-making-different-image-parts-clickable-with-html-codepen-preview-3pg8)
+[![Get URL Parameters with JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Get_URL_Parameters_with_JavaScript.svg)](https://dev.to/robert96/get-url-parameters-with-javascript-1ah6)
+[![Flutter Responsive Tasarım 💫 🌌 ✨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Flutter_Responsive_Tasarım_💫_🌌_✨.svg)](https://dev.to/gulsenkeskin/flutter-responsive-tasarim-1mk0)
+[![Understanding Upgradeable Smart Contracts hands-on.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_Upgradeable_Smart_Contracts_hands-on..svg)](https://dev.to/abhikbanerjee99/understanding-upgradeable-smart-contracts-hands-on-1c00)
+[![Git: ¿Cómo eliminar un archivo de la historia?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Git__¿Cómo_eliminar_un_archivo_de_la_historia_.svg)](https://dev.to/matiasfha/git-como-eliminar-un-archivo-de-la-historia-mpp)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, June 27, 2022 at 12:13:57 PM
+> Last updated: Monday, June 27, 2022 at 6:56:38 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, June 27, 2022 at 12:13:59 PM
+> Last updated: Monday, June 27, 2022 at 6:56:47 PM
 
 > Showing 5 of 30 posts.
 
+[![Interacting with Smart Contracts using Web3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Interacting_with_Smart_Contracts_using_Web3.svg)](https://blog.openreplay.com/interacting-with-smart-contracts-using-web3)
+[![Rendering long lists using virtualization with React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Rendering_long_lists_using_virtualization_with_React.svg)](http://wanago.io/2022/06/27/long-lists-react-virtualization/)
 [![GitHub - micnic/r-assign: Object.assign() with super powers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_micnic_r-assign__Object.assign()_with_super_powers.svg)](https://github.com/micnic/r-assign)
 [![FOREVER FUNCTIONAL--Working with functions... but partially!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/FOREVER_FUNCTIONAL--Working_with_functions..._but_partially!.svg)](https://blog.openreplay.com/forever-functional-working-with-functions-but-partially)
 [![Remove null from an Array with Lodash](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Remove_null_from_an_Array_with_Lodash.svg)](
 https://masteringjs.io/tutorials/lodash/remove-null-from-array
 )
-[![GitHub - THHamiltonSmith/webdevhub: A hub for web developers that offers a variety of tools to help with any developing needs.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_THHamiltonSmith_webdevhub__A_hub_for_web_developers_that_offers_a_variety_of_tools_to_help_with_any_developing_needs..svg)](https://github.com/THHamiltonSmith/webdevhub)
-[![React vs Angular: who wins?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_vs_Angular__who_wins_.svg)](https://blog.openreplay.com/react-vs-angular-who-wins)
 
 
 <!-- post-list:end -->
