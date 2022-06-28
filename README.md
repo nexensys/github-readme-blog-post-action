@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, June 28, 2022 at 6:20:26 AM
+> Last updated: Tuesday, June 28, 2022 at 12:13:47 PM
 
 > Showing 5 of 12 posts.
 
-[![[Challenge] Add numbers without (+-*/)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/[Challenge]_Add_numbers_without_(+-__).svg)](https://dev.to/nombrekeff/challenge-add-numbers-without--3mac)
-[![Choosing an OpenTelemetry backend - Things to keep in mind](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Choosing_an_OpenTelemetry_backend_-_Things_to_keep_in_mind.svg)](https://dev.to/signoz/choosing-an-opentelemetry-backend-things-to-keep-in-mind-23ao)
-[![Medusa + Nuxt.js + Stripe - How to Create a Nuxt.js Ecommerce Storefront from Scratch Using Medusa Part 3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Medusa_+_Nuxt.js_+_Stripe_-_How_to_Create_a_Nuxt.js_Ecommerce_Storefront_from_Scratch_Using_Medusa_Part_3.svg)](https://dev.to/medusajs/medusa-nuxtjs-stripe-how-to-create-a-nuxtjs-ecommerce-storefront-from-scratch-using-medusa-part-3-3jg0)
-[![Deploying a custom Mongodb operator using Helm Charts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deploying_a_custom_Mongodb_operator_using_Helm_Charts.svg)](https://dev.to/devtron_/deploying-a-custom-mongodb-operator-using-helm-charts-5hg2)
-[![Cloud Native Java Microservices with JHipster and Istio](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cloud_Native_Java_Microservices_with_JHipster_and_Istio.svg)](https://dev.to/jhipster/cloud-native-java-microservices-with-jhipster-and-istio-1emb)
+[![Introducing $createdAt And $updatedAt On Each Resource](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_$createdAt_And_$updatedAt_On_Each_Resource.svg)](https://dev.to/appwrite/introducing-createdat-and-updatedat-on-each-resource-5pa)
+[![Appwrite Autodesk OAuth Integration](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Appwrite_Autodesk_OAuth_Integration.svg)](https://dev.to/appwrite/appwrite-autodesk-oauth-integration-11j0)
+[![Adidas Logo | Pure CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Adidas_Logo___Pure_CSS.svg)](https://dev.to/rembertdesigns/adidas-logo-pure-css-10kn)
+[![INTRODUCTION TO DATA STRUCTURE AND ALGORITHMS :](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/INTRODUCTION_TO_DATA_STRUCTURE_AND_ALGORITHMS__.svg)](https://dev.to/paragonnoah/introduction-to-data-structure-and-algorithms--136d)
+[![Compound Components Pattern in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Compound_Components_Pattern_in_React.svg)](https://dev.to/officialbidisha/compound-components-pattern-in-react-35dp)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, June 28, 2022 at 6:20:28 AM
+> Last updated: Tuesday, June 28, 2022 at 12:13:49 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, June 28, 2022 at 6:20:33 AM
+> Last updated: Tuesday, June 28, 2022 at 12:13:54 PM
 
 > Showing 5 of 30 posts.
 
-[![Interacting with Smart Contracts using Web3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Interacting_with_Smart_Contracts_using_Web3.svg)](https://blog.openreplay.com/interacting-with-smart-contracts-using-web3)
 [![Rendering long lists using virtualization with React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Rendering_long_lists_using_virtualization_with_React.svg)](http://wanago.io/2022/06/27/long-lists-react-virtualization/)
 [![GitHub - micnic/r-assign: Object.assign() with super powers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_micnic_r-assign__Object.assign()_with_super_powers.svg)](https://github.com/micnic/r-assign)
 [![FOREVER FUNCTIONAL--Working with functions... but partially!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/FOREVER_FUNCTIONAL--Working_with_functions..._but_partially!.svg)](https://blog.openreplay.com/forever-functional-working-with-functions-but-partially)
 [![Remove null from an Array with Lodash](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Remove_null_from_an_Array_with_Lodash.svg)](
 https://masteringjs.io/tutorials/lodash/remove-null-from-array
 )
+[![GitHub - THHamiltonSmith/webdevhub: A hub for web developers that offers a variety of tools to help with any developing needs.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_THHamiltonSmith_webdevhub__A_hub_for_web_developers_that_offers_a_variety_of_tools_to_help_with_any_developing_needs..svg)](https://github.com/THHamiltonSmith/webdevhub)
 
 
 <!-- post-list:end -->
