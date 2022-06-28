@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, June 27, 2022 at 6:56:34 PM
+> Last updated: Tuesday, June 28, 2022 at 12:13:12 AM
 
 > Showing 5 of 12 posts.
 
-[![Interesting! Making different image parts clickable with HTML (codepen preview)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Interesting!_Making_different_image_parts_clickable_with_HTML_(codepen_preview).svg)](https://dev.to/babib/interesting-making-different-image-parts-clickable-with-html-codepen-preview-3pg8)
-[![Get URL Parameters with JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Get_URL_Parameters_with_JavaScript.svg)](https://dev.to/robert96/get-url-parameters-with-javascript-1ah6)
-[![Flutter Responsive Tasarım 💫 🌌 ✨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Flutter_Responsive_Tasarım_💫_🌌_✨.svg)](https://dev.to/gulsenkeskin/flutter-responsive-tasarim-1mk0)
-[![Understanding Upgradeable Smart Contracts hands-on.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_Upgradeable_Smart_Contracts_hands-on..svg)](https://dev.to/abhikbanerjee99/understanding-upgradeable-smart-contracts-hands-on-1c00)
-[![Git: ¿Cómo eliminar un archivo de la historia?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Git__¿Cómo_eliminar_un_archivo_de_la_historia_.svg)](https://dev.to/matiasfha/git-como-eliminar-un-archivo-de-la-historia-mpp)
+[![Discorver the Third .NET MAUI (Release Candidate) Features!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Discorver_the_Third_.NET_MAUI_(Release_Candidate)_Features!.svg)](https://dev.to/dotnetsafer/discorver-the-third-net-maui-release-candidate-features-1699)
+[![Send Notifications Through Node.js App! 🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Send_Notifications_Through_Node.js_App!_🔥.svg)](https://dev.to/sujeetgund/send-notifications-through-nodejs-app-58fc)
+[![How to create neon text using vanilla CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_neon_text_using_vanilla_CSS.svg)](https://dev.to/amirlotfi/how-to-create-neon-text-using-vanilla-css-19k7)
+[![Como criar micro serviços - Nível fácil parte 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Como_criar_micro_serviços_-_Nível_fácil_parte_2.svg)](https://dev.to/jeanmolossi/como-criar-micro-servicos-nivel-facil-parte-2-43ln)
+[![5 AWS Lambda Pitfalls Most Developers Don't Know About](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_AWS_Lambda_Pitfalls_Most_Developers_Don't_Know_About.svg)](https://dev.to/bentorvo/5-aws-lambda-pitfalls-most-developers-dont-know-about-io4)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, June 27, 2022 at 6:56:38 PM
+> Last updated: Tuesday, June 28, 2022 at 12:13:14 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, June 27, 2022 at 6:56:47 PM
+> Last updated: Tuesday, June 28, 2022 at 12:13:19 AM
 
 > Showing 5 of 30 posts.
 
