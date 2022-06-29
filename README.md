@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, June 29, 2022 at 6:17:20 AM
+> Last updated: Wednesday, June 29, 2022 at 12:15:56 PM
 
 > Showing 5 of 12 posts.
 
-[![Kareem Negm passed away](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Kareem_Negm_passed_away.svg)](https://dev.to/aws-builders/kareem-negm-passed-away-3ahm)
-[![Docker Stats | Understand how to monitor Docker Metrics with docker stats](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Docker_Stats___Understand_how_to_monitor_Docker_Metrics_with_docker_stats.svg)](https://dev.to/signoz/docker-stats-understand-how-to-monitor-docker-metrics-with-docker-stats-1h2l)
-[![What the hell is <!DOCTYPE html>?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_the_hell_is__!DOCTYPE_html__.svg)](https://dev.to/aman894/what-the-hell-is-doctype-html-32om)
-[![How to deploy React app on remote Linux server using NGINX in Linode](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_deploy_React_app_on_remote_Linux_server_using_NGINX_in_Linode.svg)](https://dev.to/devstardude/how-to-deploy-react-app-on-remote-linux-server-using-nginx-in-linode-3iid)
-[![Handle environment variables in Flutter | LLF #8](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Handle_environment_variables_in_Flutter___LLF__8.svg)](https://dev.to/nombrekeff/handle-environment-variables-in-flutter-llf-8-366j)
+[![How we compress data in large projects](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_we_compress_data_in_large_projects.svg)](https://dev.to/tarantool/how-we-compress-data-in-large-projects-3767)
+[![Announcing DiversityOrgs.Tech (Beta 2)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Announcing_DiversityOrgs.Tech_(Beta_2).svg)](https://dev.to/azure/announcing-diversityorgstech-beta-2-f22)
+[![Convert my Pytorch model to Pytorch Lightning](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Convert_my_Pytorch_model_to_Pytorch_Lightning.svg)](https://dev.to/qbaocaca/convert-my-pytorch-model-to-pytorch-lightning-8ha)
+[![11 Stupidly Simple Side Hustles to Earn Extra Money as a Programmer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/11_Stupidly_Simple_Side_Hustles_to_Earn_Extra_Money_as_a_Programmer.svg)](https://dev.to/kai_wenzel/11-stupidly-simple-side-hustles-to-earn-extra-money-as-a-programmer-4c78)
+[![A tl;dr overview of an API ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_tl;dr_overview_of_an_API__.svg)](https://dev.to/itzdeepraj/a-tldr-overview-of-an-api--26j7)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, June 29, 2022 at 6:17:22 AM
+> Last updated: Wednesday, June 29, 2022 at 12:16:00 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, June 29, 2022 at 6:17:26 AM
+> Last updated: Wednesday, June 29, 2022 at 12:16:07 PM
 
 > Showing 5 of 30 posts.
 
