@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, June 28, 2022 at 12:13:47 PM
+> Last updated: Tuesday, June 28, 2022 at 6:54:13 PM
 
 > Showing 5 of 12 posts.
 
-[![Introducing $createdAt And $updatedAt On Each Resource](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_$createdAt_And_$updatedAt_On_Each_Resource.svg)](https://dev.to/appwrite/introducing-createdat-and-updatedat-on-each-resource-5pa)
-[![Appwrite Autodesk OAuth Integration](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Appwrite_Autodesk_OAuth_Integration.svg)](https://dev.to/appwrite/appwrite-autodesk-oauth-integration-11j0)
-[![Adidas Logo | Pure CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Adidas_Logo___Pure_CSS.svg)](https://dev.to/rembertdesigns/adidas-logo-pure-css-10kn)
-[![INTRODUCTION TO DATA STRUCTURE AND ALGORITHMS :](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/INTRODUCTION_TO_DATA_STRUCTURE_AND_ALGORITHMS__.svg)](https://dev.to/paragonnoah/introduction-to-data-structure-and-algorithms--136d)
-[![Compound Components Pattern in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Compound_Components_Pattern_in_React.svg)](https://dev.to/officialbidisha/compound-components-pattern-in-react-35dp)
+[![Why Cache Invalidation Doesn't Work](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_Cache_Invalidation_Doesn't_Work.svg)](https://dev.to/bentorvo/why-cache-invalidation-doesnt-work-1i54)
+[![Style your Next.js website faster with Stylify CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Style_your_Next.js_website_faster_with_Stylify_CSS.svg)](https://dev.to/machy8/style-your-nextjs-website-faster-with-stylify-css-f7k)
+[![Next.js 12.2 release, what is new?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Next.js_12.2_release__what_is_new_.svg)](https://dev.to/hunghvu/nextjs-122-release-what-is-new-3gek)
+[![Using AWS S3 for Terraform Backend](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_AWS_S3_for_Terraform_Backend.svg)](https://dev.to/moses_itoya/using-aws-s3-for-terraform-backend-4h9m)
+[![Top 7 Featured DEV Posts from the Past Week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_7_Featured_DEV_Posts_from_the_Past_Week.svg)](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1hjp)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, June 28, 2022 at 12:13:49 PM
+> Last updated: Tuesday, June 28, 2022 at 6:54:15 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, June 28, 2022 at 12:13:54 PM
+> Last updated: Tuesday, June 28, 2022 at 6:54:22 PM
 
 > Showing 5 of 30 posts.
 
+[![Sending emails from React with Formspree](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Sending_emails_from_React_with_Formspree.svg)](https://blog.openreplay.com/sending-emails-from-react-with-formspree)
 [![Rendering long lists using virtualization with React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Rendering_long_lists_using_virtualization_with_React.svg)](http://wanago.io/2022/06/27/long-lists-react-virtualization/)
 [![GitHub - micnic/r-assign: Object.assign() with super powers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_micnic_r-assign__Object.assign()_with_super_powers.svg)](https://github.com/micnic/r-assign)
 [![FOREVER FUNCTIONAL--Working with functions... but partially!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/FOREVER_FUNCTIONAL--Working_with_functions..._but_partially!.svg)](https://blog.openreplay.com/forever-functional-working-with-functions-but-partially)
 [![Remove null from an Array with Lodash](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Remove_null_from_an_Array_with_Lodash.svg)](
 https://masteringjs.io/tutorials/lodash/remove-null-from-array
 )
-[![GitHub - THHamiltonSmith/webdevhub: A hub for web developers that offers a variety of tools to help with any developing needs.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_THHamiltonSmith_webdevhub__A_hub_for_web_developers_that_offers_a_variety_of_tools_to_help_with_any_developing_needs..svg)](https://github.com/THHamiltonSmith/webdevhub)
 
 
 <!-- post-list:end -->
