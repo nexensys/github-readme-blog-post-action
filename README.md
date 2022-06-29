@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, June 29, 2022 at 12:12:56 AM
+> Last updated: Wednesday, June 29, 2022 at 6:17:20 AM
 
 > Showing 5 of 12 posts.
 
-[![C++: standardized](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/C++__standardized.svg)](https://dev.to/sandordargo/c-standardized-9p8)
-[![Como criar micro serviços - Nível fácil parte 3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Como_criar_micro_serviços_-_Nível_fácil_parte_3.svg)](https://dev.to/jeanmolossi/como-criar-micro-servicos-nivel-facil-parte-3-3cjj)
-[![Netflix Logo | Pure CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Netflix_Logo___Pure_CSS.svg)](https://dev.to/rembertdesigns/netflix-logo-pure-css-4m93)
-[![Nobody talks about this in the IT world](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Nobody_talks_about_this_in_the_IT_world.svg)](https://dev.to/antoomartini/nobody-talks-about-this-in-the-it-world-31ph)
-[![Why Cache Invalidation Doesn't Work](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_Cache_Invalidation_Doesn't_Work.svg)](https://dev.to/bentorvo/why-cache-invalidation-doesnt-work-1i54)
+[![Kareem Negm passed away](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Kareem_Negm_passed_away.svg)](https://dev.to/aws-builders/kareem-negm-passed-away-3ahm)
+[![Docker Stats | Understand how to monitor Docker Metrics with docker stats](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Docker_Stats___Understand_how_to_monitor_Docker_Metrics_with_docker_stats.svg)](https://dev.to/signoz/docker-stats-understand-how-to-monitor-docker-metrics-with-docker-stats-1h2l)
+[![What the hell is <!DOCTYPE html>?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_the_hell_is__!DOCTYPE_html__.svg)](https://dev.to/aman894/what-the-hell-is-doctype-html-32om)
+[![How to deploy React app on remote Linux server using NGINX in Linode](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_deploy_React_app_on_remote_Linux_server_using_NGINX_in_Linode.svg)](https://dev.to/devstardude/how-to-deploy-react-app-on-remote-linux-server-using-nginx-in-linode-3iid)
+[![Handle environment variables in Flutter | LLF #8](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Handle_environment_variables_in_Flutter___LLF__8.svg)](https://dev.to/nombrekeff/handle-environment-variables-in-flutter-llf-8-366j)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, June 29, 2022 at 12:12:59 AM
+> Last updated: Wednesday, June 29, 2022 at 6:17:22 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, June 29, 2022 at 12:13:06 AM
+> Last updated: Wednesday, June 29, 2022 at 6:17:26 AM
 
 > Showing 5 of 30 posts.
 
