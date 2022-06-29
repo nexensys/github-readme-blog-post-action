@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, June 28, 2022 at 6:54:13 PM
+> Last updated: Wednesday, June 29, 2022 at 12:12:56 AM
 
 > Showing 5 of 12 posts.
 
+[![C++: standardized](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/C++__standardized.svg)](https://dev.to/sandordargo/c-standardized-9p8)
+[![Como criar micro serviços - Nível fácil parte 3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Como_criar_micro_serviços_-_Nível_fácil_parte_3.svg)](https://dev.to/jeanmolossi/como-criar-micro-servicos-nivel-facil-parte-3-3cjj)
+[![Netflix Logo | Pure CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Netflix_Logo___Pure_CSS.svg)](https://dev.to/rembertdesigns/netflix-logo-pure-css-4m93)
+[![Nobody talks about this in the IT world](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Nobody_talks_about_this_in_the_IT_world.svg)](https://dev.to/antoomartini/nobody-talks-about-this-in-the-it-world-31ph)
 [![Why Cache Invalidation Doesn't Work](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_Cache_Invalidation_Doesn't_Work.svg)](https://dev.to/bentorvo/why-cache-invalidation-doesnt-work-1i54)
-[![Style your Next.js website faster with Stylify CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Style_your_Next.js_website_faster_with_Stylify_CSS.svg)](https://dev.to/machy8/style-your-nextjs-website-faster-with-stylify-css-f7k)
-[![Next.js 12.2 release, what is new?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Next.js_12.2_release__what_is_new_.svg)](https://dev.to/hunghvu/nextjs-122-release-what-is-new-3gek)
-[![Using AWS S3 for Terraform Backend](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_AWS_S3_for_Terraform_Backend.svg)](https://dev.to/moses_itoya/using-aws-s3-for-terraform-backend-4h9m)
-[![Top 7 Featured DEV Posts from the Past Week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_7_Featured_DEV_Posts_from_the_Past_Week.svg)](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1hjp)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, June 28, 2022 at 6:54:15 PM
+> Last updated: Wednesday, June 29, 2022 at 12:12:59 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, June 28, 2022 at 6:54:22 PM
+> Last updated: Wednesday, June 29, 2022 at 12:13:06 AM
 
 > Showing 5 of 30 posts.
 
