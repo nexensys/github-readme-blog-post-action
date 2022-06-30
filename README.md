@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, June 29, 2022 at 12:15:56 PM
+> Last updated: Wednesday, June 29, 2022 at 6:52:34 PM
 
 > Showing 5 of 12 posts.
 
-[![How we compress data in large projects](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_we_compress_data_in_large_projects.svg)](https://dev.to/tarantool/how-we-compress-data-in-large-projects-3767)
-[![Announcing DiversityOrgs.Tech (Beta 2)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Announcing_DiversityOrgs.Tech_(Beta_2).svg)](https://dev.to/azure/announcing-diversityorgstech-beta-2-f22)
-[![Convert my Pytorch model to Pytorch Lightning](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Convert_my_Pytorch_model_to_Pytorch_Lightning.svg)](https://dev.to/qbaocaca/convert-my-pytorch-model-to-pytorch-lightning-8ha)
-[![11 Stupidly Simple Side Hustles to Earn Extra Money as a Programmer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/11_Stupidly_Simple_Side_Hustles_to_Earn_Extra_Money_as_a_Programmer.svg)](https://dev.to/kai_wenzel/11-stupidly-simple-side-hustles-to-earn-extra-money-as-a-programmer-4c78)
-[![A tl;dr overview of an API ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_tl;dr_overview_of_an_API__.svg)](https://dev.to/itzdeepraj/a-tldr-overview-of-an-api--26j7)
+[![What is data storytelling? Why data science needs storytellers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_data_storytelling__Why_data_science_needs_storytellers.svg)](https://dev.to/educative/what-is-data-storytelling-why-data-science-needs-storytellers-11ma)
+[![Why Your Angular Bundle Is Bloated](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_Your_Angular_Bundle_Is_Bloated.svg)](https://dev.to/bitovi/why-your-angular-bundle-is-bloated-p2d)
+[![I've got a YouTube channel to complement my writing - what do you want to see?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I've_got_a_YouTube_channel_to_complement_my_writing_-_what_do_you_want_to_see_.svg)](https://dev.to/softchris/ive-got-a-youtube-channel-to-complement-my-writing-what-do-you-want-to-see-58h0)
+[![What is your favourite ES6 feature?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_your_favourite_ES6_feature_.svg)](https://dev.to/justtanwa/what-is-your-favourite-es6-feature-2i3f)
+[![React Context Api using TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Context_Api_using_TypeScript.svg)](https://dev.to/tndungu/react-context-api-using-typescript-5h40)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, June 29, 2022 at 12:16:00 PM
+> Last updated: Wednesday, June 29, 2022 at 6:52:38 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, June 29, 2022 at 12:16:07 PM
+> Last updated: Wednesday, June 29, 2022 at 6:52:44 PM
 
 > Showing 5 of 30 posts.
 
+[![
+Chroma.dev — browser extension with eyedropper, color picker, and other color tools for web developers
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Chroma.dev_—_browser_extension_with_eyedropper__color_picker__and_other_color_tools_for_web_developers_.svg)](
+https://chroma.dev
+)
+[![A Gallery App built with Gatsby and GraphCMS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/A_Gallery_App_built_with_Gatsby_and_GraphCMS.svg)](https://blog.openreplay.com/a-gallery-app-built-with-gatsby-and-graphcms)
 [![Sending emails from React with Formspree](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Sending_emails_from_React_with_Formspree.svg)](https://blog.openreplay.com/sending-emails-from-react-with-formspree)
 [![Rendering long lists using virtualization with React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Rendering_long_lists_using_virtualization_with_React.svg)](http://wanago.io/2022/06/27/long-lists-react-virtualization/)
 [![GitHub - micnic/r-assign: Object.assign() with super powers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_micnic_r-assign__Object.assign()_with_super_powers.svg)](https://github.com/micnic/r-assign)
-[![FOREVER FUNCTIONAL--Working with functions... but partially!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/FOREVER_FUNCTIONAL--Working_with_functions..._but_partially!.svg)](https://blog.openreplay.com/forever-functional-working-with-functions-but-partially)
-[![Remove null from an Array with Lodash](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Remove_null_from_an_Array_with_Lodash.svg)](
-https://masteringjs.io/tutorials/lodash/remove-null-from-array
-)
 
 
 <!-- post-list:end -->
