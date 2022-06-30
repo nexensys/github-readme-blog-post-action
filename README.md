@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, June 30, 2022 at 6:20:46 AM
+> Last updated: Thursday, June 30, 2022 at 12:14:05 PM
 
 > Showing 5 of 12 posts.
 
-[![How to Enable github copilot for free to students](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Enable_github_copilot_for_free_to_students.svg)](https://dev.to/twizelissa/how-to-enable-github-copilot-for-free-as-student-4kal)
-[![A Guide for Beginners into Medusa, the Open Source Ecommerce Platform](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Guide_for_Beginners_into_Medusa__the_Open_Source_Ecommerce_Platform.svg)](https://dev.to/medusajs/a-guide-for-beginners-into-medusa-the-open-source-ecommerce-platform-2m08)
-[![Deploy React App on Netlify](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deploy_React_App_on_Netlify.svg)](https://dev.to/shubhamtiwari909/deploy-react-app-on-netlify-kl)
-[![Leetcode Solutions: Implement Tree (Prefix Tree)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Leetcode_Solutions__Implement_Tree_(Prefix_Tree).svg)](https://dev.to/salahelhossiny/leetcode-solutions-implement-tree-prefix-tree-2285)
-[![O minimo de Tailwind que voce precisa saber para trabalhar com Elixir/Phoenix](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/O_minimo_de_Tailwind_que_voce_precisa_saber_para_trabalhar_com_Elixir_Phoenix.svg)](https://dev.to/postelxpro/o-minimo-de-tailwind-que-voce-precisa-saber-para-trabalhar-com-elixirphoenix-32mg)
+[![What is the main technology stack for web development today?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_the_main_technology_stack_for_web_development_today_.svg)](https://dev.to/makendrang/what-is-the-main-technology-stack-for-web-development-today-27pa)
+[![20 Javascript snippets that will make your day easier!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/20_Javascript_snippets_that_will_make_your_day_easier!.svg)](https://dev.to/kai_wenzel/20-javascript-snippets-that-will-make-your-day-easier-133k)
+[![Build a crypto application with GraphQL Federation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_a_crypto_application_with_GraphQL_Federation.svg)](https://dev.to/datastax/build-a-crypto-application-with-graphql-federation-4421)
+[![React router DOM](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_router_DOM.svg)](https://dev.to/nascimento_/react-router-dom-3pp7)
+[![Getting Started with Chaos Engineering](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_Started_with_Chaos_Engineering.svg)](https://dev.to/qainsights/getting-started-with-chaos-engineering-2972)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, June 30, 2022 at 6:20:50 AM
+> Last updated: Thursday, June 30, 2022 at 12:14:08 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,23 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, June 30, 2022 at 6:20:57 AM
+> Last updated: Thursday, June 30, 2022 at 12:14:10 PM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - victorqribeiro/pathfind: Using Breadth-First Search as a pathfinder algorithm, visualizing the final path.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_victorqribeiro_pathfind__Using_Breadth-First_Search_as_a_pathfinder_algorithm__visualizing_the_final_path..svg)](https://github.com/victorqribeiro/pathfind)
+[![TypeScript | Record Utility Type - [2022 Guide]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/TypeScript___Record_Utility_Type_-_[2022_Guide].svg)](https://daily-dev-tips.com/posts/the-record-utulity-type-in-typescript/)
+[![Authentication in Next with LoginRadius](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Authentication_in_Next_with_LoginRadius.svg)](https://blog.openreplay.com/authentication-in-next-with-loginradius)
 [![billboard.js 3.5 release: new boost options! 🚀💥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/billboard.js_3.5_release__new_boost_options!_🚀💥.svg)](https://netil.medium.com/billboard-js-3-5-release-new-boost-options-7c951e576076)
 [![
 Chroma.dev — browser extension with eyedropper, color picker, and other color tools for web developers
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Chroma.dev_—_browser_extension_with_eyedropper__color_picker__and_other_color_tools_for_web_developers_.svg)](
 https://chroma.dev
 )
-[![
-A Gallery App built with Gatsby and GraphCMS
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_A_Gallery_App_built_with_Gatsby_and_GraphCMS_.svg)](
-https://blog.openreplay.com/a-gallery-app-built-with-gatsby-and-graphcms
-)
-[![Sending emails from React with Formspree](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Sending_emails_from_React_with_Formspree.svg)](https://blog.openreplay.com/sending-emails-from-react-with-formspree)
-[![Rendering long lists using virtualization with React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Rendering_long_lists_using_virtualization_with_React.svg)](http://wanago.io/2022/06/27/long-lists-react-virtualization/)
 
 
 <!-- post-list:end -->
