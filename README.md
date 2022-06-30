@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, June 29, 2022 at 6:52:34 PM
+> Last updated: Thursday, June 30, 2022 at 12:12:47 AM
 
 > Showing 5 of 12 posts.
 
-[![What is data storytelling? Why data science needs storytellers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_data_storytelling__Why_data_science_needs_storytellers.svg)](https://dev.to/educative/what-is-data-storytelling-why-data-science-needs-storytellers-11ma)
-[![Why Your Angular Bundle Is Bloated](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_Your_Angular_Bundle_Is_Bloated.svg)](https://dev.to/bitovi/why-your-angular-bundle-is-bloated-p2d)
-[![I've got a YouTube channel to complement my writing - what do you want to see?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I've_got_a_YouTube_channel_to_complement_my_writing_-_what_do_you_want_to_see_.svg)](https://dev.to/softchris/ive-got-a-youtube-channel-to-complement-my-writing-what-do-you-want-to-see-58h0)
-[![What is your favourite ES6 feature?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_your_favourite_ES6_feature_.svg)](https://dev.to/justtanwa/what-is-your-favourite-es6-feature-2i3f)
-[![React Context Api using TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Context_Api_using_TypeScript.svg)](https://dev.to/tndungu/react-context-api-using-typescript-5h40)
+[![HTML Complete Basic To Advanced Course](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/HTML_Complete_Basic_To_Advanced_Course.svg)](https://dev.to/fenikix/html-complete-basic-to-advanced-course-fm0)
+[![React is awesome but have you tried fresh?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_is_awesome_but_have_you_tried_fresh_.svg)](https://dev.to/asheeshh/react-is-awesome-but-have-you-tried-fresh-47ho)
+[![Why developers must start blogging and how to start?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_developers_must_start_blogging_and_how_to_start_.svg)](https://dev.to/atapas/why-developers-must-start-blogging-and-how-to-start-543c)
+[![Key factors affecting website performance and how to combat them](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Key_factors_affecting_website_performance_and_how_to_combat_them.svg)](https://dev.to/makendrang/key-factors-affecting-website-performance-and-how-to-combat-them-gh7)
+[![The state of AWS Serverless Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_state_of_AWS_Serverless_Development.svg)](https://dev.to/aws-builders/the-state-of-aws-serverless-development-h5a)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, June 29, 2022 at 6:52:38 PM
+> Last updated: Thursday, June 30, 2022 at 12:12:50 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, June 29, 2022 at 6:52:44 PM
+> Last updated: Thursday, June 30, 2022 at 12:12:56 AM
 
 > Showing 5 of 30 posts.
 
@@ -52,7 +52,11 @@ Chroma.dev — browser extension with eyedropper, color picker, and other color 
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Chroma.dev_—_browser_extension_with_eyedropper__color_picker__and_other_color_tools_for_web_developers_.svg)](
 https://chroma.dev
 )
-[![A Gallery App built with Gatsby and GraphCMS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/A_Gallery_App_built_with_Gatsby_and_GraphCMS.svg)](https://blog.openreplay.com/a-gallery-app-built-with-gatsby-and-graphcms)
+[![
+A Gallery App built with Gatsby and GraphCMS
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_A_Gallery_App_built_with_Gatsby_and_GraphCMS_.svg)](
+https://blog.openreplay.com/a-gallery-app-built-with-gatsby-and-graphcms
+)
 [![Sending emails from React with Formspree](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Sending_emails_from_React_with_Formspree.svg)](https://blog.openreplay.com/sending-emails-from-react-with-formspree)
 [![Rendering long lists using virtualization with React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Rendering_long_lists_using_virtualization_with_React.svg)](http://wanago.io/2022/06/27/long-lists-react-virtualization/)
 [![GitHub - micnic/r-assign: Object.assign() with super powers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_micnic_r-assign__Object.assign()_with_super_powers.svg)](https://github.com/micnic/r-assign)
