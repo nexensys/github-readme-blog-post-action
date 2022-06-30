@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, June 30, 2022 at 12:12:47 AM
+> Last updated: Thursday, June 30, 2022 at 6:20:46 AM
 
 > Showing 5 of 12 posts.
 
-[![HTML Complete Basic To Advanced Course](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/HTML_Complete_Basic_To_Advanced_Course.svg)](https://dev.to/fenikix/html-complete-basic-to-advanced-course-fm0)
-[![React is awesome but have you tried fresh?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_is_awesome_but_have_you_tried_fresh_.svg)](https://dev.to/asheeshh/react-is-awesome-but-have-you-tried-fresh-47ho)
-[![Why developers must start blogging and how to start?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_developers_must_start_blogging_and_how_to_start_.svg)](https://dev.to/atapas/why-developers-must-start-blogging-and-how-to-start-543c)
-[![Key factors affecting website performance and how to combat them](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Key_factors_affecting_website_performance_and_how_to_combat_them.svg)](https://dev.to/makendrang/key-factors-affecting-website-performance-and-how-to-combat-them-gh7)
-[![The state of AWS Serverless Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_state_of_AWS_Serverless_Development.svg)](https://dev.to/aws-builders/the-state-of-aws-serverless-development-h5a)
+[![How to Enable github copilot for free to students](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Enable_github_copilot_for_free_to_students.svg)](https://dev.to/twizelissa/how-to-enable-github-copilot-for-free-as-student-4kal)
+[![A Guide for Beginners into Medusa, the Open Source Ecommerce Platform](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Guide_for_Beginners_into_Medusa__the_Open_Source_Ecommerce_Platform.svg)](https://dev.to/medusajs/a-guide-for-beginners-into-medusa-the-open-source-ecommerce-platform-2m08)
+[![Deploy React App on Netlify](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deploy_React_App_on_Netlify.svg)](https://dev.to/shubhamtiwari909/deploy-react-app-on-netlify-kl)
+[![Leetcode Solutions: Implement Tree (Prefix Tree)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Leetcode_Solutions__Implement_Tree_(Prefix_Tree).svg)](https://dev.to/salahelhossiny/leetcode-solutions-implement-tree-prefix-tree-2285)
+[![O minimo de Tailwind que voce precisa saber para trabalhar com Elixir/Phoenix](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/O_minimo_de_Tailwind_que_voce_precisa_saber_para_trabalhar_com_Elixir_Phoenix.svg)](https://dev.to/postelxpro/o-minimo-de-tailwind-que-voce-precisa-saber-para-trabalhar-com-elixirphoenix-32mg)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, June 30, 2022 at 12:12:50 AM
+> Last updated: Thursday, June 30, 2022 at 6:20:50 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, June 30, 2022 at 12:12:56 AM
+> Last updated: Thursday, June 30, 2022 at 6:20:57 AM
 
 > Showing 5 of 30 posts.
 
+[![billboard.js 3.5 release: new boost options! 🚀💥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/billboard.js_3.5_release__new_boost_options!_🚀💥.svg)](https://netil.medium.com/billboard-js-3-5-release-new-boost-options-7c951e576076)
 [![
 Chroma.dev — browser extension with eyedropper, color picker, and other color tools for web developers
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Chroma.dev_—_browser_extension_with_eyedropper__color_picker__and_other_color_tools_for_web_developers_.svg)](
@@ -59,7 +60,6 @@ https://blog.openreplay.com/a-gallery-app-built-with-gatsby-and-graphcms
 )
 [![Sending emails from React with Formspree](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Sending_emails_from_React_with_Formspree.svg)](https://blog.openreplay.com/sending-emails-from-react-with-formspree)
 [![Rendering long lists using virtualization with React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Rendering_long_lists_using_virtualization_with_React.svg)](http://wanago.io/2022/06/27/long-lists-react-virtualization/)
-[![GitHub - micnic/r-assign: Object.assign() with super powers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_micnic_r-assign__Object.assign()_with_super_powers.svg)](https://github.com/micnic/r-assign)
 
 
 <!-- post-list:end -->
