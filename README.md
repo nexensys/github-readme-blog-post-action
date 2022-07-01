@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, July 1, 2022 at 6:19:33 AM
+> Last updated: Friday, July 1, 2022 at 12:12:37 PM
 
 > Showing 5 of 12 posts.
 
-[![Oops! You found me again!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Oops!_You_found_me_again!.svg)](https://dev.to/ayyash/oops-you-found-me-again-28m6)
-[![Recursion Demystified: Think Recursively](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Recursion_Demystified__Think_Recursively.svg)](https://dev.to/emma_donery/recursion-demystified-think-recursively-58g5)
-[![Fresh – Is this new Javascript framework the Node-killer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Fresh_–_Is_this_new_Javascript_framework_the_Node-killer.svg)](https://dev.to/codesphere/fresh-is-this-new-javascript-framework-the-node-killer-4dgn)
-[![Web development is like assembling IKEA furniture](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Web_development_is_like_assembling_IKEA_furniture.svg)](https://dev.to/codepo8/web-development-is-like-assembling-ikea-furniture-1na8)
-[![[PART-I] GSoC 2022 | Rocket.Chat | EmbeddedChat](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/[PART-I]_GSoC_2022___Rocket.Chat___EmbeddedChat.svg)](https://dev.to/sidmohanty11/part-i-gsoc-2022-rocketchat-embeddedchat-3njh)
+[![Our Complete Review of Will an AWS Certification get me a Job in 2022?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Our_Complete_Review_of_Will_an_AWS_Certification_get_me_a_Job_in_2022_.svg)](https://dev.to/ankitdubey74/our-complete-review-of-will-an-aws-certification-get-me-a-job-in-2022-36jf)
+[![What was your win this week?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_was_your_win_this_week_.svg)](https://dev.to/devteam/what-was-your-win-this-week-1m8a)
+[![Roadmap, Quick cheatsheet, Study materials for Front End Web Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Roadmap__Quick_cheatsheet__Study_materials_for_Front_End_Web_Development.svg)](https://dev.to/gaurbprajapati/roadmap-quick-cheetsheet-study-materials-nia)
+[![Ultimate guide on the JavaScript Event loop](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ultimate_guide_on_the_JavaScript_Event_loop.svg)](https://dev.to/srishtikprasad/ultimate-guide-on-the-javascript-event-loop-3h79)
+[![Reporting messages in TalkJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Reporting_messages_in_TalkJS.svg)](https://dev.to/talkjs/reporting-messages-in-talkjs-1ndk)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, July 1, 2022 at 6:19:36 AM
+> Last updated: Friday, July 1, 2022 at 12:12:42 PM
 
 > Showing 4 of 4 posts.
 
+[![Celebrating Svelte](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Celebrating_Svelte.svg)](https://javascriptweekly.com/issues/596)
 [![What's new in ECMAScript 2022?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/What's_new_in_ECMAScript_2022_.svg)](https://javascriptweekly.com/issues/595)
 [![AbortController, your newest friend](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/AbortController__your_newest_friend.svg)](https://javascriptweekly.com/issues/594)
 [![Mathematics is the music of reason.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Mathematics_is_the_music_of_reason..svg)](https://javascriptweekly.com/issues/593)
-[![Sure, you can make games in Word with JavaScript now.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Sure__you_can_make_games_in_Word_with_JavaScript_now..svg)](https://javascriptweekly.com/issues/592)
 
 
 ## Echo JS
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, July 1, 2022 at 6:19:42 AM
+> Last updated: Friday, July 1, 2022 at 12:12:45 PM
 
 > Showing 5 of 30 posts.
 
+[![The Software Testing Life Cycle](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Software_Testing_Life_Cycle.svg)](https://blog.openreplay.com/the-software-testing-life-cycle)
 [![GitHub - victorqribeiro/pathfind: Using Breadth-First Search as a pathfinder algorithm, visualizing the final path.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_victorqribeiro_pathfind__Using_Breadth-First_Search_as_a_pathfinder_algorithm__visualizing_the_final_path..svg)](https://github.com/victorqribeiro/pathfind)
 [![TypeScript | Record Utility Type - [2022 Guide]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/TypeScript___Record_Utility_Type_-_[2022_Guide].svg)](https://daily-dev-tips.com/posts/the-record-utulity-type-in-typescript/)
 [![billboard.js 3.5 release: new boost options! 🚀💥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/billboard.js_3.5_release__new_boost_options!_🚀💥.svg)](https://netil.medium.com/billboard-js-3-5-release-new-boost-options-7c951e576076)
@@ -55,7 +56,6 @@ Chroma.dev — browser extension with eyedropper, color picker, and other color 
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Chroma.dev_—_browser_extension_with_eyedropper__color_picker__and_other_color_tools_for_web_developers_.svg)](
 https://chroma.dev
 )
-[![Rendering long lists using virtualization with React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Rendering_long_lists_using_virtualization_with_React.svg)](http://wanago.io/2022/06/27/long-lists-react-virtualization/)
 
 
 <!-- post-list:end -->
