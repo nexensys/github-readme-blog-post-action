@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, June 30, 2022 at 12:14:05 PM
+> Last updated: Thursday, June 30, 2022 at 7:00:47 PM
 
 > Showing 5 of 12 posts.
 
-[![What is the main technology stack for web development today?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_the_main_technology_stack_for_web_development_today_.svg)](https://dev.to/makendrang/what-is-the-main-technology-stack-for-web-development-today-27pa)
-[![20 Javascript snippets that will make your day easier!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/20_Javascript_snippets_that_will_make_your_day_easier!.svg)](https://dev.to/kai_wenzel/20-javascript-snippets-that-will-make-your-day-easier-133k)
-[![Build a crypto application with GraphQL Federation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_a_crypto_application_with_GraphQL_Federation.svg)](https://dev.to/datastax/build-a-crypto-application-with-graphql-federation-4421)
-[![React router DOM](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_router_DOM.svg)](https://dev.to/nascimento_/react-router-dom-3pp7)
-[![Getting Started with Chaos Engineering](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_Started_with_Chaos_Engineering.svg)](https://dev.to/qainsights/getting-started-with-chaos-engineering-2972)
+[![How To Use Google OCR API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Use_Google_OCR_API.svg)](https://dev.to/ideradevtools/how-to-use-google-ocr-api-cgg)
+[![Deno Deploy](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deno_Deploy.svg)](https://dev.to/ushieru/deno-deploy-2lo2)
+[![Design your Forms with React, Joi and Tailwind CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Design_your_Forms_with_React__Joi_and_Tailwind_CSS.svg)](https://dev.to/ahmedmohmd/design-your-forms-with-react-joi-and-tailwind-css-7op)
+[![I explained googles lesson on their container management systems so you can have fun reading - 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_explained_googles_lesson_on_their_container_management_systems_so_you_can_have_fun_reading_-_1.svg)](https://dev.to/speedygamer12/i-explained-googles-lesson-on-their-container-management-systems-so-you-can-have-fun-reading-43lj)
+[![Ekstension vscode terbaik menurut saya [penggunaan umum]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ekstension_vscode_terbaik_menurut_saya_[penggunaan_umum].svg)](https://dev.to/whytrno/best-vscode-extension-in-my-opinion-penggunaan-umum-1gdf)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, June 30, 2022 at 12:14:08 PM
+> Last updated: Thursday, June 30, 2022 at 7:00:50 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, June 30, 2022 at 12:14:10 PM
+> Last updated: Thursday, June 30, 2022 at 7:00:54 PM
 
 > Showing 5 of 30 posts.
 
 [![GitHub - victorqribeiro/pathfind: Using Breadth-First Search as a pathfinder algorithm, visualizing the final path.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_victorqribeiro_pathfind__Using_Breadth-First_Search_as_a_pathfinder_algorithm__visualizing_the_final_path..svg)](https://github.com/victorqribeiro/pathfind)
 [![TypeScript | Record Utility Type - [2022 Guide]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/TypeScript___Record_Utility_Type_-_[2022_Guide].svg)](https://daily-dev-tips.com/posts/the-record-utulity-type-in-typescript/)
-[![Authentication in Next with LoginRadius](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Authentication_in_Next_with_LoginRadius.svg)](https://blog.openreplay.com/authentication-in-next-with-loginradius)
 [![billboard.js 3.5 release: new boost options! 🚀💥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/billboard.js_3.5_release__new_boost_options!_🚀💥.svg)](https://netil.medium.com/billboard-js-3-5-release-new-boost-options-7c951e576076)
 [![
 Chroma.dev — browser extension with eyedropper, color picker, and other color tools for web developers
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Chroma.dev_—_browser_extension_with_eyedropper__color_picker__and_other_color_tools_for_web_developers_.svg)](
 https://chroma.dev
 )
+[![Rendering long lists using virtualization with React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Rendering_long_lists_using_virtualization_with_React.svg)](http://wanago.io/2022/06/27/long-lists-react-virtualization/)
 
 
 <!-- post-list:end -->
