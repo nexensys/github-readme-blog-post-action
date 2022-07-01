@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, June 30, 2022 at 7:00:47 PM
+> Last updated: Friday, July 1, 2022 at 12:13:53 AM
 
 > Showing 5 of 12 posts.
 
-[![How To Use Google OCR API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Use_Google_OCR_API.svg)](https://dev.to/ideradevtools/how-to-use-google-ocr-api-cgg)
-[![Deno Deploy](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deno_Deploy.svg)](https://dev.to/ushieru/deno-deploy-2lo2)
-[![Design your Forms with React, Joi and Tailwind CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Design_your_Forms_with_React__Joi_and_Tailwind_CSS.svg)](https://dev.to/ahmedmohmd/design-your-forms-with-react-joi-and-tailwind-css-7op)
-[![I explained googles lesson on their container management systems so you can have fun reading - 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_explained_googles_lesson_on_their_container_management_systems_so_you_can_have_fun_reading_-_1.svg)](https://dev.to/speedygamer12/i-explained-googles-lesson-on-their-container-management-systems-so-you-can-have-fun-reading-43lj)
-[![Ekstension vscode terbaik menurut saya [penggunaan umum]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ekstension_vscode_terbaik_menurut_saya_[penggunaan_umum].svg)](https://dev.to/whytrno/best-vscode-extension-in-my-opinion-penggunaan-umum-1gdf)
+[![Standup meetings](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Standup_meetings.svg)](https://dev.to/polterguy/standup-meetings-lo7)
+[![6 Symptoms of a Distributed Monolith](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/6_Symptoms_of_a_Distributed_Monolith.svg)](https://dev.to/bentorvo/6-symptoms-of-a-distributed-monolith-ken)
+[![test](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/test.svg)](https://dev.to/guru/test-4dfg)
+[![How to convince business owners that they need website to grow their business?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_convince_business_owners_that_they_need_website_to_grow_their_business_.svg)](https://dev.to/gauravsoni97/how-to-convince-business-owners-that-they-need-website-to-grow-their-business-1663)
+[![Love, Code, and Robot — Explore robots in the world of code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Love__Code__and_Robot_—_Explore_robots_in_the_world_of_code.svg)](https://dev.to/ossinsight/love-code-and-robot-explore-robots-in-the-world-of-code-1ah8)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, June 30, 2022 at 7:00:50 PM
+> Last updated: Friday, July 1, 2022 at 12:13:57 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, June 30, 2022 at 7:00:54 PM
+> Last updated: Friday, July 1, 2022 at 12:14:02 AM
 
 > Showing 5 of 30 posts.
 
