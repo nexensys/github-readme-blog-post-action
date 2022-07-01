@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, July 1, 2022 at 12:13:53 AM
+> Last updated: Friday, July 1, 2022 at 6:19:33 AM
 
 > Showing 5 of 12 posts.
 
-[![Standup meetings](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Standup_meetings.svg)](https://dev.to/polterguy/standup-meetings-lo7)
-[![6 Symptoms of a Distributed Monolith](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/6_Symptoms_of_a_Distributed_Monolith.svg)](https://dev.to/bentorvo/6-symptoms-of-a-distributed-monolith-ken)
-[![test](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/test.svg)](https://dev.to/guru/test-4dfg)
-[![How to convince business owners that they need website to grow their business?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_convince_business_owners_that_they_need_website_to_grow_their_business_.svg)](https://dev.to/gauravsoni97/how-to-convince-business-owners-that-they-need-website-to-grow-their-business-1663)
-[![Love, Code, and Robot — Explore robots in the world of code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Love__Code__and_Robot_—_Explore_robots_in_the_world_of_code.svg)](https://dev.to/ossinsight/love-code-and-robot-explore-robots-in-the-world-of-code-1ah8)
+[![Oops! You found me again!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Oops!_You_found_me_again!.svg)](https://dev.to/ayyash/oops-you-found-me-again-28m6)
+[![Recursion Demystified: Think Recursively](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Recursion_Demystified__Think_Recursively.svg)](https://dev.to/emma_donery/recursion-demystified-think-recursively-58g5)
+[![Fresh – Is this new Javascript framework the Node-killer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Fresh_–_Is_this_new_Javascript_framework_the_Node-killer.svg)](https://dev.to/codesphere/fresh-is-this-new-javascript-framework-the-node-killer-4dgn)
+[![Web development is like assembling IKEA furniture](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Web_development_is_like_assembling_IKEA_furniture.svg)](https://dev.to/codepo8/web-development-is-like-assembling-ikea-furniture-1na8)
+[![[PART-I] GSoC 2022 | Rocket.Chat | EmbeddedChat](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/[PART-I]_GSoC_2022___Rocket.Chat___EmbeddedChat.svg)](https://dev.to/sidmohanty11/part-i-gsoc-2022-rocketchat-embeddedchat-3njh)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, July 1, 2022 at 12:13:57 AM
+> Last updated: Friday, July 1, 2022 at 6:19:36 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, July 1, 2022 at 12:14:02 AM
+> Last updated: Friday, July 1, 2022 at 6:19:42 AM
 
 > Showing 5 of 30 posts.
 
