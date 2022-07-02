@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, July 1, 2022 at 12:12:37 PM
+> Last updated: Friday, July 1, 2022 at 6:55:16 PM
 
 > Showing 5 of 12 posts.
 
-[![Our Complete Review of Will an AWS Certification get me a Job in 2022?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Our_Complete_Review_of_Will_an_AWS_Certification_get_me_a_Job_in_2022_.svg)](https://dev.to/ankitdubey74/our-complete-review-of-will-an-aws-certification-get-me-a-job-in-2022-36jf)
-[![What was your win this week?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_was_your_win_this_week_.svg)](https://dev.to/devteam/what-was-your-win-this-week-1m8a)
-[![Roadmap, Quick cheatsheet, Study materials for Front End Web Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Roadmap__Quick_cheatsheet__Study_materials_for_Front_End_Web_Development.svg)](https://dev.to/gaurbprajapati/roadmap-quick-cheetsheet-study-materials-nia)
-[![Ultimate guide on the JavaScript Event loop](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ultimate_guide_on_the_JavaScript_Event_loop.svg)](https://dev.to/srishtikprasad/ultimate-guide-on-the-javascript-event-loop-3h79)
-[![Reporting messages in TalkJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Reporting_messages_in_TalkJS.svg)](https://dev.to/talkjs/reporting-messages-in-talkjs-1ndk)
+[![How to add opt-in compiler argument in build.gradle?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_add_opt-in_compiler_argument_in_build.gradle_.svg)](https://dev.to/vtsen/how-to-add-opt-in-compiler-argument-in-buildgradle-jb3)
+[![Create a Flutter state management library with 100 lines of code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_a_Flutter_state_management_library_with_100_lines_of_code.svg)](https://dev.to/terryl1900/create-a-flutter-state-management-library-with-100-lines-of-code-3ph0)
+[![Como pedir ajuda para devs?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Como_pedir_ajuda_para_devs_.svg)](https://dev.to/renatarko/como-pedir-ajuda-para-devs-3in1)
+[![Easiest Way to Get Started with Perl](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Easiest_Way_to_Get_Started_with_Perl.svg)](https://dev.to/yukikimoto/easiest-way-to-get-started-with-perl-48pk)
+[![Git para iniciantes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Git_para_iniciantes.svg)](https://dev.to/beatrizmaciel/git-para-iniciantes-1i68)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, July 1, 2022 at 12:12:42 PM
+> Last updated: Friday, July 1, 2022 at 6:55:19 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, July 1, 2022 at 12:12:45 PM
+> Last updated: Friday, July 1, 2022 at 6:55:22 PM
 
 > Showing 5 of 30 posts.
 
+[![Build beautiful UI components with NextUI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_beautiful_UI_components_with_NextUI.svg)](https://blog.openreplay.com/build-beautiful-ui-components-with-nextui)
 [![The Software Testing Life Cycle](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Software_Testing_Life_Cycle.svg)](https://blog.openreplay.com/the-software-testing-life-cycle)
 [![GitHub - victorqribeiro/pathfind: Using Breadth-First Search as a pathfinder algorithm, visualizing the final path.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_victorqribeiro_pathfind__Using_Breadth-First_Search_as_a_pathfinder_algorithm__visualizing_the_final_path..svg)](https://github.com/victorqribeiro/pathfind)
 [![TypeScript | Record Utility Type - [2022 Guide]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/TypeScript___Record_Utility_Type_-_[2022_Guide].svg)](https://daily-dev-tips.com/posts/the-record-utulity-type-in-typescript/)
 [![billboard.js 3.5 release: new boost options! 🚀💥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/billboard.js_3.5_release__new_boost_options!_🚀💥.svg)](https://netil.medium.com/billboard-js-3-5-release-new-boost-options-7c951e576076)
-[![
-Chroma.dev — browser extension with eyedropper, color picker, and other color tools for web developers
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Chroma.dev_—_browser_extension_with_eyedropper__color_picker__and_other_color_tools_for_web_developers_.svg)](
-https://chroma.dev
-)
 
 
 <!-- post-list:end -->
