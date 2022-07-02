@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, July 2, 2022 at 6:15:48 AM
+> Last updated: Saturday, July 2, 2022 at 12:10:57 PM
 
 > Showing 5 of 12 posts.
 
-[![What is DevRel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_DevRel.svg)](https://dev.to/sojinsamuel/what-is-devrel-4ok9)
-[![The minimum of Tailwind you need to know to work with Elixir/Phoenix](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_minimum_of_Tailwind_you_need_to_know_to_work_with_Elixir_Phoenix.svg)](https://dev.to/postelxpro/the-minimum-of-tailwind-you-need-to-know-to-work-with-elixirphoenix-40lk)
-[![Writing a Good Technical Article](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Writing_a_Good_Technical_Article.svg)](https://dev.to/dephraiim/writing-a-good-technical-article-2pab)
-[![JavaScript Interview Coding Test Problem 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_Interview_Coding_Test_Problem_1.svg)](https://dev.to/stormytalent/javascript-interview-coding-test-problem-1-3oah)
-[![Topological Sort in Interviews](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Topological_Sort_in_Interviews.svg)](https://dev.to/salahelhossiny/topological-sort-in-interviews-483j)
+[![localhost not point to correct ip address in node 18](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/localhost_not_point_to_correct_ip_address_in_node_18.svg)](https://dev.to/amitiwary999/localhost-not-point-to-correct-ip-address-in-node-18-4onl)
+[![SEO for Web Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/SEO_for_Web_Developers.svg)](https://dev.to/deviouslab/seo-for-web-developers-m54)
+[![How to Detect Duplicate Code in a Project!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Detect_Duplicate_Code_in_a_Project!.svg)](https://dev.to/kai_wenzel/how-to-detect-duplicate-code-in-a-project-3ln3)
+[![How create the Kotlin Logo with CSS3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_create_the_Kotlin_Logo_with_CSS3.svg)](https://dev.to/jmlpez/how-create-the-kotlin-logo-with-css3-40b0)
+[![Set a div or block to its content's width in CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Set_a_div_or_block_to_its_content's_width_in_CSS.svg)](https://dev.to/smpnjn/set-a-div-or-block-to-its-contents-width-in-css-29fl)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, July 2, 2022 at 6:15:51 AM
+> Last updated: Saturday, July 2, 2022 at 12:11:00 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, July 2, 2022 at 6:15:52 AM
+> Last updated: Saturday, July 2, 2022 at 12:11:04 PM
 
 > Showing 5 of 30 posts.
 
