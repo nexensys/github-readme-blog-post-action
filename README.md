@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, July 1, 2022 at 6:55:16 PM
+> Last updated: Saturday, July 2, 2022 at 12:11:45 AM
 
 > Showing 5 of 12 posts.
 
-[![How to add opt-in compiler argument in build.gradle?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_add_opt-in_compiler_argument_in_build.gradle_.svg)](https://dev.to/vtsen/how-to-add-opt-in-compiler-argument-in-buildgradle-jb3)
-[![Create a Flutter state management library with 100 lines of code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_a_Flutter_state_management_library_with_100_lines_of_code.svg)](https://dev.to/terryl1900/create-a-flutter-state-management-library-with-100-lines-of-code-3ph0)
-[![Como pedir ajuda para devs?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Como_pedir_ajuda_para_devs_.svg)](https://dev.to/renatarko/como-pedir-ajuda-para-devs-3in1)
-[![Easiest Way to Get Started with Perl](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Easiest_Way_to_Get_Started_with_Perl.svg)](https://dev.to/yukikimoto/easiest-way-to-get-started-with-perl-48pk)
-[![Git para iniciantes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Git_para_iniciantes.svg)](https://dev.to/beatrizmaciel/git-para-iniciantes-1i68)
+[![Which CSS Framework should I use ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Which_CSS_Framework_should_I_use__.svg)](https://dev.to/spandyboss/which-css-framework-should-i-use--3544)
+[![Kroki - Diagrams from textual descriptions!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Kroki_-_Diagrams_from_textual_descriptions!.svg)](https://dev.to/rprabhu/kroki-diagrams-from-textual-descriptions-1c1m)
+[![Get MongoDB data 10x faster using lean function in NodeJs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Get_MongoDB_data_10x_faster_using_lean_function_in_NodeJs.svg)](https://dev.to/deepakjaiswal/get-mongodb-data-10x-faster-using-lean-function-5a7n)
+[![Serve Static Internal Documentation Behind OAuth Authentication](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Serve_Static_Internal_Documentation_Behind_OAuth_Authentication.svg)](https://dev.to/dan_starner/easily-serve-internal-documentation-behind-oauth-authentication-322k)
+[![Making a Basic C Calculator](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Making_a_Basic_C_Calculator.svg)](https://dev.to/itsaomi/making-a-basic-c-calculator-4ple)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, July 1, 2022 at 6:55:19 PM
+> Last updated: Saturday, July 2, 2022 at 12:11:48 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, July 1, 2022 at 6:55:22 PM
+> Last updated: Saturday, July 2, 2022 at 12:11:51 AM
 
 > Showing 5 of 30 posts.
 
