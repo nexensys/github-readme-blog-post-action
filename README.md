@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, July 2, 2022 at 12:11:45 AM
+> Last updated: Saturday, July 2, 2022 at 6:15:48 AM
 
 > Showing 5 of 12 posts.
 
-[![Which CSS Framework should I use ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Which_CSS_Framework_should_I_use__.svg)](https://dev.to/spandyboss/which-css-framework-should-i-use--3544)
-[![Kroki - Diagrams from textual descriptions!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Kroki_-_Diagrams_from_textual_descriptions!.svg)](https://dev.to/rprabhu/kroki-diagrams-from-textual-descriptions-1c1m)
-[![Get MongoDB data 10x faster using lean function in NodeJs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Get_MongoDB_data_10x_faster_using_lean_function_in_NodeJs.svg)](https://dev.to/deepakjaiswal/get-mongodb-data-10x-faster-using-lean-function-5a7n)
-[![Serve Static Internal Documentation Behind OAuth Authentication](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Serve_Static_Internal_Documentation_Behind_OAuth_Authentication.svg)](https://dev.to/dan_starner/easily-serve-internal-documentation-behind-oauth-authentication-322k)
-[![Making a Basic C Calculator](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Making_a_Basic_C_Calculator.svg)](https://dev.to/itsaomi/making-a-basic-c-calculator-4ple)
+[![What is DevRel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_DevRel.svg)](https://dev.to/sojinsamuel/what-is-devrel-4ok9)
+[![The minimum of Tailwind you need to know to work with Elixir/Phoenix](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_minimum_of_Tailwind_you_need_to_know_to_work_with_Elixir_Phoenix.svg)](https://dev.to/postelxpro/the-minimum-of-tailwind-you-need-to-know-to-work-with-elixirphoenix-40lk)
+[![Writing a Good Technical Article](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Writing_a_Good_Technical_Article.svg)](https://dev.to/dephraiim/writing-a-good-technical-article-2pab)
+[![JavaScript Interview Coding Test Problem 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_Interview_Coding_Test_Problem_1.svg)](https://dev.to/stormytalent/javascript-interview-coding-test-problem-1-3oah)
+[![Topological Sort in Interviews](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Topological_Sort_in_Interviews.svg)](https://dev.to/salahelhossiny/topological-sort-in-interviews-483j)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, July 2, 2022 at 12:11:48 AM
+> Last updated: Saturday, July 2, 2022 at 6:15:51 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, July 2, 2022 at 12:11:51 AM
+> Last updated: Saturday, July 2, 2022 at 6:15:52 AM
 
 > Showing 5 of 30 posts.
 
+[![metic](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/metic.svg)](https://www.npmjs.com/package/metic)
 [![Build beautiful UI components with NextUI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_beautiful_UI_components_with_NextUI.svg)](https://blog.openreplay.com/build-beautiful-ui-components-with-nextui)
 [![The Software Testing Life Cycle](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Software_Testing_Life_Cycle.svg)](https://blog.openreplay.com/the-software-testing-life-cycle)
 [![GitHub - victorqribeiro/pathfind: Using Breadth-First Search as a pathfinder algorithm, visualizing the final path.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_victorqribeiro_pathfind__Using_Breadth-First_Search_as_a_pathfinder_algorithm__visualizing_the_final_path..svg)](https://github.com/victorqribeiro/pathfind)
 [![TypeScript | Record Utility Type - [2022 Guide]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/TypeScript___Record_Utility_Type_-_[2022_Guide].svg)](https://daily-dev-tips.com/posts/the-record-utulity-type-in-typescript/)
-[![billboard.js 3.5 release: new boost options! 🚀💥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/billboard.js_3.5_release__new_boost_options!_🚀💥.svg)](https://netil.medium.com/billboard-js-3-5-release-new-boost-options-7c951e576076)
 
 
 <!-- post-list:end -->
