@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, July 2, 2022 at 12:10:57 PM
+> Last updated: Saturday, July 2, 2022 at 6:57:11 PM
 
 > Showing 5 of 12 posts.
 
-[![localhost not point to correct ip address in node 18](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/localhost_not_point_to_correct_ip_address_in_node_18.svg)](https://dev.to/amitiwary999/localhost-not-point-to-correct-ip-address-in-node-18-4onl)
-[![SEO for Web Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/SEO_for_Web_Developers.svg)](https://dev.to/deviouslab/seo-for-web-developers-m54)
-[![How to Detect Duplicate Code in a Project!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Detect_Duplicate_Code_in_a_Project!.svg)](https://dev.to/kai_wenzel/how-to-detect-duplicate-code-in-a-project-3ln3)
-[![How create the Kotlin Logo with CSS3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_create_the_Kotlin_Logo_with_CSS3.svg)](https://dev.to/jmlpez/how-create-the-kotlin-logo-with-css3-40b0)
-[![Set a div or block to its content's width in CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Set_a_div_or_block_to_its_content's_width_in_CSS.svg)](https://dev.to/smpnjn/set-a-div-or-block-to-its-contents-width-in-css-29fl)
+[![How to iterate over an object in Javascript?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_iterate_over_an_object_in_Javascript_.svg)](https://dev.to/rakshit/how-to-iterate-over-an-object-in-javascript-2apj)
+[![The 12-Factor App Building Methodology](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_12-Factor_App_Building_Methodology.svg)](https://dev.to/otamm/the-12-factor-app-building-methodology-1lk)
+[![How To use ES6 import & export in your project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_use_ES6_import___export_in_your_project.svg)](https://dev.to/medaminefh/how-to-use-es6-import-export-in-your-project-3i4b)
+[![Introducing Docker Concepts, Containers, and more ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_Docker_Concepts__Containers__and_more_.svg)](https://dev.to/roselinebassey/introducing-docker-concepts-containers-and-more-17hc)
+[![Leetcode Solutions: Count Asterisks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Leetcode_Solutions__Count_Asterisks.svg)](https://dev.to/salahelhossiny/leetcode-solutions-count-asterisks-2481)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, July 2, 2022 at 12:11:00 PM
+> Last updated: Saturday, July 2, 2022 at 6:57:14 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, July 2, 2022 at 12:11:04 PM
+> Last updated: Saturday, July 2, 2022 at 6:57:18 PM
 
 > Showing 5 of 30 posts.
 
