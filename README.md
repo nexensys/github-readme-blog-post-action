@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, July 2, 2022 at 6:57:11 PM
+> Last updated: Sunday, July 3, 2022 at 12:12:17 AM
 
 > Showing 5 of 12 posts.
 
-[![How to iterate over an object in Javascript?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_iterate_over_an_object_in_Javascript_.svg)](https://dev.to/rakshit/how-to-iterate-over-an-object-in-javascript-2apj)
-[![The 12-Factor App Building Methodology](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_12-Factor_App_Building_Methodology.svg)](https://dev.to/otamm/the-12-factor-app-building-methodology-1lk)
-[![How To use ES6 import & export in your project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_use_ES6_import___export_in_your_project.svg)](https://dev.to/medaminefh/how-to-use-es6-import-export-in-your-project-3i4b)
-[![Introducing Docker Concepts, Containers, and more ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_Docker_Concepts__Containers__and_more_.svg)](https://dev.to/roselinebassey/introducing-docker-concepts-containers-and-more-17hc)
-[![Leetcode Solutions: Count Asterisks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Leetcode_Solutions__Count_Asterisks.svg)](https://dev.to/salahelhossiny/leetcode-solutions-count-asterisks-2481)
+[![What is Game development, what are game engines | All-time-dev](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_Game_development__what_are_game_engines___All-time-dev.svg)](https://dev.to/alltimedevlopment/what-is-game-development-what-are-game-engines-all-time-dev-1hj7)
+[![Weekly 0019](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Weekly_0019.svg)](https://dev.to/kasuken/weekly-0019-4c5d)
+[![CSS Battle: #5 - Acid Rain](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CSS_Battle___5_-_Acid_Rain.svg)](https://dev.to/j471n/css-battle-5-acid-rain-2kpe)
+[![How to persist the data in atoms with local storage using recoil persist.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_persist_the_data_in_atoms_with_local_storage_using_recoil_persist..svg)](https://dev.to/nextdev/how-to-persist-the-data-in-atoms-with-local-storage-using-recoil-persist-42j0)
+[![Conditional Routing with React Router V6](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Conditional_Routing_with_React_Router_V6.svg)](https://dev.to/salehmubashar/conditional-routing-with-react-router-v6-229g)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, July 2, 2022 at 6:57:14 PM
+> Last updated: Sunday, July 3, 2022 at 12:12:21 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, July 2, 2022 at 6:57:18 PM
+> Last updated: Sunday, July 3, 2022 at 12:12:25 AM
 
 > Showing 5 of 30 posts.
 
