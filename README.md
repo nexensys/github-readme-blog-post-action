@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, July 3, 2022 at 12:12:17 AM
+> Last updated: Sunday, July 3, 2022 at 6:16:25 AM
 
 > Showing 5 of 12 posts.
 
-[![What is Game development, what are game engines | All-time-dev](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_Game_development__what_are_game_engines___All-time-dev.svg)](https://dev.to/alltimedevlopment/what-is-game-development-what-are-game-engines-all-time-dev-1hj7)
-[![Weekly 0019](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Weekly_0019.svg)](https://dev.to/kasuken/weekly-0019-4c5d)
-[![CSS Battle: #5 - Acid Rain](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CSS_Battle___5_-_Acid_Rain.svg)](https://dev.to/j471n/css-battle-5-acid-rain-2kpe)
-[![How to persist the data in atoms with local storage using recoil persist.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_persist_the_data_in_atoms_with_local_storage_using_recoil_persist..svg)](https://dev.to/nextdev/how-to-persist-the-data-in-atoms-with-local-storage-using-recoil-persist-42j0)
-[![Conditional Routing with React Router V6](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Conditional_Routing_with_React_Router_V6.svg)](https://dev.to/salehmubashar/conditional-routing-with-react-router-v6-229g)
+[![Whatsapp Clone for Android & IOS using Flutter & Python - Part 7 (Complete Tutorial)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Whatsapp_Clone_for_Android___IOS_using_Flutter___Python_-_Part_7_(Complete_Tutorial).svg)](https://dev.to/yash_makan/whatsapp-clone-for-android-ios-using-flutter-python-part-7-complete-tutorial-mpg)
+[![Filter database records without SQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Filter_database_records_without_SQL.svg)](https://dev.to/mohsenkamrani/filter-database-records-without-sql-4o18)
+[![Whatsapp Clone for Android & IOS using Flutter & Python - Part 6 (Complete Tutorial)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Whatsapp_Clone_for_Android___IOS_using_Flutter___Python_-_Part_6_(Complete_Tutorial).svg)](https://dev.to/yash_makan/whatsapp-clone-for-android-ios-using-flutter-python-part-6-complete-tutorial-3mge)
+[![When you feel lost, be kinder to yourself.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/When_you_feel_lost__be_kinder_to_yourself..svg)](https://dev.to/krishnaagarwal/when-you-feel-lost-be-kinder-to-yourself-40k2)
+[![JSON server getting started](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JSON_server_getting_started.svg)](https://dev.to/avinashvagh/json-server-getting-started-4475)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, July 3, 2022 at 12:12:21 AM
+> Last updated: Sunday, July 3, 2022 at 6:16:27 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, July 3, 2022 at 12:12:25 AM
+> Last updated: Sunday, July 3, 2022 at 6:16:30 AM
 
 > Showing 5 of 30 posts.
 
