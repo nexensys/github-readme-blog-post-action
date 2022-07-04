@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, July 3, 2022 at 12:10:46 PM
+> Last updated: Sunday, July 3, 2022 at 6:59:29 PM
 
 > Showing 5 of 12 posts.
 
-[![How to remove a specific item from an array](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_remove_a_specific_item_from_an_array.svg)](https://dev.to/smpnjn/how-to-remove-a-specific-item-from-an-array-1dhm)
-[![How I built my Blog with NextJs, Chakra UI, and GraphCMS?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_I_built_my_Blog_with_NextJs__Chakra_UI__and_GraphCMS_.svg)](https://dev.to/itsrakesh/how-i-built-my-blog-with-nextjs-chakra-ui-and-graphcms-2jpi)
-[![How to Write Better Performing React Function Components!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Write_Better_Performing_React_Function_Components!.svg)](https://dev.to/kai_wenzel/how-to-write-better-performing-react-function-components-5ac9)
-[![The pitfall of tutorials: no one codes like that](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_pitfall_of_tutorials__no_one_codes_like_that.svg)](https://dev.to/noriller/the-pitfall-of-tutorials-no-one-codes-like-that-21nj)
-[![Weekly Digest 26/2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Weekly_Digest_26_2022.svg)](https://dev.to/marcobiedermann/weekly-digest-262022-1b3b)
+[![Glassmorphism Login Form using CSS in 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Glassmorphism_Login_Form_using_CSS_in_2022.svg)](https://dev.to/codewithayan10/glassmorphism-login-form-using-css-in-2022-272k)
+[![Consistency between Cache and Database, Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Consistency_between_Cache_and_Database__Part_1.svg)](https://dev.to/lazypro/consistency-between-cache-and-database-part-1-2e97)
+[![This is how I would learn web development If starting today in 2022 + get a job (Roadmap)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/This_is_how_I_would_learn_web_development_If_starting_today_in_2022_+_get_a_job_(Roadmap).svg)](https://dev.to/justaashir/this-is-how-would-i-learn-web-development-if-starting-today-in-2022-get-a-job-roadmap-5dj8)
+[![Leetcode solutions in golang](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Leetcode_solutions_in_golang.svg)](https://dev.to/akanksha/leetcode-solutions-in-golang-41oj)
+[![System Design 101](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/System_Design_101.svg)](https://dev.to/albertjokelin/system-design-101-4cji)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, July 3, 2022 at 12:10:49 PM
+> Last updated: Sunday, July 3, 2022 at 6:59:31 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, July 3, 2022 at 12:10:53 PM
+> Last updated: Sunday, July 3, 2022 at 6:59:34 PM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - wlucha/angular-starter: Angular 14 Starter with Storybook, Transloco, Jest, TestCafe, Docker, ESLint, Material & Prettier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_wlucha_angular-starter__Angular_14_Starter_with_Storybook__Transloco__Jest__TestCafe__Docker__ESLint__Material___Prettier.svg)](https://github.com/wlucha/angular-starter)
 [![metic](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/metic.svg)](https://www.npmjs.com/package/metic)
 [![Build beautiful UI components with NextUI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_beautiful_UI_components_with_NextUI.svg)](https://blog.openreplay.com/build-beautiful-ui-components-with-nextui)
 [![The Software Testing Life Cycle](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Software_Testing_Life_Cycle.svg)](https://blog.openreplay.com/the-software-testing-life-cycle)
 [![GitHub - victorqribeiro/pathfind: Using Breadth-First Search as a pathfinder algorithm, visualizing the final path.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_victorqribeiro_pathfind__Using_Breadth-First_Search_as_a_pathfinder_algorithm__visualizing_the_final_path..svg)](https://github.com/victorqribeiro/pathfind)
-[![TypeScript | Record Utility Type - [2022 Guide]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/TypeScript___Record_Utility_Type_-_[2022_Guide].svg)](https://daily-dev-tips.com/posts/the-record-utulity-type-in-typescript/)
 
 
 <!-- post-list:end -->
