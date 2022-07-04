@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, July 3, 2022 at 6:59:29 PM
+> Last updated: Monday, July 4, 2022 at 12:14:58 AM
 
 > Showing 5 of 12 posts.
 
-[![Glassmorphism Login Form using CSS in 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Glassmorphism_Login_Form_using_CSS_in_2022.svg)](https://dev.to/codewithayan10/glassmorphism-login-form-using-css-in-2022-272k)
-[![Consistency between Cache and Database, Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Consistency_between_Cache_and_Database__Part_1.svg)](https://dev.to/lazypro/consistency-between-cache-and-database-part-1-2e97)
-[![This is how I would learn web development If starting today in 2022 + get a job (Roadmap)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/This_is_how_I_would_learn_web_development_If_starting_today_in_2022_+_get_a_job_(Roadmap).svg)](https://dev.to/justaashir/this-is-how-would-i-learn-web-development-if-starting-today-in-2022-get-a-job-roadmap-5dj8)
-[![Leetcode solutions in golang](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Leetcode_solutions_in_golang.svg)](https://dev.to/akanksha/leetcode-solutions-in-golang-41oj)
-[![System Design 101](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/System_Design_101.svg)](https://dev.to/albertjokelin/system-design-101-4cji)
+[![This website is open source](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/This_website_is_open_source.svg)](https://dev.to/dailydevtips1/this-website-is-open-source-1826)
+[![Over engineering is the root of all evil](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Over_engineering_is_the_root_of_all_evil.svg)](https://dev.to/polterguy/over-engineering-is-the-root-of-all-evil-262e)
+[![Use git-secret to encrypt secrets in the repository [Tutorial Part 6]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Use_git-secret_to_encrypt_secrets_in_the_repository_[Tutorial_Part_6].svg)](https://dev.to/pascallandau/use-git-secret-to-encrypt-secrets-in-the-repository-tutorial-part-6-53p5)
+[![The Truth About Continuous Delivery](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Truth_About_Continuous_Delivery.svg)](https://dev.to/bentorvo/the-truth-about-continuous-delivery-2983)
+[![Is Realme book good for web development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Is_Realme_book_good_for_web_development.svg)](https://dev.to/alltimedevlopment/is-realme-book-good-for-web-development-1ec9)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, July 3, 2022 at 6:59:31 PM
+> Last updated: Monday, July 4, 2022 at 12:15:01 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, July 3, 2022 at 6:59:34 PM
+> Last updated: Monday, July 4, 2022 at 12:15:08 AM
 
 > Showing 5 of 30 posts.
 
