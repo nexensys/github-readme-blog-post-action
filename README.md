@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, July 4, 2022 at 12:14:58 AM
+> Last updated: Monday, July 4, 2022 at 6:29:46 AM
 
 > Showing 5 of 12 posts.
 
-[![This website is open source](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/This_website_is_open_source.svg)](https://dev.to/dailydevtips1/this-website-is-open-source-1826)
-[![Over engineering is the root of all evil](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Over_engineering_is_the_root_of_all_evil.svg)](https://dev.to/polterguy/over-engineering-is-the-root-of-all-evil-262e)
-[![Use git-secret to encrypt secrets in the repository [Tutorial Part 6]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Use_git-secret_to_encrypt_secrets_in_the_repository_[Tutorial_Part_6].svg)](https://dev.to/pascallandau/use-git-secret-to-encrypt-secrets-in-the-repository-tutorial-part-6-53p5)
-[![The Truth About Continuous Delivery](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Truth_About_Continuous_Delivery.svg)](https://dev.to/bentorvo/the-truth-about-continuous-delivery-2983)
-[![Is Realme book good for web development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Is_Realme_book_good_for_web_development.svg)](https://dev.to/alltimedevlopment/is-realme-book-good-for-web-development-1ec9)
+[![AWS DevOps Tools](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_DevOps_Tools.svg)](https://dev.to/makendrang/aws-devops-tools-hei)
+[![Docker Container Lifecycle Tutorial | Create, Run, Pause, Stop, Kill](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Docker_Container_Lifecycle_Tutorial___Create__Run__Pause__Stop__Kill.svg)](https://dev.to/signoz/docker-container-lifecycle-tutorial-create-run-pause-stop-kill-1l1d)
+[![How to Implement Super Live Chat: 3 Methods You Should Know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Implement_Super_Live_Chat__3_Methods_You_Should_Know.svg)](https://dev.to/davidrelo/how-to-implement-super-live-chat-3-methods-you-should-know-407b)
+[![Github Copilot has become a paid service 😩](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Github_Copilot_has_become_a_paid_service_😩.svg)](https://dev.to/jocelyn10/github-copilot-has-become-a-paid-service-c44)
+[![How to use Handlebars to send emails via SendGrid in a Node.js application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_Handlebars_to_send_emails_via_SendGrid_in_a_Node.js_application.svg)](https://dev.to/novu/how-to-use-handlebars-to-send-emails-via-sendgrid-in-a-nodejs-application-1nnh)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, July 4, 2022 at 12:15:01 AM
+> Last updated: Monday, July 4, 2022 at 6:29:49 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, July 4, 2022 at 12:15:08 AM
+> Last updated: Monday, July 4, 2022 at 6:29:55 AM
 
 > Showing 5 of 30 posts.
 
+[![
+Rapid Hygen React Storybook File Generation
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Rapid_Hygen_React_Storybook_File_Generation_.svg)](
+https://www.tderflinger.com/en/rapid-hygen-react-storybook-file-generation
+)
 [![GitHub - wlucha/angular-starter: Angular 14 Starter with Storybook, Transloco, Jest, TestCafe, Docker, ESLint, Material & Prettier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_wlucha_angular-starter__Angular_14_Starter_with_Storybook__Transloco__Jest__TestCafe__Docker__ESLint__Material___Prettier.svg)](https://github.com/wlucha/angular-starter)
 [![metic](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/metic.svg)](https://www.npmjs.com/package/metic)
 [![Build beautiful UI components with NextUI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_beautiful_UI_components_with_NextUI.svg)](https://blog.openreplay.com/build-beautiful-ui-components-with-nextui)
 [![The Software Testing Life Cycle](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Software_Testing_Life_Cycle.svg)](https://blog.openreplay.com/the-software-testing-life-cycle)
-[![GitHub - victorqribeiro/pathfind: Using Breadth-First Search as a pathfinder algorithm, visualizing the final path.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_victorqribeiro_pathfind__Using_Breadth-First_Search_as_a_pathfinder_algorithm__visualizing_the_final_path..svg)](https://github.com/victorqribeiro/pathfind)
 
 
 <!-- post-list:end -->
