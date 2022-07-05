@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, July 4, 2022 at 6:29:46 AM
+> Last updated: Tuesday, July 5, 2022 at 12:11:29 PM
 
 > Showing 5 of 12 posts.
 
-[![AWS DevOps Tools](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_DevOps_Tools.svg)](https://dev.to/makendrang/aws-devops-tools-hei)
-[![Docker Container Lifecycle Tutorial | Create, Run, Pause, Stop, Kill](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Docker_Container_Lifecycle_Tutorial___Create__Run__Pause__Stop__Kill.svg)](https://dev.to/signoz/docker-container-lifecycle-tutorial-create-run-pause-stop-kill-1l1d)
-[![How to Implement Super Live Chat: 3 Methods You Should Know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Implement_Super_Live_Chat__3_Methods_You_Should_Know.svg)](https://dev.to/davidrelo/how-to-implement-super-live-chat-3-methods-you-should-know-407b)
-[![Github Copilot has become a paid service 😩](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Github_Copilot_has_become_a_paid_service_😩.svg)](https://dev.to/jocelyn10/github-copilot-has-become-a-paid-service-c44)
-[![How to use Handlebars to send emails via SendGrid in a Node.js application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_Handlebars_to_send_emails_via_SendGrid_in_a_Node.js_application.svg)](https://dev.to/novu/how-to-use-handlebars-to-send-emails-via-sendgrid-in-a-nodejs-application-1nnh)
+[![Converting a Javascript project to Typescript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Converting_a_Javascript_project_to_Typescript.svg)](https://dev.to/kai_wenzel/converting-a-javascript-project-to-typescript-2jkh)
+[![Top 7 Featured DEV Posts from the Past Week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_7_Featured_DEV_Posts_from_the_Past_Week.svg)](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3o6b)
+[![Setup Laravel 9 project with ReactJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Setup_Laravel_9_project_with_ReactJS.svg)](https://dev.to/emokores256/integrate-reactjs-into-laravel-9-bl2)
+[![Create a Todo App with NextJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_a_Todo_App_with_NextJS.svg)](https://dev.to/fabianbandini/create-a-todo-app-with-nextjs-1274)
+[![Deeply Compare 2 Objects in JavaScript with Recursive Function](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deeply_Compare_2_Objects_in_JavaScript_with_Recursive_Function.svg)](https://dev.to/rasaf_ibrahim/deeply-compare-2-objects-in-javascript-with-recursive-function-50j)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, July 4, 2022 at 6:29:49 AM
+> Last updated: Tuesday, July 5, 2022 at 12:11:32 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, July 4, 2022 at 6:29:55 AM
+> Last updated: Tuesday, July 5, 2022 at 12:11:37 PM
 
 > Showing 5 of 30 posts.
 
 [![
-Rapid Hygen React Storybook File Generation
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Rapid_Hygen_React_Storybook_File_Generation_.svg)](
-https://www.tderflinger.com/en/rapid-hygen-react-storybook-file-generation
+Online IDE for Cucumber.js and Gherkin
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Online_IDE_for_Cucumber.js_and_Gherkin_.svg)](
+https://testjam.io
 )
-[![GitHub - wlucha/angular-starter: Angular 14 Starter with Storybook, Transloco, Jest, TestCafe, Docker, ESLint, Material & Prettier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_wlucha_angular-starter__Angular_14_Starter_with_Storybook__Transloco__Jest__TestCafe__Docker__ESLint__Material___Prettier.svg)](https://github.com/wlucha/angular-starter)
-[![metic](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/metic.svg)](https://www.npmjs.com/package/metic)
-[![Build beautiful UI components with NextUI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_beautiful_UI_components_with_NextUI.svg)](https://blog.openreplay.com/build-beautiful-ui-components-with-nextui)
-[![The Software Testing Life Cycle](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Software_Testing_Life_Cycle.svg)](https://blog.openreplay.com/the-software-testing-life-cycle)
+[![Alternatives to React: Inferno.JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Alternatives_to_React__Inferno.JS.svg)](https://blog.openreplay.com/alternatives-to-react-inferno-js)
+[![3 Ways to Develop Micro-Frontends in 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/3_Ways_to_Develop_Micro-Frontends_in_2022.svg)](https://javascript.plainenglish.io/3-ways-to-develop-micro-frontends-in-2022-e29984158b6d)
+[![Talk to your app with Alan AI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Talk_to_your_app_with_Alan_AI.svg)](https://blog.openreplay.com/talk-to-your-app-with-alan-ai)
+[![Connect a React app to the NEAR Blockchain](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Connect_a_React_app_to_the_NEAR_Blockchain.svg)](https://blog.openreplay.com/connect-a-react-app-to-the-near-blockchain)
 
 
 <!-- post-list:end -->
