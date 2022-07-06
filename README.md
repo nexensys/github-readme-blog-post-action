@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, July 5, 2022 at 6:58:32 PM
+> Last updated: Wednesday, July 6, 2022 at 12:12:46 AM
 
 > Showing 5 of 12 posts.
 
-[![Day 586 : Gone Be Fine](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Day_586___Gone_Be_Fine.svg)](https://dev.to/dwane/day-586-gone-be-fine-7ec)
-[![Cryptography basics: breaking repeated-key XOR ciphertext](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cryptography_basics__breaking_repeated-key_XOR_ciphertext.svg)](https://dev.to/wrongbyte/cryptography-basics-breaking-repeated-key-xor-ciphertext-1fm2)
-[![Security vs. Performance in the SQL World](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Security_vs._Performance_in_the_SQL_World.svg)](https://dev.to/arctype/security-vs-performance-in-the-sql-world-1p4p)
-[![No-code tools expected to increase in usage for years](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/No-code_tools_expected_to_increase_in_usage_for_years.svg)](https://dev.to/richkurtzman/no-code-tools-expected-to-increase-in-usage-for-years-429b)
-[![Angular & RxJS Tips #5: Multiple Http calls - combineLatest vs forkJoin](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Angular___RxJS_Tips__5__Multiple_Http_calls_-_combineLatest_vs_forkJoin.svg)](https://dev.to/fabiobiondi/angular-rxjs-tips-5-multiple-http-calls-combinelatest-vs-forkjoin-2ni5)
+[![Won't extend it more than once!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Won't_extend_it_more_than_once!.svg)](https://dev.to/sandordargo/wont-extend-it-more-than-once-2m98)
+[![How to Plot an audio file using Matplotlib](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Plot_an_audio_file_using_Matplotlib.svg)](https://dev.to/puritye/how-to-plot-an-audio-file-using-matplotlib-pbb)
+[![What Software Developers can learn from Gutenberg](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_Software_Developers_can_learn_from_Gutenberg.svg)](https://dev.to/polterguy/what-software-developers-can-learn-from-gutenberg-5bpa)
+[![Make AWS S3 bucket public accessible](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Make_AWS_S3_bucket_public_accessible.svg)](https://dev.to/hahahumble/make-aws-s3-bucket-public-accessible-48fd)
+[![Understand plt and axes in matplotlib](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understand_plt_and_axes_in_matplotlib.svg)](https://dev.to/hahahumble/understand-plt-and-axes-in-matplotlib-5g9)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, July 5, 2022 at 6:58:35 PM
+> Last updated: Wednesday, July 6, 2022 at 12:12:50 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, July 5, 2022 at 6:58:38 PM
+> Last updated: Wednesday, July 6, 2022 at 12:12:57 AM
 
 > Showing 5 of 30 posts.
 
