@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, July 6, 2022 at 6:20:54 AM
+> Last updated: Wednesday, July 6, 2022 at 12:12:45 PM
 
 > Showing 5 of 12 posts.
 
-[![Tip for those who are struggling to find some tome to code while studying at the university](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tip_for_those_who_are_struggling_to_find_some_tome_to_code_while_studying_at_the_university.svg)](https://dev.to/yerdi_devo/tip-for-those-who-are-struggling-to-find-some-tome-to-code-while-studying-at-the-university-1lo0)
-[![How Machine Learning Improves Marketing Strategies](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_Machine_Learning_Improves_Marketing_Strategies.svg)](https://dev.to/juliaramyalg/how-machine-learning-improves-marketing-strategies-1646)
-[![Automating HR Processes with No-Code at FINN](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Automating_HR_Processes_with_No-Code_at_FINN.svg)](https://dev.to/finnauto/automating-hr-processes-with-no-code-at-finn-4ajd)
-[![How To Make It As A New Blockchain Developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Make_It_As_A_New_Blockchain_Developer.svg)](https://dev.to/developernation/how-to-make-it-as-a-new-blockchain-developer-5eke)
-[![What is End-to-End Testing?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_End-to-End_Testing_.svg)](https://dev.to/ravgeetdhillon/what-is-end-to-end-testing-395p)
+[![Recreate Pokemon game in 70 lines of JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Recreate_Pokemon_game_in_70_lines_of_JavaScript.svg)](https://dev.to/marinsborg/recreate-pokemon-game-in-70-lines-of-javascript-1m3h)
+[![Welcome Thread - v181](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Welcome_Thread_-_v181.svg)](https://dev.to/thepracticaldev/welcome-thread-v181-3mh4)
+[![All the Math you need to conduct an A/B test](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/All_the_Math_you_need_to_conduct_an_A_B_test.svg)](https://dev.to/codesphere/all-the-math-you-need-to-conduct-an-ab-test-136b)
+[![Leaders in an Array. DSA #2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Leaders_in_an_Array._DSA__2.svg)](https://dev.to/uchihaitachi0/leaders-in-an-array-13kl)
+[![How to get started with AWS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_get_started_with_AWS.svg)](https://dev.to/roy8/how-to-get-started-with-aws-4gb2)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, July 6, 2022 at 6:20:57 AM
+> Last updated: Wednesday, July 6, 2022 at 12:12:48 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,12 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, July 6, 2022 at 6:21:01 AM
+> Last updated: Wednesday, July 6, 2022 at 12:12:51 PM
 
 > Showing 5 of 30 posts.
 
+[![Build a URL Shortener in React with Shrtcode](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_a_URL_Shortener_in_React_with_Shrtcode.svg)](https://blog.openreplay.com/build-a-url-shortener-in-react-with-shrtcode)
+[![Zustand: simple, modern state management for React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Zustand__simple__modern_state_management_for_React.svg)](https://blog.openreplay.com/zustand-simple-modern-state-management-for-react)
 [![
 Online IDE for Cucumber.js and Gherkin
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Online_IDE_for_Cucumber.js_and_Gherkin_.svg)](
@@ -54,8 +56,6 @@ https://testjam.io
 )
 [![Alternatives to React: Inferno.JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Alternatives_to_React__Inferno.JS.svg)](https://blog.openreplay.com/alternatives-to-react-inferno-js)
 [![3 Ways to Develop Micro-Frontends in 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/3_Ways_to_Develop_Micro-Frontends_in_2022.svg)](https://javascript.plainenglish.io/3-ways-to-develop-micro-frontends-in-2022-e29984158b6d)
-[![Talk to your app with Alan AI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Talk_to_your_app_with_Alan_AI.svg)](https://blog.openreplay.com/talk-to-your-app-with-alan-ai)
-[![Connect a React app to the NEAR Blockchain](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Connect_a_React_app_to_the_NEAR_Blockchain.svg)](https://blog.openreplay.com/connect-a-react-app-to-the-near-blockchain)
 
 
 <!-- post-list:end -->
