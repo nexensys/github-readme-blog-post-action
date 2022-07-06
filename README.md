@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, July 6, 2022 at 12:12:46 AM
+> Last updated: Wednesday, July 6, 2022 at 6:20:54 AM
 
 > Showing 5 of 12 posts.
 
-[![Won't extend it more than once!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Won't_extend_it_more_than_once!.svg)](https://dev.to/sandordargo/wont-extend-it-more-than-once-2m98)
-[![How to Plot an audio file using Matplotlib](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Plot_an_audio_file_using_Matplotlib.svg)](https://dev.to/puritye/how-to-plot-an-audio-file-using-matplotlib-pbb)
-[![What Software Developers can learn from Gutenberg](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_Software_Developers_can_learn_from_Gutenberg.svg)](https://dev.to/polterguy/what-software-developers-can-learn-from-gutenberg-5bpa)
-[![Make AWS S3 bucket public accessible](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Make_AWS_S3_bucket_public_accessible.svg)](https://dev.to/hahahumble/make-aws-s3-bucket-public-accessible-48fd)
-[![Understand plt and axes in matplotlib](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understand_plt_and_axes_in_matplotlib.svg)](https://dev.to/hahahumble/understand-plt-and-axes-in-matplotlib-5g9)
+[![Tip for those who are struggling to find some tome to code while studying at the university](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tip_for_those_who_are_struggling_to_find_some_tome_to_code_while_studying_at_the_university.svg)](https://dev.to/yerdi_devo/tip-for-those-who-are-struggling-to-find-some-tome-to-code-while-studying-at-the-university-1lo0)
+[![How Machine Learning Improves Marketing Strategies](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_Machine_Learning_Improves_Marketing_Strategies.svg)](https://dev.to/juliaramyalg/how-machine-learning-improves-marketing-strategies-1646)
+[![Automating HR Processes with No-Code at FINN](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Automating_HR_Processes_with_No-Code_at_FINN.svg)](https://dev.to/finnauto/automating-hr-processes-with-no-code-at-finn-4ajd)
+[![How To Make It As A New Blockchain Developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Make_It_As_A_New_Blockchain_Developer.svg)](https://dev.to/developernation/how-to-make-it-as-a-new-blockchain-developer-5eke)
+[![What is End-to-End Testing?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_End-to-End_Testing_.svg)](https://dev.to/ravgeetdhillon/what-is-end-to-end-testing-395p)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, July 6, 2022 at 12:12:50 AM
+> Last updated: Wednesday, July 6, 2022 at 6:20:57 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, July 6, 2022 at 12:12:57 AM
+> Last updated: Wednesday, July 6, 2022 at 6:21:01 AM
 
 > Showing 5 of 30 posts.
 
