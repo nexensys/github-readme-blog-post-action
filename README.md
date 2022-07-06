@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, July 5, 2022 at 12:11:29 PM
+> Last updated: Tuesday, July 5, 2022 at 6:58:32 PM
 
 > Showing 5 of 12 posts.
 
-[![Converting a Javascript project to Typescript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Converting_a_Javascript_project_to_Typescript.svg)](https://dev.to/kai_wenzel/converting-a-javascript-project-to-typescript-2jkh)
-[![Top 7 Featured DEV Posts from the Past Week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_7_Featured_DEV_Posts_from_the_Past_Week.svg)](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3o6b)
-[![Setup Laravel 9 project with ReactJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Setup_Laravel_9_project_with_ReactJS.svg)](https://dev.to/emokores256/integrate-reactjs-into-laravel-9-bl2)
-[![Create a Todo App with NextJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_a_Todo_App_with_NextJS.svg)](https://dev.to/fabianbandini/create-a-todo-app-with-nextjs-1274)
-[![Deeply Compare 2 Objects in JavaScript with Recursive Function](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deeply_Compare_2_Objects_in_JavaScript_with_Recursive_Function.svg)](https://dev.to/rasaf_ibrahim/deeply-compare-2-objects-in-javascript-with-recursive-function-50j)
+[![Day 586 : Gone Be Fine](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Day_586___Gone_Be_Fine.svg)](https://dev.to/dwane/day-586-gone-be-fine-7ec)
+[![Cryptography basics: breaking repeated-key XOR ciphertext](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cryptography_basics__breaking_repeated-key_XOR_ciphertext.svg)](https://dev.to/wrongbyte/cryptography-basics-breaking-repeated-key-xor-ciphertext-1fm2)
+[![Security vs. Performance in the SQL World](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Security_vs._Performance_in_the_SQL_World.svg)](https://dev.to/arctype/security-vs-performance-in-the-sql-world-1p4p)
+[![No-code tools expected to increase in usage for years](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/No-code_tools_expected_to_increase_in_usage_for_years.svg)](https://dev.to/richkurtzman/no-code-tools-expected-to-increase-in-usage-for-years-429b)
+[![Angular & RxJS Tips #5: Multiple Http calls - combineLatest vs forkJoin](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Angular___RxJS_Tips__5__Multiple_Http_calls_-_combineLatest_vs_forkJoin.svg)](https://dev.to/fabiobiondi/angular-rxjs-tips-5-multiple-http-calls-combinelatest-vs-forkjoin-2ni5)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, July 5, 2022 at 12:11:32 PM
+> Last updated: Tuesday, July 5, 2022 at 6:58:35 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, July 5, 2022 at 12:11:37 PM
+> Last updated: Tuesday, July 5, 2022 at 6:58:38 PM
 
 > Showing 5 of 30 posts.
 
