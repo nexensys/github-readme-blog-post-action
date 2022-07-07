@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, July 6, 2022 at 6:58:40 PM
+> Last updated: Thursday, July 7, 2022 at 12:12:44 AM
 
 > Showing 5 of 12 posts.
 
+[![RegEx password validators is madness](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/RegEx_password_validators_is_madness.svg)](https://dev.to/polterguy/regex-password-validators-is-madness-53d7)
+[![How to set up Ant tool for Salesforce deployment ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_set_up_Ant_tool_for_Salesforce_deployment__.svg)](https://dev.to/tanmaygi/how-to-set-up-ant-tool-for-salesforce-deployment--ma0)
+[![A Simple C++ Odd or Even Checker](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Simple_C++_Odd_or_Even_Checker.svg)](https://dev.to/itsaomi/a-simple-c-odd-or-even-checker-ch7)
+[![Parse a JSON into struct](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Parse_a_JSON_into_struct.svg)](https://dev.to/mohsenkamrani/parse-a-json-into-struct-335d)
 [![Métricas cAdvisor no Kubernetes com Prometheus e Grafana](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Métricas_cAdvisor_no_Kubernetes_com_Prometheus_e_Grafana.svg)](https://dev.to/leandronsp/metricas-cadvisor-no-kubernetes-com-prometheus-e-grafana-5cng)
-[![Achieving a Docs Vision](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Achieving_a_Docs_Vision.svg)](https://dev.to/missamarakay/achieving-a-docs-vision-1c1i)
-[![Two Sum II - Input Array Is Sorted](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Two_Sum_II_-_Input_Array_Is_Sorted.svg)](https://dev.to/tammyvocs/two-sum-ii-input-array-is-sorted-43hm)
-[![Responsible Monkey Patching of Ruby Methods](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Responsible_Monkey_Patching_of_Ruby_Methods.svg)](https://dev.to/devteam/responsible-monkey-patching-of-ruby-methods-4590)
-[![Few steps to becoming a successful content marketer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Few_steps_to_becoming_a_successful_content_marketer.svg)](https://dev.to/jawwadimran/few-steps-to-becoming-a-successful-content-marketer-3ni9)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, July 6, 2022 at 6:58:43 PM
+> Last updated: Thursday, July 7, 2022 at 12:12:48 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, July 6, 2022 at 6:58:46 PM
+> Last updated: Thursday, July 7, 2022 at 12:12:55 AM
 
 > Showing 5 of 30 posts.
 
