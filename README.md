@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, July 6, 2022 at 12:12:45 PM
+> Last updated: Wednesday, July 6, 2022 at 6:58:40 PM
 
 > Showing 5 of 12 posts.
 
-[![Recreate Pokemon game in 70 lines of JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Recreate_Pokemon_game_in_70_lines_of_JavaScript.svg)](https://dev.to/marinsborg/recreate-pokemon-game-in-70-lines-of-javascript-1m3h)
-[![Welcome Thread - v181](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Welcome_Thread_-_v181.svg)](https://dev.to/thepracticaldev/welcome-thread-v181-3mh4)
-[![All the Math you need to conduct an A/B test](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/All_the_Math_you_need_to_conduct_an_A_B_test.svg)](https://dev.to/codesphere/all-the-math-you-need-to-conduct-an-ab-test-136b)
-[![Leaders in an Array. DSA #2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Leaders_in_an_Array._DSA__2.svg)](https://dev.to/uchihaitachi0/leaders-in-an-array-13kl)
-[![How to get started with AWS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_get_started_with_AWS.svg)](https://dev.to/roy8/how-to-get-started-with-aws-4gb2)
+[![Métricas cAdvisor no Kubernetes com Prometheus e Grafana](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Métricas_cAdvisor_no_Kubernetes_com_Prometheus_e_Grafana.svg)](https://dev.to/leandronsp/metricas-cadvisor-no-kubernetes-com-prometheus-e-grafana-5cng)
+[![Achieving a Docs Vision](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Achieving_a_Docs_Vision.svg)](https://dev.to/missamarakay/achieving-a-docs-vision-1c1i)
+[![Two Sum II - Input Array Is Sorted](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Two_Sum_II_-_Input_Array_Is_Sorted.svg)](https://dev.to/tammyvocs/two-sum-ii-input-array-is-sorted-43hm)
+[![Responsible Monkey Patching of Ruby Methods](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Responsible_Monkey_Patching_of_Ruby_Methods.svg)](https://dev.to/devteam/responsible-monkey-patching-of-ruby-methods-4590)
+[![Few steps to becoming a successful content marketer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Few_steps_to_becoming_a_successful_content_marketer.svg)](https://dev.to/jawwadimran/few-steps-to-becoming-a-successful-content-marketer-3ni9)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, July 6, 2022 at 12:12:48 PM
+> Last updated: Wednesday, July 6, 2022 at 6:58:43 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, July 6, 2022 at 12:12:51 PM
+> Last updated: Wednesday, July 6, 2022 at 6:58:46 PM
 
 > Showing 5 of 30 posts.
 
