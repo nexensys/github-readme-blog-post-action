@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, July 7, 2022 at 12:12:44 AM
+> Last updated: Thursday, July 7, 2022 at 6:20:47 AM
 
 > Showing 5 of 12 posts.
 
-[![RegEx password validators is madness](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/RegEx_password_validators_is_madness.svg)](https://dev.to/polterguy/regex-password-validators-is-madness-53d7)
-[![How to set up Ant tool for Salesforce deployment ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_set_up_Ant_tool_for_Salesforce_deployment__.svg)](https://dev.to/tanmaygi/how-to-set-up-ant-tool-for-salesforce-deployment--ma0)
-[![A Simple C++ Odd or Even Checker](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Simple_C++_Odd_or_Even_Checker.svg)](https://dev.to/itsaomi/a-simple-c-odd-or-even-checker-ch7)
-[![Parse a JSON into struct](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Parse_a_JSON_into_struct.svg)](https://dev.to/mohsenkamrani/parse-a-json-into-struct-335d)
-[![Métricas cAdvisor no Kubernetes com Prometheus e Grafana](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Métricas_cAdvisor_no_Kubernetes_com_Prometheus_e_Grafana.svg)](https://dev.to/leandronsp/metricas-cadvisor-no-kubernetes-com-prometheus-e-grafana-5cng)
+[![Trying to balance Real Life With A Hobby](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Trying_to_balance_Real_Life_With_A_Hobby.svg)](https://dev.to/thekillerrex27/trying-to-balance-real-life-with-a-hobby-47io)
+[![5 pieces of advice to help you become a better developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_pieces_of_advice_to_help_you_become_a_better_developer.svg)](https://dev.to/nathan20/5-pieces-of-advice-to-help-you-become-a-better-developer-1hic)
+[![Share your swags](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Share_your_swags.svg)](https://dev.to/krishnaagarwal/share-your-swags-2pm3)
+[![Trends We Are Watching: API Democratization and API Management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Trends_We_Are_Watching__API_Democratization_and_API_Management.svg)](https://dev.to/mbogan/trends-we-are-watching-api-democratization-and-api-management-5cfd)
+[![Error handling of CLI applications in Golang](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Error_handling_of_CLI_applications_in_Golang.svg)](https://dev.to/eminetto/error-handling-of-cli-applications-in-golang-4c7l)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, July 7, 2022 at 12:12:48 AM
+> Last updated: Thursday, July 7, 2022 at 6:20:51 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, July 7, 2022 at 12:12:55 AM
+> Last updated: Thursday, July 7, 2022 at 6:20:53 AM
 
 > Showing 5 of 30 posts.
 
+[![Redwood, a new framework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Redwood__a_new_framework.svg)](https://blog.openreplay.com/redwood-a-new-framework)
 [![Build a URL Shortener in React with Shrtcode](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_a_URL_Shortener_in_React_with_Shrtcode.svg)](https://blog.openreplay.com/build-a-url-shortener-in-react-with-shrtcode)
 [![Zustand: simple, modern state management for React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Zustand__simple__modern_state_management_for_React.svg)](https://blog.openreplay.com/zustand-simple-modern-state-management-for-react)
 [![
@@ -55,7 +56,6 @@ Online IDE for Cucumber.js and Gherkin
 https://testjam.io
 )
 [![Alternatives to React: Inferno.JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Alternatives_to_React__Inferno.JS.svg)](https://blog.openreplay.com/alternatives-to-react-inferno-js)
-[![3 Ways to Develop Micro-Frontends in 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/3_Ways_to_Develop_Micro-Frontends_in_2022.svg)](https://javascript.plainenglish.io/3-ways-to-develop-micro-frontends-in-2022-e29984158b6d)
 
 
 <!-- post-list:end -->
