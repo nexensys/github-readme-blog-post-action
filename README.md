@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, July 7, 2022 at 6:20:47 AM
+> Last updated: Thursday, July 7, 2022 at 12:12:45 PM
 
 > Showing 5 of 12 posts.
 
-[![Trying to balance Real Life With A Hobby](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Trying_to_balance_Real_Life_With_A_Hobby.svg)](https://dev.to/thekillerrex27/trying-to-balance-real-life-with-a-hobby-47io)
-[![5 pieces of advice to help you become a better developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_pieces_of_advice_to_help_you_become_a_better_developer.svg)](https://dev.to/nathan20/5-pieces-of-advice-to-help-you-become-a-better-developer-1hic)
-[![Share your swags](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Share_your_swags.svg)](https://dev.to/krishnaagarwal/share-your-swags-2pm3)
-[![Trends We Are Watching: API Democratization and API Management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Trends_We_Are_Watching__API_Democratization_and_API_Management.svg)](https://dev.to/mbogan/trends-we-are-watching-api-democratization-and-api-management-5cfd)
-[![Error handling of CLI applications in Golang](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Error_handling_of_CLI_applications_in_Golang.svg)](https://dev.to/eminetto/error-handling-of-cli-applications-in-golang-4c7l)
+[![How to do Test Automation using Playwright and JavaScript?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_do_Test_Automation_using_Playwright_and_JavaScript_.svg)](https://dev.to/codewithmmak/how-to-do-test-automation-using-playwright-and-javascript-2ebg)
+[![useConfirm — A custom React hook to prompt confirmation before action🎬](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/useConfirm_—_A_custom_React_hook_to_prompt_confirmation_before_action🎬.svg)](https://dev.to/kai_wenzel/useconfirm-a-custom-react-hook-to-prompt-confirmation-before-action-4ld4)
+[![CSS Pseudo-Classes Tutorial](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CSS_Pseudo-Classes_Tutorial.svg)](https://dev.to/rembertdesigns/css-pseudo-classes-tutorial-557o)
+[![Optimizing Application Queries With Partition Pruning](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Optimizing_Application_Queries_With_Partition_Pruning.svg)](https://dev.to/yugabyte/optimizing-application-queries-with-partition-pruning-4g4b)
+[![YouTube coding channel for absolute beginners 💖](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/YouTube_coding_channel_for_absolute_beginners_💖.svg)](https://dev.to/codeguppy/youtube-coding-channel-for-absolute-beginners-2mjb)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, July 7, 2022 at 6:20:51 AM
+> Last updated: Thursday, July 7, 2022 at 12:12:49 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, July 7, 2022 at 6:20:53 AM
+> Last updated: Thursday, July 7, 2022 at 12:12:51 PM
 
 > Showing 5 of 30 posts.
 
+[![Comparing blockchains: Ethereum vs Tezos](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Comparing_blockchains__Ethereum_vs_Tezos.svg)](https://blog.openreplay.com/comparing-blockchains-ethereum-vs-tezos)
 [![Redwood, a new framework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Redwood__a_new_framework.svg)](https://blog.openreplay.com/redwood-a-new-framework)
 [![Build a URL Shortener in React with Shrtcode](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_a_URL_Shortener_in_React_with_Shrtcode.svg)](https://blog.openreplay.com/build-a-url-shortener-in-react-with-shrtcode)
 [![Zustand: simple, modern state management for React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Zustand__simple__modern_state_management_for_React.svg)](https://blog.openreplay.com/zustand-simple-modern-state-management-for-react)
@@ -55,7 +56,6 @@ Online IDE for Cucumber.js and Gherkin
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Online_IDE_for_Cucumber.js_and_Gherkin_.svg)](
 https://testjam.io
 )
-[![Alternatives to React: Inferno.JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Alternatives_to_React__Inferno.JS.svg)](https://blog.openreplay.com/alternatives-to-react-inferno-js)
 
 
 <!-- post-list:end -->
