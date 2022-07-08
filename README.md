@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, July 8, 2022 at 12:13:45 AM
+> Last updated: Friday, July 8, 2022 at 6:17:57 AM
 
 > Showing 5 of 12 posts.
 
-[![Improve the Security of API Keys [Checklist included]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Improve_the_Security_of_API_Keys_[Checklist_included].svg)](https://dev.to/binhbv/improve-the-security-of-api-keys-checklist-included-1a82)
-[![my new parkour game](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/my_new_parkour_game.svg)](https://dev.to/technocraft27/my-new-parkour-game-4hjd)
-[![CLI 學習筆記](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CLI_學習筆記.svg)](https://dev.to/letswrite/cli-xue-xi-bi-ji-832)
-[![3 HTML5 tags you didn't know existed.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/3_HTML5_tags_you_didn't_know_existed..svg)](https://dev.to/zubeco/3-html5-tags-you-didnt-know-existed-30gf)
-[![Introduction to Microsoft Orleans](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_to_Microsoft_Orleans.svg)](https://dev.to/willvelida/introduction-to-microsoft-orleans-796)
+[![Introduction to Devtron](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_to_Devtron.svg)](https://dev.to/makendrang/introduction-to-devtron-cf8)
+[![Keep Cloud Operations In Top Shape This Summer With Automation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Keep_Cloud_Operations_In_Top_Shape_This_Summer_With_Automation.svg)](https://dev.to/castai/keep-cloud-operations-in-top-shape-this-summer-with-automation-2cgp)
+[![Prometheus vs InfluxDB - Key Differences, concepts, and similarities](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Prometheus_vs_InfluxDB_-_Key_Differences__concepts__and_similarities.svg)](https://dev.to/signoz/prometheus-vs-influxdb-key-differences-concepts-and-similarities-35ji)
+[![React Bootcamp Note Taking App by Smit Shetye.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Bootcamp_Note_Taking_App_by_Smit_Shetye..svg)](https://dev.to/smitshetye/reactbootcampsmitshetye-1mjc)
+[![LeetCode - Contains Duplicate](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/LeetCode_-_Contains_Duplicate.svg)](https://dev.to/vaishnveeshinde/leetcode-contains-duplicate-12aa)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, July 8, 2022 at 12:13:49 AM
+> Last updated: Friday, July 8, 2022 at 6:18:00 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, July 8, 2022 at 12:13:58 AM
+> Last updated: Friday, July 8, 2022 at 6:18:06 AM
 
 > Showing 5 of 30 posts.
 
+[![Routing in React with React Location](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Routing_in_React_with_React_Location.svg)](https://blog.openreplay.com/routing-in-react-with-react-location)
+[![GitHub - CodeWhiteWeb/Github-Readme-Riddle: GitHub Readme Riddles : Display Random riddles 🤔 on your github profile 🤓](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_CodeWhiteWeb_Github-Readme-Riddle__GitHub_Readme_Riddles___Display_Random_riddles_🤔_on_your_github_profile_🤓.svg)](https://github.com/CodeWhiteWeb/Github-Readme-Riddle)
 [![React Context Module Pattern](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_Context_Module_Pattern.svg)](https://blog.variant.no/react-context-module-pattern-63fcd9aacd0d)
 [![Comparing blockchains: Ethereum vs Tezos](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Comparing_blockchains__Ethereum_vs_Tezos.svg)](https://blog.openreplay.com/comparing-blockchains-ethereum-vs-tezos)
 [![Redwood, a new framework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Redwood__a_new_framework.svg)](https://blog.openreplay.com/redwood-a-new-framework)
-[![Build a URL Shortener in React with Shrtcode](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_a_URL_Shortener_in_React_with_Shrtcode.svg)](https://blog.openreplay.com/build-a-url-shortener-in-react-with-shrtcode)
-[![Zustand: simple, modern state management for React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Zustand__simple__modern_state_management_for_React.svg)](https://blog.openreplay.com/zustand-simple-modern-state-management-for-react)
 
 
 <!-- post-list:end -->

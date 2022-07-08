@@ -78,11 +78,11 @@
       <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
         <div class="image" />
 <div class="text">
-          <div class="title">3&#0032;HTML5&#0032;tags&#0032;you&#0032;didn&#0039;t&#0032;know&#0032;existed&#0046;</div>
-          <div class="description">The&#0032;Progress&#0032;Tag&#0032;&#0032;&#0032;&#0032;The&#0032;&#0034;progress&#0034;&#0032;tag&#0032;is&#0032;an&#0032;easy&#0032;way&#0032;to&#0032;display&#0032;a&#0032;progress&#0032;bar&#0032;using&#0032;only&#0046;&#0046;&#0046;</div>
+          <div class="title">LeetCode&#0032;&#0045;&#0032;Contains&#0032;Duplicate</div>
+          <div class="description">Given&#0032;an&#0032;integer&#0032;array&#0032;nums&#0044;&#0032;return&#0032;true&#0032;if&#0032;any&#0032;value&#0032;appears&#0032;at&#0032;least&#0032;twice&#0032;in&#0032;the&#0032;array&#0044;&#0032;and&#0032;return&#0046;&#0046;&#0046;</div>
           <div class="date">7&#0047;8&#0047;22</div>
           <div class="data">
-            <span class="author">Udeh&#0032;Princewill&#0032;Nzubechukwu</span> <span class="category">progresstag</span> <span class="category">abbrtag</span> <span class="category">detailstag</span> <span class="category">html</span>
+            <span class="author">Vaishnvee&#0032;Shinde&#0032;</span> <span class="category">java</span> <span class="category">leetcode</span> <span class="category">containsduplicate</span> <span class="category">solution</span>
           </div>
         </div>
       </div>
