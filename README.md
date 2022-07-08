@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, July 7, 2022 at 12:12:45 PM
+> Last updated: Thursday, July 7, 2022 at 6:59:24 PM
 
 > Showing 5 of 12 posts.
 
-[![How to do Test Automation using Playwright and JavaScript?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_do_Test_Automation_using_Playwright_and_JavaScript_.svg)](https://dev.to/codewithmmak/how-to-do-test-automation-using-playwright-and-javascript-2ebg)
-[![useConfirm — A custom React hook to prompt confirmation before action🎬](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/useConfirm_—_A_custom_React_hook_to_prompt_confirmation_before_action🎬.svg)](https://dev.to/kai_wenzel/useconfirm-a-custom-react-hook-to-prompt-confirmation-before-action-4ld4)
-[![CSS Pseudo-Classes Tutorial](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CSS_Pseudo-Classes_Tutorial.svg)](https://dev.to/rembertdesigns/css-pseudo-classes-tutorial-557o)
-[![Optimizing Application Queries With Partition Pruning](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Optimizing_Application_Queries_With_Partition_Pruning.svg)](https://dev.to/yugabyte/optimizing-application-queries-with-partition-pruning-4g4b)
-[![YouTube coding channel for absolute beginners 💖](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/YouTube_coding_channel_for_absolute_beginners_💖.svg)](https://dev.to/codeguppy/youtube-coding-channel-for-absolute-beginners-2mjb)
+[![Desmistificando o CSS - Intro](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Desmistificando_o_CSS_-_Intro.svg)](https://dev.to/mpfdev/desmistificando-o-css-intro-em8)
+[![Body parsing in App Search](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Body_parsing_in_App_Search.svg)](https://dev.to/llermaly/body-parsing-in-app-search-4ckc)
+[![The engine, then the Pilot](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_engine__then_the_Pilot.svg)](https://dev.to/speedygamer12/the-engine-then-the-pilot-4nda)
+[![How to buid a native iOS dApp that uses the Flow blockchain as the backend](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_buid_a_native_iOS_dApp_that_uses_the_Flow_blockchain_as_the_backend.svg)](https://dev.to/theagilemonkeys/how-to-buid-a-native-ios-dapp-that-uses-the-flow-blockchain-as-the-backend-n9k)
+[![Beyond Pomodoro: Personalizable pattern-based time management in your terminal, for patterns that work for you](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Beyond_Pomodoro__Personalizable_pattern-based_time_management_in_your_terminal__for_patterns_that_work_for_you.svg)](https://dev.to/reportaman/beyond-pomodoro-personalizable-pattern-based-time-management-in-your-terminal-for-patterns-that-work-for-you-2kf8)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, July 7, 2022 at 12:12:49 PM
+> Last updated: Thursday, July 7, 2022 at 6:59:28 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, July 7, 2022 at 12:12:51 PM
+> Last updated: Thursday, July 7, 2022 at 6:59:31 PM
 
 > Showing 5 of 30 posts.
 
+[![React Context Module Pattern](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_Context_Module_Pattern.svg)](https://blog.variant.no/react-context-module-pattern-63fcd9aacd0d)
 [![Comparing blockchains: Ethereum vs Tezos](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Comparing_blockchains__Ethereum_vs_Tezos.svg)](https://blog.openreplay.com/comparing-blockchains-ethereum-vs-tezos)
 [![Redwood, a new framework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Redwood__a_new_framework.svg)](https://blog.openreplay.com/redwood-a-new-framework)
 [![Build a URL Shortener in React with Shrtcode](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_a_URL_Shortener_in_React_with_Shrtcode.svg)](https://blog.openreplay.com/build-a-url-shortener-in-react-with-shrtcode)
 [![Zustand: simple, modern state management for React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Zustand__simple__modern_state_management_for_React.svg)](https://blog.openreplay.com/zustand-simple-modern-state-management-for-react)
-[![
-Online IDE for Cucumber.js and Gherkin
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Online_IDE_for_Cucumber.js_and_Gherkin_.svg)](
-https://testjam.io
-)
 
 
 <!-- post-list:end -->

@@ -78,11 +78,11 @@
       <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
         <div class="image" />
 <div class="text">
-          <div class="title">Optimizing&#0032;Application&#0032;Queries&#0032;With&#0032;Partition&#0032;Pruning</div>
-          <div class="description">Table&#0032;partitioning&#0032;is&#0032;a&#0032;very&#0032;handy&#0032;feature&#0032;supported&#0032;by&#0032;several&#0032;databases&#0044;&#0032;including&#0032;PostgreSQL&#0044;&#0046;&#0046;&#0046;</div>
+          <div class="title">The&#0032;engine&#0044;&#0032;then&#0032;the&#0032;Pilot</div>
+          <div class="description">In&#0032;monolithic&#0032;architectures&#0044;&#0032;all&#0032;the&#0032;layers&#0032;of&#0032;our&#0032;applications&#0032;are&#0032;built&#0032;into&#0032;one&#0032;single&#0032;artifact&#0046;&#0046;&#0046;&#0046;</div>
           <div class="date">7&#0047;7&#0047;22</div>
           <div class="data">
-            <span class="author">Denis&#0032;Magda</span> <span class="category">database</span> <span class="category">postgres</span> <span class="category">performance</span> <span class="category">architecture</span>
+            <span class="author">Yusuf&#0032;Giwa</span> <span class="category">devops</span> <span class="category">docker</span> <span class="category">kubernetes</span> <span class="category">microservices</span>
           </div>
         </div>
       </div>
