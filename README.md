@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, July 7, 2022 at 6:59:24 PM
+> Last updated: Friday, July 8, 2022 at 12:13:45 AM
 
 > Showing 5 of 12 posts.
 
-[![Desmistificando o CSS - Intro](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Desmistificando_o_CSS_-_Intro.svg)](https://dev.to/mpfdev/desmistificando-o-css-intro-em8)
-[![Body parsing in App Search](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Body_parsing_in_App_Search.svg)](https://dev.to/llermaly/body-parsing-in-app-search-4ckc)
-[![The engine, then the Pilot](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_engine__then_the_Pilot.svg)](https://dev.to/speedygamer12/the-engine-then-the-pilot-4nda)
-[![How to buid a native iOS dApp that uses the Flow blockchain as the backend](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_buid_a_native_iOS_dApp_that_uses_the_Flow_blockchain_as_the_backend.svg)](https://dev.to/theagilemonkeys/how-to-buid-a-native-ios-dapp-that-uses-the-flow-blockchain-as-the-backend-n9k)
-[![Beyond Pomodoro: Personalizable pattern-based time management in your terminal, for patterns that work for you](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Beyond_Pomodoro__Personalizable_pattern-based_time_management_in_your_terminal__for_patterns_that_work_for_you.svg)](https://dev.to/reportaman/beyond-pomodoro-personalizable-pattern-based-time-management-in-your-terminal-for-patterns-that-work-for-you-2kf8)
+[![Improve the Security of API Keys [Checklist included]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Improve_the_Security_of_API_Keys_[Checklist_included].svg)](https://dev.to/binhbv/improve-the-security-of-api-keys-checklist-included-1a82)
+[![my new parkour game](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/my_new_parkour_game.svg)](https://dev.to/technocraft27/my-new-parkour-game-4hjd)
+[![CLI 學習筆記](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CLI_學習筆記.svg)](https://dev.to/letswrite/cli-xue-xi-bi-ji-832)
+[![3 HTML5 tags you didn't know existed.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/3_HTML5_tags_you_didn't_know_existed..svg)](https://dev.to/zubeco/3-html5-tags-you-didnt-know-existed-30gf)
+[![Introduction to Microsoft Orleans](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_to_Microsoft_Orleans.svg)](https://dev.to/willvelida/introduction-to-microsoft-orleans-796)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, July 7, 2022 at 6:59:28 PM
+> Last updated: Friday, July 8, 2022 at 12:13:49 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, July 7, 2022 at 6:59:31 PM
+> Last updated: Friday, July 8, 2022 at 12:13:58 AM
 
 > Showing 5 of 30 posts.
 
