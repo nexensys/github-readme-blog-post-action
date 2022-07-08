@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, July 8, 2022 at 6:17:57 AM
+> Last updated: Friday, July 8, 2022 at 12:11:48 PM
 
 > Showing 5 of 12 posts.
 
-[![Introduction to Devtron](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_to_Devtron.svg)](https://dev.to/makendrang/introduction-to-devtron-cf8)
-[![Keep Cloud Operations In Top Shape This Summer With Automation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Keep_Cloud_Operations_In_Top_Shape_This_Summer_With_Automation.svg)](https://dev.to/castai/keep-cloud-operations-in-top-shape-this-summer-with-automation-2cgp)
-[![Prometheus vs InfluxDB - Key Differences, concepts, and similarities](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Prometheus_vs_InfluxDB_-_Key_Differences__concepts__and_similarities.svg)](https://dev.to/signoz/prometheus-vs-influxdb-key-differences-concepts-and-similarities-35ji)
-[![React Bootcamp Note Taking App by Smit Shetye.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Bootcamp_Note_Taking_App_by_Smit_Shetye..svg)](https://dev.to/smitshetye/reactbootcampsmitshetye-1mjc)
-[![LeetCode - Contains Duplicate](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/LeetCode_-_Contains_Duplicate.svg)](https://dev.to/vaishnveeshinde/leetcode-contains-duplicate-12aa)
+[![Rot13](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Rot13.svg)](https://dev.to/lancelot03/rot13-2llo)
+[![What was your win this week?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_was_your_win_this_week_.svg)](https://dev.to/devteam/what-was-your-win-this-week-1h13)
+[![Create a show/hide password toggle button in Reactjs.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_a_show_hide_password_toggle_button_in_Reactjs..svg)](https://dev.to/thisisatefe/create-a-showhide-password-toggle-button-in-reactjs-1oi8)
+[![The jacoco-badge-generator GitHub Action is now also available as a CLI tool from PyPI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_jacoco-badge-generator_GitHub_Action_is_now_also_available_as_a_CLI_tool_from_PyPI.svg)](https://dev.to/cicirello/the-jacoco-badge-generator-github-action-is-now-also-available-as-a-cli-tool-from-pypi-3ma0)
+[![PHP IMAP !<3 OAuth ***MUST READ***](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/PHP_IMAP_!_3_OAuth____MUST_READ___.svg)](https://dev.to/francescobianco/php-imap-oauth-k3l)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, July 8, 2022 at 6:18:00 AM
+> Last updated: Friday, July 8, 2022 at 12:11:52 PM
 
 > Showing 4 of 4 posts.
 
+[![An all-in-Bun JavaScript runtime.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/An_all-in-Bun_JavaScript_runtime..svg)](https://javascriptweekly.com/issues/597)
 [![Celebrating Svelte](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Celebrating_Svelte.svg)](https://javascriptweekly.com/issues/596)
 [![What's new in ECMAScript 2022?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/What's_new_in_ECMAScript_2022_.svg)](https://javascriptweekly.com/issues/595)
 [![AbortController, your newest friend](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/AbortController__your_newest_friend.svg)](https://javascriptweekly.com/issues/594)
-[![Mathematics is the music of reason.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Mathematics_is_the_music_of_reason..svg)](https://javascriptweekly.com/issues/593)
 
 
 ## Echo JS
@@ -43,15 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, July 8, 2022 at 6:18:06 AM
+> Last updated: Friday, July 8, 2022 at 12:11:56 PM
 
 > Showing 5 of 30 posts.
 
+[![How to Fix ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Fix_.svg)](
+https://masteringjs.io/tutorials/mongoose/buffering-timed-out-after-10000ms
+)
+[![Push Notifications in Flutter with Native Notify](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Push_Notifications_in_Flutter_with_Native_Notify.svg)](https://blog.openreplay.com/push-notifications-in-flutter-with-native-notify)
 [![Routing in React with React Location](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Routing_in_React_with_React_Location.svg)](https://blog.openreplay.com/routing-in-react-with-react-location)
 [![GitHub - CodeWhiteWeb/Github-Readme-Riddle: GitHub Readme Riddles : Display Random riddles 🤔 on your github profile 🤓](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_CodeWhiteWeb_Github-Readme-Riddle__GitHub_Readme_Riddles___Display_Random_riddles_🤔_on_your_github_profile_🤓.svg)](https://github.com/CodeWhiteWeb/Github-Readme-Riddle)
 [![React Context Module Pattern](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_Context_Module_Pattern.svg)](https://blog.variant.no/react-context-module-pattern-63fcd9aacd0d)
-[![Comparing blockchains: Ethereum vs Tezos](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Comparing_blockchains__Ethereum_vs_Tezos.svg)](https://blog.openreplay.com/comparing-blockchains-ethereum-vs-tezos)
-[![Redwood, a new framework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Redwood__a_new_framework.svg)](https://blog.openreplay.com/redwood-a-new-framework)
 
 
 <!-- post-list:end -->

@@ -78,11 +78,11 @@
       <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
         <div class="image" />
 <div class="text">
-          <div class="title">LeetCode&#0032;&#0045;&#0032;Contains&#0032;Duplicate</div>
-          <div class="description">Given&#0032;an&#0032;integer&#0032;array&#0032;nums&#0044;&#0032;return&#0032;true&#0032;if&#0032;any&#0032;value&#0032;appears&#0032;at&#0032;least&#0032;twice&#0032;in&#0032;the&#0032;array&#0044;&#0032;and&#0032;return&#0046;&#0046;&#0046;</div>
+          <div class="title">Rot13</div>
+          <div class="description">ROT13&#0032;is&#0032;a&#0032;simple&#0032;letter&#0032;substitution&#0032;cipher&#0032;that&#0032;replaces&#0032;a&#0032;letter&#0032;with&#0032;the&#0032;letter&#0032;13&#0032;letters&#0032;after&#0046;&#0046;&#0046;</div>
           <div class="date">7&#0047;8&#0047;22</div>
           <div class="data">
-            <span class="author">Vaishnvee&#0032;Shinde&#0032;</span> <span class="category">java</span> <span class="category">leetcode</span> <span class="category">containsduplicate</span> <span class="category">solution</span>
+            <span class="author">Lancelot03</span> <span class="category">programming</span> <span class="category">python</span> <span class="category">codewars</span>
           </div>
         </div>
       </div>
