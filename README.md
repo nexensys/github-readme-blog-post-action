@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, July 8, 2022 at 12:11:48 PM
+> Last updated: Friday, July 8, 2022 at 6:48:27 PM
 
 > Showing 5 of 12 posts.
 
-[![Rot13](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Rot13.svg)](https://dev.to/lancelot03/rot13-2llo)
-[![What was your win this week?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_was_your_win_this_week_.svg)](https://dev.to/devteam/what-was-your-win-this-week-1h13)
-[![Create a show/hide password toggle button in Reactjs.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_a_show_hide_password_toggle_button_in_Reactjs..svg)](https://dev.to/thisisatefe/create-a-showhide-password-toggle-button-in-reactjs-1oi8)
-[![The jacoco-badge-generator GitHub Action is now also available as a CLI tool from PyPI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_jacoco-badge-generator_GitHub_Action_is_now_also_available_as_a_CLI_tool_from_PyPI.svg)](https://dev.to/cicirello/the-jacoco-badge-generator-github-action-is-now-also-available-as-a-cli-tool-from-pypi-3ma0)
-[![PHP IMAP !<3 OAuth ***MUST READ***](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/PHP_IMAP_!_3_OAuth____MUST_READ___.svg)](https://dev.to/francescobianco/php-imap-oauth-k3l)
+[![NextJs SEO Checklist: The Ultimate Roadmap To A Fast, SEO-ready Website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/NextJs_SEO_Checklist__The_Ultimate_Roadmap_To_A_Fast__SEO-ready_Website.svg)](https://dev.to/sashevuchkov/nextjs-seo-checklist-the-ultimate-roadmap-to-a-fast-seo-ready-website-40f6)
+[![days 19 of #100daysofcode](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/days_19_of__100daysofcode.svg)](https://dev.to/carleii_dev/days-19-of-100daysofcode-4m83)
+[![How to create React UIKIT components in TypeScript that extends native HTML Elements](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_React_UIKIT_components_in_TypeScript_that_extends_native_HTML_Elements.svg)](https://dev.to/fabiobiondi/how-to-write-react-uikit-components-in-typescript-that-extends-native-elements-1f2k)
+[![Computer science fundamentals: 3 essential areas for developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Computer_science_fundamentals__3_essential_areas_for_developers.svg)](https://dev.to/educative/computer-science-fundamentals-3-essential-areas-for-developers-5d46)
+[![[Help] What platform did you use in learning?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/[Help]_What_platform_did_you_use_in_learning_.svg)](https://dev.to/callmebobonwa/help-what-platform-did-you-use-in-learning-403k)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, July 8, 2022 at 12:11:52 PM
+> Last updated: Friday, July 8, 2022 at 6:48:29 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, July 8, 2022 at 12:11:56 PM
+> Last updated: Friday, July 8, 2022 at 6:48:31 PM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - apvarun/awesome-bun: ⚡️ A curated list of awesome things related to Bun](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_apvarun_awesome-bun__⚡️_A_curated_list_of_awesome_things_related_to_Bun.svg)](https://github.com/apvarun/awesome-bun)
 [![How to Fix ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Fix_.svg)](
 https://masteringjs.io/tutorials/mongoose/buffering-timed-out-after-10000ms
 )
 [![Push Notifications in Flutter with Native Notify](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Push_Notifications_in_Flutter_with_Native_Notify.svg)](https://blog.openreplay.com/push-notifications-in-flutter-with-native-notify)
 [![Routing in React with React Location](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Routing_in_React_with_React_Location.svg)](https://blog.openreplay.com/routing-in-react-with-react-location)
 [![GitHub - CodeWhiteWeb/Github-Readme-Riddle: GitHub Readme Riddles : Display Random riddles 🤔 on your github profile 🤓](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_CodeWhiteWeb_Github-Readme-Riddle__GitHub_Readme_Riddles___Display_Random_riddles_🤔_on_your_github_profile_🤓.svg)](https://github.com/CodeWhiteWeb/Github-Readme-Riddle)
-[![React Context Module Pattern](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_Context_Module_Pattern.svg)](https://blog.variant.no/react-context-module-pattern-63fcd9aacd0d)
 
 
 <!-- post-list:end -->
