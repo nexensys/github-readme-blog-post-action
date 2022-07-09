@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, July 9, 2022 at 6:15:53 AM
+> Last updated: Saturday, July 9, 2022 at 12:11:13 PM
 
 > Showing 5 of 12 posts.
 
-[![Deploy/Host your website for free](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deploy_Host_your_website_for_free.svg)](https://dev.to/coditdoc/deployhost-your-website-for-free-4ffi)
-[![How To Be More Productive As A Developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Be_More_Productive_As_A_Developer.svg)](https://dev.to/theinfosecguy/how-to-be-more-productive-as-a-developer-3h0e)
-[![Top 10 VS Code Extension For Your Productivity](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_10_VS_Code_Extension_For_Your_Productivity.svg)](https://dev.to/tusharhow/top-10-vs-code-extension-for-your-productivity-21l6)
-[![What is hosting? | The Ultimate Guide to Hosting - All-time-dev](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_hosting____The_Ultimate_Guide_to_Hosting_-_All-time-dev.svg)](https://dev.to/alltimedevlopment/what-is-hosting-the-ultimate-guide-to-hosting-all-time-dev-28jh)
-[![The 10 Best Free Proxies for Web Scraping in 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_10_Best_Free_Proxies_for_Web_Scraping_in_2022.svg)](https://dev.to/princepeterhansen/the-10-best-free-proxies-for-web-scraping-in-2022-1cm)
+[![Why is DevSecOps so important?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_is_DevSecOps_so_important_.svg)](https://dev.to/makendrang/why-is-devsecops-so-important-2doj)
+[![My Experience with Codecademy's "Learn JavaScript" course](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_Experience_with_Codecademy's__Learn_JavaScript__course.svg)](https://dev.to/arupv/my-experience-with-codecademys-learn-javascript-course-52j0)
+[![Introduction to 12 different Headless CMSs for Blogs and Portfolio sites 💗](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_to_12_different_Headless_CMSs_for_Blogs_and_Portfolio_sites_💗.svg)](https://dev.to/hunghvu/introduction-to-12-different-headless-cmss-for-blogs-and-portfolio-sites-1g40)
+[![Benefits and working of DevSecOps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Benefits_and_working_of_DevSecOps.svg)](https://dev.to/makendrang/benefits-and-working-of-devsecops-2fja)
+[![JavaScript challenges_1 🐲](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_challenges_1_🐲.svg)](https://dev.to/mahmoudessam/javascript-challenges1-3on0)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, July 9, 2022 at 6:15:55 AM
+> Last updated: Saturday, July 9, 2022 at 12:11:16 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, July 9, 2022 at 6:15:57 AM
+> Last updated: Saturday, July 9, 2022 at 12:11:19 PM
 
 > Showing 5 of 30 posts.
 
