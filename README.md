@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, July 9, 2022 at 12:11:55 AM
+> Last updated: Saturday, July 9, 2022 at 6:15:53 AM
 
 > Showing 5 of 12 posts.
 
-[![Refactoring](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Refactoring.svg)](https://dev.to/tomek_21/refactoring-3jib)
-[![Open-Source contribution, a beginner's guide (in 2 minutes).](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Open-Source_contribution__a_beginner's_guide_(in_2_minutes)..svg)](https://dev.to/mohsenkamrani/open-source-contribution-a-beginners-guide-in-2-minutes-2g58)
-[![Free and Useful Tools for Android Development and Blogging](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Free_and_Useful_Tools_for_Android_Development_and_Blogging.svg)](https://dev.to/vtsen/free-and-useful-tools-for-android-development-and-blogging-lbn)
-[![Spring Boot Microservices — Monorepo Heroku](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Spring_Boot_Microservices_—_Monorepo_Heroku.svg)](https://dev.to/jjeanjacques10/spring-boot-microservices-monorepo-heroku-3pff)
-[![NextJs SEO Checklist: The Ultimate Roadmap To A Fast, SEO-ready Website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/NextJs_SEO_Checklist__The_Ultimate_Roadmap_To_A_Fast__SEO-ready_Website.svg)](https://dev.to/sashevuchkov/nextjs-seo-checklist-the-ultimate-roadmap-to-a-fast-seo-ready-website-40f6)
+[![Deploy/Host your website for free](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deploy_Host_your_website_for_free.svg)](https://dev.to/coditdoc/deployhost-your-website-for-free-4ffi)
+[![How To Be More Productive As A Developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Be_More_Productive_As_A_Developer.svg)](https://dev.to/theinfosecguy/how-to-be-more-productive-as-a-developer-3h0e)
+[![Top 10 VS Code Extension For Your Productivity](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_10_VS_Code_Extension_For_Your_Productivity.svg)](https://dev.to/tusharhow/top-10-vs-code-extension-for-your-productivity-21l6)
+[![What is hosting? | The Ultimate Guide to Hosting - All-time-dev](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_hosting____The_Ultimate_Guide_to_Hosting_-_All-time-dev.svg)](https://dev.to/alltimedevlopment/what-is-hosting-the-ultimate-guide-to-hosting-all-time-dev-28jh)
+[![The 10 Best Free Proxies for Web Scraping in 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_10_Best_Free_Proxies_for_Web_Scraping_in_2022.svg)](https://dev.to/princepeterhansen/the-10-best-free-proxies-for-web-scraping-in-2022-1cm)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, July 9, 2022 at 12:11:59 AM
+> Last updated: Saturday, July 9, 2022 at 6:15:55 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, July 9, 2022 at 12:12:02 AM
+> Last updated: Saturday, July 9, 2022 at 6:15:57 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - pakastin/maze: Maze generation visualization](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_pakastin_maze__Maze_generation_visualization.svg)](https://github.com/pakastin/maze)
 [![GitHub - apvarun/awesome-bun: ⚡️ A curated list of awesome things related to Bun](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_apvarun_awesome-bun__⚡️_A_curated_list_of_awesome_things_related_to_Bun.svg)](https://github.com/apvarun/awesome-bun)
 [![How to Fix ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Fix_.svg)](
 https://masteringjs.io/tutorials/mongoose/buffering-timed-out-after-10000ms
 )
 [![Push Notifications in Flutter with Native Notify](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Push_Notifications_in_Flutter_with_Native_Notify.svg)](https://blog.openreplay.com/push-notifications-in-flutter-with-native-notify)
 [![Routing in React with React Location](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Routing_in_React_with_React_Location.svg)](https://blog.openreplay.com/routing-in-react-with-react-location)
-[![GitHub - CodeWhiteWeb/Github-Readme-Riddle: GitHub Readme Riddles : Display Random riddles 🤔 on your github profile 🤓](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_CodeWhiteWeb_Github-Readme-Riddle__GitHub_Readme_Riddles___Display_Random_riddles_🤔_on_your_github_profile_🤓.svg)](https://github.com/CodeWhiteWeb/Github-Readme-Riddle)
 
 
 <!-- post-list:end -->
