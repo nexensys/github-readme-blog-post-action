@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, July 8, 2022 at 6:48:27 PM
+> Last updated: Saturday, July 9, 2022 at 12:11:55 AM
 
 > Showing 5 of 12 posts.
 
+[![Refactoring](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Refactoring.svg)](https://dev.to/tomek_21/refactoring-3jib)
+[![Open-Source contribution, a beginner's guide (in 2 minutes).](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Open-Source_contribution__a_beginner's_guide_(in_2_minutes)..svg)](https://dev.to/mohsenkamrani/open-source-contribution-a-beginners-guide-in-2-minutes-2g58)
+[![Free and Useful Tools for Android Development and Blogging](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Free_and_Useful_Tools_for_Android_Development_and_Blogging.svg)](https://dev.to/vtsen/free-and-useful-tools-for-android-development-and-blogging-lbn)
+[![Spring Boot Microservices — Monorepo Heroku](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Spring_Boot_Microservices_—_Monorepo_Heroku.svg)](https://dev.to/jjeanjacques10/spring-boot-microservices-monorepo-heroku-3pff)
 [![NextJs SEO Checklist: The Ultimate Roadmap To A Fast, SEO-ready Website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/NextJs_SEO_Checklist__The_Ultimate_Roadmap_To_A_Fast__SEO-ready_Website.svg)](https://dev.to/sashevuchkov/nextjs-seo-checklist-the-ultimate-roadmap-to-a-fast-seo-ready-website-40f6)
-[![days 19 of #100daysofcode](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/days_19_of__100daysofcode.svg)](https://dev.to/carleii_dev/days-19-of-100daysofcode-4m83)
-[![How to create React UIKIT components in TypeScript that extends native HTML Elements](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_React_UIKIT_components_in_TypeScript_that_extends_native_HTML_Elements.svg)](https://dev.to/fabiobiondi/how-to-write-react-uikit-components-in-typescript-that-extends-native-elements-1f2k)
-[![Computer science fundamentals: 3 essential areas for developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Computer_science_fundamentals__3_essential_areas_for_developers.svg)](https://dev.to/educative/computer-science-fundamentals-3-essential-areas-for-developers-5d46)
-[![[Help] What platform did you use in learning?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/[Help]_What_platform_did_you_use_in_learning_.svg)](https://dev.to/callmebobonwa/help-what-platform-did-you-use-in-learning-403k)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, July 8, 2022 at 6:48:29 PM
+> Last updated: Saturday, July 9, 2022 at 12:11:59 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, July 8, 2022 at 6:48:31 PM
+> Last updated: Saturday, July 9, 2022 at 12:12:02 AM
 
 > Showing 5 of 30 posts.
 
