@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, July 10, 2022 at 12:12:11 AM
+> Last updated: Sunday, July 10, 2022 at 6:16:29 AM
 
 > Showing 5 of 12 posts.
 
-[![Beginner to Advanced Challenge - project 8 & 9](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Beginner_to_Advanced_Challenge_-_project_8___9.svg)](https://dev.to/zt4ff_1/beginner-to-advanced-challenge-project-8-9-4k53)
-[![Cross-Validation Clearly Explained in 5 Graphs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cross-Validation_Clearly_Explained_in_5_Graphs.svg)](https://dev.to/hahahumble/cross-validation-clearly-explained-in-5-graphs-132o)
-[![Learning Resources for TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Learning_Resources_for_TypeScript.svg)](https://dev.to/nickytonline/learning-resources-for-typescript-4g1n)
-[![Add sign-up/sign-in to webflow in 2 minutes!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Add_sign-up_sign-in_to_webflow_in_2_minutes!.svg)](https://dev.to/mohsenkamrani/add-sign-upsign-in-to-webflow-in-2-minutes-2mc0)
-[![Roadmap To Backend Developer in 2022.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Roadmap_To_Backend_Developer_in_2022..svg)](https://dev.to/chibueze/roadmap-to-backend-developer-in-2022-50le)
+[![Laravel eloquent multiple dependent model](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Laravel_eloquent_multiple_dependent_model.svg)](https://dev.to/vamsikrishna71/laravel-eloquent-multiple-dependent-model-13ba)
+[![How to build a mega menu with Tailwind CSS and Flowbite](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_build_a_mega_menu_with_Tailwind_CSS_and_Flowbite.svg)](https://dev.to/themesberg/how-to-build-a-mega-menu-with-tailwind-css-and-flowbite-2nmh)
+[![Create Custom Laravel Validation Rule for Total Uploaded Files Size 🚫✅](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_Custom_Laravel_Validation_Rule_for_Total_Uploaded_Files_Size_🚫✅.svg)](https://dev.to/moose_said/create-custom-laravel-validation-rule-for-total-uploaded-files-size-1odb)
+[![Leetcode Solutions: Sum of Digits in the Minimum Number](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Leetcode_Solutions__Sum_of_Digits_in_the_Minimum_Number.svg)](https://dev.to/salahelhossiny/leetcode-solutions-sum-of-digits-in-the-minimum-number-4bkl)
+[![How to customize Django Admin site by itself ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_customize_Django_Admin_site_by_itself__.svg)](https://dev.to/vijaysoni007/how-to-customize-django-admin-site-by-itself--3nnd)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, July 10, 2022 at 12:12:15 AM
+> Last updated: Sunday, July 10, 2022 at 6:16:32 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, July 10, 2022 at 12:12:17 AM
+> Last updated: Sunday, July 10, 2022 at 6:16:34 AM
 
 > Showing 5 of 30 posts.
 
