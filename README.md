@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, July 9, 2022 at 7:00:47 PM
+> Last updated: Sunday, July 10, 2022 at 12:12:11 AM
 
 > Showing 5 of 12 posts.
 
+[![Beginner to Advanced Challenge - project 8 & 9](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Beginner_to_Advanced_Challenge_-_project_8___9.svg)](https://dev.to/zt4ff_1/beginner-to-advanced-challenge-project-8-9-4k53)
+[![Cross-Validation Clearly Explained in 5 Graphs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cross-Validation_Clearly_Explained_in_5_Graphs.svg)](https://dev.to/hahahumble/cross-validation-clearly-explained-in-5-graphs-132o)
+[![Learning Resources for TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Learning_Resources_for_TypeScript.svg)](https://dev.to/nickytonline/learning-resources-for-typescript-4g1n)
+[![Add sign-up/sign-in to webflow in 2 minutes!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Add_sign-up_sign-in_to_webflow_in_2_minutes!.svg)](https://dev.to/mohsenkamrani/add-sign-upsign-in-to-webflow-in-2-minutes-2mc0)
 [![Roadmap To Backend Developer in 2022.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Roadmap_To_Backend_Developer_in_2022..svg)](https://dev.to/chibueze/roadmap-to-backend-developer-in-2022-50le)
-[![How to HACK Nginx](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_HACK_Nginx.svg)](https://dev.to/cyberstorm200712/how-to-hack-nginx-521l)
-[![How to make a dynamic background for React Native apps loading from API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_make_a_dynamic_background_for_React_Native_apps_loading_from_API.svg)](https://dev.to/bcncodeschool/how-to-make-a-dynamic-background-for-react-native-apps-loading-from-api-5bf8)
-[![What I've been doing in 2022 (so far)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_I've_been_doing_in_2022_(so_far).svg)](https://dev.to/andypiper/what-ive-been-doing-in-2022-so-far-28ma)
-[![How to use Resize Observer with React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_Resize_Observer_with_React.svg)](https://dev.to/murashow/how-to-use-resize-observer-with-react-5ff5)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, July 9, 2022 at 7:00:51 PM
+> Last updated: Sunday, July 10, 2022 at 12:12:15 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, July 9, 2022 at 7:00:53 PM
+> Last updated: Sunday, July 10, 2022 at 12:12:17 AM
 
 > Showing 5 of 30 posts.
 
