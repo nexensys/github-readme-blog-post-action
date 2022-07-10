@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, July 9, 2022 at 12:11:13 PM
+> Last updated: Saturday, July 9, 2022 at 7:00:47 PM
 
 > Showing 5 of 12 posts.
 
-[![Why is DevSecOps so important?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_is_DevSecOps_so_important_.svg)](https://dev.to/makendrang/why-is-devsecops-so-important-2doj)
-[![My Experience with Codecademy's "Learn JavaScript" course](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_Experience_with_Codecademy's__Learn_JavaScript__course.svg)](https://dev.to/arupv/my-experience-with-codecademys-learn-javascript-course-52j0)
-[![Introduction to 12 different Headless CMSs for Blogs and Portfolio sites 💗](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_to_12_different_Headless_CMSs_for_Blogs_and_Portfolio_sites_💗.svg)](https://dev.to/hunghvu/introduction-to-12-different-headless-cmss-for-blogs-and-portfolio-sites-1g40)
-[![Benefits and working of DevSecOps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Benefits_and_working_of_DevSecOps.svg)](https://dev.to/makendrang/benefits-and-working-of-devsecops-2fja)
-[![JavaScript challenges_1 🐲](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_challenges_1_🐲.svg)](https://dev.to/mahmoudessam/javascript-challenges1-3on0)
+[![Roadmap To Backend Developer in 2022.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Roadmap_To_Backend_Developer_in_2022..svg)](https://dev.to/chibueze/roadmap-to-backend-developer-in-2022-50le)
+[![How to HACK Nginx](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_HACK_Nginx.svg)](https://dev.to/cyberstorm200712/how-to-hack-nginx-521l)
+[![How to make a dynamic background for React Native apps loading from API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_make_a_dynamic_background_for_React_Native_apps_loading_from_API.svg)](https://dev.to/bcncodeschool/how-to-make-a-dynamic-background-for-react-native-apps-loading-from-api-5bf8)
+[![What I've been doing in 2022 (so far)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_I've_been_doing_in_2022_(so_far).svg)](https://dev.to/andypiper/what-ive-been-doing-in-2022-so-far-28ma)
+[![How to use Resize Observer with React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_Resize_Observer_with_React.svg)](https://dev.to/murashow/how-to-use-resize-observer-with-react-5ff5)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, July 9, 2022 at 12:11:16 PM
+> Last updated: Saturday, July 9, 2022 at 7:00:51 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, July 9, 2022 at 12:11:19 PM
+> Last updated: Saturday, July 9, 2022 at 7:00:53 PM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - niradler/serverless-auth-go: Simple authentication mechanism base on aws serverless services (Dynmodb, Lambda, ApiGateway)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_niradler_serverless-auth-go__Simple_authentication_mechanism_base_on_aws_serverless_services_(Dynmodb__Lambda__ApiGateway).svg)](https://github.com/niradler/serverless-auth-go)
+[![WebRTC Screen Sharing with Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/WebRTC_Screen_Sharing_with_Javascript.svg)](https://www.metered.ca/blog/webrtc-screen-sharing/)
 [![GitHub - pakastin/maze: Maze generation visualization](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_pakastin_maze__Maze_generation_visualization.svg)](https://github.com/pakastin/maze)
 [![GitHub - apvarun/awesome-bun: ⚡️ A curated list of awesome things related to Bun](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_apvarun_awesome-bun__⚡️_A_curated_list_of_awesome_things_related_to_Bun.svg)](https://github.com/apvarun/awesome-bun)
 [![How to Fix ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Fix_.svg)](
 https://masteringjs.io/tutorials/mongoose/buffering-timed-out-after-10000ms
 )
-[![Push Notifications in Flutter with Native Notify](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Push_Notifications_in_Flutter_with_Native_Notify.svg)](https://blog.openreplay.com/push-notifications-in-flutter-with-native-notify)
-[![Routing in React with React Location](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Routing_in_React_with_React_Location.svg)](https://blog.openreplay.com/routing-in-react-with-react-location)
 
 
 <!-- post-list:end -->
