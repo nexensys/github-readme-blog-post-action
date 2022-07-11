@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, July 11, 2022 at 6:21:31 AM
+> Last updated: Monday, July 11, 2022 at 12:12:46 PM
 
 > Showing 5 of 12 posts.
 
-[![[Basic] Python age calculator](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/[Basic]_Python_age_calculator.svg)](https://dev.to/iamjaydev/basic-python-age-calculator-d0b)
-[![Add sign-in and sign-up to ReactJS application with no back-end code using DoTenX](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Add_sign-in_and_sign-up_to_ReactJS_application_with_no_back-end_code_using_DoTenX.svg)](https://dev.to/mohsenkamrani/add-sign-in-and-sign-up-to-reactjs-application-with-no-back-end-code-using-dotenx-39ng)
-[![Build HR Management System using MongoDB and ToolJet (Part 4: Leave Requests)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_HR_Management_System_using_MongoDB_and_ToolJet_(Part_4__Leave_Requests).svg)](https://dev.to/tooljet/build-hr-management-system-using-mongodb-and-tooljet-part-4-leave-requests-51l4)
-[![Build HR Management System using MongoDB and ToolJet (Part 3: Employees and Requests)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_HR_Management_System_using_MongoDB_and_ToolJet_(Part_3__Employees_and_Requests).svg)](https://dev.to/tooljet/build-hr-management-system-using-mongodb-and-tooljet-part-3-employees-and-requests-4m3e)
-[![Build HR Management System using MongoDB and ToolJet (Part 2: Company Calendar)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_HR_Management_System_using_MongoDB_and_ToolJet_(Part_2__Company_Calendar).svg)](https://dev.to/tooljet/build-hr-management-system-using-mongodb-and-tooljet-part-2-company-calendar-1ddh)
+[![What is AppOps ?.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_AppOps__..svg)](https://dev.to/makendrang/what-is-appops--564o)
+[![Express.js deployment in AWS Lambda](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Express.js_deployment_in_AWS_Lambda.svg)](https://dev.to/arvind644/expressjs-deployment-in-aws-lambda-14ak)
+[![Me Style, not Committee Style](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Me_Style__not_Committee_Style.svg)](https://dev.to/jobber/me-style-not-committee-style-81j)
+[![What would you do if your encrypted credentials and the key got compromised?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_would_you_do_if_your_encrypted_credentials_and_the_key_got_compromised_.svg)](https://dev.to/gokul_gk/what-would-you-do-if-your-encrypted-credentials-and-the-key-got-compromised-27oh)
+[![How to display cart details on Stripe Terminal](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_display_cart_details_on_Stripe_Terminal.svg)](https://dev.to/stripe/how-to-display-cart-details-on-stripe-terminal-jg1)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, July 11, 2022 at 6:21:35 AM
+> Last updated: Monday, July 11, 2022 at 12:12:50 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, July 11, 2022 at 6:21:41 AM
+> Last updated: Monday, July 11, 2022 at 12:12:54 PM
 
 > Showing 5 of 30 posts.
 
+[![OpenReplay July Release (1.7.0)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/OpenReplay_July_Release_(1.7.0).svg)](https://blog.openreplay.com/openreplay-july-release-1-7-0)
 [![Data fetching with Suspense in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Data_fetching_with_Suspense_in_React.svg)](https://blog.openreplay.com/data-fetching-with-suspense-in-react)
 [![Forever Functional: Debouncing and throttling for performance](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Forever_Functional__Debouncing_and_throttling_for_performance.svg)](https://blog.openreplay.com/forever-functional-debouncing-and-throttling-for-performance)
 [![GitHub - niradler/serverless-auth-go: Simple authentication mechanism base on aws serverless services (Dynmodb, Lambda, ApiGateway)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_niradler_serverless-auth-go__Simple_authentication_mechanism_base_on_aws_serverless_services_(Dynmodb__Lambda__ApiGateway).svg)](https://github.com/niradler/serverless-auth-go)
 [![WebRTC Screen Sharing with Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/WebRTC_Screen_Sharing_with_Javascript.svg)](https://www.metered.ca/blog/webrtc-screen-sharing/)
-[![GitHub - pakastin/maze: Maze generation visualization](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_pakastin_maze__Maze_generation_visualization.svg)](https://github.com/pakastin/maze)
 
 
 <!-- post-list:end -->

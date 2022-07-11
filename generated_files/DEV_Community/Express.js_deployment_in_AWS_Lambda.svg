@@ -78,11 +78,11 @@
       <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
         <div class="image" />
 <div class="text">
-          <div class="title">Add&#0032;sign&#0045;in&#0032;and&#0032;sign&#0045;up&#0032;to&#0032;ReactJS&#0032;application&#0032;with&#0032;no&#0032;back&#0045;end&#0032;code&#0032;using&#0032;DoTenX</div>
-          <div class="description">In&#0032;this&#0032;video&#0044;&#0032;I&#0032;show&#0032;you&#0032;how&#0032;to&#0032;add&#0032;sign&#0045;up&#0032;and&#0032;sign&#0045;in&#0032;to&#0032;your&#0032;ReactJS&#0032;application&#0032;without&#0032;a&#0032;single&#0046;&#0046;&#0046;</div>
+          <div class="title">Express&#0046;js&#0032;deployment&#0032;in&#0032;AWS&#0032;Lambda</div>
+          <div class="description">We&#0032;are&#0032;using&#0032;this&#0032;express&#0032;code&#0032;snippet&#0058;&#0032;&#0032;&#0032;&#0032;&#0039;use&#0032;strict&#0039;&#0032;&#0032;const&#0032;express&#0032;&#0061;&#0032;require&#0040;&#0039;express&#0039;&#0041;&#0032;const&#0032;app&#0046;&#0046;&#0046;</div>
           <div class="date">7&#0047;11&#0047;22</div>
           <div class="data">
-            <span class="author">mohsen</span> <span class="category">react</span> <span class="category">authentication</span> <span class="category">nocode</span> <span class="category">dotenx</span>
+            <span class="author">Arvind</span> 
           </div>
         </div>
       </div>
