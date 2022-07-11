@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, July 10, 2022 at 6:58:04 PM
+> Last updated: Monday, July 11, 2022 at 12:13:27 AM
 
 > Showing 5 of 12 posts.
 
-[![[PT-BR] Tirando faixa de audio OBS Studio nativamente (Twitch VOD Track)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/[PT-BR]_Tirando_faixa_de_audio_OBS_Studio_nativamente_(Twitch_VOD_Track).svg)](https://dev.to/neiesc/pt-br-tirando-faixa-de-audio-obs-studio-nativamente-twitch-vod-track-2k1m)
-[![AbcDB - Dead Simple Database for your JAMStack](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AbcDB_-_Dead_Simple_Database_for_your_JAMStack.svg)](https://dev.to/obedtandadjaja/abcdb-dead-simple-database-for-your-jamstack-flb)
-[![How to create Google Maps clone with Next.js, Prisma, and Postgres.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_Google_Maps_clone_with_Next.js__Prisma__and_Postgres..svg)](https://dev.to/isaacdyor/how-to-create-google-maps-clone-with-nextjs-prisma-and-postgres-305h)
-[![Quickly create K3s cluster and add K3s nodes with GUI Tool using AutoK3s (Installation guide in WSL)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Quickly_create_K3s_cluster_and_add_K3s_nodes_with_GUI_Tool_using_AutoK3s_(Installation_guide_in_WSL).svg)](https://dev.to/msh2050/quickly-create-k3s-cluster-and-add-k3s-nodes-with-gui-tool-using-autok3s-installation-guide-in-wsl-3e5d)
-[![¿QUÉ ES PAIR-PROGRAMMING?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/¿QUÉ_ES_PAIR-PROGRAMMING_.svg)](https://dev.to/martinacostadev/que-es-pair-programming-5a8k)
+[![Using Goroutines is Slower??](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_Goroutines_is_Slower__.svg)](https://dev.to/jpoly1219/using-goroutines-is-slower-3b53)
+[![Consistency between Cache and Database, Part 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Consistency_between_Cache_and_Database__Part_2.svg)](https://dev.to/lazypro/consistency-between-cache-and-database-part-2-2k41)
+[![😍 🔥 Habits you should change if you wants to develop your skill as a developer 😍 🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/😍_🔥_Habits_you_should_change_if_you_wants_to_develop_your_skill_as_a_developer_😍_🔥.svg)](https://dev.to/devsimc/habits-you-should-change-if-you-wants-to-develop-your-skill-as-a-developer-5468)
+[![Aligning technology and business goals: 5 lessons I learned after being on both sides](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Aligning_technology_and_business_goals__5_lessons_I_learned_after_being_on_both_sides.svg)](https://dev.to/yhwang95/aligning-technology-and-business-goals-5-lessons-i-learned-after-being-on-both-sides-38dd)
+[![Padrão de projeto - Iterator](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Padrão_de_projeto_-_Iterator.svg)](https://dev.to/feministech/padrao-de-projeto-iterator-4a4j)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, July 10, 2022 at 6:58:08 PM
+> Last updated: Monday, July 11, 2022 at 12:13:30 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, July 10, 2022 at 6:58:11 PM
+> Last updated: Monday, July 11, 2022 at 12:13:34 AM
 
 > Showing 5 of 30 posts.
 
