@@ -78,11 +78,11 @@
       <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
         <div class="image" />
 <div class="text">
-          <div class="title">Docker&#0032;series&#0032;&#0040;Part&#0032;11&#0041;&#0058;&#0032;Container&#0032;lifetime&#0032;&#0038;&#0032;persistent&#0032;data</div>
-          <div class="description">Persistent&#0032;data&#0032;means&#0032;information&#0032;that&#0032;is&#0032;infrequently&#0032;accessed&#0032;and&#0032;not&#0032;likely&#0032;to&#0032;be&#0032;modified&#0046;&#0032;&#0032;SO&#0044;&#0046;&#0046;&#0046;</div>
+          <div class="title">How&#0032;to&#0032;create&#0032;Google&#0032;Maps&#0032;clone&#0032;with&#0032;Next&#0046;js&#0044;&#0032;Prisma&#0044;&#0032;and&#0032;Postgres&#0046;</div>
+          <div class="description">This&#0032;article&#0032;is&#0032;a&#0032;documentation&#0032;of&#0032;my&#0032;process&#0032;of&#0032;implementing&#0032;a&#0032;map&#0032;on&#0032;my&#0032;website&#0032;that&#0032;displays&#0046;&#0046;&#0046;</div>
           <div class="date">7&#0047;10&#0047;22</div>
           <div class="data">
-            <span class="author">Md&#0032;Shahriyar&#0032;Al&#0032;Mustakim&#0032;Mitul</span> <span class="category">docker</span>
+            <span class="author">isaacdyor</span> <span class="category">webdev</span> <span class="category">javascript</span> <span class="category">react</span> <span class="category">postgres</span>
           </div>
         </div>
       </div>

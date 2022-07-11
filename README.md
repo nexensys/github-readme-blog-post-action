@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, July 10, 2022 at 12:11:43 PM
+> Last updated: Sunday, July 10, 2022 at 6:58:04 PM
 
 > Showing 5 of 12 posts.
 
-[![James Webb Telescope](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/James_Webb_Telescope.svg)](https://dev.to/jatinkrr/james-webb-telescope-4a4c)
-[![Why You Should Join The Tech Twitter Community](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_You_Should_Join_The_Tech_Twitter_Community.svg)](https://dev.to/wulfi/why-you-should-join-the-tech-twitter-community-10f2)
-[![Docker series (Part 11): Container lifetime & persistent data](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Docker_series_(Part_11)__Container_lifetime___persistent_data.svg)](https://dev.to/mitul3737/docker-series-part-11-container-lifetime-persistent-data-162i)
-[![2. Getting started with The Heroku CLI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/2._Getting_started_with_The_Heroku_CLI.svg)](https://dev.to/yvad60/2-getting-started-with-the-heroku-cli-nn4)
-[![Weekly Coding Questions W-1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Weekly_Coding_Questions_W-1.svg)](https://dev.to/thearcade01/weekly-coding-questions-w-1-2llg)
+[![[PT-BR] Tirando faixa de audio OBS Studio nativamente (Twitch VOD Track)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/[PT-BR]_Tirando_faixa_de_audio_OBS_Studio_nativamente_(Twitch_VOD_Track).svg)](https://dev.to/neiesc/pt-br-tirando-faixa-de-audio-obs-studio-nativamente-twitch-vod-track-2k1m)
+[![AbcDB - Dead Simple Database for your JAMStack](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AbcDB_-_Dead_Simple_Database_for_your_JAMStack.svg)](https://dev.to/obedtandadjaja/abcdb-dead-simple-database-for-your-jamstack-flb)
+[![How to create Google Maps clone with Next.js, Prisma, and Postgres.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_Google_Maps_clone_with_Next.js__Prisma__and_Postgres..svg)](https://dev.to/isaacdyor/how-to-create-google-maps-clone-with-nextjs-prisma-and-postgres-305h)
+[![Quickly create K3s cluster and add K3s nodes with GUI Tool using AutoK3s (Installation guide in WSL)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Quickly_create_K3s_cluster_and_add_K3s_nodes_with_GUI_Tool_using_AutoK3s_(Installation_guide_in_WSL).svg)](https://dev.to/msh2050/quickly-create-k3s-cluster-and-add-k3s-nodes-with-gui-tool-using-autok3s-installation-guide-in-wsl-3e5d)
+[![¿QUÉ ES PAIR-PROGRAMMING?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/¿QUÉ_ES_PAIR-PROGRAMMING_.svg)](https://dev.to/martinacostadev/que-es-pair-programming-5a8k)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, July 10, 2022 at 12:11:46 PM
+> Last updated: Sunday, July 10, 2022 at 6:58:08 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, July 10, 2022 at 12:11:48 PM
+> Last updated: Sunday, July 10, 2022 at 6:58:11 PM
 
 > Showing 5 of 30 posts.
 
+[![Data fetching with Suspense in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Data_fetching_with_Suspense_in_React.svg)](https://blog.openreplay.com/data-fetching-with-suspense-in-react)
+[![Forever Functional: Debouncing and throttling for performance](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Forever_Functional__Debouncing_and_throttling_for_performance.svg)](https://blog.openreplay.com/forever-functional-debouncing-and-throttling-for-performance)
 [![GitHub - niradler/serverless-auth-go: Simple authentication mechanism base on aws serverless services (Dynmodb, Lambda, ApiGateway)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_niradler_serverless-auth-go__Simple_authentication_mechanism_base_on_aws_serverless_services_(Dynmodb__Lambda__ApiGateway).svg)](https://github.com/niradler/serverless-auth-go)
 [![WebRTC Screen Sharing with Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/WebRTC_Screen_Sharing_with_Javascript.svg)](https://www.metered.ca/blog/webrtc-screen-sharing/)
 [![GitHub - pakastin/maze: Maze generation visualization](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_pakastin_maze__Maze_generation_visualization.svg)](https://github.com/pakastin/maze)
-[![GitHub - apvarun/awesome-bun: ⚡️ A curated list of awesome things related to Bun](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_apvarun_awesome-bun__⚡️_A_curated_list_of_awesome_things_related_to_Bun.svg)](https://github.com/apvarun/awesome-bun)
-[![How to Fix ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Fix_.svg)](
-https://masteringjs.io/tutorials/mongoose/buffering-timed-out-after-10000ms
-)
 
 
 <!-- post-list:end -->
