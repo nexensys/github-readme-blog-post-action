@@ -78,11 +78,11 @@
       <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
         <div class="image" />
 <div class="text">
-          <div class="title">Using&#0032;Goroutines&#0032;is&#0032;Slower&#0063;&#0063;</div>
-          <div class="description">Ah&#0044;&#0032;goroutines&#0046;&#0032;One&#0032;of&#0032;the&#0032;most&#0032;defining&#0032;features&#0032;of&#0032;the&#0032;Go&#0032;programming&#0032;language&#0046;&#0032;Once&#0032;you&#0032;understand&#0046;&#0046;&#0046;</div>
+          <div class="title">&#0091;Basic&#0093;&#0032;Python&#0032;age&#0032;calculator</div>
+          <div class="description">🙋‍♂️&#0032;Hey&#0032;there&#0033;&#0032;I&#0032;hope&#0032;you&#0032;are&#0032;doing&#0032;well&#0046;&#0032;&#0032;Here&#0044;&#0032;I&#0039;m&#0032;sharing&#0032;the&#0032;knowledge&#0032;I&#0032;gained&#0032;from&#0032;creating&#0046;&#0046;&#0046;</div>
           <div class="date">7&#0047;11&#0047;22</div>
           <div class="data">
-            <span class="author">Jacob&#0032;Kim</span> <span class="category">go</span> <span class="category">beginners</span> <span class="category">programming</span> <span class="category">codenewbie</span>
+            <span class="author">iamjaydev</span> <span class="category">python</span> <span class="category">beginners</span>
           </div>
         </div>
       </div>

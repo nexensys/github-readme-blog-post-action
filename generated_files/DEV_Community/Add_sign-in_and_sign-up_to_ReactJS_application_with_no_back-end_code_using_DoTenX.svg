@@ -78,11 +78,11 @@
       <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
         <div class="image" />
 <div class="text">
-          <div class="title">Consistency&#0032;between&#0032;Cache&#0032;and&#0032;Database&#0044;&#0032;Part&#0032;2</div>
-          <div class="description">Part&#0032;1&#0058;&#0032;Read&#0032;Aside&#0032;Caching&#0032;&#0032;Part&#0032;2&#0058;&#0032;Enhanced&#0032;Approaches&#0032;&#0032;&#0032;&#0032;This&#0032;is&#0032;the&#0032;last&#0032;article&#0032;in&#0032;the&#0032;series&#0046;&#0046;&#0046;&#0046;</div>
+          <div class="title">Add&#0032;sign&#0045;in&#0032;and&#0032;sign&#0045;up&#0032;to&#0032;ReactJS&#0032;application&#0032;with&#0032;no&#0032;back&#0045;end&#0032;code&#0032;using&#0032;DoTenX</div>
+          <div class="description">In&#0032;this&#0032;video&#0044;&#0032;I&#0032;show&#0032;you&#0032;how&#0032;to&#0032;add&#0032;sign&#0045;up&#0032;and&#0032;sign&#0045;in&#0032;to&#0032;your&#0032;ReactJS&#0032;application&#0032;without&#0032;a&#0032;single&#0046;&#0046;&#0046;</div>
           <div class="date">7&#0047;11&#0047;22</div>
           <div class="data">
-            <span class="author">ChunTing&#0032;Wu</span> <span class="category">database</span> <span class="category">architecture</span> <span class="category">tutorial</span> <span class="category">programming</span>
+            <span class="author">mohsen</span> <span class="category">react</span> <span class="category">authentication</span> <span class="category">nocode</span> <span class="category">dotenx</span>
           </div>
         </div>
       </div>
