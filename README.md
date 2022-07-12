@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, July 12, 2022 at 6:22:31 AM
+> Last updated: Tuesday, July 12, 2022 at 12:12:19 PM
 
 > Showing 5 of 12 posts.
 
-[![Demystifying JavaScript - Common Operators](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Demystifying_JavaScript_-_Common_Operators.svg)](https://dev.to/prateek951/demystifying-javascript-common-operators-4ehg)
-[![Demystifying JavaScript - Variables & Constants](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Demystifying_JavaScript_-_Variables___Constants.svg)](https://dev.to/prateek951/demystifying-javascript-5-variables-constants-4im6)
-[![Demystifying JavaScript - Host Environment in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Demystifying_JavaScript_-_Host_Environment_in_JavaScript.svg)](https://dev.to/prateek951/demystifying-javascript-host-environment-in-javascript-12ie)
-[![Demystifying JavaScript - Dynamic,Interpreted & Weakly Typed Nature](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Demystifying_JavaScript_-_Dynamic_Interpreted___Weakly_Typed_Nature.svg)](https://dev.to/prateek951/demystifying-javascript-dynamicinterpreted-weakly-typed-nature-220b)
-[![Demystifying JavaScript -How JavaScript Code is Executed in Browser](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Demystifying_JavaScript_-How_JavaScript_Code_is_Executed_in_Browser.svg)](https://dev.to/prateek951/demystifying-javascript-how-javascript-code-is-executed-in-browser-3577)
+[![Flutter Vs React in 2020](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Flutter_Vs_React_in_2020.svg)](https://dev.to/hemant/flutter-vs-react-58m0)
+[![Truthy and Falsy Values in Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Truthy_and_Falsy_Values_in_Javascript.svg)](https://dev.to/smpnjn/truthy-and-falsy-values-in-javascript-3261)
+[![How does the Javascript logical OR (||) operator work?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_does_the_Javascript_logical_OR_(__)_operator_work_.svg)](https://dev.to/smpnjn/how-does-the-javascript-logical-or-operator-work-acm)
+[![Top 7 Featured DEV Posts from the Past Week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_7_Featured_DEV_Posts_from_the_Past_Week.svg)](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-2nn2)
+[![What is a Software Engineer - and How to Become One!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_a_Software_Engineer_-_and_How_to_Become_One!.svg)](https://dev.to/surajondev/what-is-a-software-engineer-and-how-to-become-one-h9g)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, July 12, 2022 at 6:22:34 AM
+> Last updated: Tuesday, July 12, 2022 at 12:12:23 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,12 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, July 12, 2022 at 6:22:39 AM
+> Last updated: Tuesday, July 12, 2022 at 12:12:29 PM
 
 > Showing 5 of 30 posts.
 
+[![Recognizing faces with Cloudinary and Next](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Recognizing_faces_with_Cloudinary_and_Next.svg)](https://blog.openreplay.com/recognizing-faces-with-cloudinary-and-next)
+[![Start with Ultra, the new React web framework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Start_with_Ultra__the_new_React_web_framework.svg)](https://blog.openreplay.com/start-with-ultra-the-new-react-web-framework)
 [![How to Easily Reuse React Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Easily_Reuse_React_Components.svg)](https://javascript.plainenglish.io/how-to-easily-reuse-react-components-e9c8a9466038)
 [![veinmind-tools/README.en.md at master · chaitin/veinmind-tools](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/veinmind-tools_README.en.md_at_master_·_chaitin_veinmind-tools.svg)](https://github.com/chaitin/veinmind-tools)
 [![
@@ -54,8 +56,6 @@ Unity Game Development
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Unity_Game_Development_.svg)](
 https://www.quytech.com/game-development/unity-game-development.php
 )
-[![API with NestJS #67. Migrating to TypeORM 0.3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__67._Migrating_to_TypeORM_0.3.svg)](http://wanago.io/2022/07/11/api-with-nestjs-migrating-to-typeorm-0-3/)
-[![OpenReplay July Release (1.7.0)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/OpenReplay_July_Release_(1.7.0).svg)](https://blog.openreplay.com/openreplay-july-release-1-7-0)
 
 
 <!-- post-list:end -->
