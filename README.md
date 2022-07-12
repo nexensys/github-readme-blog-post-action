@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, July 11, 2022 at 12:12:46 PM
+> Last updated: Monday, July 11, 2022 at 6:58:48 PM
 
 > Showing 5 of 12 posts.
 
-[![What is AppOps ?.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_AppOps__..svg)](https://dev.to/makendrang/what-is-appops--564o)
-[![Express.js deployment in AWS Lambda](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Express.js_deployment_in_AWS_Lambda.svg)](https://dev.to/arvind644/expressjs-deployment-in-aws-lambda-14ak)
-[![Me Style, not Committee Style](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Me_Style__not_Committee_Style.svg)](https://dev.to/jobber/me-style-not-committee-style-81j)
-[![What would you do if your encrypted credentials and the key got compromised?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_would_you_do_if_your_encrypted_credentials_and_the_key_got_compromised_.svg)](https://dev.to/gokul_gk/what-would-you-do-if-your-encrypted-credentials-and-the-key-got-compromised-27oh)
-[![How to display cart details on Stripe Terminal](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_display_cart_details_on_Stripe_Terminal.svg)](https://dev.to/stripe/how-to-display-cart-details-on-stripe-terminal-jg1)
+[![Tabnine! a GitHub Copilot's Serious competitor!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tabnine!_a_GitHub_Copilot's_Serious_competitor!.svg)](https://dev.to/hoomantalakian/tabnine-a-github-copilots-serious-competitor-1d2h)
+[![JavaScript Visualizer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_Visualizer.svg)](https://dev.to/hoomantalakian/javascript-visualizer-3j3)
+[![5+ Amazing CSS Box-shadow Generators to improve your Design](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5+_Amazing_CSS_Box-shadow_Generators_to_improve_your_Design.svg)](https://dev.to/codewithayan10/5-amazing-css-box-shadow-generators-to-improve-your-design-2k4k)
+[![5 Things to Consider Before Starting a Career in Cybersecurity](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Things_to_Consider_Before_Starting_a_Career_in_Cybersecurity.svg)](https://dev.to/opedroaravena/5-things-to-consider-before-starting-a-career-in-cybersecurity-1ogg)
+[![How to Build/Publish your V3 chrome extension!✨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Build_Publish_your_V3_chrome_extension!✨.svg)](https://dev.to/adhamniazy/how-to-buildpublish-your-v3-chrome-extension-23no)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, July 11, 2022 at 12:12:50 PM
+> Last updated: Monday, July 11, 2022 at 6:58:52 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, July 11, 2022 at 12:12:54 PM
+> Last updated: Monday, July 11, 2022 at 6:58:57 PM
 
 > Showing 5 of 30 posts.
 
+[![API with NestJS #67. Migrating to TypeORM 0.3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__67._Migrating_to_TypeORM_0.3.svg)](http://wanago.io/2022/07/11/api-with-nestjs-migrating-to-typeorm-0-3/)
+[![Comparing React Component Libraries](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Comparing_React_Component_Libraries.svg)](
+https://www.honeybadger.io/blog/react-component-libraries/
+)
 [![OpenReplay July Release (1.7.0)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/OpenReplay_July_Release_(1.7.0).svg)](https://blog.openreplay.com/openreplay-july-release-1-7-0)
 [![Data fetching with Suspense in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Data_fetching_with_Suspense_in_React.svg)](https://blog.openreplay.com/data-fetching-with-suspense-in-react)
 [![Forever Functional: Debouncing and throttling for performance](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Forever_Functional__Debouncing_and_throttling_for_performance.svg)](https://blog.openreplay.com/forever-functional-debouncing-and-throttling-for-performance)
-[![GitHub - niradler/serverless-auth-go: Simple authentication mechanism base on aws serverless services (Dynmodb, Lambda, ApiGateway)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_niradler_serverless-auth-go__Simple_authentication_mechanism_base_on_aws_serverless_services_(Dynmodb__Lambda__ApiGateway).svg)](https://github.com/niradler/serverless-auth-go)
-[![WebRTC Screen Sharing with Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/WebRTC_Screen_Sharing_with_Javascript.svg)](https://www.metered.ca/blog/webrtc-screen-sharing/)
 
 
 <!-- post-list:end -->
