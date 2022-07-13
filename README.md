@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, July 13, 2022 at 6:18:22 AM
+> Last updated: Wednesday, July 13, 2022 at 12:11:58 PM
 
 > Showing 5 of 12 posts.
 
-[![What's your current tech stack ? 🛠](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What's_your_current_tech_stack___🛠.svg)](https://dev.to/heydrdev/whats-your-current-tech-stack--512)
-[![Build a Multi-Account Management Environment with AWS Control Tower](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_a_Multi-Account_Management_Environment_with_AWS_Control_Tower.svg)](https://dev.to/aws-heroes/build-a-multi-account-management-environment-with-aws-control-tower-4om1)
-[![Understanding Previous Block Hash and Timestamp Components in a Blockchain ⛓️](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_Previous_Block_Hash_and_Timestamp_Components_in_a_Blockchain_⛓️.svg)](https://dev.to/prateek951/understanding-previous-block-hash-and-timestamp-components-in-a-blockchain-524b)
-[![Components of a Blockchain and SHA-256 discussed](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Components_of_a_Blockchain_and_SHA-256_discussed.svg)](https://dev.to/prateek951/components-of-a-blockchain-and-sha-256-discussed-3kbf)
-[![✨Top premium courses to learn React.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/✨Top_premium_courses_to_learn_React.js.svg)](https://dev.to/prateek951/top-premium-courses-to-learn-reactjs-343i)
+[![Targeting Node, Bun and Deno With F#](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Targeting_Node__Bun_and_Deno_With_F_.svg)](https://dev.to/tunaxor/targeting-node-bun-and-deno-with-f-1fb5)
+[![Welcome Thread - v182](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Welcome_Thread_-_v182.svg)](https://dev.to/thepracticaldev/welcome-thread-v182-1jba)
+[![How to Make a Charity Website Using Html CSS JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Make_a_Charity_Website_Using_Html_CSS_JavaScript.svg)](https://dev.to/codewithsadee/how-to-make-a-charity-website-using-html-css-javascript-5hh9)
+[![Amazon Elastic Compute Cloud(EC2)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Amazon_Elastic_Compute_Cloud(EC2).svg)](https://dev.to/shyam1409/amazon-elastic-compute-cloudec2-2c0j)
+[![How to easily call JavaScript modules from PHP?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_easily_call_JavaScript_modules_from_PHP_.svg)](https://dev.to/dobron/how-to-easily-call-javascript-modules-from-php-5cl0)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, July 13, 2022 at 6:18:25 AM
+> Last updated: Wednesday, July 13, 2022 at 12:12:02 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, July 13, 2022 at 6:18:31 AM
+> Last updated: Wednesday, July 13, 2022 at 12:12:08 PM
 
 > Showing 5 of 30 posts.
 
+[![Vue v-if and v-else](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Vue_v-if_and_v-else.svg)](
+https://masteringjs.io/tutorials/vue/v-if-else
+)
 [![Build a Notes App with Next.js and Webiny Headless CMS | Webiny](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_a_Notes_App_with_Next.js_and_Webiny_Headless_CMS___Webiny.svg)](
 https://www.webiny.com/blog/build-notes-app-nextjs-webiny-headless-cms
 )
 [![How to Secure GatsbyJS Sites with Auth0 for Authentication](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Secure_GatsbyJS_Sites_with_Auth0_for_Authentication.svg)](https://auth0.com/blog/securing-gatsby-with-auth0/)
 [![Recognizing faces with Cloudinary and Next](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Recognizing_faces_with_Cloudinary_and_Next.svg)](https://blog.openreplay.com/recognizing-faces-with-cloudinary-and-next)
 [![Start with Ultra, the new React web framework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Start_with_Ultra__the_new_React_web_framework.svg)](https://blog.openreplay.com/start-with-ultra-the-new-react-web-framework)
-[![How to Easily Reuse React Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Easily_Reuse_React_Components.svg)](https://javascript.plainenglish.io/how-to-easily-reuse-react-components-e9c8a9466038)
 
 
 <!-- post-list:end -->
