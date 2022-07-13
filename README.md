@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, July 12, 2022 at 6:54:37 PM
+> Last updated: Wednesday, July 13, 2022 at 12:14:01 AM
 
 > Showing 5 of 12 posts.
 
-[![Laravel delete actions simplified](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Laravel_delete_actions_simplified.svg)](https://dev.to/jackmiras/laravel-delete-actions-simplified-4h8b)
-[![freash look of ‘BUN’](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/freash_look_of_‘BUN’.svg)](https://dev.to/isaacxu18/a-5g67)
-[![Build a real-time document contribution list in NextJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_a_real-time_document_contribution_list_in_NextJS.svg)](https://dev.to/hackmamba/build-a-real-time-document-contribution-list-in-nextjs-1k93)
-[![Short-lived or Long-lived Flags? Explaining Feature Flag lifespans](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Short-lived_or_Long-lived_Flags__Explaining_Feature_Flag_lifespans.svg)](https://dev.to/daveyhert/short-lived-or-long-lived-flags-explaining-feature-flag-lifespans-3l8l)
-[![The Venture Capital Landscape in Blockchain & Crypto: A Thesis](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Venture_Capital_Landscape_in_Blockchain___Crypto__A_Thesis.svg)](https://dev.to/manbir/the-venture-capital-landscape-in-blockchain-crypto-a-thesis-5g8d)
+[![Android App Bundle (aab)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Android_App_Bundle_(aab).svg)](https://dev.to/teamliapp/android-app-bundle-aab-42ha)
+[![DevOps 101: Packaging Software](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/DevOps_101__Packaging_Software.svg)](https://dev.to/bentorvo/devops-101-packaging-software-2l6p)
+[![What are string_views and why should we use them?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_are_string_views_and_why_should_we_use_them_.svg)](https://dev.to/sandordargo/what-are-stringviews-and-why-should-we-use-them-dn9)
+[![20+ Websites That Pay You to Write Technical Articles in 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/20+_Websites_That_Pay_You_to_Write_Technical_Articles_in_2022.svg)](https://dev.to/rembertdesigns/20-websites-that-pay-you-to-write-technical-articles-in-2022-11hd)
+[![How you can easily Code For 8+ Hours Without Feeling Tired](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_you_can_easily_Code_For_8+_Hours_Without_Feeling_Tired.svg)](https://dev.to/devsimc/how-you-can-easily-code-for-8-hours-without-feeling-tired-35k)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, July 12, 2022 at 6:54:40 PM
+> Last updated: Wednesday, July 13, 2022 at 12:14:05 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, July 12, 2022 at 6:54:46 PM
+> Last updated: Wednesday, July 13, 2022 at 12:14:09 AM
 
 > Showing 5 of 30 posts.
 

@@ -78,11 +78,11 @@
       <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
         <div class="image" />
 <div class="text">
-          <div class="title">freash&#0032;look&#0032;of&#0032;‘BUN’</div>
-          <div class="description">A&#0032;few&#0032;days&#0032;back&#0044;&#0032;I&#0032;found&#0032;a&#0032;new&#0032;javasrcipt&#0032;Runtime&#0032;‘BUN’&#0046;It&#0032;is&#0032;very&#0032;promising&#0044;&#0032;so&#0032;I’m&#0032;going&#0032;to&#0032;make&#0032;a&#0046;&#0046;&#0046;</div>
+          <div class="title">What&#0032;are&#0032;string&#0095;views&#0032;and&#0032;why&#0032;should&#0032;we&#0032;use&#0032;them&#0063;</div>
+          <div class="description">std&#0058;&#0058;string&#0095;view&#0032;has&#0032;been&#0032;introduced&#0032;by&#0032;C&#0043;&#0043;17&#0032;and&#0032;its&#0032;purpose&#0032;is&#0032;to&#0032;provide&#0032;read&#0045;only&#0032;access&#0032;to&#0046;&#0046;&#0046;</div>
           <div class="date">7&#0047;13&#0047;22</div>
           <div class="data">
-            <span class="author">Isaac&#0032;xu</span> <span class="category">javascript</span> <span class="category">programming</span> <span class="category">webdev</span> <span class="category">react</span>
+            <span class="author">Sandor&#0032;Dargo</span> <span class="category">cpp</span> <span class="category">stringview</span> <span class="category">bestpractoces</span> <span class="category">string</span>
           </div>
         </div>
       </div>
