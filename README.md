@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, July 13, 2022 at 12:14:01 AM
+> Last updated: Wednesday, July 13, 2022 at 6:18:22 AM
 
 > Showing 5 of 12 posts.
 
-[![Android App Bundle (aab)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Android_App_Bundle_(aab).svg)](https://dev.to/teamliapp/android-app-bundle-aab-42ha)
-[![DevOps 101: Packaging Software](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/DevOps_101__Packaging_Software.svg)](https://dev.to/bentorvo/devops-101-packaging-software-2l6p)
-[![What are string_views and why should we use them?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_are_string_views_and_why_should_we_use_them_.svg)](https://dev.to/sandordargo/what-are-stringviews-and-why-should-we-use-them-dn9)
-[![20+ Websites That Pay You to Write Technical Articles in 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/20+_Websites_That_Pay_You_to_Write_Technical_Articles_in_2022.svg)](https://dev.to/rembertdesigns/20-websites-that-pay-you-to-write-technical-articles-in-2022-11hd)
-[![How you can easily Code For 8+ Hours Without Feeling Tired](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_you_can_easily_Code_For_8+_Hours_Without_Feeling_Tired.svg)](https://dev.to/devsimc/how-you-can-easily-code-for-8-hours-without-feeling-tired-35k)
+[![What's your current tech stack ? 🛠](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What's_your_current_tech_stack___🛠.svg)](https://dev.to/heydrdev/whats-your-current-tech-stack--512)
+[![Build a Multi-Account Management Environment with AWS Control Tower](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_a_Multi-Account_Management_Environment_with_AWS_Control_Tower.svg)](https://dev.to/aws-heroes/build-a-multi-account-management-environment-with-aws-control-tower-4om1)
+[![Understanding Previous Block Hash and Timestamp Components in a Blockchain ⛓️](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_Previous_Block_Hash_and_Timestamp_Components_in_a_Blockchain_⛓️.svg)](https://dev.to/prateek951/understanding-previous-block-hash-and-timestamp-components-in-a-blockchain-524b)
+[![Components of a Blockchain and SHA-256 discussed](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Components_of_a_Blockchain_and_SHA-256_discussed.svg)](https://dev.to/prateek951/components-of-a-blockchain-and-sha-256-discussed-3kbf)
+[![✨Top premium courses to learn React.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/✨Top_premium_courses_to_learn_React.js.svg)](https://dev.to/prateek951/top-premium-courses-to-learn-reactjs-343i)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, July 13, 2022 at 12:14:05 AM
+> Last updated: Wednesday, July 13, 2022 at 6:18:25 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, July 13, 2022 at 12:14:09 AM
+> Last updated: Wednesday, July 13, 2022 at 6:18:31 AM
 
 > Showing 5 of 30 posts.
 
+[![Build a Notes App with Next.js and Webiny Headless CMS | Webiny](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_a_Notes_App_with_Next.js_and_Webiny_Headless_CMS___Webiny.svg)](
+https://www.webiny.com/blog/build-notes-app-nextjs-webiny-headless-cms
+)
+[![How to Secure GatsbyJS Sites with Auth0 for Authentication](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Secure_GatsbyJS_Sites_with_Auth0_for_Authentication.svg)](https://auth0.com/blog/securing-gatsby-with-auth0/)
 [![Recognizing faces with Cloudinary and Next](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Recognizing_faces_with_Cloudinary_and_Next.svg)](https://blog.openreplay.com/recognizing-faces-with-cloudinary-and-next)
 [![Start with Ultra, the new React web framework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Start_with_Ultra__the_new_React_web_framework.svg)](https://blog.openreplay.com/start-with-ultra-the-new-react-web-framework)
 [![How to Easily Reuse React Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Easily_Reuse_React_Components.svg)](https://javascript.plainenglish.io/how-to-easily-reuse-react-components-e9c8a9466038)
-[![veinmind-tools/README.en.md at master · chaitin/veinmind-tools](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/veinmind-tools_README.en.md_at_master_·_chaitin_veinmind-tools.svg)](https://github.com/chaitin/veinmind-tools)
-[![
-Unity Game Development
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Unity_Game_Development_.svg)](
-https://www.quytech.com/game-development/unity-game-development.php
-)
 
 
 <!-- post-list:end -->
