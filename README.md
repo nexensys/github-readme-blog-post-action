@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, July 12, 2022 at 12:12:19 PM
+> Last updated: Tuesday, July 12, 2022 at 6:54:37 PM
 
 > Showing 5 of 12 posts.
 
-[![Flutter Vs React in 2020](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Flutter_Vs_React_in_2020.svg)](https://dev.to/hemant/flutter-vs-react-58m0)
-[![Truthy and Falsy Values in Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Truthy_and_Falsy_Values_in_Javascript.svg)](https://dev.to/smpnjn/truthy-and-falsy-values-in-javascript-3261)
-[![How does the Javascript logical OR (||) operator work?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_does_the_Javascript_logical_OR_(__)_operator_work_.svg)](https://dev.to/smpnjn/how-does-the-javascript-logical-or-operator-work-acm)
-[![Top 7 Featured DEV Posts from the Past Week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_7_Featured_DEV_Posts_from_the_Past_Week.svg)](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-2nn2)
-[![What is a Software Engineer - and How to Become One!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_a_Software_Engineer_-_and_How_to_Become_One!.svg)](https://dev.to/surajondev/what-is-a-software-engineer-and-how-to-become-one-h9g)
+[![Laravel delete actions simplified](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Laravel_delete_actions_simplified.svg)](https://dev.to/jackmiras/laravel-delete-actions-simplified-4h8b)
+[![freash look of ‘BUN’](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/freash_look_of_‘BUN’.svg)](https://dev.to/isaacxu18/a-5g67)
+[![Build a real-time document contribution list in NextJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_a_real-time_document_contribution_list_in_NextJS.svg)](https://dev.to/hackmamba/build-a-real-time-document-contribution-list-in-nextjs-1k93)
+[![Short-lived or Long-lived Flags? Explaining Feature Flag lifespans](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Short-lived_or_Long-lived_Flags__Explaining_Feature_Flag_lifespans.svg)](https://dev.to/daveyhert/short-lived-or-long-lived-flags-explaining-feature-flag-lifespans-3l8l)
+[![The Venture Capital Landscape in Blockchain & Crypto: A Thesis](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Venture_Capital_Landscape_in_Blockchain___Crypto__A_Thesis.svg)](https://dev.to/manbir/the-venture-capital-landscape-in-blockchain-crypto-a-thesis-5g8d)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, July 12, 2022 at 12:12:23 PM
+> Last updated: Tuesday, July 12, 2022 at 6:54:40 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, July 12, 2022 at 12:12:29 PM
+> Last updated: Tuesday, July 12, 2022 at 6:54:46 PM
 
 > Showing 5 of 30 posts.
 
