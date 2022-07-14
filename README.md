@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, July 14, 2022 at 12:13:28 AM
+> Last updated: Thursday, July 14, 2022 at 6:19:42 AM
 
 > Showing 5 of 12 posts.
 
-[![Projects Coming to Life 🌈 Inside of VS Code - Blissful Onboarding](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Projects_Coming_to_Life_🌈_Inside_of_VS_Code_-_Blissful_Onboarding.svg)](https://dev.to/sourishkrout/projects-coming-to-life-inside-of-vs-code-marquees-project-mode-35p9)
-[![Front End Interview Question](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Front_End_Interview_Question.svg)](https://dev.to/lucvankerkvoort/front-end-interview-question-5392)
-[![What is Deno?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_Deno_.svg)](https://dev.to/nickytonline/what-is-deno-13he)
-[![Object Oriented Programming](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Object_Oriented_Programming.svg)](https://dev.to/vindecodex/object-oriented-programming-172o)
-[![Which social media platform you like most as a Developer ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Which_social_media_platform_you_like_most_as_a_Developer__.svg)](https://dev.to/heydrdev/which-social-media-platform-you-like-most-as-a-developer--2cd9)
+[![Using Go Generics for cleaner code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_Go_Generics_for_cleaner_code.svg)](https://dev.to/goncalorodrigues/using-go-generics-for-cleaner-code-4em1)
+[![Go Course: Workspaces](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Go_Course__Workspaces.svg)](https://dev.to/karanpratapsingh/go-course-workspaces-2lcb)
+[![Write your Kubernetes Infrastructure as Go code - Getting started with cdk8s](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Write_your_Kubernetes_Infrastructure_as_Go_code_-_Getting_started_with_cdk8s.svg)](https://dev.to/abhirockzz/write-your-kubernetes-infrastructure-as-go-code-getting-started-with-cdk8s-37n)
+[![React Native Conditional Button styling for iOS.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Native_Conditional_Button_styling_for_iOS..svg)](https://dev.to/barksanto/react-native-conditional-button-styling-for-ios-h32)
+[![7 Must Watch Movies For Programmers 👨‍💻🎬 A Thread 🧵](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/7_Must_Watch_Movies_For_Programmers_👨‍💻🎬_A_Thread_🧵.svg)](https://dev.to/kshitij9896/7-must-watch-movies-for-programmers-a-thread-4nif)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, July 14, 2022 at 12:13:31 AM
+> Last updated: Thursday, July 14, 2022 at 6:19:44 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, July 14, 2022 at 12:13:33 AM
+> Last updated: Thursday, July 14, 2022 at 6:19:48 AM
 
 > Showing 5 of 30 posts.
 
