@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, July 14, 2022 at 6:19:42 AM
+> Last updated: Thursday, July 14, 2022 at 12:12:34 PM
 
 > Showing 5 of 12 posts.
 
-[![Using Go Generics for cleaner code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_Go_Generics_for_cleaner_code.svg)](https://dev.to/goncalorodrigues/using-go-generics-for-cleaner-code-4em1)
-[![Go Course: Workspaces](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Go_Course__Workspaces.svg)](https://dev.to/karanpratapsingh/go-course-workspaces-2lcb)
-[![Write your Kubernetes Infrastructure as Go code - Getting started with cdk8s](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Write_your_Kubernetes_Infrastructure_as_Go_code_-_Getting_started_with_cdk8s.svg)](https://dev.to/abhirockzz/write-your-kubernetes-infrastructure-as-go-code-getting-started-with-cdk8s-37n)
-[![React Native Conditional Button styling for iOS.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Native_Conditional_Button_styling_for_iOS..svg)](https://dev.to/barksanto/react-native-conditional-button-styling-for-ios-h32)
-[![7 Must Watch Movies For Programmers 👨‍💻🎬 A Thread 🧵](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/7_Must_Watch_Movies_For_Programmers_👨‍💻🎬_A_Thread_🧵.svg)](https://dev.to/kshitij9896/7-must-watch-movies-for-programmers-a-thread-4nif)
+[![Tools To Make Kubernetes Management Easy](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tools_To_Make_Kubernetes_Management_Easy.svg)](https://dev.to/makendrang/tools-to-make-kubernetes-management-easy-1830)
+[![AWS Identity and Access management-Practical Guide 🚀🚀(Cheat sheet)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_Identity_and_Access_management-Practical_Guide_🚀🚀(Cheat_sheet).svg)](https://dev.to/tanmaygi/aws-identity-and-access-management-practical-guide-cheat-sheet-3528)
+[![Benefits of accessible design](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Benefits_of_accessible_design.svg)](https://dev.to/yuridevat/benefits-of-accessible-design-4m2a)
+[![How to make a fetch request](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_make_a_fetch_request.svg)](https://dev.to/jgifford82/how-to-make-a-fetch-request-4hlh)
+[![Tech companies that are fully remote:](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tech_companies_that_are_fully_remote_.svg)](https://dev.to/areedev/tech-companies-that-are-fully-remote-eel)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, July 14, 2022 at 6:19:44 AM
+> Last updated: Thursday, July 14, 2022 at 12:12:38 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, July 14, 2022 at 6:19:48 AM
+> Last updated: Thursday, July 14, 2022 at 12:12:43 PM
 
 > Showing 5 of 30 posts.
 
