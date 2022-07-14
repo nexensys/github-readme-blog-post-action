@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, July 13, 2022 at 6:59:24 PM
+> Last updated: Thursday, July 14, 2022 at 12:13:28 AM
 
 > Showing 5 of 12 posts.
 
-[![Creating Weather App using Weather API and Node Js : Part Two](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_Weather_App_using_Weather_API_and_Node_Js___Part_Two.svg)](https://dev.to/adolphtech/creating-weather-app-using-weather-api-and-node-js-part-two-edo)
-[![A Basic Chart - Building a Geospacial App with SvelteKit, Deck.gl, and Mapbox - Part 4](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Basic_Chart_-_Building_a_Geospacial_App_with_SvelteKit__Deck.gl__and_Mapbox_-_Part_4.svg)](https://dev.to/samuelearl/a-basic-chart-building-a-geospacial-app-with-sveltekit-deckgl-and-mapbox-part-4-1gl9)
-[![Being a Woman in Tech: My Journey 👩‍💻](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Being_a_Woman_in_Tech__My_Journey_👩‍💻.svg)](https://dev.to/emma_donery/being-a-woman-in-tech-my-journey-1mo8)
-[![Introduction to Keywords via Understanding Searcher Psychology](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_to_Keywords_via_Understanding_Searcher_Psychology.svg)](https://dev.to/daedtech/introduction-to-keywords-via-understanding-searcher-psychology-2i57)
-[![Packing for a Leadership Conference](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Packing_for_a_Leadership_Conference.svg)](https://dev.to/tmchuynh/packing-for-a-leadership-conference-1kj8)
+[![Projects Coming to Life 🌈 Inside of VS Code - Blissful Onboarding](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Projects_Coming_to_Life_🌈_Inside_of_VS_Code_-_Blissful_Onboarding.svg)](https://dev.to/sourishkrout/projects-coming-to-life-inside-of-vs-code-marquees-project-mode-35p9)
+[![Front End Interview Question](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Front_End_Interview_Question.svg)](https://dev.to/lucvankerkvoort/front-end-interview-question-5392)
+[![What is Deno?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_Deno_.svg)](https://dev.to/nickytonline/what-is-deno-13he)
+[![Object Oriented Programming](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Object_Oriented_Programming.svg)](https://dev.to/vindecodex/object-oriented-programming-172o)
+[![Which social media platform you like most as a Developer ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Which_social_media_platform_you_like_most_as_a_Developer__.svg)](https://dev.to/heydrdev/which-social-media-platform-you-like-most-as-a-developer--2cd9)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, July 13, 2022 at 6:59:27 PM
+> Last updated: Thursday, July 14, 2022 at 12:13:31 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,13 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, July 13, 2022 at 6:59:32 PM
+> Last updated: Thursday, July 14, 2022 at 12:13:33 AM
 
 > Showing 5 of 30 posts.
 
+[![Autogenerate Your GraphQL Documentation With Magidoc | HackerNoon](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Autogenerate_Your_GraphQL_Documentation_With_Magidoc___HackerNoon.svg)](
+https://hackernoon.com/autogenerate-your-graphql-documentation-with-magidoc
+)
 [![Vue v-if and v-else](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Vue_v-if_and_v-else.svg)](
 https://masteringjs.io/tutorials/vue/v-if-else
 )
@@ -55,7 +58,6 @@ https://www.webiny.com/blog/build-notes-app-nextjs-webiny-headless-cms
 )
 [![How to Secure GatsbyJS Sites with Auth0 for Authentication](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Secure_GatsbyJS_Sites_with_Auth0_for_Authentication.svg)](https://auth0.com/blog/securing-gatsby-with-auth0/)
 [![Recognizing faces with Cloudinary and Next](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Recognizing_faces_with_Cloudinary_and_Next.svg)](https://blog.openreplay.com/recognizing-faces-with-cloudinary-and-next)
-[![Start with Ultra, the new React web framework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Start_with_Ultra__the_new_React_web_framework.svg)](https://blog.openreplay.com/start-with-ultra-the-new-react-web-framework)
 
 
 <!-- post-list:end -->
