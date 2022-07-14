@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, July 13, 2022 at 12:11:58 PM
+> Last updated: Wednesday, July 13, 2022 at 6:59:24 PM
 
 > Showing 5 of 12 posts.
 
-[![Targeting Node, Bun and Deno With F#](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Targeting_Node__Bun_and_Deno_With_F_.svg)](https://dev.to/tunaxor/targeting-node-bun-and-deno-with-f-1fb5)
-[![Welcome Thread - v182](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Welcome_Thread_-_v182.svg)](https://dev.to/thepracticaldev/welcome-thread-v182-1jba)
-[![How to Make a Charity Website Using Html CSS JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Make_a_Charity_Website_Using_Html_CSS_JavaScript.svg)](https://dev.to/codewithsadee/how-to-make-a-charity-website-using-html-css-javascript-5hh9)
-[![Amazon Elastic Compute Cloud(EC2)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Amazon_Elastic_Compute_Cloud(EC2).svg)](https://dev.to/shyam1409/amazon-elastic-compute-cloudec2-2c0j)
-[![How to easily call JavaScript modules from PHP?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_easily_call_JavaScript_modules_from_PHP_.svg)](https://dev.to/dobron/how-to-easily-call-javascript-modules-from-php-5cl0)
+[![Creating Weather App using Weather API and Node Js : Part Two](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_Weather_App_using_Weather_API_and_Node_Js___Part_Two.svg)](https://dev.to/adolphtech/creating-weather-app-using-weather-api-and-node-js-part-two-edo)
+[![A Basic Chart - Building a Geospacial App with SvelteKit, Deck.gl, and Mapbox - Part 4](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Basic_Chart_-_Building_a_Geospacial_App_with_SvelteKit__Deck.gl__and_Mapbox_-_Part_4.svg)](https://dev.to/samuelearl/a-basic-chart-building-a-geospacial-app-with-sveltekit-deckgl-and-mapbox-part-4-1gl9)
+[![Being a Woman in Tech: My Journey 👩‍💻](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Being_a_Woman_in_Tech__My_Journey_👩‍💻.svg)](https://dev.to/emma_donery/being-a-woman-in-tech-my-journey-1mo8)
+[![Introduction to Keywords via Understanding Searcher Psychology](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_to_Keywords_via_Understanding_Searcher_Psychology.svg)](https://dev.to/daedtech/introduction-to-keywords-via-understanding-searcher-psychology-2i57)
+[![Packing for a Leadership Conference](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Packing_for_a_Leadership_Conference.svg)](https://dev.to/tmchuynh/packing-for-a-leadership-conference-1kj8)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, July 13, 2022 at 12:12:02 PM
+> Last updated: Wednesday, July 13, 2022 at 6:59:27 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, July 13, 2022 at 12:12:08 PM
+> Last updated: Wednesday, July 13, 2022 at 6:59:32 PM
 
 > Showing 5 of 30 posts.
 
