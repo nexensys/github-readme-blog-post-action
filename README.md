@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, July 14, 2022 at 7:03:36 PM
+> Last updated: Friday, July 15, 2022 at 12:12:53 AM
 
 > Showing 5 of 12 posts.
 
-[![Getting started with Sanity](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_started_with_Sanity.svg)](https://dev.to/zacherymorgan/getting-started-with-sanity-1ohj)
-[![Discussion and Comment of the Week - v11](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Discussion_and_Comment_of_the_Week_-_v11.svg)](https://dev.to/devteam/discussion-and-comment-of-the-week-v11-4b91)
-[![The browser console has a count method](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_browser_console_has_a_count_method.svg)](https://dev.to/codepo8/the-browser-console-has-a-count-method-5cj7)
-[![Join us at our next Coding Bootcamp 🦊 💻](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Join_us_at_our_next_Coding_Bootcamp_🦊_💻.svg)](https://dev.to/frontendfoxes/join-us-at-our-next-coding-bootcamp-4659)
-[![React animation onDestroy (removed from the DOM)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_animation_onDestroy_(removed_from_the_DOM).svg)](https://dev.to/aspnxdd/react-animation-ondestroy-removed-from-the-dom-53pd)
+[![DevOps Tools To Be Used](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/DevOps_Tools_To_Be_Used.svg)](https://dev.to/devsimc/devops-tools-to-be-used-3eag)
+[![How to Host your React App for Free. (Part 2)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Host_your_React_App_for_Free._(Part_2).svg)](https://dev.to/vamsitupakula_/how-to-host-your-react-app-for-free-part-2-46hm)
+[![How to Build Uber Clone with React (Ep. 1) [FREE & DETAIL COURSE]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Build_Uber_Clone_with_React_(Ep._1)_[FREE___DETAIL_COURSE].svg)](https://dev.to/hieptl/how-to-build-uber-clone-with-react-ep-1-gop)
+[![GitHub's non-code features: exploring more of GitHub and encouraging your non-dev friends](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/GitHub's_non-code_features__exploring_more_of_GitHub_and_encouraging_your_non-dev_friends.svg)](https://dev.to/mishmanners/githubs-non-code-features-exploring-more-of-github-and-encouraging-your-non-dev-friends-1j1l)
+[![Feature update: Markdown Toolbar coming to Comment Editor!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Feature_update__Markdown_Toolbar_coming_to_Comment_Editor!.svg)](https://dev.to/devteam/feature-update-markdown-toolbar-coming-to-comment-editor-544o)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, July 14, 2022 at 7:03:40 PM
+> Last updated: Friday, July 15, 2022 at 12:12:57 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, July 14, 2022 at 7:03:44 PM
+> Last updated: Friday, July 15, 2022 at 12:13:01 AM
 
 > Showing 5 of 30 posts.
 
