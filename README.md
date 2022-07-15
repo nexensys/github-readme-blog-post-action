@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, July 14, 2022 at 12:12:34 PM
+> Last updated: Thursday, July 14, 2022 at 7:03:36 PM
 
 > Showing 5 of 12 posts.
 
-[![Tools To Make Kubernetes Management Easy](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tools_To_Make_Kubernetes_Management_Easy.svg)](https://dev.to/makendrang/tools-to-make-kubernetes-management-easy-1830)
-[![AWS Identity and Access management-Practical Guide 🚀🚀(Cheat sheet)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_Identity_and_Access_management-Practical_Guide_🚀🚀(Cheat_sheet).svg)](https://dev.to/tanmaygi/aws-identity-and-access-management-practical-guide-cheat-sheet-3528)
-[![Benefits of accessible design](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Benefits_of_accessible_design.svg)](https://dev.to/yuridevat/benefits-of-accessible-design-4m2a)
-[![How to make a fetch request](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_make_a_fetch_request.svg)](https://dev.to/jgifford82/how-to-make-a-fetch-request-4hlh)
-[![Tech companies that are fully remote:](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tech_companies_that_are_fully_remote_.svg)](https://dev.to/areedev/tech-companies-that-are-fully-remote-eel)
+[![Getting started with Sanity](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_started_with_Sanity.svg)](https://dev.to/zacherymorgan/getting-started-with-sanity-1ohj)
+[![Discussion and Comment of the Week - v11](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Discussion_and_Comment_of_the_Week_-_v11.svg)](https://dev.to/devteam/discussion-and-comment-of-the-week-v11-4b91)
+[![The browser console has a count method](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_browser_console_has_a_count_method.svg)](https://dev.to/codepo8/the-browser-console-has-a-count-method-5cj7)
+[![Join us at our next Coding Bootcamp 🦊 💻](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Join_us_at_our_next_Coding_Bootcamp_🦊_💻.svg)](https://dev.to/frontendfoxes/join-us-at-our-next-coding-bootcamp-4659)
+[![React animation onDestroy (removed from the DOM)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_animation_onDestroy_(removed_from_the_DOM).svg)](https://dev.to/aspnxdd/react-animation-ondestroy-removed-from-the-dom-53pd)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, July 14, 2022 at 12:12:38 PM
+> Last updated: Thursday, July 14, 2022 at 7:03:40 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, July 14, 2022 at 12:12:43 PM
+> Last updated: Thursday, July 14, 2022 at 7:03:44 PM
 
 > Showing 5 of 30 posts.
 
