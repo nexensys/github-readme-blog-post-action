@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, July 16, 2022 at 6:15:47 AM
+> Last updated: Saturday, July 16, 2022 at 12:11:38 PM
 
 > Showing 5 of 12 posts.
 
-[![How does the Javascript logical AND (&&) operator work?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_does_the_Javascript_logical_AND_(__)_operator_work_.svg)](https://dev.to/smpnjn/how-does-the-javascript-logical-and-operator-work-2och)
-[![New GitHub Achievements](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/New_GitHub_Achievements.svg)](https://dev.to/krishnaagarwal/new-github-achievements-3lae)
-[![5 Things I wished I had known when I started to maintain GitLab CICD](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Things_I_wished_I_had_known_when_I_started_to_maintain_GitLab_CICD.svg)](https://dev.to/snakepy/5-things-i-wished-i-had-known-when-i-started-to-maintain-gitlab-cicd-1e4i)
-[![How the CSS Box Model Works](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_the_CSS_Box_Model_Works.svg)](https://dev.to/smpnjn/css-box-model-37bl)
-[![Linux by Example: Partitioning Disks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Linux_by_Example__Partitioning_Disks.svg)](https://dev.to/betterways/linux-by-example-partitioning-disks-30k9)
+[![color-mix function](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/color-mix_function.svg)](https://dev.to/link2twenty/color-mix-function-5h2j)
+[![[Desafio] - Integração com Múltiplas APIs (scatter/gather)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/[Desafio]_-_Integração_com_Múltiplas_APIs_(scatter_gather).svg)](https://dev.to/zanfranceschi/desafio-integracao-com-apis-4jco)
+[![Recipe Finder App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Recipe_Finder_App.svg)](https://dev.to/shubhamtiwari909/recipe-finder-app-3j0)
+[![Fetch and display data from API in React js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Fetch_and_display_data_from_API_in_React_js.svg)](https://dev.to/collegewap/fetch-and-display-data-from-api-in-react-js-53bp)
+[![Sharing my portfolio website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Sharing_my_portfolio_website.svg)](https://dev.to/jeffrey125/my-journey-on-my-portfolio-website-5d8n)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, July 16, 2022 at 6:15:50 AM
+> Last updated: Saturday, July 16, 2022 at 12:11:40 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, July 16, 2022 at 6:15:57 AM
+> Last updated: Saturday, July 16, 2022 at 12:11:42 PM
 
 > Showing 5 of 30 posts.
 
+[![fluent-vue - Internationalization plugin for Vue.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/fluent-vue_-_Internationalization_plugin_for_Vue.js.svg)](https://fluent-vue.demivan.me/)
 [![Autogenerate Your GraphQL Documentation With Magidoc | HackerNoon](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Autogenerate_Your_GraphQL_Documentation_With_Magidoc___HackerNoon.svg)](
 https://hackernoon.com/autogenerate-your-graphql-documentation-with-magidoc
 )
@@ -57,7 +58,6 @@ https://masteringjs.io/tutorials/vue/v-if-else
 https://www.webiny.com/blog/build-notes-app-nextjs-webiny-headless-cms
 )
 [![Start with Ultra, the new React web framework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Start_with_Ultra__the_new_React_web_framework.svg)](https://blog.openreplay.com/start-with-ultra-the-new-react-web-framework)
-[![How to Easily Reuse React Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Easily_Reuse_React_Components.svg)](https://javascript.plainenglish.io/how-to-easily-reuse-react-components-e9c8a9466038)
 
 
 <!-- post-list:end -->
