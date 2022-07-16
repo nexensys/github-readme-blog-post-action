@@ -78,11 +78,11 @@
       <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
         <div class="image" />
 <div class="text">
-          <div class="title">Address&#0032;validation</div>
-          <div class="description">I&#0032;was&#0032;researching&#0032;to&#0032;use&#0032;Amazon&#0032;location&#0032;service&#0032;and&#0032;I&#0032;wanted&#0032;to&#0032;validate&#0032;addresses&#0046;&#0032;&#0032;&#0032;I&#0032;have&#0032;limited&#0046;&#0046;&#0046;</div>
-          <div class="date">7&#0047;15&#0047;22</div>
+          <div class="title">A&#0032;foray&#0032;into&#0032;SVM&#0032;w&#0047;&#0032;Scikit&#0045;Learn</div>
+          <div class="description">Hey&#0044;&#0032;Josiah&#0032;here&#0046;&#0032;Today&#0032;I’ll&#0032;be&#0032;discussing&#0032;the&#0032;concept&#0032;of&#0032;SVMs&#0032;&#0040;Support&#0032;Vector&#0032;Machine&#0041;&#0044;&#0032;a&#0032;subset&#0032;of&#0046;&#0046;&#0046;</div>
+          <div class="date">7&#0047;16&#0047;22</div>
           <div class="data">
-            <span class="author">Samuel&#0032;Tumdedo</span> 
+            <span class="author">Amdirpherian</span> <span class="category">python</span> <span class="category">programming</span> <span class="category">machinelearning</span> <span class="category">algorithms</span>
           </div>
         </div>
       </div>

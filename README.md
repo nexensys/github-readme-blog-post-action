@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, July 15, 2022 at 6:56:52 PM
+> Last updated: Saturday, July 16, 2022 at 12:11:59 AM
 
 > Showing 5 of 12 posts.
 
-[![Address validation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Address_validation.svg)](https://dev.to/samueltumdedo/address-validation-4i5g)
-[![VSCode Extensions You Should Have](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/VSCode_Extensions_You_Should_Have.svg)](https://dev.to/jannatinnaim/vscode-extensions-you-should-have-41m)
-[![Do More with Kaggle](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Do_More_with_Kaggle.svg)](https://dev.to/theoyinbooke/do-more-with-kaggle-2h9e)
-[![The Event Loop](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Event_Loop.svg)](https://dev.to/karamkoujan/the-event-loop-46dj)
-[![4 Careers for People with Coding Backgrounds](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/4_Careers_for_People_with_Coding_Backgrounds.svg)](https://dev.to/linearb/4-careers-for-people-with-coding-backgrounds-22mj)
+[![A foray into SVM w/ Scikit-Learn](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_foray_into_SVM_w__Scikit-Learn.svg)](https://dev.to/omhaisoj/a-foray-into-svm-w-scikit-learn-32oh)
+[![Why ORMs Aren't Always a Great Idea](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_ORMs_Aren't_Always_a_Great_Idea.svg)](https://dev.to/harshhhdev/why-orms-arent-always-a-great-idea-41kg)
+[![Investigating 15s HTTP response time in AWS ECS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Investigating_15s_HTTP_response_time_in_AWS_ECS.svg)](https://dev.to/gwenshap/investigating-15s-http-response-time-in-aws-ecs-2gge)
+[![Create a react app with bun](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_a_react_app_with_bun.svg)](https://dev.to/ashirbadgudu/create-a-react-app-with-bun-125o)
+[![My Most Used Android Studio Shortcut Keys](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_Most_Used_Android_Studio_Shortcut_Keys.svg)](https://dev.to/vtsen/my-most-used-android-studio-shortcut-keys-5bk3)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, July 15, 2022 at 6:56:56 PM
+> Last updated: Saturday, July 16, 2022 at 12:12:03 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, July 15, 2022 at 6:57:01 PM
+> Last updated: Saturday, July 16, 2022 at 12:12:09 AM
 
 > Showing 5 of 30 posts.
 
