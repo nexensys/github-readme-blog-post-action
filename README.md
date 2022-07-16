@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, July 16, 2022 at 12:11:59 AM
+> Last updated: Saturday, July 16, 2022 at 6:15:47 AM
 
 > Showing 5 of 12 posts.
 
-[![A foray into SVM w/ Scikit-Learn](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_foray_into_SVM_w__Scikit-Learn.svg)](https://dev.to/omhaisoj/a-foray-into-svm-w-scikit-learn-32oh)
-[![Why ORMs Aren't Always a Great Idea](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_ORMs_Aren't_Always_a_Great_Idea.svg)](https://dev.to/harshhhdev/why-orms-arent-always-a-great-idea-41kg)
-[![Investigating 15s HTTP response time in AWS ECS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Investigating_15s_HTTP_response_time_in_AWS_ECS.svg)](https://dev.to/gwenshap/investigating-15s-http-response-time-in-aws-ecs-2gge)
-[![Create a react app with bun](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_a_react_app_with_bun.svg)](https://dev.to/ashirbadgudu/create-a-react-app-with-bun-125o)
-[![My Most Used Android Studio Shortcut Keys](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_Most_Used_Android_Studio_Shortcut_Keys.svg)](https://dev.to/vtsen/my-most-used-android-studio-shortcut-keys-5bk3)
+[![How does the Javascript logical AND (&&) operator work?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_does_the_Javascript_logical_AND_(__)_operator_work_.svg)](https://dev.to/smpnjn/how-does-the-javascript-logical-and-operator-work-2och)
+[![New GitHub Achievements](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/New_GitHub_Achievements.svg)](https://dev.to/krishnaagarwal/new-github-achievements-3lae)
+[![5 Things I wished I had known when I started to maintain GitLab CICD](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Things_I_wished_I_had_known_when_I_started_to_maintain_GitLab_CICD.svg)](https://dev.to/snakepy/5-things-i-wished-i-had-known-when-i-started-to-maintain-gitlab-cicd-1e4i)
+[![How the CSS Box Model Works](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_the_CSS_Box_Model_Works.svg)](https://dev.to/smpnjn/css-box-model-37bl)
+[![Linux by Example: Partitioning Disks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Linux_by_Example__Partitioning_Disks.svg)](https://dev.to/betterways/linux-by-example-partitioning-disks-30k9)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, July 16, 2022 at 12:12:03 AM
+> Last updated: Saturday, July 16, 2022 at 6:15:50 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, July 16, 2022 at 12:12:09 AM
+> Last updated: Saturday, July 16, 2022 at 6:15:57 AM
 
 > Showing 5 of 30 posts.
 
