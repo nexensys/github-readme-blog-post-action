@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, July 15, 2022 at 12:12:53 AM
+> Last updated: Friday, July 15, 2022 at 6:56:52 PM
 
 > Showing 5 of 12 posts.
 
-[![DevOps Tools To Be Used](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/DevOps_Tools_To_Be_Used.svg)](https://dev.to/devsimc/devops-tools-to-be-used-3eag)
-[![How to Host your React App for Free. (Part 2)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Host_your_React_App_for_Free._(Part_2).svg)](https://dev.to/vamsitupakula_/how-to-host-your-react-app-for-free-part-2-46hm)
-[![How to Build Uber Clone with React (Ep. 1) [FREE & DETAIL COURSE]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Build_Uber_Clone_with_React_(Ep._1)_[FREE___DETAIL_COURSE].svg)](https://dev.to/hieptl/how-to-build-uber-clone-with-react-ep-1-gop)
-[![GitHub's non-code features: exploring more of GitHub and encouraging your non-dev friends](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/GitHub's_non-code_features__exploring_more_of_GitHub_and_encouraging_your_non-dev_friends.svg)](https://dev.to/mishmanners/githubs-non-code-features-exploring-more-of-github-and-encouraging-your-non-dev-friends-1j1l)
-[![Feature update: Markdown Toolbar coming to Comment Editor!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Feature_update__Markdown_Toolbar_coming_to_Comment_Editor!.svg)](https://dev.to/devteam/feature-update-markdown-toolbar-coming-to-comment-editor-544o)
+[![Address validation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Address_validation.svg)](https://dev.to/samueltumdedo/address-validation-4i5g)
+[![VSCode Extensions You Should Have](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/VSCode_Extensions_You_Should_Have.svg)](https://dev.to/jannatinnaim/vscode-extensions-you-should-have-41m)
+[![Do More with Kaggle](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Do_More_with_Kaggle.svg)](https://dev.to/theoyinbooke/do-more-with-kaggle-2h9e)
+[![The Event Loop](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Event_Loop.svg)](https://dev.to/karamkoujan/the-event-loop-46dj)
+[![4 Careers for People with Coding Backgrounds](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/4_Careers_for_People_with_Coding_Backgrounds.svg)](https://dev.to/linearb/4-careers-for-people-with-coding-backgrounds-22mj)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, July 15, 2022 at 12:12:57 AM
+> Last updated: Friday, July 15, 2022 at 6:56:56 PM
 
 > Showing 4 of 4 posts.
 
+[![Vite 3, or in French: quick, quick, quick.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Vite_3__or_in_French__quick__quick__quick..svg)](https://javascriptweekly.com/issues/598)
 [![An all-in-Bun JavaScript runtime.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/An_all-in-Bun_JavaScript_runtime..svg)](https://javascriptweekly.com/issues/597)
 [![Celebrating Svelte](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Celebrating_Svelte.svg)](https://javascriptweekly.com/issues/596)
 [![What's new in ECMAScript 2022?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/What's_new_in_ECMAScript_2022_.svg)](https://javascriptweekly.com/issues/595)
-[![AbortController, your newest friend](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/AbortController__your_newest_friend.svg)](https://javascriptweekly.com/issues/594)
 
 
 ## Echo JS
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, July 15, 2022 at 12:13:01 AM
+> Last updated: Friday, July 15, 2022 at 6:57:01 PM
 
 > Showing 5 of 30 posts.
 
@@ -56,8 +56,8 @@ https://masteringjs.io/tutorials/vue/v-if-else
 [![Build a Notes App with Next.js and Webiny Headless CMS | Webiny](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_a_Notes_App_with_Next.js_and_Webiny_Headless_CMS___Webiny.svg)](
 https://www.webiny.com/blog/build-notes-app-nextjs-webiny-headless-cms
 )
-[![How to Secure GatsbyJS Sites with Auth0 for Authentication](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Secure_GatsbyJS_Sites_with_Auth0_for_Authentication.svg)](https://auth0.com/blog/securing-gatsby-with-auth0/)
-[![Recognizing faces with Cloudinary and Next](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Recognizing_faces_with_Cloudinary_and_Next.svg)](https://blog.openreplay.com/recognizing-faces-with-cloudinary-and-next)
+[![Start with Ultra, the new React web framework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Start_with_Ultra__the_new_React_web_framework.svg)](https://blog.openreplay.com/start-with-ultra-the-new-react-web-framework)
+[![How to Easily Reuse React Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Easily_Reuse_React_Components.svg)](https://javascript.plainenglish.io/how-to-easily-reuse-react-components-e9c8a9466038)
 
 
 <!-- post-list:end -->
