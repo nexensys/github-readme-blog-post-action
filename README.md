@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, July 17, 2022 at 6:17:05 AM
+> Last updated: Sunday, July 17, 2022 at 12:11:09 PM
 
 > Showing 5 of 12 posts.
 
-[![Full Stack Youtube Clone (5 hours free tutorial)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Full_Stack_Youtube_Clone_(5_hours_free_tutorial).svg)](https://dev.to/safak/full-stack-youtube-clone-5-hours-free-tutorial-2kfg)
-[![How to Optimize Your Workflow with VSCode Shortcuts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Optimize_Your_Workflow_with_VSCode_Shortcuts.svg)](https://dev.to/nathan20/how-to-optimize-your-workflow-with-vscode-shortcuts-248i)
-[![How I got my first job as a programmer (no CS degree)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_I_got_my_first_job_as_a_programmer_(no_CS_degree).svg)](https://dev.to/beetlehope/how-i-got-my-first-job-as-a-programmer-no-cs-degree-28b4)
-[![How to trigger a fail2ban action to t6 ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_trigger_a_fail2ban_action_to_t6__.svg)](https://dev.to/mathcoll/how-to-trigger-a-fail2ban-action-to-t6--o84)
-[![Session Vs Cookies, Stateless Vs Stateful Protocol, HTTP Session Tracking](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Session_Vs_Cookies__Stateless_Vs_Stateful_Protocol__HTTP_Session_Tracking.svg)](https://dev.to/ruchikaatwal/session-vs-cookies-stateless-vs-stateful-protocol-http-session-tracking-3gih)
+[![API Validation: Why You Need It](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/API_Validation__Why_You_Need_It.svg)](https://dev.to/annabaker/api-validation-why-you-need-it-mb9)
+[![For those who wish to have a better resume. Just Contribute to this.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/For_those_who_wish_to_have_a_better_resume._Just_Contribute_to_this..svg)](https://dev.to/shrihari/for-those-who-wish-to-have-a-better-resume-just-contribue-to-this-313c)
+[![Laravel Livewire Turbolinks with Image lazyload](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Laravel_Livewire_Turbolinks_with_Image_lazyload.svg)](https://dev.to/shshank/laravel-livewire-turbolinks-with-image-lazyload-3kll)
+[![Side Project Sunday! What do you have going on?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Side_Project_Sunday!_What_do_you_have_going_on_.svg)](https://dev.to/ben/side-project-sunday-what-do-you-have-going-on-185l)
+[![POUR - The 4 Web accessibility principles](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/POUR_-_The_4_Web_accessibility_principles.svg)](https://dev.to/yuridevat/pour-the-4-web-accessibility-principles-edp)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, July 17, 2022 at 6:17:09 AM
+> Last updated: Sunday, July 17, 2022 at 12:11:11 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, July 17, 2022 at 6:17:15 AM
+> Last updated: Sunday, July 17, 2022 at 12:11:14 PM
 
 > Showing 5 of 30 posts.
 
