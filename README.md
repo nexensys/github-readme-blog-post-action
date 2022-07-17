@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, July 17, 2022 at 12:12:14 AM
+> Last updated: Sunday, July 17, 2022 at 6:17:05 AM
 
 > Showing 5 of 12 posts.
 
-[![How important is math in programming?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_important_is_math_in_programming_.svg)](https://dev.to/smeetsmeister/how-important-is-math-in-programming-4789)
-[![Appwrite Community Report #14](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Appwrite_Community_Report__14.svg)](https://dev.to/appwrite/appwrite-community-report-14-4cp9)
-[![Data Structures in Real Life!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Data_Structures_in_Real_Life!.svg)](https://dev.to/iamtushar11/data-structures-in-real-life-1on9)
-[![Amazon S3:](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Amazon_S3_.svg)](https://dev.to/aws-builders/amazon-s3-23be)
-[![An Approach to Continuous Learning](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/An_Approach_to_Continuous_Learning.svg)](https://dev.to/abh1navv/an-approach-to-continuous-learning-30pk)
+[![Full Stack Youtube Clone (5 hours free tutorial)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Full_Stack_Youtube_Clone_(5_hours_free_tutorial).svg)](https://dev.to/safak/full-stack-youtube-clone-5-hours-free-tutorial-2kfg)
+[![How to Optimize Your Workflow with VSCode Shortcuts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Optimize_Your_Workflow_with_VSCode_Shortcuts.svg)](https://dev.to/nathan20/how-to-optimize-your-workflow-with-vscode-shortcuts-248i)
+[![How I got my first job as a programmer (no CS degree)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_I_got_my_first_job_as_a_programmer_(no_CS_degree).svg)](https://dev.to/beetlehope/how-i-got-my-first-job-as-a-programmer-no-cs-degree-28b4)
+[![How to trigger a fail2ban action to t6 ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_trigger_a_fail2ban_action_to_t6__.svg)](https://dev.to/mathcoll/how-to-trigger-a-fail2ban-action-to-t6--o84)
+[![Session Vs Cookies, Stateless Vs Stateful Protocol, HTTP Session Tracking](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Session_Vs_Cookies__Stateless_Vs_Stateful_Protocol__HTTP_Session_Tracking.svg)](https://dev.to/ruchikaatwal/session-vs-cookies-stateless-vs-stateful-protocol-http-session-tracking-3gih)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, July 17, 2022 at 12:12:18 AM
+> Last updated: Sunday, July 17, 2022 at 6:17:09 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, July 17, 2022 at 12:12:22 AM
+> Last updated: Sunday, July 17, 2022 at 6:17:15 AM
 
 > Showing 5 of 30 posts.
 
