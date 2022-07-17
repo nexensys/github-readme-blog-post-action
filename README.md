@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, July 16, 2022 at 6:59:34 PM
+> Last updated: Sunday, July 17, 2022 at 12:12:14 AM
 
 > Showing 5 of 12 posts.
 
-[![REPL-like environment for Rust (A Rust Playground Locally)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/REPL-like_environment_for_Rust_(A_Rust_Playground_Locally).svg)](https://dev.to/menard_codes/repl-like-environment-for-rust-a-rust-playground-locally-4a54)
-[![Install an Apache Web-Server on EC2 using IAC](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Install_an_Apache_Web-Server_on_EC2_using_IAC.svg)](https://dev.to/giyoungjr/install-an-apache-web-server-on-ec2-using-iac-2gkb)
-[![Interacting with AWS S3 using Spring Boot application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Interacting_with_AWS_S3_using_Spring_Boot_application.svg)](https://dev.to/devanandukalkar/storing-objects-to-aws-s3-with-spring-boot-1h13)
-[![How To Enable "running Scripts" On Your System](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Enable__running_Scripts__On_Your_System.svg)](https://dev.to/tiioluwani/how-to-enable-running-scripts-on-your-system-25am)
-[![What's in your SW Developer toolbox?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What's_in_your_SW_Developer_toolbox_.svg)](https://dev.to/alexdesi/whats-in-your-sw-developer-toolbox-dbd)
+[![How important is math in programming?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_important_is_math_in_programming_.svg)](https://dev.to/smeetsmeister/how-important-is-math-in-programming-4789)
+[![Appwrite Community Report #14](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Appwrite_Community_Report__14.svg)](https://dev.to/appwrite/appwrite-community-report-14-4cp9)
+[![Data Structures in Real Life!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Data_Structures_in_Real_Life!.svg)](https://dev.to/iamtushar11/data-structures-in-real-life-1on9)
+[![Amazon S3:](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Amazon_S3_.svg)](https://dev.to/aws-builders/amazon-s3-23be)
+[![An Approach to Continuous Learning](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/An_Approach_to_Continuous_Learning.svg)](https://dev.to/abh1navv/an-approach-to-continuous-learning-30pk)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, July 16, 2022 at 6:59:36 PM
+> Last updated: Sunday, July 17, 2022 at 12:12:18 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, July 16, 2022 at 6:59:39 PM
+> Last updated: Sunday, July 17, 2022 at 12:12:22 AM
 
 > Showing 5 of 30 posts.
 
