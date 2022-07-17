@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, July 16, 2022 at 12:11:38 PM
+> Last updated: Saturday, July 16, 2022 at 6:59:34 PM
 
 > Showing 5 of 12 posts.
 
-[![color-mix function](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/color-mix_function.svg)](https://dev.to/link2twenty/color-mix-function-5h2j)
-[![[Desafio] - Integração com Múltiplas APIs (scatter/gather)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/[Desafio]_-_Integração_com_Múltiplas_APIs_(scatter_gather).svg)](https://dev.to/zanfranceschi/desafio-integracao-com-apis-4jco)
-[![Recipe Finder App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Recipe_Finder_App.svg)](https://dev.to/shubhamtiwari909/recipe-finder-app-3j0)
-[![Fetch and display data from API in React js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Fetch_and_display_data_from_API_in_React_js.svg)](https://dev.to/collegewap/fetch-and-display-data-from-api-in-react-js-53bp)
-[![Sharing my portfolio website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Sharing_my_portfolio_website.svg)](https://dev.to/jeffrey125/my-journey-on-my-portfolio-website-5d8n)
+[![REPL-like environment for Rust (A Rust Playground Locally)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/REPL-like_environment_for_Rust_(A_Rust_Playground_Locally).svg)](https://dev.to/menard_codes/repl-like-environment-for-rust-a-rust-playground-locally-4a54)
+[![Install an Apache Web-Server on EC2 using IAC](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Install_an_Apache_Web-Server_on_EC2_using_IAC.svg)](https://dev.to/giyoungjr/install-an-apache-web-server-on-ec2-using-iac-2gkb)
+[![Interacting with AWS S3 using Spring Boot application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Interacting_with_AWS_S3_using_Spring_Boot_application.svg)](https://dev.to/devanandukalkar/storing-objects-to-aws-s3-with-spring-boot-1h13)
+[![How To Enable "running Scripts" On Your System](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Enable__running_Scripts__On_Your_System.svg)](https://dev.to/tiioluwani/how-to-enable-running-scripts-on-your-system-25am)
+[![What's in your SW Developer toolbox?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What's_in_your_SW_Developer_toolbox_.svg)](https://dev.to/alexdesi/whats-in-your-sw-developer-toolbox-dbd)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, July 16, 2022 at 12:11:40 PM
+> Last updated: Saturday, July 16, 2022 at 6:59:36 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, July 16, 2022 at 12:11:42 PM
+> Last updated: Saturday, July 16, 2022 at 6:59:39 PM
 
 > Showing 5 of 30 posts.
 
