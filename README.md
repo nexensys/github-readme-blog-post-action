@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, July 18, 2022 at 6:19:14 AM
+> Last updated: Monday, July 18, 2022 at 12:12:41 PM
 
 > Showing 5 of 12 posts.
 
-[![Coding Period GSoC'22 | Week 4 + 5](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Coding_Period_GSoC'22___Week_4_+_5.svg)](https://dev.to/pulkit30/coding-period-gsoc22-week-4-5-4l6l)
-[![On interfaces and composition](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/On_interfaces_and_composition.svg)](https://dev.to/javorszky/on-interfaces-and-composition-4ppm)
-[![What is Luos, really? How we built the speech](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_Luos__really__How_we_built_the_speech.svg)](https://dev.to/luos/what-is-luos-really-how-we-built-the-speech-5ho)
-[![Appwrite OSS Fund Sponsors Oh My Posh](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Appwrite_OSS_Fund_Sponsors_Oh_My_Posh.svg)](https://dev.to/appwrite/appwrite-oss-fund-sponsors-oh-my-posh-176l)
-[![AWS MACHINE LEARNING](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_MACHINE_LEARNING.svg)](https://dev.to/shyam1409/aws-machine-learning-3o05)
+[![Earned 10 Certifications on Kaggle.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Earned_10_Certifications_on_Kaggle..svg)](https://dev.to/thunderstroke/earned-10-certifications-on-kaggle-6ae)
+[![What is JavaScript's Anonymous and Arrow function?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_JavaScript's_Anonymous_and_Arrow_function_.svg)](https://dev.to/surajondev/what-is-javascripts-anonymous-and-arrow-function-273m)
+[![Set Up a React App Using Clean Architecture by Running One Command](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Set_Up_a_React_App_Using_Clean_Architecture_by_Running_One_Command.svg)](https://dev.to/rubemfsv/set-up-a-react-app-using-clean-architecture-by-running-one-command-133c)
+[![AWS Cost Explorer - Cost Anomaly Detection Report identifed an unauthorized Amazon Sagemaker Canvas user](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_Cost_Explorer_-_Cost_Anomaly_Detection_Report_identifed_an_unauthorized_Amazon_Sagemaker_Canvas_user.svg)](https://dev.to/aws-builders/aws-cost-explorer-cost-anomaly-detection-report-identifed-an-unauthorized-amazon-sagemaker-canvas-user-3524)
+[![A universal TOAST widget for any website!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_universal_TOAST_widget_for_any_website!.svg)](https://dev.to/2nthony/a-universal-toast-widget-for-any-website-ab5)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, July 18, 2022 at 6:19:17 AM
+> Last updated: Monday, July 18, 2022 at 12:12:45 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, July 18, 2022 at 6:19:19 AM
+> Last updated: Monday, July 18, 2022 at 12:12:51 PM
 
 > Showing 5 of 30 posts.
 
+[![Sharing Types Between Your Frontend and Backend Applications](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Sharing_Types_Between_Your_Frontend_and_Backend_Applications.svg)](https://bit.dev/)
+[![GitHub - andylvua/BibaAndBoba: Python package for analyzing Telegram chats and finding correlations between people](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_andylvua_BibaAndBoba__Python_package_for_analyzing_Telegram_chats_and_finding_correlations_between_people.svg)](https://github.com/andylvua/BibaAndBoba)
 [![Top 25 Tips for Building an EXTREMELY FAST Website!!!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Top_25_Tips_for_Building_an_EXTREMELY_FAST_Website!!!.svg)](https://www.youtube.com/watch?v=XZHNqEbuUMI)
 [![Build React.js From Scratch | Course Preview](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_React.js_From_Scratch___Course_Preview.svg)](https://www.youtube.com/watch?v=zx6GRScq93U)
 [![fluent-vue - Internationalization plugin for Vue.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/fluent-vue_-_Internationalization_plugin_for_Vue.js.svg)](https://fluent-vue.demivan.me/)
-[![Autogenerate Your GraphQL Documentation With Magidoc | HackerNoon](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Autogenerate_Your_GraphQL_Documentation_With_Magidoc___HackerNoon.svg)](
-https://hackernoon.com/autogenerate-your-graphql-documentation-with-magidoc
-)
-[![Vue v-if and v-else](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Vue_v-if_and_v-else.svg)](
-https://masteringjs.io/tutorials/vue/v-if-else
-)
 
 
 <!-- post-list:end -->
