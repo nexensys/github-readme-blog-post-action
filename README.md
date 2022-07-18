@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, July 17, 2022 at 6:55:35 PM
+> Last updated: Monday, July 18, 2022 at 12:14:17 AM
 
 > Showing 5 of 12 posts.
 
-[![Personalizando o Windows Terminal](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Personalizando_o_Windows_Terminal.svg)](https://dev.to/danicaus/personalizando-o-windows-terminal-50ca)
-[![Introducing Pagefind: Static Low-bandwidth Search at Scale](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_Pagefind__Static_Low-bandwidth_Search_at_Scale.svg)](https://dev.to/avidlarge/introducing-pagefind-static-low-bandwidth-search-at-scale-59of)
-[![Terraform Cloud with VCS Workflow(Github)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Terraform_Cloud_with_VCS_Workflow(Github).svg)](https://dev.to/af/terraform-cloud-with-vcs-github-integration-1fjj)
-[![Como desacoplar a Navegação no React Native](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Como_desacoplar_a_Navegação_no_React_Native.svg)](https://dev.to/marlonbelomarques/como-desacoplar-a-navegacao-no-react-native-5c72)
-[![How to Build A BMI Calculator in React JS - useState Hook & Conditionals | Beginner](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Build_A_BMI_Calculator_in_React_JS_-_useState_Hook___Conditionals___Beginner.svg)](https://dev.to/ziontutorial/how-to-build-a-bmi-calculator-in-react-js-usestate-hook-conditionals-beginner-44ah)
+[![Being a Web Developer - Programming Languages](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Being_a_Web_Developer_-_Programming_Languages.svg)](https://dev.to/mrpaulishaili/being-a-web-developer-programming-languages-1mfj)
+[![Raspberry Pi: Comparing HDD Disk Read and Write Performance for external USB and SATA Drives](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Raspberry_Pi__Comparing_HDD_Disk_Read_and_Write_Performance_for_external_USB_and_SATA_Drives.svg)](https://dev.to/admantium/raspberry-pi-comparing-hdd-disk-read-and-write-performance-for-external-usb-and-sata-drives-b5e)
+[![Deploy EventCatalog to AWS CloudFront with Google SSO Access Control via Terraform](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deploy_EventCatalog_to_AWS_CloudFront_with_Google_SSO_Access_Control_via_Terraform.svg)](https://dev.to/aws-builders/deploy-eventcatalog-to-aws-cloudfront-with-google-sso-access-control-via-terraform-7jp)
+[![What is the significance, and what are the benefits, of including 'use strict' at the beginning of a JavaScript source file?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_the_significance__and_what_are_the_benefits__of_including_'use_strict'_at_the_beginning_of_a_JavaScript_source_file_.svg)](https://dev.to/anewman15/what-is-the-significance-and-what-are-the-benefits-of-including-use-strict-at-the-beginning-of-a-javascript-source-file-5c5l)
+[![How I reduced clients website loading speed from 10 to 2 sec? Time: 2 hours, Charged: $500](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_I_reduced_clients_website_loading_speed_from_10_to_2_sec__Time__2_hours__Charged__$500.svg)](https://dev.to/heynikhila/how-i-reduced-clients-website-loading-speed-from-10-to-2-sec-time-2-hours-charged-500-46jn)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, July 17, 2022 at 6:55:39 PM
+> Last updated: Monday, July 18, 2022 at 12:14:21 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, July 17, 2022 at 6:55:45 PM
+> Last updated: Monday, July 18, 2022 at 12:14:24 AM
 
 > Showing 5 of 30 posts.
 
