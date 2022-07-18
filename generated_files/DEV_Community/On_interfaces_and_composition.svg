@@ -78,11 +78,11 @@
       <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
         <div class="image" />
 <div class="text">
-          <div class="title">Being&#0032;a&#0032;Web&#0032;Developer&#0032;&#0045;&#0032;Programming&#0032;Languages</div>
-          <div class="description">What&#0032;are&#0032;programming&#0032;languages&#0063;&#0032;&#0032;&#0032;Programming&#0032;languages&#0032;are&#0032;a&#0032;way&#0032;for&#0032;humans&#0032;and&#0032;computers&#0046;&#0046;&#0046;</div>
+          <div class="title">On&#0032;interfaces&#0032;and&#0032;composition</div>
+          <div class="description">On&#0032;interfaces&#0032;and&#0032;composition&#0032;&#0032;&#0032;Abstractions&#0032;are&#0032;great&#0044;&#0032;when&#0032;done&#0032;in&#0032;moderation&#0044;&#0032;with&#0032;the&#0046;&#0046;&#0046;</div>
           <div class="date">7&#0047;18&#0047;22</div>
           <div class="data">
-            <span class="author">Paul&#0032;C&#0046;&#0032;Ishaili&#0032;</span> <span class="category">html</span> <span class="category">css</span> <span class="category">javascript</span> <span class="category">typescript</span>
+            <span class="author">Gabor&#0032;Javorszky</span> <span class="category">go</span> <span class="category">tutorial</span> <span class="category">architecture</span>
           </div>
         </div>
       </div>

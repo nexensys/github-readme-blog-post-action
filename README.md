@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, July 18, 2022 at 12:14:17 AM
+> Last updated: Monday, July 18, 2022 at 6:19:14 AM
 
 > Showing 5 of 12 posts.
 
-[![Being a Web Developer - Programming Languages](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Being_a_Web_Developer_-_Programming_Languages.svg)](https://dev.to/mrpaulishaili/being-a-web-developer-programming-languages-1mfj)
-[![Raspberry Pi: Comparing HDD Disk Read and Write Performance for external USB and SATA Drives](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Raspberry_Pi__Comparing_HDD_Disk_Read_and_Write_Performance_for_external_USB_and_SATA_Drives.svg)](https://dev.to/admantium/raspberry-pi-comparing-hdd-disk-read-and-write-performance-for-external-usb-and-sata-drives-b5e)
-[![Deploy EventCatalog to AWS CloudFront with Google SSO Access Control via Terraform](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deploy_EventCatalog_to_AWS_CloudFront_with_Google_SSO_Access_Control_via_Terraform.svg)](https://dev.to/aws-builders/deploy-eventcatalog-to-aws-cloudfront-with-google-sso-access-control-via-terraform-7jp)
-[![What is the significance, and what are the benefits, of including 'use strict' at the beginning of a JavaScript source file?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_the_significance__and_what_are_the_benefits__of_including_'use_strict'_at_the_beginning_of_a_JavaScript_source_file_.svg)](https://dev.to/anewman15/what-is-the-significance-and-what-are-the-benefits-of-including-use-strict-at-the-beginning-of-a-javascript-source-file-5c5l)
-[![How I reduced clients website loading speed from 10 to 2 sec? Time: 2 hours, Charged: $500](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_I_reduced_clients_website_loading_speed_from_10_to_2_sec__Time__2_hours__Charged__$500.svg)](https://dev.to/heynikhila/how-i-reduced-clients-website-loading-speed-from-10-to-2-sec-time-2-hours-charged-500-46jn)
+[![Coding Period GSoC'22 | Week 4 + 5](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Coding_Period_GSoC'22___Week_4_+_5.svg)](https://dev.to/pulkit30/coding-period-gsoc22-week-4-5-4l6l)
+[![On interfaces and composition](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/On_interfaces_and_composition.svg)](https://dev.to/javorszky/on-interfaces-and-composition-4ppm)
+[![What is Luos, really? How we built the speech](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_Luos__really__How_we_built_the_speech.svg)](https://dev.to/luos/what-is-luos-really-how-we-built-the-speech-5ho)
+[![Appwrite OSS Fund Sponsors Oh My Posh](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Appwrite_OSS_Fund_Sponsors_Oh_My_Posh.svg)](https://dev.to/appwrite/appwrite-oss-fund-sponsors-oh-my-posh-176l)
+[![AWS MACHINE LEARNING](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_MACHINE_LEARNING.svg)](https://dev.to/shyam1409/aws-machine-learning-3o05)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, July 18, 2022 at 12:14:21 AM
+> Last updated: Monday, July 18, 2022 at 6:19:17 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,12 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, July 18, 2022 at 12:14:24 AM
+> Last updated: Monday, July 18, 2022 at 6:19:19 AM
 
 > Showing 5 of 30 posts.
 
+[![Top 25 Tips for Building an EXTREMELY FAST Website!!!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Top_25_Tips_for_Building_an_EXTREMELY_FAST_Website!!!.svg)](https://www.youtube.com/watch?v=XZHNqEbuUMI)
+[![Build React.js From Scratch | Course Preview](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_React.js_From_Scratch___Course_Preview.svg)](https://www.youtube.com/watch?v=zx6GRScq93U)
 [![fluent-vue - Internationalization plugin for Vue.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/fluent-vue_-_Internationalization_plugin_for_Vue.js.svg)](https://fluent-vue.demivan.me/)
 [![Autogenerate Your GraphQL Documentation With Magidoc | HackerNoon](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Autogenerate_Your_GraphQL_Documentation_With_Magidoc___HackerNoon.svg)](
 https://hackernoon.com/autogenerate-your-graphql-documentation-with-magidoc
@@ -54,10 +56,6 @@ https://hackernoon.com/autogenerate-your-graphql-documentation-with-magidoc
 [![Vue v-if and v-else](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Vue_v-if_and_v-else.svg)](
 https://masteringjs.io/tutorials/vue/v-if-else
 )
-[![Build a Notes App with Next.js and Webiny Headless CMS | Webiny](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_a_Notes_App_with_Next.js_and_Webiny_Headless_CMS___Webiny.svg)](
-https://www.webiny.com/blog/build-notes-app-nextjs-webiny-headless-cms
-)
-[![Start with Ultra, the new React web framework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Start_with_Ultra__the_new_React_web_framework.svg)](https://blog.openreplay.com/start-with-ultra-the-new-react-web-framework)
 
 
 <!-- post-list:end -->
