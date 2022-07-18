@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, July 17, 2022 at 12:11:09 PM
+> Last updated: Sunday, July 17, 2022 at 6:55:35 PM
 
 > Showing 5 of 12 posts.
 
-[![API Validation: Why You Need It](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/API_Validation__Why_You_Need_It.svg)](https://dev.to/annabaker/api-validation-why-you-need-it-mb9)
-[![For those who wish to have a better resume. Just Contribute to this.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/For_those_who_wish_to_have_a_better_resume._Just_Contribute_to_this..svg)](https://dev.to/shrihari/for-those-who-wish-to-have-a-better-resume-just-contribue-to-this-313c)
-[![Laravel Livewire Turbolinks with Image lazyload](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Laravel_Livewire_Turbolinks_with_Image_lazyload.svg)](https://dev.to/shshank/laravel-livewire-turbolinks-with-image-lazyload-3kll)
-[![Side Project Sunday! What do you have going on?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Side_Project_Sunday!_What_do_you_have_going_on_.svg)](https://dev.to/ben/side-project-sunday-what-do-you-have-going-on-185l)
-[![POUR - The 4 Web accessibility principles](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/POUR_-_The_4_Web_accessibility_principles.svg)](https://dev.to/yuridevat/pour-the-4-web-accessibility-principles-edp)
+[![Personalizando o Windows Terminal](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Personalizando_o_Windows_Terminal.svg)](https://dev.to/danicaus/personalizando-o-windows-terminal-50ca)
+[![Introducing Pagefind: Static Low-bandwidth Search at Scale](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_Pagefind__Static_Low-bandwidth_Search_at_Scale.svg)](https://dev.to/avidlarge/introducing-pagefind-static-low-bandwidth-search-at-scale-59of)
+[![Terraform Cloud with VCS Workflow(Github)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Terraform_Cloud_with_VCS_Workflow(Github).svg)](https://dev.to/af/terraform-cloud-with-vcs-github-integration-1fjj)
+[![Como desacoplar a Navegação no React Native](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Como_desacoplar_a_Navegação_no_React_Native.svg)](https://dev.to/marlonbelomarques/como-desacoplar-a-navegacao-no-react-native-5c72)
+[![How to Build A BMI Calculator in React JS - useState Hook & Conditionals | Beginner](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Build_A_BMI_Calculator_in_React_JS_-_useState_Hook___Conditionals___Beginner.svg)](https://dev.to/ziontutorial/how-to-build-a-bmi-calculator-in-react-js-usestate-hook-conditionals-beginner-44ah)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, July 17, 2022 at 12:11:11 PM
+> Last updated: Sunday, July 17, 2022 at 6:55:39 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, July 17, 2022 at 12:11:14 PM
+> Last updated: Sunday, July 17, 2022 at 6:55:45 PM
 
 > Showing 5 of 30 posts.
 
