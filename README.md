@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, July 18, 2022 at 12:12:41 PM
+> Last updated: Monday, July 18, 2022 at 7:01:31 PM
 
 > Showing 5 of 12 posts.
 
-[![Earned 10 Certifications on Kaggle.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Earned_10_Certifications_on_Kaggle..svg)](https://dev.to/thunderstroke/earned-10-certifications-on-kaggle-6ae)
-[![What is JavaScript's Anonymous and Arrow function?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_JavaScript's_Anonymous_and_Arrow_function_.svg)](https://dev.to/surajondev/what-is-javascripts-anonymous-and-arrow-function-273m)
-[![Set Up a React App Using Clean Architecture by Running One Command](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Set_Up_a_React_App_Using_Clean_Architecture_by_Running_One_Command.svg)](https://dev.to/rubemfsv/set-up-a-react-app-using-clean-architecture-by-running-one-command-133c)
-[![AWS Cost Explorer - Cost Anomaly Detection Report identifed an unauthorized Amazon Sagemaker Canvas user](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_Cost_Explorer_-_Cost_Anomaly_Detection_Report_identifed_an_unauthorized_Amazon_Sagemaker_Canvas_user.svg)](https://dev.to/aws-builders/aws-cost-explorer-cost-anomaly-detection-report-identifed-an-unauthorized-amazon-sagemaker-canvas-user-3524)
-[![A universal TOAST widget for any website!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_universal_TOAST_widget_for_any_website!.svg)](https://dev.to/2nthony/a-universal-toast-widget-for-any-website-ab5)
+[![🎮 Learn JavaScript while playing games👾](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🎮_Learn_JavaScript_while_playing_games👾.svg)](https://dev.to/monicafidalgo/learn-javascript-while-playing-games-4ong)
+[![How to add GitHub authentication to a Next.js application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_add_GitHub_authentication_to_a_Next.js_application.svg)](https://dev.to/kizmelvin/how-to-add-github-authentication-to-a-nextjs-application-1nfi)
+[![Tutorial: communication between sibling components using state, and controlled forms](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tutorial__communication_between_sibling_components_using_state__and_controlled_forms.svg)](https://dev.to/williamluck/tutorial-communication-between-sibling-components-using-state-and-controlled-forms-1m77)
+[![Save Time Building Static Sites: New Editor Improvements](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Save_Time_Building_Static_Sites__New_Editor_Improvements.svg)](https://dev.to/cloudcannon/save-time-building-static-sites-new-editor-improvements-1je2)
+[![Waffleweb: A New WSGI-Compatible Python Web Framework.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Waffleweb__A_New_WSGI-Compatible_Python_Web_Framework..svg)](https://dev.to/berserkware/waffleweb-a-new-wsgi-compatible-python-web-framework-2kll)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, July 18, 2022 at 12:12:45 PM
+> Last updated: Monday, July 18, 2022 at 7:01:35 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, July 18, 2022 at 12:12:51 PM
+> Last updated: Monday, July 18, 2022 at 7:01:41 PM
 
 > Showing 5 of 30 posts.
 
+[![API with NestJS #68. Interacting with the application through REPL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__68._Interacting_with_the_application_through_REPL.svg)](http://wanago.io/2022/07/18/api-nestjs-repl/)
+[![Vue v-else-if](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Vue_v-else-if.svg)](
+https://masteringjs.io/tutorials/vue/v-else-if
+)
 [![Sharing Types Between Your Frontend and Backend Applications](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Sharing_Types_Between_Your_Frontend_and_Backend_Applications.svg)](https://bit.dev/)
-[![GitHub - andylvua/BibaAndBoba: Python package for analyzing Telegram chats and finding correlations between people](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_andylvua_BibaAndBoba__Python_package_for_analyzing_Telegram_chats_and_finding_correlations_between_people.svg)](https://github.com/andylvua/BibaAndBoba)
 [![Top 25 Tips for Building an EXTREMELY FAST Website!!!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Top_25_Tips_for_Building_an_EXTREMELY_FAST_Website!!!.svg)](https://www.youtube.com/watch?v=XZHNqEbuUMI)
 [![Build React.js From Scratch | Course Preview](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_React.js_From_Scratch___Course_Preview.svg)](https://www.youtube.com/watch?v=zx6GRScq93U)
-[![fluent-vue - Internationalization plugin for Vue.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/fluent-vue_-_Internationalization_plugin_for_Vue.js.svg)](https://fluent-vue.demivan.me/)
 
 
 <!-- post-list:end -->
