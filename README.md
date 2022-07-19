@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, July 19, 2022 at 12:13:56 AM
+> Last updated: Tuesday, July 19, 2022 at 6:20:26 AM
 
 > Showing 5 of 12 posts.
 
-[![Important Topics for Frontend Development Interview](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Important_Topics_for_Frontend_Development_Interview.svg)](https://dev.to/vamsitupakula_/important-topics-for-frontend-development-interview-48m4)
-[![Lesser-known CSS property](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Lesser-known_CSS_property.svg)](https://dev.to/devsimc/lesser-known-css-property-12ff)
-[![Show Your Desk Setup 🔥 🖥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Show_Your_Desk_Setup_🔥_🖥.svg)](https://dev.to/heydrdev/show-your-desk-setup-3id2)
-[![How to prepare for your first tech interview?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_prepare_for_your_first_tech_interview_.svg)](https://dev.to/anamdiazs/how-to-prepare-for-your-first-tech-interview-4191)
-[![JSX for beginners (and how it differs from HTML)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JSX_for_beginners_(and_how_it_differs_from_HTML).svg)](https://dev.to/babib/jsx-for-beginners-and-how-it-differs-from-html-2l9e)
+[![Build and use embedded packages with Luos](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_and_use_embedded_packages_with_Luos.svg)](https://dev.to/luos/build-and-use-embedded-packages-with-luos-46k8)
+[![Book Notes - How Linux Works](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Book_Notes_-_How_Linux_Works.svg)](https://dev.to/ethand91/book-notes-how-linux-works-m9d)
+[![What Is Next.js And Why Developers Love It](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_Is_Next.js_And_Why_Developers_Love_It.svg)](https://dev.to/austinshelby/what-is-nextjs-and-why-developers-love-it-42lk)
+[![How I Integrated Live Chat into Gatsby with Tidio and Medusa](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_I_Integrated_Live_Chat_into_Gatsby_with_Tidio_and_Medusa.svg)](https://dev.to/medusajs/how-i-integrated-live-chat-into-gatsby-with-tidio-and-medusa-5a3i)
+[![Sending Client-side Emails using EmailJs in ReactJs App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Sending_Client-side_Emails_using_EmailJs_in_ReactJs_App.svg)](https://dev.to/adarshgoyal/sending-client-side-emails-using-emailjs-in-reactjs-app-58im)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, July 19, 2022 at 12:13:59 AM
+> Last updated: Tuesday, July 19, 2022 at 6:20:30 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, July 19, 2022 at 12:14:03 AM
+> Last updated: Tuesday, July 19, 2022 at 6:20:37 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - remult/remult: A CRUD framework for full stack TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_remult_remult__A_CRUD_framework_for_full_stack_TypeScript.svg)](https://github.com/remult/remult)
 [![API with NestJS #68. Interacting with the application through REPL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__68._Interacting_with_the_application_through_REPL.svg)](http://wanago.io/2022/07/18/api-nestjs-repl/)
 [![Vue v-else-if](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Vue_v-else-if.svg)](
 https://masteringjs.io/tutorials/vue/v-else-if
 )
 [![Sharing Types Between Your Frontend and Backend Applications](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Sharing_Types_Between_Your_Frontend_and_Backend_Applications.svg)](https://bit.dev/)
 [![Top 25 Tips for Building an EXTREMELY FAST Website!!!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Top_25_Tips_for_Building_an_EXTREMELY_FAST_Website!!!.svg)](https://www.youtube.com/watch?v=XZHNqEbuUMI)
-[![Build React.js From Scratch | Course Preview](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_React.js_From_Scratch___Course_Preview.svg)](https://www.youtube.com/watch?v=zx6GRScq93U)
 
 
 <!-- post-list:end -->
