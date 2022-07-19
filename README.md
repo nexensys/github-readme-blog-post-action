@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, July 18, 2022 at 7:01:31 PM
+> Last updated: Tuesday, July 19, 2022 at 12:13:56 AM
 
 > Showing 5 of 12 posts.
 
-[![🎮 Learn JavaScript while playing games👾](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🎮_Learn_JavaScript_while_playing_games👾.svg)](https://dev.to/monicafidalgo/learn-javascript-while-playing-games-4ong)
-[![How to add GitHub authentication to a Next.js application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_add_GitHub_authentication_to_a_Next.js_application.svg)](https://dev.to/kizmelvin/how-to-add-github-authentication-to-a-nextjs-application-1nfi)
-[![Tutorial: communication between sibling components using state, and controlled forms](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tutorial__communication_between_sibling_components_using_state__and_controlled_forms.svg)](https://dev.to/williamluck/tutorial-communication-between-sibling-components-using-state-and-controlled-forms-1m77)
-[![Save Time Building Static Sites: New Editor Improvements](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Save_Time_Building_Static_Sites__New_Editor_Improvements.svg)](https://dev.to/cloudcannon/save-time-building-static-sites-new-editor-improvements-1je2)
-[![Waffleweb: A New WSGI-Compatible Python Web Framework.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Waffleweb__A_New_WSGI-Compatible_Python_Web_Framework..svg)](https://dev.to/berserkware/waffleweb-a-new-wsgi-compatible-python-web-framework-2kll)
+[![Important Topics for Frontend Development Interview](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Important_Topics_for_Frontend_Development_Interview.svg)](https://dev.to/vamsitupakula_/important-topics-for-frontend-development-interview-48m4)
+[![Lesser-known CSS property](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Lesser-known_CSS_property.svg)](https://dev.to/devsimc/lesser-known-css-property-12ff)
+[![Show Your Desk Setup 🔥 🖥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Show_Your_Desk_Setup_🔥_🖥.svg)](https://dev.to/heydrdev/show-your-desk-setup-3id2)
+[![How to prepare for your first tech interview?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_prepare_for_your_first_tech_interview_.svg)](https://dev.to/anamdiazs/how-to-prepare-for-your-first-tech-interview-4191)
+[![JSX for beginners (and how it differs from HTML)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JSX_for_beginners_(and_how_it_differs_from_HTML).svg)](https://dev.to/babib/jsx-for-beginners-and-how-it-differs-from-html-2l9e)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, July 18, 2022 at 7:01:35 PM
+> Last updated: Tuesday, July 19, 2022 at 12:13:59 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, July 18, 2022 at 7:01:41 PM
+> Last updated: Tuesday, July 19, 2022 at 12:14:03 AM
 
 > Showing 5 of 30 posts.
 
