@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, July 19, 2022 at 6:20:26 AM
+> Last updated: Tuesday, July 19, 2022 at 12:12:32 PM
 
 > Showing 5 of 12 posts.
 
-[![Build and use embedded packages with Luos](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_and_use_embedded_packages_with_Luos.svg)](https://dev.to/luos/build-and-use-embedded-packages-with-luos-46k8)
-[![Book Notes - How Linux Works](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Book_Notes_-_How_Linux_Works.svg)](https://dev.to/ethand91/book-notes-how-linux-works-m9d)
-[![What Is Next.js And Why Developers Love It](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_Is_Next.js_And_Why_Developers_Love_It.svg)](https://dev.to/austinshelby/what-is-nextjs-and-why-developers-love-it-42lk)
-[![How I Integrated Live Chat into Gatsby with Tidio and Medusa](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_I_Integrated_Live_Chat_into_Gatsby_with_Tidio_and_Medusa.svg)](https://dev.to/medusajs/how-i-integrated-live-chat-into-gatsby-with-tidio-and-medusa-5a3i)
-[![Sending Client-side Emails using EmailJs in ReactJs App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Sending_Client-side_Emails_using_EmailJs_in_ReactJs_App.svg)](https://dev.to/adarshgoyal/sending-client-side-emails-using-emailjs-in-reactjs-app-58im)
+[![New release: Open source code editor for data pipelines](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/New_release__Open_source_code_editor_for_data_pipelines.svg)](https://dev.to/mage_ai/new-release-open-source-code-editor-for-data-pipelines-15c0)
+[![Appwrite Community Discord 3.0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Appwrite_Community_Discord_3.0.svg)](https://dev.to/appwrite/appwrite-community-discord-30-26l)
+[![Themes for Vs code IDE](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Themes_for_Vs_code_IDE.svg)](https://dev.to/itskunal/themes-for-vs-code-ide-376p)
+[![Who is a good communicator?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Who_is_a_good_communicator_.svg)](https://dev.to/sainig/who-is-a-good-communicator-2hp2)
+[![Exporting reports to Excel with DotVVM Business Pack](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exporting_reports_to_Excel_with_DotVVM_Business_Pack.svg)](https://dev.to/esdanielgomez/exporting-reports-to-excel-with-dotvvm-business-pack-4o4c)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, July 19, 2022 at 6:20:30 AM
+> Last updated: Tuesday, July 19, 2022 at 12:12:35 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, July 19, 2022 at 6:20:37 AM
+> Last updated: Tuesday, July 19, 2022 at 12:12:39 PM
 
 > Showing 5 of 30 posts.
 
-[![GitHub - remult/remult: A CRUD framework for full stack TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_remult_remult__A_CRUD_framework_for_full_stack_TypeScript.svg)](https://github.com/remult/remult)
-[![API with NestJS #68. Interacting with the application through REPL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__68._Interacting_with_the_application_through_REPL.svg)](http://wanago.io/2022/07/18/api-nestjs-repl/)
-[![Vue v-else-if](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Vue_v-else-if.svg)](
-https://masteringjs.io/tutorials/vue/v-else-if
-)
-[![Sharing Types Between Your Frontend and Backend Applications](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Sharing_Types_Between_Your_Frontend_and_Backend_Applications.svg)](https://bit.dev/)
-[![Top 25 Tips for Building an EXTREMELY FAST Website!!!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Top_25_Tips_for_Building_an_EXTREMELY_FAST_Website!!!.svg)](https://www.youtube.com/watch?v=XZHNqEbuUMI)
+[![Getting started with Îles](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Getting_started_with_Îles.svg)](https://blog.openreplay.com/getting-started-with-iles)
+[![Understanding React dynamic imports for faster websites](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Understanding_React_dynamic_imports_for_faster_websites.svg)](https://blog.openreplay.com/understanding-react-dynamic-imports-for-faster-websites)
+[![Creating a collapsible component for React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Creating_a_collapsible_component_for_React.svg)](https://blog.openreplay.com/creating-a-collapsible-component-for-react)
+[![Drag-and-drop with Angular Material](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Drag-and-drop_with_Angular_Material.svg)](https://blog.openreplay.com/drag-and-drop-with-angular-material)
+[![Release Neutralinojs v4.7.0 released! · neutralinojs/neutralinojs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Release_Neutralinojs_v4.7.0_released!_·_neutralinojs_neutralinojs.svg)](/neutralinojs/neutralinojs/releases/tag/v4.7.0)
 
 
 <!-- post-list:end -->
