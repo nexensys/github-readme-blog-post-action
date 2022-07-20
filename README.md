@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, July 19, 2022 at 6:53:09 PM
+> Last updated: Wednesday, July 20, 2022 at 12:13:20 AM
 
 > Showing 5 of 12 posts.
 
-[![Unit testing isn't what you think](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unit_testing_isn't_what_you_think.svg)](https://dev.to/dadyasasha/unit-testing-isnt-what-you-think-1ij5)
-[![Quer limitar o número de requisições na sua api?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Quer_limitar_o_número_de_requisições_na_sua_api_.svg)](https://dev.to/marciopolicarpo/quer-limitar-o-numero-de-requisicoes-na-sua-api-532n)
-[![Arc: First Impressions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Arc__First_Impressions.svg)](https://dev.to/tacoda/arc-first-impressions-2hme)
-[![What to Look for in a Payment Gateway API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_to_Look_for_in_a_Payment_Gateway_API.svg)](https://dev.to/rapyd/what-to-look-for-in-a-payment-gateway-api-2370)
-[![Awesome animated search bar with icon in HTML & CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Awesome_animated_search_bar_with_icon_in_HTML___CSS.svg)](https://dev.to/codewithayan/awesome-animated-search-bar-with-icon-in-html-css-1eep)
+[![2 Easy Steps To Host WordPress Like a Magic On AWS With Amazon Lightsail](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/2_Easy_Steps_To_Host_WordPress_Like_a_Magic_On_AWS_With_Amazon_Lightsail.svg)](https://dev.to/aws-builders/2-easy-steps-to-host-wordpress-like-a-magic-on-aws-with-amazon-lightsail-23e2)
+[![Best Way For Giving Permission To AWS Services](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_Way_For_Giving_Permission_To_AWS_Services.svg)](https://dev.to/aws-builders/best-way-for-giving-permission-to-aws-services-286m)
+[![Using RedisJSON and RedisSearch operation in Redis](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_RedisJSON_and_RedisSearch_operation_in_Redis.svg)](https://dev.to/ishanme/using-redisjson-and-redissearch-operation-in-redis-2ec1)
+[![🔥 8 full-forms that every programmer should know 🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🔥_8_full-forms_that_every_programmer_should_know_🔥.svg)](https://dev.to/devsimc/8-full-forms-that-every-programmer-should-know-1hfd)
+[![PROCESS OF WEB DESIGNING & APP DEVELOPMENT AT LIVEUPX PVT. LTD.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/PROCESS_OF_WEB_DESIGNING___APP_DEVELOPMENT_AT_LIVEUPX_PVT._LTD..svg)](https://dev.to/ammohitchaprana/process-of-web-designing-app-development-at-liveupx-pvt-ltd-421)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, July 19, 2022 at 6:53:13 PM
+> Last updated: Wednesday, July 20, 2022 at 12:13:23 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, July 19, 2022 at 6:53:16 PM
+> Last updated: Wednesday, July 20, 2022 at 12:13:28 AM
 
 > Showing 5 of 30 posts.
 
