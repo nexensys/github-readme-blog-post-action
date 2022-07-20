@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, July 20, 2022 at 12:13:20 AM
+> Last updated: Wednesday, July 20, 2022 at 6:18:53 AM
 
 > Showing 5 of 12 posts.
 
-[![2 Easy Steps To Host WordPress Like a Magic On AWS With Amazon Lightsail](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/2_Easy_Steps_To_Host_WordPress_Like_a_Magic_On_AWS_With_Amazon_Lightsail.svg)](https://dev.to/aws-builders/2-easy-steps-to-host-wordpress-like-a-magic-on-aws-with-amazon-lightsail-23e2)
-[![Best Way For Giving Permission To AWS Services](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_Way_For_Giving_Permission_To_AWS_Services.svg)](https://dev.to/aws-builders/best-way-for-giving-permission-to-aws-services-286m)
-[![Using RedisJSON and RedisSearch operation in Redis](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_RedisJSON_and_RedisSearch_operation_in_Redis.svg)](https://dev.to/ishanme/using-redisjson-and-redissearch-operation-in-redis-2ec1)
-[![🔥 8 full-forms that every programmer should know 🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🔥_8_full-forms_that_every_programmer_should_know_🔥.svg)](https://dev.to/devsimc/8-full-forms-that-every-programmer-should-know-1hfd)
-[![PROCESS OF WEB DESIGNING & APP DEVELOPMENT AT LIVEUPX PVT. LTD.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/PROCESS_OF_WEB_DESIGNING___APP_DEVELOPMENT_AT_LIVEUPX_PVT._LTD..svg)](https://dev.to/ammohitchaprana/process-of-web-designing-app-development-at-liveupx-pvt-ltd-421)
+[![Design your SQL database visually](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Design_your_SQL_database_visually.svg)](https://dev.to/polterguy/design-your-sql-database-visually-3dci)
+[![How to generate /sitemap.xml route in Remix framework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_generate__sitemap.xml_route_in_Remix_framework.svg)](https://dev.to/burhanharoon/how-to-generate-sitemapxml-route-in-remix-framework-25dc)
+[![Angular with NativeScript to build robust iPhone Apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Angular_with_NativeScript_to_build_robust_iPhone_Apps.svg)](https://dev.to/scalacode/angular-with-nativescript-to-build-robust-iphone-apps-4c3f)
+[![Allocate swap memory to Ec2 linux instance or any other linux machine](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Allocate_swap_memory_to_Ec2_linux_instance_or_any_other_linux_machine.svg)](https://dev.to/shankarsurya035/allocate-swap-memory-to-ec2-linux-instance-or-any-other-linux-machine-2ldh)
+[![Cancel This App Update, Dammit!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cancel_This_App_Update__Dammit!.svg)](https://dev.to/solidi/cancel-this-app-update-dammit-5f6j)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, July 20, 2022 at 12:13:23 AM
+> Last updated: Wednesday, July 20, 2022 at 6:18:55 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, July 20, 2022 at 12:13:28 AM
+> Last updated: Wednesday, July 20, 2022 at 6:18:58 AM
 
 > Showing 5 of 30 posts.
 
+[![#Economy | Businesses will need to think ‘digital’ if t..](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Economy___Businesses_will_need_to_think_‘digital’_if_t...svg)](https://stockinforce.com/tweet/il&fs-transportation-networks-ltd/1425/economy-businesses-will-need-to-think-%e2%80%98digital-if-they-are-to-compete-and/1509218899585376264)
+[![GitHub - anatoliygatt/dark-mode-toggle: 🌓 A dark mode toggle component for React.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_anatoliygatt_dark-mode-toggle__🌓_A_dark_mode_toggle_component_for_React..svg)](https://github.com/anatoliygatt/dark-mode-toggle)
+[![4 Pitfalls of Angular 14 Typed Forms and How to Fix It](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/4_Pitfalls_of_Angular_14_Typed_Forms_and_How_to_Fix_It.svg)](https://medium.com/@iam.guid/why-new-angular-14-typed-forms-isnt-good-and-how-to-fix-it-1ffebf193df)
 [![Getting started with Îles](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Getting_started_with_Îles.svg)](https://blog.openreplay.com/getting-started-with-iles)
 [![Understanding React dynamic imports for faster websites](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Understanding_React_dynamic_imports_for_faster_websites.svg)](https://blog.openreplay.com/understanding-react-dynamic-imports-for-faster-websites)
-[![Creating a collapsible component for React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Creating_a_collapsible_component_for_React.svg)](https://blog.openreplay.com/creating-a-collapsible-component-for-react)
-[![Drag-and-drop with Angular Material](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Drag-and-drop_with_Angular_Material.svg)](https://blog.openreplay.com/drag-and-drop-with-angular-material)
-[![Release Neutralinojs v4.7.0 released! · neutralinojs/neutralinojs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Release_Neutralinojs_v4.7.0_released!_·_neutralinojs_neutralinojs.svg)](/neutralinojs/neutralinojs/releases/tag/v4.7.0)
 
 
 <!-- post-list:end -->
