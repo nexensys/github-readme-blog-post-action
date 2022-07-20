@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, July 20, 2022 at 6:18:53 AM
+> Last updated: Wednesday, July 20, 2022 at 12:12:37 PM
 
 > Showing 5 of 12 posts.
 
-[![Design your SQL database visually](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Design_your_SQL_database_visually.svg)](https://dev.to/polterguy/design-your-sql-database-visually-3dci)
-[![How to generate /sitemap.xml route in Remix framework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_generate__sitemap.xml_route_in_Remix_framework.svg)](https://dev.to/burhanharoon/how-to-generate-sitemapxml-route-in-remix-framework-25dc)
-[![Angular with NativeScript to build robust iPhone Apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Angular_with_NativeScript_to_build_robust_iPhone_Apps.svg)](https://dev.to/scalacode/angular-with-nativescript-to-build-robust-iphone-apps-4c3f)
-[![Allocate swap memory to Ec2 linux instance or any other linux machine](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Allocate_swap_memory_to_Ec2_linux_instance_or_any_other_linux_machine.svg)](https://dev.to/shankarsurya035/allocate-swap-memory-to-ec2-linux-instance-or-any-other-linux-machine-2ldh)
-[![Cancel This App Update, Dammit!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cancel_This_App_Update__Dammit!.svg)](https://dev.to/solidi/cancel-this-app-update-dammit-5f6j)
+[![Beercss tips #1: Custom progressbar](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Beercss_tips__1__Custom_progressbar.svg)](https://dev.to/leonardorafael/beercss-tips-1-custom-progressbar-jfb)
+[![A short comment on comments in the code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_short_comment_on_comments_in_the_code.svg)](https://dev.to/this-is-learning/a-short-comment-on-comments-in-the-code-1i54)
+[![How did I become a programmer [how did you?]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_did_I_become_a_programmer_[how_did_you_].svg)](https://dev.to/bekbrace/how-did-i-become-a-programmer-how-did-you--248m)
+[![Prepare To Be Laid Off](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Prepare_To_Be_Laid_Off.svg)](https://dev.to/mikhailkaran/prepare-to-be-laid-off-40a2)
+[![Create Simultaneous Allowlists with Signature Drop and Next.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_Simultaneous_Allowlists_with_Signature_Drop_and_Next.js.svg)](https://dev.to/thirdweb/create-simultaneous-allowlists-with-signature-drop-and-nextjs-3aco)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, July 20, 2022 at 6:18:55 AM
+> Last updated: Wednesday, July 20, 2022 at 12:12:40 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, July 20, 2022 at 6:18:58 AM
+> Last updated: Wednesday, July 20, 2022 at 12:12:43 PM
 
 > Showing 5 of 30 posts.
 
