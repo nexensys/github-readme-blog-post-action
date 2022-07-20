@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, July 19, 2022 at 12:12:32 PM
+> Last updated: Tuesday, July 19, 2022 at 6:53:09 PM
 
 > Showing 5 of 12 posts.
 
-[![New release: Open source code editor for data pipelines](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/New_release__Open_source_code_editor_for_data_pipelines.svg)](https://dev.to/mage_ai/new-release-open-source-code-editor-for-data-pipelines-15c0)
-[![Appwrite Community Discord 3.0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Appwrite_Community_Discord_3.0.svg)](https://dev.to/appwrite/appwrite-community-discord-30-26l)
-[![Themes for Vs code IDE](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Themes_for_Vs_code_IDE.svg)](https://dev.to/itskunal/themes-for-vs-code-ide-376p)
-[![Who is a good communicator?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Who_is_a_good_communicator_.svg)](https://dev.to/sainig/who-is-a-good-communicator-2hp2)
-[![Exporting reports to Excel with DotVVM Business Pack](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exporting_reports_to_Excel_with_DotVVM_Business_Pack.svg)](https://dev.to/esdanielgomez/exporting-reports-to-excel-with-dotvvm-business-pack-4o4c)
+[![Unit testing isn't what you think](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unit_testing_isn't_what_you_think.svg)](https://dev.to/dadyasasha/unit-testing-isnt-what-you-think-1ij5)
+[![Quer limitar o número de requisições na sua api?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Quer_limitar_o_número_de_requisições_na_sua_api_.svg)](https://dev.to/marciopolicarpo/quer-limitar-o-numero-de-requisicoes-na-sua-api-532n)
+[![Arc: First Impressions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Arc__First_Impressions.svg)](https://dev.to/tacoda/arc-first-impressions-2hme)
+[![What to Look for in a Payment Gateway API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_to_Look_for_in_a_Payment_Gateway_API.svg)](https://dev.to/rapyd/what-to-look-for-in-a-payment-gateway-api-2370)
+[![Awesome animated search bar with icon in HTML & CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Awesome_animated_search_bar_with_icon_in_HTML___CSS.svg)](https://dev.to/codewithayan/awesome-animated-search-bar-with-icon-in-html-css-1eep)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, July 19, 2022 at 12:12:35 PM
+> Last updated: Tuesday, July 19, 2022 at 6:53:13 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, July 19, 2022 at 12:12:39 PM
+> Last updated: Tuesday, July 19, 2022 at 6:53:16 PM
 
 > Showing 5 of 30 posts.
 
