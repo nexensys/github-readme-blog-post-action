@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, July 21, 2022 at 12:13:16 AM
+> Last updated: Thursday, July 21, 2022 at 6:19:20 AM
 
 > Showing 5 of 12 posts.
 
-[![Prisma - Next-generation ORM](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Prisma_-_Next-generation_ORM.svg)](https://dev.to/ushieru/prisma-next-generation-orm-4ooi)
-[![The roadmap to technical writing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_roadmap_to_technical_writing.svg)](https://dev.to/dailydevtips1/the-roadmap-to-technical-writing-27nk)
-[![5 things to keep in mind as a programmer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_things_to_keep_in_mind_as_a_programmer.svg)](https://dev.to/devsimc/5-things-to-keep-in-mind-as-a-programmer-1c24)
-[![Creating Azure Virtual Machine using PowerShell](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_Azure_Virtual_Machine_using_PowerShell.svg)](https://dev.to/this-is-learning/creating-azure-virtual-machine-using-powershell-26hn)
-[![Connecting to Windows Virtual Machine created on Azure using RDP](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Connecting_to_Windows_Virtual_Machine_created_on_Azure_using_RDP.svg)](https://dev.to/aniketkumarsinha/connecting-to-windows-virtual-machine-created-on-azure-using-rdp-3ed3)
+[![Show dev: I built a collection of open-source drawer components for Tailwind CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Show_dev__I_built_a_collection_of_open-source_drawer_components_for_Tailwind_CSS.svg)](https://dev.to/themesberg/show-dev-i-built-a-collection-of-open-source-drawer-components-for-tailwind-css-3m6e)
+[![Solanart Clone Script - Best Way to Start a Marketplace like Solanart](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Solanart_Clone_Script_-_Best_Way_to_Start_a_Marketplace_like_Solanart.svg)](https://dev.to/emma_lightwood/solanart-clone-script-best-way-to-start-a-marketplace-like-solanart-21c9)
+[![Redis Monitoring with OpenTelemetry and SigNoz](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Redis_Monitoring_with_OpenTelemetry_and_SigNoz.svg)](https://dev.to/signoz/redis-monitoring-with-opentelemetry-and-signoz-3j66)
+[![Continuous Integration with Drone on Kubernetes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Continuous_Integration_with_Drone_on_Kubernetes.svg)](https://dev.to/kameshsampath/continuous-integration-with-drone-on-kubernetes-1jil)
+[![A Web Developer's Ultimate Guide to the Terminal on macOS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Web_Developer's_Ultimate_Guide_to_the_Terminal_on_macOS.svg)](https://dev.to/scrimba/a-web-developers-ultimate-guide-to-the-terminal-on-macos-3lmb)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, July 21, 2022 at 12:13:20 AM
+> Last updated: Thursday, July 21, 2022 at 6:19:22 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, July 21, 2022 at 12:13:26 AM
+> Last updated: Thursday, July 21, 2022 at 6:19:25 AM
 
 > Showing 5 of 30 posts.
 
+[![Connect Interior](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Connect_Interior.svg)](https://connectinterior.com/)
 [![Angular Chat Application Tutorial](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Angular_Chat_Application_Tutorial.svg)](https://metered.hashnode.dev/angular-chat-application-tutorial)
 [![SQL: The Universal Solvent for REST APIs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/SQL__The_Universal_Solvent_for_REST_APIs.svg)](https://www.oreilly.com/radar/sql-the-universal-solvent-for-rest-apis/)
 [![
@@ -55,7 +56,6 @@ Submit a new story - Echo JS
 https://www.echojs.com/submit
 )
 [![JavaScript Types and Values, explained](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Types_and_Values__explained.svg)](https://blog.openreplay.com/javascript-types-and-values-explained)
-[![PyScrypt: Python on the Web](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/PyScrypt__Python_on_the_Web.svg)](https://blog.openreplay.com/pyscrypt-python-on-the-web)
 
 
 <!-- post-list:end -->
