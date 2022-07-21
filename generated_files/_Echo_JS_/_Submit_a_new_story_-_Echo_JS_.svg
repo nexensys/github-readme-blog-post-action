@@ -67,8 +67,8 @@
     <foreignObject width="600" height="100" x="5" y="5">
       <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
         <div class="text">
-          <div class="title">4&#0032;Pitfalls&#0032;of&#0032;Angular&#0032;14&#0032;Typed&#0032;Forms&#0032;and&#0032;How&#0032;to&#0032;Fix&#0032;It</div>
-          <div class="description">You&#0032;can’t&#0032;get&#0032;FormGroup&#0032;or&#0032;FormArray&#0032;from&#0032;your&#0032;models’&#0032;types&#0046;&#0032;But&#0032;in&#0032;real&#0045;world&#0032;forms&#0032;bind&#0032;with&#0032;models&#0046;&#0032;You&#0032;should&#0032;be&#0032;able&#0032;to&#0032;construct&#0032;controls’&#0032;type&#0032;from&#0032;model&#0044;&#0032;example&#0058;&#0032;I&#0032;know&#0032;that&#0032;you&#0032;may&#0032;need&#0032;to…</div>
+          <div class="title">&#0010;Submit&#0032;a&#0032;new&#0032;story&#0032;&#0045;&#0032;Echo&#0032;JS&#0010;</div>
+          <div class="description">Comments</div>
           <div class="date"></div>
           <div class="data">
             <span class="author"></span> 

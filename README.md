@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, July 20, 2022 at 12:12:37 PM
+> Last updated: Wednesday, July 20, 2022 at 6:58:22 PM
 
 > Showing 5 of 12 posts.
 
-[![Beercss tips #1: Custom progressbar](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Beercss_tips__1__Custom_progressbar.svg)](https://dev.to/leonardorafael/beercss-tips-1-custom-progressbar-jfb)
-[![A short comment on comments in the code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_short_comment_on_comments_in_the_code.svg)](https://dev.to/this-is-learning/a-short-comment-on-comments-in-the-code-1i54)
-[![How did I become a programmer [how did you?]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_did_I_become_a_programmer_[how_did_you_].svg)](https://dev.to/bekbrace/how-did-i-become-a-programmer-how-did-you--248m)
-[![Prepare To Be Laid Off](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Prepare_To_Be_Laid_Off.svg)](https://dev.to/mikhailkaran/prepare-to-be-laid-off-40a2)
-[![Create Simultaneous Allowlists with Signature Drop and Next.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_Simultaneous_Allowlists_with_Signature_Drop_and_Next.js.svg)](https://dev.to/thirdweb/create-simultaneous-allowlists-with-signature-drop-and-nextjs-3aco)
+[![CLOUD STORAGE ON AWS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CLOUD_STORAGE_ON_AWS.svg)](https://dev.to/shyam1409/cloud-storage-on-aws-444j)
+[![Design Patterns in PHP 8: Singleton & Multiton](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Design_Patterns_in_PHP_8__Singleton___Multiton.svg)](https://dev.to/zhukmax/design-patterns-in-php-8-singleton-multiton-5d99)
+[![Notifee Setup for React Native with Firebase](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Notifee_Setup_for_React_Native_with_Firebase.svg)](https://dev.to/anasnmu/notifee-setup-for-react-native-with-firebase-1jc6)
+[![Day 597 : Lesson](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Day_597___Lesson.svg)](https://dev.to/dwane/day-597-lesson-56i3)
+[![Hackerrank-Apple and Orange Solution in Kotlin](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Hackerrank-Apple_and_Orange_Solution_in_Kotlin.svg)](https://dev.to/forooghvarmazyar/hackerrank-apple-and-orange-solution-in-kotlin-3e61)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, July 20, 2022 at 12:12:40 PM
+> Last updated: Wednesday, July 20, 2022 at 6:58:26 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, July 20, 2022 at 12:12:43 PM
+> Last updated: Wednesday, July 20, 2022 at 6:58:30 PM
 
 > Showing 5 of 30 posts.
 
-[![#Economy | Businesses will need to think ‘digital’ if t..](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Economy___Businesses_will_need_to_think_‘digital’_if_t...svg)](https://stockinforce.com/tweet/il&fs-transportation-networks-ltd/1425/economy-businesses-will-need-to-think-%e2%80%98digital-if-they-are-to-compete-and/1509218899585376264)
-[![GitHub - anatoliygatt/dark-mode-toggle: 🌓 A dark mode toggle component for React.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_anatoliygatt_dark-mode-toggle__🌓_A_dark_mode_toggle_component_for_React..svg)](https://github.com/anatoliygatt/dark-mode-toggle)
-[![4 Pitfalls of Angular 14 Typed Forms and How to Fix It](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/4_Pitfalls_of_Angular_14_Typed_Forms_and_How_to_Fix_It.svg)](https://medium.com/@iam.guid/why-new-angular-14-typed-forms-isnt-good-and-how-to-fix-it-1ffebf193df)
-[![Getting started with Îles](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Getting_started_with_Îles.svg)](https://blog.openreplay.com/getting-started-with-iles)
-[![Understanding React dynamic imports for faster websites](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Understanding_React_dynamic_imports_for_faster_websites.svg)](https://blog.openreplay.com/understanding-react-dynamic-imports-for-faster-websites)
+[![Angular Chat Application Tutorial](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Angular_Chat_Application_Tutorial.svg)](https://metered.hashnode.dev/angular-chat-application-tutorial)
+[![SQL: The Universal Solvent for REST APIs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/SQL__The_Universal_Solvent_for_REST_APIs.svg)](https://www.oreilly.com/radar/sql-the-universal-solvent-for-rest-apis/)
+[![
+Submit a new story - Echo JS
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Submit_a_new_story_-_Echo_JS_.svg)](
+https://www.echojs.com/submit
+)
+[![JavaScript Types and Values, explained](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Types_and_Values__explained.svg)](https://blog.openreplay.com/javascript-types-and-values-explained)
+[![PyScrypt: Python on the Web](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/PyScrypt__Python_on_the_Web.svg)](https://blog.openreplay.com/pyscrypt-python-on-the-web)
 
 
 <!-- post-list:end -->
