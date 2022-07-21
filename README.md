@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, July 20, 2022 at 6:58:22 PM
+> Last updated: Thursday, July 21, 2022 at 12:13:16 AM
 
 > Showing 5 of 12 posts.
 
-[![CLOUD STORAGE ON AWS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CLOUD_STORAGE_ON_AWS.svg)](https://dev.to/shyam1409/cloud-storage-on-aws-444j)
-[![Design Patterns in PHP 8: Singleton & Multiton](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Design_Patterns_in_PHP_8__Singleton___Multiton.svg)](https://dev.to/zhukmax/design-patterns-in-php-8-singleton-multiton-5d99)
-[![Notifee Setup for React Native with Firebase](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Notifee_Setup_for_React_Native_with_Firebase.svg)](https://dev.to/anasnmu/notifee-setup-for-react-native-with-firebase-1jc6)
-[![Day 597 : Lesson](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Day_597___Lesson.svg)](https://dev.to/dwane/day-597-lesson-56i3)
-[![Hackerrank-Apple and Orange Solution in Kotlin](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Hackerrank-Apple_and_Orange_Solution_in_Kotlin.svg)](https://dev.to/forooghvarmazyar/hackerrank-apple-and-orange-solution-in-kotlin-3e61)
+[![Prisma - Next-generation ORM](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Prisma_-_Next-generation_ORM.svg)](https://dev.to/ushieru/prisma-next-generation-orm-4ooi)
+[![The roadmap to technical writing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_roadmap_to_technical_writing.svg)](https://dev.to/dailydevtips1/the-roadmap-to-technical-writing-27nk)
+[![5 things to keep in mind as a programmer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_things_to_keep_in_mind_as_a_programmer.svg)](https://dev.to/devsimc/5-things-to-keep-in-mind-as-a-programmer-1c24)
+[![Creating Azure Virtual Machine using PowerShell](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_Azure_Virtual_Machine_using_PowerShell.svg)](https://dev.to/this-is-learning/creating-azure-virtual-machine-using-powershell-26hn)
+[![Connecting to Windows Virtual Machine created on Azure using RDP](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Connecting_to_Windows_Virtual_Machine_created_on_Azure_using_RDP.svg)](https://dev.to/aniketkumarsinha/connecting-to-windows-virtual-machine-created-on-azure-using-rdp-3ed3)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, July 20, 2022 at 6:58:26 PM
+> Last updated: Thursday, July 21, 2022 at 12:13:20 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, July 20, 2022 at 6:58:30 PM
+> Last updated: Thursday, July 21, 2022 at 12:13:26 AM
 
 > Showing 5 of 30 posts.
 
