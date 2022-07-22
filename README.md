@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, July 22, 2022 at 12:13:53 AM
+> Last updated: Friday, July 22, 2022 at 6:19:53 AM
 
 > Showing 5 of 12 posts.
 
-[![Finally, my first steps on Quarkus 🚀, as an Spring-boot developper](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Finally__my_first_steps_on_Quarkus_🚀__as_an_Spring-boot_developper.svg)](https://dev.to/optnc/finally-my-first-steps-on-quarkus-as-an-spring-boot-developper-1h7b)
-[![Const Object In Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Const_Object_In_Javascript.svg)](https://dev.to/devsimc/const-object-in-javascript-2d7d)
-[![Fantastic CSS border animation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Fantastic_CSS_border_animation.svg)](https://dev.to/chokcoco/fantastic-css-border-animation-5166)
-[![Do you understand the Video API?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Do_you_understand_the_Video_API_.svg)](https://dev.to/zegocloud/do-you-understand-the-video-api-41gn)
-[![React Hook Dialog: use hook to master your dialog components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Hook_Dialog__use_hook_to_master_your_dialog_components.svg)](https://dev.to/jsun969/react-hook-dialog-use-hook-to-master-your-dialog-components-38jd)
+[![Understanding Scope in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_Scope_in_JavaScript.svg)](https://dev.to/sophie/understanding-scope-in-javascript-2pml)
+[![Coding an extension that blocks Social Media Websites with HTML, CSS and JS.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Coding_an_extension_that_blocks_Social_Media_Websites_with_HTML__CSS_and_JS..svg)](https://dev.to/hr21don/coding-an-extension-that-blocks-social-media-websites-with-html-css-and-js-3bp)
+[![Developer Experience Vs. User Experience](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Developer_Experience_Vs._User_Experience.svg)](https://dev.to/moesif/developer-experience-vs-user-experience-8j3)
+[![5 Google products that have been built for Developers (Part-1)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Google_products_that_have_been_built_for_Developers_(Part-1).svg)](https://dev.to/krishnaagarwal/5-google-products-that-have-been-built-for-developers-part-1-2hm2)
+[![Say no to Tailwind, embrace plain CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Say_no_to_Tailwind__embrace_plain_CSS.svg)](https://dev.to/haykerman/say-no-to-tailwind-embrace-plain-css-5cn7)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, July 22, 2022 at 12:13:55 AM
+> Last updated: Friday, July 22, 2022 at 6:19:57 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, July 22, 2022 at 12:13:58 AM
+> Last updated: Friday, July 22, 2022 at 6:20:00 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - iamtsm/tl-rtc-file: webrtc file transfer tool](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_iamtsm_tl-rtc-file__webrtc_file_transfer_tool.svg)](https://github.com/iamtsm/tl-rtc-file)
+[![Top Visual Studio Code extensions for developers in 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Top_Visual_Studio_Code_extensions_for_developers_in_2022.svg)](https://blog.openreplay.com/top-visual-studio-code-extensions-for-developers-in-2022)
 [![GitHub - migliori/universal-icon-picker: Vanilla JS Icon Picker for any Icon Library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_migliori_universal-icon-picker__Vanilla_JS_Icon_Picker_for_any_Icon_Library.svg)](https://github.com/migliori/universal-icon-picker)
 [![How to Check if a Date is Between Two Dates in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Check_if_a_Date_is_Between_Two_Dates_in_JavaScript.svg)](
 https://masteringjs.io/tutorials/fundamentals/check-date-between-two-dates
 )
 [![Introduction | superstate](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Introduction___superstate.svg)](https://superstate.dev/)
-[![Connect Interior](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Connect_Interior.svg)](https://connectinterior.com/)
-[![Angular Chat Application Tutorial](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Angular_Chat_Application_Tutorial.svg)](https://metered.hashnode.dev/angular-chat-application-tutorial)
 
 
 <!-- post-list:end -->
