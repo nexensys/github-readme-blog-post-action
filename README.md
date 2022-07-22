@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, July 22, 2022 at 6:19:53 AM
+> Last updated: Friday, July 22, 2022 at 12:13:34 PM
 
 > Showing 5 of 12 posts.
 
-[![Understanding Scope in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_Scope_in_JavaScript.svg)](https://dev.to/sophie/understanding-scope-in-javascript-2pml)
-[![Coding an extension that blocks Social Media Websites with HTML, CSS and JS.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Coding_an_extension_that_blocks_Social_Media_Websites_with_HTML__CSS_and_JS..svg)](https://dev.to/hr21don/coding-an-extension-that-blocks-social-media-websites-with-html-css-and-js-3bp)
-[![Developer Experience Vs. User Experience](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Developer_Experience_Vs._User_Experience.svg)](https://dev.to/moesif/developer-experience-vs-user-experience-8j3)
-[![5 Google products that have been built for Developers (Part-1)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Google_products_that_have_been_built_for_Developers_(Part-1).svg)](https://dev.to/krishnaagarwal/5-google-products-that-have-been-built-for-developers-part-1-2hm2)
-[![Say no to Tailwind, embrace plain CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Say_no_to_Tailwind__embrace_plain_CSS.svg)](https://dev.to/haykerman/say-no-to-tailwind-embrace-plain-css-5cn7)
+[![Design Patterns in PHP 8: alternative implementations](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Design_Patterns_in_PHP_8__alternative_implementations.svg)](https://dev.to/zhukmax/design-patterns-in-php-8-alternative-implementations-4egj)
+[![For embeds, does DEV use Open Graph tags? And what is the minimum set of OG tags required by DEV for an embed to work?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/For_embeds__does_DEV_use_Open_Graph_tags__And_what_is_the_minimum_set_of_OG_tags_required_by_DEV_for_an_embed_to_work_.svg)](https://dev.to/cicirello/for-embeds-does-dev-use-open-graph-tags-and-what-is-the-minimum-set-of-og-tags-required-by-dev-for-an-embed-to-work-3kh3)
+[![How do you define a stopping point of your task?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_do_you_define_a_stopping_point_of_your_task_.svg)](https://dev.to/hunghvu/how-do-you-define-a-stopping-point-of-your-task-24d4)
+[![DevSecOps: A Complete Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/DevSecOps__A_Complete_Guide.svg)](https://dev.to/vishnube/devsecops-a-complete-guide-5736)
+[![Challenges and solutions for people with disabilities](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Challenges_and_solutions_for_people_with_disabilities.svg)](https://dev.to/yuridevat/challenges-and-solutions-for-people-with-disabilities-4m8a)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, July 22, 2022 at 6:19:57 AM
+> Last updated: Friday, July 22, 2022 at 12:13:38 PM
 
 > Showing 4 of 4 posts.
 
+[![Common JavaScript issues developers face](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Common_JavaScript_issues_developers_face.svg)](https://javascriptweekly.com/issues/599)
 [![Vite 3, or in French: quick, quick, quick.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Vite_3__or_in_French__quick__quick__quick..svg)](https://javascriptweekly.com/issues/598)
 [![An all-in-Bun JavaScript runtime.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/An_all-in-Bun_JavaScript_runtime..svg)](https://javascriptweekly.com/issues/597)
 [![Celebrating Svelte](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Celebrating_Svelte.svg)](https://javascriptweekly.com/issues/596)
-[![What's new in ECMAScript 2022?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/What's_new_in_ECMAScript_2022_.svg)](https://javascriptweekly.com/issues/595)
 
 
 ## Echo JS
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, July 22, 2022 at 6:20:00 AM
+> Last updated: Friday, July 22, 2022 at 12:13:41 PM
 
 > Showing 5 of 30 posts.
 
