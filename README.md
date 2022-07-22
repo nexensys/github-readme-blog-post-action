@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, July 21, 2022 at 12:12:56 PM
+> Last updated: Thursday, July 21, 2022 at 6:59:27 PM
 
 > Showing 5 of 12 posts.
 
-[![The Dangers of Shipping at All Costs w/ CEO & Cofounder of 33 Teams, Drew McManus](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Dangers_of_Shipping_at_All_Costs_w__CEO___Cofounder_of_33_Teams__Drew_McManus.svg)](https://dev.to/linearb/the-dangers-of-shipping-at-all-costs-w-ceo-cofounder-of-33-teams-drew-mcmanus-4inj)
-[![Dipping Toes into Unsafe Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dipping_Toes_into_Unsafe_Code.svg)](https://dev.to/somedood/dipping-toes-into-unsafe-code-2nkh)
-[![Building Multiplayer Games with Unity](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_Multiplayer_Games_with_Unity.svg)](https://dev.to/ably/building-multiplayer-games-with-unity-2ki8)
-[![Two years of dev.to - let's celebrate with a "Dance Dance Revolution" clone! 💃🕺🎉](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Two_years_of_dev.to_-_let's_celebrate_with_a__Dance_Dance_Revolution__clone!_💃🕺🎉.svg)](https://dev.to/thormeier/two-years-of-devto-lets-celebrate-with-a-dance-dance-revolution-clone-4b22)
-[![How to get 2000+ stars on GitHub with 11 places to promote your project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_get_2000+_stars_on_GitHub_with_11_places_to_promote_your_project.svg)](https://dev.to/ixartz/how-to-get-2000-stars-on-github-with-11-places-to-promote-your-project-2o3h)
+[![🍔 Single Slider: Payment Objects Overview](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🍔_Single_Slider__Payment_Objects_Overview.svg)](https://dev.to/stripe/single-slider-payment-objects-overview-a0d)
+[![What is best platform for tech blogging and building a developer community?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_best_platform_for_tech_blogging_and_building_a_developer_community_.svg)](https://dev.to/mwanjemike/what-is-best-platform-for-tech-blogging-and-building-a-developer-community-5ho2)
+[![Updating Puppet modules for deferred functions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Updating_Puppet_modules_for_deferred_functions.svg)](https://dev.to/puppet/updating-puppet-modules-for-deferred-functions-5d6k)
+[![Rest Parameters & Spread Syntax](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Rest_Parameters___Spread_Syntax.svg)](https://dev.to/irajbhinde/rest-parameters-spread-syntax-2k92)
+[![Making background jobs more resilient by default](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Making_background_jobs_more_resilient_by_default.svg)](https://dev.to/aha/making-background-jobs-more-resilient-by-default-127l)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, July 21, 2022 at 12:12:59 PM
+> Last updated: Thursday, July 21, 2022 at 6:59:30 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, July 21, 2022 at 12:13:03 PM
+> Last updated: Thursday, July 21, 2022 at 6:59:32 PM
 
 > Showing 5 of 30 posts.
 
+[![How to Check if a Date is Between Two Dates in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Check_if_a_Date_is_Between_Two_Dates_in_JavaScript.svg)](
+https://masteringjs.io/tutorials/fundamentals/check-date-between-two-dates
+)
 [![Introduction | superstate](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Introduction___superstate.svg)](https://superstate.dev/)
 [![Connect Interior](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Connect_Interior.svg)](https://connectinterior.com/)
 [![Angular Chat Application Tutorial](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Angular_Chat_Application_Tutorial.svg)](https://metered.hashnode.dev/angular-chat-application-tutorial)
 [![SQL: The Universal Solvent for REST APIs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/SQL__The_Universal_Solvent_for_REST_APIs.svg)](https://www.oreilly.com/radar/sql-the-universal-solvent-for-rest-apis/)
-[![
-Submit a new story - Echo JS
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Submit_a_new_story_-_Echo_JS_.svg)](
-https://www.echojs.com/submit
-)
 
 
 <!-- post-list:end -->
