@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, July 21, 2022 at 6:59:27 PM
+> Last updated: Friday, July 22, 2022 at 12:13:53 AM
 
 > Showing 5 of 12 posts.
 
-[![🍔 Single Slider: Payment Objects Overview](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🍔_Single_Slider__Payment_Objects_Overview.svg)](https://dev.to/stripe/single-slider-payment-objects-overview-a0d)
-[![What is best platform for tech blogging and building a developer community?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_best_platform_for_tech_blogging_and_building_a_developer_community_.svg)](https://dev.to/mwanjemike/what-is-best-platform-for-tech-blogging-and-building-a-developer-community-5ho2)
-[![Updating Puppet modules for deferred functions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Updating_Puppet_modules_for_deferred_functions.svg)](https://dev.to/puppet/updating-puppet-modules-for-deferred-functions-5d6k)
-[![Rest Parameters & Spread Syntax](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Rest_Parameters___Spread_Syntax.svg)](https://dev.to/irajbhinde/rest-parameters-spread-syntax-2k92)
-[![Making background jobs more resilient by default](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Making_background_jobs_more_resilient_by_default.svg)](https://dev.to/aha/making-background-jobs-more-resilient-by-default-127l)
+[![Finally, my first steps on Quarkus 🚀, as an Spring-boot developper](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Finally__my_first_steps_on_Quarkus_🚀__as_an_Spring-boot_developper.svg)](https://dev.to/optnc/finally-my-first-steps-on-quarkus-as-an-spring-boot-developper-1h7b)
+[![Const Object In Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Const_Object_In_Javascript.svg)](https://dev.to/devsimc/const-object-in-javascript-2d7d)
+[![Fantastic CSS border animation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Fantastic_CSS_border_animation.svg)](https://dev.to/chokcoco/fantastic-css-border-animation-5166)
+[![Do you understand the Video API?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Do_you_understand_the_Video_API_.svg)](https://dev.to/zegocloud/do-you-understand-the-video-api-41gn)
+[![React Hook Dialog: use hook to master your dialog components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Hook_Dialog__use_hook_to_master_your_dialog_components.svg)](https://dev.to/jsun969/react-hook-dialog-use-hook-to-master-your-dialog-components-38jd)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, July 21, 2022 at 6:59:30 PM
+> Last updated: Friday, July 22, 2022 at 12:13:55 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, July 21, 2022 at 6:59:32 PM
+> Last updated: Friday, July 22, 2022 at 12:13:58 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - migliori/universal-icon-picker: Vanilla JS Icon Picker for any Icon Library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_migliori_universal-icon-picker__Vanilla_JS_Icon_Picker_for_any_Icon_Library.svg)](https://github.com/migliori/universal-icon-picker)
 [![How to Check if a Date is Between Two Dates in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Check_if_a_Date_is_Between_Two_Dates_in_JavaScript.svg)](
 https://masteringjs.io/tutorials/fundamentals/check-date-between-two-dates
 )
 [![Introduction | superstate](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Introduction___superstate.svg)](https://superstate.dev/)
 [![Connect Interior](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Connect_Interior.svg)](https://connectinterior.com/)
 [![Angular Chat Application Tutorial](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Angular_Chat_Application_Tutorial.svg)](https://metered.hashnode.dev/angular-chat-application-tutorial)
-[![SQL: The Universal Solvent for REST APIs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/SQL__The_Universal_Solvent_for_REST_APIs.svg)](https://www.oreilly.com/radar/sql-the-universal-solvent-for-rest-apis/)
 
 
 <!-- post-list:end -->
