@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, July 23, 2022 at 12:12:16 AM
+> Last updated: Saturday, July 23, 2022 at 6:17:28 AM
 
 > Showing 5 of 12 posts.
 
-[![The History of JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_History_of_JavaScript.svg)](https://dev.to/iarchitsharma/the-history-of-javascript-5e98)
-[![Konfigurasi database pada hosting](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Konfigurasi_database_pada_hosting.svg)](https://dev.to/whytrno/konfigurasi-database-pada-hosting-5c05)
-[![System Color Theme Check In JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/System_Color_Theme_Check_In_JavaScript.svg)](https://dev.to/bibekkakati/system-color-theme-check-in-javascript-1la9)
-[![Cara agar projek kita dapat diakses melalui domain](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cara_agar_projek_kita_dapat_diakses_melalui_domain.svg)](https://dev.to/whytrno/cara-agar-projek-kita-dapat-diakses-melalui-domain-2455)
-[![Show me your vscode setup :)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Show_me_your_vscode_setup__).svg)](https://dev.to/official_fire/show-me-your-vscode-setup--2j4e)
+[![How to fetch API in Python 🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_fetch_API_in_Python_🔥.svg)](https://dev.to/vamsitupakula_/how-to-fetch-api-in-python-1dh2)
+[![How to create your personal brand?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_your_personal_brand_.svg)](https://dev.to/this-is-learning/how-to-create-your-personal-brand-1mp0)
+[![🚀 Cocktail App - make cocktails from home 🚀😍](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🚀_Cocktail_App_-_make_cocktails_from_home_🚀😍.svg)](https://dev.to/antongustafsson/cocktail-app-make-cocktails-from-home-1kaf)
+[![What did you make this week?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_did_you_make_this_week_.svg)](https://dev.to/eludadev/what-did-you-make-this-week-1apn)
+[![How to Create Vim Text-Objects in Lua](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Create_Vim_Text-Objects_in_Lua.svg)](https://dev.to/phantas0s/how-to-create-vim-text-objects-in-lua-e7f)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, July 23, 2022 at 12:12:19 AM
+> Last updated: Saturday, July 23, 2022 at 6:17:31 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, July 23, 2022 at 12:12:21 AM
+> Last updated: Saturday, July 23, 2022 at 6:17:33 AM
 
 > Showing 5 of 30 posts.
 
