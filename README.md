@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, July 22, 2022 at 6:56:53 PM
+> Last updated: Saturday, July 23, 2022 at 12:12:16 AM
 
 > Showing 5 of 12 posts.
 
-[![Automatically generating files in your React/Next Js app](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Automatically_generating_files_in_your_React_Next_Js_app.svg)](https://dev.to/sam_lukaa/automatically-generating-files-in-your-reactnext-js-app-4e0g)
-[![Kotlin Smart Cast is Awesome!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Kotlin_Smart_Cast_is_Awesome!.svg)](https://dev.to/vtsen/kotlin-smart-cast-is-awesome-3d6n)
-[![AWS CLOUD STORAGE SERVICES](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_CLOUD_STORAGE_SERVICES.svg)](https://dev.to/shyam1409/aws-cloud-storage-services-2ejn)
-[![AWS open source news and updates, #121](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_open_source_news_and_updates___121.svg)](https://dev.to/aws/aws-open-source-news-and-updates-121-1h18)
-[![Take styled-components to the next level](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Take_styled-components_to_the_next_level.svg)](https://dev.to/everlyhealth/take-styled-components-to-the-level-34b5)
+[![The History of JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_History_of_JavaScript.svg)](https://dev.to/iarchitsharma/the-history-of-javascript-5e98)
+[![Konfigurasi database pada hosting](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Konfigurasi_database_pada_hosting.svg)](https://dev.to/whytrno/konfigurasi-database-pada-hosting-5c05)
+[![System Color Theme Check In JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/System_Color_Theme_Check_In_JavaScript.svg)](https://dev.to/bibekkakati/system-color-theme-check-in-javascript-1la9)
+[![Cara agar projek kita dapat diakses melalui domain](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cara_agar_projek_kita_dapat_diakses_melalui_domain.svg)](https://dev.to/whytrno/cara-agar-projek-kita-dapat-diakses-melalui-domain-2455)
+[![Show me your vscode setup :)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Show_me_your_vscode_setup__).svg)](https://dev.to/official_fire/show-me-your-vscode-setup--2j4e)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, July 22, 2022 at 6:56:55 PM
+> Last updated: Saturday, July 23, 2022 at 12:12:19 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, July 22, 2022 at 6:56:58 PM
+> Last updated: Saturday, July 23, 2022 at 12:12:21 AM
 
 > Showing 5 of 30 posts.
 
