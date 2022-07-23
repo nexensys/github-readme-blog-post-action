@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, July 22, 2022 at 12:13:34 PM
+> Last updated: Friday, July 22, 2022 at 6:56:53 PM
 
 > Showing 5 of 12 posts.
 
-[![Design Patterns in PHP 8: alternative implementations](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Design_Patterns_in_PHP_8__alternative_implementations.svg)](https://dev.to/zhukmax/design-patterns-in-php-8-alternative-implementations-4egj)
-[![For embeds, does DEV use Open Graph tags? And what is the minimum set of OG tags required by DEV for an embed to work?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/For_embeds__does_DEV_use_Open_Graph_tags__And_what_is_the_minimum_set_of_OG_tags_required_by_DEV_for_an_embed_to_work_.svg)](https://dev.to/cicirello/for-embeds-does-dev-use-open-graph-tags-and-what-is-the-minimum-set-of-og-tags-required-by-dev-for-an-embed-to-work-3kh3)
-[![How do you define a stopping point of your task?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_do_you_define_a_stopping_point_of_your_task_.svg)](https://dev.to/hunghvu/how-do-you-define-a-stopping-point-of-your-task-24d4)
-[![DevSecOps: A Complete Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/DevSecOps__A_Complete_Guide.svg)](https://dev.to/vishnube/devsecops-a-complete-guide-5736)
-[![Challenges and solutions for people with disabilities](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Challenges_and_solutions_for_people_with_disabilities.svg)](https://dev.to/yuridevat/challenges-and-solutions-for-people-with-disabilities-4m8a)
+[![Automatically generating files in your React/Next Js app](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Automatically_generating_files_in_your_React_Next_Js_app.svg)](https://dev.to/sam_lukaa/automatically-generating-files-in-your-reactnext-js-app-4e0g)
+[![Kotlin Smart Cast is Awesome!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Kotlin_Smart_Cast_is_Awesome!.svg)](https://dev.to/vtsen/kotlin-smart-cast-is-awesome-3d6n)
+[![AWS CLOUD STORAGE SERVICES](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_CLOUD_STORAGE_SERVICES.svg)](https://dev.to/shyam1409/aws-cloud-storage-services-2ejn)
+[![AWS open source news and updates, #121](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_open_source_news_and_updates___121.svg)](https://dev.to/aws/aws-open-source-news-and-updates-121-1h18)
+[![Take styled-components to the next level](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Take_styled-components_to_the_next_level.svg)](https://dev.to/everlyhealth/take-styled-components-to-the-level-34b5)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, July 22, 2022 at 12:13:38 PM
+> Last updated: Friday, July 22, 2022 at 6:56:55 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, July 22, 2022 at 12:13:41 PM
+> Last updated: Friday, July 22, 2022 at 6:56:58 PM
 
 > Showing 5 of 30 posts.
 
-[![GitHub - iamtsm/tl-rtc-file: webrtc file transfer tool](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_iamtsm_tl-rtc-file__webrtc_file_transfer_tool.svg)](https://github.com/iamtsm/tl-rtc-file)
-[![Top Visual Studio Code extensions for developers in 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Top_Visual_Studio_Code_extensions_for_developers_in_2022.svg)](https://blog.openreplay.com/top-visual-studio-code-extensions-for-developers-in-2022)
-[![GitHub - migliori/universal-icon-picker: Vanilla JS Icon Picker for any Icon Library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_migliori_universal-icon-picker__Vanilla_JS_Icon_Picker_for_any_Icon_Library.svg)](https://github.com/migliori/universal-icon-picker)
-[![How to Check if a Date is Between Two Dates in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Check_if_a_Date_is_Between_Two_Dates_in_JavaScript.svg)](
-https://masteringjs.io/tutorials/fundamentals/check-date-between-two-dates
+[![Rendering real-time data with Vue, Node, and socket.io](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Rendering_real-time_data_with_Vue__Node__and_socket.io.svg)](https://blog.openreplay.com/rendering-real-time-data-with-vue-node-and-socket-io)
+[![Build an elegant gallery with React-Responsive-Carousel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_an_elegant_gallery_with_React-Responsive-Carousel.svg)](https://blog.openreplay.com/build-an-elegant-gallery-with-react-responsive-carousel)
+[![Using Mantine with React and Next](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_Mantine_with_React_and_Next.svg)](https://blog.openreplay.com/using-mantine-with-react-and-next)
+[![
+Ask EchoJS: favorite Tailwind component library
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Ask_EchoJS__favorite_Tailwind_component_library_.svg)](
+http://www.echojs.com/news/40897
 )
-[![Introduction | superstate](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Introduction___superstate.svg)](https://superstate.dev/)
+[![GitHub - iamtsm/tl-rtc-file: webrtc file transfer tool](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_iamtsm_tl-rtc-file__webrtc_file_transfer_tool.svg)](https://github.com/iamtsm/tl-rtc-file)
 
 
 <!-- post-list:end -->

@@ -67,8 +67,8 @@
     <foreignObject width="600" height="100" x="5" y="5">
       <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
         <div class="text">
-          <div class="title">Introduction&#0032;&#0124;&#0032;superstate</div>
-          <div class="description">Is&#0032;it&#0032;a&#0032;bird&#0063;&#0032;Is&#0032;it&#0032;a&#0032;plane&#0063;&#0032;No&#0044;&#0032;it&#0039;s&#0032;&#0042;&#0042;superstate&#0042;&#0042;&#0033;</div>
+          <div class="title">&#0010;Ask&#0032;EchoJS&#0058;&#0032;favorite&#0032;Tailwind&#0032;component&#0032;library&#0010;</div>
+          <div class="description">Comments</div>
           <div class="date"></div>
           <div class="data">
             <span class="author"></span> 
