@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, July 24, 2022 at 6:17:22 AM
+> Last updated: Sunday, July 24, 2022 at 12:12:17 PM
 
 > Showing 5 of 12 posts.
 
-[![Let's build and deploy a full stack MERN web application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Let's_build_and_deploy_a_full_stack_MERN_web_application.svg)](https://dev.to/itsrakesh/lets-build-and-deploy-a-full-stack-mern-web-application-1p5)
-[![How JavaScript Works?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_JavaScript_Works_.svg)](https://dev.to/iarchitsharma/how-javascript-works-5ec9)
-[![Scheduling Async Tasks made easy with Actix Cron.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Scheduling_Async_Tasks_made_easy_with_Actix_Cron..svg)](https://dev.to/chaudharypraveen98/scheduling-async-tasks-made-easy-with-actix-cron-1omi)
-[![Publish your own Docker Images with GitHub Workflow](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Publish_your_own_Docker_Images_with_GitHub_Workflow.svg)](https://dev.to/snakepy/use-your-own-docker-images-with-a-github-workflow-5gj6)
-[![How to Contribute to a Open-Source Rust Project as Beginner](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Contribute_to_a_Open-Source_Rust_Project_as_Beginner.svg)](https://dev.to/nathan20/how-to-contribute-to-a-open-source-rust-project-as-beginner-2co7)
+[![Nodejs GraphQl Authentication with JWT, Apollo-server, MySql and Sequelize ORM.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Nodejs_GraphQl_Authentication_with_JWT__Apollo-server__MySql_and_Sequelize_ORM..svg)](https://dev.to/foxy17/nodejs-graphql-authentication-with-jwt-apollo-server-mysql-and-sequelize-orm-3af8)
+[![Event Loops in Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Event_Loops_in_Javascript.svg)](https://dev.to/shubhamtiwari909/event-loops-in-javascript-2fk)
+[![How To Make a Hero Image in Next.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Make_a_Hero_Image_in_Next.js.svg)](https://dev.to/perssondennis/how-to-make-a-hero-image-in-nextjs-4lpf)
+[![8 Things to Know Before Starting Your #Devops Career!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/8_Things_to_Know_Before_Starting_Your__Devops_Career!.svg)](https://dev.to/meghakadur/8-things-to-know-before-starting-your-devops-career-3fog)
+[![Build Full Stack App with React, Fastify, tRPC, Prisma ORM and Turborepo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_Full_Stack_App_with_React__Fastify__tRPC__Prisma_ORM_and_Turborepo.svg)](https://dev.to/franciscomendes10866/build-full-stack-app-with-react-fastify-trpc-prisma-orm-and-turborepo-k24)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, July 24, 2022 at 6:17:25 AM
+> Last updated: Sunday, July 24, 2022 at 12:12:20 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, July 24, 2022 at 6:17:29 AM
+> Last updated: Sunday, July 24, 2022 at 12:12:25 PM
 
 > Showing 5 of 30 posts.
 
