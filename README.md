@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, July 23, 2022 at 6:59:50 PM
+> Last updated: Sunday, July 24, 2022 at 12:12:29 AM
 
 > Showing 5 of 12 posts.
 
-[![Code is a craft, not a competition – and why it matters.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Code_is_a_craft__not_a_competition_–_and_why_it_matters..svg)](https://dev.to/this-is-learning/code-is-a-craft-not-a-competition-and-why-it-matters-f3o)
-[![JS Anagrams with Big O Notation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JS_Anagrams_with_Big_O_Notation.svg)](https://dev.to/anasnmu/js-anagrams-with-big-o-notation-2lk0)
-[![How Kernel boot up ??](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_Kernel_boot_up___.svg)](https://dev.to/viveksahu26/how-kernel-boot-up--bje)
-[![Top Digital Marketing Agencies](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_Digital_Marketing_Agencies.svg)](https://dev.to/clickpost/top-digital-marketing-agencies-20e8)
-[![Docker: Brief Introduction.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Docker__Brief_Introduction..svg)](https://dev.to/osam1010/docker-brief-introduction-b0a)
+[![GSoC 2022 CircuitVerse | Week 5 and 6 Report](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/GSoC_2022_CircuitVerse___Week_5_and_6_Report.svg)](https://dev.to/vedantjain03/gsoc-2022-circuitverse-week-5-and-6-report-2kpp)
+[![150+ Typescript one-liners [code snippets].](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/150+_Typescript_one-liners_[code_snippets]..svg)](https://dev.to/chrisciokler/150-typescript-one-liners-code-snippets-4l51)
+[![Amazing! Implementing artistic graphics with CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Amazing!_Implementing_artistic_graphics_with_CSS.svg)](https://dev.to/chokcoco/amazing-implementing-artistic-graphics-with-css-1plg)
+[![IDEs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/IDEs.svg)](https://dev.to/craftyminer1971/ides-3dhb)
+[![How to check battery status with javascript ( 2 simple steps )](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_check_battery_status_with_javascript_(_2_simple_steps_).svg)](https://dev.to/anand346/how-to-check-battery-status-with-javascript-2-simple-steps--j52)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, July 23, 2022 at 6:59:53 PM
+> Last updated: Sunday, July 24, 2022 at 12:12:32 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, July 23, 2022 at 6:59:55 PM
+> Last updated: Sunday, July 24, 2022 at 12:12:34 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - varvolta/threadman: Worker threads made easy](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_varvolta_threadman__Worker_threads_made_easy.svg)](https://github.com/varvolta/threadman)
+[![GitHub - migliori/file-tree-generator: File Tree Generator recovers directories and files recursively from a main directory, shows the tree structure & allows to choose a file.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_migliori_file-tree-generator__File_Tree_Generator_recovers_directories_and_files_recursively_from_a_main_directory__shows_the_tree_structure___allows_to_choose_a_file..svg)](https://github.com/migliori/file-tree-generator)
 [![Rendering real-time data with Vue, Node, and socket.io](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Rendering_real-time_data_with_Vue__Node__and_socket.io.svg)](https://blog.openreplay.com/rendering-real-time-data-with-vue-node-and-socket-io)
 [![Build an elegant gallery with React-Responsive-Carousel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_an_elegant_gallery_with_React-Responsive-Carousel.svg)](https://blog.openreplay.com/build-an-elegant-gallery-with-react-responsive-carousel)
 [![Using Mantine with React and Next](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_Mantine_with_React_and_Next.svg)](https://blog.openreplay.com/using-mantine-with-react-and-next)
-[![
-Ask EchoJS: favorite Tailwind component library
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Ask_EchoJS__favorite_Tailwind_component_library_.svg)](
-http://www.echojs.com/news/40897
-)
-[![GitHub - iamtsm/tl-rtc-file: webrtc file transfer tool](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_iamtsm_tl-rtc-file__webrtc_file_transfer_tool.svg)](https://github.com/iamtsm/tl-rtc-file)
 
 
 <!-- post-list:end -->
