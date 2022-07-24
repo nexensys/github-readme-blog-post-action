@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, July 24, 2022 at 12:12:29 AM
+> Last updated: Sunday, July 24, 2022 at 6:17:22 AM
 
 > Showing 5 of 12 posts.
 
-[![GSoC 2022 CircuitVerse | Week 5 and 6 Report](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/GSoC_2022_CircuitVerse___Week_5_and_6_Report.svg)](https://dev.to/vedantjain03/gsoc-2022-circuitverse-week-5-and-6-report-2kpp)
-[![150+ Typescript one-liners [code snippets].](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/150+_Typescript_one-liners_[code_snippets]..svg)](https://dev.to/chrisciokler/150-typescript-one-liners-code-snippets-4l51)
-[![Amazing! Implementing artistic graphics with CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Amazing!_Implementing_artistic_graphics_with_CSS.svg)](https://dev.to/chokcoco/amazing-implementing-artistic-graphics-with-css-1plg)
-[![IDEs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/IDEs.svg)](https://dev.to/craftyminer1971/ides-3dhb)
-[![How to check battery status with javascript ( 2 simple steps )](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_check_battery_status_with_javascript_(_2_simple_steps_).svg)](https://dev.to/anand346/how-to-check-battery-status-with-javascript-2-simple-steps--j52)
+[![Let's build and deploy a full stack MERN web application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Let's_build_and_deploy_a_full_stack_MERN_web_application.svg)](https://dev.to/itsrakesh/lets-build-and-deploy-a-full-stack-mern-web-application-1p5)
+[![How JavaScript Works?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_JavaScript_Works_.svg)](https://dev.to/iarchitsharma/how-javascript-works-5ec9)
+[![Scheduling Async Tasks made easy with Actix Cron.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Scheduling_Async_Tasks_made_easy_with_Actix_Cron..svg)](https://dev.to/chaudharypraveen98/scheduling-async-tasks-made-easy-with-actix-cron-1omi)
+[![Publish your own Docker Images with GitHub Workflow](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Publish_your_own_Docker_Images_with_GitHub_Workflow.svg)](https://dev.to/snakepy/use-your-own-docker-images-with-a-github-workflow-5gj6)
+[![How to Contribute to a Open-Source Rust Project as Beginner](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Contribute_to_a_Open-Source_Rust_Project_as_Beginner.svg)](https://dev.to/nathan20/how-to-contribute-to-a-open-source-rust-project-as-beginner-2co7)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, July 24, 2022 at 12:12:32 AM
+> Last updated: Sunday, July 24, 2022 at 6:17:25 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, July 24, 2022 at 12:12:34 AM
+> Last updated: Sunday, July 24, 2022 at 6:17:29 AM
 
 > Showing 5 of 30 posts.
 
