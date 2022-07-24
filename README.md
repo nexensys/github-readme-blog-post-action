@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, July 23, 2022 at 12:11:22 PM
+> Last updated: Saturday, July 23, 2022 at 6:59:50 PM
 
 > Showing 5 of 12 posts.
 
-[![Forgit and Lazygit. The 2 Git tools to supercharge your git workflow?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Forgit_and_Lazygit._The_2_Git_tools_to_supercharge_your_git_workflow_.svg)](https://dev.to/anishde12020/forgit-and-lazygit-the-2-git-tools-to-supercharge-your-git-workflow-92n)
-[![Top 67 Youtube Channels for all Developers in 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_67_Youtube_Channels_for_all_Developers_in_2022.svg)](https://dev.to/lodstare/top-67-youtube-channels-for-all-developers-in-2022-1mck)
-[![State Management in React.Js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/State_Management_in_React.Js.svg)](https://dev.to/omohemma/state-management-in-reactjs-49m2)
-[![100 days of Swift - Day 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/100_days_of_Swift_-_Day_1.svg)](https://dev.to/tammyvocs/100-days-of-swift-day-1-1n4p)
-[![Hazardous implementation of password reset](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Hazardous_implementation_of_password_reset.svg)](https://dev.to/jmau111/hazardous-implementation-of-password-reset-4360)
+[![Code is a craft, not a competition – and why it matters.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Code_is_a_craft__not_a_competition_–_and_why_it_matters..svg)](https://dev.to/this-is-learning/code-is-a-craft-not-a-competition-and-why-it-matters-f3o)
+[![JS Anagrams with Big O Notation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JS_Anagrams_with_Big_O_Notation.svg)](https://dev.to/anasnmu/js-anagrams-with-big-o-notation-2lk0)
+[![How Kernel boot up ??](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_Kernel_boot_up___.svg)](https://dev.to/viveksahu26/how-kernel-boot-up--bje)
+[![Top Digital Marketing Agencies](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_Digital_Marketing_Agencies.svg)](https://dev.to/clickpost/top-digital-marketing-agencies-20e8)
+[![Docker: Brief Introduction.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Docker__Brief_Introduction..svg)](https://dev.to/osam1010/docker-brief-introduction-b0a)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, July 23, 2022 at 12:11:25 PM
+> Last updated: Saturday, July 23, 2022 at 6:59:53 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, July 23, 2022 at 12:11:27 PM
+> Last updated: Saturday, July 23, 2022 at 6:59:55 PM
 
 > Showing 5 of 30 posts.
 
