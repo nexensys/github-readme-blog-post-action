@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, July 24, 2022 at 12:12:17 PM
+> Last updated: Sunday, July 24, 2022 at 6:55:55 PM
 
 > Showing 5 of 12 posts.
 
-[![Nodejs GraphQl Authentication with JWT, Apollo-server, MySql and Sequelize ORM.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Nodejs_GraphQl_Authentication_with_JWT__Apollo-server__MySql_and_Sequelize_ORM..svg)](https://dev.to/foxy17/nodejs-graphql-authentication-with-jwt-apollo-server-mysql-and-sequelize-orm-3af8)
-[![Event Loops in Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Event_Loops_in_Javascript.svg)](https://dev.to/shubhamtiwari909/event-loops-in-javascript-2fk)
-[![How To Make a Hero Image in Next.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Make_a_Hero_Image_in_Next.js.svg)](https://dev.to/perssondennis/how-to-make-a-hero-image-in-nextjs-4lpf)
-[![8 Things to Know Before Starting Your #Devops Career!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/8_Things_to_Know_Before_Starting_Your__Devops_Career!.svg)](https://dev.to/meghakadur/8-things-to-know-before-starting-your-devops-career-3fog)
-[![Build Full Stack App with React, Fastify, tRPC, Prisma ORM and Turborepo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_Full_Stack_App_with_React__Fastify__tRPC__Prisma_ORM_and_Turborepo.svg)](https://dev.to/franciscomendes10866/build-full-stack-app-with-react-fastify-trpc-prisma-orm-and-turborepo-k24)
+[![Looking toward Multiplatform Settings 1.0.0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Looking_toward_Multiplatform_Settings_1.0.0.svg)](https://dev.to/russhwolf/looking-toward-multiplatform-settings-100-10aa)
+[![Go-lang Gorilla API + MongoDB in 30 minutes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Go-lang_Gorilla_API_+_MongoDB_in_30_minutes.svg)](https://dev.to/myk_okoth_ogodo/go-lang-gorilla-api-mongodb-in-30-minutes-54hk)
+[![What's the difference between OLAP and OLTP Systems?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What's_the_difference_between_OLAP_and_OLTP_Systems_.svg)](https://dev.to/ibrahimesseddyq/whats-the-difference-between-olap-and-oltp-systems-5f51)
+[![Qual é a diferença entre programação orientada a objetos e funcional?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Qual_é_a_diferença_entre_programação_orientada_a_objetos_e_funcional_.svg)](https://dev.to/feministech/qual-e-a-diferenca-entre-programacao-orientada-a-objetos-e-funcional-347e)
+[![How to use icons in your HTML code using fontawesome](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_icons_in_your_HTML_code_using_fontawesome.svg)](https://dev.to/lodstare/how-to-use-icons-in-your-html-code-using-fontawesome-lhc)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, July 24, 2022 at 12:12:20 PM
+> Last updated: Sunday, July 24, 2022 at 6:55:58 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, July 24, 2022 at 12:12:25 PM
+> Last updated: Sunday, July 24, 2022 at 6:56:04 PM
 
 > Showing 5 of 30 posts.
 
 [![GitHub - varvolta/threadman: Worker threads made easy](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_varvolta_threadman__Worker_threads_made_easy.svg)](https://github.com/varvolta/threadman)
 [![GitHub - migliori/file-tree-generator: File Tree Generator recovers directories and files recursively from a main directory, shows the tree structure & allows to choose a file.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_migliori_file-tree-generator__File_Tree_Generator_recovers_directories_and_files_recursively_from_a_main_directory__shows_the_tree_structure___allows_to_choose_a_file..svg)](https://github.com/migliori/file-tree-generator)
 [![Rendering real-time data with Vue, Node, and socket.io](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Rendering_real-time_data_with_Vue__Node__and_socket.io.svg)](https://blog.openreplay.com/rendering-real-time-data-with-vue-node-and-socket-io)
-[![Build an elegant gallery with React-Responsive-Carousel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_an_elegant_gallery_with_React-Responsive-Carousel.svg)](https://blog.openreplay.com/build-an-elegant-gallery-with-react-responsive-carousel)
-[![Using Mantine with React and Next](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_Mantine_with_React_and_Next.svg)](https://blog.openreplay.com/using-mantine-with-react-and-next)
+[![
+Ask EchoJS: favorite Tailwind component library
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Ask_EchoJS__favorite_Tailwind_component_library_.svg)](
+http://www.echojs.com/news/40897
+)
+[![GitHub - iamtsm/tl-rtc-file: webrtc file transfer tool](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_iamtsm_tl-rtc-file__webrtc_file_transfer_tool.svg)](https://github.com/iamtsm/tl-rtc-file)
 
 
 <!-- post-list:end -->
