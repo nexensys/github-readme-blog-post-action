@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, July 25, 2022 at 6:21:11 AM
+> Last updated: Monday, July 25, 2022 at 12:12:28 PM
 
 > Showing 5 of 12 posts.
 
-[![Mempool and its role in Bitcoin Transaction Lifecycle](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mempool_and_its_role_in_Bitcoin_Transaction_Lifecycle.svg)](https://dev.to/prateek951/mempool-and-its-role-in-bitcoin-transaction-lifecycle-m53)
-[![CSS Selectors.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CSS_Selectors..svg)](https://dev.to/itskunal/css-selectors-2kjj)
-[![Semantic Tags in HTML, Don't use Div's, Improve your front end.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Semantic_Tags_in_HTML__Don't_use_Div's__Improve_your_front_end..svg)](https://dev.to/itskunal/semantic-tags-in-html-dont-use-divs-improve-your-front-end-3m66)
-[![Connect Your Pico W To The Internet And Control It From The Web](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Connect_Your_Pico_W_To_The_Internet_And_Control_It_From_The_Web.svg)](https://dev.to/anvil/connect-your-pico-w-to-the-internet-and-control-it-from-the-web-492l)
-[![How to create an upgradeable smart contract in Celo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_an_upgradeable_smart_contract_in_Celo.svg)](https://dev.to/celo/how-to-create-an-upgradeable-smart-contract-in-celo-11ee)
+[![React.js Interview - technical submission and detailed feedback](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React.js_Interview_-_technical_submission_and_detailed_feedback.svg)](https://dev.to/rajeshroyal/reactjs-interview-technical-submission-and-detailed-feedback-2pk7)
+[![A Beginner's Approach to CSS Positioning.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Beginner's_Approach_to_CSS_Positioning..svg)](https://dev.to/mercysticks/a-beginners-approach-to-css-positioning-15o1)
+[![A welcome post](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_welcome_post.svg)](https://dev.to/beetlehope/a-welcome-post-2pkb)
+[![Helpful Tips for awe-inspiring Game Play Moments](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Helpful_Tips_for_awe-inspiring_Game_Play_Moments.svg)](https://dev.to/marshalbrock/helpful-tips-for-awe-inspiring-game-play-moments-1a33)
+[![🟩🚀 Draxlr SQL query/dashboard builder on YugabyteDB managed](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🟩🚀_Draxlr_SQL_query_dashboard_builder_on_YugabyteDB_managed.svg)](https://dev.to/yugabyte/draxlr-sql-querydashboard-builder-on-yugabytedb-managed-4ngk)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, July 25, 2022 at 6:21:14 AM
+> Last updated: Monday, July 25, 2022 at 12:12:31 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, July 25, 2022 at 6:21:19 AM
+> Last updated: Monday, July 25, 2022 at 12:12:36 PM
 
 > Showing 5 of 30 posts.
 
+[![Everything You Need to Know About JavaScript Import Maps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Everything_You_Need_to_Know_About_JavaScript_Import_Maps.svg)](
+https://www.honeybadger.io/blog/import-maps/
+)
+[![How to Change the Value of CSS Variables with JavaScript - Stack Diary](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Change_the_Value_of_CSS_Variables_with_JavaScript_-_Stack_Diary.svg)](https://stackdiary.com/snippet/change-css-variable-value-javascript/)
 [![Locutores. Locutores profesionales. Su locutor. Agencia de locutores. -](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Locutores._Locutores_profesionales._Su_locutor._Agencia_de_locutores._-.svg)](https://www.locutortv.es/)
 [![GitHub - ZLY201/js-sdsl: A javascript standard data structure library which benchmark against C++ STL.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ZLY201_js-sdsl__A_javascript_standard_data_structure_library_which_benchmark_against_C++_STL..svg)](https://github.com/ZLY201/js-sdsl)
 [![Top 25 Tips for Building an EXTREMELY FAST Website!!!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Top_25_Tips_for_Building_an_EXTREMELY_FAST_Website!!!.svg)](https://dev.to/dustinbrett/top-25-tips-for-building-an-extremely-fast-website-iaf)
-[![GitHub - varvolta/threadman: Worker threads made easy](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_varvolta_threadman__Worker_threads_made_easy.svg)](https://github.com/varvolta/threadman)
-[![GitHub - migliori/file-tree-generator: File Tree Generator recovers directories and files recursively from a main directory, shows the tree structure & allows to choose a file.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_migliori_file-tree-generator__File_Tree_Generator_recovers_directories_and_files_recursively_from_a_main_directory__shows_the_tree_structure___allows_to_choose_a_file..svg)](https://github.com/migliori/file-tree-generator)
 
 
 <!-- post-list:end -->
