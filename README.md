@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, July 24, 2022 at 6:55:55 PM
+> Last updated: Monday, July 25, 2022 at 12:13:52 AM
 
 > Showing 5 of 12 posts.
 
-[![Looking toward Multiplatform Settings 1.0.0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Looking_toward_Multiplatform_Settings_1.0.0.svg)](https://dev.to/russhwolf/looking-toward-multiplatform-settings-100-10aa)
-[![Go-lang Gorilla API + MongoDB in 30 minutes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Go-lang_Gorilla_API_+_MongoDB_in_30_minutes.svg)](https://dev.to/myk_okoth_ogodo/go-lang-gorilla-api-mongodb-in-30-minutes-54hk)
-[![What's the difference between OLAP and OLTP Systems?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What's_the_difference_between_OLAP_and_OLTP_Systems_.svg)](https://dev.to/ibrahimesseddyq/whats-the-difference-between-olap-and-oltp-systems-5f51)
-[![Qual é a diferença entre programação orientada a objetos e funcional?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Qual_é_a_diferença_entre_programação_orientada_a_objetos_e_funcional_.svg)](https://dev.to/feministech/qual-e-a-diferenca-entre-programacao-orientada-a-objetos-e-funcional-347e)
-[![How to use icons in your HTML code using fontawesome](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_icons_in_your_HTML_code_using_fontawesome.svg)](https://dev.to/lodstare/how-to-use-icons-in-your-html-code-using-fontawesome-lhc)
+[![Features of JavaScript - That You Should Know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Features_of_JavaScript_-_That_You_Should_Know.svg)](https://dev.to/devsimc/features-of-javascript-that-you-should-know-43hm)
+[![Write your Kubernetes Infrastructure as Go code - Using Custom Resource Definitions with cdk8s](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Write_your_Kubernetes_Infrastructure_as_Go_code_-_Using_Custom_Resource_Definitions_with_cdk8s.svg)](https://dev.to/abhirockzz/write-your-kubernetes-infrastructure-as-go-code-using-custom-resource-definitions-with-cdk8s-1eei)
+[![HOW TO MANAGE YOUR DAY?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/HOW_TO_MANAGE_YOUR_DAY_.svg)](https://dev.to/ammohitchaprana/how-to-manage-your-day-4doc)
+[![¿Cómo ordernar un Arreglo de arreglos con Javascript?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/¿Cómo_ordernar_un_Arreglo_de_arreglos_con_Javascript_.svg)](https://dev.to/matiasfha/como-ordernar-un-arreglo-de-arreglos-con-javascript-3g1o)
+[![Easily Convert Django Function Based Views To Class Based Views](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Easily_Convert_Django_Function_Based_Views_To_Class_Based_Views.svg)](https://dev.to/dennisivy11/easily-convert-django-function-based-views-to-class-based-views-3okb)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, July 24, 2022 at 6:55:58 PM
+> Last updated: Monday, July 25, 2022 at 12:13:55 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, July 24, 2022 at 6:56:04 PM
+> Last updated: Monday, July 25, 2022 at 12:13:58 AM
 
 > Showing 5 of 30 posts.
 
+[![Top 25 Tips for Building an EXTREMELY FAST Website!!!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Top_25_Tips_for_Building_an_EXTREMELY_FAST_Website!!!.svg)](https://dev.to/dustinbrett/top-25-tips-for-building-an-extremely-fast-website-iaf)
 [![GitHub - varvolta/threadman: Worker threads made easy](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_varvolta_threadman__Worker_threads_made_easy.svg)](https://github.com/varvolta/threadman)
 [![GitHub - migliori/file-tree-generator: File Tree Generator recovers directories and files recursively from a main directory, shows the tree structure & allows to choose a file.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_migliori_file-tree-generator__File_Tree_Generator_recovers_directories_and_files_recursively_from_a_main_directory__shows_the_tree_structure___allows_to_choose_a_file..svg)](https://github.com/migliori/file-tree-generator)
 [![Rendering real-time data with Vue, Node, and socket.io](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Rendering_real-time_data_with_Vue__Node__and_socket.io.svg)](https://blog.openreplay.com/rendering-real-time-data-with-vue-node-and-socket-io)
@@ -55,7 +56,6 @@ Ask EchoJS: favorite Tailwind component library
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Ask_EchoJS__favorite_Tailwind_component_library_.svg)](
 http://www.echojs.com/news/40897
 )
-[![GitHub - iamtsm/tl-rtc-file: webrtc file transfer tool](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_iamtsm_tl-rtc-file__webrtc_file_transfer_tool.svg)](https://github.com/iamtsm/tl-rtc-file)
 
 
 <!-- post-list:end -->
