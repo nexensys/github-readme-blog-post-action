@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, July 25, 2022 at 12:13:52 AM
+> Last updated: Monday, July 25, 2022 at 6:21:11 AM
 
 > Showing 5 of 12 posts.
 
-[![Features of JavaScript - That You Should Know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Features_of_JavaScript_-_That_You_Should_Know.svg)](https://dev.to/devsimc/features-of-javascript-that-you-should-know-43hm)
-[![Write your Kubernetes Infrastructure as Go code - Using Custom Resource Definitions with cdk8s](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Write_your_Kubernetes_Infrastructure_as_Go_code_-_Using_Custom_Resource_Definitions_with_cdk8s.svg)](https://dev.to/abhirockzz/write-your-kubernetes-infrastructure-as-go-code-using-custom-resource-definitions-with-cdk8s-1eei)
-[![HOW TO MANAGE YOUR DAY?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/HOW_TO_MANAGE_YOUR_DAY_.svg)](https://dev.to/ammohitchaprana/how-to-manage-your-day-4doc)
-[![¿Cómo ordernar un Arreglo de arreglos con Javascript?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/¿Cómo_ordernar_un_Arreglo_de_arreglos_con_Javascript_.svg)](https://dev.to/matiasfha/como-ordernar-un-arreglo-de-arreglos-con-javascript-3g1o)
-[![Easily Convert Django Function Based Views To Class Based Views](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Easily_Convert_Django_Function_Based_Views_To_Class_Based_Views.svg)](https://dev.to/dennisivy11/easily-convert-django-function-based-views-to-class-based-views-3okb)
+[![Mempool and its role in Bitcoin Transaction Lifecycle](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mempool_and_its_role_in_Bitcoin_Transaction_Lifecycle.svg)](https://dev.to/prateek951/mempool-and-its-role-in-bitcoin-transaction-lifecycle-m53)
+[![CSS Selectors.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CSS_Selectors..svg)](https://dev.to/itskunal/css-selectors-2kjj)
+[![Semantic Tags in HTML, Don't use Div's, Improve your front end.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Semantic_Tags_in_HTML__Don't_use_Div's__Improve_your_front_end..svg)](https://dev.to/itskunal/semantic-tags-in-html-dont-use-divs-improve-your-front-end-3m66)
+[![Connect Your Pico W To The Internet And Control It From The Web](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Connect_Your_Pico_W_To_The_Internet_And_Control_It_From_The_Web.svg)](https://dev.to/anvil/connect-your-pico-w-to-the-internet-and-control-it-from-the-web-492l)
+[![How to create an upgradeable smart contract in Celo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_an_upgradeable_smart_contract_in_Celo.svg)](https://dev.to/celo/how-to-create-an-upgradeable-smart-contract-in-celo-11ee)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, July 25, 2022 at 12:13:55 AM
+> Last updated: Monday, July 25, 2022 at 6:21:14 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, July 25, 2022 at 12:13:58 AM
+> Last updated: Monday, July 25, 2022 at 6:21:19 AM
 
 > Showing 5 of 30 posts.
 
+[![Locutores. Locutores profesionales. Su locutor. Agencia de locutores. -](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Locutores._Locutores_profesionales._Su_locutor._Agencia_de_locutores._-.svg)](https://www.locutortv.es/)
+[![GitHub - ZLY201/js-sdsl: A javascript standard data structure library which benchmark against C++ STL.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ZLY201_js-sdsl__A_javascript_standard_data_structure_library_which_benchmark_against_C++_STL..svg)](https://github.com/ZLY201/js-sdsl)
 [![Top 25 Tips for Building an EXTREMELY FAST Website!!!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Top_25_Tips_for_Building_an_EXTREMELY_FAST_Website!!!.svg)](https://dev.to/dustinbrett/top-25-tips-for-building-an-extremely-fast-website-iaf)
 [![GitHub - varvolta/threadman: Worker threads made easy](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_varvolta_threadman__Worker_threads_made_easy.svg)](https://github.com/varvolta/threadman)
 [![GitHub - migliori/file-tree-generator: File Tree Generator recovers directories and files recursively from a main directory, shows the tree structure & allows to choose a file.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_migliori_file-tree-generator__File_Tree_Generator_recovers_directories_and_files_recursively_from_a_main_directory__shows_the_tree_structure___allows_to_choose_a_file..svg)](https://github.com/migliori/file-tree-generator)
-[![Rendering real-time data with Vue, Node, and socket.io](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Rendering_real-time_data_with_Vue__Node__and_socket.io.svg)](https://blog.openreplay.com/rendering-real-time-data-with-vue-node-and-socket-io)
-[![
-Ask EchoJS: favorite Tailwind component library
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Ask_EchoJS__favorite_Tailwind_component_library_.svg)](
-http://www.echojs.com/news/40897
-)
 
 
 <!-- post-list:end -->
