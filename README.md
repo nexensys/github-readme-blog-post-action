@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, July 27, 2022 at 6:22:57 AM
+> Last updated: Wednesday, July 27, 2022 at 12:12:10 PM
 
 > Showing 5 of 12 posts.
 
-[![Redis Monitoring | 101 Guide to Redis Metrics Monitoring](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Redis_Monitoring___101_Guide_to_Redis_Metrics_Monitoring.svg)](https://dev.to/signoz/redis-monitoring-101-guide-to-redis-metrics-monitoring-54jf)
-[![Take the poll - Golang Open Source Projects](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Take_the_poll_-_Golang_Open_Source_Projects.svg)](https://dev.to/golangch/take-to-poll-golang-open-source-projects-29em)
-[![What are REST APIs?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_are_REST_APIs_.svg)](https://dev.to/noablst/what-are-rest-apis-4hm2)
-[![Useful tools, libraries and resources for developer to speed up the development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Useful_tools__libraries_and_resources_for_developer_to_speed_up_the_development.svg)](https://dev.to/devsimc/useful-tools-libraries-and-resources-for-developer-to-speed-up-the-development-3eb1)
-[![How To Create A Timer With React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Create_A_Timer_With_React.svg)](https://dev.to/yuridevat/how-to-create-a-timer-with-react-7b9)
+[![Low-code Framework Concept for Node.js 🥑](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Low-code_Framework_Concept_for_Node.js_🥑.svg)](https://dev.to/canmingir/low-code-framework-concept-for-nodejs-55b0)
+[![5 Flutter Dart Tips.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Flutter_Dart_Tips..svg)](https://dev.to/dreamyplayer/5-flutter-dart-tips-28pn)
+[![Building An iOS Chat App With Swift (Tutorial Guide)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_An_iOS_Chat_App_With_Swift_(Tutorial_Guide).svg)](https://dev.to/richard21266663/building-an-ios-chat-app-with-swift-tutorial-guide-3apc)
+[![Avoiding large ternary operator statements in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Avoiding_large_ternary_operator_statements_in_React.svg)](https://dev.to/gax97/avoiding-large-ternary-operator-statements-in-react-4i19)
+[![Software Architecture and Software Design](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Software_Architecture_and_Software_Design.svg)](https://dev.to/franckweb/software-architecture-and-software-design-3m81)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, July 27, 2022 at 6:23:00 AM
+> Last updated: Wednesday, July 27, 2022 at 12:12:13 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, July 27, 2022 at 6:23:04 AM
+> Last updated: Wednesday, July 27, 2022 at 12:12:22 PM
 
 > Showing 5 of 30 posts.
 
