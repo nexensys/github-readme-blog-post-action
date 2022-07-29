@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, July 29, 2022 at 6:20:55 AM
+> Last updated: Friday, July 29, 2022 at 12:12:53 PM
 
 > Showing 5 of 12 posts.
 
-[![Basic Curry Functions in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Basic_Curry_Functions_in_JavaScript.svg)](https://dev.to/anewman15/basic-curry-functions-in-javascript-2pf)
-[![Curry Functions in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Curry_Functions_in_JavaScript.svg)](https://dev.to/anewman15/curry-functions-in-javascript-4jpa)
-[![How to Build NFT Game with Unreal Engine (Step by Step Guide)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Build_NFT_Game_with_Unreal_Engine_(Step_by_Step_Guide).svg)](https://dev.to/hemgtalk/how-to-build-nft-game-with-unreal-engine-step-by-step-guide-3l0l)
-[![getElementById() and innerHTML in JavaScript | JavaScript Tutorial #1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/getElementById()_and_innerHTML_in_JavaScript___JavaScript_Tutorial__1.svg)](https://dev.to/kavyagreatrgb/getelementbyid-and-innerhtml-in-javascript-javascript-tutorial-1-2jh4)
-[![Introducing Westernal: A social media based on songs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_Westernal__A_social_media_based_on_songs.svg)](https://dev.to/westernal/introducing-westernal-a-social-media-based-on-songs-1pa9)
+[![Ultimate CSS3 Animations Series: Rotate()](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ultimate_CSS3_Animations_Series__Rotate().svg)](https://dev.to/codewithshahan/ultimate-css3-animations-series-rotate-3dkj)
+[![😲10 JavaScript Concepts Every Developer Should Know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/😲10_JavaScript_Concepts_Every_Developer_Should_Know.svg)](https://dev.to/prateek951/10-javascript-concepts-every-developer-should-know-44d2)
+[![⚡Tidbits of Virtual DOM Explained](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/⚡Tidbits_of_Virtual_DOM_Explained.svg)](https://dev.to/prateek951/tidbits-of-virtual-dom-explained-5ail)
+[![Elixir script, what can and can't be done](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Elixir_script__what_can_and_can't_be_done.svg)](https://dev.to/shmink/elixir-script-what-can-and-cant-be-done-4137)
+[![Building React Frontends Without Waiting for an API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_React_Frontends_Without_Waiting_for_an_API.svg)](https://dev.to/_dan_jackson/building-react-frontends-without-waiting-for-an-api-3hj5)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, July 29, 2022 at 6:20:58 AM
+> Last updated: Friday, July 29, 2022 at 12:12:57 PM
 
 > Showing 4 of 4 posts.
 
+[![Douglas Crockford on 'retiring' JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Douglas_Crockford_on_'retiring'_JavaScript.svg)](https://javascriptweekly.com/issues/600)
 [![Common JavaScript issues developers face](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Common_JavaScript_issues_developers_face.svg)](https://javascriptweekly.com/issues/599)
 [![Vite 3, or in French: quick, quick, quick.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Vite_3__or_in_French__quick__quick__quick..svg)](https://javascriptweekly.com/issues/598)
 [![An all-in-Bun JavaScript runtime.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/An_all-in-Bun_JavaScript_runtime..svg)](https://javascriptweekly.com/issues/597)
-[![Celebrating Svelte](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Celebrating_Svelte.svg)](https://javascriptweekly.com/issues/596)
 
 
 ## Echo JS
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, July 29, 2022 at 6:21:07 AM
+> Last updated: Friday, July 29, 2022 at 12:13:05 PM
 
 > Showing 5 of 30 posts.
 
