@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, July 27, 2022 at 12:12:10 PM
+> Last updated: Friday, July 29, 2022 at 6:20:55 AM
 
 > Showing 5 of 12 posts.
 
-[![Low-code Framework Concept for Node.js 🥑](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Low-code_Framework_Concept_for_Node.js_🥑.svg)](https://dev.to/canmingir/low-code-framework-concept-for-nodejs-55b0)
-[![5 Flutter Dart Tips.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Flutter_Dart_Tips..svg)](https://dev.to/dreamyplayer/5-flutter-dart-tips-28pn)
-[![Building An iOS Chat App With Swift (Tutorial Guide)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_An_iOS_Chat_App_With_Swift_(Tutorial_Guide).svg)](https://dev.to/richard21266663/building-an-ios-chat-app-with-swift-tutorial-guide-3apc)
-[![Avoiding large ternary operator statements in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Avoiding_large_ternary_operator_statements_in_React.svg)](https://dev.to/gax97/avoiding-large-ternary-operator-statements-in-react-4i19)
-[![Software Architecture and Software Design](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Software_Architecture_and_Software_Design.svg)](https://dev.to/franckweb/software-architecture-and-software-design-3m81)
+[![Basic Curry Functions in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Basic_Curry_Functions_in_JavaScript.svg)](https://dev.to/anewman15/basic-curry-functions-in-javascript-2pf)
+[![Curry Functions in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Curry_Functions_in_JavaScript.svg)](https://dev.to/anewman15/curry-functions-in-javascript-4jpa)
+[![How to Build NFT Game with Unreal Engine (Step by Step Guide)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Build_NFT_Game_with_Unreal_Engine_(Step_by_Step_Guide).svg)](https://dev.to/hemgtalk/how-to-build-nft-game-with-unreal-engine-step-by-step-guide-3l0l)
+[![getElementById() and innerHTML in JavaScript | JavaScript Tutorial #1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/getElementById()_and_innerHTML_in_JavaScript___JavaScript_Tutorial__1.svg)](https://dev.to/kavyagreatrgb/getelementbyid-and-innerhtml-in-javascript-javascript-tutorial-1-2jh4)
+[![Introducing Westernal: A social media based on songs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_Westernal__A_social_media_based_on_songs.svg)](https://dev.to/westernal/introducing-westernal-a-social-media-based-on-songs-1pa9)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, July 27, 2022 at 12:12:13 PM
+> Last updated: Friday, July 29, 2022 at 6:20:58 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,21 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, July 27, 2022 at 12:12:22 PM
+> Last updated: Friday, July 29, 2022 at 6:21:07 AM
 
 > Showing 5 of 30 posts.
 
-[![
-Bay Capital Siddharth Mehta - PressReader.com
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Bay_Capital_Siddharth_Mehta_-_PressReader.com_.svg)](
-https://www.pressreader.com/oman/muscat-daily/20220104/281672553284418
+[![500ms to 1.7ms In React: A Journey And A Checklist](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/500ms_to_1.7ms_In_React__A_Journey_And_A_Checklist.svg)](
+https://orizens.com/blog/500ms-to-1-7ms-in-react-a-journey-and-a%20checklist/
 )
+[![Create an awesome development environment with the terminal in Mac OS like Linux window manager](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Create_an_awesome_development_environment_with_the_terminal_in_Mac_OS_like_Linux_window_manager.svg)](https://medium.com/@hemedani/create-an-awesome-development-environment-with-the-terminal-in-mac-os-like-window-manager-2da824f03572)
+[![
+Submit a new story - Echo JS
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Submit_a_new_story_-_Echo_JS_.svg)](
+https://www.echojs.com/submit?u=https%3A%2F%2Fwww.echojs.com%2Fsubmit%3Fu%3Dhttps%253A%252F%252Fwww.echojs.com%252Fsubmit%26t%3DSubmit%2520a%2520new%2520story%2520-%2520Echo%2520JS&amp;t=Submit%20a%20new%20story%20-%20Echo%20JS
+)
+[![Best Cost Reduction Practices to Maximize Profit for CPA & Accounting Firms](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Best_Cost_Reduction_Practices_to_Maximize_Profit_for_CPA___Accounting_Firms.svg)](https://www.capactix.com/cost-reduction-practices-maximize-profit-cpa-accounting-firms/)
 [![NX: Integration testing Apollo GraphQL and MongoDB Mongoose with Jest ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/NX__Integration_testing_Apollo_GraphQL_and_MongoDB_Mongoose_with_Jest_.svg)](https://creotip.io/posts/nx-testing-apollo-server-mongodb-mongoose)
-[![@gauravnumber/move](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/@gauravnumber_move.svg)](https://www.npmjs.com/package/@gauravnumber/move)
-[![Arif Patel (UK/Preston/Dubai)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Arif_Patel_(UK_Preston_Dubai).svg)](https://www.asianimage.co.uk/announcements/other/personal_messages/20027442.Arif_Patel__UK_Preston_Dubai_/)
-[![GitHub - MarketingPipeline/Markdown-Tag: Add Markdown to any HTML using a <md> tag](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_MarketingPipeline_Markdown-Tag__Add_Markdown_to_any_HTML_using_a__md__tag.svg)](https://github.com/MarketingPipeline/Markdown-Tag)
 
 
 <!-- post-list:end -->
