@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, July 29, 2022 at 6:53:10 PM
+> Last updated: Saturday, July 30, 2022 at 12:11:53 AM
 
 > Showing 5 of 12 posts.
 
+[![Bugs: a blessing and a curse](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Bugs__a_blessing_and_a_curse.svg)](https://dev.to/ezeanamichael/bugs-a-blessing-and-a-curse-4nnl)
+[![Javascript .slice() and .splice() cheat sheet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Javascript_.slice()_and_.splice()_cheat_sheet.svg)](https://dev.to/babib/javascript-slice-and-splice-cheat-sheet-3hoi)
+[![SvelteKit with SocketIO in Production](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/SvelteKit_with_SocketIO_in_Production.svg)](https://dev.to/theether0/sveltekit-with-socketio-and-nodejs-285h)
 [![Free Android Development Learning Resources for Beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Free_Android_Development_Learning_Resources_for_Beginners.svg)](https://dev.to/vtsen/free-android-development-learning-resources-for-beginners-2on1)
-[![Introduction of Facade Pattern in Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_of_Facade_Pattern_in_Javascript.svg)](https://dev.to/yohanesss/introduction-of-facade-pattern-in-javascript-2gmo)
-[![Mastering JavaScript 🧑‍💻: How the js engine works](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_JavaScript_🧑‍💻__How_the_js_engine_works.svg)](https://dev.to/saverio683/mastering-javascript-how-the-js-engine-works-5a2p)
-[![13 Types of Software Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/13_Types_of_Software_Development.svg)](https://dev.to/makendrang/13-types-of-software-development-kbc)
-[![How To Upload Files With GraphQl And NestJs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Upload_Files_With_GraphQl_And_NestJs.svg)](https://dev.to/elbarryamine/how-to-upload-files-with-nestjs-and-graphql-2iig)
+[![Introdução à Machine Learning](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introdução_à_Machine_Learning.svg)](https://dev.to/armandodelcolcoder/introducao-a-machine-learning-26o2)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, July 29, 2022 at 6:53:16 PM
+> Last updated: Saturday, July 30, 2022 at 12:11:56 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, July 29, 2022 at 6:53:19 PM
+> Last updated: Saturday, July 30, 2022 at 12:12:00 AM
 
 > Showing 5 of 30 posts.
 
