@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, July 30, 2022 at 12:11:53 AM
+> Last updated: Saturday, July 30, 2022 at 6:16:19 AM
 
 > Showing 5 of 12 posts.
 
-[![Bugs: a blessing and a curse](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Bugs__a_blessing_and_a_curse.svg)](https://dev.to/ezeanamichael/bugs-a-blessing-and-a-curse-4nnl)
-[![Javascript .slice() and .splice() cheat sheet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Javascript_.slice()_and_.splice()_cheat_sheet.svg)](https://dev.to/babib/javascript-slice-and-splice-cheat-sheet-3hoi)
-[![SvelteKit with SocketIO in Production](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/SvelteKit_with_SocketIO_in_Production.svg)](https://dev.to/theether0/sveltekit-with-socketio-and-nodejs-285h)
-[![Free Android Development Learning Resources for Beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Free_Android_Development_Learning_Resources_for_Beginners.svg)](https://dev.to/vtsen/free-android-development-learning-resources-for-beginners-2on1)
-[![Introdução à Machine Learning](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introdução_à_Machine_Learning.svg)](https://dev.to/armandodelcolcoder/introducao-a-machine-learning-26o2)
+[![Debouncing in javascript✨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Debouncing_in_javascript✨.svg)](https://dev.to/aishanipach/debouncing-in-javascript-2k9b)
+[![Flutter Create User API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Flutter_Create_User_API.svg)](https://dev.to/adeleyeayodeji/flutter-create-user-api-2ll7)
+[![Simple tool crawl urls form domain](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Simple_tool_crawl_urls_form_domain.svg)](https://dev.to/ductnn/simple-tool-crawl-urls-form-domain-7m2)
+[![New Things Added - Laravel 9.22 Released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/New_Things_Added_-_Laravel_9.22_Released.svg)](https://dev.to/morcosgad/new-things-added-laravel-922-released-3j44)
+[![JS Program to Remove Duplicates From Array](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JS_Program_to_Remove_Duplicates_From_Array.svg)](https://dev.to/hannaha88/js-program-to-remove-duplicates-from-array-56hi)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, July 30, 2022 at 12:11:56 AM
+> Last updated: Saturday, July 30, 2022 at 6:16:22 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, July 30, 2022 at 12:12:00 AM
+> Last updated: Saturday, July 30, 2022 at 6:16:26 AM
 
 > Showing 5 of 30 posts.
 
