@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, July 30, 2022 at 6:16:19 AM
+> Last updated: Saturday, July 30, 2022 at 12:11:14 PM
 
 > Showing 5 of 12 posts.
 
-[![Debouncing in javascript✨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Debouncing_in_javascript✨.svg)](https://dev.to/aishanipach/debouncing-in-javascript-2k9b)
-[![Flutter Create User API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Flutter_Create_User_API.svg)](https://dev.to/adeleyeayodeji/flutter-create-user-api-2ll7)
-[![Simple tool crawl urls form domain](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Simple_tool_crawl_urls_form_domain.svg)](https://dev.to/ductnn/simple-tool-crawl-urls-form-domain-7m2)
-[![New Things Added - Laravel 9.22 Released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/New_Things_Added_-_Laravel_9.22_Released.svg)](https://dev.to/morcosgad/new-things-added-laravel-922-released-3j44)
-[![JS Program to Remove Duplicates From Array](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JS_Program_to_Remove_Duplicates_From_Array.svg)](https://dev.to/hannaha88/js-program-to-remove-duplicates-from-array-56hi)
+[![Getting Started with SvelteKit and TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_Started_with_SvelteKit_and_TypeScript.svg)](https://dev.to/p_carlose/getting-started-with-sveltekit-and-typescript-4maa)
+[![Django Admin Tools for a model.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Django_Admin_Tools_for_a_model..svg)](https://dev.to/vijaysoni007/django-admin-tools-for-a-model-5g7i)
+[![Routings in React JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Routings_in_React_JS.svg)](https://dev.to/shubhamtiwari909/routings-in-react-js-12h1)
+[![How to Self-Teach CS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Self-Teach_CS.svg)](https://dev.to/gdbroman/how-to-self-teach-cs-4g92)
+[![I Made a Web App to Showcase all your GitHub Projects 😍✨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_Made_a_Web_App_to_Showcase_all_your_GitHub_Projects_😍✨.svg)](https://dev.to/2kabhishek/i-made-a-web-app-to-showcase-all-your-github-projects-le3)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, July 30, 2022 at 6:16:22 AM
+> Last updated: Saturday, July 30, 2022 at 12:11:17 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, July 30, 2022 at 6:16:26 AM
+> Last updated: Saturday, July 30, 2022 at 12:11:21 PM
 
 > Showing 5 of 30 posts.
 
