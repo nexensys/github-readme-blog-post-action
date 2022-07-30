@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, July 29, 2022 at 12:12:53 PM
+> Last updated: Friday, July 29, 2022 at 6:53:10 PM
 
 > Showing 5 of 12 posts.
 
-[![Ultimate CSS3 Animations Series: Rotate()](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ultimate_CSS3_Animations_Series__Rotate().svg)](https://dev.to/codewithshahan/ultimate-css3-animations-series-rotate-3dkj)
-[![😲10 JavaScript Concepts Every Developer Should Know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/😲10_JavaScript_Concepts_Every_Developer_Should_Know.svg)](https://dev.to/prateek951/10-javascript-concepts-every-developer-should-know-44d2)
-[![⚡Tidbits of Virtual DOM Explained](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/⚡Tidbits_of_Virtual_DOM_Explained.svg)](https://dev.to/prateek951/tidbits-of-virtual-dom-explained-5ail)
-[![Elixir script, what can and can't be done](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Elixir_script__what_can_and_can't_be_done.svg)](https://dev.to/shmink/elixir-script-what-can-and-cant-be-done-4137)
-[![Building React Frontends Without Waiting for an API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_React_Frontends_Without_Waiting_for_an_API.svg)](https://dev.to/_dan_jackson/building-react-frontends-without-waiting-for-an-api-3hj5)
+[![Free Android Development Learning Resources for Beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Free_Android_Development_Learning_Resources_for_Beginners.svg)](https://dev.to/vtsen/free-android-development-learning-resources-for-beginners-2on1)
+[![Introduction of Facade Pattern in Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_of_Facade_Pattern_in_Javascript.svg)](https://dev.to/yohanesss/introduction-of-facade-pattern-in-javascript-2gmo)
+[![Mastering JavaScript 🧑‍💻: How the js engine works](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_JavaScript_🧑‍💻__How_the_js_engine_works.svg)](https://dev.to/saverio683/mastering-javascript-how-the-js-engine-works-5a2p)
+[![13 Types of Software Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/13_Types_of_Software_Development.svg)](https://dev.to/makendrang/13-types-of-software-development-kbc)
+[![How To Upload Files With GraphQl And NestJs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Upload_Files_With_GraphQl_And_NestJs.svg)](https://dev.to/elbarryamine/how-to-upload-files-with-nestjs-and-graphql-2iig)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, July 29, 2022 at 12:12:57 PM
+> Last updated: Friday, July 29, 2022 at 6:53:16 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, July 29, 2022 at 12:13:05 PM
+> Last updated: Friday, July 29, 2022 at 6:53:19 PM
 
 > Showing 5 of 30 posts.
 
+[![Github App Improvements - Socket](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Github_App_Improvements_-_Socket.svg)](https://socket.dev/blog/github-app-improvements)
 [![500ms to 1.7ms In React: A Journey And A Checklist](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/500ms_to_1.7ms_In_React__A_Journey_And_A_Checklist.svg)](
 https://orizens.com/blog/500ms-to-1-7ms-in-react-a-journey-and-a%20checklist/
 )
@@ -57,7 +58,6 @@ Submit a new story - Echo JS
 https://www.echojs.com/submit?u=https%3A%2F%2Fwww.echojs.com%2Fsubmit%3Fu%3Dhttps%253A%252F%252Fwww.echojs.com%252Fsubmit%26t%3DSubmit%2520a%2520new%2520story%2520-%2520Echo%2520JS&amp;t=Submit%20a%20new%20story%20-%20Echo%20JS
 )
 [![Best Cost Reduction Practices to Maximize Profit for CPA & Accounting Firms](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Best_Cost_Reduction_Practices_to_Maximize_Profit_for_CPA___Accounting_Firms.svg)](https://www.capactix.com/cost-reduction-practices-maximize-profit-cpa-accounting-firms/)
-[![NX: Integration testing Apollo GraphQL and MongoDB Mongoose with Jest ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/NX__Integration_testing_Apollo_GraphQL_and_MongoDB_Mongoose_with_Jest_.svg)](https://creotip.io/posts/nx-testing-apollo-server-mongodb-mongoose)
 
 
 <!-- post-list:end -->
