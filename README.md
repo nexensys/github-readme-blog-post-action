@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, July 30, 2022 at 12:11:14 PM
+> Last updated: Saturday, July 30, 2022 at 6:59:03 PM
 
 > Showing 5 of 12 posts.
 
-[![Getting Started with SvelteKit and TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_Started_with_SvelteKit_and_TypeScript.svg)](https://dev.to/p_carlose/getting-started-with-sveltekit-and-typescript-4maa)
-[![Django Admin Tools for a model.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Django_Admin_Tools_for_a_model..svg)](https://dev.to/vijaysoni007/django-admin-tools-for-a-model-5g7i)
-[![Routings in React JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Routings_in_React_JS.svg)](https://dev.to/shubhamtiwari909/routings-in-react-js-12h1)
-[![How to Self-Teach CS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Self-Teach_CS.svg)](https://dev.to/gdbroman/how-to-self-teach-cs-4g92)
-[![I Made a Web App to Showcase all your GitHub Projects 😍✨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_Made_a_Web_App_to_Showcase_all_your_GitHub_Projects_😍✨.svg)](https://dev.to/2kabhishek/i-made-a-web-app-to-showcase-all-your-github-projects-le3)
+[![OpenGL - O que é?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/OpenGL_-_O_que_é_.svg)](https://dev.to/mrsrina/opengl-o-que-e-2c04)
+[![How To Get A Job Without Work Experience ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Get_A_Job_Without_Work_Experience__.svg)](https://dev.to/zairiaimendev/how-to-get-a-job-without-work-experience--2mpp)
+[![How to improve as a developer ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_improve_as_a_developer__.svg)](https://dev.to/zairiaimendev/how-to-improve-as-a-developer--4ig8)
+[![Diagrams are the ultimate engineering tool](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Diagrams_are_the_ultimate_engineering_tool.svg)](https://dev.to/wesen/diagrams-are-the-ultimate-engineering-tool-2897)
+[![Do I regret moving to London?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Do_I_regret_moving_to_London_.svg)](https://dev.to/beetlehope/do-i-regret-moving-to-london-bfm)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, July 30, 2022 at 12:11:17 PM
+> Last updated: Saturday, July 30, 2022 at 6:59:06 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, July 30, 2022 at 12:11:21 PM
+> Last updated: Saturday, July 30, 2022 at 6:59:16 PM
 
 > Showing 5 of 30 posts.
 
@@ -51,13 +51,9 @@ http://www.echojs.com
 [![500ms to 1.7ms In React: A Journey And A Checklist](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/500ms_to_1.7ms_In_React__A_Journey_And_A_Checklist.svg)](
 https://orizens.com/blog/500ms-to-1-7ms-in-react-a-journey-and-a%20checklist/
 )
-[![Create an awesome development environment with the terminal in Mac OS like Linux window manager](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Create_an_awesome_development_environment_with_the_terminal_in_Mac_OS_like_Linux_window_manager.svg)](https://medium.com/@hemedani/create-an-awesome-development-environment-with-the-terminal-in-mac-os-like-window-manager-2da824f03572)
-[![
-Submit a new story - Echo JS
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Submit_a_new_story_-_Echo_JS_.svg)](
-https://www.echojs.com/submit?u=https%3A%2F%2Fwww.echojs.com%2Fsubmit%3Fu%3Dhttps%253A%252F%252Fwww.echojs.com%252Fsubmit%26t%3DSubmit%2520a%2520new%2520story%2520-%2520Echo%2520JS&amp;t=Submit%20a%20new%20story%20-%20Echo%20JS
-)
-[![Best Cost Reduction Practices to Maximize Profit for CPA & Accounting Firms](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Best_Cost_Reduction_Practices_to_Maximize_Profit_for_CPA___Accounting_Firms.svg)](https://www.capactix.com/cost-reduction-practices-maximize-profit-cpa-accounting-firms/)
+[![NX: Integration testing Apollo GraphQL and MongoDB Mongoose with Jest ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/NX__Integration_testing_Apollo_GraphQL_and_MongoDB_Mongoose_with_Jest_.svg)](https://creotip.io/posts/nx-testing-apollo-server-mongodb-mongoose)
+[![@gauravnumber/move](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/@gauravnumber_move.svg)](https://www.npmjs.com/package/@gauravnumber/move)
+[![GitHub - MarketingPipeline/Markdown-Tag: Add Markdown to any HTML using a <md> tag](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_MarketingPipeline_Markdown-Tag__Add_Markdown_to_any_HTML_using_a__md__tag.svg)](https://github.com/MarketingPipeline/Markdown-Tag)
 
 
 <!-- post-list:end -->
