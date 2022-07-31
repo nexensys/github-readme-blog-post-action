@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, July 30, 2022 at 6:59:03 PM
+> Last updated: Sunday, July 31, 2022 at 12:11:49 AM
 
 > Showing 5 of 12 posts.
 
-[![OpenGL - O que é?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/OpenGL_-_O_que_é_.svg)](https://dev.to/mrsrina/opengl-o-que-e-2c04)
-[![How To Get A Job Without Work Experience ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Get_A_Job_Without_Work_Experience__.svg)](https://dev.to/zairiaimendev/how-to-get-a-job-without-work-experience--2mpp)
-[![How to improve as a developer ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_improve_as_a_developer__.svg)](https://dev.to/zairiaimendev/how-to-improve-as-a-developer--4ig8)
-[![Diagrams are the ultimate engineering tool](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Diagrams_are_the_ultimate_engineering_tool.svg)](https://dev.to/wesen/diagrams-are-the-ultimate-engineering-tool-2897)
-[![Do I regret moving to London?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Do_I_regret_moving_to_London_.svg)](https://dev.to/beetlehope/do-i-regret-moving-to-london-bfm)
+[![Currying Existing Functions with JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Currying_Existing_Functions_with_JavaScript.svg)](https://dev.to/anewman15/currying-existing-functions-with-javascript-4nnc)
+[![7 Tips to Transition from a Beginner to an Intermediate Frontend Developer 🤓 👨‍💻](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/7_Tips_to_Transition_from_a_Beginner_to_an_Intermediate_Frontend_Developer_🤓_👨‍💻.svg)](https://dev.to/ruppysuppy/7-tips-to-transition-from-a-beginner-to-an-intermediate-frontend-developer-lec)
+[![I start my first e-commerce site built in Express.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_start_my_first_e-commerce_site_built_in_Express.js.svg)](https://dev.to/robinui/i-start-my-first-e-commerce-site-built-in-expressjs-3mpo)
+[![Bearcam Companion: Amplify Storage](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Bearcam_Companion__Amplify_Storage.svg)](https://dev.to/aws-builders/bearcam-companion-amplify-storage-cak)
+[![Singleton Pattern trong Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Singleton_Pattern_trong_Javascript.svg)](https://dev.to/dylanvo28/singleton-pattern-1kba)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, July 30, 2022 at 6:59:06 PM
+> Last updated: Sunday, July 31, 2022 at 12:11:52 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, July 30, 2022 at 6:59:16 PM
+> Last updated: Sunday, July 31, 2022 at 12:11:55 AM
 
 > Showing 5 of 30 posts.
 
