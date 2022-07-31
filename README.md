@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, July 31, 2022 at 6:18:11 AM
+> Last updated: Sunday, July 31, 2022 at 12:11:05 PM
 
 > Showing 5 of 12 posts.
 
-[![Can we pass a function to a function in C as a parameter?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Can_we_pass_a_function_to_a_function_in_C_as_a_parameter_.svg)](https://dev.to/namantam1/can-we-pass-a-function-to-a-function-in-c-as-a-parameter-g79)
-[![Deepdive into Laravel Pint](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deepdive_into_Laravel_Pint.svg)](https://dev.to/burtds/deepdive-into-laravel-pint-1n6k)
-[![React-Cocktail-recipes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React-Cocktail-recipes.svg)](https://dev.to/tabithakoech/react-cocktail-recipes-3p29)
-[![The History of Kubernetes⏱️](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_History_of_Kubernetes⏱️.svg)](https://dev.to/iarchitsharma/the-history-of-kubernetes-4kkd)
-[![Debugging a Wordle Bug](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Debugging_a_Wordle_Bug.svg)](https://dev.to/codenameone/debugging-a-wordle-bug-4n0a)
+[![The most efficient way to internationalize your web app](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_most_efficient_way_to_internationalize_your_web_app.svg)](https://dev.to/itsrakesh/the-most-efficient-way-to-internationalize-your-web-app-e6d)
+[![The Chrome Dev Tool you are missing : FEAT Recorder](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Chrome_Dev_Tool_you_are_missing___FEAT_Recorder.svg)](https://dev.to/shrihari/the-chrome-dev-tool-you-are-missing-feat-recorder-4ao5)
+[!["A journey of a thousand miles begins with a single step" - Lao Tzu](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_A_journey_of_a_thousand_miles_begins_with_a_single_step__-_Lao_Tzu.svg)](https://dev.to/princenwaonicha/a-journey-of-a-thousand-miles-begins-with-a-single-step-lao-tzu-3bla)
+[![How Crazy Codigo Got Its First Gig](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_Crazy_Codigo_Got_Its_First_Gig.svg)](https://dev.to/crazycodigo/how-crazy-codigo-got-its-first-gig-2j6i)
+[![Rest Parameter in JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Rest_Parameter_in_JS.svg)](https://dev.to/shubhamtiwari909/rest-parameter-in-js-4jdn)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, July 31, 2022 at 6:18:14 AM
+> Last updated: Sunday, July 31, 2022 at 12:11:09 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, July 31, 2022 at 6:18:16 AM
+> Last updated: Sunday, July 31, 2022 at 12:11:17 PM
 
 > Showing 5 of 30 posts.
 
+[![What is the Coupling Pitfall and how to Avoid it? - Yonatan Kra](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_is_the_Coupling_Pitfall_and_how_to_Avoid_it__-_Yonatan_Kra.svg)](https://yonatankra.com/what-is-the-coupling-pitfall-and-how-to-avoid-it/)
 [![Github App Improvements - Socket](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Github_App_Improvements_-_Socket.svg)](https://socket.dev/blog/github-app-improvements)
 [![500ms to 1.7ms In React: A Journey And A Checklist](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/500ms_to_1.7ms_In_React__A_Journey_And_A_Checklist.svg)](
 https://orizens.com/blog/500ms-to-1-7ms-in-react-a-journey-and-a%20checklist/
 )
 [![NX: Integration testing Apollo GraphQL and MongoDB Mongoose with Jest ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/NX__Integration_testing_Apollo_GraphQL_and_MongoDB_Mongoose_with_Jest_.svg)](https://creotip.io/posts/nx-testing-apollo-server-mongodb-mongoose)
 [![@gauravnumber/move](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/@gauravnumber_move.svg)](https://www.npmjs.com/package/@gauravnumber/move)
-[![GitHub - MarketingPipeline/Markdown-Tag: Add Markdown to any HTML using a <md> tag](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_MarketingPipeline_Markdown-Tag__Add_Markdown_to_any_HTML_using_a__md__tag.svg)](https://github.com/MarketingPipeline/Markdown-Tag)
 
 
 <!-- post-list:end -->
