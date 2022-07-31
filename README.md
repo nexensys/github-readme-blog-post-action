@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, July 31, 2022 at 12:11:49 AM
+> Last updated: Sunday, July 31, 2022 at 6:18:11 AM
 
 > Showing 5 of 12 posts.
 
-[![Currying Existing Functions with JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Currying_Existing_Functions_with_JavaScript.svg)](https://dev.to/anewman15/currying-existing-functions-with-javascript-4nnc)
-[![7 Tips to Transition from a Beginner to an Intermediate Frontend Developer 🤓 👨‍💻](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/7_Tips_to_Transition_from_a_Beginner_to_an_Intermediate_Frontend_Developer_🤓_👨‍💻.svg)](https://dev.to/ruppysuppy/7-tips-to-transition-from-a-beginner-to-an-intermediate-frontend-developer-lec)
-[![I start my first e-commerce site built in Express.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_start_my_first_e-commerce_site_built_in_Express.js.svg)](https://dev.to/robinui/i-start-my-first-e-commerce-site-built-in-expressjs-3mpo)
-[![Bearcam Companion: Amplify Storage](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Bearcam_Companion__Amplify_Storage.svg)](https://dev.to/aws-builders/bearcam-companion-amplify-storage-cak)
-[![Singleton Pattern trong Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Singleton_Pattern_trong_Javascript.svg)](https://dev.to/dylanvo28/singleton-pattern-1kba)
+[![Can we pass a function to a function in C as a parameter?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Can_we_pass_a_function_to_a_function_in_C_as_a_parameter_.svg)](https://dev.to/namantam1/can-we-pass-a-function-to-a-function-in-c-as-a-parameter-g79)
+[![Deepdive into Laravel Pint](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deepdive_into_Laravel_Pint.svg)](https://dev.to/burtds/deepdive-into-laravel-pint-1n6k)
+[![React-Cocktail-recipes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React-Cocktail-recipes.svg)](https://dev.to/tabithakoech/react-cocktail-recipes-3p29)
+[![The History of Kubernetes⏱️](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_History_of_Kubernetes⏱️.svg)](https://dev.to/iarchitsharma/the-history-of-kubernetes-4kkd)
+[![Debugging a Wordle Bug](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Debugging_a_Wordle_Bug.svg)](https://dev.to/codenameone/debugging-a-wordle-bug-4n0a)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, July 31, 2022 at 12:11:52 AM
+> Last updated: Sunday, July 31, 2022 at 6:18:14 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, July 31, 2022 at 12:11:55 AM
+> Last updated: Sunday, July 31, 2022 at 6:18:16 AM
 
 > Showing 5 of 30 posts.
 
