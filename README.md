@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, August 1, 2022 at 12:27:26 AM
+> Last updated: Monday, August 1, 2022 at 12:14:02 PM
 
 > Showing 5 of 12 posts.
 
-[![5 Tips on How To Create The Perfect Freelancer Profile](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Tips_on_How_To_Create_The_Perfect_Freelancer_Profile.svg)](https://dev.to/devsimc/5-tips-on-how-to-create-the-perfect-freelancer-profile-4ali)
-[![Roadmap to becoming a Flutter developer.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Roadmap_to_becoming_a_Flutter_developer..svg)](https://dev.to/this-is-learning/roadmap-to-becoming-a-flutter-developer-5c63)
-[![Ask Me Anything: DevOps, GitHub and Azure DevOps (10k subs special LIVE)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ask_Me_Anything__DevOps__GitHub_and_Azure_DevOps_(10k_subs_special_LIVE).svg)](https://dev.to/n3wt0n/ask-me-anything-devops-github-and-azure-devops-10k-subs-special-live-lpe)
-[![Engineering at SeaQL.org](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Engineering_at_SeaQL.org.svg)](https://dev.to/seaql/engineering-at-seaqlorg-51nj)
-[![Completed all the Kaggle courses.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Completed_all_the_Kaggle_courses..svg)](https://dev.to/thunderstroke/completed-all-the-kaggle-courses-3adj)
+[![You have been using React Native modals wrong.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/You_have_been_using_React_Native_modals_wrong..svg)](https://dev.to/gabrieltaveira/you-have-been-using-react-native-modals-wrong-7hd)
+[![Site-To-Site VPN connection in the Azure portal](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Site-To-Site_VPN_connection_in_the_Azure_portal.svg)](https://dev.to/shankarsurya035/site-to-site-vpn-connection-in-the-azure-portal-258p)
+[![Announcing the Redis Hackathon on DEV!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Announcing_the_Redis_Hackathon_on_DEV!.svg)](https://dev.to/devteam/announcing-the-redis-hackathon-on-dev-3248)
+[![Redis x DEV Hackathon Help Thread](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Redis_x_DEV_Hackathon_Help_Thread.svg)](https://dev.to/devteam/redis-x-dev-hackathon-help-thread-a7b)
+[![Community Discussion Thread — Redis x DEV Hackathon](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Community_Discussion_Thread_—_Redis_x_DEV_Hackathon.svg)](https://dev.to/devteam/community-discussion-thread-redis-x-dev-hackathon-4cl6)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, August 1, 2022 at 12:27:29 AM
+> Last updated: Monday, August 1, 2022 at 12:14:05 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, August 1, 2022 at 12:27:33 AM
+> Last updated: Monday, August 1, 2022 at 12:14:13 PM
 
 > Showing 5 of 30 posts.
 
-[![GitHub - 5Fingers/CVE-Notifier: A python tool for sending email notifications about latest CVE trends](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_5Fingers_CVE-Notifier__A_python_tool_for_sending_email_notifications_about_latest_CVE_trends.svg)](https://github.com/5Fingers/CVE-Notifier)
 [![GitHub - ehmicky/safe-json-value: ⛑️ JSON serialization should never fail](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ehmicky_safe-json-value__⛑️_JSON_serialization_should_never_fail.svg)](https://github.com/ehmicky/safe-json-value)
 [![What is the Coupling Pitfall and how to Avoid it? - Yonatan Kra](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_is_the_Coupling_Pitfall_and_how_to_Avoid_it__-_Yonatan_Kra.svg)](https://yonatankra.com/what-is-the-coupling-pitfall-and-how-to-avoid-it/)
 [![Github App Improvements - Socket](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Github_App_Improvements_-_Socket.svg)](https://socket.dev/blog/github-app-improvements)
 [![500ms to 1.7ms In React: A Journey And A Checklist](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/500ms_to_1.7ms_In_React__A_Journey_And_A_Checklist.svg)](
 https://orizens.com/blog/500ms-to-1-7ms-in-react-a-journey-and-a%20checklist/
 )
+[![NX: Integration testing Apollo GraphQL and MongoDB Mongoose with Jest ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/NX__Integration_testing_Apollo_GraphQL_and_MongoDB_Mongoose_with_Jest_.svg)](https://creotip.io/posts/nx-testing-apollo-server-mongodb-mongoose)
 
 
 <!-- post-list:end -->
