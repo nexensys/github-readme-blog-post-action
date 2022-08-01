@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, July 31, 2022 at 7:05:17 PM
+> Last updated: Monday, August 1, 2022 at 12:27:26 AM
 
 > Showing 5 of 12 posts.
 
-[![Using cubits for state management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_cubits_for_state_management.svg)](https://dev.to/ramgendeploy/using-cubits-for-state-management-nmi)
-[![How We Use Github Issues to Track Customer Feedback](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_We_Use_Github_Issues_to_Track_Customer_Feedback.svg)](https://dev.to/bootdotdev/how-we-use-github-issues-to-track-customer-feedback-4o0h)
-[![An Introduction to The Importance of Algorithms and Data Structures in Web Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/An_Introduction_to_The_Importance_of_Algorithms_and_Data_Structures_in_Web_Development.svg)](https://dev.to/tlncook/an-introduction-to-the-importance-of-algorithms-and-data-structures-in-web-development-5ee6)
-[![Redis for beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Redis_for_beginners.svg)](https://dev.to/hcapucho/redis-for-beginners-1n42)
-[![Mongez React Atom: A new React state management in town](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mongez_React_Atom__A_new_React_state_management_in_town.svg)](https://dev.to/hassanzohdy/mongez-react-atom-a-new-react-state-management-in-town-1a8g)
+[![5 Tips on How To Create The Perfect Freelancer Profile](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Tips_on_How_To_Create_The_Perfect_Freelancer_Profile.svg)](https://dev.to/devsimc/5-tips-on-how-to-create-the-perfect-freelancer-profile-4ali)
+[![Roadmap to becoming a Flutter developer.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Roadmap_to_becoming_a_Flutter_developer..svg)](https://dev.to/this-is-learning/roadmap-to-becoming-a-flutter-developer-5c63)
+[![Ask Me Anything: DevOps, GitHub and Azure DevOps (10k subs special LIVE)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ask_Me_Anything__DevOps__GitHub_and_Azure_DevOps_(10k_subs_special_LIVE).svg)](https://dev.to/n3wt0n/ask-me-anything-devops-github-and-azure-devops-10k-subs-special-live-lpe)
+[![Engineering at SeaQL.org](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Engineering_at_SeaQL.org.svg)](https://dev.to/seaql/engineering-at-seaqlorg-51nj)
+[![Completed all the Kaggle courses.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Completed_all_the_Kaggle_courses..svg)](https://dev.to/thunderstroke/completed-all-the-kaggle-courses-3adj)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, July 31, 2022 at 7:05:20 PM
+> Last updated: Monday, August 1, 2022 at 12:27:29 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,11 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, July 31, 2022 at 7:05:22 PM
+> Last updated: Monday, August 1, 2022 at 12:27:33 AM
 
 > Showing 5 of 30 posts.
 
-[![GitHub - 5Fingers/CVE-Notifer: A python tool for sending email notifications about last CVE trends](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_5Fingers_CVE-Notifer__A_python_tool_for_sending_email_notifications_about_last_CVE_trends.svg)](https://github.com/5Fingers/CVE-Notifer)
+[![GitHub - 5Fingers/CVE-Notifier: A python tool for sending email notifications about latest CVE trends](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_5Fingers_CVE-Notifier__A_python_tool_for_sending_email_notifications_about_latest_CVE_trends.svg)](https://github.com/5Fingers/CVE-Notifier)
 [![GitHub - ehmicky/safe-json-value: ⛑️ JSON serialization should never fail](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ehmicky_safe-json-value__⛑️_JSON_serialization_should_never_fail.svg)](https://github.com/ehmicky/safe-json-value)
 [![What is the Coupling Pitfall and how to Avoid it? - Yonatan Kra](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_is_the_Coupling_Pitfall_and_how_to_Avoid_it__-_Yonatan_Kra.svg)](https://yonatankra.com/what-is-the-coupling-pitfall-and-how-to-avoid-it/)
 [![Github App Improvements - Socket](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Github_App_Improvements_-_Socket.svg)](https://socket.dev/blog/github-app-improvements)
