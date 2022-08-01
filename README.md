@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, July 31, 2022 at 12:11:05 PM
+> Last updated: Sunday, July 31, 2022 at 7:05:17 PM
 
 > Showing 5 of 12 posts.
 
-[![The most efficient way to internationalize your web app](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_most_efficient_way_to_internationalize_your_web_app.svg)](https://dev.to/itsrakesh/the-most-efficient-way-to-internationalize-your-web-app-e6d)
-[![The Chrome Dev Tool you are missing : FEAT Recorder](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Chrome_Dev_Tool_you_are_missing___FEAT_Recorder.svg)](https://dev.to/shrihari/the-chrome-dev-tool-you-are-missing-feat-recorder-4ao5)
-[!["A journey of a thousand miles begins with a single step" - Lao Tzu](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_A_journey_of_a_thousand_miles_begins_with_a_single_step__-_Lao_Tzu.svg)](https://dev.to/princenwaonicha/a-journey-of-a-thousand-miles-begins-with-a-single-step-lao-tzu-3bla)
-[![How Crazy Codigo Got Its First Gig](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_Crazy_Codigo_Got_Its_First_Gig.svg)](https://dev.to/crazycodigo/how-crazy-codigo-got-its-first-gig-2j6i)
-[![Rest Parameter in JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Rest_Parameter_in_JS.svg)](https://dev.to/shubhamtiwari909/rest-parameter-in-js-4jdn)
+[![Using cubits for state management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_cubits_for_state_management.svg)](https://dev.to/ramgendeploy/using-cubits-for-state-management-nmi)
+[![How We Use Github Issues to Track Customer Feedback](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_We_Use_Github_Issues_to_Track_Customer_Feedback.svg)](https://dev.to/bootdotdev/how-we-use-github-issues-to-track-customer-feedback-4o0h)
+[![An Introduction to The Importance of Algorithms and Data Structures in Web Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/An_Introduction_to_The_Importance_of_Algorithms_and_Data_Structures_in_Web_Development.svg)](https://dev.to/tlncook/an-introduction-to-the-importance-of-algorithms-and-data-structures-in-web-development-5ee6)
+[![Redis for beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Redis_for_beginners.svg)](https://dev.to/hcapucho/redis-for-beginners-1n42)
+[![Mongez React Atom: A new React state management in town](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mongez_React_Atom__A_new_React_state_management_in_town.svg)](https://dev.to/hassanzohdy/mongez-react-atom-a-new-react-state-management-in-town-1a8g)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, July 31, 2022 at 12:11:09 PM
+> Last updated: Sunday, July 31, 2022 at 7:05:20 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, July 31, 2022 at 12:11:17 PM
+> Last updated: Sunday, July 31, 2022 at 7:05:22 PM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - 5Fingers/CVE-Notifer: A python tool for sending email notifications about last CVE trends](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_5Fingers_CVE-Notifer__A_python_tool_for_sending_email_notifications_about_last_CVE_trends.svg)](https://github.com/5Fingers/CVE-Notifer)
+[![GitHub - ehmicky/safe-json-value: ⛑️ JSON serialization should never fail](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ehmicky_safe-json-value__⛑️_JSON_serialization_should_never_fail.svg)](https://github.com/ehmicky/safe-json-value)
 [![What is the Coupling Pitfall and how to Avoid it? - Yonatan Kra](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_is_the_Coupling_Pitfall_and_how_to_Avoid_it__-_Yonatan_Kra.svg)](https://yonatankra.com/what-is-the-coupling-pitfall-and-how-to-avoid-it/)
 [![Github App Improvements - Socket](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Github_App_Improvements_-_Socket.svg)](https://socket.dev/blog/github-app-improvements)
 [![500ms to 1.7ms In React: A Journey And A Checklist](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/500ms_to_1.7ms_In_React__A_Journey_And_A_Checklist.svg)](
 https://orizens.com/blog/500ms-to-1-7ms-in-react-a-journey-and-a%20checklist/
 )
-[![NX: Integration testing Apollo GraphQL and MongoDB Mongoose with Jest ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/NX__Integration_testing_Apollo_GraphQL_and_MongoDB_Mongoose_with_Jest_.svg)](https://creotip.io/posts/nx-testing-apollo-server-mongodb-mongoose)
-[![@gauravnumber/move](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/@gauravnumber_move.svg)](https://www.npmjs.com/package/@gauravnumber/move)
 
 
 <!-- post-list:end -->
