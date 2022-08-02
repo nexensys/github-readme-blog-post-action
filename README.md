@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, August 1, 2022 at 7:01:39 PM
+> Last updated: Tuesday, August 2, 2022 at 12:13:23 AM
 
 > Showing 5 of 12 posts.
 
-[![Why C for every Dev](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_C_for_every_Dev.svg)](https://dev.to/japhethnamukuru/why-c-for-every-dev-32eh)
-[![Build on AWS Weekly - S1 E2 - Breaking Blocks with Terraform](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_on_AWS_Weekly_-_S1_E2_-_Breaking_Blocks_with_Terraform.svg)](https://dev.to/darkosubotica/build-on-aws-weekly-s1-e2-breaking-blocks-with-terraform-4dlb)
-[![Interact with ADT using Postman](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Interact_with_ADT_using_Postman.svg)](https://dev.to/yongchanghe/interact-with-adt-using-postman-2enl)
-[![Scheduling and Running Recurring Cron Jobs in Node.JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Scheduling_and_Running_Recurring_Cron_Jobs_in_Node.JS.svg)](https://dev.to/smpnjn/scheduling-and-runnning-recurring-cron-jobs-in-nodejs-p86)
-[![Roadmap To Become A Flutter Developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Roadmap_To_Become_A_Flutter_Developer.svg)](https://dev.to/usmanafzal8/roadmap-to-become-a-flutter-developer-4ioi)
+[![Auto-currying in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Auto-currying_in_JavaScript.svg)](https://dev.to/anewman15/auto-currying-in-javascript-17il)
+[![Useful Plugins in Xamarin | iFour](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Useful_Plugins_in_Xamarin___iFour.svg)](https://dev.to/ifourtechnolab/useful-plugins-in-xamarin-ifour-2ih6)
+[![How Will AR/VR Change the Way We Travel?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_Will_AR_VR_Change_the_Way_We_Travel_.svg)](https://dev.to/inapp/how-will-arvr-change-the-way-we-travel-245o)
+[![7 Free APIs That Nobody Is Talking About](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/7_Free_APIs_That_Nobody_Is_Talking_About.svg)](https://dev.to/devsimc/7-free-apis-that-nobody-is-talking-about-o4g)
+[![Build a Serverless URL shortener with Go](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_a_Serverless_URL_shortener_with_Go.svg)](https://dev.to/abhirockzz/build-a-serverless-url-shortener-with-go-10i2)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, August 1, 2022 at 7:01:42 PM
+> Last updated: Tuesday, August 2, 2022 at 12:13:27 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, August 1, 2022 at 7:01:48 PM
+> Last updated: Tuesday, August 2, 2022 at 12:13:33 AM
 
 > Showing 5 of 30 posts.
 
