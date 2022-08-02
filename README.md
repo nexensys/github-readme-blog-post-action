@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, August 2, 2022 at 6:24:11 AM
+> Last updated: Tuesday, August 2, 2022 at 12:12:59 PM
 
 > Showing 5 of 12 posts.
 
-[![We Released a New Next.js Ecommerce Storefront with Ready Integrations to PayPal, MeiliSearch, Stripe, and more!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/We_Released_a_New_Next.js_Ecommerce_Storefront_with_Ready_Integrations_to_PayPal__MeiliSearch__Stripe__and_more!.svg)](https://dev.to/medusajs/we-released-a-new-nextjs-ecommerce-storefront-with-ready-integrations-to-paypal-meilisearch-stripe-and-more-34jl)
-[![Aws Summit 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Aws_Summit_2022.svg)](https://dev.to/marciopolicarpo/aws-summit-2022-3gio)
-[![Top React Admin Dashboard Templates](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_React_Admin_Dashboard_Templates.svg)](https://dev.to/flatlogic/top-react-admin-dashboard-templates-1d01)
-[![Mount a Azure Blob storage container on Linux with blobfuse.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mount_a_Azure_Blob_storage_container_on_Linux_with_blobfuse..svg)](https://dev.to/shankarsurya035/mount-a-azure-blob-storage-container-on-linux-with-with-blobfuse-53ih)
-[![The Simplest Beginner's Guide to Cryptocurrencies.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Simplest_Beginner's_Guide_to_Cryptocurrencies..svg)](https://dev.to/chizobaonorh/the-simplest-beginners-guide-to-cryptocurrencies-2a75)
+[![Host a website on Azure Virtual Machine with SSL enabled using Let's Encrypt & add a custom domain managed by Azure DNS.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Host_a_website_on_Azure_Virtual_Machine_with_SSL_enabled_using_Let's_Encrypt___add_a_custom_domain_managed_by_Azure_DNS..svg)](https://dev.to/shankarsurya035/configure-a-webserver-and-database-server-with-proper-ssl-configuration-using-lets-encrypt-47ci)
+[![This new GIT push config will save you lot of frustration!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/This_new_GIT_push_config_will_save_you_lot_of_frustration!.svg)](https://dev.to/this-is-learning/this-new-git-push-config-will-save-you-lot-of-frustration-27a9)
+[![DEV precisa se preocupar com SRE](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/DEV_precisa_se_preocupar_com_SRE.svg)](https://dev.to/biosbug/dev-precisa-se-preocupar-com-sre-f64)
+[![Argon Dashboard - Free Tailwind Template](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Argon_Dashboard_-_Free_Tailwind_Template.svg)](https://dev.to/sm0ke/argon-dashboard-free-tailwind-template-23o9)
+[![Template HTML and JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Template_HTML_and_JS.svg)](https://dev.to/yankeesgch/template-html-and-js-9ab)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, August 2, 2022 at 6:24:14 AM
+> Last updated: Tuesday, August 2, 2022 at 12:13:03 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, August 2, 2022 at 6:24:18 AM
+> Last updated: Tuesday, August 2, 2022 at 12:13:13 PM
 
 > Showing 5 of 30 posts.
 
