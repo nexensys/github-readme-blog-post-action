@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, August 1, 2022 at 12:14:02 PM
+> Last updated: Monday, August 1, 2022 at 7:01:39 PM
 
 > Showing 5 of 12 posts.
 
-[![You have been using React Native modals wrong.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/You_have_been_using_React_Native_modals_wrong..svg)](https://dev.to/gabrieltaveira/you-have-been-using-react-native-modals-wrong-7hd)
-[![Site-To-Site VPN connection in the Azure portal](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Site-To-Site_VPN_connection_in_the_Azure_portal.svg)](https://dev.to/shankarsurya035/site-to-site-vpn-connection-in-the-azure-portal-258p)
-[![Announcing the Redis Hackathon on DEV!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Announcing_the_Redis_Hackathon_on_DEV!.svg)](https://dev.to/devteam/announcing-the-redis-hackathon-on-dev-3248)
-[![Redis x DEV Hackathon Help Thread](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Redis_x_DEV_Hackathon_Help_Thread.svg)](https://dev.to/devteam/redis-x-dev-hackathon-help-thread-a7b)
-[![Community Discussion Thread — Redis x DEV Hackathon](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Community_Discussion_Thread_—_Redis_x_DEV_Hackathon.svg)](https://dev.to/devteam/community-discussion-thread-redis-x-dev-hackathon-4cl6)
+[![Why C for every Dev](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_C_for_every_Dev.svg)](https://dev.to/japhethnamukuru/why-c-for-every-dev-32eh)
+[![Build on AWS Weekly - S1 E2 - Breaking Blocks with Terraform](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_on_AWS_Weekly_-_S1_E2_-_Breaking_Blocks_with_Terraform.svg)](https://dev.to/darkosubotica/build-on-aws-weekly-s1-e2-breaking-blocks-with-terraform-4dlb)
+[![Interact with ADT using Postman](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Interact_with_ADT_using_Postman.svg)](https://dev.to/yongchanghe/interact-with-adt-using-postman-2enl)
+[![Scheduling and Running Recurring Cron Jobs in Node.JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Scheduling_and_Running_Recurring_Cron_Jobs_in_Node.JS.svg)](https://dev.to/smpnjn/scheduling-and-runnning-recurring-cron-jobs-in-nodejs-p86)
+[![Roadmap To Become A Flutter Developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Roadmap_To_Become_A_Flutter_Developer.svg)](https://dev.to/usmanafzal8/roadmap-to-become-a-flutter-developer-4ioi)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, August 1, 2022 at 12:14:05 PM
+> Last updated: Monday, August 1, 2022 at 7:01:42 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, August 1, 2022 at 12:14:13 PM
+> Last updated: Monday, August 1, 2022 at 7:01:48 PM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - voxelize/voxelize: A sandbox library for making FAST voxel games [WIP]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_voxelize_voxelize__A_sandbox_library_for_making_FAST_voxel_games_[WIP].svg)](https://github.com/voxelize/voxelize)
+[![JavaScript testing #13. Mocking a REST API with the Mock Service Worker](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_testing__13._Mocking_a_REST_API_with_the_Mock_Service_Worker.svg)](http://wanago.io/2022/08/01/javascript-testing-rest-api-mock-service-worker/)
 [![GitHub - ehmicky/safe-json-value: ⛑️ JSON serialization should never fail](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ehmicky_safe-json-value__⛑️_JSON_serialization_should_never_fail.svg)](https://github.com/ehmicky/safe-json-value)
 [![What is the Coupling Pitfall and how to Avoid it? - Yonatan Kra](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_is_the_Coupling_Pitfall_and_how_to_Avoid_it__-_Yonatan_Kra.svg)](https://yonatankra.com/what-is-the-coupling-pitfall-and-how-to-avoid-it/)
 [![Github App Improvements - Socket](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Github_App_Improvements_-_Socket.svg)](https://socket.dev/blog/github-app-improvements)
-[![500ms to 1.7ms In React: A Journey And A Checklist](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/500ms_to_1.7ms_In_React__A_Journey_And_A_Checklist.svg)](
-https://orizens.com/blog/500ms-to-1-7ms-in-react-a-journey-and-a%20checklist/
-)
-[![NX: Integration testing Apollo GraphQL and MongoDB Mongoose with Jest ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/NX__Integration_testing_Apollo_GraphQL_and_MongoDB_Mongoose_with_Jest_.svg)](https://creotip.io/posts/nx-testing-apollo-server-mongodb-mongoose)
 
 
 <!-- post-list:end -->
