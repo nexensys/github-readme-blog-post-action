@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, August 2, 2022 at 12:13:23 AM
+> Last updated: Tuesday, August 2, 2022 at 6:24:11 AM
 
 > Showing 5 of 12 posts.
 
-[![Auto-currying in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Auto-currying_in_JavaScript.svg)](https://dev.to/anewman15/auto-currying-in-javascript-17il)
-[![Useful Plugins in Xamarin | iFour](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Useful_Plugins_in_Xamarin___iFour.svg)](https://dev.to/ifourtechnolab/useful-plugins-in-xamarin-ifour-2ih6)
-[![How Will AR/VR Change the Way We Travel?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_Will_AR_VR_Change_the_Way_We_Travel_.svg)](https://dev.to/inapp/how-will-arvr-change-the-way-we-travel-245o)
-[![7 Free APIs That Nobody Is Talking About](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/7_Free_APIs_That_Nobody_Is_Talking_About.svg)](https://dev.to/devsimc/7-free-apis-that-nobody-is-talking-about-o4g)
-[![Build a Serverless URL shortener with Go](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_a_Serverless_URL_shortener_with_Go.svg)](https://dev.to/abhirockzz/build-a-serverless-url-shortener-with-go-10i2)
+[![We Released a New Next.js Ecommerce Storefront with Ready Integrations to PayPal, MeiliSearch, Stripe, and more!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/We_Released_a_New_Next.js_Ecommerce_Storefront_with_Ready_Integrations_to_PayPal__MeiliSearch__Stripe__and_more!.svg)](https://dev.to/medusajs/we-released-a-new-nextjs-ecommerce-storefront-with-ready-integrations-to-paypal-meilisearch-stripe-and-more-34jl)
+[![Aws Summit 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Aws_Summit_2022.svg)](https://dev.to/marciopolicarpo/aws-summit-2022-3gio)
+[![Top React Admin Dashboard Templates](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_React_Admin_Dashboard_Templates.svg)](https://dev.to/flatlogic/top-react-admin-dashboard-templates-1d01)
+[![Mount a Azure Blob storage container on Linux with blobfuse.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mount_a_Azure_Blob_storage_container_on_Linux_with_blobfuse..svg)](https://dev.to/shankarsurya035/mount-a-azure-blob-storage-container-on-linux-with-with-blobfuse-53ih)
+[![The Simplest Beginner's Guide to Cryptocurrencies.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Simplest_Beginner's_Guide_to_Cryptocurrencies..svg)](https://dev.to/chizobaonorh/the-simplest-beginners-guide-to-cryptocurrencies-2a75)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, August 2, 2022 at 12:13:27 AM
+> Last updated: Tuesday, August 2, 2022 at 6:24:14 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, August 2, 2022 at 12:13:33 AM
+> Last updated: Tuesday, August 2, 2022 at 6:24:18 AM
 
 > Showing 5 of 30 posts.
 
+[![Episode 22 - Web3 as a JavaScript Developer with Francesco Ciulla - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_22_-_Web3_as_a_JavaScript_Developer_with_Francesco_Ciulla_-_20minJS.svg)](https://podcast.20minjs.com/1952066/11060577-episode-22-web3-as-a-javascript-developer-with-francesco-ciulla)
 [![GitHub - voxelize/voxelize: A sandbox library for making FAST voxel games [WIP]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_voxelize_voxelize__A_sandbox_library_for_making_FAST_voxel_games_[WIP].svg)](https://github.com/voxelize/voxelize)
 [![JavaScript testing #13. Mocking a REST API with the Mock Service Worker](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_testing__13._Mocking_a_REST_API_with_the_Mock_Service_Worker.svg)](http://wanago.io/2022/08/01/javascript-testing-rest-api-mock-service-worker/)
 [![GitHub - ehmicky/safe-json-value: ⛑️ JSON serialization should never fail](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ehmicky_safe-json-value__⛑️_JSON_serialization_should_never_fail.svg)](https://github.com/ehmicky/safe-json-value)
 [![What is the Coupling Pitfall and how to Avoid it? - Yonatan Kra](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_is_the_Coupling_Pitfall_and_how_to_Avoid_it__-_Yonatan_Kra.svg)](https://yonatankra.com/what-is-the-coupling-pitfall-and-how-to-avoid-it/)
-[![Github App Improvements - Socket](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Github_App_Improvements_-_Socket.svg)](https://socket.dev/blog/github-app-improvements)
 
 
 <!-- post-list:end -->
