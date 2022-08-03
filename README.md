@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, August 2, 2022 at 12:12:59 PM
+> Last updated: Tuesday, August 2, 2022 at 7:00:09 PM
 
 > Showing 5 of 12 posts.
 
-[![Host a website on Azure Virtual Machine with SSL enabled using Let's Encrypt & add a custom domain managed by Azure DNS.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Host_a_website_on_Azure_Virtual_Machine_with_SSL_enabled_using_Let's_Encrypt___add_a_custom_domain_managed_by_Azure_DNS..svg)](https://dev.to/shankarsurya035/configure-a-webserver-and-database-server-with-proper-ssl-configuration-using-lets-encrypt-47ci)
-[![This new GIT push config will save you lot of frustration!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/This_new_GIT_push_config_will_save_you_lot_of_frustration!.svg)](https://dev.to/this-is-learning/this-new-git-push-config-will-save-you-lot-of-frustration-27a9)
-[![DEV precisa se preocupar com SRE](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/DEV_precisa_se_preocupar_com_SRE.svg)](https://dev.to/biosbug/dev-precisa-se-preocupar-com-sre-f64)
-[![Argon Dashboard - Free Tailwind Template](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Argon_Dashboard_-_Free_Tailwind_Template.svg)](https://dev.to/sm0ke/argon-dashboard-free-tailwind-template-23o9)
-[![Template HTML and JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Template_HTML_and_JS.svg)](https://dev.to/yankeesgch/template-html-and-js-9ab)
+[![How to create an animation to open a menu with Tailwind in 5 steps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_an_animation_to_open_a_menu_with_Tailwind_in_5_steps.svg)](https://dev.to/maysab/how-to-create-an-animation-to-open-a-menu-with-tailwind-in-5-steps-1llj)
+[![Docker Content Trust on ACR with Azure Pipelines](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Docker_Content_Trust_on_ACR_with_Azure_Pipelines.svg)](https://dev.to/smapiot/docker-content-trust-on-acr-with-azure-pipelines-1p0k)
+[![Day 606 : Getting it](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Day_606___Getting_it.svg)](https://dev.to/dwane/day-606-getting-it-10c5)
+[![Top 7 Featured DEV Posts from the Past Week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_7_Featured_DEV_Posts_from_the_Past_Week.svg)](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-57oo)
+[![10+ Unique Chrome Extensions For Web Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10+_Unique_Chrome_Extensions_For_Web_Developers.svg)](https://dev.to/mojodev/10-unique-chrome-extensions-for-web-developers-2n6g)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, August 2, 2022 at 12:13:03 PM
+> Last updated: Tuesday, August 2, 2022 at 7:00:12 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, August 2, 2022 at 12:13:13 PM
+> Last updated: Tuesday, August 2, 2022 at 7:00:19 PM
 
 > Showing 5 of 30 posts.
 
