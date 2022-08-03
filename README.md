@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, August 3, 2022 at 12:12:54 AM
+> Last updated: Wednesday, August 3, 2022 at 6:20:14 AM
 
 > Showing 5 of 12 posts.
 
-[![Learn Web Dev FREE !](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Learn_Web_Dev_FREE_!.svg)](https://dev.to/abbhiishek/learn-web-dev-free--2pl9)
-[![Why is it time to move on to ReactJS ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_is_it_time_to_move_on_to_ReactJS__.svg)](https://dev.to/abbhiishek/why-is-it-time-to-move-on-to-reactjs--4na1)
-[![Price's law and 3 things to do if you're underpaid](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Price's_law_and_3_things_to_do_if_you're_underpaid.svg)](https://dev.to/sandordargo/prices-law-and-3-things-to-do-if-youre-underpaid-mma)
-[![React Functional vs Class Components - Beginners Guide.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Functional_vs_Class_Components_-_Beginners_Guide..svg)](https://dev.to/abbhiishek/react-functional-vs-class-components-beginners-guide-4ca3)
-[![Tencent Cloud IM：Chat API For Real-Time In-App Communication](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tencent_Cloud_IM：Chat_API_For_Real-Time_In-App_Communication.svg)](https://dev.to/tencentcloud/tencent-cloud-imchat-api-for-real-time-in-app-communication-1n41)
+[![Objects in JavaScript For beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Objects_in_JavaScript_For_beginners.svg)](https://dev.to/ericawanja/objects-in-javascript-for-beginners-38l2)
+[![Maps in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Maps_in_JavaScript.svg)](https://dev.to/ericawanja/maps-in-javascript-3ng2)
+[![Spatial Search with Amazon OpenSearch Service and Visualized It in QGIS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Spatial_Search_with_Amazon_OpenSearch_Service_and_Visualized_It_in_QGIS.svg)](https://dev.to/aws-heroes/spatial-search-with-amazon-opensearch-service-and-visualized-it-in-qgis-2m70)
+[![Testing a local WordPress instance on BrowserStack](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Testing_a_local_WordPress_instance_on_BrowserStack.svg)](https://dev.to/ingosteinke/testing-a-local-wordpress-instance-on-browserstack-n4l)
+[![How to Install and Configure Docker Swarm on Linux.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Install_and_Configure_Docker_Swarm_on_Linux..svg)](https://dev.to/shankarsurya035/how-to-install-and-configure-docker-swarm-on-linux-oe0)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, August 3, 2022 at 12:12:57 AM
+> Last updated: Wednesday, August 3, 2022 at 6:20:17 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, August 3, 2022 at 12:13:03 AM
+> Last updated: Wednesday, August 3, 2022 at 6:20:26 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - Rikkooo/BNB-Chainlink-Drainer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Rikkooo_BNB-Chainlink-Drainer.svg)](https://github.com/Rikkooo/BNB-Chainlink-Drainer)
 [![Episode 22 - Web3 as a JavaScript Developer with Francesco Ciulla - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_22_-_Web3_as_a_JavaScript_Developer_with_Francesco_Ciulla_-_20minJS.svg)](https://podcast.20minjs.com/1952066/11060577-episode-22-web3-as-a-javascript-developer-with-francesco-ciulla)
 [![GitHub - voxelize/voxelize: A sandbox library for making FAST voxel games [WIP]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_voxelize_voxelize__A_sandbox_library_for_making_FAST_voxel_games_[WIP].svg)](https://github.com/voxelize/voxelize)
 [![JavaScript testing #13. Mocking a REST API with the Mock Service Worker](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_testing__13._Mocking_a_REST_API_with_the_Mock_Service_Worker.svg)](http://wanago.io/2022/08/01/javascript-testing-rest-api-mock-service-worker/)
 [![GitHub - ehmicky/safe-json-value: ⛑️ JSON serialization should never fail](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ehmicky_safe-json-value__⛑️_JSON_serialization_should_never_fail.svg)](https://github.com/ehmicky/safe-json-value)
-[![What is the Coupling Pitfall and how to Avoid it? - Yonatan Kra](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_is_the_Coupling_Pitfall_and_how_to_Avoid_it__-_Yonatan_Kra.svg)](https://yonatankra.com/what-is-the-coupling-pitfall-and-how-to-avoid-it/)
 
 
 <!-- post-list:end -->
