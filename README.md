@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, August 2, 2022 at 7:00:09 PM
+> Last updated: Wednesday, August 3, 2022 at 12:12:54 AM
 
 > Showing 5 of 12 posts.
 
-[![How to create an animation to open a menu with Tailwind in 5 steps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_an_animation_to_open_a_menu_with_Tailwind_in_5_steps.svg)](https://dev.to/maysab/how-to-create-an-animation-to-open-a-menu-with-tailwind-in-5-steps-1llj)
-[![Docker Content Trust on ACR with Azure Pipelines](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Docker_Content_Trust_on_ACR_with_Azure_Pipelines.svg)](https://dev.to/smapiot/docker-content-trust-on-acr-with-azure-pipelines-1p0k)
-[![Day 606 : Getting it](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Day_606___Getting_it.svg)](https://dev.to/dwane/day-606-getting-it-10c5)
-[![Top 7 Featured DEV Posts from the Past Week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_7_Featured_DEV_Posts_from_the_Past_Week.svg)](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-57oo)
-[![10+ Unique Chrome Extensions For Web Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10+_Unique_Chrome_Extensions_For_Web_Developers.svg)](https://dev.to/mojodev/10-unique-chrome-extensions-for-web-developers-2n6g)
+[![Learn Web Dev FREE !](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Learn_Web_Dev_FREE_!.svg)](https://dev.to/abbhiishek/learn-web-dev-free--2pl9)
+[![Why is it time to move on to ReactJS ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_is_it_time_to_move_on_to_ReactJS__.svg)](https://dev.to/abbhiishek/why-is-it-time-to-move-on-to-reactjs--4na1)
+[![Price's law and 3 things to do if you're underpaid](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Price's_law_and_3_things_to_do_if_you're_underpaid.svg)](https://dev.to/sandordargo/prices-law-and-3-things-to-do-if-youre-underpaid-mma)
+[![React Functional vs Class Components - Beginners Guide.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Functional_vs_Class_Components_-_Beginners_Guide..svg)](https://dev.to/abbhiishek/react-functional-vs-class-components-beginners-guide-4ca3)
+[![Tencent Cloud IM：Chat API For Real-Time In-App Communication](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tencent_Cloud_IM：Chat_API_For_Real-Time_In-App_Communication.svg)](https://dev.to/tencentcloud/tencent-cloud-imchat-api-for-real-time-in-app-communication-1n41)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, August 2, 2022 at 7:00:12 PM
+> Last updated: Wednesday, August 3, 2022 at 12:12:57 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, August 2, 2022 at 7:00:19 PM
+> Last updated: Wednesday, August 3, 2022 at 12:13:03 AM
 
 > Showing 5 of 30 posts.
 
