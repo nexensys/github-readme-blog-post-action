@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, August 3, 2022 at 6:20:14 AM
+> Last updated: Wednesday, August 3, 2022 at 12:12:49 PM
 
 > Showing 5 of 12 posts.
 
-[![Objects in JavaScript For beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Objects_in_JavaScript_For_beginners.svg)](https://dev.to/ericawanja/objects-in-javascript-for-beginners-38l2)
-[![Maps in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Maps_in_JavaScript.svg)](https://dev.to/ericawanja/maps-in-javascript-3ng2)
-[![Spatial Search with Amazon OpenSearch Service and Visualized It in QGIS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Spatial_Search_with_Amazon_OpenSearch_Service_and_Visualized_It_in_QGIS.svg)](https://dev.to/aws-heroes/spatial-search-with-amazon-opensearch-service-and-visualized-it-in-qgis-2m70)
-[![Testing a local WordPress instance on BrowserStack](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Testing_a_local_WordPress_instance_on_BrowserStack.svg)](https://dev.to/ingosteinke/testing-a-local-wordpress-instance-on-browserstack-n4l)
-[![How to Install and Configure Docker Swarm on Linux.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Install_and_Configure_Docker_Swarm_on_Linux..svg)](https://dev.to/shankarsurya035/how-to-install-and-configure-docker-swarm-on-linux-oe0)
+[![Can You Guess the Word? (Python Edition)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Can_You_Guess_the_Word__(Python_Edition).svg)](https://dev.to/codedex/can-you-guess-the-word-python-edition-4p3n)
+[![How to upload files with Playwright](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_upload_files_with_Playwright.svg)](https://dev.to/timdeschryver/how-to-upload-files-with-playwright-1f9i)
+[![An HTML and CSS only multiple color scheme picker](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/An_HTML_and_CSS_only_multiple_color_scheme_picker.svg)](https://dev.to/shadowfaxrodeo/how-to-make-an-html-and-css-only-multiple-color-scheme-picker-2076)
+[![Docusaurus 2.0: Meta's static site generator to build beautiful documentation websites](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Docusaurus_2.0__Meta's_static_site_generator_to_build_beautiful_documentation_websites.svg)](https://dev.to/sebastienlorber/docusaurus-20-metas-static-site-generator-to-build-beautiful-documentation-websites-4534)
+[![Building an Effective Code Review Process](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_an_Effective_Code_Review_Process.svg)](https://dev.to/abh1navv/building-an-effective-code-review-process-22d2)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, August 3, 2022 at 6:20:17 AM
+> Last updated: Wednesday, August 3, 2022 at 12:12:52 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,13 +43,13 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, August 3, 2022 at 6:20:26 AM
+> Last updated: Wednesday, August 3, 2022 at 12:12:59 PM
 
 > Showing 5 of 30 posts.
 
 [![GitHub - Rikkooo/BNB-Chainlink-Drainer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Rikkooo_BNB-Chainlink-Drainer.svg)](https://github.com/Rikkooo/BNB-Chainlink-Drainer)
 [![Episode 22 - Web3 as a JavaScript Developer with Francesco Ciulla - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_22_-_Web3_as_a_JavaScript_Developer_with_Francesco_Ciulla_-_20minJS.svg)](https://podcast.20minjs.com/1952066/11060577-episode-22-web3-as-a-javascript-developer-with-francesco-ciulla)
-[![GitHub - voxelize/voxelize: A sandbox library for making FAST voxel games [WIP]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_voxelize_voxelize__A_sandbox_library_for_making_FAST_voxel_games_[WIP].svg)](https://github.com/voxelize/voxelize)
+[![GitHub - voxelize/voxelize: A well-optimized, highly extensible full-stack library to create immersive multiplayer voxel experiences.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_voxelize_voxelize__A_well-optimized__highly_extensible_full-stack_library_to_create_immersive_multiplayer_voxel_experiences..svg)](https://github.com/voxelize/voxelize)
 [![JavaScript testing #13. Mocking a REST API with the Mock Service Worker](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_testing__13._Mocking_a_REST_API_with_the_Mock_Service_Worker.svg)](http://wanago.io/2022/08/01/javascript-testing-rest-api-mock-service-worker/)
 [![GitHub - ehmicky/safe-json-value: ⛑️ JSON serialization should never fail](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ehmicky_safe-json-value__⛑️_JSON_serialization_should_never_fail.svg)](https://github.com/ehmicky/safe-json-value)
 
