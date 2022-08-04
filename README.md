@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, August 3, 2022 at 12:12:49 PM
+> Last updated: Wednesday, August 3, 2022 at 7:00:01 PM
 
 > Showing 5 of 12 posts.
 
-[![Can You Guess the Word? (Python Edition)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Can_You_Guess_the_Word__(Python_Edition).svg)](https://dev.to/codedex/can-you-guess-the-word-python-edition-4p3n)
-[![How to upload files with Playwright](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_upload_files_with_Playwright.svg)](https://dev.to/timdeschryver/how-to-upload-files-with-playwright-1f9i)
-[![An HTML and CSS only multiple color scheme picker](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/An_HTML_and_CSS_only_multiple_color_scheme_picker.svg)](https://dev.to/shadowfaxrodeo/how-to-make-an-html-and-css-only-multiple-color-scheme-picker-2076)
-[![Docusaurus 2.0: Meta's static site generator to build beautiful documentation websites](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Docusaurus_2.0__Meta's_static_site_generator_to_build_beautiful_documentation_websites.svg)](https://dev.to/sebastienlorber/docusaurus-20-metas-static-site-generator-to-build-beautiful-documentation-websites-4534)
-[![Building an Effective Code Review Process](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_an_Effective_Code_Review_Process.svg)](https://dev.to/abh1navv/building-an-effective-code-review-process-22d2)
+[![Por qual razão você precisa de um framework? Como Vue, React ou Laravel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Por_qual_razão_você_precisa_de_um_framework__Como_Vue__React_ou_Laravel.svg)](https://dev.to/marcelxv/por-qual-razao-voce-precisa-de-um-framework-como-vue-react-ou-laravel-5dam)
+[![Why do you need a framework? Like PyScript and React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_do_you_need_a_framework__Like_PyScript_and_React.svg)](https://dev.to/marcelxv/why-do-you-need-a-framework-like-pyscript-and-react-51e7)
+[![Testing Code That is Difficult to Test (With Perl)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Testing_Code_That_is_Difficult_to_Test_(With_Perl).svg)](https://dev.to/nicholasbhubbard/testing-code-that-is-difficult-to-test-with-perl-81n)
+[![Data Analysis With Microsoft Excel: Analysis Of The MonkeyPox Disease.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Data_Analysis_With_Microsoft_Excel__Analysis_Of_The_MonkeyPox_Disease..svg)](https://dev.to/heyfunmi/data-analysis-with-microsoft-excel-analysis-of-the-monkeypox-disease-3918)
+[![Why are Software bugs named bugs?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_are_Software_bugs_named_bugs_.svg)](https://dev.to/christianpaez/why-are-software-bugs-named-bugs-ol0)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, August 3, 2022 at 12:12:52 PM
+> Last updated: Wednesday, August 3, 2022 at 7:00:05 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, August 3, 2022 at 12:12:59 PM
+> Last updated: Wednesday, August 3, 2022 at 7:00:12 PM
 
 > Showing 5 of 30 posts.
 
-[![GitHub - Rikkooo/BNB-Chainlink-Drainer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Rikkooo_BNB-Chainlink-Drainer.svg)](https://github.com/Rikkooo/BNB-Chainlink-Drainer)
+[![Using limit() with Mongoose Queries](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_limit()_with_Mongoose_Queries.svg)](
+https://masteringjs.io/tutorials/mongoose/limit
+)
+[![How I improved my React development experience by leveraging visual tools](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_I_improved_my_React_development_experience_by_leveraging_visual_tools.svg)](https://dev.to/petershershov/how-i-improved-my-react-development-experience-by-leveraging-visual-tools-256n)
 [![Episode 22 - Web3 as a JavaScript Developer with Francesco Ciulla - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_22_-_Web3_as_a_JavaScript_Developer_with_Francesco_Ciulla_-_20minJS.svg)](https://podcast.20minjs.com/1952066/11060577-episode-22-web3-as-a-javascript-developer-with-francesco-ciulla)
 [![GitHub - voxelize/voxelize: A well-optimized, highly extensible full-stack library to create immersive multiplayer voxel experiences.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_voxelize_voxelize__A_well-optimized__highly_extensible_full-stack_library_to_create_immersive_multiplayer_voxel_experiences..svg)](https://github.com/voxelize/voxelize)
 [![JavaScript testing #13. Mocking a REST API with the Mock Service Worker](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_testing__13._Mocking_a_REST_API_with_the_Mock_Service_Worker.svg)](http://wanago.io/2022/08/01/javascript-testing-rest-api-mock-service-worker/)
-[![GitHub - ehmicky/safe-json-value: ⛑️ JSON serialization should never fail](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ehmicky_safe-json-value__⛑️_JSON_serialization_should_never_fail.svg)](https://github.com/ehmicky/safe-json-value)
 
 
 <!-- post-list:end -->
