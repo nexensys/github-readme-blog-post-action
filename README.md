@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, August 4, 2022 at 12:13:53 AM
+> Last updated: Thursday, August 4, 2022 at 6:19:23 AM
 
 > Showing 5 of 12 posts.
 
-[![How I obtained all AWS associate level certificates in two weeks.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_I_obtained_all_AWS_associate_level_certificates_in_two_weeks..svg)](https://dev.to/aws-builders/how-i-obtained-all-aws-associate-level-certificates-in-two-weeks-3cip)
-[![I Quit My Job to Become an Indie Maker](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_Quit_My_Job_to_Become_an_Indie_Maker.svg)](https://dev.to/pradeepcep/i-quit-my-job-to-become-an-indie-maker-26m1)
-[![NIC Bonding and Everything you need to know using RHEL 9](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/NIC_Bonding_and_Everything_you_need_to_know_using_RHEL_9.svg)](https://dev.to/rishitashaw/nic-bonding-and-everything-you-need-to-know-using-rhel-9-3f3g)
-[![VS Code Tip of the Week: Inlay hints configuration options](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/VS_Code_Tip_of_the_Week__Inlay_hints_configuration_options.svg)](https://dev.to/vscodetips/vs-code-tip-of-the-week-inlay-hints-configuration-options-k1a)
-[![Change your old methods for writing a JavaScript Code - Shorthand's for JavaScript Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Change_your_old_methods_for_writing_a_JavaScript_Code_-_Shorthand's_for_JavaScript_Code.svg)](https://dev.to/devsimc/change-your-old-methods-for-writing-a-javascript-code-shorthands-for-javascript-code-3poa)
+[![What Software Developers can learn from Harley Davidson](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_Software_Developers_can_learn_from_Harley_Davidson.svg)](https://dev.to/polterguy/what-software-developers-can-learn-from-harley-davidson-2406)
+[![Array Rotation in JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Array_Rotation_in_JS.svg)](https://dev.to/shubhamtiwari909/array-rotation-in-js-8jc)
+[![How We Test Semi Design React Component](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_We_Test_Semi_Design_React_Component.svg)](https://dev.to/semidesign/how-we-test-semi-design-react-component-55a0)
+[![Get automated security audits and code reviews of your cloud with Codeshield?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Get_automated_security_audits_and_code_reviews_of_your_cloud_with_Codeshield_.svg)](https://dev.to/shaistaaman/get-automated-security-audits-and-code-reviews-of-your-cloud-with-codeshield-53c)
+[![You will not do it later (most likely) - I'm a procrastinator, I know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/You_will_not_do_it_later_(most_likely)_-_I'm_a_procrastinator__I_know.svg)](https://dev.to/nombrekeff/you-will-not-do-it-later-most-likely-im-a-procrastinator-i-know-j2d)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, August 4, 2022 at 12:13:57 AM
+> Last updated: Thursday, August 4, 2022 at 6:19:26 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, August 4, 2022 at 12:14:01 AM
+> Last updated: Thursday, August 4, 2022 at 6:19:28 AM
 
 > Showing 5 of 30 posts.
 
