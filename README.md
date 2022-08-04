@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, August 4, 2022 at 6:19:23 AM
+> Last updated: Thursday, August 4, 2022 at 12:12:19 PM
 
 > Showing 5 of 12 posts.
 
-[![What Software Developers can learn from Harley Davidson](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_Software_Developers_can_learn_from_Harley_Davidson.svg)](https://dev.to/polterguy/what-software-developers-can-learn-from-harley-davidson-2406)
-[![Array Rotation in JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Array_Rotation_in_JS.svg)](https://dev.to/shubhamtiwari909/array-rotation-in-js-8jc)
-[![How We Test Semi Design React Component](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_We_Test_Semi_Design_React_Component.svg)](https://dev.to/semidesign/how-we-test-semi-design-react-component-55a0)
-[![Get automated security audits and code reviews of your cloud with Codeshield?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Get_automated_security_audits_and_code_reviews_of_your_cloud_with_Codeshield_.svg)](https://dev.to/shaistaaman/get-automated-security-audits-and-code-reviews-of-your-cloud-with-codeshield-53c)
-[![You will not do it later (most likely) - I'm a procrastinator, I know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/You_will_not_do_it_later_(most_likely)_-_I'm_a_procrastinator__I_know.svg)](https://dev.to/nombrekeff/you-will-not-do-it-later-most-likely-im-a-procrastinator-i-know-j2d)
+[![GitLab will be deleting dormant projects](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/GitLab_will_be_deleting_dormant_projects.svg)](https://dev.to/ben/gitlab-will-be-deleting-dormant-projects-53jm)
+[![How to Make Timeline Chart (in JS)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Make_Timeline_Chart_(in_JS).svg)](https://dev.to/andreykh1985/how-to-make-timeline-chart-in-js-4023)
+[![Basics of Local Storage](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Basics_of_Local_Storage.svg)](https://dev.to/jtfinley/basics-of-local-storage-4l87)
+[![Props for Beginners (react)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Props_for_Beginners_(react).svg)](https://dev.to/adenaddis/props-for-beginners-react-o3c)
+[![Software Engineer Performance Review Example (updated)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Software_Engineer_Performance_Review_Example_(updated).svg)](https://dev.to/vectorly/software-engineer-performance-review-example-updated-39p0)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, August 4, 2022 at 6:19:26 AM
+> Last updated: Thursday, August 4, 2022 at 12:12:22 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, August 4, 2022 at 6:19:28 AM
+> Last updated: Thursday, August 4, 2022 at 12:12:25 PM
 
 > Showing 5 of 30 posts.
 
-[![Checking if a JavaScript native function is monkey patched](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Checking_if_a_JavaScript_native_function_is_monkey_patched.svg)](https://mmazzarolo.com/blog/2022-07-30-checking-if-a-javascript-native-function-was-monkey-patched/)
-[![Using limit() with Mongoose Queries](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_limit()_with_Mongoose_Queries.svg)](
-https://masteringjs.io/tutorials/mongoose/limit
+[![
+Your React app doesn't refresh when the user navigates back? Check bfcache!
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Your_React_app_doesn't_refresh_when_the_user_navigates_back__Check_bfcache!_.svg)](
+https://coder.earth/post/react-old-state-when-the-user-navigates-back
 )
-[![How I improved my React development experience by leveraging visual tools](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_I_improved_my_React_development_experience_by_leveraging_visual_tools.svg)](https://dev.to/petershershov/how-i-improved-my-react-development-experience-by-leveraging-visual-tools-256n)
-[![Episode 22 - Web3 as a JavaScript Developer with Francesco Ciulla - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_22_-_Web3_as_a_JavaScript_Developer_with_Francesco_Ciulla_-_20minJS.svg)](https://podcast.20minjs.com/1952066/11060577-episode-22-web3-as-a-javascript-developer-with-francesco-ciulla)
-[![GitHub - voxelize/voxelize: A well-optimized, highly extensible full-stack library to create immersive multiplayer voxel experiences.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_voxelize_voxelize__A_well-optimized__highly_extensible_full-stack_library_to_create_immersive_multiplayer_voxel_experiences..svg)](https://github.com/voxelize/voxelize)
+[![Plan your User Interface with Figma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Plan_your_User_Interface_with_Figma.svg)](https://blog.openreplay.com/plan-your-user-interface-with-figma)
+[![Build a FAQ section with React and Headless UI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_a_FAQ_section_with_React_and_Headless_UI.svg)](https://blog.openreplay.com/build-a-faq-section-with-react-and-headless-ui)
+[![Adding Shimmer Effects to React Native apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Adding_Shimmer_Effects_to_React_Native_apps.svg)](https://blog.openreplay.com/adding-shimmer-effects-to-react-native-apps)
+[![Building a shopping cart in React with Redux Toolkit and Redux Persist](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_a_shopping_cart_in_React_with_Redux_Toolkit_and_Redux_Persist.svg)](https://blog.openreplay.com/building-a-shopping-cart-in-react-with-redux-toolkit-and-redux-persist)
 
 
 <!-- post-list:end -->
