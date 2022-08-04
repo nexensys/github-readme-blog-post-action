@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, August 3, 2022 at 7:00:01 PM
+> Last updated: Thursday, August 4, 2022 at 12:13:53 AM
 
 > Showing 5 of 12 posts.
 
-[![Por qual razão você precisa de um framework? Como Vue, React ou Laravel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Por_qual_razão_você_precisa_de_um_framework__Como_Vue__React_ou_Laravel.svg)](https://dev.to/marcelxv/por-qual-razao-voce-precisa-de-um-framework-como-vue-react-ou-laravel-5dam)
-[![Why do you need a framework? Like PyScript and React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_do_you_need_a_framework__Like_PyScript_and_React.svg)](https://dev.to/marcelxv/why-do-you-need-a-framework-like-pyscript-and-react-51e7)
-[![Testing Code That is Difficult to Test (With Perl)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Testing_Code_That_is_Difficult_to_Test_(With_Perl).svg)](https://dev.to/nicholasbhubbard/testing-code-that-is-difficult-to-test-with-perl-81n)
-[![Data Analysis With Microsoft Excel: Analysis Of The MonkeyPox Disease.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Data_Analysis_With_Microsoft_Excel__Analysis_Of_The_MonkeyPox_Disease..svg)](https://dev.to/heyfunmi/data-analysis-with-microsoft-excel-analysis-of-the-monkeypox-disease-3918)
-[![Why are Software bugs named bugs?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_are_Software_bugs_named_bugs_.svg)](https://dev.to/christianpaez/why-are-software-bugs-named-bugs-ol0)
+[![How I obtained all AWS associate level certificates in two weeks.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_I_obtained_all_AWS_associate_level_certificates_in_two_weeks..svg)](https://dev.to/aws-builders/how-i-obtained-all-aws-associate-level-certificates-in-two-weeks-3cip)
+[![I Quit My Job to Become an Indie Maker](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_Quit_My_Job_to_Become_an_Indie_Maker.svg)](https://dev.to/pradeepcep/i-quit-my-job-to-become-an-indie-maker-26m1)
+[![NIC Bonding and Everything you need to know using RHEL 9](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/NIC_Bonding_and_Everything_you_need_to_know_using_RHEL_9.svg)](https://dev.to/rishitashaw/nic-bonding-and-everything-you-need-to-know-using-rhel-9-3f3g)
+[![VS Code Tip of the Week: Inlay hints configuration options](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/VS_Code_Tip_of_the_Week__Inlay_hints_configuration_options.svg)](https://dev.to/vscodetips/vs-code-tip-of-the-week-inlay-hints-configuration-options-k1a)
+[![Change your old methods for writing a JavaScript Code - Shorthand's for JavaScript Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Change_your_old_methods_for_writing_a_JavaScript_Code_-_Shorthand's_for_JavaScript_Code.svg)](https://dev.to/devsimc/change-your-old-methods-for-writing-a-javascript-code-shorthands-for-javascript-code-3poa)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, August 3, 2022 at 7:00:05 PM
+> Last updated: Thursday, August 4, 2022 at 12:13:57 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, August 3, 2022 at 7:00:12 PM
+> Last updated: Thursday, August 4, 2022 at 12:14:01 AM
 
 > Showing 5 of 30 posts.
 
+[![Checking if a JavaScript native function is monkey patched](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Checking_if_a_JavaScript_native_function_is_monkey_patched.svg)](https://mmazzarolo.com/blog/2022-07-30-checking-if-a-javascript-native-function-was-monkey-patched/)
 [![Using limit() with Mongoose Queries](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_limit()_with_Mongoose_Queries.svg)](
 https://masteringjs.io/tutorials/mongoose/limit
 )
 [![How I improved my React development experience by leveraging visual tools](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_I_improved_my_React_development_experience_by_leveraging_visual_tools.svg)](https://dev.to/petershershov/how-i-improved-my-react-development-experience-by-leveraging-visual-tools-256n)
 [![Episode 22 - Web3 as a JavaScript Developer with Francesco Ciulla - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_22_-_Web3_as_a_JavaScript_Developer_with_Francesco_Ciulla_-_20minJS.svg)](https://podcast.20minjs.com/1952066/11060577-episode-22-web3-as-a-javascript-developer-with-francesco-ciulla)
 [![GitHub - voxelize/voxelize: A well-optimized, highly extensible full-stack library to create immersive multiplayer voxel experiences.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_voxelize_voxelize__A_well-optimized__highly_extensible_full-stack_library_to_create_immersive_multiplayer_voxel_experiences..svg)](https://github.com/voxelize/voxelize)
-[![JavaScript testing #13. Mocking a REST API with the Mock Service Worker](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_testing__13._Mocking_a_REST_API_with_the_Mock_Service_Worker.svg)](http://wanago.io/2022/08/01/javascript-testing-rest-api-mock-service-worker/)
 
 
 <!-- post-list:end -->
