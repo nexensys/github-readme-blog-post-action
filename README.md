@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, August 4, 2022 at 12:12:19 PM
+> Last updated: Thursday, August 4, 2022 at 7:05:27 PM
 
 > Showing 5 of 12 posts.
 
-[![GitLab will be deleting dormant projects](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/GitLab_will_be_deleting_dormant_projects.svg)](https://dev.to/ben/gitlab-will-be-deleting-dormant-projects-53jm)
-[![How to Make Timeline Chart (in JS)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Make_Timeline_Chart_(in_JS).svg)](https://dev.to/andreykh1985/how-to-make-timeline-chart-in-js-4023)
-[![Basics of Local Storage](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Basics_of_Local_Storage.svg)](https://dev.to/jtfinley/basics-of-local-storage-4l87)
-[![Props for Beginners (react)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Props_for_Beginners_(react).svg)](https://dev.to/adenaddis/props-for-beginners-react-o3c)
-[![Software Engineer Performance Review Example (updated)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Software_Engineer_Performance_Review_Example_(updated).svg)](https://dev.to/vectorly/software-engineer-performance-review-example-updated-39p0)
+[![My Experience as a Mentee at the Godspeed Media Tech Mentoring Program.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_Experience_as_a_Mentee_at_the_Godspeed_Media_Tech_Mentoring_Program..svg)](https://dev.to/mercysticks/my-experience-as-a-mentee-at-the-godspeed-media-tech-mentoring-program-1lcp)
+[![The most awesome trick for tables' mobile responsiveness you will ever need - using html and css only](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_most_awesome_trick_for_tables'_mobile_responsiveness_you_will_ever_need_-_using_html_and_css_only.svg)](https://dev.to/turinumugisha_s/the-most-awesome-trick-for-tables-mobile-responsiveness-you-will-ever-need-32cp)
+[![Pass By Reference Vs Pass By Value](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Pass_By_Reference_Vs_Pass_By_Value.svg)](https://dev.to/yohanesss/pass-by-reference-vs-pass-by-value-2b81)
+[![What Makes an Effective Engineer?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_Makes_an_Effective_Engineer_.svg)](https://dev.to/gdbroman/what-makes-an-effective-engineer-1op9)
+[![The Art of Letting Your Devs Step Up w/ Equinix’s Rajah Kalipatnapu](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Art_of_Letting_Your_Devs_Step_Up_w__Equinix’s_Rajah_Kalipatnapu.svg)](https://dev.to/linearb/the-art-of-letting-your-devs-step-up-w-equinixs-rajah-kalipatnapu-1pce)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, August 4, 2022 at 12:12:22 PM
+> Last updated: Thursday, August 4, 2022 at 7:05:30 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, August 4, 2022 at 12:12:25 PM
+> Last updated: Thursday, August 4, 2022 at 7:05:34 PM
 
 > Showing 5 of 30 posts.
 
