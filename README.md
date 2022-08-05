@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, August 5, 2022 at 6:19:43 AM
+> Last updated: Friday, August 5, 2022 at 12:12:49 PM
 
 > Showing 5 of 12 posts.
 
-[![Rust's Defender](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Rust's_Defender.svg)](https://dev.to/rustnigeria/rusts-defender-4o5h)
-[![Kubernetes Audit Logs - Best Practices And Configuration ✨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Kubernetes_Audit_Logs_-_Best_Practices_And_Configuration_✨.svg)](https://dev.to/signoz/kubernetes-audit-logs-best-practices-and-configuration-31hl)
-[![How to Select Right Desktop Computer For Gaming!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Select_Right_Desktop_Computer_For_Gaming!.svg)](https://dev.to/sk_official/how-to-select-right-desktop-computer-for-gaming-1ih1)
-[![Migrating a SQL Server Database to Amazon RDS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Migrating_a_SQL_Server_Database_to_Amazon_RDS.svg)](https://dev.to/shankarsurya035/migrating-a-sql-server-database-to-amazon-rds-3a81)
-[![500+ hours of uninterrupted live streaming on Twitch and YouTube with Serverspace](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/500+_hours_of_uninterrupted_live_streaming_on_Twitch_and_YouTube_with_Serverspace.svg)](https://dev.to/serverspace/500-hours-of-uninterrupted-live-streaming-on-twitch-and-youtube-with-serverspace-2g0i)
+[![TOP 4 Easiest Way To Align Div Center](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/TOP_4_Easiest_Way_To_Align_Div_Center.svg)](https://dev.to/prakash1245/top-4-easiest-way-to-align-div-center-2cfe)
+[![Validating PostgreSQL results & inferring query static types](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Validating_PostgreSQL_results___inferring_query_static_types.svg)](https://dev.to/gajus/validating-postgresql-results-inferring-query-static-types-195p)
+[![DigitalCrafts Project - BenjiKnows](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/DigitalCrafts_Project_-_BenjiKnows.svg)](https://dev.to/ocampb/digitalcrafts-project-benjiknows-1kag)
+[![Do you follow me on LinkedIn?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Do_you_follow_me_on_LinkedIn_.svg)](https://dev.to/beetlehope/do-you-follow-me-on-linkedin-2d6h)
+[![What is the importance of performance insights in AWS RDS?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_the_importance_of_performance_insights_in_AWS_RDS_.svg)](https://dev.to/aws-builders/what-is-the-importance-of-performance-insights-in-aws-rds-27am)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, August 5, 2022 at 6:19:47 AM
+> Last updated: Friday, August 5, 2022 at 12:12:53 PM
 
 > Showing 4 of 4 posts.
 
+[![Genius misuse of WOFF 2 and Brotli to win a JavaScript contest.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Genius_misuse_of_WOFF_2_and_Brotli_to_win_a_JavaScript_contest..svg)](https://javascriptweekly.com/issues/601)
 [![Douglas Crockford on 'retiring' JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Douglas_Crockford_on_'retiring'_JavaScript.svg)](https://javascriptweekly.com/issues/600)
 [![Common JavaScript issues developers face](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Common_JavaScript_issues_developers_face.svg)](https://javascriptweekly.com/issues/599)
 [![Vite 3, or in French: quick, quick, quick.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Vite_3__or_in_French__quick__quick__quick..svg)](https://javascriptweekly.com/issues/598)
-[![An all-in-Bun JavaScript runtime.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/An_all-in-Bun_JavaScript_runtime..svg)](https://javascriptweekly.com/issues/597)
 
 
 ## Echo JS
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, August 5, 2022 at 6:19:50 AM
+> Last updated: Friday, August 5, 2022 at 12:12:57 PM
 
 > Showing 5 of 30 posts.
 
+[![WebRTC with Python and React: Building a Video Chat Application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/WebRTC_with_Python_and_React__Building_a_Video_Chat_Application.svg)](https://www.metered.ca/blog/webrtc-with-python-building-a-video-chat-application/)
 [![Reducing React Dev Server to 213ms - From Create React App To Vite v3 Migration](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Reducing_React_Dev_Server_to_213ms_-_From_Create_React_App_To_Vite_v3_Migration.svg)](
 https://orizens.com/blog/reducing-react-dev-server-to-213ms-from-create-react-app-to-vite-migration/
 )
@@ -57,7 +58,6 @@ Your React app doesn't refresh when the user navigates back? Check bfcache!
 https://coder.earth/post/react-old-state-when-the-user-navigates-back
 )
 [![Plan your User Interface with Figma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Plan_your_User_Interface_with_Figma.svg)](https://blog.openreplay.com/plan-your-user-interface-with-figma)
-[![Build a FAQ section with React and Headless UI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_a_FAQ_section_with_React_and_Headless_UI.svg)](https://blog.openreplay.com/build-a-faq-section-with-react-and-headless-ui)
 
 
 <!-- post-list:end -->
