@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, August 4, 2022 at 7:05:27 PM
+> Last updated: Friday, August 5, 2022 at 12:13:03 AM
 
 > Showing 5 of 12 posts.
 
-[![My Experience as a Mentee at the Godspeed Media Tech Mentoring Program.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_Experience_as_a_Mentee_at_the_Godspeed_Media_Tech_Mentoring_Program..svg)](https://dev.to/mercysticks/my-experience-as-a-mentee-at-the-godspeed-media-tech-mentoring-program-1lcp)
-[![The most awesome trick for tables' mobile responsiveness you will ever need - using html and css only](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_most_awesome_trick_for_tables'_mobile_responsiveness_you_will_ever_need_-_using_html_and_css_only.svg)](https://dev.to/turinumugisha_s/the-most-awesome-trick-for-tables-mobile-responsiveness-you-will-ever-need-32cp)
-[![Pass By Reference Vs Pass By Value](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Pass_By_Reference_Vs_Pass_By_Value.svg)](https://dev.to/yohanesss/pass-by-reference-vs-pass-by-value-2b81)
-[![What Makes an Effective Engineer?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_Makes_an_Effective_Engineer_.svg)](https://dev.to/gdbroman/what-makes-an-effective-engineer-1op9)
-[![The Art of Letting Your Devs Step Up w/ Equinix’s Rajah Kalipatnapu](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Art_of_Letting_Your_Devs_Step_Up_w__Equinix’s_Rajah_Kalipatnapu.svg)](https://dev.to/linearb/the-art-of-letting-your-devs-step-up-w-equinixs-rajah-kalipatnapu-1pce)
+[![How to accept bitcoin lightning tips on your website ⚡](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_accept_bitcoin_lightning_tips_on_your_website_⚡.svg)](https://dev.to/secondl1ght/how-to-accept-bitcoin-lightning-tips-on-your-website-4h6a)
+[![6 Ways To Make Money With Your Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/6_Ways_To_Make_Money_With_Your_Code.svg)](https://dev.to/devsimc/6-ways-to-make-money-with-your-code-3j48)
+[![Why Cloud is the Future?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_Cloud_is_the_Future_.svg)](https://dev.to/abh1navv/why-cloud-is-the-future-49b3)
+[![206. Reverse Linked List[Leetcode][C++]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/206._Reverse_Linked_List[Leetcode][C++].svg)](https://dev.to/mayankdv/206-reverse-linked-listleetcodec-4lc6)
+[![Use Route53 + S3 to forward your domain to absolute URLs.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Use_Route53_+_S3_to_forward_your_domain_to_absolute_URLs..svg)](https://dev.to/binhbv/use-route53-s3-to-forward-your-domain-to-absolute-urls-da3)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, August 4, 2022 at 7:05:30 PM
+> Last updated: Friday, August 5, 2022 at 12:13:06 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, August 4, 2022 at 7:05:34 PM
+> Last updated: Friday, August 5, 2022 at 12:13:11 AM
 
 > Showing 5 of 30 posts.
 
