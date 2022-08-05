@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, August 5, 2022 at 12:13:03 AM
+> Last updated: Friday, August 5, 2022 at 6:19:43 AM
 
 > Showing 5 of 12 posts.
 
-[![How to accept bitcoin lightning tips on your website ⚡](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_accept_bitcoin_lightning_tips_on_your_website_⚡.svg)](https://dev.to/secondl1ght/how-to-accept-bitcoin-lightning-tips-on-your-website-4h6a)
-[![6 Ways To Make Money With Your Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/6_Ways_To_Make_Money_With_Your_Code.svg)](https://dev.to/devsimc/6-ways-to-make-money-with-your-code-3j48)
-[![Why Cloud is the Future?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_Cloud_is_the_Future_.svg)](https://dev.to/abh1navv/why-cloud-is-the-future-49b3)
-[![206. Reverse Linked List[Leetcode][C++]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/206._Reverse_Linked_List[Leetcode][C++].svg)](https://dev.to/mayankdv/206-reverse-linked-listleetcodec-4lc6)
-[![Use Route53 + S3 to forward your domain to absolute URLs.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Use_Route53_+_S3_to_forward_your_domain_to_absolute_URLs..svg)](https://dev.to/binhbv/use-route53-s3-to-forward-your-domain-to-absolute-urls-da3)
+[![Rust's Defender](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Rust's_Defender.svg)](https://dev.to/rustnigeria/rusts-defender-4o5h)
+[![Kubernetes Audit Logs - Best Practices And Configuration ✨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Kubernetes_Audit_Logs_-_Best_Practices_And_Configuration_✨.svg)](https://dev.to/signoz/kubernetes-audit-logs-best-practices-and-configuration-31hl)
+[![How to Select Right Desktop Computer For Gaming!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Select_Right_Desktop_Computer_For_Gaming!.svg)](https://dev.to/sk_official/how-to-select-right-desktop-computer-for-gaming-1ih1)
+[![Migrating a SQL Server Database to Amazon RDS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Migrating_a_SQL_Server_Database_to_Amazon_RDS.svg)](https://dev.to/shankarsurya035/migrating-a-sql-server-database-to-amazon-rds-3a81)
+[![500+ hours of uninterrupted live streaming on Twitch and YouTube with Serverspace](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/500+_hours_of_uninterrupted_live_streaming_on_Twitch_and_YouTube_with_Serverspace.svg)](https://dev.to/serverspace/500-hours-of-uninterrupted-live-streaming-on-twitch-and-youtube-with-serverspace-2g0i)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, August 5, 2022 at 12:13:06 AM
+> Last updated: Friday, August 5, 2022 at 6:19:47 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,14 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, August 5, 2022 at 12:13:11 AM
+> Last updated: Friday, August 5, 2022 at 6:19:50 AM
 
 > Showing 5 of 30 posts.
 
+[![Reducing React Dev Server to 213ms - From Create React App To Vite v3 Migration](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Reducing_React_Dev_Server_to_213ms_-_From_Create_React_App_To_Vite_v3_Migration.svg)](
+https://orizens.com/blog/reducing-react-dev-server-to-213ms-from-create-react-app-to-vite-migration/
+)
+[![3 macos settings to boost your productivity](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/3_macos_settings_to_boost_your_productivity.svg)](https://dev.to/przemyslawjanpietrzak/3-macos-settings-to-boost-your-productivity-38j7)
 [![
 Your React app doesn't refresh when the user navigates back? Check bfcache!
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Your_React_app_doesn't_refresh_when_the_user_navigates_back__Check_bfcache!_.svg)](
@@ -54,8 +58,6 @@ https://coder.earth/post/react-old-state-when-the-user-navigates-back
 )
 [![Plan your User Interface with Figma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Plan_your_User_Interface_with_Figma.svg)](https://blog.openreplay.com/plan-your-user-interface-with-figma)
 [![Build a FAQ section with React and Headless UI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_a_FAQ_section_with_React_and_Headless_UI.svg)](https://blog.openreplay.com/build-a-faq-section-with-react-and-headless-ui)
-[![Adding Shimmer Effects to React Native apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Adding_Shimmer_Effects_to_React_Native_apps.svg)](https://blog.openreplay.com/adding-shimmer-effects-to-react-native-apps)
-[![Building a shopping cart in React with Redux Toolkit and Redux Persist](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_a_shopping_cart_in_React_with_Redux_Toolkit_and_Redux_Persist.svg)](https://blog.openreplay.com/building-a-shopping-cart-in-react-with-redux-toolkit-and-redux-persist)
 
 
 <!-- post-list:end -->
