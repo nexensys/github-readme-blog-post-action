@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, August 5, 2022 at 6:54:34 PM
+> Last updated: Saturday, August 6, 2022 at 12:12:11 AM
 
 > Showing 5 of 12 posts.
 
-[![Convert View Model to Use Hilt Dependency Injection](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Convert_View_Model_to_Use_Hilt_Dependency_Injection.svg)](https://dev.to/vtsen/convert-view-model-to-use-hilt-dependency-injection-1mb3)
-[![Simple Node JS Resize Image Before Upload using Sharp Multer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Simple_Node_JS_Resize_Image_Before_Upload_using_Sharp_Multer.svg)](https://dev.to/ranjan/simple-node-js-resize-image-before-upload-using-sharp-multer-p8c)
-[![How to hide your API key in React Apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_hide_your_API_key_in_React_Apps.svg)](https://dev.to/efkumah/how-to-hide-your-api-key-in-react-apps-4mgb)
-[![Interview Warmup](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Interview_Warmup.svg)](https://dev.to/anasnmu/interview-warmup-37ia)
-[![Changelog #0017 — ☁️ Sync, variables, incognito, more features, and public beta!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Changelog__0017_—_☁️_Sync__variables__incognito__more_features__and_public_beta!.svg)](https://dev.to/pie/changelog-0017-sync-variables-incognito-more-features-and-public-beta-4hko)
+[![OpenVPN with FreeRADIUS User Auth](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/OpenVPN_with_FreeRADIUS_User_Auth.svg)](https://dev.to/febryandana/openvpn-with-freeradius-user-auth-4912)
+[![Python Machine Learning](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Python_Machine_Learning.svg)](https://dev.to/serpapi/python-machine-learning-4664)
+[![Concepts for Network Security](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Concepts_for_Network_Security.svg)](https://dev.to/tsaitprofessio1/concepts-for-network-security-5fne)
+[![How to Use the Best Job Boards to Find a Software Engineering Job](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Use_the_Best_Job_Boards_to_Find_a_Software_Engineering_Job.svg)](https://dev.to/bootdotdev/how-to-use-the-best-job-boards-to-find-a-software-engineering-job-37bd)
+[![10+ things I always setup in git when I prepare a new environment](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10+_things_I_always_setup_in_git_when_I_prepare_a_new_environment.svg)](https://dev.to/waleedhcoder/10-things-i-always-setup-in-git-when-i-prepare-a-new-environment-978)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, August 5, 2022 at 6:54:37 PM
+> Last updated: Saturday, August 6, 2022 at 12:12:15 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,21 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, August 5, 2022 at 6:54:41 PM
+> Last updated: Saturday, August 6, 2022 at 12:12:19 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - markwylde/assert-plan: The node assert library but with a plan method to check a certain amount of assertions are raised.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_markwylde_assert-plan__The_node_assert_library_but_with_a_plan_method_to_check_a_certain_amount_of_assertions_are_raised..svg)](https://github.com/markwylde/assert-plan)
 [![GitHub - Serjeel-Ranjan-911/UNOGame: Online Multiplayer UNO Game](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Serjeel-Ranjan-911_UNOGame__Online_Multiplayer_UNO_Game.svg)](https://github.com/Serjeel-Ranjan-911/UNOGame)
 [![WebRTC with Python and React: Building a Video Chat Application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/WebRTC_with_Python_and_React__Building_a_Video_Chat_Application.svg)](https://www.metered.ca/blog/webrtc-with-python-building-a-video-chat-application/)
 [![Reducing React Dev Server to 213ms - From Create React App To Vite v3 Migration](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Reducing_React_Dev_Server_to_213ms_-_From_Create_React_App_To_Vite_v3_Migration.svg)](
 https://orizens.com/blog/reducing-react-dev-server-to-213ms-from-create-react-app-to-vite-migration/
 )
 [![3 macos settings to boost your productivity](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/3_macos_settings_to_boost_your_productivity.svg)](https://dev.to/przemyslawjanpietrzak/3-macos-settings-to-boost-your-productivity-38j7)
-[![
-Your React app doesn't refresh when the user navigates back? Check bfcache!
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Your_React_app_doesn't_refresh_when_the_user_navigates_back__Check_bfcache!_.svg)](
-https://coder.earth/post/react-old-state-when-the-user-navigates-back
-)
 
 
 <!-- post-list:end -->
