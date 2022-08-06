@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, August 6, 2022 at 6:15:59 AM
+> Last updated: Saturday, August 6, 2022 at 12:11:52 PM
 
 > Showing 5 of 12 posts.
 
-[![How to use NuxtJS in your next Vue.js project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_NuxtJS_in_your_next_Vue.js_project.svg)](https://dev.to/adetutu777/how-to-use-nuxtjs-in-your-next-vuejs-project-272p)
-[![Creating flappy bird with pygame. Part - 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_flappy_bird_with_pygame._Part_-_1.svg)](https://dev.to/pulimoodan/creating-flappy-bird-with-pygame-part-1-11kd)
-[![How to use JavaScript Promise.all with realtime code example [Axios GET Calls]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_JavaScript_Promise.all_with_realtime_code_example_[Axios_GET_Calls].svg)](https://dev.to/imranmind/how-to-use-javascript-promiseall-with-realtime-code-example-axios-get-calls-1hnk)
-[![How To Resolve Git Conflicts{Merge}](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Resolve_Git_Conflicts{Merge}.svg)](https://dev.to/arosebine/how-to-resolve-git-conflictsmerge-24i2)
-[![Creating a reusable table component with React-Table and Material UI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_a_reusable_table_component_with_React-Table_and_Material_UI.svg)](https://dev.to/serhatgenc/creating-a-reusable-table-component-with-react-table-and-material-ui-10jd)
+[![This Week In React #115: Astro, Radix, Remix, Next.js, MDX, Storybook, Expo 46, Skia, TanStack, TC39, Docusaurus...](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/This_Week_In_React__115__Astro__Radix__Remix__Next.js__MDX__Storybook__Expo_46__Skia__TanStack__TC39__Docusaurus....svg)](https://dev.to/sebastienlorber/this-week-in-react-115-astro-radix-remix-nextjs-mdx-storybook-expo-46-skia-tanstack-tc39-docusaurus-1nee)
+[![✨Useful Css Shorthand Properties](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/✨Useful_Css_Shorthand_Properties.svg)](https://dev.to/stacksjar/useful-css-shorthand-properties-2ek)
+[![Writing a new programming language. Part I: a bit of boring theory](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Writing_a_new_programming_language._Part_I__a_bit_of_boring_theory.svg)](https://dev.to/kgrech/writing-a-new-programming-language-part-i-a-bit-of-boring-theory-65e)
+[![A Complete Guide to How the CSS not Selector Works](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Complete_Guide_to_How_the_CSS_not_Selector_Works.svg)](https://dev.to/smpnjn/a-complete-guide-to-how-the-css-not-selector-works-5djo)
+[![LinkedIn Jobs API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/LinkedIn_Jobs_API.svg)](https://dev.to/eunit/linkedin-jobs-api-36m7)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, August 6, 2022 at 6:16:01 AM
+> Last updated: Saturday, August 6, 2022 at 12:11:56 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, August 6, 2022 at 6:16:03 AM
+> Last updated: Saturday, August 6, 2022 at 12:11:59 PM
 
 > Showing 5 of 30 posts.
 
