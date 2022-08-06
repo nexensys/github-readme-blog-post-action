@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, August 5, 2022 at 12:12:49 PM
+> Last updated: Friday, August 5, 2022 at 6:54:34 PM
 
 > Showing 5 of 12 posts.
 
-[![TOP 4 Easiest Way To Align Div Center](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/TOP_4_Easiest_Way_To_Align_Div_Center.svg)](https://dev.to/prakash1245/top-4-easiest-way-to-align-div-center-2cfe)
-[![Validating PostgreSQL results & inferring query static types](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Validating_PostgreSQL_results___inferring_query_static_types.svg)](https://dev.to/gajus/validating-postgresql-results-inferring-query-static-types-195p)
-[![DigitalCrafts Project - BenjiKnows](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/DigitalCrafts_Project_-_BenjiKnows.svg)](https://dev.to/ocampb/digitalcrafts-project-benjiknows-1kag)
-[![Do you follow me on LinkedIn?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Do_you_follow_me_on_LinkedIn_.svg)](https://dev.to/beetlehope/do-you-follow-me-on-linkedin-2d6h)
-[![What is the importance of performance insights in AWS RDS?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_the_importance_of_performance_insights_in_AWS_RDS_.svg)](https://dev.to/aws-builders/what-is-the-importance-of-performance-insights-in-aws-rds-27am)
+[![Convert View Model to Use Hilt Dependency Injection](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Convert_View_Model_to_Use_Hilt_Dependency_Injection.svg)](https://dev.to/vtsen/convert-view-model-to-use-hilt-dependency-injection-1mb3)
+[![Simple Node JS Resize Image Before Upload using Sharp Multer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Simple_Node_JS_Resize_Image_Before_Upload_using_Sharp_Multer.svg)](https://dev.to/ranjan/simple-node-js-resize-image-before-upload-using-sharp-multer-p8c)
+[![How to hide your API key in React Apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_hide_your_API_key_in_React_Apps.svg)](https://dev.to/efkumah/how-to-hide-your-api-key-in-react-apps-4mgb)
+[![Interview Warmup](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Interview_Warmup.svg)](https://dev.to/anasnmu/interview-warmup-37ia)
+[![Changelog #0017 — ☁️ Sync, variables, incognito, more features, and public beta!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Changelog__0017_—_☁️_Sync__variables__incognito__more_features__and_public_beta!.svg)](https://dev.to/pie/changelog-0017-sync-variables-incognito-more-features-and-public-beta-4hko)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, August 5, 2022 at 12:12:53 PM
+> Last updated: Friday, August 5, 2022 at 6:54:37 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, August 5, 2022 at 12:12:57 PM
+> Last updated: Friday, August 5, 2022 at 6:54:41 PM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - Serjeel-Ranjan-911/UNOGame: Online Multiplayer UNO Game](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Serjeel-Ranjan-911_UNOGame__Online_Multiplayer_UNO_Game.svg)](https://github.com/Serjeel-Ranjan-911/UNOGame)
 [![WebRTC with Python and React: Building a Video Chat Application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/WebRTC_with_Python_and_React__Building_a_Video_Chat_Application.svg)](https://www.metered.ca/blog/webrtc-with-python-building-a-video-chat-application/)
 [![Reducing React Dev Server to 213ms - From Create React App To Vite v3 Migration](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Reducing_React_Dev_Server_to_213ms_-_From_Create_React_App_To_Vite_v3_Migration.svg)](
 https://orizens.com/blog/reducing-react-dev-server-to-213ms-from-create-react-app-to-vite-migration/
@@ -57,7 +58,6 @@ Your React app doesn't refresh when the user navigates back? Check bfcache!
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Your_React_app_doesn't_refresh_when_the_user_navigates_back__Check_bfcache!_.svg)](
 https://coder.earth/post/react-old-state-when-the-user-navigates-back
 )
-[![Plan your User Interface with Figma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Plan_your_User_Interface_with_Figma.svg)](https://blog.openreplay.com/plan-your-user-interface-with-figma)
 
 
 <!-- post-list:end -->
