@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, August 6, 2022 at 12:12:11 AM
+> Last updated: Saturday, August 6, 2022 at 6:15:59 AM
 
 > Showing 5 of 12 posts.
 
-[![OpenVPN with FreeRADIUS User Auth](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/OpenVPN_with_FreeRADIUS_User_Auth.svg)](https://dev.to/febryandana/openvpn-with-freeradius-user-auth-4912)
-[![Python Machine Learning](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Python_Machine_Learning.svg)](https://dev.to/serpapi/python-machine-learning-4664)
-[![Concepts for Network Security](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Concepts_for_Network_Security.svg)](https://dev.to/tsaitprofessio1/concepts-for-network-security-5fne)
-[![How to Use the Best Job Boards to Find a Software Engineering Job](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Use_the_Best_Job_Boards_to_Find_a_Software_Engineering_Job.svg)](https://dev.to/bootdotdev/how-to-use-the-best-job-boards-to-find-a-software-engineering-job-37bd)
-[![10+ things I always setup in git when I prepare a new environment](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10+_things_I_always_setup_in_git_when_I_prepare_a_new_environment.svg)](https://dev.to/waleedhcoder/10-things-i-always-setup-in-git-when-i-prepare-a-new-environment-978)
+[![How to use NuxtJS in your next Vue.js project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_NuxtJS_in_your_next_Vue.js_project.svg)](https://dev.to/adetutu777/how-to-use-nuxtjs-in-your-next-vuejs-project-272p)
+[![Creating flappy bird with pygame. Part - 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_flappy_bird_with_pygame._Part_-_1.svg)](https://dev.to/pulimoodan/creating-flappy-bird-with-pygame-part-1-11kd)
+[![How to use JavaScript Promise.all with realtime code example [Axios GET Calls]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_JavaScript_Promise.all_with_realtime_code_example_[Axios_GET_Calls].svg)](https://dev.to/imranmind/how-to-use-javascript-promiseall-with-realtime-code-example-axios-get-calls-1hnk)
+[![How To Resolve Git Conflicts{Merge}](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Resolve_Git_Conflicts{Merge}.svg)](https://dev.to/arosebine/how-to-resolve-git-conflictsmerge-24i2)
+[![Creating a reusable table component with React-Table and Material UI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_a_reusable_table_component_with_React-Table_and_Material_UI.svg)](https://dev.to/serhatgenc/creating-a-reusable-table-component-with-react-table-and-material-ui-10jd)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, August 6, 2022 at 12:12:15 AM
+> Last updated: Saturday, August 6, 2022 at 6:16:01 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, August 6, 2022 at 12:12:19 AM
+> Last updated: Saturday, August 6, 2022 at 6:16:03 AM
 
 > Showing 5 of 30 posts.
 
