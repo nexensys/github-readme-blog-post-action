@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, August 7, 2022 at 6:16:45 AM
+> Last updated: Sunday, August 7, 2022 at 12:12:19 PM
 
 > Showing 5 of 12 posts.
 
-[![[css] Responsive cards](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/[css]_Responsive_cards.svg)](https://dev.to/maurerkrisztian/css-responsive-cards-2glh)
-[![Best programming co pilot?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_programming_co_pilot_.svg)](https://dev.to/waleedhcoder/best-programming-co-pilot-m21)
-[![How to calculate big o notation ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_calculate_big_o_notation__.svg)](https://dev.to/eminvergil/how-to-calculate-big-o-notation--eh5)
-[![Detecting intrusion in DevOps environments with AWS canary tokens](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Detecting_intrusion_in_DevOps_environments_with_AWS_canary_tokens.svg)](https://dev.to/rishitashaw/detecting-intrusion-in-devops-environments-with-aws-canary-tokens-5a30)
-[![7️⃣ VSCODE Shortcuts for Developers you should know Thread🧵](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/7️⃣_VSCODE_Shortcuts_for_Developers_you_should_know_Thread🧵.svg)](https://dev.to/qbentil/7-vscode-shortcuts-for-developers-you-should-know-thread-2p9l)
+[![How I Plan to use coding as a tool to save my future](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_I_Plan_to_use_coding_as_a_tool_to_save_my_future.svg)](https://dev.to/vitomedlej/how-i-plan-to-use-coding-as-a-tool-to-save-my-future-3d8f)
+[![Como produzir eventos remotos](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Como_produzir_eventos_remotos.svg)](https://dev.to/feministech/como-produzir-eventos-remotos-c3a)
+[![An Introduction to Conditional Types in TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/An_Introduction_to_Conditional_Types_in_TypeScript.svg)](https://dev.to/smpnjn/an-introduction-to-conditional-types-in-typescript-26pj)
+[![How to Code From Anywhere](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Code_From_Anywhere.svg)](https://dev.to/codefromanywhere42/how-to-code-from-anywhere-1lj6)
+[![Java Efetivo - Injeção de Dependência](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Java_Efetivo_-_Injeção_de_Dependência.svg)](https://dev.to/psanrosa13/java-efetivo-injecao-de-dependencia-15ei)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, August 7, 2022 at 6:16:49 AM
+> Last updated: Sunday, August 7, 2022 at 12:12:23 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, August 7, 2022 at 6:16:53 AM
+> Last updated: Sunday, August 7, 2022 at 12:12:28 PM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - Architrixs/ThisApiForThat](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Architrixs_ThisApiForThat.svg)](https://github.com/Architrixs/ThisApiForThat)
 [![GitHub - markwylde/assert-plan: The node assert library but with a plan method to check a certain amount of assertions are raised.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_markwylde_assert-plan__The_node_assert_library_but_with_a_plan_method_to_check_a_certain_amount_of_assertions_are_raised..svg)](https://github.com/markwylde/assert-plan)
 [![GitHub - Serjeel-Ranjan-911/UNOGame: Online Multiplayer UNO Game](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Serjeel-Ranjan-911_UNOGame__Online_Multiplayer_UNO_Game.svg)](https://github.com/Serjeel-Ranjan-911/UNOGame)
 [![WebRTC with Python and React: Building a Video Chat Application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/WebRTC_with_Python_and_React__Building_a_Video_Chat_Application.svg)](https://www.metered.ca/blog/webrtc-with-python-building-a-video-chat-application/)
 [![Reducing React Dev Server to 213ms - From Create React App To Vite v3 Migration](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Reducing_React_Dev_Server_to_213ms_-_From_Create_React_App_To_Vite_v3_Migration.svg)](
 https://orizens.com/blog/reducing-react-dev-server-to-213ms-from-create-react-app-to-vite-migration/
 )
-[![3 macos settings to boost your productivity](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/3_macos_settings_to_boost_your_productivity.svg)](https://dev.to/przemyslawjanpietrzak/3-macos-settings-to-boost-your-productivity-38j7)
 
 
 <!-- post-list:end -->
