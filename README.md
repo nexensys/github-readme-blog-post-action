@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, August 6, 2022 at 12:11:52 PM
+> Last updated: Saturday, August 6, 2022 at 7:00:34 PM
 
 > Showing 5 of 12 posts.
 
-[![This Week In React #115: Astro, Radix, Remix, Next.js, MDX, Storybook, Expo 46, Skia, TanStack, TC39, Docusaurus...](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/This_Week_In_React__115__Astro__Radix__Remix__Next.js__MDX__Storybook__Expo_46__Skia__TanStack__TC39__Docusaurus....svg)](https://dev.to/sebastienlorber/this-week-in-react-115-astro-radix-remix-nextjs-mdx-storybook-expo-46-skia-tanstack-tc39-docusaurus-1nee)
-[![✨Useful Css Shorthand Properties](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/✨Useful_Css_Shorthand_Properties.svg)](https://dev.to/stacksjar/useful-css-shorthand-properties-2ek)
-[![Writing a new programming language. Part I: a bit of boring theory](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Writing_a_new_programming_language._Part_I__a_bit_of_boring_theory.svg)](https://dev.to/kgrech/writing-a-new-programming-language-part-i-a-bit-of-boring-theory-65e)
-[![A Complete Guide to How the CSS not Selector Works](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Complete_Guide_to_How_the_CSS_not_Selector_Works.svg)](https://dev.to/smpnjn/a-complete-guide-to-how-the-css-not-selector-works-5djo)
-[![LinkedIn Jobs API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/LinkedIn_Jobs_API.svg)](https://dev.to/eunit/linkedin-jobs-api-36m7)
+[![Como é trabalhar com comunidade](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Como_é_trabalhar_com_comunidade.svg)](https://dev.to/grubba/como-e-trabalhar-com-comunidade-2fef)
+[![Recursions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Recursions.svg)](https://dev.to/hnicolus/recursions-1f8)
+[![How I built my new portfolio using Pixi.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_I_built_my_new_portfolio_using_Pixi.js.svg)](https://dev.to/endigo9740/my-new-portfolio-3ke6)
+[![FakePowerShell - 7 , Updates](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/FakePowerShell_-_7___Updates.svg)](https://dev.to/junaid_dev/fakepowershell-7-updates-80j)
+[![How to change Material UI components to match your app's design Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_change_Material_UI_components_to_match_your_app's_design_Part_1.svg)](https://dev.to/developerioweb/how-to-change-material-ui-components-to-match-your-apps-design-part-1-o3f)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, August 6, 2022 at 12:11:56 PM
+> Last updated: Saturday, August 6, 2022 at 7:00:37 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, August 6, 2022 at 12:11:59 PM
+> Last updated: Saturday, August 6, 2022 at 7:00:41 PM
 
 > Showing 5 of 30 posts.
 
