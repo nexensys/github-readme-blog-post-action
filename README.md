@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, August 7, 2022 at 12:12:22 AM
+> Last updated: Sunday, August 7, 2022 at 6:16:45 AM
 
 > Showing 5 of 12 posts.
 
-[![What is really partial update [React Hook] look like?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_really_partial_update_[React_Hook]_look_like_.svg)](https://dev.to/hillliu/react-usepartialrender-hook-3m0n)
-[![Reflection! Cool Effects with -webkit-box-reflect](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Reflection!_Cool_Effects_with_-webkit-box-reflect.svg)](https://dev.to/chokcoco/reflection-cool-effects-with-webkit-box-reflect-dpl)
-[![Bringing perspective to CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Bringing_perspective_to_CSS.svg)](https://dev.to/dailydevtips1/bringing-perspective-to-css-1ffd)
-[![Debugging Vue Jest tests in a browser](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Debugging_Vue_Jest_tests_in_a_browser.svg)](https://dev.to/thejaredwilcurt/debugging-vue-jest-tests-in-a-browser-1m25)
-[![Como é trabalhar com comunidade](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Como_é_trabalhar_com_comunidade.svg)](https://dev.to/grubba/como-e-trabalhar-com-comunidade-2fef)
+[![[css] Responsive cards](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/[css]_Responsive_cards.svg)](https://dev.to/maurerkrisztian/css-responsive-cards-2glh)
+[![Best programming co pilot?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_programming_co_pilot_.svg)](https://dev.to/waleedhcoder/best-programming-co-pilot-m21)
+[![How to calculate big o notation ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_calculate_big_o_notation__.svg)](https://dev.to/eminvergil/how-to-calculate-big-o-notation--eh5)
+[![Detecting intrusion in DevOps environments with AWS canary tokens](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Detecting_intrusion_in_DevOps_environments_with_AWS_canary_tokens.svg)](https://dev.to/rishitashaw/detecting-intrusion-in-devops-environments-with-aws-canary-tokens-5a30)
+[![7️⃣ VSCODE Shortcuts for Developers you should know Thread🧵](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/7️⃣_VSCODE_Shortcuts_for_Developers_you_should_know_Thread🧵.svg)](https://dev.to/qbentil/7-vscode-shortcuts-for-developers-you-should-know-thread-2p9l)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, August 7, 2022 at 12:12:26 AM
+> Last updated: Sunday, August 7, 2022 at 6:16:49 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, August 7, 2022 at 12:12:30 AM
+> Last updated: Sunday, August 7, 2022 at 6:16:53 AM
 
 > Showing 5 of 30 posts.
 
