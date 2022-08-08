@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, August 7, 2022 at 12:12:19 PM
+> Last updated: Sunday, August 7, 2022 at 6:52:49 PM
 
 > Showing 5 of 12 posts.
 
-[![How I Plan to use coding as a tool to save my future](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_I_Plan_to_use_coding_as_a_tool_to_save_my_future.svg)](https://dev.to/vitomedlej/how-i-plan-to-use-coding-as-a-tool-to-save-my-future-3d8f)
-[![Como produzir eventos remotos](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Como_produzir_eventos_remotos.svg)](https://dev.to/feministech/como-produzir-eventos-remotos-c3a)
-[![An Introduction to Conditional Types in TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/An_Introduction_to_Conditional_Types_in_TypeScript.svg)](https://dev.to/smpnjn/an-introduction-to-conditional-types-in-typescript-26pj)
-[![How to Code From Anywhere](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Code_From_Anywhere.svg)](https://dev.to/codefromanywhere42/how-to-code-from-anywhere-1lj6)
-[![Java Efetivo - Injeção de Dependência](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Java_Efetivo_-_Injeção_de_Dependência.svg)](https://dev.to/psanrosa13/java-efetivo-injecao-de-dependencia-15ei)
+[![5 JavaScript Console Methods That will Improve your Debugging Skills🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_JavaScript_Console_Methods_That_will_Improve_your_Debugging_Skills🚀.svg)](https://dev.to/qbentil/5-javascript-console-methods-that-will-improve-your-debugging-skills-147b)
+[![How to build a tech product fast](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_build_a_tech_product_fast.svg)](https://dev.to/dherault/how-to-build-a-tech-product-fast-igh)
+[![Complete guide to kickstart your Open Source journey🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Complete_guide_to_kickstart_your_Open_Source_journey🚀.svg)](https://dev.to/iarchitsharma/complete-guide-to-kickstart-your-open-source-journey-2dm5)
+[![Reduct Storage Client SDK for C++ 0.7.0 was released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Reduct_Storage_Client_SDK_for_C++_0.7.0_was_released.svg)](https://dev.to/reduct-storage/reduct-storage-client-sdk-for-c-070-was-released-i4)
+[![React - Fetching promises from the state???](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_-_Fetching_promises_from_the_state___.svg)](https://dev.to/noriller/react-fetching-promises-from-the-state-1g54)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, August 7, 2022 at 12:12:23 PM
+> Last updated: Sunday, August 7, 2022 at 6:52:53 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, August 7, 2022 at 12:12:28 PM
+> Last updated: Sunday, August 7, 2022 at 6:52:58 PM
 
 > Showing 5 of 30 posts.
 
+[![How to check whether an element is in the viewport or not?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_check_whether_an_element_is_in_the_viewport_or_not_.svg)](https://javascript.plainenglish.io/how-to-check-whether-an-element-is-in-the-viewport-or-not-eb5de51c0201)
+[![PFP NFTs on the Elrond blockchain](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/PFP_NFTs_on_the_Elrond_blockchain.svg)](https://www.julian.io/articles/pfp-nft-elrond-blockchain.html)
+[![GitHub - Serjeel-Ranjan-911/duckduckgoThemeMaker: Design themes for DuckDuckGo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Serjeel-Ranjan-911_duckduckgoThemeMaker__Design_themes_for_DuckDuckGo.svg)](https://github.com/Serjeel-Ranjan-911/duckduckgoThemeMaker)
 [![GitHub - Architrixs/ThisApiForThat](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Architrixs_ThisApiForThat.svg)](https://github.com/Architrixs/ThisApiForThat)
 [![GitHub - markwylde/assert-plan: The node assert library but with a plan method to check a certain amount of assertions are raised.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_markwylde_assert-plan__The_node_assert_library_but_with_a_plan_method_to_check_a_certain_amount_of_assertions_are_raised..svg)](https://github.com/markwylde/assert-plan)
-[![GitHub - Serjeel-Ranjan-911/UNOGame: Online Multiplayer UNO Game](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Serjeel-Ranjan-911_UNOGame__Online_Multiplayer_UNO_Game.svg)](https://github.com/Serjeel-Ranjan-911/UNOGame)
-[![WebRTC with Python and React: Building a Video Chat Application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/WebRTC_with_Python_and_React__Building_a_Video_Chat_Application.svg)](https://www.metered.ca/blog/webrtc-with-python-building-a-video-chat-application/)
-[![Reducing React Dev Server to 213ms - From Create React App To Vite v3 Migration](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Reducing_React_Dev_Server_to_213ms_-_From_Create_React_App_To_Vite_v3_Migration.svg)](
-https://orizens.com/blog/reducing-react-dev-server-to-213ms-from-create-react-app-to-vite-migration/
-)
 
 
 <!-- post-list:end -->
