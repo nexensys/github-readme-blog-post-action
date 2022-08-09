@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, August 9, 2022 at 6:21:45 AM
+> Last updated: Tuesday, August 9, 2022 at 12:12:07 PM
 
 > Showing 5 of 12 posts.
 
-[![Graphman: generate a postman collection for any GraphQL endpoint](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Graphman__generate_a_postman_collection_for_any_GraphQL_endpoint.svg)](https://dev.to/tristankalos/graphman-generate-a-postman-collection-for-any-graphql-endpoint-4hff)
-[![Java for Mobile Devices - Free online course](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Java_for_Mobile_Devices_-_Free_online_course.svg)](https://dev.to/codenameone/java-for-mobile-devices-free-online-course-1id2)
-[![Customize Medusa and Gatsby to Implement Wishlist Functionality](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Customize_Medusa_and_Gatsby_to_Implement_Wishlist_Functionality.svg)](https://dev.to/medusajs/customize-medusa-and-gatsby-to-implement-wishlist-functionality-f69)
-[![Incident management & the wet floor sign](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Incident_management___the_wet_floor_sign.svg)](https://dev.to/itai/incident-management-the-wet-floor-sign-2lbo)
-[![Deploying Django Application on AWS with Terraform. Namecheap Domain + SSL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deploying_Django_Application_on_AWS_with_Terraform._Namecheap_Domain_+_SSL.svg)](https://dev.to/daiquiri_team/deploying-django-application-on-aws-with-terraform-namecheap-domain-ssl-19a5)
+[![OMG we are trending 🤯](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/OMG_we_are_trending_🤯.svg)](https://dev.to/nevodavid/omg-we-are-trending-2dpn)
+[![Announcing the Winners Creating Real-World Impact on the XRP Ledger](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Announcing_the_Winners_Creating_Real-World_Impact_on_the_XRP_Ledger.svg)](https://dev.to/ripplexdev/announcing-the-winners-creating-real-world-impact-on-the-xrp-ledger-1bp2)
+[![Carousel Demo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Carousel_Demo.svg)](https://dev.to/mana041001/carousel-demo-p9j)
+[![Top 10 Python security best practices](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_10_Python_security_best_practices.svg)](https://dev.to/devarshishimpi/top-10-python-security-best-practices-2aef)
+[![How Can I Prepare for a Coding Bootcamp?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_Can_I_Prepare_for_a_Coding_Bootcamp_.svg)](https://dev.to/sloan/how-can-i-prepare-for-a-coding-bootcamp-2c5f)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, August 9, 2022 at 6:21:48 AM
+> Last updated: Tuesday, August 9, 2022 at 12:12:10 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, August 9, 2022 at 6:21:52 AM
+> Last updated: Tuesday, August 9, 2022 at 12:12:14 PM
 
 > Showing 5 of 30 posts.
 
