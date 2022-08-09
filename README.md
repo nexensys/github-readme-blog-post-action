@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, August 7, 2022 at 6:52:49 PM
+> Last updated: Tuesday, August 9, 2022 at 6:21:45 AM
 
 > Showing 5 of 12 posts.
 
-[![5 JavaScript Console Methods That will Improve your Debugging Skills🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_JavaScript_Console_Methods_That_will_Improve_your_Debugging_Skills🚀.svg)](https://dev.to/qbentil/5-javascript-console-methods-that-will-improve-your-debugging-skills-147b)
-[![How to build a tech product fast](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_build_a_tech_product_fast.svg)](https://dev.to/dherault/how-to-build-a-tech-product-fast-igh)
-[![Complete guide to kickstart your Open Source journey🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Complete_guide_to_kickstart_your_Open_Source_journey🚀.svg)](https://dev.to/iarchitsharma/complete-guide-to-kickstart-your-open-source-journey-2dm5)
-[![Reduct Storage Client SDK for C++ 0.7.0 was released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Reduct_Storage_Client_SDK_for_C++_0.7.0_was_released.svg)](https://dev.to/reduct-storage/reduct-storage-client-sdk-for-c-070-was-released-i4)
-[![React - Fetching promises from the state???](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_-_Fetching_promises_from_the_state___.svg)](https://dev.to/noriller/react-fetching-promises-from-the-state-1g54)
+[![Graphman: generate a postman collection for any GraphQL endpoint](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Graphman__generate_a_postman_collection_for_any_GraphQL_endpoint.svg)](https://dev.to/tristankalos/graphman-generate-a-postman-collection-for-any-graphql-endpoint-4hff)
+[![Java for Mobile Devices - Free online course](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Java_for_Mobile_Devices_-_Free_online_course.svg)](https://dev.to/codenameone/java-for-mobile-devices-free-online-course-1id2)
+[![Customize Medusa and Gatsby to Implement Wishlist Functionality](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Customize_Medusa_and_Gatsby_to_Implement_Wishlist_Functionality.svg)](https://dev.to/medusajs/customize-medusa-and-gatsby-to-implement-wishlist-functionality-f69)
+[![Incident management & the wet floor sign](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Incident_management___the_wet_floor_sign.svg)](https://dev.to/itai/incident-management-the-wet-floor-sign-2lbo)
+[![Deploying Django Application on AWS with Terraform. Namecheap Domain + SSL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deploying_Django_Application_on_AWS_with_Terraform._Namecheap_Domain_+_SSL.svg)](https://dev.to/daiquiri_team/deploying-django-application-on-aws-with-terraform-namecheap-domain-ssl-19a5)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, August 7, 2022 at 6:52:53 PM
+> Last updated: Tuesday, August 9, 2022 at 6:21:48 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, August 7, 2022 at 6:52:58 PM
+> Last updated: Tuesday, August 9, 2022 at 6:21:52 AM
 
 > Showing 5 of 30 posts.
 
-[![How to check whether an element is in the viewport or not?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_check_whether_an_element_is_in_the_viewport_or_not_.svg)](https://javascript.plainenglish.io/how-to-check-whether-an-element-is-in-the-viewport-or-not-eb5de51c0201)
-[![PFP NFTs on the Elrond blockchain](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/PFP_NFTs_on_the_Elrond_blockchain.svg)](https://www.julian.io/articles/pfp-nft-elrond-blockchain.html)
-[![GitHub - Serjeel-Ranjan-911/duckduckgoThemeMaker: Design themes for DuckDuckGo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Serjeel-Ranjan-911_duckduckgoThemeMaker__Design_themes_for_DuckDuckGo.svg)](https://github.com/Serjeel-Ranjan-911/duckduckgoThemeMaker)
-[![GitHub - Architrixs/ThisApiForThat](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Architrixs_ThisApiForThat.svg)](https://github.com/Architrixs/ThisApiForThat)
-[![GitHub - markwylde/assert-plan: The node assert library but with a plan method to check a certain amount of assertions are raised.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_markwylde_assert-plan__The_node_assert_library_but_with_a_plan_method_to_check_a_certain_amount_of_assertions_are_raised..svg)](https://github.com/markwylde/assert-plan)
+[![Episode 23 - Let's talk about Astro with Chris Bongers - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_23_-_Let's_talk_about_Astro_with_Chris_Bongers_-_20minJS.svg)](https://podcast.20minjs.com/1952066/11098814-episode-23-let-s-talk-about-astro-with-chris-bongers)
+[![Joycon.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Joycon.js.svg)](https://joycon.js.org/)
+[![COMPARE TRIPLETS HACKERRANK SOLUTION - Erisanal](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/COMPARE_TRIPLETS_HACKERRANK_SOLUTION_-_Erisanal.svg)](https://erisanal.com/compare-triplets-hackerrank-solution/)
+[![JavaScript testing #14. Mocking WebSockets using the mock-socket library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_testing__14._Mocking_WebSockets_using_the_mock-socket_library.svg)](http://wanago.io/2022/08/08/javascript-testing-mocking-websockets-mock-socket/)
+[![RxJS in less than 5 mins](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/RxJS_in_less_than_5_mins.svg)](https://adropincalm.com/blog/rxjs-in-less-than-5-mins/)
 
 
 <!-- post-list:end -->
