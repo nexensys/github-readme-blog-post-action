@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, August 10, 2022 at 6:18:32 AM
+> Last updated: Wednesday, August 10, 2022 at 12:12:30 PM
 
 > Showing 5 of 12 posts.
 
-[![I Wrote A Lo-Fi Player, Loofi with Typescript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_Wrote_A_Lo-Fi_Player__Loofi_with_Typescript.svg)](https://dev.to/stanleyowen/i-wrote-a-lo-fi-player-loofi-26oh)
-[![Flutter multiplatform navigation sidebar / drawer widget](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Flutter_multiplatform_navigation_sidebar___drawer_widget.svg)](https://dev.to/frezyx/flutter-multiplatform-navigation-sidebar-drawer-widget-4ecj)
-[![Learn to build a Hexagonal Architecture Micro Service](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Learn_to_build_a_Hexagonal_Architecture_Micro_Service.svg)](https://dev.to/timhub/learn-to-build-a-hexagonal-architecture-micro-service-l1h)
-[![How much does it cost to create an Opensea Clone Script?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_much_does_it_cost_to_create_an_Opensea_Clone_Script_.svg)](https://dev.to/isabellajacob91/how-much-does-it-cost-to-create-an-opensea-clone-script-32im)
-[![Build Client Payment Reminders using Twilio, Notion, and Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_Client_Payment_Reminders_using_Twilio__Notion__and_Python.svg)](https://dev.to/ravgeetdhillon/build-client-payment-reminders-using-twilio-notion-and-python-2flg)
+[![Integração do NextJS com OneTrust](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Integração_do_NextJS_com_OneTrust.svg)](https://dev.to/ezdevs/integracao-do-nextjs-com-onetrust-4khi)
+[![Publishing a Docker image to GitHubs container repository](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Publishing_a_Docker_image_to_GitHubs_container_repository.svg)](https://dev.to/github/publishing-a-docker-image-to-githubs-container-repository-4n50)
+[![Rainfall prediction : ML project in Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Rainfall_prediction___ML_project_in_Python.svg)](https://dev.to/bekbrace/rainfall-prediction-ml-project-in-python-2f55)
+[![New achivements of Mezon PHP Framework - August 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/New_achivements_of_Mezon_PHP_Framework_-_August_2022.svg)](https://dev.to/alexdodonov/new-achivements-of-mezon-php-framework-august-2022-bfe)
+[![amazing! Millions of people are learning Docker!(Chinese)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/amazing!_Millions_of_people_are_learning_Docker!(Chinese).svg)](https://dev.to/leifengflying/amazing-millions-of-people-are-learning-dockerchinese-4ca5)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, August 10, 2022 at 6:18:35 AM
+> Last updated: Wednesday, August 10, 2022 at 12:12:35 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, August 10, 2022 at 6:18:39 AM
+> Last updated: Wednesday, August 10, 2022 at 12:12:38 PM
 
 > Showing 5 of 30 posts.
 
