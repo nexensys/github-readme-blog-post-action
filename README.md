@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, August 9, 2022 at 12:12:07 PM
+> Last updated: Tuesday, August 9, 2022 at 6:57:42 PM
 
 > Showing 5 of 12 posts.
 
-[![OMG we are trending 🤯](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/OMG_we_are_trending_🤯.svg)](https://dev.to/nevodavid/omg-we-are-trending-2dpn)
-[![Announcing the Winners Creating Real-World Impact on the XRP Ledger](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Announcing_the_Winners_Creating_Real-World_Impact_on_the_XRP_Ledger.svg)](https://dev.to/ripplexdev/announcing-the-winners-creating-real-world-impact-on-the-xrp-ledger-1bp2)
-[![Carousel Demo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Carousel_Demo.svg)](https://dev.to/mana041001/carousel-demo-p9j)
-[![Top 10 Python security best practices](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_10_Python_security_best_practices.svg)](https://dev.to/devarshishimpi/top-10-python-security-best-practices-2aef)
-[![How Can I Prepare for a Coding Bootcamp?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_Can_I_Prepare_for_a_Coding_Bootcamp_.svg)](https://dev.to/sloan/how-can-i-prepare-for-a-coding-bootcamp-2c5f)
+[![Updating The Single Most Influential Book of the BASIC Era](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Updating_The_Single_Most_Influential_Book_of_the_BASIC_Era.svg)](https://dev.to/developmentsh/updating-the-single-most-influential-book-of-the-basic-era-1ai1)
+[![Feedback processes & opinions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Feedback_processes___opinions.svg)](https://dev.to/crisoncode/feedback-processes-opinions-1eb1)
+[![A Comparison of Node.js Environment Managers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Comparison_of_Node.js_Environment_Managers.svg)](https://dev.to/honeybadger/a-comparison-of-nodejs-environment-managers-boh)
+[![Interesting way to inverse number in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Interesting_way_to_inverse_number_in_JavaScript.svg)](https://dev.to/ytskk/interesting-way-to-inverse-number-in-javascript-1cc7)
+[![The most important code smells every developer has to know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_most_important_code_smells_every_developer_has_to_know.svg)](https://dev.to/dadyasasha/are-there-any-objective-code-smells-1hm6)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, August 9, 2022 at 12:12:10 PM
+> Last updated: Tuesday, August 9, 2022 at 6:57:46 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, August 9, 2022 at 12:12:14 PM
+> Last updated: Tuesday, August 9, 2022 at 6:57:52 PM
 
 > Showing 5 of 30 posts.
 
