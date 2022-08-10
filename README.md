@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, August 9, 2022 at 6:57:42 PM
+> Last updated: Wednesday, August 10, 2022 at 12:14:19 AM
 
 > Showing 5 of 12 posts.
 
-[![Updating The Single Most Influential Book of the BASIC Era](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Updating_The_Single_Most_Influential_Book_of_the_BASIC_Era.svg)](https://dev.to/developmentsh/updating-the-single-most-influential-book-of-the-basic-era-1ai1)
-[![Feedback processes & opinions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Feedback_processes___opinions.svg)](https://dev.to/crisoncode/feedback-processes-opinions-1eb1)
-[![A Comparison of Node.js Environment Managers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Comparison_of_Node.js_Environment_Managers.svg)](https://dev.to/honeybadger/a-comparison-of-nodejs-environment-managers-boh)
-[![Interesting way to inverse number in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Interesting_way_to_inverse_number_in_JavaScript.svg)](https://dev.to/ytskk/interesting-way-to-inverse-number-in-javascript-1cc7)
-[![The most important code smells every developer has to know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_most_important_code_smells_every_developer_has_to_know.svg)](https://dev.to/dadyasasha/are-there-any-objective-code-smells-1hm6)
+[![What Miles Davis can teach software developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_Miles_Davis_can_teach_software_developers.svg)](https://dev.to/polterguy/what-miles-davis-can-teach-software-developers-149o)
+[![Exploring .NET WebAssembly with WASI and Wasmtime](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exploring_.NET_WebAssembly_with_WASI_and_Wasmtime.svg)](https://dev.to/azure/exploring-net-webassembly-with-wasi-and-wasmtime-41l5)
+[![Create an NBA App for F5 Season!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_an_NBA_App_for_F5_Season!.svg)](https://dev.to/anthonyjdella/create-an-nba-app-for-f5-season-37on)
+[![Types of browser extensions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Types_of_browser_extensions.svg)](https://dev.to/dailydevtips1/types-of-browser-extensions-287f)
+[![Developer Showcase](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Developer_Showcase.svg)](https://dev.to/tookooltech/developer-showcase-aeg)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, August 9, 2022 at 6:57:46 PM
+> Last updated: Wednesday, August 10, 2022 at 12:14:23 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, August 9, 2022 at 6:57:52 PM
+> Last updated: Wednesday, August 10, 2022 at 12:14:28 AM
 
 > Showing 5 of 30 posts.
 
+[![Tailwind is an Anti-Pattern](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Tailwind_is_an_Anti-Pattern.svg)](https://javascript.plainenglish.io/tailwind-is-an-anti-pattern-ed3f64f565f0)
 [![Episode 23 - Let's talk about Astro with Chris Bongers - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_23_-_Let's_talk_about_Astro_with_Chris_Bongers_-_20minJS.svg)](https://podcast.20minjs.com/1952066/11098814-episode-23-let-s-talk-about-astro-with-chris-bongers)
 [![Joycon.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Joycon.js.svg)](https://joycon.js.org/)
 [![COMPARE TRIPLETS HACKERRANK SOLUTION - Erisanal](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/COMPARE_TRIPLETS_HACKERRANK_SOLUTION_-_Erisanal.svg)](https://erisanal.com/compare-triplets-hackerrank-solution/)
 [![JavaScript testing #14. Mocking WebSockets using the mock-socket library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_testing__14._Mocking_WebSockets_using_the_mock-socket_library.svg)](http://wanago.io/2022/08/08/javascript-testing-mocking-websockets-mock-socket/)
-[![RxJS in less than 5 mins](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/RxJS_in_less_than_5_mins.svg)](https://adropincalm.com/blog/rxjs-in-less-than-5-mins/)
 
 
 <!-- post-list:end -->
