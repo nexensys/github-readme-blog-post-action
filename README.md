@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, August 11, 2022 at 12:12:59 AM
+> Last updated: Thursday, August 11, 2022 at 6:21:28 AM
 
 > Showing 5 of 12 posts.
 
-[![Build on AWS Weekly - S1 E4 - Static S3 Site](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_on_AWS_Weekly_-_S1_E4_-_Static_S3_Site.svg)](https://dev.to/aws/build-on-aws-weekly-s1-e4-static-s3-site-45c6)
-[![Mastering the art of technical writing (workshop)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_the_art_of_technical_writing_(workshop).svg)](https://dev.to/aviyel/mastering-the-art-of-technical-writing-workshop-16cd)
-[![Write your Kubernetes Infrastructure as Go code - Extend cdk8s with custom Constructs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Write_your_Kubernetes_Infrastructure_as_Go_code_-_Extend_cdk8s_with_custom_Constructs.svg)](https://dev.to/abhirockzz/write-your-kubernetes-infrastructure-as-go-code-extend-cdk8s-with-custom-constructs-5eb4)
-[![Run README.md in your terminal](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Run_README.md_in_your_terminal.svg)](https://dev.to/sourishkrout/run-readmemd-in-your-terminal-19i)
-[![CRUD with Google Calendar API & Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CRUD_with_Google_Calendar_API___Python.svg)](https://dev.to/nelsoncode/crud-with-google-calendar-api-python-3jbc)
+[![How to Build A Shopify Embed App with VueJs, Tailwind CSS, NodeJs and Laravel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Build_A_Shopify_Embed_App_with_VueJs__Tailwind_CSS__NodeJs_and_Laravel.svg)](https://dev.to/teetomania/how-to-build-a-shopify-embed-app-with-vuejs-tailwind-css-nodejs-and-laravel-3j7d)
+[![How To Create Help Section for Your Website Using HTML & CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Create_Help_Section_for_Your_Website_Using_HTML___CSS.svg)](https://dev.to/shameerchagani/how-to-create-help-section-for-your-website-using-html-css-1ho1)
+[![Angular is almost always better than React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Angular_is_almost_always_better_than_React.svg)](https://dev.to/polterguy/angular-is-almost-always-better-than-react-300k)
+[![Scan and Going for Good](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Scan_and_Going_for_Good.svg)](https://dev.to/robynred123/scan-and-going-for-good-13b4)
+[![tsParticles 2.2.0 Released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/tsParticles_2.2.0_Released.svg)](https://dev.to/matteobruni/tsparticles-220-released-28mm)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, August 11, 2022 at 12:13:01 AM
+> Last updated: Thursday, August 11, 2022 at 6:21:30 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, August 11, 2022 at 12:13:05 AM
+> Last updated: Thursday, August 11, 2022 at 6:21:35 AM
 
 > Showing 5 of 30 posts.
 
+[![react18-input-otp](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/react18-input-otp.svg)](https://www.npmjs.com/package/react18-input-otp)
 [![Let's CRUD close to the platform using next.js – Alon Valadji (English)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Let's_CRUD_close_to_the_platform_using_next.js_–_Alon_Valadji_(English).svg)](https://www.youtube.com/watch?v=yfNbOa9plR0)
 [![Tailwind is an Anti-Pattern](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Tailwind_is_an_Anti-Pattern.svg)](https://javascript.plainenglish.io/tailwind-is-an-anti-pattern-ed3f64f565f0)
 [![Episode 23 - Let's talk about Astro with Chris Bongers - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_23_-_Let's_talk_about_Astro_with_Chris_Bongers_-_20minJS.svg)](https://podcast.20minjs.com/1952066/11098814-episode-23-let-s-talk-about-astro-with-chris-bongers)
 [![Joycon.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Joycon.js.svg)](https://joycon.js.org/)
-[![COMPARE TRIPLETS HACKERRANK SOLUTION - Erisanal](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/COMPARE_TRIPLETS_HACKERRANK_SOLUTION_-_Erisanal.svg)](https://erisanal.com/compare-triplets-hackerrank-solution/)
 
 
 <!-- post-list:end -->
