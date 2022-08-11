@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, August 11, 2022 at 6:21:28 AM
+> Last updated: Thursday, August 11, 2022 at 12:12:24 PM
 
 > Showing 5 of 12 posts.
 
-[![How to Build A Shopify Embed App with VueJs, Tailwind CSS, NodeJs and Laravel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Build_A_Shopify_Embed_App_with_VueJs__Tailwind_CSS__NodeJs_and_Laravel.svg)](https://dev.to/teetomania/how-to-build-a-shopify-embed-app-with-vuejs-tailwind-css-nodejs-and-laravel-3j7d)
-[![How To Create Help Section for Your Website Using HTML & CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Create_Help_Section_for_Your_Website_Using_HTML___CSS.svg)](https://dev.to/shameerchagani/how-to-create-help-section-for-your-website-using-html-css-1ho1)
-[![Angular is almost always better than React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Angular_is_almost_always_better_than_React.svg)](https://dev.to/polterguy/angular-is-almost-always-better-than-react-300k)
-[![Scan and Going for Good](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Scan_and_Going_for_Good.svg)](https://dev.to/robynred123/scan-and-going-for-good-13b4)
-[![tsParticles 2.2.0 Released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/tsParticles_2.2.0_Released.svg)](https://dev.to/matteobruni/tsparticles-220-released-28mm)
+[![Binary File Formats Explained](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Binary_File_Formats_Explained.svg)](https://dev.to/errorgamer2000/binary-file-formats-explained-4g6j)
+[![Nyan Cat or Giga Cat Epic Game](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Nyan_Cat_or_Giga_Cat_Epic_Game.svg)](https://dev.to/seek4samurai/nyan-cat-or-giga-cat-epic-game-1970)
+[![Multi-modal (image+text) ML](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Multi-modal_(image+text)_ML.svg)](https://dev.to/jamescalam/multi-modal-imagetext-ml-5d1e)
+[![Showcase: Avoid those awkward moments in 1-click](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Showcase__Avoid_those_awkward_moments_in_1-click.svg)](https://dev.to/pradeepb28_/showcase-avoid-those-awkward-moments-in-1-click-3gea)
+[![[Sobre Mim] - Fracassos me Fortaleceram e Ensinaram](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/[Sobre_Mim]_-_Fracassos_me_Fortaleceram_e_Ensinaram.svg)](https://dev.to/zanfranceschi/sobre-mim-fracassos-te-fortalecem-e-ensinam-42gn)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, August 11, 2022 at 6:21:30 AM
+> Last updated: Thursday, August 11, 2022 at 12:12:28 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, August 11, 2022 at 6:21:35 AM
+> Last updated: Thursday, August 11, 2022 at 12:12:34 PM
 
 > Showing 5 of 30 posts.
 
+[![7 Best Ways to Create a New React Application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/7_Best_Ways_to_Create_a_New_React_Application.svg)](https://blog.bitsrc.io/6-best-ways-to-create-a-new-react-application-57b17e5d331a)
 [![react18-input-otp](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/react18-input-otp.svg)](https://www.npmjs.com/package/react18-input-otp)
 [![Let's CRUD close to the platform using next.js – Alon Valadji (English)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Let's_CRUD_close_to_the_platform_using_next.js_–_Alon_Valadji_(English).svg)](https://www.youtube.com/watch?v=yfNbOa9plR0)
 [![Tailwind is an Anti-Pattern](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Tailwind_is_an_Anti-Pattern.svg)](https://javascript.plainenglish.io/tailwind-is-an-anti-pattern-ed3f64f565f0)
 [![Episode 23 - Let's talk about Astro with Chris Bongers - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_23_-_Let's_talk_about_Astro_with_Chris_Bongers_-_20minJS.svg)](https://podcast.20minjs.com/1952066/11098814-episode-23-let-s-talk-about-astro-with-chris-bongers)
-[![Joycon.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Joycon.js.svg)](https://joycon.js.org/)
 
 
 <!-- post-list:end -->
