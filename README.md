@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, August 10, 2022 at 6:54:55 PM
+> Last updated: Thursday, August 11, 2022 at 12:12:59 AM
 
 > Showing 5 of 12 posts.
 
-[![JavaScript 'let' vrs 'var' vrs 'const'](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_'let'_vrs_'var'_vrs_'const'.svg)](https://dev.to/qbentil/javascript-let-vrs-var-vrs-const-pn5)
-[![Would You Use Vanilla JavaScript (No Framework) On a Project?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Would_You_Use_Vanilla_JavaScript_(No_Framework)_On_a_Project_.svg)](https://dev.to/mikhailkaran/would-you-use-vanilla-javascript-no-framework-on-a-project-25gf)
-[![Welcome Thread - v186](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Welcome_Thread_-_v186.svg)](https://dev.to/thepracticaldev/welcome-thread-v186-jb3)
-[![A tool for showing disk usage.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_tool_for_showing_disk_usage..svg)](https://dev.to/chenquan/a-tool-for-showing-disk-usage-6ah)
-[![Hexagonal Architecture and Clean Architecture (with examples)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Hexagonal_Architecture_and_Clean_Architecture_(with_examples).svg)](https://dev.to/dyarleniber/hexagonal-architecture-and-clean-architecture-with-examples-48oi)
+[![Build on AWS Weekly - S1 E4 - Static S3 Site](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_on_AWS_Weekly_-_S1_E4_-_Static_S3_Site.svg)](https://dev.to/aws/build-on-aws-weekly-s1-e4-static-s3-site-45c6)
+[![Mastering the art of technical writing (workshop)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_the_art_of_technical_writing_(workshop).svg)](https://dev.to/aviyel/mastering-the-art-of-technical-writing-workshop-16cd)
+[![Write your Kubernetes Infrastructure as Go code - Extend cdk8s with custom Constructs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Write_your_Kubernetes_Infrastructure_as_Go_code_-_Extend_cdk8s_with_custom_Constructs.svg)](https://dev.to/abhirockzz/write-your-kubernetes-infrastructure-as-go-code-extend-cdk8s-with-custom-constructs-5eb4)
+[![Run README.md in your terminal](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Run_README.md_in_your_terminal.svg)](https://dev.to/sourishkrout/run-readmemd-in-your-terminal-19i)
+[![CRUD with Google Calendar API & Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CRUD_with_Google_Calendar_API___Python.svg)](https://dev.to/nelsoncode/crud-with-google-calendar-api-python-3jbc)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, August 10, 2022 at 6:54:58 PM
+> Last updated: Thursday, August 11, 2022 at 12:13:01 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, August 10, 2022 at 6:55:01 PM
+> Last updated: Thursday, August 11, 2022 at 12:13:05 AM
 
 > Showing 5 of 30 posts.
 
