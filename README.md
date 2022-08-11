@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, August 10, 2022 at 12:12:30 PM
+> Last updated: Wednesday, August 10, 2022 at 6:54:55 PM
 
 > Showing 5 of 12 posts.
 
-[![Integração do NextJS com OneTrust](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Integração_do_NextJS_com_OneTrust.svg)](https://dev.to/ezdevs/integracao-do-nextjs-com-onetrust-4khi)
-[![Publishing a Docker image to GitHubs container repository](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Publishing_a_Docker_image_to_GitHubs_container_repository.svg)](https://dev.to/github/publishing-a-docker-image-to-githubs-container-repository-4n50)
-[![Rainfall prediction : ML project in Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Rainfall_prediction___ML_project_in_Python.svg)](https://dev.to/bekbrace/rainfall-prediction-ml-project-in-python-2f55)
-[![New achivements of Mezon PHP Framework - August 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/New_achivements_of_Mezon_PHP_Framework_-_August_2022.svg)](https://dev.to/alexdodonov/new-achivements-of-mezon-php-framework-august-2022-bfe)
-[![amazing! Millions of people are learning Docker!(Chinese)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/amazing!_Millions_of_people_are_learning_Docker!(Chinese).svg)](https://dev.to/leifengflying/amazing-millions-of-people-are-learning-dockerchinese-4ca5)
+[![JavaScript 'let' vrs 'var' vrs 'const'](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_'let'_vrs_'var'_vrs_'const'.svg)](https://dev.to/qbentil/javascript-let-vrs-var-vrs-const-pn5)
+[![Would You Use Vanilla JavaScript (No Framework) On a Project?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Would_You_Use_Vanilla_JavaScript_(No_Framework)_On_a_Project_.svg)](https://dev.to/mikhailkaran/would-you-use-vanilla-javascript-no-framework-on-a-project-25gf)
+[![Welcome Thread - v186](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Welcome_Thread_-_v186.svg)](https://dev.to/thepracticaldev/welcome-thread-v186-jb3)
+[![A tool for showing disk usage.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_tool_for_showing_disk_usage..svg)](https://dev.to/chenquan/a-tool-for-showing-disk-usage-6ah)
+[![Hexagonal Architecture and Clean Architecture (with examples)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Hexagonal_Architecture_and_Clean_Architecture_(with_examples).svg)](https://dev.to/dyarleniber/hexagonal-architecture-and-clean-architecture-with-examples-48oi)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, August 10, 2022 at 12:12:35 PM
+> Last updated: Wednesday, August 10, 2022 at 6:54:58 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, August 10, 2022 at 12:12:38 PM
+> Last updated: Wednesday, August 10, 2022 at 6:55:01 PM
 
 > Showing 5 of 30 posts.
 
