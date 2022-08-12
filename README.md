@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, August 12, 2022 at 6:19:05 AM
+> Last updated: Friday, August 12, 2022 at 12:12:26 PM
 
 > Showing 5 of 12 posts.
 
-[![A beginners guide to developer stock options](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_beginners_guide_to_developer_stock_options.svg)](https://dev.to/smeetsmeister/a-beginners-guide-to-developer-stock-options-249d)
-[![Universal passwordless authentication - The beginning](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Universal_passwordless_authentication_-_The_beginning.svg)](https://dev.to/dagnelies/universal-passwordless-authentication-the-beginning-k2b)
-[![Introduction](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction.svg)](https://dev.to/boulix3/introduction-5429)
-[![Lowest Common Ancestor of a Binary Search Tree](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Lowest_Common_Ancestor_of_a_Binary_Search_Tree.svg)](https://dev.to/salahelhossiny/lowest-common-ancestor-of-a-binary-search-tree-16n5)
-[![Adminator - Simple Django Starter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Adminator_-_Simple_Django_Starter.svg)](https://dev.to/sm0ke/adminator-simple-django-starter-4ef9)
+[![How to set up your own personal blog: Step-By-Step Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_set_up_your_own_personal_blog__Step-By-Step_Guide.svg)](https://dev.to/itsrakesh/how-to-set-up-your-own-personal-blog-step-by-step-guide-2233)
+[![The Inevitability of ERC-2981 in NFT Marketplaces](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Inevitability_of_ERC-2981_in_NFT_Marketplaces.svg)](https://dev.to/abhikbanerjee99/the-inevitability-of-erc-2981-in-nft-marketplaces-37fn)
+[![Low-cost best practices in AWS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Low-cost_best_practices_in_AWS.svg)](https://dev.to/aws-builders/low-cost-best-practices-in-aws-234)
+[![Build your «Smart device» for Google Home](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_your_«Smart_device»_for_Google_Home.svg)](https://dev.to/davidnadejdin/build-your-for-google-home-2b2a)
+[![Does every DBA need to understand Transparent Data Encryption (TDE)?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Does_every_DBA_need_to_understand_Transparent_Data_Encryption_(TDE)_.svg)](https://dev.to/vaultree/does-every-dba-need-to-understand-transparent-data-encryption-tde-nk6)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, August 12, 2022 at 6:19:08 AM
+> Last updated: Friday, August 12, 2022 at 12:12:30 PM
 
 > Showing 4 of 4 posts.
 
+[![A way to automatically generate regexes from examples](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/A_way_to_automatically_generate_regexes_from_examples.svg)](https://javascriptweekly.com/issues/602)
 [![Genius misuse of WOFF 2 and Brotli to win a JavaScript contest.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Genius_misuse_of_WOFF_2_and_Brotli_to_win_a_JavaScript_contest..svg)](https://javascriptweekly.com/issues/601)
 [![Douglas Crockford on 'retiring' JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Douglas_Crockford_on_'retiring'_JavaScript.svg)](https://javascriptweekly.com/issues/600)
 [![Common JavaScript issues developers face](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Common_JavaScript_issues_developers_face.svg)](https://javascriptweekly.com/issues/599)
-[![Vite 3, or in French: quick, quick, quick.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Vite_3__or_in_French__quick__quick__quick..svg)](https://javascriptweekly.com/issues/598)
 
 
 ## Echo JS
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, August 12, 2022 at 6:19:13 AM
+> Last updated: Friday, August 12, 2022 at 12:12:35 PM
 
 > Showing 5 of 30 posts.
 
