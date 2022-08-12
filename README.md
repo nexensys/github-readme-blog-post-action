@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, August 12, 2022 at 12:12:57 AM
+> Last updated: Friday, August 12, 2022 at 6:19:05 AM
 
 > Showing 5 of 12 posts.
 
-[![How to Environment Variable (.env) in NextJS?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Environment_Variable_(.env)_in_NextJS_.svg)](https://dev.to/surajondev/how-to-environment-variable-env-in-nextjs-33io)
-[![🎉Vue3+Vite2.6+TypeScript+ant-design-vue+egg.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🎉Vue3+Vite2.6+TypeScript+ant-design-vue+egg.js.svg)](https://dev.to/hangjob/vue3vite26typescriptant-design-vueeggjs-3883)
-[![Why You Should Use Waffleweb (And Not Flask)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_You_Should_Use_Waffleweb_(And_Not_Flask).svg)](https://dev.to/berserkware/why-you-should-use-waffleweb-and-not-flask-59o9)
-[![Build a full stack app with create-t3-app](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_a_full_stack_app_with_create-t3-app.svg)](https://dev.to/nexxeln/build-a-full-stack-app-with-create-t3-app-5e1e)
-[![How To Send Email Using NodeMailer in NodeJs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Send_Email_Using_NodeMailer_in_NodeJs.svg)](https://dev.to/arosebine/how-to-send-email-using-nodemailer-in-nodejs-4957)
+[![A beginners guide to developer stock options](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_beginners_guide_to_developer_stock_options.svg)](https://dev.to/smeetsmeister/a-beginners-guide-to-developer-stock-options-249d)
+[![Universal passwordless authentication - The beginning](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Universal_passwordless_authentication_-_The_beginning.svg)](https://dev.to/dagnelies/universal-passwordless-authentication-the-beginning-k2b)
+[![Introduction](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction.svg)](https://dev.to/boulix3/introduction-5429)
+[![Lowest Common Ancestor of a Binary Search Tree](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Lowest_Common_Ancestor_of_a_Binary_Search_Tree.svg)](https://dev.to/salahelhossiny/lowest-common-ancestor-of-a-binary-search-tree-16n5)
+[![Adminator - Simple Django Starter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Adminator_-_Simple_Django_Starter.svg)](https://dev.to/sm0ke/adminator-simple-django-starter-4ef9)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, August 12, 2022 at 12:13:01 AM
+> Last updated: Friday, August 12, 2022 at 6:19:08 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, August 12, 2022 at 12:13:06 AM
+> Last updated: Friday, August 12, 2022 at 6:19:13 AM
 
 > Showing 5 of 30 posts.
 
