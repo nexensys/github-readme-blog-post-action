@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, August 12, 2022 at 12:12:26 PM
+> Last updated: Friday, August 12, 2022 at 6:50:53 PM
 
 > Showing 5 of 12 posts.
 
-[![How to set up your own personal blog: Step-By-Step Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_set_up_your_own_personal_blog__Step-By-Step_Guide.svg)](https://dev.to/itsrakesh/how-to-set-up-your-own-personal-blog-step-by-step-guide-2233)
-[![The Inevitability of ERC-2981 in NFT Marketplaces](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Inevitability_of_ERC-2981_in_NFT_Marketplaces.svg)](https://dev.to/abhikbanerjee99/the-inevitability-of-erc-2981-in-nft-marketplaces-37fn)
-[![Low-cost best practices in AWS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Low-cost_best_practices_in_AWS.svg)](https://dev.to/aws-builders/low-cost-best-practices-in-aws-234)
-[![Build your «Smart device» for Google Home](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_your_«Smart_device»_for_Google_Home.svg)](https://dev.to/davidnadejdin/build-your-for-google-home-2b2a)
-[![Does every DBA need to understand Transparent Data Encryption (TDE)?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Does_every_DBA_need_to_understand_Transparent_Data_Encryption_(TDE)_.svg)](https://dev.to/vaultree/does-every-dba-need-to-understand-transparent-data-encryption-tde-nk6)
+[![I Made a Web App to Showcase all your Profiles 🔮✨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_Made_a_Web_App_to_Showcase_all_your_Profiles_🔮✨.svg)](https://dev.to/2kabhishek/i-made-a-web-app-to-showcase-all-your-internet-profiles-4m3e)
+[![Tipos de Memória](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tipos_de_Memória.svg)](https://dev.to/samoht/tipos-de-memoria-3o7l)
+[![Performance Benchmarking: String and String Builder](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Performance_Benchmarking__String_and_String_Builder.svg)](https://dev.to/this-is-learning/performance-benchmarking-string-and-string-builder-3bid)
+[![Algorithms: Time And Space Complexity](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Algorithms__Time_And_Space_Complexity.svg)](https://dev.to/m13ha/algorithms-time-and-space-complexity-4m1i)
+[![I got my first Pull Request merged!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_got_my_first_Pull_Request_merged!.svg)](https://dev.to/jhhornn/i-got-my-first-pull-request-merged-3ei9)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, August 12, 2022 at 12:12:30 PM
+> Last updated: Friday, August 12, 2022 at 6:50:57 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,12 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, August 12, 2022 at 12:12:35 PM
+> Last updated: Friday, August 12, 2022 at 6:51:02 PM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - Elijah-Bodden/Membrane: A robust, minimal-server-interaction API for peer routing in the browser](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Elijah-Bodden_Membrane__A_robust__minimal-server-interaction_API_for_peer_routing_in_the_browser.svg)](https://github.com/Elijah-Bodden/Membrane)
+[![Why Atomico js webcomponents?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Why_Atomico_js_webcomponents_.svg)](https://dev.to/uppercod/why-atomico-js-webcomponents-2go4)
 [![
 [EchoJS] blog.openreplay.com
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_[EchoJS]_blog.openreplay.com_.svg)](
@@ -54,8 +56,6 @@ http://www.echojs.com/news/40959
 )
 [![7 Best Ways to Create a New React Application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/7_Best_Ways_to_Create_a_New_React_Application.svg)](https://blog.bitsrc.io/6-best-ways-to-create-a-new-react-application-57b17e5d331a)
 [![react18-input-otp](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/react18-input-otp.svg)](https://www.npmjs.com/package/react18-input-otp)
-[![Let's CRUD close to the platform using next.js – Alon Valadji (English)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Let's_CRUD_close_to_the_platform_using_next.js_–_Alon_Valadji_(English).svg)](https://www.youtube.com/watch?v=yfNbOa9plR0)
-[![Episode 23 - Let's talk about Astro with Chris Bongers - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_23_-_Let's_talk_about_Astro_with_Chris_Bongers_-_20minJS.svg)](https://podcast.20minjs.com/1952066/11098814-episode-23-let-s-talk-about-astro-with-chris-bongers)
 
 
 <!-- post-list:end -->
