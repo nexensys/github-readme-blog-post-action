@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, August 13, 2022 at 6:16:33 AM
+> Last updated: Saturday, August 13, 2022 at 12:11:23 PM
 
 > Showing 5 of 12 posts.
 
-[![Skilled Worker Visa UK](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Skilled_Worker_Visa_UK.svg)](https://dev.to/beetlehope/skilled-worker-visa-uk-4hg6)
-[![Writing a new programming language. Part III: Type System](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Writing_a_new_programming_language._Part_III__Type_System.svg)](https://dev.to/kgrech/writing-a-new-programming-language-part-iii-type-system-2ji3)
-[![Building a Google SERP extension in Google Sheets (Apps Script + RapidAPI) 📈](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_Google_SERP_extension_in_Google_Sheets_(Apps_Script_+_RapidAPI)_📈.svg)](https://dev.to/microworlds/building-a-google-serp-extension-in-google-sheets-apps-script-rapidapi-4ddh)
-[![AWS open source news and updates, #124](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_open_source_news_and_updates___124.svg)](https://dev.to/aws/aws-open-source-news-and-updates-124-1i17)
-[![git sparse-checkout](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/git_sparse-checkout.svg)](https://dev.to/ccoveille/git-sparsecheckout-5gog)
+[![Game Of Life in Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Game_Of_Life_in_Python.svg)](https://dev.to/bekbrace/game-of-life-in-python-155b)
+[![Best Resources for Svelte and SvelteKit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_Resources_for_Svelte_and_SvelteKit.svg)](https://dev.to/theether0/best-resources-for-svelte-and-sveltekit-24n)
+[![How to fix 'zsh: command not found: python'](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_fix_'zsh__command_not_found__python'.svg)](https://dev.to/smpnjn/how-to-fix-zsh-command-not-found-python-22j8)
+[![What Database to use?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_Database_to_use_.svg)](https://dev.to/diogovski/what-database-to-use-49b0)
+[![I made a tmux plugin to spice up your terminal 🐧💅🏼](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_made_a_tmux_plugin_to_spice_up_your_terminal_🐧💅🏼.svg)](https://dev.to/2kabhishek/i-made-a-tmux-plugin-to-spice-up-your-terminal-52nj)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, August 13, 2022 at 6:16:35 AM
+> Last updated: Saturday, August 13, 2022 at 12:11:26 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, August 13, 2022 at 6:16:37 AM
+> Last updated: Saturday, August 13, 2022 at 12:11:29 PM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - shaongitt/boihut: Boihut - ecommerce store (book-store) made in Django](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_shaongitt_boihut__Boihut_-_ecommerce_store_(book-store)_made_in_Django.svg)](https://github.com/shaongitt/boihut)
 [![GitHub - sakofchit/system.css: A design system for building retro Apple interfaces](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_sakofchit_system.css__A_design_system_for_building_retro_Apple_interfaces.svg)](https://github.com/sakofchit/system.css)
 [![GitHub - Elijah-Bodden/Membrane: A robust, minimal-server-interaction API for peer routing in the browser](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Elijah-Bodden_Membrane__A_robust__minimal-server-interaction_API_for_peer_routing_in_the_browser.svg)](https://github.com/Elijah-Bodden/Membrane)
 [![Why Atomico js webcomponents?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Why_Atomico_js_webcomponents_.svg)](https://dev.to/uppercod/why-atomico-js-webcomponents-2go4)
@@ -55,7 +56,6 @@ http://www.echojs.com
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_[EchoJS]_blog.openreplay.com_.svg)](
 http://www.echojs.com/news/40959
 )
-[![7 Best Ways to Create a New React Application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/7_Best_Ways_to_Create_a_New_React_Application.svg)](https://blog.bitsrc.io/6-best-ways-to-create-a-new-react-application-57b17e5d331a)
 
 
 <!-- post-list:end -->
