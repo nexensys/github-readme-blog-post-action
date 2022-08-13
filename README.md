@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, August 12, 2022 at 6:50:53 PM
+> Last updated: Saturday, August 13, 2022 at 12:12:10 AM
 
 > Showing 5 of 12 posts.
 
-[![I Made a Web App to Showcase all your Profiles 🔮✨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_Made_a_Web_App_to_Showcase_all_your_Profiles_🔮✨.svg)](https://dev.to/2kabhishek/i-made-a-web-app-to-showcase-all-your-internet-profiles-4m3e)
-[![Tipos de Memória](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tipos_de_Memória.svg)](https://dev.to/samoht/tipos-de-memoria-3o7l)
-[![Performance Benchmarking: String and String Builder](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Performance_Benchmarking__String_and_String_Builder.svg)](https://dev.to/this-is-learning/performance-benchmarking-string-and-string-builder-3bid)
-[![Algorithms: Time And Space Complexity](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Algorithms__Time_And_Space_Complexity.svg)](https://dev.to/m13ha/algorithms-time-and-space-complexity-4m1i)
-[![I got my first Pull Request merged!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_got_my_first_Pull_Request_merged!.svg)](https://dev.to/jhhornn/i-got-my-first-pull-request-merged-3ei9)
+[![Javascript Tagalog - Break Statement](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Javascript_Tagalog_-_Break_Statement.svg)](https://dev.to/mmvergara/javascript-tagalog-break-statement-1ghc)
+[![An overview of Amazon's Leadership Principles and Culture - Part 1 🌱](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/An_overview_of_Amazon's_Leadership_Principles_and_Culture_-_Part_1_🌱.svg)](https://dev.to/hunghvu/an-overview-of-amazons-leadership-principles-and-culture-part-1-3h0b)
+[![Understand Kotlin Multiple Constructors](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understand_Kotlin_Multiple_Constructors.svg)](https://dev.to/vtsen/understand-kotlin-multiple-constructors-2hk5)
+[![Full ES2022 Cheatsheet!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Full_ES2022_Cheatsheet!.svg)](https://dev.to/omardulaimi/full-es2022-cheatsheet-4m9l)
+[![Make a Whack a Mole Game in Unity (Free Tutorial)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Make_a_Whack_a_Mole_Game_in_Unity_(Free_Tutorial).svg)](https://dev.to/echo3d/make-a-whack-a-mole-game-in-unity-free-tutorial-2387)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, August 12, 2022 at 6:50:57 PM
+> Last updated: Saturday, August 13, 2022 at 12:12:13 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, August 12, 2022 at 6:51:02 PM
+> Last updated: Saturday, August 13, 2022 at 12:12:17 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - sakofchit/system.css: A design system for building retro Apple interfaces](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_sakofchit_system.css__A_design_system_for_building_retro_Apple_interfaces.svg)](https://github.com/sakofchit/system.css)
 [![GitHub - Elijah-Bodden/Membrane: A robust, minimal-server-interaction API for peer routing in the browser](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Elijah-Bodden_Membrane__A_robust__minimal-server-interaction_API_for_peer_routing_in_the_browser.svg)](https://github.com/Elijah-Bodden/Membrane)
 [![Why Atomico js webcomponents?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Why_Atomico_js_webcomponents_.svg)](https://dev.to/uppercod/why-atomico-js-webcomponents-2go4)
 [![
@@ -55,7 +56,6 @@ http://www.echojs.com
 http://www.echojs.com/news/40959
 )
 [![7 Best Ways to Create a New React Application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/7_Best_Ways_to_Create_a_New_React_Application.svg)](https://blog.bitsrc.io/6-best-ways-to-create-a-new-react-application-57b17e5d331a)
-[![react18-input-otp](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/react18-input-otp.svg)](https://www.npmjs.com/package/react18-input-otp)
 
 
 <!-- post-list:end -->
