@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, August 13, 2022 at 12:12:10 AM
+> Last updated: Saturday, August 13, 2022 at 6:16:33 AM
 
 > Showing 5 of 12 posts.
 
-[![Javascript Tagalog - Break Statement](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Javascript_Tagalog_-_Break_Statement.svg)](https://dev.to/mmvergara/javascript-tagalog-break-statement-1ghc)
-[![An overview of Amazon's Leadership Principles and Culture - Part 1 🌱](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/An_overview_of_Amazon's_Leadership_Principles_and_Culture_-_Part_1_🌱.svg)](https://dev.to/hunghvu/an-overview-of-amazons-leadership-principles-and-culture-part-1-3h0b)
-[![Understand Kotlin Multiple Constructors](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understand_Kotlin_Multiple_Constructors.svg)](https://dev.to/vtsen/understand-kotlin-multiple-constructors-2hk5)
-[![Full ES2022 Cheatsheet!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Full_ES2022_Cheatsheet!.svg)](https://dev.to/omardulaimi/full-es2022-cheatsheet-4m9l)
-[![Make a Whack a Mole Game in Unity (Free Tutorial)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Make_a_Whack_a_Mole_Game_in_Unity_(Free_Tutorial).svg)](https://dev.to/echo3d/make-a-whack-a-mole-game-in-unity-free-tutorial-2387)
+[![Skilled Worker Visa UK](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Skilled_Worker_Visa_UK.svg)](https://dev.to/beetlehope/skilled-worker-visa-uk-4hg6)
+[![Writing a new programming language. Part III: Type System](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Writing_a_new_programming_language._Part_III__Type_System.svg)](https://dev.to/kgrech/writing-a-new-programming-language-part-iii-type-system-2ji3)
+[![Building a Google SERP extension in Google Sheets (Apps Script + RapidAPI) 📈](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_Google_SERP_extension_in_Google_Sheets_(Apps_Script_+_RapidAPI)_📈.svg)](https://dev.to/microworlds/building-a-google-serp-extension-in-google-sheets-apps-script-rapidapi-4ddh)
+[![AWS open source news and updates, #124](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_open_source_news_and_updates___124.svg)](https://dev.to/aws/aws-open-source-news-and-updates-124-1i17)
+[![git sparse-checkout](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/git_sparse-checkout.svg)](https://dev.to/ccoveille/git-sparsecheckout-5gog)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, August 13, 2022 at 12:12:13 AM
+> Last updated: Saturday, August 13, 2022 at 6:16:35 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, August 13, 2022 at 12:12:17 AM
+> Last updated: Saturday, August 13, 2022 at 6:16:37 AM
 
 > Showing 5 of 30 posts.
 
