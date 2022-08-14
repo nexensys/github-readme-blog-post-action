@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, August 13, 2022 at 12:11:23 PM
+> Last updated: Saturday, August 13, 2022 at 6:56:55 PM
 
 > Showing 5 of 12 posts.
 
-[![Game Of Life in Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Game_Of_Life_in_Python.svg)](https://dev.to/bekbrace/game-of-life-in-python-155b)
-[![Best Resources for Svelte and SvelteKit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_Resources_for_Svelte_and_SvelteKit.svg)](https://dev.to/theether0/best-resources-for-svelte-and-sveltekit-24n)
-[![How to fix 'zsh: command not found: python'](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_fix_'zsh__command_not_found__python'.svg)](https://dev.to/smpnjn/how-to-fix-zsh-command-not-found-python-22j8)
-[![What Database to use?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_Database_to_use_.svg)](https://dev.to/diogovski/what-database-to-use-49b0)
-[![I made a tmux plugin to spice up your terminal 🐧💅🏼](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_made_a_tmux_plugin_to_spice_up_your_terminal_🐧💅🏼.svg)](https://dev.to/2kabhishek/i-made-a-tmux-plugin-to-spice-up-your-terminal-52nj)
+[![Javascript Tagalog - Strings](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Javascript_Tagalog_-_Strings.svg)](https://dev.to/mmvergara/javascript-tagalog-strings-2ee0)
+[![How to serve *any* website from your own domain (for free!)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_serve__any__website_from_your_own_domain_(for_free!).svg)](https://dev.to/just_moh_it/how-to-serve-any-website-from-your-own-domain-for-free-44l9)
+[![CSS Rainbow Text Animation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CSS_Rainbow_Text_Animation.svg)](https://dev.to/langford_dev/css-rainbow-text-animation-4p5d)
+[![Is CSS an Object-Oriented Programming Language?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Is_CSS_an_Object-Oriented_Programming_Language_.svg)](https://dev.to/alvaromontoro/is-css-an-object-oriented-programming-language-2ja)
+[![Chrome extensions every web developer must have](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Chrome_extensions_every_web_developer_must_have.svg)](https://dev.to/langford_dev/chrome-extensions-every-web-developer-must-have-589p)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, August 13, 2022 at 12:11:26 PM
+> Last updated: Saturday, August 13, 2022 at 6:56:58 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, August 13, 2022 at 12:11:29 PM
+> Last updated: Saturday, August 13, 2022 at 6:57:02 PM
 
 > Showing 5 of 30 posts.
 
