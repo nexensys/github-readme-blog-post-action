@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, August 14, 2022 at 6:17:19 AM
+> Last updated: Sunday, August 14, 2022 at 12:11:29 PM
 
 > Showing 5 of 12 posts.
 
-[![Resilience4j](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Resilience4j.svg)](https://dev.to/emrebasar/resilience4j-2b9l)
-[![Flutter Tutorial for Beginners | All In One](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Flutter_Tutorial_for_Beginners___All_In_One.svg)](https://dev.to/kcl/flutter-tutorial-for-beginners-all-in-one-3a13)
-[![Build a graph database with Amazon Neptune Part 1 - Create a Neptune DB cluster with AWS CloudFormation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_a_graph_database_with_Amazon_Neptune_Part_1_-_Create_a_Neptune_DB_cluster_with_AWS_CloudFormation.svg)](https://dev.to/aws-builders/build-a-graph-database-with-amazon-neptune-part-1-launch-aws-cloudformation-stack-43k6)
-[![Insights into Forms in Flask](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Insights_into_Forms_in_Flask.svg)](https://dev.to/1995yogeshsharma/insights-into-forms-in-flask-2abl)
-[![What is CI/CD, and why is it important?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_CI_CD__and_why_is_it_important_.svg)](https://dev.to/snehal_02/what-is-cicd-and-why-is-it-important-3dee)
+[![Soft UI Dashboard - Open-Source Flask Starter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Soft_UI_Dashboard_-_Open-Source_Flask_Starter.svg)](https://dev.to/sm0ke/soft-ui-dashboard-open-source-flask-starter-jmd)
+[![Learn Python: Python Variables](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Learn_Python__Python_Variables.svg)](https://dev.to/smpnjn/python-variables-32ao)
+[![3 Short August Frontend tips](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/3_Short_August_Frontend_tips.svg)](https://dev.to/melnik909/3-short-august-frontend-tips-2666)
+[![React - Closure that dependency!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_-_Closure_that_dependency!.svg)](https://dev.to/noriller/react-closure-that-dependency-a50)
+[![What is "Pythonic" coding?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is__Pythonic__coding_.svg)](https://dev.to/sid_am_ahd935/what-is-pythonic-coding-27cm)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, August 14, 2022 at 6:17:21 AM
+> Last updated: Sunday, August 14, 2022 at 12:11:32 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, August 14, 2022 at 6:17:23 AM
+> Last updated: Sunday, August 14, 2022 at 12:11:36 PM
 
 > Showing 5 of 30 posts.
 
+[![The Programming Basics : Variables](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Programming_Basics___Variables.svg)](https://www.youtube.com/watch?v=qXyMuNHMlzc)
 [![Component-Driven Microservices with NodeJS and Bit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Component-Driven_Microservices_with_NodeJS_and_Bit.svg)](https://bit.dev/)
 [![GitHub - shaongitt/boihut: Boihut - ecommerce store (book-store) made in Django](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_shaongitt_boihut__Boihut_-_ecommerce_store_(book-store)_made_in_Django.svg)](https://github.com/shaongitt/boihut)
 [![GitHub - sakofchit/system.css: A design system for building retro Apple interfaces](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_sakofchit_system.css__A_design_system_for_building_retro_Apple_interfaces.svg)](https://github.com/sakofchit/system.css)
 [![GitHub - Elijah-Bodden/Membrane: A robust, minimal-server-interaction API for peer routing in the browser](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Elijah-Bodden_Membrane__A_robust__minimal-server-interaction_API_for_peer_routing_in_the_browser.svg)](https://github.com/Elijah-Bodden/Membrane)
-[![Why Atomico js webcomponents?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Why_Atomico_js_webcomponents_.svg)](https://dev.to/uppercod/why-atomico-js-webcomponents-2go4)
 
 
 <!-- post-list:end -->
