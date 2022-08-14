@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, August 13, 2022 at 6:56:55 PM
+> Last updated: Sunday, August 14, 2022 at 12:12:46 AM
 
 > Showing 5 of 12 posts.
 
-[![Javascript Tagalog - Strings](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Javascript_Tagalog_-_Strings.svg)](https://dev.to/mmvergara/javascript-tagalog-strings-2ee0)
-[![How to serve *any* website from your own domain (for free!)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_serve__any__website_from_your_own_domain_(for_free!).svg)](https://dev.to/just_moh_it/how-to-serve-any-website-from-your-own-domain-for-free-44l9)
-[![CSS Rainbow Text Animation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CSS_Rainbow_Text_Animation.svg)](https://dev.to/langford_dev/css-rainbow-text-animation-4p5d)
-[![Is CSS an Object-Oriented Programming Language?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Is_CSS_an_Object-Oriented_Programming_Language_.svg)](https://dev.to/alvaromontoro/is-css-an-object-oriented-programming-language-2ja)
-[![Chrome extensions every web developer must have](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Chrome_extensions_every_web_developer_must_have.svg)](https://dev.to/langford_dev/chrome-extensions-every-web-developer-must-have-589p)
+[![Dark and Light Theme Toggler + YT Channel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dark_and_Light_Theme_Toggler_+_YT_Channel.svg)](https://dev.to/arjuncodess/dark-and-light-theme-toggler-yt-channel-4ikh)
+[![Angular: Star rating with no external libraries](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Angular__Star_rating_with_no_external_libraries.svg)](https://dev.to/urstrulyvishwak/star-rating-with-no-external-libraries-in-angular-1lp5)
+[![The Regular Expression (RegEx) Cheat Sheet you always wanted](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Regular_Expression_(RegEx)_Cheat_Sheet_you_always_wanted.svg)](https://dev.to/ruppysuppy/the-regular-expression-regex-cheat-sheet-you-always-wanted-1c8h)
+[![I am no longer use Fedora 36, too restricted to be useful](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_am_no_longer_use_Fedora_36__too_restricted_to_be_useful.svg)](https://dev.to/archerallstars/i-am-no-longer-use-fedora-36-too-restricted-to-be-useful-42nc)
+[![JS MODULE LOADERS; or, a brief journey through hell](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JS_MODULE_LOADERS;_or__a_brief_journey_through_hell.svg)](https://dev.to/tythos/js-module-loaders-or-a-brief-journey-through-hell-2d2n)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, August 13, 2022 at 6:56:58 PM
+> Last updated: Sunday, August 14, 2022 at 12:12:49 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, August 13, 2022 at 6:57:02 PM
+> Last updated: Sunday, August 14, 2022 at 12:13:01 AM
 
 > Showing 5 of 30 posts.
 
