@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, August 14, 2022 at 12:12:46 AM
+> Last updated: Sunday, August 14, 2022 at 6:17:19 AM
 
 > Showing 5 of 12 posts.
 
-[![Dark and Light Theme Toggler + YT Channel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dark_and_Light_Theme_Toggler_+_YT_Channel.svg)](https://dev.to/arjuncodess/dark-and-light-theme-toggler-yt-channel-4ikh)
-[![Angular: Star rating with no external libraries](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Angular__Star_rating_with_no_external_libraries.svg)](https://dev.to/urstrulyvishwak/star-rating-with-no-external-libraries-in-angular-1lp5)
-[![The Regular Expression (RegEx) Cheat Sheet you always wanted](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Regular_Expression_(RegEx)_Cheat_Sheet_you_always_wanted.svg)](https://dev.to/ruppysuppy/the-regular-expression-regex-cheat-sheet-you-always-wanted-1c8h)
-[![I am no longer use Fedora 36, too restricted to be useful](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_am_no_longer_use_Fedora_36__too_restricted_to_be_useful.svg)](https://dev.to/archerallstars/i-am-no-longer-use-fedora-36-too-restricted-to-be-useful-42nc)
-[![JS MODULE LOADERS; or, a brief journey through hell](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JS_MODULE_LOADERS;_or__a_brief_journey_through_hell.svg)](https://dev.to/tythos/js-module-loaders-or-a-brief-journey-through-hell-2d2n)
+[![Resilience4j](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Resilience4j.svg)](https://dev.to/emrebasar/resilience4j-2b9l)
+[![Flutter Tutorial for Beginners | All In One](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Flutter_Tutorial_for_Beginners___All_In_One.svg)](https://dev.to/kcl/flutter-tutorial-for-beginners-all-in-one-3a13)
+[![Build a graph database with Amazon Neptune Part 1 - Create a Neptune DB cluster with AWS CloudFormation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_a_graph_database_with_Amazon_Neptune_Part_1_-_Create_a_Neptune_DB_cluster_with_AWS_CloudFormation.svg)](https://dev.to/aws-builders/build-a-graph-database-with-amazon-neptune-part-1-launch-aws-cloudformation-stack-43k6)
+[![Insights into Forms in Flask](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Insights_into_Forms_in_Flask.svg)](https://dev.to/1995yogeshsharma/insights-into-forms-in-flask-2abl)
+[![What is CI/CD, and why is it important?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_CI_CD__and_why_is_it_important_.svg)](https://dev.to/snehal_02/what-is-cicd-and-why-is-it-important-3dee)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, August 14, 2022 at 12:12:49 AM
+> Last updated: Sunday, August 14, 2022 at 6:17:21 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, August 14, 2022 at 12:13:01 AM
+> Last updated: Sunday, August 14, 2022 at 6:17:23 AM
 
 > Showing 5 of 30 posts.
 
+[![Component-Driven Microservices with NodeJS and Bit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Component-Driven_Microservices_with_NodeJS_and_Bit.svg)](https://bit.dev/)
 [![GitHub - shaongitt/boihut: Boihut - ecommerce store (book-store) made in Django](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_shaongitt_boihut__Boihut_-_ecommerce_store_(book-store)_made_in_Django.svg)](https://github.com/shaongitt/boihut)
 [![GitHub - sakofchit/system.css: A design system for building retro Apple interfaces](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_sakofchit_system.css__A_design_system_for_building_retro_Apple_interfaces.svg)](https://github.com/sakofchit/system.css)
 [![GitHub - Elijah-Bodden/Membrane: A robust, minimal-server-interaction API for peer routing in the browser](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Elijah-Bodden_Membrane__A_robust__minimal-server-interaction_API_for_peer_routing_in_the_browser.svg)](https://github.com/Elijah-Bodden/Membrane)
 [![Why Atomico js webcomponents?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Why_Atomico_js_webcomponents_.svg)](https://dev.to/uppercod/why-atomico-js-webcomponents-2go4)
-[![
-[EchoJS] blog.openreplay.com
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_[EchoJS]_blog.openreplay.com_.svg)](
-http://www.echojs.com/news/40959
-)
 
 
 <!-- post-list:end -->
