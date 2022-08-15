@@ -78,11 +78,11 @@
       <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
         <div class="image" />
 <div class="text">
-          <div class="title">React&#0032;Link&#0032;Social&#0032;Accounts&#0032;to&#0032;the&#0032;same&#0032;user&#0044;&#0032;is&#0032;it&#0032;possible&#0063;</div>
-          <div class="description">Hi&#0044;&#0032;anyone&#0032;knows&#0032;if&#0032;it&#0039;s&#0032;possible&#0032;yo&#0032;connect&#0032;multiple&#0032;social&#0032;accounts&#0032;&#0040;&#0032;YouTube&#0044;twitter&#0044;&#0032;Facebook&#0046;&#0046;&#0046;&#0041;&#0046;&#0046;&#0046;</div>
+          <div class="title">Monitoring&#0032;Windows&#0032;Services&#0032;with&#0032;Grafana&#0044;&#0032;InfluxDB&#0032;and&#0032;Telegraf</div>
+          <div class="description">InfluxData&#0032;sponsored&#0032;this&#0032;post&#0046;&#0032;&#0032;If&#0032;you&#0032;are&#0032;a&#0032;Windows&#0032;Server&#0032;administrator&#0032;or&#0032;a&#0032;power&#0032;user&#0032;on&#0046;&#0046;&#0046;</div>
           <div class="date">8&#0047;15&#0047;22</div>
           <div class="data">
-            <span class="author">Diogo&#0032;Ribeiro</span> <span class="category">react</span> <span class="category">webdev</span> <span class="category">firebase</span> <span class="category">help</span>
+            <span class="author">thirumald</span> <span class="category">grafana</span>
           </div>
         </div>
       </div>

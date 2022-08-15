@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, August 15, 2022 at 6:20:06 AM
+> Last updated: Monday, August 15, 2022 at 12:13:11 PM
 
 > Showing 5 of 12 posts.
 
-[![12 Things EVERY JavaScript Developer Should Know 🕛](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/12_Things_EVERY_JavaScript_Developer_Should_Know_🕛.svg)](https://dev.to/dcodeyt/12-things-every-javascript-developer-should-know-4dk3)
-[![Implement Google OAuth in NestJS using Passport](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Implement_Google_OAuth_in_NestJS_using_Passport.svg)](https://dev.to/chukwutosin_/implement-google-oauth-in-nestjs-using-passport-1j3k)
-[![Lessons Learned In 12 Months Of Blogging](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Lessons_Learned_In_12_Months_Of_Blogging.svg)](https://dev.to/maddy/lessons-learned-in-12-months-of-blogging-3m23)
-[![React Link Social Accounts to the same user, is it possible?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Link_Social_Accounts_to_the_same_user__is_it_possible_.svg)](https://dev.to/diogovski/react-link-social-accounts-to-the-same-user-is-it-possible-28lo)
-[![Can we talk about this feature? Please](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Can_we_talk_about_this_feature__Please.svg)](https://dev.to/joelbonetr/can-we-talk-about-this-feature-please-31b0)
+[![Monitoring Windows Services with Grafana, InfluxDB and Telegraf](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Monitoring_Windows_Services_with_Grafana__InfluxDB_and_Telegraf.svg)](https://dev.to/thirumald/monitoring-windows-services-with-grafana-influxdb-and-telegraf-ba)
+[![Start using Toolbox in Fedora Silverblue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Start_using_Toolbox_in_Fedora_Silverblue.svg)](https://dev.to/qainsights/start-using-toolbox-in-fedora-silverblue-11no)
+[![🚀 Just launched a new scalable cloud graph database! Any feedback/users/testers appreciated!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🚀_Just_launched_a_new_scalable_cloud_graph_database!_Any_feedback_users_testers_appreciated!.svg)](https://dev.to/jaimemh/just-launched-a-new-scalable-cloud-graph-database-any-feedbackuserstesters-appreciated-2ce1)
+[![Coffee chat with Graham Ritchie](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Coffee_chat_with_Graham_Ritchie.svg)](https://dev.to/akshaw/coffee-chat-with-graham-ritchie-23eh)
+[![Open-source for beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Open-source_for_beginners.svg)](https://dev.to/sadeedpv/open-source-for-beginners-2326)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, August 15, 2022 at 6:20:09 AM
+> Last updated: Monday, August 15, 2022 at 12:13:13 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, August 15, 2022 at 6:20:16 AM
+> Last updated: Monday, August 15, 2022 at 12:13:17 PM
 
 > Showing 5 of 30 posts.
 
+[![The encodeURIComponent() Function in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_encodeURIComponent()_Function_in_JavaScript.svg)](
+https://masteringjs.io/tutorials/fundamentals/encodeuricomponent
+)
+[![Version 2.10 release notes | FoalTS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Version_2.10_release_notes___FoalTS.svg)](https://foalts.org/blog/2022/08/11/version-2.10-release-notes)
 [![API with NestJS #70. Defining dynamic modules](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__70._Defining_dynamic_modules.svg)](http://wanago.io/2022/08/15/api-with-nestjs-dynamic-modules/)
 [![The Programming Basics : Variables](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Programming_Basics___Variables.svg)](https://www.youtube.com/watch?v=qXyMuNHMlzc)
 [![Component-Driven Microservices with NodeJS and Bit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Component-Driven_Microservices_with_NodeJS_and_Bit.svg)](https://bit.dev/)
-[![GitHub - shaongitt/boihut: Boihut - ecommerce store (book-store) made in Django](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_shaongitt_boihut__Boihut_-_ecommerce_store_(book-store)_made_in_Django.svg)](https://github.com/shaongitt/boihut)
-[![GitHub - sakofchit/system.css: A design system for building retro Apple interfaces](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_sakofchit_system.css__A_design_system_for_building_retro_Apple_interfaces.svg)](https://github.com/sakofchit/system.css)
 
 
 <!-- post-list:end -->
