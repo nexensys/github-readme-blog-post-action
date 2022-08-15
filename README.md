@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, August 14, 2022 at 12:11:29 PM
+> Last updated: Sunday, August 14, 2022 at 6:58:26 PM
 
 > Showing 5 of 12 posts.
 
-[![Soft UI Dashboard - Open-Source Flask Starter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Soft_UI_Dashboard_-_Open-Source_Flask_Starter.svg)](https://dev.to/sm0ke/soft-ui-dashboard-open-source-flask-starter-jmd)
-[![Learn Python: Python Variables](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Learn_Python__Python_Variables.svg)](https://dev.to/smpnjn/python-variables-32ao)
-[![3 Short August Frontend tips](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/3_Short_August_Frontend_tips.svg)](https://dev.to/melnik909/3-short-august-frontend-tips-2666)
-[![React - Closure that dependency!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_-_Closure_that_dependency!.svg)](https://dev.to/noriller/react-closure-that-dependency-a50)
-[![What is "Pythonic" coding?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is__Pythonic__coding_.svg)](https://dev.to/sid_am_ahd935/what-is-pythonic-coding-27cm)
+[![JavaScript - How to create beautiful fireworks effects with tsParticles](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_-_How_to_create_beautiful_fireworks_effects_with_tsParticles.svg)](https://dev.to/tsparticles/javascript-create-beautiful-fireworks-effects-with-tsparticles-1ali)
+[![Automated Backups with cron and RClone](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Automated_Backups_with_cron_and_RClone.svg)](https://dev.to/itsbetma/automated-backups-with-cron-and-rclone-3do4)
+[![How to Self Host your own Website Analytics With Umami](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Self_Host_your_own_Website_Analytics_With_Umami.svg)](https://dev.to/sachinchaurasiya/how-to-self-host-your-own-website-analytics-with-umami-co9)
+[![I tested every link preview meta tag on every social media and messaging app — so you don't have to! It was super boring!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_tested_every_link_preview_meta_tag_on_every_social_media_and_messaging_app_—_so_you_don't_have_to!_It_was_super_boring!.svg)](https://dev.to/shadowfaxrodeo/i-tested-every-link-preview-meta-tag-on-every-social-media-and-messaging-app-so-you-dont-have-to-it-was-super-boring-39c0)
+[![How To Create A React Component Library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Create_A_React_Component_Library.svg)](https://dev.to/langford_dev/how-to-create-a-react-component-library-4ei7)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, August 14, 2022 at 12:11:32 PM
+> Last updated: Sunday, August 14, 2022 at 6:58:30 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, August 14, 2022 at 12:11:36 PM
+> Last updated: Sunday, August 14, 2022 at 6:58:33 PM
 
 > Showing 5 of 30 posts.
 
