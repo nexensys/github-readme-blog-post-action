@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, August 15, 2022 at 12:13:28 AM
+> Last updated: Monday, August 15, 2022 at 6:20:06 AM
 
 > Showing 5 of 12 posts.
 
-[![Better Golang Error Handling](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Better_Golang_Error_Handling.svg)](https://dev.to/wspowell/better-golang-error-handling-182m)
-[![Image optimization for web](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Image_optimization_for_web.svg)](https://dev.to/manishgs/image-optimization-for-web-1106)
-[![On the Virtues of RegExp in JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/On_the_Virtues_of_RegExp_in_JS.svg)](https://dev.to/sberdup/on-the-virtues-of-regexp-in-js-31gg)
-[![Lightweight database for Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Lightweight_database_for_Python.svg)](https://dev.to/riyuzen/lightweight-database-for-python-1m5a)
-[![I Created A Simple Tinder Like Clone](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_Created_A_Simple_Tinder_Like_Clone.svg)](https://dev.to/ethand91/i-created-a-simple-tinder-like-clone-47l2)
+[![12 Things EVERY JavaScript Developer Should Know 🕛](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/12_Things_EVERY_JavaScript_Developer_Should_Know_🕛.svg)](https://dev.to/dcodeyt/12-things-every-javascript-developer-should-know-4dk3)
+[![Implement Google OAuth in NestJS using Passport](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Implement_Google_OAuth_in_NestJS_using_Passport.svg)](https://dev.to/chukwutosin_/implement-google-oauth-in-nestjs-using-passport-1j3k)
+[![Lessons Learned In 12 Months Of Blogging](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Lessons_Learned_In_12_Months_Of_Blogging.svg)](https://dev.to/maddy/lessons-learned-in-12-months-of-blogging-3m23)
+[![React Link Social Accounts to the same user, is it possible?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Link_Social_Accounts_to_the_same_user__is_it_possible_.svg)](https://dev.to/diogovski/react-link-social-accounts-to-the-same-user-is-it-possible-28lo)
+[![Can we talk about this feature? Please](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Can_we_talk_about_this_feature__Please.svg)](https://dev.to/joelbonetr/can-we-talk-about-this-feature-please-31b0)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, August 15, 2022 at 12:13:31 AM
+> Last updated: Monday, August 15, 2022 at 6:20:09 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, August 15, 2022 at 12:13:38 AM
+> Last updated: Monday, August 15, 2022 at 6:20:16 AM
 
 > Showing 5 of 30 posts.
 
+[![API with NestJS #70. Defining dynamic modules](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__70._Defining_dynamic_modules.svg)](http://wanago.io/2022/08/15/api-with-nestjs-dynamic-modules/)
 [![The Programming Basics : Variables](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Programming_Basics___Variables.svg)](https://www.youtube.com/watch?v=qXyMuNHMlzc)
 [![Component-Driven Microservices with NodeJS and Bit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Component-Driven_Microservices_with_NodeJS_and_Bit.svg)](https://bit.dev/)
 [![GitHub - shaongitt/boihut: Boihut - ecommerce store (book-store) made in Django](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_shaongitt_boihut__Boihut_-_ecommerce_store_(book-store)_made_in_Django.svg)](https://github.com/shaongitt/boihut)
 [![GitHub - sakofchit/system.css: A design system for building retro Apple interfaces](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_sakofchit_system.css__A_design_system_for_building_retro_Apple_interfaces.svg)](https://github.com/sakofchit/system.css)
-[![GitHub - Elijah-Bodden/Membrane: A robust, minimal-server-interaction API for peer routing in the browser](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Elijah-Bodden_Membrane__A_robust__minimal-server-interaction_API_for_peer_routing_in_the_browser.svg)](https://github.com/Elijah-Bodden/Membrane)
 
 
 <!-- post-list:end -->
