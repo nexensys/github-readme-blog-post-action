@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, August 14, 2022 at 6:58:26 PM
+> Last updated: Monday, August 15, 2022 at 12:13:28 AM
 
 > Showing 5 of 12 posts.
 
-[![JavaScript - How to create beautiful fireworks effects with tsParticles](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_-_How_to_create_beautiful_fireworks_effects_with_tsParticles.svg)](https://dev.to/tsparticles/javascript-create-beautiful-fireworks-effects-with-tsparticles-1ali)
-[![Automated Backups with cron and RClone](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Automated_Backups_with_cron_and_RClone.svg)](https://dev.to/itsbetma/automated-backups-with-cron-and-rclone-3do4)
-[![How to Self Host your own Website Analytics With Umami](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Self_Host_your_own_Website_Analytics_With_Umami.svg)](https://dev.to/sachinchaurasiya/how-to-self-host-your-own-website-analytics-with-umami-co9)
-[![I tested every link preview meta tag on every social media and messaging app — so you don't have to! It was super boring!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_tested_every_link_preview_meta_tag_on_every_social_media_and_messaging_app_—_so_you_don't_have_to!_It_was_super_boring!.svg)](https://dev.to/shadowfaxrodeo/i-tested-every-link-preview-meta-tag-on-every-social-media-and-messaging-app-so-you-dont-have-to-it-was-super-boring-39c0)
-[![How To Create A React Component Library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Create_A_React_Component_Library.svg)](https://dev.to/langford_dev/how-to-create-a-react-component-library-4ei7)
+[![Better Golang Error Handling](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Better_Golang_Error_Handling.svg)](https://dev.to/wspowell/better-golang-error-handling-182m)
+[![Image optimization for web](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Image_optimization_for_web.svg)](https://dev.to/manishgs/image-optimization-for-web-1106)
+[![On the Virtues of RegExp in JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/On_the_Virtues_of_RegExp_in_JS.svg)](https://dev.to/sberdup/on-the-virtues-of-regexp-in-js-31gg)
+[![Lightweight database for Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Lightweight_database_for_Python.svg)](https://dev.to/riyuzen/lightweight-database-for-python-1m5a)
+[![I Created A Simple Tinder Like Clone](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_Created_A_Simple_Tinder_Like_Clone.svg)](https://dev.to/ethand91/i-created-a-simple-tinder-like-clone-47l2)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, August 14, 2022 at 6:58:30 PM
+> Last updated: Monday, August 15, 2022 at 12:13:31 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, August 14, 2022 at 6:58:33 PM
+> Last updated: Monday, August 15, 2022 at 12:13:38 AM
 
 > Showing 5 of 30 posts.
 
