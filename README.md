@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, August 16, 2022 at 12:12:45 AM
+> Last updated: Tuesday, August 16, 2022 at 6:17:49 AM
 
 > Showing 5 of 12 posts.
 
-[![Create a New GitHub Repo in 1 click - VSCode](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_a_New_GitHub_Repo_in_1_click_-_VSCode.svg)](https://dev.to/n3wt0n/create-a-new-github-repo-in-1-click-vscode-29ae)
-[![.NET Framework vs .NET Core: A Complete Quick Comparison](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/.NET_Framework_vs_.NET_Core__A_Complete_Quick_Comparison.svg)](https://dev.to/ijackseifert/net-framework-vs-net-core-a-complete-quick-comparison-8g1)
-[![Python NoteTaker](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Python_NoteTaker.svg)](https://dev.to/matthewtamyt/python-notetaker-5b3l)
-[![Securely connect to your Azure Linux Virtual Machine with Tailscale SSH](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Securely_connect_to_your_Azure_Linux_Virtual_Machine_with_Tailscale_SSH.svg)](https://dev.to/azure/securely-connect-to-your-azure-linux-virtual-machine-with-tailscale-ssh-dkf)
-[![Print number using for loop in C/C++](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Print_number_using_for_loop_in_C_C++.svg)](https://dev.to/fullstackhacker/print-number-using-for-loop-in-cc-3oll)
+[![How To Create a Full Stack app with SolidJS, Supabase, and TailwindCSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Create_a_Full_Stack_app_with_SolidJS__Supabase__and_TailwindCSS.svg)](https://dev.to/chetanvermaa/how-to-create-a-full-stack-app-with-solidjs-supabase-and-tailwindcss-2l01)
+[![How to Create Simple Animations using HTML & CSS...(Text Slide and Fade)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Create_Simple_Animations_using_HTML___CSS...(Text_Slide_and_Fade).svg)](https://dev.to/shameerchagani/how-to-create-simple-animations-using-html-csstext-slide-and-fade-1n1i)
+[![System Design: The complete course](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/System_Design__The_complete_course.svg)](https://dev.to/karanpratapsingh/system-design-the-complete-course-10fo)
+[![Javascript reverse() method](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Javascript_reverse()_method.svg)](https://dev.to/shubhamtiwari909/javascript-reverse-method-4aa7)
+[![Leveling engineers with Wiel Coerver's football ideas](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Leveling_engineers_with_Wiel_Coerver's_football_ideas.svg)](https://dev.to/smeetsmeister/leveling-engineers-with-wiel-coervers-football-ideas-1nde)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, August 16, 2022 at 12:12:48 AM
+> Last updated: Tuesday, August 16, 2022 at 6:17:52 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, August 16, 2022 at 12:12:51 AM
+> Last updated: Tuesday, August 16, 2022 at 6:17:58 AM
 
 > Showing 5 of 30 posts.
 
+[![Composable theming with React and design tokens: Consistency and control across apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Composable_theming_with_React_and_design_tokens__Consistency_and_control_across_apps.svg)](https://www.youtube.com/watch?v=aGJU8aE71u4)
 [![Using a mock server with Cypress](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_a_mock_server_with_Cypress.svg)](https://dev.to/javierbrea/using-a-mock-server-with-cypress-4dch)
 [![Supabase CLI v1 and Admin API Beta](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Supabase_CLI_v1_and_Admin_API_Beta.svg)](https://supabase.com/blog/supabase-cli-v1-and-admin-api-beta)
 [![The encodeURIComponent() Function in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_encodeURIComponent()_Function_in_JavaScript.svg)](
 https://masteringjs.io/tutorials/fundamentals/encodeuricomponent
 )
 [![Version 2.10 release notes | FoalTS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Version_2.10_release_notes___FoalTS.svg)](https://foalts.org/blog/2022/08/11/version-2.10-release-notes)
-[![API with NestJS #70. Defining dynamic modules](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__70._Defining_dynamic_modules.svg)](http://wanago.io/2022/08/15/api-with-nestjs-dynamic-modules/)
 
 
 <!-- post-list:end -->
