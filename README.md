@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, August 16, 2022 at 6:17:49 AM
+> Last updated: Tuesday, August 16, 2022 at 12:16:10 PM
 
 > Showing 5 of 12 posts.
 
-[![How To Create a Full Stack app with SolidJS, Supabase, and TailwindCSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Create_a_Full_Stack_app_with_SolidJS__Supabase__and_TailwindCSS.svg)](https://dev.to/chetanvermaa/how-to-create-a-full-stack-app-with-solidjs-supabase-and-tailwindcss-2l01)
-[![How to Create Simple Animations using HTML & CSS...(Text Slide and Fade)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Create_Simple_Animations_using_HTML___CSS...(Text_Slide_and_Fade).svg)](https://dev.to/shameerchagani/how-to-create-simple-animations-using-html-csstext-slide-and-fade-1n1i)
-[![System Design: The complete course](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/System_Design__The_complete_course.svg)](https://dev.to/karanpratapsingh/system-design-the-complete-course-10fo)
-[![Javascript reverse() method](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Javascript_reverse()_method.svg)](https://dev.to/shubhamtiwari909/javascript-reverse-method-4aa7)
-[![Leveling engineers with Wiel Coerver's football ideas](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Leveling_engineers_with_Wiel_Coerver's_football_ideas.svg)](https://dev.to/smeetsmeister/leveling-engineers-with-wiel-coervers-football-ideas-1nde)
+[![What is the software development life cycle?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_the_software_development_life_cycle_.svg)](https://dev.to/makendrang/what-is-the-software-development-life-cycle-4op2)
+[![Latest products and features at DigitalOcean: July 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Latest_products_and_features_at_DigitalOcean__July_2022.svg)](https://dev.to/kukicado/latest-products-and-features-at-digitalocean-july-2022-8f9)
+[![DigitalOcean Kubernetes Control Plane General Availability (GA), now with a 99.95% SLA](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/DigitalOcean_Kubernetes_Control_Plane_General_Availability_(GA)__now_with_a_99.95__SLA.svg)](https://dev.to/kukicado/digitalocean-kubernetes-control-plane-general-availability-ga-now-with-a-9995-sla-576e)
+[![I wrote a state management npm - Any State](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_wrote_a_state_management_npm_-_Any_State.svg)](https://dev.to/vyquocvu/i-wrote-a-state-management-npm-any-state-291n)
+[![Complete guide in implementation of stack in Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Complete_guide_in_implementation_of_stack_in_Javascript.svg)](https://dev.to/brunoblaise/complete-guide-in-implementation-of-stack-in-javascript-2m4)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, August 16, 2022 at 6:17:52 AM
+> Last updated: Tuesday, August 16, 2022 at 12:16:14 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, August 16, 2022 at 6:17:58 AM
+> Last updated: Tuesday, August 16, 2022 at 12:16:16 PM
 
 > Showing 5 of 30 posts.
 
