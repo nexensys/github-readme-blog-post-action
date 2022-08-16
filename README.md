@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, August 15, 2022 at 12:13:11 PM
+> Last updated: Monday, August 15, 2022 at 7:04:31 PM
 
 > Showing 5 of 12 posts.
 
-[![Monitoring Windows Services with Grafana, InfluxDB and Telegraf](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Monitoring_Windows_Services_with_Grafana__InfluxDB_and_Telegraf.svg)](https://dev.to/thirumald/monitoring-windows-services-with-grafana-influxdb-and-telegraf-ba)
-[![Start using Toolbox in Fedora Silverblue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Start_using_Toolbox_in_Fedora_Silverblue.svg)](https://dev.to/qainsights/start-using-toolbox-in-fedora-silverblue-11no)
-[![🚀 Just launched a new scalable cloud graph database! Any feedback/users/testers appreciated!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🚀_Just_launched_a_new_scalable_cloud_graph_database!_Any_feedback_users_testers_appreciated!.svg)](https://dev.to/jaimemh/just-launched-a-new-scalable-cloud-graph-database-any-feedbackuserstesters-appreciated-2ce1)
-[![Coffee chat with Graham Ritchie](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Coffee_chat_with_Graham_Ritchie.svg)](https://dev.to/akshaw/coffee-chat-with-graham-ritchie-23eh)
-[![Open-source for beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Open-source_for_beginners.svg)](https://dev.to/sadeedpv/open-source-for-beginners-2326)
+[![Java Efetivo - Equals](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Java_Efetivo_-_Equals.svg)](https://dev.to/psanrosa13/java-efetivo-equals-2jh9)
+[![4 Self-learning steps to get started in Data Analytics](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/4_Self-learning_steps_to_get_started_in_Data_Analytics.svg)](https://dev.to/bttminhphuc/4-self-learning-steps-to-get-started-in-data-analytics-45ne)
+[![Palindrome Checker FCC Solution](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Palindrome_Checker_FCC_Solution.svg)](https://dev.to/michaelx/palindrome-checker-fcc-solution-4j2)
+[![How to Build Great Open-Source DevTools: With Max Howell (Creator of Homebrew)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Build_Great_Open-Source_DevTools__With_Max_Howell_(Creator_of_Homebrew).svg)](https://dev.to/maximwheatley/how-to-build-great-open-source-devtools-with-max-howell-creator-of-homebrew-5eoc)
+[![OpenApi - Java Annotation for Better Api Documentation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/OpenApi_-_Java_Annotation_for_Better_Api_Documentation.svg)](https://dev.to/optnc/openapi-java-annotation-for-better-api-documentation-43oe)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, August 15, 2022 at 12:13:13 PM
+> Last updated: Monday, August 15, 2022 at 7:04:34 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, August 15, 2022 at 12:13:17 PM
+> Last updated: Monday, August 15, 2022 at 7:04:40 PM
 
 > Showing 5 of 30 posts.
 
+[![Supabase CLI v1 and Admin API Beta](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Supabase_CLI_v1_and_Admin_API_Beta.svg)](https://supabase.com/blog/supabase-cli-v1-and-admin-api-beta)
 [![The encodeURIComponent() Function in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_encodeURIComponent()_Function_in_JavaScript.svg)](
 https://masteringjs.io/tutorials/fundamentals/encodeuricomponent
 )
 [![Version 2.10 release notes | FoalTS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Version_2.10_release_notes___FoalTS.svg)](https://foalts.org/blog/2022/08/11/version-2.10-release-notes)
 [![API with NestJS #70. Defining dynamic modules](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__70._Defining_dynamic_modules.svg)](http://wanago.io/2022/08/15/api-with-nestjs-dynamic-modules/)
 [![The Programming Basics : Variables](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Programming_Basics___Variables.svg)](https://www.youtube.com/watch?v=qXyMuNHMlzc)
-[![Component-Driven Microservices with NodeJS and Bit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Component-Driven_Microservices_with_NodeJS_and_Bit.svg)](https://bit.dev/)
 
 
 <!-- post-list:end -->
