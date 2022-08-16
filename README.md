@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, August 15, 2022 at 7:04:31 PM
+> Last updated: Tuesday, August 16, 2022 at 12:12:45 AM
 
 > Showing 5 of 12 posts.
 
-[![Java Efetivo - Equals](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Java_Efetivo_-_Equals.svg)](https://dev.to/psanrosa13/java-efetivo-equals-2jh9)
-[![4 Self-learning steps to get started in Data Analytics](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/4_Self-learning_steps_to_get_started_in_Data_Analytics.svg)](https://dev.to/bttminhphuc/4-self-learning-steps-to-get-started-in-data-analytics-45ne)
-[![Palindrome Checker FCC Solution](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Palindrome_Checker_FCC_Solution.svg)](https://dev.to/michaelx/palindrome-checker-fcc-solution-4j2)
-[![How to Build Great Open-Source DevTools: With Max Howell (Creator of Homebrew)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Build_Great_Open-Source_DevTools__With_Max_Howell_(Creator_of_Homebrew).svg)](https://dev.to/maximwheatley/how-to-build-great-open-source-devtools-with-max-howell-creator-of-homebrew-5eoc)
-[![OpenApi - Java Annotation for Better Api Documentation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/OpenApi_-_Java_Annotation_for_Better_Api_Documentation.svg)](https://dev.to/optnc/openapi-java-annotation-for-better-api-documentation-43oe)
+[![Create a New GitHub Repo in 1 click - VSCode](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_a_New_GitHub_Repo_in_1_click_-_VSCode.svg)](https://dev.to/n3wt0n/create-a-new-github-repo-in-1-click-vscode-29ae)
+[![.NET Framework vs .NET Core: A Complete Quick Comparison](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/.NET_Framework_vs_.NET_Core__A_Complete_Quick_Comparison.svg)](https://dev.to/ijackseifert/net-framework-vs-net-core-a-complete-quick-comparison-8g1)
+[![Python NoteTaker](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Python_NoteTaker.svg)](https://dev.to/matthewtamyt/python-notetaker-5b3l)
+[![Securely connect to your Azure Linux Virtual Machine with Tailscale SSH](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Securely_connect_to_your_Azure_Linux_Virtual_Machine_with_Tailscale_SSH.svg)](https://dev.to/azure/securely-connect-to-your-azure-linux-virtual-machine-with-tailscale-ssh-dkf)
+[![Print number using for loop in C/C++](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Print_number_using_for_loop_in_C_C++.svg)](https://dev.to/fullstackhacker/print-number-using-for-loop-in-cc-3oll)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, August 15, 2022 at 7:04:34 PM
+> Last updated: Tuesday, August 16, 2022 at 12:12:48 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, August 15, 2022 at 7:04:40 PM
+> Last updated: Tuesday, August 16, 2022 at 12:12:51 AM
 
 > Showing 5 of 30 posts.
 
+[![Using a mock server with Cypress](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_a_mock_server_with_Cypress.svg)](https://dev.to/javierbrea/using-a-mock-server-with-cypress-4dch)
 [![Supabase CLI v1 and Admin API Beta](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Supabase_CLI_v1_and_Admin_API_Beta.svg)](https://supabase.com/blog/supabase-cli-v1-and-admin-api-beta)
 [![The encodeURIComponent() Function in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_encodeURIComponent()_Function_in_JavaScript.svg)](
 https://masteringjs.io/tutorials/fundamentals/encodeuricomponent
 )
 [![Version 2.10 release notes | FoalTS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Version_2.10_release_notes___FoalTS.svg)](https://foalts.org/blog/2022/08/11/version-2.10-release-notes)
 [![API with NestJS #70. Defining dynamic modules](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__70._Defining_dynamic_modules.svg)](http://wanago.io/2022/08/15/api-with-nestjs-dynamic-modules/)
-[![The Programming Basics : Variables](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Programming_Basics___Variables.svg)](https://www.youtube.com/watch?v=qXyMuNHMlzc)
 
 
 <!-- post-list:end -->
