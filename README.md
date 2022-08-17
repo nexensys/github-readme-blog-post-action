@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, August 16, 2022 at 7:01:21 PM
+> Last updated: Wednesday, August 17, 2022 at 12:14:00 AM
 
 > Showing 5 of 12 posts.
 
+[![Advice Generator App using Tailwind CSS and JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Advice_Generator_App_using_Tailwind_CSS_and_JS.svg)](https://dev.to/devrohit0/advice-generator-app-using-tailwind-css-and-js-2730)
+[![Use AWS App Runner, DynamoDB and CDK to deploy and run a Cloud native Go app](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Use_AWS_App_Runner__DynamoDB_and_CDK_to_deploy_and_run_a_Cloud_native_Go_app.svg)](https://dev.to/abhirockzz/use-aws-app-runner-dynamodb-and-cdk-to-deploy-and-run-a-cloud-native-go-app-3705)
+[![Practical Guide to using Git for Beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Practical_Guide_to_using_Git_for_Beginners.svg)](https://dev.to/vishwastyagi/practical-guide-to-use-git-for-beginners-4ln4)
 [![Roman Numeral Converter FCC Solution](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Roman_Numeral_Converter_FCC_Solution.svg)](https://dev.to/michaelx/roman-numeral-converter-fcc-solution-1ag4)
 [![Importing and Exporting Modules in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Importing_and_Exporting_Modules_in_JavaScript.svg)](https://dev.to/anasnmu/importing-and-exporting-modules-in-javascript-17d0)
-[![Javascript Tagalog - Function Expression](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Javascript_Tagalog_-_Function_Expression.svg)](https://dev.to/mmvergara/javascript-tagalog-function-expression-4969)
-[![Javascript Tagalog - Function Declaration](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Javascript_Tagalog_-_Function_Declaration.svg)](https://dev.to/mmvergara/javascript-tagalog-function-declaration-43ng)
-[![Svelte (Superstar ⭐️) - Day 1/100 of Coding](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Svelte_(Superstar_⭐️)_-_Day_1_100_of_Coding.svg)](https://dev.to/booleanings/svelte-superstar-day-1100-of-coding-526c)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, August 16, 2022 at 7:01:23 PM
+> Last updated: Wednesday, August 17, 2022 at 12:14:03 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, August 16, 2022 at 7:01:25 PM
+> Last updated: Wednesday, August 17, 2022 at 12:14:06 AM
 
 > Showing 5 of 30 posts.
 
