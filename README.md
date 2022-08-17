@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, August 16, 2022 at 12:16:10 PM
+> Last updated: Tuesday, August 16, 2022 at 7:01:21 PM
 
 > Showing 5 of 12 posts.
 
-[![What is the software development life cycle?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_the_software_development_life_cycle_.svg)](https://dev.to/makendrang/what-is-the-software-development-life-cycle-4op2)
-[![Latest products and features at DigitalOcean: July 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Latest_products_and_features_at_DigitalOcean__July_2022.svg)](https://dev.to/kukicado/latest-products-and-features-at-digitalocean-july-2022-8f9)
-[![DigitalOcean Kubernetes Control Plane General Availability (GA), now with a 99.95% SLA](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/DigitalOcean_Kubernetes_Control_Plane_General_Availability_(GA)__now_with_a_99.95__SLA.svg)](https://dev.to/kukicado/digitalocean-kubernetes-control-plane-general-availability-ga-now-with-a-9995-sla-576e)
-[![I wrote a state management npm - Any State](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_wrote_a_state_management_npm_-_Any_State.svg)](https://dev.to/vyquocvu/i-wrote-a-state-management-npm-any-state-291n)
-[![Complete guide in implementation of stack in Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Complete_guide_in_implementation_of_stack_in_Javascript.svg)](https://dev.to/brunoblaise/complete-guide-in-implementation-of-stack-in-javascript-2m4)
+[![Roman Numeral Converter FCC Solution](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Roman_Numeral_Converter_FCC_Solution.svg)](https://dev.to/michaelx/roman-numeral-converter-fcc-solution-1ag4)
+[![Importing and Exporting Modules in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Importing_and_Exporting_Modules_in_JavaScript.svg)](https://dev.to/anasnmu/importing-and-exporting-modules-in-javascript-17d0)
+[![Javascript Tagalog - Function Expression](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Javascript_Tagalog_-_Function_Expression.svg)](https://dev.to/mmvergara/javascript-tagalog-function-expression-4969)
+[![Javascript Tagalog - Function Declaration](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Javascript_Tagalog_-_Function_Declaration.svg)](https://dev.to/mmvergara/javascript-tagalog-function-declaration-43ng)
+[![Svelte (Superstar ⭐️) - Day 1/100 of Coding](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Svelte_(Superstar_⭐️)_-_Day_1_100_of_Coding.svg)](https://dev.to/booleanings/svelte-superstar-day-1100-of-coding-526c)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, August 16, 2022 at 12:16:14 PM
+> Last updated: Tuesday, August 16, 2022 at 7:01:23 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, August 16, 2022 at 12:16:16 PM
+> Last updated: Tuesday, August 16, 2022 at 7:01:25 PM
 
 > Showing 5 of 30 posts.
 
+[![supabase-js v2 Release Candidate](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/supabase-js_v2_Release_Candidate.svg)](https://supabase.com/blog/supabase-js-v2)
+[![GitHub - Elijah-Bodden/kNow: Plug-and-play, faster-than-native promise/callback event emitter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Elijah-Bodden_kNow__Plug-and-play__faster-than-native_promise_callback_event_emitter.svg)](https://github.com/Elijah-Bodden/kNow)
 [![Composable theming with React and design tokens: Consistency and control across apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Composable_theming_with_React_and_design_tokens__Consistency_and_control_across_apps.svg)](https://www.youtube.com/watch?v=aGJU8aE71u4)
 [![Using a mock server with Cypress](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_a_mock_server_with_Cypress.svg)](https://dev.to/javierbrea/using-a-mock-server-with-cypress-4dch)
 [![Supabase CLI v1 and Admin API Beta](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Supabase_CLI_v1_and_Admin_API_Beta.svg)](https://supabase.com/blog/supabase-cli-v1-and-admin-api-beta)
-[![The encodeURIComponent() Function in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_encodeURIComponent()_Function_in_JavaScript.svg)](
-https://masteringjs.io/tutorials/fundamentals/encodeuricomponent
-)
-[![Version 2.10 release notes | FoalTS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Version_2.10_release_notes___FoalTS.svg)](https://foalts.org/blog/2022/08/11/version-2.10-release-notes)
 
 
 <!-- post-list:end -->
