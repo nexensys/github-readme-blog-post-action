@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, August 17, 2022 at 6:22:28 AM
+> Last updated: Wednesday, August 17, 2022 at 12:12:31 PM
 
 > Showing 5 of 12 posts.
 
-[![How we use AWS Config and Security Hub for Cloud Governance](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_we_use_AWS_Config_and_Security_Hub_for_Cloud_Governance.svg)](https://dev.to/aws-builders/how-we-use-aws-config-and-security-hub-for-cloud-governance-2ke6)
-[![How do you establish an accessibility-focused developer culture at your company?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_do_you_establish_an_accessibility-focused_developer_culture_at_your_company_.svg)](https://dev.to/finnauto/how-do-you-establish-an-accessibility-focused-developer-culture-at-your-company-d2m)
-[![React page / router transitions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_page___router_transitions.svg)](https://dev.to/greggcbs/react-page-router-transitions-5fcb)
-[![The Future of Education and Art](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Future_of_Education_and_Art.svg)](https://dev.to/tiangolo/the-future-of-education-and-art-4h0e)
-[![How to implement Lazy Loading in REACT | code splitting](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_implement_Lazy_Loading_in_REACT___code_splitting.svg)](https://dev.to/nyanyiwast/how-to-implement-lazy-loading-in-react-code-splitting-1je6)
+[![UK Global Talent Visa Requirements](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/UK_Global_Talent_Visa_Requirements.svg)](https://dev.to/beetlehope/uk-global-talent-visa-requirements-321h)
+[![Backend-for-Frontend: the demo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Backend-for-Frontend__the_demo.svg)](https://dev.to/nfrankel/backend-for-frontend-the-demo-2240)
+[![How to Safely Deserialize Data in Ruby on Rails](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Safely_Deserialize_Data_in_Ruby_on_Rails.svg)](https://dev.to/appland/how-to-safely-deserialize-data-in-ruby-on-rails-4mbl)
+[![The Definitive Guide to HTML Block Level and Inline Level Elements](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Definitive_Guide_to_HTML_Block_Level_and_Inline_Level_Elements.svg)](https://dev.to/setorkwame/the-definitive-guide-to-html-block-level-and-inline-level-elements-2bnb)
+[![🤔 ”I can't complete the get started tutorial because some dependencies are not installed”](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🤔_”I_can't_complete_the_get_started_tutorial_because_some_dependencies_are_not_installed”.svg)](https://dev.to/luos/i-cant-complete-the-get-started-tutorial-because-some-dependencies-are-not-installed-49d5)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, August 17, 2022 at 6:22:30 AM
+> Last updated: Wednesday, August 17, 2022 at 12:12:33 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, August 17, 2022 at 6:22:34 AM
+> Last updated: Wednesday, August 17, 2022 at 12:12:35 PM
 
 > Showing 5 of 30 posts.
 
