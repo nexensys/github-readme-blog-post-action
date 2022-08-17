@@ -78,11 +78,11 @@
       <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
         <div class="image" />
 <div class="text">
-          <div class="title">Advice&#0032;Generator&#0032;App&#0032;using&#0032;Tailwind&#0032;CSS&#0032;and&#0032;JS</div>
-          <div class="description">This&#0032;is&#0032;a&#0032;Frontend&#0032;Mentor&#0032;Challenge&#0032;&#0032;Live&#0032;&#0032;Code&#0043;Resources&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;In&#0032;this&#0032;video&#0032;we&#0032;have&#0032;created&#0032;a&#0032;advice&#0046;&#0046;&#0046;</div>
+          <div class="title">React&#0032;page&#0032;&#0047;&#0032;router&#0032;transitions</div>
+          <div class="description">There&#0032;are&#0032;many&#0032;articles&#0032;online&#0032;on&#0032;how&#0032;to&#0032;do&#0032;this&#0044;&#0032;i&#0032;found&#0032;this&#0032;one&#0032;is&#0032;the&#0046;&#0046;&#0046;</div>
           <div class="date">8&#0047;17&#0047;22</div>
           <div class="data">
-            <span class="author">Rohit&#0032;Sharma</span> <span class="category">beginners</span> <span class="category">webdev</span> <span class="category">javascript</span> <span class="category">tailwindcss</span>
+            <span class="author">GreggHume</span> <span class="category">router</span> <span class="category">react</span> <span class="category">transition</span> <span class="category">animation</span>
           </div>
         </div>
       </div>

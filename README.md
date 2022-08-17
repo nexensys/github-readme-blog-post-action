@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, August 17, 2022 at 12:14:00 AM
+> Last updated: Wednesday, August 17, 2022 at 6:22:28 AM
 
 > Showing 5 of 12 posts.
 
-[![Advice Generator App using Tailwind CSS and JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Advice_Generator_App_using_Tailwind_CSS_and_JS.svg)](https://dev.to/devrohit0/advice-generator-app-using-tailwind-css-and-js-2730)
-[![Use AWS App Runner, DynamoDB and CDK to deploy and run a Cloud native Go app](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Use_AWS_App_Runner__DynamoDB_and_CDK_to_deploy_and_run_a_Cloud_native_Go_app.svg)](https://dev.to/abhirockzz/use-aws-app-runner-dynamodb-and-cdk-to-deploy-and-run-a-cloud-native-go-app-3705)
-[![Practical Guide to using Git for Beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Practical_Guide_to_using_Git_for_Beginners.svg)](https://dev.to/vishwastyagi/practical-guide-to-use-git-for-beginners-4ln4)
-[![Roman Numeral Converter FCC Solution](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Roman_Numeral_Converter_FCC_Solution.svg)](https://dev.to/michaelx/roman-numeral-converter-fcc-solution-1ag4)
-[![Importing and Exporting Modules in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Importing_and_Exporting_Modules_in_JavaScript.svg)](https://dev.to/anasnmu/importing-and-exporting-modules-in-javascript-17d0)
+[![How we use AWS Config and Security Hub for Cloud Governance](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_we_use_AWS_Config_and_Security_Hub_for_Cloud_Governance.svg)](https://dev.to/aws-builders/how-we-use-aws-config-and-security-hub-for-cloud-governance-2ke6)
+[![How do you establish an accessibility-focused developer culture at your company?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_do_you_establish_an_accessibility-focused_developer_culture_at_your_company_.svg)](https://dev.to/finnauto/how-do-you-establish-an-accessibility-focused-developer-culture-at-your-company-d2m)
+[![React page / router transitions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_page___router_transitions.svg)](https://dev.to/greggcbs/react-page-router-transitions-5fcb)
+[![The Future of Education and Art](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Future_of_Education_and_Art.svg)](https://dev.to/tiangolo/the-future-of-education-and-art-4h0e)
+[![How to implement Lazy Loading in REACT | code splitting](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_implement_Lazy_Loading_in_REACT___code_splitting.svg)](https://dev.to/nyanyiwast/how-to-implement-lazy-loading-in-react-code-splitting-1je6)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, August 17, 2022 at 12:14:03 AM
+> Last updated: Wednesday, August 17, 2022 at 6:22:30 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, August 17, 2022 at 12:14:06 AM
+> Last updated: Wednesday, August 17, 2022 at 6:22:34 AM
 
 > Showing 5 of 30 posts.
 
+[![Build a Blog with Remix and Webiny Headless CMS | Webiny](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_a_Blog_with_Remix_and_Webiny_Headless_CMS___Webiny.svg)](
+https://www.webiny.com/blog/build-blog-remix-webiny-headless-cms
+)
+[![GitHub - pyronaur/zxb: A tool for managing scripts better](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_pyronaur_zxb__A_tool_for_managing_scripts_better.svg)](https://github.com/pyronaur/zxb)
 [![supabase-js v2 Release Candidate](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/supabase-js_v2_Release_Candidate.svg)](https://supabase.com/blog/supabase-js-v2)
 [![GitHub - Elijah-Bodden/kNow: Plug-and-play, faster-than-native promise/callback event emitter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Elijah-Bodden_kNow__Plug-and-play__faster-than-native_promise_callback_event_emitter.svg)](https://github.com/Elijah-Bodden/kNow)
 [![Composable theming with React and design tokens: Consistency and control across apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Composable_theming_with_React_and_design_tokens__Consistency_and_control_across_apps.svg)](https://www.youtube.com/watch?v=aGJU8aE71u4)
-[![Using a mock server with Cypress](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_a_mock_server_with_Cypress.svg)](https://dev.to/javierbrea/using-a-mock-server-with-cypress-4dch)
-[![Supabase CLI v1 and Admin API Beta](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Supabase_CLI_v1_and_Admin_API_Beta.svg)](https://supabase.com/blog/supabase-cli-v1-and-admin-api-beta)
 
 
 <!-- post-list:end -->
