@@ -78,11 +78,11 @@
       <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
         <div class="image" />
 <div class="text">
-          <div class="title">Request&#0032;ACM&#0032;certificate&#0032;with&#0032;DNS&#0032;validation&#0032;in&#0032;Go</div>
-          <div class="description">I&#0039;ve&#0032;been&#0032;dealing&#0032;with&#0032;AWS&#0032;SDK&#0032;a&#0032;lot&#0032;in&#0032;building&#0032;https&#0058;&#0047;&#0047;github&#0046;com&#0047;dotenx&#0047;dotenx&#0044;&#0032;and&#0032;I&#0039;ve&#0032;found&#0032;it&#0046;&#0046;&#0046;</div>
+          <div class="title">Using&#0032;HarperDB&#0032;With&#0032;Django</div>
+          <div class="description">Before&#0032;you&#0032;try&#0032;to&#0032;use&#0032;HarperDB&#0032;in&#0032;your&#0032;Django&#0032;project&#0032;there&#0032;are&#0032;some&#0032;trade&#0032;offs&#0032;you&#0032;should&#0032;consider&#0046;&#0046;&#0046;&#0046;</div>
           <div class="date">8&#0047;18&#0047;22</div>
           <div class="data">
-            <span class="author">mohsen</span> <span class="category">aws</span> <span class="category">go</span> <span class="category">opensource</span>
+            <span class="author">Dennis&#0032;Ivy</span> <span class="category">django</span> <span class="category">harperdb</span>
           </div>
         </div>
       </div>
