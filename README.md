@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, August 17, 2022 at 12:12:31 PM
+> Last updated: Thursday, August 18, 2022 at 6:21:17 AM
 
 > Showing 5 of 12 posts.
 
-[![UK Global Talent Visa Requirements](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/UK_Global_Talent_Visa_Requirements.svg)](https://dev.to/beetlehope/uk-global-talent-visa-requirements-321h)
-[![Backend-for-Frontend: the demo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Backend-for-Frontend__the_demo.svg)](https://dev.to/nfrankel/backend-for-frontend-the-demo-2240)
-[![How to Safely Deserialize Data in Ruby on Rails](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Safely_Deserialize_Data_in_Ruby_on_Rails.svg)](https://dev.to/appland/how-to-safely-deserialize-data-in-ruby-on-rails-4mbl)
-[![The Definitive Guide to HTML Block Level and Inline Level Elements](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Definitive_Guide_to_HTML_Block_Level_and_Inline_Level_Elements.svg)](https://dev.to/setorkwame/the-definitive-guide-to-html-block-level-and-inline-level-elements-2bnb)
-[![🤔 ”I can't complete the get started tutorial because some dependencies are not installed”](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🤔_”I_can't_complete_the_get_started_tutorial_because_some_dependencies_are_not_installed”.svg)](https://dev.to/luos/i-cant-complete-the-get-started-tutorial-because-some-dependencies-are-not-installed-49d5)
+[![Introduction to Event-Driven Architecture](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_to_Event-Driven_Architecture.svg)](https://dev.to/elva_group/introduction-to-event-driven-architecture-6ki)
+[![Appwrite OSS Fund Sponsors Lazygit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Appwrite_OSS_Fund_Sponsors_Lazygit.svg)](https://dev.to/appwrite/appwrite-oss-fund-sponsors-lazygit-2no9)
+[![How I run code on twitter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_I_run_code_on_twitter.svg)](https://dev.to/prasant/how-i-run-code-on-twitter-3h79)
+[![Request ACM certificate with DNS validation in Go](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Request_ACM_certificate_with_DNS_validation_in_Go.svg)](https://dev.to/mohsenkamrani/request-acm-certificate-with-dns-validation-in-go-1omp)
+[![How I Created a One-Page Swag Store in 15 minutes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_I_Created_a_One-Page_Swag_Store_in_15_minutes.svg)](https://dev.to/medusajs/how-i-created-a-one-page-swag-store-in-15-minutes-8oh)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, August 17, 2022 at 12:12:33 PM
+> Last updated: Thursday, August 18, 2022 at 6:21:20 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,21 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, August 17, 2022 at 12:12:35 PM
+> Last updated: Thursday, August 18, 2022 at 6:21:22 AM
 
 > Showing 5 of 30 posts.
 
+[![Episode 24 - Security in the JavaScript ecosystem with Liran Tal - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_24_-_Security_in_the_JavaScript_ecosystem_with_Liran_Tal_-_20minJS.svg)](https://podcast.20minjs.com/1952066/11146790-episode-24-security-in-the-javascript-ecosystem-with-liran-tal)
+[![
+Animated quadratic curves
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Animated_quadratic_curves_.svg)](
+https://slicker.me/javascript/curves.htm
+)
 [![Build a Blog with Remix and Webiny Headless CMS | Webiny](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_a_Blog_with_Remix_and_Webiny_Headless_CMS___Webiny.svg)](
 https://www.webiny.com/blog/build-blog-remix-webiny-headless-cms
 )
 [![GitHub - pyronaur/zxb: A tool for managing scripts better](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_pyronaur_zxb__A_tool_for_managing_scripts_better.svg)](https://github.com/pyronaur/zxb)
 [![supabase-js v2 Release Candidate](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/supabase-js_v2_Release_Candidate.svg)](https://supabase.com/blog/supabase-js-v2)
-[![GitHub - Elijah-Bodden/kNow: Plug-and-play, faster-than-native promise/callback event emitter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Elijah-Bodden_kNow__Plug-and-play__faster-than-native_promise_callback_event_emitter.svg)](https://github.com/Elijah-Bodden/kNow)
-[![Composable theming with React and design tokens: Consistency and control across apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Composable_theming_with_React_and_design_tokens__Consistency_and_control_across_apps.svg)](https://www.youtube.com/watch?v=aGJU8aE71u4)
 
 
 <!-- post-list:end -->
