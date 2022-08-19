@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, August 19, 2022 at 6:18:44 AM
+> Last updated: Friday, August 19, 2022 at 12:13:44 PM
 
 > Showing 5 of 12 posts.
 
-[![How to run Docker commands in CMD/PowerShell from Docker using WSL2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_run_Docker_commands_in_CMD_PowerShell_from_Docker_using_WSL2.svg)](https://dev.to/fanmixco/how-to-run-docker-commands-in-cmdpowershell-from-docker-using-wsl2-5h65)
-[![Using SolidJS Dev-Tools Locator Feature](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_SolidJS_Dev-Tools_Locator_Feature.svg)](https://dev.to/mbarzeev/using-solidjs-dev-tools-locator-feature-1445)
-[![How to Write High-Quality Proposals for Clients in Upwork?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Write_High-Quality_Proposals_for_Clients_in_Upwork_.svg)](https://dev.to/bhavyashah/how-to-write-high-quality-proposals-for-clients-in-upwork-42b9)
-[![How to use Axios with React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_Axios_with_React.svg)](https://dev.to/femi_dev/how-to-use-axios-with-react-5fom)
-[![Temporal API - A new approach to managing Date and Time in JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Temporal_API_-_A_new_approach_to_managing_Date_and_Time_in_JS.svg)](https://dev.to/refine/temporal-api-a-new-approach-to-managing-date-and-time-in-js-1fn1)
+[![CANLI - GALATASARAY ÜMRANİYESPOR MAÇI ŞİFRESİZ İZLE 19 AGUSTOS 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CANLI_-_GALATASARAY_ÜMRANİYESPOR_MAÇI_ŞİFRESİZ_İZLE_19_AGUSTOS_2022.svg)](https://dev.to/t24tvhd/canli-galatasaray-umraniyespor-maci-sifresiz-izle-19-agustos-2022-59jl)
+[![...It Works Fine Locally](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/...It_Works_Fine_Locally.svg)](https://dev.to/render/it-works-fine-locally-1jam)
+[![Getting started with Nodejs/Express](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_started_with_Nodejs_Express.svg)](https://dev.to/akinmyde/getting-started-with-nodejsexpress-o8e)
+[![What was your win this week?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_was_your_win_this_week_.svg)](https://dev.to/devteam/what-was-your-win-this-week-4n66)
+[![Liskov Substitution Principle in TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Liskov_Substitution_Principle_in_TypeScript.svg)](https://dev.to/jmalvarez/liskov-substitution-principle-in-typescript-3i87)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, August 19, 2022 at 6:18:48 AM
+> Last updated: Friday, August 19, 2022 at 12:13:47 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, August 19, 2022 at 6:18:52 AM
+> Last updated: Friday, August 19, 2022 at 12:13:52 PM
 
 > Showing 5 of 30 posts.
 
