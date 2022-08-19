@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, August 18, 2022 at 6:59:12 PM
+> Last updated: Friday, August 19, 2022 at 12:15:15 AM
 
 > Showing 5 of 12 posts.
 
-[![A Second Brain: A Dip Into Note-Taking](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Second_Brain__A_Dip_Into_Note-Taking.svg)](https://dev.to/jobber/a-second-brain-a-dip-into-note-taking-3ic2)
-[![LB Labs: Solving The Pull Request Problem w/ Continuous Merge](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/LB_Labs__Solving_The_Pull_Request_Problem_w__Continuous_Merge.svg)](https://dev.to/linearb/lb-labs-solving-the-pull-request-problem-w-continuous-merge-1bf2)
-[![How to scan for cybersecurity risks on every commit with CodeSec and Git Hooks for free](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_scan_for_cybersecurity_risks_on_every_commit_with_CodeSec_and_Git_Hooks_for_free.svg)](https://dev.to/codesec/how-to-scan-for-cybersecurity-risks-on-every-commit-with-codesec-and-git-hooks-for-free-15ek)
-[![Proxy Objects in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Proxy_Objects_in_JavaScript.svg)](https://dev.to/kadeesterline/proxy-objects-in-javascript-1ajo)
-[![Testing out Serverless Stack](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Testing_out_Serverless_Stack.svg)](https://dev.to/m_nevin/testing-out-serverless-stack-4je9)
+[![Manipulating the DOM using Javascript - traversing the DOM(part 2)✂️🕹](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Manipulating_the_DOM_using_Javascript_-_traversing_the_DOM(part_2)✂️🕹.svg)](https://dev.to/arikaturika/manipulating-the-dom-using-javascript-traversing-the-dompart-2-o7)
+[![Javascript: How much do you debug](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Javascript__How_much_do_you_debug.svg)](https://dev.to/urstrulyvishwak/javascript-how-much-do-you-debug-41h)
+[![Javascript Tagalog - Array Push Method](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Javascript_Tagalog_-_Array_Push_Method.svg)](https://dev.to/mmvergara/javascript-tagalog-array-push-method-296)
+[![I spent <!-- post-list:start -->5 in DALL·E 2 credits creating this AI image, and here’s what I learned](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_spent_<!-- post-list:start -->5_in_DALL·E_2_credits_creating_this_AI_image__and_here’s_what_I_learned.svg)](https://dev.to/joooyz/i-spent-15-in-dalle-2-credits-creating-this-ai-image-and-heres-what-i-learned-4hl1)
+[![How to deploy the NextJS site to Vercel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_deploy_the_NextJS_site_to_Vercel.svg)](https://dev.to/surajondev/how-to-deploy-nextjs-site-to-vercel-1o37)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, August 18, 2022 at 6:59:15 PM
+> Last updated: Friday, August 19, 2022 at 12:15:18 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, August 18, 2022 at 6:59:19 PM
+> Last updated: Friday, August 19, 2022 at 12:15:23 AM
 
 > Showing 5 of 30 posts.
 
