@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, August 19, 2022 at 12:15:15 AM
+> Last updated: Friday, August 19, 2022 at 6:18:44 AM
 
 > Showing 5 of 12 posts.
 
-[![Manipulating the DOM using Javascript - traversing the DOM(part 2)✂️🕹](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Manipulating_the_DOM_using_Javascript_-_traversing_the_DOM(part_2)✂️🕹.svg)](https://dev.to/arikaturika/manipulating-the-dom-using-javascript-traversing-the-dompart-2-o7)
-[![Javascript: How much do you debug](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Javascript__How_much_do_you_debug.svg)](https://dev.to/urstrulyvishwak/javascript-how-much-do-you-debug-41h)
-[![Javascript Tagalog - Array Push Method](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Javascript_Tagalog_-_Array_Push_Method.svg)](https://dev.to/mmvergara/javascript-tagalog-array-push-method-296)
-[![I spent <!-- post-list:start -->5 in DALL·E 2 credits creating this AI image, and here’s what I learned](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_spent_<!-- post-list:start -->5_in_DALL·E_2_credits_creating_this_AI_image__and_here’s_what_I_learned.svg)](https://dev.to/joooyz/i-spent-15-in-dalle-2-credits-creating-this-ai-image-and-heres-what-i-learned-4hl1)
-[![How to deploy the NextJS site to Vercel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_deploy_the_NextJS_site_to_Vercel.svg)](https://dev.to/surajondev/how-to-deploy-nextjs-site-to-vercel-1o37)
+[![How to run Docker commands in CMD/PowerShell from Docker using WSL2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_run_Docker_commands_in_CMD_PowerShell_from_Docker_using_WSL2.svg)](https://dev.to/fanmixco/how-to-run-docker-commands-in-cmdpowershell-from-docker-using-wsl2-5h65)
+[![Using SolidJS Dev-Tools Locator Feature](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_SolidJS_Dev-Tools_Locator_Feature.svg)](https://dev.to/mbarzeev/using-solidjs-dev-tools-locator-feature-1445)
+[![How to Write High-Quality Proposals for Clients in Upwork?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Write_High-Quality_Proposals_for_Clients_in_Upwork_.svg)](https://dev.to/bhavyashah/how-to-write-high-quality-proposals-for-clients-in-upwork-42b9)
+[![How to use Axios with React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_Axios_with_React.svg)](https://dev.to/femi_dev/how-to-use-axios-with-react-5fom)
+[![Temporal API - A new approach to managing Date and Time in JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Temporal_API_-_A_new_approach_to_managing_Date_and_Time_in_JS.svg)](https://dev.to/refine/temporal-api-a-new-approach-to-managing-date-and-time-in-js-1fn1)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, August 19, 2022 at 12:15:18 AM
+> Last updated: Friday, August 19, 2022 at 6:18:48 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, August 19, 2022 at 12:15:23 AM
+> Last updated: Friday, August 19, 2022 at 6:18:52 AM
 
 > Showing 5 of 30 posts.
 
+[![Optimize Data Fetching 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Optimize_Data_Fetching_🚀.svg)](https://medhatdawoud.net/blog/optimize-data-fetching)
 [![How to Remove Line Chart Fill in ChartJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Remove_Line_Chart_Fill_in_ChartJS.svg)](
 https://masteringjs.io/tutorials/chartjs/line-chart-fill-color
 )
@@ -57,7 +58,6 @@ Supabase – Realtime: Multiplayer Edition | Hacker News
 https://news.ycombinator.com/item?id=32510405
 )
 [![How big is a JavaScript string?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_big_is_a_JavaScript_string_.svg)](https://blog.bitsrc.io/how-big-is-a-string-ef2af3d222e6)
-[![Episode 24 - Security in the JavaScript ecosystem with Liran Tal - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_24_-_Security_in_the_JavaScript_ecosystem_with_Liran_Tal_-_20minJS.svg)](https://podcast.20minjs.com/1952066/11146790-episode-24-security-in-the-javascript-ecosystem-with-liran-tal)
 
 
 <!-- post-list:end -->
