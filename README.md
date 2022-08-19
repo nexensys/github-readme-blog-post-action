@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, August 18, 2022 at 12:11:55 PM
+> Last updated: Thursday, August 18, 2022 at 6:59:12 PM
 
 > Showing 5 of 12 posts.
 
-[![Cheat sheet for React Part I (Updated August 2022)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cheat_sheet_for_React_Part_I_(Updated_August_2022).svg)](https://dev.to/khansa/cheat-sheet-for-react-part-i-updated-august-2022-am4)
-[![The Concept](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Concept.svg)](https://dev.to/midnqp/rest-api-a-quickread-for-backend-dev-3i70)
-[![Using HarperDB With Django](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_HarperDB_With_Django.svg)](https://dev.to/dennisivy11/using-harperdb-with-django-10m8)
-[![Hosting Azure DevOps Pipelines agents on GitHub Codespaces](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Hosting_Azure_DevOps_Pipelines_agents_on_GitHub_Codespaces.svg)](https://dev.to/pwd9000/hosting-azure-devops-pipelines-agents-on-github-codespaces-4jm2)
-[![I have designed and developed the simplest document scanner app.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_have_designed_and_developed_the_simplest_document_scanner_app..svg)](https://dev.to/marianvelani/i-have-designed-and-developed-the-simplest-document-scanner-app-56k3)
+[![A Second Brain: A Dip Into Note-Taking](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Second_Brain__A_Dip_Into_Note-Taking.svg)](https://dev.to/jobber/a-second-brain-a-dip-into-note-taking-3ic2)
+[![LB Labs: Solving The Pull Request Problem w/ Continuous Merge](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/LB_Labs__Solving_The_Pull_Request_Problem_w__Continuous_Merge.svg)](https://dev.to/linearb/lb-labs-solving-the-pull-request-problem-w-continuous-merge-1bf2)
+[![How to scan for cybersecurity risks on every commit with CodeSec and Git Hooks for free](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_scan_for_cybersecurity_risks_on_every_commit_with_CodeSec_and_Git_Hooks_for_free.svg)](https://dev.to/codesec/how-to-scan-for-cybersecurity-risks-on-every-commit-with-codesec-and-git-hooks-for-free-15ek)
+[![Proxy Objects in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Proxy_Objects_in_JavaScript.svg)](https://dev.to/kadeesterline/proxy-objects-in-javascript-1ajo)
+[![Testing out Serverless Stack](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Testing_out_Serverless_Stack.svg)](https://dev.to/m_nevin/testing-out-serverless-stack-4je9)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, August 18, 2022 at 12:11:59 PM
+> Last updated: Thursday, August 18, 2022 at 6:59:15 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,13 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, August 18, 2022 at 12:12:04 PM
+> Last updated: Thursday, August 18, 2022 at 6:59:19 PM
 
 > Showing 5 of 30 posts.
 
+[![How to Remove Line Chart Fill in ChartJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Remove_Line_Chart_Fill_in_ChartJS.svg)](
+https://masteringjs.io/tutorials/chartjs/line-chart-fill-color
+)
 [![Node.js - require is not defined javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Node.js_-_require_is_not_defined_javascript.svg)](https://www.js-tutorials.com/nodejs-tutorial/require-is-not-defined-js/)
 [![
 Supabase – Realtime: Multiplayer Edition | Hacker News
@@ -55,11 +58,6 @@ https://news.ycombinator.com/item?id=32510405
 )
 [![How big is a JavaScript string?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_big_is_a_JavaScript_string_.svg)](https://blog.bitsrc.io/how-big-is-a-string-ef2af3d222e6)
 [![Episode 24 - Security in the JavaScript ecosystem with Liran Tal - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_24_-_Security_in_the_JavaScript_ecosystem_with_Liran_Tal_-_20minJS.svg)](https://podcast.20minjs.com/1952066/11146790-episode-24-security-in-the-javascript-ecosystem-with-liran-tal)
-[![
-Animated quadratic curves
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Animated_quadratic_curves_.svg)](
-https://slicker.me/javascript/curves.htm
-)
 
 
 <!-- post-list:end -->
