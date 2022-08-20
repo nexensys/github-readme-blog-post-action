@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, August 19, 2022 at 12:13:44 PM
+> Last updated: Friday, August 19, 2022 at 6:54:26 PM
 
 > Showing 5 of 12 posts.
 
-[![CANLI - GALATASARAY ÜMRANİYESPOR MAÇI ŞİFRESİZ İZLE 19 AGUSTOS 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CANLI_-_GALATASARAY_ÜMRANİYESPOR_MAÇI_ŞİFRESİZ_İZLE_19_AGUSTOS_2022.svg)](https://dev.to/t24tvhd/canli-galatasaray-umraniyespor-maci-sifresiz-izle-19-agustos-2022-59jl)
-[![...It Works Fine Locally](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/...It_Works_Fine_Locally.svg)](https://dev.to/render/it-works-fine-locally-1jam)
-[![Getting started with Nodejs/Express](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_started_with_Nodejs_Express.svg)](https://dev.to/akinmyde/getting-started-with-nodejsexpress-o8e)
-[![What was your win this week?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_was_your_win_this_week_.svg)](https://dev.to/devteam/what-was-your-win-this-week-4n66)
-[![Liskov Substitution Principle in TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Liskov_Substitution_Principle_in_TypeScript.svg)](https://dev.to/jmalvarez/liskov-substitution-principle-in-typescript-3i87)
+[![Understand Fields and Properties in Kotlin](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understand_Fields_and_Properties_in_Kotlin.svg)](https://dev.to/vtsen/understand-fields-and-properties-in-kotlin-2dlp)
+[![Best UX writing examples and the reasons why they work](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_UX_writing_examples_and_the_reasons_why_they_work.svg)](https://dev.to/belhassen07/best-ux-writing-examples-and-the-reasons-why-they-work-13h4)
+[![Remote Senior Front-End Developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Remote_Senior_Front-End_Developer.svg)](https://dev.to/remotecamphq/remote-senior-front-end-developer-3cc3)
+[![Remote Senior Shopify Developer (Remote + Flexible)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Remote_Senior_Shopify_Developer_(Remote_+_Flexible).svg)](https://dev.to/remotecamphq/remote-senior-shopify-developer-remote-flexible-mf1)
+[![Introducing an Ultimate Web/Mobile Dev Roadmap](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_an_Ultimate_Web_Mobile_Dev_Roadmap.svg)](https://dev.to/elijahtrillionz/introducing-an-ultimate-webmobile-dev-roadmap-1jeo)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, August 19, 2022 at 12:13:47 PM
+> Last updated: Friday, August 19, 2022 at 6:54:29 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, August 19, 2022 at 12:13:52 PM
+> Last updated: Friday, August 19, 2022 at 6:54:33 PM
 
 > Showing 5 of 30 posts.
 
+[![pg_jsonschema: JSON Schema support for Postgres](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/pg_jsonschema__JSON_Schema_support_for_Postgres.svg)](https://supabase.com/blog/pg-jsonschema-a-postgres-extension-for-json-validation)
 [![Optimize Data Fetching 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Optimize_Data_Fetching_🚀.svg)](https://medhatdawoud.net/blog/optimize-data-fetching)
 [![How to Remove Line Chart Fill in ChartJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Remove_Line_Chart_Fill_in_ChartJS.svg)](
 https://masteringjs.io/tutorials/chartjs/line-chart-fill-color
@@ -57,7 +58,6 @@ Supabase – Realtime: Multiplayer Edition | Hacker News
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Supabase_–_Realtime__Multiplayer_Edition___Hacker_News_.svg)](
 https://news.ycombinator.com/item?id=32510405
 )
-[![How big is a JavaScript string?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_big_is_a_JavaScript_string_.svg)](https://blog.bitsrc.io/how-big-is-a-string-ef2af3d222e6)
 
 
 <!-- post-list:end -->
