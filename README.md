@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, August 20, 2022 at 12:12:15 AM
+> Last updated: Saturday, August 20, 2022 at 6:17:11 AM
 
 > Showing 5 of 12 posts.
 
-[![Programming: where to begin](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Programming__where_to_begin.svg)](https://dev.to/clubtechpro/programming-where-to-begin-225e)
-[![60 Days of Data Science and Machine Learning](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/60_Days_of_Data_Science_and_Machine_Learning.svg)](https://dev.to/thunderstroke/60-days-of-data-science-and-machine-learning-57p9)
-[![How to create an app with GetX architect in Flutter.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_an_app_with_GetX_architect_in_Flutter..svg)](https://dev.to/this-is-learning/how-to-create-an-app-with-getx-architect-in-flutter-2ehk)
-[![Google Pay in Flutter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Google_Pay_in_Flutter.svg)](https://dev.to/aseemwangoo/google-pay-in-flutter-3mfh)
-[![My Journey on the Cloud Resume Challenge](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_Journey_on_the_Cloud_Resume_Challenge.svg)](https://dev.to/earlchough/my-journey-on-the-cloud-resume-challenge-24l9)
+[![📦 Bundle Node.js into single executable binary](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/📦_Bundle_Node.js_into_single_executable_binary.svg)](https://dev.to/midnqp/bundling-nodejs-into-single-executable-binary-l3g)
+[![From Junior Software Engineer to Mid Level with Anna McDougall](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/From_Junior_Software_Engineer_to_Mid_Level_with_Anna_McDougall.svg)](https://dev.to/beetlehope/from-junior-software-engineer-to-mid-level-with-anna-mcdougall-7k6)
+[![Typescript Class Mixins](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Typescript_Class_Mixins.svg)](https://dev.to/bwca/typescript-class-mixins-3hib)
+[![Interface Segregation Principle in TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Interface_Segregation_Principle_in_TypeScript.svg)](https://dev.to/jmalvarez/interface-segregation-principle-in-typescript-4dgb)
+[![Deploy MERN App On Heroku](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deploy_MERN_App_On_Heroku.svg)](https://dev.to/devarshishimpi/deploy-mern-app-on-heroku-1p00)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, August 20, 2022 at 12:12:18 AM
+> Last updated: Saturday, August 20, 2022 at 6:17:13 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, August 20, 2022 at 12:12:21 AM
+> Last updated: Saturday, August 20, 2022 at 6:17:16 AM
 
 > Showing 5 of 30 posts.
 
