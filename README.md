@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, August 19, 2022 at 6:54:26 PM
+> Last updated: Saturday, August 20, 2022 at 12:12:15 AM
 
 > Showing 5 of 12 posts.
 
-[![Understand Fields and Properties in Kotlin](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understand_Fields_and_Properties_in_Kotlin.svg)](https://dev.to/vtsen/understand-fields-and-properties-in-kotlin-2dlp)
-[![Best UX writing examples and the reasons why they work](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_UX_writing_examples_and_the_reasons_why_they_work.svg)](https://dev.to/belhassen07/best-ux-writing-examples-and-the-reasons-why-they-work-13h4)
-[![Remote Senior Front-End Developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Remote_Senior_Front-End_Developer.svg)](https://dev.to/remotecamphq/remote-senior-front-end-developer-3cc3)
-[![Remote Senior Shopify Developer (Remote + Flexible)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Remote_Senior_Shopify_Developer_(Remote_+_Flexible).svg)](https://dev.to/remotecamphq/remote-senior-shopify-developer-remote-flexible-mf1)
-[![Introducing an Ultimate Web/Mobile Dev Roadmap](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_an_Ultimate_Web_Mobile_Dev_Roadmap.svg)](https://dev.to/elijahtrillionz/introducing-an-ultimate-webmobile-dev-roadmap-1jeo)
+[![Programming: where to begin](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Programming__where_to_begin.svg)](https://dev.to/clubtechpro/programming-where-to-begin-225e)
+[![60 Days of Data Science and Machine Learning](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/60_Days_of_Data_Science_and_Machine_Learning.svg)](https://dev.to/thunderstroke/60-days-of-data-science-and-machine-learning-57p9)
+[![How to create an app with GetX architect in Flutter.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_an_app_with_GetX_architect_in_Flutter..svg)](https://dev.to/this-is-learning/how-to-create-an-app-with-getx-architect-in-flutter-2ehk)
+[![Google Pay in Flutter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Google_Pay_in_Flutter.svg)](https://dev.to/aseemwangoo/google-pay-in-flutter-3mfh)
+[![My Journey on the Cloud Resume Challenge](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_Journey_on_the_Cloud_Resume_Challenge.svg)](https://dev.to/earlchough/my-journey-on-the-cloud-resume-challenge-24l9)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, August 19, 2022 at 6:54:29 PM
+> Last updated: Saturday, August 20, 2022 at 12:12:18 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, August 19, 2022 at 6:54:33 PM
+> Last updated: Saturday, August 20, 2022 at 12:12:21 AM
 
 > Showing 5 of 30 posts.
 
