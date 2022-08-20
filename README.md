@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, August 20, 2022 at 6:17:11 AM
+> Last updated: Saturday, August 20, 2022 at 12:11:38 PM
 
 > Showing 5 of 12 posts.
 
-[![📦 Bundle Node.js into single executable binary](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/📦_Bundle_Node.js_into_single_executable_binary.svg)](https://dev.to/midnqp/bundling-nodejs-into-single-executable-binary-l3g)
-[![From Junior Software Engineer to Mid Level with Anna McDougall](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/From_Junior_Software_Engineer_to_Mid_Level_with_Anna_McDougall.svg)](https://dev.to/beetlehope/from-junior-software-engineer-to-mid-level-with-anna-mcdougall-7k6)
-[![Typescript Class Mixins](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Typescript_Class_Mixins.svg)](https://dev.to/bwca/typescript-class-mixins-3hib)
-[![Interface Segregation Principle in TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Interface_Segregation_Principle_in_TypeScript.svg)](https://dev.to/jmalvarez/interface-segregation-principle-in-typescript-4dgb)
-[![Deploy MERN App On Heroku](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deploy_MERN_App_On_Heroku.svg)](https://dev.to/devarshishimpi/deploy-mern-app-on-heroku-1p00)
+[![Arquitetura de Sistemas Operacionais #0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Arquitetura_de_Sistemas_Operacionais__0.svg)](https://dev.to/samoht/arquitetura-de-sistemas-operacionais-0-e1h)
+[![I DECIDED TO BE A DEVELOPER BECAUSE I WANTED CONTROL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_DECIDED_TO_BE_A_DEVELOPER_BECAUSE_I_WANTED_CONTROL.svg)](https://dev.to/chizobaonorh/i-decided-to-be-a-developer-because-i-wanted-control-4gak)
+[![Advertise your blog here in the comments.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Advertise_your_blog_here_in_the_comments..svg)](https://dev.to/dechamp/advertise-your-blog-here-in-the-comments-46eo)
+[![How to Write a Great Resume](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Write_a_Great_Resume.svg)](https://dev.to/seths10/how-to-write-a-great-resume-436e)
+[![Coding Period GSoC'22 | Week 7 + 8 + 9](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Coding_Period_GSoC'22___Week_7_+_8_+_9.svg)](https://dev.to/pulkit30/coding-period-gsoc22-week-7-8-9-2836)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, August 20, 2022 at 6:17:13 AM
+> Last updated: Saturday, August 20, 2022 at 12:11:41 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, August 20, 2022 at 6:17:16 AM
+> Last updated: Saturday, August 20, 2022 at 12:11:44 PM
 
 > Showing 5 of 30 posts.
 
