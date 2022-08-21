@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, August 20, 2022 at 12:11:38 PM
+> Last updated: Saturday, August 20, 2022 at 6:56:42 PM
 
 > Showing 5 of 12 posts.
 
-[![Arquitetura de Sistemas Operacionais #0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Arquitetura_de_Sistemas_Operacionais__0.svg)](https://dev.to/samoht/arquitetura-de-sistemas-operacionais-0-e1h)
-[![I DECIDED TO BE A DEVELOPER BECAUSE I WANTED CONTROL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_DECIDED_TO_BE_A_DEVELOPER_BECAUSE_I_WANTED_CONTROL.svg)](https://dev.to/chizobaonorh/i-decided-to-be-a-developer-because-i-wanted-control-4gak)
-[![Advertise your blog here in the comments.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Advertise_your_blog_here_in_the_comments..svg)](https://dev.to/dechamp/advertise-your-blog-here-in-the-comments-46eo)
-[![How to Write a Great Resume](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Write_a_Great_Resume.svg)](https://dev.to/seths10/how-to-write-a-great-resume-436e)
-[![Coding Period GSoC'22 | Week 7 + 8 + 9](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Coding_Period_GSoC'22___Week_7_+_8_+_9.svg)](https://dev.to/pulkit30/coding-period-gsoc22-week-7-8-9-2836)
+[![Useful Array Methods In Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Useful_Array_Methods_In_Javascript.svg)](https://dev.to/ksowah/usefull-array-methods-in-javascript-4oaf)
+[![Rails guide - Creating the app - Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Rails_guide_-_Creating_the_app_-_Part_1.svg)](https://dev.to/augusto_queirantes/rails-guide-creating-the-app-part-1-4chb)
+[![Reduct Storage Web Console v0.4.0 has been released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Reduct_Storage_Web_Console_v0.4.0_has_been_released.svg)](https://dev.to/reduct-storage/reduct-storage-web-console-v040-has-been-released-53mk)
+[![Moving your character in Unity 2d](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Moving_your_character_in_Unity_2d.svg)](https://dev.to/eduardojuliao/moving-your-character-in-unity-2d-28do)
+[![Como deixar seu e-mail mais acessível](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Como_deixar_seu_e-mail_mais_acessível.svg)](https://dev.to/feministech/como-deixar-seu-e-mail-mais-acessivel-1ji3)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, August 20, 2022 at 12:11:41 PM
+> Last updated: Saturday, August 20, 2022 at 6:56:44 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, August 20, 2022 at 12:11:44 PM
+> Last updated: Saturday, August 20, 2022 at 6:56:48 PM
 
 > Showing 5 of 30 posts.
 
