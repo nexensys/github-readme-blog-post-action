@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, August 21, 2022 at 6:16:40 AM
+> Last updated: Sunday, August 21, 2022 at 12:11:52 PM
 
 > Showing 5 of 12 posts.
 
-[![Deploy Multiple NodeJS Apps on single Server with SSL, Nginx, PM2 - Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deploy_Multiple_NodeJS_Apps_on_single_Server_with_SSL__Nginx__PM2_-_Part_1.svg)](https://dev.to/ranjan/deploy-multiple-nodejs-apps-on-single-server-with-ssl-nginx-pm2-part-1-4841)
-[![CI/CD Pipeline Hands-on | AWS Code Pipeline, Elastic Beanstalk, GitHub](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CI_CD_Pipeline_Hands-on___AWS_Code_Pipeline__Elastic_Beanstalk__GitHub.svg)](https://dev.to/wardaliaqat01/cicd-pipeline-hands-on-aws-code-pipeline-elastic-beanstalk-github-35n3)
-[![How TypeScript Default Parameters Work](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_TypeScript_Default_Parameters_Work.svg)](https://dev.to/smpnjn/how-typescript-default-parameters-work-2173)
-[![Frontend Learning Approach (Not Roadmap)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Frontend_Learning_Approach_(Not_Roadmap).svg)](https://dev.to/mdarif/frontend-learning-approach-not-roadmap-5c4l)
-[![100DaysOfCode: Card UI Design with WEAVV](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/100DaysOfCode__Card_UI_Design_with_WEAVV.svg)](https://dev.to/louislow/100daysofcode-card-ui-design-with-weavv-3p68)
+[![How much do you need to know before starting?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_much_do_you_need_to_know_before_starting_.svg)](https://dev.to/noriller/how-much-do-you-need-to-know-before-starting-4o8o)
+[![Styling React App - Stylify vs Styled Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Styling_React_App_-_Stylify_vs_Styled_Components.svg)](https://dev.to/machy8/styling-react-app-stylify-vs-styled-components-5bd5)
+[![Making a Morphing 3D Sphere in Javascript with Three.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Making_a_Morphing_3D_Sphere_in_Javascript_with_Three.js.svg)](https://dev.to/smpnjn/making-a-morphing-3d-sphere-in-javascript-with-threejs-13oi)
+[![Save 100+ hours with this document before building an app/website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Save_100+_hours_with_this_document_before_building_an_app_website.svg)](https://dev.to/pradeepb28_/save-100-hours-with-this-document-before-building-an-appwebsite-2kg0)
+[![How to create a test database with Laravel Sail](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_a_test_database_with_Laravel_Sail.svg)](https://dev.to/alejandroakbal/how-to-create-a-test-database-with-laravel-sail-528d)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, August 21, 2022 at 6:16:42 AM
+> Last updated: Sunday, August 21, 2022 at 12:11:54 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, August 21, 2022 at 6:16:44 AM
+> Last updated: Sunday, August 21, 2022 at 12:11:56 PM
 
 > Showing 5 of 30 posts.
 
+[![
+Excelize 2.6.1 Released - Go language API for spreadsheets (Excel) files
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Excelize_2.6.1_Released_-_Go_language_API_for_spreadsheets_(Excel)_files_.svg)](
+https://xuri.me/excelize/en/releases/v2.6.1.html
+)
 [![How to Create a Chrome Extension? - Yonatan Kra](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Create_a_Chrome_Extension__-_Yonatan_Kra.svg)](https://yonatankra.com/how-to-create-a-chrome-extension/)
 [![GitHub - x213212/Static-analyzer-in-gccplugin: Try to build a static analyzer in Gcc Plugin, the main application scenario is to detect memory-leak,double-free,use-after-free.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_x213212_Static-analyzer-in-gccplugin__Try_to_build_a_static_analyzer_in_Gcc_Plugin__the_main_application_scenario_is_to_detect_memory-leak_double-free_use-after-free..svg)](https://github.com/x213212/Static-analyzer-in-gccplugin)
 [![pg_jsonschema: JSON Schema support for Postgres](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/pg_jsonschema__JSON_Schema_support_for_Postgres.svg)](https://supabase.com/blog/pg-jsonschema-a-postgres-extension-for-json-validation)
 [![Optimize Data Fetching 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Optimize_Data_Fetching_🚀.svg)](https://medhatdawoud.net/blog/optimize-data-fetching)
-[![How to Remove Line Chart Fill in ChartJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Remove_Line_Chart_Fill_in_ChartJS.svg)](
-https://masteringjs.io/tutorials/chartjs/line-chart-fill-color
-)
 
 
 <!-- post-list:end -->
