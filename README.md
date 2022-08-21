@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, August 20, 2022 at 6:56:42 PM
+> Last updated: Sunday, August 21, 2022 at 12:12:44 AM
 
 > Showing 5 of 12 posts.
 
+[![Go - Pointers, User input](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Go_-_Pointers__User_input.svg)](https://dev.to/vchiranjeeviak/go-pointers-user-input-4mh9)
+[![Install Theano on Debian](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Install_Theano_on_Debian.svg)](https://dev.to/fullstackhacker/install-theano-on-debian-fgi)
 [![Useful Array Methods In Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Useful_Array_Methods_In_Javascript.svg)](https://dev.to/ksowah/usefull-array-methods-in-javascript-4oaf)
 [![Rails guide - Creating the app - Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Rails_guide_-_Creating_the_app_-_Part_1.svg)](https://dev.to/augusto_queirantes/rails-guide-creating-the-app-part-1-4chb)
-[![Reduct Storage Web Console v0.4.0 has been released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Reduct_Storage_Web_Console_v0.4.0_has_been_released.svg)](https://dev.to/reduct-storage/reduct-storage-web-console-v040-has-been-released-53mk)
-[![Moving your character in Unity 2d](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Moving_your_character_in_Unity_2d.svg)](https://dev.to/eduardojuliao/moving-your-character-in-unity-2d-28do)
-[![Como deixar seu e-mail mais acessível](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Como_deixar_seu_e-mail_mais_acessível.svg)](https://dev.to/feministech/como-deixar-seu-e-mail-mais-acessivel-1ji3)
+[![Git, GitHub and Git Commands (70+ git commands)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Git__GitHub_and_Git_Commands_(70+_git_commands).svg)](https://dev.to/michellebuchiokonicha/git-github-and-git-commands-70-git-commands-3lc8)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, August 20, 2022 at 6:56:44 PM
+> Last updated: Sunday, August 21, 2022 at 12:12:46 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,21 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, August 20, 2022 at 6:56:48 PM
+> Last updated: Sunday, August 21, 2022 at 12:12:50 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - x213212/Static-analyzer-in-gccplugin: Try to build a static analyzer in Gcc Plugin, the main application scenario is to detect memory-leak,double-free,use-after-free.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_x213212_Static-analyzer-in-gccplugin__Try_to_build_a_static_analyzer_in_Gcc_Plugin__the_main_application_scenario_is_to_detect_memory-leak_double-free_use-after-free..svg)](https://github.com/x213212/Static-analyzer-in-gccplugin)
 [![pg_jsonschema: JSON Schema support for Postgres](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/pg_jsonschema__JSON_Schema_support_for_Postgres.svg)](https://supabase.com/blog/pg-jsonschema-a-postgres-extension-for-json-validation)
 [![Optimize Data Fetching 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Optimize_Data_Fetching_🚀.svg)](https://medhatdawoud.net/blog/optimize-data-fetching)
 [![How to Remove Line Chart Fill in ChartJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Remove_Line_Chart_Fill_in_ChartJS.svg)](
 https://masteringjs.io/tutorials/chartjs/line-chart-fill-color
 )
 [![Node.js - require is not defined javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Node.js_-_require_is_not_defined_javascript.svg)](https://www.js-tutorials.com/nodejs-tutorial/require-is-not-defined-js/)
-[![
-Supabase – Realtime: Multiplayer Edition | Hacker News
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Supabase_–_Realtime__Multiplayer_Edition___Hacker_News_.svg)](
-https://news.ycombinator.com/item?id=32510405
-)
 
 
 <!-- post-list:end -->
