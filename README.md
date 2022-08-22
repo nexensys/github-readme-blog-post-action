@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, August 22, 2022 at 6:21:32 AM
+> Last updated: Monday, August 22, 2022 at 12:12:03 PM
 
 > Showing 5 of 12 posts.
 
-[![Securing a REST API with Spring Security and JWT](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Securing_a_REST_API_with_Spring_Security_and_JWT.svg)](https://dev.to/tleipzig/securing-a-rest-api-with-spring-security-and-jwt-3lip)
-[![Docker Logging - A Complete Guide to Logs in Docker](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Docker_Logging_-_A_Complete_Guide_to_Logs_in_Docker.svg)](https://dev.to/signoz/docker-logging-a-complete-guide-to-logs-in-docker-ecp)
-[![Awesome Packages for React JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Awesome_Packages_for_React_JS.svg)](https://dev.to/shubhamtiwari909/awesome-packages-for-react-js-8ip)
-[![Find your motivation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Find_your_motivation.svg)](https://dev.to/akinmyde/find-your-motivation-3n7h)
-[![How to build a blockquote component in Tailwind CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_build_a_blockquote_component_in_Tailwind_CSS.svg)](https://dev.to/themesberg/how-to-build-a-blockquote-component-in-tailwind-css-25cf)
+[![The first Open-Sourced API security testing tool CI/CD integrated.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_first_Open-Sourced_API_security_testing_tool_CI_CD_integrated..svg)](https://dev.to/nathan20/the-first-open-sourced-api-security-testing-tool-cicd-integrated-59m9)
+[![Subscribe to a new newsletter for security-aware developers!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Subscribe_to_a_new_newsletter_for_security-aware_developers!.svg)](https://dev.to/cossacklabs/subscribe-to-a-new-newsletter-for-security-aware-developers-2n8e)
+[![Awesome tools for Web Developer - Part 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Awesome_tools_for_Web_Developer_-_Part_2.svg)](https://dev.to/surajondev/awesome-tools-for-web-developer-part-2-4j9k)
+[![How to query a large file in S3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_query_a_large_file_in_S3.svg)](https://dev.to/aws-builders/how-to-query-a-large-file-in-s3-4doa)
+[![Rate Limiting at Edge with Cloudflare Workers and Serverless Redis](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Rate_Limiting_at_Edge_with_Cloudflare_Workers_and_Serverless_Redis.svg)](https://dev.to/noahfschr/rate-limiting-at-edge-with-cloudflare-workers-and-serverless-redis-4opd)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, August 22, 2022 at 6:21:35 AM
+> Last updated: Monday, August 22, 2022 at 12:12:05 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, August 22, 2022 at 6:21:39 AM
+> Last updated: Monday, August 22, 2022 at 12:12:09 PM
 
 > Showing 5 of 30 posts.
 
