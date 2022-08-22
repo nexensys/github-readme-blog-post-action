@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, August 21, 2022 at 6:58:07 PM
+> Last updated: Monday, August 22, 2022 at 12:15:34 AM
 
 > Showing 5 of 12 posts.
 
-[![The Ultimate Guide to SaaS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Ultimate_Guide_to_SaaS.svg)](https://dev.to/shittu_olumide_/the-ultimate-guide-to-saas-4j4j)
-[![O que é ORM - Mapeamento objeto-relacional](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/O_que_é_ORM_-_Mapeamento_objeto-relacional.svg)](https://dev.to/biosbug/o-que-e-orm-mapeamento-objeto-relacional-2m8n)
-[![From Java 8 to Kotlin, Clojure and Java 17](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/From_Java_8_to_Kotlin__Clojure_and_Java_17.svg)](https://dev.to/jorgetovar621/from-java-8-to-java-11-kotlin-and-clojure-5384)
-[![Sending E-mails with Go.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Sending_E-mails_with_Go..svg)](https://dev.to/salemzii/sending-e-mails-with-go-ff0)
-[![Best folder structure for SCSS/SASS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_folder_structure_for_SCSS_SASS.svg)](https://dev.to/shubhamku044/best-folder-structure-for-scsssass-3m34)
+[![Browser extensions - Using storage](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Browser_extensions_-_Using_storage.svg)](https://dev.to/dailydevtips1/browser-extensions-using-storage-m7e)
+[![A Practical Guide to Brain.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Practical_Guide_to_Brain.js.svg)](https://dev.to/patilganesh1010/a-practical-guide-to-brainjs-nfk)
+[![When NOT to BLOCKCHAIN?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/When_NOT_to_BLOCKCHAIN_.svg)](https://dev.to/seek4samurai/when-not-to-blockchain-2h5m)
+[![10 Online Business Ideas To Start In 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_Online_Business_Ideas_To_Start_In_2022.svg)](https://dev.to/elinabey/10-online-business-ideas-to-start-in-2022-30na)
+[![VS Code Tip of the Week: Tree Find Control](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/VS_Code_Tip_of_the_Week__Tree_Find_Control.svg)](https://dev.to/vscodetips/vs-code-tip-of-the-week-tree-find-control-fg7)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, August 21, 2022 at 6:58:10 PM
+> Last updated: Monday, August 22, 2022 at 12:15:36 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, August 21, 2022 at 6:58:14 PM
+> Last updated: Monday, August 22, 2022 at 12:15:38 AM
 
 > Showing 5 of 30 posts.
 
