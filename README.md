@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, August 22, 2022 at 12:15:34 AM
+> Last updated: Monday, August 22, 2022 at 6:21:32 AM
 
 > Showing 5 of 12 posts.
 
-[![Browser extensions - Using storage](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Browser_extensions_-_Using_storage.svg)](https://dev.to/dailydevtips1/browser-extensions-using-storage-m7e)
-[![A Practical Guide to Brain.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Practical_Guide_to_Brain.js.svg)](https://dev.to/patilganesh1010/a-practical-guide-to-brainjs-nfk)
-[![When NOT to BLOCKCHAIN?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/When_NOT_to_BLOCKCHAIN_.svg)](https://dev.to/seek4samurai/when-not-to-blockchain-2h5m)
-[![10 Online Business Ideas To Start In 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_Online_Business_Ideas_To_Start_In_2022.svg)](https://dev.to/elinabey/10-online-business-ideas-to-start-in-2022-30na)
-[![VS Code Tip of the Week: Tree Find Control](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/VS_Code_Tip_of_the_Week__Tree_Find_Control.svg)](https://dev.to/vscodetips/vs-code-tip-of-the-week-tree-find-control-fg7)
+[![Securing a REST API with Spring Security and JWT](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Securing_a_REST_API_with_Spring_Security_and_JWT.svg)](https://dev.to/tleipzig/securing-a-rest-api-with-spring-security-and-jwt-3lip)
+[![Docker Logging - A Complete Guide to Logs in Docker](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Docker_Logging_-_A_Complete_Guide_to_Logs_in_Docker.svg)](https://dev.to/signoz/docker-logging-a-complete-guide-to-logs-in-docker-ecp)
+[![Awesome Packages for React JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Awesome_Packages_for_React_JS.svg)](https://dev.to/shubhamtiwari909/awesome-packages-for-react-js-8ip)
+[![Find your motivation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Find_your_motivation.svg)](https://dev.to/akinmyde/find-your-motivation-3n7h)
+[![How to build a blockquote component in Tailwind CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_build_a_blockquote_component_in_Tailwind_CSS.svg)](https://dev.to/themesberg/how-to-build-a-blockquote-component-in-tailwind-css-25cf)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, August 22, 2022 at 12:15:36 AM
+> Last updated: Monday, August 22, 2022 at 6:21:35 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, August 22, 2022 at 12:15:38 AM
+> Last updated: Monday, August 22, 2022 at 6:21:39 AM
 
 > Showing 5 of 30 posts.
 
+[![API with NestJS #71. Introduction to feature flags](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__71._Introduction_to_feature_flags.svg)](http://wanago.io/2022/08/22/api-nestjs-feature-flags-feature-toggles/)
 [![
 Excelize 2.6.1 Released - Go language API for spreadsheets (Excel) files
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Excelize_2.6.1_Released_-_Go_language_API_for_spreadsheets_(Excel)_files_.svg)](
@@ -55,7 +56,6 @@ https://xuri.me/excelize/en/releases/v2.6.1.html
 [![How to Create a Chrome Extension? - Yonatan Kra](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Create_a_Chrome_Extension__-_Yonatan_Kra.svg)](https://yonatankra.com/how-to-create-a-chrome-extension/)
 [![GitHub - x213212/Static-analyzer-in-gccplugin: Try to build a static analyzer in Gcc Plugin, the main application scenario is to detect memory-leak,double-free,use-after-free.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_x213212_Static-analyzer-in-gccplugin__Try_to_build_a_static_analyzer_in_Gcc_Plugin__the_main_application_scenario_is_to_detect_memory-leak_double-free_use-after-free..svg)](https://github.com/x213212/Static-analyzer-in-gccplugin)
 [![pg_jsonschema: JSON Schema support for Postgres](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/pg_jsonschema__JSON_Schema_support_for_Postgres.svg)](https://supabase.com/blog/pg-jsonschema-a-postgres-extension-for-json-validation)
-[![Optimize Data Fetching 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Optimize_Data_Fetching_🚀.svg)](https://medhatdawoud.net/blog/optimize-data-fetching)
 
 
 <!-- post-list:end -->
