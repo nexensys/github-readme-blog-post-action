@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, August 21, 2022 at 12:11:52 PM
+> Last updated: Sunday, August 21, 2022 at 6:58:07 PM
 
 > Showing 5 of 12 posts.
 
-[![How much do you need to know before starting?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_much_do_you_need_to_know_before_starting_.svg)](https://dev.to/noriller/how-much-do-you-need-to-know-before-starting-4o8o)
-[![Styling React App - Stylify vs Styled Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Styling_React_App_-_Stylify_vs_Styled_Components.svg)](https://dev.to/machy8/styling-react-app-stylify-vs-styled-components-5bd5)
-[![Making a Morphing 3D Sphere in Javascript with Three.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Making_a_Morphing_3D_Sphere_in_Javascript_with_Three.js.svg)](https://dev.to/smpnjn/making-a-morphing-3d-sphere-in-javascript-with-threejs-13oi)
-[![Save 100+ hours with this document before building an app/website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Save_100+_hours_with_this_document_before_building_an_app_website.svg)](https://dev.to/pradeepb28_/save-100-hours-with-this-document-before-building-an-appwebsite-2kg0)
-[![How to create a test database with Laravel Sail](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_a_test_database_with_Laravel_Sail.svg)](https://dev.to/alejandroakbal/how-to-create-a-test-database-with-laravel-sail-528d)
+[![The Ultimate Guide to SaaS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Ultimate_Guide_to_SaaS.svg)](https://dev.to/shittu_olumide_/the-ultimate-guide-to-saas-4j4j)
+[![O que é ORM - Mapeamento objeto-relacional](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/O_que_é_ORM_-_Mapeamento_objeto-relacional.svg)](https://dev.to/biosbug/o-que-e-orm-mapeamento-objeto-relacional-2m8n)
+[![From Java 8 to Kotlin, Clojure and Java 17](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/From_Java_8_to_Kotlin__Clojure_and_Java_17.svg)](https://dev.to/jorgetovar621/from-java-8-to-java-11-kotlin-and-clojure-5384)
+[![Sending E-mails with Go.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Sending_E-mails_with_Go..svg)](https://dev.to/salemzii/sending-e-mails-with-go-ff0)
+[![Best folder structure for SCSS/SASS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_folder_structure_for_SCSS_SASS.svg)](https://dev.to/shubhamku044/best-folder-structure-for-scsssass-3m34)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, August 21, 2022 at 12:11:54 PM
+> Last updated: Sunday, August 21, 2022 at 6:58:10 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, August 21, 2022 at 12:11:56 PM
+> Last updated: Sunday, August 21, 2022 at 6:58:14 PM
 
 > Showing 5 of 30 posts.
 
