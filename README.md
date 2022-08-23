@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, August 23, 2022 at 6:20:22 AM
+> Last updated: Tuesday, August 23, 2022 at 12:12:39 PM
 
 > Showing 5 of 12 posts.
 
-[![This Week In React - 🎉 10.000 subscribers 🥂 - 2k€ MRR - Ask Me Anything](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/This_Week_In_React_-_🎉_10.000_subscribers_🥂_-_2k€_MRR_-_Ask_Me_Anything.svg)](https://dev.to/sebastienlorber/this-week-in-react-10000subscribers-2keu-mrr-ask-me-anything-17o8)
-[![Using the new :has pseudo-class as a CSS parent selector](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_the_new__has_pseudo-class_as_a_CSS_parent_selector.svg)](https://dev.to/jmalvarez/using-the-new-has-pseudo-class-as-a-css-parent-selector-3bgh)
-[![The Array Way to Swap Variable - js,py and etc. i think.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Array_Way_to_Swap_Variable_-_js_py_and_etc._i_think..svg)](https://dev.to/mmvergara/the-array-way-to-swap-variable-jspy-and-etc-i-think-4m6m)
-[![RBAC in Angular and Hyperlambda components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/RBAC_in_Angular_and_Hyperlambda_components.svg)](https://dev.to/polterguy/rbac-in-angular-and-hyperlambda-components-54p6)
-[![Timezone Shenanigans in Swift](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Timezone_Shenanigans_in_Swift.svg)](https://dev.to/katharinagopp/timezone-shenanigans-in-swift-1654)
+[![Top 7 Featured DEV Posts from the Past Week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_7_Featured_DEV_Posts_from_the_Past_Week.svg)](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-20h6)
+[![Becoming a Force Multiplier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Becoming_a_Force_Multiplier.svg)](https://dev.to/jobber/becoming-a-force-multiplier-30d9)
+[![DataBase Vs Data Warehouse](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/DataBase_Vs_Data_Warehouse.svg)](https://dev.to/zapeeosheikh/database-vs-data-warehouse-1ab6)
+[![Who jumped into Svelte recently from other frameworks ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Who_jumped_into_Svelte_recently_from_other_frameworks__.svg)](https://dev.to/pulimoodan/who-jumped-into-svelte-recently-from-other-frameworks--4iha)
+[![Hire Laravel Developers With These Tips in Mind](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Hire_Laravel_Developers_With_These_Tips_in_Mind.svg)](https://dev.to/nikunjshingalaofficial/hire-laravel-developers-with-these-tips-in-mind-1n2o)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, August 23, 2022 at 6:20:24 AM
+> Last updated: Tuesday, August 23, 2022 at 12:12:42 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,21 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, August 23, 2022 at 6:20:29 AM
+> Last updated: Tuesday, August 23, 2022 at 12:12:46 PM
 
 > Showing 5 of 30 posts.
 
+[![Deep copying in JavaScript using structuredClone - Wisdom Geek](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Deep_copying_in_JavaScript_using_structuredClone_-_Wisdom_Geek.svg)](https://www.wisdomgeek.com/development/web-development/javascript/deep-copying-in-javascript-using-structuredclone/)
 [![Episode 25  - Learning UI frameworks with Corbin Crutchley - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_25__-_Learning_UI_frameworks_with_Corbin_Crutchley_-_20minJS.svg)](https://podcast.20minjs.com/1952066/11179009-episode-25-learning-ui-frameworks-with-corbin-crutchley)
 [![How To Implement Custom Error Responses in Express](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_To_Implement_Custom_Error_Responses_in_Express.svg)](https://auth0.com/blog/how-to-implement-custom-error-responses-in-expressjs/)
 [![Format CSS in the Browser](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Format_CSS_in_the_Browser.svg)](
 https://masteringjs.io/tutorials/tools/format-css
 )
 [![API with NestJS #71. Introduction to feature flags](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__71._Introduction_to_feature_flags.svg)](http://wanago.io/2022/08/22/api-nestjs-feature-flags-feature-toggles/)
-[![
-Excelize 2.6.1 Released - Go language API for spreadsheets (Excel) files
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Excelize_2.6.1_Released_-_Go_language_API_for_spreadsheets_(Excel)_files_.svg)](
-https://xuri.me/excelize/en/releases/v2.6.1.html
-)
 
 
 <!-- post-list:end -->
