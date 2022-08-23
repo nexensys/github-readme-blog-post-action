@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, August 23, 2022 at 12:23:57 AM
+> Last updated: Tuesday, August 23, 2022 at 6:20:22 AM
 
 > Showing 5 of 12 posts.
 
-[![Using AJAX for first time.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_AJAX_for_first_time..svg)](https://dev.to/aakas/using-ajax-for-first-time-2f6o)
-[![Why are custom headers missing in "304 (Not Modified)" responses?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_are_custom_headers_missing_in__304_(Not_Modified)__responses_.svg)](https://dev.to/ericapisani/why-are-custom-headers-missing-in-304-not-modified-responses-2bj4)
-[![What is Mobile Application Development?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_Mobile_Application_Development_.svg)](https://dev.to/makendrang/what-is-mobile-application-development-56k7)
-[![Adventures with NestJS: Building an API. Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Adventures_with_NestJS__Building_an_API._Part_1.svg)](https://dev.to/franciscomessina/adventures-with-nestjs-building-an-api-part-1-2g03)
-[![The good parts of Supabase](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_good_parts_of_Supabase.svg)](https://dev.to/noahflk/the-good-parts-of-supabase-663)
+[![This Week In React - 🎉 10.000 subscribers 🥂 - 2k€ MRR - Ask Me Anything](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/This_Week_In_React_-_🎉_10.000_subscribers_🥂_-_2k€_MRR_-_Ask_Me_Anything.svg)](https://dev.to/sebastienlorber/this-week-in-react-10000subscribers-2keu-mrr-ask-me-anything-17o8)
+[![Using the new :has pseudo-class as a CSS parent selector](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_the_new__has_pseudo-class_as_a_CSS_parent_selector.svg)](https://dev.to/jmalvarez/using-the-new-has-pseudo-class-as-a-css-parent-selector-3bgh)
+[![The Array Way to Swap Variable - js,py and etc. i think.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Array_Way_to_Swap_Variable_-_js_py_and_etc._i_think..svg)](https://dev.to/mmvergara/the-array-way-to-swap-variable-jspy-and-etc-i-think-4m6m)
+[![RBAC in Angular and Hyperlambda components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/RBAC_in_Angular_and_Hyperlambda_components.svg)](https://dev.to/polterguy/rbac-in-angular-and-hyperlambda-components-54p6)
+[![Timezone Shenanigans in Swift](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Timezone_Shenanigans_in_Swift.svg)](https://dev.to/katharinagopp/timezone-shenanigans-in-swift-1654)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, August 23, 2022 at 12:24:00 AM
+> Last updated: Tuesday, August 23, 2022 at 6:20:24 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, August 23, 2022 at 12:24:03 AM
+> Last updated: Tuesday, August 23, 2022 at 6:20:29 AM
 
 > Showing 5 of 30 posts.
 
+[![Episode 25  - Learning UI frameworks with Corbin Crutchley - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_25__-_Learning_UI_frameworks_with_Corbin_Crutchley_-_20minJS.svg)](https://podcast.20minjs.com/1952066/11179009-episode-25-learning-ui-frameworks-with-corbin-crutchley)
 [![How To Implement Custom Error Responses in Express](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_To_Implement_Custom_Error_Responses_in_Express.svg)](https://auth0.com/blog/how-to-implement-custom-error-responses-in-expressjs/)
 [![Format CSS in the Browser](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Format_CSS_in_the_Browser.svg)](
 https://masteringjs.io/tutorials/tools/format-css
@@ -57,7 +58,6 @@ Excelize 2.6.1 Released - Go language API for spreadsheets (Excel) files
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Excelize_2.6.1_Released_-_Go_language_API_for_spreadsheets_(Excel)_files_.svg)](
 https://xuri.me/excelize/en/releases/v2.6.1.html
 )
-[![How to Create a Chrome Extension? - Yonatan Kra](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Create_a_Chrome_Extension__-_Yonatan_Kra.svg)](https://yonatankra.com/how-to-create-a-chrome-extension/)
 
 
 <!-- post-list:end -->
