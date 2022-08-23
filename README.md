@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, August 22, 2022 at 7:05:31 PM
+> Last updated: Tuesday, August 23, 2022 at 12:23:57 AM
 
 > Showing 5 of 12 posts.
 
+[![Using AJAX for first time.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_AJAX_for_first_time..svg)](https://dev.to/aakas/using-ajax-for-first-time-2f6o)
+[![Why are custom headers missing in "304 (Not Modified)" responses?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_are_custom_headers_missing_in__304_(Not_Modified)__responses_.svg)](https://dev.to/ericapisani/why-are-custom-headers-missing-in-304-not-modified-responses-2bj4)
 [![What is Mobile Application Development?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_Mobile_Application_Development_.svg)](https://dev.to/makendrang/what-is-mobile-application-development-56k7)
 [![Adventures with NestJS: Building an API. Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Adventures_with_NestJS__Building_an_API._Part_1.svg)](https://dev.to/franciscomessina/adventures-with-nestjs-building-an-api-part-1-2g03)
 [![The good parts of Supabase](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_good_parts_of_Supabase.svg)](https://dev.to/noahflk/the-good-parts-of-supabase-663)
-[![10+ digital skills in 2022 to get you a job](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10+_digital_skills_in_2022_to_get_you_a_job.svg)](https://dev.to/mojodev/10-digital-skills-in-2022-to-get-you-a-job-45f6)
-[![Caesar Cipher and JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Caesar_Cipher_and_JavaScript.svg)](https://dev.to/anasnmu/caesar-cipher-and-javascript-1kl1)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, August 22, 2022 at 7:05:34 PM
+> Last updated: Tuesday, August 23, 2022 at 12:24:00 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, August 22, 2022 at 7:05:37 PM
+> Last updated: Tuesday, August 23, 2022 at 12:24:03 AM
 
 > Showing 5 of 30 posts.
 
