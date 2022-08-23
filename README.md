@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, August 22, 2022 at 12:12:03 PM
+> Last updated: Monday, August 22, 2022 at 7:05:31 PM
 
 > Showing 5 of 12 posts.
 
-[![The first Open-Sourced API security testing tool CI/CD integrated.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_first_Open-Sourced_API_security_testing_tool_CI_CD_integrated..svg)](https://dev.to/nathan20/the-first-open-sourced-api-security-testing-tool-cicd-integrated-59m9)
-[![Subscribe to a new newsletter for security-aware developers!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Subscribe_to_a_new_newsletter_for_security-aware_developers!.svg)](https://dev.to/cossacklabs/subscribe-to-a-new-newsletter-for-security-aware-developers-2n8e)
-[![Awesome tools for Web Developer - Part 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Awesome_tools_for_Web_Developer_-_Part_2.svg)](https://dev.to/surajondev/awesome-tools-for-web-developer-part-2-4j9k)
-[![How to query a large file in S3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_query_a_large_file_in_S3.svg)](https://dev.to/aws-builders/how-to-query-a-large-file-in-s3-4doa)
-[![Rate Limiting at Edge with Cloudflare Workers and Serverless Redis](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Rate_Limiting_at_Edge_with_Cloudflare_Workers_and_Serverless_Redis.svg)](https://dev.to/noahfschr/rate-limiting-at-edge-with-cloudflare-workers-and-serverless-redis-4opd)
+[![What is Mobile Application Development?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_Mobile_Application_Development_.svg)](https://dev.to/makendrang/what-is-mobile-application-development-56k7)
+[![Adventures with NestJS: Building an API. Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Adventures_with_NestJS__Building_an_API._Part_1.svg)](https://dev.to/franciscomessina/adventures-with-nestjs-building-an-api-part-1-2g03)
+[![The good parts of Supabase](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_good_parts_of_Supabase.svg)](https://dev.to/noahflk/the-good-parts-of-supabase-663)
+[![10+ digital skills in 2022 to get you a job](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10+_digital_skills_in_2022_to_get_you_a_job.svg)](https://dev.to/mojodev/10-digital-skills-in-2022-to-get-you-a-job-45f6)
+[![Caesar Cipher and JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Caesar_Cipher_and_JavaScript.svg)](https://dev.to/anasnmu/caesar-cipher-and-javascript-1kl1)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, August 22, 2022 at 12:12:05 PM
+> Last updated: Monday, August 22, 2022 at 7:05:34 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,14 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, August 22, 2022 at 12:12:09 PM
+> Last updated: Monday, August 22, 2022 at 7:05:37 PM
 
 > Showing 5 of 30 posts.
 
+[![How To Implement Custom Error Responses in Express](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_To_Implement_Custom_Error_Responses_in_Express.svg)](https://auth0.com/blog/how-to-implement-custom-error-responses-in-expressjs/)
+[![Format CSS in the Browser](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Format_CSS_in_the_Browser.svg)](
+https://masteringjs.io/tutorials/tools/format-css
+)
 [![API with NestJS #71. Introduction to feature flags](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__71._Introduction_to_feature_flags.svg)](http://wanago.io/2022/08/22/api-nestjs-feature-flags-feature-toggles/)
 [![
 Excelize 2.6.1 Released - Go language API for spreadsheets (Excel) files
@@ -54,8 +58,6 @@ Excelize 2.6.1 Released - Go language API for spreadsheets (Excel) files
 https://xuri.me/excelize/en/releases/v2.6.1.html
 )
 [![How to Create a Chrome Extension? - Yonatan Kra](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Create_a_Chrome_Extension__-_Yonatan_Kra.svg)](https://yonatankra.com/how-to-create-a-chrome-extension/)
-[![GitHub - x213212/Static-analyzer-in-gccplugin: Try to build a static analyzer in Gcc Plugin, the main application scenario is to detect memory-leak,double-free,use-after-free.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_x213212_Static-analyzer-in-gccplugin__Try_to_build_a_static_analyzer_in_Gcc_Plugin__the_main_application_scenario_is_to_detect_memory-leak_double-free_use-after-free..svg)](https://github.com/x213212/Static-analyzer-in-gccplugin)
-[![pg_jsonschema: JSON Schema support for Postgres](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/pg_jsonschema__JSON_Schema_support_for_Postgres.svg)](https://supabase.com/blog/pg-jsonschema-a-postgres-extension-for-json-validation)
 
 
 <!-- post-list:end -->
