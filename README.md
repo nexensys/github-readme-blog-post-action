@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, August 23, 2022 at 12:12:39 PM
+> Last updated: Tuesday, August 23, 2022 at 6:58:33 PM
 
 > Showing 5 of 12 posts.
 
-[![Top 7 Featured DEV Posts from the Past Week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_7_Featured_DEV_Posts_from_the_Past_Week.svg)](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-20h6)
-[![Becoming a Force Multiplier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Becoming_a_Force_Multiplier.svg)](https://dev.to/jobber/becoming-a-force-multiplier-30d9)
-[![DataBase Vs Data Warehouse](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/DataBase_Vs_Data_Warehouse.svg)](https://dev.to/zapeeosheikh/database-vs-data-warehouse-1ab6)
-[![Who jumped into Svelte recently from other frameworks ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Who_jumped_into_Svelte_recently_from_other_frameworks__.svg)](https://dev.to/pulimoodan/who-jumped-into-svelte-recently-from-other-frameworks--4iha)
-[![Hire Laravel Developers With These Tips in Mind](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Hire_Laravel_Developers_With_These_Tips_in_Mind.svg)](https://dev.to/nikunjshingalaofficial/hire-laravel-developers-with-these-tips-in-mind-1n2o)
+[![How to use .ttf fonts with Tailwind CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_.ttf_fonts_with_Tailwind_CSS.svg)](https://dev.to/shubhamku044/how-to-use-ttf-fonts-with-tailwind-css-39dg)
+[![Como formatar e garantir boas práticas em projetos de automação Cypress utilizando a ferramenta Eslint.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Como_formatar_e_garantir_boas_práticas_em_projetos_de_automação_Cypress_utilizando_a_ferramenta_Eslint..svg)](https://dev.to/joaocosti/eslint-em-projetos-de-cypress-o-que-e-e-quais-suas-vantagens-5765)
+[![My favorite PHP/Laravel Youtube channels](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_favorite_PHP_Laravel_Youtube_channels.svg)](https://dev.to/robertobutti/my-favorite-phplaravel-youtube-channels-2a0)
+[![What is a reverse shell attack?!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_a_reverse_shell_attack_!.svg)](https://dev.to/snyk/taking-control-of-your-server-with-a-reverse-shell-attack-3mdg)
+[![Como deixar as imagens nos documentos no Confluence mais acessíveis](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Como_deixar_as_imagens_nos_documentos_no_Confluence_mais_acessíveis.svg)](https://dev.to/feministech/como-deixar-as-imagens-nos-documentos-no-confluence-mais-acessiveis-4hh1)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, August 23, 2022 at 12:12:42 PM
+> Last updated: Tuesday, August 23, 2022 at 6:58:36 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, August 23, 2022 at 12:12:46 PM
+> Last updated: Tuesday, August 23, 2022 at 6:58:42 PM
 
 > Showing 5 of 30 posts.
 
