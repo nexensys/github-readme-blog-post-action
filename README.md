@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, August 24, 2022 at 12:15:07 AM
+> Last updated: Wednesday, August 24, 2022 at 6:20:45 AM
 
 > Showing 5 of 12 posts.
 
-[![Using Material UI DataGrid component with refine app](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_Material_UI_DataGrid_component_with_refine_app.svg)](https://dev.to/refine/using-material-ui-datagrid-component-with-refine-app-558k)
-[![Browser extensions - Custom options page](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Browser_extensions_-_Custom_options_page.svg)](https://dev.to/dailydevtips1/browser-extensions-custom-options-page-5b3)
-[![Install NextUI in React with Typescript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Install_NextUI_in_React_with_Typescript.svg)](https://dev.to/frontendshape/install-nextui-in-react-with-typescript-3jgd)
-[![Are You Being Underpaid?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Are_You_Being_Underpaid_.svg)](https://dev.to/krazykulsum/are-you-being-underpaid-53p5)
-[![Use VS Code for Bug Reporting to Lower the Bar for New Contributors](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Use_VS_Code_for_Bug_Reporting_to_Lower_the_Bar_for_New_Contributors.svg)](https://dev.to/sourishkrout/use-vs-code-for-bug-reporting-to-lower-the-bar-for-new-contributors-5dh9)
+[![Text Animation in CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Text_Animation_in_CSS.svg)](https://dev.to/shubhamtiwari909/text-animation-in-css-16j9)
+[![Creating an Accordion using vanilla Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_an_Accordion_using_vanilla_Javascript.svg)](https://dev.to/akshaykhot07/creating-an-accordion-using-vanilla-javascript-3o55)
+[![Redis Hackathon - Sanic Currency Exchange API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Redis_Hackathon_-_Sanic_Currency_Exchange_API.svg)](https://dev.to/timhub/redis-hackathon-sanic-currency-exchange-api-132e)
+[![Build A Responsive Sidebar with React and Styled Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_A_Responsive_Sidebar_with_React_and_Styled_Components.svg)](https://dev.to/jealousgx/build-a-responsive-sidebar-with-react-and-styled-components-4e9e)
+[![MUI Icons in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/MUI_Icons_in_React.svg)](https://dev.to/refine/mui-icons-in-react-1ici)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, August 24, 2022 at 12:15:10 AM
+> Last updated: Wednesday, August 24, 2022 at 6:20:47 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, August 24, 2022 at 12:15:14 AM
+> Last updated: Wednesday, August 24, 2022 at 6:20:51 AM
 
 > Showing 5 of 30 posts.
 
+[![Build a ToDo app with React, Tailwind and Webiny Headless CMS | Webiny](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_a_ToDo_app_with_React__Tailwind_and_Webiny_Headless_CMS___Webiny.svg)](
+https://www.webiny.com/blog/todo-application-react-tailwind-webiny-headless-cms
+)
 [![Oven](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Oven.svg)](
 https://oven.sh
 )
 [![npm command not working?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/npm_command_not_working_.svg)](https://www.js-tutorials.com/nodejs-tutorial/npm-command-not-working/)
 [![Deep copying in JavaScript using structuredClone - Wisdom Geek](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Deep_copying_in_JavaScript_using_structuredClone_-_Wisdom_Geek.svg)](https://www.wisdomgeek.com/development/web-development/javascript/deep-copying-in-javascript-using-structuredclone/)
 [![Episode 25  - Learning UI frameworks with Corbin Crutchley - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_25__-_Learning_UI_frameworks_with_Corbin_Crutchley_-_20minJS.svg)](https://podcast.20minjs.com/1952066/11179009-episode-25-learning-ui-frameworks-with-corbin-crutchley)
-[![How To Implement Custom Error Responses in Express](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_To_Implement_Custom_Error_Responses_in_Express.svg)](https://auth0.com/blog/how-to-implement-custom-error-responses-in-expressjs/)
 
 
 <!-- post-list:end -->
