@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, August 24, 2022 at 6:20:45 AM
+> Last updated: Wednesday, August 24, 2022 at 12:21:11 PM
 
 > Showing 5 of 12 posts.
 
-[![Text Animation in CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Text_Animation_in_CSS.svg)](https://dev.to/shubhamtiwari909/text-animation-in-css-16j9)
-[![Creating an Accordion using vanilla Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_an_Accordion_using_vanilla_Javascript.svg)](https://dev.to/akshaykhot07/creating-an-accordion-using-vanilla-javascript-3o55)
-[![Redis Hackathon - Sanic Currency Exchange API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Redis_Hackathon_-_Sanic_Currency_Exchange_API.svg)](https://dev.to/timhub/redis-hackathon-sanic-currency-exchange-api-132e)
-[![Build A Responsive Sidebar with React and Styled Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_A_Responsive_Sidebar_with_React_and_Styled_Components.svg)](https://dev.to/jealousgx/build-a-responsive-sidebar-with-react-and-styled-components-4e9e)
-[![MUI Icons in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/MUI_Icons_in_React.svg)](https://dev.to/refine/mui-icons-in-react-1ici)
+[![UK Global Talent Visa Requirements](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/UK_Global_Talent_Visa_Requirements.svg)](https://dev.to/beetlehope/uk-global-talent-visa-requirements-mandatory-criteria-part-ii-hd0)
+[![Embeddings index components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Embeddings_index_components.svg)](https://dev.to/neuml/embeddings-index-components-3plg)
+[![Welcome Thread - v188](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Welcome_Thread_-_v188.svg)](https://dev.to/thepracticaldev/welcome-thread-v188-3ppp)
+[![Browserslist: building modern web apps for diverse global audience](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Browserslist__building_modern_web_apps_for_diverse_global_audience.svg)](https://dev.to/cubejs/browserslist-building-modern-web-apps-for-diverse-global-audience-5g9h)
+[![Javascript: My way to learn javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Javascript__My_way_to_learn_javascript.svg)](https://dev.to/urstrulyvishwak/javascript-my-way-to-learn-javascript-10hd)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, August 24, 2022 at 6:20:47 AM
+> Last updated: Wednesday, August 24, 2022 at 12:21:15 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,16 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, August 24, 2022 at 6:20:51 AM
+> Last updated: Wednesday, August 24, 2022 at 12:21:18 PM
 
 > Showing 5 of 30 posts.
 
+[![Scope of Crypto Payment Gateway Development & it's Market Report](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Scope_of_Crypto_Payment_Gateway_Development___it's_Market_Report.svg)](https://thecryptoape.com/scope-of-crypto-payment-gateway-development-its-market-report/)
+[![
+Introducing the all new Smartest Animation library in JS
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Introducing_the_all_new_Smartest_Animation_library_in_JS_.svg)](
+https://abhiprojectz.github.io/motionia/
+)
 [![Build a ToDo app with React, Tailwind and Webiny Headless CMS | Webiny](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_a_ToDo_app_with_React__Tailwind_and_Webiny_Headless_CMS___Webiny.svg)](
 https://www.webiny.com/blog/todo-application-react-tailwind-webiny-headless-cms
 )
@@ -54,8 +60,6 @@ https://www.webiny.com/blog/todo-application-react-tailwind-webiny-headless-cms
 https://oven.sh
 )
 [![npm command not working?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/npm_command_not_working_.svg)](https://www.js-tutorials.com/nodejs-tutorial/npm-command-not-working/)
-[![Deep copying in JavaScript using structuredClone - Wisdom Geek](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Deep_copying_in_JavaScript_using_structuredClone_-_Wisdom_Geek.svg)](https://www.wisdomgeek.com/development/web-development/javascript/deep-copying-in-javascript-using-structuredclone/)
-[![Episode 25  - Learning UI frameworks with Corbin Crutchley - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_25__-_Learning_UI_frameworks_with_Corbin_Crutchley_-_20minJS.svg)](https://podcast.20minjs.com/1952066/11179009-episode-25-learning-ui-frameworks-with-corbin-crutchley)
 
 
 <!-- post-list:end -->
