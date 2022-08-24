@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, August 23, 2022 at 6:58:33 PM
+> Last updated: Wednesday, August 24, 2022 at 12:15:07 AM
 
 > Showing 5 of 12 posts.
 
-[![How to use .ttf fonts with Tailwind CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_.ttf_fonts_with_Tailwind_CSS.svg)](https://dev.to/shubhamku044/how-to-use-ttf-fonts-with-tailwind-css-39dg)
-[![Como formatar e garantir boas práticas em projetos de automação Cypress utilizando a ferramenta Eslint.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Como_formatar_e_garantir_boas_práticas_em_projetos_de_automação_Cypress_utilizando_a_ferramenta_Eslint..svg)](https://dev.to/joaocosti/eslint-em-projetos-de-cypress-o-que-e-e-quais-suas-vantagens-5765)
-[![My favorite PHP/Laravel Youtube channels](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_favorite_PHP_Laravel_Youtube_channels.svg)](https://dev.to/robertobutti/my-favorite-phplaravel-youtube-channels-2a0)
-[![What is a reverse shell attack?!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_a_reverse_shell_attack_!.svg)](https://dev.to/snyk/taking-control-of-your-server-with-a-reverse-shell-attack-3mdg)
-[![Como deixar as imagens nos documentos no Confluence mais acessíveis](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Como_deixar_as_imagens_nos_documentos_no_Confluence_mais_acessíveis.svg)](https://dev.to/feministech/como-deixar-as-imagens-nos-documentos-no-confluence-mais-acessiveis-4hh1)
+[![Using Material UI DataGrid component with refine app](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_Material_UI_DataGrid_component_with_refine_app.svg)](https://dev.to/refine/using-material-ui-datagrid-component-with-refine-app-558k)
+[![Browser extensions - Custom options page](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Browser_extensions_-_Custom_options_page.svg)](https://dev.to/dailydevtips1/browser-extensions-custom-options-page-5b3)
+[![Install NextUI in React with Typescript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Install_NextUI_in_React_with_Typescript.svg)](https://dev.to/frontendshape/install-nextui-in-react-with-typescript-3jgd)
+[![Are You Being Underpaid?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Are_You_Being_Underpaid_.svg)](https://dev.to/krazykulsum/are-you-being-underpaid-53p5)
+[![Use VS Code for Bug Reporting to Lower the Bar for New Contributors](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Use_VS_Code_for_Bug_Reporting_to_Lower_the_Bar_for_New_Contributors.svg)](https://dev.to/sourishkrout/use-vs-code-for-bug-reporting-to-lower-the-bar-for-new-contributors-5dh9)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, August 23, 2022 at 6:58:36 PM
+> Last updated: Wednesday, August 24, 2022 at 12:15:10 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, August 23, 2022 at 6:58:42 PM
+> Last updated: Wednesday, August 24, 2022 at 12:15:14 AM
 
 > Showing 5 of 30 posts.
 
+[![Oven](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Oven.svg)](
+https://oven.sh
+)
+[![npm command not working?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/npm_command_not_working_.svg)](https://www.js-tutorials.com/nodejs-tutorial/npm-command-not-working/)
 [![Deep copying in JavaScript using structuredClone - Wisdom Geek](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Deep_copying_in_JavaScript_using_structuredClone_-_Wisdom_Geek.svg)](https://www.wisdomgeek.com/development/web-development/javascript/deep-copying-in-javascript-using-structuredclone/)
 [![Episode 25  - Learning UI frameworks with Corbin Crutchley - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_25__-_Learning_UI_frameworks_with_Corbin_Crutchley_-_20minJS.svg)](https://podcast.20minjs.com/1952066/11179009-episode-25-learning-ui-frameworks-with-corbin-crutchley)
 [![How To Implement Custom Error Responses in Express](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_To_Implement_Custom_Error_Responses_in_Express.svg)](https://auth0.com/blog/how-to-implement-custom-error-responses-in-expressjs/)
-[![Format CSS in the Browser](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Format_CSS_in_the_Browser.svg)](
-https://masteringjs.io/tutorials/tools/format-css
-)
-[![API with NestJS #71. Introduction to feature flags](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__71._Introduction_to_feature_flags.svg)](http://wanago.io/2022/08/22/api-nestjs-feature-flags-feature-toggles/)
 
 
 <!-- post-list:end -->
