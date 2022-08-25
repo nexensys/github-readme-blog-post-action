@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, August 24, 2022 at 7:06:08 PM
+> Last updated: Thursday, August 25, 2022 at 12:25:00 AM
 
 > Showing 5 of 12 posts.
 
-[![Why your website should be under 14kb in size](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_your_website_should_be_under_14kb_in_size.svg)](https://dev.to/shadowfaxrodeo/why-your-website-should-be-under-14kb-in-size-398n)
-[![7 Software Development Methodologies](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/7_Software_Development_Methodologies.svg)](https://dev.to/makendrang/7-software-development-methodologies-5fc5)
-[![Building the Salim Writing Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_the_Salim_Writing_Blog.svg)](https://dev.to/salimcodes/building-the-salim-writing-blog-2n0b)
-[![You need to know about Github CLI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/You_need_to_know_about_Github_CLI.svg)](https://dev.to/luizcalaca/you-need-to-know-about-github-cli-iif)
-[![🎉 Introducing @akalli/components smart components for React Native with CSS style like](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🎉_Introducing_@akalli_components_smart_components_for_React_Native_with_CSS_style_like.svg)](https://dev.to/danilosilvadev/introducing-akallicomponents-smart-components-for-react-native-with-css-style-like-3gd9)
+[![So how do you stay updated with the latest blogs ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/So_how_do_you_stay_updated_with_the_latest_blogs__.svg)](https://dev.to/yankaf/so-how-do-you-stay-updated-with-the-latest-blogs--1fdj)
+[![🤖 Just Added IT Vacancies - Week #35 of 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🤖_Just_Added_IT_Vacancies_-_Week__35_of_2022.svg)](https://dev.to/shman/just-added-it-vacancies-week-35-of-2022-13ih)
+[![The Most Effective Method To Organize Your SaaS Development Process](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Most_Effective_Method_To_Organize_Your_SaaS_Development_Process.svg)](https://dev.to/ebizneeds/the-most-effective-method-to-organize-your-saas-development-process-5fjf)
+[![CloudFront with JWT authentication](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CloudFront_with_JWT_authentication.svg)](https://dev.to/haintkit/cloudfront-with-jwt-authentication-46dh)
+[![How do you create a cookie policy for your website?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_do_you_create_a_cookie_policy_for_your_website_.svg)](https://dev.to/jenniesworth11/how-do-you-create-a-cookie-policy-for-your-website-h1e)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, August 24, 2022 at 7:06:11 PM
+> Last updated: Thursday, August 25, 2022 at 12:25:03 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, August 24, 2022 at 7:06:14 PM
+> Last updated: Thursday, August 25, 2022 at 12:25:05 AM
 
 > Showing 5 of 30 posts.
 
