@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, August 24, 2022 at 12:21:11 PM
+> Last updated: Wednesday, August 24, 2022 at 7:06:08 PM
 
 > Showing 5 of 12 posts.
 
-[![UK Global Talent Visa Requirements](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/UK_Global_Talent_Visa_Requirements.svg)](https://dev.to/beetlehope/uk-global-talent-visa-requirements-mandatory-criteria-part-ii-hd0)
-[![Embeddings index components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Embeddings_index_components.svg)](https://dev.to/neuml/embeddings-index-components-3plg)
-[![Welcome Thread - v188](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Welcome_Thread_-_v188.svg)](https://dev.to/thepracticaldev/welcome-thread-v188-3ppp)
-[![Browserslist: building modern web apps for diverse global audience](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Browserslist__building_modern_web_apps_for_diverse_global_audience.svg)](https://dev.to/cubejs/browserslist-building-modern-web-apps-for-diverse-global-audience-5g9h)
-[![Javascript: My way to learn javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Javascript__My_way_to_learn_javascript.svg)](https://dev.to/urstrulyvishwak/javascript-my-way-to-learn-javascript-10hd)
+[![Why your website should be under 14kb in size](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_your_website_should_be_under_14kb_in_size.svg)](https://dev.to/shadowfaxrodeo/why-your-website-should-be-under-14kb-in-size-398n)
+[![7 Software Development Methodologies](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/7_Software_Development_Methodologies.svg)](https://dev.to/makendrang/7-software-development-methodologies-5fc5)
+[![Building the Salim Writing Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_the_Salim_Writing_Blog.svg)](https://dev.to/salimcodes/building-the-salim-writing-blog-2n0b)
+[![You need to know about Github CLI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/You_need_to_know_about_Github_CLI.svg)](https://dev.to/luizcalaca/you-need-to-know-about-github-cli-iif)
+[![🎉 Introducing @akalli/components smart components for React Native with CSS style like](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🎉_Introducing_@akalli_components_smart_components_for_React_Native_with_CSS_style_like.svg)](https://dev.to/danilosilvadev/introducing-akallicomponents-smart-components-for-react-native-with-css-style-like-3gd9)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, August 24, 2022 at 12:21:15 PM
+> Last updated: Wednesday, August 24, 2022 at 7:06:11 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,23 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, August 24, 2022 at 12:21:18 PM
+> Last updated: Wednesday, August 24, 2022 at 7:06:14 PM
 
 > Showing 5 of 30 posts.
 
-[![Scope of Crypto Payment Gateway Development & it's Market Report](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Scope_of_Crypto_Payment_Gateway_Development___it's_Market_Report.svg)](https://thecryptoape.com/scope-of-crypto-payment-gateway-development-its-market-report/)
-[![
-Introducing the all new Smartest Animation library in JS
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Introducing_the_all_new_Smartest_Animation_library_in_JS_.svg)](
-https://abhiprojectz.github.io/motionia/
+[![Calculate the Median of an Array in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Calculate_the_Median_of_an_Array_in_JavaScript.svg)](
+https://masteringjs.io/tutorials/fundamentals/median
 )
 [![Build a ToDo app with React, Tailwind and Webiny Headless CMS | Webiny](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_a_ToDo_app_with_React__Tailwind_and_Webiny_Headless_CMS___Webiny.svg)](
 https://www.webiny.com/blog/todo-application-react-tailwind-webiny-headless-cms
 )
-[![Oven](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Oven.svg)](
-https://oven.sh
-)
-[![npm command not working?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/npm_command_not_working_.svg)](https://www.js-tutorials.com/nodejs-tutorial/npm-command-not-working/)
+[![Deep copying in JavaScript using structuredClone - Wisdom Geek](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Deep_copying_in_JavaScript_using_structuredClone_-_Wisdom_Geek.svg)](https://www.wisdomgeek.com/development/web-development/javascript/deep-copying-in-javascript-using-structuredclone/)
+[![Episode 25  - Learning UI frameworks with Corbin Crutchley - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_25__-_Learning_UI_frameworks_with_Corbin_Crutchley_-_20minJS.svg)](https://podcast.20minjs.com/1952066/11179009-episode-25-learning-ui-frameworks-with-corbin-crutchley)
+[![How To Implement Custom Error Responses in Express](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_To_Implement_Custom_Error_Responses_in_Express.svg)](https://auth0.com/blog/how-to-implement-custom-error-responses-in-expressjs/)
 
 
 <!-- post-list:end -->
