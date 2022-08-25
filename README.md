@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, August 25, 2022 at 12:25:00 AM
+> Last updated: Thursday, August 25, 2022 at 6:21:20 AM
 
 > Showing 5 of 12 posts.
 
-[![So how do you stay updated with the latest blogs ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/So_how_do_you_stay_updated_with_the_latest_blogs__.svg)](https://dev.to/yankaf/so-how-do-you-stay-updated-with-the-latest-blogs--1fdj)
-[![🤖 Just Added IT Vacancies - Week #35 of 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🤖_Just_Added_IT_Vacancies_-_Week__35_of_2022.svg)](https://dev.to/shman/just-added-it-vacancies-week-35-of-2022-13ih)
-[![The Most Effective Method To Organize Your SaaS Development Process](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Most_Effective_Method_To_Organize_Your_SaaS_Development_Process.svg)](https://dev.to/ebizneeds/the-most-effective-method-to-organize-your-saas-development-process-5fjf)
-[![CloudFront with JWT authentication](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CloudFront_with_JWT_authentication.svg)](https://dev.to/haintkit/cloudfront-with-jwt-authentication-46dh)
-[![How do you create a cookie policy for your website?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_do_you_create_a_cookie_policy_for_your_website_.svg)](https://dev.to/jenniesworth11/how-do-you-create-a-cookie-policy-for-your-website-h1e)
+[![Self Guide to becoming a Data Analyst](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Self_Guide_to_becoming_a_Data_Analyst.svg)](https://dev.to/phylis/self-guide-to-becoming-a-data-analyst-gfn)
+[![How I Created an Ecommerce App with Medusa and Ionic](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_I_Created_an_Ecommerce_App_with_Medusa_and_Ionic.svg)](https://dev.to/medusajs/how-i-created-an-ecommerce-app-with-medusa-and-ionic-2lkg)
+[![Image Animation in CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Image_Animation_in_CSS.svg)](https://dev.to/shubhamtiwari909/image-animation-in-css-jj4)
+[![Are Office Scripts the new VBA?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Are_Office_Scripts_the_new_VBA_.svg)](https://dev.to/wyattdave/are-office-scripts-the-new-vba-1c6)
+[![Deno & Hasura for app development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deno___Hasura_for_app_development.svg)](https://dev.to/adamrrudolf/deno-hasura-for-app-development-3ofc)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, August 25, 2022 at 12:25:03 AM
+> Last updated: Thursday, August 25, 2022 at 6:21:23 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, August 25, 2022 at 12:25:05 AM
+> Last updated: Thursday, August 25, 2022 at 6:21:27 AM
 
 > Showing 5 of 30 posts.
 
