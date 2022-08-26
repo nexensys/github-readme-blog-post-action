@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, August 26, 2022 at 12:30:31 AM
+> Last updated: Friday, August 26, 2022 at 6:21:34 AM
 
 > Showing 5 of 12 posts.
 
-[![JHipster does not use lombok. Why?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JHipster_does_not_use_lombok._Why_.svg)](https://dev.to/renanfranca/jhipster-does-not-use-lombok-why-12o9)
-[![Best Practices for Building Reliable APIs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_Practices_for_Building_Reliable_APIs.svg)](https://dev.to/navendu/best-practices-for-building-reliable-apis-1194)
-[![I ported the Point Cloud Library (PCL) to the browser!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_ported_the_Point_Cloud_Library_(PCL)_to_the_browser!.svg)](https://dev.to/luoxuhai/i-ported-the-point-cloud-library-pcl-to-the-browser-389j)
-[![Genesis Of Blockchain: Overview Of How It Began And Where It Is Going](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Genesis_Of_Blockchain__Overview_Of_How_It_Began_And_Where_It_Is_Going.svg)](https://dev.to/eunit/genesis-of-blockchain-overview-of-how-it-began-and-where-it-is-going-omd)
-[![Tip Land the SaaS platform for the tip of the day](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tip_Land_the_SaaS_platform_for_the_tip_of_the_day.svg)](https://dev.to/andreslopezrm/tip-land-the-saas-platform-for-the-tip-of-the-day-5g7n)
+[![Design patterns is a symptom of a sick programming language](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Design_patterns_is_a_symptom_of_a_sick_programming_language.svg)](https://dev.to/polterguy/design-patterns-is-a-symptom-of-a-sick-programming-language-2hd8)
+[![How to declare a good variable name in programming.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_declare_a_good_variable_name_in_programming..svg)](https://dev.to/jindalkeshav82/how-to-declare-a-good-variable-name-in-programming-5bjk)
+[![Asynchronous Communication for remote teams](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Asynchronous_Communication_for_remote_teams.svg)](https://dev.to/akinmyde/asynchronous-communication-for-remote-teams-24o5)
+[![EKS vs ECS - Which one is best for you](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/EKS_vs_ECS_-_Which_one_is_best_for_you.svg)](https://dev.to/aws-builders/eks-vs-ecs-which-one-is-best-for-you-3cop)
+[![Create Lens Subgraph on The Graph Protocol](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_Lens_Subgraph_on_The_Graph_Protocol.svg)](https://dev.to/andriishupta/create-lens-subgraph-on-the-graph-protocol-32f0)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, August 26, 2022 at 12:30:35 AM
+> Last updated: Friday, August 26, 2022 at 6:21:37 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, August 26, 2022 at 12:30:38 AM
+> Last updated: Friday, August 26, 2022 at 6:21:39 AM
 
 > Showing 5 of 30 posts.
 
