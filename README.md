@@ -5,20 +5,20 @@ A (somewhat) simple github action that generates a set of cards for recent blog 
 Here's an example of how it looks given the URLs for DEV Community, JavaScript Weekly, and Echo JS:
 
 <!-- post-list:start -->
-## DEV Community
+## DEV Community 👩‍💻👨‍💻
 
-The most recent home feed on DEV Community.
+The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, August 26, 2022 at 6:21:34 AM
+> Last updated: Friday, August 26, 2022 at 12:12:50 PM
 
 > Showing 5 of 12 posts.
 
-[![Design patterns is a symptom of a sick programming language](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Design_patterns_is_a_symptom_of_a_sick_programming_language.svg)](https://dev.to/polterguy/design-patterns-is-a-symptom-of-a-sick-programming-language-2hd8)
-[![How to declare a good variable name in programming.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_declare_a_good_variable_name_in_programming..svg)](https://dev.to/jindalkeshav82/how-to-declare-a-good-variable-name-in-programming-5bjk)
-[![Asynchronous Communication for remote teams](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Asynchronous_Communication_for_remote_teams.svg)](https://dev.to/akinmyde/asynchronous-communication-for-remote-teams-24o5)
-[![EKS vs ECS - Which one is best for you](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/EKS_vs_ECS_-_Which_one_is_best_for_you.svg)](https://dev.to/aws-builders/eks-vs-ecs-which-one-is-best-for-you-3cop)
-[![Create Lens Subgraph on The Graph Protocol](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_Lens_Subgraph_on_The_Graph_Protocol.svg)](https://dev.to/andriishupta/create-lens-subgraph-on-the-graph-protocol-32f0)
+[![Final Weekend of the Redis Hackathon on DEV!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Final_Weekend_of_the_Redis_Hackathon_on_DEV!.svg)](https://dev.to/devteam/final-weekend-of-the-redis-hackathon-on-dev-4mn7)
+[![pip install dlib error](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/pip_install_dlib_error.svg)](https://dev.to/binarybeast880/pip-install-dlib-error-44bk)
+[![how can i fix this issue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/how_can_i_fix_this_issue.svg)](https://dev.to/ayoubelsvg/how-can-i-fix-this-issue-2l25)
+[![New Update : Announcing React Native 0.69](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/New_Update___Announcing_React_Native_0.69.svg)](https://dev.to/iamkanaramyadav/new-update-announcing-react-native-069-2n9a)
+[![How Many Fonts You Got?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_Many_Fonts_You_Got_.svg)](https://dev.to/jakedapper/how-many-fonts-you-got-5824)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, August 26, 2022 at 6:21:37 AM
+> Last updated: Friday, August 26, 2022 at 12:12:52 PM
 
 > Showing 4 of 4 posts.
 
+[![The future JavaScript features at TC39](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/The_future_JavaScript_features_at_TC39.svg)](https://javascriptweekly.com/issues/603)
 [![A way to automatically generate regexes from examples](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/A_way_to_automatically_generate_regexes_from_examples.svg)](https://javascriptweekly.com/issues/602)
 [![Genius misuse of WOFF 2 and Brotli to win a JavaScript contest.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Genius_misuse_of_WOFF_2_and_Brotli_to_win_a_JavaScript_contest..svg)](https://javascriptweekly.com/issues/601)
 [![Douglas Crockford on 'retiring' JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Douglas_Crockford_on_'retiring'_JavaScript.svg)](https://javascriptweekly.com/issues/600)
-[![Common JavaScript issues developers face](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Common_JavaScript_issues_developers_face.svg)](https://javascriptweekly.com/issues/599)
 
 
 ## Echo JS
@@ -43,19 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, August 26, 2022 at 6:21:39 AM
+> Last updated: Friday, August 26, 2022 at 12:12:54 PM
 
 > Showing 5 of 30 posts.
 
+[![Alternatives to Heroku’s Free Tier | Webiny](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Alternatives_to_Heroku’s_Free_Tier___Webiny.svg)](
+https://www.webiny.com/blog/alternatives-herokus-free-tier
+)
+[![GitHub - boxfish-studio/sugar-rush: The Solana Metaplex Candymachine management dashboard](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_boxfish-studio_sugar-rush__The_Solana_Metaplex_Candymachine_management_dashboard.svg)](https://github.com/boxfish-studio/sugar-rush)
 [![ReacType 13.0 — React State Management & Prop Drilling Made Easy](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/ReacType_13.0_—_React_State_Management___Prop_Drilling_Made_Easy.svg)](https://medium.com/@darin.ngau/reactype13-b4e23fc38d76)
 [![OpenAPI integration | Mocks Server](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/OpenAPI_integration___Mocks_Server.svg)](https://www.mocks-server.org/docs/integrations/openapi/)
 [![Calculate the Median of an Array in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Calculate_the_Median_of_an_Array_in_JavaScript.svg)](
 https://masteringjs.io/tutorials/fundamentals/median
 )
-[![Build a ToDo app with React, Tailwind and Webiny Headless CMS | Webiny](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_a_ToDo_app_with_React__Tailwind_and_Webiny_Headless_CMS___Webiny.svg)](
-https://www.webiny.com/blog/todo-application-react-tailwind-webiny-headless-cms
-)
-[![Deep copying in JavaScript using structuredClone - Wisdom Geek](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Deep_copying_in_JavaScript_using_structuredClone_-_Wisdom_Geek.svg)](https://www.wisdomgeek.com/development/web-development/javascript/deep-copying-in-javascript-using-structuredclone/)
 
 
 <!-- post-list:end -->
