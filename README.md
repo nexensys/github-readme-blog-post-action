@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, August 26, 2022 at 6:54:29 PM
+> Last updated: Saturday, August 27, 2022 at 12:12:27 AM
 
 > Showing 5 of 12 posts.
 
+[![What exactly is Ethereum ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_exactly_is_Ethereum__.svg)](https://dev.to/aayush_giri/what-exactly-is-ethereum--37dh)
+[![What is Trailing Lambda and Comma in Kotlin?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_Trailing_Lambda_and_Comma_in_Kotlin_.svg)](https://dev.to/vtsen/what-is-trailing-lambda-and-comma-in-kotlin-3d1o)
+[![A Beginner's Guide to Tailwind CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_Beginner's_Guide_to_Tailwind_CSS.svg)](https://dev.to/aahil13/a-beginners-guide-to-tailwind-css-81f)
+[![GIT - how and why to sign commits](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/GIT_-_how_and_why_to_sign_commits.svg)](https://dev.to/andreasaugustin/git-how-and-why-to-sign-commits-35dn)
 [![Create Redis Key - An NPM Package to Config & Create Redis Keys](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Create_Redis_Key_-_An_NPM_Package_to_Config___Create_Redis_Keys.svg)](https://dev.to/alperguven/create-redis-key-an-npm-package-to-config-create-redis-keys-95d)
-[![How to Create a Search Bar in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Create_a_Search_Bar_in_React.svg)](https://dev.to/nicvazquez/how-to-create-a-search-bar-in-react-5h0g)
-[![Create Redis Key - Easy Way to Configure All Your Redis Keys In One Place](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Create_Redis_Key_-_Easy_Way_to_Configure_All_Your_Redis_Keys_In_One_Place.svg)](https://dev.to/alperguven/create-redis-key-easy-way-to-configure-all-your-redis-keys-in-one-place-14hh)
-[![Frontend developer roadmap for beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Frontend_developer_roadmap_for_beginners.svg)](https://dev.to/maurerkrisztian/frontend-developer-roadmap-for-beginners-15c4)
-[![Building an offline-first app with React and CouchDB](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Building_an_offline-first_app_with_React_and_CouchDB.svg)](https://dev.to/savoir/building-an-offline-first-app-with-react-and-couchdb-2ggh)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, August 26, 2022 at 6:54:33 PM
+> Last updated: Saturday, August 27, 2022 at 12:12:30 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, August 26, 2022 at 6:54:35 PM
+> Last updated: Saturday, August 27, 2022 at 12:12:32 AM
 
 > Showing 5 of 30 posts.
 
