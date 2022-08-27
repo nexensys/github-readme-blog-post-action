@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, August 27, 2022 at 12:12:27 AM
+> Last updated: Saturday, August 27, 2022 at 6:21:13 AM
 
 > Showing 5 of 12 posts.
 
-[![What exactly is Ethereum ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_exactly_is_Ethereum__.svg)](https://dev.to/aayush_giri/what-exactly-is-ethereum--37dh)
-[![What is Trailing Lambda and Comma in Kotlin?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_Trailing_Lambda_and_Comma_in_Kotlin_.svg)](https://dev.to/vtsen/what-is-trailing-lambda-and-comma-in-kotlin-3d1o)
-[![A Beginner's Guide to Tailwind CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_Beginner's_Guide_to_Tailwind_CSS.svg)](https://dev.to/aahil13/a-beginners-guide-to-tailwind-css-81f)
-[![GIT - how and why to sign commits](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/GIT_-_how_and_why_to_sign_commits.svg)](https://dev.to/andreasaugustin/git-how-and-why-to-sign-commits-35dn)
-[![Create Redis Key - An NPM Package to Config & Create Redis Keys](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Create_Redis_Key_-_An_NPM_Package_to_Config___Create_Redis_Keys.svg)](https://dev.to/alperguven/create-redis-key-an-npm-package-to-config-create-redis-keys-95d)
+[![Sitemaps - An Untold Story #shorts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Sitemaps_-_An_Untold_Story__shorts.svg)](https://dev.to/shreyvijayvargiya/sitemaps-an-untold-story-shorts-5b22)
+[![বাংলাদেশে সফটওয়্যার ও ওয়েব ডেভেলপমেন্টের চাহিদা, বেতন ও ভবিষ্যত](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/বাংলাদেশে_সফটওয়্যার_ও_ওয়েব_ডেভেলপমেন্টের_চাহিদা__বেতন_ও_ভবিষ্যত.svg)](https://dev.to/arman_aru/baanlaadeshe-sphttoyyaar-o-oyeb-ddebhelpmentter-caahidaa-betn-o-bhbissyt-23mp)
+[![A Python Multiprocessing and Parallel Programming Reference in Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_Python_Multiprocessing_and_Parallel_Programming_Reference_in_Python.svg)](https://dev.to/chennaiseo2/a-python-multiprocessing-and-parallel-programming-reference-in-python-1dl)
+[![Complete Cybersecurity Bootcamp](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Complete_Cybersecurity_Bootcamp.svg)](https://dev.to/aswin2001barath/complete-cybersecurity-bootcamp-480o)
+[![Web Security & Bug Bounty - Learn Penetration Testing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Web_Security___Bug_Bounty_-_Learn_Penetration_Testing.svg)](https://dev.to/aswin2001barath/web-security-bug-bounty-learn-penetration-testing-2o05)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, August 27, 2022 at 12:12:30 AM
+> Last updated: Saturday, August 27, 2022 at 6:21:16 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, August 27, 2022 at 12:12:32 AM
+> Last updated: Saturday, August 27, 2022 at 6:21:17 AM
 
 > Showing 5 of 30 posts.
 
+[![
+Js-sdsl - High performance and lightweight JS data structure library.
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Js-sdsl_-_High_performance_and_lightweight_JS_data_structure_library._.svg)](
+https://js-sdsl.github.io/#/test/benchmark-analyze
+)
 [![
 Github Timeline
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Github_Timeline_.svg)](
@@ -57,7 +62,6 @@ https://www.webiny.com/blog/alternatives-herokus-free-tier
 )
 [![GitHub - boxfish-studio/sugar-rush: The Solana Metaplex Candymachine management dashboard](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_boxfish-studio_sugar-rush__The_Solana_Metaplex_Candymachine_management_dashboard.svg)](https://github.com/boxfish-studio/sugar-rush)
 [![ReacType 13.0 — React State Management & Prop Drilling Made Easy](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/ReacType_13.0_—_React_State_Management___Prop_Drilling_Made_Easy.svg)](https://medium.com/@darin.ngau/reactype13-b4e23fc38d76)
-[![OpenAPI integration | Mocks Server](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/OpenAPI_integration___Mocks_Server.svg)](https://www.mocks-server.org/docs/integrations/openapi/)
 
 
 <!-- post-list:end -->
