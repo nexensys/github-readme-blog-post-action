@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, August 26, 2022 at 12:12:50 PM
+> Last updated: Friday, August 26, 2022 at 6:54:29 PM
 
 > Showing 5 of 12 posts.
 
-[![Final Weekend of the Redis Hackathon on DEV!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Final_Weekend_of_the_Redis_Hackathon_on_DEV!.svg)](https://dev.to/devteam/final-weekend-of-the-redis-hackathon-on-dev-4mn7)
-[![pip install dlib error](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/pip_install_dlib_error.svg)](https://dev.to/binarybeast880/pip-install-dlib-error-44bk)
-[![how can i fix this issue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/how_can_i_fix_this_issue.svg)](https://dev.to/ayoubelsvg/how-can-i-fix-this-issue-2l25)
-[![New Update : Announcing React Native 0.69](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/New_Update___Announcing_React_Native_0.69.svg)](https://dev.to/iamkanaramyadav/new-update-announcing-react-native-069-2n9a)
-[![How Many Fonts You Got?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_Many_Fonts_You_Got_.svg)](https://dev.to/jakedapper/how-many-fonts-you-got-5824)
+[![Create Redis Key - An NPM Package to Config & Create Redis Keys](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Create_Redis_Key_-_An_NPM_Package_to_Config___Create_Redis_Keys.svg)](https://dev.to/alperguven/create-redis-key-an-npm-package-to-config-create-redis-keys-95d)
+[![How to Create a Search Bar in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Create_a_Search_Bar_in_React.svg)](https://dev.to/nicvazquez/how-to-create-a-search-bar-in-react-5h0g)
+[![Create Redis Key - Easy Way to Configure All Your Redis Keys In One Place](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Create_Redis_Key_-_Easy_Way_to_Configure_All_Your_Redis_Keys_In_One_Place.svg)](https://dev.to/alperguven/create-redis-key-easy-way-to-configure-all-your-redis-keys-in-one-place-14hh)
+[![Frontend developer roadmap for beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Frontend_developer_roadmap_for_beginners.svg)](https://dev.to/maurerkrisztian/frontend-developer-roadmap-for-beginners-15c4)
+[![Building an offline-first app with React and CouchDB](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Building_an_offline-first_app_with_React_and_CouchDB.svg)](https://dev.to/savoir/building-an-offline-first-app-with-react-and-couchdb-2ggh)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, August 26, 2022 at 12:12:52 PM
+> Last updated: Friday, August 26, 2022 at 6:54:33 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,21 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, August 26, 2022 at 12:12:54 PM
+> Last updated: Friday, August 26, 2022 at 6:54:35 PM
 
 > Showing 5 of 30 posts.
 
+[![
+Github Timeline
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Github_Timeline_.svg)](
+https://semanteo.is-a.dev/Github-Timeline/?username=Github&radio=asc
+)
 [![Alternatives to Heroku’s Free Tier | Webiny](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Alternatives_to_Heroku’s_Free_Tier___Webiny.svg)](
 https://www.webiny.com/blog/alternatives-herokus-free-tier
 )
 [![GitHub - boxfish-studio/sugar-rush: The Solana Metaplex Candymachine management dashboard](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_boxfish-studio_sugar-rush__The_Solana_Metaplex_Candymachine_management_dashboard.svg)](https://github.com/boxfish-studio/sugar-rush)
 [![ReacType 13.0 — React State Management & Prop Drilling Made Easy](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/ReacType_13.0_—_React_State_Management___Prop_Drilling_Made_Easy.svg)](https://medium.com/@darin.ngau/reactype13-b4e23fc38d76)
 [![OpenAPI integration | Mocks Server](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/OpenAPI_integration___Mocks_Server.svg)](https://www.mocks-server.org/docs/integrations/openapi/)
-[![Calculate the Median of an Array in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Calculate_the_Median_of_an_Array_in_JavaScript.svg)](
-https://masteringjs.io/tutorials/fundamentals/median
-)
 
 
 <!-- post-list:end -->
