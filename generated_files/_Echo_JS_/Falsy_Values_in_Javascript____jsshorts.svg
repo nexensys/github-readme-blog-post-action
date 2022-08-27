@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 610 110" width="600" height="100" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <style>
+      .title {
+        font-size: 1.5em;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        white-space: nowrap;
+      }
+      .description {
+        font-size: 0.75em;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+      }
+      .text {
+        text-align: start;
+        padding: 10px;
+        height: calc(100% - 20px);
+        margin-left: 100px;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+        color: black;
+      }
+           .date {
+        font-size: 0.5em;
+        opacity: 0.5;
+        text-align: end;
+        position: absolute;
+        bottom: 0;
+        right: 10px;
+        color: black;
+      }
+      .image {
+        height: 100px;
+        width: 100px;
+        background-image: url("data:image/jpeg;base64,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");
+        background-size: cover;
+        position: absolute;
+        top: 0;
+        left: 0;
+        border-radius: 10px;
+        background-position: center;
+      }
+      .main {
+        fill: white;
+      }
+      .data {
+        opacity: 0.75;
+        text-align: start;
+        position: absolute;
+        bottom: 0;
+        padding-bottom: 5px;
+        left: 110px;
+        color: black;
+        max-width: 400px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+      }
+      .author {
+        opacity: 0.75;
+        font-size: 0.5em;
+      }
+      .category {
+        background-color: rgba(0, 0, 0, 0.25);
+        border-radius: 0.25em;
+        padding: 0.125em 0.25em;
+        font-size: 0.75em;
+        color: rgba(0, 0, 0, 0.8);
+      }
+    </style>
+  </defs>
+  <g class="main">
+    <rect class="content" width="600" height="100" stroke="rgba(0, 0, 0, 0.5)" x="5" y="5" rx="10" />
+    <foreignObject width="600" height="100" x="5" y="5">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
+        <div class="image" />
+<div class="text">
+          <div class="title">Falsy&#0032;Values&#0032;in&#0032;Javascript&#0032;&#0124;&#0124;&#0032;jsshorts</div>
+          <div class="description">In&#0032;javascript&#0044;&#0032;apart&#0032;from&#0032;false&#0044;&#0032;there&#0032;are&#0032;some&#0032;other&#0032;values&#0032;which&#0032;are&#0032;also&#0032;treated&#0032;as&#0032;falsy&#0046;&#0032;These&#0032;values&#0032;are&#0032;6&#0032;in&#0032;total&#0032;number&#0032;including&#0032;false&#0046;&#0032;In&#0032;this&#0032;vid&#0046;&#0046;&#0046;</div>
+          <div class="date"></div>
+          <div class="data">
+            <span class="author"></span> 
+          </div>
+        </div>
+      </div>
+    </foreignObject>
+  </g>
+</svg>

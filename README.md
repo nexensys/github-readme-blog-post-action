@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, August 27, 2022 at 6:21:13 AM
+> Last updated: Saturday, August 27, 2022 at 12:12:25 PM
 
 > Showing 5 of 12 posts.
 
-[![Sitemaps - An Untold Story #shorts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Sitemaps_-_An_Untold_Story__shorts.svg)](https://dev.to/shreyvijayvargiya/sitemaps-an-untold-story-shorts-5b22)
-[![বাংলাদেশে সফটওয়্যার ও ওয়েব ডেভেলপমেন্টের চাহিদা, বেতন ও ভবিষ্যত](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/বাংলাদেশে_সফটওয়্যার_ও_ওয়েব_ডেভেলপমেন্টের_চাহিদা__বেতন_ও_ভবিষ্যত.svg)](https://dev.to/arman_aru/baanlaadeshe-sphttoyyaar-o-oyeb-ddebhelpmentter-caahidaa-betn-o-bhbissyt-23mp)
-[![A Python Multiprocessing and Parallel Programming Reference in Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_Python_Multiprocessing_and_Parallel_Programming_Reference_in_Python.svg)](https://dev.to/chennaiseo2/a-python-multiprocessing-and-parallel-programming-reference-in-python-1dl)
-[![Complete Cybersecurity Bootcamp](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Complete_Cybersecurity_Bootcamp.svg)](https://dev.to/aswin2001barath/complete-cybersecurity-bootcamp-480o)
-[![Web Security & Bug Bounty - Learn Penetration Testing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Web_Security___Bug_Bounty_-_Learn_Penetration_Testing.svg)](https://dev.to/aswin2001barath/web-security-bug-bounty-learn-penetration-testing-2o05)
+[![Arquitetura de Sistemas Operacionais #3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Arquitetura_de_Sistemas_Operacionais__3.svg)](https://dev.to/samoht/arquitetura-de-sistemas-operacionais-3-1gne)
+[![Web App Deployment using Spheron Protocol](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Web_App_Deployment_using_Spheron_Protocol.svg)](https://dev.to/ananya2003gupta/web-app-deployment-using-spheron-protocol-3347)
+[![Numeric Separator In JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Numeric_Separator_In_JavaScript.svg)](https://dev.to/capscode/numeric-separator-in-javascript-3ejn)
+[![What the Heck Is Project Loom for Java?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_the_Heck_Is_Project_Loom_for_Java_.svg)](https://dev.to/oktadev/what-the-heck-is-project-loom-for-java-21hh)
+[![Python For Data Engineering](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Python_For_Data_Engineering.svg)](https://dev.to/brianmk/python-for-data-engineering-4p65)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, August 27, 2022 at 6:21:16 AM
+> Last updated: Saturday, August 27, 2022 at 12:12:28 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, August 27, 2022 at 6:21:17 AM
+> Last updated: Saturday, August 27, 2022 at 12:12:31 PM
 
 > Showing 5 of 30 posts.
 
+[![Falsy Values in Javascript || jsshorts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Falsy_Values_in_Javascript____jsshorts.svg)](https://www.youtube.com/shorts/R47_CDiXZbw)
 [![
 Js-sdsl - High performance and lightweight JS data structure library.
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Js-sdsl_-_High_performance_and_lightweight_JS_data_structure_library._.svg)](
@@ -60,8 +61,7 @@ https://semanteo.is-a.dev/Github-Timeline/?username=Github&radio=asc
 [![Alternatives to Heroku’s Free Tier | Webiny](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Alternatives_to_Heroku’s_Free_Tier___Webiny.svg)](
 https://www.webiny.com/blog/alternatives-herokus-free-tier
 )
-[![GitHub - boxfish-studio/sugar-rush: The Solana Metaplex Candymachine management dashboard](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_boxfish-studio_sugar-rush__The_Solana_Metaplex_Candymachine_management_dashboard.svg)](https://github.com/boxfish-studio/sugar-rush)
-[![ReacType 13.0 — React State Management & Prop Drilling Made Easy](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/ReacType_13.0_—_React_State_Management___Prop_Drilling_Made_Easy.svg)](https://medium.com/@darin.ngau/reactype13-b4e23fc38d76)
+[![GitHub - boxfish-studio/sugar-rush: Quickly create and manage Metaplex Candymachines and NFTs in Solana from your browser](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_boxfish-studio_sugar-rush__Quickly_create_and_manage_Metaplex_Candymachines_and_NFTs_in_Solana_from_your_browser.svg)](https://github.com/boxfish-studio/sugar-rush)
 
 
 <!-- post-list:end -->
