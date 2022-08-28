@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, August 28, 2022 at 6:17:16 AM
+> Last updated: Sunday, August 28, 2022 at 12:12:26 PM
 
 > Showing 5 of 12 posts.
 
-[![Data Lake vs Data Warehouse](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Data_Lake_vs_Data_Warehouse.svg)](https://dev.to/zapeeosheikh/data-lake-vs-data-warehouse-3ehi)
-[![Most used DevTools shortcuts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Most_used_DevTools_shortcuts.svg)](https://dev.to/hshoja/devtools-shortcuts-55m8)
-[![Why and what to plan for building apps.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Why_and_what_to_plan_for_building_apps..svg)](https://dev.to/itskunal/why-and-what-to-plan-for-building-apps-4jk1)
-[![Recommendation System](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Recommendation_System.svg)](https://dev.to/meatboy/recommendation-system-2l4n)
-[![Why You Should Keep A Dev Diary](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Why_You_Should_Keep_A_Dev_Diary.svg)](https://dev.to/ethand91/why-you-should-keep-a-dev-diary-1l1i)
+[![What display: grid does?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_display__grid_does_.svg)](https://dev.to/melnik909/what-display-grid-does-1lmp)
+[![A Dive Into Angular Pipes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_Dive_Into_Angular_Pipes.svg)](https://dev.to/this-is-angular/a-dive-into-angular-pipes-1eg4)
+[![Fly.io, alternativa ao Heroku](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Fly.io__alternativa_ao_Heroku.svg)](https://dev.to/booscaaa/flyio-alternativa-ao-heroku-35mj)
+[![Learn OpenGL with Rust: shaders](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Learn_OpenGL_with_Rust__shaders.svg)](https://dev.to/samkevich/learn-opengl-with-rust-shaders-28i3)
+[![How React and NextJS can power your next web project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_React_and_NextJS_can_power_your_next_web_project.svg)](https://dev.to/annabaker/how-react-and-nextjs-can-power-your-next-web-project-439d)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, August 28, 2022 at 6:17:20 AM
+> Last updated: Sunday, August 28, 2022 at 12:12:30 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,13 +43,13 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, August 28, 2022 at 6:17:23 AM
+> Last updated: Sunday, August 28, 2022 at 12:12:32 PM
 
 > Showing 5 of 30 posts.
 
 [![GitHub - Marcisbee/messagepipe: Formats message strings with number, date, plural, and select placeholders to create localized messages](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Marcisbee_messagepipe__Formats_message_strings_with_number__date__plural__and_select_placeholders_to_create_localized_messages.svg)](https://github.com/Marcisbee/messagepipe)
 [![Building an Accurate Digital Clock with Multithreading in JavaScript!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_an_Accurate_Digital_Clock_with_Multithreading_in_JavaScript!.svg)](https://www.youtube.com/watch?v=5flRlTEt5sI)
-[![Falsy Values in Javascript || jsshorts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Falsy_Values_in_Javascript____jsshorts.svg)](https://www.youtube.com/shorts/R47_CDiXZbw)
+[![What Are Falsy Values In Javascript? || JSShorts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_Are_Falsy_Values_In_Javascript_____JSShorts.svg)](https://www.youtube.com/shorts/R47_CDiXZbw)
 [![
 Js-sdsl - High performance and lightweight JS data structure library.
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Js-sdsl_-_High_performance_and_lightweight_JS_data_structure_library._.svg)](
