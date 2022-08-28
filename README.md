@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, August 27, 2022 at 12:12:25 PM
+> Last updated: Saturday, August 27, 2022 at 7:01:01 PM
 
 > Showing 5 of 12 posts.
 
-[![Arquitetura de Sistemas Operacionais #3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Arquitetura_de_Sistemas_Operacionais__3.svg)](https://dev.to/samoht/arquitetura-de-sistemas-operacionais-3-1gne)
-[![Web App Deployment using Spheron Protocol](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Web_App_Deployment_using_Spheron_Protocol.svg)](https://dev.to/ananya2003gupta/web-app-deployment-using-spheron-protocol-3347)
-[![Numeric Separator In JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Numeric_Separator_In_JavaScript.svg)](https://dev.to/capscode/numeric-separator-in-javascript-3ejn)
-[![What the Heck Is Project Loom for Java?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_the_Heck_Is_Project_Loom_for_Java_.svg)](https://dev.to/oktadev/what-the-heck-is-project-loom-for-java-21hh)
-[![Python For Data Engineering](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Python_For_Data_Engineering.svg)](https://dev.to/brianmk/python-for-data-engineering-4p65)
+[![7 different ways of Looping in JavaScript with example.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/7_different_ways_of_Looping_in_JavaScript_with_example..svg)](https://dev.to/arman_aru/7-different-ways-of-looping-in-javascript-with-example-1g50)
+[![Alternatives to Heroku’s Free Tier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Alternatives_to_Heroku’s_Free_Tier.svg)](https://dev.to/webiny/alternatives-to-herokus-free-tier-hlp)
+[![How to import Excel file to database in Laravel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_import_Excel_file_to_database_in_Laravel.svg)](https://dev.to/gurpreetkaitcode/how-to-import-excel-file-to-database-in-laravel-1bof)
+[![Stages in Software Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Stages_in_Software_Development.svg)](https://dev.to/joelbonetr/stages-in-software-development-4k2k)
+[![Smart India Hackathon 22 winners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Smart_India_Hackathon_22_winners.svg)](https://dev.to/hsenidbot/smart-india-hackathon-22-winners-3em9)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, August 27, 2022 at 12:12:28 PM
+> Last updated: Saturday, August 27, 2022 at 7:01:04 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, August 27, 2022 at 12:12:31 PM
+> Last updated: Saturday, August 27, 2022 at 7:01:05 PM
 
 > Showing 5 of 30 posts.
 
