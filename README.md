@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, August 27, 2022 at 7:01:01 PM
+> Last updated: Sunday, August 28, 2022 at 12:12:27 AM
 
 > Showing 5 of 12 posts.
 
-[![7 different ways of Looping in JavaScript with example.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/7_different_ways_of_Looping_in_JavaScript_with_example..svg)](https://dev.to/arman_aru/7-different-ways-of-looping-in-javascript-with-example-1g50)
-[![Alternatives to Heroku’s Free Tier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Alternatives_to_Heroku’s_Free_Tier.svg)](https://dev.to/webiny/alternatives-to-herokus-free-tier-hlp)
-[![How to import Excel file to database in Laravel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_import_Excel_file_to_database_in_Laravel.svg)](https://dev.to/gurpreetkaitcode/how-to-import-excel-file-to-database-in-laravel-1bof)
-[![Stages in Software Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Stages_in_Software_Development.svg)](https://dev.to/joelbonetr/stages-in-software-development-4k2k)
-[![Smart India Hackathon 22 winners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Smart_India_Hackathon_22_winners.svg)](https://dev.to/hsenidbot/smart-india-hackathon-22-winners-3em9)
+[![7 neat tricks for JS that you probably did not know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/7_neat_tricks_for_JS_that_you_probably_did_not_know.svg)](https://dev.to/ruppysuppy/7-neat-tricks-for-js-that-you-probably-did-not-know-358d)
+[![Synchronous vs. Asynchronous programming in Javascript.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Synchronous_vs._Asynchronous_programming_in_Javascript..svg)](https://dev.to/chucks1093/synchronous-vs-asynchronous-programming-in-javascript-9d3)
+[![How to deploy Node or React App on Cpanel which uses a port, using SSH?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_deploy_Node_or_React_App_on_Cpanel_which_uses_a_port__using_SSH_.svg)](https://dev.to/husnain/how-to-deploy-node-or-react-app-on-cpanel-which-uses-a-port-using-ssh-a5b)
+[![Pass The AWS Certified Solution Architect - Associate (SAA-CO3)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Pass_The_AWS_Certified_Solution_Architect_-_Associate_(SAA-CO3).svg)](https://dev.to/jordan_t/pass-the-aws-certified-solution-architect-associate-saa-co3-523p)
+[![Select unique elements from an Array using: lastIndexOf() & indexOf()](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Select_unique_elements_from_an_Array_using__lastIndexOf()___indexOf().svg)](https://dev.to/felistus/select-unique-elements-from-a-array-using-lastindexof-indexof-5dnh)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, August 27, 2022 at 7:01:04 PM
+> Last updated: Sunday, August 28, 2022 at 12:12:29 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, August 27, 2022 at 7:01:05 PM
+> Last updated: Sunday, August 28, 2022 at 12:12:31 AM
 
 > Showing 5 of 30 posts.
 
+[![Building an Accurate Digital Clock with Multithreading in JavaScript!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_an_Accurate_Digital_Clock_with_Multithreading_in_JavaScript!.svg)](https://www.youtube.com/watch?v=5flRlTEt5sI)
 [![Falsy Values in Javascript || jsshorts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Falsy_Values_in_Javascript____jsshorts.svg)](https://www.youtube.com/shorts/R47_CDiXZbw)
 [![
 Js-sdsl - High performance and lightweight JS data structure library.
@@ -61,7 +62,6 @@ https://semanteo.is-a.dev/Github-Timeline/?username=Github&radio=asc
 [![Alternatives to Heroku’s Free Tier | Webiny](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Alternatives_to_Heroku’s_Free_Tier___Webiny.svg)](
 https://www.webiny.com/blog/alternatives-herokus-free-tier
 )
-[![GitHub - boxfish-studio/sugar-rush: Quickly create and manage Metaplex Candymachines and NFTs in Solana from your browser](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_boxfish-studio_sugar-rush__Quickly_create_and_manage_Metaplex_Candymachines_and_NFTs_in_Solana_from_your_browser.svg)](https://github.com/boxfish-studio/sugar-rush)
 
 
 <!-- post-list:end -->
