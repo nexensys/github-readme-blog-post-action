@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, August 28, 2022 at 12:12:27 AM
+> Last updated: Sunday, August 28, 2022 at 6:17:16 AM
 
 > Showing 5 of 12 posts.
 
-[![7 neat tricks for JS that you probably did not know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/7_neat_tricks_for_JS_that_you_probably_did_not_know.svg)](https://dev.to/ruppysuppy/7-neat-tricks-for-js-that-you-probably-did-not-know-358d)
-[![Synchronous vs. Asynchronous programming in Javascript.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Synchronous_vs._Asynchronous_programming_in_Javascript..svg)](https://dev.to/chucks1093/synchronous-vs-asynchronous-programming-in-javascript-9d3)
-[![How to deploy Node or React App on Cpanel which uses a port, using SSH?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_deploy_Node_or_React_App_on_Cpanel_which_uses_a_port__using_SSH_.svg)](https://dev.to/husnain/how-to-deploy-node-or-react-app-on-cpanel-which-uses-a-port-using-ssh-a5b)
-[![Pass The AWS Certified Solution Architect - Associate (SAA-CO3)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Pass_The_AWS_Certified_Solution_Architect_-_Associate_(SAA-CO3).svg)](https://dev.to/jordan_t/pass-the-aws-certified-solution-architect-associate-saa-co3-523p)
-[![Select unique elements from an Array using: lastIndexOf() & indexOf()](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Select_unique_elements_from_an_Array_using__lastIndexOf()___indexOf().svg)](https://dev.to/felistus/select-unique-elements-from-a-array-using-lastindexof-indexof-5dnh)
+[![Data Lake vs Data Warehouse](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Data_Lake_vs_Data_Warehouse.svg)](https://dev.to/zapeeosheikh/data-lake-vs-data-warehouse-3ehi)
+[![Most used DevTools shortcuts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Most_used_DevTools_shortcuts.svg)](https://dev.to/hshoja/devtools-shortcuts-55m8)
+[![Why and what to plan for building apps.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Why_and_what_to_plan_for_building_apps..svg)](https://dev.to/itskunal/why-and-what-to-plan-for-building-apps-4jk1)
+[![Recommendation System](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Recommendation_System.svg)](https://dev.to/meatboy/recommendation-system-2l4n)
+[![Why You Should Keep A Dev Diary](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Why_You_Should_Keep_A_Dev_Diary.svg)](https://dev.to/ethand91/why-you-should-keep-a-dev-diary-1l1i)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, August 28, 2022 at 12:12:29 AM
+> Last updated: Sunday, August 28, 2022 at 6:17:20 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, August 28, 2022 at 12:12:31 AM
+> Last updated: Sunday, August 28, 2022 at 6:17:23 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - Marcisbee/messagepipe: Formats message strings with number, date, plural, and select placeholders to create localized messages](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Marcisbee_messagepipe__Formats_message_strings_with_number__date__plural__and_select_placeholders_to_create_localized_messages.svg)](https://github.com/Marcisbee/messagepipe)
 [![Building an Accurate Digital Clock with Multithreading in JavaScript!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_an_Accurate_Digital_Clock_with_Multithreading_in_JavaScript!.svg)](https://www.youtube.com/watch?v=5flRlTEt5sI)
 [![Falsy Values in Javascript || jsshorts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Falsy_Values_in_Javascript____jsshorts.svg)](https://www.youtube.com/shorts/R47_CDiXZbw)
 [![
@@ -58,9 +59,6 @@ https://js-sdsl.github.io/#/test/benchmark-analyze
 Github Timeline
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Github_Timeline_.svg)](
 https://semanteo.is-a.dev/Github-Timeline/?username=Github&radio=asc
-)
-[![Alternatives to Heroku’s Free Tier | Webiny](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Alternatives_to_Heroku’s_Free_Tier___Webiny.svg)](
-https://www.webiny.com/blog/alternatives-herokus-free-tier
 )
 
 
