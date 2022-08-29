@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, August 28, 2022 at 12:12:26 PM
+> Last updated: Sunday, August 28, 2022 at 7:03:34 PM
 
 > Showing 5 of 12 posts.
 
-[![What display: grid does?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_display__grid_does_.svg)](https://dev.to/melnik909/what-display-grid-does-1lmp)
-[![A Dive Into Angular Pipes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_Dive_Into_Angular_Pipes.svg)](https://dev.to/this-is-angular/a-dive-into-angular-pipes-1eg4)
-[![Fly.io, alternativa ao Heroku](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Fly.io__alternativa_ao_Heroku.svg)](https://dev.to/booscaaa/flyio-alternativa-ao-heroku-35mj)
-[![Learn OpenGL with Rust: shaders](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Learn_OpenGL_with_Rust__shaders.svg)](https://dev.to/samkevich/learn-opengl-with-rust-shaders-28i3)
-[![How React and NextJS can power your next web project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_React_and_NextJS_can_power_your_next_web_project.svg)](https://dev.to/annabaker/how-react-and-nextjs-can-power-your-next-web-project-439d)
+[![I Built an Online Collaborative Canvas using Redis as my Primary Database 🎨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/I_Built_an_Online_Collaborative_Canvas_using_Redis_as_my_Primary_Database_🎨.svg)](https://dev.to/eludadev/i-built-an-online-collaborative-canvas-using-redis-as-my-primary-database-2001)
+[![Disco.pics - Free and open source image hosting service](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Disco.pics_-_Free_and_open_source_image_hosting_service.svg)](https://dev.to/dhravya/discopics-free-and-open-source-image-hosting-service-ia9)
+[![file validation in python Much easier and more reliable](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/file_validation_in_python_Much_easier_and_more_reliable.svg)](https://dev.to/rzashakeri/file-validation-in-python-much-easier-and-more-reliable-5f3p)
+[![SmartHome - your home data in real time!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/SmartHome_-_your_home_data_in_real_time!.svg)](https://dev.to/marcobertelli/smarthome-your-home-data-in-real-time-2jjd)
+[![How to design and create an AWS Serverless API Builder with CDK Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_design_and_create_an_AWS_Serverless_API_Builder_with_CDK_Python.svg)](https://dev.to/aws-builders/how-to-design-and-create-an-aws-serverless-api-builder-with-cdk-python-4g32)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, August 28, 2022 at 12:12:30 PM
+> Last updated: Sunday, August 28, 2022 at 7:03:36 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, August 28, 2022 at 12:12:32 PM
+> Last updated: Sunday, August 28, 2022 at 7:03:38 PM
 
 > Showing 5 of 30 posts.
 
