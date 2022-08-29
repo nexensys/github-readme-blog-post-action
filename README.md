@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, August 28, 2022 at 7:03:34 PM
+> Last updated: Monday, August 29, 2022 at 12:41:22 AM
 
 > Showing 5 of 12 posts.
 
-[![I Built an Online Collaborative Canvas using Redis as my Primary Database 🎨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/I_Built_an_Online_Collaborative_Canvas_using_Redis_as_my_Primary_Database_🎨.svg)](https://dev.to/eludadev/i-built-an-online-collaborative-canvas-using-redis-as-my-primary-database-2001)
-[![Disco.pics - Free and open source image hosting service](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Disco.pics_-_Free_and_open_source_image_hosting_service.svg)](https://dev.to/dhravya/discopics-free-and-open-source-image-hosting-service-ia9)
-[![file validation in python Much easier and more reliable](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/file_validation_in_python_Much_easier_and_more_reliable.svg)](https://dev.to/rzashakeri/file-validation-in-python-much-easier-and-more-reliable-5f3p)
-[![SmartHome - your home data in real time!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/SmartHome_-_your_home_data_in_real_time!.svg)](https://dev.to/marcobertelli/smarthome-your-home-data-in-real-time-2jjd)
-[![How to design and create an AWS Serverless API Builder with CDK Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_design_and_create_an_AWS_Serverless_API_Builder_with_CDK_Python.svg)](https://dev.to/aws-builders/how-to-design-and-create-an-aws-serverless-api-builder-with-cdk-python-4g32)
+[![Reverse LinkedList](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Reverse_LinkedList.svg)](https://dev.to/salahelhossiny/reverse-linkedlist-log)
+[![How to Solve Changes Not Reflecting When useState Set Method Applied?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Solve_Changes_Not_Reflecting_When_useState_Set_Method_Applied_.svg)](https://dev.to/kuldeeptarapara/how-to-solve-changes-not-reflecting-when-usestate-set-method-applied-ic4)
+[![How to add custom API methods to Vue Storefront 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_add_custom_API_methods_to_Vue_Storefront_2.svg)](https://dev.to/vue-storefront/how-to-add-custom-api-methods-to-vue-storefront-2-4gjj)
+[![🤹‍♂️ AWS CDK 101 Projects - 🏄‍♂️ CDK Stack/Resource/Drift events forwarded to cool Slack posts - Event-Forwarder](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/🤹‍♂️_AWS_CDK_101_Projects_-_🏄‍♂️_CDK_Stack_Resource_Drift_events_forwarded_to_cool_Slack_posts_-_Event-Forwarder.svg)](https://dev.to/aws-builders/aws-cdk-101-projects-cdk-stackresourcedrift-events-forwarded-to-cool-slack-posts-event-forwarder-1m0m)
+[![QR-Code Generator in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/QR-Code_Generator_in_React.svg)](https://dev.to/reactjsguru/qr-code-generator-in-react-23p)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, August 28, 2022 at 7:03:36 PM
+> Last updated: Monday, August 29, 2022 at 12:41:24 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, August 28, 2022 at 7:03:38 PM
+> Last updated: Monday, August 29, 2022 at 12:41:26 AM
 
 > Showing 5 of 30 posts.
 
