@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, August 29, 2022 at 6:21:35 AM
+> Last updated: Monday, August 29, 2022 at 12:13:11 PM
 
 > Showing 5 of 12 posts.
 
-[![Building a service for Redis Hackaton](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Building_a_service_for_Redis_Hackaton.svg)](https://dev.to/hanstognon/building-a-service-for-redis-hackaton-2ih5)
-[![.NET 7: Microsoft Reveals New ASP.NET Core Features](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/.NET_7__Microsoft_Reveals_New_ASP.NET_Core_Features.svg)](https://dev.to/dotnetsafer/net-7-microsoft-reveals-new-aspnet-core-features-24f3)
-[![Lost to Found - Redis Hackathon](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Lost_to_Found_-_Redis_Hackathon.svg)](https://dev.to/sakshamgurung/lost-to-found-redis-hackathon-4j6p)
-[![Introducing Ideao - A web portal of exploring ideas.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Introducing_Ideao_-_A_web_portal_of_exploring_ideas..svg)](https://dev.to/utsavbhattarai007/introducing-ideao-a-web-portal-of-exploring-ideas-18fk)
-[![Podcast Recommendation System.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Podcast_Recommendation_System..svg)](https://dev.to/aadityashukla/podcast-recommendation-system-2fj6)
+[![Docker Registry ve Hub üzerine repo eklemek](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Docker_Registry_ve_Hub_üzerine_repo_eklemek.svg)](https://dev.to/aciklab/docker-registry-ve-hub-uzerine-repo-eklemek-1fgh)
+[![URL Shortener : Microservice Maven](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/URL_Shortener___Microservice_Maven.svg)](https://dev.to/dev117uday/url-shortener-microservice-maven-djo)
+[![Redis](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Redis.svg)](https://dev.to/2devyank/redis-3o0p)
+[![Loading Animation in CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Loading_Animation_in_CSS.svg)](https://dev.to/shubhamtiwari909/css-loading-animationsc-3k8m)
+[![7 great tips for beginners learning to code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/7_great_tips_for_beginners_learning_to_code.svg)](https://dev.to/shabzy1507/7-great-tips-for-beginners-learning-to-code-3ahh)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, August 29, 2022 at 6:21:39 AM
+> Last updated: Monday, August 29, 2022 at 12:13:14 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, August 29, 2022 at 6:21:42 AM
+> Last updated: Monday, August 29, 2022 at 12:13:21 PM
 
 > Showing 5 of 30 posts.
 
+[![API with NestJS #72. Working with PostgreSQL using raw SQL queries](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__72._Working_with_PostgreSQL_using_raw_SQL_queries.svg)](http://wanago.io/2022/08/29/api-nestjs-postgresql-raw-sql-queries/)
+[![Kuvimba: How to hide a mining giant in plain sight](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Kuvimba__How_to_hide_a_mining_giant_in_plain_sight.svg)](https://bulawayo24.com/index-id-news-sc-local-byo-197609.html)
 [![How to enable donations on any website using the Elrond blockchain and EGLD tokens](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_enable_donations_on_any_website_using_the_Elrond_blockchain_and_EGLD_tokens.svg)](https://dev.to/juliancwirko/how-to-enable-donations-on-any-website-using-the-elrond-blockchain-and-egld-tokens-3fkf)
 [![GitHub - Marcisbee/messagepipe: Formats message strings with number, date, plural, and select placeholders to create localized messages](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Marcisbee_messagepipe__Formats_message_strings_with_number__date__plural__and_select_placeholders_to_create_localized_messages.svg)](https://github.com/Marcisbee/messagepipe)
 [![Building an Accurate Digital Clock with Multithreading in JavaScript!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_an_Accurate_Digital_Clock_with_Multithreading_in_JavaScript!.svg)](https://www.youtube.com/watch?v=5flRlTEt5sI)
-[![What Are Falsy Values In Javascript? || JSShorts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_Are_Falsy_Values_In_Javascript_____JSShorts.svg)](https://www.youtube.com/shorts/R47_CDiXZbw)
-[![
-Js-sdsl - High performance and lightweight JS data structure library.
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Js-sdsl_-_High_performance_and_lightweight_JS_data_structure_library._.svg)](
-https://js-sdsl.github.io/#/test/benchmark-analyze
-)
 
 
 <!-- post-list:end -->
