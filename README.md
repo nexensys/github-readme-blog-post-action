@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, August 29, 2022 at 12:41:22 AM
+> Last updated: Monday, August 29, 2022 at 6:21:35 AM
 
 > Showing 5 of 12 posts.
 
-[![Reverse LinkedList](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Reverse_LinkedList.svg)](https://dev.to/salahelhossiny/reverse-linkedlist-log)
-[![How to Solve Changes Not Reflecting When useState Set Method Applied?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Solve_Changes_Not_Reflecting_When_useState_Set_Method_Applied_.svg)](https://dev.to/kuldeeptarapara/how-to-solve-changes-not-reflecting-when-usestate-set-method-applied-ic4)
-[![How to add custom API methods to Vue Storefront 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_add_custom_API_methods_to_Vue_Storefront_2.svg)](https://dev.to/vue-storefront/how-to-add-custom-api-methods-to-vue-storefront-2-4gjj)
-[![🤹‍♂️ AWS CDK 101 Projects - 🏄‍♂️ CDK Stack/Resource/Drift events forwarded to cool Slack posts - Event-Forwarder](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/🤹‍♂️_AWS_CDK_101_Projects_-_🏄‍♂️_CDK_Stack_Resource_Drift_events_forwarded_to_cool_Slack_posts_-_Event-Forwarder.svg)](https://dev.to/aws-builders/aws-cdk-101-projects-cdk-stackresourcedrift-events-forwarded-to-cool-slack-posts-event-forwarder-1m0m)
-[![QR-Code Generator in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/QR-Code_Generator_in_React.svg)](https://dev.to/reactjsguru/qr-code-generator-in-react-23p)
+[![Building a service for Redis Hackaton](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Building_a_service_for_Redis_Hackaton.svg)](https://dev.to/hanstognon/building-a-service-for-redis-hackaton-2ih5)
+[![.NET 7: Microsoft Reveals New ASP.NET Core Features](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/.NET_7__Microsoft_Reveals_New_ASP.NET_Core_Features.svg)](https://dev.to/dotnetsafer/net-7-microsoft-reveals-new-aspnet-core-features-24f3)
+[![Lost to Found - Redis Hackathon](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Lost_to_Found_-_Redis_Hackathon.svg)](https://dev.to/sakshamgurung/lost-to-found-redis-hackathon-4j6p)
+[![Introducing Ideao - A web portal of exploring ideas.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Introducing_Ideao_-_A_web_portal_of_exploring_ideas..svg)](https://dev.to/utsavbhattarai007/introducing-ideao-a-web-portal-of-exploring-ideas-18fk)
+[![Podcast Recommendation System.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Podcast_Recommendation_System..svg)](https://dev.to/aadityashukla/podcast-recommendation-system-2fj6)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, August 29, 2022 at 12:41:24 AM
+> Last updated: Monday, August 29, 2022 at 6:21:39 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, August 29, 2022 at 12:41:26 AM
+> Last updated: Monday, August 29, 2022 at 6:21:42 AM
 
 > Showing 5 of 30 posts.
 
+[![How to enable donations on any website using the Elrond blockchain and EGLD tokens](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_enable_donations_on_any_website_using_the_Elrond_blockchain_and_EGLD_tokens.svg)](https://dev.to/juliancwirko/how-to-enable-donations-on-any-website-using-the-elrond-blockchain-and-egld-tokens-3fkf)
 [![GitHub - Marcisbee/messagepipe: Formats message strings with number, date, plural, and select placeholders to create localized messages](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Marcisbee_messagepipe__Formats_message_strings_with_number__date__plural__and_select_placeholders_to_create_localized_messages.svg)](https://github.com/Marcisbee/messagepipe)
 [![Building an Accurate Digital Clock with Multithreading in JavaScript!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_an_Accurate_Digital_Clock_with_Multithreading_in_JavaScript!.svg)](https://www.youtube.com/watch?v=5flRlTEt5sI)
 [![What Are Falsy Values In Javascript? || JSShorts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_Are_Falsy_Values_In_Javascript_____JSShorts.svg)](https://www.youtube.com/shorts/R47_CDiXZbw)
@@ -54,11 +55,6 @@ http://www.echojs.com
 Js-sdsl - High performance and lightweight JS data structure library.
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Js-sdsl_-_High_performance_and_lightweight_JS_data_structure_library._.svg)](
 https://js-sdsl.github.io/#/test/benchmark-analyze
-)
-[![
-Github Timeline
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Github_Timeline_.svg)](
-https://semanteo.is-a.dev/Github-Timeline/?username=Github&radio=asc
 )
 
 
