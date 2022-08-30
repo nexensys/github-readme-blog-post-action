@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, August 30, 2022 at 6:23:05 AM
+> Last updated: Tuesday, August 30, 2022 at 12:13:04 PM
 
 > Showing 5 of 12 posts.
 
-[![Open-source data collection & modeling platform for product analytics](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Open-source_data_collection___modeling_platform_for_product_analytics.svg)](https://dev.to/ivarpruijn/open-source-data-collection-modeling-platform-for-product-analytics-3c7k)
-[![Image Animation in CSS - 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Image_Animation_in_CSS_-_2.svg)](https://dev.to/shubhamtiwari909/image-animation-in-css-2-1o3l)
-[![Form Input Fields | Selenide Tutorial Series](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Form_Input_Fields___Selenide_Tutorial_Series.svg)](https://dev.to/automationbro/form-input-fields-selenide-tutorial-series-492o)
-[![Composable vs. Monolitch architecture: Uncovering recent composable hype](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Composable_vs._Monolitch_architecture__Uncovering_recent_composable_hype.svg)](https://dev.to/medusajs/composable-vs-monolitch-architecture-uncovering-recent-composable-hype-5d06)
-[![Restore IP Addresses](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Restore_IP_Addresses.svg)](https://dev.to/salahelhossiny/restore-ip-addresses-16h7)
+[![How to build water website with flying bubbles](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_build_water_website_with_flying_bubbles.svg)](https://dev.to/awcode0x/how-to-build-water-website-with-flying-bubbles-2gjm)
+[![How to Create a Responsive Navbar with Toggler Button Animation Using Flexbox?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Create_a_Responsive_Navbar_with_Toggler_Button_Animation_Using_Flexbox_.svg)](https://dev.to/shameerchagani/how-to-create-a-responsive-navbar-with-toggler-button-animation-using-flexbox-2ik2)
+[![When hiring developers gets tough, focus on developer efficiency](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/When_hiring_developers_gets_tough__focus_on_developer_efficiency.svg)](https://dev.to/wundergraph/when-hiring-developers-gets-tough-focus-on-developer-efficiency-4k72)
+[![Changelog #0018 — 🚀 GraphQL, custom HTTP method, interactive URLs, and more](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Changelog__0018_—_🚀_GraphQL__custom_HTTP_method__interactive_URLs__and_more.svg)](https://dev.to/pie/changelog-0018-graphql-custom-http-method-interactive-urls-and-more-46ag)
+[![DNS spoofing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/DNS_spoofing.svg)](https://dev.to/gkrasulya/dns-spoofing-5h8a)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, August 30, 2022 at 6:23:08 AM
+> Last updated: Tuesday, August 30, 2022 at 12:13:07 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, August 30, 2022 at 6:23:16 AM
+> Last updated: Tuesday, August 30, 2022 at 12:13:14 PM
 
 > Showing 5 of 30 posts.
 
