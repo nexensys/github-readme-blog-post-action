@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, August 29, 2022 at 7:05:26 PM
+> Last updated: Tuesday, August 30, 2022 at 12:45:45 AM
 
 > Showing 5 of 12 posts.
 
-[![Top-20 "Sponsored-By" from Git commit logs with Redis](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top-20__Sponsored-By__from_Git_commit_logs_with_Redis.svg)](https://dev.to/cnst/top-20-sponsored-by-from-git-commit-logs-with-redis-3cjg)
-[![Ghost Cloud](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Ghost_Cloud.svg)](https://dev.to/ankitbrijwasi/ghost-cloud-3fmc)
-[![Justa Net Worth Tracker - Redis Hackathon](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Justa_Net_Worth_Tracker_-_Redis_Hackathon.svg)](https://dev.to/patrickvalera/justa-net-worth-tracker-redis-hackathon-k7p)
-[![Learn OpenGL with Rust: first triangle](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Learn_OpenGL_with_Rust__first_triangle.svg)](https://dev.to/samkevich/learn-opengl-with-rust-first-triangle-5195)
-[![Redis Hackathon Submission: "Fauxrem", a reimplementation of Forem using Redis as the only data store](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Redis_Hackathon_Submission___Fauxrem___a_reimplementation_of_Forem_using_Redis_as_the_only_data_store.svg)](https://dev.to/jgaskins/redis-hackathon-submission-fauxrem-a-reimplementation-of-forem-using-redis-as-the-data-store-5615)
+[![Liman Çekirdek 1.10 sürümü duyuruldu](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Liman_Çekirdek_1.10_sürümü_duyuruldu.svg)](https://dev.to/liman/liman-cekirdek-110-surumu-duyuruldu-l3b)
+[![Why Software Testing is Important](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Why_Software_Testing_is_Important.svg)](https://dev.to/makendrang/why-software-testing-is-important-2129)
+[![Make your character jump in Unity2D](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Make_your_character_jump_in_Unity2D.svg)](https://dev.to/eduardojuliao/make-your-character-jump-in-unity2d-4jkc)
+[![InDepth Guide for Creating Nested and Reusable Forms](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/InDepth_Guide_for_Creating_Nested_and_Reusable_Forms.svg)](https://dev.to/shhdharmen/indepth-guide-for-creating-nested-and-reusable-forms-5fg)
+[![How to spice up your markdown documents](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_spice_up_your_markdown_documents.svg)](https://dev.to/coderallan/how-to-spice-up-your-markdown-documents-2pjg)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, August 29, 2022 at 7:05:28 PM
+> Last updated: Tuesday, August 30, 2022 at 12:45:49 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, August 29, 2022 at 7:05:34 PM
+> Last updated: Tuesday, August 30, 2022 at 12:45:57 AM
 
 > Showing 5 of 30 posts.
 
+[![Using v-bind:src with Vue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_v-bind_src_with_Vue.svg)](
+https://masteringjs.io/tutorials/vue/v-bind-src
+)
 [![API with NestJS #72. Working with PostgreSQL using raw SQL queries](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__72._Working_with_PostgreSQL_using_raw_SQL_queries.svg)](http://wanago.io/2022/08/29/api-nestjs-postgresql-raw-sql-queries/)
 [![Kuvimba: How to hide a mining giant in plain sight](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Kuvimba__How_to_hide_a_mining_giant_in_plain_sight.svg)](https://bulawayo24.com/index-id-news-sc-local-byo-197609.html)
 [![How to enable donations on any website using the Elrond blockchain and EGLD tokens](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_enable_donations_on_any_website_using_the_Elrond_blockchain_and_EGLD_tokens.svg)](https://dev.to/juliancwirko/how-to-enable-donations-on-any-website-using-the-elrond-blockchain-and-egld-tokens-3fkf)
 [![GitHub - Marcisbee/messagepipe: Formats message strings with number, date, plural, and select placeholders to create localized messages](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Marcisbee_messagepipe__Formats_message_strings_with_number__date__plural__and_select_placeholders_to_create_localized_messages.svg)](https://github.com/Marcisbee/messagepipe)
-[![Building an Accurate Digital Clock with Multithreading in JavaScript!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_an_Accurate_Digital_Clock_with_Multithreading_in_JavaScript!.svg)](https://www.youtube.com/watch?v=5flRlTEt5sI)
 
 
 <!-- post-list:end -->
