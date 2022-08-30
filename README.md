@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, August 29, 2022 at 12:13:11 PM
+> Last updated: Monday, August 29, 2022 at 7:05:26 PM
 
 > Showing 5 of 12 posts.
 
-[![Docker Registry ve Hub üzerine repo eklemek](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Docker_Registry_ve_Hub_üzerine_repo_eklemek.svg)](https://dev.to/aciklab/docker-registry-ve-hub-uzerine-repo-eklemek-1fgh)
-[![URL Shortener : Microservice Maven](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/URL_Shortener___Microservice_Maven.svg)](https://dev.to/dev117uday/url-shortener-microservice-maven-djo)
-[![Redis](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Redis.svg)](https://dev.to/2devyank/redis-3o0p)
-[![Loading Animation in CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Loading_Animation_in_CSS.svg)](https://dev.to/shubhamtiwari909/css-loading-animationsc-3k8m)
-[![7 great tips for beginners learning to code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/7_great_tips_for_beginners_learning_to_code.svg)](https://dev.to/shabzy1507/7-great-tips-for-beginners-learning-to-code-3ahh)
+[![Top-20 "Sponsored-By" from Git commit logs with Redis](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top-20__Sponsored-By__from_Git_commit_logs_with_Redis.svg)](https://dev.to/cnst/top-20-sponsored-by-from-git-commit-logs-with-redis-3cjg)
+[![Ghost Cloud](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Ghost_Cloud.svg)](https://dev.to/ankitbrijwasi/ghost-cloud-3fmc)
+[![Justa Net Worth Tracker - Redis Hackathon](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Justa_Net_Worth_Tracker_-_Redis_Hackathon.svg)](https://dev.to/patrickvalera/justa-net-worth-tracker-redis-hackathon-k7p)
+[![Learn OpenGL with Rust: first triangle](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Learn_OpenGL_with_Rust__first_triangle.svg)](https://dev.to/samkevich/learn-opengl-with-rust-first-triangle-5195)
+[![Redis Hackathon Submission: "Fauxrem", a reimplementation of Forem using Redis as the only data store](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Redis_Hackathon_Submission___Fauxrem___a_reimplementation_of_Forem_using_Redis_as_the_only_data_store.svg)](https://dev.to/jgaskins/redis-hackathon-submission-fauxrem-a-reimplementation-of-forem-using-redis-as-the-data-store-5615)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, August 29, 2022 at 12:13:14 PM
+> Last updated: Monday, August 29, 2022 at 7:05:28 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, August 29, 2022 at 12:13:21 PM
+> Last updated: Monday, August 29, 2022 at 7:05:34 PM
 
 > Showing 5 of 30 posts.
 
