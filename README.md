@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, August 30, 2022 at 7:09:22 PM
+> Last updated: Wednesday, August 31, 2022 at 6:22:12 AM
 
 > Showing 5 of 12 posts.
 
-[![How to Build a Lava-Lamp Style Navigation Menu with React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Build_a_Lava-Lamp_Style_Navigation_Menu_with_React.svg)](https://dev.to/jlizanab/how-to-build-a-lava-lamp-style-navigation-menu-with-react-1lf4)
-[![Por que compartilhar conhecimento é tão importante?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Por_que_compartilhar_conhecimento_é_tão_importante_.svg)](https://dev.to/marciopolicarpo/por-que-compartilhar-conhecimento-e-tao-importante-1k60)
-[![Top 7 Featured DEV Posts from the Past Week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_7_Featured_DEV_Posts_from_the_Past_Week.svg)](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3503)
-[![Stages and Environment Variables in Svelte (SvelteKit)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Stages_and_Environment_Variables_in_Svelte_(SvelteKit).svg)](https://dev.to/willkre/stages-and-environment-variables-in-svelte-sveltekit-mdj)
-[![Persistent Theme Switch (Dark mode) with Svelte (SvelteKit) & Tailwind](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Persistent_Theme_Switch_(Dark_mode)_with_Svelte_(SvelteKit)___Tailwind.svg)](https://dev.to/willkre/persistent-theme-switch-dark-mode-with-svelte-sveltekit-tailwind-1b9g)
+[![What is version control? Why Git & GitHub are so popular?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_version_control__Why_Git___GitHub_are_so_popular_.svg)](https://dev.to/aryank21/what-is-version-control-why-git-github-are-so-popular-3ed3)
+[![How GitHub Can Benefit You](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_GitHub_Can_Benefit_You.svg)](https://dev.to/roy8/how-github-can-benefit-you-4j89)
+[![Uncino 🪝 Fast, tiny and solid hooks system for Javascript and NodeJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Uncino_🪝_Fast__tiny_and_solid_hooks_system_for_Javascript_and_NodeJS.svg)](https://dev.to/riktar/uncino-fast-tiny-and-solid-hooks-system-for-javascript-and-nodejs-613)
+[![Chrome Extensions of the Month - August 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Chrome_Extensions_of_the_Month_-_August_2022.svg)](https://dev.to/j471n/chrome-extensions-of-the-month-august-2022-5d8l)
+[![Слияние отсортированных массивов](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Слияние_отсортированных_массивов.svg)](https://dev.to/ivsivak/sliianiie-otsortirovannykh-massivov-5da6)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, August 30, 2022 at 7:09:24 PM
+> Last updated: Wednesday, August 31, 2022 at 6:22:14 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, August 30, 2022 at 7:09:29 PM
+> Last updated: Wednesday, August 31, 2022 at 6:22:19 AM
 
 > Showing 5 of 30 posts.
 
-[![5 Ways to Build a React Monorepo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/5_Ways_to_Build_a_React_Monorepo.svg)](https://blog.bitsrc.io/5-ways-to-build-a-react-monorepo-a294b6c5b0ac)
-[![Episode 26 - Let's talk about JavaScript for SEO with Antonello Zanini - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_26_-_Let's_talk_about_JavaScript_for_SEO_with_Antonello_Zanini_-_20minJS.svg)](https://podcast.20minjs.com/1952066/11221113-episode-26-let-s-talk-about-javascript-for-seo-with-antonello-zanini)
-[![Using v-bind:src with Vue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_v-bind_src_with_Vue.svg)](
-https://masteringjs.io/tutorials/vue/v-bind-src
-)
-[![API with NestJS #72. Working with PostgreSQL using raw SQL queries](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__72._Working_with_PostgreSQL_using_raw_SQL_queries.svg)](http://wanago.io/2022/08/29/api-nestjs-postgresql-raw-sql-queries/)
-[![GitHub - Marcisbee/messagepipe: Formats message strings with number, date, plural, and select placeholders to create localized messages](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Marcisbee_messagepipe__Formats_message_strings_with_number__date__plural__and_select_placeholders_to_create_localized_messages.svg)](https://github.com/Marcisbee/messagepipe)
+[![GitHub - lost-pixel/lost-pixel: Holistic visual regression testing framework for modern web 🖼 First class integration with Storybook, Ladle & other frontend libraries.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_lost-pixel_lost-pixel__Holistic_visual_regression_testing_framework_for_modern_web_🖼_First_class_integration_with_Storybook__Ladle___other_frontend_libraries..svg)](https://github.com/lost-pixel/lost-pixel)
+[![Patel Arif](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Patel_Arif.svg)](/announcements/greetings/personal-message/20179717.patel-arif/)
+[![GitHub - riktar/uncino: Fast, tiny and solid hooks system for Javascript and Node.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_riktar_uncino__Fast__tiny_and_solid_hooks_system_for_Javascript_and_Node.js.svg)](https://github.com/riktar/uncino)
+[![Testing localStorage exceptions with Cypress](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Testing_localStorage_exceptions_with_Cypress.svg)](https://dev.to/javierbrea/testing-localstorage-exceptions-with-cypress-93n)
+[![react-modern-audio-player/README.md at main · slash9494/react-modern-audio-player](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/react-modern-audio-player_README.md_at_main_·_slash9494_react-modern-audio-player.svg)](https://github.com/slash9494/react-modern-audio-player)
 
 
 <!-- post-list:end -->
