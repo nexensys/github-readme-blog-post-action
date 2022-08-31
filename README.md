@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, August 30, 2022 at 12:13:04 PM
+> Last updated: Tuesday, August 30, 2022 at 7:09:22 PM
 
 > Showing 5 of 12 posts.
 
-[![How to build water website with flying bubbles](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_build_water_website_with_flying_bubbles.svg)](https://dev.to/awcode0x/how-to-build-water-website-with-flying-bubbles-2gjm)
-[![How to Create a Responsive Navbar with Toggler Button Animation Using Flexbox?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Create_a_Responsive_Navbar_with_Toggler_Button_Animation_Using_Flexbox_.svg)](https://dev.to/shameerchagani/how-to-create-a-responsive-navbar-with-toggler-button-animation-using-flexbox-2ik2)
-[![When hiring developers gets tough, focus on developer efficiency](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/When_hiring_developers_gets_tough__focus_on_developer_efficiency.svg)](https://dev.to/wundergraph/when-hiring-developers-gets-tough-focus-on-developer-efficiency-4k72)
-[![Changelog #0018 — 🚀 GraphQL, custom HTTP method, interactive URLs, and more](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Changelog__0018_—_🚀_GraphQL__custom_HTTP_method__interactive_URLs__and_more.svg)](https://dev.to/pie/changelog-0018-graphql-custom-http-method-interactive-urls-and-more-46ag)
-[![DNS spoofing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/DNS_spoofing.svg)](https://dev.to/gkrasulya/dns-spoofing-5h8a)
+[![How to Build a Lava-Lamp Style Navigation Menu with React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Build_a_Lava-Lamp_Style_Navigation_Menu_with_React.svg)](https://dev.to/jlizanab/how-to-build-a-lava-lamp-style-navigation-menu-with-react-1lf4)
+[![Por que compartilhar conhecimento é tão importante?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Por_que_compartilhar_conhecimento_é_tão_importante_.svg)](https://dev.to/marciopolicarpo/por-que-compartilhar-conhecimento-e-tao-importante-1k60)
+[![Top 7 Featured DEV Posts from the Past Week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_7_Featured_DEV_Posts_from_the_Past_Week.svg)](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3503)
+[![Stages and Environment Variables in Svelte (SvelteKit)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Stages_and_Environment_Variables_in_Svelte_(SvelteKit).svg)](https://dev.to/willkre/stages-and-environment-variables-in-svelte-sveltekit-mdj)
+[![Persistent Theme Switch (Dark mode) with Svelte (SvelteKit) & Tailwind](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Persistent_Theme_Switch_(Dark_mode)_with_Svelte_(SvelteKit)___Tailwind.svg)](https://dev.to/willkre/persistent-theme-switch-dark-mode-with-svelte-sveltekit-tailwind-1b9g)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, August 30, 2022 at 12:13:07 PM
+> Last updated: Tuesday, August 30, 2022 at 7:09:24 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, August 30, 2022 at 12:13:14 PM
+> Last updated: Tuesday, August 30, 2022 at 7:09:29 PM
 
 > Showing 5 of 30 posts.
 
@@ -53,7 +53,7 @@ http://www.echojs.com
 https://masteringjs.io/tutorials/vue/v-bind-src
 )
 [![API with NestJS #72. Working with PostgreSQL using raw SQL queries](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__72._Working_with_PostgreSQL_using_raw_SQL_queries.svg)](http://wanago.io/2022/08/29/api-nestjs-postgresql-raw-sql-queries/)
-[![Kuvimba: How to hide a mining giant in plain sight](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Kuvimba__How_to_hide_a_mining_giant_in_plain_sight.svg)](https://bulawayo24.com/index-id-news-sc-local-byo-197609.html)
+[![GitHub - Marcisbee/messagepipe: Formats message strings with number, date, plural, and select placeholders to create localized messages](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Marcisbee_messagepipe__Formats_message_strings_with_number__date__plural__and_select_placeholders_to_create_localized_messages.svg)](https://github.com/Marcisbee/messagepipe)
 
 
 <!-- post-list:end -->
