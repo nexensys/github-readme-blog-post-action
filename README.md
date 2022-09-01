@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, September 1, 2022 at 12:22:27 AM
+> Last updated: Thursday, September 1, 2022 at 6:19:44 AM
 
 > Showing 5 of 12 posts.
 
-[![How to Learn Web3 (September 2022)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Learn_Web3_(September_2022).svg)](https://dev.to/francescoxx/how-to-learn-web3-september-2022-3h9h)
-[![🤖 Just Listed IT Job Offers - Week #36 of 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/🤖_Just_Listed_IT_Job_Offers_-_Week__36_of_2022.svg)](https://dev.to/shman/just-listed-it-job-offers-week-36-of-2022-57f4)
-[![Count Good Nodes in Binary Tree](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Count_Good_Nodes_in_Binary_Tree.svg)](https://dev.to/salahelhossiny/count-good-nodes-in-binary-tree-1be1)
-[![Improve Development Productivity](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Improve_Development_Productivity.svg)](https://dev.to/nasrulhazim/improve-development-productivity-jdg)
-[![Simple CSS Carousel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Simple_CSS_Carousel.svg)](https://dev.to/itsaomi/simple-css-carousel-j12)
+[![UK Global Talent Visa Requirements | Innovation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/UK_Global_Talent_Visa_Requirements___Innovation.svg)](https://dev.to/beetlehope/uk-global-talent-visa-requirements-innovation-3gin)
+[![Awesome GitHub Repositories for Web Developer - Part 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Awesome_GitHub_Repositories_for_Web_Developer_-_Part_2.svg)](https://dev.to/surajondev/awesome-github-repositories-for-web-developer-part-2-1h8b)
+[![Announcing New Versions for Appwrite's Flutter and Dart SDKs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Announcing_New_Versions_for_Appwrite's_Flutter_and_Dart_SDKs.svg)](https://dev.to/appwrite/announcing-new-versions-for-appwrites-flutter-and-dart-sdks-4l5j)
+[![How to Create a Chart in React With Recharts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Create_a_Chart_in_React_With_Recharts.svg)](https://dev.to/femi_dev/how-to-create-a-chart-in-react-with-recharts-2b58)
+[![Showcase: Supercharge your search on Twitter (tech stack)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Showcase__Supercharge_your_search_on_Twitter_(tech_stack).svg)](https://dev.to/pradeepb28_/showcase-supercharge-your-search-on-twitter-tech-stack-2g9o)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, September 1, 2022 at 12:22:31 AM
+> Last updated: Thursday, September 1, 2022 at 6:19:48 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, September 1, 2022 at 12:22:37 AM
+> Last updated: Thursday, September 1, 2022 at 6:19:52 AM
 
 > Showing 5 of 30 posts.
 
+[![Creating a cross-platform design system for React and React Native with Bit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Creating_a_cross-platform_design_system_for_React_and_React_Native_with_Bit.svg)](https://www.youtube.com/watch?v=O_xhMW8KZPA)
 [![Why Every React Developer Should Learn Function Composition](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Why_Every_React_Developer_Should_Learn_Function_Composition.svg)](https://medium.com/javascript-scene/why-every-react-developer-should-learn-function-composition-23f41d4db3b1)
 [![How to Build a Chrome Extension that will Make Your Facebook Posts Better? - Yonatan Kra](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Build_a_Chrome_Extension_that_will_Make_Your_Facebook_Posts_Better__-_Yonatan_Kra.svg)](https://yonatankra.com/how-to-build-a-chrome-extension-that-will-make-your-facebook-posts-better/)
 [![GitHub - lost-pixel/lost-pixel: Holistic visual regression testing framework for modern web 🖼 First class integration with Storybook, Ladle & other frontend libraries.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_lost-pixel_lost-pixel__Holistic_visual_regression_testing_framework_for_modern_web_🖼_First_class_integration_with_Storybook__Ladle___other_frontend_libraries..svg)](https://github.com/lost-pixel/lost-pixel)
 [![GitHub - riktar/uncino: Fast, tiny and solid hooks system for Javascript and Node.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_riktar_uncino__Fast__tiny_and_solid_hooks_system_for_Javascript_and_Node.js.svg)](https://github.com/riktar/uncino)
-[![Testing localStorage exceptions with Cypress](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Testing_localStorage_exceptions_with_Cypress.svg)](https://dev.to/javierbrea/testing-localstorage-exceptions-with-cypress-93n)
 
 
 <!-- post-list:end -->
