@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, August 31, 2022 at 6:22:12 AM
+> Last updated: Wednesday, August 31, 2022 at 6:56:55 PM
 
 > Showing 5 of 12 posts.
 
-[![What is version control? Why Git & GitHub are so popular?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_version_control__Why_Git___GitHub_are_so_popular_.svg)](https://dev.to/aryank21/what-is-version-control-why-git-github-are-so-popular-3ed3)
-[![How GitHub Can Benefit You](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_GitHub_Can_Benefit_You.svg)](https://dev.to/roy8/how-github-can-benefit-you-4j89)
-[![Uncino 🪝 Fast, tiny and solid hooks system for Javascript and NodeJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Uncino_🪝_Fast__tiny_and_solid_hooks_system_for_Javascript_and_NodeJS.svg)](https://dev.to/riktar/uncino-fast-tiny-and-solid-hooks-system-for-javascript-and-nodejs-613)
-[![Chrome Extensions of the Month - August 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Chrome_Extensions_of_the_Month_-_August_2022.svg)](https://dev.to/j471n/chrome-extensions-of-the-month-august-2022-5d8l)
-[![Слияние отсортированных массивов](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Слияние_отсортированных_массивов.svg)](https://dev.to/ivsivak/sliianiie-otsortirovannykh-massivov-5da6)
+[![How to become a self taught developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_become_a_self_taught_developer.svg)](https://dev.to/aktoyyib/how-to-become-a-self-taught-developer-1n0a)
+[![What are No-Code Platforms?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_are_No-Code_Platforms_.svg)](https://dev.to/duplocloud/what-are-no-code-platforms-12l8)
+[![Getting out of the junior level comfort zone ...](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Getting_out_of_the_junior_level_comfort_zone_....svg)](https://dev.to/kevin074/getting-out-of-the-junior-level-comfort-zone--4o5p)
+[![Cuber is now open source: deploy your apps to K8s with 1 command](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Cuber_is_now_open_source__deploy_your_apps_to_K8s_with_1_command.svg)](https://dev.to/collimarco/cuber-is-now-open-source-deploy-your-apps-to-k8s-with-1-command-2o0a)
+[![Day 6: Python Functions & Karel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Day_6__Python_Functions___Karel.svg)](https://dev.to/kdleonard93/day-6-python-functions-karel-3773)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, August 31, 2022 at 6:22:14 AM
+> Last updated: Wednesday, August 31, 2022 at 6:56:59 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,12 +43,12 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, August 31, 2022 at 6:22:19 AM
+> Last updated: Wednesday, August 31, 2022 at 6:57:04 PM
 
 > Showing 5 of 30 posts.
 
+[![How to Build a Chrome Extension that will Make Your Facebook Posts Better? - Yonatan Kra](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Build_a_Chrome_Extension_that_will_Make_Your_Facebook_Posts_Better__-_Yonatan_Kra.svg)](https://yonatankra.com/how-to-build-a-chrome-extension-that-will-make-your-facebook-posts-better/)
 [![GitHub - lost-pixel/lost-pixel: Holistic visual regression testing framework for modern web 🖼 First class integration with Storybook, Ladle & other frontend libraries.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_lost-pixel_lost-pixel__Holistic_visual_regression_testing_framework_for_modern_web_🖼_First_class_integration_with_Storybook__Ladle___other_frontend_libraries..svg)](https://github.com/lost-pixel/lost-pixel)
-[![Patel Arif](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Patel_Arif.svg)](/announcements/greetings/personal-message/20179717.patel-arif/)
 [![GitHub - riktar/uncino: Fast, tiny and solid hooks system for Javascript and Node.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_riktar_uncino__Fast__tiny_and_solid_hooks_system_for_Javascript_and_Node.js.svg)](https://github.com/riktar/uncino)
 [![Testing localStorage exceptions with Cypress](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Testing_localStorage_exceptions_with_Cypress.svg)](https://dev.to/javierbrea/testing-localstorage-exceptions-with-cypress-93n)
 [![react-modern-audio-player/README.md at main · slash9494/react-modern-audio-player](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/react-modern-audio-player_README.md_at_main_·_slash9494_react-modern-audio-player.svg)](https://github.com/slash9494/react-modern-audio-player)
