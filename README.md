@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, September 1, 2022 at 6:19:44 AM
+> Last updated: Thursday, September 1, 2022 at 12:14:03 PM
 
 > Showing 5 of 12 posts.
 
-[![UK Global Talent Visa Requirements | Innovation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/UK_Global_Talent_Visa_Requirements___Innovation.svg)](https://dev.to/beetlehope/uk-global-talent-visa-requirements-innovation-3gin)
-[![Awesome GitHub Repositories for Web Developer - Part 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Awesome_GitHub_Repositories_for_Web_Developer_-_Part_2.svg)](https://dev.to/surajondev/awesome-github-repositories-for-web-developer-part-2-1h8b)
-[![Announcing New Versions for Appwrite's Flutter and Dart SDKs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Announcing_New_Versions_for_Appwrite's_Flutter_and_Dart_SDKs.svg)](https://dev.to/appwrite/announcing-new-versions-for-appwrites-flutter-and-dart-sdks-4l5j)
-[![How to Create a Chart in React With Recharts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Create_a_Chart_in_React_With_Recharts.svg)](https://dev.to/femi_dev/how-to-create-a-chart-in-react-with-recharts-2b58)
-[![Showcase: Supercharge your search on Twitter (tech stack)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Showcase__Supercharge_your_search_on_Twitter_(tech_stack).svg)](https://dev.to/pradeepb28_/showcase-supercharge-your-search-on-twitter-tech-stack-2g9o)
+[![Resume Building - Resources and Tips](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Resume_Building_-_Resources_and_Tips.svg)](https://dev.to/savvyshivam/resume-building-resources-and-tips-854)
+[![What if we had a site where you are required to solve duplicated production bugs that other developers have faced?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_if_we_had_a_site_where_you_are_required_to_solve_duplicated_production_bugs_that_other_developers_have_faced_.svg)](https://dev.to/w3ndo/what-if-we-had-a-site-where-you-are-required-to-solve-duplicated-production-bugs-that-other-developers-have-faced-3a61)
+[![Type Conversion and Coercion in Javascript💫.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Type_Conversion_and_Coercion_in_Javascript💫..svg)](https://dev.to/bagfaceasadkhan/type-conversion-and-coercion-in-javascript-12al)
+[![Adding a Soul into a React-Redux Project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Adding_a_Soul_into_a_React-Redux_Project.svg)](https://dev.to/simprl/adding-a-soul-into-a-react-redux-project-524b)
+[![Best Usability Testing Tools For Your Website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Best_Usability_Testing_Tools_For_Your_Website.svg)](https://dev.to/lambdatest/best-usability-testing-tools-for-your-website-41e6)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, September 1, 2022 at 6:19:48 AM
+> Last updated: Thursday, September 1, 2022 at 12:14:06 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, September 1, 2022 at 6:19:52 AM
+> Last updated: Thursday, September 1, 2022 at 12:14:08 PM
 
 > Showing 5 of 30 posts.
 
-[![Creating a cross-platform design system for React and React Native with Bit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Creating_a_cross-platform_design_system_for_React_and_React_Native_with_Bit.svg)](https://www.youtube.com/watch?v=O_xhMW8KZPA)
+[![My Experience Speaking at VueConf US 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/My_Experience_Speaking_at_VueConf_US_2022.svg)](https://austingil.com/vueconf-us-2022-review/)
+[![
+How we clone a running VM in 2 seconds
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_How_we_clone_a_running_VM_in_2_seconds_.svg)](
+https://codesandbox.io/post/how-we-clone-a-running-vm-in-2-seconds?utm_source=echojs.com&utm_medium=referral
+)
+[![Building a cross-platform design system for React and React Native with Bit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_a_cross-platform_design_system_for_React_and_React_Native_with_Bit.svg)](https://www.youtube.com/watch?v=O_xhMW8KZPA)
 [![Why Every React Developer Should Learn Function Composition](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Why_Every_React_Developer_Should_Learn_Function_Composition.svg)](https://medium.com/javascript-scene/why-every-react-developer-should-learn-function-composition-23f41d4db3b1)
 [![How to Build a Chrome Extension that will Make Your Facebook Posts Better? - Yonatan Kra](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Build_a_Chrome_Extension_that_will_Make_Your_Facebook_Posts_Better__-_Yonatan_Kra.svg)](https://yonatankra.com/how-to-build-a-chrome-extension-that-will-make-your-facebook-posts-better/)
-[![GitHub - lost-pixel/lost-pixel: Holistic visual regression testing framework for modern web 🖼 First class integration with Storybook, Ladle & other frontend libraries.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_lost-pixel_lost-pixel__Holistic_visual_regression_testing_framework_for_modern_web_🖼_First_class_integration_with_Storybook__Ladle___other_frontend_libraries..svg)](https://github.com/lost-pixel/lost-pixel)
-[![GitHub - riktar/uncino: Fast, tiny and solid hooks system for Javascript and Node.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_riktar_uncino__Fast__tiny_and_solid_hooks_system_for_Javascript_and_Node.js.svg)](https://github.com/riktar/uncino)
 
 
 <!-- post-list:end -->
