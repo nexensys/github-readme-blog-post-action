@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, August 31, 2022 at 6:56:55 PM
+> Last updated: Thursday, September 1, 2022 at 12:22:27 AM
 
 > Showing 5 of 12 posts.
 
-[![How to become a self taught developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_become_a_self_taught_developer.svg)](https://dev.to/aktoyyib/how-to-become-a-self-taught-developer-1n0a)
-[![What are No-Code Platforms?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_are_No-Code_Platforms_.svg)](https://dev.to/duplocloud/what-are-no-code-platforms-12l8)
-[![Getting out of the junior level comfort zone ...](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Getting_out_of_the_junior_level_comfort_zone_....svg)](https://dev.to/kevin074/getting-out-of-the-junior-level-comfort-zone--4o5p)
-[![Cuber is now open source: deploy your apps to K8s with 1 command](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Cuber_is_now_open_source__deploy_your_apps_to_K8s_with_1_command.svg)](https://dev.to/collimarco/cuber-is-now-open-source-deploy-your-apps-to-k8s-with-1-command-2o0a)
-[![Day 6: Python Functions & Karel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Day_6__Python_Functions___Karel.svg)](https://dev.to/kdleonard93/day-6-python-functions-karel-3773)
+[![How to Learn Web3 (September 2022)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Learn_Web3_(September_2022).svg)](https://dev.to/francescoxx/how-to-learn-web3-september-2022-3h9h)
+[![🤖 Just Listed IT Job Offers - Week #36 of 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/🤖_Just_Listed_IT_Job_Offers_-_Week__36_of_2022.svg)](https://dev.to/shman/just-listed-it-job-offers-week-36-of-2022-57f4)
+[![Count Good Nodes in Binary Tree](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Count_Good_Nodes_in_Binary_Tree.svg)](https://dev.to/salahelhossiny/count-good-nodes-in-binary-tree-1be1)
+[![Improve Development Productivity](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Improve_Development_Productivity.svg)](https://dev.to/nasrulhazim/improve-development-productivity-jdg)
+[![Simple CSS Carousel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Simple_CSS_Carousel.svg)](https://dev.to/itsaomi/simple-css-carousel-j12)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, August 31, 2022 at 6:56:59 PM
+> Last updated: Thursday, September 1, 2022 at 12:22:31 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, August 31, 2022 at 6:57:04 PM
+> Last updated: Thursday, September 1, 2022 at 12:22:37 AM
 
 > Showing 5 of 30 posts.
 
+[![Why Every React Developer Should Learn Function Composition](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Why_Every_React_Developer_Should_Learn_Function_Composition.svg)](https://medium.com/javascript-scene/why-every-react-developer-should-learn-function-composition-23f41d4db3b1)
 [![How to Build a Chrome Extension that will Make Your Facebook Posts Better? - Yonatan Kra](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Build_a_Chrome_Extension_that_will_Make_Your_Facebook_Posts_Better__-_Yonatan_Kra.svg)](https://yonatankra.com/how-to-build-a-chrome-extension-that-will-make-your-facebook-posts-better/)
 [![GitHub - lost-pixel/lost-pixel: Holistic visual regression testing framework for modern web 🖼 First class integration with Storybook, Ladle & other frontend libraries.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_lost-pixel_lost-pixel__Holistic_visual_regression_testing_framework_for_modern_web_🖼_First_class_integration_with_Storybook__Ladle___other_frontend_libraries..svg)](https://github.com/lost-pixel/lost-pixel)
 [![GitHub - riktar/uncino: Fast, tiny and solid hooks system for Javascript and Node.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_riktar_uncino__Fast__tiny_and_solid_hooks_system_for_Javascript_and_Node.js.svg)](https://github.com/riktar/uncino)
 [![Testing localStorage exceptions with Cypress](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Testing_localStorage_exceptions_with_Cypress.svg)](https://dev.to/javierbrea/testing-localstorage-exceptions-with-cypress-93n)
-[![react-modern-audio-player/README.md at main · slash9494/react-modern-audio-player](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/react-modern-audio-player_README.md_at_main_·_slash9494_react-modern-audio-player.svg)](https://github.com/slash9494/react-modern-audio-player)
 
 
 <!-- post-list:end -->
