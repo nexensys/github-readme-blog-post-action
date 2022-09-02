@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, September 1, 2022 at 7:00:11 PM
+> Last updated: Friday, September 2, 2022 at 12:33:36 AM
 
 > Showing 5 of 12 posts.
 
-[![Form validations in Ruby On Rails Application.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Form_validations_in_Ruby_On_Rails_Application..svg)](https://dev.to/kanani_nirav/form-validations-in-ruby-on-rails-application-ojk)
-[![What are Arrays? - Part IV](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_are_Arrays__-_Part_IV.svg)](https://dev.to/jinchoo/what-are-arrays-part-iv-32hf)
-[![Node.js '__dirname' vrs 'process.cwd()'](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Node.js_'__dirname'_vrs_'process.cwd()'.svg)](https://dev.to/qbentil/nodejs-dirname-vrs-processcwd-3k88)
-[![XRP Ledger Sidechains, Redesigned](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/XRP_Ledger_Sidechains__Redesigned.svg)](https://dev.to/ripplexdev/xrp-ledger-sidechains-redesigned-190i)
-[![How I made a discord bot to generate artistic images and a poetic text about it](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_I_made_a_discord_bot_to_generate_artistic_images_and_a_poetic_text_about_it.svg)](https://dev.to/llckx/how-i-made-a-discord-bot-to-generate-artistic-images-and-a-poetic-text-about-it-330e)
+[![Pardus 21 Sunucu üzerinde Grafana 9 Kurulumu](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Pardus_21_Sunucu_üzerinde_Grafana_9_Kurulumu.svg)](https://dev.to/aciklab/pardus-21-sunucu-uzerinde-grafana-9-kurulumu-2jp1)
+[![How Fast Is Bun.sh After All?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_Fast_Is_Bun.sh_After_All_.svg)](https://dev.to/devarshishimpi/how-fast-is-bunsh-after-all-4iec)
+[![Astro 1.0 adding React components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Astro_1.0_adding_React_components.svg)](https://dev.to/dailydevtips1/astro-10-adding-react-components-36ag)
+[![Pardus 21 Sunucu Kurulumu Part 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Pardus_21_Sunucu_Kurulumu_Part_2.svg)](https://dev.to/aciklab/pardus-21-sunucu-kurulumu-part-2-45e4)
+[![AWS CDK and Amazon DynamoDB global tables](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/AWS_CDK_and_Amazon_DynamoDB_global_tables.svg)](https://dev.to/aws-builders/aws-cdk-and-amazon-dynamodb-global-tables-3p0b)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, September 1, 2022 at 7:00:14 PM
+> Last updated: Friday, September 2, 2022 at 12:33:39 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, September 1, 2022 at 7:00:18 PM
+> Last updated: Friday, September 2, 2022 at 12:33:42 AM
 
 > Showing 5 of 30 posts.
 
