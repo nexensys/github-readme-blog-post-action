@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, September 2, 2022 at 6:21:29 AM
+> Last updated: Friday, September 2, 2022 at 12:14:22 PM
 
 > Showing 5 of 12 posts.
 
-[![10+ Plugins That Will Boost Your Productivity With Intellij Idea](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/10+_Plugins_That_Will_Boost_Your_Productivity_With_Intellij_Idea.svg)](https://dev.to/devarshishimpi/10-plugins-that-will-boost-your-productivity-with-intellij-idea-32p9)
-[![How to add git works shortcuts to increase your productivity](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_add_git_works_shortcuts_to_increase_your_productivity.svg)](https://dev.to/vinibgoulart/how-to-add-git-works-shortcuts-to-increase-your-productivity-g5a)
-[![How to create a CRUD app with SvelteKit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_create_a_CRUD_app_with_SvelteKit.svg)](https://dev.to/refine/how-to-create-a-crud-app-with-sveltekit-49cb)
-[![Are Node Pools Sabotaging Your Cost Optimization Efforts?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Are_Node_Pools_Sabotaging_Your_Cost_Optimization_Efforts_.svg)](https://dev.to/castai/are-node-pools-sabotaging-your-cost-optimization-efforts-ijj)
-[![Arquitetura de Sistemas Operacionais #5](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Arquitetura_de_Sistemas_Operacionais__5.svg)](https://dev.to/samoht/arquitetura-de-sistemas-operacionais-5-16o8)
+[![Appwrite Community Report #21](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Appwrite_Community_Report__21.svg)](https://dev.to/appwrite/appwrite-community-report-21-3nl1)
+[![How to make responsive agency website using Html CSS JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_make_responsive_agency_website_using_Html_CSS_JavaScript.svg)](https://dev.to/codewithsadee/how-to-make-responsive-agency-website-using-html-css-javascript-1ioh)
+[![How to Add Google Analytics to a React-Next.js Application 📈⚛️](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Add_Google_Analytics_to_a_React-Next.js_Application_📈⚛️.svg)](https://dev.to/edwinnv/how-to-add-google-analytics-to-a-react-nextjs-application-boc)
+[![React Project Contest](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/React_Project_Contest.svg)](https://dev.to/deatul/making-a-react-project-5gg1)
+[![Rust will `never` do that!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Rust_will_`never`_do_that!.svg)](https://dev.to/evantypanski/rust-will-never-do-that-216c)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, September 2, 2022 at 6:21:32 AM
+> Last updated: Friday, September 2, 2022 at 12:14:25 PM
 
 > Showing 4 of 4 posts.
 
+[![David's handy JS debugging tip](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/David's_handy_JS_debugging_tip.svg)](https://javascriptweekly.com/issues/604)
 [![The future JavaScript features at TC39](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/The_future_JavaScript_features_at_TC39.svg)](https://javascriptweekly.com/issues/603)
 [![A way to automatically generate regexes from examples](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/A_way_to_automatically_generate_regexes_from_examples.svg)](https://javascriptweekly.com/issues/602)
 [![Genius misuse of WOFF 2 and Brotli to win a JavaScript contest.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Genius_misuse_of_WOFF_2_and_Brotli_to_win_a_JavaScript_contest..svg)](https://javascriptweekly.com/issues/601)
-[![Douglas Crockford on 'retiring' JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Douglas_Crockford_on_'retiring'_JavaScript.svg)](https://javascriptweekly.com/issues/600)
 
 
 ## Echo JS
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, September 2, 2022 at 6:21:34 AM
+> Last updated: Friday, September 2, 2022 at 12:14:27 PM
 
 > Showing 5 of 30 posts.
 
