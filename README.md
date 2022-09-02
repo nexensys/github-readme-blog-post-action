@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, September 2, 2022 at 12:33:36 AM
+> Last updated: Friday, September 2, 2022 at 6:21:29 AM
 
 > Showing 5 of 12 posts.
 
-[![Pardus 21 Sunucu üzerinde Grafana 9 Kurulumu](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Pardus_21_Sunucu_üzerinde_Grafana_9_Kurulumu.svg)](https://dev.to/aciklab/pardus-21-sunucu-uzerinde-grafana-9-kurulumu-2jp1)
-[![How Fast Is Bun.sh After All?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_Fast_Is_Bun.sh_After_All_.svg)](https://dev.to/devarshishimpi/how-fast-is-bunsh-after-all-4iec)
-[![Astro 1.0 adding React components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Astro_1.0_adding_React_components.svg)](https://dev.to/dailydevtips1/astro-10-adding-react-components-36ag)
-[![Pardus 21 Sunucu Kurulumu Part 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Pardus_21_Sunucu_Kurulumu_Part_2.svg)](https://dev.to/aciklab/pardus-21-sunucu-kurulumu-part-2-45e4)
-[![AWS CDK and Amazon DynamoDB global tables](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/AWS_CDK_and_Amazon_DynamoDB_global_tables.svg)](https://dev.to/aws-builders/aws-cdk-and-amazon-dynamodb-global-tables-3p0b)
+[![10+ Plugins That Will Boost Your Productivity With Intellij Idea](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/10+_Plugins_That_Will_Boost_Your_Productivity_With_Intellij_Idea.svg)](https://dev.to/devarshishimpi/10-plugins-that-will-boost-your-productivity-with-intellij-idea-32p9)
+[![How to add git works shortcuts to increase your productivity](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_add_git_works_shortcuts_to_increase_your_productivity.svg)](https://dev.to/vinibgoulart/how-to-add-git-works-shortcuts-to-increase-your-productivity-g5a)
+[![How to create a CRUD app with SvelteKit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_create_a_CRUD_app_with_SvelteKit.svg)](https://dev.to/refine/how-to-create-a-crud-app-with-sveltekit-49cb)
+[![Are Node Pools Sabotaging Your Cost Optimization Efforts?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Are_Node_Pools_Sabotaging_Your_Cost_Optimization_Efforts_.svg)](https://dev.to/castai/are-node-pools-sabotaging-your-cost-optimization-efforts-ijj)
+[![Arquitetura de Sistemas Operacionais #5](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Arquitetura_de_Sistemas_Operacionais__5.svg)](https://dev.to/samoht/arquitetura-de-sistemas-operacionais-5-16o8)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, September 2, 2022 at 12:33:39 AM
+> Last updated: Friday, September 2, 2022 at 6:21:32 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, September 2, 2022 at 12:33:42 AM
+> Last updated: Friday, September 2, 2022 at 6:21:34 AM
 
 > Showing 5 of 30 posts.
 
+[![How to build a real-time movie voting system using React.js 🤯](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_build_a_real-time_movie_voting_system_using_React.js_🤯.svg)](https://dev.to/kaushik94/how-to-build-a-real-time-movie-voting-system-using-reactjs-3nfa)
 [![Use HTML Files as Vue Templates with Webpack](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Use_HTML_Files_as_Vue_Templates_with_Webpack.svg)](
 https://masteringjs.io/tutorials/vue/html-template
 )
 [![My Experience Speaking at VueConf US 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/My_Experience_Speaking_at_VueConf_US_2022.svg)](https://austingil.com/vueconf-us-2022-review/)
 [![Building a cross-platform design system for React and React Native with Bit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_a_cross-platform_design_system_for_React_and_React_Native_with_Bit.svg)](https://www.youtube.com/watch?v=O_xhMW8KZPA)
 [![Why Every React Developer Should Learn Function Composition](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Why_Every_React_Developer_Should_Learn_Function_Composition.svg)](https://medium.com/javascript-scene/why-every-react-developer-should-learn-function-composition-23f41d4db3b1)
-[![How to Build a Chrome Extension that will Make Your Facebook Posts Better? - Yonatan Kra](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Build_a_Chrome_Extension_that_will_Make_Your_Facebook_Posts_Better__-_Yonatan_Kra.svg)](https://yonatankra.com/how-to-build-a-chrome-extension-that-will-make-your-facebook-posts-better/)
 
 
 <!-- post-list:end -->
