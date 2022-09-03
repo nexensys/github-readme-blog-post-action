@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, September 3, 2022 at 12:12:31 AM
+> Last updated: Saturday, September 3, 2022 at 6:17:21 AM
 
 > Showing 5 of 12 posts.
 
-[![Migrating Your PostgreSQL Database From Heroku to CockroachDB](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Migrating_Your_PostgreSQL_Database_From_Heroku_to_CockroachDB.svg)](https://dev.to/harshhhdev/migrating-your-postgresql-database-from-heroku-to-cockroachdb-bj8)
-[![Simple MongoDB Database Setup for Discord.JS (Replit)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Simple_MongoDB_Database_Setup_for_Discord.JS_(Replit).svg)](https://dev.to/w6/simple-mongodb-database-for-discordjs-replit-3i2k)
-[![Hot reloading in Rust!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Hot_reloading_in_Rust!.svg)](https://dev.to/nickytonline/hot-reloading-in-rust-4i1c)
-[![Subset vs Substring](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Subset_vs_Substring.svg)](https://dev.to/zeeshanali0704/subset-vs-substring-42fm)
-[![Simple Google Map App - Jetpack Compose](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Simple_Google_Map_App_-_Jetpack_Compose.svg)](https://dev.to/vtsen/simple-google-map-app-jetpack-compose-2ebb)
+[![Railway. A Free Alternative To Heroku!!!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Railway._A_Free_Alternative_To_Heroku!!!.svg)](https://dev.to/devarshishimpi/railway-a-free-alternative-to-heroku-57m2)
+[![Best Code Editors for Programmers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Best_Code_Editors_for_Programmers.svg)](https://dev.to/onlydevs_/best-code-editors-for-programmers-1b4g)
+[![Containers in the Cloud](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Containers_in_the_Cloud.svg)](https://dev.to/aws-builders/containers-in-the-cloud-g8o)
+[![Go - Arrays and Slices](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Go_-_Arrays_and_Slices.svg)](https://dev.to/vchiranjeeviak/go-arrays-and-slices-52pi)
+[![Create A Slideshow in HTML , CSS and JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Create_A_Slideshow_in_HTML___CSS_and_JS.svg)](https://dev.to/herryjobn/create-a-slideshow-in-html-css-and-js-3omj)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, September 3, 2022 at 12:12:34 AM
+> Last updated: Saturday, September 3, 2022 at 6:17:26 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, September 3, 2022 at 12:12:36 AM
+> Last updated: Saturday, September 3, 2022 at 6:17:27 AM
 
 > Showing 5 of 30 posts.
 
