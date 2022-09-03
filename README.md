@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, September 3, 2022 at 6:17:21 AM
+> Last updated: Saturday, September 3, 2022 at 12:12:31 PM
 
 > Showing 5 of 12 posts.
 
-[![Railway. A Free Alternative To Heroku!!!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Railway._A_Free_Alternative_To_Heroku!!!.svg)](https://dev.to/devarshishimpi/railway-a-free-alternative-to-heroku-57m2)
-[![Best Code Editors for Programmers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Best_Code_Editors_for_Programmers.svg)](https://dev.to/onlydevs_/best-code-editors-for-programmers-1b4g)
-[![Containers in the Cloud](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Containers_in_the_Cloud.svg)](https://dev.to/aws-builders/containers-in-the-cloud-g8o)
-[![Go - Arrays and Slices](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Go_-_Arrays_and_Slices.svg)](https://dev.to/vchiranjeeviak/go-arrays-and-slices-52pi)
-[![Create A Slideshow in HTML , CSS and JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Create_A_Slideshow_in_HTML___CSS_and_JS.svg)](https://dev.to/herryjobn/create-a-slideshow-in-html-css-and-js-3omj)
+[![Notesnook is now open source!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Notesnook_is_now_open_source!.svg)](https://dev.to/thecodrr/notesnook-is-now-open-source-2i93)
+[![Editing and Deleting with MongoDB (Discord.JS)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Editing_and_Deleting_with_MongoDB_(Discord.JS).svg)](https://dev.to/w6/editing-and-deleting-with-mongodb-discordjs-18af)
+[![A discord server for Flutter developers.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_discord_server_for_Flutter_developers..svg)](https://dev.to/yourmdsarfaraj/a-discord-server-for-flutter-developers-2oip)
+[![Render Markdown from a string in Svelte (mdsvex / SvelteKit)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Render_Markdown_from_a_string_in_Svelte_(mdsvex___SvelteKit).svg)](https://dev.to/willkre/render-markdown-from-a-string-in-svelte-mdsvex-sveltekit-1597)
+[![Enhanced Switch Statement in Java](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Enhanced_Switch_Statement_in_Java.svg)](https://dev.to/luthfisauqi17/enhanced-switch-statement-in-java-2513)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, September 3, 2022 at 6:17:26 AM
+> Last updated: Saturday, September 3, 2022 at 12:12:34 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, September 3, 2022 at 6:17:27 AM
+> Last updated: Saturday, September 3, 2022 at 12:12:36 PM
 
 > Showing 5 of 30 posts.
 
