@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, September 2, 2022 at 12:14:22 PM
+> Last updated: Friday, September 2, 2022 at 6:56:16 PM
 
 > Showing 5 of 12 posts.
 
-[![Appwrite Community Report #21](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Appwrite_Community_Report__21.svg)](https://dev.to/appwrite/appwrite-community-report-21-3nl1)
-[![How to make responsive agency website using Html CSS JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_make_responsive_agency_website_using_Html_CSS_JavaScript.svg)](https://dev.to/codewithsadee/how-to-make-responsive-agency-website-using-html-css-javascript-1ioh)
-[![How to Add Google Analytics to a React-Next.js Application 📈⚛️](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Add_Google_Analytics_to_a_React-Next.js_Application_📈⚛️.svg)](https://dev.to/edwinnv/how-to-add-google-analytics-to-a-react-nextjs-application-boc)
-[![React Project Contest](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/React_Project_Contest.svg)](https://dev.to/deatul/making-a-react-project-5gg1)
-[![Rust will `never` do that!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Rust_will_`never`_do_that!.svg)](https://dev.to/evantypanski/rust-will-never-do-that-216c)
+[![How to Publish Project to GitHub](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Publish_Project_to_GitHub.svg)](https://dev.to/nobleokechi/how-to-publish-project-to-github-4jh4)
+[![If You Want to Fix 85% of Your Problems, Read This](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/If_You_Want_to_Fix_85__of_Your_Problems__Read_This.svg)](https://dev.to/evansifyke/if-you-want-to-fix-85-of-your-problems-read-this-200)
+[![Deploy Any SSL Secured Website With Docker And Traefik](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Deploy_Any_SSL_Secured_Website_With_Docker_And_Traefik.svg)](https://dev.to/paulknulst/deploy-any-ssl-secured-website-with-docker-and-traefik-3mnl)
+[![What was your win this week?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_was_your_win_this_week_.svg)](https://dev.to/devteam/what-was-your-win-this-week-2j2i)
+[![About Me](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/About_Me.svg)](https://dev.to/mnmbt96/about-me-404f)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, September 2, 2022 at 12:14:25 PM
+> Last updated: Friday, September 2, 2022 at 6:56:19 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, September 2, 2022 at 12:14:27 PM
+> Last updated: Friday, September 2, 2022 at 6:56:20 PM
 
 > Showing 5 of 30 posts.
 
+[![Home | Sonia stale action](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Home___Sonia_stale_action.svg)](https://sonia-stale-action.vercel.app/)
 [![How to build a real-time movie voting system using React.js 🤯](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_build_a_real-time_movie_voting_system_using_React.js_🤯.svg)](https://dev.to/kaushik94/how-to-build-a-real-time-movie-voting-system-using-reactjs-3nfa)
 [![Use HTML Files as Vue Templates with Webpack](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Use_HTML_Files_as_Vue_Templates_with_Webpack.svg)](
 https://masteringjs.io/tutorials/vue/html-template
 )
 [![My Experience Speaking at VueConf US 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/My_Experience_Speaking_at_VueConf_US_2022.svg)](https://austingil.com/vueconf-us-2022-review/)
 [![Building a cross-platform design system for React and React Native with Bit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_a_cross-platform_design_system_for_React_and_React_Native_with_Bit.svg)](https://www.youtube.com/watch?v=O_xhMW8KZPA)
-[![Why Every React Developer Should Learn Function Composition](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Why_Every_React_Developer_Should_Learn_Function_Composition.svg)](https://medium.com/javascript-scene/why-every-react-developer-should-learn-function-composition-23f41d4db3b1)
 
 
 <!-- post-list:end -->
