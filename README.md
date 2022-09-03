@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, September 2, 2022 at 6:56:16 PM
+> Last updated: Saturday, September 3, 2022 at 12:12:31 AM
 
 > Showing 5 of 12 posts.
 
-[![How to Publish Project to GitHub](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Publish_Project_to_GitHub.svg)](https://dev.to/nobleokechi/how-to-publish-project-to-github-4jh4)
-[![If You Want to Fix 85% of Your Problems, Read This](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/If_You_Want_to_Fix_85__of_Your_Problems__Read_This.svg)](https://dev.to/evansifyke/if-you-want-to-fix-85-of-your-problems-read-this-200)
-[![Deploy Any SSL Secured Website With Docker And Traefik](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Deploy_Any_SSL_Secured_Website_With_Docker_And_Traefik.svg)](https://dev.to/paulknulst/deploy-any-ssl-secured-website-with-docker-and-traefik-3mnl)
-[![What was your win this week?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_was_your_win_this_week_.svg)](https://dev.to/devteam/what-was-your-win-this-week-2j2i)
-[![About Me](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/About_Me.svg)](https://dev.to/mnmbt96/about-me-404f)
+[![Migrating Your PostgreSQL Database From Heroku to CockroachDB](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Migrating_Your_PostgreSQL_Database_From_Heroku_to_CockroachDB.svg)](https://dev.to/harshhhdev/migrating-your-postgresql-database-from-heroku-to-cockroachdb-bj8)
+[![Simple MongoDB Database Setup for Discord.JS (Replit)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Simple_MongoDB_Database_Setup_for_Discord.JS_(Replit).svg)](https://dev.to/w6/simple-mongodb-database-for-discordjs-replit-3i2k)
+[![Hot reloading in Rust!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Hot_reloading_in_Rust!.svg)](https://dev.to/nickytonline/hot-reloading-in-rust-4i1c)
+[![Subset vs Substring](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Subset_vs_Substring.svg)](https://dev.to/zeeshanali0704/subset-vs-substring-42fm)
+[![Simple Google Map App - Jetpack Compose](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Simple_Google_Map_App_-_Jetpack_Compose.svg)](https://dev.to/vtsen/simple-google-map-app-jetpack-compose-2ebb)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, September 2, 2022 at 6:56:19 PM
+> Last updated: Saturday, September 3, 2022 at 12:12:34 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, September 2, 2022 at 6:56:20 PM
+> Last updated: Saturday, September 3, 2022 at 12:12:36 AM
 
 > Showing 5 of 30 posts.
 
