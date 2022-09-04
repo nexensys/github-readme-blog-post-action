@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, September 4, 2022 at 12:12:14 AM
+> Last updated: Sunday, September 4, 2022 at 6:18:58 AM
 
 > Showing 5 of 12 posts.
 
-[![Day 001 of 100Days CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Day_001_of_100Days_CSS.svg)](https://dev.to/webcodersevvy/day-001-of-100days-css-g9)
-[![Simulating Wang algorithm in Prolog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Simulating_Wang_algorithm_in_Prolog.svg)](https://dev.to/fullstackhacker/simulating-wang-algorithm-in-prolog-340g)
-[![CSS float 🎨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/CSS_float_🎨.svg)](https://dev.to/duxtech/css-float-lj5)
-[![Mis utilidades en MacOS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Mis_utilidades_en_MacOS.svg)](https://dev.to/josexs/mis-utilidades-en-macos-4j6h)
-[![JavaScript Function Definition Methods](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/JavaScript_Function_Definition_Methods.svg)](https://dev.to/drprime01/javascript-function-definition-methods-d8a)
+[![Vue Tips: Optimize your Vue Apps with v-once and v-memo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Vue_Tips__Optimize_your_Vue_Apps_with_v-once_and_v-memo.svg)](https://dev.to/smpnjn/vue-tips-optimize-your-vue-apps-with-v-once-and-v-memo-52j2)
+[![I made the best Github ReadMe EVER!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/I_made_the_best_Github_ReadMe_EVER!.svg)](https://dev.to/milkshakegum/i-made-the-best-github-readme-ever-42bd)
+[![Vue Tips: Dynamic CSS with Vue Reactive Variables](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Vue_Tips__Dynamic_CSS_with_Vue_Reactive_Variables.svg)](https://dev.to/smpnjn/vue-tips-dynamic-css-with-vue-reactive-variables-3n6e)
+[![Here is how you can create an animated SVG blob!!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Here_is_how_you_can_create_an_animated_SVG_blob!!.svg)](https://dev.to/kaarthikrishna/here-is-how-you-can-create-an-animated-svg-blob-17ao)
+[![Web scraping Google Trends with Nodejs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Web_scraping_Google_Trends_with_Nodejs.svg)](https://dev.to/serpapi/web-scraping-google-trends-with-nodejs-156j)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, September 4, 2022 at 12:12:17 AM
+> Last updated: Sunday, September 4, 2022 at 6:19:01 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, September 4, 2022 at 12:12:19 AM
+> Last updated: Sunday, September 4, 2022 at 6:19:03 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - aoyan107/node-express-mysql-boilerplate: A boilerplate for any enterprise rest api or service with Node.js, Express and Sequelize ORM for mysql, postgresql or others.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_aoyan107_node-express-mysql-boilerplate__A_boilerplate_for_any_enterprise_rest_api_or_service_with_Node.js__Express_and_Sequelize_ORM_for_mysql__postgresql_or_others..svg)](https://github.com/aoyan107/node-express-mysql-boilerplate)
 [![Home | Sonia stale action](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Home___Sonia_stale_action.svg)](https://sonia-stale-action.vercel.app/)
 [![How to build a real-time movie voting system using React.js 🤯](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_build_a_real-time_movie_voting_system_using_React.js_🤯.svg)](https://dev.to/kaushik94/how-to-build-a-real-time-movie-voting-system-using-reactjs-3nfa)
 [![Use HTML Files as Vue Templates with Webpack](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Use_HTML_Files_as_Vue_Templates_with_Webpack.svg)](
 https://masteringjs.io/tutorials/vue/html-template
 )
 [![My Experience Speaking at VueConf US 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/My_Experience_Speaking_at_VueConf_US_2022.svg)](https://austingil.com/vueconf-us-2022-review/)
-[![Building a cross-platform design system for React and React Native with Bit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_a_cross-platform_design_system_for_React_and_React_Native_with_Bit.svg)](https://www.youtube.com/watch?v=O_xhMW8KZPA)
 
 
 <!-- post-list:end -->
