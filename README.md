@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, September 4, 2022 at 6:18:58 AM
+> Last updated: Sunday, September 4, 2022 at 12:12:15 PM
 
 > Showing 5 of 12 posts.
 
-[![Vue Tips: Optimize your Vue Apps with v-once and v-memo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Vue_Tips__Optimize_your_Vue_Apps_with_v-once_and_v-memo.svg)](https://dev.to/smpnjn/vue-tips-optimize-your-vue-apps-with-v-once-and-v-memo-52j2)
-[![I made the best Github ReadMe EVER!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/I_made_the_best_Github_ReadMe_EVER!.svg)](https://dev.to/milkshakegum/i-made-the-best-github-readme-ever-42bd)
-[![Vue Tips: Dynamic CSS with Vue Reactive Variables](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Vue_Tips__Dynamic_CSS_with_Vue_Reactive_Variables.svg)](https://dev.to/smpnjn/vue-tips-dynamic-css-with-vue-reactive-variables-3n6e)
-[![Here is how you can create an animated SVG blob!!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Here_is_how_you_can_create_an_animated_SVG_blob!!.svg)](https://dev.to/kaarthikrishna/here-is-how-you-can-create-an-animated-svg-blob-17ao)
-[![Web scraping Google Trends with Nodejs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Web_scraping_Google_Trends_with_Nodejs.svg)](https://dev.to/serpapi/web-scraping-google-trends-with-nodejs-156j)
+[![15+ Array Methods in Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/15+_Array_Methods_in_Javascript.svg)](https://dev.to/codewithtee/15-array-methods-in-javascript-1p1m)
+[![Koala Engine Core Alpha](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Koala_Engine_Core_Alpha.svg)](https://dev.to/lorenzo774/koala-engine-core-alpha-f)
+[![Keyup and Keydown Event Handlers in Vue 3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Keyup_and_Keydown_Event_Handlers_in_Vue_3.svg)](https://dev.to/bootdotdev/keyup-and-keydown-event-handlers-in-vue-3-2jn8)
+[![Expressões Regulares II - classes de caracteres](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Expressões_Regulares_II_-_classes_de_caracteres.svg)](https://dev.to/feministech/expressoes-regulares-ii-classes-de-caracteres-46h6)
+[![Keep calm and automate Release Notes!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Keep_calm_and_automate_Release_Notes!.svg)](https://dev.to/islamaskar/keep-calm-and-automate-release-notes-25b2)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, September 4, 2022 at 6:19:01 AM
+> Last updated: Sunday, September 4, 2022 at 12:12:17 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, September 4, 2022 at 6:19:03 AM
+> Last updated: Sunday, September 4, 2022 at 12:12:18 PM
 
 > Showing 5 of 30 posts.
 
