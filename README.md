@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, September 3, 2022 at 12:12:31 PM
+> Last updated: Saturday, September 3, 2022 at 6:58:46 PM
 
 > Showing 5 of 12 posts.
 
-[![Notesnook is now open source!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Notesnook_is_now_open_source!.svg)](https://dev.to/thecodrr/notesnook-is-now-open-source-2i93)
-[![Editing and Deleting with MongoDB (Discord.JS)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Editing_and_Deleting_with_MongoDB_(Discord.JS).svg)](https://dev.to/w6/editing-and-deleting-with-mongodb-discordjs-18af)
-[![A discord server for Flutter developers.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_discord_server_for_Flutter_developers..svg)](https://dev.to/yourmdsarfaraj/a-discord-server-for-flutter-developers-2oip)
-[![Render Markdown from a string in Svelte (mdsvex / SvelteKit)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Render_Markdown_from_a_string_in_Svelte_(mdsvex___SvelteKit).svg)](https://dev.to/willkre/render-markdown-from-a-string-in-svelte-mdsvex-sveltekit-1597)
-[![Enhanced Switch Statement in Java](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Enhanced_Switch_Statement_in_Java.svg)](https://dev.to/luthfisauqi17/enhanced-switch-statement-in-java-2513)
+[![CDN Caching, Static Site Generation and Server Side Rendering](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/CDN_Caching__Static_Site_Generation_and_Server_Side_Rendering.svg)](https://dev.to/jmalvarez/cdn-caching-static-site-generation-and-server-side-rendering-4hom)
+[![Javascript: Var vs Const vs Let 👍💯](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Javascript__Var_vs_Const_vs_Let_👍💯.svg)](https://dev.to/w6/javascript-var-vs-const-vs-let-37m9)
+[![Hello Dev.to](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Hello_Dev.to.svg)](https://dev.to/koshirok096/hello-devto-56kh)
+[![Setting up TypeScript with NodeJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Setting_up_TypeScript_with_NodeJS.svg)](https://dev.to/rashwanlazkani/setting-up-typescript-with-nodejs-3fjo)
+[![Path Aliases in TypeScript and why you should use them](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Path_Aliases_in_TypeScript_and_why_you_should_use_them.svg)](https://dev.to/naubit/path-aliases-in-typescript-and-why-you-should-use-them-2odf)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, September 3, 2022 at 12:12:34 PM
+> Last updated: Saturday, September 3, 2022 at 6:58:50 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, September 3, 2022 at 12:12:36 PM
+> Last updated: Saturday, September 3, 2022 at 6:58:51 PM
 
 > Showing 5 of 30 posts.
 
