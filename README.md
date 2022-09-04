@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, September 3, 2022 at 6:58:46 PM
+> Last updated: Sunday, September 4, 2022 at 12:12:14 AM
 
 > Showing 5 of 12 posts.
 
-[![CDN Caching, Static Site Generation and Server Side Rendering](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/CDN_Caching__Static_Site_Generation_and_Server_Side_Rendering.svg)](https://dev.to/jmalvarez/cdn-caching-static-site-generation-and-server-side-rendering-4hom)
-[![Javascript: Var vs Const vs Let 👍💯](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Javascript__Var_vs_Const_vs_Let_👍💯.svg)](https://dev.to/w6/javascript-var-vs-const-vs-let-37m9)
-[![Hello Dev.to](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Hello_Dev.to.svg)](https://dev.to/koshirok096/hello-devto-56kh)
-[![Setting up TypeScript with NodeJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Setting_up_TypeScript_with_NodeJS.svg)](https://dev.to/rashwanlazkani/setting-up-typescript-with-nodejs-3fjo)
-[![Path Aliases in TypeScript and why you should use them](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Path_Aliases_in_TypeScript_and_why_you_should_use_them.svg)](https://dev.to/naubit/path-aliases-in-typescript-and-why-you-should-use-them-2odf)
+[![Day 001 of 100Days CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Day_001_of_100Days_CSS.svg)](https://dev.to/webcodersevvy/day-001-of-100days-css-g9)
+[![Simulating Wang algorithm in Prolog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Simulating_Wang_algorithm_in_Prolog.svg)](https://dev.to/fullstackhacker/simulating-wang-algorithm-in-prolog-340g)
+[![CSS float 🎨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/CSS_float_🎨.svg)](https://dev.to/duxtech/css-float-lj5)
+[![Mis utilidades en MacOS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Mis_utilidades_en_MacOS.svg)](https://dev.to/josexs/mis-utilidades-en-macos-4j6h)
+[![JavaScript Function Definition Methods](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/JavaScript_Function_Definition_Methods.svg)](https://dev.to/drprime01/javascript-function-definition-methods-d8a)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, September 3, 2022 at 6:58:50 PM
+> Last updated: Sunday, September 4, 2022 at 12:12:17 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, September 3, 2022 at 6:58:51 PM
+> Last updated: Sunday, September 4, 2022 at 12:12:19 AM
 
 > Showing 5 of 30 posts.
 
