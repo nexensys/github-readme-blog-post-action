@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, September 5, 2022 at 12:40:31 AM
+> Last updated: Monday, September 5, 2022 at 6:20:30 AM
 
 > Showing 5 of 12 posts.
 
-[![What actually is JavaScript?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_actually_is_JavaScript_.svg)](https://dev.to/iarchitsharma/what-actually-is-javascript-2ckn)
-[![Tour and Travels](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Tour_and_Travels.svg)](https://dev.to/picklu/tour-and-travels-3108)
-[![Объединение интервалов](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Объединение_интервалов.svg)](https://dev.to/ivsivak/obiedinieniie-intiervalov-5c7m)
-[![Deploying a .NET gRPC Server on Azure App Service](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Deploying_a_.NET_gRPC_Server_on_Azure_App_Service.svg)](https://dev.to/sahan/deploying-a-net-grpc-server-on-azure-app-service-3877)
-[![Life Post Bootcamp(Moringa School) & Impostor Syndrome!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Life_Post_Bootcamp(Moringa_School)___Impostor_Syndrome!.svg)](https://dev.to/atienoobwanda/life-post-bootcampmoringa-school-impostor-syndrome-2na9)
+[![Deploying a simple portable Web App in any cloud using Terraform and Multy](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Deploying_a_simple_portable_Web_App_in_any_cloud_using_Terraform_and_Multy.svg)](https://dev.to/multy/deploying-a-simple-portable-web-app-in-any-cloud-using-terraform-and-multy-20hl)
+[![Introduction to Next.js Link component](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Introduction_to_Next.js_Link_component.svg)](https://dev.to/refine/introduction-to-nextjs-link-component-1283)
+[![Django cheatsheet - Views](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Django_cheatsheet_-_Views.svg)](https://dev.to/jesuissuyaa_/django-cheatsheet-views-135f)
+[![I WANT TO BUILD A RAPE PREVENTION SOFTWARE](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/I_WANT_TO_BUILD_A_RAPE_PREVENTION_SOFTWARE.svg)](https://dev.to/chizobaonorh/i-want-to-build-a-rape-prevention-software-1mlg)
+[![FREE Python Course in Hindi (Download Free PDF)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/FREE_Python_Course_in_Hindi_(Download_Free_PDF).svg)](https://dev.to/tutorialinhindi/free-python-course-in-hindi-learn-python-in-hindi-2dn1)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, September 5, 2022 at 12:40:34 AM
+> Last updated: Monday, September 5, 2022 at 6:20:33 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, September 5, 2022 at 12:40:35 AM
+> Last updated: Monday, September 5, 2022 at 6:20:35 AM
 
 > Showing 5 of 30 posts.
 
+[![The Accessibility And Usability Journey Of Drupal’s Primary Navigation — Smashing Magazine](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Accessibility_And_Usability_Journey_Of_Drupal’s_Primary_Navigation_—_Smashing_Magazine.svg)](https://www.smashingmagazine.com/2022/09/accessibility-usability-drupal-primary-navigation/)
 [![GitHub - aoyan107/node-express-mysql-boilerplate: A boilerplate for any enterprise rest api or service with Node.js, Express and Sequelize ORM for mysql, postgresql or others.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_aoyan107_node-express-mysql-boilerplate__A_boilerplate_for_any_enterprise_rest_api_or_service_with_Node.js__Express_and_Sequelize_ORM_for_mysql__postgresql_or_others..svg)](https://github.com/aoyan107/node-express-mysql-boilerplate)
 [![Home | Sonia stale action](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Home___Sonia_stale_action.svg)](https://sonia-stale-action.vercel.app/)
 [![How to build a real-time movie voting system using React.js 🤯](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_build_a_real-time_movie_voting_system_using_React.js_🤯.svg)](https://dev.to/kaushik94/how-to-build-a-real-time-movie-voting-system-using-reactjs-3nfa)
 [![Use HTML Files as Vue Templates with Webpack](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Use_HTML_Files_as_Vue_Templates_with_Webpack.svg)](
 https://masteringjs.io/tutorials/vue/html-template
 )
-[![My Experience Speaking at VueConf US 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/My_Experience_Speaking_at_VueConf_US_2022.svg)](https://austingil.com/vueconf-us-2022-review/)
 
 
 <!-- post-list:end -->
