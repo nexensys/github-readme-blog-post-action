@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, September 5, 2022 at 6:20:30 AM
+> Last updated: Monday, September 5, 2022 at 12:13:29 PM
 
 > Showing 5 of 12 posts.
 
-[![Deploying a simple portable Web App in any cloud using Terraform and Multy](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Deploying_a_simple_portable_Web_App_in_any_cloud_using_Terraform_and_Multy.svg)](https://dev.to/multy/deploying-a-simple-portable-web-app-in-any-cloud-using-terraform-and-multy-20hl)
-[![Introduction to Next.js Link component](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Introduction_to_Next.js_Link_component.svg)](https://dev.to/refine/introduction-to-nextjs-link-component-1283)
-[![Django cheatsheet - Views](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Django_cheatsheet_-_Views.svg)](https://dev.to/jesuissuyaa_/django-cheatsheet-views-135f)
-[![I WANT TO BUILD A RAPE PREVENTION SOFTWARE](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/I_WANT_TO_BUILD_A_RAPE_PREVENTION_SOFTWARE.svg)](https://dev.to/chizobaonorh/i-want-to-build-a-rape-prevention-software-1mlg)
-[![FREE Python Course in Hindi (Download Free PDF)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/FREE_Python_Course_in_Hindi_(Download_Free_PDF).svg)](https://dev.to/tutorialinhindi/free-python-course-in-hindi-learn-python-in-hindi-2dn1)
+[![User guide templates. Convenient? Convenient!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/User_guide_templates._Convenient__Convenient!.svg)](https://dev.to/cartervi/user-guide-templates-convenient-convenient-12f8)
+[![My Key Takeaways From The Campus DevRel Show | Juan Pablo Flores E2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/My_Key_Takeaways_From_The_Campus_DevRel_Show___Juan_Pablo_Flores_E2.svg)](https://dev.to/aryank21/my-key-takeaways-from-the-campus-devrel-show-juan-pablo-flores-e2-3m5p)
+[![Keep Your Apps Accessible and Your e2e Tests Stable With WebdriverIOs New Accessibility Selector](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Keep_Your_Apps_Accessible_and_Your_e2e_Tests_Stable_With_WebdriverIOs_New_Accessibility_Selector.svg)](https://dev.to/christian_bromann/keep-your-apps-accessible-and-your-e2e-tests-stable-with-webdriverios-new-accessibility-selector-4fkf)
+[![Var VS Let VS Const in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Var_VS_Let_VS_Const_in_JavaScript.svg)](https://dev.to/zubairgujjar997/var-vs-let-vs-const-in-javascript-329d)
+[![Build a to-do Node.js CLI with Prisma and Next.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_a_to-do_Node.js_CLI_with_Prisma_and_Next.js.svg)](https://dev.to/devomar100/build-a-to-do-nodejs-cli-with-prisma-and-nextjs-d4j)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, September 5, 2022 at 6:20:33 AM
+> Last updated: Monday, September 5, 2022 at 12:13:32 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, September 5, 2022 at 6:20:35 AM
+> Last updated: Monday, September 5, 2022 at 12:13:35 PM
 
 > Showing 5 of 30 posts.
 
