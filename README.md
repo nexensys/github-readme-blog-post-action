@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, September 4, 2022 at 12:12:15 PM
+> Last updated: Sunday, September 4, 2022 at 7:09:47 PM
 
 > Showing 5 of 12 posts.
 
-[![15+ Array Methods in Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/15+_Array_Methods_in_Javascript.svg)](https://dev.to/codewithtee/15-array-methods-in-javascript-1p1m)
-[![Koala Engine Core Alpha](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Koala_Engine_Core_Alpha.svg)](https://dev.to/lorenzo774/koala-engine-core-alpha-f)
-[![Keyup and Keydown Event Handlers in Vue 3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Keyup_and_Keydown_Event_Handlers_in_Vue_3.svg)](https://dev.to/bootdotdev/keyup-and-keydown-event-handlers-in-vue-3-2jn8)
-[![Expressões Regulares II - classes de caracteres](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Expressões_Regulares_II_-_classes_de_caracteres.svg)](https://dev.to/feministech/expressoes-regulares-ii-classes-de-caracteres-46h6)
-[![Keep calm and automate Release Notes!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Keep_calm_and_automate_Release_Notes!.svg)](https://dev.to/islamaskar/keep-calm-and-automate-release-notes-25b2)
+[![How to implement login in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_implement_login_in_React.svg)](https://dev.to/logify/how-to-implement-login-in-react-10gm)
+[![Como eu lidei com a ansiedade pra estudar?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Como_eu_lidei_com_a_ansiedade_pra_estudar_.svg)](https://dev.to/hugaomarques/como-eu-lidei-com-a-ansiedade-pra-estudar-22oi)
+[![Os desafios de ser DevRel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Os_desafios_de_ser_DevRel.svg)](https://dev.to/feministech/os-desafios-de-ser-devrel-24po)
+[![How to make Git ignore file permission (chmod) changes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_make_Git_ignore_file_permission_(chmod)_changes.svg)](https://dev.to/smpnjn/how-to-make-git-ignore-file-permission-chmod-changes-352b)
+[![How Do Liquidity Pools Work? (Like UniSwap or Balancer)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_Do_Liquidity_Pools_Work__(Like_UniSwap_or_Balancer).svg)](https://dev.to/naubit/how-do-liquidity-pools-work-like-uniswap-or-balancer-26m)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, September 4, 2022 at 12:12:17 PM
+> Last updated: Sunday, September 4, 2022 at 7:09:50 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, September 4, 2022 at 12:12:18 PM
+> Last updated: Sunday, September 4, 2022 at 7:09:53 PM
 
 > Showing 5 of 30 posts.
 
