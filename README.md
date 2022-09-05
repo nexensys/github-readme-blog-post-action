@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, September 4, 2022 at 7:09:47 PM
+> Last updated: Monday, September 5, 2022 at 12:40:31 AM
 
 > Showing 5 of 12 posts.
 
-[![How to implement login in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_implement_login_in_React.svg)](https://dev.to/logify/how-to-implement-login-in-react-10gm)
-[![Como eu lidei com a ansiedade pra estudar?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Como_eu_lidei_com_a_ansiedade_pra_estudar_.svg)](https://dev.to/hugaomarques/como-eu-lidei-com-a-ansiedade-pra-estudar-22oi)
-[![Os desafios de ser DevRel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Os_desafios_de_ser_DevRel.svg)](https://dev.to/feministech/os-desafios-de-ser-devrel-24po)
-[![How to make Git ignore file permission (chmod) changes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_make_Git_ignore_file_permission_(chmod)_changes.svg)](https://dev.to/smpnjn/how-to-make-git-ignore-file-permission-chmod-changes-352b)
-[![How Do Liquidity Pools Work? (Like UniSwap or Balancer)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_Do_Liquidity_Pools_Work__(Like_UniSwap_or_Balancer).svg)](https://dev.to/naubit/how-do-liquidity-pools-work-like-uniswap-or-balancer-26m)
+[![What actually is JavaScript?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_actually_is_JavaScript_.svg)](https://dev.to/iarchitsharma/what-actually-is-javascript-2ckn)
+[![Tour and Travels](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Tour_and_Travels.svg)](https://dev.to/picklu/tour-and-travels-3108)
+[![Объединение интервалов](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Объединение_интервалов.svg)](https://dev.to/ivsivak/obiedinieniie-intiervalov-5c7m)
+[![Deploying a .NET gRPC Server on Azure App Service](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Deploying_a_.NET_gRPC_Server_on_Azure_App_Service.svg)](https://dev.to/sahan/deploying-a-net-grpc-server-on-azure-app-service-3877)
+[![Life Post Bootcamp(Moringa School) & Impostor Syndrome!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Life_Post_Bootcamp(Moringa_School)___Impostor_Syndrome!.svg)](https://dev.to/atienoobwanda/life-post-bootcampmoringa-school-impostor-syndrome-2na9)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, September 4, 2022 at 7:09:50 PM
+> Last updated: Monday, September 5, 2022 at 12:40:34 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, September 4, 2022 at 7:09:53 PM
+> Last updated: Monday, September 5, 2022 at 12:40:35 AM
 
 > Showing 5 of 30 posts.
 
