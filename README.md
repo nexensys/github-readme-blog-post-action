@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, September 5, 2022 at 12:13:29 PM
+> Last updated: Monday, September 5, 2022 at 7:03:29 PM
 
 > Showing 5 of 12 posts.
 
-[![User guide templates. Convenient? Convenient!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/User_guide_templates._Convenient__Convenient!.svg)](https://dev.to/cartervi/user-guide-templates-convenient-convenient-12f8)
-[![My Key Takeaways From The Campus DevRel Show | Juan Pablo Flores E2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/My_Key_Takeaways_From_The_Campus_DevRel_Show___Juan_Pablo_Flores_E2.svg)](https://dev.to/aryank21/my-key-takeaways-from-the-campus-devrel-show-juan-pablo-flores-e2-3m5p)
-[![Keep Your Apps Accessible and Your e2e Tests Stable With WebdriverIOs New Accessibility Selector](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Keep_Your_Apps_Accessible_and_Your_e2e_Tests_Stable_With_WebdriverIOs_New_Accessibility_Selector.svg)](https://dev.to/christian_bromann/keep-your-apps-accessible-and-your-e2e-tests-stable-with-webdriverios-new-accessibility-selector-4fkf)
-[![Var VS Let VS Const in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Var_VS_Let_VS_Const_in_JavaScript.svg)](https://dev.to/zubairgujjar997/var-vs-let-vs-const-in-javascript-329d)
-[![Build a to-do Node.js CLI with Prisma and Next.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_a_to-do_Node.js_CLI_with_Prisma_and_Next.js.svg)](https://dev.to/devomar100/build-a-to-do-nodejs-cli-with-prisma-and-nextjs-d4j)
+[![How to make a simple interactive shell in Go](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_make_a_simple_interactive_shell_in_Go.svg)](https://dev.to/arshamalh/how-to-make-a-simple-interactive-shell-in-go-2log)
+[![How to configure path aliases w/Vite + Vue/React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_configure_path_aliases_w_Vite_+_Vue_React.svg)](https://dev.to/koha/how-to-configure-path-aliases-wvite-vuereact-3po9)
+[![Failed my way to 🥑developcado🥑](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Failed_my_way_to_🥑developcado🥑.svg)](https://dev.to/jennjunod/failed-my-way-to-developcado-328d)
+[![Colored logs in Flutter application with Talker](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Colored_logs_in_Flutter_application_with_Talker.svg)](https://dev.to/frezyx/colored-logs-in-flutter-application-with-talker-2d25)
+[![How to undo a git pull](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_undo_a_git_pull.svg)](https://dev.to/smpnjn/how-to-undo-a-git-pull-b88)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, September 5, 2022 at 12:13:32 PM
+> Last updated: Monday, September 5, 2022 at 7:03:32 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, September 5, 2022 at 12:13:35 PM
+> Last updated: Monday, September 5, 2022 at 7:03:41 PM
 
 > Showing 5 of 30 posts.
 
+[![API with NestJS #73. One-to-one relationships with raw SQL queries](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__73._One-to-one_relationships_with_raw_SQL_queries.svg)](http://wanago.io/2022/09/05/api-nestjs-one-to-one-relationships-sql-queries/)
 [![The Accessibility And Usability Journey Of Drupal’s Primary Navigation — Smashing Magazine](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Accessibility_And_Usability_Journey_Of_Drupal’s_Primary_Navigation_—_Smashing_Magazine.svg)](https://www.smashingmagazine.com/2022/09/accessibility-usability-drupal-primary-navigation/)
 [![GitHub - aoyan107/node-express-mysql-boilerplate: A boilerplate for any enterprise rest api or service with Node.js, Express and Sequelize ORM for mysql, postgresql or others.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_aoyan107_node-express-mysql-boilerplate__A_boilerplate_for_any_enterprise_rest_api_or_service_with_Node.js__Express_and_Sequelize_ORM_for_mysql__postgresql_or_others..svg)](https://github.com/aoyan107/node-express-mysql-boilerplate)
 [![Home | Sonia stale action](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Home___Sonia_stale_action.svg)](https://sonia-stale-action.vercel.app/)
 [![How to build a real-time movie voting system using React.js 🤯](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_build_a_real-time_movie_voting_system_using_React.js_🤯.svg)](https://dev.to/kaushik94/how-to-build-a-real-time-movie-voting-system-using-reactjs-3nfa)
-[![Use HTML Files as Vue Templates with Webpack](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Use_HTML_Files_as_Vue_Templates_with_Webpack.svg)](
-https://masteringjs.io/tutorials/vue/html-template
-)
 
 
 <!-- post-list:end -->
