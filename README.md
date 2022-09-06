@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, September 5, 2022 at 7:03:29 PM
+> Last updated: Tuesday, September 6, 2022 at 12:53:57 AM
 
 > Showing 5 of 12 posts.
 
-[![How to make a simple interactive shell in Go](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_make_a_simple_interactive_shell_in_Go.svg)](https://dev.to/arshamalh/how-to-make-a-simple-interactive-shell-in-go-2log)
-[![How to configure path aliases w/Vite + Vue/React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_configure_path_aliases_w_Vite_+_Vue_React.svg)](https://dev.to/koha/how-to-configure-path-aliases-wvite-vuereact-3po9)
-[![Failed my way to 🥑developcado🥑](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Failed_my_way_to_🥑developcado🥑.svg)](https://dev.to/jennjunod/failed-my-way-to-developcado-328d)
-[![Colored logs in Flutter application with Talker](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Colored_logs_in_Flutter_application_with_Talker.svg)](https://dev.to/frezyx/colored-logs-in-flutter-application-with-talker-2d25)
-[![How to undo a git pull](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_undo_a_git_pull.svg)](https://dev.to/smpnjn/how-to-undo-a-git-pull-b88)
+[![Build a custom React autocomplete search component](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_a_custom_React_autocomplete_search_component.svg)](https://dev.to/michaelburrows/build-a-custom-react-autocomplete-search-component-2hcd)
+[![Computed Nano Stores](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Computed_Nano_Stores.svg)](https://dev.to/dailydevtips1/computed-nano-stores-552g)
+[![Go from Junior to Senior developer in a couple of hours](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Go_from_Junior_to_Senior_developer_in_a_couple_of_hours.svg)](https://dev.to/polterguy/go-from-junior-to-senior-developer-in-a-couple-of-hours-5hee)
+[![Defining Docker 🐳](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Defining_Docker_🐳.svg)](https://dev.to/kitarp29/defining-docker-4l06)
+[![How To Create Avatar From Photo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_To_Create_Avatar_From_Photo.svg)](https://dev.to/zegocloud/how-to-create-avatar-from-photo-57oa)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, September 5, 2022 at 7:03:32 PM
+> Last updated: Tuesday, September 6, 2022 at 12:54:01 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, September 5, 2022 at 7:03:41 PM
+> Last updated: Tuesday, September 6, 2022 at 12:54:07 AM
 
 > Showing 5 of 30 posts.
 
+[![How to Write Polyfill of Filter Method](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Write_Polyfill_of_Filter_Method.svg)](https://www.youtube.com/watch?v=rSAyBK8pkCA)
 [![API with NestJS #73. One-to-one relationships with raw SQL queries](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__73._One-to-one_relationships_with_raw_SQL_queries.svg)](http://wanago.io/2022/09/05/api-nestjs-one-to-one-relationships-sql-queries/)
 [![The Accessibility And Usability Journey Of Drupal’s Primary Navigation — Smashing Magazine](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Accessibility_And_Usability_Journey_Of_Drupal’s_Primary_Navigation_—_Smashing_Magazine.svg)](https://www.smashingmagazine.com/2022/09/accessibility-usability-drupal-primary-navigation/)
 [![GitHub - aoyan107/node-express-mysql-boilerplate: A boilerplate for any enterprise rest api or service with Node.js, Express and Sequelize ORM for mysql, postgresql or others.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_aoyan107_node-express-mysql-boilerplate__A_boilerplate_for_any_enterprise_rest_api_or_service_with_Node.js__Express_and_Sequelize_ORM_for_mysql__postgresql_or_others..svg)](https://github.com/aoyan107/node-express-mysql-boilerplate)
 [![Home | Sonia stale action](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Home___Sonia_stale_action.svg)](https://sonia-stale-action.vercel.app/)
-[![How to build a real-time movie voting system using React.js 🤯](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_build_a_real-time_movie_voting_system_using_React.js_🤯.svg)](https://dev.to/kaushik94/how-to-build-a-real-time-movie-voting-system-using-reactjs-3nfa)
 
 
 <!-- post-list:end -->
