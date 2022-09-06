@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, September 6, 2022 at 12:53:57 AM
+> Last updated: Tuesday, September 6, 2022 at 6:21:56 AM
 
 > Showing 5 of 12 posts.
 
-[![Build a custom React autocomplete search component](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_a_custom_React_autocomplete_search_component.svg)](https://dev.to/michaelburrows/build-a-custom-react-autocomplete-search-component-2hcd)
-[![Computed Nano Stores](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Computed_Nano_Stores.svg)](https://dev.to/dailydevtips1/computed-nano-stores-552g)
-[![Go from Junior to Senior developer in a couple of hours](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Go_from_Junior_to_Senior_developer_in_a_couple_of_hours.svg)](https://dev.to/polterguy/go-from-junior-to-senior-developer-in-a-couple-of-hours-5hee)
-[![Defining Docker 🐳](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Defining_Docker_🐳.svg)](https://dev.to/kitarp29/defining-docker-4l06)
-[![How To Create Avatar From Photo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_To_Create_Avatar_From_Photo.svg)](https://dev.to/zegocloud/how-to-create-avatar-from-photo-57oa)
+[![Playwright - Complete Beginner Course](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Playwright_-_Complete_Beginner_Course.svg)](https://dev.to/automationbro/playwright-complete-beginner-course-3f1c)
+[![20+ Essential Terminal and Linux Commands for every User](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/20+_Essential_Terminal_and_Linux_Commands_for_every_User.svg)](https://dev.to/codewithtee/20-essential-terminal-and-linux-commands-for-every-user-1c7o)
+[![Automating Tests using CodeceptJS and Testomat.io: First Steps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Automating_Tests_using_CodeceptJS_and_Testomat.io__First_Steps.svg)](https://dev.to/ingosteinke/automating-tests-using-codeceptjs-and-testomatio-first-steps-3b2e)
+[![Articles vs Videos - Which is Your Learning Preference?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Articles_vs_Videos_-_Which_is_Your_Learning_Preference_.svg)](https://dev.to/medusajs/articles-vs-videos-which-is-your-learning-preference-f8)
+[![Build for Hugging Face, Rasa or Sklearn](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_for_Hugging_Face__Rasa_or_Sklearn.svg)](https://dev.to/meetkern/build-for-hugging-face-rasa-or-sklearn-5c70)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, September 6, 2022 at 12:54:01 AM
+> Last updated: Tuesday, September 6, 2022 at 6:22:00 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, September 6, 2022 at 12:54:07 AM
+> Last updated: Tuesday, September 6, 2022 at 6:22:06 AM
 
 > Showing 5 of 30 posts.
 
+[![Breaking The Factory Pattern In 2 Ways - Design Patterns In TypeScript - Talking HighTech](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Breaking_The_Factory_Pattern_In_2_Ways_-_Design_Patterns_In_TypeScript_-_Talking_HighTech.svg)](https://www.talkinghightech.com/en/typescript-factory-pattern/)
 [![How to Write Polyfill of Filter Method](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Write_Polyfill_of_Filter_Method.svg)](https://www.youtube.com/watch?v=rSAyBK8pkCA)
 [![API with NestJS #73. One-to-one relationships with raw SQL queries](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__73._One-to-one_relationships_with_raw_SQL_queries.svg)](http://wanago.io/2022/09/05/api-nestjs-one-to-one-relationships-sql-queries/)
 [![The Accessibility And Usability Journey Of Drupal’s Primary Navigation — Smashing Magazine](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Accessibility_And_Usability_Journey_Of_Drupal’s_Primary_Navigation_—_Smashing_Magazine.svg)](https://www.smashingmagazine.com/2022/09/accessibility-usability-drupal-primary-navigation/)
 [![GitHub - aoyan107/node-express-mysql-boilerplate: A boilerplate for any enterprise rest api or service with Node.js, Express and Sequelize ORM for mysql, postgresql or others.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_aoyan107_node-express-mysql-boilerplate__A_boilerplate_for_any_enterprise_rest_api_or_service_with_Node.js__Express_and_Sequelize_ORM_for_mysql__postgresql_or_others..svg)](https://github.com/aoyan107/node-express-mysql-boilerplate)
-[![Home | Sonia stale action](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Home___Sonia_stale_action.svg)](https://sonia-stale-action.vercel.app/)
 
 
 <!-- post-list:end -->
