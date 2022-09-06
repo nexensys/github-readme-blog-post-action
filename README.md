@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, September 6, 2022 at 6:21:56 AM
+> Last updated: Tuesday, September 6, 2022 at 12:13:05 PM
 
 > Showing 5 of 12 posts.
 
-[![Playwright - Complete Beginner Course](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Playwright_-_Complete_Beginner_Course.svg)](https://dev.to/automationbro/playwright-complete-beginner-course-3f1c)
-[![20+ Essential Terminal and Linux Commands for every User](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/20+_Essential_Terminal_and_Linux_Commands_for_every_User.svg)](https://dev.to/codewithtee/20-essential-terminal-and-linux-commands-for-every-user-1c7o)
-[![Automating Tests using CodeceptJS and Testomat.io: First Steps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Automating_Tests_using_CodeceptJS_and_Testomat.io__First_Steps.svg)](https://dev.to/ingosteinke/automating-tests-using-codeceptjs-and-testomatio-first-steps-3b2e)
-[![Articles vs Videos - Which is Your Learning Preference?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Articles_vs_Videos_-_Which_is_Your_Learning_Preference_.svg)](https://dev.to/medusajs/articles-vs-videos-which-is-your-learning-preference-f8)
-[![Build for Hugging Face, Rasa or Sklearn](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_for_Hugging_Face__Rasa_or_Sklearn.svg)](https://dev.to/meetkern/build-for-hugging-face-rasa-or-sklearn-5c70)
+[![Javascript: Reduce](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Javascript__Reduce.svg)](https://dev.to/urstrulyvishwak/javascript-reduce-2b6d)
+[![5 CSS questions that will confuse you](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_CSS_questions_that_will_confuse_you.svg)](https://dev.to/melnik909/5-css-questions-that-will-confuse-you-21gl)
+[![Easiest Way to Install WordPress Locally for Beginners!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Easiest_Way_to_Install_WordPress_Locally_for_Beginners!.svg)](https://dev.to/devarshishimpi/easiest-way-to-install-wordpress-locally-for-beginners-5620)
+[![60 Days of Data Science and Machine Learning](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/60_Days_of_Data_Science_and_Machine_Learning.svg)](https://dev.to/thunderstroke/60-days-of-data-science-and-machine-learning-174m)
+[![How to Create a Full Autocomplete Search Application with Elasticsearch and NestJS - Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Create_a_Full_Autocomplete_Search_Application_with_Elasticsearch_and_NestJS_-_Part_1.svg)](https://dev.to/airscholar/how-to-create-a-full-autocomplete-search-application-with-elasticsearch-and-nestjs-part-1-27k4)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, September 6, 2022 at 6:22:00 AM
+> Last updated: Tuesday, September 6, 2022 at 12:13:09 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, September 6, 2022 at 6:22:06 AM
+> Last updated: Tuesday, September 6, 2022 at 12:13:15 PM
 
 > Showing 5 of 30 posts.
 
