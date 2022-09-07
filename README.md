@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, September 6, 2022 at 12:13:05 PM
+> Last updated: Tuesday, September 6, 2022 at 7:07:05 PM
 
 > Showing 5 of 12 posts.
 
-[![Javascript: Reduce](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Javascript__Reduce.svg)](https://dev.to/urstrulyvishwak/javascript-reduce-2b6d)
-[![5 CSS questions that will confuse you](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_CSS_questions_that_will_confuse_you.svg)](https://dev.to/melnik909/5-css-questions-that-will-confuse-you-21gl)
-[![Easiest Way to Install WordPress Locally for Beginners!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Easiest_Way_to_Install_WordPress_Locally_for_Beginners!.svg)](https://dev.to/devarshishimpi/easiest-way-to-install-wordpress-locally-for-beginners-5620)
-[![60 Days of Data Science and Machine Learning](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/60_Days_of_Data_Science_and_Machine_Learning.svg)](https://dev.to/thunderstroke/60-days-of-data-science-and-machine-learning-174m)
-[![How to Create a Full Autocomplete Search Application with Elasticsearch and NestJS - Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Create_a_Full_Autocomplete_Search_Application_with_Elasticsearch_and_NestJS_-_Part_1.svg)](https://dev.to/airscholar/how-to-create-a-full-autocomplete-search-application-with-elasticsearch-and-nestjs-part-1-27k4)
+[![How to add web3 sign-in with thirdweb ✨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_add_web3_sign-in_with_thirdweb_✨.svg)](https://dev.to/avneesh0612/how-to-add-web3-sign-in-with-thirdweb-8pm)
+[![What Is Cloud Computing ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_Is_Cloud_Computing__.svg)](https://dev.to/makstyle119/what-is-cloud-computing--780)
+[![Say hello to Big (O)h!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Say_hello_to_Big_(O)h!.svg)](https://dev.to/gateremark/say-hello-to-big-oh-5a28)
+[![Top 7 Featured DEV Posts from the Past Week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_7_Featured_DEV_Posts_from_the_Past_Week.svg)](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1dej)
+[![Retrieving, using and validating token from an IdentityServer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Retrieving__using_and_validating_token_from_an_IdentityServer.svg)](https://dev.to/campelo/retrieving-using-and-validating-token-from-an-identityserver-35e7)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, September 6, 2022 at 12:13:09 PM
+> Last updated: Tuesday, September 6, 2022 at 7:07:08 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,13 +43,13 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, September 6, 2022 at 12:13:15 PM
+> Last updated: Tuesday, September 6, 2022 at 7:07:14 PM
 
 > Showing 5 of 30 posts.
 
 [![Breaking The Factory Pattern In 2 Ways - Design Patterns In TypeScript - Talking HighTech](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Breaking_The_Factory_Pattern_In_2_Ways_-_Design_Patterns_In_TypeScript_-_Talking_HighTech.svg)](https://www.talkinghightech.com/en/typescript-factory-pattern/)
 [![How to Write Polyfill of Filter Method](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Write_Polyfill_of_Filter_Method.svg)](https://www.youtube.com/watch?v=rSAyBK8pkCA)
-[![API with NestJS #73. One-to-one relationships with raw SQL queries](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__73._One-to-one_relationships_with_raw_SQL_queries.svg)](http://wanago.io/2022/09/05/api-nestjs-one-to-one-relationships-sql-queries/)
+[![API with NestJS #73. One-to-one relationships with raw SQL queries](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__73._One-to-one_relationships_with_raw_SQL_queries.svg)](https://wanago.io/2022/09/05/api-nestjs-one-to-one-relationships-sql-queries/)
 [![The Accessibility And Usability Journey Of Drupal’s Primary Navigation — Smashing Magazine](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Accessibility_And_Usability_Journey_Of_Drupal’s_Primary_Navigation_—_Smashing_Magazine.svg)](https://www.smashingmagazine.com/2022/09/accessibility-usability-drupal-primary-navigation/)
 [![GitHub - aoyan107/node-express-mysql-boilerplate: A boilerplate for any enterprise rest api or service with Node.js, Express and Sequelize ORM for mysql, postgresql or others.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_aoyan107_node-express-mysql-boilerplate__A_boilerplate_for_any_enterprise_rest_api_or_service_with_Node.js__Express_and_Sequelize_ORM_for_mysql__postgresql_or_others..svg)](https://github.com/aoyan107/node-express-mysql-boilerplate)
 
