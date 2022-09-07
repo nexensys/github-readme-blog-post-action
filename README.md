@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, September 7, 2022 at 6:22:37 AM
+> Last updated: Wednesday, September 7, 2022 at 12:13:21 PM
 
 > Showing 5 of 12 posts.
 
-[![How to get started with Filament](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_get_started_with_Filament.svg)](https://dev.to/ameliniya_/how-to-get-started-with-filament-2fi1)
-[![Core JavaScript: Var vs. Let vs. Const](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Core_JavaScript__Var_vs._Let_vs._Const.svg)](https://dev.to/ioanat94/core-javascript-var-vs-let-vs-const-39d7)
-[![Do you know about any USEFUL web3/blockchain projects? I fail to find any...](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Do_you_know_about_any_USEFUL_web3_blockchain_projects__I_fail_to_find_any....svg)](https://dev.to/nombrekeff/do-you-know-about-any-useful-web3blockchain-projects-i-fail-to-find-any-4c62)
-[![The 31 Reserved Keywords in Solidity](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_31_Reserved_Keywords_in_Solidity.svg)](https://dev.to/koha/the-31-reserved-keywords-in-solidity-bda)
-[![5 Free Resources to Learn Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_Free_Resources_to_Learn_Python.svg)](https://dev.to/onlydevs_/5-free-resources-to-learn-python-50k4)
+[![Real-time chat app using Firebase, React, TailwindCSS, MongoDB, Express, and Socket.io](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Real-time_chat_app_using_Firebase__React__TailwindCSS__MongoDB__Express__and_Socket.io.svg)](https://dev.to/earthcomfy/real-time-chat-app-using-firebase-react-tailwindcss-mongodb-nodeexpress-and-socketio-26n1)
+[![What i learnt from my first software development project...](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_i_learnt_from_my_first_software_development_project....svg)](https://dev.to/jacklinekariuki/what-i-learnt-from-my-first-software-development-project-jea)
+[![Responsive Dashboard Chart Using HTML CSS JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Responsive_Dashboard_Chart_Using_HTML_CSS_JavaScript.svg)](https://dev.to/codewithsadee/responsive-dashboard-chart-using-html-css-javascript-273n)
+[![Create a blog with Vue 3 + Tailwindcss + Supabase](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Create_a_blog_with_Vue_3_+_Tailwindcss_+_Supabase.svg)](https://dev.to/guillaumeduhan/create-a-blog-with-vue-3-tailwindcss-supabase-1f02)
+[![React: Code splitting](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/React__Code_splitting.svg)](https://dev.to/deogadkarravina/react-code-splitting-3c67)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, September 7, 2022 at 6:22:39 AM
+> Last updated: Wednesday, September 7, 2022 at 12:13:27 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, September 7, 2022 at 6:22:44 AM
+> Last updated: Wednesday, September 7, 2022 at 12:13:34 PM
 
 > Showing 5 of 30 posts.
 
+[![Build a Blog with Next.js and Webiny Headless CMS | Webiny](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_a_Blog_with_Next.js_and_Webiny_Headless_CMS___Webiny.svg)](
+https://www.webiny.com/blog/build-blog-nextjs-webiny-headless-cms
+)
 [![Bihar’s artists seek help from Lalit Kala Akademi to tide over Covid crisis](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Bihar’s_artists_seek_help_from_Lalit_Kala_Akademi_to_tide_over_Covid_crisis.svg)](https://www.hindustantimes.com/cities/patna-news/bihars-artists-seek-help-from-lalit-kala-akademi-to-tide-over-covid-crisis-101626063460374.html)
 [![Looking to develop own Airbnb Like App?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Looking_to_develop_own_Airbnb_Like_App_.svg)](https://www.apptunix.com/solutions/airbnb-like-app/)
 [![As U.S. Sanctions Loomed, a Tycoon ‘Mopped Up’ Zimbabwe’s Scarce Dollars, and Acquired a Lucrative Platinum Mine - OCCRP](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/As_U.S._Sanctions_Loomed__a_Tycoon_‘Mopped_Up’_Zimbabwe’s_Scarce_Dollars__and_Acquired_a_Lucrative_Platinum_Mine_-_OCCRP.svg)](https://www.occrp.org/en/investigations/as-us-sanctions-loomed-a-tycoon-mopped-up-zimbabwes-scarce-dollars-and-acquired-a-lucrative-platinum-mine)
 [![Breaking The Factory Pattern In 2 Ways - Design Patterns In TypeScript - Talking HighTech](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Breaking_The_Factory_Pattern_In_2_Ways_-_Design_Patterns_In_TypeScript_-_Talking_HighTech.svg)](https://www.talkinghightech.com/en/typescript-factory-pattern/)
-[![How to Write Polyfill of Filter Method](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Write_Polyfill_of_Filter_Method.svg)](https://www.youtube.com/watch?v=rSAyBK8pkCA)
 
 
 <!-- post-list:end -->
