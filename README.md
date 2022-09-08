@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, September 7, 2022 at 7:02:41 PM
+> Last updated: Thursday, September 8, 2022 at 12:39:07 AM
 
 > Showing 5 of 12 posts.
 
-[![You don't need to watch videos or lessons to learn something](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/You_don't_need_to_watch_videos_or_lessons_to_learn_something.svg)](https://dev.to/vinibgoulart/you-dont-need-to-watch-videos-or-lessons-to-learn-something-52j5)
-[![Serverless Lambdas with Rust on AWS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Serverless_Lambdas_with_Rust_on_AWS.svg)](https://dev.to/aws-builders/serverless-lambdas-with-rust-on-aws-hkh)
-[![How real is Apple's realityOS?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_real_is_Apple's_realityOS_.svg)](https://dev.to/shiaart/how-real-is-apples-realityos-399o)
-[![5 great tools for React developers in 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_great_tools_for_React_developers_in_2022.svg)](https://dev.to/danilovilhena/5-great-tools-for-react-developers-in-2022-1k93)
-[![How Slack Uses Remote Development to Improve Dev Experience & Productivity](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_Slack_Uses_Remote_Development_to_Improve_Dev_Experience___Productivity.svg)](https://dev.to/bunnyshell/how-slack-uses-remote-development-to-improve-dev-experience-productivity-4g0l)
+[![👋How to convert ANY website into a desktop application(In 30 Seconds)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/👋How_to_convert_ANY_website_into_a_desktop_application(In_30_Seconds).svg)](https://dev.to/freebeliever/how-to-convert-any-website-into-a-desktop-applicationin-30-seconds-b0n)
+[![How to apply AWS EC2 with Boto3 & Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_apply_AWS_EC2_with_Boto3___Python.svg)](https://dev.to/aws-builders/how-to-apply-aws-ec2-with-boto3-python-3jkk)
+[![Interesting Machine Learning Projects : Rock Vs Mine Prediction](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Interesting_Machine_Learning_Projects___Rock_Vs_Mine_Prediction.svg)](https://dev.to/prkskrs/interesting-machine-learning-projects-rock-vs-mine-prediction-2406)
+[![Free alternatives to Heroku](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Free_alternatives_to_Heroku.svg)](https://dev.to/sayanide/free-alternatives-to-heroku-3g3n)
+[![Empezando el Bootcamp de soyHenry💛 #100DaysOfCode](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Empezando_el_Bootcamp_de_soyHenry💛__100DaysOfCode.svg)](https://dev.to/soyrafael/1er-dia-en-bootcamp-soyhenry-100daysofcode-105m)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, September 7, 2022 at 7:02:44 PM
+> Last updated: Thursday, September 8, 2022 at 12:39:10 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, September 7, 2022 at 7:02:50 PM
+> Last updated: Thursday, September 8, 2022 at 12:39:15 AM
 
 > Showing 5 of 30 posts.
 
