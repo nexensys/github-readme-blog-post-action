@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, September 7, 2022 at 12:13:21 PM
+> Last updated: Wednesday, September 7, 2022 at 7:02:41 PM
 
 > Showing 5 of 12 posts.
 
-[![Real-time chat app using Firebase, React, TailwindCSS, MongoDB, Express, and Socket.io](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Real-time_chat_app_using_Firebase__React__TailwindCSS__MongoDB__Express__and_Socket.io.svg)](https://dev.to/earthcomfy/real-time-chat-app-using-firebase-react-tailwindcss-mongodb-nodeexpress-and-socketio-26n1)
-[![What i learnt from my first software development project...](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_i_learnt_from_my_first_software_development_project....svg)](https://dev.to/jacklinekariuki/what-i-learnt-from-my-first-software-development-project-jea)
-[![Responsive Dashboard Chart Using HTML CSS JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Responsive_Dashboard_Chart_Using_HTML_CSS_JavaScript.svg)](https://dev.to/codewithsadee/responsive-dashboard-chart-using-html-css-javascript-273n)
-[![Create a blog with Vue 3 + Tailwindcss + Supabase](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Create_a_blog_with_Vue_3_+_Tailwindcss_+_Supabase.svg)](https://dev.to/guillaumeduhan/create-a-blog-with-vue-3-tailwindcss-supabase-1f02)
-[![React: Code splitting](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/React__Code_splitting.svg)](https://dev.to/deogadkarravina/react-code-splitting-3c67)
+[![You don't need to watch videos or lessons to learn something](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/You_don't_need_to_watch_videos_or_lessons_to_learn_something.svg)](https://dev.to/vinibgoulart/you-dont-need-to-watch-videos-or-lessons-to-learn-something-52j5)
+[![Serverless Lambdas with Rust on AWS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Serverless_Lambdas_with_Rust_on_AWS.svg)](https://dev.to/aws-builders/serverless-lambdas-with-rust-on-aws-hkh)
+[![How real is Apple's realityOS?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_real_is_Apple's_realityOS_.svg)](https://dev.to/shiaart/how-real-is-apples-realityos-399o)
+[![5 great tools for React developers in 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_great_tools_for_React_developers_in_2022.svg)](https://dev.to/danilovilhena/5-great-tools-for-react-developers-in-2022-1k93)
+[![How Slack Uses Remote Development to Improve Dev Experience & Productivity](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_Slack_Uses_Remote_Development_to_Improve_Dev_Experience___Productivity.svg)](https://dev.to/bunnyshell/how-slack-uses-remote-development-to-improve-dev-experience-productivity-4g0l)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, September 7, 2022 at 12:13:27 PM
+> Last updated: Wednesday, September 7, 2022 at 7:02:44 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, September 7, 2022 at 12:13:34 PM
+> Last updated: Wednesday, September 7, 2022 at 7:02:50 PM
 
 > Showing 5 of 30 posts.
 
 [![Build a Blog with Next.js and Webiny Headless CMS | Webiny](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_a_Blog_with_Next.js_and_Webiny_Headless_CMS___Webiny.svg)](
 https://www.webiny.com/blog/build-blog-nextjs-webiny-headless-cms
 )
-[![Bihar’s artists seek help from Lalit Kala Akademi to tide over Covid crisis](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Bihar’s_artists_seek_help_from_Lalit_Kala_Akademi_to_tide_over_Covid_crisis.svg)](https://www.hindustantimes.com/cities/patna-news/bihars-artists-seek-help-from-lalit-kala-akademi-to-tide-over-covid-crisis-101626063460374.html)
-[![Looking to develop own Airbnb Like App?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Looking_to_develop_own_Airbnb_Like_App_.svg)](https://www.apptunix.com/solutions/airbnb-like-app/)
-[![As U.S. Sanctions Loomed, a Tycoon ‘Mopped Up’ Zimbabwe’s Scarce Dollars, and Acquired a Lucrative Platinum Mine - OCCRP](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/As_U.S._Sanctions_Loomed__a_Tycoon_‘Mopped_Up’_Zimbabwe’s_Scarce_Dollars__and_Acquired_a_Lucrative_Platinum_Mine_-_OCCRP.svg)](https://www.occrp.org/en/investigations/as-us-sanctions-loomed-a-tycoon-mopped-up-zimbabwes-scarce-dollars-and-acquired-a-lucrative-platinum-mine)
 [![Breaking The Factory Pattern In 2 Ways - Design Patterns In TypeScript - Talking HighTech](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Breaking_The_Factory_Pattern_In_2_Ways_-_Design_Patterns_In_TypeScript_-_Talking_HighTech.svg)](https://www.talkinghightech.com/en/typescript-factory-pattern/)
+[![How to Write Polyfill of Filter Method](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Write_Polyfill_of_Filter_Method.svg)](https://www.youtube.com/watch?v=rSAyBK8pkCA)
+[![API with NestJS #73. One-to-one relationships with raw SQL queries](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__73._One-to-one_relationships_with_raw_SQL_queries.svg)](https://wanago.io/2022/09/05/api-nestjs-one-to-one-relationships-sql-queries/)
+[![The Accessibility And Usability Journey Of Drupal’s Primary Navigation — Smashing Magazine](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Accessibility_And_Usability_Journey_Of_Drupal’s_Primary_Navigation_—_Smashing_Magazine.svg)](https://www.smashingmagazine.com/2022/09/accessibility-usability-drupal-primary-navigation/)
 
 
 <!-- post-list:end -->
