@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, September 8, 2022 at 12:39:07 AM
+> Last updated: Thursday, September 8, 2022 at 6:21:39 AM
 
 > Showing 5 of 12 posts.
 
-[![👋How to convert ANY website into a desktop application(In 30 Seconds)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/👋How_to_convert_ANY_website_into_a_desktop_application(In_30_Seconds).svg)](https://dev.to/freebeliever/how-to-convert-any-website-into-a-desktop-applicationin-30-seconds-b0n)
-[![How to apply AWS EC2 with Boto3 & Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_apply_AWS_EC2_with_Boto3___Python.svg)](https://dev.to/aws-builders/how-to-apply-aws-ec2-with-boto3-python-3jkk)
-[![Interesting Machine Learning Projects : Rock Vs Mine Prediction](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Interesting_Machine_Learning_Projects___Rock_Vs_Mine_Prediction.svg)](https://dev.to/prkskrs/interesting-machine-learning-projects-rock-vs-mine-prediction-2406)
-[![Free alternatives to Heroku](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Free_alternatives_to_Heroku.svg)](https://dev.to/sayanide/free-alternatives-to-heroku-3g3n)
-[![Empezando el Bootcamp de soyHenry💛 #100DaysOfCode](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Empezando_el_Bootcamp_de_soyHenry💛__100DaysOfCode.svg)](https://dev.to/soyrafael/1er-dia-en-bootcamp-soyhenry-100daysofcode-105m)
+[![10+ Most Popular Coding Challenges Websites YOU Must be using!!!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/10+_Most_Popular_Coding_Challenges_Websites_YOU_Must_be_using!!!.svg)](https://dev.to/devarshishimpi/10-most-popular-coding-challenges-websites-you-must-be-using-3bhl)
+[![Object Mapping advanced features & QoL with Java](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Object_Mapping_advanced_features___QoL_with_Java.svg)](https://dev.to/krud/object-mapping-advanced-features-qol-with-java-43m9)
+[![The Custom Software Development Process - Step-by-Step Guides](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Custom_Software_Development_Process_-_Step-by-Step_Guides.svg)](https://dev.to/bacancytechnology/the-custom-software-development-process-step-by-step-guides-kcc)
+[![50+ Awesome tools for Web Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/50+_Awesome_tools_for_Web_Developers.svg)](https://dev.to/surajondev/50-awesome-tools-for-web-developers-5gan)
+[![JavaScript Tips and Tricks You need to Know 💯️🚀️](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/JavaScript_Tips_and_Tricks_You_need_to_Know_💯️🚀️.svg)](https://dev.to/devsyedmohsin/javascript-tips-and-tricks-you-need-to-know-1g2k)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, September 8, 2022 at 12:39:10 AM
+> Last updated: Thursday, September 8, 2022 at 6:21:41 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, September 8, 2022 at 12:39:15 AM
+> Last updated: Thursday, September 8, 2022 at 6:21:44 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - mauzigoe/matter-for-vscode](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_mauzigoe_matter-for-vscode.svg)](https://github.com/mauzigoe/matter-for-vscode)
+[![Creating a Cross-Platform Design System for React and React Native with Bit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Creating_a_Cross-Platform_Design_System_for_React_and_React_Native_with_Bit.svg)](https://bit.dev/)
 [![Build a Blog with Next.js and Webiny Headless CMS | Webiny](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_a_Blog_with_Next.js_and_Webiny_Headless_CMS___Webiny.svg)](
 https://www.webiny.com/blog/build-blog-nextjs-webiny-headless-cms
 )
 [![Breaking The Factory Pattern In 2 Ways - Design Patterns In TypeScript - Talking HighTech](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Breaking_The_Factory_Pattern_In_2_Ways_-_Design_Patterns_In_TypeScript_-_Talking_HighTech.svg)](https://www.talkinghightech.com/en/typescript-factory-pattern/)
 [![How to Write Polyfill of Filter Method](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Write_Polyfill_of_Filter_Method.svg)](https://www.youtube.com/watch?v=rSAyBK8pkCA)
-[![API with NestJS #73. One-to-one relationships with raw SQL queries](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__73._One-to-one_relationships_with_raw_SQL_queries.svg)](https://wanago.io/2022/09/05/api-nestjs-one-to-one-relationships-sql-queries/)
-[![The Accessibility And Usability Journey Of Drupal’s Primary Navigation — Smashing Magazine](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Accessibility_And_Usability_Journey_Of_Drupal’s_Primary_Navigation_—_Smashing_Magazine.svg)](https://www.smashingmagazine.com/2022/09/accessibility-usability-drupal-primary-navigation/)
 
 
 <!-- post-list:end -->
