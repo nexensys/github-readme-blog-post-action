@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, September 8, 2022 at 6:21:39 AM
+> Last updated: Thursday, September 8, 2022 at 12:13:18 PM
 
 > Showing 5 of 12 posts.
 
-[![10+ Most Popular Coding Challenges Websites YOU Must be using!!!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/10+_Most_Popular_Coding_Challenges_Websites_YOU_Must_be_using!!!.svg)](https://dev.to/devarshishimpi/10-most-popular-coding-challenges-websites-you-must-be-using-3bhl)
-[![Object Mapping advanced features & QoL with Java](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Object_Mapping_advanced_features___QoL_with_Java.svg)](https://dev.to/krud/object-mapping-advanced-features-qol-with-java-43m9)
-[![The Custom Software Development Process - Step-by-Step Guides](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Custom_Software_Development_Process_-_Step-by-Step_Guides.svg)](https://dev.to/bacancytechnology/the-custom-software-development-process-step-by-step-guides-kcc)
-[![50+ Awesome tools for Web Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/50+_Awesome_tools_for_Web_Developers.svg)](https://dev.to/surajondev/50-awesome-tools-for-web-developers-5gan)
-[![JavaScript Tips and Tricks You need to Know 💯️🚀️](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/JavaScript_Tips_and_Tricks_You_need_to_Know_💯️🚀️.svg)](https://dev.to/devsyedmohsin/javascript-tips-and-tricks-you-need-to-know-1g2k)
+[![OIDC Forever, IAM Credentials Never!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/OIDC_Forever__IAM_Credentials_Never!.svg)](https://dev.to/aws-builders/oidc-forever-iam-credentials-never-4hhf)
+[![A Gentle Introduction to Blockchain Oracles & Chainlink](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_Gentle_Introduction_to_Blockchain_Oracles___Chainlink.svg)](https://dev.to/cryptoshuriken/a-gentle-introduction-to-blockchain-oracles-chainlink-3000)
+[![100DaysOfCode: Day 04, UI Design with Knott JS + Weavv CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/100DaysOfCode__Day_04__UI_Design_with_Knott_JS_+_Weavv_CSS.svg)](https://dev.to/louislow/100daysofcode-day-04-ui-design-with-knott-js-weavv-css-1d08)
+[![What are the different API types?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_are_the_different_API_types_.svg)](https://dev.to/bump/what-are-the-different-api-types-3p95)
+[![Machine Learning for Front-end Developers: Get Started with TensorFlow.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Machine_Learning_for_Front-end_Developers__Get_Started_with_TensorFlow.js.svg)](https://dev.to/deepgram/machine-learning-for-front-end-developers-get-started-with-tensorflowjs-1kmo)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, September 8, 2022 at 6:21:41 AM
+> Last updated: Thursday, September 8, 2022 at 12:13:20 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, September 8, 2022 at 6:21:44 AM
+> Last updated: Thursday, September 8, 2022 at 12:13:23 PM
 
 > Showing 5 of 30 posts.
 
-[![GitHub - mauzigoe/matter-for-vscode](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_mauzigoe_matter-for-vscode.svg)](https://github.com/mauzigoe/matter-for-vscode)
+[![Introduction to Data Modeling and dbSpy2.0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Introduction_to_Data_Modeling_and_dbSpy2.0.svg)](https://medium.com/@ejmebasser/introduction-to-data-modeling-and-dbspy2-0-fba07ada6a0b)
+[![How to debug better using $ sign shortcuts in Chrome devtools - Wisdom Geek](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_debug_better_using_$_sign_shortcuts_in_Chrome_devtools_-_Wisdom_Geek.svg)](https://www.wisdomgeek.com/development/web-development/how-to-debug-better-using-sign-shortcuts-in-chrome-devtools/)
+[![GitHub - mauzigoe/matter-for-vscode: Extension to operate Matlab in VS Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_mauzigoe_matter-for-vscode__Extension_to_operate_Matlab_in_VS_Code.svg)](https://github.com/mauzigoe/matter-for-vscode)
 [![Creating a Cross-Platform Design System for React and React Native with Bit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Creating_a_Cross-Platform_Design_System_for_React_and_React_Native_with_Bit.svg)](https://bit.dev/)
 [![Build a Blog with Next.js and Webiny Headless CMS | Webiny](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_a_Blog_with_Next.js_and_Webiny_Headless_CMS___Webiny.svg)](
 https://www.webiny.com/blog/build-blog-nextjs-webiny-headless-cms
 )
-[![Breaking The Factory Pattern In 2 Ways - Design Patterns In TypeScript - Talking HighTech](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Breaking_The_Factory_Pattern_In_2_Ways_-_Design_Patterns_In_TypeScript_-_Talking_HighTech.svg)](https://www.talkinghightech.com/en/typescript-factory-pattern/)
-[![How to Write Polyfill of Filter Method](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Write_Polyfill_of_Filter_Method.svg)](https://www.youtube.com/watch?v=rSAyBK8pkCA)
 
 
 <!-- post-list:end -->
