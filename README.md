@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, September 8, 2022 at 12:13:18 PM
+> Last updated: Thursday, September 8, 2022 at 7:05:03 PM
 
 > Showing 5 of 12 posts.
 
-[![OIDC Forever, IAM Credentials Never!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/OIDC_Forever__IAM_Credentials_Never!.svg)](https://dev.to/aws-builders/oidc-forever-iam-credentials-never-4hhf)
-[![A Gentle Introduction to Blockchain Oracles & Chainlink](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_Gentle_Introduction_to_Blockchain_Oracles___Chainlink.svg)](https://dev.to/cryptoshuriken/a-gentle-introduction-to-blockchain-oracles-chainlink-3000)
-[![100DaysOfCode: Day 04, UI Design with Knott JS + Weavv CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/100DaysOfCode__Day_04__UI_Design_with_Knott_JS_+_Weavv_CSS.svg)](https://dev.to/louislow/100daysofcode-day-04-ui-design-with-knott-js-weavv-css-1d08)
-[![What are the different API types?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_are_the_different_API_types_.svg)](https://dev.to/bump/what-are-the-different-api-types-3p95)
-[![Machine Learning for Front-end Developers: Get Started with TensorFlow.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Machine_Learning_for_Front-end_Developers__Get_Started_with_TensorFlow.js.svg)](https://dev.to/deepgram/machine-learning-for-front-end-developers-get-started-with-tensorflowjs-1kmo)
+[![A simple linear regression with TensorFlow 2.0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_simple_linear_regression_with_TensorFlow_2.0.svg)](https://dev.to/rodolfoferro/a-simple-linear-regression-with-tensorflow-20-1aap)
+[![7 Tips to Improve Your Website's UX](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/7_Tips_to_Improve_Your_Website's_UX.svg)](https://dev.to/rembertdesigns/7-tips-to-improve-your-websites-ux-1oep)
+[![Build Static Blogs with Keystone](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_Static_Blogs_with_Keystone.svg)](https://dev.to/flexdinesh/build-static-blogs-with-keystone-28kn)
+[![Top 6 Heroku alternatives](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_6_Heroku_alternatives.svg)](https://dev.to/savvyshivam/top-6-heroku-alternatives-24np)
+[![How to Create a Full Autocomplete Search Application with Elasticsearch and NestJs - Part 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Create_a_Full_Autocomplete_Search_Application_with_Elasticsearch_and_NestJs_-_Part_2.svg)](https://dev.to/airscholar/how-to-create-a-full-autocomplete-search-application-with-elasticsearch-and-nestjs-part-2-a6b)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, September 8, 2022 at 12:13:20 PM
+> Last updated: Thursday, September 8, 2022 at 7:05:05 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, September 8, 2022 at 12:13:23 PM
+> Last updated: Thursday, September 8, 2022 at 7:05:07 PM
 
 > Showing 5 of 30 posts.
 
+[![Debugging Three.js Projects Just Got a Whole Lot Easier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Debugging_Three.js_Projects_Just_Got_a_Whole_Lot_Easier.svg)](https://medium.com/@bacetools/debugging-three-js-projects-just-got-a-whole-lot-easier-451344c5b697)
+[![Working with the Node.js assert Library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Working_with_the_Node.js_assert_Library.svg)](
+https://masteringjs.io/tutorials/node/assert
+)
 [![Introduction to Data Modeling and dbSpy2.0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Introduction_to_Data_Modeling_and_dbSpy2.0.svg)](https://medium.com/@ejmebasser/introduction-to-data-modeling-and-dbspy2-0-fba07ada6a0b)
 [![How to debug better using $ sign shortcuts in Chrome devtools - Wisdom Geek](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_debug_better_using_$_sign_shortcuts_in_Chrome_devtools_-_Wisdom_Geek.svg)](https://www.wisdomgeek.com/development/web-development/how-to-debug-better-using-sign-shortcuts-in-chrome-devtools/)
 [![GitHub - mauzigoe/matter-for-vscode: Extension to operate Matlab in VS Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_mauzigoe_matter-for-vscode__Extension_to_operate_Matlab_in_VS_Code.svg)](https://github.com/mauzigoe/matter-for-vscode)
-[![Creating a Cross-Platform Design System for React and React Native with Bit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Creating_a_Cross-Platform_Design_System_for_React_and_React_Native_with_Bit.svg)](https://bit.dev/)
-[![Build a Blog with Next.js and Webiny Headless CMS | Webiny](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_a_Blog_with_Next.js_and_Webiny_Headless_CMS___Webiny.svg)](
-https://www.webiny.com/blog/build-blog-nextjs-webiny-headless-cms
-)
 
 
 <!-- post-list:end -->
