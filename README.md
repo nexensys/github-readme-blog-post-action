@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, September 9, 2022 at 12:28:12 AM
+> Last updated: Friday, September 9, 2022 at 6:22:03 AM
 
 > Showing 5 of 12 posts.
 
-[![Classes in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Classes_in_JavaScript.svg)](https://dev.to/sujithvsuresh/classes-in-javascript-41fi)
-[![How blogging helped me land a part time job in tech?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_blogging_helped_me_land_a_part_time_job_in_tech_.svg)](https://dev.to/asheeshh/how-blogging-helped-me-land-a-part-time-job-in-tech-5gi9)
-[![How useful is Listing section ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_useful_is_Listing_section__.svg)](https://dev.to/vikasmaur13/how-much-is-listing-section-useful--dbp)
-[![Smallest Number in Infinite Set](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Smallest_Number_in_Infinite_Set.svg)](https://dev.to/salahelhossiny/smallest-number-in-infinite-set-48ia)
-[![Starting a personal dashboard with the Spotify API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Starting_a_personal_dashboard_with_the_Spotify_API.svg)](https://dev.to/jpreagan/starting-a-personal-dashboard-with-the-spotify-api-526p)
+[![Introduction to Nodejs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Introduction_to_Nodejs.svg)](https://dev.to/savvyshivam/introduction-to-nodejs-b4c)
+[![Overview of 11 AWS Developer Tools](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Overview_of_11_AWS_Developer_Tools.svg)](https://dev.to/aws-builders/overview-of-11-aws-developer-tools-53hf)
+[![Beautiful button animation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Beautiful_button_animation.svg)](https://dev.to/designyff/beautiful-button-animation-e3c)
+[![Being Highly Agreeable Is All You Need To Land Your First Job In Tech.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Being_Highly_Agreeable_Is_All_You_Need_To_Land_Your_First_Job_In_Tech..svg)](https://dev.to/wiseai/being-highly-agreeable-is-all-you-need-to-land-your-first-job-in-tech-2c2c)
+[![How to Push an empty commit?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Push_an_empty_commit_.svg)](https://dev.to/devsimc/how-to-push-an-empty-commit-28dd)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, September 9, 2022 at 12:28:16 AM
+> Last updated: Friday, September 9, 2022 at 6:22:07 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, September 9, 2022 at 12:28:18 AM
+> Last updated: Friday, September 9, 2022 at 6:22:09 AM
 
 > Showing 5 of 30 posts.
 
+[![Creating Charts with JavaScript: 13 Popular Libraries - Stack Diary](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Creating_Charts_with_JavaScript__13_Popular_Libraries_-_Stack_Diary.svg)](https://stackdiary.com/javascript-chart-libraries/)
 [![Debugging Three.js Projects Just Got a Whole Lot Easier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Debugging_Three.js_Projects_Just_Got_a_Whole_Lot_Easier.svg)](https://medium.com/@bacetools/debugging-three-js-projects-just-got-a-whole-lot-easier-451344c5b697)
 [![Working with the Node.js assert Library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Working_with_the_Node.js_assert_Library.svg)](
 https://masteringjs.io/tutorials/node/assert
 )
 [![Introduction to Data Modeling and dbSpy2.0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Introduction_to_Data_Modeling_and_dbSpy2.0.svg)](https://medium.com/@ejmebasser/introduction-to-data-modeling-and-dbspy2-0-fba07ada6a0b)
 [![How to debug better using $ sign shortcuts in Chrome devtools - Wisdom Geek](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_debug_better_using_$_sign_shortcuts_in_Chrome_devtools_-_Wisdom_Geek.svg)](https://www.wisdomgeek.com/development/web-development/how-to-debug-better-using-sign-shortcuts-in-chrome-devtools/)
-[![GitHub - mauzigoe/matter-for-vscode: Extension to operate Matlab in VS Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_mauzigoe_matter-for-vscode__Extension_to_operate_Matlab_in_VS_Code.svg)](https://github.com/mauzigoe/matter-for-vscode)
 
 
 <!-- post-list:end -->
