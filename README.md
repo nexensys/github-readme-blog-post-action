@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, September 8, 2022 at 7:05:03 PM
+> Last updated: Friday, September 9, 2022 at 12:28:12 AM
 
 > Showing 5 of 12 posts.
 
-[![A simple linear regression with TensorFlow 2.0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_simple_linear_regression_with_TensorFlow_2.0.svg)](https://dev.to/rodolfoferro/a-simple-linear-regression-with-tensorflow-20-1aap)
-[![7 Tips to Improve Your Website's UX](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/7_Tips_to_Improve_Your_Website's_UX.svg)](https://dev.to/rembertdesigns/7-tips-to-improve-your-websites-ux-1oep)
-[![Build Static Blogs with Keystone](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_Static_Blogs_with_Keystone.svg)](https://dev.to/flexdinesh/build-static-blogs-with-keystone-28kn)
-[![Top 6 Heroku alternatives](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_6_Heroku_alternatives.svg)](https://dev.to/savvyshivam/top-6-heroku-alternatives-24np)
-[![How to Create a Full Autocomplete Search Application with Elasticsearch and NestJs - Part 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Create_a_Full_Autocomplete_Search_Application_with_Elasticsearch_and_NestJs_-_Part_2.svg)](https://dev.to/airscholar/how-to-create-a-full-autocomplete-search-application-with-elasticsearch-and-nestjs-part-2-a6b)
+[![Classes in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Classes_in_JavaScript.svg)](https://dev.to/sujithvsuresh/classes-in-javascript-41fi)
+[![How blogging helped me land a part time job in tech?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_blogging_helped_me_land_a_part_time_job_in_tech_.svg)](https://dev.to/asheeshh/how-blogging-helped-me-land-a-part-time-job-in-tech-5gi9)
+[![How useful is Listing section ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_useful_is_Listing_section__.svg)](https://dev.to/vikasmaur13/how-much-is-listing-section-useful--dbp)
+[![Smallest Number in Infinite Set](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Smallest_Number_in_Infinite_Set.svg)](https://dev.to/salahelhossiny/smallest-number-in-infinite-set-48ia)
+[![Starting a personal dashboard with the Spotify API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Starting_a_personal_dashboard_with_the_Spotify_API.svg)](https://dev.to/jpreagan/starting-a-personal-dashboard-with-the-spotify-api-526p)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, September 8, 2022 at 7:05:05 PM
+> Last updated: Friday, September 9, 2022 at 12:28:16 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, September 8, 2022 at 7:05:07 PM
+> Last updated: Friday, September 9, 2022 at 12:28:18 AM
 
 > Showing 5 of 30 posts.
 
