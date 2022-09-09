@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, September 9, 2022 at 6:22:03 AM
+> Last updated: Friday, September 9, 2022 at 12:13:52 PM
 
 > Showing 5 of 12 posts.
 
-[![Introduction to Nodejs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Introduction_to_Nodejs.svg)](https://dev.to/savvyshivam/introduction-to-nodejs-b4c)
-[![Overview of 11 AWS Developer Tools](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Overview_of_11_AWS_Developer_Tools.svg)](https://dev.to/aws-builders/overview-of-11-aws-developer-tools-53hf)
-[![Beautiful button animation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Beautiful_button_animation.svg)](https://dev.to/designyff/beautiful-button-animation-e3c)
-[![Being Highly Agreeable Is All You Need To Land Your First Job In Tech.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Being_Highly_Agreeable_Is_All_You_Need_To_Land_Your_First_Job_In_Tech..svg)](https://dev.to/wiseai/being-highly-agreeable-is-all-you-need-to-land-your-first-job-in-tech-2c2c)
-[![How to Push an empty commit?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Push_an_empty_commit_.svg)](https://dev.to/devsimc/how-to-push-an-empty-commit-28dd)
+[![This Week In React #116: Next.js, Gatsby, Blitz, Fresh, Astro, Preact, Redwood, Deno, Remotion, React-Native, Expo, Lightning...](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/This_Week_In_React__116__Next.js__Gatsby__Blitz__Fresh__Astro__Preact__Redwood__Deno__Remotion__React-Native__Expo__Lightning....svg)](https://dev.to/sebastienlorber/this-week-in-react-116-nextjs-gatsby-blitz-fresh-astro-preact-redwood-deno-remotion-react-native-expo-lightning-32nb)
+[![PagerDuty Community Update September 9, 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/PagerDuty_Community_Update_September_9__2022.svg)](https://dev.to/pdcommunity/pagerduty-community-update-september-9-2022-3991)
+[![How We Used Airtable To Create An Email Subscriber Form On Noteslify For $0!!!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_We_Used_Airtable_To_Create_An_Email_Subscriber_Form_On_Noteslify_For_$0!!!.svg)](https://dev.to/dvstechlabs/how-we-used-airtable-to-create-an-email-subscriber-form-on-noteslify-for-0-3lod)
+[![Ejecutar un flujo de Power Automate con una solicitud HTTP](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Ejecutar_un_flujo_de_Power_Automate_con_una_solicitud_HTTP.svg)](https://dev.to/esdanielgomez/ejecutar-un-flujo-de-power-automate-con-una-solicitud-http-1f63)
+[![Follow Friday: Career Edition (9 September 2022)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Follow_Friday__Career_Edition_(9_September_2022).svg)](https://dev.to/devteam/follow-friday-career-edition-8-september-2022-3np5)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, September 9, 2022 at 6:22:07 AM
+> Last updated: Friday, September 9, 2022 at 12:13:55 PM
 
 > Showing 4 of 4 posts.
 
+[![Anyone know Larry Ellison?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Anyone_know_Larry_Ellison_.svg)](https://javascriptweekly.com/issues/605)
 [![David's handy JS debugging tip](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/David's_handy_JS_debugging_tip.svg)](https://javascriptweekly.com/issues/604)
 [![The future JavaScript features at TC39](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/The_future_JavaScript_features_at_TC39.svg)](https://javascriptweekly.com/issues/603)
 [![A way to automatically generate regexes from examples](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/A_way_to_automatically_generate_regexes_from_examples.svg)](https://javascriptweekly.com/issues/602)
-[![Genius misuse of WOFF 2 and Brotli to win a JavaScript contest.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Genius_misuse_of_WOFF_2_and_Brotli_to_win_a_JavaScript_contest..svg)](https://javascriptweekly.com/issues/601)
 
 
 ## Echo JS
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, September 9, 2022 at 6:22:09 AM
+> Last updated: Friday, September 9, 2022 at 12:13:58 PM
 
 > Showing 5 of 30 posts.
 
