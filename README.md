@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, September 10, 2022 at 12:18:37 AM
+> Last updated: Saturday, September 10, 2022 at 6:18:58 AM
 
 > Showing 5 of 12 posts.
 
-[![On-Call for QA Engineers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/On-Call_for_QA_Engineers.svg)](https://dev.to/asaianudeep/on-call-for-qa-engineers-1c91)
-[![🌈 Building an Animated and Accessible Command Menu in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/🌈_Building_an_Animated_and_Accessible_Command_Menu_in_React.svg)](https://dev.to/harshhhdev/building-an-animated-and-accessible-command-menu-in-react-5daj)
-[![i created oxideapi⚛api developing ecosystem in react js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/i_created_oxideapi⚛api_developing_ecosystem_in_react_js.svg)](https://dev.to/sripadhs/i-created-oxideapiapi-developing-ecosystem-in-react-js-4d6f)
-[![You can build anything with these 6 characters: []{}!+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/You_can_build_anything_with_these_6_characters__[]{}!+.svg)](https://dev.to/freebeliever/you-can-build-anything-with-these-6-characters--3623)
-[![Javascript: Get days & starting day in month](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Javascript__Get_days___starting_day_in_month.svg)](https://dev.to/urstrulyvishwak/javascript-get-days-starting-day-in-month-5f1g)
+[![Let's create a File Manager From Scratch With React And Typescript Chapter I: A good way to Expand Your Experience](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Let's_create_a_File_Manager_From_Scratch_With_React_And_Typescript_Chapter_I__A_good_way_to_Expand_Your_Experience.svg)](https://dev.to/hassanzohdy/lets-create-a-file-manager-from-scratch-with-react-and-typescript-chapter-i-a-good-way-to-expand-your-experience-5g4k)
+[![== Vs === confusion Solve...🌟](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/==_Vs_===_confusion_Solve...🌟.svg)](https://dev.to/roshan_100kar/-vs-confusion-solve-4dim)
+[![Flutter interview questions & answers part - 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Flutter_interview_questions___answers_part_-_1.svg)](https://dev.to/this-is-learning/flutter-interview-questions-answers-part-1-5alp)
+[![Creating a custom page in Django Admin](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Creating_a_custom_page_in_Django_Admin.svg)](https://dev.to/daiquiri_team/creating-a-custom-page-in-django-admin-4pbd)
+[![Build a CSS Preview Card Component](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_a_CSS_Preview_Card_Component.svg)](https://dev.to/mojodev/build-a-css-preview-card-component-6a2)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, September 10, 2022 at 12:18:40 AM
+> Last updated: Saturday, September 10, 2022 at 6:19:01 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, September 10, 2022 at 12:18:42 AM
+> Last updated: Saturday, September 10, 2022 at 6:19:02 AM
 
 > Showing 5 of 30 posts.
 
