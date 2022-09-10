@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, September 9, 2022 at 12:13:52 PM
+> Last updated: Friday, September 9, 2022 at 7:03:27 PM
 
 > Showing 5 of 12 posts.
 
-[![This Week In React #116: Next.js, Gatsby, Blitz, Fresh, Astro, Preact, Redwood, Deno, Remotion, React-Native, Expo, Lightning...](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/This_Week_In_React__116__Next.js__Gatsby__Blitz__Fresh__Astro__Preact__Redwood__Deno__Remotion__React-Native__Expo__Lightning....svg)](https://dev.to/sebastienlorber/this-week-in-react-116-nextjs-gatsby-blitz-fresh-astro-preact-redwood-deno-remotion-react-native-expo-lightning-32nb)
-[![PagerDuty Community Update September 9, 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/PagerDuty_Community_Update_September_9__2022.svg)](https://dev.to/pdcommunity/pagerduty-community-update-september-9-2022-3991)
-[![How We Used Airtable To Create An Email Subscriber Form On Noteslify For $0!!!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_We_Used_Airtable_To_Create_An_Email_Subscriber_Form_On_Noteslify_For_$0!!!.svg)](https://dev.to/dvstechlabs/how-we-used-airtable-to-create-an-email-subscriber-form-on-noteslify-for-0-3lod)
-[![Ejecutar un flujo de Power Automate con una solicitud HTTP](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Ejecutar_un_flujo_de_Power_Automate_con_una_solicitud_HTTP.svg)](https://dev.to/esdanielgomez/ejecutar-un-flujo-de-power-automate-con-una-solicitud-http-1f63)
-[![Follow Friday: Career Edition (9 September 2022)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Follow_Friday__Career_Edition_(9_September_2022).svg)](https://dev.to/devteam/follow-friday-career-edition-8-september-2022-3np5)
+[![Why I Failed Badly in an Internal Interview?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Why_I_Failed_Badly_in_an_Internal_Interview_.svg)](https://dev.to/vtsen/why-i-failed-badly-in-an-internal-interview-4a8b)
+[![Use Salesforce Marketing Cloud? Let's talk about your workflow!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Use_Salesforce_Marketing_Cloud__Let's_talk_about_your_workflow!.svg)](https://dev.to/tonyzupancic/use-salesforce-marketing-cloud-lets-talk-about-your-workflow-cbb)
+[![Why are people developing inside containers?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Why_are_people_developing_inside_containers_.svg)](https://dev.to/github/why-are-people-developing-inside-containers-38o6)
+[![Forecast Your Weather With Python Script](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Forecast_Your_Weather_With_Python_Script.svg)](https://dev.to/prkskrs/forecast-your-weather-with-python-script-2724)
+[![Incremental lint fixes by GitHub Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Incremental_lint_fixes_by_GitHub_Actions.svg)](https://dev.to/jetthoughts/incremental-lint-fixes-by-github-actions-38o8)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, September 9, 2022 at 12:13:55 PM
+> Last updated: Friday, September 9, 2022 at 7:03:30 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, September 9, 2022 at 12:13:58 PM
+> Last updated: Friday, September 9, 2022 at 7:03:32 PM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - dflex-js/dflex at HN](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_dflex-js_dflex_at_HN.svg)](https://github.com/dflex-js/dflex)
 [![Creating Charts with JavaScript: 13 Popular Libraries - Stack Diary](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Creating_Charts_with_JavaScript__13_Popular_Libraries_-_Stack_Diary.svg)](https://stackdiary.com/javascript-chart-libraries/)
 [![Debugging Three.js Projects Just Got a Whole Lot Easier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Debugging_Three.js_Projects_Just_Got_a_Whole_Lot_Easier.svg)](https://medium.com/@bacetools/debugging-three-js-projects-just-got-a-whole-lot-easier-451344c5b697)
 [![Working with the Node.js assert Library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Working_with_the_Node.js_assert_Library.svg)](
 https://masteringjs.io/tutorials/node/assert
 )
 [![Introduction to Data Modeling and dbSpy2.0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Introduction_to_Data_Modeling_and_dbSpy2.0.svg)](https://medium.com/@ejmebasser/introduction-to-data-modeling-and-dbspy2-0-fba07ada6a0b)
-[![How to debug better using $ sign shortcuts in Chrome devtools - Wisdom Geek](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_debug_better_using_$_sign_shortcuts_in_Chrome_devtools_-_Wisdom_Geek.svg)](https://www.wisdomgeek.com/development/web-development/how-to-debug-better-using-sign-shortcuts-in-chrome-devtools/)
 
 
 <!-- post-list:end -->
