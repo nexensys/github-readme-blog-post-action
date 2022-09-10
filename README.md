@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, September 10, 2022 at 6:18:58 AM
+> Last updated: Saturday, September 10, 2022 at 12:13:31 PM
 
 > Showing 5 of 12 posts.
 
-[![Let's create a File Manager From Scratch With React And Typescript Chapter I: A good way to Expand Your Experience](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Let's_create_a_File_Manager_From_Scratch_With_React_And_Typescript_Chapter_I__A_good_way_to_Expand_Your_Experience.svg)](https://dev.to/hassanzohdy/lets-create-a-file-manager-from-scratch-with-react-and-typescript-chapter-i-a-good-way-to-expand-your-experience-5g4k)
-[![== Vs === confusion Solve...🌟](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/==_Vs_===_confusion_Solve...🌟.svg)](https://dev.to/roshan_100kar/-vs-confusion-solve-4dim)
-[![Flutter interview questions & answers part - 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Flutter_interview_questions___answers_part_-_1.svg)](https://dev.to/this-is-learning/flutter-interview-questions-answers-part-1-5alp)
-[![Creating a custom page in Django Admin](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Creating_a_custom_page_in_Django_Admin.svg)](https://dev.to/daiquiri_team/creating-a-custom-page-in-django-admin-4pbd)
-[![Build a CSS Preview Card Component](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_a_CSS_Preview_Card_Component.svg)](https://dev.to/mojodev/build-a-css-preview-card-component-6a2)
+[![Make awesome button hover effect using HTML CSS only](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Make_awesome_button_hover_effect_using_HTML_CSS_only.svg)](https://dev.to/awcode0x/make-awesome-button-hover-effect-using-html-css-only-1abn)
+[![Dart Frog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Dart_Frog.svg)](https://dev.to/ushieru/dart-frog-1hco)
+[![Real world use cases of object proxies](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Real_world_use_cases_of_object_proxies.svg)](https://dev.to/jeevankishore/real-world-use-cases-of-object-proxies-3d87)
+[![What is a HeadlessChrome user agent?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_a_HeadlessChrome_user_agent_.svg)](https://dev.to/starbist/what-is-headlesschrome-user-agent-24f8)
+[![Cracking the iOS Interview](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Cracking_the_iOS_Interview.svg)](https://dev.to/bybydev/cracking-the-ios-interview-eim)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, September 10, 2022 at 6:19:01 AM
+> Last updated: Saturday, September 10, 2022 at 12:13:34 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, September 10, 2022 at 6:19:02 AM
+> Last updated: Saturday, September 10, 2022 at 12:13:36 PM
 
 > Showing 5 of 30 posts.
 
