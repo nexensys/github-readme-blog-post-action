@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, September 9, 2022 at 7:03:27 PM
+> Last updated: Saturday, September 10, 2022 at 12:18:37 AM
 
 > Showing 5 of 12 posts.
 
-[![Why I Failed Badly in an Internal Interview?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Why_I_Failed_Badly_in_an_Internal_Interview_.svg)](https://dev.to/vtsen/why-i-failed-badly-in-an-internal-interview-4a8b)
-[![Use Salesforce Marketing Cloud? Let's talk about your workflow!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Use_Salesforce_Marketing_Cloud__Let's_talk_about_your_workflow!.svg)](https://dev.to/tonyzupancic/use-salesforce-marketing-cloud-lets-talk-about-your-workflow-cbb)
-[![Why are people developing inside containers?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Why_are_people_developing_inside_containers_.svg)](https://dev.to/github/why-are-people-developing-inside-containers-38o6)
-[![Forecast Your Weather With Python Script](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Forecast_Your_Weather_With_Python_Script.svg)](https://dev.to/prkskrs/forecast-your-weather-with-python-script-2724)
-[![Incremental lint fixes by GitHub Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Incremental_lint_fixes_by_GitHub_Actions.svg)](https://dev.to/jetthoughts/incremental-lint-fixes-by-github-actions-38o8)
+[![On-Call for QA Engineers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/On-Call_for_QA_Engineers.svg)](https://dev.to/asaianudeep/on-call-for-qa-engineers-1c91)
+[![🌈 Building an Animated and Accessible Command Menu in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/🌈_Building_an_Animated_and_Accessible_Command_Menu_in_React.svg)](https://dev.to/harshhhdev/building-an-animated-and-accessible-command-menu-in-react-5daj)
+[![i created oxideapi⚛api developing ecosystem in react js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/i_created_oxideapi⚛api_developing_ecosystem_in_react_js.svg)](https://dev.to/sripadhs/i-created-oxideapiapi-developing-ecosystem-in-react-js-4d6f)
+[![You can build anything with these 6 characters: []{}!+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/You_can_build_anything_with_these_6_characters__[]{}!+.svg)](https://dev.to/freebeliever/you-can-build-anything-with-these-6-characters--3623)
+[![Javascript: Get days & starting day in month](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Javascript__Get_days___starting_day_in_month.svg)](https://dev.to/urstrulyvishwak/javascript-get-days-starting-day-in-month-5f1g)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, September 9, 2022 at 7:03:30 PM
+> Last updated: Saturday, September 10, 2022 at 12:18:40 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, September 9, 2022 at 7:03:32 PM
+> Last updated: Saturday, September 10, 2022 at 12:18:42 AM
 
 > Showing 5 of 30 posts.
 
