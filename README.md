@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, September 11, 2022 at 6:19:11 AM
+> Last updated: Sunday, September 11, 2022 at 12:12:55 PM
 
 > Showing 5 of 12 posts.
 
-[![The Making of A React Component Librabry](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Making_of_A_React_Component_Librabry.svg)](https://dev.to/aviavinav/the-making-of-a-react-component-librabry-cep)
-[![Solidity - Hello World](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Solidity_-_Hello_World.svg)](https://dev.to/shubhamku044/solidity-hello-world-254j)
-[![I created my own Rails Omniauth Amazon Selling Partner API Strategy](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/I_created_my_own_Rails_Omniauth_Amazon_Selling_Partner_API_Strategy.svg)](https://dev.to/ethand91/i-created-my-own-rails-omniauth-amazon-selling-partner-api-strategy-2l36)
-[![Django Skills Roadmap To Getting A Job](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Django_Skills_Roadmap_To_Getting_A_Job.svg)](https://dev.to/mezieb/django-skills-roadmap-to-getting-a-job-4cme)
-[![Introduction to EC2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Introduction_to_EC2.svg)](https://dev.to/hellonehha/introduction-to-ec2-33h8)
+[![Primitives and References in JavaScript.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Primitives_and_References_in_JavaScript..svg)](https://dev.to/sujithvsuresh/primitives-and-references-in-javascript-1jmb)
+[![7 Reasons Why I Quit Writing On Medium.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/7_Reasons_Why_I_Quit_Writing_On_Medium..svg)](https://dev.to/wiseai/7-reasons-why-i-quit-writing-on-medium-43m2)
+[![DOTENV in PHP](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/DOTENV_in_PHP.svg)](https://dev.to/walternascimentobarroso/dotenv-in-php-45mn)
+[![The Battle of the Units: PX vs REM vs EM](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Battle_of_the_Units__PX_vs_REM_vs_EM.svg)](https://dev.to/deltanboi/the-battle-of-the-units-px-vs-rem-vs-em-3ka8)
+[![OpenSea Clone App ( Features + Comparing Comoanies](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/OpenSea_Clone_App_(_Features_+_Comparing_Comoanies.svg)](https://dev.to/jasensall/opensea-clone-app-features-comparing-comoanies-p20)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, September 11, 2022 at 6:19:14 AM
+> Last updated: Sunday, September 11, 2022 at 12:12:58 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, September 11, 2022 at 6:19:18 AM
+> Last updated: Sunday, September 11, 2022 at 12:13:01 PM
 
 > Showing 5 of 30 posts.
 
