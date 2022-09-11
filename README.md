@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, September 10, 2022 at 7:04:06 PM
+> Last updated: Sunday, September 11, 2022 at 12:15:59 AM
 
 > Showing 5 of 12 posts.
 
-[![Write SQL Queries With Confidence (TypeScript + Postgres)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Write_SQL_Queries_With_Confidence_(TypeScript_+_Postgres).svg)](https://dev.to/newbie012/write-sql-queries-with-confidence-typescript-postgres-5b61)
-[![The greatest skill issue of all time: building my first typescript application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_greatest_skill_issue_of_all_time__building_my_first_typescript_application.svg)](https://dev.to/ironcladdev/the-greatest-skill-issue-of-all-time-building-my-first-typescript-application-3g84)
-[![Understanding Linux and Its Commands](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Understanding_Linux_and_Its_Commands.svg)](https://dev.to/amaraiheanacho/understanding-linux-and-its-commands-48fa)
-[![FullStack - Dart Frog + React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/FullStack_-_Dart_Frog_+_React.svg)](https://dev.to/ushieru/fullstack-dart-frog-react-2dic)
-[![14 Essential Developer Tools to 10X Your Productivity 🚀✨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/14_Essential_Developer_Tools_to_10X_Your_Productivity_🚀✨.svg)](https://dev.to/naubit/14-essential-developer-tools-to-10x-your-productivity-547j)
+[![Destructuring #React Quick Notes.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Destructuring__React_Quick_Notes..svg)](https://dev.to/ajaybaraiya6/destructuring-react-quick-notes-429e)
+[![Setting Up Localization in your React App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Setting_Up_Localization_in_your_React_App.svg)](https://dev.to/thesanjeevsharma/setting-up-localization-in-your-react-app-7)
+[![Top 5 Text Books will help you to learning Programming 📚](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_5_Text_Books_will_help_you_to_learning_Programming_📚.svg)](https://dev.to/roshan_100kar/top-5-text-books-will-help-you-to-learning-programming-4cop)
+[![More engagement through series on dev.to](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/More_engagement_through_series_on_dev.to.svg)](https://dev.to/nickytonline/more-engagement-through-series-on-devto-6hb)
+[![The Most Important Leetcode Patterns](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Most_Important_Leetcode_Patterns.svg)](https://dev.to/gilfoyle/the-most-important-leetcode-patterns-1f7b)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, September 10, 2022 at 7:04:09 PM
+> Last updated: Sunday, September 11, 2022 at 12:16:01 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, September 10, 2022 at 7:04:13 PM
+> Last updated: Sunday, September 11, 2022 at 12:16:04 AM
 
 > Showing 5 of 30 posts.
 
