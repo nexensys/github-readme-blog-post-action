@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, September 10, 2022 at 12:13:31 PM
+> Last updated: Saturday, September 10, 2022 at 7:04:06 PM
 
 > Showing 5 of 12 posts.
 
-[![Make awesome button hover effect using HTML CSS only](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Make_awesome_button_hover_effect_using_HTML_CSS_only.svg)](https://dev.to/awcode0x/make-awesome-button-hover-effect-using-html-css-only-1abn)
-[![Dart Frog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Dart_Frog.svg)](https://dev.to/ushieru/dart-frog-1hco)
-[![Real world use cases of object proxies](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Real_world_use_cases_of_object_proxies.svg)](https://dev.to/jeevankishore/real-world-use-cases-of-object-proxies-3d87)
-[![What is a HeadlessChrome user agent?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_a_HeadlessChrome_user_agent_.svg)](https://dev.to/starbist/what-is-headlesschrome-user-agent-24f8)
-[![Cracking the iOS Interview](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Cracking_the_iOS_Interview.svg)](https://dev.to/bybydev/cracking-the-ios-interview-eim)
+[![Write SQL Queries With Confidence (TypeScript + Postgres)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Write_SQL_Queries_With_Confidence_(TypeScript_+_Postgres).svg)](https://dev.to/newbie012/write-sql-queries-with-confidence-typescript-postgres-5b61)
+[![The greatest skill issue of all time: building my first typescript application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_greatest_skill_issue_of_all_time__building_my_first_typescript_application.svg)](https://dev.to/ironcladdev/the-greatest-skill-issue-of-all-time-building-my-first-typescript-application-3g84)
+[![Understanding Linux and Its Commands](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Understanding_Linux_and_Its_Commands.svg)](https://dev.to/amaraiheanacho/understanding-linux-and-its-commands-48fa)
+[![FullStack - Dart Frog + React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/FullStack_-_Dart_Frog_+_React.svg)](https://dev.to/ushieru/fullstack-dart-frog-react-2dic)
+[![14 Essential Developer Tools to 10X Your Productivity 🚀✨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/14_Essential_Developer_Tools_to_10X_Your_Productivity_🚀✨.svg)](https://dev.to/naubit/14-essential-developer-tools-to-10x-your-productivity-547j)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, September 10, 2022 at 12:13:34 PM
+> Last updated: Saturday, September 10, 2022 at 7:04:09 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, September 10, 2022 at 12:13:36 PM
+> Last updated: Saturday, September 10, 2022 at 7:04:13 PM
 
 > Showing 5 of 30 posts.
 
+[![smart_shape](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/smart_shape.svg)](https://www.npmjs.com/package/smart_shape)
 [![GitHub - dflex-js/dflex at HN](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_dflex-js_dflex_at_HN.svg)](https://github.com/dflex-js/dflex)
 [![Creating Charts with JavaScript: 13 Popular Libraries - Stack Diary](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Creating_Charts_with_JavaScript__13_Popular_Libraries_-_Stack_Diary.svg)](https://stackdiary.com/javascript-chart-libraries/)
 [![Debugging Three.js Projects Just Got a Whole Lot Easier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Debugging_Three.js_Projects_Just_Got_a_Whole_Lot_Easier.svg)](https://medium.com/@bacetools/debugging-three-js-projects-just-got-a-whole-lot-easier-451344c5b697)
 [![Working with the Node.js assert Library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Working_with_the_Node.js_assert_Library.svg)](
 https://masteringjs.io/tutorials/node/assert
 )
-[![Introduction to Data Modeling and dbSpy2.0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Introduction_to_Data_Modeling_and_dbSpy2.0.svg)](https://medium.com/@ejmebasser/introduction-to-data-modeling-and-dbspy2-0-fba07ada6a0b)
 
 
 <!-- post-list:end -->
