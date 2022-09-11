@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, September 11, 2022 at 12:15:59 AM
+> Last updated: Sunday, September 11, 2022 at 6:19:11 AM
 
 > Showing 5 of 12 posts.
 
-[![Destructuring #React Quick Notes.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Destructuring__React_Quick_Notes..svg)](https://dev.to/ajaybaraiya6/destructuring-react-quick-notes-429e)
-[![Setting Up Localization in your React App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Setting_Up_Localization_in_your_React_App.svg)](https://dev.to/thesanjeevsharma/setting-up-localization-in-your-react-app-7)
-[![Top 5 Text Books will help you to learning Programming 📚](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_5_Text_Books_will_help_you_to_learning_Programming_📚.svg)](https://dev.to/roshan_100kar/top-5-text-books-will-help-you-to-learning-programming-4cop)
-[![More engagement through series on dev.to](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/More_engagement_through_series_on_dev.to.svg)](https://dev.to/nickytonline/more-engagement-through-series-on-devto-6hb)
-[![The Most Important Leetcode Patterns](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Most_Important_Leetcode_Patterns.svg)](https://dev.to/gilfoyle/the-most-important-leetcode-patterns-1f7b)
+[![The Making of A React Component Librabry](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Making_of_A_React_Component_Librabry.svg)](https://dev.to/aviavinav/the-making-of-a-react-component-librabry-cep)
+[![Solidity - Hello World](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Solidity_-_Hello_World.svg)](https://dev.to/shubhamku044/solidity-hello-world-254j)
+[![I created my own Rails Omniauth Amazon Selling Partner API Strategy](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/I_created_my_own_Rails_Omniauth_Amazon_Selling_Partner_API_Strategy.svg)](https://dev.to/ethand91/i-created-my-own-rails-omniauth-amazon-selling-partner-api-strategy-2l36)
+[![Django Skills Roadmap To Getting A Job](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Django_Skills_Roadmap_To_Getting_A_Job.svg)](https://dev.to/mezieb/django-skills-roadmap-to-getting-a-job-4cme)
+[![Introduction to EC2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Introduction_to_EC2.svg)](https://dev.to/hellonehha/introduction-to-ec2-33h8)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, September 11, 2022 at 12:16:01 AM
+> Last updated: Sunday, September 11, 2022 at 6:19:14 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, September 11, 2022 at 12:16:04 AM
+> Last updated: Sunday, September 11, 2022 at 6:19:18 AM
 
 > Showing 5 of 30 posts.
 
