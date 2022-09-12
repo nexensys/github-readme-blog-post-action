@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, September 11, 2022 at 7:03:11 PM
+> Last updated: Monday, September 12, 2022 at 12:50:21 AM
 
 > Showing 5 of 12 posts.
 
-[![How to Create a Full Autocomplete Search Application with Elasticsearch, Kibana and NestJS - The Concluding Part](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Create_a_Full_Autocomplete_Search_Application_with_Elasticsearch__Kibana_and_NestJS_-_The_Concluding_Part.svg)](https://dev.to/airscholar/how-to-create-a-full-autocomplete-search-application-with-elasticsearch-kibana-and-nestjs-the-concluding-part-23lb)
-[![tsParticles 2.3.0 Released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/tsParticles_2.3.0_Released.svg)](https://dev.to/tsparticles/tsparticles-230-released-32np)
-[![How to build Reduct Storage on MacOs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_build_Reduct_Storage_on_MacOs.svg)](https://dev.to/reduct-storage/how-to-build-reduct-storage-on-macos-2f6d)
-[![RaspberryPi cloud backup Part 3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/RaspberryPi_cloud_backup_Part_3.svg)](https://dev.to/mrscripting/raspberrypi-cloud-backup-part-3-1f29)
-[![NFT marketplace development cost- important factors in 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/NFT_marketplace_development_cost-_important_factors_in_2022.svg)](https://dev.to/jonathanberg/nft-marketplace-development-cost-important-factors-in-2022-19eo)
+[![Google action fetching data from an API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Google_action_fetching_data_from_an_API.svg)](https://dev.to/dailydevtips1/google-action-fetching-data-from-an-api-4lg7)
+[![How to appropriately git stash](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_appropriately_git_stash.svg)](https://dev.to/clickpesa/how-to-appropriately-git-stash-1ed3)
+[![Create a todo app with thirdweb deploy and Next.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Create_a_todo_app_with_thirdweb_deploy_and_Next.js.svg)](https://dev.to/thirdweb/create-a-todo-app-with-thirdweb-deploy-and-nextjs-49l3)
+[![Allow GitHub contributors to mint an NFT](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Allow_GitHub_contributors_to_mint_an_NFT.svg)](https://dev.to/thirdweb/allow-github-contributors-to-mint-an-nft-5a52)
+[![Helm Release Time-To-Live(TTL)⏳💀 for Temporary Environments](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Helm_Release_Time-To-Live(TTL)⏳💀_for_Temporary_Environments.svg)](https://dev.to/rtpro/helm-release-time-to-livettl-for-temporary-environments-1239)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, September 11, 2022 at 7:03:14 PM
+> Last updated: Monday, September 12, 2022 at 12:50:25 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, September 11, 2022 at 7:03:16 PM
+> Last updated: Monday, September 12, 2022 at 12:50:29 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - 30-seconds/30-seconds-of-code: Short JavaScript code snippets for all your development needs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_30-seconds_30-seconds-of-code__Short_JavaScript_code_snippets_for_all_your_development_needs.svg)](https://github.com/30-seconds/30-seconds-of-code)
 [![smart_shape](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/smart_shape.svg)](https://www.npmjs.com/package/smart_shape)
 [![GitHub - dflex-js/dflex at HN](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_dflex-js_dflex_at_HN.svg)](https://github.com/dflex-js/dflex)
 [![Creating Charts with JavaScript: 13 Popular Libraries - Stack Diary](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Creating_Charts_with_JavaScript__13_Popular_Libraries_-_Stack_Diary.svg)](https://stackdiary.com/javascript-chart-libraries/)
 [![Debugging Three.js Projects Just Got a Whole Lot Easier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Debugging_Three.js_Projects_Just_Got_a_Whole_Lot_Easier.svg)](https://medium.com/@bacetools/debugging-three-js-projects-just-got-a-whole-lot-easier-451344c5b697)
-[![Working with the Node.js assert Library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Working_with_the_Node.js_assert_Library.svg)](
-https://masteringjs.io/tutorials/node/assert
-)
 
 
 <!-- post-list:end -->
