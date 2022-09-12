@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, September 12, 2022 at 12:50:21 AM
+> Last updated: Monday, September 12, 2022 at 6:24:52 AM
 
 > Showing 5 of 12 posts.
 
-[![Google action fetching data from an API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Google_action_fetching_data_from_an_API.svg)](https://dev.to/dailydevtips1/google-action-fetching-data-from-an-api-4lg7)
-[![How to appropriately git stash](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_appropriately_git_stash.svg)](https://dev.to/clickpesa/how-to-appropriately-git-stash-1ed3)
-[![Create a todo app with thirdweb deploy and Next.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Create_a_todo_app_with_thirdweb_deploy_and_Next.js.svg)](https://dev.to/thirdweb/create-a-todo-app-with-thirdweb-deploy-and-nextjs-49l3)
-[![Allow GitHub contributors to mint an NFT](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Allow_GitHub_contributors_to_mint_an_NFT.svg)](https://dev.to/thirdweb/allow-github-contributors-to-mint-an-nft-5a52)
-[![Helm Release Time-To-Live(TTL)⏳💀 for Temporary Environments](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Helm_Release_Time-To-Live(TTL)⏳💀_for_Temporary_Environments.svg)](https://dev.to/rtpro/helm-release-time-to-livettl-for-temporary-environments-1239)
+[![Best Practices of Software Development Outsourcing in 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Best_Practices_of_Software_Development_Outsourcing_in_2022.svg)](https://dev.to/bacancytechnology/best-practices-of-software-development-outsourcing-4c8m)
+[![I made a new web-components framework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/I_made_a_new_web-components_framework.svg)](https://dev.to/samzhangjy/i-made-a-new-web-components-framework-1g7h)
+[![What is Blockchain?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_Blockchain_.svg)](https://dev.to/chizobaonorh/what-is-blockchain-56kb)
+[![The Importance of Reading Documentation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Importance_of_Reading_Documentation.svg)](https://dev.to/chainguns/the-importance-of-reading-documentation-4cj9)
+[![How to use Crypto Wallet for Authentication in ReactJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_use_Crypto_Wallet_for_Authentication_in_ReactJS.svg)](https://dev.to/surajondev/how-to-use-crypto-wallet-for-authentication-in-reactjs-2ild)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, September 12, 2022 at 12:50:25 AM
+> Last updated: Monday, September 12, 2022 at 6:24:54 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, September 12, 2022 at 12:50:29 AM
+> Last updated: Monday, September 12, 2022 at 6:24:57 AM
 
 > Showing 5 of 30 posts.
 
