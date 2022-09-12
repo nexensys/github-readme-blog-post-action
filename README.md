@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, September 11, 2022 at 12:12:55 PM
+> Last updated: Sunday, September 11, 2022 at 7:03:11 PM
 
 > Showing 5 of 12 posts.
 
-[![Primitives and References in JavaScript.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Primitives_and_References_in_JavaScript..svg)](https://dev.to/sujithvsuresh/primitives-and-references-in-javascript-1jmb)
-[![7 Reasons Why I Quit Writing On Medium.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/7_Reasons_Why_I_Quit_Writing_On_Medium..svg)](https://dev.to/wiseai/7-reasons-why-i-quit-writing-on-medium-43m2)
-[![DOTENV in PHP](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/DOTENV_in_PHP.svg)](https://dev.to/walternascimentobarroso/dotenv-in-php-45mn)
-[![The Battle of the Units: PX vs REM vs EM](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Battle_of_the_Units__PX_vs_REM_vs_EM.svg)](https://dev.to/deltanboi/the-battle-of-the-units-px-vs-rem-vs-em-3ka8)
-[![OpenSea Clone App ( Features + Comparing Comoanies](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/OpenSea_Clone_App_(_Features_+_Comparing_Comoanies.svg)](https://dev.to/jasensall/opensea-clone-app-features-comparing-comoanies-p20)
+[![How to Create a Full Autocomplete Search Application with Elasticsearch, Kibana and NestJS - The Concluding Part](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Create_a_Full_Autocomplete_Search_Application_with_Elasticsearch__Kibana_and_NestJS_-_The_Concluding_Part.svg)](https://dev.to/airscholar/how-to-create-a-full-autocomplete-search-application-with-elasticsearch-kibana-and-nestjs-the-concluding-part-23lb)
+[![tsParticles 2.3.0 Released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/tsParticles_2.3.0_Released.svg)](https://dev.to/tsparticles/tsparticles-230-released-32np)
+[![How to build Reduct Storage on MacOs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_build_Reduct_Storage_on_MacOs.svg)](https://dev.to/reduct-storage/how-to-build-reduct-storage-on-macos-2f6d)
+[![RaspberryPi cloud backup Part 3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/RaspberryPi_cloud_backup_Part_3.svg)](https://dev.to/mrscripting/raspberrypi-cloud-backup-part-3-1f29)
+[![NFT marketplace development cost- important factors in 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/NFT_marketplace_development_cost-_important_factors_in_2022.svg)](https://dev.to/jonathanberg/nft-marketplace-development-cost-important-factors-in-2022-19eo)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, September 11, 2022 at 12:12:58 PM
+> Last updated: Sunday, September 11, 2022 at 7:03:14 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, September 11, 2022 at 12:13:01 PM
+> Last updated: Sunday, September 11, 2022 at 7:03:16 PM
 
 > Showing 5 of 30 posts.
 
