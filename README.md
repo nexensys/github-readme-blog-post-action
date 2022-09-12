@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, September 12, 2022 at 6:24:52 AM
+> Last updated: Monday, September 12, 2022 at 12:14:09 PM
 
 > Showing 5 of 12 posts.
 
-[![Best Practices of Software Development Outsourcing in 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Best_Practices_of_Software_Development_Outsourcing_in_2022.svg)](https://dev.to/bacancytechnology/best-practices-of-software-development-outsourcing-4c8m)
-[![I made a new web-components framework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/I_made_a_new_web-components_framework.svg)](https://dev.to/samzhangjy/i-made-a-new-web-components-framework-1g7h)
-[![What is Blockchain?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_Blockchain_.svg)](https://dev.to/chizobaonorh/what-is-blockchain-56kb)
-[![The Importance of Reading Documentation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Importance_of_Reading_Documentation.svg)](https://dev.to/chainguns/the-importance-of-reading-documentation-4cj9)
-[![How to use Crypto Wallet for Authentication in ReactJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_use_Crypto_Wallet_for_Authentication_in_ReactJS.svg)](https://dev.to/surajondev/how-to-use-crypto-wallet-for-authentication-in-reactjs-2ild)
+[![message brokers, a brief walk-through](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/message_brokers__a_brief_walk-through.svg)](https://dev.to/salemzii/message-brokers-a-brief-walk-through-5h7f)
+[![[Conceito] - Ideias de Questões para Entrevistas: System Design](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/[Conceito]_-_Ideias_de_Questões_para_Entrevistas__System_Design.svg)](https://dev.to/zanfranceschi/conceito-ideias-de-questoes-para-entrevistas-system-design-116m)
+[![Développer une API Rest avec NodeJS, Express et MongoDB: #2 Mon premier serveur Node/Express](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Développer_une_API_Rest_avec_NodeJS__Express_et_MongoDB___2_Mon_premier_serveur_Node_Express.svg)](https://dev.to/sidali/developper-une-api-rest-avec-nodejs-express-et-mongodb-2-mon-premier-serveur-nodeexpress-27b2)
+[![Thymeleaf Vs AngularJS: Supercharge Your Java App Development Project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Thymeleaf_Vs_AngularJS__Supercharge_Your_Java_App_Development_Project.svg)](https://dev.to/nikunjshingalaofficial/thymeleaf-vs-angularjs-supercharge-your-java-app-development-project-17c5)
+[![The Blob Data Type](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Blob_Data_Type.svg)](https://dev.to/waylandi/the-blob-data-type-p64)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, September 12, 2022 at 6:24:54 AM
+> Last updated: Monday, September 12, 2022 at 12:14:12 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, September 12, 2022 at 6:24:57 AM
+> Last updated: Monday, September 12, 2022 at 12:14:16 PM
 
 > Showing 5 of 30 posts.
 
