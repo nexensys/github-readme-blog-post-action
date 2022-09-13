@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, September 13, 2022 at 6:24:34 AM
+> Last updated: Tuesday, September 13, 2022 at 12:14:03 PM
 
 > Showing 5 of 12 posts.
 
-[![JavaScript Tips and Tricks: difference between VAR and LET variables Concept.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/JavaScript_Tips_and_Tricks__difference_between_VAR_and_LET_variables_Concept..svg)](https://dev.to/sayyedasad786/javascript-tips-and-tricks-difference-between-var-and-let-variables-concept-2hnb)
-[![What are your Favorite Developer Communities?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_are_your_Favorite_Developer_Communities_.svg)](https://dev.to/medusajs/what-are-your-favorite-developer-communities-4ifm)
-[![5 Best Web Development Courses for FREE](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_Best_Web_Development_Courses_for_FREE.svg)](https://dev.to/onlydevs_/5-best-web-development-courses-for-free-3io2)
-[![Understanding How to Evaluate Textual Problems](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Understanding_How_to_Evaluate_Textual_Problems.svg)](https://dev.to/neurotech_africa/understanding-how-to-evaluate-textual-problems-32md)
-[![🎨Sass: the style you want, the code you need](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/🎨Sass__the_style_you_want__the_code_you_need.svg)](https://dev.to/akram_ak/sass-the-style-you-want-the-code-you-need-5188)
+[![Hacktoberfest 2022: Everything You Need to Know to Participate](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Hacktoberfest_2022__Everything_You_Need_to_Know_to_Participate.svg)](https://dev.to/shahednasser/hacktoberfest-2022-everything-you-need-to-know-to-participate-2paj)
+[![Creating a NoSQL Database on AWS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Creating_a_NoSQL_Database_on_AWS.svg)](https://dev.to/securityminded/creating-a-nosql-database-on-aws-5247)
+[![How to create short and concise technical videos](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_create_short_and_concise_technical_videos.svg)](https://dev.to/codepo8/how-to-create-short-and-concise-technical-videos-plc)
+[![CLI vs API: What's the Difference?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/CLI_vs_API__What's_the_Difference_.svg)](https://dev.to/deanjones/cli-vs-api-whats-the-difference-39a)
+[![Clean up your code with destructors and Array.includes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Clean_up_your_code_with_destructors_and_Array.includes.svg)](https://dev.to/hi_iam_chris/clean-up-your-code-with-destructors-and-arrayincludes-i9k)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, September 13, 2022 at 6:24:38 AM
+> Last updated: Tuesday, September 13, 2022 at 12:14:06 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, September 13, 2022 at 6:24:43 AM
+> Last updated: Tuesday, September 13, 2022 at 12:14:10 PM
 
 > Showing 5 of 30 posts.
 
