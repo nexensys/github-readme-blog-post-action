@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, September 12, 2022 at 7:05:23 PM
+> Last updated: Tuesday, September 13, 2022 at 12:49:41 AM
 
 > Showing 5 of 12 posts.
 
+[![Tricky CSS questions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Tricky_CSS_questions.svg)](https://dev.to/shubhamtiwari909/tricky-css-questions-4n45)
+[![Delivery challenges: how technology disrupting supply chain errors](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Delivery_challenges__how_technology_disrupting_supply_chain_errors.svg)](https://dev.to/adamodigitalco/delivery-challenges-how-technology-disrupting-supply-chain-errors-2pfa)
 [![Front-end Pokédex Project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Front-end_Pokédex_Project.svg)](https://dev.to/blueycode/front-end-pokedex-project-4l56)
 [![Front End Web Development Podcasts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Front_End_Web_Development_Podcasts.svg)](https://dev.to/codingcatdev/front-end-web-development-podcasts-42gg)
 [![ElixirConf 2022 - That's a wrap!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/ElixirConf_2022_-_That's_a_wrap!.svg)](https://dev.to/theosaurusrex/elixirconf-2022-thats-a-wrap-4974)
-[![How to add a screenshot in Github Desktop.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_add_a_screenshot_in_Github_Desktop..svg)](https://dev.to/kahenyaanita/how-to-add-a-screenshot-in-github-desktop-5fi3)
-[![Software Architecture - MVC](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Software_Architecture_-_MVC.svg)](https://dev.to/walternascimentobarroso/software-architecture-mvc-5g58)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, September 12, 2022 at 7:05:26 PM
+> Last updated: Tuesday, September 13, 2022 at 12:49:45 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, September 12, 2022 at 7:05:33 PM
+> Last updated: Tuesday, September 13, 2022 at 12:49:52 AM
 
 > Showing 5 of 30 posts.
 
