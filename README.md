@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, September 13, 2022 at 12:49:41 AM
+> Last updated: Tuesday, September 13, 2022 at 6:24:34 AM
 
 > Showing 5 of 12 posts.
 
-[![Tricky CSS questions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Tricky_CSS_questions.svg)](https://dev.to/shubhamtiwari909/tricky-css-questions-4n45)
-[![Delivery challenges: how technology disrupting supply chain errors](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Delivery_challenges__how_technology_disrupting_supply_chain_errors.svg)](https://dev.to/adamodigitalco/delivery-challenges-how-technology-disrupting-supply-chain-errors-2pfa)
-[![Front-end Pokédex Project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Front-end_Pokédex_Project.svg)](https://dev.to/blueycode/front-end-pokedex-project-4l56)
-[![Front End Web Development Podcasts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Front_End_Web_Development_Podcasts.svg)](https://dev.to/codingcatdev/front-end-web-development-podcasts-42gg)
-[![ElixirConf 2022 - That's a wrap!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/ElixirConf_2022_-_That's_a_wrap!.svg)](https://dev.to/theosaurusrex/elixirconf-2022-thats-a-wrap-4974)
+[![JavaScript Tips and Tricks: difference between VAR and LET variables Concept.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/JavaScript_Tips_and_Tricks__difference_between_VAR_and_LET_variables_Concept..svg)](https://dev.to/sayyedasad786/javascript-tips-and-tricks-difference-between-var-and-let-variables-concept-2hnb)
+[![What are your Favorite Developer Communities?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_are_your_Favorite_Developer_Communities_.svg)](https://dev.to/medusajs/what-are-your-favorite-developer-communities-4ifm)
+[![5 Best Web Development Courses for FREE](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_Best_Web_Development_Courses_for_FREE.svg)](https://dev.to/onlydevs_/5-best-web-development-courses-for-free-3io2)
+[![Understanding How to Evaluate Textual Problems](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Understanding_How_to_Evaluate_Textual_Problems.svg)](https://dev.to/neurotech_africa/understanding-how-to-evaluate-textual-problems-32md)
+[![🎨Sass: the style you want, the code you need](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/🎨Sass__the_style_you_want__the_code_you_need.svg)](https://dev.to/akram_ak/sass-the-style-you-want-the-code-you-need-5188)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, September 13, 2022 at 12:49:45 AM
+> Last updated: Tuesday, September 13, 2022 at 6:24:38 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, September 13, 2022 at 12:49:52 AM
+> Last updated: Tuesday, September 13, 2022 at 6:24:43 AM
 
 > Showing 5 of 30 posts.
 
+[![Automating visual UI tests with Playwright and GitHub Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Automating_visual_UI_tests_with_Playwright_and_GitHub_Actions.svg)](https://mmazzarolo.com/blog/2022-09-09-visual-regression-testing-with-playwright-and-github-actions/)
+[![Episode 28 - GDPR for developers, understanding the regulation with Thiébaut Devergranne - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_28_-_GDPR_for_developers__understanding_the_regulation_with_Thiébaut_Devergranne_-_20minJS.svg)](https://podcast.20minjs.com/1952066/11302925-episode-28-gdpr-for-developers-understanding-the-regulation-with-thiebaut-devergranne)
+[![9 Useful Tips For Passing A Developers Technical Interview - Talking HighTech](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/9_Useful_Tips_For_Passing_A_Developers_Technical_Interview_-_Talking_HighTech.svg)](https://www.talkinghightech.com/en/passing-developers-technical-interview/)
 [![
 Issue with Code
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Issue_with_Code_.svg)](
 http://having trouble with node.js and firebase functions
 )
 [![API with NestJS #74. Designing many-to-one relationships using raw SQL queries](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__74._Designing_many-to-one_relationships_using_raw_SQL_queries.svg)](https://wanago.io/2022/09/12/api-nestjs-many-to-one-sql/)
-[![GitHub - 30-seconds/30-seconds-of-code: Short JavaScript code snippets for all your development needs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_30-seconds_30-seconds-of-code__Short_JavaScript_code_snippets_for_all_your_development_needs.svg)](https://github.com/30-seconds/30-seconds-of-code)
-[![smart_shape](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/smart_shape.svg)](https://www.npmjs.com/package/smart_shape)
-[![GitHub - dflex-js/dflex at HN](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_dflex-js_dflex_at_HN.svg)](https://github.com/dflex-js/dflex)
 
 
 <!-- post-list:end -->
