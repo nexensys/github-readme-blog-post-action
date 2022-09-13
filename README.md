@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, September 12, 2022 at 12:14:09 PM
+> Last updated: Monday, September 12, 2022 at 7:05:23 PM
 
 > Showing 5 of 12 posts.
 
-[![message brokers, a brief walk-through](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/message_brokers__a_brief_walk-through.svg)](https://dev.to/salemzii/message-brokers-a-brief-walk-through-5h7f)
-[![[Conceito] - Ideias de Questões para Entrevistas: System Design](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/[Conceito]_-_Ideias_de_Questões_para_Entrevistas__System_Design.svg)](https://dev.to/zanfranceschi/conceito-ideias-de-questoes-para-entrevistas-system-design-116m)
-[![Développer une API Rest avec NodeJS, Express et MongoDB: #2 Mon premier serveur Node/Express](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Développer_une_API_Rest_avec_NodeJS__Express_et_MongoDB___2_Mon_premier_serveur_Node_Express.svg)](https://dev.to/sidali/developper-une-api-rest-avec-nodejs-express-et-mongodb-2-mon-premier-serveur-nodeexpress-27b2)
-[![Thymeleaf Vs AngularJS: Supercharge Your Java App Development Project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Thymeleaf_Vs_AngularJS__Supercharge_Your_Java_App_Development_Project.svg)](https://dev.to/nikunjshingalaofficial/thymeleaf-vs-angularjs-supercharge-your-java-app-development-project-17c5)
-[![The Blob Data Type](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Blob_Data_Type.svg)](https://dev.to/waylandi/the-blob-data-type-p64)
+[![Front-end Pokédex Project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Front-end_Pokédex_Project.svg)](https://dev.to/blueycode/front-end-pokedex-project-4l56)
+[![Front End Web Development Podcasts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Front_End_Web_Development_Podcasts.svg)](https://dev.to/codingcatdev/front-end-web-development-podcasts-42gg)
+[![ElixirConf 2022 - That's a wrap!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/ElixirConf_2022_-_That's_a_wrap!.svg)](https://dev.to/theosaurusrex/elixirconf-2022-thats-a-wrap-4974)
+[![How to add a screenshot in Github Desktop.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_add_a_screenshot_in_Github_Desktop..svg)](https://dev.to/kahenyaanita/how-to-add-a-screenshot-in-github-desktop-5fi3)
+[![Software Architecture - MVC](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Software_Architecture_-_MVC.svg)](https://dev.to/walternascimentobarroso/software-architecture-mvc-5g58)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, September 12, 2022 at 12:14:12 PM
+> Last updated: Monday, September 12, 2022 at 7:05:26 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, September 12, 2022 at 12:14:16 PM
+> Last updated: Monday, September 12, 2022 at 7:05:33 PM
 
 > Showing 5 of 30 posts.
 
+[![
+Issue with Code
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Issue_with_Code_.svg)](
+http://having trouble with node.js and firebase functions
+)
+[![API with NestJS #74. Designing many-to-one relationships using raw SQL queries](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__74._Designing_many-to-one_relationships_using_raw_SQL_queries.svg)](https://wanago.io/2022/09/12/api-nestjs-many-to-one-sql/)
 [![GitHub - 30-seconds/30-seconds-of-code: Short JavaScript code snippets for all your development needs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_30-seconds_30-seconds-of-code__Short_JavaScript_code_snippets_for_all_your_development_needs.svg)](https://github.com/30-seconds/30-seconds-of-code)
 [![smart_shape](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/smart_shape.svg)](https://www.npmjs.com/package/smart_shape)
 [![GitHub - dflex-js/dflex at HN](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_dflex-js_dflex_at_HN.svg)](https://github.com/dflex-js/dflex)
-[![Creating Charts with JavaScript: 13 Popular Libraries - Stack Diary](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Creating_Charts_with_JavaScript__13_Popular_Libraries_-_Stack_Diary.svg)](https://stackdiary.com/javascript-chart-libraries/)
-[![Debugging Three.js Projects Just Got a Whole Lot Easier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Debugging_Three.js_Projects_Just_Got_a_Whole_Lot_Easier.svg)](https://medium.com/@bacetools/debugging-three-js-projects-just-got-a-whole-lot-easier-451344c5b697)
 
 
 <!-- post-list:end -->
