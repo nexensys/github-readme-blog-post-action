@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, September 14, 2022 at 12:45:03 AM
+> Last updated: Wednesday, September 14, 2022 at 6:23:17 AM
 
 > Showing 5 of 12 posts.
 
-[![Realistic Avatar Creator: the real you in the Virtual World](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Realistic_Avatar_Creator__the_real_you_in_the_Virtual_World.svg)](https://dev.to/davidrelo/realistic-avatar-creator-the-real-you-in-the-virtual-world-1mc5)
-[![Google action learn more button](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Google_action_learn_more_button.svg)](https://dev.to/dailydevtips1/google-action-learn-more-button-1bb2)
-[![CSS nth:child selector](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/CSS_nth_child_selector.svg)](https://dev.to/shubhamtiwari909/css-nthchild-selector-4a7g)
-[![Created macOS with ReactJs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Created_macOS_with_ReactJs.svg)](https://dev.to/gauravsoni97/created-macos-with-reactjs-4bl5)
-[![Don't feel bad because of failed interviews, just keep learning!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Don't_feel_bad_because_of_failed_interviews__just_keep_learning!.svg)](https://dev.to/sandordargo/dont-feel-bad-because-of-failed-interviews-just-keep-learning-1i47)
+[![Kibana vs Grafana - Which tool to choose?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Kibana_vs_Grafana_-_Which_tool_to_choose_.svg)](https://dev.to/danielfavour/kibana-vs-grafana-which-tool-to-choose-3eob)
+[![Adding Authentication to full stack MERN web application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Adding_Authentication_to_full_stack_MERN_web_application.svg)](https://dev.to/itsrakesh/adding-authentication-to-full-stack-mern-web-application-9mm)
+[![Angular vs. Vue (again...)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Angular_vs._Vue_(again...).svg)](https://dev.to/josunlp/angular-vs-vue-again-315a)
+[![Css: Fluid youtube embed](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Css__Fluid_youtube_embed.svg)](https://dev.to/vanaf1979/css-fluid-youtube-embed-4101)
+[![Roadmap to become a Job Ready Frontend Developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Roadmap_to_become_a_Job_Ready_Frontend_Developer.svg)](https://dev.to/onlydevs_/roadmap-to-become-a-job-ready-frontend-developer-58dg)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, September 14, 2022 at 12:45:05 AM
+> Last updated: Wednesday, September 14, 2022 at 6:23:20 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, September 14, 2022 at 12:45:08 AM
+> Last updated: Wednesday, September 14, 2022 at 6:23:24 AM
 
 > Showing 5 of 30 posts.
 
+[![How to Implement Pagination with Webiny Headless CMS in Vue | Webiny](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Implement_Pagination_with_Webiny_Headless_CMS_in_Vue___Webiny.svg)](
+https://www.webiny.com/blog/implement-pagination-webiny-headless-cms-vue
+)
 [![GitHub - fireship-io/flamethrower: A blazingly fast router for static sites](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_fireship-io_flamethrower__A_blazingly_fast_router_for_static_sites.svg)](https://github.com/fireship-io/flamethrower)
 [![Automating visual UI tests with Playwright and GitHub Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Automating_visual_UI_tests_with_Playwright_and_GitHub_Actions.svg)](https://mmazzarolo.com/blog/2022-09-09-visual-regression-testing-with-playwright-and-github-actions/)
 [![Episode 28 - GDPR for developers, understanding the regulation with Thiébaut Devergranne - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_28_-_GDPR_for_developers__understanding_the_regulation_with_Thiébaut_Devergranne_-_20minJS.svg)](https://podcast.20minjs.com/1952066/11302925-episode-28-gdpr-for-developers-understanding-the-regulation-with-thiebaut-devergranne)
 [![9 Useful Tips For Passing A Developers Technical Interview - Talking HighTech](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/9_Useful_Tips_For_Passing_A_Developers_Technical_Interview_-_Talking_HighTech.svg)](https://www.talkinghightech.com/en/passing-developers-technical-interview/)
-[![
-Issue with Code
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Issue_with_Code_.svg)](
-http://having trouble with node.js and firebase functions
-)
 
 
 <!-- post-list:end -->
