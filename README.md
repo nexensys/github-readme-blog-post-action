@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, September 13, 2022 at 12:14:03 PM
+> Last updated: Tuesday, September 13, 2022 at 7:01:43 PM
 
 > Showing 5 of 12 posts.
 
-[![Hacktoberfest 2022: Everything You Need to Know to Participate](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Hacktoberfest_2022__Everything_You_Need_to_Know_to_Participate.svg)](https://dev.to/shahednasser/hacktoberfest-2022-everything-you-need-to-know-to-participate-2paj)
-[![Creating a NoSQL Database on AWS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Creating_a_NoSQL_Database_on_AWS.svg)](https://dev.to/securityminded/creating-a-nosql-database-on-aws-5247)
-[![How to create short and concise technical videos](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_create_short_and_concise_technical_videos.svg)](https://dev.to/codepo8/how-to-create-short-and-concise-technical-videos-plc)
-[![CLI vs API: What's the Difference?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/CLI_vs_API__What's_the_Difference_.svg)](https://dev.to/deanjones/cli-vs-api-whats-the-difference-39a)
-[![Clean up your code with destructors and Array.includes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Clean_up_your_code_with_destructors_and_Array.includes.svg)](https://dev.to/hi_iam_chris/clean-up-your-code-with-destructors-and-arrayincludes-i9k)
+[![What is Video Automation and how does it works?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_Video_Automation_and_how_does_it_works_.svg)](https://dev.to/shotstack/what-is-video-automation-and-how-does-it-works-23mp)
+[![How to add SASS to your project ? 🤔](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_add_SASS_to_your_project___🤔.svg)](https://dev.to/akram_ak/how-to-add-sass-to-your-project--32cn)
+[![Filtering in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Filtering_in_React.svg)](https://dev.to/loganlampton/filtering-in-react-5gbp)
+[![MongoDB vs MySQL: Which database to use](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/MongoDB_vs_MySQL__Which_database_to_use.svg)](https://dev.to/educative/mongodb-vs-mysql-which-database-to-use-2abd)
+[![Creating my static site generator](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Creating_my_static_site_generator.svg)](https://dev.to/neilan99/creating-my-static-site-generator-2a7g)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, September 13, 2022 at 12:14:06 PM
+> Last updated: Tuesday, September 13, 2022 at 7:01:45 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, September 13, 2022 at 12:14:10 PM
+> Last updated: Tuesday, September 13, 2022 at 7:01:50 PM
 
 > Showing 5 of 30 posts.
 
