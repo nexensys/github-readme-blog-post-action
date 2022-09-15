@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, September 14, 2022 at 7:06:55 PM
+> Last updated: Thursday, September 15, 2022 at 12:36:20 AM
 
 > Showing 5 of 12 posts.
 
+[![Javascript: String Search methods](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Javascript__String_Search_methods.svg)](https://dev.to/urstrulyvishwak/javascript-string-search-methods-9hf)
+[![How to become a Super Human Software Developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_become_a_Super_Human_Software_Developer.svg)](https://dev.to/polterguy/how-to-becomes-a-super-human-software-developer-4e8i)
+[![TUGAS DPK-TJKT SEJARAH PERKEMBANGAN TEKNOLOGI TEMA 1-9](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/TUGAS_DPK-TJKT_SEJARAH_PERKEMBANGAN_TEKNOLOGI_TEMA_1-9.svg)](https://dev.to/tsania_khilya/tugas-dpk-tjktsejarah-perkembangan-teknologitema-1-9-2ah5)
 [![How to improve the DX of your readme with embeddable demos](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_improve_the_DX_of_your_readme_with_embeddable_demos.svg)](https://dev.to/ianjennings/improve-the-dx-of-your-readme-with-embeddable-demos-3coo)
-[![Observability is becoming mission critical, but who watches the watchmen?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Observability_is_becoming_mission_critical__but_who_watches_the_watchmen_.svg)](https://dev.to/0x12b/observability-is-becoming-mission-critical-but-who-watches-the-watchmen-5b44)
-[![How I got into the AWS Community Builders Program](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_I_got_into_the_AWS_Community_Builders_Program.svg)](https://dev.to/giyoungjr/how-i-got-into-the-aws-community-builders-program-oce)
-[![Tools Required For Backend Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Tools_Required_For_Backend_Development.svg)](https://dev.to/prkskrs/tools-required-for-backend-development-5dbi)
-[![Reduct Storage SDKs update and Web Console v0.5.0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Reduct_Storage_SDKs_update_and_Web_Console_v0.5.0.svg)](https://dev.to/reduct-storage/reduct-storage-sdks-update-and-web-console-v050-33g4)
+[![Rwar – A Simple Static Site Generator](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Rwar_–_A_Simple_Static_Site_Generator.svg)](https://dev.to/saminarp/rwar-a-simple-static-site-generator-2b5a)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, September 14, 2022 at 7:06:58 PM
+> Last updated: Thursday, September 15, 2022 at 12:36:22 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, September 14, 2022 at 7:07:03 PM
+> Last updated: Thursday, September 15, 2022 at 12:36:24 AM
 
 > Showing 5 of 30 posts.
 
