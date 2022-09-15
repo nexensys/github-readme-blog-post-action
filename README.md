@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, September 15, 2022 at 6:25:15 AM
+> Last updated: Thursday, September 15, 2022 at 12:13:58 PM
 
 > Showing 5 of 12 posts.
 
-[![10 Free GumRoad products for Web Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/10_Free_GumRoad_products_for_Web_Developers.svg)](https://dev.to/surajondev/10-free-gumroad-products-for-web-developers-1p6g)
-[![How to render 3D model in a React JS application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_render_3D_model_in_a_React_JS_application.svg)](https://dev.to/codebucks/how-to-render-3d-model-in-a-react-js-applications-2n4o)
-[![What Is the Dedicated Team Model?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_Is_the_Dedicated_Team_Model_.svg)](https://dev.to/intetics/what-is-the-dedicated-team-model-3c4k)
-[![How to Create a Line Chart in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Create_a_Line_Chart_in_JavaScript.svg)](https://dev.to/andreykh1985/how-to-create-a-line-chart-in-javascript-176k)
-[![How to Write a Scalable Frontend](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Write_a_Scalable_Frontend.svg)](https://dev.to/omerwow/how-to-write-a-scalable-frontend-5c55)
+[![Algorithmic Survival in the Metaverse](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Algorithmic_Survival_in_the_Metaverse.svg)](https://dev.to/kompotkot/algorithmic-survival-in-the-metaverse-47jc)
+[![Observable tutorial: Analyze data in a JavaScript-native data notebook](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Observable_tutorial__Analyze_data_in_a_JavaScript-native_data_notebook.svg)](https://dev.to/cubejs/observable-tutorial-analyze-data-in-a-javascript-native-data-notebook-1oh)
+[![Programming in the Adult Entertainment Industry III](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Programming_in_the_Adult_Entertainment_Industry_III.svg)](https://dev.to/jwoertink/programming-in-the-adult-entertainment-industry-iii-1io7)
+[![Medusa v1.4.0: Product Import API, Improved API Reference and More!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Medusa_v1.4.0__Product_Import_API__Improved_API_Reference_and_More!.svg)](https://dev.to/medusajs/medusa-v140-product-import-api-improved-api-reference-and-more-56ck)
+[![How to Address Sensitive Data Sprawl](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Address_Sensitive_Data_Sprawl.svg)](https://dev.to/mbogan/how-to-address-sensitive-data-sprawl-31jd)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, September 15, 2022 at 6:25:18 AM
+> Last updated: Thursday, September 15, 2022 at 12:14:02 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, September 15, 2022 at 6:25:23 AM
+> Last updated: Thursday, September 15, 2022 at 12:14:08 PM
 
 > Showing 5 of 30 posts.
 
+[![Observable tutorial: Analyze data in a JavaScript-native data notebook - Cube Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Observable_tutorial__Analyze_data_in_a_JavaScript-native_data_notebook_-_Cube_Blog.svg)](https://cube.dev/blog/observable-tutorial-javascript-native-data-notebook)
+[![GitHub - BMSVieira/moovie.js: Movie focused HTML5 Player](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_BMSVieira_moovie.js__Movie_focused_HTML5_Player.svg)](https://github.com/BMSVieira/moovie.js)
 [![Differences between requestSubmit() and submit() in HTML forms](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Differences_between_requestSubmit()_and_submit()_in_HTML_forms.svg)](http://www.js-craft.io/blog/differences-between-requestsubmit-and-submit-in-html-forms/)
-[![GitHub - rustq/colorid.js: The ColorID in JavaScript  🌈 一款基于颜色表示身份的 JavaScript 随机 ID 生成器](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_rustq_colorid.js__The_ColorID_in_JavaScript__🌈_一款基于颜色表示身份的_JavaScript_随机_ID_生成器.svg)](https://github.com/rustq/colorid.js)
+[![GitHub - rustq/colorid.js: The unique color-ID string generator in JavaScript 🌈 一款基于颜色表示身份的 JavaScript 随机 ID 生成器](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_rustq_colorid.js__The_unique_color-ID_string_generator_in_JavaScript_🌈_一款基于颜色表示身份的_JavaScript_随机_ID_生成器.svg)](https://github.com/rustq/colorid.js)
 [![How to Implement Pagination with Webiny Headless CMS in Vue | Webiny](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Implement_Pagination_with_Webiny_Headless_CMS_in_Vue___Webiny.svg)](
 https://www.webiny.com/blog/implement-pagination-webiny-headless-cms-vue
 )
-[![GitHub - fireship-io/flamethrower: A blazingly fast router for static sites](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_fireship-io_flamethrower__A_blazingly_fast_router_for_static_sites.svg)](https://github.com/fireship-io/flamethrower)
-[![Automating visual UI tests with Playwright and GitHub Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Automating_visual_UI_tests_with_Playwright_and_GitHub_Actions.svg)](https://mmazzarolo.com/blog/2022-09-09-visual-regression-testing-with-playwright-and-github-actions/)
 
 
 <!-- post-list:end -->
