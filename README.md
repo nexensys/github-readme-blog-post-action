@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, September 14, 2022 at 12:13:56 PM
+> Last updated: Wednesday, September 14, 2022 at 7:06:55 PM
 
 > Showing 5 of 12 posts.
 
-[![graph: A library for creating generic graph data structures and modifying, analyzing, and visualizing them.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/graph__A_library_for_creating_generic_graph_data_structures_and_modifying__analyzing__and_visualizing_them..svg)](https://dev.to/dominikbraun/graph-a-library-for-creating-generic-graph-data-structures-and-modifying-analyzing-and-visualizing-them-c9o)
-[![What are data apps?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_are_data_apps_.svg)](https://dev.to/cubejs/what-are-data-apps-2m5b)
-[![Great Time at JavaZone 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Great_Time_at_JavaZone_2022.svg)](https://dev.to/codenameone/great-time-at-javazone-2022-43p8)
-[![Building Super Slim Containerized Lambdas on AWS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Building_Super_Slim_Containerized_Lambdas_on_AWS.svg)](https://dev.to/aws-builders/building-super-slim-containerized-lambdas-on-aws-3kpe)
-[![Welcome Thread - v191](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Welcome_Thread_-_v191.svg)](https://dev.to/thepracticaldev/welcome-thread-v191-3m5e)
+[![How to improve the DX of your readme with embeddable demos](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_improve_the_DX_of_your_readme_with_embeddable_demos.svg)](https://dev.to/ianjennings/improve-the-dx-of-your-readme-with-embeddable-demos-3coo)
+[![Observability is becoming mission critical, but who watches the watchmen?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Observability_is_becoming_mission_critical__but_who_watches_the_watchmen_.svg)](https://dev.to/0x12b/observability-is-becoming-mission-critical-but-who-watches-the-watchmen-5b44)
+[![How I got into the AWS Community Builders Program](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_I_got_into_the_AWS_Community_Builders_Program.svg)](https://dev.to/giyoungjr/how-i-got-into-the-aws-community-builders-program-oce)
+[![Tools Required For Backend Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Tools_Required_For_Backend_Development.svg)](https://dev.to/prkskrs/tools-required-for-backend-development-5dbi)
+[![Reduct Storage SDKs update and Web Console v0.5.0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Reduct_Storage_SDKs_update_and_Web_Console_v0.5.0.svg)](https://dev.to/reduct-storage/reduct-storage-sdks-update-and-web-console-v050-33g4)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, September 14, 2022 at 12:14:00 PM
+> Last updated: Wednesday, September 14, 2022 at 7:06:58 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, September 14, 2022 at 12:14:08 PM
+> Last updated: Wednesday, September 14, 2022 at 7:07:03 PM
 
 > Showing 5 of 30 posts.
 
 [![GitHub - rustq/colorid.js: The ColorID in JavaScript  🌈 一款基于颜色表示身份的 JavaScript 随机 ID 生成器](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_rustq_colorid.js__The_ColorID_in_JavaScript__🌈_一款基于颜色表示身份的_JavaScript_随机_ID_生成器.svg)](https://github.com/rustq/colorid.js)
-[![Phillips to Offer El Anatsui's "Affirmation"](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Phillips_to_Offer_El_Anatsui's__Affirmation_.svg)](http://hyperallergic.com/541268/el-anatsui-phillips-auction-a-vision-in-red/)
 [![How to Implement Pagination with Webiny Headless CMS in Vue | Webiny](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Implement_Pagination_with_Webiny_Headless_CMS_in_Vue___Webiny.svg)](
 https://www.webiny.com/blog/implement-pagination-webiny-headless-cms-vue
 )
 [![GitHub - fireship-io/flamethrower: A blazingly fast router for static sites](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_fireship-io_flamethrower__A_blazingly_fast_router_for_static_sites.svg)](https://github.com/fireship-io/flamethrower)
 [![Automating visual UI tests with Playwright and GitHub Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Automating_visual_UI_tests_with_Playwright_and_GitHub_Actions.svg)](https://mmazzarolo.com/blog/2022-09-09-visual-regression-testing-with-playwright-and-github-actions/)
+[![Episode 28 - GDPR for developers, understanding the regulation with Thiébaut Devergranne - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_28_-_GDPR_for_developers__understanding_the_regulation_with_Thiébaut_Devergranne_-_20minJS.svg)](https://podcast.20minjs.com/1952066/11302925-episode-28-gdpr-for-developers-understanding-the-regulation-with-thiebaut-devergranne)
 
 
 <!-- post-list:end -->
