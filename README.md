@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, September 15, 2022 at 12:36:20 AM
+> Last updated: Thursday, September 15, 2022 at 6:25:15 AM
 
 > Showing 5 of 12 posts.
 
-[![Javascript: String Search methods](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Javascript__String_Search_methods.svg)](https://dev.to/urstrulyvishwak/javascript-string-search-methods-9hf)
-[![How to become a Super Human Software Developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_become_a_Super_Human_Software_Developer.svg)](https://dev.to/polterguy/how-to-becomes-a-super-human-software-developer-4e8i)
-[![TUGAS DPK-TJKT SEJARAH PERKEMBANGAN TEKNOLOGI TEMA 1-9](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/TUGAS_DPK-TJKT_SEJARAH_PERKEMBANGAN_TEKNOLOGI_TEMA_1-9.svg)](https://dev.to/tsania_khilya/tugas-dpk-tjktsejarah-perkembangan-teknologitema-1-9-2ah5)
-[![How to improve the DX of your readme with embeddable demos](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_improve_the_DX_of_your_readme_with_embeddable_demos.svg)](https://dev.to/ianjennings/improve-the-dx-of-your-readme-with-embeddable-demos-3coo)
-[![Rwar – A Simple Static Site Generator](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Rwar_–_A_Simple_Static_Site_Generator.svg)](https://dev.to/saminarp/rwar-a-simple-static-site-generator-2b5a)
+[![10 Free GumRoad products for Web Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/10_Free_GumRoad_products_for_Web_Developers.svg)](https://dev.to/surajondev/10-free-gumroad-products-for-web-developers-1p6g)
+[![How to render 3D model in a React JS application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_render_3D_model_in_a_React_JS_application.svg)](https://dev.to/codebucks/how-to-render-3d-model-in-a-react-js-applications-2n4o)
+[![What Is the Dedicated Team Model?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_Is_the_Dedicated_Team_Model_.svg)](https://dev.to/intetics/what-is-the-dedicated-team-model-3c4k)
+[![How to Create a Line Chart in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Create_a_Line_Chart_in_JavaScript.svg)](https://dev.to/andreykh1985/how-to-create-a-line-chart-in-javascript-176k)
+[![How to Write a Scalable Frontend](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Write_a_Scalable_Frontend.svg)](https://dev.to/omerwow/how-to-write-a-scalable-frontend-5c55)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, September 15, 2022 at 12:36:22 AM
+> Last updated: Thursday, September 15, 2022 at 6:25:18 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, September 15, 2022 at 12:36:24 AM
+> Last updated: Thursday, September 15, 2022 at 6:25:23 AM
 
 > Showing 5 of 30 posts.
 
+[![Differences between requestSubmit() and submit() in HTML forms](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Differences_between_requestSubmit()_and_submit()_in_HTML_forms.svg)](http://www.js-craft.io/blog/differences-between-requestsubmit-and-submit-in-html-forms/)
 [![GitHub - rustq/colorid.js: The ColorID in JavaScript  🌈 一款基于颜色表示身份的 JavaScript 随机 ID 生成器](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_rustq_colorid.js__The_ColorID_in_JavaScript__🌈_一款基于颜色表示身份的_JavaScript_随机_ID_生成器.svg)](https://github.com/rustq/colorid.js)
 [![How to Implement Pagination with Webiny Headless CMS in Vue | Webiny](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Implement_Pagination_with_Webiny_Headless_CMS_in_Vue___Webiny.svg)](
 https://www.webiny.com/blog/implement-pagination-webiny-headless-cms-vue
 )
 [![GitHub - fireship-io/flamethrower: A blazingly fast router for static sites](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_fireship-io_flamethrower__A_blazingly_fast_router_for_static_sites.svg)](https://github.com/fireship-io/flamethrower)
 [![Automating visual UI tests with Playwright and GitHub Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Automating_visual_UI_tests_with_Playwright_and_GitHub_Actions.svg)](https://mmazzarolo.com/blog/2022-09-09-visual-regression-testing-with-playwright-and-github-actions/)
-[![Episode 28 - GDPR for developers, understanding the regulation with Thiébaut Devergranne - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_28_-_GDPR_for_developers__understanding_the_regulation_with_Thiébaut_Devergranne_-_20minJS.svg)](https://podcast.20minjs.com/1952066/11302925-episode-28-gdpr-for-developers-understanding-the-regulation-with-thiebaut-devergranne)
 
 
 <!-- post-list:end -->
