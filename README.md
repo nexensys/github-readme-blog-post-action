@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, September 15, 2022 at 12:13:58 PM
+> Last updated: Thursday, September 15, 2022 at 7:05:47 PM
 
 > Showing 5 of 12 posts.
 
-[![Algorithmic Survival in the Metaverse](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Algorithmic_Survival_in_the_Metaverse.svg)](https://dev.to/kompotkot/algorithmic-survival-in-the-metaverse-47jc)
-[![Observable tutorial: Analyze data in a JavaScript-native data notebook](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Observable_tutorial__Analyze_data_in_a_JavaScript-native_data_notebook.svg)](https://dev.to/cubejs/observable-tutorial-analyze-data-in-a-javascript-native-data-notebook-1oh)
-[![Programming in the Adult Entertainment Industry III](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Programming_in_the_Adult_Entertainment_Industry_III.svg)](https://dev.to/jwoertink/programming-in-the-adult-entertainment-industry-iii-1io7)
-[![Medusa v1.4.0: Product Import API, Improved API Reference and More!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Medusa_v1.4.0__Product_Import_API__Improved_API_Reference_and_More!.svg)](https://dev.to/medusajs/medusa-v140-product-import-api-improved-api-reference-and-more-56ck)
-[![How to Address Sensitive Data Sprawl](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Address_Sensitive_Data_Sprawl.svg)](https://dev.to/mbogan/how-to-address-sensitive-data-sprawl-31jd)
+[![Code faster with Amazon CodeWhisperer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Code_faster_with_Amazon_CodeWhisperer.svg)](https://dev.to/aws-builders/code-faster-with-amazon-codewhisperer-jo4)
+[![We Solved Dev Infrastructure, So Why Does it Suck to Build Stuff?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/We_Solved_Dev_Infrastructure__So_Why_Does_it_Suck_to_Build_Stuff_.svg)](https://dev.to/linearb/we-solved-dev-infrastructure-so-why-does-it-suck-to-build-stuff-37ii)
+[![10 Must-Have Chrome Extensions for Web Developers 🚀🌐](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/10_Must-Have_Chrome_Extensions_for_Web_Developers_🚀🌐.svg)](https://dev.to/naubit/10-must-have-chrome-extensions-for-web-developers-5dih)
+[![Choosing a CMS for your Static Site: Part 2 — Headless? Git-based, or API-based?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Choosing_a_CMS_for_your_Static_Site__Part_2_—_Headless__Git-based__or_API-based_.svg)](https://dev.to/cloudcannon/choosing-a-cms-for-your-static-site-part-2-headless-git-based-or-api-based-592m)
+[![Set docker build args from .env file (NextJS)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Set_docker_build_args_from_.env_file_(NextJS).svg)](https://dev.to/darksmile92/set-docker-build-args-from-env-file-2p4a)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, September 15, 2022 at 12:14:02 PM
+> Last updated: Thursday, September 15, 2022 at 7:05:50 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, September 15, 2022 at 12:14:08 PM
+> Last updated: Thursday, September 15, 2022 at 7:05:56 PM
 
 > Showing 5 of 30 posts.
 
+[![Make your development experience ezy.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Make_your_development_experience_ezy..svg)](https://www.getezy.dev/)
+[![GitHub - webdiscus/ansis: Formatting text in terminal with ANSI colors & styles.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_webdiscus_ansis__Formatting_text_in_terminal_with_ANSI_colors___styles..svg)](https://github.com/webdiscus/ansis)
 [![Observable tutorial: Analyze data in a JavaScript-native data notebook - Cube Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Observable_tutorial__Analyze_data_in_a_JavaScript-native_data_notebook_-_Cube_Blog.svg)](https://cube.dev/blog/observable-tutorial-javascript-native-data-notebook)
 [![GitHub - BMSVieira/moovie.js: Movie focused HTML5 Player](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_BMSVieira_moovie.js__Movie_focused_HTML5_Player.svg)](https://github.com/BMSVieira/moovie.js)
 [![Differences between requestSubmit() and submit() in HTML forms](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Differences_between_requestSubmit()_and_submit()_in_HTML_forms.svg)](http://www.js-craft.io/blog/differences-between-requestsubmit-and-submit-in-html-forms/)
-[![GitHub - rustq/colorid.js: The unique color-ID string generator in JavaScript 🌈 一款基于颜色表示身份的 JavaScript 随机 ID 生成器](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_rustq_colorid.js__The_unique_color-ID_string_generator_in_JavaScript_🌈_一款基于颜色表示身份的_JavaScript_随机_ID_生成器.svg)](https://github.com/rustq/colorid.js)
-[![How to Implement Pagination with Webiny Headless CMS in Vue | Webiny](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Implement_Pagination_with_Webiny_Headless_CMS_in_Vue___Webiny.svg)](
-https://www.webiny.com/blog/implement-pagination-webiny-headless-cms-vue
-)
 
 
 <!-- post-list:end -->
