@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, September 16, 2022 at 6:20:50 AM
+> Last updated: Friday, September 16, 2022 at 12:15:00 PM
 
 > Showing 5 of 12 posts.
 
-[![Lightweight Go-based Spa-to-http "beats" Nginx in SPA serving performance](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Lightweight_Go-based_Spa-to-http__beats__Nginx_in_SPA_serving_performance.svg)](https://dev.to/ivictbor/lightweight-go-based-spa-to-http-beats-nginx-in-spa-serving-performance-459c)
-[![How to Create a Successful Custom Web Product Step by Step: Codica's Practice](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Create_a_Successful_Custom_Web_Product_Step_by_Step__Codica's_Practice.svg)](https://dev.to/codicacom/how-to-create-a-successful-custom-web-product-step-by-step-codicas-practice-4cnf)
-[![PLI Blockathon is PAN India hackathon to be held on sept. 22 at Chennai, Tamil Nadu, India.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/PLI_Blockathon_is_PAN_India_hackathon_to_be_held_on_sept._22_at_Chennai__Tamil_Nadu__India..svg)](https://dev.to/danielweber443/pli-blockathon-is-pan-india-hackathon-to-be-held-on-sept-22-at-chennai-tamil-nadu-india-1jim)
-[![Three ways to iterate an array](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Three_ways_to_iterate_an_array.svg)](https://dev.to/jolamemushaj/three-ways-to-iterate-an-array-340j)
-[![Programming chose me](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Programming_chose_me.svg)](https://dev.to/jjenus/programming-chose-me-4dd6)
+[![Introducing the Semantic Graph](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Introducing_the_Semantic_Graph.svg)](https://dev.to/neuml/introducing-the-semantic-graph-1j09)
+[![Javascript vs Ruby: Syntax Edition](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Javascript_vs_Ruby__Syntax_Edition.svg)](https://dev.to/adenaddis/javascript-vs-ruby-syntax-edition-3mhp)
+[![PagerDuty Community Weekly Update, September 16, 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/PagerDuty_Community_Weekly_Update__September_16__2022.svg)](https://dev.to/pdcommunity/pagerduty-community-weekly-update-september-16-2022-3pnh)
+[![5 webdev tips you may want to know 🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_webdev_tips_you_may_want_to_know_🔥.svg)](https://dev.to/mustapha/5-webdev-tips-you-may-want-to-know-an1)
+[![Introduction to Angular Language Service](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Introduction_to_Angular_Language_Service.svg)](https://dev.to/eneajaho/introduction-to-angular-language-service-1dam)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, September 16, 2022 at 6:20:53 AM
+> Last updated: Friday, September 16, 2022 at 12:15:05 PM
 
 > Showing 4 of 4 posts.
 
+[![Seven weird ways to call a JavaScript function](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Seven_weird_ways_to_call_a_JavaScript_function.svg)](https://javascriptweekly.com/issues/606)
 [![Anyone know Larry Ellison?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Anyone_know_Larry_Ellison_.svg)](https://javascriptweekly.com/issues/605)
 [![David's handy JS debugging tip](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/David's_handy_JS_debugging_tip.svg)](https://javascriptweekly.com/issues/604)
 [![The future JavaScript features at TC39](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/The_future_JavaScript_features_at_TC39.svg)](https://javascriptweekly.com/issues/603)
-[![A way to automatically generate regexes from examples](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/A_way_to_automatically_generate_regexes_from_examples.svg)](https://javascriptweekly.com/issues/602)
 
 
 ## Echo JS
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, September 16, 2022 at 6:20:58 AM
+> Last updated: Friday, September 16, 2022 at 12:15:13 PM
 
 > Showing 5 of 30 posts.
 
