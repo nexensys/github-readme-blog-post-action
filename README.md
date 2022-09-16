@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, September 16, 2022 at 12:41:57 AM
+> Last updated: Friday, September 16, 2022 at 6:20:50 AM
 
 > Showing 5 of 12 posts.
 
-[![Leetcode 217. Contains Duplicate. DSA - #4](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Leetcode_217._Contains_Duplicate._DSA_-__4.svg)](https://dev.to/uchihaitachi0/leetcode-217-contains-duplicate-dsa-4-592m)
-[![Don't just watch videos, learn interactively with Learnitive.com](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Don't_just_watch_videos__learn_interactively_with_Learnitive.com.svg)](https://dev.to/learnitive/dont-just-watch-videos-learn-interactively-2f8j)
-[![15 Best Terminal Commands That You Should Know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/15_Best_Terminal_Commands_That_You_Should_Know.svg)](https://dev.to/devsimc/15-best-terminal-commands-that-you-should-know-110g)
-[![Code faster with Amazon CodeWhisperer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Code_faster_with_Amazon_CodeWhisperer.svg)](https://dev.to/aws-builders/code-faster-with-amazon-codewhisperer-jo4)
-[![Adding one centralised banner to a whole portfolio of websites via the power of 'the edge'](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Adding_one_centralised_banner_to_a_whole_portfolio_of_websites_via_the_power_of_'the_edge'.svg)](https://dev.to/philw_/centralised-emergency-banners-via-the-edge-and-your-cdn-2app)
+[![Lightweight Go-based Spa-to-http "beats" Nginx in SPA serving performance](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Lightweight_Go-based_Spa-to-http__beats__Nginx_in_SPA_serving_performance.svg)](https://dev.to/ivictbor/lightweight-go-based-spa-to-http-beats-nginx-in-spa-serving-performance-459c)
+[![How to Create a Successful Custom Web Product Step by Step: Codica's Practice](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Create_a_Successful_Custom_Web_Product_Step_by_Step__Codica's_Practice.svg)](https://dev.to/codicacom/how-to-create-a-successful-custom-web-product-step-by-step-codicas-practice-4cnf)
+[![PLI Blockathon is PAN India hackathon to be held on sept. 22 at Chennai, Tamil Nadu, India.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/PLI_Blockathon_is_PAN_India_hackathon_to_be_held_on_sept._22_at_Chennai__Tamil_Nadu__India..svg)](https://dev.to/danielweber443/pli-blockathon-is-pan-india-hackathon-to-be-held-on-sept-22-at-chennai-tamil-nadu-india-1jim)
+[![Three ways to iterate an array](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Three_ways_to_iterate_an_array.svg)](https://dev.to/jolamemushaj/three-ways-to-iterate-an-array-340j)
+[![Programming chose me](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Programming_chose_me.svg)](https://dev.to/jjenus/programming-chose-me-4dd6)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, September 16, 2022 at 12:41:59 AM
+> Last updated: Friday, September 16, 2022 at 6:20:53 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, September 16, 2022 at 12:42:04 AM
+> Last updated: Friday, September 16, 2022 at 6:20:58 AM
 
 > Showing 5 of 30 posts.
 
