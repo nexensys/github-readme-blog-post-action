@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, September 15, 2022 at 7:05:47 PM
+> Last updated: Friday, September 16, 2022 at 12:41:57 AM
 
 > Showing 5 of 12 posts.
 
+[![Leetcode 217. Contains Duplicate. DSA - #4](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Leetcode_217._Contains_Duplicate._DSA_-__4.svg)](https://dev.to/uchihaitachi0/leetcode-217-contains-duplicate-dsa-4-592m)
+[![Don't just watch videos, learn interactively with Learnitive.com](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Don't_just_watch_videos__learn_interactively_with_Learnitive.com.svg)](https://dev.to/learnitive/dont-just-watch-videos-learn-interactively-2f8j)
+[![15 Best Terminal Commands That You Should Know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/15_Best_Terminal_Commands_That_You_Should_Know.svg)](https://dev.to/devsimc/15-best-terminal-commands-that-you-should-know-110g)
 [![Code faster with Amazon CodeWhisperer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Code_faster_with_Amazon_CodeWhisperer.svg)](https://dev.to/aws-builders/code-faster-with-amazon-codewhisperer-jo4)
-[![We Solved Dev Infrastructure, So Why Does it Suck to Build Stuff?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/We_Solved_Dev_Infrastructure__So_Why_Does_it_Suck_to_Build_Stuff_.svg)](https://dev.to/linearb/we-solved-dev-infrastructure-so-why-does-it-suck-to-build-stuff-37ii)
-[![10 Must-Have Chrome Extensions for Web Developers 🚀🌐](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/10_Must-Have_Chrome_Extensions_for_Web_Developers_🚀🌐.svg)](https://dev.to/naubit/10-must-have-chrome-extensions-for-web-developers-5dih)
-[![Choosing a CMS for your Static Site: Part 2 — Headless? Git-based, or API-based?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Choosing_a_CMS_for_your_Static_Site__Part_2_—_Headless__Git-based__or_API-based_.svg)](https://dev.to/cloudcannon/choosing-a-cms-for-your-static-site-part-2-headless-git-based-or-api-based-592m)
-[![Set docker build args from .env file (NextJS)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Set_docker_build_args_from_.env_file_(NextJS).svg)](https://dev.to/darksmile92/set-docker-build-args-from-env-file-2p4a)
+[![Adding one centralised banner to a whole portfolio of websites via the power of 'the edge'](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Adding_one_centralised_banner_to_a_whole_portfolio_of_websites_via_the_power_of_'the_edge'.svg)](https://dev.to/philw_/centralised-emergency-banners-via-the-edge-and-your-cdn-2app)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, September 15, 2022 at 7:05:50 PM
+> Last updated: Friday, September 16, 2022 at 12:41:59 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, September 15, 2022 at 7:05:56 PM
+> Last updated: Friday, September 16, 2022 at 12:42:04 AM
 
 > Showing 5 of 30 posts.
 
