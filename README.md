@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, September 17, 2022 at 12:14:35 AM
+> Last updated: Saturday, September 17, 2022 at 6:19:06 AM
 
 > Showing 5 of 12 posts.
 
-[![Loop functions in synchronous way #React Quick Notes.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Loop_functions_in_synchronous_way__React_Quick_Notes..svg)](https://dev.to/ajaybaraiya6/loop-functions-in-synchronous-way-react-quick-notes-gbh)
-[![CSS calc() function](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/CSS_calc()_function.svg)](https://dev.to/shubhamtiwari909/css-calc-function-67e)
-[![Filing Issues on GitHub](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Filing_Issues_on_GitHub.svg)](https://dev.to/saminarp/filing-issues-on-github-1jf6)
-[![Best Way to Learn for Self-taught Android developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Best_Way_to_Learn_for_Self-taught_Android_developer.svg)](https://dev.to/vtsen/best-way-to-learn-for-self-taught-android-developer-3553)
-[![palpatine and rwar](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/palpatine_and_rwar.svg)](https://dev.to/batunpc/palpatine-and-rwar-4c3)
+[![Tutorials are Wrong](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Tutorials_are_Wrong.svg)](https://dev.to/this-is-learning/tutorials-are-wrong-255c)
+[![Deep Learning Library From Scratch 6: Integrating new autodiff module and MNIST digit classifier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Deep_Learning_Library_From_Scratch_6__Integrating_new_autodiff_module_and_MNIST_digit_classifier.svg)](https://dev.to/ashwinscode/deep-learning-library-from-scratch-6-integrating-new-autodiff-module-and-mnist-digit-classifier-co9)
+[![Why our websites are slow — Importance of bundle size](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Why_our_websites_are_slow_—_Importance_of_bundle_size.svg)](https://dev.to/shreyvijayvargiya/why-our-websites-are-slow-importance-of-bundle-size-1le4)
+[![Multiple Ways to Copy Array in Java Effectively](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Multiple_Ways_to_Copy_Array_in_Java_Effectively.svg)](https://dev.to/luthfisauqi17/multiple-ways-to-copy-array-in-java-effectively-4lpj)
+[![Hiring for remote work in 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Hiring_for_remote_work_in_2022.svg)](https://dev.to/k_ivanow/hiring-for-remote-work-in-2022-37b3)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, September 17, 2022 at 12:14:38 AM
+> Last updated: Saturday, September 17, 2022 at 6:19:09 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, September 17, 2022 at 12:14:42 AM
+> Last updated: Saturday, September 17, 2022 at 6:19:13 AM
 
 > Showing 5 of 30 posts.
 
