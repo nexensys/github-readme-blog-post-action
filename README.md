@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, September 16, 2022 at 7:01:35 PM
+> Last updated: Saturday, September 17, 2022 at 12:14:35 AM
 
 > Showing 5 of 12 posts.
 
-[![Ultimate Guide To Enhancing Your Shopify Store’s Design: 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Ultimate_Guide_To_Enhancing_Your_Shopify_Store’s_Design__2022.svg)](https://dev.to/kuldeeptarapara/ultimate-guide-to-enhancing-your-shopify-stores-design-2022-2ok2)
-[![Appwrite Loves Open Source: Why I Chose to Sponsor Front-End Foxes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Appwrite_Loves_Open_Source__Why_I_Chose_to_Sponsor_Front-End_Foxes.svg)](https://dev.to/tessamero/appwrite-loves-open-source-why-i-chose-to-sponsor-front-end-foxes-111e)
-[![Ruby is pretty neat](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Ruby_is_pretty_neat.svg)](https://dev.to/toygrr/ruby-is-pretty-neato-4ai0)
-[![Updates from the 92nd TC39 meeting](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Updates_from_the_92nd_TC39_meeting.svg)](https://dev.to/hemanth/updates-from-the-92nd-tc39-meeting-5fi6)
-[![APIs For Beginners (With Examples)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/APIs_For_Beginners_(With_Examples).svg)](https://dev.to/rembertdesigns/apis-for-beginners-with-examples-3amg)
+[![Loop functions in synchronous way #React Quick Notes.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Loop_functions_in_synchronous_way__React_Quick_Notes..svg)](https://dev.to/ajaybaraiya6/loop-functions-in-synchronous-way-react-quick-notes-gbh)
+[![CSS calc() function](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/CSS_calc()_function.svg)](https://dev.to/shubhamtiwari909/css-calc-function-67e)
+[![Filing Issues on GitHub](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Filing_Issues_on_GitHub.svg)](https://dev.to/saminarp/filing-issues-on-github-1jf6)
+[![Best Way to Learn for Self-taught Android developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Best_Way_to_Learn_for_Self-taught_Android_developer.svg)](https://dev.to/vtsen/best-way-to-learn-for-self-taught-android-developer-3553)
+[![palpatine and rwar](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/palpatine_and_rwar.svg)](https://dev.to/batunpc/palpatine-and-rwar-4c3)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, September 16, 2022 at 7:01:39 PM
+> Last updated: Saturday, September 17, 2022 at 12:14:38 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, September 16, 2022 at 7:01:48 PM
+> Last updated: Saturday, September 17, 2022 at 12:14:42 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - alphaaurigae/gentoo_unattented-setup: Automated modular GENTOO linux setup](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_alphaaurigae_gentoo_unattented-setup__Automated_modular_GENTOO_linux_setup.svg)](https://github.com/alphaaurigae/gentoo_unattented-setup)
 [![Make your development experience ezy.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Make_your_development_experience_ezy..svg)](https://www.getezy.dev/)
 [![GitHub - webdiscus/ansis: Formatting text in terminal with ANSI colors & styles.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_webdiscus_ansis__Formatting_text_in_terminal_with_ANSI_colors___styles..svg)](https://github.com/webdiscus/ansis)
 [![Observable tutorial: Analyze data in a JavaScript-native data notebook - Cube Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Observable_tutorial__Analyze_data_in_a_JavaScript-native_data_notebook_-_Cube_Blog.svg)](https://cube.dev/blog/observable-tutorial-javascript-native-data-notebook)
 [![GitHub - BMSVieira/moovie.js: Movie focused HTML5 Player](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_BMSVieira_moovie.js__Movie_focused_HTML5_Player.svg)](https://github.com/BMSVieira/moovie.js)
-[![Differences between requestSubmit() and submit() in HTML forms](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Differences_between_requestSubmit()_and_submit()_in_HTML_forms.svg)](http://www.js-craft.io/blog/differences-between-requestsubmit-and-submit-in-html-forms/)
 
 
 <!-- post-list:end -->
