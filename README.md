@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, September 16, 2022 at 12:15:00 PM
+> Last updated: Friday, September 16, 2022 at 7:01:35 PM
 
 > Showing 5 of 12 posts.
 
-[![Introducing the Semantic Graph](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Introducing_the_Semantic_Graph.svg)](https://dev.to/neuml/introducing-the-semantic-graph-1j09)
-[![Javascript vs Ruby: Syntax Edition](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Javascript_vs_Ruby__Syntax_Edition.svg)](https://dev.to/adenaddis/javascript-vs-ruby-syntax-edition-3mhp)
-[![PagerDuty Community Weekly Update, September 16, 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/PagerDuty_Community_Weekly_Update__September_16__2022.svg)](https://dev.to/pdcommunity/pagerduty-community-weekly-update-september-16-2022-3pnh)
-[![5 webdev tips you may want to know 🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_webdev_tips_you_may_want_to_know_🔥.svg)](https://dev.to/mustapha/5-webdev-tips-you-may-want-to-know-an1)
-[![Introduction to Angular Language Service](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Introduction_to_Angular_Language_Service.svg)](https://dev.to/eneajaho/introduction-to-angular-language-service-1dam)
+[![Ultimate Guide To Enhancing Your Shopify Store’s Design: 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Ultimate_Guide_To_Enhancing_Your_Shopify_Store’s_Design__2022.svg)](https://dev.to/kuldeeptarapara/ultimate-guide-to-enhancing-your-shopify-stores-design-2022-2ok2)
+[![Appwrite Loves Open Source: Why I Chose to Sponsor Front-End Foxes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Appwrite_Loves_Open_Source__Why_I_Chose_to_Sponsor_Front-End_Foxes.svg)](https://dev.to/tessamero/appwrite-loves-open-source-why-i-chose-to-sponsor-front-end-foxes-111e)
+[![Ruby is pretty neat](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Ruby_is_pretty_neat.svg)](https://dev.to/toygrr/ruby-is-pretty-neato-4ai0)
+[![Updates from the 92nd TC39 meeting](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Updates_from_the_92nd_TC39_meeting.svg)](https://dev.to/hemanth/updates-from-the-92nd-tc39-meeting-5fi6)
+[![APIs For Beginners (With Examples)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/APIs_For_Beginners_(With_Examples).svg)](https://dev.to/rembertdesigns/apis-for-beginners-with-examples-3amg)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, September 16, 2022 at 12:15:05 PM
+> Last updated: Friday, September 16, 2022 at 7:01:39 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, September 16, 2022 at 12:15:13 PM
+> Last updated: Friday, September 16, 2022 at 7:01:48 PM
 
 > Showing 5 of 30 posts.
 
