@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, September 17, 2022 at 6:19:06 AM
+> Last updated: Saturday, September 17, 2022 at 12:13:06 PM
 
 > Showing 5 of 12 posts.
 
-[![Tutorials are Wrong](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Tutorials_are_Wrong.svg)](https://dev.to/this-is-learning/tutorials-are-wrong-255c)
-[![Deep Learning Library From Scratch 6: Integrating new autodiff module and MNIST digit classifier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Deep_Learning_Library_From_Scratch_6__Integrating_new_autodiff_module_and_MNIST_digit_classifier.svg)](https://dev.to/ashwinscode/deep-learning-library-from-scratch-6-integrating-new-autodiff-module-and-mnist-digit-classifier-co9)
-[![Why our websites are slow — Importance of bundle size](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Why_our_websites_are_slow_—_Importance_of_bundle_size.svg)](https://dev.to/shreyvijayvargiya/why-our-websites-are-slow-importance-of-bundle-size-1le4)
-[![Multiple Ways to Copy Array in Java Effectively](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Multiple_Ways_to_Copy_Array_in_Java_Effectively.svg)](https://dev.to/luthfisauqi17/multiple-ways-to-copy-array-in-java-effectively-4lpj)
-[![Hiring for remote work in 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Hiring_for_remote_work_in_2022.svg)](https://dev.to/k_ivanow/hiring-for-remote-work-in-2022-37b3)
+[![React Props and React State](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/React_Props_and_React_State.svg)](https://dev.to/aradwan20/react-props-and-react-state-66g)
+[![Vue 3 tips/tricks I guarantee you didn't know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Vue_3_tips_tricks_I_guarantee_you_didn't_know.svg)](https://dev.to/the_one/vue-3-tipstricks-i-guarantee-you-didnt-know-49ml)
+[![Setting up AWS Code Pipeline to automate deployment of tweets streaming application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Setting_up_AWS_Code_Pipeline_to_automate_deployment_of_tweets_streaming_application.svg)](https://dev.to/aws-builders/setting-up-aws-code-pipeline-to-automate-deployment-of-tweets-streaming-application-m7o)
+[![Every Dev should understand Big O!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Every_Dev_should_understand_Big_O!.svg)](https://dev.to/naubit/every-dev-should-understand-big-o-261l)
+[![Whatsapp Portfolio Website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Whatsapp_Portfolio_Website.svg)](https://dev.to/dhanushnehru/whatsapp-portfolio-website-3fdo)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, September 17, 2022 at 6:19:09 AM
+> Last updated: Saturday, September 17, 2022 at 12:13:09 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, September 17, 2022 at 6:19:13 AM
+> Last updated: Saturday, September 17, 2022 at 12:13:11 PM
 
 > Showing 5 of 30 posts.
 
+[![How Do I Get A Free Tablet With Food Stamps 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_Do_I_Get_A_Free_Tablet_With_Food_Stamps_2022.svg)](https://getgovtgrants.com/free-tablet-with-food-stamps)
 [![GitHub - alphaaurigae/gentoo_unattented-setup: Automated modular GENTOO linux setup](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_alphaaurigae_gentoo_unattented-setup__Automated_modular_GENTOO_linux_setup.svg)](https://github.com/alphaaurigae/gentoo_unattented-setup)
 [![Make your development experience ezy.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Make_your_development_experience_ezy..svg)](https://www.getezy.dev/)
 [![GitHub - webdiscus/ansis: Formatting text in terminal with ANSI colors & styles.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_webdiscus_ansis__Formatting_text_in_terminal_with_ANSI_colors___styles..svg)](https://github.com/webdiscus/ansis)
 [![Observable tutorial: Analyze data in a JavaScript-native data notebook - Cube Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Observable_tutorial__Analyze_data_in_a_JavaScript-native_data_notebook_-_Cube_Blog.svg)](https://cube.dev/blog/observable-tutorial-javascript-native-data-notebook)
-[![GitHub - BMSVieira/moovie.js: Movie focused HTML5 Player](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_BMSVieira_moovie.js__Movie_focused_HTML5_Player.svg)](https://github.com/BMSVieira/moovie.js)
 
 
 <!-- post-list:end -->
