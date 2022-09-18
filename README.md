@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, September 18, 2022 at 12:15:33 AM
+> Last updated: Sunday, September 18, 2022 at 6:19:36 AM
 
 > Showing 5 of 12 posts.
 
-[![CSS Icon: Google Photos](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/CSS_Icon__Google_Photos.svg)](https://dev.to/j471n/css-icon-google-photos-4iha)
-[![Add QR code to React websites in 2 minutes 😎✨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Add_QR_code_to_React_websites_in_2_minutes_😎✨.svg)](https://dev.to/ruppysuppy/add-qr-code-to-react-websites-in-2-minutes-j05)
-[![Manage Redis on AWS from Kubernetes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Manage_Redis_on_AWS_from_Kubernetes.svg)](https://dev.to/abhirockzz/manage-redis-on-aws-from-kubernetes-jae)
-[![Javascript: IIFE - Immediately Invoked Function Expression](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Javascript__IIFE_-_Immediately_Invoked_Function_Expression.svg)](https://dev.to/urstrulyvishwak/javascript-iife-immediately-invoked-function-expression-3i2a)
-[![Beyond Senior – The Peacock, the Hermit, and the Counsel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Beyond_Senior_–_The_Peacock__the_Hermit__and_the_Counsel.svg)](https://dev.to/baweaver/beyond-senior-the-peacock-the-hermit-and-the-counsel-74f)
+[![Développer une API Rest avec NodeJS, Express et MongoDB: #3 Les verbes HTTP](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Développer_une_API_Rest_avec_NodeJS__Express_et_MongoDB___3_Les_verbes_HTTP.svg)](https://dev.to/sidali/developper-une-api-rest-avec-nodejs-express-et-mongodb-3-les-verbes-http-ko6)
+[![VS Code Shortcuts you Must Know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/VS_Code_Shortcuts_you_Must_Know.svg)](https://dev.to/kshitij9896/vs-code-shortcuts-you-must-know-553g)
+[![Adobe Buys Figma: What Does this Mean for Web Standards?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Adobe_Buys_Figma__What_Does_this_Mean_for_Web_Standards_.svg)](https://dev.to/umeshtharukaofficial/adobe-buys-figma-what-does-this-mean-for-web-standards-2k7g)
+[![Design Patterns in PHP 8: Factory method](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Design_Patterns_in_PHP_8__Factory_method.svg)](https://dev.to/zhukmax/design-patterns-in-php-8-factory-method-55dd)
+[![LeetCode - Jump Game II](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/LeetCode_-_Jump_Game_II.svg)](https://dev.to/_alkesh26/leetcode-jump-game-ii-2087)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, September 18, 2022 at 12:15:36 AM
+> Last updated: Sunday, September 18, 2022 at 6:19:39 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, September 18, 2022 at 12:15:40 AM
+> Last updated: Sunday, September 18, 2022 at 6:19:43 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - luoxuhai/pcl.js: ☁️  ⚡ Point Cloud Library (PCL) for browser, powered by WebAssembly｜在浏览器运行的点云库 (PCL)，由 WebAssembly 提供支持。](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_luoxuhai_pcl.js__☁️__⚡_Point_Cloud_Library_(PCL)_for_browser__powered_by_WebAssembly｜在浏览器运行的点云库_(PCL)，由_WebAssembly_提供支持。.svg)](https://github.com/luoxuhai/pcl.js)
 [![
 How many dots can you see? Optical illusion - easy tutorial (18 lines of pure JS)
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_How_many_dots_can_you_see__Optical_illusion_-_easy_tutorial_(18_lines_of_pure_JS)_.svg)](
@@ -55,7 +56,6 @@ https://slicker.me/javascript/illusion.htm
 [![How Do I Get A Free Tablet With Food Stamps 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_Do_I_Get_A_Free_Tablet_With_Food_Stamps_2022.svg)](https://getgovtgrants.com/free-tablet-with-food-stamps)
 [![GitHub - alphaaurigae/gentoo_unattented-setup: Automated modular GENTOO linux setup](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_alphaaurigae_gentoo_unattented-setup__Automated_modular_GENTOO_linux_setup.svg)](https://github.com/alphaaurigae/gentoo_unattented-setup)
 [![Make your development experience ezy.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Make_your_development_experience_ezy..svg)](https://www.getezy.dev/)
-[![GitHub - webdiscus/ansis: Formatting text in terminal with ANSI colors & styles.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_webdiscus_ansis__Formatting_text_in_terminal_with_ANSI_colors___styles..svg)](https://github.com/webdiscus/ansis)
 
 
 <!-- post-list:end -->
