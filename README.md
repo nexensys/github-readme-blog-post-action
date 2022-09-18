@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, September 17, 2022 at 12:13:06 PM
+> Last updated: Saturday, September 17, 2022 at 7:06:38 PM
 
 > Showing 5 of 12 posts.
 
-[![React Props and React State](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/React_Props_and_React_State.svg)](https://dev.to/aradwan20/react-props-and-react-state-66g)
-[![Vue 3 tips/tricks I guarantee you didn't know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Vue_3_tips_tricks_I_guarantee_you_didn't_know.svg)](https://dev.to/the_one/vue-3-tipstricks-i-guarantee-you-didnt-know-49ml)
-[![Setting up AWS Code Pipeline to automate deployment of tweets streaming application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Setting_up_AWS_Code_Pipeline_to_automate_deployment_of_tweets_streaming_application.svg)](https://dev.to/aws-builders/setting-up-aws-code-pipeline-to-automate-deployment-of-tweets-streaming-application-m7o)
-[![Every Dev should understand Big O!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Every_Dev_should_understand_Big_O!.svg)](https://dev.to/naubit/every-dev-should-understand-big-o-261l)
-[![Whatsapp Portfolio Website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Whatsapp_Portfolio_Website.svg)](https://dev.to/dhanushnehru/whatsapp-portfolio-website-3fdo)
+[![Stop writing API functions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Stop_writing_API_functions.svg)](https://dev.to/saeedmosavat/stop-writing-api-functions-3693)
+[![PHP 8 attribute quirks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/PHP_8_attribute_quirks.svg)](https://dev.to/shalvah/php-8-attribute-quirks-1984)
+[![Liderança começa com confiança: minha trajetória](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Liderança_começa_com_confiança__minha_trajetória.svg)](https://dev.to/leandronsp/lideranca-comeca-com-confianca-minha-trajetoria-4i68)
+[![Set up SSH for GitHub in the Terminal](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Set_up_SSH_for_GitHub_in_the_Terminal.svg)](https://dev.to/developemmanuel/set-up-ssh-for-github-in-the-terminal-25go)
+[![Portswigger’s Lab write up: CSRF vulnerability with no defenses](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Portswigger’s_Lab_write_up__CSRF_vulnerability_with_no_defenses.svg)](https://dev.to/christianpaez/portswiggers-lab-write-up-csrf-vulnerability-with-no-defenses-4p84)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, September 17, 2022 at 12:13:09 PM
+> Last updated: Saturday, September 17, 2022 at 7:06:41 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, September 17, 2022 at 12:13:11 PM
+> Last updated: Saturday, September 17, 2022 at 7:06:46 PM
 
 > Showing 5 of 30 posts.
 
