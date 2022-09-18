@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, September 17, 2022 at 7:06:38 PM
+> Last updated: Sunday, September 18, 2022 at 12:15:33 AM
 
 > Showing 5 of 12 posts.
 
-[![Stop writing API functions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Stop_writing_API_functions.svg)](https://dev.to/saeedmosavat/stop-writing-api-functions-3693)
-[![PHP 8 attribute quirks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/PHP_8_attribute_quirks.svg)](https://dev.to/shalvah/php-8-attribute-quirks-1984)
-[![Liderança começa com confiança: minha trajetória](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Liderança_começa_com_confiança__minha_trajetória.svg)](https://dev.to/leandronsp/lideranca-comeca-com-confianca-minha-trajetoria-4i68)
-[![Set up SSH for GitHub in the Terminal](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Set_up_SSH_for_GitHub_in_the_Terminal.svg)](https://dev.to/developemmanuel/set-up-ssh-for-github-in-the-terminal-25go)
-[![Portswigger’s Lab write up: CSRF vulnerability with no defenses](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Portswigger’s_Lab_write_up__CSRF_vulnerability_with_no_defenses.svg)](https://dev.to/christianpaez/portswiggers-lab-write-up-csrf-vulnerability-with-no-defenses-4p84)
+[![CSS Icon: Google Photos](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/CSS_Icon__Google_Photos.svg)](https://dev.to/j471n/css-icon-google-photos-4iha)
+[![Add QR code to React websites in 2 minutes 😎✨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Add_QR_code_to_React_websites_in_2_minutes_😎✨.svg)](https://dev.to/ruppysuppy/add-qr-code-to-react-websites-in-2-minutes-j05)
+[![Manage Redis on AWS from Kubernetes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Manage_Redis_on_AWS_from_Kubernetes.svg)](https://dev.to/abhirockzz/manage-redis-on-aws-from-kubernetes-jae)
+[![Javascript: IIFE - Immediately Invoked Function Expression](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Javascript__IIFE_-_Immediately_Invoked_Function_Expression.svg)](https://dev.to/urstrulyvishwak/javascript-iife-immediately-invoked-function-expression-3i2a)
+[![Beyond Senior – The Peacock, the Hermit, and the Counsel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Beyond_Senior_–_The_Peacock__the_Hermit__and_the_Counsel.svg)](https://dev.to/baweaver/beyond-senior-the-peacock-the-hermit-and-the-counsel-74f)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, September 17, 2022 at 7:06:41 PM
+> Last updated: Sunday, September 18, 2022 at 12:15:36 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, September 17, 2022 at 7:06:46 PM
+> Last updated: Sunday, September 18, 2022 at 12:15:40 AM
 
 > Showing 5 of 30 posts.
 
+[![
+How many dots can you see? Optical illusion - easy tutorial (18 lines of pure JS)
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_How_many_dots_can_you_see__Optical_illusion_-_easy_tutorial_(18_lines_of_pure_JS)_.svg)](
+https://slicker.me/javascript/illusion.htm
+)
 [![How Do I Get A Free Tablet With Food Stamps 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_Do_I_Get_A_Free_Tablet_With_Food_Stamps_2022.svg)](https://getgovtgrants.com/free-tablet-with-food-stamps)
 [![GitHub - alphaaurigae/gentoo_unattented-setup: Automated modular GENTOO linux setup](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_alphaaurigae_gentoo_unattented-setup__Automated_modular_GENTOO_linux_setup.svg)](https://github.com/alphaaurigae/gentoo_unattented-setup)
 [![Make your development experience ezy.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Make_your_development_experience_ezy..svg)](https://www.getezy.dev/)
 [![GitHub - webdiscus/ansis: Formatting text in terminal with ANSI colors & styles.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_webdiscus_ansis__Formatting_text_in_terminal_with_ANSI_colors___styles..svg)](https://github.com/webdiscus/ansis)
-[![Observable tutorial: Analyze data in a JavaScript-native data notebook - Cube Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Observable_tutorial__Analyze_data_in_a_JavaScript-native_data_notebook_-_Cube_Blog.svg)](https://cube.dev/blog/observable-tutorial-javascript-native-data-notebook)
 
 
 <!-- post-list:end -->
