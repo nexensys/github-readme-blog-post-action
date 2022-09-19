@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, September 18, 2022 at 12:13:32 PM
+> Last updated: Sunday, September 18, 2022 at 7:04:01 PM
 
 > Showing 5 of 12 posts.
 
-[![💥 AWS CDK 101 - 💫 Dynamodb Local setup and integrating with sam invoke](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/💥_AWS_CDK_101_-_💫_Dynamodb_Local_setup_and_integrating_with_sam_invoke.svg)](https://dev.to/aws-builders/aws-cdk-101-dynamodb-local-setup-and-integrating-with-sam-invoke-527f)
-[![Makefile for your Django project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Makefile_for_your_Django_project.svg)](https://dev.to/daiquiri_team/makefile-for-your-django-project-577n)
-[![ADOBE acquires FIGMA !!!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/ADOBE_acquires_FIGMA_!!!.svg)](https://dev.to/dhanushnehru/adobe-acquires-figma--1ec)
-[![Three Tricks for Chrome DevTools to Find Logs More Easily](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Three_Tricks_for_Chrome_DevTools_to_Find_Logs_More_Easily.svg)](https://dev.to/perssondennis/three-tricks-for-chrome-devtools-to-find-logs-more-easily-27k8)
-[![Production incidents - 7 practical tips to help you through your next incident](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Production_incidents_-_7_practical_tips_to_help_you_through_your_next_incident.svg)](https://dev.to/liorhalfon/production-incidents-7-practical-tips-to-help-you-through-your-next-incident-5fj)
+[![Learning Rust - Merkel Tree](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Learning_Rust_-_Merkel_Tree.svg)](https://dev.to/msedzins/learning-rust-merkel-tree-9p)
+[![palpatine - SSG Release1.0.0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/palpatine_-_SSG_Release1.0.0.svg)](https://dev.to/batunpc/palpatine-release10-350g)
+[![No-brainer Dark Mode for Next.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/No-brainer_Dark_Mode_for_Next.js.svg)](https://dev.to/ekqt/no-brainer-dark-mode-for-nextjs-fo0)
+[![Deleting an Item in an Array at a Specific Index](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Deleting_an_Item_in_an_Array_at_a_Specific_Index.svg)](https://dev.to/smpnjn/deleting-an-item-in-an-array-at-a-specific-index-3mif)
+[![React - Hooks as Optional Parameters](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/React_-_Hooks_as_Optional_Parameters.svg)](https://dev.to/noriller/hooks-as-optional-parameters-5e26)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, September 18, 2022 at 12:13:36 PM
+> Last updated: Sunday, September 18, 2022 at 7:04:04 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, September 18, 2022 at 12:13:41 PM
+> Last updated: Sunday, September 18, 2022 at 7:04:09 PM
 
 > Showing 5 of 30 posts.
 
