@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, September 18, 2022 at 7:04:01 PM
+> Last updated: Tuesday, September 20, 2022 at 12:14:08 PM
 
 > Showing 5 of 12 posts.
 
-[![Learning Rust - Merkel Tree](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Learning_Rust_-_Merkel_Tree.svg)](https://dev.to/msedzins/learning-rust-merkel-tree-9p)
-[![palpatine - SSG Release1.0.0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/palpatine_-_SSG_Release1.0.0.svg)](https://dev.to/batunpc/palpatine-release10-350g)
-[![No-brainer Dark Mode for Next.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/No-brainer_Dark_Mode_for_Next.js.svg)](https://dev.to/ekqt/no-brainer-dark-mode-for-nextjs-fo0)
-[![Deleting an Item in an Array at a Specific Index](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Deleting_an_Item_in_an_Array_at_a_Specific_Index.svg)](https://dev.to/smpnjn/deleting-an-item-in-an-array-at-a-specific-index-3mif)
-[![React - Hooks as Optional Parameters](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/React_-_Hooks_as_Optional_Parameters.svg)](https://dev.to/noriller/hooks-as-optional-parameters-5e26)
+[![Release NPM Package With Automatic Versioning](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Release_NPM_Package_With_Automatic_Versioning.svg)](https://dev.to/zirkelc/release-npm-package-with-automatic-versioning-4if4)
+[![Simple tool check informations from domain name with golang](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Simple_tool_check_informations_from_domain_name_with_golang.svg)](https://dev.to/ductnn/simple-tool-check-domain-information-with-golang-54j8)
+[![Redis Hackathon Winners, Announced!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Redis_Hackathon_Winners__Announced!.svg)](https://dev.to/devteam/redis-hackathon-winners-announced-524d)
+[![Full Stack Developer Interview Questions And Answers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Full_Stack_Developer_Interview_Questions_And_Answers.svg)](https://dev.to/codetipsandtricks/full-stack-developer-interview-questions-and-answers-3nob)
+[![Introduction to data structures](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Introduction_to_data_structures.svg)](https://dev.to/gbengelebs/introduction-to-data-structures-ok3)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, September 18, 2022 at 7:04:04 PM
+> Last updated: Tuesday, September 20, 2022 at 12:14:11 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,12 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, September 18, 2022 at 7:04:09 PM
+> Last updated: Tuesday, September 20, 2022 at 12:14:22 PM
 
 > Showing 5 of 30 posts.
 
+[![How to Write Polyfill of Every Method in Javascript?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Write_Polyfill_of_Every_Method_in_Javascript_.svg)](https://www.youtube.com/watch?v=4lJ3nbRUr1Q)
+[![API with NestJS #75. Many-to-many relationships using raw SQL queries](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__75._Many-to-many_relationships_using_raw_SQL_queries.svg)](https://wanago.io/2022/09/19/api-nestjs-many-to-many-relationships-raw-sql/)
 [![Feature Review of the Best Personal Website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Feature_Review_of_the_Best_Personal_Website.svg)](https://www.youtube.com/watch?v=CkvKPspIPLs)
 [![GitHub - luoxuhai/pcl.js: ☁️  ⚡ Point Cloud Library (PCL) for browser, powered by WebAssembly｜在浏览器运行的点云库 (PCL)，由 WebAssembly 提供支持。](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_luoxuhai_pcl.js__☁️__⚡_Point_Cloud_Library_(PCL)_for_browser__powered_by_WebAssembly｜在浏览器运行的点云库_(PCL)，由_WebAssembly_提供支持。.svg)](https://github.com/luoxuhai/pcl.js)
 [![
@@ -54,8 +56,6 @@ How many dots can you see? Optical illusion - easy tutorial (18 lines of pure JS
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_How_many_dots_can_you_see__Optical_illusion_-_easy_tutorial_(18_lines_of_pure_JS)_.svg)](
 https://slicker.me/javascript/illusion.htm
 )
-[![How Do I Get A Free Tablet With Food Stamps 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_Do_I_Get_A_Free_Tablet_With_Food_Stamps_2022.svg)](https://getgovtgrants.com/free-tablet-with-food-stamps)
-[![GitHub - alphaaurigae/gentoo_unattented-setup: Automated modular GENTOO linux setup](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_alphaaurigae_gentoo_unattented-setup__Automated_modular_GENTOO_linux_setup.svg)](https://github.com/alphaaurigae/gentoo_unattented-setup)
 
 
 <!-- post-list:end -->
