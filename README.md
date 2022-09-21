@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, September 20, 2022 at 12:14:08 PM
+> Last updated: Tuesday, September 20, 2022 at 7:07:13 PM
 
 > Showing 5 of 12 posts.
 
-[![Release NPM Package With Automatic Versioning](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Release_NPM_Package_With_Automatic_Versioning.svg)](https://dev.to/zirkelc/release-npm-package-with-automatic-versioning-4if4)
-[![Simple tool check informations from domain name with golang](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Simple_tool_check_informations_from_domain_name_with_golang.svg)](https://dev.to/ductnn/simple-tool-check-domain-information-with-golang-54j8)
-[![Redis Hackathon Winners, Announced!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Redis_Hackathon_Winners__Announced!.svg)](https://dev.to/devteam/redis-hackathon-winners-announced-524d)
-[![Full Stack Developer Interview Questions And Answers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Full_Stack_Developer_Interview_Questions_And_Answers.svg)](https://dev.to/codetipsandtricks/full-stack-developer-interview-questions-and-answers-3nob)
-[![Introduction to data structures](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Introduction_to_data_structures.svg)](https://dev.to/gbengelebs/introduction-to-data-structures-ok3)
+[![Login with Logify](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Login_with_Logify.svg)](https://dev.to/logify/login-with-logify-3ae)
+[![Study: Developers wait 4+ Days on Average for Their Pull Requests to be Picked Up](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Study__Developers_wait_4+_Days_on_Average_for_Their_Pull_Requests_to_be_Picked_Up.svg)](https://dev.to/linearb/study-developers-wait-4-days-on-average-for-their-pull-requests-to-be-picked-up-2m6k)
+[![What is AWS Cloud WAN?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_AWS_Cloud_WAN_.svg)](https://dev.to/makendrang/what-is-aws-cloud-wan-5e4k)
+[![Débuter avec Angular 14: #5 Le two way data binding ou le banana in the box 🍌 ️📦](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Débuter_avec_Angular_14___5_Le_two_way_data_binding_ou_le_banana_in_the_box_🍌_️📦.svg)](https://dev.to/sidali/debuter-avec-angular-14-5-le-two-way-data-binding-ou-le-banana-in-the-box-52gl)
+[![Unhex - convert colors to RGB, HEX or HSL in bulk](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Unhex_-_convert_colors_to_RGB__HEX_or_HSL_in_bulk.svg)](https://dev.to/aspnxdd/unhex-convert-colors-to-rgb-hex-or-hsl-in-bulk-9fh)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, September 20, 2022 at 12:14:11 PM
+> Last updated: Tuesday, September 20, 2022 at 7:07:15 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, September 20, 2022 at 12:14:22 PM
+> Last updated: Tuesday, September 20, 2022 at 7:07:20 PM
 
 > Showing 5 of 30 posts.
 
