@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, September 21, 2022 at 6:24:24 AM
+> Last updated: Wednesday, September 21, 2022 at 12:14:16 PM
 
 > Showing 5 of 12 posts.
 
-[![Tree shaking in Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Tree_shaking_in_Javascript.svg)](https://dev.to/milekag01/tree-shaking-in-javascript-2po4)
-[![Javascript Proxy: Introduction](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Javascript_Proxy__Introduction.svg)](https://dev.to/milekag01/javascript-proxy-introduction-68k)
-[![Data Concepts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Data_Concepts.svg)](https://dev.to/unnotedme/data-concepts-5cf0)
-[![Async Rust: What is a runtime? Here is how tokio works under the hood](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Async_Rust__What_is_a_runtime__Here_is_how_tokio_works_under_the_hood.svg)](https://dev.to/sylvainkerkour/async-rust-what-is-a-runtime-here-is-how-tokio-works-under-the-hood-4c6h)
-[![Test Plan Driven Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Test_Plan_Driven_Development.svg)](https://dev.to/woovi/test-plan-driven-development-56a2)
+[![VSCode Server: Next level coding on iPad](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/VSCode_Server__Next_level_coding_on_iPad.svg)](https://dev.to/sfritsch09/vscode-server-next-level-coding-on-ipad-ehk)
+[![Introduction to Kubernetes extensibility](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Introduction_to_Kubernetes_extensibility.svg)](https://dev.to/nfrankel/introduction-to-kubernetes-extensibility-4bcp)
+[![Render: Awesome alternative for Heroku](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Render__Awesome_alternative_for_Heroku.svg)](https://dev.to/maklut/render-awesome-alternative-for-heroku-mf2)
+[![Success With Step Functions - Finding a Way To Build That Doesn't Suck](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Success_With_Step_Functions_-_Finding_a_Way_To_Build_That_Doesn't_Suck.svg)](https://dev.to/aws-heroes/success-with-step-functions-finding-a-way-to-build-that-doesnt-suck-27p3)
+[![Supercharging VS Code Live Server](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Supercharging_VS_Code_Live_Server.svg)](https://dev.to/codepo8/supercharging-vs-code-live-server-1bgi)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, September 21, 2022 at 6:24:28 AM
+> Last updated: Wednesday, September 21, 2022 at 12:14:19 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, September 21, 2022 at 6:24:37 AM
+> Last updated: Wednesday, September 21, 2022 at 12:14:26 PM
 
 > Showing 5 of 30 posts.
 
