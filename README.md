@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, September 21, 2022 at 12:47:10 AM
+> Last updated: Wednesday, September 21, 2022 at 6:24:24 AM
 
 > Showing 5 of 12 posts.
 
-[![.NET 6 - Web API Global Exceptions Handling 🌐](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/.NET_6_-_Web_API_Global_Exceptions_Handling_🌐.svg)](https://dev.to/moe23/net-6-web-api-global-exceptions-handling-1a46)
-[![System Design: WhatsApp](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/System_Design__WhatsApp.svg)](https://dev.to/karanpratapsingh/system-design-whatsapp-fld)
-[![System Design: URL Shortener](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/System_Design__URL_Shortener.svg)](https://dev.to/karanpratapsingh/system-design-url-shortener-10i5)
-[![Platform Dependent VS Platform Independent](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Platform_Dependent_VS_Platform_Independent.svg)](https://dev.to/roshan_100kar/platform-dependent-vs-platform-independent-bge)
-[![VS Code Tip of the week: The JavaScript Debug Terminal](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/VS_Code_Tip_of_the_week__The_JavaScript_Debug_Terminal.svg)](https://dev.to/vscodetips/vs-code-tip-of-the-week-the-javascript-debug-terminal-2063)
+[![Tree shaking in Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Tree_shaking_in_Javascript.svg)](https://dev.to/milekag01/tree-shaking-in-javascript-2po4)
+[![Javascript Proxy: Introduction](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Javascript_Proxy__Introduction.svg)](https://dev.to/milekag01/javascript-proxy-introduction-68k)
+[![Data Concepts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Data_Concepts.svg)](https://dev.to/unnotedme/data-concepts-5cf0)
+[![Async Rust: What is a runtime? Here is how tokio works under the hood](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Async_Rust__What_is_a_runtime__Here_is_how_tokio_works_under_the_hood.svg)](https://dev.to/sylvainkerkour/async-rust-what-is-a-runtime-here-is-how-tokio-works-under-the-hood-4c6h)
+[![Test Plan Driven Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Test_Plan_Driven_Development.svg)](https://dev.to/woovi/test-plan-driven-development-56a2)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, September 21, 2022 at 12:47:13 AM
+> Last updated: Wednesday, September 21, 2022 at 6:24:28 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, September 21, 2022 at 12:47:20 AM
+> Last updated: Wednesday, September 21, 2022 at 6:24:37 AM
 
 > Showing 5 of 30 posts.
 
+[![Best Mobile App Development Services in USA & India | AppClues Infotech](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Best_Mobile_App_Development_Services_in_USA___India___AppClues_Infotech.svg)](https://www.appcluesinfotech.com/services/)
+[![Build a Job Board with VueJS and GraphQL | Webiny](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_a_Job_Board_with_VueJS_and_GraphQL___Webiny.svg)](
+https://www.webiny.com/blog/build-job-board-application-vue-graphql
+)
+[![The :where pseudo selector in CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The__where_pseudo_selector_in_CSS.svg)](http://www.js-craft.io/blog/the-where-pseudo-selector-in-css/)
 [![Episode 29 - Serverless JavaScript: what, where and why with Benjamin Read - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_29_-_Serverless_JavaScript__what__where_and_why_with_Benjamin_Read_-_20minJS.svg)](https://podcast.20minjs.com/1952066/11343825-episode-29-serverless-javascript-what-where-and-why-with-benjamin-read)
 [![How to Write Polyfill of Every Method in Javascript?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Write_Polyfill_of_Every_Method_in_Javascript_.svg)](https://www.youtube.com/watch?v=4lJ3nbRUr1Q)
-[![API with NestJS #75. Many-to-many relationships using raw SQL queries](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__75._Many-to-many_relationships_using_raw_SQL_queries.svg)](https://wanago.io/2022/09/19/api-nestjs-many-to-many-relationships-raw-sql/)
-[![Feature Review of the Best Personal Website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Feature_Review_of_the_Best_Personal_Website.svg)](https://www.youtube.com/watch?v=CkvKPspIPLs)
-[![GitHub - luoxuhai/pcl.js: ☁️  ⚡ Point Cloud Library (PCL) for browser, powered by WebAssembly｜在浏览器运行的点云库 (PCL)，由 WebAssembly 提供支持。](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_luoxuhai_pcl.js__☁️__⚡_Point_Cloud_Library_(PCL)_for_browser__powered_by_WebAssembly｜在浏览器运行的点云库_(PCL)，由_WebAssembly_提供支持。.svg)](https://github.com/luoxuhai/pcl.js)
 
 
 <!-- post-list:end -->
