@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, September 20, 2022 at 7:07:13 PM
+> Last updated: Wednesday, September 21, 2022 at 12:47:10 AM
 
 > Showing 5 of 12 posts.
 
-[![Login with Logify](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Login_with_Logify.svg)](https://dev.to/logify/login-with-logify-3ae)
-[![Study: Developers wait 4+ Days on Average for Their Pull Requests to be Picked Up](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Study__Developers_wait_4+_Days_on_Average_for_Their_Pull_Requests_to_be_Picked_Up.svg)](https://dev.to/linearb/study-developers-wait-4-days-on-average-for-their-pull-requests-to-be-picked-up-2m6k)
-[![What is AWS Cloud WAN?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_AWS_Cloud_WAN_.svg)](https://dev.to/makendrang/what-is-aws-cloud-wan-5e4k)
-[![Débuter avec Angular 14: #5 Le two way data binding ou le banana in the box 🍌 ️📦](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Débuter_avec_Angular_14___5_Le_two_way_data_binding_ou_le_banana_in_the_box_🍌_️📦.svg)](https://dev.to/sidali/debuter-avec-angular-14-5-le-two-way-data-binding-ou-le-banana-in-the-box-52gl)
-[![Unhex - convert colors to RGB, HEX or HSL in bulk](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Unhex_-_convert_colors_to_RGB__HEX_or_HSL_in_bulk.svg)](https://dev.to/aspnxdd/unhex-convert-colors-to-rgb-hex-or-hsl-in-bulk-9fh)
+[![.NET 6 - Web API Global Exceptions Handling 🌐](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/.NET_6_-_Web_API_Global_Exceptions_Handling_🌐.svg)](https://dev.to/moe23/net-6-web-api-global-exceptions-handling-1a46)
+[![System Design: WhatsApp](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/System_Design__WhatsApp.svg)](https://dev.to/karanpratapsingh/system-design-whatsapp-fld)
+[![System Design: URL Shortener](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/System_Design__URL_Shortener.svg)](https://dev.to/karanpratapsingh/system-design-url-shortener-10i5)
+[![Platform Dependent VS Platform Independent](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Platform_Dependent_VS_Platform_Independent.svg)](https://dev.to/roshan_100kar/platform-dependent-vs-platform-independent-bge)
+[![VS Code Tip of the week: The JavaScript Debug Terminal](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/VS_Code_Tip_of_the_week__The_JavaScript_Debug_Terminal.svg)](https://dev.to/vscodetips/vs-code-tip-of-the-week-the-javascript-debug-terminal-2063)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, September 20, 2022 at 7:07:15 PM
+> Last updated: Wednesday, September 21, 2022 at 12:47:13 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, September 20, 2022 at 7:07:20 PM
+> Last updated: Wednesday, September 21, 2022 at 12:47:20 AM
 
 > Showing 5 of 30 posts.
 
+[![Episode 29 - Serverless JavaScript: what, where and why with Benjamin Read - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_29_-_Serverless_JavaScript__what__where_and_why_with_Benjamin_Read_-_20minJS.svg)](https://podcast.20minjs.com/1952066/11343825-episode-29-serverless-javascript-what-where-and-why-with-benjamin-read)
 [![How to Write Polyfill of Every Method in Javascript?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Write_Polyfill_of_Every_Method_in_Javascript_.svg)](https://www.youtube.com/watch?v=4lJ3nbRUr1Q)
 [![API with NestJS #75. Many-to-many relationships using raw SQL queries](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__75._Many-to-many_relationships_using_raw_SQL_queries.svg)](https://wanago.io/2022/09/19/api-nestjs-many-to-many-relationships-raw-sql/)
 [![Feature Review of the Best Personal Website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Feature_Review_of_the_Best_Personal_Website.svg)](https://www.youtube.com/watch?v=CkvKPspIPLs)
 [![GitHub - luoxuhai/pcl.js: ☁️  ⚡ Point Cloud Library (PCL) for browser, powered by WebAssembly｜在浏览器运行的点云库 (PCL)，由 WebAssembly 提供支持。](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_luoxuhai_pcl.js__☁️__⚡_Point_Cloud_Library_(PCL)_for_browser__powered_by_WebAssembly｜在浏览器运行的点云库_(PCL)，由_WebAssembly_提供支持。.svg)](https://github.com/luoxuhai/pcl.js)
-[![
-How many dots can you see? Optical illusion - easy tutorial (18 lines of pure JS)
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_How_many_dots_can_you_see__Optical_illusion_-_easy_tutorial_(18_lines_of_pure_JS)_.svg)](
-https://slicker.me/javascript/illusion.htm
-)
 
 
 <!-- post-list:end -->
