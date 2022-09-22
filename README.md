@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, September 21, 2022 at 12:14:16 PM
+> Last updated: Wednesday, September 21, 2022 at 7:02:23 PM
 
 > Showing 5 of 12 posts.
 
-[![VSCode Server: Next level coding on iPad](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/VSCode_Server__Next_level_coding_on_iPad.svg)](https://dev.to/sfritsch09/vscode-server-next-level-coding-on-ipad-ehk)
-[![Introduction to Kubernetes extensibility](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Introduction_to_Kubernetes_extensibility.svg)](https://dev.to/nfrankel/introduction-to-kubernetes-extensibility-4bcp)
-[![Render: Awesome alternative for Heroku](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Render__Awesome_alternative_for_Heroku.svg)](https://dev.to/maklut/render-awesome-alternative-for-heroku-mf2)
-[![Success With Step Functions - Finding a Way To Build That Doesn't Suck](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Success_With_Step_Functions_-_Finding_a_Way_To_Build_That_Doesn't_Suck.svg)](https://dev.to/aws-heroes/success-with-step-functions-finding-a-way-to-build-that-doesnt-suck-27p3)
-[![Supercharging VS Code Live Server](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Supercharging_VS_Code_Live_Server.svg)](https://dev.to/codepo8/supercharging-vs-code-live-server-1bgi)
+[![How To Sync Data Between Two Databases](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_To_Sync_Data_Between_Two_Databases.svg)](https://dev.to/joeauty/how-to-sync-data-between-two-databases-38j0)
+[![Understand synchronous Vs asynchronous code in Js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Understand_synchronous_Vs_asynchronous_code_in_Js.svg)](https://dev.to/twizelissa/understand-synchronous-vs-asynchronous-code-in-js-3pb6)
+[![How to Migrate from MySQL to PostgreSQL RDBMS: An Enterprise Approach](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Migrate_from_MySQL_to_PostgreSQL_RDBMS__An_Enterprise_Approach.svg)](https://dev.to/dm8ry/how-to-migrate-from-mysql-to-postgresql-rdbms-an-enterprise-approach-2hfj)
+[![Creating a CLI tool using NodeJS and npm (part 2)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Creating_a_CLI_tool_using_NodeJS_and_npm_(part_2).svg)](https://dev.to/pgarciacamou/creating-a-cli-tool-using-nodejs-and-npm-part-2-8h7)
+[![Welcome Thread - v192](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Welcome_Thread_-_v192.svg)](https://dev.to/thepracticaldev/welcome-thread-v192-25mc)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, September 21, 2022 at 12:14:19 PM
+> Last updated: Wednesday, September 21, 2022 at 7:02:25 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, September 21, 2022 at 12:14:26 PM
+> Last updated: Wednesday, September 21, 2022 at 7:02:32 PM
 
 > Showing 5 of 30 posts.
 
-[![Best Mobile App Development Services in USA & India | AppClues Infotech](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Best_Mobile_App_Development_Services_in_USA___India___AppClues_Infotech.svg)](https://www.appcluesinfotech.com/services/)
 [![Build a Job Board with VueJS and GraphQL | Webiny](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_a_Job_Board_with_VueJS_and_GraphQL___Webiny.svg)](
 https://www.webiny.com/blog/build-job-board-application-vue-graphql
 )
 [![The :where pseudo selector in CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The__where_pseudo_selector_in_CSS.svg)](http://www.js-craft.io/blog/the-where-pseudo-selector-in-css/)
 [![Episode 29 - Serverless JavaScript: what, where and why with Benjamin Read - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_29_-_Serverless_JavaScript__what__where_and_why_with_Benjamin_Read_-_20minJS.svg)](https://podcast.20minjs.com/1952066/11343825-episode-29-serverless-javascript-what-where-and-why-with-benjamin-read)
 [![How to Write Polyfill of Every Method in Javascript?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Write_Polyfill_of_Every_Method_in_Javascript_.svg)](https://www.youtube.com/watch?v=4lJ3nbRUr1Q)
+[![API with NestJS #75. Many-to-many relationships using raw SQL queries](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__75._Many-to-many_relationships_using_raw_SQL_queries.svg)](https://wanago.io/2022/09/19/api-nestjs-many-to-many-relationships-raw-sql/)
 
 
 <!-- post-list:end -->
