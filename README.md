@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, September 21, 2022 at 7:02:23 PM
+> Last updated: Thursday, September 22, 2022 at 12:44:10 AM
 
 > Showing 5 of 12 posts.
 
-[![How To Sync Data Between Two Databases](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_To_Sync_Data_Between_Two_Databases.svg)](https://dev.to/joeauty/how-to-sync-data-between-two-databases-38j0)
-[![Understand synchronous Vs asynchronous code in Js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Understand_synchronous_Vs_asynchronous_code_in_Js.svg)](https://dev.to/twizelissa/understand-synchronous-vs-asynchronous-code-in-js-3pb6)
-[![How to Migrate from MySQL to PostgreSQL RDBMS: An Enterprise Approach](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Migrate_from_MySQL_to_PostgreSQL_RDBMS__An_Enterprise_Approach.svg)](https://dev.to/dm8ry/how-to-migrate-from-mysql-to-postgresql-rdbms-an-enterprise-approach-2hfj)
-[![Creating a CLI tool using NodeJS and npm (part 2)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Creating_a_CLI_tool_using_NodeJS_and_npm_(part_2).svg)](https://dev.to/pgarciacamou/creating-a-cli-tool-using-nodejs-and-npm-part-2-8h7)
-[![Welcome Thread - v192](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Welcome_Thread_-_v192.svg)](https://dev.to/thepracticaldev/welcome-thread-v192-25mc)
+[![What is JDK Architecture in JAVA](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_JDK_Architecture_in_JAVA.svg)](https://dev.to/roshan_100kar/what-is-jdk-architecture-in-java-3bd3)
+[![System Design: Twitter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/System_Design__Twitter.svg)](https://dev.to/karanpratapsingh/system-design-twitter-865)
+[![RESTful - Understanding the most common HTTP verbs and Return Codes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/RESTful_-_Understanding_the_most_common_HTTP_verbs_and_Return_Codes.svg)](https://dev.to/gabrielbabler/restful-understanding-the-most-common-http-verbs-and-return-codes-2g2o)
+[![Named Subroutine Arguments in Perl](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Named_Subroutine_Arguments_in_Perl.svg)](https://dev.to/nicholasbhubbard/named-subroutine-arguments-in-perl-2a3h)
+[![Tkinter & Tk resources](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Tkinter___Tk_resources.svg)](https://dev.to/moogoo78/tkinter-tk-resources-7i4)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, September 21, 2022 at 7:02:25 PM
+> Last updated: Thursday, September 22, 2022 at 12:44:14 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, September 21, 2022 at 7:02:32 PM
+> Last updated: Thursday, September 22, 2022 at 12:44:24 AM
 
 > Showing 5 of 30 posts.
 
