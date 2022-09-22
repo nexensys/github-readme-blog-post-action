@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, September 22, 2022 at 6:23:24 AM
+> Last updated: Thursday, September 22, 2022 at 12:13:59 PM
 
 > Showing 5 of 12 posts.
 
-[![Free Awesome Notion Templates for Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Free_Awesome_Notion_Templates_for_Developers.svg)](https://dev.to/surajondev/free-awesome-notion-templates-for-developers-43mh)
-[![Remove Element](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Remove_Element.svg)](https://dev.to/nifilat/remove-element-2ag7)
-[![Build a Ticket Triaging App with Baserow and ToolJet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_a_Ticket_Triaging_App_with_Baserow_and_ToolJet.svg)](https://dev.to/tooljet/build-a-ticket-triaging-app-with-baserow-and-tooljet-250)
-[![Medusa Hackathon sign-up: Win Merch and Prizes up to <!-- post-list:start -->,500 During Hacktoberfest](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Medusa_Hackathon_sign-up__Win_Merch_and_Prizes_up_to_<!-- post-list:start -->_500_During_Hacktoberfest.svg)](https://dev.to/medusajs/medusa-hackathon-sign-up-win-merch-and-prizes-up-to-1500-during-hacktoberfest-4h45)
-[![PHP Token ICO Presale Launchpad Script - Multi Chain](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/PHP_Token_ICO_Presale_Launchpad_Script_-_Multi_Chain.svg)](https://dev.to/webtroloji/php-token-ico-presale-launchpad-script-multi-chain-38ml)
+[![Machine Learning Forecasting for Enhancing Business Intelligence](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Machine_Learning_Forecasting_for_Enhancing_Business_Intelligence.svg)](https://dev.to/anastasiiamolodoria/machine-learning-forecasting-for-enhancing-business-intelligence-2mhi)
+[![Discussion and Comment of the Week - v19](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Discussion_and_Comment_of_the_Week_-_v19.svg)](https://dev.to/devteam/discussion-and-comment-of-the-week-v19-20ke)
+[![Back on the Grind](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Back_on_the_Grind.svg)](https://dev.to/hethinksthrice/back-on-the-grind-1ebd)
+[![Kubernetes Cost Monitoring: 3 Metrics You Need to Track ASAP](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Kubernetes_Cost_Monitoring__3_Metrics_You_Need_to_Track_ASAP.svg)](https://dev.to/castai/kubernetes-cost-monitoring-3-metrics-you-need-to-track-asap-5c6o)
+[![How to Cache GraphQL Requests Using Kong and StepZen](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Cache_GraphQL_Requests_Using_Kong_and_StepZen.svg)](https://dev.to/stepzen/how-to-cache-graphql-requests-using-kong-and-stepzen-4gk9)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, September 22, 2022 at 6:23:27 AM
+> Last updated: Thursday, September 22, 2022 at 12:14:02 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,21 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, September 22, 2022 at 6:25:45 AM
+> Last updated: Thursday, September 22, 2022 at 12:14:06 PM
 
 > Showing 5 of 30 posts.
 
+[![Fixing Obscure Bugs: Apache, GZip, ETags, & Edge Compute](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Fixing_Obscure_Bugs__Apache__GZip__ETags____Edge_Compute.svg)](https://austingil.com/apache-gzip-etags-edge-compute/)
+[![What is NextJs prefetching and why should I care](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_is_NextJs_prefetching_and_why_should_I_care.svg)](http://www.js-craft.io/blog/what-is-nextjs-prefetching-and-why-should-i-care/)
 [![GitHub - wlucha/angular-starter: Angular 14 Starter with Storybook, Transloco, Jest, TestCafe, Docker, ESLint, Material & Prettier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_wlucha_angular-starter__Angular_14_Starter_with_Storybook__Transloco__Jest__TestCafe__Docker__ESLint__Material___Prettier.svg)](https://github.com/wlucha/angular-starter)
-[![
-20MinJS - Episode 27 - Let's talk about Remix with Chance Strickland
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_20MinJS_-_Episode_27_-_Let's_talk_about_Remix_with_Chance_Strickland_.svg)](
-https://podcast.20minjs.com/1952066/11263362-episode-27-let-s-talk-about-remix-with-chance-strickland
-)
+[![Episode 27 - Let's talk about Remix with Chance Strickland - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_27_-_Let's_talk_about_Remix_with_Chance_Strickland_-_20minJS.svg)](https://podcast.20minjs.com/1952066/11263362-episode-27-let-s-talk-about-remix-with-chance-strickland)
 [![Build a Job Board with VueJS and GraphQL | Webiny](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_a_Job_Board_with_VueJS_and_GraphQL___Webiny.svg)](
 https://www.webiny.com/blog/build-job-board-application-vue-graphql
 )
-[![The :where pseudo selector in CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The__where_pseudo_selector_in_CSS.svg)](http://www.js-craft.io/blog/the-where-pseudo-selector-in-css/)
-[![Episode 29 - Serverless JavaScript: what, where and why with Benjamin Read - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_29_-_Serverless_JavaScript__what__where_and_why_with_Benjamin_Read_-_20minJS.svg)](https://podcast.20minjs.com/1952066/11343825-episode-29-serverless-javascript-what-where-and-why-with-benjamin-read)
 
 
 <!-- post-list:end -->

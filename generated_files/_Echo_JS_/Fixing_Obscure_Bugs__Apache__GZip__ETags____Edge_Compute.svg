@@ -67,8 +67,8 @@
     <foreignObject width="600" height="100" x="5" y="5">
       <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
         <div class="text">
-          <div class="title">&#0010;20MinJS&#0032;&#0045;&#0032;Episode&#0032;27&#0032;&#0045;&#0032;Let&#0039;s&#0032;talk&#0032;about&#0032;Remix&#0032;with&#0032;Chance&#0032;Strickland&#0010;</div>
-          <div class="description">Comments</div>
+          <div class="title">Fixing&#0032;Obscure&#0032;Bugs&#0058;&#0032;Apache&#0044;&#0032;GZip&#0044;&#0032;ETags&#0044;&#0032;&#0038;&#0032;Edge&#0032;Compute</div>
+          <div class="description">This&#0032;post&#0032;highlights&#0032;an&#0032;interesting&#0032;use&#0045;case&#0032;for&#0032;using&#0032;edge&#0032;compute&#0032;to&#0032;solve&#0032;an&#0032;obscure&#0032;performance&#0032;bug&#0032;with&#0032;Apache&#0039;s&#0032;GZip&#0032;module&#0046;</div>
           <div class="date"></div>
           <div class="data">
             <span class="author"></span> 
