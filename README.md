@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, September 22, 2022 at 7:08:26 PM
+> Last updated: Friday, September 23, 2022 at 12:40:15 AM
 
 > Showing 5 of 12 posts.
 
-[![Generate a QR Code with Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Generate_a_QR_Code_with_Python.svg)](https://dev.to/codedex/generate-a-qr-code-with-python-386m)
-[![Build A Mutant Ape Yacht Club (MAYC) NFT Collection Clone](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_A_Mutant_Ape_Yacht_Club_(MAYC)_NFT_Collection_Clone.svg)](https://dev.to/thirdweb/build-a-mutant-ape-yacht-club-mayc-nft-collection-clone-4c61)
-[![Class::Plain - Class Syntax for Hash-Based Perl OO](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Class__Plain_-_Class_Syntax_for_Hash-Based_Perl_OO.svg)](https://dev.to/yukikimoto/classplain-class-syntax-for-hash-based-perl-oo-4j6a)
-[![Setting up a Factorio Multiplayer Server on DigitalOcean](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Setting_up_a_Factorio_Multiplayer_Server_on_DigitalOcean.svg)](https://dev.to/digitalocean/setting-up-a-factorio-multiplayer-server-on-digitalocean-3g7h)
-[![How to test "window.open" in Vue with Vitest](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_test__window.open__in_Vue_with_Vitest.svg)](https://dev.to/lesalvucci/how-to-test-windowopen-in-vue-with-vitest-56pn)
+[![Shotstack Virtual Hackathon: Build Awesome Media Apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Shotstack_Virtual_Hackathon__Build_Awesome_Media_Apps.svg)](https://dev.to/shotstack/shotstack-virtual-hackathon-build-awesome-media-apps-3ap7)
+[![palpatine received its first PR](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/palpatine_received_its_first_PR.svg)](https://dev.to/batunpc/palpatine-received-its-first-pull-request-532a)
+[![The joy of validating with Joi](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_joy_of_validating_with_Joi.svg)](https://dev.to/methmi/the-joy-of-validating-with-joi-51ej)
+[![5 Tips for Black Women Learning How to Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_Tips_for_Black_Women_Learning_How_to_Code.svg)](https://dev.to/brinascode/5-tips-for-black-women-learning-how-to-code-3cdd)
+[![Rails guide - Adding tests - Part 4](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Rails_guide_-_Adding_tests_-_Part_4.svg)](https://dev.to/augusto_queirantes/rails-guide-adding-tests-part-4-3gl8)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, September 22, 2022 at 7:08:30 PM
+> Last updated: Friday, September 23, 2022 at 12:40:18 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, September 22, 2022 at 7:08:37 PM
+> Last updated: Friday, September 23, 2022 at 12:40:23 AM
 
 > Showing 5 of 30 posts.
 
