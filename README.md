@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, September 23, 2022 at 6:23:05 AM
+> Last updated: Friday, September 23, 2022 at 12:15:02 PM
 
 > Showing 5 of 12 posts.
 
-[![tsParticles 2.3.2 Released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/tsParticles_2.3.2_Released.svg)](https://dev.to/tsparticles/tsparticles-232-released-27ep)
-[![Deploying NLP Models to the cloud with our Python SDK, Truss and Baseten!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Deploying_NLP_Models_to_the_cloud_with_our_Python_SDK__Truss_and_Baseten!.svg)](https://dev.to/meetkern/deploying-nlp-models-to-the-cloud-with-our-python-sdk-truss-and-baseten-iji)
-[![process.env as feature flags](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/process.env_as_feature_flags.svg)](https://dev.to/woovi/processenv-as-feature-flags-nf)
-[![Testing React Apps With Cypress: An In-Depth Guide For Beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Testing_React_Apps_With_Cypress__An_In-Depth_Guide_For_Beginners.svg)](https://dev.to/profydev/how-to-start-testing-react-apps-and-why-i-recommend-cypress-to-beginners-5el5)
-[![AWS APAC Community Summit Wrap up](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/AWS_APAC_Community_Summit_Wrap_up.svg)](https://dev.to/aws-heroes/aws-apac-community-summit-wrap-up-1an4)
+[![Getting Started with Notary](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Getting_Started_with_Notary.svg)](https://dev.to/azure/getting-started-with-notary-5eea)
+[![Creating bots with OAuth 2.0 Authorization Code Flow with PKCE and V2 of the Twitter API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Creating_bots_with_OAuth_2.0_Authorization_Code_Flow_with_PKCE_and_V2_of_the_Twitter_API.svg)](https://dev.to/jessicagarson/creating-bots-with-oauth-20-authorization-code-flow-with-pkce-and-v2-of-the-twitter-api-470c)
+[![Finding the Minimum and Maximum Values of an Array in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Finding_the_Minimum_and_Maximum_Values_of_an_Array_in_JavaScript.svg)](https://dev.to/cavein254/finding-the-minimum-and-maximum-values-of-an-array-in-javascript-3kel)
+[![HTML: Display tooltip with only HTML](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/HTML__Display_tooltip_with_only_HTML.svg)](https://dev.to/urstrulyvishwak/html-display-tooltip-with-only-html-2e2k)
+[![How I get 2K daily traffic with Web Stories?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_I_get_2K_daily_traffic_with_Web_Stories_.svg)](https://dev.to/developerbishwas/how-i-get-2k-daily-traffic-with-web-stories-46ng)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, September 23, 2022 at 6:23:08 AM
+> Last updated: Friday, September 23, 2022 at 12:15:06 PM
 
 > Showing 4 of 4 posts.
 
+[![Extractors for ECMAScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Extractors_for_ECMAScript.svg)](https://javascriptweekly.com/issues/607)
 [![Seven weird ways to call a JavaScript function](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Seven_weird_ways_to_call_a_JavaScript_function.svg)](https://javascriptweekly.com/issues/606)
 [![Anyone know Larry Ellison?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Anyone_know_Larry_Ellison_.svg)](https://javascriptweekly.com/issues/605)
 [![David's handy JS debugging tip](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/David's_handy_JS_debugging_tip.svg)](https://javascriptweekly.com/issues/604)
-[![The future JavaScript features at TC39](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/The_future_JavaScript_features_at_TC39.svg)](https://javascriptweekly.com/issues/603)
 
 
 ## Echo JS
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, September 23, 2022 at 6:23:15 AM
+> Last updated: Friday, September 23, 2022 at 12:15:10 PM
 
 > Showing 5 of 30 posts.
 

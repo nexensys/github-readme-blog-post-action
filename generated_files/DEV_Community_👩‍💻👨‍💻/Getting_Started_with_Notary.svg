@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 610 110" width="600" height="100" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <style>
+      .title {
+        font-size: 1.5em;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        white-space: nowrap;
+      }
+      .description {
+        font-size: 0.75em;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+      }
+      .text {
+        text-align: start;
+        padding: 10px;
+        height: calc(100% - 20px);
+        margin-left: 100px;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+        color: black;
+      }
+           .date {
+        font-size: 0.5em;
+        opacity: 0.5;
+        text-align: end;
+        position: absolute;
+        bottom: 0;
+        right: 10px;
+        color: black;
+      }
+      .image {
+        height: 100px;
+        width: 100px;
+        background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA+gAAAH0BAMAAABcBhoeAAAALVBMVEX///8AAAD29vYZGRnBwcErKyt3d3cICAjk5ORYWFjV1dWdnZ1GRkahoaGOjo5JowrrAAAEtUlEQVR42u3cP2sUWwDG4WVBSQIWhxCWmCAhVbBMsNA6RUiXhCWVYGU/hSwipFAkqUL8FIKVYGklwY9gJYIfxSKjO5KZnT2Ts8nu7PNgcYn77/q775xRzO10AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO5IdzeJvYl/uH2tklkKWQJhbSIfbiELWS//sapVwuhJTCz6P6KLjuiIjuiILrrooosuuuiiiy666KKLLrrooosuuuiiiy666KKLLjqiIzqiIzqiiy666KKLLrrooosuuuiiiy666KKLLrrooosuuuikjT6IUxJ9s7mN6y/xuBi9u5la/o6xL9wpedoYv9KRD7+t6KtnUc6vR1/aae5F/okuC18r/he5k9zh1Rvej3za76unvS986ekYV62jqIffWvTXcU99UBI99Ib/E7C4H+Eif9mDihMkC6lt59Ejn5ZHPy18aT3uqFqfpqUniN5cXfQg+rQufQajL1q6pVu66Jbu8m7plm7polu66JbuTLd0S7d00S1ddEt3plu6pVu66JYuuqU70y3d0i3dmT70qYLoLV76h/J/4ZWI6K/6tQ5Kon8v/Hzhp3v9JI5Hn+nL9a9w9Lm1S08Q/aL+3T+OfvgEvtnh3uilPxz/lSy9YfRT0edv6aLP4dKn4vK+aOmWbumiW7q7d0tvxdKd6S7vlu7ybumWbunOdEt3ebd0l3dLF93S/dm7pVu6M110d++iW7oz3Zlu6e7eRW/90n/+ivJD9Bac6Tf43ghn+qzevd88uqXP4dKd6aJb+jxc3p3plm7polu6u3dL9/t0S3d5t3SXd0u3dEt3prt7t3RLF92ZLrq7d2e6pVu6M110d++iW7oz3Zlu6bN+eT/5WuuL6C1b+nb9O/pmh7ad6c2iO9Nn+vJu6ZYuujNd9FbevTvTLd3Snemiu3sX3e/TLd3l3dJd3i3d0i3dmW7pLu+W7vJu6aK7e3emW7qlO9NFt3TRLd2ZPoVLf9KvdTB+9F7hac8roq/Uv+PxRJY+qH/jfpiLpUeqiR4K//yoInq9LJtI9OKHK9cLYS6Wnjh6SBF9Qt/hEsnS7zz64lxHn5mln1i6pYtu6aJbujPd3bulW7oz3Zlu6c50S7d0S3emW7rolu5Mt3RnuqW7vFu6pVu6M93SXd4tXfSk0bfO/nr7rfzjLp8NnZdE32muLHrFQ98UHnPZ/B0P8+iFLz0b/1fuXeS7TWn0MBiq2Fiv8JDB9eidzeY2Sj7dGA+9+Tt2az5EhW7cm21lUxo9hJCFXt1f6M0f8t9f6l3rMNrCFEdvSHTRER3RRRdddNFFF1100UUXXXTRRRdddNFFF130NNEXXlKltdETvVrbiS666KKLLrrooosuuuiiiy666KKLLrrooosuuuiiiy666KIjOqIjuuiiiy666KKLnkh3N4m9pK/Wdvu+DQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA0f4AMGdHH2KsUzsAAAAASUVORK5CYII=");
+        background-size: cover;
+        position: absolute;
+        top: 0;
+        left: 0;
+        border-radius: 10px;
+        background-position: center;
+      }
+      .main {
+        fill: white;
+      }
+      .data {
+        opacity: 0.75;
+        text-align: start;
+        position: absolute;
+        bottom: 0;
+        padding-bottom: 5px;
+        left: 110px;
+        color: black;
+        max-width: 400px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+      }
+      .author {
+        opacity: 0.75;
+        font-size: 0.5em;
+      }
+      .category {
+        background-color: rgba(0, 0, 0, 0.25);
+        border-radius: 0.25em;
+        padding: 0.125em 0.25em;
+        font-size: 0.75em;
+        color: rgba(0, 0, 0, 0.8);
+      }
+    </style>
+  </defs>
+  <g class="main">
+    <rect class="content" width="600" height="100" stroke="rgba(0, 0, 0, 0.5)" x="5" y="5" rx="10" />
+    <foreignObject width="600" height="100" x="5" y="5">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
+        <div class="image" />
+<div class="text">
+          <div class="title">Getting&#0032;Started&#0032;with&#0032;Notary</div>
+          <div class="description">In&#0032;this&#0032;tutorial&#0044;&#0032;you&#0039;ll&#0032;learn&#0032;how&#0032;to&#0032;sign&#0032;a&#0032;Docker&#0032;image&#0032;using&#0032;Notary&#0046;&#0032;&#0032;Notary&#0032;is&#0032;a&#0032;CNCF&#0032;project&#0046;&#0046;&#0046;</div>
+          <div class="date">9&#0047;23&#0047;22</div>
+          <div class="data">
+            <span class="author">Josh&#0032;Duffney</span> <span class="category">cloudnative</span> <span class="category">security</span> <span class="category">docker</span> <span class="category">devops</span>
+          </div>
+        </div>
+      </div>
+    </foreignObject>
+  </g>
+</svg>
