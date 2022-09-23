@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, September 23, 2022 at 12:40:15 AM
+> Last updated: Friday, September 23, 2022 at 6:23:05 AM
 
 > Showing 5 of 12 posts.
 
-[![Shotstack Virtual Hackathon: Build Awesome Media Apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Shotstack_Virtual_Hackathon__Build_Awesome_Media_Apps.svg)](https://dev.to/shotstack/shotstack-virtual-hackathon-build-awesome-media-apps-3ap7)
-[![palpatine received its first PR](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/palpatine_received_its_first_PR.svg)](https://dev.to/batunpc/palpatine-received-its-first-pull-request-532a)
-[![The joy of validating with Joi](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_joy_of_validating_with_Joi.svg)](https://dev.to/methmi/the-joy-of-validating-with-joi-51ej)
-[![5 Tips for Black Women Learning How to Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_Tips_for_Black_Women_Learning_How_to_Code.svg)](https://dev.to/brinascode/5-tips-for-black-women-learning-how-to-code-3cdd)
-[![Rails guide - Adding tests - Part 4](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Rails_guide_-_Adding_tests_-_Part_4.svg)](https://dev.to/augusto_queirantes/rails-guide-adding-tests-part-4-3gl8)
+[![tsParticles 2.3.2 Released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/tsParticles_2.3.2_Released.svg)](https://dev.to/tsparticles/tsparticles-232-released-27ep)
+[![Deploying NLP Models to the cloud with our Python SDK, Truss and Baseten!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Deploying_NLP_Models_to_the_cloud_with_our_Python_SDK__Truss_and_Baseten!.svg)](https://dev.to/meetkern/deploying-nlp-models-to-the-cloud-with-our-python-sdk-truss-and-baseten-iji)
+[![process.env as feature flags](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/process.env_as_feature_flags.svg)](https://dev.to/woovi/processenv-as-feature-flags-nf)
+[![Testing React Apps With Cypress: An In-Depth Guide For Beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Testing_React_Apps_With_Cypress__An_In-Depth_Guide_For_Beginners.svg)](https://dev.to/profydev/how-to-start-testing-react-apps-and-why-i-recommend-cypress-to-beginners-5el5)
+[![AWS APAC Community Summit Wrap up](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/AWS_APAC_Community_Summit_Wrap_up.svg)](https://dev.to/aws-heroes/aws-apac-community-summit-wrap-up-1an4)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, September 23, 2022 at 12:40:18 AM
+> Last updated: Friday, September 23, 2022 at 6:23:08 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, September 23, 2022 at 12:40:23 AM
+> Last updated: Friday, September 23, 2022 at 6:23:15 AM
 
 > Showing 5 of 30 posts.
 
+[![Should I Use Gatsby or Next.js For My Next Project? | Webiny](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Should_I_Use_Gatsby_or_Next.js_For_My_Next_Project____Webiny.svg)](
+https://www.webiny.com/blog/should-use-gatsby-or-nextjs
+)
+[![rekwest](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/rekwest.svg)](https://www.npmjs.com/package/rekwest)
 [![SvelteStorm 5.0: A Svelte IDE Like No Other](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/SvelteStorm_5.0__A_Svelte_IDE_Like_No_Other.svg)](https://medium.com/@sveltestorm/sveltestorm-5-0-a-svelte-ide-like-no-other-c79da72d377e)
 [![What is NextJs prefetching and why should I care](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_is_NextJs_prefetching_and_why_should_I_care.svg)](http://www.js-craft.io/blog/what-is-nextjs-prefetching-and-why-should-i-care/)
 [![GitHub - wlucha/angular-starter: Angular 14 Starter with Storybook, Transloco, Jest, TestCafe, Docker, ESLint, Material & Prettier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_wlucha_angular-starter__Angular_14_Starter_with_Storybook__Transloco__Jest__TestCafe__Docker__ESLint__Material___Prettier.svg)](https://github.com/wlucha/angular-starter)
-[![Episode 27 - Let's talk about Remix with Chance Strickland - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_27_-_Let's_talk_about_Remix_with_Chance_Strickland_-_20minJS.svg)](https://podcast.20minjs.com/1952066/11263362-episode-27-let-s-talk-about-remix-with-chance-strickland)
-[![Build a Job Board with VueJS and GraphQL | Webiny](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_a_Job_Board_with_VueJS_and_GraphQL___Webiny.svg)](
-https://www.webiny.com/blog/build-job-board-application-vue-graphql
-)
 
 
 <!-- post-list:end -->
