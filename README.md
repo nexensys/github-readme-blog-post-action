@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, September 24, 2022 at 12:19:17 AM
+> Last updated: Saturday, September 24, 2022 at 6:21:00 AM
 
 > Showing 5 of 12 posts.
 
-[![Build a breakout game](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_a_breakout_game.svg)](https://dev.to/dhanushnehru/build-a-breakout-game-4chn)
-[![Here's how I increased a website performance by 21%!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Here's_how_I_increased_a_website_performance_by_21_!.svg)](https://dev.to/mrpaulishaili/heres-how-i-increased-a-website-performance-by-21-7di)
-[![Structure of Java Program](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Structure_of_Java_Program.svg)](https://dev.to/roshan_100kar/structure-of-java-program-22li)
-[![How To Read a local JSON File Using Fetch API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_To_Read_a_local_JSON_File_Using_Fetch_API.svg)](https://dev.to/roshan_100kar/how-to-read-a-local-json-file-using-fetch-api-21jh)
-[![Create a delayed component](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Create_a_delayed_component.svg)](https://dev.to/astr0sl0th/create-a-delayed-component-48pp)
+[![How to record webcam video and audio using ffmpeg](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_record_webcam_video_and_audio_using_ffmpeg.svg)](https://dev.to/ethand91/how-to-record-webcam-video-and-audio-using-ffmpeg-419c)
+[![JavaScript Local Storage Explained!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/JavaScript_Local_Storage_Explained!.svg)](https://dev.to/dboatengx/javascript-local-storage-explained-1di6)
+[![What is a headless CMS & when should I be using it?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_a_headless_CMS___when_should_I_be_using_it_.svg)](https://dev.to/auraqule/what-is-a-headless-cms-when-should-i-be-using-it-3hlf)
+[![Quiet Quitting is About Loyalty](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Quiet_Quitting_is_About_Loyalty.svg)](https://dev.to/codenameone/quiet-quitting-is-about-loyalty-1d6m)
+[![What is a hold in baseball. Hold baseball definition (update 2022)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_a_hold_in_baseball._Hold_baseball_definition_(update_2022).svg)](https://dev.to/baseballhubnet/what-is-a-hold-in-baseball-hold-baseball-definition-update-2022-5boh)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, September 24, 2022 at 12:19:20 AM
+> Last updated: Saturday, September 24, 2022 at 6:21:03 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, September 24, 2022 at 12:19:27 AM
+> Last updated: Saturday, September 24, 2022 at 6:21:08 AM
 
 > Showing 5 of 30 posts.
 
