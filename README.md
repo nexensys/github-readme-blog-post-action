@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, September 23, 2022 at 12:15:02 PM
+> Last updated: Friday, September 23, 2022 at 7:07:28 PM
 
 > Showing 5 of 12 posts.
 
-[![Getting Started with Notary](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Getting_Started_with_Notary.svg)](https://dev.to/azure/getting-started-with-notary-5eea)
-[![Creating bots with OAuth 2.0 Authorization Code Flow with PKCE and V2 of the Twitter API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Creating_bots_with_OAuth_2.0_Authorization_Code_Flow_with_PKCE_and_V2_of_the_Twitter_API.svg)](https://dev.to/jessicagarson/creating-bots-with-oauth-20-authorization-code-flow-with-pkce-and-v2-of-the-twitter-api-470c)
-[![Finding the Minimum and Maximum Values of an Array in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Finding_the_Minimum_and_Maximum_Values_of_an_Array_in_JavaScript.svg)](https://dev.to/cavein254/finding-the-minimum-and-maximum-values-of-an-array-in-javascript-3kel)
-[![HTML: Display tooltip with only HTML](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/HTML__Display_tooltip_with_only_HTML.svg)](https://dev.to/urstrulyvishwak/html-display-tooltip-with-only-html-2e2k)
-[![How I get 2K daily traffic with Web Stories?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_I_get_2K_daily_traffic_with_Web_Stories_.svg)](https://dev.to/developerbishwas/how-i-get-2k-daily-traffic-with-web-stories-46ng)
+[![Simple RSS Feed Reader - Jetpack Compose](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Simple_RSS_Feed_Reader_-_Jetpack_Compose.svg)](https://dev.to/vtsen/simple-rss-feed-reader-jetpack-compose-2ld7)
+[![Dream Native Gui for developers , the best alternative to vscode !!!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Dream_Native_Gui_for_developers___the_best_alternative_to_vscode_!!!.svg)](https://dev.to/kodah/dream-native-gui-for-developers-the-best-alternative-to-vscode--30i8)
+[![My First GitHub Pull Request](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/My_First_GitHub_Pull_Request.svg)](https://dev.to/saminarp/my-first-github-pull-request-3dbe)
+[![Debugging in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Debugging_in_JavaScript.svg)](https://dev.to/ericawanja/debugging-in-javascript-4ppb)
+[![Recursion: One more way.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Recursion__One_more_way..svg)](https://dev.to/justkoder/recursion-one-more-way-4ijb)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, September 23, 2022 at 12:15:06 PM
+> Last updated: Friday, September 23, 2022 at 7:07:31 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, September 23, 2022 at 12:15:10 PM
+> Last updated: Friday, September 23, 2022 at 7:07:36 PM
 
 > Showing 5 of 30 posts.
 
