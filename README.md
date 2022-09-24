@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, September 23, 2022 at 7:07:28 PM
+> Last updated: Saturday, September 24, 2022 at 12:19:17 AM
 
 > Showing 5 of 12 posts.
 
-[![Simple RSS Feed Reader - Jetpack Compose](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Simple_RSS_Feed_Reader_-_Jetpack_Compose.svg)](https://dev.to/vtsen/simple-rss-feed-reader-jetpack-compose-2ld7)
-[![Dream Native Gui for developers , the best alternative to vscode !!!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Dream_Native_Gui_for_developers___the_best_alternative_to_vscode_!!!.svg)](https://dev.to/kodah/dream-native-gui-for-developers-the-best-alternative-to-vscode--30i8)
-[![My First GitHub Pull Request](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/My_First_GitHub_Pull_Request.svg)](https://dev.to/saminarp/my-first-github-pull-request-3dbe)
-[![Debugging in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Debugging_in_JavaScript.svg)](https://dev.to/ericawanja/debugging-in-javascript-4ppb)
-[![Recursion: One more way.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Recursion__One_more_way..svg)](https://dev.to/justkoder/recursion-one-more-way-4ijb)
+[![Build a breakout game](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_a_breakout_game.svg)](https://dev.to/dhanushnehru/build-a-breakout-game-4chn)
+[![Here's how I increased a website performance by 21%!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Here's_how_I_increased_a_website_performance_by_21_!.svg)](https://dev.to/mrpaulishaili/heres-how-i-increased-a-website-performance-by-21-7di)
+[![Structure of Java Program](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Structure_of_Java_Program.svg)](https://dev.to/roshan_100kar/structure-of-java-program-22li)
+[![How To Read a local JSON File Using Fetch API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_To_Read_a_local_JSON_File_Using_Fetch_API.svg)](https://dev.to/roshan_100kar/how-to-read-a-local-json-file-using-fetch-api-21jh)
+[![Create a delayed component](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Create_a_delayed_component.svg)](https://dev.to/astr0sl0th/create-a-delayed-component-48pp)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, September 23, 2022 at 7:07:31 PM
+> Last updated: Saturday, September 24, 2022 at 12:19:20 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, September 23, 2022 at 7:07:36 PM
+> Last updated: Saturday, September 24, 2022 at 12:19:27 AM
 
 > Showing 5 of 30 posts.
 
