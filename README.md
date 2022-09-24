@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, September 24, 2022 at 6:21:00 AM
+> Last updated: Saturday, September 24, 2022 at 12:14:29 PM
 
 > Showing 5 of 12 posts.
 
-[![How to record webcam video and audio using ffmpeg](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_record_webcam_video_and_audio_using_ffmpeg.svg)](https://dev.to/ethand91/how-to-record-webcam-video-and-audio-using-ffmpeg-419c)
-[![JavaScript Local Storage Explained!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/JavaScript_Local_Storage_Explained!.svg)](https://dev.to/dboatengx/javascript-local-storage-explained-1di6)
-[![What is a headless CMS & when should I be using it?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_a_headless_CMS___when_should_I_be_using_it_.svg)](https://dev.to/auraqule/what-is-a-headless-cms-when-should-i-be-using-it-3hlf)
-[![Quiet Quitting is About Loyalty](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Quiet_Quitting_is_About_Loyalty.svg)](https://dev.to/codenameone/quiet-quitting-is-about-loyalty-1d6m)
-[![What is a hold in baseball. Hold baseball definition (update 2022)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_a_hold_in_baseball._Hold_baseball_definition_(update_2022).svg)](https://dev.to/baseballhubnet/what-is-a-hold-in-baseball-hold-baseball-definition-update-2022-5boh)
+[![Portfolio](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Portfolio.svg)](https://dev.to/soumyaprakashsahu/portfolio-306e)
+[![PySpark: uma breve análise das palavras mais comuns em Drácula, por Bram Stoker](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/PySpark__uma_breve_análise_das_palavras_mais_comuns_em_Drácula__por_Bram_Stoker.svg)](https://dev.to/geazi_anc/pyspark-uma-breve-analise-das-palavras-mais-comuns-em-dracula-por-bram-stoker-4an3)
+[![ES Modules & Import Maps: Back to the Future](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/ES_Modules___Import_Maps__Back_to_the_Future.svg)](https://dev.to/valeriavg/es-modules-import-maps-back-to-the-future-56o)
+[![15 Problem Solving Steps to Improve Your Development Skills](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/15_Problem_Solving_Steps_to_Improve_Your_Development_Skills.svg)](https://dev.to/marktecher/15-problem-solving-steps-to-improve-your-development-skills-1hak)
+[![Using React to create a Budget Manager](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Using_React_to_create_a_Budget_Manager.svg)](https://dev.to/gbadeboife/using-react-to-create-a-budget-manager-59jh)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, September 24, 2022 at 6:21:03 AM
+> Last updated: Saturday, September 24, 2022 at 12:14:33 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, September 24, 2022 at 6:21:08 AM
+> Last updated: Saturday, September 24, 2022 at 12:14:39 PM
 
 > Showing 5 of 30 posts.
 
