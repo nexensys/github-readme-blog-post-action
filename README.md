@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, September 24, 2022 at 7:02:46 PM
+> Last updated: Sunday, September 25, 2022 at 12:17:06 AM
 
 > Showing 5 of 12 posts.
 
-[![React - The hidden function for keys](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/React_-_The_hidden_function_for_keys.svg)](https://dev.to/noriller/react-the-hidden-function-for-keys-29a8)
-[![Moderating tags on Dev](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Moderating_tags_on_Dev.svg)](https://dev.to/j3ffjessie/moderating-tags-on-dev-23oo)
-[![Web Scraping Google With Node JS - A Complete Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Web_Scraping_Google_With_Node_JS_-_A_Complete_Guide.svg)](https://dev.to/darshan0_1/web-scraping-google-with-node-js-4f5k)
-[![ARCHIVING FILES AND SCP](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/ARCHIVING_FILES_AND_SCP.svg)](https://dev.to/aditrk20/archiving-files-and-scp-4gao)
-[![Top 5 Websites To Find Free Illustrations](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_5_Websites_To_Find_Free_Illustrations.svg)](https://dev.to/simpledev/top-5-websites-to-find-free-illustrations-31om)
+[![26 best practices to secure your cloud environment](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/26_best_practices_to_secure_your_cloud_environment.svg)](https://dev.to/aviyel/26-best-practices-to-secure-your-cloud-environment-22ii)
+[![Hacktoberfest 2022: Preptember!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Hacktoberfest_2022__Preptember!.svg)](https://dev.to/nickytonline/hacktoberfest-preptember-3p7)
+[![Introduction to Cloud Computing [Part 1]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Introduction_to_Cloud_Computing_[Part_1].svg)](https://dev.to/lvaldivia/introduction-to-cloud-computing-part-1-5apk)
+[![Managing File System Permissions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Managing_File_System_Permissions.svg)](https://dev.to/alfiantirta85/managing-file-system-permissions-egf)
+[![Rails guide - Adding CI - Part 5](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Rails_guide_-_Adding_CI_-_Part_5.svg)](https://dev.to/augusto_queirantes/rails-guide-adding-ci-part-5-3dc4)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, September 24, 2022 at 7:02:48 PM
+> Last updated: Sunday, September 25, 2022 at 12:17:09 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, September 24, 2022 at 7:02:52 PM
+> Last updated: Sunday, September 25, 2022 at 12:17:15 AM
 
 > Showing 5 of 30 posts.
 
