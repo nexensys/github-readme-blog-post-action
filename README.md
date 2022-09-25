@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, September 24, 2022 at 12:14:29 PM
+> Last updated: Saturday, September 24, 2022 at 7:02:46 PM
 
 > Showing 5 of 12 posts.
 
-[![Portfolio](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Portfolio.svg)](https://dev.to/soumyaprakashsahu/portfolio-306e)
-[![PySpark: uma breve análise das palavras mais comuns em Drácula, por Bram Stoker](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/PySpark__uma_breve_análise_das_palavras_mais_comuns_em_Drácula__por_Bram_Stoker.svg)](https://dev.to/geazi_anc/pyspark-uma-breve-analise-das-palavras-mais-comuns-em-dracula-por-bram-stoker-4an3)
-[![ES Modules & Import Maps: Back to the Future](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/ES_Modules___Import_Maps__Back_to_the_Future.svg)](https://dev.to/valeriavg/es-modules-import-maps-back-to-the-future-56o)
-[![15 Problem Solving Steps to Improve Your Development Skills](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/15_Problem_Solving_Steps_to_Improve_Your_Development_Skills.svg)](https://dev.to/marktecher/15-problem-solving-steps-to-improve-your-development-skills-1hak)
-[![Using React to create a Budget Manager](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Using_React_to_create_a_Budget_Manager.svg)](https://dev.to/gbadeboife/using-react-to-create-a-budget-manager-59jh)
+[![React - The hidden function for keys](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/React_-_The_hidden_function_for_keys.svg)](https://dev.to/noriller/react-the-hidden-function-for-keys-29a8)
+[![Moderating tags on Dev](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Moderating_tags_on_Dev.svg)](https://dev.to/j3ffjessie/moderating-tags-on-dev-23oo)
+[![Web Scraping Google With Node JS - A Complete Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Web_Scraping_Google_With_Node_JS_-_A_Complete_Guide.svg)](https://dev.to/darshan0_1/web-scraping-google-with-node-js-4f5k)
+[![ARCHIVING FILES AND SCP](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/ARCHIVING_FILES_AND_SCP.svg)](https://dev.to/aditrk20/archiving-files-and-scp-4gao)
+[![Top 5 Websites To Find Free Illustrations](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_5_Websites_To_Find_Free_Illustrations.svg)](https://dev.to/simpledev/top-5-websites-to-find-free-illustrations-31om)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, September 24, 2022 at 12:14:33 PM
+> Last updated: Saturday, September 24, 2022 at 7:02:48 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, September 24, 2022 at 12:14:39 PM
+> Last updated: Saturday, September 24, 2022 at 7:02:52 PM
 
 > Showing 5 of 30 posts.
 
