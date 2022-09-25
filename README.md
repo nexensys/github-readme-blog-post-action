@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, September 25, 2022 at 12:17:06 AM
+> Last updated: Sunday, September 25, 2022 at 6:20:28 AM
 
 > Showing 5 of 12 posts.
 
-[![26 best practices to secure your cloud environment](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/26_best_practices_to_secure_your_cloud_environment.svg)](https://dev.to/aviyel/26-best-practices-to-secure-your-cloud-environment-22ii)
-[![Hacktoberfest 2022: Preptember!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Hacktoberfest_2022__Preptember!.svg)](https://dev.to/nickytonline/hacktoberfest-preptember-3p7)
-[![Introduction to Cloud Computing [Part 1]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Introduction_to_Cloud_Computing_[Part_1].svg)](https://dev.to/lvaldivia/introduction-to-cloud-computing-part-1-5apk)
-[![Managing File System Permissions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Managing_File_System_Permissions.svg)](https://dev.to/alfiantirta85/managing-file-system-permissions-egf)
-[![Rails guide - Adding CI - Part 5](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Rails_guide_-_Adding_CI_-_Part_5.svg)](https://dev.to/augusto_queirantes/rails-guide-adding-ci-part-5-3dc4)
+[![Implementing Authentication In Next.js Using Next Auth](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Implementing_Authentication_In_Next.js_Using_Next_Auth.svg)](https://dev.to/raghavmri/implementing-authentication-in-nextjs-using-next-auth-1g97)
+[![Creating a subscriber in medusa](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Creating_a_subscriber_in_medusa.svg)](https://dev.to/dailydevtips1/creating-a-subscriber-in-medusa-ho6)
+[![How to build the SSR web application and mobile apps from the same code base](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_build_the_SSR_web_application_and_mobile_apps_from_the_same_code_base.svg)](https://dev.to/daiquiri_team/how-to-build-the-ssr-web-application-and-mobile-apps-from-the-same-code-base-4aob)
+[![Integrate Keycloak and Kubeapps on AWS EKS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Integrate_Keycloak_and_Kubeapps_on_AWS_EKS.svg)](https://dev.to/aws-builders/integrate-keycloak-and-kubeapps-on-aws-eks-3fpm)
+[![translate.i18next.com](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/translate.i18next.com.svg)](https://dev.to/adrai/translatei18nextcom-32gk)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, September 25, 2022 at 12:17:09 AM
+> Last updated: Sunday, September 25, 2022 at 6:20:31 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, September 25, 2022 at 12:17:15 AM
+> Last updated: Sunday, September 25, 2022 at 6:20:35 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - wlucha/angular-starter: Angular 14 Starter with Storybook, Transloco, Jest, TestCafe, Docker, ESLint, Material & Prettier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_wlucha_angular-starter__Angular_14_Starter_with_Storybook__Transloco__Jest__TestCafe__Docker__ESLint__Material___Prettier.svg)](https://github.com/wlucha/angular-starter)
 [![Should I Use Gatsby or Next.js For My Next Project? | Webiny](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Should_I_Use_Gatsby_or_Next.js_For_My_Next_Project____Webiny.svg)](
 https://www.webiny.com/blog/should-use-gatsby-or-nextjs
 )
 [![rekwest](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/rekwest.svg)](https://www.npmjs.com/package/rekwest)
 [![SvelteStorm 5.0: A Svelte IDE Like No Other](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/SvelteStorm_5.0__A_Svelte_IDE_Like_No_Other.svg)](https://medium.com/@sveltestorm/sveltestorm-5-0-a-svelte-ide-like-no-other-c79da72d377e)
 [![What is NextJs prefetching and why should I care](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_is_NextJs_prefetching_and_why_should_I_care.svg)](http://www.js-craft.io/blog/what-is-nextjs-prefetching-and-why-should-i-care/)
-[![GitHub - wlucha/angular-starter: Angular 14 Starter with Storybook, Transloco, Jest, TestCafe, Docker, ESLint, Material & Prettier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_wlucha_angular-starter__Angular_14_Starter_with_Storybook__Transloco__Jest__TestCafe__Docker__ESLint__Material___Prettier.svg)](https://github.com/wlucha/angular-starter)
 
 
 <!-- post-list:end -->
