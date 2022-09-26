@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, September 25, 2022 at 12:14:14 PM
+> Last updated: Sunday, September 25, 2022 at 7:04:52 PM
 
 > Showing 5 of 12 posts.
 
-[![會員登入流程 Session + Cookie & Token](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/會員登入流程_Session_+_Cookie___Token.svg)](https://dev.to/amyami729/hui-yuan-deng-ru-liu-cheng-session-cookie-token-2ma4)
-[![Mediapipe | Implementing custom feature on Android](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Mediapipe___Implementing_custom_feature_on_Android.svg)](https://dev.to/janhavidadhania/mediapipe-implementing-custom-feature-on-android-255i)
-[![Using Only CSS to Recreate Windows 98](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Using_Only_CSS_to_Recreate_Windows_98.svg)](https://dev.to/smpnjn/using-only-css-to-recreate-windows-98-47b1)
-[![Creating smarter DTOs with fusion objects in C#](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Creating_smarter_DTOs_with_fusion_objects_in_C_.svg)](https://dev.to/victoriarose/creating-smarter-dtos-with-fusion-objects-in-c-3c5n)
-[![Krumzi - A platform where you can passively receive job opportunities from recruiters](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Krumzi_-_A_platform_where_you_can_passively_receive_job_opportunities_from_recruiters.svg)](https://dev.to/rarestoma/krumzi-a-platform-where-you-can-passively-receive-job-opportunities-from-recruiters-d7o)
+[![create a football detection system through artificial intelligence using python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/create_a_football_detection_system_through_artificial_intelligence_using_python.svg)](https://dev.to/codingteam/create-a-football-detection-system-through-artificial-intelligence-using-python-4g7m)
+[![Quickly Create a Responsive Sales Data Table with Vue and Vuetify](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Quickly_Create_a_Responsive_Sales_Data_Table_with_Vue_and_Vuetify.svg)](https://dev.to/hackmamba/quickly-create-a-responsive-sales-data-table-with-vue-and-vuetify-i3d)
+[![I Am A Web3 Writer Who Doesn't Know Shit About Web3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/I_Am_A_Web3_Writer_Who_Doesn't_Know_Shit_About_Web3.svg)](https://dev.to/chizobaonorh/i-am-a-web3-writer-who-doesnt-know-shit-about-web3-3ig6)
+[![React CSS Grid](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/React_CSS_Grid.svg)](https://dev.to/raboomar/react-css-grid-47mb)
+[![Solving the Next Engineering Challenge: Continuous Merge](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Solving_the_Next_Engineering_Challenge__Continuous_Merge.svg)](https://dev.to/linearb/solving-the-next-engineering-challenge-continuous-merge-2bbm)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, September 25, 2022 at 12:14:18 PM
+> Last updated: Sunday, September 25, 2022 at 7:04:55 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, September 25, 2022 at 12:14:22 PM
+> Last updated: Sunday, September 25, 2022 at 7:04:58 PM
 
 > Showing 5 of 30 posts.
 
