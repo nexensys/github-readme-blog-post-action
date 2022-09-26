@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, September 26, 2022 at 6:23:03 AM
+> Last updated: Monday, September 26, 2022 at 12:14:43 PM
 
 > Showing 5 of 12 posts.
 
-[![How to host React application on Netlify ☁ for free!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_host_React_application_on_Netlify_☁_for_free!.svg)](https://dev.to/codebucks/how-to-host-react-application-on-netlify-for-free-3bo3)
-[![Announcing Hack-R-Play: Hackathon to build, write, and connect](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Announcing_Hack-R-Play__Hackathon_to_build__write__and_connect.svg)](https://dev.to/atapas/announcing-hack-r-play-hackathon-to-build-write-and-connect-4ja1)
-[![Implementing Variable in CSS using Sass in React JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Implementing_Variable_in_CSS_using_Sass_in_React_JS.svg)](https://dev.to/surajondev/implementing-variable-in-css-using-sass-in-react-js-4eb6)
-[![Top 10+ Flutter Tips, Tricks, and Techniques](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_10+_Flutter_Tips__Tricks__and_Techniques.svg)](https://dev.to/quokkalabs/top-10-flutter-tips-tricks-and-techniques-2ik9)
-[![What is Machine Learning?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_Machine_Learning_.svg)](https://dev.to/jindalkeshav82/what-is-machine-learning-1kgd)
+[![How to build your website at super-sonic speed with Astro.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_build_your_website_at_super-sonic_speed_with_Astro..svg)](https://dev.to/replayable/getting-started-with-astro-on-windows-4h04)
+[![Building Test Coverage Momentum](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Building_Test_Coverage_Momentum.svg)](https://dev.to/jobber/building-test-coverage-momentum-1gh7)
+[![Meme Monday 🚨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Meme_Monday_🚨.svg)](https://dev.to/ben/meme-monday-3jjm)
+[![Learn SOLID design principles using Java](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Learn_SOLID_design_principles_using_Java.svg)](https://dev.to/fialhorenato/learn-solid-design-principles-using-java-m68)
+[![Archiving And Transferring Files](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Archiving_And_Transferring_Files.svg)](https://dev.to/allinkfla/archiving-and-transferring-files-53mb)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, September 26, 2022 at 6:23:06 AM
+> Last updated: Monday, September 26, 2022 at 12:14:46 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, September 26, 2022 at 6:23:08 AM
+> Last updated: Monday, September 26, 2022 at 12:14:49 PM
 
 > Showing 5 of 30 posts.
 
+[![How to Write Polyfill of Some Method in JS?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Write_Polyfill_of_Some_Method_in_JS_.svg)](https://www.youtube.com/watch?v=gfxDxxSQpnA)
+[![GitHub - GrosSacASac/stream-sac: Stream related functions: Html minifier, Markdown parser, concat as stream and streamify a string function.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_GrosSacASac_stream-sac__Stream_related_functions__Html_minifier__Markdown_parser__concat_as_stream_and_streamify_a_string_function..svg)](https://github.com/GrosSacASac/stream-sac)
 [![The inheritAttrs Option in Vue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_inheritAttrs_Option_in_Vue.svg)](
 https://masteringjs.io/tutorials/vue/inheritattrs
 )
 [![GitHub - GrosSacASac/passwuert](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_GrosSacASac_passwuert.svg)](https://github.com/GrosSacASac/passwuert)
 [![GitHub - wlucha/angular-starter: Angular 14 Starter with Storybook, Transloco, Jest, TestCafe, Docker, ESLint, Material & Prettier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_wlucha_angular-starter__Angular_14_Starter_with_Storybook__Transloco__Jest__TestCafe__Docker__ESLint__Material___Prettier.svg)](https://github.com/wlucha/angular-starter)
-[![Should I Use Gatsby or Next.js For My Next Project? | Webiny](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Should_I_Use_Gatsby_or_Next.js_For_My_Next_Project____Webiny.svg)](
-https://www.webiny.com/blog/should-use-gatsby-or-nextjs
-)
-[![rekwest](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/rekwest.svg)](https://www.npmjs.com/package/rekwest)
 
 
 <!-- post-list:end -->
