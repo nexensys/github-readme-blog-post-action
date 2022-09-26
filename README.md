@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, September 26, 2022 at 12:44:17 AM
+> Last updated: Monday, September 26, 2022 at 6:23:03 AM
 
 > Showing 5 of 12 posts.
 
-[![How to Make Tic Tac Toe Using React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Make_Tic_Tac_Toe_Using_React.svg)](https://dev.to/reactjsguru/how-to-make-tic-tac-toe-using-react-1ce7)
-[![Typical machine learning applications we use in the real world](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Typical_machine_learning_applications_we_use_in_the_real_world.svg)](https://dev.to/makendrang/typical-machine-learning-applications-we-use-in-the-real-world-4mk9)
-[![Building a bank feeds system using C# .NET Core & AWS - Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Building_a_bank_feeds_system_using_C__.NET_Core___AWS_-_Part_1.svg)](https://dev.to/ryannz/building-a-bank-feeds-system-using-c-net-core-aws-part-1-hon)
-[![Accessing Linux File Systems on RHEL 8 (RedHat Enterprise 8)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Accessing_Linux_File_Systems_on_RHEL_8_(RedHat_Enterprise_8).svg)](https://dev.to/mohammadalwan/accessing-linux-file-systems-on-rhel-8-redhat-enterprise-linux-8-25aa)
-[![create a football detection system through artificial intelligence using python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/create_a_football_detection_system_through_artificial_intelligence_using_python.svg)](https://dev.to/codingteam/create-a-football-detection-system-through-artificial-intelligence-using-python-4g7m)
+[![How to host React application on Netlify ☁ for free!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_host_React_application_on_Netlify_☁_for_free!.svg)](https://dev.to/codebucks/how-to-host-react-application-on-netlify-for-free-3bo3)
+[![Announcing Hack-R-Play: Hackathon to build, write, and connect](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Announcing_Hack-R-Play__Hackathon_to_build__write__and_connect.svg)](https://dev.to/atapas/announcing-hack-r-play-hackathon-to-build-write-and-connect-4ja1)
+[![Implementing Variable in CSS using Sass in React JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Implementing_Variable_in_CSS_using_Sass_in_React_JS.svg)](https://dev.to/surajondev/implementing-variable-in-css-using-sass-in-react-js-4eb6)
+[![Top 10+ Flutter Tips, Tricks, and Techniques](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_10+_Flutter_Tips__Tricks__and_Techniques.svg)](https://dev.to/quokkalabs/top-10-flutter-tips-tricks-and-techniques-2ik9)
+[![What is Machine Learning?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_Machine_Learning_.svg)](https://dev.to/jindalkeshav82/what-is-machine-learning-1kgd)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, September 26, 2022 at 12:44:20 AM
+> Last updated: Monday, September 26, 2022 at 6:23:06 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, September 26, 2022 at 12:44:23 AM
+> Last updated: Monday, September 26, 2022 at 6:23:08 AM
 
 > Showing 5 of 30 posts.
 
+[![The inheritAttrs Option in Vue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_inheritAttrs_Option_in_Vue.svg)](
+https://masteringjs.io/tutorials/vue/inheritattrs
+)
 [![GitHub - GrosSacASac/passwuert](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_GrosSacASac_passwuert.svg)](https://github.com/GrosSacASac/passwuert)
 [![GitHub - wlucha/angular-starter: Angular 14 Starter with Storybook, Transloco, Jest, TestCafe, Docker, ESLint, Material & Prettier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_wlucha_angular-starter__Angular_14_Starter_with_Storybook__Transloco__Jest__TestCafe__Docker__ESLint__Material___Prettier.svg)](https://github.com/wlucha/angular-starter)
 [![Should I Use Gatsby or Next.js For My Next Project? | Webiny](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Should_I_Use_Gatsby_or_Next.js_For_My_Next_Project____Webiny.svg)](
 https://www.webiny.com/blog/should-use-gatsby-or-nextjs
 )
 [![rekwest](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/rekwest.svg)](https://www.npmjs.com/package/rekwest)
-[![SvelteStorm 5.0: A Svelte IDE Like No Other](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/SvelteStorm_5.0__A_Svelte_IDE_Like_No_Other.svg)](https://medium.com/@sveltestorm/sveltestorm-5-0-a-svelte-ide-like-no-other-c79da72d377e)
 
 
 <!-- post-list:end -->
