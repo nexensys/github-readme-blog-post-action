@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, September 27, 2022 at 6:25:33 AM
+> Last updated: Tuesday, September 27, 2022 at 12:19:44 PM
 
 > Showing 5 of 12 posts.
 
-[![Easy Way to Create Your own QR Code Generator Website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Easy_Way_to_Create_Your_own_QR_Code_Generator_Website.svg)](https://dev.to/varshithvhegde/easy-way-to-create-your-own-qr-code-generator-website-3dn2)
-[![Collecting Data into Database Automatically](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Collecting_Data_into_Database_Automatically.svg)](https://dev.to/anuoluwapods/collecting-data-into-database-automatically-6nk)
-[![Scrapping Google Playstore](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Scrapping_Google_Playstore.svg)](https://dev.to/anuoluwapods/scrapping-google-playstore-2857)
-[![Garantindo a idempotência de eventos com Redis](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Garantindo_a_idempotência_de_eventos_com_Redis.svg)](https://dev.to/pjonatansr/garantindo-a-idempotencia-de-eventos-com-redis-1opa)
-[![Web Scraping GitHub Page](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Web_Scraping_GitHub_Page.svg)](https://dev.to/anuoluwapods/web-scraping-github-page-16d2)
+[![I reduced an npm package size by 50% with minification](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/I_reduced_an_npm_package_size_by_50__with_minification.svg)](https://dev.to/seven/i-reduced-an-npm-package-size-by-50-with-minification-2a6e)
+[![Apache APISIX loves Rust! (and me too)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Apache_APISIX_loves_Rust!_(and_me_too).svg)](https://dev.to/apisix/apache-apisix-loves-rust-and-me-too-1n73)
+[![A super easy way to participate in Hacktoberfest (New for '22!)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_super_easy_way_to_participate_in_Hacktoberfest_(New_for_'22!).svg)](https://dev.to/replayable/a-super-easy-way-to-participate-in-hacktoberfest-22-78d)
+[![Upload media to Supabase from remote URL with nodejs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Upload_media_to_Supabase_from_remote_URL_with_nodejs.svg)](https://dev.to/antoine_m/upload-media-to-supabase-from-remote-url-with-nodejs-5h45)
+[![5 Ways to make development with GitHub Actions more efficient](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_Ways_to_make_development_with_GitHub_Actions_more_efficient.svg)](https://dev.to/danlester/5-ways-to-make-development-with-github-actions-more-efficient-2pea)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, September 27, 2022 at 6:25:36 AM
+> Last updated: Tuesday, September 27, 2022 at 12:19:46 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, September 27, 2022 at 6:25:43 AM
+> Last updated: Tuesday, September 27, 2022 at 12:19:50 PM
 
 > Showing 5 of 30 posts.
 
+[![Named Element IDs Can Be Referenced as JavaScript Globals | CSS-Tricks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Named_Element_IDs_Can_Be_Referenced_as_JavaScript_Globals___CSS-Tricks.svg)](https://css-tricks.com/named-element-ids-can-be-referenced-as-javascript-globals/)
+[![Sandworm](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Sandworm.svg)](https://github.com/sandworm-hq)
 [![Episode 30 - All about UltraJS combining React and Deno with Omar Mashaal - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_30_-_All_about_UltraJS_combining_React_and_Deno_with_Omar_Mashaal_-_20minJS.svg)](https://podcast.20minjs.com/1952066/11384885-episode-30-all-about-ultrajs-combining-react-and-deno-with-omar-mashaal)
 [![IGBC - AP Made Easy Training Course](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/IGBC_-_AP_Made_Easy_Training_Course.svg)](
 https://www.conserveacademy.com/online-course/igbc-ap-made-easy/
 )
 [![API with NestJS #76. Working with transactions using raw SQL queries](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__76._Working_with_transactions_using_raw_SQL_queries.svg)](https://wanago.io/2022/09/26/api-nestjs-transactions-sql/)
-[![How to Write Polyfill of Some Method in JS?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Write_Polyfill_of_Some_Method_in_JS_.svg)](https://www.youtube.com/watch?v=gfxDxxSQpnA)
-[![GitHub - GrosSacASac/stream-sac: Stream related functions: Html minifier, Markdown parser, concat as stream and streamify a string function.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_GrosSacASac_stream-sac__Stream_related_functions__Html_minifier__Markdown_parser__concat_as_stream_and_streamify_a_string_function..svg)](https://github.com/GrosSacASac/stream-sac)
 
 
 <!-- post-list:end -->
