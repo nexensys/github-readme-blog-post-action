@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, September 26, 2022 at 12:14:43 PM
+> Last updated: Monday, September 26, 2022 at 7:07:34 PM
 
 > Showing 5 of 12 posts.
 
-[![How to build your website at super-sonic speed with Astro.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_build_your_website_at_super-sonic_speed_with_Astro..svg)](https://dev.to/replayable/getting-started-with-astro-on-windows-4h04)
-[![Building Test Coverage Momentum](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Building_Test_Coverage_Momentum.svg)](https://dev.to/jobber/building-test-coverage-momentum-1gh7)
-[![Meme Monday 🚨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Meme_Monday_🚨.svg)](https://dev.to/ben/meme-monday-3jjm)
-[![Learn SOLID design principles using Java](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Learn_SOLID_design_principles_using_Java.svg)](https://dev.to/fialhorenato/learn-solid-design-principles-using-java-m68)
-[![Archiving And Transferring Files](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Archiving_And_Transferring_Files.svg)](https://dev.to/allinkfla/archiving-and-transferring-files-53mb)
+[![5 Ways To Optimize Your GitHub For Potential Employers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_Ways_To_Optimize_Your_GitHub_For_Potential_Employers.svg)](https://dev.to/elliotmangini/5-ways-to-optimize-your-github-for-potential-employers-59ge)
+[![Blockchain in Healthcare💉🚑](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Blockchain_in_Healthcare💉🚑.svg)](https://dev.to/nyashakarata/blockchain-in-healthcare-1nap)
+[![7 Things to Consider When Working On a Personal Project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/7_Things_to_Consider_When_Working_On_a_Personal_Project.svg)](https://dev.to/maxr96/7-things-to-consider-when-working-on-a-personal-project-78d)
+[![Building a Nest.JS backend with Prisma (ORM)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Building_a_Nest.JS_backend_with_Prisma_(ORM).svg)](https://dev.to/caiofelipe97/building-a-nestjs-backend-with-prisma-orm-53a4)
+[![Building my blog with AWS Amplify and Next.JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Building_my_blog_with_AWS_Amplify_and_Next.JS.svg)](https://dev.to/aws-builders/building-my-blog-with-aws-amplify-and-nextjs-kff)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, September 26, 2022 at 12:14:46 PM
+> Last updated: Monday, September 26, 2022 at 7:07:36 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, September 26, 2022 at 12:14:49 PM
+> Last updated: Monday, September 26, 2022 at 7:07:41 PM
 
 > Showing 5 of 30 posts.
 
+[![API with NestJS #76. Working with transactions using raw SQL queries](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__76._Working_with_transactions_using_raw_SQL_queries.svg)](https://wanago.io/2022/09/26/api-nestjs-transactions-sql/)
 [![How to Write Polyfill of Some Method in JS?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Write_Polyfill_of_Some_Method_in_JS_.svg)](https://www.youtube.com/watch?v=gfxDxxSQpnA)
 [![GitHub - GrosSacASac/stream-sac: Stream related functions: Html minifier, Markdown parser, concat as stream and streamify a string function.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_GrosSacASac_stream-sac__Stream_related_functions__Html_minifier__Markdown_parser__concat_as_stream_and_streamify_a_string_function..svg)](https://github.com/GrosSacASac/stream-sac)
 [![The inheritAttrs Option in Vue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_inheritAttrs_Option_in_Vue.svg)](
 https://masteringjs.io/tutorials/vue/inheritattrs
 )
 [![GitHub - GrosSacASac/passwuert](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_GrosSacASac_passwuert.svg)](https://github.com/GrosSacASac/passwuert)
-[![GitHub - wlucha/angular-starter: Angular 14 Starter with Storybook, Transloco, Jest, TestCafe, Docker, ESLint, Material & Prettier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_wlucha_angular-starter__Angular_14_Starter_with_Storybook__Transloco__Jest__TestCafe__Docker__ESLint__Material___Prettier.svg)](https://github.com/wlucha/angular-starter)
 
 
 <!-- post-list:end -->
