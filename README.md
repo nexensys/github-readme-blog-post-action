@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, September 27, 2022 at 12:43:44 AM
+> Last updated: Tuesday, September 27, 2022 at 6:25:33 AM
 
 > Showing 5 of 12 posts.
 
-[![How do you create your headers?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_do_you_create_your_headers_.svg)](https://dev.to/dailydevtips1/how-do-you-create-your-headers-47fn)
-[![Backup AWS Support case history to your Wiki](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Backup_AWS_Support_case_history_to_your_Wiki.svg)](https://dev.to/aws-builders/backup-aws-support-case-history-to-your-wiki-5ea9)
-[![Meu primeiro smart contract: Criando um token ERC-20 pt.2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Meu_primeiro_smart_contract__Criando_um_token_ERC-20_pt.2.svg)](https://dev.to/viniblack/meu-primeiro-smart-contract-criando-um-token-erc-20-pt2-fcm)
-[![No-Code? No, Thank You?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/No-Code__No__Thank_You_.svg)](https://dev.to/domfive/no-code-no-thank-you-jp8)
-[![5 Ways To Optimize Your GitHub For Potential Employers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_Ways_To_Optimize_Your_GitHub_For_Potential_Employers.svg)](https://dev.to/elliotmangini/5-ways-to-optimize-your-github-for-potential-employers-59ge)
+[![Easy Way to Create Your own QR Code Generator Website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Easy_Way_to_Create_Your_own_QR_Code_Generator_Website.svg)](https://dev.to/varshithvhegde/easy-way-to-create-your-own-qr-code-generator-website-3dn2)
+[![Collecting Data into Database Automatically](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Collecting_Data_into_Database_Automatically.svg)](https://dev.to/anuoluwapods/collecting-data-into-database-automatically-6nk)
+[![Scrapping Google Playstore](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Scrapping_Google_Playstore.svg)](https://dev.to/anuoluwapods/scrapping-google-playstore-2857)
+[![Garantindo a idempotência de eventos com Redis](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Garantindo_a_idempotência_de_eventos_com_Redis.svg)](https://dev.to/pjonatansr/garantindo-a-idempotencia-de-eventos-com-redis-1opa)
+[![Web Scraping GitHub Page](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Web_Scraping_GitHub_Page.svg)](https://dev.to/anuoluwapods/web-scraping-github-page-16d2)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, September 27, 2022 at 12:43:47 AM
+> Last updated: Tuesday, September 27, 2022 at 6:25:36 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, September 27, 2022 at 12:43:51 AM
+> Last updated: Tuesday, September 27, 2022 at 6:25:43 AM
 
 > Showing 5 of 30 posts.
 
+[![Episode 30 - All about UltraJS combining React and Deno with Omar Mashaal - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_30_-_All_about_UltraJS_combining_React_and_Deno_with_Omar_Mashaal_-_20minJS.svg)](https://podcast.20minjs.com/1952066/11384885-episode-30-all-about-ultrajs-combining-react-and-deno-with-omar-mashaal)
 [![IGBC - AP Made Easy Training Course](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/IGBC_-_AP_Made_Easy_Training_Course.svg)](
 https://www.conserveacademy.com/online-course/igbc-ap-made-easy/
 )
 [![API with NestJS #76. Working with transactions using raw SQL queries](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__76._Working_with_transactions_using_raw_SQL_queries.svg)](https://wanago.io/2022/09/26/api-nestjs-transactions-sql/)
 [![How to Write Polyfill of Some Method in JS?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Write_Polyfill_of_Some_Method_in_JS_.svg)](https://www.youtube.com/watch?v=gfxDxxSQpnA)
 [![GitHub - GrosSacASac/stream-sac: Stream related functions: Html minifier, Markdown parser, concat as stream and streamify a string function.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_GrosSacASac_stream-sac__Stream_related_functions__Html_minifier__Markdown_parser__concat_as_stream_and_streamify_a_string_function..svg)](https://github.com/GrosSacASac/stream-sac)
-[![The inheritAttrs Option in Vue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_inheritAttrs_Option_in_Vue.svg)](
-https://masteringjs.io/tutorials/vue/inheritattrs
-)
 
 
 <!-- post-list:end -->
