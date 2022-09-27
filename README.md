@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, September 26, 2022 at 7:07:34 PM
+> Last updated: Tuesday, September 27, 2022 at 12:43:44 AM
 
 > Showing 5 of 12 posts.
 
+[![How do you create your headers?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_do_you_create_your_headers_.svg)](https://dev.to/dailydevtips1/how-do-you-create-your-headers-47fn)
+[![Backup AWS Support case history to your Wiki](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Backup_AWS_Support_case_history_to_your_Wiki.svg)](https://dev.to/aws-builders/backup-aws-support-case-history-to-your-wiki-5ea9)
+[![Meu primeiro smart contract: Criando um token ERC-20 pt.2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Meu_primeiro_smart_contract__Criando_um_token_ERC-20_pt.2.svg)](https://dev.to/viniblack/meu-primeiro-smart-contract-criando-um-token-erc-20-pt2-fcm)
+[![No-Code? No, Thank You?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/No-Code__No__Thank_You_.svg)](https://dev.to/domfive/no-code-no-thank-you-jp8)
 [![5 Ways To Optimize Your GitHub For Potential Employers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_Ways_To_Optimize_Your_GitHub_For_Potential_Employers.svg)](https://dev.to/elliotmangini/5-ways-to-optimize-your-github-for-potential-employers-59ge)
-[![Blockchain in Healthcare💉🚑](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Blockchain_in_Healthcare💉🚑.svg)](https://dev.to/nyashakarata/blockchain-in-healthcare-1nap)
-[![7 Things to Consider When Working On a Personal Project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/7_Things_to_Consider_When_Working_On_a_Personal_Project.svg)](https://dev.to/maxr96/7-things-to-consider-when-working-on-a-personal-project-78d)
-[![Building a Nest.JS backend with Prisma (ORM)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Building_a_Nest.JS_backend_with_Prisma_(ORM).svg)](https://dev.to/caiofelipe97/building-a-nestjs-backend-with-prisma-orm-53a4)
-[![Building my blog with AWS Amplify and Next.JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Building_my_blog_with_AWS_Amplify_and_Next.JS.svg)](https://dev.to/aws-builders/building-my-blog-with-aws-amplify-and-nextjs-kff)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, September 26, 2022 at 7:07:36 PM
+> Last updated: Tuesday, September 27, 2022 at 12:43:47 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, September 26, 2022 at 7:07:41 PM
+> Last updated: Tuesday, September 27, 2022 at 12:43:51 AM
 
 > Showing 5 of 30 posts.
 
+[![IGBC - AP Made Easy Training Course](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/IGBC_-_AP_Made_Easy_Training_Course.svg)](
+https://www.conserveacademy.com/online-course/igbc-ap-made-easy/
+)
 [![API with NestJS #76. Working with transactions using raw SQL queries](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__76._Working_with_transactions_using_raw_SQL_queries.svg)](https://wanago.io/2022/09/26/api-nestjs-transactions-sql/)
 [![How to Write Polyfill of Some Method in JS?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Write_Polyfill_of_Some_Method_in_JS_.svg)](https://www.youtube.com/watch?v=gfxDxxSQpnA)
 [![GitHub - GrosSacASac/stream-sac: Stream related functions: Html minifier, Markdown parser, concat as stream and streamify a string function.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_GrosSacASac_stream-sac__Stream_related_functions__Html_minifier__Markdown_parser__concat_as_stream_and_streamify_a_string_function..svg)](https://github.com/GrosSacASac/stream-sac)
 [![The inheritAttrs Option in Vue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_inheritAttrs_Option_in_Vue.svg)](
 https://masteringjs.io/tutorials/vue/inheritattrs
 )
-[![GitHub - GrosSacASac/passwuert](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_GrosSacASac_passwuert.svg)](https://github.com/GrosSacASac/passwuert)
 
 
 <!-- post-list:end -->
