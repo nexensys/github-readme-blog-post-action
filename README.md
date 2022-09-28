@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, September 27, 2022 at 7:08:03 PM
+> Last updated: Wednesday, September 28, 2022 at 12:46:10 AM
 
 > Showing 5 of 12 posts.
 
+[![Why we Chose Flagsmith for Feature Flagging](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Why_we_Chose_Flagsmith_for_Feature_Flagging.svg)](https://dev.to/rishit/why-we-chose-flagsmith-for-feature-flagging-3l7g)
+[![VSCode Custom Colors Per A Project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/VSCode_Custom_Colors_Per_A_Project.svg)](https://dev.to/codingwithadam/vscode-custom-colors-per-a-project-15cd)
+[![Heroku Alternative: How to Deploy A ReactJS Rails API App to Render](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Heroku_Alternative__How_to_Deploy_A_ReactJS_Rails_API_App_to_Render.svg)](https://dev.to/nickmendez/heroku-alternative-how-to-deploy-a-reactjs-rails-api-app-to-render-2k17)
 [![open-appsec NGINX WAF makes machine learning friendly using gamification](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/open-appsec_NGINX_WAF_makes_machine_learning_friendly_using_gamification.svg)](https://dev.to/openappsec/open-appsec-nginx-waf-makes-machine-learning-friendly-using-gamification-32m0)
-[![How To: generate CSR, Self-signed and CA certificat](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_To__generate_CSR__Self-signed_and_CA_certificat.svg)](https://dev.to/ysellami/how-to-generate-csr-self-signed-and-ca-certificat-j59)
-[![The Complete Full-Stack Guide to Getting Started with Zero-Knowledge Proofs using Circom and ZK-Snarks - Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Complete_Full-Stack_Guide_to_Getting_Started_with_Zero-Knowledge_Proofs_using_Circom_and_ZK-Snarks_-_Part_1.svg)](https://dev.to/tonyolendo/the-complete-full-stack-guide-to-getting-started-with-zero-knowledge-proofs-using-circom-and-zk-snarks-part-1-53gi)
-[![Using a Netlify Edge Worker to cut down on header bloat by removing HTML-only headers from static assets](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Using_a_Netlify_Edge_Worker_to_cut_down_on_header_bloat_by_removing_HTML-only_headers_from_static_assets.svg)](https://dev.to/philw_/using-a-netlify-edge-worker-to-cut-down-on-header-bloat-by-removing-html-only-headers-from-your-static-assets-3nh9)
-[![Sitecore Tokens for Standard Values](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Sitecore_Tokens_for_Standard_Values.svg)](https://dev.to/esdanielgomez/sitecore-tokens-for-standard-values-210m)
+[![How To Write A User Story](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_To_Write_A_User_Story.svg)](https://dev.to/puenehfaith/how-to-create-a-user-story-4acd)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, September 27, 2022 at 7:08:06 PM
+> Last updated: Wednesday, September 28, 2022 at 12:46:13 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, September 27, 2022 at 7:08:09 PM
+> Last updated: Wednesday, September 28, 2022 at 12:46:16 AM
 
 > Showing 5 of 30 posts.
 
