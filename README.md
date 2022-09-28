@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, September 27, 2022 at 12:19:44 PM
+> Last updated: Tuesday, September 27, 2022 at 7:08:03 PM
 
 > Showing 5 of 12 posts.
 
-[![I reduced an npm package size by 50% with minification](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/I_reduced_an_npm_package_size_by_50__with_minification.svg)](https://dev.to/seven/i-reduced-an-npm-package-size-by-50-with-minification-2a6e)
-[![Apache APISIX loves Rust! (and me too)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Apache_APISIX_loves_Rust!_(and_me_too).svg)](https://dev.to/apisix/apache-apisix-loves-rust-and-me-too-1n73)
-[![A super easy way to participate in Hacktoberfest (New for '22!)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_super_easy_way_to_participate_in_Hacktoberfest_(New_for_'22!).svg)](https://dev.to/replayable/a-super-easy-way-to-participate-in-hacktoberfest-22-78d)
-[![Upload media to Supabase from remote URL with nodejs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Upload_media_to_Supabase_from_remote_URL_with_nodejs.svg)](https://dev.to/antoine_m/upload-media-to-supabase-from-remote-url-with-nodejs-5h45)
-[![5 Ways to make development with GitHub Actions more efficient](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_Ways_to_make_development_with_GitHub_Actions_more_efficient.svg)](https://dev.to/danlester/5-ways-to-make-development-with-github-actions-more-efficient-2pea)
+[![open-appsec NGINX WAF makes machine learning friendly using gamification](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/open-appsec_NGINX_WAF_makes_machine_learning_friendly_using_gamification.svg)](https://dev.to/openappsec/open-appsec-nginx-waf-makes-machine-learning-friendly-using-gamification-32m0)
+[![How To: generate CSR, Self-signed and CA certificat](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_To__generate_CSR__Self-signed_and_CA_certificat.svg)](https://dev.to/ysellami/how-to-generate-csr-self-signed-and-ca-certificat-j59)
+[![The Complete Full-Stack Guide to Getting Started with Zero-Knowledge Proofs using Circom and ZK-Snarks - Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Complete_Full-Stack_Guide_to_Getting_Started_with_Zero-Knowledge_Proofs_using_Circom_and_ZK-Snarks_-_Part_1.svg)](https://dev.to/tonyolendo/the-complete-full-stack-guide-to-getting-started-with-zero-knowledge-proofs-using-circom-and-zk-snarks-part-1-53gi)
+[![Using a Netlify Edge Worker to cut down on header bloat by removing HTML-only headers from static assets](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Using_a_Netlify_Edge_Worker_to_cut_down_on_header_bloat_by_removing_HTML-only_headers_from_static_assets.svg)](https://dev.to/philw_/using-a-netlify-edge-worker-to-cut-down-on-header-bloat-by-removing-html-only-headers-from-your-static-assets-3nh9)
+[![Sitecore Tokens for Standard Values](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Sitecore_Tokens_for_Standard_Values.svg)](https://dev.to/esdanielgomez/sitecore-tokens-for-standard-values-210m)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, September 27, 2022 at 12:19:46 PM
+> Last updated: Tuesday, September 27, 2022 at 7:08:06 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,21 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, September 27, 2022 at 12:19:50 PM
+> Last updated: Tuesday, September 27, 2022 at 7:08:09 PM
 
 > Showing 5 of 30 posts.
 
+[![
+Introducing workerd: the Open Source Workers runtime
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Introducing_workerd__the_Open_Source_Workers_runtime_.svg)](
+https://blog.cloudflare.com/workerd-open-source-workers-runtime/
+)
 [![Named Element IDs Can Be Referenced as JavaScript Globals | CSS-Tricks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Named_Element_IDs_Can_Be_Referenced_as_JavaScript_Globals___CSS-Tricks.svg)](https://css-tricks.com/named-element-ids-can-be-referenced-as-javascript-globals/)
 [![Sandworm](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Sandworm.svg)](https://github.com/sandworm-hq)
 [![Episode 30 - All about UltraJS combining React and Deno with Omar Mashaal - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_30_-_All_about_UltraJS_combining_React_and_Deno_with_Omar_Mashaal_-_20minJS.svg)](https://podcast.20minjs.com/1952066/11384885-episode-30-all-about-ultrajs-combining-react-and-deno-with-omar-mashaal)
 [![IGBC - AP Made Easy Training Course](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/IGBC_-_AP_Made_Easy_Training_Course.svg)](
 https://www.conserveacademy.com/online-course/igbc-ap-made-easy/
 )
-[![API with NestJS #76. Working with transactions using raw SQL queries](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__76._Working_with_transactions_using_raw_SQL_queries.svg)](https://wanago.io/2022/09/26/api-nestjs-transactions-sql/)
 
 
 <!-- post-list:end -->
