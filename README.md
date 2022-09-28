@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, September 28, 2022 at 6:24:09 AM
+> Last updated: Wednesday, September 28, 2022 at 12:20:33 PM
 
 > Showing 5 of 12 posts.
 
-[![What is the most effective way of State Management in Enterprise level React Application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_the_most_effective_way_of_State_Management_in_Enterprise_level_React_Application.svg)](https://dev.to/hknasit/what-is-the-most-effective-way-of-state-management-in-enterprise-level-react-application-80a)
-[![VALIDATING REACT FORM WITHOUT A LIBRARY](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/VALIDATING_REACT_FORM_WITHOUT_A_LIBRARY.svg)](https://dev.to/elobigg/validating-react-form-without-a-library-5gle)
-[![Formation python compléte & gratuit en version écrite](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Formation_python_compléte___gratuit_en_version_écrite.svg)](https://dev.to/codingteam/formation-python-complete-gratuit-en-version-ecrite-2fad)
-[![One Click Appwrite Setup With Coolify](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/One_Click_Appwrite_Setup_With_Coolify.svg)](https://dev.to/appwrite/one-click-appwrite-setup-with-coolify-2ojk)
-[![Building a Kanban board with Node.js, React and Websockets 📝 ✨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Building_a_Kanban_board_with_Node.js__React_and_Websockets_📝_✨.svg)](https://dev.to/novu/building-a-beautiful-kanban-board-with-nodejs-react-and-websockets-39dk)
+[![Platform Engineering vs. Site Reliability Engineering](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Platform_Engineering_vs._Site_Reliability_Engineering.svg)](https://dev.to/aha/platform-engineering-vs-site-reliability-engineering-3ei5)
+[![New currency in Software Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/New_currency_in_Software_Development.svg)](https://dev.to/shreyvijayvargiya/new-currency-in-software-development-jna)
+[![Algorithms: Bubble Sort](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Algorithms__Bubble_Sort.svg)](https://dev.to/m13ha/algorithms-bubble-sort-k0)
+[![Cómo usar los métodos Call, Apply y Bind en javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Cómo_usar_los_métodos_Call__Apply_y_Bind_en_javascript.svg)](https://dev.to/khriztianmoreno/como-usar-los-metodos-javascript-call-apply-y-bind-32ek)
+[![It’s ok to use function calls in Angular templates!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/It’s_ok_to_use_function_calls_in_Angular_templates!.svg)](https://dev.to/eneajaho/its-ok-to-use-function-calls-in-angular-templates-4029)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, September 28, 2022 at 6:24:12 AM
+> Last updated: Wednesday, September 28, 2022 at 12:20:36 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, September 28, 2022 at 6:24:16 AM
+> Last updated: Wednesday, September 28, 2022 at 12:20:43 PM
 
 > Showing 5 of 30 posts.
 
-[![Exploring the Link component in NextJs: objects as hrefs, disabling prefetching and  page scroll, opening in new tab](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Exploring_the_Link_component_in_NextJs__objects_as_hrefs__disabling_prefetching_and__page_scroll__opening_in_new_tab.svg)](http://www.js-craft.io/blog/exploring-the-link-component-in-nextjs-objects-as-hrefs-disabling-prefetching-and-page-scroll-opening-in-new-tab/)
-[![
-Introducing workerd: the Open Source Workers runtime
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Introducing_workerd__the_Open_Source_Workers_runtime_.svg)](
-https://blog.cloudflare.com/workerd-open-source-workers-runtime/
+[![React Flow 11 Release - React Flow](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_Flow_11_Release_-_React_Flow.svg)](https://reactflow.dev/blog/react-flow-v11/)
+[![2 Ways to Use Your Own Docker Image in Github Actions - Yonatan Kra](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/2_Ways_to_Use_Your_Own_Docker_Image_in_Github_Actions_-_Yonatan_Kra.svg)](https://yonatankra.com/2-ways-to-use-your-docker-image-in-github-actions/)
+[![Build a Photo Gallery app with Webiny and Nuxt | Webiny](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_a_Photo_Gallery_app_with_Webiny_and_Nuxt___Webiny.svg)](
+https://www.webiny.com/blog/build-photo-sharing-app-nuxt-webiny-headless-cms
 )
-[![Named Element IDs Can Be Referenced as JavaScript Globals | CSS-Tricks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Named_Element_IDs_Can_Be_Referenced_as_JavaScript_Globals___CSS-Tricks.svg)](https://css-tricks.com/named-element-ids-can-be-referenced-as-javascript-globals/)
-[![Sandworm](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Sandworm.svg)](https://github.com/sandworm-hq)
-[![Episode 30 - All about UltraJS combining React and Deno with Omar Mashaal - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_30_-_All_about_UltraJS_combining_React_and_Deno_with_Omar_Mashaal_-_20minJS.svg)](https://podcast.20minjs.com/1952066/11384885-episode-30-all-about-ultrajs-combining-react-and-deno-with-omar-mashaal)
+[![GitHub - R4cc/Feedster: A semi-minimal RSS reader written in ASP.NET Blazor](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_R4cc_Feedster__A_semi-minimal_RSS_reader_written_in_ASP.NET_Blazor.svg)](https://github.com/R4cc/Feedster)
+[![Exploring the Link component in NextJs: objects as hrefs, disabling prefetching and  page scroll, opening in new tab](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Exploring_the_Link_component_in_NextJs__objects_as_hrefs__disabling_prefetching_and__page_scroll__opening_in_new_tab.svg)](http://www.js-craft.io/blog/exploring-the-link-component-in-nextjs-objects-as-hrefs-disabling-prefetching-and-page-scroll-opening-in-new-tab/)
 
 
 <!-- post-list:end -->
