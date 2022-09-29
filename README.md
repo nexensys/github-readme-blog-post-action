@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, September 28, 2022 at 12:20:33 PM
+> Last updated: Wednesday, September 28, 2022 at 7:12:20 PM
 
 > Showing 5 of 12 posts.
 
-[![Platform Engineering vs. Site Reliability Engineering](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Platform_Engineering_vs._Site_Reliability_Engineering.svg)](https://dev.to/aha/platform-engineering-vs-site-reliability-engineering-3ei5)
-[![New currency in Software Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/New_currency_in_Software_Development.svg)](https://dev.to/shreyvijayvargiya/new-currency-in-software-development-jna)
-[![Algorithms: Bubble Sort](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Algorithms__Bubble_Sort.svg)](https://dev.to/m13ha/algorithms-bubble-sort-k0)
-[![Cómo usar los métodos Call, Apply y Bind en javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Cómo_usar_los_métodos_Call__Apply_y_Bind_en_javascript.svg)](https://dev.to/khriztianmoreno/como-usar-los-metodos-javascript-call-apply-y-bind-32ek)
-[![It’s ok to use function calls in Angular templates!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/It’s_ok_to_use_function_calls_in_Angular_templates!.svg)](https://dev.to/eneajaho/its-ok-to-use-function-calls-in-angular-templates-4029)
+[![How To React.js?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_To_React.js_.svg)](https://dev.to/sujeshgathe/how-to-reactjs-4kl6)
+[![Welcome Thread - v193](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Welcome_Thread_-_v193.svg)](https://dev.to/thepracticaldev/welcome-thread-v193-2m0a)
+[![Changelog #0019 — 🖐️ Library ordering, search, keyboard shortcuts, and more](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Changelog__0019_—_🖐️_Library_ordering__search__keyboard_shortcuts__and_more.svg)](https://dev.to/pie/changelog-0019-library-ordering-search-keyboard-shortcuts-and-more-3pod)
+[![Virtual Threads In Java](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Virtual_Threads_In_Java.svg)](https://dev.to/jorgetovar/virtual-threads-in-java-23mf)
+[![Understanding Asynchronous APIs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Understanding_Asynchronous_APIs.svg)](https://dev.to/postman/understanding-asynchronous-apis-c6c)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, September 28, 2022 at 12:20:36 PM
+> Last updated: Wednesday, September 28, 2022 at 7:12:24 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, September 28, 2022 at 12:20:43 PM
+> Last updated: Wednesday, September 28, 2022 at 7:12:30 PM
 
 > Showing 5 of 30 posts.
 
