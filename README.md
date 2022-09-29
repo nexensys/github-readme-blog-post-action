@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, September 28, 2022 at 7:12:20 PM
+> Last updated: Thursday, September 29, 2022 at 12:50:16 AM
 
 > Showing 5 of 12 posts.
 
+[![javascript: Pure Function](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/javascript__Pure_Function.svg)](https://dev.to/urstrulyvishwak/javascript-pure-function-1gjf)
+[![Fundamentals of let, const, var 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Fundamentals_of_let__const__var_🚀.svg)](https://dev.to/khalidhossain/fundamentals-of-let-const-var-48fl)
+[![Video SDK for easier integration](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Video_SDK_for_easier_integration.svg)](https://dev.to/zegocloud/video-sdk-for-easier-integration-1p7g)
+[![Go for the streak and celebrate progress 🏆: Strava for VS Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Go_for_the_streak_and_celebrate_progress_🏆__Strava_for_VS_Code.svg)](https://dev.to/sourishkrout/go-for-the-streak-and-celebrate-progress-strava-for-vs-code-3cec)
 [![How To React.js?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_To_React.js_.svg)](https://dev.to/sujeshgathe/how-to-reactjs-4kl6)
-[![Welcome Thread - v193](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Welcome_Thread_-_v193.svg)](https://dev.to/thepracticaldev/welcome-thread-v193-2m0a)
-[![Changelog #0019 — 🖐️ Library ordering, search, keyboard shortcuts, and more](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Changelog__0019_—_🖐️_Library_ordering__search__keyboard_shortcuts__and_more.svg)](https://dev.to/pie/changelog-0019-library-ordering-search-keyboard-shortcuts-and-more-3pod)
-[![Virtual Threads In Java](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Virtual_Threads_In_Java.svg)](https://dev.to/jorgetovar/virtual-threads-in-java-23mf)
-[![Understanding Asynchronous APIs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Understanding_Asynchronous_APIs.svg)](https://dev.to/postman/understanding-asynchronous-apis-c6c)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, September 28, 2022 at 7:12:24 PM
+> Last updated: Thursday, September 29, 2022 at 12:50:20 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, September 28, 2022 at 7:12:30 PM
+> Last updated: Thursday, September 29, 2022 at 12:50:28 AM
 
 > Showing 5 of 30 posts.
 
