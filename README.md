@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, September 30, 2022 at 6:26:55 AM
+> Last updated: Friday, September 30, 2022 at 12:17:59 PM
 
 > Showing 5 of 12 posts.
 
-[![ToolJet x Hacktoberfest'22](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/ToolJet_x_Hacktoberfest'22.svg)](https://dev.to/tooljet/tooljet-x-hacktoberfest22-5bf2)
-[![(VIDEO) Django Material Template - How to use it](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/(VIDEO)_Django_Material_Template_-_How_to_use_it.svg)](https://dev.to/sm0ke/video-django-material-template-how-to-use-it-3ngd)
-[![AWS open source news and updates, #129](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/AWS_open_source_news_and_updates___129.svg)](https://dev.to/aws/aws-open-source-news-and-updates-129-18hm)
-[![Why RxJS compatibility matters](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Why_RxJS_compatibility_matters.svg)](https://dev.to/mfp22/why-rxjs-compatibility-matters-gl2)
-[![Kubernetes Security: 10 Best Practices from the Industry and Community](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Kubernetes_Security__10_Best_Practices_from_the_Industry_and_Community.svg)](https://dev.to/castai/kubernetes-security-10-best-practices-from-the-industry-and-community-1bp6)
+[![Follow Friday: Preptember Edition (30 September 2022)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Follow_Friday__Preptember_Edition_(30_September_2022).svg)](https://dev.to/devteam/follow-friday-preptember-edition-23-september-2022-43jh)
+[![How to make projects as a fresher](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_make_projects_as_a_fresher.svg)](https://dev.to/shacodes/how-to-make-projects-as-fresher-akc)
+[![PagerDuty Community Weekly Update, September 30, 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/PagerDuty_Community_Weekly_Update__September_30__2022.svg)](https://dev.to/pdcommunity/pagerduty-community-weekly-update-september-30-2022-7bg)
+[![Fresh off passing Google and Microsoft interviews, I put together an free, opinionated interview guide that I hope can help you](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Fresh_off_passing_Google_and_Microsoft_interviews__I_put_together_an_free__opinionated_interview_guide_that_I_hope_can_help_you.svg)](https://dev.to/nas5w/fresh-off-passing-google-and-microsoft-interviews-i-put-together-an-free-opinionated-interview-guide-that-i-hope-can-help-you-2kf2)
+[![If you could start a company, what would it be?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/If_you_could_start_a_company__what_would_it_be_.svg)](https://dev.to/michaeltharrington/if-you-could-start-a-company-what-would-it-be-2n5d)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, September 30, 2022 at 6:26:59 AM
+> Last updated: Friday, September 30, 2022 at 12:18:02 PM
 
 > Showing 4 of 4 posts.
 
+[![How TypeScript 4.9 satisfies](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/How_TypeScript_4.9_satisfies.svg)](https://javascriptweekly.com/issues/608)
 [![Extractors for ECMAScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Extractors_for_ECMAScript.svg)](https://javascriptweekly.com/issues/607)
 [![Seven weird ways to call a JavaScript function](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Seven_weird_ways_to_call_a_JavaScript_function.svg)](https://javascriptweekly.com/issues/606)
 [![Anyone know Larry Ellison?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Anyone_know_Larry_Ellison_.svg)](https://javascriptweekly.com/issues/605)
-[![David's handy JS debugging tip](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/David's_handy_JS_debugging_tip.svg)](https://javascriptweekly.com/issues/604)
 
 
 ## Echo JS
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, September 30, 2022 at 6:27:03 AM
+> Last updated: Friday, September 30, 2022 at 12:18:06 PM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - pichillilorenzo/gifski-command: Node.js module for gifski GIF encoder CLI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_pichillilorenzo_gifski-command__Node.js_module_for_gifski_GIF_encoder_CLI.svg)](https://github.com/pichillilorenzo/gifski-command)
 [![Why does JSON.parse corrupt large numbers and how to solve this? - JSON Indepth](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Why_does_JSON.parse_corrupt_large_numbers_and_how_to_solve_this__-_JSON_Indepth.svg)](https://jsoneditoronline.org/indepth/parse/why-does-json-parse-corrupt-large-numbers/)
 [![GitHub - khalil-research/PyEPO: A PyTorch-based End-to-End Predict-then-Optimize Library for Linear and Integer Programming](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_khalil-research_PyEPO__A_PyTorch-based_End-to-End_Predict-then-Optimize_Library_for_Linear_and_Integer_Programming.svg)](https://github.com/khalil-research/PyEPO)
 [![VS Code Timeline Restores Lost Work That Git Can't](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/VS_Code_Timeline_Restores_Lost_Work_That_Git_Can't.svg)](https://austingil.com/vs-code-timeline-restores-work-git-cant/)
 [![JTL Infra Director Vijay Singla launched CSR to Help the Poor and Needy During the Pandemic](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JTL_Infra_Director_Vijay_Singla_launched_CSR_to_Help_the_Poor_and_Needy_During_the_Pandemic.svg)](https://www.tribuneindia.com/news/brand-connect/jtl-infra-director-vijay-singla-launched-csr-to-help-the-poor-and-needy-during-the-pandemic-402998)
-[![billboard.js 3.6 release: official React wrapper & new enhancements!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/billboard.js_3.6_release__official_React_wrapper___new_enhancements!.svg)](https://netil.medium.com/billboard-js-3-6-release-official-react-wrapper-new-enhancements-2dbf1ffc4d1c)
 
 
 <!-- post-list:end -->
