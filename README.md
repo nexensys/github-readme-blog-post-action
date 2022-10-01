@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, September 30, 2022 at 12:17:59 PM
+> Last updated: Friday, September 30, 2022 at 7:20:56 PM
 
 > Showing 5 of 12 posts.
 
-[![Follow Friday: Preptember Edition (30 September 2022)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Follow_Friday__Preptember_Edition_(30_September_2022).svg)](https://dev.to/devteam/follow-friday-preptember-edition-23-september-2022-43jh)
-[![How to make projects as a fresher](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_make_projects_as_a_fresher.svg)](https://dev.to/shacodes/how-to-make-projects-as-fresher-akc)
-[![PagerDuty Community Weekly Update, September 30, 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/PagerDuty_Community_Weekly_Update__September_30__2022.svg)](https://dev.to/pdcommunity/pagerduty-community-weekly-update-september-30-2022-7bg)
-[![Fresh off passing Google and Microsoft interviews, I put together an free, opinionated interview guide that I hope can help you](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Fresh_off_passing_Google_and_Microsoft_interviews__I_put_together_an_free__opinionated_interview_guide_that_I_hope_can_help_you.svg)](https://dev.to/nas5w/fresh-off-passing-google-and-microsoft-interviews-i-put-together-an-free-opinionated-interview-guide-that-i-hope-can-help-you-2kf2)
-[![If you could start a company, what would it be?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/If_you_could_start_a_company__what_would_it_be_.svg)](https://dev.to/michaeltharrington/if-you-could-start-a-company-what-would-it-be-2n5d)
+[![Build a Passwordless Authentication in Node.js on Redis](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_a_Passwordless_Authentication_in_Node.js_on_Redis.svg)](https://dev.to/imichaelowolabi/passwordless-authentication-in-nodejs-on-redis-12e)
+[![List Of Github Repository to Contribute in HacktoberFest 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/List_Of_Github_Repository_to_Contribute_in_HacktoberFest_2022.svg)](https://dev.to/avinash201199/list-of-github-repository-to-contribute-in-hacktoberfest-2022-3po9)
+[![Hacktoberfest 2022!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Hacktoberfest_2022!.svg)](https://dev.to/digitalocean/hacktoberfest-2022-48ni)
+[![September Stripe Developer Digest](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/September_Stripe_Developer_Digest.svg)](https://dev.to/stripe/september-stripe-developer-digest-h15)
+[![Make any JavaScript method available in Google Sheets](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Make_any_JavaScript_method_available_in_Google_Sheets.svg)](https://dev.to/all_stacks_developer/make-any-javascript-method-available-in-google-sheets-16ad)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, September 30, 2022 at 12:18:02 PM
+> Last updated: Friday, September 30, 2022 at 7:20:59 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, September 30, 2022 at 12:18:06 PM
+> Last updated: Friday, September 30, 2022 at 7:21:01 PM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - jorisre/react-screen-wake-lock: 🌓 React implementation of the Screen Wake Lock API. It provides a way to prevent devices from dimming or locking the screen when an application needs to keep running](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_jorisre_react-screen-wake-lock__🌓_React_implementation_of_the_Screen_Wake_Lock_API._It_provides_a_way_to_prevent_devices_from_dimming_or_locking_the_screen_when_an_application_needs_to_keep_running.svg)](https://github.com/jorisre/react-screen-wake-lock)
+[![Using bcrypt-js to Hash Passwords in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_bcrypt-js_to_Hash_Passwords_in_JavaScript.svg)](
+https://masteringjs.io/tutorials/node/bcrypt
+)
 [![GitHub - pichillilorenzo/gifski-command: Node.js module for gifski GIF encoder CLI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_pichillilorenzo_gifski-command__Node.js_module_for_gifski_GIF_encoder_CLI.svg)](https://github.com/pichillilorenzo/gifski-command)
 [![Why does JSON.parse corrupt large numbers and how to solve this? - JSON Indepth](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Why_does_JSON.parse_corrupt_large_numbers_and_how_to_solve_this__-_JSON_Indepth.svg)](https://jsoneditoronline.org/indepth/parse/why-does-json-parse-corrupt-large-numbers/)
-[![GitHub - khalil-research/PyEPO: A PyTorch-based End-to-End Predict-then-Optimize Library for Linear and Integer Programming](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_khalil-research_PyEPO__A_PyTorch-based_End-to-End_Predict-then-Optimize_Library_for_Linear_and_Integer_Programming.svg)](https://github.com/khalil-research/PyEPO)
-[![VS Code Timeline Restores Lost Work That Git Can't](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/VS_Code_Timeline_Restores_Lost_Work_That_Git_Can't.svg)](https://austingil.com/vs-code-timeline-restores-work-git-cant/)
-[![JTL Infra Director Vijay Singla launched CSR to Help the Poor and Needy During the Pandemic](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JTL_Infra_Director_Vijay_Singla_launched_CSR_to_Help_the_Poor_and_Needy_During_the_Pandemic.svg)](https://www.tribuneindia.com/news/brand-connect/jtl-infra-director-vijay-singla-launched-csr-to-help-the-poor-and-needy-during-the-pandemic-402998)
+[![billboard.js 3.6 release: official React wrapper & new enhancements!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/billboard.js_3.6_release__official_React_wrapper___new_enhancements!.svg)](https://netil.medium.com/billboard-js-3-6-release-official-react-wrapper-new-enhancements-2dbf1ffc4d1c)
 
 
 <!-- post-list:end -->
