@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, October 1, 2022 at 12:30:21 AM
+> Last updated: Saturday, October 1, 2022 at 6:21:39 AM
 
 > Showing 5 of 12 posts.
 
-[![My AWS Solution Architect Professional study guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/My_AWS_Solution_Architect_Professional_study_guide.svg)](https://dev.to/aws-builders/my-aws-solution-architect-professional-study-guide-2i05)
-[![9 tips for writing clean code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/9_tips_for_writing_clean_code.svg)](https://dev.to/ramanbansal/9-tips-for-writing-clean-code-21bn)
-[![Dolby.io Real-time Streaming Wins Best in Media APIs Award](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Dolby.io_Real-time_Streaming_Wins_Best_in_Media_APIs_Award.svg)](https://dev.to/dolbyio/dolbyio-real-time-streaming-wins-best-in-media-apis-award-30mm)
-[![Prefer Function Reference over Lambda in Kotlin? Wrong!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Prefer_Function_Reference_over_Lambda_in_Kotlin__Wrong!.svg)](https://dev.to/vtsen/prefer-function-reference-over-lambda-in-kotlin-wrong-1f8k)
-[![Build a Passwordless Authentication in Node.js on Redis](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_a_Passwordless_Authentication_in_Node.js_on_Redis.svg)](https://dev.to/imichaelowolabi/passwordless-authentication-in-nodejs-on-redis-12e)
+[![One Punch Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/One_Punch_Python.svg)](https://dev.to/saaaa_/one-punch-python-3ngi)
+[![CDK AWS Cloudwatch Evidently Demo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/CDK_AWS_Cloudwatch_Evidently_Demo.svg)](https://dev.to/aws-builders/cdk-aws-cloudwatch-evidently-demo-2mo)
+[![Explaining pass-by-value and pass-by-reference in C for 1st year IT student](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Explaining_pass-by-value_and_pass-by-reference_in_C_for_1st_year_IT_student.svg)](https://dev.to/ryannz/explaining-pass-by-value-and-pass-by-reference-in-c-for-1st-year-it-student-1fjc)
+[![TailwindCSS Explained!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/TailwindCSS_Explained!.svg)](https://dev.to/dboatengx/tailwindcss-explained-lc9)
+[![Abstract Factory pattern in TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Abstract_Factory_pattern_in_TypeScript.svg)](https://dev.to/jmalvarez/abstract-factory-pattern-in-typescript-6c8)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, October 1, 2022 at 12:30:25 AM
+> Last updated: Saturday, October 1, 2022 at 6:21:42 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, October 1, 2022 at 12:30:29 AM
+> Last updated: Saturday, October 1, 2022 at 6:21:44 AM
 
 > Showing 5 of 30 posts.
 
