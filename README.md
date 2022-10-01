@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, October 1, 2022 at 6:21:39 AM
+> Last updated: Saturday, October 1, 2022 at 12:13:43 PM
 
 > Showing 5 of 12 posts.
 
-[![One Punch Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/One_Punch_Python.svg)](https://dev.to/saaaa_/one-punch-python-3ngi)
-[![CDK AWS Cloudwatch Evidently Demo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/CDK_AWS_Cloudwatch_Evidently_Demo.svg)](https://dev.to/aws-builders/cdk-aws-cloudwatch-evidently-demo-2mo)
-[![Explaining pass-by-value and pass-by-reference in C for 1st year IT student](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Explaining_pass-by-value_and_pass-by-reference_in_C_for_1st_year_IT_student.svg)](https://dev.to/ryannz/explaining-pass-by-value-and-pass-by-reference-in-c-for-1st-year-it-student-1fjc)
-[![TailwindCSS Explained!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/TailwindCSS_Explained!.svg)](https://dev.to/dboatengx/tailwindcss-explained-lc9)
-[![Abstract Factory pattern in TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Abstract_Factory_pattern_in_TypeScript.svg)](https://dev.to/jmalvarez/abstract-factory-pattern-in-typescript-6c8)
+[![9 Open Source Projects to Contribute to - Hacktoberfest 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/9_Open_Source_Projects_to_Contribute_to_-_Hacktoberfest_2022.svg)](https://dev.to/bobbyiliev/9-open-source-projects-to-contribute-to-hacktoberfest-2022-1fae)
+[![How to count all files in a directory in Linux](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_count_all_files_in_a_directory_in_Linux.svg)](https://dev.to/smpnjn/how-to-count-all-files-in-a-directory-in-linux-20lh)
+[![Python: The Difference Between Sets, Lists, Dictionaries and Tuples](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Python__The_Difference_Between_Sets__Lists__Dictionaries_and_Tuples.svg)](https://dev.to/smpnjn/python-the-difference-between-sets-lists-dictionaries-and-tuples-24od)
+[![Python Dictionaries: A Complete Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Python_Dictionaries__A_Complete_Guide.svg)](https://dev.to/smpnjn/python-dictionaries-a-complete-guide-afi)
+[![It's Hacktoberfest time - Time to gear up your skill](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/It's_Hacktoberfest_time_-_Time_to_gear_up_your_skill.svg)](https://dev.to/kodeflap/its-hacktoberfest-time-time-to-gear-up-your-skill-21i7)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, October 1, 2022 at 6:21:42 AM
+> Last updated: Saturday, October 1, 2022 at 12:13:46 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, October 1, 2022 at 6:21:44 AM
+> Last updated: Saturday, October 1, 2022 at 12:13:49 PM
 
 > Showing 5 of 30 posts.
 
