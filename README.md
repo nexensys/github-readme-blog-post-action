@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, October 1, 2022 at 12:13:43 PM
+> Last updated: Saturday, October 1, 2022 at 7:15:52 PM
 
 > Showing 5 of 12 posts.
 
-[![9 Open Source Projects to Contribute to - Hacktoberfest 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/9_Open_Source_Projects_to_Contribute_to_-_Hacktoberfest_2022.svg)](https://dev.to/bobbyiliev/9-open-source-projects-to-contribute-to-hacktoberfest-2022-1fae)
-[![How to count all files in a directory in Linux](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_count_all_files_in_a_directory_in_Linux.svg)](https://dev.to/smpnjn/how-to-count-all-files-in-a-directory-in-linux-20lh)
-[![Python: The Difference Between Sets, Lists, Dictionaries and Tuples](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Python__The_Difference_Between_Sets__Lists__Dictionaries_and_Tuples.svg)](https://dev.to/smpnjn/python-the-difference-between-sets-lists-dictionaries-and-tuples-24od)
-[![Python Dictionaries: A Complete Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Python_Dictionaries__A_Complete_Guide.svg)](https://dev.to/smpnjn/python-dictionaries-a-complete-guide-afi)
-[![It's Hacktoberfest time - Time to gear up your skill](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/It's_Hacktoberfest_time_-_Time_to_gear_up_your_skill.svg)](https://dev.to/kodeflap/its-hacktoberfest-time-time-to-gear-up-your-skill-21i7)
+[![Top 7 Sample Code Base websites for Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_7_Sample_Code_Base_websites_for_Developers.svg)](https://dev.to/qbentil/top-7-sample-code-base-websites-for-developers-1bb7)
+[![Javascript - Let’s steal from other languages!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Javascript_-_Let’s_steal_from_other_languages!.svg)](https://dev.to/noriller/javascript-lets-steal-from-other-languages-4914)
+[![Becoming a TRUE Tech Lead](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Becoming_a_TRUE_Tech_Lead.svg)](https://dev.to/msmello_/becoming-a-true-tech-lead-2487)
+[![Rust devlog: Week 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Rust_devlog__Week_2.svg)](https://dev.to/thousandthstar/rust-devlog-week-2-43hj)
+[![🏄‍♂️ Stacks-Dash 🤹‍♂️ - A console for monitoring multi account / cross region cloudformation deployments using Amplify Studio](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/🏄‍♂️_Stacks-Dash_🤹‍♂️_-_A_console_for_monitoring_multi_account___cross_region_cloudformation_deployments_using_Amplify_Studio.svg)](https://dev.to/aws-builders/stacks-dash-a-console-for-monitoring-multi-account-cross-region-cloudformation-deployments-using-amplify-studio-1ik8)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, October 1, 2022 at 12:13:46 PM
+> Last updated: Saturday, October 1, 2022 at 7:15:56 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, October 1, 2022 at 12:13:49 PM
+> Last updated: Saturday, October 1, 2022 at 7:16:01 PM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - pichillilorenzo/mlab-speed-test: Test your download and upload speed using speed.measurementlab.net](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_pichillilorenzo_mlab-speed-test__Test_your_download_and_upload_speed_using_speed.measurementlab.net.svg)](https://github.com/pichillilorenzo/mlab-speed-test)
 [![GitHub - jorisre/react-screen-wake-lock: 🌓 React implementation of the Screen Wake Lock API. It provides a way to prevent devices from dimming or locking the screen when an application needs to keep running](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_jorisre_react-screen-wake-lock__🌓_React_implementation_of_the_Screen_Wake_Lock_API._It_provides_a_way_to_prevent_devices_from_dimming_or_locking_the_screen_when_an_application_needs_to_keep_running.svg)](https://github.com/jorisre/react-screen-wake-lock)
 [![Using bcrypt-js to Hash Passwords in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_bcrypt-js_to_Hash_Passwords_in_JavaScript.svg)](
 https://masteringjs.io/tutorials/node/bcrypt
 )
 [![GitHub - pichillilorenzo/gifski-command: Node.js module for gifski GIF encoder CLI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_pichillilorenzo_gifski-command__Node.js_module_for_gifski_GIF_encoder_CLI.svg)](https://github.com/pichillilorenzo/gifski-command)
 [![Why does JSON.parse corrupt large numbers and how to solve this? - JSON Indepth](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Why_does_JSON.parse_corrupt_large_numbers_and_how_to_solve_this__-_JSON_Indepth.svg)](https://jsoneditoronline.org/indepth/parse/why-does-json-parse-corrupt-large-numbers/)
-[![billboard.js 3.6 release: official React wrapper & new enhancements!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/billboard.js_3.6_release__official_React_wrapper___new_enhancements!.svg)](https://netil.medium.com/billboard-js-3-6-release-official-react-wrapper-new-enhancements-2dbf1ffc4d1c)
 
 
 <!-- post-list:end -->
