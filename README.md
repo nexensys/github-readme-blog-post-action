@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, October 1, 2022 at 7:15:52 PM
+> Last updated: Sunday, October 2, 2022 at 12:21:36 AM
 
 > Showing 5 of 12 posts.
 
-[![Top 7 Sample Code Base websites for Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_7_Sample_Code_Base_websites_for_Developers.svg)](https://dev.to/qbentil/top-7-sample-code-base-websites-for-developers-1bb7)
-[![Javascript - Let’s steal from other languages!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Javascript_-_Let’s_steal_from_other_languages!.svg)](https://dev.to/noriller/javascript-lets-steal-from-other-languages-4914)
-[![Becoming a TRUE Tech Lead](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Becoming_a_TRUE_Tech_Lead.svg)](https://dev.to/msmello_/becoming-a-true-tech-lead-2487)
-[![Rust devlog: Week 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Rust_devlog__Week_2.svg)](https://dev.to/thousandthstar/rust-devlog-week-2-43hj)
-[![🏄‍♂️ Stacks-Dash 🤹‍♂️ - A console for monitoring multi account / cross region cloudformation deployments using Amplify Studio](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/🏄‍♂️_Stacks-Dash_🤹‍♂️_-_A_console_for_monitoring_multi_account___cross_region_cloudformation_deployments_using_Amplify_Studio.svg)](https://dev.to/aws-builders/stacks-dash-a-console-for-monitoring-multi-account-cross-region-cloudformation-deployments-using-amplify-studio-1ik8)
+[![Emails with Python using App Password](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Emails_with_Python_using_App_Password.svg)](https://dev.to/coderatul/emails-with-python-using-app-password-2fp4)
+[![In One minute : Node.JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/In_One_minute___Node.JS.svg)](https://dev.to/rakeshkr2/in-one-minute-nodejs-1ngc)
+[![7 Cool HTML Elements Nobody Uses](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/7_Cool_HTML_Elements_Nobody_Uses.svg)](https://dev.to/ruppysuppy/7-cool-html-elements-nobody-uses-330c)
+[![💤 Zsh in WSL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/💤_Zsh_in_WSL.svg)](https://dev.to/stephanlamoureux/zsh-in-wsl-1dgc)
+[![Stop writing "Stop doing ???" articles ...](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Stop_writing__Stop_doing______articles_....svg)](https://dev.to/jarrodhroberson/stop-writing-stop-doing-articles--6i7)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, October 1, 2022 at 7:15:56 PM
+> Last updated: Sunday, October 2, 2022 at 12:21:39 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, October 1, 2022 at 7:16:01 PM
+> Last updated: Sunday, October 2, 2022 at 12:21:41 AM
 
 > Showing 5 of 30 posts.
 
