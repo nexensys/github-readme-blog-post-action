@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, October 2, 2022 at 6:21:35 AM
+> Last updated: Sunday, October 2, 2022 at 12:14:00 PM
 
 > Showing 5 of 12 posts.
 
-[![5 iPhone Apps You Should Have](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_iPhone_Apps_You_Should_Have.svg)](https://dev.to/stephanreynolds/5-iphone-apps-you-should-have-54kk)
-[![Conditional statement in JavaScript.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Conditional_statement_in_JavaScript..svg)](https://dev.to/jindalkeshav82/conditional-statement-in-javascript-3bg7)
-[![In One Minute : Swagger](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/In_One_Minute___Swagger.svg)](https://dev.to/rakeshkr2/in-one-minute-swagger-h59)
-[![Introduction to HTML and HTML Document Structure](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Introduction_to_HTML_and_HTML_Document_Structure.svg)](https://dev.to/adebomiolusegun/introduction-to-html-and-html-document-structure-5agj)
-[![tsParticles - Guide for Hacktoberfest 2022 participants](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/tsParticles_-_Guide_for_Hacktoberfest_2022_participants.svg)](https://dev.to/tsparticles/tsparticles-guide-for-hacktoberfest-2022-participants-1g5d)
+[![Tremor - Free React Library for Dashboards](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Tremor_-_Free_React_Library_for_Dashboards.svg)](https://dev.to/sm0ke/tremor-free-react-library-for-dashboards-3gm9)
+[![(VIDEO) Flask API Generator and View - Free Product](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/(VIDEO)_Flask_API_Generator_and_View_-_Free_Product.svg)](https://dev.to/sm0ke/video-flask-api-generator-and-view-free-product-h04)
+[![Currently Looking For A Node.JS Role 👋🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Currently_Looking_For_A_Node.JS_Role_👋🚀.svg)](https://dev.to/geekyahmed/currently-looking-for-a-nodejs-role-1i08)
+[![Managing Networking](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Managing_Networking.svg)](https://dev.to/arinfebriani/managing-networking-44k8)
+[![Understanding identity in .NET](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Understanding_identity_in_.NET.svg)](https://dev.to/pbouillon/understanding-identity-in-net-2169)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, October 2, 2022 at 6:21:37 AM
+> Last updated: Sunday, October 2, 2022 at 12:14:03 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, October 2, 2022 at 6:21:40 AM
+> Last updated: Sunday, October 2, 2022 at 12:14:05 PM
 
 > Showing 5 of 30 posts.
 
