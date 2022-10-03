@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, October 3, 2022 at 6:26:42 AM
+> Last updated: Monday, October 3, 2022 at 12:20:05 PM
 
 > Showing 5 of 12 posts.
 
-[![Hacktoberfest 2022 Starter Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Hacktoberfest_2022_Starter_Guide.svg)](https://dev.to/merico/hacktoberfest-2022-guide-for-devlake-and-devstream-5pi)
-[![What kind of animal can I print?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_kind_of_animal_can_I_print_.svg)](https://dev.to/gulomov21/what-kind-of-animal-can-i-print-803)
-[![Code and Non-Code Contribution Repositories for Hacktoberfest](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Code_and_Non-Code_Contribution_Repositories_for_Hacktoberfest.svg)](https://dev.to/surajondev/code-and-non-code-contribution-repositories-for-hacktoberfest-5com)
-[![Medusa Hackathon 2022: Participation Tips and Guidelines](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Medusa_Hackathon_2022__Participation_Tips_and_Guidelines.svg)](https://dev.to/medusajs/medusa-hackathon-2022-participation-tips-and-guidelines-1epm)
-[![How to use Cloudinary Images with Nuxt 3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_use_Cloudinary_Images_with_Nuxt_3.svg)](https://dev.to/jacobandrewsky/how-to-use-cloudinary-images-with-nuxt-3-4om4)
+[![Deep Learning Library From Scratch 7: Implementing RNN layers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Deep_Learning_Library_From_Scratch_7__Implementing_RNN_layers.svg)](https://dev.to/ashwinscode/deep-learning-library-from-scratch-7-implementing-rnn-layers-1ea2)
+[![Need for speed: Migrating from Webpack 4 to Vite](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Need_for_speed__Migrating_from_Webpack_4_to_Vite.svg)](https://dev.to/swimm_io/need-for-speed-migrating-from-webpack-4-to-vite-559l)
+[![How to create SBOMs for free with CodeSec by Contrast](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_create_SBOMs_for_free_with_CodeSec_by_Contrast.svg)](https://dev.to/orlandov14/how-to-create-sboms-for-free-with-codesec-by-contrast-232)
+[![How to Use BinLogs to Make an Aurora MySQL Event Stream](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Use_BinLogs_to_Make_an_Aurora_MySQL_Event_Stream.svg)](https://dev.to/aws-builders/how-to-use-binlogs-to-make-an-aurora-mysql-event-stream-2f5g)
+[![VS Code Extensions and Common Shortcuts for Web Designers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/VS_Code_Extensions_and_Common_Shortcuts_for_Web_Designers.svg)](https://dev.to/nicck08/vs-code-extensions-and-common-shortcuts-for-web-designers-3mm4)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, October 3, 2022 at 6:26:45 AM
+> Last updated: Monday, October 3, 2022 at 12:20:08 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, October 3, 2022 at 6:26:48 AM
+> Last updated: Monday, October 3, 2022 at 12:20:11 PM
 
 > Showing 5 of 30 posts.
 
+[![Add Global Variables to Vue JS Templates](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Add_Global_Variables_to_Vue_JS_Templates.svg)](
+https://masteringjs.io/tutorials/vue/use-global-variable
+)
 [![SmartShape Studio](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/SmartShape_Studio.svg)](https://shapes.germanov.dev/)
 [![GitHub - pichillilorenzo/mlab-speed-test: Test your download and upload speed using speed.measurementlab.net](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_pichillilorenzo_mlab-speed-test__Test_your_download_and_upload_speed_using_speed.measurementlab.net.svg)](https://github.com/pichillilorenzo/mlab-speed-test)
 [![GitHub - jorisre/react-screen-wake-lock: 🌓 React implementation of the Screen Wake Lock API. It provides a way to prevent devices from dimming or locking the screen when an application needs to keep running](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_jorisre_react-screen-wake-lock__🌓_React_implementation_of_the_Screen_Wake_Lock_API._It_provides_a_way_to_prevent_devices_from_dimming_or_locking_the_screen_when_an_application_needs_to_keep_running.svg)](https://github.com/jorisre/react-screen-wake-lock)
 [![Using bcrypt-js to Hash Passwords in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_bcrypt-js_to_Hash_Passwords_in_JavaScript.svg)](
 https://masteringjs.io/tutorials/node/bcrypt
 )
-[![GitHub - pichillilorenzo/gifski-command: Node.js module for gifski GIF encoder CLI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_pichillilorenzo_gifski-command__Node.js_module_for_gifski_GIF_encoder_CLI.svg)](https://github.com/pichillilorenzo/gifski-command)
 
 
 <!-- post-list:end -->
