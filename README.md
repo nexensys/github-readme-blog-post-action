@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, October 2, 2022 at 12:14:00 PM
+> Last updated: Sunday, October 2, 2022 at 7:05:35 PM
 
 > Showing 5 of 12 posts.
 
-[![Tremor - Free React Library for Dashboards](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Tremor_-_Free_React_Library_for_Dashboards.svg)](https://dev.to/sm0ke/tremor-free-react-library-for-dashboards-3gm9)
-[![(VIDEO) Flask API Generator and View - Free Product](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/(VIDEO)_Flask_API_Generator_and_View_-_Free_Product.svg)](https://dev.to/sm0ke/video-flask-api-generator-and-view-free-product-h04)
-[![Currently Looking For A Node.JS Role 👋🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Currently_Looking_For_A_Node.JS_Role_👋🚀.svg)](https://dev.to/geekyahmed/currently-looking-for-a-nodejs-role-1i08)
-[![Managing Networking](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Managing_Networking.svg)](https://dev.to/arinfebriani/managing-networking-44k8)
-[![Understanding identity in .NET](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Understanding_identity_in_.NET.svg)](https://dev.to/pbouillon/understanding-identity-in-net-2169)
+[![How to Set Up a Web Server](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Set_Up_a_Web_Server.svg)](https://dev.to/ericnanhu/how-to-set-up-a-web-server-39lm)
+[![Fast Real Time JavaScript Video Manipulation / Postprocessing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Fast_Real_Time_JavaScript_Video_Manipulation___Postprocessing.svg)](https://dev.to/thaunknown/fast-real-time-javascript-video-manipulation-postprocessing-4li1)
+[![App with self-contained infrastructure on AWS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/App_with_self-contained_infrastructure_on_AWS.svg)](https://dev.to/aws-builders/app-with-self-contained-infrastructure-on-aws-l22)
+[![“Engineers don’t need an idea to start a company” - a Unicorn Founder Reveals What Edge Devs Have in Starting Companies](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/“Engineers_don’t_need_an_idea_to_start_a_company”_-_a_Unicorn_Founder_Reveals_What_Edge_Devs_Have_in_Starting_Companies.svg)](https://dev.to/linearb/engineers-dont-need-an-idea-to-start-a-company-a-unicorn-founder-reveals-what-edge-devs-have-in-starting-companies-53co)
+[![6 things you can do with the Cow 🐄 in Rust 🦀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/6_things_you_can_do_with_the_Cow_🐄_in_Rust_🦀.svg)](https://dev.to/kgrech/6-things-you-can-do-with-the-cow-in-rust-4l55)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, October 2, 2022 at 12:14:03 PM
+> Last updated: Sunday, October 2, 2022 at 7:05:38 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, October 2, 2022 at 12:14:05 PM
+> Last updated: Sunday, October 2, 2022 at 7:05:43 PM
 
 > Showing 5 of 30 posts.
 
