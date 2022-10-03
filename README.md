@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, October 2, 2022 at 7:05:35 PM
+> Last updated: Monday, October 3, 2022 at 12:24:27 AM
 
 > Showing 5 of 12 posts.
 
-[![How to Set Up a Web Server](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Set_Up_a_Web_Server.svg)](https://dev.to/ericnanhu/how-to-set-up-a-web-server-39lm)
-[![Fast Real Time JavaScript Video Manipulation / Postprocessing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Fast_Real_Time_JavaScript_Video_Manipulation___Postprocessing.svg)](https://dev.to/thaunknown/fast-real-time-javascript-video-manipulation-postprocessing-4li1)
-[![App with self-contained infrastructure on AWS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/App_with_self-contained_infrastructure_on_AWS.svg)](https://dev.to/aws-builders/app-with-self-contained-infrastructure-on-aws-l22)
-[![“Engineers don’t need an idea to start a company” - a Unicorn Founder Reveals What Edge Devs Have in Starting Companies](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/“Engineers_don’t_need_an_idea_to_start_a_company”_-_a_Unicorn_Founder_Reveals_What_Edge_Devs_Have_in_Starting_Companies.svg)](https://dev.to/linearb/engineers-dont-need-an-idea-to-start-a-company-a-unicorn-founder-reveals-what-edge-devs-have-in-starting-companies-53co)
-[![6 things you can do with the Cow 🐄 in Rust 🦀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/6_things_you_can_do_with_the_Cow_🐄_in_Rust_🦀.svg)](https://dev.to/kgrech/6-things-you-can-do-with-the-cow-in-rust-4l55)
+[![The Pomodorito Technique](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Pomodorito_Technique.svg)](https://dev.to/alvaromontoro/the-pomodorito-technique-462f)
+[![Benefits of touch typing for developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Benefits_of_touch_typing_for_developers.svg)](https://dev.to/shabzy1507/benefits-of-touch-typing-for-developers-hg6)
+[![Building with Docker](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Building_with_Docker.svg)](https://dev.to/nikitakatchik/building-with-docker-2a9h)
+[![I failed a coding Interview 😞](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/I_failed_a_coding_Interview_😞.svg)](https://dev.to/oj_redifined/i-failed-a-coding-interview-4jd6)
+[![What movie to watch next ? Amazon Personalize to the rescue - Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_movie_to_watch_next___Amazon_Personalize_to_the_rescue_-_Part_1.svg)](https://dev.to/aws-builders/recommending-movies-with-amazon-personalize-part-1-4o7a)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, October 2, 2022 at 7:05:38 PM
+> Last updated: Monday, October 3, 2022 at 12:24:31 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, October 2, 2022 at 7:05:43 PM
+> Last updated: Monday, October 3, 2022 at 12:24:36 AM
 
 > Showing 5 of 30 posts.
 
