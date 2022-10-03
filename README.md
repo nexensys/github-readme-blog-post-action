@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, October 3, 2022 at 12:24:27 AM
+> Last updated: Monday, October 3, 2022 at 6:26:42 AM
 
 > Showing 5 of 12 posts.
 
-[![The Pomodorito Technique](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Pomodorito_Technique.svg)](https://dev.to/alvaromontoro/the-pomodorito-technique-462f)
-[![Benefits of touch typing for developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Benefits_of_touch_typing_for_developers.svg)](https://dev.to/shabzy1507/benefits-of-touch-typing-for-developers-hg6)
-[![Building with Docker](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Building_with_Docker.svg)](https://dev.to/nikitakatchik/building-with-docker-2a9h)
-[![I failed a coding Interview 😞](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/I_failed_a_coding_Interview_😞.svg)](https://dev.to/oj_redifined/i-failed-a-coding-interview-4jd6)
-[![What movie to watch next ? Amazon Personalize to the rescue - Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_movie_to_watch_next___Amazon_Personalize_to_the_rescue_-_Part_1.svg)](https://dev.to/aws-builders/recommending-movies-with-amazon-personalize-part-1-4o7a)
+[![Hacktoberfest 2022 Starter Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Hacktoberfest_2022_Starter_Guide.svg)](https://dev.to/merico/hacktoberfest-2022-guide-for-devlake-and-devstream-5pi)
+[![What kind of animal can I print?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_kind_of_animal_can_I_print_.svg)](https://dev.to/gulomov21/what-kind-of-animal-can-i-print-803)
+[![Code and Non-Code Contribution Repositories for Hacktoberfest](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Code_and_Non-Code_Contribution_Repositories_for_Hacktoberfest.svg)](https://dev.to/surajondev/code-and-non-code-contribution-repositories-for-hacktoberfest-5com)
+[![Medusa Hackathon 2022: Participation Tips and Guidelines](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Medusa_Hackathon_2022__Participation_Tips_and_Guidelines.svg)](https://dev.to/medusajs/medusa-hackathon-2022-participation-tips-and-guidelines-1epm)
+[![How to use Cloudinary Images with Nuxt 3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_use_Cloudinary_Images_with_Nuxt_3.svg)](https://dev.to/jacobandrewsky/how-to-use-cloudinary-images-with-nuxt-3-4om4)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, October 3, 2022 at 12:24:31 AM
+> Last updated: Monday, October 3, 2022 at 6:26:45 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, October 3, 2022 at 12:24:36 AM
+> Last updated: Monday, October 3, 2022 at 6:26:48 AM
 
 > Showing 5 of 30 posts.
 
+[![SmartShape Studio](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/SmartShape_Studio.svg)](https://shapes.germanov.dev/)
 [![GitHub - pichillilorenzo/mlab-speed-test: Test your download and upload speed using speed.measurementlab.net](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_pichillilorenzo_mlab-speed-test__Test_your_download_and_upload_speed_using_speed.measurementlab.net.svg)](https://github.com/pichillilorenzo/mlab-speed-test)
 [![GitHub - jorisre/react-screen-wake-lock: 🌓 React implementation of the Screen Wake Lock API. It provides a way to prevent devices from dimming or locking the screen when an application needs to keep running](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_jorisre_react-screen-wake-lock__🌓_React_implementation_of_the_Screen_Wake_Lock_API._It_provides_a_way_to_prevent_devices_from_dimming_or_locking_the_screen_when_an_application_needs_to_keep_running.svg)](https://github.com/jorisre/react-screen-wake-lock)
 [![Using bcrypt-js to Hash Passwords in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_bcrypt-js_to_Hash_Passwords_in_JavaScript.svg)](
 https://masteringjs.io/tutorials/node/bcrypt
 )
 [![GitHub - pichillilorenzo/gifski-command: Node.js module for gifski GIF encoder CLI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_pichillilorenzo_gifski-command__Node.js_module_for_gifski_GIF_encoder_CLI.svg)](https://github.com/pichillilorenzo/gifski-command)
-[![Why does JSON.parse corrupt large numbers and how to solve this? - JSON Indepth](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Why_does_JSON.parse_corrupt_large_numbers_and_how_to_solve_this__-_JSON_Indepth.svg)](https://jsoneditoronline.org/indepth/parse/why-does-json-parse-corrupt-large-numbers/)
 
 
 <!-- post-list:end -->
