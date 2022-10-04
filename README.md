@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, October 3, 2022 at 12:20:05 PM
+> Last updated: Monday, October 3, 2022 at 7:14:11 PM
 
 > Showing 5 of 12 posts.
 
-[![Deep Learning Library From Scratch 7: Implementing RNN layers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Deep_Learning_Library_From_Scratch_7__Implementing_RNN_layers.svg)](https://dev.to/ashwinscode/deep-learning-library-from-scratch-7-implementing-rnn-layers-1ea2)
-[![Need for speed: Migrating from Webpack 4 to Vite](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Need_for_speed__Migrating_from_Webpack_4_to_Vite.svg)](https://dev.to/swimm_io/need-for-speed-migrating-from-webpack-4-to-vite-559l)
-[![How to create SBOMs for free with CodeSec by Contrast](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_create_SBOMs_for_free_with_CodeSec_by_Contrast.svg)](https://dev.to/orlandov14/how-to-create-sboms-for-free-with-codesec-by-contrast-232)
-[![How to Use BinLogs to Make an Aurora MySQL Event Stream](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Use_BinLogs_to_Make_an_Aurora_MySQL_Event_Stream.svg)](https://dev.to/aws-builders/how-to-use-binlogs-to-make-an-aurora-mysql-event-stream-2f5g)
-[![VS Code Extensions and Common Shortcuts for Web Designers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/VS_Code_Extensions_and_Common_Shortcuts_for_Web_Designers.svg)](https://dev.to/nicck08/vs-code-extensions-and-common-shortcuts-for-web-designers-3mm4)
+[![The TAKS Stack](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_TAKS_Stack.svg)](https://dev.to/tythos/the-taks-stack-4a2f)
+[![CSS-Only Type Grinding: Casting Tokens (sm|md|etc) into Useful CSS Values](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/CSS-Only_Type_Grinding__Casting_Tokens_(sm_md_etc)_into_Useful_CSS_Values.svg)](https://dev.to/janeori/css-only-type-grinding-casting-tokens-smmdetc-into-useful-css-values-28e0)
+[![What Do Software Developers Actually Do?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_Do_Software_Developers_Actually_Do_.svg)](https://dev.to/raddevus/what-do-software-developers-actually-do-41lb)
+[![How to Create a To Do List by vanilla JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Create_a_To_Do_List_by_vanilla_JavaScript.svg)](https://dev.to/hikari7/how-to-create-a-to-do-list-by-vanilla-javascript-31dn)
+[![6 Easy Steps to Get Your First 10K Monthly Visitors](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/6_Easy_Steps_to_Get_Your_First_10K_Monthly_Visitors.svg)](https://dev.to/maddy/6-easy-steps-to-get-your-first-10k-monthly-visitors-2ono)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, October 3, 2022 at 12:20:08 PM
+> Last updated: Monday, October 3, 2022 at 7:14:14 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, October 3, 2022 at 12:20:11 PM
+> Last updated: Monday, October 3, 2022 at 7:14:19 PM
 
 > Showing 5 of 30 posts.
 
