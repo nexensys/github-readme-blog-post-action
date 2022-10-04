@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, October 3, 2022 at 7:14:11 PM
+> Last updated: Tuesday, October 4, 2022 at 12:23:49 AM
 
 > Showing 5 of 12 posts.
 
+[![Best learning technique](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Best_learning_technique.svg)](https://dev.to/lazerg/best-learning-technique-n1m)
+[![New Usefull JavaScript Tips For Everyone](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/New_Usefull_JavaScript_Tips_For_Everyone.svg)](https://dev.to/shaon07/new-usefull-javascript-tips-for-everyone-1389)
+[![Designing a secure API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Designing_a_secure_API.svg)](https://dev.to/vaultree/designing-a-secure-api-4059)
+[![How many times did you give up on learning development?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_many_times_did_you_give_up_on_learning_development_.svg)](https://dev.to/gnio/how-many-times-did-you-give-up-on-learning-development-2en0)
 [![The TAKS Stack](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_TAKS_Stack.svg)](https://dev.to/tythos/the-taks-stack-4a2f)
-[![CSS-Only Type Grinding: Casting Tokens (sm|md|etc) into Useful CSS Values](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/CSS-Only_Type_Grinding__Casting_Tokens_(sm_md_etc)_into_Useful_CSS_Values.svg)](https://dev.to/janeori/css-only-type-grinding-casting-tokens-smmdetc-into-useful-css-values-28e0)
-[![What Do Software Developers Actually Do?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_Do_Software_Developers_Actually_Do_.svg)](https://dev.to/raddevus/what-do-software-developers-actually-do-41lb)
-[![How to Create a To Do List by vanilla JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Create_a_To_Do_List_by_vanilla_JavaScript.svg)](https://dev.to/hikari7/how-to-create-a-to-do-list-by-vanilla-javascript-31dn)
-[![6 Easy Steps to Get Your First 10K Monthly Visitors](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/6_Easy_Steps_to_Get_Your_First_10K_Monthly_Visitors.svg)](https://dev.to/maddy/6-easy-steps-to-get-your-first-10k-monthly-visitors-2ono)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, October 3, 2022 at 7:14:14 PM
+> Last updated: Tuesday, October 4, 2022 at 12:23:52 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, October 3, 2022 at 7:14:19 PM
+> Last updated: Tuesday, October 4, 2022 at 12:23:56 AM
 
 > Showing 5 of 30 posts.
 
