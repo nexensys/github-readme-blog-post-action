@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, October 4, 2022 at 12:23:49 AM
+> Last updated: Tuesday, October 4, 2022 at 12:22:49 PM
 
 > Showing 5 of 12 posts.
 
-[![Best learning technique](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Best_learning_technique.svg)](https://dev.to/lazerg/best-learning-technique-n1m)
-[![New Usefull JavaScript Tips For Everyone](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/New_Usefull_JavaScript_Tips_For_Everyone.svg)](https://dev.to/shaon07/new-usefull-javascript-tips-for-everyone-1389)
-[![Designing a secure API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Designing_a_secure_API.svg)](https://dev.to/vaultree/designing-a-secure-api-4059)
-[![How many times did you give up on learning development?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_many_times_did_you_give_up_on_learning_development_.svg)](https://dev.to/gnio/how-many-times-did-you-give-up-on-learning-development-2en0)
-[![The TAKS Stack](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_TAKS_Stack.svg)](https://dev.to/tythos/the-taks-stack-4a2f)
+[![Getting Started on StarkNet with Infura](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Getting_Started_on_StarkNet_with_Infura.svg)](https://dev.to/olanetsoft/getting-started-on-starknet-with-infura-4le8)
+[![How to choose the right load balancer for your AWS workloads](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_choose_the_right_load_balancer_for_your_AWS_workloads.svg)](https://dev.to/ahmedshendy/how-to-choose-the-right-load-balancer-for-your-aws-workloads-1m2l)
+[![Top 7 Featured DEV Posts from the Past Week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_7_Featured_DEV_Posts_from_the_Past_Week.svg)](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-2njd)
+[![Unleash brings powerful Constraints feature to OSS users](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Unleash_brings_powerful_Constraints_feature_to_OSS_users.svg)](https://dev.to/unleash/unleash-brings-powerful-constraints-feature-to-oss-users-1k95)
+[![Join Hacktoberfest 2022 and contribute to QuestDB!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Join_Hacktoberfest_2022_and_contribute_to_QuestDB!.svg)](https://dev.to/questdb/join-hacktoberfest-2022-and-contribute-to-questdb-1f8l)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, October 4, 2022 at 12:23:52 AM
+> Last updated: Tuesday, October 4, 2022 at 12:22:53 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, October 4, 2022 at 12:23:56 AM
+> Last updated: Tuesday, October 4, 2022 at 12:22:59 PM
 
 > Showing 5 of 30 posts.
 
+[![First routes in NextJs – static pages and router query params](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/First_routes_in_NextJs_–_static_pages_and_router_query_params.svg)](http://www.js-craft.io/blog/first-routes-in-nextjs-static-pages-and-router-query-params/)
+[![How to write more readable JavaScript conditionals - Wisdom Geek](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_write_more_readable_JavaScript_conditionals_-_Wisdom_Geek.svg)](https://www.wisdomgeek.com/development/how-to-write-more-readable-javascript-conditionals/)
+[![Episode 31 - Learning about state management using Pinia, with Eduardo San Martin Morote - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_31_-_Learning_about_state_management_using_Pinia__with_Eduardo_San_Martin_Morote_-_20minJS.svg)](https://podcast.20minjs.com/1952066/11427553-episode-31-learning-about-state-management-using-pinia-with-eduardo-san-martin-morote)
 [![Add Global Variables to Vue JS Templates](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Add_Global_Variables_to_Vue_JS_Templates.svg)](
 https://masteringjs.io/tutorials/vue/use-global-variable
 )
 [![SmartShape Studio](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/SmartShape_Studio.svg)](https://shapes.germanov.dev/)
-[![GitHub - pichillilorenzo/mlab-speed-test: Test your download and upload speed using speed.measurementlab.net](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_pichillilorenzo_mlab-speed-test__Test_your_download_and_upload_speed_using_speed.measurementlab.net.svg)](https://github.com/pichillilorenzo/mlab-speed-test)
-[![GitHub - jorisre/react-screen-wake-lock: 🌓 React implementation of the Screen Wake Lock API. It provides a way to prevent devices from dimming or locking the screen when an application needs to keep running](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_jorisre_react-screen-wake-lock__🌓_React_implementation_of_the_Screen_Wake_Lock_API._It_provides_a_way_to_prevent_devices_from_dimming_or_locking_the_screen_when_an_application_needs_to_keep_running.svg)](https://github.com/jorisre/react-screen-wake-lock)
-[![Using bcrypt-js to Hash Passwords in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_bcrypt-js_to_Hash_Passwords_in_JavaScript.svg)](
-https://masteringjs.io/tutorials/node/bcrypt
-)
 
 
 <!-- post-list:end -->
