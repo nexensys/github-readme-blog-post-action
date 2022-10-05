@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, October 5, 2022 at 12:28:56 AM
+> Last updated: Wednesday, October 5, 2022 at 6:23:17 AM
 
 > Showing 5 of 12 posts.
 
-[![In One Minute : Kafka](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/In_One_Minute___Kafka.svg)](https://dev.to/rakeshkr2/in-one-minute-kafka-3i9n)
-[![How I Created a File Sharing Website using Simple JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_I_Created_a_File_Sharing_Website_using_Simple_JavaScript.svg)](https://dev.to/varshithvhegde/how-i-created-a-file-sharing-website-using-simple-javascript-355g)
-[![SOLID Principles Sketches](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/SOLID_Principles_Sketches.svg)](https://dev.to/trekhleb/solid-principles-sketches-486p)
-[![Top 5 Tools and Practical Steps in Checking Website Vulnerability](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_5_Tools_and_Practical_Steps_in_Checking_Website_Vulnerability.svg)](https://dev.to/hackmamba/top-5-tools-and-practical-steps-in-checking-website-vulnerability-41bk)
-[![Laravel Release Update 9.32](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Laravel_Release_Update_9.32.svg)](https://dev.to/marciopolicarpo/laravel-release-update-932-12mo)
+[![A Deep Dive Into Just-in-Time Worker Nodes With Karpenter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_Deep_Dive_Into_Just-in-Time_Worker_Nodes_With_Karpenter.svg)](https://dev.to/aws-builders/a-deep-dive-into-just-in-time-worker-nodes-with-karpenter-2b5m)
+[![Monitor virtual machine performance with Azure Monitor VM Insights](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Monitor_virtual_machine_performance_with_Azure_Monitor_VM_Insights.svg)](https://dev.to/makendrang/monitor-virtual-machine-performance-with-azure-monitor-vm-insights-4ie1)
+[![A comparison of Supabase, Hasura and Aista](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_comparison_of_Supabase__Hasura_and_Aista.svg)](https://dev.to/polterguy/a-comparison-of-supabase-hasura-and-aista-4cjo)
+[![Alternative Sorting in Golang](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Alternative_Sorting_in_Golang.svg)](https://dev.to/mavensingh/alternative-sorting-in-golang-50be)
+[![Basic Load Balancing With Docker, NGINX & PHP](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Basic_Load_Balancing_With_Docker__NGINX___PHP.svg)](https://dev.to/thexdev/basic-load-balancing-with-docker-nginx-php-2p08)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, October 5, 2022 at 12:29:00 AM
+> Last updated: Wednesday, October 5, 2022 at 6:23:19 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, October 5, 2022 at 12:29:06 AM
+> Last updated: Wednesday, October 5, 2022 at 6:23:23 AM
 
 > Showing 5 of 30 posts.
 
+[![Build a Job Board with React and GraphQL using Webiny Headless CMS | Webiny](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_a_Job_Board_with_React_and_GraphQL_using_Webiny_Headless_CMS___Webiny.svg)](
+https://www.webiny.com/blog/build-job-board-react-graphql
+)
+[![Next.js Tutorial for Beginners - LearnNextJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Next.js_Tutorial_for_Beginners_-_LearnNextJS.svg)](https://learnnextjs.com/next-js-tutorial-getting-started/)
+[![Babel in less than 5 mins](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Babel_in_less_than_5_mins.svg)](https://adropincalm.com/blog/babel-in-less-than-5-mins/)
 [![GitHub - wlucha/angular-starter: Angular 14 Starter with Storybook, Transloco, Jest, TestCafe, Docker, ESLint, Material & Prettier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_wlucha_angular-starter__Angular_14_Starter_with_Storybook__Transloco__Jest__TestCafe__Docker__ESLint__Material___Prettier.svg)](https://github.com/wlucha/angular-starter)
 [![First routes in NextJs – static pages and router query params](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/First_routes_in_NextJs_–_static_pages_and_router_query_params.svg)](http://www.js-craft.io/blog/first-routes-in-nextjs-static-pages-and-router-query-params/)
-[![How to write more readable JavaScript conditionals - Wisdom Geek](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_write_more_readable_JavaScript_conditionals_-_Wisdom_Geek.svg)](https://www.wisdomgeek.com/development/how-to-write-more-readable-javascript-conditionals/)
-[![Episode 31 - Learning about state management using Pinia, with Eduardo San Martin Morote - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_31_-_Learning_about_state_management_using_Pinia__with_Eduardo_San_Martin_Morote_-_20minJS.svg)](https://podcast.20minjs.com/1952066/11427553-episode-31-learning-about-state-management-using-pinia-with-eduardo-san-martin-morote)
-[![Add Global Variables to Vue JS Templates](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Add_Global_Variables_to_Vue_JS_Templates.svg)](
-https://masteringjs.io/tutorials/vue/use-global-variable
-)
 
 
 <!-- post-list:end -->
