@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, October 4, 2022 at 12:22:49 PM
+> Last updated: Tuesday, October 4, 2022 at 7:12:22 PM
 
 > Showing 5 of 12 posts.
 
-[![Getting Started on StarkNet with Infura](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Getting_Started_on_StarkNet_with_Infura.svg)](https://dev.to/olanetsoft/getting-started-on-starknet-with-infura-4le8)
-[![How to choose the right load balancer for your AWS workloads](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_choose_the_right_load_balancer_for_your_AWS_workloads.svg)](https://dev.to/ahmedshendy/how-to-choose-the-right-load-balancer-for-your-aws-workloads-1m2l)
-[![Top 7 Featured DEV Posts from the Past Week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_7_Featured_DEV_Posts_from_the_Past_Week.svg)](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-2njd)
-[![Unleash brings powerful Constraints feature to OSS users](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Unleash_brings_powerful_Constraints_feature_to_OSS_users.svg)](https://dev.to/unleash/unleash-brings-powerful-constraints-feature-to-oss-users-1k95)
-[![Join Hacktoberfest 2022 and contribute to QuestDB!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Join_Hacktoberfest_2022_and_contribute_to_QuestDB!.svg)](https://dev.to/questdb/join-hacktoberfest-2022-and-contribute-to-questdb-1f8l)
+[![Top 5 Tools and Practical Steps in Checking Website Vulnerability](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_5_Tools_and_Practical_Steps_in_Checking_Website_Vulnerability.svg)](https://dev.to/hackmamba/top-5-tools-and-practical-steps-in-checking-website-vulnerability-41bk)
+[![Laravel Release Update 9.32](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Laravel_Release_Update_9.32.svg)](https://dev.to/marciopolicarpo/laravel-release-update-932-12mo)
+[![Use IAM Identity Center (AWS SSO) to protect your Cloudfront served application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Use_IAM_Identity_Center_(AWS_SSO)_to_protect_your_Cloudfront_served_application.svg)](https://dev.to/aws-builders/use-iam-identity-center-aws-sso-to-protect-your-cloudfront-served-application-4005)
+[![Digital Clock with Alarm in JavaScript + HTML](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Digital_Clock_with_Alarm_in_JavaScript_+_HTML.svg)](https://dev.to/thedevdrawer/digital-clock-with-alarm-in-javascript-html-e27)
+[![15 tools and resources every developer should know about in 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/15_tools_and_resources_every_developer_should_know_about_in_2022.svg)](https://dev.to/larstw98/15-tools-and-resources-every-developer-should-know-about-in-2022-3o1a)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, October 4, 2022 at 12:22:53 PM
+> Last updated: Tuesday, October 4, 2022 at 7:12:25 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, October 4, 2022 at 12:22:59 PM
+> Last updated: Tuesday, October 4, 2022 at 7:12:31 PM
 
 > Showing 5 of 30 posts.
 
