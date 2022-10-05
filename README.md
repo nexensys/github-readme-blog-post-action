@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, October 4, 2022 at 7:12:22 PM
+> Last updated: Wednesday, October 5, 2022 at 12:28:56 AM
 
 > Showing 5 of 12 posts.
 
+[![In One Minute : Kafka](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/In_One_Minute___Kafka.svg)](https://dev.to/rakeshkr2/in-one-minute-kafka-3i9n)
+[![How I Created a File Sharing Website using Simple JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_I_Created_a_File_Sharing_Website_using_Simple_JavaScript.svg)](https://dev.to/varshithvhegde/how-i-created-a-file-sharing-website-using-simple-javascript-355g)
+[![SOLID Principles Sketches](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/SOLID_Principles_Sketches.svg)](https://dev.to/trekhleb/solid-principles-sketches-486p)
 [![Top 5 Tools and Practical Steps in Checking Website Vulnerability](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_5_Tools_and_Practical_Steps_in_Checking_Website_Vulnerability.svg)](https://dev.to/hackmamba/top-5-tools-and-practical-steps-in-checking-website-vulnerability-41bk)
 [![Laravel Release Update 9.32](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Laravel_Release_Update_9.32.svg)](https://dev.to/marciopolicarpo/laravel-release-update-932-12mo)
-[![Use IAM Identity Center (AWS SSO) to protect your Cloudfront served application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Use_IAM_Identity_Center_(AWS_SSO)_to_protect_your_Cloudfront_served_application.svg)](https://dev.to/aws-builders/use-iam-identity-center-aws-sso-to-protect-your-cloudfront-served-application-4005)
-[![Digital Clock with Alarm in JavaScript + HTML](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Digital_Clock_with_Alarm_in_JavaScript_+_HTML.svg)](https://dev.to/thedevdrawer/digital-clock-with-alarm-in-javascript-html-e27)
-[![15 tools and resources every developer should know about in 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/15_tools_and_resources_every_developer_should_know_about_in_2022.svg)](https://dev.to/larstw98/15-tools-and-resources-every-developer-should-know-about-in-2022-3o1a)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, October 4, 2022 at 7:12:25 PM
+> Last updated: Wednesday, October 5, 2022 at 12:29:00 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, October 4, 2022 at 7:12:31 PM
+> Last updated: Wednesday, October 5, 2022 at 12:29:06 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - wlucha/angular-starter: Angular 14 Starter with Storybook, Transloco, Jest, TestCafe, Docker, ESLint, Material & Prettier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_wlucha_angular-starter__Angular_14_Starter_with_Storybook__Transloco__Jest__TestCafe__Docker__ESLint__Material___Prettier.svg)](https://github.com/wlucha/angular-starter)
 [![First routes in NextJs – static pages and router query params](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/First_routes_in_NextJs_–_static_pages_and_router_query_params.svg)](http://www.js-craft.io/blog/first-routes-in-nextjs-static-pages-and-router-query-params/)
 [![How to write more readable JavaScript conditionals - Wisdom Geek](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_write_more_readable_JavaScript_conditionals_-_Wisdom_Geek.svg)](https://www.wisdomgeek.com/development/how-to-write-more-readable-javascript-conditionals/)
 [![Episode 31 - Learning about state management using Pinia, with Eduardo San Martin Morote - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_31_-_Learning_about_state_management_using_Pinia__with_Eduardo_San_Martin_Morote_-_20minJS.svg)](https://podcast.20minjs.com/1952066/11427553-episode-31-learning-about-state-management-using-pinia-with-eduardo-san-martin-morote)
 [![Add Global Variables to Vue JS Templates](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Add_Global_Variables_to_Vue_JS_Templates.svg)](
 https://masteringjs.io/tutorials/vue/use-global-variable
 )
-[![SmartShape Studio](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/SmartShape_Studio.svg)](https://shapes.germanov.dev/)
 
 
 <!-- post-list:end -->
