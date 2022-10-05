@@ -67,8 +67,8 @@
     <foreignObject width="600" height="100" x="5" y="5">
       <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
         <div class="text">
-          <div class="title">Babel&#0032;in&#0032;less&#0032;than&#0032;5&#0032;mins</div>
-          <div class="description">Babel&#0032;is&#0032;a&#0032;javascript&#0032;compiler&#0032;mainly&#0032;known&#0032;for&#0032;react&#0032;and&#0032;the&#0032;ability&#0032;to&#0032;use&#0032;js&#0032;syntax&#0032;not&#0032;yet&#0032;shipped&#0032;to&#0032;the&#0032;browser&#0046;&#0010;In&#0032;this&#0032;introduction&#0044;&#0032;we’ll&#0032;try&#0032;to&#0032;cover&#0032;some&#0032;of&#0032;the&#0032;core&#0032;ideas&#0032;such&#0032;as&#0032;&#0064;babel&#0047;core&#0044;&#0032;&#0064;babel&#0047;cli&#0044;&#0032;plugins&#0044;&#0032;presets&#0032;and&#0032;the&#0032;config&#0032;file&#0046;&#0010;The&#0032;main&#0032;idea&#0032;In&#0032;the&#0032;js&#0032;world&#0044;&#0032;we&#0032;like&#0032;to&#0032;use&#0032;new&#0032;and&#0032;exotic&#0032;syntaxes&#0032;even&#0032;if&#0032;the&#0032;browser&#0032;doesn’t&#0032;provide&#0032;support&#0032;and&#0032;never&#0032;will&#0046;</div>
+          <div class="title">&#0010;🚤&#0032;reagraph&#0032;4&#0046;5&#0046;0&#0032;just&#0032;dropped&#0032;with&#0032;the&#0032;ability&#0032;to&#0032;render&#0032;THOUSANDS&#0032;of&#0032;connections&#0046;&#0010;</div>
+          <div class="description">Comments</div>
           <div class="date"></div>
           <div class="data">
             <span class="author"></span> 

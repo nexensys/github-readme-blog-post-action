@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, October 5, 2022 at 6:23:17 AM
+> Last updated: Wednesday, October 5, 2022 at 12:25:28 PM
 
 > Showing 5 of 12 posts.
 
-[![A Deep Dive Into Just-in-Time Worker Nodes With Karpenter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_Deep_Dive_Into_Just-in-Time_Worker_Nodes_With_Karpenter.svg)](https://dev.to/aws-builders/a-deep-dive-into-just-in-time-worker-nodes-with-karpenter-2b5m)
-[![Monitor virtual machine performance with Azure Monitor VM Insights](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Monitor_virtual_machine_performance_with_Azure_Monitor_VM_Insights.svg)](https://dev.to/makendrang/monitor-virtual-machine-performance-with-azure-monitor-vm-insights-4ie1)
-[![A comparison of Supabase, Hasura and Aista](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_comparison_of_Supabase__Hasura_and_Aista.svg)](https://dev.to/polterguy/a-comparison-of-supabase-hasura-and-aista-4cjo)
-[![Alternative Sorting in Golang](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Alternative_Sorting_in_Golang.svg)](https://dev.to/mavensingh/alternative-sorting-in-golang-50be)
-[![Basic Load Balancing With Docker, NGINX & PHP](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Basic_Load_Balancing_With_Docker__NGINX___PHP.svg)](https://dev.to/thexdev/basic-load-balancing-with-docker-nginx-php-2p08)
+[![Konfigurasi awal pada Neovim di Windows 11](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Konfigurasi_awal_pada_Neovim_di_Windows_11.svg)](https://dev.to/iiiaann/konfigurasi-neovim-di-windows-11-1lnk)
+[![Easy and unified way to connect to AWS EC2 and ECS 🚀☁️](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Easy_and_unified_way_to_connect_to_AWS_EC2_and_ECS_🚀☁️.svg)](https://dev.to/kerlantc/easy-and-unified-way-to-connect-to-aws-ec2-and-ecs-4m91)
+[![Manual Uninstallation of Sitecore (Step-by-step guide)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Manual_Uninstallation_of_Sitecore_(Step-by-step_guide).svg)](https://dev.to/esdanielgomez/manual-uninstallation-of-sitecore-step-by-step-guide-2kb7)
+[![Build the future of web development with Next.js Edge Rendering and globally distributed database](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_the_future_of_web_development_with_Next.js_Edge_Rendering_and_globally_distributed_database.svg)](https://dev.to/ixartz/build-the-future-of-web-development-with-nextjs-edge-rendering-and-globally-distributed-database-8o6)
+[![Rewriting the Apache APISIX response-rewrite plugin in Rust](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Rewriting_the_Apache_APISIX_response-rewrite_plugin_in_Rust.svg)](https://dev.to/apisix/rewriting-the-apache-apisix-response-rewrite-plugin-in-rust-2aoa)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, October 5, 2022 at 6:23:19 AM
+> Last updated: Wednesday, October 5, 2022 at 12:25:31 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,21 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, October 5, 2022 at 6:23:23 AM
+> Last updated: Wednesday, October 5, 2022 at 12:25:35 PM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - gchumillas/schema-fixer: A node library to fix data.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_gchumillas_schema-fixer__A_node_library_to_fix_data..svg)](https://github.com/gchumillas/schema-fixer)
+[![GitHub - eneskutlay/next-notion-portfolio: NextJS Portfolio Website with Notion CMS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_eneskutlay_next-notion-portfolio__NextJS_Portfolio_Website_with_Notion_CMS.svg)](https://github.com/eneskutlay/next-notion-portfolio)
+[![Use npm query and jq to dig into your dependencies](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Use_npm_query_and_jq_to_dig_into_your_dependencies.svg)](https://www.youtube.com/watch?v=h_ZpixOgKDY)
+[![
+🚤 reagraph 4.5.0 just dropped with the ability to render THOUSANDS of connections.
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_🚤_reagraph_4.5.0_just_dropped_with_the_ability_to_render_THOUSANDS_of_connections._.svg)](
+https://reagraph.dev/?path=/story/demos-use-cases--cyber-security
+)
 [![Build a Job Board with React and GraphQL using Webiny Headless CMS | Webiny](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_a_Job_Board_with_React_and_GraphQL_using_Webiny_Headless_CMS___Webiny.svg)](
 https://www.webiny.com/blog/build-job-board-react-graphql
 )
-[![Next.js Tutorial for Beginners - LearnNextJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Next.js_Tutorial_for_Beginners_-_LearnNextJS.svg)](https://learnnextjs.com/next-js-tutorial-getting-started/)
-[![Babel in less than 5 mins](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Babel_in_less_than_5_mins.svg)](https://adropincalm.com/blog/babel-in-less-than-5-mins/)
-[![GitHub - wlucha/angular-starter: Angular 14 Starter with Storybook, Transloco, Jest, TestCafe, Docker, ESLint, Material & Prettier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_wlucha_angular-starter__Angular_14_Starter_with_Storybook__Transloco__Jest__TestCafe__Docker__ESLint__Material___Prettier.svg)](https://github.com/wlucha/angular-starter)
-[![First routes in NextJs – static pages and router query params](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/First_routes_in_NextJs_–_static_pages_and_router_query_params.svg)](http://www.js-craft.io/blog/first-routes-in-nextjs-static-pages-and-router-query-params/)
 
 
 <!-- post-list:end -->
