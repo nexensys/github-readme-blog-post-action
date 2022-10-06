@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, October 6, 2022 at 6:25:08 AM
+> Last updated: Thursday, October 6, 2022 at 12:17:04 PM
 
 > Showing 5 of 12 posts.
 
-[![Have you ever seen anyone "fake" their way into a software development position?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Have_you_ever_seen_anyone__fake__their_way_into_a_software_development_position_.svg)](https://dev.to/sherrydays/have-you-ever-seen-anyone-fake-their-way-into-a-software-development-position-3gd0)
-[![Awesome tools for Open Source Contribution](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Awesome_tools_for_Open_Source_Contribution.svg)](https://dev.to/surajondev/awesome-tools-for-open-source-contribution-36cm)
-[![Artificial Intelligence In Healthcare: Advantages And Applications](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Artificial_Intelligence_In_Healthcare__Advantages_And_Applications.svg)](https://dev.to/kuldeeptarapara/artificial-intelligence-in-healthcare-advantages-and-applications-145h)
-[![In One Minute : Elasticsearch](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/In_One_Minute___Elasticsearch.svg)](https://dev.to/rakeshkr2/in-one-minute-elasticsearch-40l0)
-[![How to send email with GraphQL or Hasura](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_send_email_with_GraphQL_or_Hasura.svg)](https://dev.to/polterguy/how-to-send-email-with-graphql-or-hasura-55bl)
+[![SQL vs NoSQL in a Serverless World](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/SQL_vs_NoSQL_in_a_Serverless_World.svg)](https://dev.to/aws-heroes/sql-vs-nosql-in-a-serverless-world-567k)
+[![You (most likely) don't need to optimize React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/You_(most_likely)_don't_need_to_optimize_React.svg)](https://dev.to/woovi/you-most-likely-dont-need-to-optimize-react-43h2)
+[![Interesting JavaScript Tips](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Interesting_JavaScript_Tips.svg)](https://dev.to/jtfinley/interesting-javascript-tips-5b84)
+[![Common Beginners JavaScript Mistakes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Common_Beginners_JavaScript_Mistakes.svg)](https://dev.to/umashankar_s/common-beginners-javascript-mistakes-5dkd)
+[![Q: What's the Difference Between Amateur & Pro? A: Process](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Q__What's_the_Difference_Between_Amateur___Pro__A__Process.svg)](https://dev.to/raddevus/q-whats-the-difference-between-amateur-pro-a-process-h9i)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, October 6, 2022 at 6:25:11 AM
+> Last updated: Thursday, October 6, 2022 at 12:17:08 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, October 6, 2022 at 6:25:17 AM
+> Last updated: Thursday, October 6, 2022 at 12:17:18 PM
 
 > Showing 5 of 30 posts.
 
