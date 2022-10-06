@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, October 6, 2022 at 12:20:25 AM
+> Last updated: Thursday, October 6, 2022 at 6:25:08 AM
 
 > Showing 5 of 12 posts.
 
-[![Flask & Stripe - Open-Source Mini eCommerce](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Flask___Stripe_-_Open-Source_Mini_eCommerce.svg)](https://dev.to/sm0ke/flask-stripe-open-source-mini-ecommerce-34jj)
-[![New in Ruby 3.2 - Data.define](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/New_in_Ruby_3.2_-_Data.define.svg)](https://dev.to/baweaver/new-in-ruby-32-datadefine-2819)
-[![Much Faster than std::string, fmt::format, std::to_chars, std::time and more?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Much_Faster_than_std__string__fmt__format__std__to_chars__std__time_and_more_.svg)](https://dev.to/xeerx/much-faster-than-stdstring-fmtformat-stdtochars-stdtime-and-more-4j5n)
-[![Keeping track of React state with useContext()](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Keeping_track_of_React_state_with_useContext().svg)](https://dev.to/kragon741/keeping-track-of-react-state-with-usecontext-27bo)
-[![Basic Java Knowledge.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Basic_Java_Knowledge..svg)](https://dev.to/zipdemon/basic-java-knowledge-38k1)
+[![Have you ever seen anyone "fake" their way into a software development position?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Have_you_ever_seen_anyone__fake__their_way_into_a_software_development_position_.svg)](https://dev.to/sherrydays/have-you-ever-seen-anyone-fake-their-way-into-a-software-development-position-3gd0)
+[![Awesome tools for Open Source Contribution](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Awesome_tools_for_Open_Source_Contribution.svg)](https://dev.to/surajondev/awesome-tools-for-open-source-contribution-36cm)
+[![Artificial Intelligence In Healthcare: Advantages And Applications](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Artificial_Intelligence_In_Healthcare__Advantages_And_Applications.svg)](https://dev.to/kuldeeptarapara/artificial-intelligence-in-healthcare-advantages-and-applications-145h)
+[![In One Minute : Elasticsearch](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/In_One_Minute___Elasticsearch.svg)](https://dev.to/rakeshkr2/in-one-minute-elasticsearch-40l0)
+[![How to send email with GraphQL or Hasura](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_send_email_with_GraphQL_or_Hasura.svg)](https://dev.to/polterguy/how-to-send-email-with-graphql-or-hasura-55bl)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, October 6, 2022 at 12:20:27 AM
+> Last updated: Thursday, October 6, 2022 at 6:25:11 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, October 6, 2022 at 12:20:30 AM
+> Last updated: Thursday, October 6, 2022 at 6:25:17 AM
 
 > Showing 5 of 30 posts.
 
+[![Arif Patel (UK/Preston/Dubai)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Arif_Patel_(UK_Preston_Dubai).svg)](/announcements/greetings/personal-message/20027442.arif-patel-uk-preston-dubai/)
 [![Mobile App Development Company India, USA- Inventcolabs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Mobile_App_Development_Company_India__USA-_Inventcolabs.svg)](https://www.inventcolabssoftware.com/)
 [![I turned JS into a compiled language (for fun and Wasm) — surma.dev](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/I_turned_JS_into_a_compiled_language_(for_fun_and_Wasm)_—_surma.dev.svg)](https://surma.dev/things/compile-js/)
 [![Toggle Visibility in Vue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Toggle_Visibility_in_Vue.svg)](
 https://masteringjs.io/tutorials/vue/toggle-visibility
 )
-[![GitHub - samen-io/samen: Samen is a toolkit for API's. Minimal, fast and with autogenerated clients for your front-ends.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_samen-io_samen__Samen_is_a_toolkit_for_API's._Minimal__fast_and_with_autogenerated_clients_for_your_front-ends..svg)](https://github.com/samen-io/samen)
-[![GitHub - gchumillas/schema-fixer: A node library to fix data.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_gchumillas_schema-fixer__A_node_library_to_fix_data..svg)](https://github.com/gchumillas/schema-fixer)
+[![GitHub - samen-io/samen: Samen is the no-hassle and type-safe glue between your backend and frontend(s). Our mission is to reduce the amount of boilerplate to create a backend for your apps, and give you end-to-end type-safety in the process.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_samen-io_samen__Samen_is_the_no-hassle_and_type-safe_glue_between_your_backend_and_frontend(s)._Our_mission_is_to_reduce_the_amount_of_boilerplate_to_create_a_backend_for_your_apps__and_give_you_end-to-end_type-safety_in_the_process..svg)](https://github.com/samen-io/samen)
 
 
 <!-- post-list:end -->
