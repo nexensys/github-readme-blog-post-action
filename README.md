@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, October 6, 2022 at 7:16:55 PM
+> Last updated: Friday, October 7, 2022 at 12:20:02 AM
 
 > Showing 5 of 12 posts.
 
+[![Completed 500 Followers on Dev.to in 3 month with 33 Post and more then 60k views](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Completed_500_Followers_on_Dev.to_in_3_month_with_33_Post_and_more_then_60k_views.svg)](https://dev.to/devsimc/complete-500-followers-on-devto-in-3-month-with-33-post-and-more-then-60k-views-1g9o)
 [![StackBlitz Monthly Update Post: September 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/StackBlitz_Monthly_Update_Post__September_2022.svg)](https://dev.to/stackblitz/stackblitz-monthly-update-post-september-2022-3d6h)
+[![Phalcon v5.0.3 Released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Phalcon_v5.0.3_Released.svg)](https://dev.to/phalcon/phalcon-v503-released-57kh)
 [![The Best & Worst Programming Languages For Dev Workflow](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Best___Worst_Programming_Languages_For_Dev_Workflow.svg)](https://dev.to/linearb/the-best-worst-programming-languages-for-dev-workflow-588h)
 [![REST API con ASP.NET 6 y MySQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/REST_API_con_ASP.NET_6_y_MySQL.svg)](https://dev.to/esdanielgomez/rest-api-con-aspnet-6-y-mysql-21j0)
-[![Bare minimum setup on VSCode to work on TS/JS projects](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Bare_minimum_setup_on_VSCode_to_work_on_TS_JS_projects.svg)](https://dev.to/brenoalves/bare-minimum-setup-on-vscode-to-work-on-tsjs-projects-jeh)
-[![Localization Made Easy: Generate 100+ Languages with Single Click in Flutter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Localization_Made_Easy__Generate_100+_Languages_with_Single_Click_in_Flutter.svg)](https://dev.to/yash_makan/localization-made-easy-generate-100-languages-with-single-click-in-flutter-2efk)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, October 6, 2022 at 7:16:59 PM
+> Last updated: Friday, October 7, 2022 at 12:20:05 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, October 6, 2022 at 7:17:08 PM
+> Last updated: Friday, October 7, 2022 at 12:20:11 AM
 
 > Showing 5 of 30 posts.
 
