@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, October 7, 2022 at 6:25:32 AM
+> Last updated: Friday, October 7, 2022 at 12:20:08 PM
 
 > Showing 5 of 12 posts.
 
-[![In One Minute : Jenkins](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/In_One_Minute___Jenkins.svg)](https://dev.to/rakeshkr2/in-one-minute-jenkins-21c)
-[![15 GitHub Repositories to Contribute for Hacktoberfest 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/15_GitHub_Repositories_to_Contribute_for_Hacktoberfest_2022.svg)](https://dev.to/atapas/15-github-repositories-to-contribute-for-hacktoberfest-2022-215d)
-[![Django API Generator - Free Tool (Updated)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Django_API_Generator_-_Free_Tool_(Updated).svg)](https://dev.to/sm0ke/django-api-generator-free-tool-updated-5d99)
-[![9 business tech events worth to visit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/9_business_tech_events_worth_to_visit.svg)](https://dev.to/superface/9-business-tech-events-worth-to-visit-4pi4)
-[![9 reasons why you should learn to code in the age of no-code tools & gain an unfair advantage.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/9_reasons_why_you_should_learn_to_code_in_the_age_of_no-code_tools___gain_an_unfair_advantage..svg)](https://dev.to/swastikyadav/9-reasons-why-you-should-learn-to-code-in-the-age-of-no-code-tools-gain-an-unfair-advantage-32mb)
+[![I Turned My Startup Into Open-Source](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/I_Turned_My_Startup_Into_Open-Source.svg)](https://dev.to/nevodavid/i-turned-my-startup-into-open-source-4efh)
+[![MongoDB $weeklyUpdate #90 (October 7, 2022): Mastering the Realm Web SDK and *Tons* of October Events!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/MongoDB_$weeklyUpdate__90_(October_7__2022)__Mastering_the_Realm_Web_SDK_and__Tons__of_October_Events!.svg)](https://dev.to/mongodb/mongodb-weeklyupdate-90-october-7-2022-mastering-the-realm-web-sdk-and-tons-of-october-events-bd0)
+[![Implenting JWT's from scratch.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Implenting_JWT's_from_scratch..svg)](https://dev.to/kalashin1/implenting-jwts-from-scratch-42bj)
+[![Color Theory for Web Design Beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Color_Theory_for_Web_Design_Beginners.svg)](https://dev.to/iarchitsharma/color-theory-for-web-design-beginners-433h)
+[![Cloudflare Turnstile plugin for Deno Fresh (p1)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Cloudflare_Turnstile_plugin_for_Deno_Fresh_(p1).svg)](https://dev.to/khuongduybui/cloudflare-turnstile-plugin-for-deno-fresh-3ph0)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, October 7, 2022 at 6:25:34 AM
+> Last updated: Friday, October 7, 2022 at 12:20:11 PM
 
 > Showing 4 of 4 posts.
 
+[![Axios turns 1.0; TypeScript turns 10](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Axios_turns_1.0;_TypeScript_turns_10.svg)](https://javascriptweekly.com/issues/609)
 [![How TypeScript 4.9 satisfies](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/How_TypeScript_4.9_satisfies.svg)](https://javascriptweekly.com/issues/608)
 [![Extractors for ECMAScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Extractors_for_ECMAScript.svg)](https://javascriptweekly.com/issues/607)
 [![Seven weird ways to call a JavaScript function](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Seven_weird_ways_to_call_a_JavaScript_function.svg)](https://javascriptweekly.com/issues/606)
-[![Anyone know Larry Ellison?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Anyone_know_Larry_Ellison_.svg)](https://javascriptweekly.com/issues/605)
 
 
 ## Echo JS
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, October 7, 2022 at 6:25:40 AM
+> Last updated: Friday, October 7, 2022 at 12:20:22 PM
 
 > Showing 5 of 30 posts.
 
+[![Soil & Rock Anchoring Company in India - GKV Infrastructure](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Soil___Rock_Anchoring_Company_in_India_-_GKV_Infrastructure.svg)](https://www.gkvinfrastructure.com/soil-anchoring/)
 [![How to Get Started With a Clean Architecture Template for NodeJS, Ts.ED and TypeScript | HackerNoon](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Get_Started_With_a_Clean_Architecture_Template_for_NodeJS__Ts.ED_and_TypeScript___HackerNoon.svg)](
 https://hackernoon.com/how-to-get-started-with-a-clean-architecture-template-for-nodejs-tsed-and-typescript
 )
 [![Simple way to add custom context menus to web pages.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Simple_way_to_add_custom_context_menus_to_web_pages..svg)](https://dev.to/andreygermanov/simple-way-to-add-custom-context-menus-to-web-pages-10lc)
 [![Arif Patel (UK/Preston/Dubai)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Arif_Patel_(UK_Preston_Dubai).svg)](/announcements/greetings/personal-message/20027442.arif-patel-uk-preston-dubai/)
 [![Mobile App Development Company India, USA- Inventcolabs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Mobile_App_Development_Company_India__USA-_Inventcolabs.svg)](https://www.inventcolabssoftware.com/)
-[![I turned JS into a compiled language (for fun and Wasm) — surma.dev](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/I_turned_JS_into_a_compiled_language_(for_fun_and_Wasm)_—_surma.dev.svg)](https://surma.dev/things/compile-js/)
 
 
 <!-- post-list:end -->
