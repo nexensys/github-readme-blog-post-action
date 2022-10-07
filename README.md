@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, October 6, 2022 at 12:17:04 PM
+> Last updated: Thursday, October 6, 2022 at 7:16:55 PM
 
 > Showing 5 of 12 posts.
 
-[![SQL vs NoSQL in a Serverless World](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/SQL_vs_NoSQL_in_a_Serverless_World.svg)](https://dev.to/aws-heroes/sql-vs-nosql-in-a-serverless-world-567k)
-[![You (most likely) don't need to optimize React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/You_(most_likely)_don't_need_to_optimize_React.svg)](https://dev.to/woovi/you-most-likely-dont-need-to-optimize-react-43h2)
-[![Interesting JavaScript Tips](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Interesting_JavaScript_Tips.svg)](https://dev.to/jtfinley/interesting-javascript-tips-5b84)
-[![Common Beginners JavaScript Mistakes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Common_Beginners_JavaScript_Mistakes.svg)](https://dev.to/umashankar_s/common-beginners-javascript-mistakes-5dkd)
-[![Q: What's the Difference Between Amateur & Pro? A: Process](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Q__What's_the_Difference_Between_Amateur___Pro__A__Process.svg)](https://dev.to/raddevus/q-whats-the-difference-between-amateur-pro-a-process-h9i)
+[![StackBlitz Monthly Update Post: September 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/StackBlitz_Monthly_Update_Post__September_2022.svg)](https://dev.to/stackblitz/stackblitz-monthly-update-post-september-2022-3d6h)
+[![The Best & Worst Programming Languages For Dev Workflow](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Best___Worst_Programming_Languages_For_Dev_Workflow.svg)](https://dev.to/linearb/the-best-worst-programming-languages-for-dev-workflow-588h)
+[![REST API con ASP.NET 6 y MySQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/REST_API_con_ASP.NET_6_y_MySQL.svg)](https://dev.to/esdanielgomez/rest-api-con-aspnet-6-y-mysql-21j0)
+[![Bare minimum setup on VSCode to work on TS/JS projects](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Bare_minimum_setup_on_VSCode_to_work_on_TS_JS_projects.svg)](https://dev.to/brenoalves/bare-minimum-setup-on-vscode-to-work-on-tsjs-projects-jeh)
+[![Localization Made Easy: Generate 100+ Languages with Single Click in Flutter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Localization_Made_Easy__Generate_100+_Languages_with_Single_Click_in_Flutter.svg)](https://dev.to/yash_makan/localization-made-easy-generate-100-languages-with-single-click-in-flutter-2efk)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, October 6, 2022 at 12:17:08 PM
+> Last updated: Thursday, October 6, 2022 at 7:16:59 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, October 6, 2022 at 12:17:18 PM
+> Last updated: Thursday, October 6, 2022 at 7:17:08 PM
 
 > Showing 5 of 30 posts.
 
