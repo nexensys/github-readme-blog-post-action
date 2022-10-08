@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, October 7, 2022 at 7:01:18 PM
+> Last updated: Saturday, October 8, 2022 at 12:17:08 AM
 
 > Showing 5 of 12 posts.
 
-[![palpatine supports config file in JSON format](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/palpatine_supports_config_file_in_JSON_format.svg)](https://dev.to/batunpc/palpatine-supports-config-file-in-json-format-5fd0)
-[![My first PR for Hacktoberfest](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/My_first_PR_for_Hacktoberfest.svg)](https://dev.to/neilan99/my-first-pr-for-hacktoberfest-b9d)
-[![What was your win this week?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_was_your_win_this_week_.svg)](https://dev.to/michaeltharrington/what-was-your-win-this-week-4bih)
-[![The GraphQL N+1 Problem and SQL Window Functions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_GraphQL_N+1_Problem_and_SQL_Window_Functions.svg)](https://dev.to/jobber/the-graphql-n1-problem-and-sql-window-functions-i63)
-[![React Render props](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/React_Render_props.svg)](https://dev.to/jairdev/react-render-props-1m7k)
+[![My portfolio is ready!!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/My_portfolio_is_ready!!.svg)](https://dev.to/liftoffstudios/my-portfolio-is-ready-11cj)
+[![Firebase Security Rules for Cloud Storage](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Firebase_Security_Rules_for_Cloud_Storage.svg)](https://dev.to/opedroaravena/firebase-security-rules-for-cloud-storage-bl3)
+[![What Happens When You Type google.com and Press Enter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_Happens_When_You_Type_google.com_and_Press_Enter.svg)](https://dev.to/odhiambomike/what-happens-when-you-type-googlecom-and-press-enter-32ga)
+[![Machine Learning in a Nutshell](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Machine_Learning_in_a_Nutshell.svg)](https://dev.to/edemgold/machine-learning-in-a-nutshell-5dl5)
+[![Neuralink: Why should I let them put a chip in my head?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Neuralink__Why_should_I_let_them_put_a_chip_in_my_head_.svg)](https://dev.to/edemgold/neuralink-why-should-i-let-them-put-a-chip-in-my-head-4n35)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, October 7, 2022 at 7:01:22 PM
+> Last updated: Saturday, October 8, 2022 at 12:17:11 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, October 7, 2022 at 7:01:34 PM
+> Last updated: Saturday, October 8, 2022 at 12:17:20 AM
 
 > Showing 5 of 30 posts.
 
