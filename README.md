@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, October 8, 2022 at 6:20:33 AM
+> Last updated: Saturday, October 8, 2022 at 12:13:54 PM
 
 > Showing 5 of 12 posts.
 
-[![DAO: What You Need to Know & How It Benefits Your Business?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/DAO__What_You_Need_to_Know___How_It_Benefits_Your_Business_.svg)](https://dev.to/codezeros/dao-what-you-need-to-know-how-it-benefits-your-business-2nep)
-[![Building a PDF Generator using AWS Lambda](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Building_a_PDF_Generator_using_AWS_Lambda.svg)](https://dev.to/aws-builders/building-a-pdf-generator-using-aws-lambda-4220)
-[![Learn How to Deploy Website Using Hugo on AWS Amplify in Ten Minutes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Learn_How_to_Deploy_Website_Using_Hugo_on_AWS_Amplify_in_Ten_Minutes.svg)](https://dev.to/aws-builders/learn-how-to-deploy-website-using-hugo-on-aws-amplify-in-ten-minutes-1g3o)
-[![Curious case of button tag](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Curious_case_of_button_tag.svg)](https://dev.to/hellonehha/curious-case-of-button-tag-3gha)
-[![Google UX Design Certificate](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Google_UX_Design_Certificate.svg)](https://dev.to/yuridevat/google-ux-design-certificate-1a1i)
+[![Which buzzwords most annoy you?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Which_buzzwords_most_annoy_you_.svg)](https://dev.to/brunoj/which-buzzwords-most-annoy-you-407c)
+[![Builder pattern in TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Builder_pattern_in_TypeScript.svg)](https://dev.to/jmalvarez/builder-pattern-in-typescript-3on0)
+[![I made 1,000x faster TypeScript Validator Library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/I_made_1_000x_faster_TypeScript_Validator_Library.svg)](https://dev.to/samchon/typescript-json-is-10-1000x-times-faster-than-zod-and-io-ts-8n6)
+[![How to Improve Your Webpage Speed for Faster Website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Improve_Your_Webpage_Speed_for_Faster_Website.svg)](https://dev.to/aradwan20/how-to-improve-your-webpage-speed-for-faster-website-40b0)
+[![Django Dynamic DataTables - Free Tool (Updated)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Django_Dynamic_DataTables_-_Free_Tool_(Updated).svg)](https://dev.to/sm0ke/django-dynamic-datatables-free-tool-updated-38h)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, October 8, 2022 at 6:20:36 AM
+> Last updated: Saturday, October 8, 2022 at 12:13:57 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, October 8, 2022 at 6:20:44 AM
+> Last updated: Saturday, October 8, 2022 at 12:14:04 PM
 
 > Showing 5 of 30 posts.
 
