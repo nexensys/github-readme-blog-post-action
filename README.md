@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, October 7, 2022 at 12:20:08 PM
+> Last updated: Friday, October 7, 2022 at 7:01:18 PM
 
 > Showing 5 of 12 posts.
 
-[![I Turned My Startup Into Open-Source](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/I_Turned_My_Startup_Into_Open-Source.svg)](https://dev.to/nevodavid/i-turned-my-startup-into-open-source-4efh)
-[![MongoDB $weeklyUpdate #90 (October 7, 2022): Mastering the Realm Web SDK and *Tons* of October Events!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/MongoDB_$weeklyUpdate__90_(October_7__2022)__Mastering_the_Realm_Web_SDK_and__Tons__of_October_Events!.svg)](https://dev.to/mongodb/mongodb-weeklyupdate-90-october-7-2022-mastering-the-realm-web-sdk-and-tons-of-october-events-bd0)
-[![Implenting JWT's from scratch.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Implenting_JWT's_from_scratch..svg)](https://dev.to/kalashin1/implenting-jwts-from-scratch-42bj)
-[![Color Theory for Web Design Beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Color_Theory_for_Web_Design_Beginners.svg)](https://dev.to/iarchitsharma/color-theory-for-web-design-beginners-433h)
-[![Cloudflare Turnstile plugin for Deno Fresh (p1)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Cloudflare_Turnstile_plugin_for_Deno_Fresh_(p1).svg)](https://dev.to/khuongduybui/cloudflare-turnstile-plugin-for-deno-fresh-3ph0)
+[![palpatine supports config file in JSON format](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/palpatine_supports_config_file_in_JSON_format.svg)](https://dev.to/batunpc/palpatine-supports-config-file-in-json-format-5fd0)
+[![My first PR for Hacktoberfest](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/My_first_PR_for_Hacktoberfest.svg)](https://dev.to/neilan99/my-first-pr-for-hacktoberfest-b9d)
+[![What was your win this week?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_was_your_win_this_week_.svg)](https://dev.to/michaeltharrington/what-was-your-win-this-week-4bih)
+[![The GraphQL N+1 Problem and SQL Window Functions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_GraphQL_N+1_Problem_and_SQL_Window_Functions.svg)](https://dev.to/jobber/the-graphql-n1-problem-and-sql-window-functions-i63)
+[![React Render props](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/React_Render_props.svg)](https://dev.to/jairdev/react-render-props-1m7k)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, October 7, 2022 at 12:20:11 PM
+> Last updated: Friday, October 7, 2022 at 7:01:22 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, October 7, 2022 at 12:20:22 PM
+> Last updated: Friday, October 7, 2022 at 7:01:34 PM
 
 > Showing 5 of 30 posts.
 
+[![The Future of the Web is on the Edge](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Future_of_the_Web_is_on_the_Edge.svg)](https://deno.com/blog/the-future-of-web-is-on-the-edge)
 [![Soil & Rock Anchoring Company in India - GKV Infrastructure](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Soil___Rock_Anchoring_Company_in_India_-_GKV_Infrastructure.svg)](https://www.gkvinfrastructure.com/soil-anchoring/)
 [![How to Get Started With a Clean Architecture Template for NodeJS, Ts.ED and TypeScript | HackerNoon](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Get_Started_With_a_Clean_Architecture_Template_for_NodeJS__Ts.ED_and_TypeScript___HackerNoon.svg)](
 https://hackernoon.com/how-to-get-started-with-a-clean-architecture-template-for-nodejs-tsed-and-typescript
 )
 [![Simple way to add custom context menus to web pages.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Simple_way_to_add_custom_context_menus_to_web_pages..svg)](https://dev.to/andreygermanov/simple-way-to-add-custom-context-menus-to-web-pages-10lc)
 [![Arif Patel (UK/Preston/Dubai)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Arif_Patel_(UK_Preston_Dubai).svg)](/announcements/greetings/personal-message/20027442.arif-patel-uk-preston-dubai/)
-[![Mobile App Development Company India, USA- Inventcolabs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Mobile_App_Development_Company_India__USA-_Inventcolabs.svg)](https://www.inventcolabssoftware.com/)
 
 
 <!-- post-list:end -->
