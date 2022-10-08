@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, October 8, 2022 at 12:17:08 AM
+> Last updated: Saturday, October 8, 2022 at 6:20:33 AM
 
 > Showing 5 of 12 posts.
 
-[![My portfolio is ready!!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/My_portfolio_is_ready!!.svg)](https://dev.to/liftoffstudios/my-portfolio-is-ready-11cj)
-[![Firebase Security Rules for Cloud Storage](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Firebase_Security_Rules_for_Cloud_Storage.svg)](https://dev.to/opedroaravena/firebase-security-rules-for-cloud-storage-bl3)
-[![What Happens When You Type google.com and Press Enter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_Happens_When_You_Type_google.com_and_Press_Enter.svg)](https://dev.to/odhiambomike/what-happens-when-you-type-googlecom-and-press-enter-32ga)
-[![Machine Learning in a Nutshell](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Machine_Learning_in_a_Nutshell.svg)](https://dev.to/edemgold/machine-learning-in-a-nutshell-5dl5)
-[![Neuralink: Why should I let them put a chip in my head?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Neuralink__Why_should_I_let_them_put_a_chip_in_my_head_.svg)](https://dev.to/edemgold/neuralink-why-should-i-let-them-put-a-chip-in-my-head-4n35)
+[![DAO: What You Need to Know & How It Benefits Your Business?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/DAO__What_You_Need_to_Know___How_It_Benefits_Your_Business_.svg)](https://dev.to/codezeros/dao-what-you-need-to-know-how-it-benefits-your-business-2nep)
+[![Building a PDF Generator using AWS Lambda](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Building_a_PDF_Generator_using_AWS_Lambda.svg)](https://dev.to/aws-builders/building-a-pdf-generator-using-aws-lambda-4220)
+[![Learn How to Deploy Website Using Hugo on AWS Amplify in Ten Minutes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Learn_How_to_Deploy_Website_Using_Hugo_on_AWS_Amplify_in_Ten_Minutes.svg)](https://dev.to/aws-builders/learn-how-to-deploy-website-using-hugo-on-aws-amplify-in-ten-minutes-1g3o)
+[![Curious case of button tag](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Curious_case_of_button_tag.svg)](https://dev.to/hellonehha/curious-case-of-button-tag-3gha)
+[![Google UX Design Certificate](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Google_UX_Design_Certificate.svg)](https://dev.to/yuridevat/google-ux-design-certificate-1a1i)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, October 8, 2022 at 12:17:11 AM
+> Last updated: Saturday, October 8, 2022 at 6:20:36 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, October 8, 2022 at 12:17:20 AM
+> Last updated: Saturday, October 8, 2022 at 6:20:44 AM
 
 > Showing 5 of 30 posts.
 
+[![Ant Design 5.0 Alpha is Ready 🎉！](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Ant_Design_5.0_Alpha_is_Ready_🎉！.svg)](https://medium.com/@1075746765/designant-design-5-0-alpha-is-ready-8409bb5f9b8f)
 [![The Future of the Web is on the Edge](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Future_of_the_Web_is_on_the_Edge.svg)](https://deno.com/blog/the-future-of-web-is-on-the-edge)
 [![Soil & Rock Anchoring Company in India - GKV Infrastructure](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Soil___Rock_Anchoring_Company_in_India_-_GKV_Infrastructure.svg)](https://www.gkvinfrastructure.com/soil-anchoring/)
 [![How to Get Started With a Clean Architecture Template for NodeJS, Ts.ED and TypeScript | HackerNoon](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Get_Started_With_a_Clean_Architecture_Template_for_NodeJS__Ts.ED_and_TypeScript___HackerNoon.svg)](
 https://hackernoon.com/how-to-get-started-with-a-clean-architecture-template-for-nodejs-tsed-and-typescript
 )
 [![Simple way to add custom context menus to web pages.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Simple_way_to_add_custom_context_menus_to_web_pages..svg)](https://dev.to/andreygermanov/simple-way-to-add-custom-context-menus-to-web-pages-10lc)
-[![Arif Patel (UK/Preston/Dubai)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Arif_Patel_(UK_Preston_Dubai).svg)](/announcements/greetings/personal-message/20027442.arif-patel-uk-preston-dubai/)
 
 
 <!-- post-list:end -->
