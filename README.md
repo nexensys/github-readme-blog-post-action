@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, October 8, 2022 at 7:05:42 PM
+> Last updated: Sunday, October 9, 2022 at 12:18:14 AM
 
 > Showing 5 of 12 posts.
 
+[![Full Stack WEB3 Developer- Roadmap and Free Resources](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Full_Stack_WEB3_Developer-_Roadmap_and_Free_Resources.svg)](https://dev.to/ayaaneth/full-stack-web3-developer-roadmap-and-free-resources-1chm)
+[![Funding in open source](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Funding_in_open_source.svg)](https://dev.to/nickytonline/funding-in-open-source-4i6k)
 [![Rust devlog: Week 3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Rust_devlog__Week_3.svg)](https://dev.to/thousandthstar/rust-devlog-week-3-1dk9)
 [![Reduct Storage Client SDK for C++ 1.0.0 was released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Reduct_Storage_Client_SDK_for_C++_1.0.0_was_released.svg)](https://dev.to/reduct-storage/reduct-storage-client-sdk-for-c-100-was-released-2kp)
 [![🤖 Latest Engineering Vacancies - Week #41 of 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/🤖_Latest_Engineering_Vacancies_-_Week__41_of_2022.svg)](https://dev.to/shman/latest-engineering-vacancies-week-41-of-2022-366g)
-[![Using Notion API with JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Using_Notion_API_with_JavaScript.svg)](https://dev.to/inspiratory/using-notion-api-with-javascript-1hil)
-[![With stickers or not?!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/With_stickers_or_not_!.svg)](https://dev.to/lucianodiisouza/with-stickers-or-not-d05)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, October 8, 2022 at 7:05:46 PM
+> Last updated: Sunday, October 9, 2022 at 12:18:17 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, October 8, 2022 at 7:05:52 PM
+> Last updated: Sunday, October 9, 2022 at 12:18:24 AM
 
 > Showing 5 of 30 posts.
 
