@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, October 9, 2022 at 6:21:00 AM
+> Last updated: Sunday, October 9, 2022 at 12:14:08 PM
 
 > Showing 5 of 12 posts.
 
-[![🇰🇷 Review of "AMAZING" AWS APAC Community Summit 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/🇰🇷_Review_of__AMAZING__AWS_APAC_Community_Summit_2022.svg)](https://dev.to/aws-builders/review-of-amazing-aws-apac-community-summit-2022-nb8)
-[![Did you know you could use OpenAPI for security?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Did_you_know_you_could_use_OpenAPI_for_security_.svg)](https://dev.to/nathan20/did-you-know-you-could-use-openapi-for-security-1hke)
-[![HTTP based OOP](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/HTTP_based_OOP.svg)](https://dev.to/polterguy/http-based-oop-3lj7)
-[![Create mock APIs for building frontend apps quickly without the backend.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Create_mock_APIs_for_building_frontend_apps_quickly_without_the_backend..svg)](https://dev.to/sivaneshs/create-mock-apis-for-building-frontend-apps-quickly-without-the-backend-2lm2)
-[![NextJS portfolio setting up - part 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/NextJS_portfolio_setting_up_-_part_2.svg)](https://dev.to/dailydevtips1/nextjs-portfolio-setting-up-part-2-300c)
+[![16 games for developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/16_games_for_developers.svg)](https://dev.to/bcncodeschool/16-games-for-developers-53fi)
+[![Explain like I’m five: package managers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Explain_like_I’m_five__package_managers.svg)](https://dev.to/stackblitz/explain-like-im-five-package-managers-1a7a)
+[![What happens when you type google.com and press Enter?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_happens_when_you_type_google.com_and_press_Enter_.svg)](https://dev.to/jaminux/what-happens-when-you-type-googlecom-and-press-enter-18dj)
+[![Opening up my Open Source Projects for Hacktoberfest](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Opening_up_my_Open_Source_Projects_for_Hacktoberfest.svg)](https://dev.to/theaccordance/opening-up-my-open-source-projects-for-hacktoberfest-52j5)
+[![Debugging in WordPress | WordPress এ আমি যেভাবে ডিবাগিং করি](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Debugging_in_WordPress___WordPress_এ_আমি_যেভাবে_ডিবাগিং_করি.svg)](https://dev.to/ab_azad/debugging-in-wordpress-wordpress-e-aami-yebhaabe-ddibaagin-kri-58c8)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, October 9, 2022 at 6:21:03 AM
+> Last updated: Sunday, October 9, 2022 at 12:14:12 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, October 9, 2022 at 6:21:10 AM
+> Last updated: Sunday, October 9, 2022 at 12:14:20 PM
 
 > Showing 5 of 30 posts.
 

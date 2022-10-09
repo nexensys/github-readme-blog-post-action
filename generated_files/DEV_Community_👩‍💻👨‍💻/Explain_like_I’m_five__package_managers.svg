@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 610 110" width="600" height="100" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <style>
+      .title {
+        font-size: 1.5em;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        white-space: nowrap;
+      }
+      .description {
+        font-size: 0.75em;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+      }
+      .text {
+        text-align: start;
+        padding: 10px;
+        height: calc(100% - 20px);
+        margin-left: 100px;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+        color: black;
+      }
+           .date {
+        font-size: 0.5em;
+        opacity: 0.5;
+        text-align: end;
+        position: absolute;
+        bottom: 0;
+        right: 10px;
+        color: black;
+      }
+      .image {
+        height: 100px;
+        width: 100px;
+        background-image: url("data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAcHBwcHBwgJCQgLDAsMCxAPDg4PEBkSExITEhklFxsXFxsXJSEoIR4hKCE7LykpLztFOjc6RVNKSlNpY2mJibgBBwcHBwcHCAkJCAsMCwwLEA8ODg8QGRITEhMSGSUXGxcXGxclISghHiEoITsvKSkvO0U6NzpFU0pKU2ljaYmJuP/CABEIAfQD6AMBIgACEQEDEQH/xAAxAAEBAQEBAQEBAAAAAAAAAAAAAQIDBQQGBwEBAQEBAQAAAAAAAAAAAAAAAAECAwT/2gAMAwEAAhADEAAAAP7+N5ASwAAAAAAQQAAgAiiAACiCoBKABBBABAEAKAQBBkQABmwCmQAEARLkQEsBCCxARkEIKgSQJEsEEuRLCZsRCpmxJEoSyRCA/bjy+sBAAAAAAQQABAAAQAAqAACoAEEAIAESwCgEACZsAQBLkCkuQACBAJmwAgGbLEsAMywZspLBLlEsJCxAksJLEkKksMyyySymblGdZAP248vrQAAAAAEEAAQAAEAAKSwACkAEAgBAEEAAoQARCBAAJCgJAASwBEuSASwAkLEsEsMgkKSxGdZGdZqBICSwmdZSCpLDMsqSyxjeEZ1kA/byzy+sAAAABABABAAAQAASygAoQBAEsAEAEQAoBAAmbAEASwgpLCAAQARnWABLBLCCyAZ1kgMiksRnWRnWbICAksJLEyKksMzUrMqyZ1EznWQD9sPL6wAAABAEAAgAAEAAKgoABABAIACBAIAKAgBCQQABLkCksIACABGN4AEsEsILIsEsMgkspLEZ1kZ1KyEgGdZIDCyyAzNZMrKkqzE1EyD9sPL6wAAAIAEASwAAEAAEqoAAKgAQCASwBEsAAoQASwyEAAZ1kCksIACLAEZ1kgEsEsILEsEowsJNZpLEZ1kSwyssSwZ1kSwksSSypnUMzWaSyyZ1Eyo/aDy+sAAAQBAAEAABLAABKqLAKAgAQQASwBEsAApLABnUMhAAGdQgpLCAASwBGdQyBLBLCLLEsAMzWRnWaSiSkyCZ1LICSjMomdRMzUqSwzNSsiySwgT9mPL6wAAEsAQACAAAQAAogACgIAESwASwBEsAApKIBLDKxAAEsIKSjIAEsAQDCwAgJLLAICZ3kkoyKgTKwSwkssiwk1kSwzNRMrKmdQzNSpLLIpP2I8vrAAASwBABAAACAACosAoACABEogEsARKIAKAgEsJLEAASjKygJLAACBAJneSASwiwgsSwZ1DIMrKSxGdQgJLKixJKMrCZ1EysqSwk1ky1moqz9gPL6gAAIsAQBKIAACAACgIAKAgAQCASiBAIAKAiwAzNQgQACSwCmdQgAIsARKMASiSiSyxKIDM1kZ1CCoEy1kSypNRJKJnQzKMNZSTUrKwy1kyqv1483pAAASwBAAIAACAAASqiwACksAQCAAgQCLAAKSwAk1kixAAEsIKSjKwASiBAJnWQCLCTUILIsGdQyDLWaSiSkyCTUqSxIsJNQksMtZSTUrM1Tm+kfpR5/SAAAlgCAAQAACWAAAVAABSWAIAlgBAgCWAAUBAJRmWIAABJZQEmoQAEWAIzoYWCUQGVliUQGZvJJRkVFiM6GQSVWViRYSahmapzv0dDh11JYo90ce4AAAECAAQAACWAAAUIVAFAQIAlEBAAgEAAFRYASWECAAJYQUlGVgABAgEzvJARYJRkWRYJRhYM6hBUWJJqElElVlSZvbrLx6aS5moSUZVXuDj2AAAASwBAEsAAEogAApKIAKASwBAIsIsAQBLAAKSiASwksQAACAgpnUIABLAESjCwAgGdQgsiwZ1DKwk1KgIsSKMu3WXj00XISLBKMrCKPaHLsAAAABFiAJRAAARYAABUWAAUBAAiUSWAAIBABQCWAElhFiAAJRJRBUmshYARYAjOoZAlEBlrNiUQEmoZWEmpUa9uXx+n3fNm8hZFhFhFlkWCUZaHsDl2AAAAASiBAIAABKIAAKSiACgIsAQCTUIAAESwACgIBKMykgAAIsEspKICLACBAMzeSAiwAyssSiAk0MtbJ7fk+tja5Z04dx8Hz+xbPEerws+GduWs5WWRYAewOXYAAAAACLAESwAAAgAAAqACgAIEAAysAAQCLAAKSwAk1kSxAAAJKIspLBKIBKIESjDWQCLBKMrLE3TOrZYzi57+r5PrZ2JjVQVkaZG8wcfm++2eNPc46nkvuWfSOfUAAAAABKIEAgAAEogAApKIAKASiBAEsIAAESiACgIsAMrCLEAASiSiCosEogEogRKMNZAI3TGrk1OebneEubmRPp9XyvVx1DGgAoAAAADImwAAAAAAIsARLAAACAAACosAAoCLAEAk1kABAIsAAoCASwgIEAASwSiCosEsAEog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");
+        background-size: cover;
+        position: absolute;
+        top: 0;
+        left: 0;
+        border-radius: 10px;
+        background-position: center;
+      }
+      .main {
+        fill: white;
+      }
+      .data {
+        opacity: 0.75;
+        text-align: start;
+        position: absolute;
+        bottom: 0;
+        padding-bottom: 5px;
+        left: 110px;
+        color: black;
+        max-width: 400px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+      }
+      .author {
+        opacity: 0.75;
+        font-size: 0.5em;
+      }
+      .category {
+        background-color: rgba(0, 0, 0, 0.25);
+        border-radius: 0.25em;
+        padding: 0.125em 0.25em;
+        font-size: 0.75em;
+        color: rgba(0, 0, 0, 0.8);
+      }
+    </style>
+  </defs>
+  <g class="main">
+    <rect class="content" width="600" height="100" stroke="rgba(0, 0, 0, 0.5)" x="5" y="5" rx="10" />
+    <foreignObject width="600" height="100" x="5" y="5">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
+        <div class="image" />
+<div class="text">
+          <div class="title">Explain&#0032;like&#0032;I’m&#0032;five&#0058;&#0032;package&#0032;managers</div>
+          <div class="description">For&#0032;a&#0032;long&#0032;time&#0044;&#0032;the&#0032;subject&#0032;of&#0032;package&#0032;managers&#0032;was&#0032;for&#0032;me&#0032;an&#0032;intimidating&#0032;one&#0046;&#0032;As&#0032;a&#0032;bootcamp&#0032;grad&#0044;&#0046;&#0046;&#0046;</div>
+          <div class="date">10&#0047;9&#0047;22</div>
+          <div class="data">
+            <span class="author">Sylwia&#0032;Vargas</span> <span class="category">beginners</span> <span class="category">javascript</span> <span class="category">webdev</span> <span class="category">tooling</span>
+          </div>
+        </div>
+      </div>
+    </foreignObject>
+  </g>
+</svg>
