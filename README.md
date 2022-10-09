@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, October 8, 2022 at 12:13:54 PM
+> Last updated: Saturday, October 8, 2022 at 7:05:42 PM
 
 > Showing 5 of 12 posts.
 
-[![Which buzzwords most annoy you?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Which_buzzwords_most_annoy_you_.svg)](https://dev.to/brunoj/which-buzzwords-most-annoy-you-407c)
-[![Builder pattern in TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Builder_pattern_in_TypeScript.svg)](https://dev.to/jmalvarez/builder-pattern-in-typescript-3on0)
-[![I made 1,000x faster TypeScript Validator Library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/I_made_1_000x_faster_TypeScript_Validator_Library.svg)](https://dev.to/samchon/typescript-json-is-10-1000x-times-faster-than-zod-and-io-ts-8n6)
-[![How to Improve Your Webpage Speed for Faster Website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Improve_Your_Webpage_Speed_for_Faster_Website.svg)](https://dev.to/aradwan20/how-to-improve-your-webpage-speed-for-faster-website-40b0)
-[![Django Dynamic DataTables - Free Tool (Updated)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Django_Dynamic_DataTables_-_Free_Tool_(Updated).svg)](https://dev.to/sm0ke/django-dynamic-datatables-free-tool-updated-38h)
+[![Rust devlog: Week 3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Rust_devlog__Week_3.svg)](https://dev.to/thousandthstar/rust-devlog-week-3-1dk9)
+[![Reduct Storage Client SDK for C++ 1.0.0 was released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Reduct_Storage_Client_SDK_for_C++_1.0.0_was_released.svg)](https://dev.to/reduct-storage/reduct-storage-client-sdk-for-c-100-was-released-2kp)
+[![🤖 Latest Engineering Vacancies - Week #41 of 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/🤖_Latest_Engineering_Vacancies_-_Week__41_of_2022.svg)](https://dev.to/shman/latest-engineering-vacancies-week-41-of-2022-366g)
+[![Using Notion API with JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Using_Notion_API_with_JavaScript.svg)](https://dev.to/inspiratory/using-notion-api-with-javascript-1hil)
+[![With stickers or not?!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/With_stickers_or_not_!.svg)](https://dev.to/lucianodiisouza/with-stickers-or-not-d05)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, October 8, 2022 at 12:13:57 PM
+> Last updated: Saturday, October 8, 2022 at 7:05:46 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, October 8, 2022 at 12:14:04 PM
+> Last updated: Saturday, October 8, 2022 at 7:05:52 PM
 
 > Showing 5 of 30 posts.
 
