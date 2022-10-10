@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, October 10, 2022 at 6:27:59 AM
+> Last updated: Monday, October 10, 2022 at 12:20:48 PM
 
 > Showing 5 of 12 posts.
 
-[![October 2022 Events](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/October_2022_Events.svg)](https://dev.to/tspannhw/october-2022-events-34f8)
-[![What are the best platforms to write technical articles?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_are_the_best_platforms_to_write_technical_articles_.svg)](https://dev.to/surajondev/what-are-the-best-platforms-to-write-technical-articles-37fn)
-[![Bugs that the Rust compiler catches for you](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Bugs_that_the_Rust_compiler_catches_for_you.svg)](https://dev.to/sylvainkerkour/bugs-that-the-rust-compiler-catches-for-you-268i)
-[![How I Created a React Native Ecommerce App for Medusa's Hackathon](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_I_Created_a_React_Native_Ecommerce_App_for_Medusa's_Hackathon.svg)](https://dev.to/medusajs/how-i-created-a-react-native-ecommerce-app-for-medusas-hackathon-4am7)
-[![Resource.fyi - Free Tools and Resources for Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Resource.fyi_-_Free_Tools_and_Resources_for_Developers.svg)](https://dev.to/resource/introducing-resourcefyi-free-tools-and-resources-for-developers-1pee)
+[![The 3 Short October CSS tips](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_3_Short_October_CSS_tips.svg)](https://dev.to/melnik909/the-3-short-october-css-tips-n2h)
+[![Office Chair Recommendations?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Office_Chair_Recommendations_.svg)](https://dev.to/fischgeek/office-chair-recommendations-3b69)
+[![Gesture-based payments](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Gesture-based_payments.svg)](https://dev.to/stripe/gesture-based-payments-2ipd)
+[![Console.time & 4 other webdev tips you may want to know 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Console.time___4_other_webdev_tips_you_may_want_to_know_🚀.svg)](https://dev.to/mustapha/consoletime-4-other-webdev-tips-you-may-want-to-know-2i5d)
+[![What Is Hacktoberfest?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_Is_Hacktoberfest_.svg)](https://dev.to/mikhailkaran/what-is-hacktoberfest-1k73)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, October 10, 2022 at 6:28:02 AM
+> Last updated: Monday, October 10, 2022 at 12:20:51 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,12 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, October 10, 2022 at 6:28:07 AM
+> Last updated: Monday, October 10, 2022 at 12:21:00 PM
 
 > Showing 5 of 30 posts.
 
+[![Pardot Vs HubSpot: Which One is Apt for You?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Pardot_Vs_HubSpot__Which_One_is_Apt_for_You_.svg)](https://sptechusa.com/pardot-vs-hubspot/)
+[![API with NestJS #78. Generating statistics using aggregate functions in raw SQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__78._Generating_statistics_using_aggregate_functions_in_raw_SQL.svg)](https://wanago.io/2022/10/10/api-nestjs-aggregate-functions-sql/)
 [![
 Revaalo - Jozef Behr
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Revaalo_-_Jozef_Behr_.svg)](
@@ -54,8 +56,6 @@ https://revaalo.com/user/jozef-behr
 )
 [![Version 2.11 release notes | FoalTS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Version_2.11_release_notes___FoalTS.svg)](https://foalts.org/blog/2022/10/09/version-2.11-release-notes)
 [![GitHub - aarushkuk/Turbulence-in-Flocking-Behavior-Versus-Fuel-Injector](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_aarushkuk_Turbulence-in-Flocking-Behavior-Versus-Fuel-Injector.svg)](https://github.com/aarushkuk/Turbulence-in-Flocking-Behavior-Versus-Fuel-Injector)
-[![Ant Design 5.0 Alpha is Ready 🎉！](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Ant_Design_5.0_Alpha_is_Ready_🎉！.svg)](https://medium.com/@1075746765/designant-design-5-0-alpha-is-ready-8409bb5f9b8f)
-[![The Future of the Web is on the Edge](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Future_of_the_Web_is_on_the_Edge.svg)](https://deno.com/blog/the-future-of-web-is-on-the-edge)
 
 
 <!-- post-list:end -->
