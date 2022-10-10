@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, October 10, 2022 at 12:40:23 AM
+> Last updated: Monday, October 10, 2022 at 6:27:59 AM
 
 > Showing 5 of 12 posts.
 
-[![Foal v2.11 has been released with better password management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Foal_v2.11_has_been_released_with_better_password_management.svg)](https://dev.to/loicpoullain/foal-v211-has-been-released-with-better-password-management-4mbp)
-[![EC2 Web Server with Apache using AWS CLI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/EC2_Web_Server_with_Apache_using_AWS_CLI.svg)](https://dev.to/aws-builders/ec2-web-server-with-apache-using-aws-cli-2gak)
-[![3 good things of OOP approach in Express.js with TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/3_good_things_of_OOP_approach_in_Express.js_with_TypeScript.svg)](https://dev.to/koichi_t/3-good-things-of-oop-approach-in-expressjs-with-typescript-4o83)
-[![49 Free Online Courses - October 9, 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/49_Free_Online_Courses_-_October_9__2022.svg)](https://dev.to/theprogramminbuddyclub/49-free-online-courses-october-9-2022-50b8)
-[![[Desafio] - Sistemas Distribuídos: Tempos Ruins de Resposta Percebidos pelos Usuários](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/[Desafio]_-_Sistemas_Distribuídos__Tempos_Ruins_de_Resposta_Percebidos_pelos_Usuários.svg)](https://dev.to/zanfranceschi/desafio-sistemas-distribuidos-tempos-ruins-de-resposta-percebidos-pelos-usuarios-3ic4)
+[![October 2022 Events](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/October_2022_Events.svg)](https://dev.to/tspannhw/october-2022-events-34f8)
+[![What are the best platforms to write technical articles?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_are_the_best_platforms_to_write_technical_articles_.svg)](https://dev.to/surajondev/what-are-the-best-platforms-to-write-technical-articles-37fn)
+[![Bugs that the Rust compiler catches for you](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Bugs_that_the_Rust_compiler_catches_for_you.svg)](https://dev.to/sylvainkerkour/bugs-that-the-rust-compiler-catches-for-you-268i)
+[![How I Created a React Native Ecommerce App for Medusa's Hackathon](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_I_Created_a_React_Native_Ecommerce_App_for_Medusa's_Hackathon.svg)](https://dev.to/medusajs/how-i-created-a-react-native-ecommerce-app-for-medusas-hackathon-4am7)
+[![Resource.fyi - Free Tools and Resources for Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Resource.fyi_-_Free_Tools_and_Resources_for_Developers.svg)](https://dev.to/resource/introducing-resourcefyi-free-tools-and-resources-for-developers-1pee)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, October 10, 2022 at 12:40:27 AM
+> Last updated: Monday, October 10, 2022 at 6:28:02 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, October 10, 2022 at 12:40:36 AM
+> Last updated: Monday, October 10, 2022 at 6:28:07 AM
 
 > Showing 5 of 30 posts.
 
+[![
+Revaalo - Jozef Behr
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Revaalo_-_Jozef_Behr_.svg)](
+https://revaalo.com/user/jozef-behr
+)
 [![Version 2.11 release notes | FoalTS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Version_2.11_release_notes___FoalTS.svg)](https://foalts.org/blog/2022/10/09/version-2.11-release-notes)
 [![GitHub - aarushkuk/Turbulence-in-Flocking-Behavior-Versus-Fuel-Injector](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_aarushkuk_Turbulence-in-Flocking-Behavior-Versus-Fuel-Injector.svg)](https://github.com/aarushkuk/Turbulence-in-Flocking-Behavior-Versus-Fuel-Injector)
 [![Ant Design 5.0 Alpha is Ready 🎉！](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Ant_Design_5.0_Alpha_is_Ready_🎉！.svg)](https://medium.com/@1075746765/designant-design-5-0-alpha-is-ready-8409bb5f9b8f)
 [![The Future of the Web is on the Edge](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Future_of_the_Web_is_on_the_Edge.svg)](https://deno.com/blog/the-future-of-web-is-on-the-edge)
-[![Soil & Rock Anchoring Company in India - GKV Infrastructure](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Soil___Rock_Anchoring_Company_in_India_-_GKV_Infrastructure.svg)](https://www.gkvinfrastructure.com/soil-anchoring/)
 
 
 <!-- post-list:end -->
