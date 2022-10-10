@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, October 9, 2022 at 7:10:31 PM
+> Last updated: Monday, October 10, 2022 at 12:40:23 AM
 
 > Showing 5 of 12 posts.
 
-[![Flutter + Dart Frog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Flutter_+_Dart_Frog.svg)](https://dev.to/ushieru/flutter-dart-frog-2pbg)
-[![How the CTO of a Cannabis Banking Company Improves His Productivity](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_the_CTO_of_a_Cannabis_Banking_Company_Improves_His_Productivity.svg)](https://dev.to/linearb/how-the-cto-of-a-cannabis-banking-company-improves-his-productivity-2728)
-[![Writing your First End-to-End Test with Cypress 10](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Writing_your_First_End-to-End_Test_with_Cypress_10.svg)](https://dev.to/monijesuloluwa/writing-your-first-end-to-end-test-with-cypress-10-4gl)
-[![Backend Boilerplate for NodeJs-ExpressJs-MongoDB](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Backend_Boilerplate_for_NodeJs-ExpressJs-MongoDB.svg)](https://dev.to/prkskrs/backend-boilerplate-of-nodejs-expressjs-mongodb-21bn)
-[![SSH into your local VM as if it is a paid IaaS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/SSH_into_your_local_VM_as_if_it_is_a_paid_IaaS.svg)](https://dev.to/thammami01/ssh-into-your-local-vm-as-if-it-is-a-paid-iaas-4emm)
+[![Foal v2.11 has been released with better password management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Foal_v2.11_has_been_released_with_better_password_management.svg)](https://dev.to/loicpoullain/foal-v211-has-been-released-with-better-password-management-4mbp)
+[![EC2 Web Server with Apache using AWS CLI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/EC2_Web_Server_with_Apache_using_AWS_CLI.svg)](https://dev.to/aws-builders/ec2-web-server-with-apache-using-aws-cli-2gak)
+[![3 good things of OOP approach in Express.js with TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/3_good_things_of_OOP_approach_in_Express.js_with_TypeScript.svg)](https://dev.to/koichi_t/3-good-things-of-oop-approach-in-expressjs-with-typescript-4o83)
+[![49 Free Online Courses - October 9, 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/49_Free_Online_Courses_-_October_9__2022.svg)](https://dev.to/theprogramminbuddyclub/49-free-online-courses-october-9-2022-50b8)
+[![[Desafio] - Sistemas Distribuídos: Tempos Ruins de Resposta Percebidos pelos Usuários](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/[Desafio]_-_Sistemas_Distribuídos__Tempos_Ruins_de_Resposta_Percebidos_pelos_Usuários.svg)](https://dev.to/zanfranceschi/desafio-sistemas-distribuidos-tempos-ruins-de-resposta-percebidos-pelos-usuarios-3ic4)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, October 9, 2022 at 7:10:35 PM
+> Last updated: Monday, October 10, 2022 at 12:40:27 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, October 9, 2022 at 7:10:43 PM
+> Last updated: Monday, October 10, 2022 at 12:40:36 AM
 
 > Showing 5 of 30 posts.
 
+[![Version 2.11 release notes | FoalTS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Version_2.11_release_notes___FoalTS.svg)](https://foalts.org/blog/2022/10/09/version-2.11-release-notes)
 [![GitHub - aarushkuk/Turbulence-in-Flocking-Behavior-Versus-Fuel-Injector](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_aarushkuk_Turbulence-in-Flocking-Behavior-Versus-Fuel-Injector.svg)](https://github.com/aarushkuk/Turbulence-in-Flocking-Behavior-Versus-Fuel-Injector)
 [![Ant Design 5.0 Alpha is Ready 🎉！](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Ant_Design_5.0_Alpha_is_Ready_🎉！.svg)](https://medium.com/@1075746765/designant-design-5-0-alpha-is-ready-8409bb5f9b8f)
 [![The Future of the Web is on the Edge](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Future_of_the_Web_is_on_the_Edge.svg)](https://deno.com/blog/the-future-of-web-is-on-the-edge)
 [![Soil & Rock Anchoring Company in India - GKV Infrastructure](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Soil___Rock_Anchoring_Company_in_India_-_GKV_Infrastructure.svg)](https://www.gkvinfrastructure.com/soil-anchoring/)
-[![How to Get Started With a Clean Architecture Template for NodeJS, Ts.ED and TypeScript | HackerNoon](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Get_Started_With_a_Clean_Architecture_Template_for_NodeJS__Ts.ED_and_TypeScript___HackerNoon.svg)](
-https://hackernoon.com/how-to-get-started-with-a-clean-architecture-template-for-nodejs-tsed-and-typescript
-)
 
 
 <!-- post-list:end -->
