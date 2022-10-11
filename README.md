@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, October 10, 2022 at 12:20:48 PM
+> Last updated: Monday, October 10, 2022 at 7:03:21 PM
 
 > Showing 5 of 12 posts.
 
-[![The 3 Short October CSS tips](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_3_Short_October_CSS_tips.svg)](https://dev.to/melnik909/the-3-short-october-css-tips-n2h)
-[![Office Chair Recommendations?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Office_Chair_Recommendations_.svg)](https://dev.to/fischgeek/office-chair-recommendations-3b69)
-[![Gesture-based payments](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Gesture-based_payments.svg)](https://dev.to/stripe/gesture-based-payments-2ipd)
-[![Console.time & 4 other webdev tips you may want to know 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Console.time___4_other_webdev_tips_you_may_want_to_know_🚀.svg)](https://dev.to/mustapha/consoletime-4-other-webdev-tips-you-may-want-to-know-2i5d)
-[![What Is Hacktoberfest?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_Is_Hacktoberfest_.svg)](https://dev.to/mikhailkaran/what-is-hacktoberfest-1k73)
+[![How to eliminate if-else chain, for long life software](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_eliminate_if-else_chain__for_long_life_software.svg)](https://dev.to/smuhammed/how-to-eliminate-if-else-chain-for-long-life-software-3ea3)
+[![Create an AWS Account in 4 easy steps !](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Create_an_AWS_Account_in_4_easy_steps_!.svg)](https://dev.to/mitul3737/create-an-aws-account-in-4-easy-steps--57mf)
+[![Portswigger’s lab write up: Basic clickjacking with CSRF token protection](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Portswigger’s_lab_write_up__Basic_clickjacking_with_CSRF_token_protection.svg)](https://dev.to/christianpaez/portswiggers-lab-write-up-basic-clickjacking-with-csrf-token-protection-194i)
+[![Apaixone-se pela CHARM stack](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Apaixone-se_pela_CHARM_stack.svg)](https://dev.to/grubba/apaixone-se-pela-charm-stack-3jhh)
+[![How to create unique index skipping empty values in Rails + Postgres?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_create_unique_index_skipping_empty_values_in_Rails_+_Postgres_.svg)](https://dev.to/jedrzejurbanski/how-to-create-unique-field-only-if-not-empty-for-rails-7-and-postgres-2i8g)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, October 10, 2022 at 12:20:51 PM
+> Last updated: Monday, October 10, 2022 at 7:03:25 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, October 10, 2022 at 12:21:00 PM
+> Last updated: Monday, October 10, 2022 at 7:03:30 PM
 
 > Showing 5 of 30 posts.
 
+[![Running specific test cases in Jasmine or Mocha - Wisdom Geek](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Running_specific_test_cases_in_Jasmine_or_Mocha_-_Wisdom_Geek.svg)](https://www.wisdomgeek.com/development/web-development/javascript/running-specific-test-cases-in-jasmine/)
+[![GitHub - gchumillas/kitchendoro: A multi-timer app created in React Native.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_gchumillas_kitchendoro__A_multi-timer_app_created_in_React_Native..svg)](https://github.com/gchumillas/kitchendoro)
+[![Creating Computed Properties with Vue's Composition API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Creating_Computed_Properties_with_Vue's_Composition_API.svg)](
+https://masteringjs.io/tutorials/vue/composition-computed
+)
 [![Pardot Vs HubSpot: Which One is Apt for You?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Pardot_Vs_HubSpot__Which_One_is_Apt_for_You_.svg)](https://sptechusa.com/pardot-vs-hubspot/)
 [![API with NestJS #78. Generating statistics using aggregate functions in raw SQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__78._Generating_statistics_using_aggregate_functions_in_raw_SQL.svg)](https://wanago.io/2022/10/10/api-nestjs-aggregate-functions-sql/)
-[![
-Revaalo - Jozef Behr
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Revaalo_-_Jozef_Behr_.svg)](
-https://revaalo.com/user/jozef-behr
-)
-[![Version 2.11 release notes | FoalTS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Version_2.11_release_notes___FoalTS.svg)](https://foalts.org/blog/2022/10/09/version-2.11-release-notes)
-[![GitHub - aarushkuk/Turbulence-in-Flocking-Behavior-Versus-Fuel-Injector](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_aarushkuk_Turbulence-in-Flocking-Behavior-Versus-Fuel-Injector.svg)](https://github.com/aarushkuk/Turbulence-in-Flocking-Behavior-Versus-Fuel-Injector)
 
 
 <!-- post-list:end -->
