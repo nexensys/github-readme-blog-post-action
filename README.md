@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, October 10, 2022 at 7:03:21 PM
+> Last updated: Tuesday, October 11, 2022 at 12:37:14 AM
 
 > Showing 5 of 12 posts.
 
-[![How to eliminate if-else chain, for long life software](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_eliminate_if-else_chain__for_long_life_software.svg)](https://dev.to/smuhammed/how-to-eliminate-if-else-chain-for-long-life-software-3ea3)
-[![Create an AWS Account in 4 easy steps !](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Create_an_AWS_Account_in_4_easy_steps_!.svg)](https://dev.to/mitul3737/create-an-aws-account-in-4-easy-steps--57mf)
-[![Portswigger’s lab write up: Basic clickjacking with CSRF token protection](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Portswigger’s_lab_write_up__Basic_clickjacking_with_CSRF_token_protection.svg)](https://dev.to/christianpaez/portswiggers-lab-write-up-basic-clickjacking-with-csrf-token-protection-194i)
-[![Apaixone-se pela CHARM stack](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Apaixone-se_pela_CHARM_stack.svg)](https://dev.to/grubba/apaixone-se-pela-charm-stack-3jhh)
-[![How to create unique index skipping empty values in Rails + Postgres?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_create_unique_index_skipping_empty_values_in_Rails_+_Postgres_.svg)](https://dev.to/jedrzejurbanski/how-to-create-unique-field-only-if-not-empty-for-rails-7-and-postgres-2i8g)
+[![How to Use SupaBase to Power NextJS web app](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Use_SupaBase_to_Power_NextJS_web_app.svg)](https://dev.to/timhub/how-to-use-supabase-to-power-nextjs-web-app-9e2)
+[![javascript: convert object to query params](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/javascript__convert_object_to_query_params.svg)](https://dev.to/urstrulyvishwak/javascript-convert-object-to-query-params-4pc0)
+[![How to translate a PWA app manifest](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_translate_a_PWA_app_manifest.svg)](https://dev.to/progressier/how-to-translate-a-pwa-app-manifest-2e7i)
+[![Find JavaScript cyber-vulnerabilities for free](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Find_JavaScript_cyber-vulnerabilities_for_free.svg)](https://dev.to/codesec/find-javascript-cyber-vulnerabilities-for-free-35ao)
+[![Navigating React.js with useNavigate](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Navigating_React.js_with_useNavigate.svg)](https://dev.to/ericahashert/navigating-reactjs-with-usenavigate-3hj6)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, October 10, 2022 at 7:03:25 PM
+> Last updated: Tuesday, October 11, 2022 at 12:37:17 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, October 10, 2022 at 7:03:30 PM
+> Last updated: Tuesday, October 11, 2022 at 12:37:21 AM
 
 > Showing 5 of 30 posts.
 
