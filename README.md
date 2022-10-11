@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, October 11, 2022 at 12:37:14 AM
+> Last updated: Tuesday, October 11, 2022 at 6:26:09 AM
 
 > Showing 5 of 12 posts.
 
-[![How to Use SupaBase to Power NextJS web app](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Use_SupaBase_to_Power_NextJS_web_app.svg)](https://dev.to/timhub/how-to-use-supabase-to-power-nextjs-web-app-9e2)
-[![javascript: convert object to query params](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/javascript__convert_object_to_query_params.svg)](https://dev.to/urstrulyvishwak/javascript-convert-object-to-query-params-4pc0)
-[![How to translate a PWA app manifest](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_translate_a_PWA_app_manifest.svg)](https://dev.to/progressier/how-to-translate-a-pwa-app-manifest-2e7i)
-[![Find JavaScript cyber-vulnerabilities for free](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Find_JavaScript_cyber-vulnerabilities_for_free.svg)](https://dev.to/codesec/find-javascript-cyber-vulnerabilities-for-free-35ao)
-[![Navigating React.js with useNavigate](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Navigating_React.js_with_useNavigate.svg)](https://dev.to/ericahashert/navigating-reactjs-with-usenavigate-3hj6)
+[![How to build a sidenav component with Tailwind CSS and Flowbite](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_build_a_sidenav_component_with_Tailwind_CSS_and_Flowbite.svg)](https://dev.to/themesberg/how-to-build-a-sidenav-component-with-tailwind-css-and-flowbite-1lpd)
+[![When Breakpoints don't Break](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/When_Breakpoints_don't_Break.svg)](https://dev.to/codenameone/when-breakpoints-dont-break-5hg4)
+[![Medusa 1.5.0: PriceList Import, Medusa Hackathon, and more!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Medusa_1.5.0__PriceList_Import__Medusa_Hackathon__and_more!.svg)](https://dev.to/medusajs/medusa-142-pricelist-import-medusa-hackathon-and-more-5076)
+[![AWS re:Invent 2022: Know Before You Go](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/AWS_re_Invent_2022__Know_Before_You_Go.svg)](https://dev.to/aws-heroes/aws-reinvent-2022-know-before-you-go-gh6)
+[![Python-tweepy: automating a follow back task using windows scheduler](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Python-tweepy__automating_a_follow_back_task_using_windows_scheduler.svg)](https://dev.to/wachuka_james/python-tweepy-automating-a-follow-back-task-using-windows-scheduler-4fm0)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, October 11, 2022 at 12:37:17 AM
+> Last updated: Tuesday, October 11, 2022 at 6:26:12 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, October 11, 2022 at 12:37:21 AM
+> Last updated: Tuesday, October 11, 2022 at 6:26:15 AM
 
 > Showing 5 of 30 posts.
 
+[![Build a Tic Tac Toe Game in 10 Lines with JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_a_Tic_Tac_Toe_Game_in_10_Lines_with_JavaScript.svg)](https://lyty.dev/blog/tic-tac-toe-game-javascript/)
+[![Mobile App Development Services | Quokka Labs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Mobile_App_Development_Services___Quokka_Labs.svg)](https://quokkalabs.com/mobile-app-development)
 [![Running specific test cases in Jasmine or Mocha - Wisdom Geek](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Running_specific_test_cases_in_Jasmine_or_Mocha_-_Wisdom_Geek.svg)](https://www.wisdomgeek.com/development/web-development/javascript/running-specific-test-cases-in-jasmine/)
 [![GitHub - gchumillas/kitchendoro: A multi-timer app created in React Native.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_gchumillas_kitchendoro__A_multi-timer_app_created_in_React_Native..svg)](https://github.com/gchumillas/kitchendoro)
 [![Creating Computed Properties with Vue's Composition API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Creating_Computed_Properties_with_Vue's_Composition_API.svg)](
 https://masteringjs.io/tutorials/vue/composition-computed
 )
-[![Pardot Vs HubSpot: Which One is Apt for You?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Pardot_Vs_HubSpot__Which_One_is_Apt_for_You_.svg)](https://sptechusa.com/pardot-vs-hubspot/)
-[![API with NestJS #78. Generating statistics using aggregate functions in raw SQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__78._Generating_statistics_using_aggregate_functions_in_raw_SQL.svg)](https://wanago.io/2022/10/10/api-nestjs-aggregate-functions-sql/)
 
 
 <!-- post-list:end -->
