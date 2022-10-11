@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, October 11, 2022 at 6:26:09 AM
+> Last updated: Tuesday, October 11, 2022 at 12:17:13 PM
 
 > Showing 5 of 12 posts.
 
-[![How to build a sidenav component with Tailwind CSS and Flowbite](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_build_a_sidenav_component_with_Tailwind_CSS_and_Flowbite.svg)](https://dev.to/themesberg/how-to-build-a-sidenav-component-with-tailwind-css-and-flowbite-1lpd)
-[![When Breakpoints don't Break](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/When_Breakpoints_don't_Break.svg)](https://dev.to/codenameone/when-breakpoints-dont-break-5hg4)
-[![Medusa 1.5.0: PriceList Import, Medusa Hackathon, and more!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Medusa_1.5.0__PriceList_Import__Medusa_Hackathon__and_more!.svg)](https://dev.to/medusajs/medusa-142-pricelist-import-medusa-hackathon-and-more-5076)
-[![AWS re:Invent 2022: Know Before You Go](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/AWS_re_Invent_2022__Know_Before_You_Go.svg)](https://dev.to/aws-heroes/aws-reinvent-2022-know-before-you-go-gh6)
-[![Python-tweepy: automating a follow back task using windows scheduler](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Python-tweepy__automating_a_follow_back_task_using_windows_scheduler.svg)](https://dev.to/wachuka_james/python-tweepy-automating-a-follow-back-task-using-windows-scheduler-4fm0)
+[![My first conference!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/My_first_conference!.svg)](https://dev.to/abhighyaa/my-first-conference-2omi)
+[![Git Internals: Rewriting History and Overcoming Gitsasters](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Git_Internals__Rewriting_History_and_Overcoming_Gitsasters.svg)](https://dev.to/omerr/git-internals-rewriting-history-and-overcoming-gitsasters-klj)
+[![Axie Infinity clone script to make revenue (top10 features)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Axie_Infinity_clone_script_to_make_revenue_(top10_features).svg)](https://dev.to/armandosanchez/axie-infinity-clone-script-to-make-revenue-top10-features-42bg)
+[![Rarible clone script for business (top advantages + features)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Rarible_clone_script_for_business_(top_advantages_+_features).svg)](https://dev.to/tylergraham/rarible-clone-script-for-business-top-advantages-features-1k17)
+[![Hacktoberfest 2022 🎉](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Hacktoberfest_2022_🎉.svg)](https://dev.to/lancelot03/hacktoberfest-2022-1h69)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, October 11, 2022 at 6:26:12 AM
+> Last updated: Tuesday, October 11, 2022 at 12:17:16 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, October 11, 2022 at 6:26:15 AM
+> Last updated: Tuesday, October 11, 2022 at 12:17:21 PM
 
 > Showing 5 of 30 posts.
 
 [![Build a Tic Tac Toe Game in 10 Lines with JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_a_Tic_Tac_Toe_Game_in_10_Lines_with_JavaScript.svg)](https://lyty.dev/blog/tic-tac-toe-game-javascript/)
-[![Mobile App Development Services | Quokka Labs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Mobile_App_Development_Services___Quokka_Labs.svg)](https://quokkalabs.com/mobile-app-development)
 [![Running specific test cases in Jasmine or Mocha - Wisdom Geek](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Running_specific_test_cases_in_Jasmine_or_Mocha_-_Wisdom_Geek.svg)](https://www.wisdomgeek.com/development/web-development/javascript/running-specific-test-cases-in-jasmine/)
 [![GitHub - gchumillas/kitchendoro: A multi-timer app created in React Native.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_gchumillas_kitchendoro__A_multi-timer_app_created_in_React_Native..svg)](https://github.com/gchumillas/kitchendoro)
 [![Creating Computed Properties with Vue's Composition API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Creating_Computed_Properties_with_Vue's_Composition_API.svg)](
 https://masteringjs.io/tutorials/vue/composition-computed
 )
+[![API with NestJS #78. Generating statistics using aggregate functions in raw SQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__78._Generating_statistics_using_aggregate_functions_in_raw_SQL.svg)](https://wanago.io/2022/10/10/api-nestjs-aggregate-functions-sql/)
 
 
 <!-- post-list:end -->
