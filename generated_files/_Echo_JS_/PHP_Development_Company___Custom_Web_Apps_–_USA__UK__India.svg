@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 610 110" width="600" height="100" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <style>
+      .title {
+        font-size: 1.5em;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        white-space: nowrap;
+      }
+      .description {
+        font-size: 0.75em;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+      }
+      .text {
+        text-align: start;
+        padding: 10px;
+        height: calc(100% - 20px);
+        margin-left: 100px;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+        color: black;
+      }
+           .date {
+        font-size: 0.5em;
+        opacity: 0.5;
+        text-align: end;
+        position: absolute;
+        bottom: 0;
+        right: 10px;
+        color: black;
+      }
+      .image {
+        height: 100px;
+        width: 100px;
+        background-image: url("data:image/png;base64,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");
+        background-size: cover;
+        position: absolute;
+        top: 0;
+        left: 0;
+        border-radius: 10px;
+        background-position: center;
+      }
+      .main {
+        fill: white;
+      }
+      .data {
+        opacity: 0.75;
+        text-align: start;
+        position: absolute;
+        bottom: 0;
+        padding-bottom: 5px;
+        left: 110px;
+        color: black;
+        max-width: 400px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+      }
+      .author {
+        opacity: 0.75;
+        font-size: 0.5em;
+      }
+      .category {
+        background-color: rgba(0, 0, 0, 0.25);
+        border-radius: 0.25em;
+        padding: 0.125em 0.25em;
+        font-size: 0.75em;
+        color: rgba(0, 0, 0, 0.8);
+      }
+    </style>
+  </defs>
+  <g class="main">
+    <rect class="content" width="600" height="100" stroke="rgba(0, 0, 0, 0.5)" x="5" y="5" rx="10" />
+    <foreignObject width="600" height="100" x="5" y="5">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
+        <div class="image" />
+<div class="text">
+          <div class="title">PHP&#0032;Development&#0032;Company&#0032;&#0124;&#0032;Custom&#0032;Web&#0032;Apps&#0032;–&#0032;USA&#0044;&#0032;UK&#0044;&#0032;India</div>
+          <div class="description">Hire&#0032;PHP&#0032;development&#0032;company&#0032;for&#0032;custom&#0032;PHP&#0032;website&#0032;application&#0032;development&#0032;services&#0046;&#0032;Best&#0032;PHP&#0032;web&#0032;application&#0032;development&#0032;services&#0032;at&#0032;a&#0032;lowest&#0032;cost&#0046;&#0032;Get&#0032;a&#0032;free&#0032;quote&#0032;to&#0032;outsource&#0032;your&#0032;project&#0046;</div>
+          <div class="date"></div>
+          <div class="data">
+            <span class="author"></span> 
+          </div>
+        </div>
+      </div>
+    </foreignObject>
+  </g>
+</svg>

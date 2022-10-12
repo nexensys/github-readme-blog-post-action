@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, October 12, 2022 at 12:25:22 AM
+> Last updated: Wednesday, October 12, 2022 at 6:24:57 AM
 
 > Showing 5 of 12 posts.
 
-[![Concept of Containers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Concept_of_Containers.svg)](https://dev.to/kitarp29/concept-of-containers-4oc)
-[![Weekly web development resources #119](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Weekly_web_development_resources__119.svg)](https://dev.to/vincenius/weekly-web-development-resources-119-180e)
-[![Developing Full Stack Mobile App with AWS Amplify Studio](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Developing_Full_Stack_Mobile_App_with_AWS_Amplify_Studio.svg)](https://dev.to/quokkalabs/developing-full-stack-mobile-app-with-aws-amplify-studio-2600)
-[![Amazon Elastic File System](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Amazon_Elastic_File_System.svg)](https://dev.to/aws-builders/amazon-elastic-file-system-2fpi)
-[![Re-posting For Better Reach : You are front-end developer? This is for you, Sample Data API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Re-posting_For_Better_Reach___You_are_front-end_developer__This_is_for_you__Sample_Data_API.svg)](https://dev.to/devsimc/re-posting-for-better-reach-you-are-front-end-developer-this-is-for-you-sample-data-api-plk)
+[![2023'de Kullanabileceğiniz En İyi Ücretsiz VPN Servisleri](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/2023'de_Kullanabileceğiniz_En_İyi_Ücretsiz_VPN_Servisleri.svg)](https://dev.to/vpnprogramlari/2023de-kullanabileceginiz-en-iyi-ucretsiz-vpn-servisleri-3h23)
+[![Streaming messages from Stripe to Kafka](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Streaming_messages_from_Stripe_to_Kafka.svg)](https://dev.to/buildable/streaming-messages-from-stripe-to-kafka-3d9a)
+[![How to Easily Set Up Advanced Analytics for Your Ecommerce Storefront](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Easily_Set_Up_Advanced_Analytics_for_Your_Ecommerce_Storefront.svg)](https://dev.to/medusajs/how-to-easily-set-up-advanced-analytics-for-your-ecommerce-storefront-3j36)
+[![App Recommendations for a Productive iPhone User!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/App_Recommendations_for_a_Productive_iPhone_User!.svg)](https://dev.to/stephanreynolds/app-recommendations-for-a-productive-iphone-user-16e9)
+[![You Don't Need To Learn TailwindCSS To Use It](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/You_Don't_Need_To_Learn_TailwindCSS_To_Use_It.svg)](https://dev.to/elijahtrillionz/you-dont-need-to-learn-tailwindcss-to-use-it-3f0d)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, October 12, 2022 at 12:25:25 AM
+> Last updated: Wednesday, October 12, 2022 at 6:25:01 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, October 12, 2022 at 12:25:30 AM
+> Last updated: Wednesday, October 12, 2022 at 6:25:06 AM
 
 > Showing 5 of 30 posts.
 
+[![PHP Development Company | Custom Web Apps – USA, UK, India](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/PHP_Development_Company___Custom_Web_Apps_–_USA__UK__India.svg)](https://www.imensosoftware.com/technologies/php-application-development)
+[![Absolute paths imports in NextJs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Absolute_paths_imports_in_NextJs.svg)](http://www.js-craft.io/blog/absolute-paths-imports-in-nextjs/)
 [![Build a Tic Tac Toe Game in 10 Lines with JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_a_Tic_Tac_Toe_Game_in_10_Lines_with_JavaScript.svg)](https://lyty.dev/blog/tic-tac-toe-game-javascript/)
 [![Running specific test cases in Jasmine or Mocha - Wisdom Geek](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Running_specific_test_cases_in_Jasmine_or_Mocha_-_Wisdom_Geek.svg)](https://www.wisdomgeek.com/development/web-development/javascript/running-specific-test-cases-in-jasmine/)
 [![GitHub - gchumillas/kitchendoro: A multi-timer app created in React Native.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_gchumillas_kitchendoro__A_multi-timer_app_created_in_React_Native..svg)](https://github.com/gchumillas/kitchendoro)
-[![Creating Computed Properties with Vue's Composition API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Creating_Computed_Properties_with_Vue's_Composition_API.svg)](
-https://masteringjs.io/tutorials/vue/composition-computed
-)
-[![API with NestJS #78. Generating statistics using aggregate functions in raw SQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__78._Generating_statistics_using_aggregate_functions_in_raw_SQL.svg)](https://wanago.io/2022/10/10/api-nestjs-aggregate-functions-sql/)
 
 
 <!-- post-list:end -->
