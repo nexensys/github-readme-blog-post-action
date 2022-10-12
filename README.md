@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, October 11, 2022 at 12:17:13 PM
+> Last updated: Tuesday, October 11, 2022 at 7:17:34 PM
 
 > Showing 5 of 12 posts.
 
-[![My first conference!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/My_first_conference!.svg)](https://dev.to/abhighyaa/my-first-conference-2omi)
-[![Git Internals: Rewriting History and Overcoming Gitsasters](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Git_Internals__Rewriting_History_and_Overcoming_Gitsasters.svg)](https://dev.to/omerr/git-internals-rewriting-history-and-overcoming-gitsasters-klj)
-[![Axie Infinity clone script to make revenue (top10 features)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Axie_Infinity_clone_script_to_make_revenue_(top10_features).svg)](https://dev.to/armandosanchez/axie-infinity-clone-script-to-make-revenue-top10-features-42bg)
-[![Rarible clone script for business (top advantages + features)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Rarible_clone_script_for_business_(top_advantages_+_features).svg)](https://dev.to/tylergraham/rarible-clone-script-for-business-top-advantages-features-1k17)
-[![Hacktoberfest 2022 🎉](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Hacktoberfest_2022_🎉.svg)](https://dev.to/lancelot03/hacktoberfest-2022-1h69)
+[![Cat Trophy Kingdom: Building a video game with Airkit’s low-code platform](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Cat_Trophy_Kingdom__Building_a_video_game_with_Airkit’s_low-code_platform.svg)](https://dev.to/airkit/cat-trophy-kingdom-building-a-video-game-with-airkits-low-code-platform-5dlh)
+[![What is a closure? And why this matters ? - Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_a_closure__And_why_this_matters___-_Javascript.svg)](https://dev.to/vcctm/what-is-a-closure-and-why-this-matters-javascript-386p)
+[![The 7 Most Popular DEV Posts from the Past Week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_7_Most_Popular_DEV_Posts_from_the_Past_Week.svg)](https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-3knj)
+[![Create-react-app or Vite ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Create-react-app_or_Vite__.svg)](https://dev.to/leopold/create-react-app-or-vite--33d9)
+[![Supportive Is: an elegant utility to check types of values in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Supportive_Is__an_elegant_utility_to_check_types_of_values_in_JavaScript.svg)](https://dev.to/hassanzohdy/supportive-is-an-elegant-utility-to-check-types-of-values-in-javascript-1b3e)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, October 11, 2022 at 12:17:16 PM
+> Last updated: Tuesday, October 11, 2022 at 7:17:38 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, October 11, 2022 at 12:17:21 PM
+> Last updated: Tuesday, October 11, 2022 at 7:17:43 PM
 
 > Showing 5 of 30 posts.
 
