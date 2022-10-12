@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, October 11, 2022 at 7:17:34 PM
+> Last updated: Wednesday, October 12, 2022 at 12:25:22 AM
 
 > Showing 5 of 12 posts.
 
-[![Cat Trophy Kingdom: Building a video game with Airkit’s low-code platform](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Cat_Trophy_Kingdom__Building_a_video_game_with_Airkit’s_low-code_platform.svg)](https://dev.to/airkit/cat-trophy-kingdom-building-a-video-game-with-airkits-low-code-platform-5dlh)
-[![What is a closure? And why this matters ? - Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_a_closure__And_why_this_matters___-_Javascript.svg)](https://dev.to/vcctm/what-is-a-closure-and-why-this-matters-javascript-386p)
-[![The 7 Most Popular DEV Posts from the Past Week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_7_Most_Popular_DEV_Posts_from_the_Past_Week.svg)](https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-3knj)
-[![Create-react-app or Vite ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Create-react-app_or_Vite__.svg)](https://dev.to/leopold/create-react-app-or-vite--33d9)
-[![Supportive Is: an elegant utility to check types of values in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Supportive_Is__an_elegant_utility_to_check_types_of_values_in_JavaScript.svg)](https://dev.to/hassanzohdy/supportive-is-an-elegant-utility-to-check-types-of-values-in-javascript-1b3e)
+[![Concept of Containers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Concept_of_Containers.svg)](https://dev.to/kitarp29/concept-of-containers-4oc)
+[![Weekly web development resources #119](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Weekly_web_development_resources__119.svg)](https://dev.to/vincenius/weekly-web-development-resources-119-180e)
+[![Developing Full Stack Mobile App with AWS Amplify Studio](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Developing_Full_Stack_Mobile_App_with_AWS_Amplify_Studio.svg)](https://dev.to/quokkalabs/developing-full-stack-mobile-app-with-aws-amplify-studio-2600)
+[![Amazon Elastic File System](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Amazon_Elastic_File_System.svg)](https://dev.to/aws-builders/amazon-elastic-file-system-2fpi)
+[![Re-posting For Better Reach : You are front-end developer? This is for you, Sample Data API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Re-posting_For_Better_Reach___You_are_front-end_developer__This_is_for_you__Sample_Data_API.svg)](https://dev.to/devsimc/re-posting-for-better-reach-you-are-front-end-developer-this-is-for-you-sample-data-api-plk)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, October 11, 2022 at 7:17:38 PM
+> Last updated: Wednesday, October 12, 2022 at 12:25:25 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, October 11, 2022 at 7:17:43 PM
+> Last updated: Wednesday, October 12, 2022 at 12:25:30 AM
 
 > Showing 5 of 30 posts.
 
