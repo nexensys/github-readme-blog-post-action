@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, October 12, 2022 at 6:24:57 AM
+> Last updated: Wednesday, October 12, 2022 at 12:20:10 PM
 
 > Showing 5 of 12 posts.
 
-[![2023'de Kullanabileceğiniz En İyi Ücretsiz VPN Servisleri](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/2023'de_Kullanabileceğiniz_En_İyi_Ücretsiz_VPN_Servisleri.svg)](https://dev.to/vpnprogramlari/2023de-kullanabileceginiz-en-iyi-ucretsiz-vpn-servisleri-3h23)
-[![Streaming messages from Stripe to Kafka](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Streaming_messages_from_Stripe_to_Kafka.svg)](https://dev.to/buildable/streaming-messages-from-stripe-to-kafka-3d9a)
-[![How to Easily Set Up Advanced Analytics for Your Ecommerce Storefront](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Easily_Set_Up_Advanced_Analytics_for_Your_Ecommerce_Storefront.svg)](https://dev.to/medusajs/how-to-easily-set-up-advanced-analytics-for-your-ecommerce-storefront-3j36)
-[![App Recommendations for a Productive iPhone User!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/App_Recommendations_for_a_Productive_iPhone_User!.svg)](https://dev.to/stephanreynolds/app-recommendations-for-a-productive-iphone-user-16e9)
-[![You Don't Need To Learn TailwindCSS To Use It](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/You_Don't_Need_To_Learn_TailwindCSS_To_Use_It.svg)](https://dev.to/elijahtrillionz/you-dont-need-to-learn-tailwindcss-to-use-it-3f0d)
+[![Setting the Default Node.JS version with nvm](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Setting_the_Default_Node.JS_version_with_nvm.svg)](https://dev.to/smpnjn/setting-the-default-nodejs-version-with-nvm-54c3)
+[![Different test scopes in Rust](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Different_test_scopes_in_Rust.svg)](https://dev.to/nfrankel/different-test-scopes-in-rust-41if)
+[![Ruby on Rails Naming Conventions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Ruby_on_Rails_Naming_Conventions.svg)](https://dev.to/meganmoulos/ruby-on-rails-naming-conventions-885)
+[![5 Design Rules everyone should know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_Design_Rules_everyone_should_know.svg)](https://dev.to/irreverentmike/5-design-rules-everyone-should-know-jmh)
+[![How to contribute to Visual Studio Code on GitHub](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_contribute_to_Visual_Studio_Code_on_GitHub.svg)](https://dev.to/this-is-learning/how-to-contribute-to-visual-studio-code-on-github-4b6c)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, October 12, 2022 at 6:25:01 AM
+> Last updated: Wednesday, October 12, 2022 at 12:20:13 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, October 12, 2022 at 6:25:06 AM
+> Last updated: Wednesday, October 12, 2022 at 12:20:18 PM
 
 > Showing 5 of 30 posts.
 
