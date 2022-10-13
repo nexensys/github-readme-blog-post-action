@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 610 110" width="600" height="100" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <style>
+      .title {
+        font-size: 1.5em;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        white-space: nowrap;
+      }
+      .description {
+        font-size: 0.75em;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+      }
+      .text {
+        text-align: start;
+        padding: 10px;
+        height: calc(100% - 20px);
+        margin-left: 100px;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+        color: black;
+      }
+           .date {
+        font-size: 0.5em;
+        opacity: 0.5;
+        text-align: end;
+        position: absolute;
+        bottom: 0;
+        right: 10px;
+        color: black;
+      }
+      .image {
+        height: 100px;
+        width: 100px;
+        background-image: url("data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAAkAEQDASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAEEBQMCB//EADMQAAEDAgMFBwMDBQAAAAAAAAECAxEABAUSIRMUFTFBIlFUgZKh0WFxkSRi4UJSU7Hx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/APuGIPPNA7BagvISlAYUsKPSSBpWWMRxfJO7qCgQMuyVqO8HL/uta8RcqdTsc4SE65VASfzUbrdKSJuoMcgDpp96DIOJ40EIItFlRHaTkOh9OtSMSxgid3UnQ6FpR10/b9/xWqbO7KR+tIUOsHX3qd0upB3w95EH5oMlOJ4woQbVaFQdS2SJ6chOtOJ4wAk7qsyNQGzofTr0rXNrc/03R7xM/T61G53UEC8PKBofmgyHMSxlKxs7VS0dZbUDyH7Y7x5fWu1tiGIurh9p63Tr2tgV+wFXnmLltlazelKUgknKSQOfQ1QGJsRPE3DmEibdzp5fTlQbbCiphClKKiRzKCgnyPKlSwczDZCiqUg5iIn80oKOIuutvJyLUkBMkJnXWqSbhw5Rt3e6Tm8j/Fad21cOOoLKWymNSsAke1cBb3nVq38gNfagp7w6Sg7Z0aa9o6d00L7yoUp5wSeijEfmrgtrr/FbiemUae1DbXZCRs2Of9idKCoq7WkA7ZwiI5q51KV3LiSEOumQdRmMf9+asi3vMpBat5PXKPivaGr1uQ2llAPRIHxQVkrugAmXyQREhWp+56V5Su6gdq4MAgylc68jVxIxMAzsie6f4rq0m9Uk7V1KD0hINB3Ynd28xJOUSTzpXtIISAoyY1MRNKDi9Z2z687rDa1REqTNc+G2XhWvTSlA4bZeFa9NOG2XhWvTSlA4bZeFa9NOG2XhWvTSlA4bZeFa9NOG2XhWvSKUoLSEpQgJSAEgQAOgpSlB/9k=");
+        background-size: cover;
+        position: absolute;
+        top: 0;
+        left: 0;
+        border-radius: 10px;
+        background-position: center;
+      }
+      .main {
+        fill: white;
+      }
+      .data {
+        opacity: 0.75;
+        text-align: start;
+        position: absolute;
+        bottom: 0;
+        padding-bottom: 5px;
+        left: 110px;
+        color: black;
+        max-width: 400px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+      }
+      .author {
+        opacity: 0.75;
+        font-size: 0.5em;
+      }
+      .category {
+        background-color: rgba(0, 0, 0, 0.25);
+        border-radius: 0.25em;
+        padding: 0.125em 0.25em;
+        font-size: 0.75em;
+        color: rgba(0, 0, 0, 0.8);
+      }
+    </style>
+  </defs>
+  <g class="main">
+    <rect class="content" width="600" height="100" stroke="rgba(0, 0, 0, 0.5)" x="5" y="5" rx="10" />
+    <foreignObject width="600" height="100" x="5" y="5">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
+        <div class="image" />
+<div class="text">
+          <div class="title">Peter&#0032;Virdee&#0032;Initiated&#0032;To&#0032;Educate&#0032;The&#0032;Future&#0032;of&#0032;Bibangwa&#0032;&#0045;&#0032;PDF&#0032;Free&#0032;Download</div>
+          <div class="description">Peter&#0032;Virdee&#0032;Initiated&#0032;To&#0032;Educate&#0032;The&#0032;Future&#0032;of&#0032;Bibangwa&#0032;I&#0032;prefer&#0032;to&#0032;say&#0032;we&#0032;because&#0032;I&#0032;haven&#0032;t&#0032;achieved&#0032;any&#0032;of&#0032;this&#0032;myself&#0046;&#0032;It&#0032;s&#0032;about&#0032;teamwork&#0044;&#0032;my&#0032;staff&#0044;&#0032;partners&#0044;&#0032;and&#0032;of&#0032;course&#0044;&#0032;the&#0032;role&#0032;that&#0032;God&#0032;plays</div>
+          <div class="date"></div>
+          <div class="data">
+            <span class="author"></span> 
+          </div>
+        </div>
+      </div>
+    </foreignObject>
+  </g>
+</svg>

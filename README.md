@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, October 13, 2022 at 12:37:03 AM
+> Last updated: Thursday, October 13, 2022 at 6:24:35 AM
 
 > Showing 5 of 12 posts.
 
-[![Deploy containerized workloads with Amazon Lightsail](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Deploy_containerized_workloads_with_Amazon_Lightsail.svg)](https://dev.to/aws-builders/deploy-containerized-workloads-with-amazon-lightsail-m05)
-[![A Complete Beginner’s Guide to Big O Notation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_Complete_Beginner’s_Guide_to_Big_O_Notation.svg)](https://dev.to/jstats/a-complete-beginners-guide-to-big-o-notation-56lh)
-[![Sign In with Solana - Authenticate Users with their Phantom Wallet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Sign_In_with_Solana_-_Authenticate_Users_with_their_Phantom_Wallet.svg)](https://dev.to/thirdweb/sign-in-with-solana-authenticate-users-with-their-phantom-wallet-4b21)
-[![Should we hire junior developer advocates?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Should_we_hire_junior_developer_advocates_.svg)](https://dev.to/blackgirlbytes/should-we-hire-junior-developer-advocates-13m2)
-[![The HTML 5 <Dialog /> Tag: The easiest way to create modal.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_HTML_5__Dialog____Tag__The_easiest_way_to_create_modal..svg)](https://dev.to/frantchessico/the-html-5-tag-the-easiest-way-to-do-modal-8na)
+[![An Open Source Observability Platform | SigNoz](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/An_Open_Source_Observability_Platform___SigNoz.svg)](https://dev.to/ankit01oss/an-open-source-observability-platform-signoz-43jd)
+[![Awesome tools for Coding Practice](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Awesome_tools_for_Coding_Practice.svg)](https://dev.to/surajondev/awesome-tools-for-coding-practice-4l49)
+[![How I built a live chat with my Ecommerce Store Using Medusa and Rocket.Chat](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_I_built_a_live_chat_with_my_Ecommerce_Store_Using_Medusa_and_Rocket.Chat.svg)](https://dev.to/medusajs/how-i-built-a-live-chat-with-my-ecommerce-store-using-medusa-and-rocketchat-21ig)
+[![پکیج آموزش تولید محتوا متنی](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/پکیج_آموزش_تولید_محتوا_متنی.svg)](https://dev.to/sanazzoghi/pkhyj-amwzsh-twlyd-mhtw-mtny-108i)
+[![5 more advanced GD examples to manipulate images with PHP](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_more_advanced_GD_examples_to_manipulate_images_with_PHP.svg)](https://dev.to/nonunicorn/5-more-advanced-gd-examples-to-manipulate-images-with-php-62i)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, October 13, 2022 at 12:37:07 AM
+> Last updated: Thursday, October 13, 2022 at 6:24:39 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, October 13, 2022 at 12:37:12 AM
+> Last updated: Thursday, October 13, 2022 at 6:24:46 AM
 
 > Showing 5 of 30 posts.
 
+[![Peter Virdee Initiated To Educate The Future of Bibangwa - PDF Free Download](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Peter_Virdee_Initiated_To_Educate_The_Future_of_Bibangwa_-_PDF_Free_Download.svg)](https://docplayer.net/230235166-Peter-virdee-initiated-to-educate-the-future-of-bibangwa.html)
 [![Adding IPFS to my JavaScript OS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Adding_IPFS_to_my_JavaScript_OS.svg)](https://dev.to/dustinbrett/adding-ipfs-to-my-javascript-os-14ag)
 [![Absolute paths imports in NextJs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Absolute_paths_imports_in_NextJs.svg)](http://www.js-craft.io/blog/absolute-paths-imports-in-nextjs/)
 [![Build a Tic Tac Toe Game in 10 Lines with JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_a_Tic_Tac_Toe_Game_in_10_Lines_with_JavaScript.svg)](https://lyty.dev/blog/tic-tac-toe-game-javascript/)
 [![Running specific test cases in Jasmine or Mocha - Wisdom Geek](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Running_specific_test_cases_in_Jasmine_or_Mocha_-_Wisdom_Geek.svg)](https://www.wisdomgeek.com/development/web-development/javascript/running-specific-test-cases-in-jasmine/)
-[![GitHub - gchumillas/kitchendoro: A multi-timer app created in React Native.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_gchumillas_kitchendoro__A_multi-timer_app_created_in_React_Native..svg)](https://github.com/gchumillas/kitchendoro)
 
 
 <!-- post-list:end -->
