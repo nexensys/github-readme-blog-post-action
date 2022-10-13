@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, October 12, 2022 at 12:20:10 PM
+> Last updated: Wednesday, October 12, 2022 at 7:09:31 PM
 
 > Showing 5 of 12 posts.
 
-[![Setting the Default Node.JS version with nvm](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Setting_the_Default_Node.JS_version_with_nvm.svg)](https://dev.to/smpnjn/setting-the-default-nodejs-version-with-nvm-54c3)
-[![Different test scopes in Rust](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Different_test_scopes_in_Rust.svg)](https://dev.to/nfrankel/different-test-scopes-in-rust-41if)
-[![Ruby on Rails Naming Conventions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Ruby_on_Rails_Naming_Conventions.svg)](https://dev.to/meganmoulos/ruby-on-rails-naming-conventions-885)
-[![5 Design Rules everyone should know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_Design_Rules_everyone_should_know.svg)](https://dev.to/irreverentmike/5-design-rules-everyone-should-know-jmh)
-[![How to contribute to Visual Studio Code on GitHub](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_contribute_to_Visual_Studio_Code_on_GitHub.svg)](https://dev.to/this-is-learning/how-to-contribute-to-visual-studio-code-on-github-4b6c)
+[![Create useful noise patterns with Academy award winning Ken Perlin 🏆🎲](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Create_useful_noise_patterns_with_Academy_award_winning_Ken_Perlin_🏆🎲.svg)](https://dev.to/thormeier/create-useful-noise-patterns-with-academy-award-winning-ken-perlin-3fc6)
+[![What game are you most proud of developing and why?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_game_are_you_most_proud_of_developing_and_why_.svg)](https://dev.to/saaaa_/what-game-are-you-most-proud-of-developing-and-why-a0f)
+[![Transporting your Components Anywhere with React Portals](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Transporting_your_Components_Anywhere_with_React_Portals.svg)](https://dev.to/smpnjn/transporting-your-components-anywhere-with-react-portals-6li)
+[![How Rust can help you write safer and more reliable code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_Rust_can_help_you_write_safer_and_more_reliable_code.svg)](https://dev.to/roy8/how-rust-can-help-you-write-safer-and-more-reliable-code-161d)
+[![Let's help each other find good horror movies!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Let's_help_each_other_find_good_horror_movies!.svg)](https://dev.to/michaeltharrington/lets-help-each-other-find-good-horror-movies-2cgi)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, October 12, 2022 at 12:20:13 PM
+> Last updated: Wednesday, October 12, 2022 at 7:09:35 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, October 12, 2022 at 12:20:18 PM
+> Last updated: Wednesday, October 12, 2022 at 7:09:40 PM
 
 > Showing 5 of 30 posts.
 
-[![PHP Development Company | Custom Web Apps – USA, UK, India](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/PHP_Development_Company___Custom_Web_Apps_–_USA__UK__India.svg)](https://www.imensosoftware.com/technologies/php-application-development)
 [![Absolute paths imports in NextJs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Absolute_paths_imports_in_NextJs.svg)](http://www.js-craft.io/blog/absolute-paths-imports-in-nextjs/)
 [![Build a Tic Tac Toe Game in 10 Lines with JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_a_Tic_Tac_Toe_Game_in_10_Lines_with_JavaScript.svg)](https://lyty.dev/blog/tic-tac-toe-game-javascript/)
 [![Running specific test cases in Jasmine or Mocha - Wisdom Geek](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Running_specific_test_cases_in_Jasmine_or_Mocha_-_Wisdom_Geek.svg)](https://www.wisdomgeek.com/development/web-development/javascript/running-specific-test-cases-in-jasmine/)
 [![GitHub - gchumillas/kitchendoro: A multi-timer app created in React Native.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_gchumillas_kitchendoro__A_multi-timer_app_created_in_React_Native..svg)](https://github.com/gchumillas/kitchendoro)
+[![Creating Computed Properties with Vue's Composition API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Creating_Computed_Properties_with_Vue's_Composition_API.svg)](
+https://masteringjs.io/tutorials/vue/composition-computed
+)
 
 
 <!-- post-list:end -->
