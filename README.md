@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, October 12, 2022 at 7:09:31 PM
+> Last updated: Thursday, October 13, 2022 at 12:37:03 AM
 
 > Showing 5 of 12 posts.
 
-[![Create useful noise patterns with Academy award winning Ken Perlin 🏆🎲](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Create_useful_noise_patterns_with_Academy_award_winning_Ken_Perlin_🏆🎲.svg)](https://dev.to/thormeier/create-useful-noise-patterns-with-academy-award-winning-ken-perlin-3fc6)
-[![What game are you most proud of developing and why?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_game_are_you_most_proud_of_developing_and_why_.svg)](https://dev.to/saaaa_/what-game-are-you-most-proud-of-developing-and-why-a0f)
-[![Transporting your Components Anywhere with React Portals](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Transporting_your_Components_Anywhere_with_React_Portals.svg)](https://dev.to/smpnjn/transporting-your-components-anywhere-with-react-portals-6li)
-[![How Rust can help you write safer and more reliable code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_Rust_can_help_you_write_safer_and_more_reliable_code.svg)](https://dev.to/roy8/how-rust-can-help-you-write-safer-and-more-reliable-code-161d)
-[![Let's help each other find good horror movies!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Let's_help_each_other_find_good_horror_movies!.svg)](https://dev.to/michaeltharrington/lets-help-each-other-find-good-horror-movies-2cgi)
+[![Deploy containerized workloads with Amazon Lightsail](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Deploy_containerized_workloads_with_Amazon_Lightsail.svg)](https://dev.to/aws-builders/deploy-containerized-workloads-with-amazon-lightsail-m05)
+[![A Complete Beginner’s Guide to Big O Notation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_Complete_Beginner’s_Guide_to_Big_O_Notation.svg)](https://dev.to/jstats/a-complete-beginners-guide-to-big-o-notation-56lh)
+[![Sign In with Solana - Authenticate Users with their Phantom Wallet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Sign_In_with_Solana_-_Authenticate_Users_with_their_Phantom_Wallet.svg)](https://dev.to/thirdweb/sign-in-with-solana-authenticate-users-with-their-phantom-wallet-4b21)
+[![Should we hire junior developer advocates?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Should_we_hire_junior_developer_advocates_.svg)](https://dev.to/blackgirlbytes/should-we-hire-junior-developer-advocates-13m2)
+[![The HTML 5 <Dialog /> Tag: The easiest way to create modal.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_HTML_5__Dialog____Tag__The_easiest_way_to_create_modal..svg)](https://dev.to/frantchessico/the-html-5-tag-the-easiest-way-to-do-modal-8na)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, October 12, 2022 at 7:09:35 PM
+> Last updated: Thursday, October 13, 2022 at 12:37:07 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, October 12, 2022 at 7:09:40 PM
+> Last updated: Thursday, October 13, 2022 at 12:37:12 AM
 
 > Showing 5 of 30 posts.
 
+[![Adding IPFS to my JavaScript OS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Adding_IPFS_to_my_JavaScript_OS.svg)](https://dev.to/dustinbrett/adding-ipfs-to-my-javascript-os-14ag)
 [![Absolute paths imports in NextJs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Absolute_paths_imports_in_NextJs.svg)](http://www.js-craft.io/blog/absolute-paths-imports-in-nextjs/)
 [![Build a Tic Tac Toe Game in 10 Lines with JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_a_Tic_Tac_Toe_Game_in_10_Lines_with_JavaScript.svg)](https://lyty.dev/blog/tic-tac-toe-game-javascript/)
 [![Running specific test cases in Jasmine or Mocha - Wisdom Geek](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Running_specific_test_cases_in_Jasmine_or_Mocha_-_Wisdom_Geek.svg)](https://www.wisdomgeek.com/development/web-development/javascript/running-specific-test-cases-in-jasmine/)
 [![GitHub - gchumillas/kitchendoro: A multi-timer app created in React Native.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_gchumillas_kitchendoro__A_multi-timer_app_created_in_React_Native..svg)](https://github.com/gchumillas/kitchendoro)
-[![Creating Computed Properties with Vue's Composition API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Creating_Computed_Properties_with_Vue's_Composition_API.svg)](
-https://masteringjs.io/tutorials/vue/composition-computed
-)
 
 
 <!-- post-list:end -->
