@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, October 13, 2022 at 7:17:32 PM
+> Last updated: Friday, October 14, 2022 at 12:43:09 AM
 
 > Showing 5 of 12 posts.
 
-[![🤖 Latest IT Opportunities - Week #42 of 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/🤖_Latest_IT_Opportunities_-_Week__42_of_2022.svg)](https://dev.to/shman/latest-it-opportunities-week-42-of-2022-20oh)
-[![Building a free component library for react developers.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Building_a_free_component_library_for_react_developers..svg)](https://dev.to/alohe/building-a-free-component-library-for-react-developers-3pdp)
-[![Where Did All The Focus Time Go? Dissecting 1.5 Million Meetings](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Where_Did_All_The_Focus_Time_Go__Dissecting_1.5_Million_Meetings.svg)](https://dev.to/linearb/where-did-all-the-focus-time-go-dissecting-15-million-meetings-1658)
-[![A verdade sobre os bootcamps de programação](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_verdade_sobre_os_bootcamps_de_programação.svg)](https://dev.to/devdoido/a-verdade-sobre-os-bootcamps-de-programacao-3pci)
-[![The Essential Guide to Javascript Sets](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Essential_Guide_to_Javascript_Sets.svg)](https://dev.to/smpnjn/the-essential-guide-to-javascript-sets-22b4)
+[![2 Weeks of Hacktoberfest, How is it going??](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/2_Weeks_of_Hacktoberfest__How_is_it_going__.svg)](https://dev.to/zigrazor/2-weeks-of-hacktoberfest-how-is-it-going-4ilk)
+[![I need your Feedback!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/I_need_your_Feedback!.svg)](https://dev.to/sylvainkerkour/i-need-your-feedback-55i9)
+[![Introduction to Amazon Lightsail](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Introduction_to_Amazon_Lightsail.svg)](https://dev.to/makendrang/introduction-to-amazon-lightsail-1d48)
+[![E-Commerce & Media Automation Virtual Hackathon](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/E-Commerce___Media_Automation_Virtual_Hackathon.svg)](https://dev.to/shotstack/e-commerce-marketing-automation-virtual-hackathon-5hj2)
+[![Authoring NPM Packages with Monorepos](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Authoring_NPM_Packages_with_Monorepos.svg)](https://dev.to/ravgeetdhillon/authoring-npm-packages-with-monorepos-3794)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, October 13, 2022 at 7:17:36 PM
+> Last updated: Friday, October 14, 2022 at 12:43:12 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, October 13, 2022 at 7:17:40 PM
+> Last updated: Friday, October 14, 2022 at 12:43:16 AM
 
 > Showing 5 of 30 posts.
 
