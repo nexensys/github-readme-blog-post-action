@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, October 14, 2022 at 6:25:46 AM
+> Last updated: Friday, October 14, 2022 at 12:16:22 PM
 
 > Showing 5 of 12 posts.
 
-[![Quasar Admin CRM - Best CRM template to buy - very cheap](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Quasar_Admin_CRM_-_Best_CRM_template_to_buy_-_very_cheap.svg)](https://dev.to/mayur091193/quasar-admin-crm-best-crm-template-to-buy-very-cheap-42gg)
-[![Token based authentication with local storage in React js with UseContext and useState](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Token_based_authentication_with_local_storage_in_React_js_with_UseContext_and_useState.svg)](https://dev.to/rajivchaulagain/token-based-authentication-with-local-storage-in-react-js-with-usecontext-and-usestate-550l)
-[![Importance Of Semantic HTML In Modern Web Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Importance_Of_Semantic_HTML_In_Modern_Web_Development.svg)](https://dev.to/lambdatest/importance-of-semantic-html-in-modern-web-development-28ji)
-[![Reasons to Use MongoDB](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Reasons_to_Use_MongoDB.svg)](https://dev.to/kennyt24/reasons-to-use-mongodb-522)
-[![Investigating Cloud Cost Anomalies for Kubernetes The Easy Way](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Investigating_Cloud_Cost_Anomalies_for_Kubernetes_The_Easy_Way.svg)](https://dev.to/castai/investigating-cloud-cost-anomalies-for-kubernetes-the-easy-way-6mf)
+[![Elixir's DBConnection Pooling Deep Dive](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Elixir's_DBConnection_Pooling_Deep_Dive.svg)](https://dev.to/debussyman/elixirs-dbconnection-pooling-deep-dive-273l)
+[![Let's create an AddEdit with same component](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Let's_create_an_AddEdit_with_same_component.svg)](https://dev.to/rajivchaulagain/lets-create-an-addedit-with-same-component-3b2j)
+[![Create Hamburger Menu Using HTML, Css & Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Create_Hamburger_Menu_Using_HTML__Css___Javascript.svg)](https://dev.to/codingtitan6/create-hamburger-menu-using-html-css-javascript-n19)
+[![Django Tasks Manager - Free PyPi Library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Django_Tasks_Manager_-_Free_PyPi_Library.svg)](https://dev.to/sm0ke/django-tasks-manager-open-source-pypi-library-1b8)
+[![What was your win this week?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_was_your_win_this_week_.svg)](https://dev.to/michaeltharrington/what-was-your-win-this-week-jmc)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, October 14, 2022 at 6:25:48 AM
+> Last updated: Friday, October 14, 2022 at 12:16:25 PM
 
 > Showing 4 of 4 posts.
 
+[![Node to keep an eye on your code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Node_to_keep_an_eye_on_your_code.svg)](https://javascriptweekly.com/issues/610)
 [![Axios turns 1.0; TypeScript turns 10](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Axios_turns_1.0;_TypeScript_turns_10.svg)](https://javascriptweekly.com/issues/609)
 [![How TypeScript 4.9 satisfies](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/How_TypeScript_4.9_satisfies.svg)](https://javascriptweekly.com/issues/608)
 [![Extractors for ECMAScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Extractors_for_ECMAScript.svg)](https://javascriptweekly.com/issues/607)
-[![Seven weird ways to call a JavaScript function](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Seven_weird_ways_to_call_a_JavaScript_function.svg)](https://javascriptweekly.com/issues/606)
 
 
 ## Echo JS
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, October 14, 2022 at 6:25:54 AM
+> Last updated: Friday, October 14, 2022 at 12:16:30 PM
 
 > Showing 5 of 30 posts.
 
