@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, October 13, 2022 at 12:21:24 PM
+> Last updated: Thursday, October 13, 2022 at 7:17:32 PM
 
 > Showing 5 of 12 posts.
 
-[![An Open-Source Solution to DORA & DevOps Metrics](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/An_Open-Source_Solution_to_DORA___DevOps_Metrics.svg)](https://dev.to/maximwheatley/an-open-source-solution-to-dora-devops-metrics-72l)
-[![Accelerate IoT Development with Arm Virtual Hardware on AWS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Accelerate_IoT_Development_with_Arm_Virtual_Hardware_on_AWS.svg)](https://dev.to/aws-builders/accelerate-iot-development-with-arm-virtual-hardware-on-aws-3ndd)
-[![Windows Opacity in VSCODE](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Windows_Opacity_in_VSCODE.svg)](https://dev.to/bekbrace/windows-opacity-in-vscode-jlb)
-[![Build REST endpoints with Low-code Backend](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_REST_endpoints_with_Low-code_Backend.svg)](https://dev.to/nucleoid/build-rest-endpoints-with-low-code-backend-1fd7)
-[![User Interviews for Dummies](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/User_Interviews_for_Dummies.svg)](https://dev.to/codedex/user-interviews-for-dummies-1775)
+[![🤖 Latest IT Opportunities - Week #42 of 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/🤖_Latest_IT_Opportunities_-_Week__42_of_2022.svg)](https://dev.to/shman/latest-it-opportunities-week-42-of-2022-20oh)
+[![Building a free component library for react developers.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Building_a_free_component_library_for_react_developers..svg)](https://dev.to/alohe/building-a-free-component-library-for-react-developers-3pdp)
+[![Where Did All The Focus Time Go? Dissecting 1.5 Million Meetings](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Where_Did_All_The_Focus_Time_Go__Dissecting_1.5_Million_Meetings.svg)](https://dev.to/linearb/where-did-all-the-focus-time-go-dissecting-15-million-meetings-1658)
+[![A verdade sobre os bootcamps de programação](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_verdade_sobre_os_bootcamps_de_programação.svg)](https://dev.to/devdoido/a-verdade-sobre-os-bootcamps-de-programacao-3pci)
+[![The Essential Guide to Javascript Sets](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Essential_Guide_to_Javascript_Sets.svg)](https://dev.to/smpnjn/the-essential-guide-to-javascript-sets-22b4)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, October 13, 2022 at 12:21:28 PM
+> Last updated: Thursday, October 13, 2022 at 7:17:36 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,14 +43,18 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, October 13, 2022 at 12:21:35 PM
+> Last updated: Thursday, October 13, 2022 at 7:17:40 PM
 
 > Showing 5 of 30 posts.
 
+[![
+Cloudflare Pages gets even faster with Early Hints
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Cloudflare_Pages_gets_even_faster_with_Early_Hints_.svg)](
+https://blog.cloudflare.com/early-hints-on-cloudflare-pages/
+)
 [![Create a Marketplace App with Vue.js and Pinia | Webiny](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Create_a_Marketplace_App_with_Vue.js_and_Pinia___Webiny.svg)](
 https://www.webiny.com/blog/create-marketplace-app-vuejs-pinia-webiny-headless-cms
 )
-[![Peter Virdee Initiated To Educate The Future of Bibangwa - PDF Free Download](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Peter_Virdee_Initiated_To_Educate_The_Future_of_Bibangwa_-_PDF_Free_Download.svg)](https://docplayer.net/230235166-Peter-virdee-initiated-to-educate-the-future-of-bibangwa.html)
 [![Adding IPFS to my JavaScript OS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Adding_IPFS_to_my_JavaScript_OS.svg)](https://dev.to/dustinbrett/adding-ipfs-to-my-javascript-os-14ag)
 [![Absolute paths imports in NextJs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Absolute_paths_imports_in_NextJs.svg)](http://www.js-craft.io/blog/absolute-paths-imports-in-nextjs/)
 [![Build a Tic Tac Toe Game in 10 Lines with JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_a_Tic_Tac_Toe_Game_in_10_Lines_with_JavaScript.svg)](https://lyty.dev/blog/tic-tac-toe-game-javascript/)
