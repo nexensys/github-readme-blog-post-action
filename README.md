@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, October 14, 2022 at 12:43:09 AM
+> Last updated: Friday, October 14, 2022 at 6:25:46 AM
 
 > Showing 5 of 12 posts.
 
-[![2 Weeks of Hacktoberfest, How is it going??](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/2_Weeks_of_Hacktoberfest__How_is_it_going__.svg)](https://dev.to/zigrazor/2-weeks-of-hacktoberfest-how-is-it-going-4ilk)
-[![I need your Feedback!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/I_need_your_Feedback!.svg)](https://dev.to/sylvainkerkour/i-need-your-feedback-55i9)
-[![Introduction to Amazon Lightsail](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Introduction_to_Amazon_Lightsail.svg)](https://dev.to/makendrang/introduction-to-amazon-lightsail-1d48)
-[![E-Commerce & Media Automation Virtual Hackathon](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/E-Commerce___Media_Automation_Virtual_Hackathon.svg)](https://dev.to/shotstack/e-commerce-marketing-automation-virtual-hackathon-5hj2)
-[![Authoring NPM Packages with Monorepos](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Authoring_NPM_Packages_with_Monorepos.svg)](https://dev.to/ravgeetdhillon/authoring-npm-packages-with-monorepos-3794)
+[![Quasar Admin CRM - Best CRM template to buy - very cheap](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Quasar_Admin_CRM_-_Best_CRM_template_to_buy_-_very_cheap.svg)](https://dev.to/mayur091193/quasar-admin-crm-best-crm-template-to-buy-very-cheap-42gg)
+[![Token based authentication with local storage in React js with UseContext and useState](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Token_based_authentication_with_local_storage_in_React_js_with_UseContext_and_useState.svg)](https://dev.to/rajivchaulagain/token-based-authentication-with-local-storage-in-react-js-with-usecontext-and-usestate-550l)
+[![Importance Of Semantic HTML In Modern Web Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Importance_Of_Semantic_HTML_In_Modern_Web_Development.svg)](https://dev.to/lambdatest/importance-of-semantic-html-in-modern-web-development-28ji)
+[![Reasons to Use MongoDB](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Reasons_to_Use_MongoDB.svg)](https://dev.to/kennyt24/reasons-to-use-mongodb-522)
+[![Investigating Cloud Cost Anomalies for Kubernetes The Easy Way](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Investigating_Cloud_Cost_Anomalies_for_Kubernetes_The_Easy_Way.svg)](https://dev.to/castai/investigating-cloud-cost-anomalies-for-kubernetes-the-easy-way-6mf)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, October 14, 2022 at 12:43:12 AM
+> Last updated: Friday, October 14, 2022 at 6:25:48 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, October 14, 2022 at 12:43:16 AM
+> Last updated: Friday, October 14, 2022 at 6:25:54 AM
 
 > Showing 5 of 30 posts.
 
+[![Using the font-display CSS property to optimize custom fonts loading](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_the_font-display_CSS_property_to_optimize_custom_fonts_loading.svg)](http://www.js-craft.io/blog/using-the-font-display-css-property-to-optimize-custom-fonts-loading/)
 [![
 Cloudflare Pages gets even faster with Early Hints
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Cloudflare_Pages_gets_even_faster_with_Early_Hints_.svg)](
@@ -57,7 +58,6 @@ https://www.webiny.com/blog/create-marketplace-app-vuejs-pinia-webiny-headless-c
 )
 [![Adding IPFS to my JavaScript OS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Adding_IPFS_to_my_JavaScript_OS.svg)](https://dev.to/dustinbrett/adding-ipfs-to-my-javascript-os-14ag)
 [![Absolute paths imports in NextJs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Absolute_paths_imports_in_NextJs.svg)](http://www.js-craft.io/blog/absolute-paths-imports-in-nextjs/)
-[![Build a Tic Tac Toe Game in 10 Lines with JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_a_Tic_Tac_Toe_Game_in_10_Lines_with_JavaScript.svg)](https://lyty.dev/blog/tic-tac-toe-game-javascript/)
 
 
 <!-- post-list:end -->
