@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, October 14, 2022 at 12:16:22 PM
+> Last updated: Friday, October 14, 2022 at 7:10:23 PM
 
 > Showing 5 of 12 posts.
 
-[![Elixir's DBConnection Pooling Deep Dive](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Elixir's_DBConnection_Pooling_Deep_Dive.svg)](https://dev.to/debussyman/elixirs-dbconnection-pooling-deep-dive-273l)
-[![Let's create an AddEdit with same component](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Let's_create_an_AddEdit_with_same_component.svg)](https://dev.to/rajivchaulagain/lets-create-an-addedit-with-same-component-3b2j)
-[![Create Hamburger Menu Using HTML, Css & Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Create_Hamburger_Menu_Using_HTML__Css___Javascript.svg)](https://dev.to/codingtitan6/create-hamburger-menu-using-html-css-javascript-n19)
-[![Django Tasks Manager - Free PyPi Library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Django_Tasks_Manager_-_Free_PyPi_Library.svg)](https://dev.to/sm0ke/django-tasks-manager-open-source-pypi-library-1b8)
-[![What was your win this week?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_was_your_win_this_week_.svg)](https://dev.to/michaeltharrington/what-was-your-win-this-week-jmc)
+[![How to Move to UK as a Designer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Move_to_UK_as_a_Designer.svg)](https://dev.to/beetlehope/how-to-move-to-uk-as-a-designer-5h78)
+[![Service layer for business logic — Organizing code in a Rails monolith](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Service_layer_for_business_logic_—_Organizing_code_in_a_Rails_monolith.svg)](https://dev.to/aha/service-layer-for-business-logic-organizing-code-in-a-rails-monolith-40cj)
+[![Qual a diferença entre Vulnerabilidade, Ameaça e Risco?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Qual_a_diferença_entre_Vulnerabilidade__Ameaça_e_Risco_.svg)](https://dev.to/gabogaldino/qual-a-diferenca-entre-vulnerabilidade-ameaca-e-risco-1ijn)
+[![Django create your first web application 😀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Django_create_your_first_web_application_😀.svg)](https://dev.to/umair313/django-create-your-first-web-application-2p48)
+[![Chiffrer vos dossiers sensibles pour les stocker sur votre Cloud préféré sans danger](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Chiffrer_vos_dossiers_sensibles_pour_les_stocker_sur_votre_Cloud_préféré_sans_danger.svg)](https://dev.to/boutvalentin/chiffrer-vos-dossiers-sensibles-pour-les-stocker-sur-votre-cloud-prefere-sans-danger-3idc)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, October 14, 2022 at 12:16:25 PM
+> Last updated: Friday, October 14, 2022 at 7:10:26 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, October 14, 2022 at 12:16:30 PM
+> Last updated: Friday, October 14, 2022 at 7:10:31 PM
 
 > Showing 5 of 30 posts.
 
