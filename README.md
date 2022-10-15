@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, October 15, 2022 at 12:23:38 AM
+> Last updated: Saturday, October 15, 2022 at 6:21:45 AM
 
 > Showing 5 of 12 posts.
 
-[![palpatine on time machine](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/palpatine_on_time_machine.svg)](https://dev.to/batunpc/palpatine-on-timemachine-5a99)
-[![Refactoring My Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Refactoring_My_Code.svg)](https://dev.to/saminarp/refactoring-my-code-2g1n)
-[![MS DEFENDER 4 CLOUD: DEVOPS SECURITY IN GITHUB ENVIRONMENT](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/MS_DEFENDER_4_CLOUD__DEVOPS_SECURITY_IN_GITHUB_ENVIRONMENT.svg)](https://dev.to/arindam0310018/ms-defender-4-cloud-devops-security-in-github-environment-449)
-[![How to Move to UK as a Designer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Move_to_UK_as_a_Designer.svg)](https://dev.to/beetlehope/how-to-move-to-uk-as-a-designer-5h78)
-[![Multiple github accounts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Multiple_github_accounts.svg)](https://dev.to/webduvet/multiple-github-accounts-55dk)
+[![In One Minute : git](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/In_One_Minute___git.svg)](https://dev.to/rakeshkr2/in-one-minute-git-moe)
+[![Pulsing loader - A step-by-step guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Pulsing_loader_-_A_step-by-step_guide.svg)](https://dev.to/designyff/pulsing-loader-a-step-by-step-guide-5epg)
+[![5 ultra actionable tips to improve your Web performances](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_ultra_actionable_tips_to_improve_your_Web_performances.svg)](https://dev.to/kezios/5-ultra-actionable-tips-to-improve-your-web-performances-219p)
+[![Setup Kubectl on Cloud Dev Environment in 60 Seconds](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Setup_Kubectl_on_Cloud_Dev_Environment_in_60_Seconds.svg)](https://dev.to/siddhantkcode/setup-kubectl-on-cloud-dev-environment-in-60-seconds-kcb)
+[![Go Tricolor Algorithm Explained](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Go_Tricolor_Algorithm_Explained.svg)](https://dev.to/mavensingh/go-tricolor-algorithm-explained-1588)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, October 15, 2022 at 12:23:41 AM
+> Last updated: Saturday, October 15, 2022 at 6:21:49 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,12 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, October 15, 2022 at 12:23:45 AM
+> Last updated: Saturday, October 15, 2022 at 6:21:54 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - wlucha/angular-starter: Angular 14 Starter with Storybook, Transloco, Jest, TestCafe, Docker, ESLint, Material & Prettier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_wlucha_angular-starter__Angular_14_Starter_with_Storybook__Transloco__Jest__TestCafe__Docker__ESLint__Material___Prettier.svg)](https://github.com/wlucha/angular-starter)
+[![JavaScript Async Function Definitions - LearnNextJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Async_Function_Definitions_-_LearnNextJS.svg)](https://learnnextjs.com/async-function-definitions/)
 [![Using the font-display CSS property to optimize custom fonts loading](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_the_font-display_CSS_property_to_optimize_custom_fonts_loading.svg)](http://www.js-craft.io/blog/using-the-font-display-css-property-to-optimize-custom-fonts-loading/)
 [![
 Cloudflare Pages gets even faster with Early Hints
@@ -56,8 +58,6 @@ https://blog.cloudflare.com/early-hints-on-cloudflare-pages/
 [![Create a Marketplace App with Vue.js and Pinia | Webiny](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Create_a_Marketplace_App_with_Vue.js_and_Pinia___Webiny.svg)](
 https://www.webiny.com/blog/create-marketplace-app-vuejs-pinia-webiny-headless-cms
 )
-[![Adding IPFS to my JavaScript OS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Adding_IPFS_to_my_JavaScript_OS.svg)](https://dev.to/dustinbrett/adding-ipfs-to-my-javascript-os-14ag)
-[![Absolute paths imports in NextJs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Absolute_paths_imports_in_NextJs.svg)](http://www.js-craft.io/blog/absolute-paths-imports-in-nextjs/)
 
 
 <!-- post-list:end -->
