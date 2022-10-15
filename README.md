@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, October 15, 2022 at 6:21:45 AM
+> Last updated: Saturday, October 15, 2022 at 12:13:54 PM
 
 > Showing 5 of 12 posts.
 
-[![In One Minute : git](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/In_One_Minute___git.svg)](https://dev.to/rakeshkr2/in-one-minute-git-moe)
-[![Pulsing loader - A step-by-step guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Pulsing_loader_-_A_step-by-step_guide.svg)](https://dev.to/designyff/pulsing-loader-a-step-by-step-guide-5epg)
-[![5 ultra actionable tips to improve your Web performances](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_ultra_actionable_tips_to_improve_your_Web_performances.svg)](https://dev.to/kezios/5-ultra-actionable-tips-to-improve-your-web-performances-219p)
-[![Setup Kubectl on Cloud Dev Environment in 60 Seconds](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Setup_Kubectl_on_Cloud_Dev_Environment_in_60_Seconds.svg)](https://dev.to/siddhantkcode/setup-kubectl-on-cloud-dev-environment-in-60-seconds-kcb)
-[![Go Tricolor Algorithm Explained](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Go_Tricolor_Algorithm_Explained.svg)](https://dev.to/mavensingh/go-tricolor-algorithm-explained-1588)
+[![Prepping for ReInvent: Getting my Dev Associate Cert](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Prepping_for_ReInvent__Getting_my_Dev_Associate_Cert.svg)](https://dev.to/therealdakotal/prepping-for-reinvent-getting-my-dev-associate-cert-4b7m)
+[![In One Minute : Heroku](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/In_One_Minute___Heroku.svg)](https://dev.to/rakeshkr2/in-one-minute-heroku-37i1)
+[![How to get the last element of an Array in Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_get_the_last_element_of_an_Array_in_Javascript.svg)](https://dev.to/smpnjn/how-to-get-the-last-element-of-an-array-in-javascript-2hmc)
+[![Updating Object Key Values with Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Updating_Object_Key_Values_with_Javascript.svg)](https://dev.to/smpnjn/updating-object-key-values-with-javascript-1gnm)
+[![Waiting for the DOM to be ready in Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Waiting_for_the_DOM_to_be_ready_in_Javascript.svg)](https://dev.to/smpnjn/waiting-for-the-dom-to-be-ready-in-javascript-42l7)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, October 15, 2022 at 6:21:49 AM
+> Last updated: Saturday, October 15, 2022 at 12:13:58 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, October 15, 2022 at 6:21:54 AM
+> Last updated: Saturday, October 15, 2022 at 12:14:03 PM
 
 > Showing 5 of 30 posts.
 
+[![
+Top Billion Dollar Making Blockchain Business Ideas in 2023
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Top_Billion_Dollar_Making_Blockchain_Business_Ideas_in_2023_.svg)](
+http://www.echojs.com/news/41153
+)
 [![GitHub - wlucha/angular-starter: Angular 14 Starter with Storybook, Transloco, Jest, TestCafe, Docker, ESLint, Material & Prettier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_wlucha_angular-starter__Angular_14_Starter_with_Storybook__Transloco__Jest__TestCafe__Docker__ESLint__Material___Prettier.svg)](https://github.com/wlucha/angular-starter)
 [![JavaScript Async Function Definitions - LearnNextJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Async_Function_Definitions_-_LearnNextJS.svg)](https://learnnextjs.com/async-function-definitions/)
 [![Using the font-display CSS property to optimize custom fonts loading](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_the_font-display_CSS_property_to_optimize_custom_fonts_loading.svg)](http://www.js-craft.io/blog/using-the-font-display-css-property-to-optimize-custom-fonts-loading/)
@@ -54,9 +59,6 @@ http://www.echojs.com
 Cloudflare Pages gets even faster with Early Hints
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Cloudflare_Pages_gets_even_faster_with_Early_Hints_.svg)](
 https://blog.cloudflare.com/early-hints-on-cloudflare-pages/
-)
-[![Create a Marketplace App with Vue.js and Pinia | Webiny](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Create_a_Marketplace_App_with_Vue.js_and_Pinia___Webiny.svg)](
-https://www.webiny.com/blog/create-marketplace-app-vuejs-pinia-webiny-headless-cms
 )
 
 
