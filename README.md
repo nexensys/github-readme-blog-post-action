@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, October 14, 2022 at 7:10:23 PM
+> Last updated: Saturday, October 15, 2022 at 12:23:38 AM
 
 > Showing 5 of 12 posts.
 
+[![palpatine on time machine](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/palpatine_on_time_machine.svg)](https://dev.to/batunpc/palpatine-on-timemachine-5a99)
+[![Refactoring My Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Refactoring_My_Code.svg)](https://dev.to/saminarp/refactoring-my-code-2g1n)
+[![MS DEFENDER 4 CLOUD: DEVOPS SECURITY IN GITHUB ENVIRONMENT](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/MS_DEFENDER_4_CLOUD__DEVOPS_SECURITY_IN_GITHUB_ENVIRONMENT.svg)](https://dev.to/arindam0310018/ms-defender-4-cloud-devops-security-in-github-environment-449)
 [![How to Move to UK as a Designer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Move_to_UK_as_a_Designer.svg)](https://dev.to/beetlehope/how-to-move-to-uk-as-a-designer-5h78)
-[![Service layer for business logic — Organizing code in a Rails monolith](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Service_layer_for_business_logic_—_Organizing_code_in_a_Rails_monolith.svg)](https://dev.to/aha/service-layer-for-business-logic-organizing-code-in-a-rails-monolith-40cj)
-[![Qual a diferença entre Vulnerabilidade, Ameaça e Risco?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Qual_a_diferença_entre_Vulnerabilidade__Ameaça_e_Risco_.svg)](https://dev.to/gabogaldino/qual-a-diferenca-entre-vulnerabilidade-ameaca-e-risco-1ijn)
-[![Django create your first web application 😀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Django_create_your_first_web_application_😀.svg)](https://dev.to/umair313/django-create-your-first-web-application-2p48)
-[![Chiffrer vos dossiers sensibles pour les stocker sur votre Cloud préféré sans danger](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Chiffrer_vos_dossiers_sensibles_pour_les_stocker_sur_votre_Cloud_préféré_sans_danger.svg)](https://dev.to/boutvalentin/chiffrer-vos-dossiers-sensibles-pour-les-stocker-sur-votre-cloud-prefere-sans-danger-3idc)
+[![Multiple github accounts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Multiple_github_accounts.svg)](https://dev.to/webduvet/multiple-github-accounts-55dk)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, October 14, 2022 at 7:10:26 PM
+> Last updated: Saturday, October 15, 2022 at 12:23:41 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, October 14, 2022 at 7:10:31 PM
+> Last updated: Saturday, October 15, 2022 at 12:23:45 AM
 
 > Showing 5 of 30 posts.
 
