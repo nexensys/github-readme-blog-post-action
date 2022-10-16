@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, October 15, 2022 at 7:14:18 PM
+> Last updated: Sunday, October 16, 2022 at 12:20:47 AM
 
 > Showing 5 of 12 posts.
 
+[![Things I Learned Through My First Hacktoberfest Pull Requests!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Things_I_Learned_Through_My_First_Hacktoberfest_Pull_Requests!.svg)](https://dev.to/saminarp/things-i-learned-through-my-first-hacktoberfest-pull-requests-4na1)
+[![Routinejs, An Express inspired blazingly fast Nodejs router](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Routinejs__An_Express_inspired_blazingly_fast_Nodejs_router.svg)](https://dev.to/zulfiqarqureshi/routinejs-an-express-inspired-blazingly-fast-nodejs-router-3hpg)
+[![Introduction to NodeJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Introduction_to_NodeJS.svg)](https://dev.to/jagroop2000/introduction-to-nodejs-59bb)
+[![Kubernetes For Noobs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Kubernetes_For_Noobs.svg)](https://dev.to/thevedicdev/kubernetes-for-noobs-425k)
 [![Containers: Under the Hood](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Containers__Under_the_Hood.svg)](https://dev.to/aws-builders/containers-under-the-hood-37k0)
-[![SvelteKit Server-Side Rendering (SSR) with @urql/svelte](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/SvelteKit_Server-Side_Rendering_(SSR)_with_@urql_svelte.svg)](https://dev.to/tiim/sveltekit-server-side-rendering-ssr-with-urqlsvelte-534k)
-[![Crafting my Portfolio - Preparing Base](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Crafting_my_Portfolio_-_Preparing_Base.svg)](https://dev.to/wrench1815/crafting-my-portfolio-preparing-base-2eep)
-[![Creating the blog page - part 8](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Creating_the_blog_page_-_part_8.svg)](https://dev.to/dailydevtips1/creating-the-blog-page-part-8-31eg)
-[![Free watermarks in your photos?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Free_watermarks_in_your_photos_.svg)](https://dev.to/nix3r/free-watermarks-in-your-photos-e94)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, October 15, 2022 at 7:14:21 PM
+> Last updated: Sunday, October 16, 2022 at 12:20:50 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, October 15, 2022 at 7:14:26 PM
+> Last updated: Sunday, October 16, 2022 at 12:20:54 AM
 
 > Showing 5 of 30 posts.
 
