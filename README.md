@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, October 16, 2022 at 6:21:43 AM
+> Last updated: Sunday, October 16, 2022 at 12:14:15 PM
 
 > Showing 5 of 12 posts.
 
-[![From WebView to WebView2 in UWP](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/From_WebView_to_WebView2_in_UWP.svg)](https://dev.to/fanmixco/from-webview-to-webview2-in-uwp-2ehj)
-[![Does OSS owe us something?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Does_OSS_owe_us_something_.svg)](https://dev.to/atimin/does-oss-owe-us-something-ne6)
-[![Generate dynamic OG images with Next.js and vercel edge functions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Generate_dynamic_OG_images_with_Next.js_and_vercel_edge_functions.svg)](https://dev.to/mr_mornin_star/generate-dynamic-og-images-with-nextjs-and-vercel-edge-functions-4513)
-[![Creating the work page - part 9](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Creating_the_work_page_-_part_9.svg)](https://dev.to/dailydevtips1/creating-the-work-page-part-9-540m)
-[![Importance Of Lists](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Importance_Of_Lists.svg)](https://dev.to/yuridevat/importance-of-lists-5ek6)
+[![Don’t be arrogantly ignorant: don’t flame](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Don’t_be_arrogantly_ignorant__don’t_flame.svg)](https://dev.to/wesen/dont-be-arrogantly-ignorant-dont-flame-814)
+[![Automate the removal of likes in TikTok](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Automate_the_removal_of_likes_in_TikTok.svg)](https://dev.to/frankalvarez/automate-the-removal-of-likes-in-tiktok-4oic)
+[![In One Minute : V8 (JavaScript engine)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/In_One_Minute___V8_(JavaScript_engine).svg)](https://dev.to/rakeshkr2/in-one-minute-v8-javascript-engine-59b2)
+[![Repurposing Content for Content Creation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Repurposing_Content_for_Content_Creation.svg)](https://dev.to/nickytonline/repurposing-content-for-content-creation-3l4d)
+[![Getting Started with Amazon Elastic Container Service with Fargate](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Getting_Started_with_Amazon_Elastic_Container_Service_with_Fargate.svg)](https://dev.to/aws-builders/getting-started-with-amazon-elastic-container-service-with-fargate-2ce2)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, October 16, 2022 at 6:21:47 AM
+> Last updated: Sunday, October 16, 2022 at 12:14:18 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, October 16, 2022 at 6:21:52 AM
+> Last updated: Sunday, October 16, 2022 at 12:14:24 PM
 
 > Showing 5 of 30 posts.
 
