@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, October 16, 2022 at 12:20:47 AM
+> Last updated: Sunday, October 16, 2022 at 6:21:43 AM
 
 > Showing 5 of 12 posts.
 
-[![Things I Learned Through My First Hacktoberfest Pull Requests!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Things_I_Learned_Through_My_First_Hacktoberfest_Pull_Requests!.svg)](https://dev.to/saminarp/things-i-learned-through-my-first-hacktoberfest-pull-requests-4na1)
-[![Routinejs, An Express inspired blazingly fast Nodejs router](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Routinejs__An_Express_inspired_blazingly_fast_Nodejs_router.svg)](https://dev.to/zulfiqarqureshi/routinejs-an-express-inspired-blazingly-fast-nodejs-router-3hpg)
-[![Introduction to NodeJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Introduction_to_NodeJS.svg)](https://dev.to/jagroop2000/introduction-to-nodejs-59bb)
-[![Kubernetes For Noobs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Kubernetes_For_Noobs.svg)](https://dev.to/thevedicdev/kubernetes-for-noobs-425k)
-[![Containers: Under the Hood](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Containers__Under_the_Hood.svg)](https://dev.to/aws-builders/containers-under-the-hood-37k0)
+[![From WebView to WebView2 in UWP](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/From_WebView_to_WebView2_in_UWP.svg)](https://dev.to/fanmixco/from-webview-to-webview2-in-uwp-2ehj)
+[![Does OSS owe us something?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Does_OSS_owe_us_something_.svg)](https://dev.to/atimin/does-oss-owe-us-something-ne6)
+[![Generate dynamic OG images with Next.js and vercel edge functions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Generate_dynamic_OG_images_with_Next.js_and_vercel_edge_functions.svg)](https://dev.to/mr_mornin_star/generate-dynamic-og-images-with-nextjs-and-vercel-edge-functions-4513)
+[![Creating the work page - part 9](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Creating_the_work_page_-_part_9.svg)](https://dev.to/dailydevtips1/creating-the-work-page-part-9-540m)
+[![Importance Of Lists](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Importance_Of_Lists.svg)](https://dev.to/yuridevat/importance-of-lists-5ek6)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, October 16, 2022 at 12:20:50 AM
+> Last updated: Sunday, October 16, 2022 at 6:21:47 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, October 16, 2022 at 12:20:54 AM
+> Last updated: Sunday, October 16, 2022 at 6:21:52 AM
 
 > Showing 5 of 30 posts.
 
