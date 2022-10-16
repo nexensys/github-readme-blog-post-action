@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, October 15, 2022 at 12:13:54 PM
+> Last updated: Saturday, October 15, 2022 at 7:14:18 PM
 
 > Showing 5 of 12 posts.
 
-[![Prepping for ReInvent: Getting my Dev Associate Cert](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Prepping_for_ReInvent__Getting_my_Dev_Associate_Cert.svg)](https://dev.to/therealdakotal/prepping-for-reinvent-getting-my-dev-associate-cert-4b7m)
-[![In One Minute : Heroku](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/In_One_Minute___Heroku.svg)](https://dev.to/rakeshkr2/in-one-minute-heroku-37i1)
-[![How to get the last element of an Array in Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_get_the_last_element_of_an_Array_in_Javascript.svg)](https://dev.to/smpnjn/how-to-get-the-last-element-of-an-array-in-javascript-2hmc)
-[![Updating Object Key Values with Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Updating_Object_Key_Values_with_Javascript.svg)](https://dev.to/smpnjn/updating-object-key-values-with-javascript-1gnm)
-[![Waiting for the DOM to be ready in Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Waiting_for_the_DOM_to_be_ready_in_Javascript.svg)](https://dev.to/smpnjn/waiting-for-the-dom-to-be-ready-in-javascript-42l7)
+[![Containers: Under the Hood](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Containers__Under_the_Hood.svg)](https://dev.to/aws-builders/containers-under-the-hood-37k0)
+[![SvelteKit Server-Side Rendering (SSR) with @urql/svelte](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/SvelteKit_Server-Side_Rendering_(SSR)_with_@urql_svelte.svg)](https://dev.to/tiim/sveltekit-server-side-rendering-ssr-with-urqlsvelte-534k)
+[![Crafting my Portfolio - Preparing Base](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Crafting_my_Portfolio_-_Preparing_Base.svg)](https://dev.to/wrench1815/crafting-my-portfolio-preparing-base-2eep)
+[![Creating the blog page - part 8](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Creating_the_blog_page_-_part_8.svg)](https://dev.to/dailydevtips1/creating-the-blog-page-part-8-31eg)
+[![Free watermarks in your photos?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Free_watermarks_in_your_photos_.svg)](https://dev.to/nix3r/free-watermarks-in-your-photos-e94)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, October 15, 2022 at 12:13:58 PM
+> Last updated: Saturday, October 15, 2022 at 7:14:21 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, October 15, 2022 at 12:14:03 PM
+> Last updated: Saturday, October 15, 2022 at 7:14:26 PM
 
 > Showing 5 of 30 posts.
 
