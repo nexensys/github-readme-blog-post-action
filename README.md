@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, October 16, 2022 at 12:14:15 PM
+> Last updated: Sunday, October 16, 2022 at 7:16:56 PM
 
 > Showing 5 of 12 posts.
 
-[![Don’t be arrogantly ignorant: don’t flame](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Don’t_be_arrogantly_ignorant__don’t_flame.svg)](https://dev.to/wesen/dont-be-arrogantly-ignorant-dont-flame-814)
-[![Automate the removal of likes in TikTok](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Automate_the_removal_of_likes_in_TikTok.svg)](https://dev.to/frankalvarez/automate-the-removal-of-likes-in-tiktok-4oic)
-[![In One Minute : V8 (JavaScript engine)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/In_One_Minute___V8_(JavaScript_engine).svg)](https://dev.to/rakeshkr2/in-one-minute-v8-javascript-engine-59b2)
-[![Repurposing Content for Content Creation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Repurposing_Content_for_Content_Creation.svg)](https://dev.to/nickytonline/repurposing-content-for-content-creation-3l4d)
-[![Getting Started with Amazon Elastic Container Service with Fargate](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Getting_Started_with_Amazon_Elastic_Container_Service_with_Fargate.svg)](https://dev.to/aws-builders/getting-started-with-amazon-elastic-container-service-with-fargate-2ce2)
+[![Programação orientada a testes?!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Programação_orientada_a_testes_!.svg)](https://dev.to/devs-jequie/programacao-orientada-a-testes-58dd)
+[![Deno: how to start use it](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Deno__how_to_start_use_it.svg)](https://dev.to/ianoliv/deno-how-to-start-use-it-2n6m)
+[![Javascript Array Reduce Method](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Javascript_Array_Reduce_Method.svg)](https://dev.to/smpnjn/javascript-array-reduce-method-3a3)
+[![Why We're Breaking Up with CSS-in-JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Why_We're_Breaking_Up_with_CSS-in-JS.svg)](https://dev.to/srmagura/why-were-breaking-up-wiht-css-in-js-4g9b)
+[![React, the Humble - Write once, render in Web and Native](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/React__the_Humble_-_Write_once__render_in_Web_and_Native.svg)](https://dev.to/noriller/react-the-humble-write-once-render-in-web-and-native-3eih)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, October 16, 2022 at 12:14:18 PM
+> Last updated: Sunday, October 16, 2022 at 7:16:58 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,10 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, October 16, 2022 at 12:14:24 PM
+> Last updated: Sunday, October 16, 2022 at 7:17:03 PM
 
 > Showing 5 of 30 posts.
 
-[![
-Top Billion Dollar Making Blockchain Business Ideas in 2023
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Top_Billion_Dollar_Making_Blockchain_Business_Ideas_in_2023_.svg)](
-http://www.echojs.com/news/41153
-)
 [![GitHub - wlucha/angular-starter: Angular 14 Starter with Storybook, Transloco, Jest, TestCafe, Docker, ESLint, Material & Prettier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_wlucha_angular-starter__Angular_14_Starter_with_Storybook__Transloco__Jest__TestCafe__Docker__ESLint__Material___Prettier.svg)](https://github.com/wlucha/angular-starter)
 [![JavaScript Async Function Definitions - LearnNextJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Async_Function_Definitions_-_LearnNextJS.svg)](https://learnnextjs.com/async-function-definitions/)
 [![Using the font-display CSS property to optimize custom fonts loading](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_the_font-display_CSS_property_to_optimize_custom_fonts_loading.svg)](http://www.js-craft.io/blog/using-the-font-display-css-property-to-optimize-custom-fonts-loading/)
@@ -59,6 +54,9 @@ http://www.echojs.com/news/41153
 Cloudflare Pages gets even faster with Early Hints
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Cloudflare_Pages_gets_even_faster_with_Early_Hints_.svg)](
 https://blog.cloudflare.com/early-hints-on-cloudflare-pages/
+)
+[![Create a Marketplace App with Vue.js and Pinia | Webiny](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Create_a_Marketplace_App_with_Vue.js_and_Pinia___Webiny.svg)](
+https://www.webiny.com/blog/create-marketplace-app-vuejs-pinia-webiny-headless-cms
 )
 
 
