@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, October 17, 2022 at 6:27:38 AM
+> Last updated: Monday, October 17, 2022 at 12:26:31 PM
 
 > Showing 5 of 12 posts.
 
-[![13 steps for perfect Authentication Flow in Backend](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/13_steps_for_perfect_Authentication_Flow_in_Backend.svg)](https://dev.to/shreyvijayvargiya/13-steps-for-perfect-authentication-flow-in-backend-3ad0)
-[![A Beginners Guide to Contributing to an Existing Git Repository](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_Beginners_Guide_to_Contributing_to_an_Existing_Git_Repository.svg)](https://dev.to/malonzaelkanah/a-beginners-guide-to-contributing-to-an-existing-git-repository-jln)
-[![Building a chat app with Socket.io and React Native 🤯](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Building_a_chat_app_with_Socket.io_and_React_Native_🤯.svg)](https://dev.to/novu/building-a-chat-app-with-socketio-and-react-native-k1b)
-[![Building a Map Application with Amazon Location Service, Leaflet, and AWS Amplify](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Building_a_Map_Application_with_Amazon_Location_Service__Leaflet__and_AWS_Amplify.svg)](https://dev.to/aws-heroes/building-a-map-application-with-amazon-location-service-leaflet-and-aws-amplify-5gbe)
-[![How to Get Started With React – A Beginner's Guide Part -2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Get_Started_With_React_–_A_Beginner's_Guide_Part_-2.svg)](https://dev.to/rajivchaulagain/how-to-get-started-with-react-a-beginners-guidepart-2-269m)
+[![FLiP Stack Weekly #53](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/FLiP_Stack_Weekly__53.svg)](https://dev.to/tspannhw/flip-stack-weekly-53-5a7a)
+[![5 devtools tips you may want to know 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_devtools_tips_you_may_want_to_know_🚀.svg)](https://dev.to/mustapha/5-devtools-tips-you-may-want-to-know-274h)
+[![The 3 Short October tips about UX&A11y](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_3_Short_October_tips_about_UX_A11y.svg)](https://dev.to/melnik909/the-3-short-october-tips-about-uxa11y-32hi)
+[![How to Add Schema Markup in WordPress](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Add_Schema_Markup_in_WordPress.svg)](https://dev.to/herryjobn/how-to-add-schema-markup-in-wordpress-1b6p)
+[![Join the 30 Days of Microsoft Graph Challenge 🦒](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Join_the_30_Days_of_Microsoft_Graph_Challenge_🦒.svg)](https://dev.to/azure/join-the-30-days-of-microsoft-graph-challenge-2imj)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, October 17, 2022 at 6:27:42 AM
+> Last updated: Monday, October 17, 2022 at 12:26:34 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, October 17, 2022 at 6:27:45 AM
+> Last updated: Monday, October 17, 2022 at 12:26:38 PM
 
 > Showing 5 of 30 posts.
 
