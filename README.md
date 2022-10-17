@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, October 16, 2022 at 7:16:56 PM
+> Last updated: Monday, October 17, 2022 at 12:47:11 AM
 
 > Showing 5 of 12 posts.
 
-[![Programação orientada a testes?!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Programação_orientada_a_testes_!.svg)](https://dev.to/devs-jequie/programacao-orientada-a-testes-58dd)
-[![Deno: how to start use it](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Deno__how_to_start_use_it.svg)](https://dev.to/ianoliv/deno-how-to-start-use-it-2n6m)
-[![Javascript Array Reduce Method](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Javascript_Array_Reduce_Method.svg)](https://dev.to/smpnjn/javascript-array-reduce-method-3a3)
-[![Why We're Breaking Up with CSS-in-JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Why_We're_Breaking_Up_with_CSS-in-JS.svg)](https://dev.to/srmagura/why-were-breaking-up-wiht-css-in-js-4g9b)
-[![React, the Humble - Write once, render in Web and Native](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/React__the_Humble_-_Write_once__render_in_Web_and_Native.svg)](https://dev.to/noriller/react-the-humble-write-once-render-in-web-and-native-3eih)
+[![How we developed our company website using NextJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_we_developed_our_company_website_using_NextJS.svg)](https://dev.to/josemukorivo/how-we-developed-our-company-website-using-nextjs-2ga5)
+[![Data Science: Project Structure](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Data_Science__Project_Structure.svg)](https://dev.to/azadkshitij/data-science-project-structure-5dh)
+[![How to write a good README](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_write_a_good_README.svg)](https://dev.to/merlos/how-to-write-a-good-readme-bog)
+[![Do you know these Software Engineering Terms?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Do_you_know_these_Software_Engineering_Terms_.svg)](https://dev.to/rahulbanerjee99/do-you-know-these-software-engineering-terms-156l)
+[![New React Multiselect NPM Package](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/New_React_Multiselect_NPM_Package.svg)](https://dev.to/rajgit96/new-react-multiselect-npm-package-1ji)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, October 16, 2022 at 7:16:58 PM
+> Last updated: Monday, October 17, 2022 at 12:47:13 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, October 16, 2022 at 7:17:03 PM
+> Last updated: Monday, October 17, 2022 at 12:47:17 AM
 
 > Showing 5 of 30 posts.
 
