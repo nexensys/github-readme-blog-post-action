@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, October 17, 2022 at 12:47:11 AM
+> Last updated: Monday, October 17, 2022 at 6:27:38 AM
 
 > Showing 5 of 12 posts.
 
-[![How we developed our company website using NextJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_we_developed_our_company_website_using_NextJS.svg)](https://dev.to/josemukorivo/how-we-developed-our-company-website-using-nextjs-2ga5)
-[![Data Science: Project Structure](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Data_Science__Project_Structure.svg)](https://dev.to/azadkshitij/data-science-project-structure-5dh)
-[![How to write a good README](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_write_a_good_README.svg)](https://dev.to/merlos/how-to-write-a-good-readme-bog)
-[![Do you know these Software Engineering Terms?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Do_you_know_these_Software_Engineering_Terms_.svg)](https://dev.to/rahulbanerjee99/do-you-know-these-software-engineering-terms-156l)
-[![New React Multiselect NPM Package](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/New_React_Multiselect_NPM_Package.svg)](https://dev.to/rajgit96/new-react-multiselect-npm-package-1ji)
+[![13 steps for perfect Authentication Flow in Backend](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/13_steps_for_perfect_Authentication_Flow_in_Backend.svg)](https://dev.to/shreyvijayvargiya/13-steps-for-perfect-authentication-flow-in-backend-3ad0)
+[![A Beginners Guide to Contributing to an Existing Git Repository](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_Beginners_Guide_to_Contributing_to_an_Existing_Git_Repository.svg)](https://dev.to/malonzaelkanah/a-beginners-guide-to-contributing-to-an-existing-git-repository-jln)
+[![Building a chat app with Socket.io and React Native 🤯](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Building_a_chat_app_with_Socket.io_and_React_Native_🤯.svg)](https://dev.to/novu/building-a-chat-app-with-socketio-and-react-native-k1b)
+[![Building a Map Application with Amazon Location Service, Leaflet, and AWS Amplify](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Building_a_Map_Application_with_Amazon_Location_Service__Leaflet__and_AWS_Amplify.svg)](https://dev.to/aws-heroes/building-a-map-application-with-amazon-location-service-leaflet-and-aws-amplify-5gbe)
+[![How to Get Started With React – A Beginner's Guide Part -2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Get_Started_With_React_–_A_Beginner's_Guide_Part_-2.svg)](https://dev.to/rajivchaulagain/how-to-get-started-with-react-a-beginners-guidepart-2-269m)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, October 17, 2022 at 12:47:13 AM
+> Last updated: Monday, October 17, 2022 at 6:27:42 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, October 17, 2022 at 12:47:17 AM
+> Last updated: Monday, October 17, 2022 at 6:27:45 AM
 
 > Showing 5 of 30 posts.
 
+[![smart_shape](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/smart_shape.svg)](https://www.npmjs.com/package/smart_shape)
 [![GitHub - wlucha/angular-starter: Angular 14 Starter with Storybook, Transloco, Jest, TestCafe, Docker, ESLint, Material & Prettier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_wlucha_angular-starter__Angular_14_Starter_with_Storybook__Transloco__Jest__TestCafe__Docker__ESLint__Material___Prettier.svg)](https://github.com/wlucha/angular-starter)
 [![JavaScript Async Function Definitions - LearnNextJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Async_Function_Definitions_-_LearnNextJS.svg)](https://learnnextjs.com/async-function-definitions/)
 [![Using the font-display CSS property to optimize custom fonts loading](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_the_font-display_CSS_property_to_optimize_custom_fonts_loading.svg)](http://www.js-craft.io/blog/using-the-font-display-css-property-to-optimize-custom-fonts-loading/)
@@ -54,9 +55,6 @@ http://www.echojs.com
 Cloudflare Pages gets even faster with Early Hints
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Cloudflare_Pages_gets_even_faster_with_Early_Hints_.svg)](
 https://blog.cloudflare.com/early-hints-on-cloudflare-pages/
-)
-[![Create a Marketplace App with Vue.js and Pinia | Webiny](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Create_a_Marketplace_App_with_Vue.js_and_Pinia___Webiny.svg)](
-https://www.webiny.com/blog/create-marketplace-app-vuejs-pinia-webiny-headless-cms
 )
 
 
