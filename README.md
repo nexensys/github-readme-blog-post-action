@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, October 17, 2022 at 12:26:31 PM
+> Last updated: Monday, October 17, 2022 at 7:10:27 PM
 
 > Showing 5 of 12 posts.
 
-[![FLiP Stack Weekly #53](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/FLiP_Stack_Weekly__53.svg)](https://dev.to/tspannhw/flip-stack-weekly-53-5a7a)
-[![5 devtools tips you may want to know 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_devtools_tips_you_may_want_to_know_🚀.svg)](https://dev.to/mustapha/5-devtools-tips-you-may-want-to-know-274h)
-[![The 3 Short October tips about UX&A11y](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_3_Short_October_tips_about_UX_A11y.svg)](https://dev.to/melnik909/the-3-short-october-tips-about-uxa11y-32hi)
-[![How to Add Schema Markup in WordPress](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Add_Schema_Markup_in_WordPress.svg)](https://dev.to/herryjobn/how-to-add-schema-markup-in-wordpress-1b6p)
-[![Join the 30 Days of Microsoft Graph Challenge 🦒](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Join_the_30_Days_of_Microsoft_Graph_Challenge_🦒.svg)](https://dev.to/azure/join-the-30-days-of-microsoft-graph-challenge-2imj)
+[![The Ultimate Guide to Product-Led Growth: A Framework for Growth that Sticks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Ultimate_Guide_to_Product-Led_Growth__A_Framework_for_Growth_that_Sticks.svg)](https://dev.to/factors_ai/the-ultimate-guide-to-product-led-growth-a-framework-for-growth-that-sticks-4oe1)
+[![React: What is it and how does it work](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/React__What_is_it_and_how_does_it_work.svg)](https://dev.to/albericojr/react-what-is-it-and-how-does-it-work-4pd7)
+[![HotReload with Ruby on Rails 7](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/HotReload_with_Ruby_on_Rails_7.svg)](https://dev.to/gs/hotreload-with-ruby-on-rails-7-3g1l)
+[![Migrating The TechIsHiring Twitter Bot](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Migrating_The_TechIsHiring_Twitter_Bot.svg)](https://dev.to/chad_r_stewart/migrating-the-techishiring-twitter-bot-42fm)
+[![Javascript Array Filter Method](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Javascript_Array_Filter_Method.svg)](https://dev.to/smpnjn/javascript-array-filter-method-28hg)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, October 17, 2022 at 12:26:34 PM
+> Last updated: Monday, October 17, 2022 at 7:10:30 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, October 17, 2022 at 12:26:38 PM
+> Last updated: Monday, October 17, 2022 at 7:10:34 PM
 
 > Showing 5 of 30 posts.
 
+[![JavaScript Copy to Clipboard](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Copy_to_Clipboard.svg)](
+https://masteringjs.io/tutorials/fundamentals/copy-to-clipboard
+)
+[![API with NestJS #79. Implementing searching with pattern matching and raw SQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__79._Implementing_searching_with_pattern_matching_and_raw_SQL.svg)](https://wanago.io/2022/10/17/api-nestjs-pattern-matching-postgresql/)
 [![smart_shape](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/smart_shape.svg)](https://www.npmjs.com/package/smart_shape)
 [![GitHub - wlucha/angular-starter: Angular 14 Starter with Storybook, Transloco, Jest, TestCafe, Docker, ESLint, Material & Prettier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_wlucha_angular-starter__Angular_14_Starter_with_Storybook__Transloco__Jest__TestCafe__Docker__ESLint__Material___Prettier.svg)](https://github.com/wlucha/angular-starter)
 [![JavaScript Async Function Definitions - LearnNextJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Async_Function_Definitions_-_LearnNextJS.svg)](https://learnnextjs.com/async-function-definitions/)
-[![Using the font-display CSS property to optimize custom fonts loading](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_the_font-display_CSS_property_to_optimize_custom_fonts_loading.svg)](http://www.js-craft.io/blog/using-the-font-display-css-property-to-optimize-custom-fonts-loading/)
-[![
-Cloudflare Pages gets even faster with Early Hints
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Cloudflare_Pages_gets_even_faster_with_Early_Hints_.svg)](
-https://blog.cloudflare.com/early-hints-on-cloudflare-pages/
-)
 
 
 <!-- post-list:end -->
