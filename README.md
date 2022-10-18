@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, October 18, 2022 at 12:52:24 AM
+> Last updated: Tuesday, October 18, 2022 at 6:26:57 AM
 
 > Showing 5 of 12 posts.
 
-[![10 Visual Studio 2022 Themes you Should Try (Free Themes!)✔️](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/10_Visual_Studio_2022_Themes_you_Should_Try_(Free_Themes!)✔️.svg)](https://dev.to/bytehide/10-visual-studio-2022-themes-you-should-try-free-themes-1f4n)
-[![The REAL implementation of Firebase Cloud Messaging on the Backend side](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_REAL_implementation_of_Firebase_Cloud_Messaging_on_the_Backend_side.svg)](https://dev.to/nicolkill/the-real-implementation-of-firebase-cloud-messaging-on-the-backend-side-3iib)
-[![Making the site responsive - part 11](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Making_the_site_responsive_-_part_11.svg)](https://dev.to/dailydevtips1/making-the-site-responsive-part-11-46a9)
-[![Two Sum IV - Input is a BST](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Two_Sum_IV_-_Input_is_a_BST.svg)](https://dev.to/zeeshanali0704/two-sum-iv-input-is-a-bst-1o3d)
-[![A little post on JS loops](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_little_post_on_JS_loops.svg)](https://dev.to/geomukkath/a-little-post-on-js-loops-ki0)
+[![Top 14 ELK alternatives[Open Source included] in 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_14_ELK_alternatives[Open_Source_included]_in_2022.svg)](https://dev.to/signoz/top-14-elk-alternativesopen-source-included-in-2022-1clh)
+[![Virtual Nurse App Development: Guide, Features & Trends](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Virtual_Nurse_App_Development__Guide__Features___Trends.svg)](https://dev.to/kuldeeptarapara/virtual-nurse-app-development-guide-features-trends-1o6c)
+[![5 Tips on How To Create The Perfect Freelancer Profile](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_Tips_on_How_To_Create_The_Perfect_Freelancer_Profile.svg)](https://dev.to/devsimc/5-tips-on-how-to-create-the-perfect-freelancer-profile-564i)
+[![How to Build a Video Game Store with Medusa and Next.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Build_a_Video_Game_Store_with_Medusa_and_Next.js.svg)](https://dev.to/medusajs/how-to-build-a-video-game-store-with-medusa-and-nextjs-kem)
+[![SemVer is Dead. Long Live SemVer!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/SemVer_is_Dead._Long_Live_SemVer!.svg)](https://dev.to/solidi/semver-is-dead-long-live-semver-4lh4)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, October 18, 2022 at 12:52:27 AM
+> Last updated: Tuesday, October 18, 2022 at 6:27:00 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, October 18, 2022 at 12:52:32 AM
+> Last updated: Tuesday, October 18, 2022 at 6:27:04 AM
 
 > Showing 5 of 30 posts.
 
+[![4 handy categories of JSON tools and when to use them - JSON Indepth](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/4_handy_categories_of_JSON_tools_and_when_to_use_them_-_JSON_Indepth.svg)](https://jsoneditoronline.org/indepth/tools/4-handy-categories-of-json-tools/)
+[![I love the Web platform](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/I_love_the_Web_platform.svg)](https://iloveweb.dev)
+[![What if the team hates my functional code?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_if_the_team_hates_my_functional_code_.svg)](https://jrsinclair.com/articles/2022/what-if-the-team-hates-my-functional-code/)
 [![JavaScript Copy to Clipboard](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Copy_to_Clipboard.svg)](
 https://masteringjs.io/tutorials/fundamentals/copy-to-clipboard
 )
 [![API with NestJS #79. Implementing searching with pattern matching and raw SQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__79._Implementing_searching_with_pattern_matching_and_raw_SQL.svg)](https://wanago.io/2022/10/17/api-nestjs-pattern-matching-postgresql/)
-[![smart_shape](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/smart_shape.svg)](https://www.npmjs.com/package/smart_shape)
-[![GitHub - wlucha/angular-starter: Angular 14 Starter with Storybook, Transloco, Jest, TestCafe, Docker, ESLint, Material & Prettier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_wlucha_angular-starter__Angular_14_Starter_with_Storybook__Transloco__Jest__TestCafe__Docker__ESLint__Material___Prettier.svg)](https://github.com/wlucha/angular-starter)
-[![JavaScript Async Function Definitions - LearnNextJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Async_Function_Definitions_-_LearnNextJS.svg)](https://learnnextjs.com/async-function-definitions/)
 
 
 <!-- post-list:end -->
