@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, October 17, 2022 at 7:10:27 PM
+> Last updated: Tuesday, October 18, 2022 at 12:52:24 AM
 
 > Showing 5 of 12 posts.
 
-[![The Ultimate Guide to Product-Led Growth: A Framework for Growth that Sticks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Ultimate_Guide_to_Product-Led_Growth__A_Framework_for_Growth_that_Sticks.svg)](https://dev.to/factors_ai/the-ultimate-guide-to-product-led-growth-a-framework-for-growth-that-sticks-4oe1)
-[![React: What is it and how does it work](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/React__What_is_it_and_how_does_it_work.svg)](https://dev.to/albericojr/react-what-is-it-and-how-does-it-work-4pd7)
-[![HotReload with Ruby on Rails 7](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/HotReload_with_Ruby_on_Rails_7.svg)](https://dev.to/gs/hotreload-with-ruby-on-rails-7-3g1l)
-[![Migrating The TechIsHiring Twitter Bot](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Migrating_The_TechIsHiring_Twitter_Bot.svg)](https://dev.to/chad_r_stewart/migrating-the-techishiring-twitter-bot-42fm)
-[![Javascript Array Filter Method](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Javascript_Array_Filter_Method.svg)](https://dev.to/smpnjn/javascript-array-filter-method-28hg)
+[![10 Visual Studio 2022 Themes you Should Try (Free Themes!)✔️](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/10_Visual_Studio_2022_Themes_you_Should_Try_(Free_Themes!)✔️.svg)](https://dev.to/bytehide/10-visual-studio-2022-themes-you-should-try-free-themes-1f4n)
+[![The REAL implementation of Firebase Cloud Messaging on the Backend side](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_REAL_implementation_of_Firebase_Cloud_Messaging_on_the_Backend_side.svg)](https://dev.to/nicolkill/the-real-implementation-of-firebase-cloud-messaging-on-the-backend-side-3iib)
+[![Making the site responsive - part 11](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Making_the_site_responsive_-_part_11.svg)](https://dev.to/dailydevtips1/making-the-site-responsive-part-11-46a9)
+[![Two Sum IV - Input is a BST](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Two_Sum_IV_-_Input_is_a_BST.svg)](https://dev.to/zeeshanali0704/two-sum-iv-input-is-a-bst-1o3d)
+[![A little post on JS loops](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_little_post_on_JS_loops.svg)](https://dev.to/geomukkath/a-little-post-on-js-loops-ki0)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, October 17, 2022 at 7:10:30 PM
+> Last updated: Tuesday, October 18, 2022 at 12:52:27 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, October 17, 2022 at 7:10:34 PM
+> Last updated: Tuesday, October 18, 2022 at 12:52:32 AM
 
 > Showing 5 of 30 posts.
 
