@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, October 18, 2022 at 6:26:57 AM
+> Last updated: Tuesday, October 18, 2022 at 12:22:45 PM
 
 > Showing 5 of 12 posts.
 
-[![Top 14 ELK alternatives[Open Source included] in 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_14_ELK_alternatives[Open_Source_included]_in_2022.svg)](https://dev.to/signoz/top-14-elk-alternativesopen-source-included-in-2022-1clh)
-[![Virtual Nurse App Development: Guide, Features & Trends](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Virtual_Nurse_App_Development__Guide__Features___Trends.svg)](https://dev.to/kuldeeptarapara/virtual-nurse-app-development-guide-features-trends-1o6c)
-[![5 Tips on How To Create The Perfect Freelancer Profile](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_Tips_on_How_To_Create_The_Perfect_Freelancer_Profile.svg)](https://dev.to/devsimc/5-tips-on-how-to-create-the-perfect-freelancer-profile-564i)
-[![How to Build a Video Game Store with Medusa and Next.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Build_a_Video_Game_Store_with_Medusa_and_Next.js.svg)](https://dev.to/medusajs/how-to-build-a-video-game-store-with-medusa-and-nextjs-kem)
-[![SemVer is Dead. Long Live SemVer!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/SemVer_is_Dead._Long_Live_SemVer!.svg)](https://dev.to/solidi/semver-is-dead-long-live-semver-4lh4)
+[![Signs that your PHP code needs refactoring](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Signs_that_your_PHP_code_needs_refactoring.svg)](https://dev.to/jmau111/signs-that-your-php-code-needs-refactoring-5enf)
+[![How to search for Tweets about various 'Topics' using the Twitter API v2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_search_for_Tweets_about_various_'Topics'_using_the_Twitter_API_v2.svg)](https://dev.to/suhemparack/how-to-search-for-tweets-about-various-topics-using-the-twitter-api-v2-3p86)
+[![The shaky foundation of our time - one year after Facebook’s major outage](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_shaky_foundation_of_our_time_-_one_year_after_Facebook’s_major_outage.svg)](https://dev.to/zhiyand/the-shaky-foundation-of-our-time-one-year-after-facebooks-major-outage-48lo)
+[![How Is Sketching A Drawing Like Coding?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_Is_Sketching_A_Drawing_Like_Coding_.svg)](https://dev.to/raddevus/how-is-sketching-a-drawing-like-coding-1ga8)
+[![7 Tips for job hunting from my personal experience](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/7_Tips_for_job_hunting_from_my_personal_experience.svg)](https://dev.to/aneeqakhan/7-tips-for-job-hunting-from-my-personal-experience-3f04)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, October 18, 2022 at 6:27:00 AM
+> Last updated: Tuesday, October 18, 2022 at 12:22:48 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, October 18, 2022 at 6:27:04 AM
+> Last updated: Tuesday, October 18, 2022 at 12:22:53 PM
 
 > Showing 5 of 30 posts.
 
+[![Setting the page title and metadata in NextJs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Setting_the_page_title_and_metadata_in_NextJs.svg)](http://www.js-craft.io/blog/setting-the-page-title-and-metadata-in-nextjs/)
 [![4 handy categories of JSON tools and when to use them - JSON Indepth](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/4_handy_categories_of_JSON_tools_and_when_to_use_them_-_JSON_Indepth.svg)](https://jsoneditoronline.org/indepth/tools/4-handy-categories-of-json-tools/)
 [![I love the Web platform](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/I_love_the_Web_platform.svg)](https://iloveweb.dev)
 [![What if the team hates my functional code?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_if_the_team_hates_my_functional_code_.svg)](https://jrsinclair.com/articles/2022/what-if-the-team-hates-my-functional-code/)
 [![JavaScript Copy to Clipboard](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Copy_to_Clipboard.svg)](
 https://masteringjs.io/tutorials/fundamentals/copy-to-clipboard
 )
-[![API with NestJS #79. Implementing searching with pattern matching and raw SQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__79._Implementing_searching_with_pattern_matching_and_raw_SQL.svg)](https://wanago.io/2022/10/17/api-nestjs-pattern-matching-postgresql/)
 
 
 <!-- post-list:end -->
