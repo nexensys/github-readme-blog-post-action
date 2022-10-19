@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, October 18, 2022 at 12:22:45 PM
+> Last updated: Tuesday, October 18, 2022 at 7:11:22 PM
 
 > Showing 5 of 12 posts.
 
-[![Signs that your PHP code needs refactoring](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Signs_that_your_PHP_code_needs_refactoring.svg)](https://dev.to/jmau111/signs-that-your-php-code-needs-refactoring-5enf)
-[![How to search for Tweets about various 'Topics' using the Twitter API v2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_search_for_Tweets_about_various_'Topics'_using_the_Twitter_API_v2.svg)](https://dev.to/suhemparack/how-to-search-for-tweets-about-various-topics-using-the-twitter-api-v2-3p86)
-[![The shaky foundation of our time - one year after Facebook’s major outage](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_shaky_foundation_of_our_time_-_one_year_after_Facebook’s_major_outage.svg)](https://dev.to/zhiyand/the-shaky-foundation-of-our-time-one-year-after-facebooks-major-outage-48lo)
-[![How Is Sketching A Drawing Like Coding?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_Is_Sketching_A_Drawing_Like_Coding_.svg)](https://dev.to/raddevus/how-is-sketching-a-drawing-like-coding-1ga8)
-[![7 Tips for job hunting from my personal experience](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/7_Tips_for_job_hunting_from_my_personal_experience.svg)](https://dev.to/aneeqakhan/7-tips-for-job-hunting-from-my-personal-experience-3f04)
+[![CSS columns 🎨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/CSS_columns_🎨.svg)](https://dev.to/duxtech/css-columns-4c2)
+[![Code Smell 170 - Refactor with Functional Changes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Code_Smell_170_-_Refactor_with_Functional_Changes.svg)](https://dev.to/mcsee/code-smell-170-refactor-with-functional-changes-4e13)
+[![Declarative Server & Client Code to Enable Linting and Splitting.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Declarative_Server___Client_Code_to_Enable_Linting_and_Splitting..svg)](https://dev.to/reggi/filekinds-proposal-rules-for-files-and-folders-bmp)
+[![9 Shopify App Integrations to Create the Ultimate Store](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/9_Shopify_App_Integrations_to_Create_the_Ultimate_Store.svg)](https://dev.to/devinpickell/9-shopify-app-integrations-to-create-the-ultimate-store-nk8)
+[![Newcontent.ai](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Newcontent.ai.svg)](https://dev.to/thedailyeng/newcontentai-4den)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, October 18, 2022 at 12:22:48 PM
+> Last updated: Tuesday, October 18, 2022 at 7:11:26 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, October 18, 2022 at 12:22:53 PM
+> Last updated: Tuesday, October 18, 2022 at 7:11:31 PM
 
 > Showing 5 of 30 posts.
 
+[![Understanding composition easy way](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Understanding_composition_easy_way.svg)](
+https://frontendroom.com/understanding-composition-easy-way
+)
 [![Setting the page title and metadata in NextJs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Setting_the_page_title_and_metadata_in_NextJs.svg)](http://www.js-craft.io/blog/setting-the-page-title-and-metadata-in-nextjs/)
 [![4 handy categories of JSON tools and when to use them - JSON Indepth](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/4_handy_categories_of_JSON_tools_and_when_to_use_them_-_JSON_Indepth.svg)](https://jsoneditoronline.org/indepth/tools/4-handy-categories-of-json-tools/)
 [![I love the Web platform](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/I_love_the_Web_platform.svg)](https://iloveweb.dev)
 [![What if the team hates my functional code?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_if_the_team_hates_my_functional_code_.svg)](https://jrsinclair.com/articles/2022/what-if-the-team-hates-my-functional-code/)
-[![JavaScript Copy to Clipboard](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Copy_to_Clipboard.svg)](
-https://masteringjs.io/tutorials/fundamentals/copy-to-clipboard
-)
 
 
 <!-- post-list:end -->
