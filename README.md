@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, October 18, 2022 at 7:11:22 PM
+> Last updated: Wednesday, October 19, 2022 at 12:55:39 AM
 
 > Showing 5 of 12 posts.
 
+[![Debian Sistemlerde NFS Sunucusu Oluşturma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Debian_Sistemlerde_NFS_Sunucusu_Oluşturma.svg)](https://dev.to/aciklab/debian-sistemlerde-nfs-sunucusu-olusturma-2pij)
+[![Loading local markdown blog posts - part 12](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Loading_local_markdown_blog_posts_-_part_12.svg)](https://dev.to/dailydevtips1/loading-local-markdown-blog-posts-part-12-221g)
 [![CSS columns 🎨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/CSS_columns_🎨.svg)](https://dev.to/duxtech/css-columns-4c2)
+[![ORM Eloquent: Model](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/ORM_Eloquent__Model.svg)](https://dev.to/marciopolicarpo/orm-eloquent-model-361g)
 [![Code Smell 170 - Refactor with Functional Changes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Code_Smell_170_-_Refactor_with_Functional_Changes.svg)](https://dev.to/mcsee/code-smell-170-refactor-with-functional-changes-4e13)
-[![Declarative Server & Client Code to Enable Linting and Splitting.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Declarative_Server___Client_Code_to_Enable_Linting_and_Splitting..svg)](https://dev.to/reggi/filekinds-proposal-rules-for-files-and-folders-bmp)
-[![9 Shopify App Integrations to Create the Ultimate Store](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/9_Shopify_App_Integrations_to_Create_the_Ultimate_Store.svg)](https://dev.to/devinpickell/9-shopify-app-integrations-to-create-the-ultimate-store-nk8)
-[![Newcontent.ai](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Newcontent.ai.svg)](https://dev.to/thedailyeng/newcontentai-4den)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, October 18, 2022 at 7:11:26 PM
+> Last updated: Wednesday, October 19, 2022 at 12:55:42 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, October 18, 2022 at 7:11:31 PM
+> Last updated: Wednesday, October 19, 2022 at 12:55:47 AM
 
 > Showing 5 of 30 posts.
 
