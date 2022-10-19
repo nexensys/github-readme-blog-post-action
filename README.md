@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, October 19, 2022 at 6:27:07 AM
+> Last updated: Wednesday, October 19, 2022 at 12:25:42 PM
 
 > Showing 5 of 12 posts.
 
-[![My RISC-V OSDev journey, so far](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/My_RISC-V_OSDev_journey__so_far.svg)](https://dev.to/donaldsebleung/my-risc-v-osdev-journey-so-far-5eok)
-[![Quasar Admin CRM New Version [Premium] .. Quasar 2/Vue 3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Quasar_Admin_CRM_New_Version_[Premium]_.._Quasar_2_Vue_3.svg)](https://dev.to/mayank091193/quasar-admin-crm-new-version-premium-quasar-2vue-3-59m9)
-[![Material UI AutoComplete in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Material_UI_AutoComplete_in_React.svg)](https://dev.to/refine/material-ui-autocomplete-in-react-1ip6)
-[![DataFrame Wars: Polars Leaves Pandas in the dust!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/DataFrame_Wars__Polars_Leaves_Pandas_in_the_dust!.svg)](https://dev.to/chainguns/dataframe-wars-polars-leaves-pandas-in-the-dust-55aa)
-[![Why couldn't you get a job as a freelancer?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Why_couldn't_you_get_a_job_as_a_freelancer_.svg)](https://dev.to/ymhaah/why-couldnt-you-get-a-job-as-a-freelancer-1jm8)
+[![Learn Automation in Python with 7 Projects](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Learn_Automation_in_Python_with_7_Projects.svg)](https://dev.to/bekbrace/learn-automation-in-python-with-7-projects-dd3)
+[![React Pro Tip #2 — How to Type `this.props` to Include `defaultProps`](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/React_Pro_Tip__2_—_How_to_Type_`this.props`_to_Include_`defaultProps`.svg)](https://dev.to/deckstar/react-pro-tip-2-how-to-type-thisprops-to-include-defaultprops-46l5)
+[![Exceptions in Java lambdas](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Exceptions_in_Java_lambdas.svg)](https://dev.to/nfrankel/exceptions-in-java-lambdas-l1i)
+[![Porquê e como utilizar Dataloaders](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Porquê_e_como_utilizar_Dataloaders.svg)](https://dev.to/ddanielsantos/porque-e-como-utilizar-dataloaders-175f)
+[![I Created an 🤯 Online Multiplayer Game 🎮 in ReactJS and Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/I_Created_an_🤯_Online_Multiplayer_Game_🎮_in_ReactJS_and_Python.svg)](https://dev.to/rajeshj3/i-created-an-online-multiplayer-game-in-reactjs-and-python-544o)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, October 19, 2022 at 6:27:09 AM
+> Last updated: Wednesday, October 19, 2022 at 12:25:46 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,25 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, October 19, 2022 at 6:27:13 AM
+> Last updated: Wednesday, October 19, 2022 at 12:25:50 PM
 
 > Showing 5 of 30 posts.
 
-[![
-Valorant chat commands that players should know
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Valorant_chat_commands_that_players_should_know_.svg)](
-http://www.echojs.com/news/41163
-)
-[![
-250+ Fox Names (Male & Female)
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_250+_Fox_Names_(Male___Female)_.svg)](
-http://www.echojs.com/news/41162
-)
 [![Understanding composition easy way](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Understanding_composition_easy_way.svg)](
 https://frontendroom.com/understanding-composition-easy-way
 )
 [![Setting the page title and metadata in NextJs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Setting_the_page_title_and_metadata_in_NextJs.svg)](http://www.js-craft.io/blog/setting-the-page-title-and-metadata-in-nextjs/)
 [![4 handy categories of JSON tools and when to use them - JSON Indepth](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/4_handy_categories_of_JSON_tools_and_when_to_use_them_-_JSON_Indepth.svg)](https://jsoneditoronline.org/indepth/tools/4-handy-categories-of-json-tools/)
+[![What if the team hates my functional code?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_if_the_team_hates_my_functional_code_.svg)](https://jrsinclair.com/articles/2022/what-if-the-team-hates-my-functional-code/)
+[![JavaScript Copy to Clipboard](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Copy_to_Clipboard.svg)](
+https://masteringjs.io/tutorials/fundamentals/copy-to-clipboard
+)
 
 
 <!-- post-list:end -->
