@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, October 19, 2022 at 7:06:57 PM
+> Last updated: Thursday, October 20, 2022 at 12:22:53 AM
 
 > Showing 5 of 12 posts.
 
-[![Generate a Blog with OpenAI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Generate_a_Blog_with_OpenAI.svg)](https://dev.to/codedex/generate-a-blog-with-openai-5eio)
-[![How To Create A Ruby On Rails API With Scaffold - Full 10 Step Guide In 5 Minutes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_To_Create_A_Ruby_On_Rails_API_With_Scaffold_-_Full_10_Step_Guide_In_5_Minutes.svg)](https://dev.to/elliotmangini/how-to-create-a-rails-api-with-scaffold-full-10-step-guide-in-5-minutes-29a5)
-[![In One Minute : PostgreSQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/In_One_Minute___PostgreSQL.svg)](https://dev.to/rakeshkr2/in-one-minute-postgresql-2f7e)
-[![Learn Automation in Python with 7 Projects](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Learn_Automation_in_Python_with_7_Projects.svg)](https://dev.to/bekbrace/learn-automation-in-python-with-7-projects-dd3)
-[![Purity injection in Elixir](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Purity_injection_in_Elixir.svg)](https://dev.to/katafrakt/purity-injection-in-elixir-2dpa)
+[![Deploy and Run Apache APISIX on Scaleway Cloud](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Deploy_and_Run_Apache_APISIX_on_Scaleway_Cloud.svg)](https://dev.to/apisix/deploy-and-run-apache-apisix-on-scaleway-cloud-1fi)
+[![Superfast search with RediSearch](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Superfast_search_with_RediSearch.svg)](https://dev.to/solegaonkar/superfast-search-with-redisearch-fch)
+[![I Re-Wrote These 10+ Single Lines of JavaScript Code, the Team Lead Praised the Code for Being Elegant](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/I_Re-Wrote_These_10+_Single_Lines_of_JavaScript_Code__the_Team_Lead_Praised_the_Code_for_Being_Elegant.svg)](https://dev.to/rida/i-re-wrote-these-10-single-lines-of-javascript-code-the-team-lead-praised-the-code-for-being-elegant-ec)
+[![Low-Code and Software Quality](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Low-Code_and_Software_Quality.svg)](https://dev.to/polterguy/low-code-and-software-quality-3b4g)
+[![Run your README.md like a notebook in VS Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Run_your_README.md_like_a_notebook_in_VS_Code.svg)](https://dev.to/sourishkrout/run-your-readmemd-in-vs-code-50l7)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, October 19, 2022 at 7:07:00 PM
+> Last updated: Thursday, October 20, 2022 at 12:22:56 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, October 19, 2022 at 7:07:03 PM
+> Last updated: Thursday, October 20, 2022 at 12:23:00 AM
 
 > Showing 5 of 30 posts.
 
