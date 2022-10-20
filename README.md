@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, October 19, 2022 at 12:25:42 PM
+> Last updated: Wednesday, October 19, 2022 at 7:06:57 PM
 
 > Showing 5 of 12 posts.
 
+[![Generate a Blog with OpenAI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Generate_a_Blog_with_OpenAI.svg)](https://dev.to/codedex/generate-a-blog-with-openai-5eio)
+[![How To Create A Ruby On Rails API With Scaffold - Full 10 Step Guide In 5 Minutes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_To_Create_A_Ruby_On_Rails_API_With_Scaffold_-_Full_10_Step_Guide_In_5_Minutes.svg)](https://dev.to/elliotmangini/how-to-create-a-rails-api-with-scaffold-full-10-step-guide-in-5-minutes-29a5)
+[![In One Minute : PostgreSQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/In_One_Minute___PostgreSQL.svg)](https://dev.to/rakeshkr2/in-one-minute-postgresql-2f7e)
 [![Learn Automation in Python with 7 Projects](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Learn_Automation_in_Python_with_7_Projects.svg)](https://dev.to/bekbrace/learn-automation-in-python-with-7-projects-dd3)
-[![React Pro Tip #2 — How to Type `this.props` to Include `defaultProps`](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/React_Pro_Tip__2_—_How_to_Type_`this.props`_to_Include_`defaultProps`.svg)](https://dev.to/deckstar/react-pro-tip-2-how-to-type-thisprops-to-include-defaultprops-46l5)
-[![Exceptions in Java lambdas](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Exceptions_in_Java_lambdas.svg)](https://dev.to/nfrankel/exceptions-in-java-lambdas-l1i)
-[![Porquê e como utilizar Dataloaders](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Porquê_e_como_utilizar_Dataloaders.svg)](https://dev.to/ddanielsantos/porque-e-como-utilizar-dataloaders-175f)
-[![I Created an 🤯 Online Multiplayer Game 🎮 in ReactJS and Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/I_Created_an_🤯_Online_Multiplayer_Game_🎮_in_ReactJS_and_Python.svg)](https://dev.to/rajeshj3/i-created-an-online-multiplayer-game-in-reactjs-and-python-544o)
+[![Purity injection in Elixir](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Purity_injection_in_Elixir.svg)](https://dev.to/katafrakt/purity-injection-in-elixir-2dpa)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, October 19, 2022 at 12:25:46 PM
+> Last updated: Wednesday, October 19, 2022 at 7:07:00 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, October 19, 2022 at 12:25:50 PM
+> Last updated: Wednesday, October 19, 2022 at 7:07:03 PM
 
 > Showing 5 of 30 posts.
 
+[![How to Copy Content to the Clipboard in Vue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Copy_Content_to_the_Clipboard_in_Vue.svg)](
+https://masteringjs.io/tutorials/vue/copy-to-clipboard
+)
 [![Understanding composition easy way](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Understanding_composition_easy_way.svg)](
 https://frontendroom.com/understanding-composition-easy-way
 )
 [![Setting the page title and metadata in NextJs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Setting_the_page_title_and_metadata_in_NextJs.svg)](http://www.js-craft.io/blog/setting-the-page-title-and-metadata-in-nextjs/)
 [![4 handy categories of JSON tools and when to use them - JSON Indepth](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/4_handy_categories_of_JSON_tools_and_when_to_use_them_-_JSON_Indepth.svg)](https://jsoneditoronline.org/indepth/tools/4-handy-categories-of-json-tools/)
 [![What if the team hates my functional code?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_if_the_team_hates_my_functional_code_.svg)](https://jrsinclair.com/articles/2022/what-if-the-team-hates-my-functional-code/)
-[![JavaScript Copy to Clipboard](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Copy_to_Clipboard.svg)](
-https://masteringjs.io/tutorials/fundamentals/copy-to-clipboard
-)
 
 
 <!-- post-list:end -->

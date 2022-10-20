@@ -78,8 +78,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
         <div class="image" />
 <div class="text">
-          <div class="title">JavaScript&#0032;Copy&#0032;to&#0032;Clipboard</div>
-          <div class="description">Here&#0039;s&#0032;how&#0032;you&#0032;can&#0032;copy&#0032;text&#0032;to&#0032;the&#0032;clipboard&#0032;programatically&#0032;in&#0032;JavaScript&#0046;</div>
+          <div class="title">How&#0032;to&#0032;Copy&#0032;Content&#0032;to&#0032;the&#0032;Clipboard&#0032;in&#0032;Vue</div>
+          <div class="description">Here&#0039;s&#0032;how&#0032;you&#0032;can&#0032;copy&#0032;text&#0032;to&#0032;the&#0032;clipboard&#0032;programatically&#0032;with&#0032;Vue&#0046;</div>
           <div class="date"></div>
           <div class="data">
             <span class="author"></span> 
