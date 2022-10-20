@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, October 20, 2022 at 12:22:53 AM
+> Last updated: Thursday, October 20, 2022 at 6:25:59 AM
 
 > Showing 5 of 12 posts.
 
-[![Deploy and Run Apache APISIX on Scaleway Cloud](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Deploy_and_Run_Apache_APISIX_on_Scaleway_Cloud.svg)](https://dev.to/apisix/deploy-and-run-apache-apisix-on-scaleway-cloud-1fi)
-[![Superfast search with RediSearch](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Superfast_search_with_RediSearch.svg)](https://dev.to/solegaonkar/superfast-search-with-redisearch-fch)
-[![I Re-Wrote These 10+ Single Lines of JavaScript Code, the Team Lead Praised the Code for Being Elegant](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/I_Re-Wrote_These_10+_Single_Lines_of_JavaScript_Code__the_Team_Lead_Praised_the_Code_for_Being_Elegant.svg)](https://dev.to/rida/i-re-wrote-these-10-single-lines-of-javascript-code-the-team-lead-praised-the-code-for-being-elegant-ec)
-[![Low-Code and Software Quality](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Low-Code_and_Software_Quality.svg)](https://dev.to/polterguy/low-code-and-software-quality-3b4g)
-[![Run your README.md like a notebook in VS Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Run_your_README.md_like_a_notebook_in_VS_Code.svg)](https://dev.to/sourishkrout/run-your-readmemd-in-vs-code-50l7)
+[![OpenTelemetry Logs - A Complete Introduction & Implementation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/OpenTelemetry_Logs_-_A_Complete_Introduction___Implementation.svg)](https://dev.to/signoz/opentelemetry-logs-a-complete-introduction-implementation-48nk)
+[![Create your first piece of CSS art from scratch.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Create_your_first_piece_of_CSS_art_from_scratch..svg)](https://dev.to/hr21don/create-your-first-piece-of-css-art-from-scratch-fm9)
+[![Three ways to scale your Database (Replication vs Sharding vs Partitioning)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Three_ways_to_scale_your_Database_(Replication_vs_Sharding_vs_Partitioning).svg)](https://dev.to/amrelmohamady/three-ways-to-scale-your-database-replication-vs-sharding-vs-partitioning-1en7)
+[![I made a premium admin dashboard for NextJS & Typescript!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/I_made_a_premium_admin_dashboard_for_NextJS___Typescript!.svg)](https://dev.to/fredy/i-made-a-premium-admin-dashboard-for-nextjs-typescript-1h94)
+[![Simple React like button with Stylify CSS. From Utilities to Components, mangled selectors, and 50% smaller production build.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Simple_React_like_button_with_Stylify_CSS._From_Utilities_to_Components__mangled_selectors__and_50__smaller_production_build..svg)](https://dev.to/machy8/simple-react-like-button-with-stylify-css-from-utilities-to-components-mangled-selectors-and-50-smaller-production-build-dg)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, October 20, 2022 at 12:22:56 AM
+> Last updated: Thursday, October 20, 2022 at 6:26:03 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, October 20, 2022 at 12:23:00 AM
+> Last updated: Thursday, October 20, 2022 at 6:26:09 AM
 
 > Showing 5 of 30 posts.
 
+[![How to remove Java from JavaScript | Tolgee](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_remove_Java_from_JavaScript___Tolgee.svg)](https://tolgee.io/blog/closure-objects)
 [![How to Copy Content to the Clipboard in Vue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Copy_Content_to_the_Clipboard_in_Vue.svg)](
 https://masteringjs.io/tutorials/vue/copy-to-clipboard
 )
@@ -55,7 +56,6 @@ https://frontendroom.com/understanding-composition-easy-way
 )
 [![Setting the page title and metadata in NextJs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Setting_the_page_title_and_metadata_in_NextJs.svg)](http://www.js-craft.io/blog/setting-the-page-title-and-metadata-in-nextjs/)
 [![4 handy categories of JSON tools and when to use them - JSON Indepth](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/4_handy_categories_of_JSON_tools_and_when_to_use_them_-_JSON_Indepth.svg)](https://jsoneditoronline.org/indepth/tools/4-handy-categories-of-json-tools/)
-[![What if the team hates my functional code?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_if_the_team_hates_my_functional_code_.svg)](https://jrsinclair.com/articles/2022/what-if-the-team-hates-my-functional-code/)
 
 
 <!-- post-list:end -->
