@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, October 23, 2022 at 12:15:08 PM
+> Last updated: Sunday, October 23, 2022 at 7:19:11 PM
 
 > Showing 5 of 12 posts.
 
-[![If you could get rid of one thing about your job, what would it be?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/If_you_could_get_rid_of_one_thing_about_your_job__what_would_it_be_.svg)](https://dev.to/flawnson/if-you-could-get-rid-of-one-thing-about-your-job-what-would-it-be-hbm)
-[![Proposal the "as-ts" language server, a deno loader in userland?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Proposal_the__as-ts__language_server__a_deno_loader_in_userland_.svg)](https://dev.to/reggi/proposal-the-as-ts-language-server-52in)
-[![ElasticSearch: Switch Index like a Pro](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/ElasticSearch__Switch_Index_like_a_Pro.svg)](https://dev.to/paulopu/elasticsearch-switch-index-like-a-pro-3eo8)
-[![I Created a Programming Puzzle Game](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/I_Created_a_Programming_Puzzle_Game.svg)](https://dev.to/perssondennis/i-created-a-programming-puzzle-game-250h)
-[![Piano - HTML, CSS, JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Piano_-_HTML__CSS__JavaScript.svg)](https://dev.to/mjb/piano-html-css-javascript-1p3b)
+[![O que significa o dia da Ada Lovelace?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/O_que_significa_o_dia_da_Ada_Lovelace_.svg)](https://dev.to/feministech/o-que-significa-o-dia-da-ada-lovelace-4o8n)
+[![Movin' On Up: An Analysis of The Privilege Escalation Vulnerability CVE-2022-26923](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Movin'_On_Up__An_Analysis_of_The_Privilege_Escalation_Vulnerability_CVE-2022-26923.svg)](https://dev.to/austinjhunt/movin-on-up-an-analysis-of-the-privilege-escalation-vulnerability-cve-2022-26923-2hf9)
+[![Start with one test](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Start_with_one_test.svg)](https://dev.to/noriller/start-with-one-test-57hb)
+[![Processing user input in Bubble Tea with a menu component](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Processing_user_input_in_Bubble_Tea_with_a_menu_component.svg)](https://dev.to/andyhaskell/processing-user-input-in-bubble-tea-with-a-menu-component-222i)
+[![Intro to Bubble Tea in Go](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Intro_to_Bubble_Tea_in_Go.svg)](https://dev.to/andyhaskell/intro-to-bubble-tea-in-go-21lg)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, October 23, 2022 at 12:15:11 PM
+> Last updated: Sunday, October 23, 2022 at 7:19:14 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, October 23, 2022 at 12:15:16 PM
+> Last updated: Sunday, October 23, 2022 at 7:19:17 PM
 
 > Showing 5 of 30 posts.
 
 [![Create Express/Node + Postgres Backend for React App with CRUD, validation, and RBAC | Remult Demo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Create_Express_Node_+_Postgres_Backend_for_React_App_with_CRUD__validation__and_RBAC___Remult_Demo.svg)](https://www.youtube.com/watch?v=rEoScmSVNUE)
-[![How to Improve Your Webpage Speed for Faster Website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Improve_Your_Webpage_Speed_for_Faster_Website.svg)](https://nerdleveltech.com/how-to-improve-your-webpage-speed-for-faster-website/)
 [![GitHub - eneskarpuz/react-native-drag-text-editor: 📝 60FPS dynamic text editor powered with Reanimated for no-code, photo editor cases.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_eneskarpuz_react-native-drag-text-editor__📝_60FPS_dynamic_text_editor_powered_with_Reanimated_for_no-code__photo_editor_cases..svg)](https://github.com/eneskarpuz/react-native-drag-text-editor)
 [![Using Font Awesome with React - Wisdom Geek](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_Font_Awesome_with_React_-_Wisdom_Geek.svg)](https://www.wisdomgeek.com/development/web-development/react/using-font-awesome-with-react/)
 [![GitHub - stefanocudini/PeliasLite: Minimal Single Service Interface of Pelias Geocoder in Nodejs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_stefanocudini_PeliasLite__Minimal_Single_Service_Interface_of_Pelias_Geocoder_in_Nodejs.svg)](https://github.com/stefanocudini/PeliasLite)
+[![npm bin script confusion: Abusing ‘bin’ to hijack ‘node’ command - Socket](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/npm_bin_script_confusion__Abusing_‘bin’_to_hijack_‘node’_command_-_Socket.svg)](https://socket.dev/blog/npm-bin-script-confusion)
 
 
 <!-- post-list:end -->
