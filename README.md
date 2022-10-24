@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, October 24, 2022 at 6:25:57 AM
+> Last updated: Monday, October 24, 2022 at 12:24:45 PM
 
 > Showing 5 of 12 posts.
 
-[![Movement and Visibility Detection with CSS and JS 👀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Movement_and_Visibility_Detection_with_CSS_and_JS_👀.svg)](https://dev.to/ingosteinke/movement-and-visibility-detection-with-css-and-js-53m7)
-[![Awesome Websites For UI/UX Inspiration](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Awesome_Websites_For_UI_UX_Inspiration.svg)](https://dev.to/surajondev/awesome-websites-for-uiux-inspiration-5h75)
-[![My Rust development workflow (after 3+ years)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/My_Rust_development_workflow_(after_3+_years).svg)](https://dev.to/sylvainkerkour/my-rust-development-workflow-after-3-years-217m)
-[![Javascript: Minification vs Obfuscation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Javascript__Minification_vs_Obfuscation.svg)](https://dev.to/urstrulyvishwak/javascript-minification-vs-obfuscation-2h02)
-[![Why You Should Learn ReactJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Why_You_Should_Learn_ReactJS.svg)](https://dev.to/tyaga001/why-you-should-learn-reactjs-91p)
+[![Best way to learn react js for free](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Best_way_to_learn_react_js_for_free.svg)](https://dev.to/shine18/best-way-to-learn-react-js-for-free-1joe)
+[![The 5 online coding and development tools you need to know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_5_online_coding_and_development_tools_you_need_to_know.svg)](https://dev.to/glowreeyah/the-5-online-coding-and-development-tools-you-need-to-know-p0e)
+[![Monday Learning](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Monday_Learning.svg)](https://dev.to/aryakris/monday-learning-5g3p)
+[![What is react ?And How to learn react in one week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_react__And_How_to_learn_react_in_one_week.svg)](https://dev.to/vivek7038/how-react-works--bkf)
+[![Fullstack JS with Angular Universal and NestJS (Nx flavor)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Fullstack_JS_with_Angular_Universal_and_NestJS_(Nx_flavor).svg)](https://dev.to/yannickboetzkes/fullstack-js-with-angular-universal-and-nestjs-nx-flavor-46k5)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, October 24, 2022 at 6:26:00 AM
+> Last updated: Monday, October 24, 2022 at 12:24:49 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, October 24, 2022 at 6:26:06 AM
+> Last updated: Monday, October 24, 2022 at 12:24:57 PM
 
 > Showing 5 of 30 posts.
 
+[![What Football Innovations Exist and What We Expect In Qatar 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_Football_Innovations_Exist_and_What_We_Expect_In_Qatar_2022.svg)](https://nerdleveltech.com/what-football-innovations-exist-and-what-we-expect-in-qatar-2022/)
 [![API with NestJS #80. Updating entities with PUT and PATCH using raw SQL queries](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__80._Updating_entities_with_PUT_and_PATCH_using_raw_SQL_queries.svg)](https://wanago.io/2022/10/24/api-nestjs-put-patch-sql/)
 [![GitHub - xun19/easy-ring: a Vue component to ring](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_xun19_easy-ring__a_Vue_component_to_ring.svg)](https://github.com/xun19/easy-ring)
 [![whaly](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/whaly.svg)](https://www.npmjs.com/package/whaly)
 [![Create Express/Node + Postgres Backend for React App with CRUD, validation, and RBAC | Remult Demo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Create_Express_Node_+_Postgres_Backend_for_React_App_with_CRUD__validation__and_RBAC___Remult_Demo.svg)](https://www.youtube.com/watch?v=rEoScmSVNUE)
-[![GitHub - eneskarpuz/react-native-drag-text-editor: 📝 60FPS dynamic text editor powered with Reanimated for no-code, photo editor cases.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_eneskarpuz_react-native-drag-text-editor__📝_60FPS_dynamic_text_editor_powered_with_Reanimated_for_no-code__photo_editor_cases..svg)](https://github.com/eneskarpuz/react-native-drag-text-editor)
 
 
 <!-- post-list:end -->
