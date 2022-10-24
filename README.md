@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, October 24, 2022 at 12:52:17 AM
+> Last updated: Monday, October 24, 2022 at 6:25:57 AM
 
 > Showing 5 of 12 posts.
 
-[![javascript: Object to CSV](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/javascript__Object_to_CSV.svg)](https://dev.to/urstrulyvishwak/javascript-object-to-csv-2l4h)
-[![Inversion of Control: Dependency Injection in Typescript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Inversion_of_Control__Dependency_Injection_in_Typescript.svg)](https://dev.to/this-is-angular/inversion-of-control-dependency-injection-in-typescript-1dj9)
-[![How to Make Quote Generator in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Make_Quote_Generator_in_React.svg)](https://dev.to/reactjsguru/how-to-make-quote-generator-in-react-42j7)
-[![Create a Custom Template Tag for Currency Conversion in Django](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Create_a_Custom_Template_Tag_for_Currency_Conversion_in_Django.svg)](https://dev.to/paulwababu/create-a-custom-template-tag-for-currency-conversion-in-django-7ok)
-[![Google Developers Student Club - MET collaborates with Newton School](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Google_Developers_Student_Club_-_MET_collaborates_with_Newton_School.svg)](https://dev.to/yashkapure06/google-developers-student-club-met-collaborates-with-newton-school-38be)
+[![Movement and Visibility Detection with CSS and JS 👀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Movement_and_Visibility_Detection_with_CSS_and_JS_👀.svg)](https://dev.to/ingosteinke/movement-and-visibility-detection-with-css-and-js-53m7)
+[![Awesome Websites For UI/UX Inspiration](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Awesome_Websites_For_UI_UX_Inspiration.svg)](https://dev.to/surajondev/awesome-websites-for-uiux-inspiration-5h75)
+[![My Rust development workflow (after 3+ years)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/My_Rust_development_workflow_(after_3+_years).svg)](https://dev.to/sylvainkerkour/my-rust-development-workflow-after-3-years-217m)
+[![Javascript: Minification vs Obfuscation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Javascript__Minification_vs_Obfuscation.svg)](https://dev.to/urstrulyvishwak/javascript-minification-vs-obfuscation-2h02)
+[![Why You Should Learn ReactJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Why_You_Should_Learn_ReactJS.svg)](https://dev.to/tyaga001/why-you-should-learn-reactjs-91p)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, October 24, 2022 at 12:52:21 AM
+> Last updated: Monday, October 24, 2022 at 6:26:00 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, October 24, 2022 at 12:52:25 AM
+> Last updated: Monday, October 24, 2022 at 6:26:06 AM
 
 > Showing 5 of 30 posts.
 
+[![API with NestJS #80. Updating entities with PUT and PATCH using raw SQL queries](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__80._Updating_entities_with_PUT_and_PATCH_using_raw_SQL_queries.svg)](https://wanago.io/2022/10/24/api-nestjs-put-patch-sql/)
 [![GitHub - xun19/easy-ring: a Vue component to ring](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_xun19_easy-ring__a_Vue_component_to_ring.svg)](https://github.com/xun19/easy-ring)
 [![whaly](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/whaly.svg)](https://www.npmjs.com/package/whaly)
 [![Create Express/Node + Postgres Backend for React App with CRUD, validation, and RBAC | Remult Demo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Create_Express_Node_+_Postgres_Backend_for_React_App_with_CRUD__validation__and_RBAC___Remult_Demo.svg)](https://www.youtube.com/watch?v=rEoScmSVNUE)
 [![GitHub - eneskarpuz/react-native-drag-text-editor: 📝 60FPS dynamic text editor powered with Reanimated for no-code, photo editor cases.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_eneskarpuz_react-native-drag-text-editor__📝_60FPS_dynamic_text_editor_powered_with_Reanimated_for_no-code__photo_editor_cases..svg)](https://github.com/eneskarpuz/react-native-drag-text-editor)
-[![Using Font Awesome with React - Wisdom Geek](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_Font_Awesome_with_React_-_Wisdom_Geek.svg)](https://www.wisdomgeek.com/development/web-development/react/using-font-awesome-with-react/)
 
 
 <!-- post-list:end -->
