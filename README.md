@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, October 23, 2022 at 7:19:11 PM
+> Last updated: Monday, October 24, 2022 at 12:52:17 AM
 
 > Showing 5 of 12 posts.
 
-[![O que significa o dia da Ada Lovelace?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/O_que_significa_o_dia_da_Ada_Lovelace_.svg)](https://dev.to/feministech/o-que-significa-o-dia-da-ada-lovelace-4o8n)
-[![Movin' On Up: An Analysis of The Privilege Escalation Vulnerability CVE-2022-26923](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Movin'_On_Up__An_Analysis_of_The_Privilege_Escalation_Vulnerability_CVE-2022-26923.svg)](https://dev.to/austinjhunt/movin-on-up-an-analysis-of-the-privilege-escalation-vulnerability-cve-2022-26923-2hf9)
-[![Start with one test](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Start_with_one_test.svg)](https://dev.to/noriller/start-with-one-test-57hb)
-[![Processing user input in Bubble Tea with a menu component](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Processing_user_input_in_Bubble_Tea_with_a_menu_component.svg)](https://dev.to/andyhaskell/processing-user-input-in-bubble-tea-with-a-menu-component-222i)
-[![Intro to Bubble Tea in Go](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Intro_to_Bubble_Tea_in_Go.svg)](https://dev.to/andyhaskell/intro-to-bubble-tea-in-go-21lg)
+[![javascript: Object to CSV](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/javascript__Object_to_CSV.svg)](https://dev.to/urstrulyvishwak/javascript-object-to-csv-2l4h)
+[![Inversion of Control: Dependency Injection in Typescript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Inversion_of_Control__Dependency_Injection_in_Typescript.svg)](https://dev.to/this-is-angular/inversion-of-control-dependency-injection-in-typescript-1dj9)
+[![How to Make Quote Generator in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Make_Quote_Generator_in_React.svg)](https://dev.to/reactjsguru/how-to-make-quote-generator-in-react-42j7)
+[![Create a Custom Template Tag for Currency Conversion in Django](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Create_a_Custom_Template_Tag_for_Currency_Conversion_in_Django.svg)](https://dev.to/paulwababu/create-a-custom-template-tag-for-currency-conversion-in-django-7ok)
+[![Google Developers Student Club - MET collaborates with Newton School](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Google_Developers_Student_Club_-_MET_collaborates_with_Newton_School.svg)](https://dev.to/yashkapure06/google-developers-student-club-met-collaborates-with-newton-school-38be)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, October 23, 2022 at 7:19:14 PM
+> Last updated: Monday, October 24, 2022 at 12:52:21 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, October 23, 2022 at 7:19:17 PM
+> Last updated: Monday, October 24, 2022 at 12:52:25 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - xun19/easy-ring: a Vue component to ring](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_xun19_easy-ring__a_Vue_component_to_ring.svg)](https://github.com/xun19/easy-ring)
+[![whaly](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/whaly.svg)](https://www.npmjs.com/package/whaly)
 [![Create Express/Node + Postgres Backend for React App with CRUD, validation, and RBAC | Remult Demo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Create_Express_Node_+_Postgres_Backend_for_React_App_with_CRUD__validation__and_RBAC___Remult_Demo.svg)](https://www.youtube.com/watch?v=rEoScmSVNUE)
 [![GitHub - eneskarpuz/react-native-drag-text-editor: 📝 60FPS dynamic text editor powered with Reanimated for no-code, photo editor cases.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_eneskarpuz_react-native-drag-text-editor__📝_60FPS_dynamic_text_editor_powered_with_Reanimated_for_no-code__photo_editor_cases..svg)](https://github.com/eneskarpuz/react-native-drag-text-editor)
 [![Using Font Awesome with React - Wisdom Geek](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_Font_Awesome_with_React_-_Wisdom_Geek.svg)](https://www.wisdomgeek.com/development/web-development/react/using-font-awesome-with-react/)
-[![GitHub - stefanocudini/PeliasLite: Minimal Single Service Interface of Pelias Geocoder in Nodejs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_stefanocudini_PeliasLite__Minimal_Single_Service_Interface_of_Pelias_Geocoder_in_Nodejs.svg)](https://github.com/stefanocudini/PeliasLite)
-[![npm bin script confusion: Abusing ‘bin’ to hijack ‘node’ command - Socket](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/npm_bin_script_confusion__Abusing_‘bin’_to_hijack_‘node’_command_-_Socket.svg)](https://socket.dev/blog/npm-bin-script-confusion)
 
 
 <!-- post-list:end -->
