@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, October 25, 2022 at 12:51:08 AM
+> Last updated: Tuesday, October 25, 2022 at 6:27:37 AM
 
 > Showing 5 of 12 posts.
 
-[![State Management Is Easy Now!? An Introduction to Observable Store](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/State_Management_Is_Easy_Now!__An_Introduction_to_Observable_Store.svg)](https://dev.to/stevewhitmore/state-management-is-easy-now-an-introduction-to-observable-store-15ij)
-[![Closer look at Keploy](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Closer_look_at_Keploy.svg)](https://dev.to/patilganesh1010/closer-look-at-keploy-41ae)
-[![Shipping to Production - Final and Next](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Shipping_to_Production_-_Final_and_Next.svg)](https://dev.to/woovi/shipping-to-production-final-and-next-5k4)
-[![Shipping to Production - Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Shipping_to_Production_-_Code.svg)](https://dev.to/woovi/shipping-to-production-code-gbg)
-[![Shipping to Production - Design](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Shipping_to_Production_-_Design.svg)](https://dev.to/woovi/shipping-to-production-design-3861)
+[![How to learn your second programming language efficiently](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_learn_your_second_programming_language_efficiently.svg)](https://dev.to/chainguns/how-to-learn-your-second-programming-language-efficiently-86g)
+[![AMD GPU does not always offer the best experience on Linux 🐞](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/AMD_GPU_does_not_always_offer_the_best_experience_on_Linux_🐞.svg)](https://dev.to/hunghvu/amd-gpu-does-not-always-offer-the-best-experience-on-linux-50j3)
+[![Oxy Proxy Manager - a Simple Proxy Management App for Android](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Oxy_Proxy_Manager_-_a_Simple_Proxy_Management_App_for_Android.svg)](https://dev.to/oxylabs-io/oxy-proxy-manager-a-simple-proxy-management-app-for-android-24gd)
+[![Hacktoberfest with Aviyel 🎉](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Hacktoberfest_with_Aviyel_🎉.svg)](https://dev.to/patilganesh1010/hacktoberfest-with-aviyel-235n)
+[![How to Use JavaScript some method](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Use_JavaScript_some_method.svg)](https://dev.to/refine/how-to-use-javascript-some-method-1jk4)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, October 25, 2022 at 12:51:12 AM
+> Last updated: Tuesday, October 25, 2022 at 6:27:40 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, October 25, 2022 at 12:51:20 AM
+> Last updated: Tuesday, October 25, 2022 at 6:27:46 AM
 
 > Showing 5 of 30 posts.
 
