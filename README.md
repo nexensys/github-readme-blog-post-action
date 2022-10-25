@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, October 24, 2022 at 12:24:45 PM
+> Last updated: Monday, October 24, 2022 at 7:15:31 PM
 
 > Showing 5 of 12 posts.
 
-[![Best way to learn react js for free](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Best_way_to_learn_react_js_for_free.svg)](https://dev.to/shine18/best-way-to-learn-react-js-for-free-1joe)
-[![The 5 online coding and development tools you need to know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_5_online_coding_and_development_tools_you_need_to_know.svg)](https://dev.to/glowreeyah/the-5-online-coding-and-development-tools-you-need-to-know-p0e)
-[![Monday Learning](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Monday_Learning.svg)](https://dev.to/aryakris/monday-learning-5g3p)
-[![What is react ?And How to learn react in one week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_react__And_How_to_learn_react_in_one_week.svg)](https://dev.to/vivek7038/how-react-works--bkf)
-[![Fullstack JS with Angular Universal and NestJS (Nx flavor)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Fullstack_JS_with_Angular_Universal_and_NestJS_(Nx_flavor).svg)](https://dev.to/yannickboetzkes/fullstack-js-with-angular-universal-and-nestjs-nx-flavor-46k5)
+[![Changelog #0020 — 🔦 Data filtering, search & replace, RegExp, and more](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Changelog__0020_—_🔦_Data_filtering__search___replace__RegExp__and_more.svg)](https://dev.to/pie/changelog-0020-data-filtering-search-replace-regexp-and-more-4ffp)
+[![React Context API for Beginners (using useContext hook)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/React_Context_API_for_Beginners_(using_useContext_hook).svg)](https://dev.to/samueladex/react-context-api-for-beginners-using-usecontext-hook-jld)
+[![Trends in Developer Jobs: A Meta Analysis of Stack Overflow Surveys](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Trends_in_Developer_Jobs__A_Meta_Analysis_of_Stack_Overflow_Surveys.svg)](https://dev.to/bootdotdev/trends-in-developer-jobs-a-meta-analysis-of-stack-overflow-surveys-3aeo)
+[![Please do repeat yourself (DRY is dead)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Please_do_repeat_yourself_(DRY_is_dead).svg)](https://dev.to/ralphcone/please-do-repeat-yourself-dry-is-dead-1jbg)
+[![SQL + Python + Spark for Data Science](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/SQL_+_Python_+_Spark_for_Data_Science.svg)](https://dev.to/surendraarivappagari/sql-python-spark-for-data-science-37h5)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, October 24, 2022 at 12:24:49 PM
+> Last updated: Monday, October 24, 2022 at 7:15:34 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, October 24, 2022 at 12:24:57 PM
+> Last updated: Monday, October 24, 2022 at 7:15:39 PM
 
 > Showing 5 of 30 posts.
 
+[![Integrate React Native and Spring Boot Securely](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Integrate_React_Native_and_Spring_Boot_Securely.svg)](https://auth0.com/blog/integrate-react-native-and-spring-boot-securely/)
 [![What Football Innovations Exist and What We Expect In Qatar 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_Football_Innovations_Exist_and_What_We_Expect_In_Qatar_2022.svg)](https://nerdleveltech.com/what-football-innovations-exist-and-what-we-expect-in-qatar-2022/)
 [![API with NestJS #80. Updating entities with PUT and PATCH using raw SQL queries](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__80._Updating_entities_with_PUT_and_PATCH_using_raw_SQL_queries.svg)](https://wanago.io/2022/10/24/api-nestjs-put-patch-sql/)
 [![GitHub - xun19/easy-ring: a Vue component to ring](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_xun19_easy-ring__a_Vue_component_to_ring.svg)](https://github.com/xun19/easy-ring)
 [![whaly](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/whaly.svg)](https://www.npmjs.com/package/whaly)
-[![Create Express/Node + Postgres Backend for React App with CRUD, validation, and RBAC | Remult Demo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Create_Express_Node_+_Postgres_Backend_for_React_App_with_CRUD__validation__and_RBAC___Remult_Demo.svg)](https://www.youtube.com/watch?v=rEoScmSVNUE)
 
 
 <!-- post-list:end -->
