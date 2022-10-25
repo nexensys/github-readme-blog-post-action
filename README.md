@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, October 24, 2022 at 7:15:31 PM
+> Last updated: Tuesday, October 25, 2022 at 12:51:08 AM
 
 > Showing 5 of 12 posts.
 
-[![Changelog #0020 — 🔦 Data filtering, search & replace, RegExp, and more](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Changelog__0020_—_🔦_Data_filtering__search___replace__RegExp__and_more.svg)](https://dev.to/pie/changelog-0020-data-filtering-search-replace-regexp-and-more-4ffp)
-[![React Context API for Beginners (using useContext hook)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/React_Context_API_for_Beginners_(using_useContext_hook).svg)](https://dev.to/samueladex/react-context-api-for-beginners-using-usecontext-hook-jld)
-[![Trends in Developer Jobs: A Meta Analysis of Stack Overflow Surveys](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Trends_in_Developer_Jobs__A_Meta_Analysis_of_Stack_Overflow_Surveys.svg)](https://dev.to/bootdotdev/trends-in-developer-jobs-a-meta-analysis-of-stack-overflow-surveys-3aeo)
-[![Please do repeat yourself (DRY is dead)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Please_do_repeat_yourself_(DRY_is_dead).svg)](https://dev.to/ralphcone/please-do-repeat-yourself-dry-is-dead-1jbg)
-[![SQL + Python + Spark for Data Science](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/SQL_+_Python_+_Spark_for_Data_Science.svg)](https://dev.to/surendraarivappagari/sql-python-spark-for-data-science-37h5)
+[![State Management Is Easy Now!? An Introduction to Observable Store](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/State_Management_Is_Easy_Now!__An_Introduction_to_Observable_Store.svg)](https://dev.to/stevewhitmore/state-management-is-easy-now-an-introduction-to-observable-store-15ij)
+[![Closer look at Keploy](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Closer_look_at_Keploy.svg)](https://dev.to/patilganesh1010/closer-look-at-keploy-41ae)
+[![Shipping to Production - Final and Next](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Shipping_to_Production_-_Final_and_Next.svg)](https://dev.to/woovi/shipping-to-production-final-and-next-5k4)
+[![Shipping to Production - Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Shipping_to_Production_-_Code.svg)](https://dev.to/woovi/shipping-to-production-code-gbg)
+[![Shipping to Production - Design](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Shipping_to_Production_-_Design.svg)](https://dev.to/woovi/shipping-to-production-design-3861)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, October 24, 2022 at 7:15:34 PM
+> Last updated: Tuesday, October 25, 2022 at 12:51:12 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, October 24, 2022 at 7:15:39 PM
+> Last updated: Tuesday, October 25, 2022 at 12:51:20 AM
 
 > Showing 5 of 30 posts.
 
