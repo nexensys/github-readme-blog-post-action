@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, October 25, 2022 at 12:37:34 PM
+> Last updated: Tuesday, October 25, 2022 at 7:01:44 PM
 
 > Showing 5 of 12 posts.
 
-[![Persistir e não Desistir](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Persistir_e_não_Desistir.svg)](https://dev.to/mizael2019/persistir-e-nao-desistir-5cap)
-[![How to create a Python Lamda Layer?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_create_a_Python_Lamda_Layer_.svg)](https://dev.to/aws-builders/how-to-create-a-python-lamda-layer-509j)
-[![Understanding and Implementing State Management with NGXS in Angular](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Understanding_and_Implementing_State_Management_with_NGXS_in_Angular.svg)](https://dev.to/renancferro/understanding-and-implementing-state-management-with-ngxs-in-angular-5f2j)
-[![High-performance Go HTTP framework tasting](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/High-performance_Go_HTTP_framework_tasting.svg)](https://dev.to/justlorain/high-performance-go-http-framework-tasting-25li)
-[![TypeScript Utility Types ~ Partial](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/TypeScript_Utility_Types_~_Partial.svg)](https://dev.to/didof/typescript-utility-types-partial-nkg)
+[![What display: grid does?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_display__grid_does_.svg)](https://dev.to/melnik909/what-display-grid-does-3ain)
+[![Credit card chips and encryption in plain JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Credit_card_chips_and_encryption_in_plain_JavaScript.svg)](https://dev.to/isaacdlyman/credit-card-chips-and-encryption-in-plain-javascript-42p5)
+[![TDD: What's your React-ion?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/TDD__What's_your_React-ion_.svg)](https://dev.to/aleoyakas/tdd-whats-your-react-ion-24al)
+[![When do you think is the most optimal time to post on DEV? 🤔](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/When_do_you_think_is_the_most_optimal_time_to_post_on_DEV__🤔.svg)](https://dev.to/michaeltharrington/when-do-you-think-is-the-most-optimal-time-to-post-on-dev-ekb)
+[![UK Global Talent Visa for Data Scientists | Interview with Wuraola Oyewusi](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/UK_Global_Talent_Visa_for_Data_Scientists___Interview_with_Wuraola_Oyewusi.svg)](https://dev.to/beetlehope/uk-global-talent-visa-for-data-scientists-interview-with-wuraola-oyewusi-4409)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, October 25, 2022 at 12:37:36 PM
+> Last updated: Tuesday, October 25, 2022 at 7:01:48 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, October 25, 2022 at 12:37:41 PM
+> Last updated: Tuesday, October 25, 2022 at 7:01:54 PM
 
 > Showing 5 of 30 posts.
 
+[![What are sparse arrays in javascript?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_are_sparse_arrays_in_javascript_.svg)](
+https://frontendroom.com/blog/what-is-sparse-array-in-javascript
+)
 [![Integrate React Native and Spring Boot Securely](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Integrate_React_Native_and_Spring_Boot_Securely.svg)](https://auth0.com/blog/integrate-react-native-and-spring-boot-securely/)
 [![API with NestJS #80. Updating entities with PUT and PATCH using raw SQL queries](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__80._Updating_entities_with_PUT_and_PATCH_using_raw_SQL_queries.svg)](https://wanago.io/2022/10/24/api-nestjs-put-patch-sql/)
 [![GitHub - xun19/easy-ring: a Vue component to ring](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_xun19_easy-ring__a_Vue_component_to_ring.svg)](https://github.com/xun19/easy-ring)
 [![whaly](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/whaly.svg)](https://www.npmjs.com/package/whaly)
-[![Create Express/Node + Postgres Backend for React App with CRUD, validation, and RBAC | Remult Demo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Create_Express_Node_+_Postgres_Backend_for_React_App_with_CRUD__validation__and_RBAC___Remult_Demo.svg)](https://www.youtube.com/watch?v=rEoScmSVNUE)
 
 
 <!-- post-list:end -->
