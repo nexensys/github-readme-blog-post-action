@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, October 26, 2022 at 12:15:12 AM
+> Last updated: Wednesday, October 26, 2022 at 6:25:17 AM
 
 > Showing 5 of 12 posts.
 
-[![Controlling Services and Daemons](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Controlling_Services_and_Daemons.svg)](https://dev.to/elisamp12/controlling-services-and-daemons-1jo5)
-[![Chapter 14. Installing and Updating Software Packages](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Chapter_14._Installing_and_Updating_Software_Packages.svg)](https://dev.to/nurulkhofifaaenun/chapter-14-installing-and-updating-software-packages-4ai)
-[![CHAPTER 2 (SCHEDULING-FUTURE TASKS)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/CHAPTER_2_(SCHEDULING-FUTURE_TASKS).svg)](https://dev.to/nadiaa11812/chapter-2-scheduling-future-tasks-h13)
-[![Managing Local Users and Groups](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Managing_Local_Users_and_Groups.svg)](https://dev.to/belaaisyah12/managing-local-users-and-groups-1723)
-[![Mengakses Sistem File Linux](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Mengakses_Sistem_File_Linux.svg)](https://dev.to/arya1199/mengakses-sistem-file-linux-15oo)
+[![Improve Code in Your Ruby Application with RubyCritic](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Improve_Code_in_Your_Ruby_Application_with_RubyCritic.svg)](https://dev.to/appsignal/improve-code-in-your-ruby-application-with-rubycritic-mbe)
+[![Helix Editor – 90% of Neovim With Kakoune](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Helix_Editor_–_90__of_Neovim_With_Kakoune.svg)](https://dev.to/sophiabrandt/helix-editor-90-of-neovim-with-kakoune-4n9b)
+[![Personalize your static site based on a previous site referral](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Personalize_your_static_site_based_on_a_previous_site_referral.svg)](https://dev.to/whitep4nth3r/personalize-your-static-site-based-on-a-previous-site-referral-299h)
+[![Remove Letter To Equalize Frequency](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Remove_Letter_To_Equalize_Frequency.svg)](https://dev.to/salahelhossiny/remove-letter-to-equalize-frequency-1nh8)
+[![Need Web App and Mobile App Development Company?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Need_Web_App_and_Mobile_App_Development_Company_.svg)](https://dev.to/maheenriaz/need-web-app-and-mobile-app-development-company-4joe)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, October 26, 2022 at 12:15:16 AM
+> Last updated: Wednesday, October 26, 2022 at 6:25:20 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, October 26, 2022 at 12:15:21 AM
+> Last updated: Wednesday, October 26, 2022 at 6:25:25 AM
 
 > Showing 5 of 30 posts.
 
+[![What if the team assumes my functional JavaScript is slow?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_if_the_team_assumes_my_functional_JavaScript_is_slow_.svg)](https://jrsinclair.com/articles/2022/what-if-the-team-assumes-my-functional-javascript-is-slow/)
+[![Episode 33 - Let's talk about Zustand with Daishi Kato - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_33_-_Let's_talk_about_Zustand_with_Daishi_Kato_-_20minJS.svg)](https://podcast.20minjs.com/1952066/11541711-episode-33-let-s-talk-about-zustand-with-daishi-kato)
+[![Using the pages/api in NextJs to create endpoints](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_the_pages_api_in_NextJs_to_create_endpoints.svg)](http://www.js-craft.io/blog/using-the-pages-api-in-nextjs-to-create-endpoints/)
 [![What are sparse arrays in javascript?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_are_sparse_arrays_in_javascript_.svg)](
 https://frontendroom.com/blog/what-is-sparse-array-in-javascript
 )
 [![Integrate React Native and Spring Boot Securely](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Integrate_React_Native_and_Spring_Boot_Securely.svg)](https://auth0.com/blog/integrate-react-native-and-spring-boot-securely/)
-[![API with NestJS #80. Updating entities with PUT and PATCH using raw SQL queries](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__80._Updating_entities_with_PUT_and_PATCH_using_raw_SQL_queries.svg)](https://wanago.io/2022/10/24/api-nestjs-put-patch-sql/)
-[![GitHub - xun19/easy-ring: a Vue component to ring](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_xun19_easy-ring__a_Vue_component_to_ring.svg)](https://github.com/xun19/easy-ring)
-[![whaly](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/whaly.svg)](https://www.npmjs.com/package/whaly)
 
 
 <!-- post-list:end -->
