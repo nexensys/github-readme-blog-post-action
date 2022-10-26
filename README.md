@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, October 25, 2022 at 7:01:44 PM
+> Last updated: Wednesday, October 26, 2022 at 12:15:12 AM
 
 > Showing 5 of 12 posts.
 
-[![What display: grid does?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_display__grid_does_.svg)](https://dev.to/melnik909/what-display-grid-does-3ain)
-[![Credit card chips and encryption in plain JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Credit_card_chips_and_encryption_in_plain_JavaScript.svg)](https://dev.to/isaacdlyman/credit-card-chips-and-encryption-in-plain-javascript-42p5)
-[![TDD: What's your React-ion?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/TDD__What's_your_React-ion_.svg)](https://dev.to/aleoyakas/tdd-whats-your-react-ion-24al)
-[![When do you think is the most optimal time to post on DEV? 🤔](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/When_do_you_think_is_the_most_optimal_time_to_post_on_DEV__🤔.svg)](https://dev.to/michaeltharrington/when-do-you-think-is-the-most-optimal-time-to-post-on-dev-ekb)
-[![UK Global Talent Visa for Data Scientists | Interview with Wuraola Oyewusi](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/UK_Global_Talent_Visa_for_Data_Scientists___Interview_with_Wuraola_Oyewusi.svg)](https://dev.to/beetlehope/uk-global-talent-visa-for-data-scientists-interview-with-wuraola-oyewusi-4409)
+[![Controlling Services and Daemons](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Controlling_Services_and_Daemons.svg)](https://dev.to/elisamp12/controlling-services-and-daemons-1jo5)
+[![Chapter 14. Installing and Updating Software Packages](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Chapter_14._Installing_and_Updating_Software_Packages.svg)](https://dev.to/nurulkhofifaaenun/chapter-14-installing-and-updating-software-packages-4ai)
+[![CHAPTER 2 (SCHEDULING-FUTURE TASKS)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/CHAPTER_2_(SCHEDULING-FUTURE_TASKS).svg)](https://dev.to/nadiaa11812/chapter-2-scheduling-future-tasks-h13)
+[![Managing Local Users and Groups](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Managing_Local_Users_and_Groups.svg)](https://dev.to/belaaisyah12/managing-local-users-and-groups-1723)
+[![Mengakses Sistem File Linux](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Mengakses_Sistem_File_Linux.svg)](https://dev.to/arya1199/mengakses-sistem-file-linux-15oo)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, October 25, 2022 at 7:01:48 PM
+> Last updated: Wednesday, October 26, 2022 at 12:15:16 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, October 25, 2022 at 7:01:54 PM
+> Last updated: Wednesday, October 26, 2022 at 12:15:21 AM
 
 > Showing 5 of 30 posts.
 
