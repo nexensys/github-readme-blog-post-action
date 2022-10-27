@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, October 26, 2022 at 7:01:41 PM
+> Last updated: Thursday, October 27, 2022 at 12:14:56 AM
 
 > Showing 5 of 12 posts.
 
-[![Manual lazy loading of Angular component and providers with Standalone APIs (without NgModule) 🥢](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Manual_lazy_loading_of_Angular_component_and_providers_with_Standalone_APIs_(without_NgModule)_🥢.svg)](https://dev.to/krisplatis/manual-lazy-loading-angular-component-and-providers-with-standalone-apis-without-ngmodule-15i2)
-[![How and why DevOps became DevSecOps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_and_why_DevOps_became_DevSecOps.svg)](https://dev.to/jaysingh/what-is-devops-and-how-has-it-evolved-into-devsecops-27p)
-[![Passing Markdown components to React or Preact in Astro](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Passing_Markdown_components_to_React_or_Preact_in_Astro.svg)](https://dev.to/cassidoo/passing-markdown-components-to-react-or-preact-in-astro-31ml)
-[![What is Babel? The Popular JavaScript Compiler](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_Babel__The_Popular_JavaScript_Compiler.svg)](https://dev.to/teejaydixon/what-is-babel-the-popular-javascript-compiler-58g9)
-[![#SeniaBreaksTheInternet: My Journey Into Tech](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/_SeniaBreaksTheInternet__My_Journey_Into_Tech.svg)](https://dev.to/devsatasurion/seniabreakstheinternet-my-journey-into-tech-38de)
+[![How a VS Code Extension "Todo Tree" can make your coding easier | Todo Tree Configuration | Highlighting Comments](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_a_VS_Code_Extension__Todo_Tree__can_make_your_coding_easier___Todo_Tree_Configuration___Highlighting_Comments.svg)](https://dev.to/koustav/how-a-vs-code-extension-todo-tree-can-make-your-coding-easier-todo-tree-configuration-and-use-cases-11kc)
+[![Pure CSS Turbopack Logo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Pure_CSS_Turbopack_Logo.svg)](https://dev.to/asyrafhussin4/pure-css-turbopack-logo-2f2)
+[![A good code thief](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_good_code_thief.svg)](https://dev.to/batunpc/a-good-code-thief-5dnl)
+[![Construindo um currículo para DevRel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Construindo_um_currículo_para_DevRel.svg)](https://dev.to/feministech/construindo-um-curriculo-para-devrel-1fka)
+[![Code coverage for a running Deno server](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Code_coverage_for_a_running_Deno_server.svg)](https://dev.to/anishkny/code-coverage-for-a-running-deno-server-35ga)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, October 26, 2022 at 7:01:44 PM
+> Last updated: Thursday, October 27, 2022 at 12:15:00 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, October 26, 2022 at 7:01:48 PM
+> Last updated: Thursday, October 27, 2022 at 12:15:05 AM
 
 > Showing 5 of 30 posts.
 
