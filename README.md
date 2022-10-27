@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, October 26, 2022 at 6:25:17 AM
+> Last updated: Wednesday, October 26, 2022 at 7:01:41 PM
 
 > Showing 5 of 12 posts.
 
-[![Improve Code in Your Ruby Application with RubyCritic](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Improve_Code_in_Your_Ruby_Application_with_RubyCritic.svg)](https://dev.to/appsignal/improve-code-in-your-ruby-application-with-rubycritic-mbe)
-[![Helix Editor – 90% of Neovim With Kakoune](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Helix_Editor_–_90__of_Neovim_With_Kakoune.svg)](https://dev.to/sophiabrandt/helix-editor-90-of-neovim-with-kakoune-4n9b)
-[![Personalize your static site based on a previous site referral](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Personalize_your_static_site_based_on_a_previous_site_referral.svg)](https://dev.to/whitep4nth3r/personalize-your-static-site-based-on-a-previous-site-referral-299h)
-[![Remove Letter To Equalize Frequency](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Remove_Letter_To_Equalize_Frequency.svg)](https://dev.to/salahelhossiny/remove-letter-to-equalize-frequency-1nh8)
-[![Need Web App and Mobile App Development Company?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Need_Web_App_and_Mobile_App_Development_Company_.svg)](https://dev.to/maheenriaz/need-web-app-and-mobile-app-development-company-4joe)
+[![Manual lazy loading of Angular component and providers with Standalone APIs (without NgModule) 🥢](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Manual_lazy_loading_of_Angular_component_and_providers_with_Standalone_APIs_(without_NgModule)_🥢.svg)](https://dev.to/krisplatis/manual-lazy-loading-angular-component-and-providers-with-standalone-apis-without-ngmodule-15i2)
+[![How and why DevOps became DevSecOps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_and_why_DevOps_became_DevSecOps.svg)](https://dev.to/jaysingh/what-is-devops-and-how-has-it-evolved-into-devsecops-27p)
+[![Passing Markdown components to React or Preact in Astro](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Passing_Markdown_components_to_React_or_Preact_in_Astro.svg)](https://dev.to/cassidoo/passing-markdown-components-to-react-or-preact-in-astro-31ml)
+[![What is Babel? The Popular JavaScript Compiler](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_Babel__The_Popular_JavaScript_Compiler.svg)](https://dev.to/teejaydixon/what-is-babel-the-popular-javascript-compiler-58g9)
+[![#SeniaBreaksTheInternet: My Journey Into Tech](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/_SeniaBreaksTheInternet__My_Journey_Into_Tech.svg)](https://dev.to/devsatasurion/seniabreakstheinternet-my-journey-into-tech-38de)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, October 26, 2022 at 6:25:20 AM
+> Last updated: Wednesday, October 26, 2022 at 7:01:44 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, October 26, 2022 at 6:25:25 AM
+> Last updated: Wednesday, October 26, 2022 at 7:01:48 PM
 
 > Showing 5 of 30 posts.
 
+[![Getting the value of an input element as a number without parseInt - Wisdom Geek](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Getting_the_value_of_an_input_element_as_a_number_without_parseInt_-_Wisdom_Geek.svg)](https://www.wisdomgeek.com/development/web-development/javascript/getting-the-value-of-an-input-element-as-a-number-without-parseint/)
 [![What if the team assumes my functional JavaScript is slow?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_if_the_team_assumes_my_functional_JavaScript_is_slow_.svg)](https://jrsinclair.com/articles/2022/what-if-the-team-assumes-my-functional-javascript-is-slow/)
 [![Episode 33 - Let's talk about Zustand with Daishi Kato - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_33_-_Let's_talk_about_Zustand_with_Daishi_Kato_-_20minJS.svg)](https://podcast.20minjs.com/1952066/11541711-episode-33-let-s-talk-about-zustand-with-daishi-kato)
 [![Using the pages/api in NextJs to create endpoints](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_the_pages_api_in_NextJs_to_create_endpoints.svg)](http://www.js-craft.io/blog/using-the-pages-api-in-nextjs-to-create-endpoints/)
 [![What are sparse arrays in javascript?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_are_sparse_arrays_in_javascript_.svg)](
 https://frontendroom.com/blog/what-is-sparse-array-in-javascript
 )
-[![Integrate React Native and Spring Boot Securely](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Integrate_React_Native_and_Spring_Boot_Securely.svg)](https://auth0.com/blog/integrate-react-native-and-spring-boot-securely/)
 
 
 <!-- post-list:end -->
