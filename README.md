@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, October 27, 2022 at 12:14:56 AM
+> Last updated: Thursday, October 27, 2022 at 6:25:36 AM
 
 > Showing 5 of 12 posts.
 
-[![How a VS Code Extension "Todo Tree" can make your coding easier | Todo Tree Configuration | Highlighting Comments](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_a_VS_Code_Extension__Todo_Tree__can_make_your_coding_easier___Todo_Tree_Configuration___Highlighting_Comments.svg)](https://dev.to/koustav/how-a-vs-code-extension-todo-tree-can-make-your-coding-easier-todo-tree-configuration-and-use-cases-11kc)
-[![Pure CSS Turbopack Logo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Pure_CSS_Turbopack_Logo.svg)](https://dev.to/asyrafhussin4/pure-css-turbopack-logo-2f2)
-[![A good code thief](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_good_code_thief.svg)](https://dev.to/batunpc/a-good-code-thief-5dnl)
-[![Construindo um currículo para DevRel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Construindo_um_currículo_para_DevRel.svg)](https://dev.to/feministech/construindo-um-curriculo-para-devrel-1fka)
-[![Code coverage for a running Deno server](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Code_coverage_for_a_running_Deno_server.svg)](https://dev.to/anishkny/code-coverage-for-a-running-deno-server-35ga)
+[![How to Make a Vehicle Charging Website Using Html CSS JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Make_a_Vehicle_Charging_Website_Using_Html_CSS_JS.svg)](https://dev.to/codewithsadee/how-to-make-a-vehicle-charging-website-using-html-css-js-c0j)
+[![Best sites to learn programming](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Best_sites_to_learn_programming.svg)](https://dev.to/albericojr/best-sites-to-learn-programming-4igl)
+[![Got your first Dev job? Cognitive overload and how to avoid doing the same mistakes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Got_your_first_Dev_job__Cognitive_overload_and_how_to_avoid_doing_the_same_mistakes.svg)](https://dev.to/cow_berry/got-your-first-dev-job-cognitive-overload-and-how-to-avoid-doing-the-same-mistakes-37k5)
+[![DXC, we Engineers hardly know ye](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/DXC__we_Engineers_hardly_know_ye.svg)](https://dev.to/chuloo/dxc-we-engineers-hardly-know-ye-3gmh)
+[![About code comments](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/About_code_comments.svg)](https://dev.to/jgroeneveld/about-code-comments-27ml)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, October 27, 2022 at 12:15:00 AM
+> Last updated: Thursday, October 27, 2022 at 6:25:39 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, October 27, 2022 at 12:15:05 AM
+> Last updated: Thursday, October 27, 2022 at 6:25:44 AM
 
 > Showing 5 of 30 posts.
 
