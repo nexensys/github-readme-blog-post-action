@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, October 27, 2022 at 6:25:36 AM
+> Last updated: Thursday, October 27, 2022 at 12:16:01 PM
 
 > Showing 5 of 12 posts.
 
-[![How to Make a Vehicle Charging Website Using Html CSS JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Make_a_Vehicle_Charging_Website_Using_Html_CSS_JS.svg)](https://dev.to/codewithsadee/how-to-make-a-vehicle-charging-website-using-html-css-js-c0j)
-[![Best sites to learn programming](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Best_sites_to_learn_programming.svg)](https://dev.to/albericojr/best-sites-to-learn-programming-4igl)
-[![Got your first Dev job? Cognitive overload and how to avoid doing the same mistakes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Got_your_first_Dev_job__Cognitive_overload_and_how_to_avoid_doing_the_same_mistakes.svg)](https://dev.to/cow_berry/got-your-first-dev-job-cognitive-overload-and-how-to-avoid-doing-the-same-mistakes-37k5)
-[![DXC, we Engineers hardly know ye](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/DXC__we_Engineers_hardly_know_ye.svg)](https://dev.to/chuloo/dxc-we-engineers-hardly-know-ye-3gmh)
-[![About code comments](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/About_code_comments.svg)](https://dev.to/jgroeneveld/about-code-comments-27ml)
+[![FastAPI & Stripe - Free eCommerce Starter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/FastAPI___Stripe_-_Free_eCommerce_Starter.svg)](https://dev.to/sm0ke/fastapi-stripe-free-ecommerce-starter-36go)
+[![Continuous Integration for Startups: What makes a good testing plan?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Continuous_Integration_for_Startups__What_makes_a_good_testing_plan_.svg)](https://dev.to/documatic/continuous-integration-for-startups-what-makes-a-good-testing-plan-5cnc)
+[![Using Neo4j in your next Next.js Project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Using_Neo4j_in_your_next_Next.js_Project.svg)](https://dev.to/adamcowley/using-neo4j-in-your-next-nextjs-project-77)
+[![C4 model for system architecture design](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/C4_model_for_system_architecture_design.svg)](https://dev.to/icepanel/c4-model-for-system-architecture-design-16dh)
+[![Difference between Cluster Autoscaler & Karpenter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Difference_between_Cluster_Autoscaler___Karpenter.svg)](https://dev.to/makendrang/difference-between-cluster-autoscaler-karpenter-179n)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, October 27, 2022 at 6:25:39 AM
+> Last updated: Thursday, October 27, 2022 at 12:16:04 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, October 27, 2022 at 6:25:44 AM
+> Last updated: Thursday, October 27, 2022 at 12:16:08 PM
 
 > Showing 5 of 30 posts.
 
-[![Getting the value of an input element as a number without parseInt - Wisdom Geek](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Getting_the_value_of_an_input_element_as_a_number_without_parseInt_-_Wisdom_Geek.svg)](https://www.wisdomgeek.com/development/web-development/javascript/getting-the-value-of-an-input-element-as-a-number-without-parseint/)
-[![What if the team assumes my functional JavaScript is slow?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_if_the_team_assumes_my_functional_JavaScript_is_slow_.svg)](https://jrsinclair.com/articles/2022/what-if-the-team-assumes-my-functional-javascript-is-slow/)
-[![Episode 33 - Let's talk about Zustand with Daishi Kato - 20minJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Episode_33_-_Let's_talk_about_Zustand_with_Daishi_Kato_-_20minJS.svg)](https://podcast.20minjs.com/1952066/11541711-episode-33-let-s-talk-about-zustand-with-daishi-kato)
-[![Using the pages/api in NextJs to create endpoints](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_the_pages_api_in_NextJs_to_create_endpoints.svg)](http://www.js-craft.io/blog/using-the-pages-api-in-nextjs-to-create-endpoints/)
-[![What are sparse arrays in javascript?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_are_sparse_arrays_in_javascript_.svg)](
-https://frontendroom.com/blog/what-is-sparse-array-in-javascript
+[![Validate Emails using Regex in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Validate_Emails_using_Regex_in_JavaScript.svg)](
+https://masteringjs.io/tutorials/fundamentals/email-regex
 )
+[![GitHub - oslabs-beta/LiveStateDB: A real time state management library that allows for state to subscribe and update based on changes from a specific portion of a database.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_oslabs-beta_LiveStateDB__A_real_time_state_management_library_that_allows_for_state_to_subscribe_and_update_based_on_changes_from_a_specific_portion_of_a_database..svg)](https://github.com/oslabs-beta/LiveStateDB)
+[![Svelvet 4.0 — The power of HTML is now inside your nodes!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Svelvet_4.0_—_The_power_of_HTML_is_now_inside_your_nodes!.svg)](https://medium.com/@wildcard355/svelvet-4-0-the-power-of-html-is-now-inside-your-nodes-3d96823096e3)
+[![GitHub - StreakSharn/Windows-Context-Switcher: Quickly open a Context (a group of apps) with just a single click.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_StreakSharn_Windows-Context-Switcher__Quickly_open_a_Context_(a_group_of_apps)_with_just_a_single_click..svg)](https://github.com/StreakSharn/Windows-Context-Switcher)
+[![OverVue 9.0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/OverVue_9.0.svg)](https://medium.com/@disscravis/overvue-9-0-58d5feb3dd36)
 
 
 <!-- post-list:end -->
