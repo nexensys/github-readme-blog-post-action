@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, October 28, 2022 at 6:24:22 AM
+> Last updated: Friday, October 28, 2022 at 12:14:27 PM
 
 > Showing 5 of 12 posts.
 
-[![Ultimate Guide To Create an API Documentation with Examples](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Ultimate_Guide_To_Create_an_API_Documentation_with_Examples.svg)](https://dev.to/document360/ultimate-guide-to-create-an-api-documentation-with-examples-2n2d)
-[![Use this to explain how to use your app | Flutter PRO tip #2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Use_this_to_explain_how_to_use_your_app___Flutter_PRO_tip__2.svg)](https://dev.to/svprdga/use-this-to-explain-how-to-use-your-app-flutter-pro-tip-2-1clp)
-[![New to Open Source? Know everything you need to!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/New_to_Open_Source__Know_everything_you_need_to!.svg)](https://dev.to/prakhartiwari0/new-to-open-source-know-everything-you-need-to-3gl2)
-[![Dynamic forms with Formik and React JS. 📝](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Dynamic_forms_with_Formik_and_React_JS._📝.svg)](https://dev.to/franklin030601/dynamic-forms-with-formik-and-react-js-3no1)
-[![The Economy of Low-Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Economy_of_Low-Code.svg)](https://dev.to/polterguy/the-economy-of-low-code-507h)
+[![Pandas - Data Manipulation and Analysis](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Pandas_-_Data_Manipulation_and_Analysis.svg)](https://dev.to/debjotyms/pandas-4575)
+[![Software Delivery Foundation: How you can crack it?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Software_Delivery_Foundation__How_you_can_crack_it_.svg)](https://dev.to/hrittikhere/software-delivery-foundation-how-you-can-crack-it-jfn)
+[![Let's talk about our social media intake, shall we?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Let's_talk_about_our_social_media_intake__shall_we_.svg)](https://dev.to/erinposting/lets-talk-about-our-social-media-intake-shall-we-551c)
+[![Practical intro to scraping with Puppeteer: fetch your country climate data](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Practical_intro_to_scraping_with_Puppeteer__fetch_your_country_climate_data.svg)](https://dev.to/antoine_m/practical-intro-to-scraping-with-puppeteer-fetch-your-country-climate-data-59pj)
+[![What's important when reviewing a team member's code?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What's_important_when_reviewing_a_team_member's_code_.svg)](https://dev.to/sloan/whats-important-when-reviewing-a-team-members-code-3n5e)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, October 28, 2022 at 6:24:26 AM
+> Last updated: Friday, October 28, 2022 at 12:14:31 PM
 
 > Showing 4 of 4 posts.
 
+[![Turbo-charged incremental bundling au Rust](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Turbo-charged_incremental_bundling_au_Rust.svg)](https://javascriptweekly.com/issues/612)
 [![🪜 Decorating with Dr. Axel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/🪜_Decorating_with_Dr._Axel.svg)](https://javascriptweekly.com/issues/611)
 [![Node to keep an eye on your code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Node_to_keep_an_eye_on_your_code.svg)](https://javascriptweekly.com/issues/610)
 [![Axios turns 1.0; TypeScript turns 10](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Axios_turns_1.0;_TypeScript_turns_10.svg)](https://javascriptweekly.com/issues/609)
-[![How TypeScript 4.9 satisfies](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/How_TypeScript_4.9_satisfies.svg)](https://javascriptweekly.com/issues/608)
 
 
 ## Echo JS
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, October 28, 2022 at 6:24:31 AM
+> Last updated: Friday, October 28, 2022 at 12:14:36 PM
 
 > Showing 5 of 30 posts.
 
+[![How To Read CSV File Using Noidejs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_To_Read_CSV_File_Using_Noidejs.svg)](https://www.js-tutorials.com/nodejs-tutorial/how-to-read-csv-file-using-noidejs/)
+[![Stranger Scripts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Stranger_Scripts.svg)](https://auth0.com/blog/stranger-scripts/)
 [![Javascript: forEach Is Not A Function and What To Do?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Javascript__forEach_Is_Not_A_Function_and_What_To_Do_.svg)](https://nerdleveltech.com/javascript-foreach-is-not-a-function-and-what-to-do/)
 [![Deno 1.27: Major IDE Improvements](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Deno_1.27__Major_IDE_Improvements.svg)](https://deno.com/blog/v1.27)
 [![Validate Emails using Regex in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Validate_Emails_using_Regex_in_JavaScript.svg)](
 https://masteringjs.io/tutorials/fundamentals/email-regex
 )
-[![GitHub - oslabs-beta/LiveStateDB: A real time state management library that allows for state to subscribe and update based on changes from a specific portion of a database.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_oslabs-beta_LiveStateDB__A_real_time_state_management_library_that_allows_for_state_to_subscribe_and_update_based_on_changes_from_a_specific_portion_of_a_database..svg)](https://github.com/oslabs-beta/LiveStateDB)
-[![Svelvet 4.0 — The power of HTML is now inside your nodes!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Svelvet_4.0_—_The_power_of_HTML_is_now_inside_your_nodes!.svg)](https://medium.com/@MauricioACastro/svelvet-4-0-the-power-of-html-is-now-inside-your-nodes-3d96823096e3)
 
 
 <!-- post-list:end -->
