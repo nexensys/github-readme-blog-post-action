@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, October 28, 2022 at 12:14:28 AM
+> Last updated: Friday, October 28, 2022 at 6:24:22 AM
 
 > Showing 5 of 12 posts.
 
-[![Building a Cybersecurity Game with Three.js - Inspired by Google’s Interland](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Building_a_Cybersecurity_Game_with_Three.js_-_Inspired_by_Google’s_Interland.svg)](https://dev.to/saminarp/building-a-cybersecurity-game-with-threejs-inspired-by-googles-interland-36k6)
-[![Revising the Select Query ii Hackerrank Solution](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Revising_the_Select_Query_ii_Hackerrank_Solution.svg)](https://dev.to/realnamehidden1/revising-the-select-query-ii-hackerrank-solution-285e)
-[![🤖 New Engineering Opportunities - Week #44 of 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/🤖_New_Engineering_Opportunities_-_Week__44_of_2022.svg)](https://dev.to/shman/new-engineering-opportunities-week-44-of-2022-4jek)
-[![Dart Future tutorial with examples](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Dart_Future_tutorial_with_examples.svg)](https://dev.to/tienbku/dart-future-tutorial-with-examples-kpo)
-[![How to Master The Art of Content Creation As a Developer?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Master_The_Art_of_Content_Creation_As_a_Developer_.svg)](https://dev.to/patilganesh1010/how-to-master-the-art-of-content-creation-as-a-developer-kpn)
+[![Ultimate Guide To Create an API Documentation with Examples](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Ultimate_Guide_To_Create_an_API_Documentation_with_Examples.svg)](https://dev.to/document360/ultimate-guide-to-create-an-api-documentation-with-examples-2n2d)
+[![Use this to explain how to use your app | Flutter PRO tip #2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Use_this_to_explain_how_to_use_your_app___Flutter_PRO_tip__2.svg)](https://dev.to/svprdga/use-this-to-explain-how-to-use-your-app-flutter-pro-tip-2-1clp)
+[![New to Open Source? Know everything you need to!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/New_to_Open_Source__Know_everything_you_need_to!.svg)](https://dev.to/prakhartiwari0/new-to-open-source-know-everything-you-need-to-3gl2)
+[![Dynamic forms with Formik and React JS. 📝](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Dynamic_forms_with_Formik_and_React_JS._📝.svg)](https://dev.to/franklin030601/dynamic-forms-with-formik-and-react-js-3no1)
+[![The Economy of Low-Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Economy_of_Low-Code.svg)](https://dev.to/polterguy/the-economy-of-low-code-507h)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, October 28, 2022 at 12:14:31 AM
+> Last updated: Friday, October 28, 2022 at 6:24:26 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, October 28, 2022 at 12:14:32 AM
+> Last updated: Friday, October 28, 2022 at 6:24:31 AM
 
 > Showing 5 of 30 posts.
 
+[![Javascript: forEach Is Not A Function and What To Do?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Javascript__forEach_Is_Not_A_Function_and_What_To_Do_.svg)](https://nerdleveltech.com/javascript-foreach-is-not-a-function-and-what-to-do/)
 [![Deno 1.27: Major IDE Improvements](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Deno_1.27__Major_IDE_Improvements.svg)](https://deno.com/blog/v1.27)
 [![Validate Emails using Regex in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Validate_Emails_using_Regex_in_JavaScript.svg)](
 https://masteringjs.io/tutorials/fundamentals/email-regex
 )
 [![GitHub - oslabs-beta/LiveStateDB: A real time state management library that allows for state to subscribe and update based on changes from a specific portion of a database.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_oslabs-beta_LiveStateDB__A_real_time_state_management_library_that_allows_for_state_to_subscribe_and_update_based_on_changes_from_a_specific_portion_of_a_database..svg)](https://github.com/oslabs-beta/LiveStateDB)
 [![Svelvet 4.0 — The power of HTML is now inside your nodes!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Svelvet_4.0_—_The_power_of_HTML_is_now_inside_your_nodes!.svg)](https://medium.com/@MauricioACastro/svelvet-4-0-the-power-of-html-is-now-inside-your-nodes-3d96823096e3)
-[![OverVue 9.0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/OverVue_9.0.svg)](https://medium.com/@disscravis/overvue-9-0-58d5feb3dd36)
 
 
 <!-- post-list:end -->
