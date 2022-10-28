@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, October 27, 2022 at 7:06:11 PM
+> Last updated: Friday, October 28, 2022 at 12:14:28 AM
 
 > Showing 5 of 12 posts.
 
-[![Get Started with ReactJS: A Beginner's Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Get_Started_with_ReactJS__A_Beginner's_Guide.svg)](https://dev.to/moses619/get-started-with-reactjs-a-beginners-guide-2hnn)
-[![ASP.NET: CRON Service Worker](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/ASP.NET__CRON_Service_Worker.svg)](https://dev.to/isaacojeda/aspnet-cron-service-worker-2no9)
-[![Automate pull requests in 1 minute with Reviewpad](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Automate_pull_requests_in_1_minute_with_Reviewpad.svg)](https://dev.to/marcelosousa/automate-pull-requests-in-1-minute-with-reviewpad-5di5)
-[![How to show Loading wrapper in ReactJS / React Native while api call !](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_show_Loading_wrapper_in_ReactJS___React_Native_while_api_call_!.svg)](https://dev.to/suyashvash/how-to-show-loading-wrapper-in-reactjs-react-native-while-api-call--26oe)
-[![10 Best Infrastructure-as-Code Tools for Automating Deployments in 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/10_Best_Infrastructure-as-Code_Tools_for_Automating_Deployments_in_2022.svg)](https://dev.to/vishnube/10-best-infrastructure-as-code-tools-for-automating-deployments-in-2022-51cp)
+[![Building a Cybersecurity Game with Three.js - Inspired by Google’s Interland](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Building_a_Cybersecurity_Game_with_Three.js_-_Inspired_by_Google’s_Interland.svg)](https://dev.to/saminarp/building-a-cybersecurity-game-with-threejs-inspired-by-googles-interland-36k6)
+[![Revising the Select Query ii Hackerrank Solution](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Revising_the_Select_Query_ii_Hackerrank_Solution.svg)](https://dev.to/realnamehidden1/revising-the-select-query-ii-hackerrank-solution-285e)
+[![🤖 New Engineering Opportunities - Week #44 of 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/🤖_New_Engineering_Opportunities_-_Week__44_of_2022.svg)](https://dev.to/shman/new-engineering-opportunities-week-44-of-2022-4jek)
+[![Dart Future tutorial with examples](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Dart_Future_tutorial_with_examples.svg)](https://dev.to/tienbku/dart-future-tutorial-with-examples-kpo)
+[![How to Master The Art of Content Creation As a Developer?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Master_The_Art_of_Content_Creation_As_a_Developer_.svg)](https://dev.to/patilganesh1010/how-to-master-the-art-of-content-creation-as-a-developer-kpn)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, October 27, 2022 at 7:06:14 PM
+> Last updated: Friday, October 28, 2022 at 12:14:31 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, October 27, 2022 at 7:06:19 PM
+> Last updated: Friday, October 28, 2022 at 12:14:32 AM
 
 > Showing 5 of 30 posts.
 
