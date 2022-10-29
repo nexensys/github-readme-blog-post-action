@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, October 29, 2022 at 12:13:50 AM
+> Last updated: Saturday, October 29, 2022 at 6:19:16 AM
 
 > Showing 5 of 12 posts.
 
-[![Unit testing like a Hacker](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Unit_testing_like_a_Hacker.svg)](https://dev.to/batunpc/unit-testing-like-a-hacker-1e3m)
-[![Copying a Feature from Docusaurus 🦖 For My Static Site Generator - rwar 🦁](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Copying_a_Feature_from_Docusaurus_🦖_For_My_Static_Site_Generator_-_rwar_🦁.svg)](https://dev.to/saminarp/copying-a-feature-from-docusaurus-for-my-static-site-generator-rwar-49j6)
-[![Do you like scary movies? Build a Halloween Project with Twilio](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Do_you_like_scary_movies__Build_a_Halloween_Project_with_Twilio.svg)](https://dev.to/anthonyjdella/do-you-like-scary-movies-build-a-halloween-project-with-twilio-1jbl)
-[![How to encrypt files with AES using OpenSSL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_encrypt_files_with_AES_using_OpenSSL.svg)](https://dev.to/vaultree/how-to-encrypt-files-with-aes-using-openssl-23m8)
-[![Authentification avec Express et PrismaDB](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Authentification_avec_Express_et_PrismaDB.svg)](https://dev.to/sidali/authentification-avec-express-et-prismadb-plg)
+[![Dear "developers" who insist they don't need HTTPS, or SSL certificates](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Dear__developers__who_insist_they_don't_need_HTTPS__or_SSL_certificates.svg)](https://dev.to/voltra/dear-developers-who-insist-they-dont-need-https-or-ssl-certificates-2oll)
+[![How to build a One-Time-Password(OTP) Verification API with Go and Twilio](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_build_a_One-Time-Password(OTP)_Verification_API_with_Go_and_Twilio.svg)](https://dev.to/hackmamba/how-to-build-a-one-time-passwordotp-verification-api-with-go-and-twilio-3363)
+[![How to build a One-Time-Password(OTP) Verification API with Rust and Twilio](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_build_a_One-Time-Password(OTP)_Verification_API_with_Rust_and_Twilio.svg)](https://dev.to/hackmamba/how-to-build-a-one-time-passwordotp-verification-api-with-rust-and-twilio-22il)
+[![Programming Burnout, how to handle it.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Programming_Burnout__how_to_handle_it..svg)](https://dev.to/ezeanamichael/programming-burnout-how-to-handle-it-28l1)
+[![Kubernetes 101 - Component overview](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Kubernetes_101_-_Component_overview.svg)](https://dev.to/dailydevtips1/kubernetes-101-component-overview-1am2)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, October 29, 2022 at 12:13:54 AM
+> Last updated: Saturday, October 29, 2022 at 6:19:19 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, October 29, 2022 at 12:13:58 AM
+> Last updated: Saturday, October 29, 2022 at 6:19:23 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - markwylde/just-tap: A simple tap test runner that can be used by any javascript interpreter.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_markwylde_just-tap__A_simple_tap_test_runner_that_can_be_used_by_any_javascript_interpreter..svg)](https://github.com/markwylde/just-tap)
 [![How To Read CSV File Using Noidejs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_To_Read_CSV_File_Using_Noidejs.svg)](https://www.js-tutorials.com/nodejs-tutorial/how-to-read-csv-file-using-noidejs/)
 [![Stranger Scripts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Stranger_Scripts.svg)](https://auth0.com/blog/stranger-scripts/)
 [![Javascript: forEach Is Not A Function and What To Do?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Javascript__forEach_Is_Not_A_Function_and_What_To_Do_.svg)](https://nerdleveltech.com/javascript-foreach-is-not-a-function-and-what-to-do/)
 [![Deno 1.27: Major IDE Improvements](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Deno_1.27__Major_IDE_Improvements.svg)](https://deno.com/blog/v1.27)
-[![Validate Emails using Regex in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Validate_Emails_using_Regex_in_JavaScript.svg)](
-https://masteringjs.io/tutorials/fundamentals/email-regex
-)
 
 
 <!-- post-list:end -->
