@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, October 28, 2022 at 6:55:17 PM
+> Last updated: Saturday, October 29, 2022 at 12:13:50 AM
 
 > Showing 5 of 12 posts.
 
+[![Unit testing like a Hacker](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Unit_testing_like_a_Hacker.svg)](https://dev.to/batunpc/unit-testing-like-a-hacker-1e3m)
+[![Copying a Feature from Docusaurus 🦖 For My Static Site Generator - rwar 🦁](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Copying_a_Feature_from_Docusaurus_🦖_For_My_Static_Site_Generator_-_rwar_🦁.svg)](https://dev.to/saminarp/copying-a-feature-from-docusaurus-for-my-static-site-generator-rwar-49j6)
 [![Do you like scary movies? Build a Halloween Project with Twilio](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Do_you_like_scary_movies__Build_a_Halloween_Project_with_Twilio.svg)](https://dev.to/anthonyjdella/do-you-like-scary-movies-build-a-halloween-project-with-twilio-1jbl)
 [![How to encrypt files with AES using OpenSSL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_encrypt_files_with_AES_using_OpenSSL.svg)](https://dev.to/vaultree/how-to-encrypt-files-with-aes-using-openssl-23m8)
 [![Authentification avec Express et PrismaDB](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Authentification_avec_Express_et_PrismaDB.svg)](https://dev.to/sidali/authentification-avec-express-et-prismadb-plg)
-[![Discussion and Comment of the Week - v22](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Discussion_and_Comment_of_the_Week_-_v22.svg)](https://dev.to/devteam/discussion-and-comment-of-the-week-v22-52gi)
-[![Type-Safe TypeScript with Type Narrowing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Type-Safe_TypeScript_with_Type_Narrowing.svg)](https://dev.to/this-is-learning/type-safe-typescript-with-type-narrowing-5930)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, October 28, 2022 at 6:55:21 PM
+> Last updated: Saturday, October 29, 2022 at 12:13:54 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, October 28, 2022 at 6:55:25 PM
+> Last updated: Saturday, October 29, 2022 at 12:13:58 AM
 
 > Showing 5 of 30 posts.
 
