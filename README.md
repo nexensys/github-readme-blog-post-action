@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, October 28, 2022 at 12:14:27 PM
+> Last updated: Friday, October 28, 2022 at 6:55:17 PM
 
 > Showing 5 of 12 posts.
 
-[![Pandas - Data Manipulation and Analysis](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Pandas_-_Data_Manipulation_and_Analysis.svg)](https://dev.to/debjotyms/pandas-4575)
-[![Software Delivery Foundation: How you can crack it?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Software_Delivery_Foundation__How_you_can_crack_it_.svg)](https://dev.to/hrittikhere/software-delivery-foundation-how-you-can-crack-it-jfn)
-[![Let's talk about our social media intake, shall we?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Let's_talk_about_our_social_media_intake__shall_we_.svg)](https://dev.to/erinposting/lets-talk-about-our-social-media-intake-shall-we-551c)
-[![Practical intro to scraping with Puppeteer: fetch your country climate data](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Practical_intro_to_scraping_with_Puppeteer__fetch_your_country_climate_data.svg)](https://dev.to/antoine_m/practical-intro-to-scraping-with-puppeteer-fetch-your-country-climate-data-59pj)
-[![What's important when reviewing a team member's code?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What's_important_when_reviewing_a_team_member's_code_.svg)](https://dev.to/sloan/whats-important-when-reviewing-a-team-members-code-3n5e)
+[![Do you like scary movies? Build a Halloween Project with Twilio](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Do_you_like_scary_movies__Build_a_Halloween_Project_with_Twilio.svg)](https://dev.to/anthonyjdella/do-you-like-scary-movies-build-a-halloween-project-with-twilio-1jbl)
+[![How to encrypt files with AES using OpenSSL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_encrypt_files_with_AES_using_OpenSSL.svg)](https://dev.to/vaultree/how-to-encrypt-files-with-aes-using-openssl-23m8)
+[![Authentification avec Express et PrismaDB](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Authentification_avec_Express_et_PrismaDB.svg)](https://dev.to/sidali/authentification-avec-express-et-prismadb-plg)
+[![Discussion and Comment of the Week - v22](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Discussion_and_Comment_of_the_Week_-_v22.svg)](https://dev.to/devteam/discussion-and-comment-of-the-week-v22-52gi)
+[![Type-Safe TypeScript with Type Narrowing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Type-Safe_TypeScript_with_Type_Narrowing.svg)](https://dev.to/this-is-learning/type-safe-typescript-with-type-narrowing-5930)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, October 28, 2022 at 12:14:31 PM
+> Last updated: Friday, October 28, 2022 at 6:55:21 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, October 28, 2022 at 12:14:36 PM
+> Last updated: Friday, October 28, 2022 at 6:55:25 PM
 
 > Showing 5 of 30 posts.
 
