@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, October 29, 2022 at 6:19:16 AM
+> Last updated: Saturday, October 29, 2022 at 12:12:51 PM
 
 > Showing 5 of 12 posts.
 
-[![Dear "developers" who insist they don't need HTTPS, or SSL certificates](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Dear__developers__who_insist_they_don't_need_HTTPS__or_SSL_certificates.svg)](https://dev.to/voltra/dear-developers-who-insist-they-dont-need-https-or-ssl-certificates-2oll)
-[![How to build a One-Time-Password(OTP) Verification API with Go and Twilio](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_build_a_One-Time-Password(OTP)_Verification_API_with_Go_and_Twilio.svg)](https://dev.to/hackmamba/how-to-build-a-one-time-passwordotp-verification-api-with-go-and-twilio-3363)
-[![How to build a One-Time-Password(OTP) Verification API with Rust and Twilio](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_build_a_One-Time-Password(OTP)_Verification_API_with_Rust_and_Twilio.svg)](https://dev.to/hackmamba/how-to-build-a-one-time-passwordotp-verification-api-with-rust-and-twilio-22il)
-[![Programming Burnout, how to handle it.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Programming_Burnout__how_to_handle_it..svg)](https://dev.to/ezeanamichael/programming-burnout-how-to-handle-it-28l1)
-[![Kubernetes 101 - Component overview](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Kubernetes_101_-_Component_overview.svg)](https://dev.to/dailydevtips1/kubernetes-101-component-overview-1am2)
+[![DNS 101](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/DNS_101.svg)](https://dev.to/navindrenbaskaran/dns-101-3j6i)
+[![user is not allowed to do action [insert] on [nodeMongoCrud.use]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/user_is_not_allowed_to_do_action_[insert]_on_[nodeMongoCrud.use].svg)](https://dev.to/shahbajkhan/user-is-not-allowed-to-do-action-insert-on-nodemongocruduse-3ke0)
+[![Kafka Vs RabbitMQ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Kafka_Vs_RabbitMQ.svg)](https://dev.to/rakeshkr2/kafka-vs-rabbitmq-4ioj)
+[![How to Integrate Pay with Crypto Payment Checkout with Lazerpay](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Integrate_Pay_with_Crypto_Payment_Checkout_with_Lazerpay.svg)](https://dev.to/koha/how-to-integrate-pay-with-crypto-payment-checkout-with-lazerpay-343a)
+[![10-Nodejs Course 2023: Application Module Structure](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/10-Nodejs_Course_2023__Application_Module_Structure.svg)](https://dev.to/hassanzohdy/10-nodejs-course-2023-application-module-structure-3mkm)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, October 29, 2022 at 6:19:19 AM
+> Last updated: Saturday, October 29, 2022 at 12:12:55 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, October 29, 2022 at 6:19:23 AM
+> Last updated: Saturday, October 29, 2022 at 12:12:59 PM
 
 > Showing 5 of 30 posts.
 
+[![Static vs Instance in Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Static_vs_Instance_in_Javascript.svg)](
+https://www.frontendroom.com/blog/static-vs-instance-in-javascript
+)
+[![How to be Better at Algorithms? | Examples for Beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_be_Better_at_Algorithms____Examples_for_Beginners.svg)](https://nerdleveltech.com/how-to-be-better-at-algorithms-examples-for-beginners/)
 [![GitHub - markwylde/just-tap: A simple tap test runner that can be used by any javascript interpreter.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_markwylde_just-tap__A_simple_tap_test_runner_that_can_be_used_by_any_javascript_interpreter..svg)](https://github.com/markwylde/just-tap)
 [![How To Read CSV File Using Noidejs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_To_Read_CSV_File_Using_Noidejs.svg)](https://www.js-tutorials.com/nodejs-tutorial/how-to-read-csv-file-using-noidejs/)
 [![Stranger Scripts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Stranger_Scripts.svg)](https://auth0.com/blog/stranger-scripts/)
-[![Javascript: forEach Is Not A Function and What To Do?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Javascript__forEach_Is_Not_A_Function_and_What_To_Do_.svg)](https://nerdleveltech.com/javascript-foreach-is-not-a-function-and-what-to-do/)
-[![Deno 1.27: Major IDE Improvements](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Deno_1.27__Major_IDE_Improvements.svg)](https://deno.com/blog/v1.27)
 
 
 <!-- post-list:end -->
