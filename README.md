@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, October 30, 2022 at 12:13:31 AM
+> Last updated: Sunday, October 30, 2022 at 6:20:58 AM
 
 > Showing 5 of 12 posts.
 
-[![The History of Innovation, the Dodo, and the Low-Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_History_of_Innovation__the_Dodo__and_the_Low-Code.svg)](https://dev.to/polterguy/the-history-of-innovation-the-dodo-and-the-low-code-59e7)
-[![Source Code Analysis for Go HTTP Framework Hertz](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Source_Code_Analysis_for_Go_HTTP_Framework_Hertz.svg)](https://dev.to/baize1998/source-code-analysis-for-go-http-framework-hertz-4jgi)
-[![Who will win the 2022 Brazilian Presidential Election?, according to statistics.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Who_will_win_the_2022_Brazilian_Presidential_Election___according_to_statistics..svg)](https://dev.to/christianpaez/who-will-win-the-2022-brazilian-presidential-election-according-to-statistics-5c92)
-[![VueJs Beginners part 2 - Methods](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/VueJs_Beginners_part_2_-_Methods.svg)](https://dev.to/hshoja/vuejs-beginners-part-2-methods-1g7g)
-[![Use NextJS Server Side Pre-Rendering like a boss !🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Use_NextJS_Server_Side_Pre-Rendering_like_a_boss_!🔥.svg)](https://dev.to/devneagu/the-power-of-nextjs-ssg-pre-rendering-196m)
+[![In One Minute : SpringBoot](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/In_One_Minute___SpringBoot.svg)](https://dev.to/rakeshkr2/in-one-minute-springboot-bbk)
+[![Awesome VS Code Extensions for Navigating Large Codebases](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Awesome_VS_Code_Extensions_for_Navigating_Large_Codebases.svg)](https://dev.to/surajondev/awesome-vs-code-extensions-for-navigating-large-codebases-256n)
+[![How to Divide router by Datatype in Path parameter. (FastAPI endpoint Advanced tip.)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Divide_router_by_Datatype_in_Path_parameter._(FastAPI_endpoint_Advanced_tip.).svg)](https://dev.to/gyudoza/how-to-divide-router-by-datatype-in-path-parameter-fastapi-endpoint-advanced-tip-1646)
+[![Keep Your MacBook Battery Healthy and Extend Its Life using Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Keep_Your_MacBook_Battery_Healthy_and_Extend_Its_Life_using_Python.svg)](https://dev.to/owensingh/keep-your-macbook-battery-healthy-and-extend-its-life-using-python-17ck)
+[![Material UI Select in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Material_UI_Select_in_React.svg)](https://dev.to/refine/material-ui-select-in-react-fm)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, October 30, 2022 at 12:13:34 AM
+> Last updated: Sunday, October 30, 2022 at 6:21:02 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, October 30, 2022 at 12:13:39 AM
+> Last updated: Sunday, October 30, 2022 at 6:21:07 AM
 
 > Showing 5 of 30 posts.
 
