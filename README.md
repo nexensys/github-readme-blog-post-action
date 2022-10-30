@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, October 30, 2022 at 6:20:58 AM
+> Last updated: Sunday, October 30, 2022 at 12:14:17 PM
 
 > Showing 5 of 12 posts.
 
-[![In One Minute : SpringBoot](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/In_One_Minute___SpringBoot.svg)](https://dev.to/rakeshkr2/in-one-minute-springboot-bbk)
-[![Awesome VS Code Extensions for Navigating Large Codebases](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Awesome_VS_Code_Extensions_for_Navigating_Large_Codebases.svg)](https://dev.to/surajondev/awesome-vs-code-extensions-for-navigating-large-codebases-256n)
-[![How to Divide router by Datatype in Path parameter. (FastAPI endpoint Advanced tip.)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Divide_router_by_Datatype_in_Path_parameter._(FastAPI_endpoint_Advanced_tip.).svg)](https://dev.to/gyudoza/how-to-divide-router-by-datatype-in-path-parameter-fastapi-endpoint-advanced-tip-1646)
-[![Keep Your MacBook Battery Healthy and Extend Its Life using Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Keep_Your_MacBook_Battery_Healthy_and_Extend_Its_Life_using_Python.svg)](https://dev.to/owensingh/keep-your-macbook-battery-healthy-and-extend-its-life-using-python-17ck)
-[![Material UI Select in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Material_UI_Select_in_React.svg)](https://dev.to/refine/material-ui-select-in-react-fm)
+[![You don’t need the git CLI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/You_don’t_need_the_git_CLI.svg)](https://dev.to/noriller/you-dont-need-the-git-cli-i0e)
+[![How to create a WhatsApp Web UI Clone using Tailwind CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_create_a_WhatsApp_Web_UI_Clone_using_Tailwind_CSS.svg)](https://dev.to/devrohit0/how-to-create-a-whatsapp-web-ui-clone-using-tailwind-css-3ojf)
+[![How to make smooth progressive image loading in React js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_make_smooth_progressive_image_loading_in_React_js.svg)](https://dev.to/jacksonkasi/how-to-make-smooth-progressive-image-loading-in-react-js-25ac)
+[![Signature verification on hybrid method](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Signature_verification_on_hybrid_method.svg)](https://dev.to/ponyjackal/signature-verification-on-hybrid-method-2349)
+[![How to Make Responsive Landing Page Using Html CSS JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Make_Responsive_Landing_Page_Using_Html_CSS_JavaScript.svg)](https://dev.to/codewithsadee/how-to-make-responsive-landing-page-using-html-css-javascript-13jj)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, October 30, 2022 at 6:21:02 AM
+> Last updated: Sunday, October 30, 2022 at 12:14:20 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, October 30, 2022 at 6:21:07 AM
+> Last updated: Sunday, October 30, 2022 at 12:14:26 PM
 
 > Showing 5 of 30 posts.
 
