@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, October 30, 2022 at 12:14:17 PM
+> Last updated: Sunday, October 30, 2022 at 7:08:33 PM
 
 > Showing 5 of 12 posts.
 
-[![You don’t need the git CLI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/You_don’t_need_the_git_CLI.svg)](https://dev.to/noriller/you-dont-need-the-git-cli-i0e)
-[![How to create a WhatsApp Web UI Clone using Tailwind CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_create_a_WhatsApp_Web_UI_Clone_using_Tailwind_CSS.svg)](https://dev.to/devrohit0/how-to-create-a-whatsapp-web-ui-clone-using-tailwind-css-3ojf)
-[![How to make smooth progressive image loading in React js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_make_smooth_progressive_image_loading_in_React_js.svg)](https://dev.to/jacksonkasi/how-to-make-smooth-progressive-image-loading-in-react-js-25ac)
-[![Signature verification on hybrid method](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Signature_verification_on_hybrid_method.svg)](https://dev.to/ponyjackal/signature-verification-on-hybrid-method-2349)
-[![How to Make Responsive Landing Page Using Html CSS JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Make_Responsive_Landing_Page_Using_Html_CSS_JavaScript.svg)](https://dev.to/codewithsadee/how-to-make-responsive-landing-page-using-html-css-javascript-13jj)
+[![Easter eggs in Hacktoberfest 🪺](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Easter_eggs_in_Hacktoberfest_🪺.svg)](https://dev.to/batunpc/easter-eggs-in-hacktoberfest-11ei)
+[![Waiting on a Promise.. Async and Await in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Waiting_on_a_Promise.._Async_and_Await_in_JavaScript.svg)](https://dev.to/qsissler/waiting-on-a-promise-async-and-await-in-javascript-37ng)
+[![tsParticles 2.4.0 Released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/tsParticles_2.4.0_Released.svg)](https://dev.to/tsparticles/tsparticles-240-released-26ak)
+[![Start Terraform from zero](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Start_Terraform_from_zero.svg)](https://dev.to/garryxiao/start-terraform-from-zero-5gl6)
+[![What is Docker Compose? (with demo)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_Docker_Compose__(with_demo).svg)](https://dev.to/alubhorta/what-is-docker-compose-with-demo-bfp)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, October 30, 2022 at 12:14:20 PM
+> Last updated: Sunday, October 30, 2022 at 7:08:36 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, October 30, 2022 at 12:14:26 PM
+> Last updated: Sunday, October 30, 2022 at 7:08:41 PM
 
 > Showing 5 of 30 posts.
 
+[![How to Learn Programming? All You Need to Know Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Learn_Programming__All_You_Need_to_Know_Guide.svg)](https://nerdleveltech.com/how-to-learn-programming-all-you-need-to-know-guide/)
 [![Static vs Instance in Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Static_vs_Instance_in_Javascript.svg)](
 https://www.frontendroom.com/blog/static-vs-instance-in-javascript
 )
 [![How to be Better at Algorithms? | Examples for Beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_be_Better_at_Algorithms____Examples_for_Beginners.svg)](https://nerdleveltech.com/how-to-be-better-at-algorithms-examples-for-beginners/)
 [![GitHub - markwylde/just-tap: A simple tap test runner that can be used by any javascript interpreter.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_markwylde_just-tap__A_simple_tap_test_runner_that_can_be_used_by_any_javascript_interpreter..svg)](https://github.com/markwylde/just-tap)
 [![How To Read CSV File Using Noidejs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_To_Read_CSV_File_Using_Noidejs.svg)](https://www.js-tutorials.com/nodejs-tutorial/how-to-read-csv-file-using-noidejs/)
-[![Stranger Scripts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Stranger_Scripts.svg)](https://auth0.com/blog/stranger-scripts/)
 
 
 <!-- post-list:end -->
