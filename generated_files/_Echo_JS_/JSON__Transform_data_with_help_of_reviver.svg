@@ -67,8 +67,8 @@
     <foreignObject width="600" height="100" x="5" y="5">
       <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
         <div class="text">
-          <div class="title">Static&#0032;vs&#0032;Instance&#0032;in&#0032;Javascript</div>
-          <div class="description">Learn&#0032;about&#0032;static&#0032;&#0040;properties&#0032;and&#0032;methods&#0041;&#0032;and&#0032;instance&#0032;&#0040;properties&#0032;and&#0032;methods&#0041;&#0032;in&#0032;javascript&#0032;in&#0032;this&#0032;article&#0046;</div>
+          <div class="title">JSON&#0058;&#0032;Transform&#0032;data&#0032;with&#0032;help&#0032;of&#0032;reviver</div>
+          <div class="description">Apart&#0032;from&#0032;the&#0032;map&#0032;method&#0044;&#0032;you&#0032;can&#0032;take&#0032;advantage&#0032;of&#0032;reviver&#0032;to&#0032;transform&#0032;data&#0032;from&#0032;JSON&#0032;string&#0046;&#0032;This&#0032;article&#0032;explains&#0032;JSON&#0032;parse&#0032;method&#0032;and&#0032;optional&#0032;reviver</div>
           <div class="date"></div>
           <div class="data">
             <span class="author"></span> 

@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, October 30, 2022 at 7:08:33 PM
+> Last updated: Tuesday, November 1, 2022 at 12:14:29 PM
 
 > Showing 5 of 12 posts.
 
-[![Easter eggs in Hacktoberfest 🪺](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Easter_eggs_in_Hacktoberfest_🪺.svg)](https://dev.to/batunpc/easter-eggs-in-hacktoberfest-11ei)
-[![Waiting on a Promise.. Async and Await in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Waiting_on_a_Promise.._Async_and_Await_in_JavaScript.svg)](https://dev.to/qsissler/waiting-on-a-promise-async-and-await-in-javascript-37ng)
-[![tsParticles 2.4.0 Released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/tsParticles_2.4.0_Released.svg)](https://dev.to/tsparticles/tsparticles-240-released-26ak)
-[![Start Terraform from zero](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Start_Terraform_from_zero.svg)](https://dev.to/garryxiao/start-terraform-from-zero-5gl6)
-[![What is Docker Compose? (with demo)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_Docker_Compose__(with_demo).svg)](https://dev.to/alubhorta/what-is-docker-compose-with-demo-bfp)
+[![The top 5 reasons why software projects fails](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_top_5_reasons_why_software_projects_fails.svg)](https://dev.to/polterguy/the-top-5-reasons-why-software-projects-fails-27n4)
+[![6 VS Code Extensions for Productive Javascript and TypeScript Editing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/6_VS_Code_Extensions_for_Productive_Javascript_and_TypeScript_Editing.svg)](https://dev.to/lgrammel/6-vs-code-extensions-for-productive-javascript-and-typescript-editing-35l3)
+[![Create a culture of Psychological Safety in Engineering](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Create_a_culture_of_Psychological_Safety_in_Engineering.svg)](https://dev.to/kulkarniankita9/create-a-culture-of-psychological-safety-in-engineering-3ead)
+[![Redux Actions - Without declaring CONSTANTS and action-creator functions for each action](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Redux_Actions_-_Without_declaring_CONSTANTS_and_action-creator_functions_for_each_action.svg)](https://dev.to/rubenarushanyan/redux-actions-without-declaring-constants-and-action-creator-functions-for-each-action-3gc6)
+[![LES JOINTURES EN SQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/LES_JOINTURES_EN_SQL.svg)](https://dev.to/gloimir/les-jointures-en-sql-heo)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, October 30, 2022 at 7:08:36 PM
+> Last updated: Tuesday, November 1, 2022 at 12:14:32 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,21 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, October 30, 2022 at 7:08:41 PM
+> Last updated: Tuesday, November 1, 2022 at 12:14:37 PM
 
 > Showing 5 of 30 posts.
 
-[![How to Learn Programming? All You Need to Know Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Learn_Programming__All_You_Need_to_Know_Guide.svg)](https://nerdleveltech.com/how-to-learn-programming-all-you-need-to-know-guide/)
-[![Static vs Instance in Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Static_vs_Instance_in_Javascript.svg)](
-https://www.frontendroom.com/blog/static-vs-instance-in-javascript
+[![Advent Of Vue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Advent_Of_Vue.svg)](https://adventofvue.com)
+[![Quick JavaScript Authentication with OktaDev Schematics](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Quick_JavaScript_Authentication_with_OktaDev_Schematics.svg)](https://auth0.com/blog/quick-javascript-authentication/)
+[![First app with NextJs 13: setup, the new /app folder, and routing system](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/First_app_with_NextJs_13__setup__the_new__app_folder__and_routing_system.svg)](http://www.js-craft.io/blog/first-app-with-nextjs-13-setup-the-new-app-folder-and-routing-system/)
+[![
+Titanium Mobile - Write in JavaScript. Run native everywhere.
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Titanium_Mobile_-_Write_in_JavaScript._Run_native_everywhere._.svg)](
+https://titaniumsdk.com/
 )
-[![How to be Better at Algorithms? | Examples for Beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_be_Better_at_Algorithms____Examples_for_Beginners.svg)](https://nerdleveltech.com/how-to-be-better-at-algorithms-examples-for-beginners/)
-[![GitHub - markwylde/just-tap: A simple tap test runner that can be used by any javascript interpreter.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_markwylde_just-tap__A_simple_tap_test_runner_that_can_be_used_by_any_javascript_interpreter..svg)](https://github.com/markwylde/just-tap)
-[![How To Read CSV File Using Noidejs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_To_Read_CSV_File_Using_Noidejs.svg)](https://www.js-tutorials.com/nodejs-tutorial/how-to-read-csv-file-using-noidejs/)
+[![JSON: Transform data with help of reviver](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JSON__Transform_data_with_help_of_reviver.svg)](
+https://www.frontendroom.com/blog/json-transform-data-with-help-of-reviver
+)
 
 
 <!-- post-list:end -->
