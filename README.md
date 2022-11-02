@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, November 1, 2022 at 7:05:58 PM
+> Last updated: Wednesday, November 2, 2022 at 12:18:11 AM
 
 > Showing 5 of 12 posts.
 
-[![Zero to SaaS - Product #1 BookMarksy.io](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Zero_to_SaaS_-_Product__1_BookMarksy.io.svg)](https://dev.to/brandonkylebailey/zero-to-saas-product-1-bookmarksyio-5afp)
-[![September DEVshirt.club release](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/September_DEVshirt.club_release.svg)](https://dev.to/devshirt_club/september-devshirtclub-release-21e7)
-[![Bing Webmaster Tools De-indexed My Docs Site and Increased My Cognitive Load](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Bing_Webmaster_Tools_De-indexed_My_Docs_Site_and_Increased_My_Cognitive_Load.svg)](https://dev.to/missamarakay/bing-webmaster-tools-de-indexed-my-docs-site-and-increased-my-cognitive-load-32ki)
-[![Fully expand PR status checks on GitHub](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Fully_expand_PR_status_checks_on_GitHub.svg)](https://dev.to/this-is-learning/fully-expand-pr-status-checks-on-github-4mml)
-[![Build your own profile photo sticker/frame tool](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_your_own_profile_photo_sticker_frame_tool.svg)](https://dev.to/triketora/build-your-own-profile-photo-stickerframe-tool-25l9)
+[![Foal version 3.0 is here 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Foal_version_3.0_is_here_🚀.svg)](https://dev.to/loicpoullain/foal-version-30-is-here-2pj3)
+[![Kubernetes 101 - Containers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Kubernetes_101_-_Containers.svg)](https://dev.to/dailydevtips1/kubernetes-101-containers-55gb)
+[![Mengenal macam - macam Metodologi penulisan CSS - Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Mengenal_macam_-_macam_Metodologi_penulisan_CSS_-_Part_1.svg)](https://dev.to/azrilardian/mengenal-macan-macam-metodologi-penulisan-css-part-1-4010)
+[![HTML & CSS Features, Tips For a 10x fast Page Loading Speed](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/HTML___CSS_Features__Tips_For_a_10x_fast_Page_Loading_Speed.svg)](https://dev.to/koustav/html-css-features-tips-for-a-10x-fast-page-loading-speed-4jop)
+[![What is @try 🤯 before this function in Python?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_@try_🤯_before_this_function_in_Python_.svg)](https://dev.to/rajeshj3/what-is-try-before-this-function-in-python-5ph)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, November 1, 2022 at 7:06:01 PM
+> Last updated: Wednesday, November 2, 2022 at 12:18:15 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, November 1, 2022 at 7:06:05 PM
+> Last updated: Wednesday, November 2, 2022 at 12:18:20 AM
 
 > Showing 5 of 30 posts.
 
