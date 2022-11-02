@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, November 1, 2022 at 12:14:29 PM
+> Last updated: Tuesday, November 1, 2022 at 7:05:58 PM
 
 > Showing 5 of 12 posts.
 
-[![The top 5 reasons why software projects fails](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_top_5_reasons_why_software_projects_fails.svg)](https://dev.to/polterguy/the-top-5-reasons-why-software-projects-fails-27n4)
-[![6 VS Code Extensions for Productive Javascript and TypeScript Editing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/6_VS_Code_Extensions_for_Productive_Javascript_and_TypeScript_Editing.svg)](https://dev.to/lgrammel/6-vs-code-extensions-for-productive-javascript-and-typescript-editing-35l3)
-[![Create a culture of Psychological Safety in Engineering](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Create_a_culture_of_Psychological_Safety_in_Engineering.svg)](https://dev.to/kulkarniankita9/create-a-culture-of-psychological-safety-in-engineering-3ead)
-[![Redux Actions - Without declaring CONSTANTS and action-creator functions for each action](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Redux_Actions_-_Without_declaring_CONSTANTS_and_action-creator_functions_for_each_action.svg)](https://dev.to/rubenarushanyan/redux-actions-without-declaring-constants-and-action-creator-functions-for-each-action-3gc6)
-[![LES JOINTURES EN SQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/LES_JOINTURES_EN_SQL.svg)](https://dev.to/gloimir/les-jointures-en-sql-heo)
+[![Zero to SaaS - Product #1 BookMarksy.io](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Zero_to_SaaS_-_Product__1_BookMarksy.io.svg)](https://dev.to/brandonkylebailey/zero-to-saas-product-1-bookmarksyio-5afp)
+[![September DEVshirt.club release](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/September_DEVshirt.club_release.svg)](https://dev.to/devshirt_club/september-devshirtclub-release-21e7)
+[![Bing Webmaster Tools De-indexed My Docs Site and Increased My Cognitive Load](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Bing_Webmaster_Tools_De-indexed_My_Docs_Site_and_Increased_My_Cognitive_Load.svg)](https://dev.to/missamarakay/bing-webmaster-tools-de-indexed-my-docs-site-and-increased-my-cognitive-load-32ki)
+[![Fully expand PR status checks on GitHub](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Fully_expand_PR_status_checks_on_GitHub.svg)](https://dev.to/this-is-learning/fully-expand-pr-status-checks-on-github-4mml)
+[![Build your own profile photo sticker/frame tool](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_your_own_profile_photo_sticker_frame_tool.svg)](https://dev.to/triketora/build-your-own-profile-photo-stickerframe-tool-25l9)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, November 1, 2022 at 12:14:32 PM
+> Last updated: Tuesday, November 1, 2022 at 7:06:01 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, November 1, 2022 at 12:14:37 PM
+> Last updated: Tuesday, November 1, 2022 at 7:06:05 PM
 
 > Showing 5 of 30 posts.
 
