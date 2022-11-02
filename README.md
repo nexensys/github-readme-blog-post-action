@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, November 2, 2022 at 6:24:00 AM
+> Last updated: Wednesday, November 2, 2022 at 12:14:33 PM
 
 > Showing 5 of 12 posts.
 
-[![Searching for retro games with Xata & Next.js 13](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Searching_for_retro_games_with_Xata___Next.js_13.svg)](https://dev.to/anjanavakil/searching-for-retro-games-with-next-13-xata-4e5g)
-[![What is Docker ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_Docker__.svg)](https://dev.to/rakeshkr2/what-is-docker-1ln)
-[![This Week In React #122: Next.js 13, Turbopack, Remixing Shopify, R3f Journey, Valhalla, Expo, Rive, Storybook, Asta...](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/This_Week_In_React__122__Next.js_13__Turbopack__Remixing_Shopify__R3f_Journey__Valhalla__Expo__Rive__Storybook__Asta....svg)](https://dev.to/sebastienlorber/this-week-in-react-122-nextjs-13-turbopack-remixing-shopify-r3f-journey-valhalla-expo-rive-storybook-asta-48hp)
-[![Understanding CRUD operations with a note app in react](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Understanding_CRUD_operations_with_a_note_app_in_react.svg)](https://dev.to/himanshupal0001/understanding-crud-operations-with-a-note-app-in-react-3koe)
-[![Creating a registration and a login with two-factor authentication on React 🤩](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Creating_a_registration_and_a_login_with_two-factor_authentication_on_React_🤩.svg)](https://dev.to/nevodavid/creating-a-registration-and-a-login-with-two-factor-authentication-on-react-2p2i)
+[![The benefits of using Kubernetes for deployments](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_benefits_of_using_Kubernetes_for_deployments.svg)](https://dev.to/roy8/the-benefits-of-using-kubernetes-for-deployments-2bcp)
+[![How to add PayPal checkout payments to your React app](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_add_PayPal_checkout_payments_to_your_React_app.svg)](https://dev.to/paypaldeveloper/how-to-add-paypal-checkout-payments-to-your-react-app-53aa)
+[![Editing Content with Hugo Shortcodes in the CMS: Built-in and Custom Shortcode Support](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Editing_Content_with_Hugo_Shortcodes_in_the_CMS__Built-in_and_Custom_Shortcode_Support.svg)](https://dev.to/cloudcannon/editing-content-with-hugo-shortcodes-in-the-cms-built-in-and-custom-shortcode-support-5cn1)
+[![Deploying Java Artifacts to Multiple Maven Repositories with GitHub Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Deploying_Java_Artifacts_to_Multiple_Maven_Repositories_with_GitHub_Actions.svg)](https://dev.to/cicirello/deploying-java-artifacts-to-multiple-maven-repositories-with-github-actions-4idf)
+[![Structured error messages for HTTP APIs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Structured_error_messages_for_HTTP_APIs.svg)](https://dev.to/apisix/structured-error-messages-for-http-apis-lao)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, November 2, 2022 at 6:24:04 AM
+> Last updated: Wednesday, November 2, 2022 at 12:14:37 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, November 2, 2022 at 6:24:11 AM
+> Last updated: Wednesday, November 2, 2022 at 12:14:40 PM
 
 > Showing 5 of 30 posts.
 
+[![Benefits of Adopting Serverless In Your Business | Webiny](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Benefits_of_Adopting_Serverless_In_Your_Business___Webiny.svg)](
+https://www.webiny.com/blog/benefits-adopting-serverless-in-your-business
+)
+[![GitHub - epicmaxco/vuestic-ui: Free and Open Source UI Library for Vue 3 🤘](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_epicmaxco_vuestic-ui__Free_and_Open_Source_UI_Library_for_Vue_3_🤘.svg)](https://github.com/epicmaxco/vuestic-ui)
 [![How to Implement the Picture-in-Picture Feature on Any Website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Implement_the_Picture-in-Picture_Feature_on_Any_Website.svg)](https://medium.com/@theHocineSaad/how-to-implement-the-picture-in-picture-feature-on-any-website-340b329b8d4b)
 [![Version 3.0 release notes | FoalTS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Version_3.0_release_notes___FoalTS.svg)](https://foalts.org/blog/2022/11/01/version-3.0-release-notes)
 [![Advent Of Vue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Advent_Of_Vue.svg)](https://adventofvue.com)
-[![Quick JavaScript Authentication with OktaDev Schematics](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Quick_JavaScript_Authentication_with_OktaDev_Schematics.svg)](https://auth0.com/blog/quick-javascript-authentication/)
-[![First app with NextJs 13: setup, the new /app folder, and routing system](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/First_app_with_NextJs_13__setup__the_new__app_folder__and_routing_system.svg)](http://www.js-craft.io/blog/first-app-with-nextjs-13-setup-the-new-app-folder-and-routing-system/)
 
 
 <!-- post-list:end -->
