@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, November 2, 2022 at 12:18:11 AM
+> Last updated: Wednesday, November 2, 2022 at 6:24:00 AM
 
 > Showing 5 of 12 posts.
 
-[![Foal version 3.0 is here 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Foal_version_3.0_is_here_🚀.svg)](https://dev.to/loicpoullain/foal-version-30-is-here-2pj3)
-[![Kubernetes 101 - Containers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Kubernetes_101_-_Containers.svg)](https://dev.to/dailydevtips1/kubernetes-101-containers-55gb)
-[![Mengenal macam - macam Metodologi penulisan CSS - Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Mengenal_macam_-_macam_Metodologi_penulisan_CSS_-_Part_1.svg)](https://dev.to/azrilardian/mengenal-macan-macam-metodologi-penulisan-css-part-1-4010)
-[![HTML & CSS Features, Tips For a 10x fast Page Loading Speed](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/HTML___CSS_Features__Tips_For_a_10x_fast_Page_Loading_Speed.svg)](https://dev.to/koustav/html-css-features-tips-for-a-10x-fast-page-loading-speed-4jop)
-[![What is @try 🤯 before this function in Python?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_@try_🤯_before_this_function_in_Python_.svg)](https://dev.to/rajeshj3/what-is-try-before-this-function-in-python-5ph)
+[![Searching for retro games with Xata & Next.js 13](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Searching_for_retro_games_with_Xata___Next.js_13.svg)](https://dev.to/anjanavakil/searching-for-retro-games-with-next-13-xata-4e5g)
+[![What is Docker ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_Docker__.svg)](https://dev.to/rakeshkr2/what-is-docker-1ln)
+[![This Week In React #122: Next.js 13, Turbopack, Remixing Shopify, R3f Journey, Valhalla, Expo, Rive, Storybook, Asta...](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/This_Week_In_React__122__Next.js_13__Turbopack__Remixing_Shopify__R3f_Journey__Valhalla__Expo__Rive__Storybook__Asta....svg)](https://dev.to/sebastienlorber/this-week-in-react-122-nextjs-13-turbopack-remixing-shopify-r3f-journey-valhalla-expo-rive-storybook-asta-48hp)
+[![Understanding CRUD operations with a note app in react](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Understanding_CRUD_operations_with_a_note_app_in_react.svg)](https://dev.to/himanshupal0001/understanding-crud-operations-with-a-note-app-in-react-3koe)
+[![Creating a registration and a login with two-factor authentication on React 🤩](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Creating_a_registration_and_a_login_with_two-factor_authentication_on_React_🤩.svg)](https://dev.to/nevodavid/creating-a-registration-and-a-login-with-two-factor-authentication-on-react-2p2i)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, November 2, 2022 at 12:18:15 AM
+> Last updated: Wednesday, November 2, 2022 at 6:24:04 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,21 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, November 2, 2022 at 12:18:20 AM
+> Last updated: Wednesday, November 2, 2022 at 6:24:11 AM
 
 > Showing 5 of 30 posts.
 
+[![How to Implement the Picture-in-Picture Feature on Any Website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Implement_the_Picture-in-Picture_Feature_on_Any_Website.svg)](https://medium.com/@theHocineSaad/how-to-implement-the-picture-in-picture-feature-on-any-website-340b329b8d4b)
+[![Version 3.0 release notes | FoalTS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Version_3.0_release_notes___FoalTS.svg)](https://foalts.org/blog/2022/11/01/version-3.0-release-notes)
 [![Advent Of Vue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Advent_Of_Vue.svg)](https://adventofvue.com)
 [![Quick JavaScript Authentication with OktaDev Schematics](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Quick_JavaScript_Authentication_with_OktaDev_Schematics.svg)](https://auth0.com/blog/quick-javascript-authentication/)
 [![First app with NextJs 13: setup, the new /app folder, and routing system](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/First_app_with_NextJs_13__setup__the_new__app_folder__and_routing_system.svg)](http://www.js-craft.io/blog/first-app-with-nextjs-13-setup-the-new-app-folder-and-routing-system/)
-[![
-Titanium Mobile - Write in JavaScript. Run native everywhere.
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Titanium_Mobile_-_Write_in_JavaScript._Run_native_everywhere._.svg)](
-https://titaniumsdk.com/
-)
-[![JSON: Transform data with help of reviver](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JSON__Transform_data_with_help_of_reviver.svg)](
-https://www.frontendroom.com/blog/json-transform-data-with-help-of-reviver
-)
 
 
 <!-- post-list:end -->
