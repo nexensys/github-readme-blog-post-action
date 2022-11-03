@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, November 3, 2022 at 6:20:48 AM
+> Last updated: Thursday, November 3, 2022 at 12:16:00 PM
 
 > Showing 5 of 12 posts.
 
-[![Refactoring Tools: Module Contracts for Lower Coupling](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Refactoring_Tools__Module_Contracts_for_Lower_Coupling.svg)](https://dev.to/bespoyasov/refactoring-tools-module-contracts-for-lower-coupling-2153)
-[![Why you should avoid Breaking Changes?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Why_you_should_avoid_Breaking_Changes_.svg)](https://dev.to/woovi/why-you-should-avoid-breaking-changes-4o04)
-[![Schemaless to the rescue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Schemaless_to_the_rescue.svg)](https://dev.to/woovi/schemaless-to-the-rescue-26cd)
-[![What is MongoDB ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_MongoDB__.svg)](https://dev.to/rakeshkr2/what-is-mongodb--2jlb)
-[![Study Plan to pass exam AWS Machine Learning Specialty exam with tips and advice](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Study_Plan_to_pass_exam_AWS_Machine_Learning_Specialty_exam_with_tips_and_advice.svg)](https://dev.to/aws-builders/study-plan-to-pass-exam-aws-machine-learning-specialty-exam-with-tips-and-advice-3jh0)
+[![What I Learned About FinTech at Rapyd](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_I_Learned_About_FinTech_at_Rapyd.svg)](https://dev.to/rapyd/what-i-learned-about-fintech-at-rapyd-5553)
+[![Most Used Git Commands](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Most_Used_Git_Commands.svg)](https://dev.to/kshitij9896/most-used-git-commands-4ej0)
+[![Full Stack Project Ideas For Beginner](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Full_Stack_Project_Ideas_For_Beginner.svg)](https://dev.to/kshitij9896/full-stack-project-ideas-for-beginner-45dc)
+[![How to check if your libraries are vulnerable?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_check_if_your_libraries_are_vulnerable_.svg)](https://dev.to/orlandov14/how-to-check-if-your-libraries-are-vulnerable-5dh4)
+[![Top Podcasts for developer's](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_Podcasts_for_developer's.svg)](https://dev.to/kshitij9896/top-podcasts-for-developers-4efd)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, November 3, 2022 at 6:20:52 AM
+> Last updated: Thursday, November 3, 2022 at 12:16:04 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, November 3, 2022 at 6:20:56 AM
+> Last updated: Thursday, November 3, 2022 at 12:16:08 PM
 
 > Showing 5 of 30 posts.
 
