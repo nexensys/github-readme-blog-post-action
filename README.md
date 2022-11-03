@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, November 3, 2022 at 12:14:03 AM
+> Last updated: Thursday, November 3, 2022 at 6:20:48 AM
 
 > Showing 5 of 12 posts.
 
-[![Django & Stripe eCommerce - Free Starter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Django___Stripe_eCommerce_-_Free_Starter.svg)](https://dev.to/sm0ke/django-stripe-ecommerce-free-starter-14g0)
-[![What no meta-framework does.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_no_meta-framework_does..svg)](https://dev.to/reggi/the-thing-no-meta-framework-does-4fh4)
-[![Hatching a Helm Chart](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Hatching_a_Helm_Chart.svg)](https://dev.to/kitarp29/hatching-a-helm-chart-l52)
-[![Virtual Coffee Hacktoberfest 2022 Roundup](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Virtual_Coffee_Hacktoberfest_2022_Roundup.svg)](https://dev.to/virtualcoffee/virtual-coffee-hacktoberfest-2022-roundup-1c2k)
-[![Story of Musk and the bird's hap: Almost doesn't kill a bird.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Story_of_Musk_and_the_bird's_hap__Almost_doesn't_kill_a_bird..svg)](https://dev.to/femolacaster/story-of-musk-and-the-birds-hap-almost-doesnt-kill-a-bird-3cfi)
+[![Refactoring Tools: Module Contracts for Lower Coupling](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Refactoring_Tools__Module_Contracts_for_Lower_Coupling.svg)](https://dev.to/bespoyasov/refactoring-tools-module-contracts-for-lower-coupling-2153)
+[![Why you should avoid Breaking Changes?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Why_you_should_avoid_Breaking_Changes_.svg)](https://dev.to/woovi/why-you-should-avoid-breaking-changes-4o04)
+[![Schemaless to the rescue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Schemaless_to_the_rescue.svg)](https://dev.to/woovi/schemaless-to-the-rescue-26cd)
+[![What is MongoDB ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_MongoDB__.svg)](https://dev.to/rakeshkr2/what-is-mongodb--2jlb)
+[![Study Plan to pass exam AWS Machine Learning Specialty exam with tips and advice](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Study_Plan_to_pass_exam_AWS_Machine_Learning_Specialty_exam_with_tips_and_advice.svg)](https://dev.to/aws-builders/study-plan-to-pass-exam-aws-machine-learning-specialty-exam-with-tips-and-advice-3jh0)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, November 3, 2022 at 12:14:06 AM
+> Last updated: Thursday, November 3, 2022 at 6:20:52 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, November 3, 2022 at 12:14:10 AM
+> Last updated: Thursday, November 3, 2022 at 6:20:56 AM
 
 > Showing 5 of 30 posts.
 
