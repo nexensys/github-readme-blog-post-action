@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, November 2, 2022 at 7:00:17 PM
+> Last updated: Thursday, November 3, 2022 at 12:14:03 AM
 
 > Showing 5 of 12 posts.
 
+[![Django & Stripe eCommerce - Free Starter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Django___Stripe_eCommerce_-_Free_Starter.svg)](https://dev.to/sm0ke/django-stripe-ecommerce-free-starter-14g0)
+[![What no meta-framework does.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_no_meta-framework_does..svg)](https://dev.to/reggi/the-thing-no-meta-framework-does-4fh4)
+[![Hatching a Helm Chart](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Hatching_a_Helm_Chart.svg)](https://dev.to/kitarp29/hatching-a-helm-chart-l52)
+[![Virtual Coffee Hacktoberfest 2022 Roundup](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Virtual_Coffee_Hacktoberfest_2022_Roundup.svg)](https://dev.to/virtualcoffee/virtual-coffee-hacktoberfest-2022-roundup-1c2k)
 [![Story of Musk and the bird's hap: Almost doesn't kill a bird.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Story_of_Musk_and_the_bird's_hap__Almost_doesn't_kill_a_bird..svg)](https://dev.to/femolacaster/story-of-musk-and-the-birds-hap-almost-doesnt-kill-a-bird-3cfi)
-[![I Want to Delight my Customers! ✴️](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/I_Want_to_Delight_my_Customers!_✴️.svg)](https://dev.to/adam_cyclones/i-want-to-delight-my-customers-1hp7)
-[![Should Open Source be a rite of passage for developers?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Should_Open_Source_be_a_rite_of_passage_for_developers_.svg)](https://dev.to/linearb/should-open-source-be-a-rite-of-passage-for-developers-43nm)
-[![Animated Gradient Texts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Animated_Gradient_Texts.svg)](https://dev.to/tomdohnal/animated-gradient-texts-4hoa)
-[![[Conceito] - Funções Puras vs Determinísticas](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/[Conceito]_-_Funções_Puras_vs_Determinísticas.svg)](https://dev.to/zanfranceschi/conceito-funcoes-puras-vs-deterministicas-3dn3)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, November 2, 2022 at 7:00:20 PM
+> Last updated: Thursday, November 3, 2022 at 12:14:06 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, November 2, 2022 at 7:00:22 PM
+> Last updated: Thursday, November 3, 2022 at 12:14:10 AM
 
 > Showing 5 of 30 posts.
 
