@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, November 2, 2022 at 12:14:33 PM
+> Last updated: Wednesday, November 2, 2022 at 7:00:17 PM
 
 > Showing 5 of 12 posts.
 
-[![The benefits of using Kubernetes for deployments](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_benefits_of_using_Kubernetes_for_deployments.svg)](https://dev.to/roy8/the-benefits-of-using-kubernetes-for-deployments-2bcp)
-[![How to add PayPal checkout payments to your React app](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_add_PayPal_checkout_payments_to_your_React_app.svg)](https://dev.to/paypaldeveloper/how-to-add-paypal-checkout-payments-to-your-react-app-53aa)
-[![Editing Content with Hugo Shortcodes in the CMS: Built-in and Custom Shortcode Support](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Editing_Content_with_Hugo_Shortcodes_in_the_CMS__Built-in_and_Custom_Shortcode_Support.svg)](https://dev.to/cloudcannon/editing-content-with-hugo-shortcodes-in-the-cms-built-in-and-custom-shortcode-support-5cn1)
-[![Deploying Java Artifacts to Multiple Maven Repositories with GitHub Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Deploying_Java_Artifacts_to_Multiple_Maven_Repositories_with_GitHub_Actions.svg)](https://dev.to/cicirello/deploying-java-artifacts-to-multiple-maven-repositories-with-github-actions-4idf)
-[![Structured error messages for HTTP APIs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Structured_error_messages_for_HTTP_APIs.svg)](https://dev.to/apisix/structured-error-messages-for-http-apis-lao)
+[![Story of Musk and the bird's hap: Almost doesn't kill a bird.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Story_of_Musk_and_the_bird's_hap__Almost_doesn't_kill_a_bird..svg)](https://dev.to/femolacaster/story-of-musk-and-the-birds-hap-almost-doesnt-kill-a-bird-3cfi)
+[![I Want to Delight my Customers! ✴️](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/I_Want_to_Delight_my_Customers!_✴️.svg)](https://dev.to/adam_cyclones/i-want-to-delight-my-customers-1hp7)
+[![Should Open Source be a rite of passage for developers?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Should_Open_Source_be_a_rite_of_passage_for_developers_.svg)](https://dev.to/linearb/should-open-source-be-a-rite-of-passage-for-developers-43nm)
+[![Animated Gradient Texts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Animated_Gradient_Texts.svg)](https://dev.to/tomdohnal/animated-gradient-texts-4hoa)
+[![[Conceito] - Funções Puras vs Determinísticas](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/[Conceito]_-_Funções_Puras_vs_Determinísticas.svg)](https://dev.to/zanfranceschi/conceito-funcoes-puras-vs-deterministicas-3dn3)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, November 2, 2022 at 12:14:37 PM
+> Last updated: Wednesday, November 2, 2022 at 7:00:20 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, November 2, 2022 at 12:14:40 PM
+> Last updated: Wednesday, November 2, 2022 at 7:00:22 PM
 
 > Showing 5 of 30 posts.
 
+[![Flutter InAppWebView 6](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Flutter_InAppWebView_6.svg)](https://medium.com/@pichillilorenzo/flutter-inappwebview-6-b0bcef5ca3cf)
+[![What Is Domain Authority And How To Make It Higher?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_Is_Domain_Authority_And_How_To_Make_It_Higher_.svg)](https://nerdleveltech.com/what-is-domain-authority-and-how-to-make-it-higher/)
 [![Benefits of Adopting Serverless In Your Business | Webiny](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Benefits_of_Adopting_Serverless_In_Your_Business___Webiny.svg)](
 https://www.webiny.com/blog/benefits-adopting-serverless-in-your-business
 )
 [![GitHub - epicmaxco/vuestic-ui: Free and Open Source UI Library for Vue 3 🤘](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_epicmaxco_vuestic-ui__Free_and_Open_Source_UI_Library_for_Vue_3_🤘.svg)](https://github.com/epicmaxco/vuestic-ui)
 [![How to Implement the Picture-in-Picture Feature on Any Website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Implement_the_Picture-in-Picture_Feature_on_Any_Website.svg)](https://medium.com/@theHocineSaad/how-to-implement-the-picture-in-picture-feature-on-any-website-340b329b8d4b)
-[![Version 3.0 release notes | FoalTS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Version_3.0_release_notes___FoalTS.svg)](https://foalts.org/blog/2022/11/01/version-3.0-release-notes)
-[![Advent Of Vue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Advent_Of_Vue.svg)](https://adventofvue.com)
 
 
 <!-- post-list:end -->
