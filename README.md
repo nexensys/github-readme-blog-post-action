@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, November 6, 2022 at 5:18:51 AM
+> Last updated: Sunday, November 6, 2022 at 11:12:40 AM
 
 > Showing 5 of 12 posts.
 
-[![Finding bugs by fuzzing your code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Finding_bugs_by_fuzzing_your_code.svg)](https://dev.to/superfola/finding-bugs-by-fuzzing-your-code-1b0e)
-[![In One Minute : WordPress](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/In_One_Minute___WordPress.svg)](https://dev.to/rakeshkr2/in-one-minute-wordpress-4e22)
-[![Matplotlib - Visualization with Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Matplotlib_-_Visualization_with_Python.svg)](https://dev.to/debjotyms/matplotlib-visualization-with-python-3iel)
-[![How to call AWS Step Functions from AWS Amplify](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_call_AWS_Step_Functions_from_AWS_Amplify.svg)](https://dev.to/aws-builders/how-to-call-aws-step-functions-from-aws-amplify-21lm)
-[![Reorder Data in Log Files](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Reorder_Data_in_Log_Files.svg)](https://dev.to/salahelhossiny/reorder-data-in-log-files-17k8)
+[![Javascript loops: for vs forEach vs for.. in vs for.. of](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Javascript_loops__for_vs_forEach_vs_for.._in_vs_for.._of.svg)](https://dev.to/smpnjn/javascript-loops-for-vs-foreach-vs-for-in-vs-for-of-1mbo)
+[![How to monetize your Google Workspace add-on?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_monetize_your_Google_Workspace_add-on_.svg)](https://dev.to/frenchcooc/how-to-monetize-your-google-workspace-add-on-1k0a)
+[![Removing the last element of an array in Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Removing_the_last_element_of_an_array_in_Javascript.svg)](https://dev.to/smpnjn/removing-the-last-element-of-an-array-in-javascript-7ga)
+[![What is HAProxy ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_HAProxy__.svg)](https://dev.to/eminvergil/what-is-haproxy--29fo)
+[![Analysis of classification models on NASA Active Fire data.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Analysis_of_classification_models_on_NASA_Active_Fire_data..svg)](https://dev.to/apeksha235/analysis-of-classification-models-on-nasa-active-fire-data-5c93)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, November 6, 2022 at 5:18:54 AM
+> Last updated: Sunday, November 6, 2022 at 11:12:43 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, November 6, 2022 at 5:18:57 AM
+> Last updated: Sunday, November 6, 2022 at 11:12:49 AM
 
 > Showing 5 of 30 posts.
 
