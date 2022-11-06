@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, November 5, 2022 at 6:58:58 PM
+> Last updated: Sunday, November 6, 2022 at 12:12:51 AM
 
 > Showing 5 of 12 posts.
 
-[![Wrlcome to Perl Channel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Wrlcome_to_Perl_Channel.svg)](https://dev.to/yukikimoto/wrlcome-to-perl-channel-4p6d)
-[![Certificate Parsing with `domain-recon`](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Certificate_Parsing_with_`domain-recon`.svg)](https://dev.to/ervin_szilagyi/certificate-parsing-with-domain-recon-1eo9)
-[![You don’t need the framework that builds you a blog in 10 minutes.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/You_don’t_need_the_framework_that_builds_you_a_blog_in_10_minutes..svg)](https://dev.to/noriller/you-dont-need-the-framework-that-builds-you-a-blog-in-10-minutes-2ig1)
-[![Elevate Your Terminal Experience on The Mac 🧘‍♂️](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Elevate_Your_Terminal_Experience_on_The_Mac_🧘‍♂️.svg)](https://dev.to/duncanlew/elevate-your-terminal-experience-on-the-mac-3o3m)
-[![Make your DOM look like an eye that can focus on anything!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Make_your_DOM_look_like_an_eye_that_can_focus_on_anything!.svg)](https://dev.to/jj811208/make-your-dom-look-like-an-eye-that-can-focus-on-anything-3am)
+[![Migrate from render to Supabase](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Migrate_from_render_to_Supabase.svg)](https://dev.to/devkazuki/migrate-from-render-to-supabase-2en)
+[![1st day](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/1st_day.svg)](https://dev.to/guymorganb_/1st-day-4epg)
+[![How to Make Weather App in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Make_Weather_App_in_React.svg)](https://dev.to/reactjsguru/how-to-make-weather-app-in-react-d3f)
+[![Use Model Features to Speed Up Backend Development in a DRY Manner](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Use_Model_Features_to_Speed_Up_Backend_Development_in_a_DRY_Manner.svg)](https://dev.to/webjose/use-model-features-to-speed-up-backend-development-in-a-dry-manner-20gb)
+[![Orderly Queue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Orderly_Queue.svg)](https://dev.to/salahelhossiny/orderly-queue-3k9i)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, November 5, 2022 at 6:59:01 PM
+> Last updated: Sunday, November 6, 2022 at 12:12:54 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, November 5, 2022 at 6:59:09 PM
+> Last updated: Sunday, November 6, 2022 at 12:12:57 AM
 
 > Showing 5 of 30 posts.
 
+[![Kosko 3.0 Released | Kosko](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Kosko_3.0_Released___Kosko.svg)](https://kosko.dev/blog/2022/11/06/kosko-3.0)
 [![Browser OS: Matrix, Nextjs 13, IRC, ∞ Sheep & Performance Enhancements](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Browser_OS__Matrix__Nextjs_13__IRC__∞_Sheep___Performance_Enhancements.svg)](https://www.youtube.com/watch?v=iEob-Vilmz0)
 [![Hadmean](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Hadmean.svg)](https://hadmean.com/)
 [![Ionic Chat App: Group and 1-1 Chat in 3 easy steps.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Ionic_Chat_App__Group_and_1-1_Chat_in_3_easy_steps..svg)](https://metered.hashnode.dev/ionic-chat-app-group-and-1-1-chat-in-3-easy-steps)
 [![GitHub - garu2/Skills-CSS: 🚀 Una colección de tips para ayudarte a mejorar sus habilidades de CSS 🪐](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_garu2_Skills-CSS__🚀_Una_colección_de_tips_para_ayudarte_a_mejorar_sus_habilidades_de_CSS_🪐.svg)](https://github.com/garu2/Skills-CSS)
-[![Reduced.to | The FREE Open-Source URL Shortener](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Reduced.to___The_FREE_Open-Source_URL_Shortener.svg)](https://reduced.to)
 
 
 <!-- post-list:end -->
