@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, November 3, 2022 at 12:16:00 PM
+> Last updated: Saturday, November 5, 2022 at 6:58:58 PM
 
 > Showing 5 of 12 posts.
 
-[![What I Learned About FinTech at Rapyd](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_I_Learned_About_FinTech_at_Rapyd.svg)](https://dev.to/rapyd/what-i-learned-about-fintech-at-rapyd-5553)
-[![Most Used Git Commands](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Most_Used_Git_Commands.svg)](https://dev.to/kshitij9896/most-used-git-commands-4ej0)
-[![Full Stack Project Ideas For Beginner](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Full_Stack_Project_Ideas_For_Beginner.svg)](https://dev.to/kshitij9896/full-stack-project-ideas-for-beginner-45dc)
-[![How to check if your libraries are vulnerable?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_check_if_your_libraries_are_vulnerable_.svg)](https://dev.to/orlandov14/how-to-check-if-your-libraries-are-vulnerable-5dh4)
-[![Top Podcasts for developer's](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_Podcasts_for_developer's.svg)](https://dev.to/kshitij9896/top-podcasts-for-developers-4efd)
+[![Wrlcome to Perl Channel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Wrlcome_to_Perl_Channel.svg)](https://dev.to/yukikimoto/wrlcome-to-perl-channel-4p6d)
+[![Certificate Parsing with `domain-recon`](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Certificate_Parsing_with_`domain-recon`.svg)](https://dev.to/ervin_szilagyi/certificate-parsing-with-domain-recon-1eo9)
+[![You don’t need the framework that builds you a blog in 10 minutes.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/You_don’t_need_the_framework_that_builds_you_a_blog_in_10_minutes..svg)](https://dev.to/noriller/you-dont-need-the-framework-that-builds-you-a-blog-in-10-minutes-2ig1)
+[![Elevate Your Terminal Experience on The Mac 🧘‍♂️](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Elevate_Your_Terminal_Experience_on_The_Mac_🧘‍♂️.svg)](https://dev.to/duncanlew/elevate-your-terminal-experience-on-the-mac-3o3m)
+[![Make your DOM look like an eye that can focus on anything!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Make_your_DOM_look_like_an_eye_that_can_focus_on_anything!.svg)](https://dev.to/jj811208/make-your-dom-look-like-an-eye-that-can-focus-on-anything-3am)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, November 3, 2022 at 12:16:04 PM
+> Last updated: Saturday, November 5, 2022 at 6:59:01 PM
 
 > Showing 4 of 4 posts.
 
+[![Is Turbopack really 10x faster than Vite?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Is_Turbopack_really_10x_faster_than_Vite_.svg)](https://javascriptweekly.com/issues/613)
 [![Turbo-charged incremental bundling au Rust](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Turbo-charged_incremental_bundling_au_Rust.svg)](https://javascriptweekly.com/issues/612)
 [![🪜 Decorating with Dr. Axel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/🪜_Decorating_with_Dr._Axel.svg)](https://javascriptweekly.com/issues/611)
 [![Node to keep an eye on your code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Node_to_keep_an_eye_on_your_code.svg)](https://javascriptweekly.com/issues/610)
-[![Axios turns 1.0; TypeScript turns 10](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Axios_turns_1.0;_TypeScript_turns_10.svg)](https://javascriptweekly.com/issues/609)
 
 
 ## Echo JS
@@ -43,17 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, November 3, 2022 at 12:16:08 PM
+> Last updated: Saturday, November 5, 2022 at 6:59:09 PM
 
 > Showing 5 of 30 posts.
 
-[![Flutter InAppWebView 6](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Flutter_InAppWebView_6.svg)](https://medium.com/@pichillilorenzo/flutter-inappwebview-6-b0bcef5ca3cf)
-[![What Is Domain Authority And How To Make It Higher?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_Is_Domain_Authority_And_How_To_Make_It_Higher_.svg)](https://nerdleveltech.com/what-is-domain-authority-and-how-to-make-it-higher/)
-[![Benefits of Adopting Serverless In Your Business | Webiny](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Benefits_of_Adopting_Serverless_In_Your_Business___Webiny.svg)](
-https://www.webiny.com/blog/benefits-adopting-serverless-in-your-business
-)
-[![GitHub - epicmaxco/vuestic-ui: Free and Open Source UI Library for Vue 3 🤘](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_epicmaxco_vuestic-ui__Free_and_Open_Source_UI_Library_for_Vue_3_🤘.svg)](https://github.com/epicmaxco/vuestic-ui)
-[![How to Implement the Picture-in-Picture Feature on Any Website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Implement_the_Picture-in-Picture_Feature_on_Any_Website.svg)](https://medium.com/@theHocineSaad/how-to-implement-the-picture-in-picture-feature-on-any-website-340b329b8d4b)
+[![Browser OS: Matrix, Nextjs 13, IRC, ∞ Sheep & Performance Enhancements](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Browser_OS__Matrix__Nextjs_13__IRC__∞_Sheep___Performance_Enhancements.svg)](https://www.youtube.com/watch?v=iEob-Vilmz0)
+[![Hadmean](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Hadmean.svg)](https://hadmean.com/)
+[![Ionic Chat App: Group and 1-1 Chat in 3 easy steps.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Ionic_Chat_App__Group_and_1-1_Chat_in_3_easy_steps..svg)](https://metered.hashnode.dev/ionic-chat-app-group-and-1-1-chat-in-3-easy-steps)
+[![GitHub - garu2/Skills-CSS: 🚀 Una colección de tips para ayudarte a mejorar sus habilidades de CSS 🪐](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_garu2_Skills-CSS__🚀_Una_colección_de_tips_para_ayudarte_a_mejorar_sus_habilidades_de_CSS_🪐.svg)](https://github.com/garu2/Skills-CSS)
+[![Reduced.to | The FREE Open-Source URL Shortener](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Reduced.to___The_FREE_Open-Source_URL_Shortener.svg)](https://reduced.to)
 
 
 <!-- post-list:end -->
