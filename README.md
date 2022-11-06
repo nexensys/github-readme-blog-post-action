@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, November 6, 2022 at 12:12:51 AM
+> Last updated: Sunday, November 6, 2022 at 5:18:51 AM
 
 > Showing 5 of 12 posts.
 
-[![Migrate from render to Supabase](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Migrate_from_render_to_Supabase.svg)](https://dev.to/devkazuki/migrate-from-render-to-supabase-2en)
-[![1st day](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/1st_day.svg)](https://dev.to/guymorganb_/1st-day-4epg)
-[![How to Make Weather App in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Make_Weather_App_in_React.svg)](https://dev.to/reactjsguru/how-to-make-weather-app-in-react-d3f)
-[![Use Model Features to Speed Up Backend Development in a DRY Manner](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Use_Model_Features_to_Speed_Up_Backend_Development_in_a_DRY_Manner.svg)](https://dev.to/webjose/use-model-features-to-speed-up-backend-development-in-a-dry-manner-20gb)
-[![Orderly Queue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Orderly_Queue.svg)](https://dev.to/salahelhossiny/orderly-queue-3k9i)
+[![Finding bugs by fuzzing your code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Finding_bugs_by_fuzzing_your_code.svg)](https://dev.to/superfola/finding-bugs-by-fuzzing-your-code-1b0e)
+[![In One Minute : WordPress](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/In_One_Minute___WordPress.svg)](https://dev.to/rakeshkr2/in-one-minute-wordpress-4e22)
+[![Matplotlib - Visualization with Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Matplotlib_-_Visualization_with_Python.svg)](https://dev.to/debjotyms/matplotlib-visualization-with-python-3iel)
+[![How to call AWS Step Functions from AWS Amplify](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_call_AWS_Step_Functions_from_AWS_Amplify.svg)](https://dev.to/aws-builders/how-to-call-aws-step-functions-from-aws-amplify-21lm)
+[![Reorder Data in Log Files](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Reorder_Data_in_Log_Files.svg)](https://dev.to/salahelhossiny/reorder-data-in-log-files-17k8)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, November 6, 2022 at 12:12:54 AM
+> Last updated: Sunday, November 6, 2022 at 5:18:54 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, November 6, 2022 at 12:12:57 AM
+> Last updated: Sunday, November 6, 2022 at 5:18:57 AM
 
 > Showing 5 of 30 posts.
 
