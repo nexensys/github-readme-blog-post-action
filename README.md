@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, November 6, 2022 at 5:56:58 PM
+> Last updated: Sunday, November 6, 2022 at 11:14:07 PM
 
 > Showing 5 of 12 posts.
 
-[![Counting to 1 Billion (Node vs. Bun)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Counting_to_1_Billion_(Node_vs._Bun).svg)](https://dev.to/kunaljaydesai/counting-to-1-billion-node-vs-bun-5bm0)
-[![[ES] Git. Guía desde cero.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/[ES]_Git._Guía_desde_cero..svg)](https://dev.to/davidrojom/es-git-guia-desde-cero-2jln)
-[![Building a GPT-3 Powered Discord Support Bot](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Building_a_GPT-3_Powered_Discord_Support_Bot.svg)](https://dev.to/kunaljaydesai/building-a-gpt-3-powered-discord-support-bot-226o)
-[![Tailwind CSS tutorial #5: Alignment - Justify Items](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Tailwind_CSS_tutorial__5__Alignment_-_Justify_Items.svg)](https://dev.to/shubhicodes/tailwind-css-tutorial-5-alignment-justify-items-4mci)
-[![Javascript Immediately invoked function expressions (IIFE)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Javascript_Immediately_invoked_function_expressions_(IIFE).svg)](https://dev.to/smpnjn/javascript-immediately-invoked-function-expressions-iife-4p7f)
+[![🤖 Latest IT Open Positions - Week #45 of 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/🤖_Latest_IT_Open_Positions_-_Week__45_of_2022.svg)](https://dev.to/shman/latest-it-open-positions-week-45-of-2022-2f1i)
+[![REST vs SOAP: why we recommend REST APIs for A2P messaging](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/REST_vs_SOAP__why_we_recommend_REST_APIs_for_A2P_messaging.svg)](https://dev.to/ravgeetdhillon/rest-vs-soap-why-we-recommend-rest-apis-for-a2p-messaging-2no8)
+[![Docker Cheatsheet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Docker_Cheatsheet.svg)](https://dev.to/manthanank/docker-cheatsheet-bk6)
+[![How to create an EyeDropper tool using JavaScript?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_create_an_EyeDropper_tool_using_JavaScript_.svg)](https://dev.to/atapas/how-to-create-an-eyedropper-tool-using-javascript-3k59)
+[![Top 10 Dotnet Exception Anti-Patterns in C#](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_10_Dotnet_Exception_Anti-Patterns_in_C_.svg)](https://dev.to/integerman/top-10-dotnet-exception-anti-patterns-in-c-8am)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, November 6, 2022 at 5:57:00 PM
+> Last updated: Sunday, November 6, 2022 at 11:14:10 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, November 6, 2022 at 5:57:03 PM
+> Last updated: Sunday, November 6, 2022 at 11:14:12 PM
 
 > Showing 5 of 30 posts.
 
