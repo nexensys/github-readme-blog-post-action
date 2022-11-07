@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, November 6, 2022 at 11:12:40 AM
+> Last updated: Sunday, November 6, 2022 at 5:56:58 PM
 
 > Showing 5 of 12 posts.
 
-[![Javascript loops: for vs forEach vs for.. in vs for.. of](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Javascript_loops__for_vs_forEach_vs_for.._in_vs_for.._of.svg)](https://dev.to/smpnjn/javascript-loops-for-vs-foreach-vs-for-in-vs-for-of-1mbo)
-[![How to monetize your Google Workspace add-on?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_monetize_your_Google_Workspace_add-on_.svg)](https://dev.to/frenchcooc/how-to-monetize-your-google-workspace-add-on-1k0a)
-[![Removing the last element of an array in Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Removing_the_last_element_of_an_array_in_Javascript.svg)](https://dev.to/smpnjn/removing-the-last-element-of-an-array-in-javascript-7ga)
-[![What is HAProxy ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_HAProxy__.svg)](https://dev.to/eminvergil/what-is-haproxy--29fo)
-[![Analysis of classification models on NASA Active Fire data.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Analysis_of_classification_models_on_NASA_Active_Fire_data..svg)](https://dev.to/apeksha235/analysis-of-classification-models-on-nasa-active-fire-data-5c93)
+[![Counting to 1 Billion (Node vs. Bun)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Counting_to_1_Billion_(Node_vs._Bun).svg)](https://dev.to/kunaljaydesai/counting-to-1-billion-node-vs-bun-5bm0)
+[![[ES] Git. Guía desde cero.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/[ES]_Git._Guía_desde_cero..svg)](https://dev.to/davidrojom/es-git-guia-desde-cero-2jln)
+[![Building a GPT-3 Powered Discord Support Bot](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Building_a_GPT-3_Powered_Discord_Support_Bot.svg)](https://dev.to/kunaljaydesai/building-a-gpt-3-powered-discord-support-bot-226o)
+[![Tailwind CSS tutorial #5: Alignment - Justify Items](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Tailwind_CSS_tutorial__5__Alignment_-_Justify_Items.svg)](https://dev.to/shubhicodes/tailwind-css-tutorial-5-alignment-justify-items-4mci)
+[![Javascript Immediately invoked function expressions (IIFE)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Javascript_Immediately_invoked_function_expressions_(IIFE).svg)](https://dev.to/smpnjn/javascript-immediately-invoked-function-expressions-iife-4p7f)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, November 6, 2022 at 11:12:43 AM
+> Last updated: Sunday, November 6, 2022 at 5:57:00 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, November 6, 2022 at 11:12:49 AM
+> Last updated: Sunday, November 6, 2022 at 5:57:03 PM
 
 > Showing 5 of 30 posts.
 
+[![These Chinese devs are storing 1000s of eBooks on GitHub and npm - Socket](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/These_Chinese_devs_are_storing_1000s_of_eBooks_on_GitHub_and_npm_-_Socket.svg)](https://socket.dev/blog/these-china-based-devs-are-using-github-and-npm-to-store-ebooks)
+[![Technical Writing: All You Need to Know and How to Land a Job](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Technical_Writing__All_You_Need_to_Know_and_How_to_Land_a_Job.svg)](https://nerdleveltech.com/technical-writing-all-you-need-to-know-and-how-to-land-a-job/)
 [![Kosko 3.0 Released | Kosko](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Kosko_3.0_Released___Kosko.svg)](https://kosko.dev/blog/2022/11/06/kosko-3.0)
 [![Browser OS: Matrix, Nextjs 13, IRC, ∞ Sheep & Performance Enhancements](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Browser_OS__Matrix__Nextjs_13__IRC__∞_Sheep___Performance_Enhancements.svg)](https://www.youtube.com/watch?v=iEob-Vilmz0)
 [![Hadmean](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Hadmean.svg)](https://hadmean.com/)
-[![Ionic Chat App: Group and 1-1 Chat in 3 easy steps.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Ionic_Chat_App__Group_and_1-1_Chat_in_3_easy_steps..svg)](https://metered.hashnode.dev/ionic-chat-app-group-and-1-1-chat-in-3-easy-steps)
-[![GitHub - garu2/Skills-CSS: 🚀 Una colección de tips para ayudarte a mejorar sus habilidades de CSS 🪐](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_garu2_Skills-CSS__🚀_Una_colección_de_tips_para_ayudarte_a_mejorar_sus_habilidades_de_CSS_🪐.svg)](https://github.com/garu2/Skills-CSS)
 
 
 <!-- post-list:end -->
