@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, November 7, 2022 at 5:57:12 PM
+> Last updated: Monday, November 7, 2022 at 11:13:43 PM
 
 > Showing 5 of 12 posts.
 
-[![Simple calendar in a few lines of code 📆](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Simple_calendar_in_a_few_lines_of_code_📆.svg)](https://dev.to/rgolawski/simple-calendar-in-a-few-lines-of-code-2n00)
-[![Netlify, Vite, deploy and “Page Not Found” error](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Netlify__Vite__deploy_and_“Page_Not_Found”_error.svg)](https://dev.to/olgaurentseva/netlify-vite-deploy-and-page-not-found-error-54aj)
-[![É bom conhecer o mundo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/É_bom_conhecer_o_mundo.svg)](https://dev.to/andressadotpy/e-bom-conhecer-o-mundo-4dhd)
-[![#gitPanic - Merging and Rebasing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/_gitPanic_-_Merging_and_Rebasing.svg)](https://dev.to/abbeyperini/gitpanic-merging-and-rebasing-2mo3)
-[![What is a VPN? Which one should I choose?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_a_VPN__Which_one_should_I_choose_.svg)](https://dev.to/stephen730/what-is-a-vpn-which-one-should-i-choose-2nmd)
+[![Good News!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Good_News!.svg)](https://dev.to/zadazini/good-news-5e6c)
+[![What is Form Collection and how to implement it in ASP .NET MVC?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_Form_Collection_and_how_to_implement_it_in_ASP_.NET_MVC_.svg)](https://dev.to/ifourtechnolab/what-is-form-collection-and-how-to-implement-it-in-asp-net-mvc-ml2)
+[![Men Who Truly Understand Women Know These 15 Truths!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Men_Who_Truly_Understand_Women_Know_These_15_Truths!.svg)](https://dev.to/madhukaranand/men-who-truly-understand-women-know-these-15-truths-3ao7)
+[![ZMotion Application Development Tutorial -- Motion Control Card & VC6.0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/ZMotion_Application_Development_Tutorial_--_Motion_Control_Card___VC6.0.svg)](https://dev.to/zmotion/zmotion-application-development-tutorial-motion-control-card-vc60-oe2)
+[![Using Google Fonts with Next.js (typescript)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Using_Google_Fonts_with_Next.js_(typescript).svg)](https://dev.to/wdp/using-google-fonts-with-nextjs-typescript-4pba)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, November 7, 2022 at 5:57:15 PM
+> Last updated: Monday, November 7, 2022 at 11:13:46 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, November 7, 2022 at 5:57:19 PM
+> Last updated: Monday, November 7, 2022 at 11:13:50 PM
 
 > Showing 5 of 30 posts.
 
