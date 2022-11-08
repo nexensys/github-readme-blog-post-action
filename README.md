@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, November 8, 2022 at 5:24:27 AM
+> Last updated: Tuesday, November 8, 2022 at 11:13:57 AM
 
 > Showing 5 of 12 posts.
 
-[![How We Won the Medusa Hackathon: Building the Paystack Plugin](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_We_Won_the_Medusa_Hackathon__Building_the_Paystack_Plugin.svg)](https://dev.to/medusajs/how-we-won-the-medusa-hackathon-building-the-paystack-plugin-d1m)
-[![5 frontend project ideas](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_frontend_project_ideas.svg)](https://dev.to/albericojr/5-frontend-project-ideas-2pa6)
-[![Future Proof is good](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Future_Proof_is_good.svg)](https://dev.to/woovi/future-proof-is-good-3ll9)
-[![Refactoring Tools: Fewer Errors with Declarative Style](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Refactoring_Tools__Fewer_Errors_with_Declarative_Style.svg)](https://dev.to/bespoyasov/refactoring-tools-fewer-errors-with-declarative-style-1b4c)
-[![Django shorts: #5 Useful packages](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Django_shorts___5_Useful_packages.svg)](https://dev.to/arnopretorius/django-shorts-5-useful-packages-22dc)
+[![dev.to codes! Collaborative coding experiment: The most liked comment picks the next line of code, day 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/dev.to_codes!_Collaborative_coding_experiment__The_most_liked_comment_picks_the_next_line_of_code__day_1.svg)](https://dev.to/thormeier/devto-codes-collaborative-coding-experiment-the-most-liked-comment-picks-the-next-line-of-code-day-1-45d1)
+[![What music have you been coding to this week?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_music_have_you_been_coding_to_this_week_.svg)](https://dev.to/bendecoste/what-music-have-you-been-coding-to-this-week-3fgb)
+[![Transitioning from the Healthcare Industry](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Transitioning_from_the_Healthcare_Industry.svg)](https://dev.to/jobber/transitioning-from-the-healthcare-industry-52f4)
+[![When is data encrypted in your app?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/When_is_data_encrypted_in_your_app_.svg)](https://dev.to/gavinuhma/when-is-data-encrypted-in-your-app-2jho)
+[![TypeScript Tutorial(Part2)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/TypeScript_Tutorial(Part2).svg)](https://dev.to/bralexsvg/typescript-tutorialpart2-49na)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, November 8, 2022 at 5:24:30 AM
+> Last updated: Tuesday, November 8, 2022 at 11:13:59 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, November 8, 2022 at 5:24:34 AM
+> Last updated: Tuesday, November 8, 2022 at 11:14:06 AM
 
 > Showing 5 of 30 posts.
 
