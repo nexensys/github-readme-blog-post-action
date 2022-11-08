@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, November 7, 2022 at 5:23:22 AM
+> Last updated: Monday, November 7, 2022 at 5:57:12 PM
 
 > Showing 5 of 12 posts.
 
-[![Codédex Launch on Product Hunt! 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Codédex_Launch_on_Product_Hunt!_🚀.svg)](https://dev.to/codedex/codedex-launch-on-product-hunt-13o8)
-[![Tick Tock migration pattern](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Tick_Tock_migration_pattern.svg)](https://dev.to/woovi/tick-tock-migration-pattern-2gn)
-[![Building a React application to solve captchas using 2captcha](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Building_a_React_application_to_solve_captchas_using_2captcha.svg)](https://dev.to/surajondev/building-a-react-application-to-solve-captchas-using-2captcha-4alk)
-[![What is Alternative Data - Complete Guide 📊](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_Alternative_Data_-_Complete_Guide_📊.svg)](https://dev.to/nyctonio/what-is-alternative-data-complete-guide-2ln7)
-[![Logging your error message of your Flutter App directly into Slack Channel?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Logging_your_error_message_of_your_Flutter_App_directly_into_Slack_Channel_.svg)](https://dev.to/slimpotatoboy/logging-your-error-message-of-your-flutter-app-directly-into-slack-channel-27e5)
+[![Simple calendar in a few lines of code 📆](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Simple_calendar_in_a_few_lines_of_code_📆.svg)](https://dev.to/rgolawski/simple-calendar-in-a-few-lines-of-code-2n00)
+[![Netlify, Vite, deploy and “Page Not Found” error](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Netlify__Vite__deploy_and_“Page_Not_Found”_error.svg)](https://dev.to/olgaurentseva/netlify-vite-deploy-and-page-not-found-error-54aj)
+[![É bom conhecer o mundo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/É_bom_conhecer_o_mundo.svg)](https://dev.to/andressadotpy/e-bom-conhecer-o-mundo-4dhd)
+[![#gitPanic - Merging and Rebasing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/_gitPanic_-_Merging_and_Rebasing.svg)](https://dev.to/abbeyperini/gitpanic-merging-and-rebasing-2mo3)
+[![What is a VPN? Which one should I choose?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_a_VPN__Which_one_should_I_choose_.svg)](https://dev.to/stephen730/what-is-a-vpn-which-one-should-i-choose-2nmd)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, November 7, 2022 at 5:23:25 AM
+> Last updated: Monday, November 7, 2022 at 5:57:15 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, November 7, 2022 at 5:23:29 AM
+> Last updated: Monday, November 7, 2022 at 5:57:19 PM
 
 > Showing 5 of 30 posts.
 
+[![API with NestJS #82. Introduction to indexes with raw SQL queries](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__82._Introduction_to_indexes_with_raw_SQL_queries.svg)](https://wanago.io/2022/11/07/api-nestjs-indexes-raw-sql/)
 [![Why would anyone need JavaScript generator functions?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Why_would_anyone_need_JavaScript_generator_functions_.svg)](https://jrsinclair.com/articles/2022/why-would-anyone-need-javascript-generator-functions/)
-[![These Chinese devs are storing 1000s of eBooks on GitHub and npm - Socket](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/These_Chinese_devs_are_storing_1000s_of_eBooks_on_GitHub_and_npm_-_Socket.svg)](https://socket.dev/blog/these-china-based-devs-are-using-github-and-npm-to-store-ebooks)
-[![Technical Writing: All You Need to Know and How to Land a Job](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Technical_Writing__All_You_Need_to_Know_and_How_to_Land_a_Job.svg)](https://nerdleveltech.com/technical-writing-all-you-need-to-know-and-how-to-land-a-job/)
 [![Kosko 3.0 Released | Kosko](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Kosko_3.0_Released___Kosko.svg)](https://kosko.dev/blog/2022/11/06/kosko-3.0)
 [![Browser OS: Matrix, Nextjs 13, IRC, ∞ Sheep & Performance Enhancements](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Browser_OS__Matrix__Nextjs_13__IRC__∞_Sheep___Performance_Enhancements.svg)](https://www.youtube.com/watch?v=iEob-Vilmz0)
+[![Reduced.to | The FREE Open-Source URL Shortener](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Reduced.to___The_FREE_Open-Source_URL_Shortener.svg)](https://reduced.to)
 
 
 <!-- post-list:end -->
