@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, November 8, 2022 at 11:16:57 PM
+> Last updated: Wednesday, November 9, 2022 at 5:24:35 AM
 
 > Showing 5 of 12 posts.
 
-[![C++ intro for starter 4](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/C++_intro_for_starter_4.svg)](https://dev.to/abrormusulmonov/c-intro-for-starter-4-1oac)
-[![Introducing Open Native: vendor unlock React Native](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Introducing_Open_Native__vendor_unlock_React_Native.svg)](https://dev.to/ammarahmed/introducing-open-native-vendor-unlock-react-native-12d)
-[![Part 2: Building a Cybersecurity Game with Three.js - Inspired by Google’s Interland](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Part_2__Building_a_Cybersecurity_Game_with_Three.js_-_Inspired_by_Google’s_Interland.svg)](https://dev.to/saminarp/part-2-building-a-cybersecurity-game-with-threejs-inspired-by-googles-interland-1k6g)
-[![Field Guide to Surviving DDoS Attacks in your application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Field_Guide_to_Surviving_DDoS_Attacks_in_your_application.svg)](https://dev.to/awscommunity-asean/devs-guide-to-surviving-ddos-attacks-in-your-api-56ke)
-[![How to start a project in Rust](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_start_a_project_in_Rust.svg)](https://dev.to/vaultree/how-to-start-a-project-in-rust-3g1j)
+[![Delegating](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Delegating.svg)](https://dev.to/woovi/delegating-6ce)
+[![I made 1200+ ⭐️ stars on a Github repo! Here are some simple tips that helped me!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/I_made_1200+_⭐️_stars_on_a_Github_repo!_Here_are_some_simple_tips_that_helped_me!.svg)](https://dev.to/fredy/i-made-1200-stars-on-a-github-repo-here-are-some-simple-tips-that-helped-me-4eom)
+[![How to Install and Use NVM?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Install_and_Use_NVM_.svg)](https://dev.to/refine/how-to-install-and-use-nvm-352d)
+[![IndexedDB in TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/IndexedDB_in_TypeScript.svg)](https://dev.to/falcosan/indexeddb-in-typescript-1nea)
+[![In One Minute : Firebase](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/In_One_Minute___Firebase.svg)](https://dev.to/rakeshkr2/in-one-minute-firebase-b36)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, November 8, 2022 at 11:16:59 PM
+> Last updated: Wednesday, November 9, 2022 at 5:24:38 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, November 8, 2022 at 11:17:04 PM
+> Last updated: Wednesday, November 9, 2022 at 5:24:42 AM
 
 > Showing 5 of 30 posts.
 
