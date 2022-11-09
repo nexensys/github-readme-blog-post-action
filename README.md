@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, November 8, 2022 at 11:13:57 AM
+> Last updated: Tuesday, November 8, 2022 at 5:57:58 PM
 
 > Showing 5 of 12 posts.
 
-[![dev.to codes! Collaborative coding experiment: The most liked comment picks the next line of code, day 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/dev.to_codes!_Collaborative_coding_experiment__The_most_liked_comment_picks_the_next_line_of_code__day_1.svg)](https://dev.to/thormeier/devto-codes-collaborative-coding-experiment-the-most-liked-comment-picks-the-next-line-of-code-day-1-45d1)
-[![What music have you been coding to this week?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_music_have_you_been_coding_to_this_week_.svg)](https://dev.to/bendecoste/what-music-have-you-been-coding-to-this-week-3fgb)
-[![Transitioning from the Healthcare Industry](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Transitioning_from_the_Healthcare_Industry.svg)](https://dev.to/jobber/transitioning-from-the-healthcare-industry-52f4)
-[![When is data encrypted in your app?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/When_is_data_encrypted_in_your_app_.svg)](https://dev.to/gavinuhma/when-is-data-encrypted-in-your-app-2jho)
-[![TypeScript Tutorial(Part2)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/TypeScript_Tutorial(Part2).svg)](https://dev.to/bralexsvg/typescript-tutorialpart2-49na)
+[![How to beautify your code and make contributions easy?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_beautify_your_code_and_make_contributions_easy_.svg)](https://dev.to/gulyapulya/how-to-beautify-your-code-and-make-contributions-easy-35g9)
+[![SPVM::Math - Python/numpy porting to Perl](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/SPVM__Math_-_Python_numpy_porting_to_Perl.svg)](https://dev.to/yukikimoto/spvmmath-pythonnumpy-porting-to-perl-26ng)
+[![Ultimate Guide to JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Ultimate_Guide_to_JavaScript.svg)](https://dev.to/strangeratyourdoor/ultimate-guide-to-javascript-2dec)
+[![Build Your Own Cloud Storage](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_Your_Own_Cloud_Storage.svg)](https://dev.to/yunuserturk/build-your-own-cloud-storage-6b3)
+[![Exploring Ghostwriter, a GitHub Copilot alternative](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Exploring_Ghostwriter__a_GitHub_Copilot_alternative.svg)](https://dev.to/logrocket/exploring-ghostwriter-a-github-copilot-alternative-pg9)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, November 8, 2022 at 11:13:59 AM
+> Last updated: Tuesday, November 8, 2022 at 5:58:00 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, November 8, 2022 at 11:14:06 AM
+> Last updated: Tuesday, November 8, 2022 at 5:58:06 PM
 
 > Showing 5 of 30 posts.
 
