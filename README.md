@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, November 8, 2022 at 5:57:58 PM
+> Last updated: Tuesday, November 8, 2022 at 11:16:57 PM
 
 > Showing 5 of 12 posts.
 
-[![How to beautify your code and make contributions easy?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_beautify_your_code_and_make_contributions_easy_.svg)](https://dev.to/gulyapulya/how-to-beautify-your-code-and-make-contributions-easy-35g9)
-[![SPVM::Math - Python/numpy porting to Perl](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/SPVM__Math_-_Python_numpy_porting_to_Perl.svg)](https://dev.to/yukikimoto/spvmmath-pythonnumpy-porting-to-perl-26ng)
-[![Ultimate Guide to JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Ultimate_Guide_to_JavaScript.svg)](https://dev.to/strangeratyourdoor/ultimate-guide-to-javascript-2dec)
-[![Build Your Own Cloud Storage](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_Your_Own_Cloud_Storage.svg)](https://dev.to/yunuserturk/build-your-own-cloud-storage-6b3)
-[![Exploring Ghostwriter, a GitHub Copilot alternative](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Exploring_Ghostwriter__a_GitHub_Copilot_alternative.svg)](https://dev.to/logrocket/exploring-ghostwriter-a-github-copilot-alternative-pg9)
+[![C++ intro for starter 4](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/C++_intro_for_starter_4.svg)](https://dev.to/abrormusulmonov/c-intro-for-starter-4-1oac)
+[![Introducing Open Native: vendor unlock React Native](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Introducing_Open_Native__vendor_unlock_React_Native.svg)](https://dev.to/ammarahmed/introducing-open-native-vendor-unlock-react-native-12d)
+[![Part 2: Building a Cybersecurity Game with Three.js - Inspired by Google’s Interland](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Part_2__Building_a_Cybersecurity_Game_with_Three.js_-_Inspired_by_Google’s_Interland.svg)](https://dev.to/saminarp/part-2-building-a-cybersecurity-game-with-threejs-inspired-by-googles-interland-1k6g)
+[![Field Guide to Surviving DDoS Attacks in your application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Field_Guide_to_Surviving_DDoS_Attacks_in_your_application.svg)](https://dev.to/awscommunity-asean/devs-guide-to-surviving-ddos-attacks-in-your-api-56ke)
+[![How to start a project in Rust](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_start_a_project_in_Rust.svg)](https://dev.to/vaultree/how-to-start-a-project-in-rust-3g1j)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, November 8, 2022 at 5:58:00 PM
+> Last updated: Tuesday, November 8, 2022 at 11:16:59 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, November 8, 2022 at 5:58:06 PM
+> Last updated: Tuesday, November 8, 2022 at 11:17:04 PM
 
 > Showing 5 of 30 posts.
 
+[![
+Chamy - NEW CSS FRAMEWORK LAUNCHED AT NPM
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Chamy_-_NEW_CSS_FRAMEWORK_LAUNCHED_AT_NPM_.svg)](
+http://www.echojs.com/news/41226
+)
+[![GitHub - eolinker/eoapi: Eoapi is an API development tool. Eoapi integrates basic API management functions, and by better scaling your API development work, you can better extend your API.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_eolinker_eoapi__Eoapi_is_an_API_development_tool._Eoapi_integrates_basic_API_management_functions__and_by_better_scaling_your_API_development_work__you_can_better_extend_your_API..svg)](https://github.com/eolinker/eoapi)
 [![API with NestJS #82. Introduction to indexes with raw SQL queries](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__82._Introduction_to_indexes_with_raw_SQL_queries.svg)](https://wanago.io/2022/11/07/api-nestjs-indexes-raw-sql/)
 [![Why would anyone need JavaScript generator functions?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Why_would_anyone_need_JavaScript_generator_functions_.svg)](https://jrsinclair.com/articles/2022/why-would-anyone-need-javascript-generator-functions/)
 [![Kosko 3.0 Released | Kosko](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Kosko_3.0_Released___Kosko.svg)](https://kosko.dev/blog/2022/11/06/kosko-3.0)
-[![Browser OS: Matrix, Nextjs 13, IRC, ∞ Sheep & Performance Enhancements](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Browser_OS__Matrix__Nextjs_13__IRC__∞_Sheep___Performance_Enhancements.svg)](https://www.youtube.com/watch?v=iEob-Vilmz0)
-[![Reduced.to | The FREE Open-Source URL Shortener](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Reduced.to___The_FREE_Open-Source_URL_Shortener.svg)](https://reduced.to)
 
 
 <!-- post-list:end -->
