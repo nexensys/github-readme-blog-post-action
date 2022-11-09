@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, November 9, 2022 at 5:24:35 AM
+> Last updated: Wednesday, November 9, 2022 at 11:13:22 AM
 
 > Showing 5 of 12 posts.
 
-[![Delegating](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Delegating.svg)](https://dev.to/woovi/delegating-6ce)
-[![I made 1200+ ⭐️ stars on a Github repo! Here are some simple tips that helped me!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/I_made_1200+_⭐️_stars_on_a_Github_repo!_Here_are_some_simple_tips_that_helped_me!.svg)](https://dev.to/fredy/i-made-1200-stars-on-a-github-repo-here-are-some-simple-tips-that-helped-me-4eom)
-[![How to Install and Use NVM?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Install_and_Use_NVM_.svg)](https://dev.to/refine/how-to-install-and-use-nvm-352d)
-[![IndexedDB in TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/IndexedDB_in_TypeScript.svg)](https://dev.to/falcosan/indexeddb-in-typescript-1nea)
-[![In One Minute : Firebase](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/In_One_Minute___Firebase.svg)](https://dev.to/rakeshkr2/in-one-minute-firebase-b36)
+[![dev.to codes! Collaborative coding experiment: The most liked comment picks the next line of code, day 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/dev.to_codes!_Collaborative_coding_experiment__The_most_liked_comment_picks_the_next_line_of_code__day_2.svg)](https://dev.to/thormeier/devto-codes-collaborative-coding-experiment-the-most-liked-comment-picks-the-next-line-of-code-day-2-36c2)
+[![Using GitHub Actions to Build a Java Project With Pull Request Coverage Commenting and Coverage Badges](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Using_GitHub_Actions_to_Build_a_Java_Project_With_Pull_Request_Coverage_Commenting_and_Coverage_Badges.svg)](https://dev.to/cicirello/using-github-actions-to-build-a-java-project-with-pull-request-coverage-commenting-and-coverage-badges-50a2)
+[![Programming Methodologies: Agile vs Waterfall](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Programming_Methodologies__Agile_vs_Waterfall.svg)](https://dev.to/coderslang/programming-methodologies-agile-vs-waterfall-299b)
+[![Design Patterns: Adapter Pattern](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Design_Patterns__Adapter_Pattern.svg)](https://dev.to/brentdalling/jsts-adapter-pattern-g17)
+[![Step 2: Process the data with Python and qGIS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Step_2__Process_the_data_with_Python_and_qGIS.svg)](https://dev.to/thiggimajig/step-2-process-the-data-with-python-4llp)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, November 9, 2022 at 5:24:38 AM
+> Last updated: Wednesday, November 9, 2022 at 11:13:26 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, November 9, 2022 at 5:24:42 AM
+> Last updated: Wednesday, November 9, 2022 at 11:13:33 AM
 
 > Showing 5 of 30 posts.
 
-[![
-Chamy - NEW CSS FRAMEWORK LAUNCHED AT NPM
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Chamy_-_NEW_CSS_FRAMEWORK_LAUNCHED_AT_NPM_.svg)](
-http://www.echojs.com/news/41226
-)
-[![GitHub - eolinker/eoapi: Eoapi is an API development tool. Eoapi integrates basic API management functions, and by better scaling your API development work, you can better extend your API.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_eolinker_eoapi__Eoapi_is_an_API_development_tool._Eoapi_integrates_basic_API_management_functions__and_by_better_scaling_your_API_development_work__you_can_better_extend_your_API..svg)](https://github.com/eolinker/eoapi)
 [![API with NestJS #82. Introduction to indexes with raw SQL queries](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__82._Introduction_to_indexes_with_raw_SQL_queries.svg)](https://wanago.io/2022/11/07/api-nestjs-indexes-raw-sql/)
 [![Why would anyone need JavaScript generator functions?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Why_would_anyone_need_JavaScript_generator_functions_.svg)](https://jrsinclair.com/articles/2022/why-would-anyone-need-javascript-generator-functions/)
 [![Kosko 3.0 Released | Kosko](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Kosko_3.0_Released___Kosko.svg)](https://kosko.dev/blog/2022/11/06/kosko-3.0)
+[![Browser OS: Matrix, Nextjs 13, IRC, ∞ Sheep & Performance Enhancements](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Browser_OS__Matrix__Nextjs_13__IRC__∞_Sheep___Performance_Enhancements.svg)](https://www.youtube.com/watch?v=iEob-Vilmz0)
+[![Reduced.to | The FREE Open-Source URL Shortener](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Reduced.to___The_FREE_Open-Source_URL_Shortener.svg)](https://reduced.to)
 
 
 <!-- post-list:end -->
