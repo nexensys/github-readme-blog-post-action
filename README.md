@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, November 10, 2022 at 5:24:39 AM
+> Last updated: Thursday, November 10, 2022 at 11:13:33 AM
 
 > Showing 5 of 12 posts.
 
-[![Medusa Webhooks: The Best Technical Project of the Medusa Hackathon](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Medusa_Webhooks__The_Best_Technical_Project_of_the_Medusa_Hackathon.svg)](https://dev.to/medusajs/medusa-webhooks-the-best-technical-project-of-the-medusa-hackathon-289a)
-[![5 websites to learn Frontend-web development faster](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_websites_to_learn_Frontend-web_development_faster.svg)](https://dev.to/qbentil/5-websites-to-learn-frontend-web-development-faster-3cid)
-[![How I build a Documentation site using Docz](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_I_build_a_Documentation_site_using_Docz.svg)](https://dev.to/documatic/how-i-build-a-documentation-site-using-docz-57kk)
-[![Economical EtherCAT Motion Controller (2) -- ZBasic Achieves Multi-axis Linear Interpolation Motion](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Economical_EtherCAT_Motion_Controller_(2)_--_ZBasic_Achieves_Multi-axis_Linear_Interpolation_Motion.svg)](https://dev.to/zmotion/economical-ethercat-motion-controller-2-zbasic-achieves-multi-axis-linear-interpolation-motion-1bc9)
-[![Generate a Flask APP and Go LIVE - Material Kit Design](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Generate_a_Flask_APP_and_Go_LIVE_-_Material_Kit_Design.svg)](https://dev.to/sm0ke/generate-a-flask-app-and-go-live-material-kit-design-be3)
+[![Bibliotecas NodeJS incríveis que você não tem ideia que existem](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Bibliotecas_NodeJS_incríveis_que_você_não_tem_ideia_que_existem.svg)](https://dev.to/eucarlos/bibliotecas-nodejs-incriveis-que-voce-nao-tem-ideia-que-existem-3i4b)
+[![List of Free Youtube Courses by Vandad Nahavandipoor.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/List_of_Free_Youtube_Courses_by_Vandad_Nahavandipoor..svg)](https://dev.to/areedev/list-of-free-youtube-courses-by-vandad-nahavandipoor-gg8)
+[![Resources to get started with Nx](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Resources_to_get_started_with_Nx.svg)](https://dev.to/this-is-learning/resources-to-get-started-with-nx-72p)
+[![Woovi Git Best Practices](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Woovi_Git_Best_Practices.svg)](https://dev.to/woovi/woovi-git-best-practices-1i0e)
+[![Revealing Compound Types in Typescript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Revealing_Compound_Types_in_Typescript.svg)](https://dev.to/kirkcodes/revealing-compound-types-in-typescript-2ic8)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, November 10, 2022 at 5:24:43 AM
+> Last updated: Thursday, November 10, 2022 at 11:13:38 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, November 10, 2022 at 5:24:51 AM
+> Last updated: Thursday, November 10, 2022 at 11:13:47 AM
 
 > Showing 5 of 30 posts.
 
