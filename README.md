@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, November 9, 2022 at 5:59:39 PM
+> Last updated: Wednesday, November 9, 2022 at 11:13:58 PM
 
 > Showing 5 of 12 posts.
 
-[![Loosely coupled Python code with Dependency Injection](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Loosely_coupled_Python_code_with_Dependency_Injection.svg)](https://dev.to/shanenolan/loosely-coupled-python-code-with-dependency-injection-1lep)
-[![SPVM::Numpy is released - Python/numpy porting to Perl](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/SPVM__Numpy_is_released_-_Python_numpy_porting_to_Perl.svg)](https://dev.to/yukikimoto/spvmnumpy-is-released-pythonnumpy-porting-to-perl-5850)
-[![Zapier Integrations on Taskade: How to Automate Your Workflow](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Zapier_Integrations_on_Taskade__How_to_Automate_Your_Workflow.svg)](https://dev.to/taskade/zapier-integrations-on-taskade-how-to-automate-your-workflow-5ei7)
-[![How to Create a To-Do List in Excel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Create_a_To-Do_List_in_Excel.svg)](https://dev.to/taskade/how-to-create-a-to-do-list-in-excel-2fn4)
-[![Next js api routing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Next_js_api_routing.svg)](https://dev.to/andiismail/next-js-api-routing-3fcg)
+[![Socket.io | Show Number of visitor](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Socket.io___Show_Number_of_visitor.svg)](https://dev.to/noprod/socketio-show-number-of-visitor-337)
+[![Webdesign Portfolio - Jekyll Theme](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Webdesign_Portfolio_-_Jekyll_Theme.svg)](https://dev.to/tookooltech/webdesign-portfolio-jekyll-theme-2fha)
+[![What's new in SeaQuery 0.27.0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What's_new_in_SeaQuery_0.27.0.svg)](https://dev.to/seaql/whats-new-in-seaquery-0270-4lgf)
+[![How to build a video watermarking app using Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_build_a_video_watermarking_app_using_Python.svg)](https://dev.to/kushal_70/how-to-build-an-automated-video-watermarking-app-using-python-5bfd)
+[![Join us to build the future of E-Commerce through automation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Join_us_to_build_the_future_of_E-Commerce_through_automation.svg)](https://dev.to/shotstack/join-us-to-build-the-future-of-e-commerce-through-automation-3d93)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, November 9, 2022 at 5:59:42 PM
+> Last updated: Wednesday, November 9, 2022 at 11:14:02 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, November 9, 2022 at 5:59:48 PM
+> Last updated: Wednesday, November 9, 2022 at 11:14:08 PM
 
 > Showing 5 of 30 posts.
 
