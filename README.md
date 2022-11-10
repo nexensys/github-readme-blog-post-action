@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, November 9, 2022 at 11:13:58 PM
+> Last updated: Thursday, November 10, 2022 at 5:24:39 AM
 
 > Showing 5 of 12 posts.
 
-[![Socket.io | Show Number of visitor](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Socket.io___Show_Number_of_visitor.svg)](https://dev.to/noprod/socketio-show-number-of-visitor-337)
-[![Webdesign Portfolio - Jekyll Theme](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Webdesign_Portfolio_-_Jekyll_Theme.svg)](https://dev.to/tookooltech/webdesign-portfolio-jekyll-theme-2fha)
-[![What's new in SeaQuery 0.27.0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What's_new_in_SeaQuery_0.27.0.svg)](https://dev.to/seaql/whats-new-in-seaquery-0270-4lgf)
-[![How to build a video watermarking app using Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_build_a_video_watermarking_app_using_Python.svg)](https://dev.to/kushal_70/how-to-build-an-automated-video-watermarking-app-using-python-5bfd)
-[![Join us to build the future of E-Commerce through automation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Join_us_to_build_the_future_of_E-Commerce_through_automation.svg)](https://dev.to/shotstack/join-us-to-build-the-future-of-e-commerce-through-automation-3d93)
+[![Medusa Webhooks: The Best Technical Project of the Medusa Hackathon](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Medusa_Webhooks__The_Best_Technical_Project_of_the_Medusa_Hackathon.svg)](https://dev.to/medusajs/medusa-webhooks-the-best-technical-project-of-the-medusa-hackathon-289a)
+[![5 websites to learn Frontend-web development faster](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_websites_to_learn_Frontend-web_development_faster.svg)](https://dev.to/qbentil/5-websites-to-learn-frontend-web-development-faster-3cid)
+[![How I build a Documentation site using Docz](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_I_build_a_Documentation_site_using_Docz.svg)](https://dev.to/documatic/how-i-build-a-documentation-site-using-docz-57kk)
+[![Economical EtherCAT Motion Controller (2) -- ZBasic Achieves Multi-axis Linear Interpolation Motion](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Economical_EtherCAT_Motion_Controller_(2)_--_ZBasic_Achieves_Multi-axis_Linear_Interpolation_Motion.svg)](https://dev.to/zmotion/economical-ethercat-motion-controller-2-zbasic-achieves-multi-axis-linear-interpolation-motion-1bc9)
+[![Generate a Flask APP and Go LIVE - Material Kit Design](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Generate_a_Flask_APP_and_Go_LIVE_-_Material_Kit_Design.svg)](https://dev.to/sm0ke/generate-a-flask-app-and-go-live-material-kit-design-be3)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, November 9, 2022 at 11:14:02 PM
+> Last updated: Thursday, November 10, 2022 at 5:24:43 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, November 9, 2022 at 11:14:08 PM
+> Last updated: Thursday, November 10, 2022 at 5:24:51 AM
 
 > Showing 5 of 30 posts.
 
+[![NextJs 13 layouts tutorial: the layout.js file, nested layouts, and state preservation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/NextJs_13_layouts_tutorial__the_layout.js_file__nested_layouts__and_state_preservation.svg)](http://www.js-craft.io/blog/nextjs-13-layouts-tutorial-layout-js-file-nested-layouts-state-preservation/)
 [![API with NestJS #82. Introduction to indexes with raw SQL queries](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__82._Introduction_to_indexes_with_raw_SQL_queries.svg)](https://wanago.io/2022/11/07/api-nestjs-indexes-raw-sql/)
 [![Why would anyone need JavaScript generator functions?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Why_would_anyone_need_JavaScript_generator_functions_.svg)](https://jrsinclair.com/articles/2022/why-would-anyone-need-javascript-generator-functions/)
 [![Kosko 3.0 Released | Kosko](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Kosko_3.0_Released___Kosko.svg)](https://kosko.dev/blog/2022/11/06/kosko-3.0)
 [![Browser OS: Matrix, Nextjs 13, IRC, ∞ Sheep & Performance Enhancements](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Browser_OS__Matrix__Nextjs_13__IRC__∞_Sheep___Performance_Enhancements.svg)](https://www.youtube.com/watch?v=iEob-Vilmz0)
-[![Reduced.to | The FREE Open-Source URL Shortener](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Reduced.to___The_FREE_Open-Source_URL_Shortener.svg)](https://reduced.to)
 
 
 <!-- post-list:end -->
