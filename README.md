@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, November 9, 2022 at 11:13:22 AM
+> Last updated: Wednesday, November 9, 2022 at 5:59:39 PM
 
 > Showing 5 of 12 posts.
 
-[![dev.to codes! Collaborative coding experiment: The most liked comment picks the next line of code, day 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/dev.to_codes!_Collaborative_coding_experiment__The_most_liked_comment_picks_the_next_line_of_code__day_2.svg)](https://dev.to/thormeier/devto-codes-collaborative-coding-experiment-the-most-liked-comment-picks-the-next-line-of-code-day-2-36c2)
-[![Using GitHub Actions to Build a Java Project With Pull Request Coverage Commenting and Coverage Badges](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Using_GitHub_Actions_to_Build_a_Java_Project_With_Pull_Request_Coverage_Commenting_and_Coverage_Badges.svg)](https://dev.to/cicirello/using-github-actions-to-build-a-java-project-with-pull-request-coverage-commenting-and-coverage-badges-50a2)
-[![Programming Methodologies: Agile vs Waterfall](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Programming_Methodologies__Agile_vs_Waterfall.svg)](https://dev.to/coderslang/programming-methodologies-agile-vs-waterfall-299b)
-[![Design Patterns: Adapter Pattern](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Design_Patterns__Adapter_Pattern.svg)](https://dev.to/brentdalling/jsts-adapter-pattern-g17)
-[![Step 2: Process the data with Python and qGIS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Step_2__Process_the_data_with_Python_and_qGIS.svg)](https://dev.to/thiggimajig/step-2-process-the-data-with-python-4llp)
+[![Loosely coupled Python code with Dependency Injection](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Loosely_coupled_Python_code_with_Dependency_Injection.svg)](https://dev.to/shanenolan/loosely-coupled-python-code-with-dependency-injection-1lep)
+[![SPVM::Numpy is released - Python/numpy porting to Perl](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/SPVM__Numpy_is_released_-_Python_numpy_porting_to_Perl.svg)](https://dev.to/yukikimoto/spvmnumpy-is-released-pythonnumpy-porting-to-perl-5850)
+[![Zapier Integrations on Taskade: How to Automate Your Workflow](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Zapier_Integrations_on_Taskade__How_to_Automate_Your_Workflow.svg)](https://dev.to/taskade/zapier-integrations-on-taskade-how-to-automate-your-workflow-5ei7)
+[![How to Create a To-Do List in Excel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Create_a_To-Do_List_in_Excel.svg)](https://dev.to/taskade/how-to-create-a-to-do-list-in-excel-2fn4)
+[![Next js api routing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Next_js_api_routing.svg)](https://dev.to/andiismail/next-js-api-routing-3fcg)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, November 9, 2022 at 11:13:26 AM
+> Last updated: Wednesday, November 9, 2022 at 5:59:42 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, November 9, 2022 at 11:13:33 AM
+> Last updated: Wednesday, November 9, 2022 at 5:59:48 PM
 
 > Showing 5 of 30 posts.
 
