@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, November 10, 2022 at 11:13:33 AM
+> Last updated: Saturday, November 12, 2022 at 5:56:29 PM
 
 > Showing 5 of 12 posts.
 
-[![Bibliotecas NodeJS incríveis que você não tem ideia que existem](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Bibliotecas_NodeJS_incríveis_que_você_não_tem_ideia_que_existem.svg)](https://dev.to/eucarlos/bibliotecas-nodejs-incriveis-que-voce-nao-tem-ideia-que-existem-3i4b)
-[![List of Free Youtube Courses by Vandad Nahavandipoor.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/List_of_Free_Youtube_Courses_by_Vandad_Nahavandipoor..svg)](https://dev.to/areedev/list-of-free-youtube-courses-by-vandad-nahavandipoor-gg8)
-[![Resources to get started with Nx](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Resources_to_get_started_with_Nx.svg)](https://dev.to/this-is-learning/resources-to-get-started-with-nx-72p)
-[![Woovi Git Best Practices](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Woovi_Git_Best_Practices.svg)](https://dev.to/woovi/woovi-git-best-practices-1i0e)
-[![Revealing Compound Types in Typescript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Revealing_Compound_Types_in_Typescript.svg)](https://dev.to/kirkcodes/revealing-compound-types-in-typescript-2ic8)
+[![zeros | SPVM::Numpy - The Project for Python/NumPy Porting to Perl](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/zeros___SPVM__Numpy_-_The_Project_for_Python_NumPy_Porting_to_Perl.svg)](https://dev.to/yukikimoto/zeros-spvmnumpy-the-project-for-pythonnumpy-porting-to-perl-108)
+[![VueJs Beginners part 4 - Component 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/VueJs_Beginners_part_4_-_Component_2.svg)](https://dev.to/hshoja/vuejs-beginners-part-4-component-2-315g)
+[![Tools I Am Using On A Daily Basis](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Tools_I_Am_Using_On_A_Daily_Basis.svg)](https://dev.to/yuridevat/tools-i-am-using-on-a-daily-basis-4kb7)
+[![dev.to codes! Collaborative coding experiment: The most liked comment picks the next line of code, day 5](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/dev.to_codes!_Collaborative_coding_experiment__The_most_liked_comment_picks_the_next_line_of_code__day_5.svg)](https://dev.to/thormeier/devto-codes-collaborative-coding-experiment-the-most-liked-comment-picks-the-next-line-of-code-day-5-156i)
+[![JSON Web Tokens Simplified](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/JSON_Web_Tokens_Simplified.svg)](https://dev.to/integerman/json-web-tokens-simplified-1n02)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, November 10, 2022 at 11:13:38 AM
+> Last updated: Saturday, November 12, 2022 at 5:56:32 PM
 
 > Showing 4 of 4 posts.
 
+[![Rome wasn't rewritten in a day](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Rome_wasn't_rewritten_in_a_day.svg)](https://javascriptweekly.com/issues/614)
 [![Is Turbopack really 10x faster than Vite?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Is_Turbopack_really_10x_faster_than_Vite_.svg)](https://javascriptweekly.com/issues/613)
 [![Turbo-charged incremental bundling au Rust](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Turbo-charged_incremental_bundling_au_Rust.svg)](https://javascriptweekly.com/issues/612)
 [![🪜 Decorating with Dr. Axel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/🪜_Decorating_with_Dr._Axel.svg)](https://javascriptweekly.com/issues/611)
-[![Node to keep an eye on your code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Node_to_keep_an_eye_on_your_code.svg)](https://javascriptweekly.com/issues/610)
 
 
 ## Echo JS
@@ -43,15 +43,21 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, November 10, 2022 at 11:13:47 AM
+> Last updated: Saturday, November 12, 2022 at 5:56:37 PM
 
 > Showing 5 of 30 posts.
 
-[![NextJs 13 layouts tutorial: the layout.js file, nested layouts, and state preservation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/NextJs_13_layouts_tutorial__the_layout.js_file__nested_layouts__and_state_preservation.svg)](http://www.js-craft.io/blog/nextjs-13-layouts-tutorial-layout-js-file-nested-layouts-state-preservation/)
-[![API with NestJS #82. Introduction to indexes with raw SQL queries](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__82._Introduction_to_indexes_with_raw_SQL_queries.svg)](https://wanago.io/2022/11/07/api-nestjs-indexes-raw-sql/)
-[![Why would anyone need JavaScript generator functions?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Why_would_anyone_need_JavaScript_generator_functions_.svg)](https://jrsinclair.com/articles/2022/why-would-anyone-need-javascript-generator-functions/)
-[![Kosko 3.0 Released | Kosko](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Kosko_3.0_Released___Kosko.svg)](https://kosko.dev/blog/2022/11/06/kosko-3.0)
-[![Browser OS: Matrix, Nextjs 13, IRC, ∞ Sheep & Performance Enhancements](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Browser_OS__Matrix__Nextjs_13__IRC__∞_Sheep___Performance_Enhancements.svg)](https://www.youtube.com/watch?v=iEob-Vilmz0)
+[![CSS :has a parent selector now - Wisdom Geek](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/CSS__has_a_parent_selector_now_-_Wisdom_Geek.svg)](https://www.wisdomgeek.com/development/web-development/css-has-a-parent-selector-now/)
+[![How does the Logical NOT operator behave in Javascript?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_does_the_Logical_NOT_operator_behave_in_Javascript_.svg)](
+https://www.frontendroom.com/blog/how-does-the-logical-not-operator-behave-in-javascript
+)
+[![Auth0 SDK for Single Page Applications v2.0 released!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Auth0_SDK_for_Single_Page_Applications_v2.0_released!.svg)](https://auth0.com/blog/auth0-spa-sdk-v2-released/)
+[![How to make a Bootstrap 5 theme: customise utility classes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_make_a_Bootstrap_5_theme__customise_utility_classes.svg)](https://adropincalm.com/blog/how-to-make-a-bootstrap-5-theme-utility-classes/)
+[![
+Click this if you wanna make money with an AWS Lambda metrics Tool (a dollar saved is a dollar earned)
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Click_this_if_you_wanna_make_money_with_an_AWS_Lambda_metrics_Tool_(a_dollar_saved_is_a_dollar_earned)_.svg)](
+https://os-ghost.github.io/website/
+)
 
 
 <!-- post-list:end -->
