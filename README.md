@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, November 14, 2022 at 6:04:16 PM
+> Last updated: Monday, November 14, 2022 at 11:13:01 PM
 
 > Showing 5 of 12 posts.
 
-[![How to Use Developer Checklists to Increase Your Confidence](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Use_Developer_Checklists_to_Increase_Your_Confidence.svg)](https://dev.to/twinsun/how-to-use-developer-checklists-to-increase-your-confidence-1mn8)
-[![NextJS 13 Blog Starter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/NextJS_13_Blog_Starter.svg)](https://dev.to/slanted_dev/nextjs-13-blog-starter-1b6p)
-[![The Top 9 JavaScript Mistakes Developers Make](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Top_9_JavaScript_Mistakes_Developers_Make.svg)](https://dev.to/nftslab/the-top-9-javascript-mistakes-developers-make-382o)
-[![Next.js vs WordPress: Does the comparison make sense?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Next.js_vs_WordPress__Does_the_comparison_make_sense_.svg)](https://dev.to/maxikius/nextjs-vs-wordpress-does-the-comparison-make-sense-50nd)
-[![Learn how to use Apache Pulsar, Apache Flink, and Apache NiFi](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Learn_how_to_use_Apache_Pulsar__Apache_Flink__and_Apache_NiFi.svg)](https://dev.to/tspannhw/learn-how-to-use-apache-pulsar-apache-flink-and-apache-nifi-16i7)
+[![Modern PHP features explained - PHP 8.0 and 8.1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Modern_PHP_features_explained_-_PHP_8.0_and_8.1.svg)](https://dev.to/hoangit/modern-php-features-explained-php-80-and-81-9fn)
+[![PayPal Developer - November 15th San Jose CA](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/PayPal_Developer_-_November_15th_San_Jose_CA.svg)](https://dev.to/paypaldeveloper/paypal-developer-november-15th-san-jose-ca-36kh)
+[![Using Github Actions to automate my tests](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Using_Github_Actions_to_automate_my_tests.svg)](https://dev.to/pdr0zd/using-github-actions-to-automate-my-tests-4p4c)
+[![How to Contribute to Open-Source Projects](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Contribute_to_Open-Source_Projects.svg)](https://dev.to/nothanii/how-to-contribute-to-open-source-projects-54p6)
+[![Code Smell 179 - Known Bugs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Code_Smell_179_-_Known_Bugs.svg)](https://dev.to/mcsee/code-smell-179-known-bugs-1ieg)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, November 14, 2022 at 6:04:19 PM
+> Last updated: Monday, November 14, 2022 at 11:13:05 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, November 14, 2022 at 6:04:23 PM
+> Last updated: Monday, November 14, 2022 at 11:13:10 PM
 
 > Showing 5 of 30 posts.
 
