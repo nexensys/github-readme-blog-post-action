@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, November 14, 2022 at 11:13:01 PM
+> Last updated: Tuesday, November 15, 2022 at 5:18:47 AM
 
 > Showing 5 of 12 posts.
 
-[![Modern PHP features explained - PHP 8.0 and 8.1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Modern_PHP_features_explained_-_PHP_8.0_and_8.1.svg)](https://dev.to/hoangit/modern-php-features-explained-php-80-and-81-9fn)
-[![PayPal Developer - November 15th San Jose CA](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/PayPal_Developer_-_November_15th_San_Jose_CA.svg)](https://dev.to/paypaldeveloper/paypal-developer-november-15th-san-jose-ca-36kh)
-[![Using Github Actions to automate my tests](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Using_Github_Actions_to_automate_my_tests.svg)](https://dev.to/pdr0zd/using-github-actions-to-automate-my-tests-4p4c)
-[![How to Contribute to Open-Source Projects](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Contribute_to_Open-Source_Projects.svg)](https://dev.to/nothanii/how-to-contribute-to-open-source-projects-54p6)
-[![Code Smell 179 - Known Bugs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Code_Smell_179_-_Known_Bugs.svg)](https://dev.to/mcsee/code-smell-179-known-bugs-1ieg)
+[![How to build and launch a new web app for free?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_build_and_launch_a_new_web_app_for_free_.svg)](https://dev.to/zenstack/how-to-build-and-launch-a-new-web-app-for-free-5fng)
+[![C++ dagi 6-dars](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/C++_dagi_6-dars.svg)](https://dev.to/abrorabdulboriyev/c-dagi-6-dars-8h6)
+[![Java Fuzzing with Jazzer compared to Symflower](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Java_Fuzzing_with_Jazzer_compared_to_Symflower.svg)](https://dev.to/symflower/java-fuzzing-with-jazzer-compared-to-symflower-57lb)
+[![A Task Manager App Built with Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_Task_Manager_App_Built_with_Python.svg)](https://dev.to/anvil/a-task-manager-app-built-with-python-417o)
+[![Stack Data Structure part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Stack_Data_Structure_part_1.svg)](https://dev.to/dawroun/stack-data-structure-part-1-2pk2)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, November 14, 2022 at 11:13:05 PM
+> Last updated: Tuesday, November 15, 2022 at 5:18:50 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, November 14, 2022 at 11:13:10 PM
+> Last updated: Tuesday, November 15, 2022 at 5:18:56 AM
 
 > Showing 5 of 30 posts.
 
