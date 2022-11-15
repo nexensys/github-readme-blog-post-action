@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, November 15, 2022 at 5:18:47 AM
+> Last updated: Tuesday, November 15, 2022 at 11:12:44 AM
 
 > Showing 5 of 12 posts.
 
-[![How to build and launch a new web app for free?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_build_and_launch_a_new_web_app_for_free_.svg)](https://dev.to/zenstack/how-to-build-and-launch-a-new-web-app-for-free-5fng)
-[![C++ dagi 6-dars](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/C++_dagi_6-dars.svg)](https://dev.to/abrorabdulboriyev/c-dagi-6-dars-8h6)
-[![Java Fuzzing with Jazzer compared to Symflower](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Java_Fuzzing_with_Jazzer_compared_to_Symflower.svg)](https://dev.to/symflower/java-fuzzing-with-jazzer-compared-to-symflower-57lb)
-[![A Task Manager App Built with Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_Task_Manager_App_Built_with_Python.svg)](https://dev.to/anvil/a-task-manager-app-built-with-python-417o)
-[![Stack Data Structure part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Stack_Data_Structure_part_1.svg)](https://dev.to/dawroun/stack-data-structure-part-1-2pk2)
+[![Welcome Thread - v200](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Welcome_Thread_-_v200.svg)](https://dev.to/thepracticaldev/welcome-thread-v200-h6n)
+[![Single vs. Multi Page Android App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Single_vs._Multi_Page_Android_App.svg)](https://dev.to/steve_groner/single-vs-multi-page-android-app-2632)
+[![My New MacBook Air Beats M1 Max](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/My_New_MacBook_Air_Beats_M1_Max.svg)](https://dev.to/codenameone/my-new-macbook-air-beats-m1-max-2h4n)
+[![Simple Gitlab CI/CD Deployment via SSH+RSYNC](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Simple_Gitlab_CI_CD_Deployment_via_SSH+RSYNC.svg)](https://dev.to/mfyz/simple-gitlab-cicd-deployment-via-sshrsync-8b6)
+[![All about Enum in Typescript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/All_about_Enum_in_Typescript.svg)](https://dev.to/urstrulyvishwak/all-about-enum-in-typescript-356l)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, November 15, 2022 at 5:18:50 AM
+> Last updated: Tuesday, November 15, 2022 at 11:12:47 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, November 15, 2022 at 5:18:56 AM
+> Last updated: Tuesday, November 15, 2022 at 11:12:53 AM
 
 > Showing 5 of 30 posts.
 
