@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, November 12, 2022 at 5:56:29 PM
+> Last updated: Monday, November 14, 2022 at 6:04:16 PM
 
 > Showing 5 of 12 posts.
 
-[![zeros | SPVM::Numpy - The Project for Python/NumPy Porting to Perl](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/zeros___SPVM__Numpy_-_The_Project_for_Python_NumPy_Porting_to_Perl.svg)](https://dev.to/yukikimoto/zeros-spvmnumpy-the-project-for-pythonnumpy-porting-to-perl-108)
-[![VueJs Beginners part 4 - Component 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/VueJs_Beginners_part_4_-_Component_2.svg)](https://dev.to/hshoja/vuejs-beginners-part-4-component-2-315g)
-[![Tools I Am Using On A Daily Basis](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Tools_I_Am_Using_On_A_Daily_Basis.svg)](https://dev.to/yuridevat/tools-i-am-using-on-a-daily-basis-4kb7)
-[![dev.to codes! Collaborative coding experiment: The most liked comment picks the next line of code, day 5](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/dev.to_codes!_Collaborative_coding_experiment__The_most_liked_comment_picks_the_next_line_of_code__day_5.svg)](https://dev.to/thormeier/devto-codes-collaborative-coding-experiment-the-most-liked-comment-picks-the-next-line-of-code-day-5-156i)
-[![JSON Web Tokens Simplified](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/JSON_Web_Tokens_Simplified.svg)](https://dev.to/integerman/json-web-tokens-simplified-1n02)
+[![How to Use Developer Checklists to Increase Your Confidence](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Use_Developer_Checklists_to_Increase_Your_Confidence.svg)](https://dev.to/twinsun/how-to-use-developer-checklists-to-increase-your-confidence-1mn8)
+[![NextJS 13 Blog Starter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/NextJS_13_Blog_Starter.svg)](https://dev.to/slanted_dev/nextjs-13-blog-starter-1b6p)
+[![The Top 9 JavaScript Mistakes Developers Make](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Top_9_JavaScript_Mistakes_Developers_Make.svg)](https://dev.to/nftslab/the-top-9-javascript-mistakes-developers-make-382o)
+[![Next.js vs WordPress: Does the comparison make sense?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Next.js_vs_WordPress__Does_the_comparison_make_sense_.svg)](https://dev.to/maxikius/nextjs-vs-wordpress-does-the-comparison-make-sense-50nd)
+[![Learn how to use Apache Pulsar, Apache Flink, and Apache NiFi](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Learn_how_to_use_Apache_Pulsar__Apache_Flink__and_Apache_NiFi.svg)](https://dev.to/tspannhw/learn-how-to-use-apache-pulsar-apache-flink-and-apache-nifi-16i7)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, November 12, 2022 at 5:56:32 PM
+> Last updated: Monday, November 14, 2022 at 6:04:19 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,21 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, November 12, 2022 at 5:56:37 PM
+> Last updated: Monday, November 14, 2022 at 6:04:23 PM
 
 > Showing 5 of 30 posts.
 
-[![CSS :has a parent selector now - Wisdom Geek](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/CSS__has_a_parent_selector_now_-_Wisdom_Geek.svg)](https://www.wisdomgeek.com/development/web-development/css-has-a-parent-selector-now/)
-[![How does the Logical NOT operator behave in Javascript?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_does_the_Logical_NOT_operator_behave_in_Javascript_.svg)](
-https://www.frontendroom.com/blog/how-does-the-logical-not-operator-behave-in-javascript
-)
-[![Auth0 SDK for Single Page Applications v2.0 released!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Auth0_SDK_for_Single_Page_Applications_v2.0_released!.svg)](https://auth0.com/blog/auth0-spa-sdk-v2-released/)
-[![How to make a Bootstrap 5 theme: customise utility classes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_make_a_Bootstrap_5_theme__customise_utility_classes.svg)](https://adropincalm.com/blog/how-to-make-a-bootstrap-5-theme-utility-classes/)
-[![
-Click this if you wanna make money with an AWS Lambda metrics Tool (a dollar saved is a dollar earned)
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Click_this_if_you_wanna_make_money_with_an_AWS_Lambda_metrics_Tool_(a_dollar_saved_is_a_dollar_earned)_.svg)](
-https://os-ghost.github.io/website/
-)
+[![React Native Chat App Tutorial in 3 steps.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_Native_Chat_App_Tutorial_in_3_steps..svg)](https://metered.hashnode.dev/react-native-chat-app-tutorial-in-3-steps)
+[![API with NestJS #83. Text search with tsvector and raw SQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__83._Text_search_with_tsvector_and_raw_SQL.svg)](https://wanago.io/2022/11/14/api-nestjs-text-search-tsvector-sql/)
+[![What’s so great about functional programming anyway?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What’s_so_great_about_functional_programming_anyway_.svg)](https://jrsinclair.com/articles/2022/whats-so-great-about-functional-programming-anyway/)
+[![AI Languages](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/AI_Languages.svg)](https://techkluster.com/blog/ai-languages/)
+[![VS Code Tip of the Week: Sticky Scroll](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/VS_Code_Tip_of_the_Week__Sticky_Scroll.svg)](https://dev.to/vscodetips/vs-code-tip-of-the-week-sticky-scroll-5f0o)
 
 
 <!-- post-list:end -->
