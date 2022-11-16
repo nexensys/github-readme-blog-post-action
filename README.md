@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, November 15, 2022 at 5:56:20 PM
+> Last updated: Tuesday, November 15, 2022 at 11:12:56 PM
 
 > Showing 5 of 12 posts.
 
-[![React 102 - Basic data flows](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/React_102_-_Basic_data_flows.svg)](https://dev.to/noriller/react-102-basic-data-flows-2lcp)
-[![What are the most viral tech trends of the last year?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_are_the_most_viral_tech_trends_of_the_last_year_.svg)](https://dev.to/bekahhw/what-are-the-most-viral-tech-trends-of-the-last-year-4ma9)
-[![Zero to SaaS - Bookmarksy.io Sign in with Twitter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Zero_to_SaaS_-_Bookmarksy.io_Sign_in_with_Twitter.svg)](https://dev.to/brandonkylebailey/zero-to-saas-bookmarksyio-sign-in-with-twitter-4jg4)
-[![Ionic Chat App: Group and 1-1 Chat in 3 easy steps.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Ionic_Chat_App__Group_and_1-1_Chat_in_3_easy_steps..svg)](https://dev.to/alakkadshaw/ionic-chat-app-group-and-1-1-chat-in-3-easy-steps-co8)
-[![I Want to Help You Write!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/I_Want_to_Help_You_Write!.svg)](https://dev.to/juliaseid/i-want-to-help-you-write-2aj5)
+[![Replit Usage](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Replit_Usage.svg)](https://dev.to/yukikmt/replit-usage-l75)
+[![How to Make Language Translator in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Make_Language_Translator_in_JavaScript.svg)](https://dev.to/reactjsguru/how-to-make-language-translator-in-javascript-djc)
+[![A new API tool, designed for teamwork](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_new_API_tool__designed_for_teamwork.svg)](https://dev.to/yukioikeda/a-new-api-tool-designed-for-teamwork-18cp)
+[![Data Indexing, Replication, and Sharding: Basic Concepts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Data_Indexing__Replication__and_Sharding__Basic_Concepts.svg)](https://dev.to/pragyasapkota/data-indexing-replication-and-sharding-basic-concepts-58kb)
+[![Revisiting Calling Sonic Pi From Ruby](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Revisiting_Calling_Sonic_Pi_From_Ruby.svg)](https://dev.to/kevin_j_m/revisiting-calling-sonic-pi-from-ruby-39j2)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, November 15, 2022 at 5:56:24 PM
+> Last updated: Tuesday, November 15, 2022 at 11:13:00 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, November 15, 2022 at 5:56:30 PM
+> Last updated: Tuesday, November 15, 2022 at 11:13:06 PM
 
 > Showing 5 of 30 posts.
 
