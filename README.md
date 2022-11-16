@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, November 15, 2022 at 11:12:56 PM
+> Last updated: Wednesday, November 16, 2022 at 5:19:00 AM
 
 > Showing 5 of 12 posts.
 
-[![Replit Usage](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Replit_Usage.svg)](https://dev.to/yukikmt/replit-usage-l75)
-[![How to Make Language Translator in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Make_Language_Translator_in_JavaScript.svg)](https://dev.to/reactjsguru/how-to-make-language-translator-in-javascript-djc)
-[![A new API tool, designed for teamwork](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_new_API_tool__designed_for_teamwork.svg)](https://dev.to/yukioikeda/a-new-api-tool-designed-for-teamwork-18cp)
-[![Data Indexing, Replication, and Sharding: Basic Concepts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Data_Indexing__Replication__and_Sharding__Basic_Concepts.svg)](https://dev.to/pragyasapkota/data-indexing-replication-and-sharding-basic-concepts-58kb)
-[![Revisiting Calling Sonic Pi From Ruby](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Revisiting_Calling_Sonic_Pi_From_Ruby.svg)](https://dev.to/kevin_j_m/revisiting-calling-sonic-pi-from-ruby-39j2)
+[![R Tutorial](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/R_Tutorial.svg)](https://dev.to/foxinfotech/r-tutorial-2gbp)
+[![Economical EtherCAT Motion Controller (3) -- Multi-axis Linear Interpolation & Electronic Cam Achievement Through PLC](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Economical_EtherCAT_Motion_Controller_(3)_--_Multi-axis_Linear_Interpolation___Electronic_Cam_Achievement_Through_PLC.svg)](https://dev.to/zmotion/economical-ethercat-motion-controller-3-multi-axis-linear-interpolation-electronic-cam-achievement-through-plc-45je)
+[![This Week In React #124: FLIP, Lifecycle, Next.js, TypeScript, Vanilla-Extract, LiveView, Remix, Fontpie, Remotion...](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/This_Week_In_React__124__FLIP__Lifecycle__Next.js__TypeScript__Vanilla-Extract__LiveView__Remix__Fontpie__Remotion....svg)](https://dev.to/sebastienlorber/this-week-in-react-124-flip-lifecycle-nextjs-typescript-vanilla-extract-liveview-remix-fontpie-remotion-3ela)
+[![Quasar 2 with Nuxt3 (Starter Template)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Quasar_2_with_Nuxt3_(Starter_Template).svg)](https://dev.to/binhbv/quasar-2-with-nuxt3-starter-template-4119)
+[![In One Minute : TensorFlow](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/In_One_Minute___TensorFlow.svg)](https://dev.to/rakeshkr2/in-one-minute-tensorflow-mj2)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, November 15, 2022 at 11:13:00 PM
+> Last updated: Wednesday, November 16, 2022 at 5:19:03 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, November 15, 2022 at 11:13:06 PM
+> Last updated: Wednesday, November 16, 2022 at 5:19:05 AM
 
 > Showing 5 of 30 posts.
 
+[![
+What You Need to Know about Diaphragm Wall?
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_What_You_Need_to_Know_about_Diaphragm_Wall__.svg)](
+https://www.heatbud.com/post/general-culture-what-you-need-to-know-about-diaphragm-wall
+)
 [![Ionic Chat App: Group and 1-1 Chat in 3 easy steps.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Ionic_Chat_App__Group_and_1-1_Chat_in_3_easy_steps..svg)](https://dev.to/alakkadshaw/ionic-chat-app-group-and-1-1-chat-in-3-easy-steps-co8)
 [![GitHub - jj811208/watching-you: watching-you is a javascript library for building animations that watch anything on DOM 👀.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_jj811208_watching-you__watching-you_is_a_javascript_library_for_building_animations_that_watch_anything_on_DOM_👀..svg)](https://github.com/jj811208/watching-you)
 [![
@@ -55,7 +60,6 @@ tslog V4 released: JS and TypeScript, Browsers and Node.js, zero dependencies, f
 https://tslog.js.org/
 )
 [![React Native Chat App Tutorial in 3 steps.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_Native_Chat_App_Tutorial_in_3_steps..svg)](https://metered.hashnode.dev/react-native-chat-app-tutorial-in-3-steps)
-[![API with NestJS #83. Text search with tsvector and raw SQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__83._Text_search_with_tsvector_and_raw_SQL.svg)](https://wanago.io/2022/11/14/api-nestjs-text-search-tsvector-sql/)
 
 
 <!-- post-list:end -->
