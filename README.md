@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, November 15, 2022 at 11:12:44 AM
+> Last updated: Tuesday, November 15, 2022 at 5:56:20 PM
 
 > Showing 5 of 12 posts.
 
-[![Welcome Thread - v200](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Welcome_Thread_-_v200.svg)](https://dev.to/thepracticaldev/welcome-thread-v200-h6n)
-[![Single vs. Multi Page Android App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Single_vs._Multi_Page_Android_App.svg)](https://dev.to/steve_groner/single-vs-multi-page-android-app-2632)
-[![My New MacBook Air Beats M1 Max](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/My_New_MacBook_Air_Beats_M1_Max.svg)](https://dev.to/codenameone/my-new-macbook-air-beats-m1-max-2h4n)
-[![Simple Gitlab CI/CD Deployment via SSH+RSYNC](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Simple_Gitlab_CI_CD_Deployment_via_SSH+RSYNC.svg)](https://dev.to/mfyz/simple-gitlab-cicd-deployment-via-sshrsync-8b6)
-[![All about Enum in Typescript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/All_about_Enum_in_Typescript.svg)](https://dev.to/urstrulyvishwak/all-about-enum-in-typescript-356l)
+[![React 102 - Basic data flows](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/React_102_-_Basic_data_flows.svg)](https://dev.to/noriller/react-102-basic-data-flows-2lcp)
+[![What are the most viral tech trends of the last year?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_are_the_most_viral_tech_trends_of_the_last_year_.svg)](https://dev.to/bekahhw/what-are-the-most-viral-tech-trends-of-the-last-year-4ma9)
+[![Zero to SaaS - Bookmarksy.io Sign in with Twitter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Zero_to_SaaS_-_Bookmarksy.io_Sign_in_with_Twitter.svg)](https://dev.to/brandonkylebailey/zero-to-saas-bookmarksyio-sign-in-with-twitter-4jg4)
+[![Ionic Chat App: Group and 1-1 Chat in 3 easy steps.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Ionic_Chat_App__Group_and_1-1_Chat_in_3_easy_steps..svg)](https://dev.to/alakkadshaw/ionic-chat-app-group-and-1-1-chat-in-3-easy-steps-co8)
+[![I Want to Help You Write!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/I_Want_to_Help_You_Write!.svg)](https://dev.to/juliaseid/i-want-to-help-you-write-2aj5)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, November 15, 2022 at 11:12:47 AM
+> Last updated: Tuesday, November 15, 2022 at 5:56:24 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, November 15, 2022 at 11:12:53 AM
+> Last updated: Tuesday, November 15, 2022 at 5:56:30 PM
 
 > Showing 5 of 30 posts.
 
+[![Ionic Chat App: Group and 1-1 Chat in 3 easy steps.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Ionic_Chat_App__Group_and_1-1_Chat_in_3_easy_steps..svg)](https://dev.to/alakkadshaw/ionic-chat-app-group-and-1-1-chat-in-3-easy-steps-co8)
+[![GitHub - jj811208/watching-you: watching-you is a javascript library for building animations that watch anything on DOM 👀.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_jj811208_watching-you__watching-you_is_a_javascript_library_for_building_animations_that_watch_anything_on_DOM_👀..svg)](https://github.com/jj811208/watching-you)
+[![
+tslog V4 released: JS and TypeScript, Browsers and Node.js, zero dependencies, fully customizable, pretty errors, stack traces, and JSON output
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_tslog_V4_released__JS_and_TypeScript__Browsers_and_Node.js__zero_dependencies__fully_customizable__pretty_errors__stack_traces__and_JSON_output_.svg)](
+https://tslog.js.org/
+)
 [![React Native Chat App Tutorial in 3 steps.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_Native_Chat_App_Tutorial_in_3_steps..svg)](https://metered.hashnode.dev/react-native-chat-app-tutorial-in-3-steps)
 [![API with NestJS #83. Text search with tsvector and raw SQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__83._Text_search_with_tsvector_and_raw_SQL.svg)](https://wanago.io/2022/11/14/api-nestjs-text-search-tsvector-sql/)
-[![What’s so great about functional programming anyway?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What’s_so_great_about_functional_programming_anyway_.svg)](https://jrsinclair.com/articles/2022/whats-so-great-about-functional-programming-anyway/)
-[![AI Languages](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/AI_Languages.svg)](https://techkluster.com/blog/ai-languages/)
-[![VS Code Tip of the Week: Sticky Scroll](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/VS_Code_Tip_of_the_Week__Sticky_Scroll.svg)](https://dev.to/vscodetips/vs-code-tip-of-the-week-sticky-scroll-5f0o)
 
 
 <!-- post-list:end -->
