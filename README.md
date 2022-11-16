@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, November 16, 2022 at 5:19:00 AM
+> Last updated: Wednesday, November 16, 2022 at 11:12:26 AM
 
 > Showing 5 of 12 posts.
 
-[![R Tutorial](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/R_Tutorial.svg)](https://dev.to/foxinfotech/r-tutorial-2gbp)
-[![Economical EtherCAT Motion Controller (3) -- Multi-axis Linear Interpolation & Electronic Cam Achievement Through PLC](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Economical_EtherCAT_Motion_Controller_(3)_--_Multi-axis_Linear_Interpolation___Electronic_Cam_Achievement_Through_PLC.svg)](https://dev.to/zmotion/economical-ethercat-motion-controller-3-multi-axis-linear-interpolation-electronic-cam-achievement-through-plc-45je)
-[![This Week In React #124: FLIP, Lifecycle, Next.js, TypeScript, Vanilla-Extract, LiveView, Remix, Fontpie, Remotion...](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/This_Week_In_React__124__FLIP__Lifecycle__Next.js__TypeScript__Vanilla-Extract__LiveView__Remix__Fontpie__Remotion....svg)](https://dev.to/sebastienlorber/this-week-in-react-124-flip-lifecycle-nextjs-typescript-vanilla-extract-liveview-remix-fontpie-remotion-3ela)
-[![Quasar 2 with Nuxt3 (Starter Template)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Quasar_2_with_Nuxt3_(Starter_Template).svg)](https://dev.to/binhbv/quasar-2-with-nuxt3-starter-template-4119)
-[![In One Minute : TensorFlow](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/In_One_Minute___TensorFlow.svg)](https://dev.to/rakeshkr2/in-one-minute-tensorflow-mj2)
+[![Spring Modulith: have we reached modularity maturity?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Spring_Modulith__have_we_reached_modularity_maturity_.svg)](https://dev.to/nfrankel/spring-modulith-have-we-reached-modularity-maturity-2id0)
+[![Code Formatting in Nim](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Code_Formatting_in_Nim.svg)](https://dev.to/taisei_ide/code-formatting-in-nim-4g7f)
+[![Django & Docker - SQLite, MySql, and PostgreSQL samples](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Django___Docker_-_SQLite__MySql__and_PostgreSQL_samples.svg)](https://dev.to/sm0ke/django-docker-sqlite-mysql-and-postgresql-samples-2ahn)
+[![React Data Fetching Pattern - Part III](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/React_Data_Fetching_Pattern_-_Part_III.svg)](https://dev.to/francisldn/react-data-fetching-pattern-part-iii-584d)
+[![Three Things I've Learned About Writing Abstracts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Three_Things_I've_Learned_About_Writing_Abstracts.svg)](https://dev.to/cerchie/three-things-ive-learned-about-writing-abstracts-196)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, November 16, 2022 at 5:19:03 AM
+> Last updated: Wednesday, November 16, 2022 at 11:12:29 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, November 16, 2022 at 5:19:05 AM
+> Last updated: Wednesday, November 16, 2022 at 11:12:31 AM
 
 > Showing 5 of 30 posts.
 
+[![Chart.js tutorial: Getting started with the all-new Chart.js v4 - Cube Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Chart.js_tutorial__Getting_started_with_the_all-new_Chart.js_v4_-_Cube_Blog.svg)](https://cube.dev/blog/chartjs-tutorial-getting-started-with-chartjs-v4)
 [![
 What You Need to Know about Diaphragm Wall?
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_What_You_Need_to_Know_about_Diaphragm_Wall__.svg)](
@@ -59,7 +60,6 @@ tslog V4 released: JS and TypeScript, Browsers and Node.js, zero dependencies, f
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_tslog_V4_released__JS_and_TypeScript__Browsers_and_Node.js__zero_dependencies__fully_customizable__pretty_errors__stack_traces__and_JSON_output_.svg)](
 https://tslog.js.org/
 )
-[![React Native Chat App Tutorial in 3 steps.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_Native_Chat_App_Tutorial_in_3_steps..svg)](https://metered.hashnode.dev/react-native-chat-app-tutorial-in-3-steps)
 
 
 <!-- post-list:end -->
