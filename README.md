@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, November 16, 2022 at 11:12:26 AM
+> Last updated: Wednesday, November 16, 2022 at 5:55:33 PM
 
 > Showing 5 of 12 posts.
 
-[![Spring Modulith: have we reached modularity maturity?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Spring_Modulith__have_we_reached_modularity_maturity_.svg)](https://dev.to/nfrankel/spring-modulith-have-we-reached-modularity-maturity-2id0)
-[![Code Formatting in Nim](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Code_Formatting_in_Nim.svg)](https://dev.to/taisei_ide/code-formatting-in-nim-4g7f)
-[![Django & Docker - SQLite, MySql, and PostgreSQL samples](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Django___Docker_-_SQLite__MySql__and_PostgreSQL_samples.svg)](https://dev.to/sm0ke/django-docker-sqlite-mysql-and-postgresql-samples-2ahn)
-[![React Data Fetching Pattern - Part III](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/React_Data_Fetching_Pattern_-_Part_III.svg)](https://dev.to/francisldn/react-data-fetching-pattern-part-iii-584d)
-[![Three Things I've Learned About Writing Abstracts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Three_Things_I've_Learned_About_Writing_Abstracts.svg)](https://dev.to/cerchie/three-things-ive-learned-about-writing-abstracts-196)
+[![How to prepare for an interview](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_prepare_for_an_interview.svg)](https://dev.to/daniloab/how-to-prepare-for-an-interview-11d)
+[![#gitPanic - Interactive Rebase](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/_gitPanic_-_Interactive_Rebase.svg)](https://dev.to/abbeyperini/gitpanic-interactive-rebase-48fe)
+[![JUnit Cómo repetir un test con parámetros](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/JUnit_Cómo_repetir_un_test_con_parámetros.svg)](https://dev.to/gekyzo/junit-como-repetir-un-test-con-parametros-1l15)
+[![#gitPanic - HEAD](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/_gitPanic_-_HEAD.svg)](https://dev.to/abbeyperini/gitpanic-head-37m8)
+[![Tips para aprobar las certificaciones Associate de AWS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Tips_para_aprobar_las_certificaciones_Associate_de_AWS.svg)](https://dev.to/cecamilo/tips-para-aprobar-las-certificaciones-associate-de-aws-399g)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, November 16, 2022 at 11:12:29 AM
+> Last updated: Wednesday, November 16, 2022 at 5:55:36 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,12 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, November 16, 2022 at 11:12:31 AM
+> Last updated: Wednesday, November 16, 2022 at 5:55:38 PM
 
 > Showing 5 of 30 posts.
 
+[![Release v1.3.0 · stefanocudini/leaflet-panel-layers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Release_v1.3.0_·_stefanocudini_leaflet-panel-layers.svg)](/stefanocudini/leaflet-panel-layers/releases/tag/v1.3.0)
+[![GitHub - vroby65/pixelart](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_vroby65_pixelart.svg)](https://github.com/vroby65/pixelart)
 [![Chart.js tutorial: Getting started with the all-new Chart.js v4 - Cube Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Chart.js_tutorial__Getting_started_with_the_all-new_Chart.js_v4_-_Cube_Blog.svg)](https://cube.dev/blog/chartjs-tutorial-getting-started-with-chartjs-v4)
 [![
 What You Need to Know about Diaphragm Wall?
@@ -54,12 +56,6 @@ What You Need to Know about Diaphragm Wall?
 https://www.heatbud.com/post/general-culture-what-you-need-to-know-about-diaphragm-wall
 )
 [![Ionic Chat App: Group and 1-1 Chat in 3 easy steps.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Ionic_Chat_App__Group_and_1-1_Chat_in_3_easy_steps..svg)](https://dev.to/alakkadshaw/ionic-chat-app-group-and-1-1-chat-in-3-easy-steps-co8)
-[![GitHub - jj811208/watching-you: watching-you is a javascript library for building animations that watch anything on DOM 👀.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_jj811208_watching-you__watching-you_is_a_javascript_library_for_building_animations_that_watch_anything_on_DOM_👀..svg)](https://github.com/jj811208/watching-you)
-[![
-tslog V4 released: JS and TypeScript, Browsers and Node.js, zero dependencies, fully customizable, pretty errors, stack traces, and JSON output
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_tslog_V4_released__JS_and_TypeScript__Browsers_and_Node.js__zero_dependencies__fully_customizable__pretty_errors__stack_traces__and_JSON_output_.svg)](
-https://tslog.js.org/
-)
 
 
 <!-- post-list:end -->
