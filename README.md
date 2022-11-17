@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, November 16, 2022 at 11:12:47 PM
+> Last updated: Thursday, November 17, 2022 at 5:20:58 AM
 
 > Showing 5 of 12 posts.
 
-[![How does SPVM work on IoT Device such as Raspberry Pi?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_does_SPVM_work_on_IoT_Device_such_as_Raspberry_Pi_.svg)](https://dev.to/yukikimoto/how-does-spvm-work-on-iot-device-such-as-raspberry-pi-32ai)
-[![Help please!!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Help_please!!.svg)](https://dev.to/mvpamansingh/help-please-22ao)
-[![What's Angular?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What's_Angular_.svg)](https://dev.to/yukikmt/whats-angular-5be0)
-[![Why I like React?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Why_I_like_React_.svg)](https://dev.to/yukikmt/why-i-like-react-22me)
-[![Weather Observation Station 17 Hackerrank Solution](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Weather_Observation_Station_17_Hackerrank_Solution.svg)](https://dev.to/realnamehidden1/weather-observation-station-17-hackerrank-solution-4fi1)
+[![Meet a new technology to display your big data volumes instantly without any waiting time!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Meet_a_new_technology_to_display_your_big_data_volumes_instantly_without_any_waiting_time!.svg)](https://dev.to/juliianikitina/meet-a-new-technology-to-display-your-big-data-volumes-instantly-without-any-waiting-time-242k)
+[![In One Minute : CodeIgniter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/In_One_Minute___CodeIgniter.svg)](https://dev.to/rakeshkr2/in-one-minute-codeigniter-pf4)
+[![What is Bcrypt. How to use it to hash passwords](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_Bcrypt._How_to_use_it_to_hash_passwords.svg)](https://dev.to/documatic/what-is-bcrypt-how-to-use-it-to-hash-passwords-5c0g)
+[![Build a Chatbot Using Python, Django](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_a_Chatbot_Using_Python__Django.svg)](https://dev.to/documatic/build-a-chatbot-using-python-django-46hb)
+[![Web Development JWT Practices](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Web_Development_JWT_Practices.svg)](https://dev.to/baize1998/web-development-jwt-practices-59cn)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, November 16, 2022 at 11:12:50 PM
+> Last updated: Thursday, November 17, 2022 at 5:21:01 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, November 16, 2022 at 11:12:53 PM
+> Last updated: Thursday, November 17, 2022 at 5:21:05 AM
 
 > Showing 5 of 30 posts.
 
+[![Cracking the Frontend System Design Interview](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Cracking_the_Frontend_System_Design_Interview.svg)](https://medhatdawoud.net/blog/cracking-frontend-system-design-interview)
 [![Release v1.3.0 · stefanocudini/leaflet-panel-layers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Release_v1.3.0_·_stefanocudini_leaflet-panel-layers.svg)](/stefanocudini/leaflet-panel-layers/releases/tag/v1.3.0)
 [![GitHub - vroby65/pixelart](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_vroby65_pixelart.svg)](https://github.com/vroby65/pixelart)
 [![Chart.js tutorial: Getting started with the all-new Chart.js v4 - Cube Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Chart.js_tutorial__Getting_started_with_the_all-new_Chart.js_v4_-_Cube_Blog.svg)](https://cube.dev/blog/chartjs-tutorial-getting-started-with-chartjs-v4)
@@ -55,7 +56,6 @@ What You Need to Know about Diaphragm Wall?
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_What_You_Need_to_Know_about_Diaphragm_Wall__.svg)](
 https://www.heatbud.com/post/general-culture-what-you-need-to-know-about-diaphragm-wall
 )
-[![Ionic Chat App: Group and 1-1 Chat in 3 easy steps.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Ionic_Chat_App__Group_and_1-1_Chat_in_3_easy_steps..svg)](https://dev.to/alakkadshaw/ionic-chat-app-group-and-1-1-chat-in-3-easy-steps-co8)
 
 
 <!-- post-list:end -->
