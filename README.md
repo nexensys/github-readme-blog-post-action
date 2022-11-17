@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, November 16, 2022 at 5:55:33 PM
+> Last updated: Wednesday, November 16, 2022 at 11:12:47 PM
 
 > Showing 5 of 12 posts.
 
-[![How to prepare for an interview](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_prepare_for_an_interview.svg)](https://dev.to/daniloab/how-to-prepare-for-an-interview-11d)
-[![#gitPanic - Interactive Rebase](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/_gitPanic_-_Interactive_Rebase.svg)](https://dev.to/abbeyperini/gitpanic-interactive-rebase-48fe)
-[![JUnit Cómo repetir un test con parámetros](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/JUnit_Cómo_repetir_un_test_con_parámetros.svg)](https://dev.to/gekyzo/junit-como-repetir-un-test-con-parametros-1l15)
-[![#gitPanic - HEAD](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/_gitPanic_-_HEAD.svg)](https://dev.to/abbeyperini/gitpanic-head-37m8)
-[![Tips para aprobar las certificaciones Associate de AWS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Tips_para_aprobar_las_certificaciones_Associate_de_AWS.svg)](https://dev.to/cecamilo/tips-para-aprobar-las-certificaciones-associate-de-aws-399g)
+[![How does SPVM work on IoT Device such as Raspberry Pi?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_does_SPVM_work_on_IoT_Device_such_as_Raspberry_Pi_.svg)](https://dev.to/yukikimoto/how-does-spvm-work-on-iot-device-such-as-raspberry-pi-32ai)
+[![Help please!!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Help_please!!.svg)](https://dev.to/mvpamansingh/help-please-22ao)
+[![What's Angular?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What's_Angular_.svg)](https://dev.to/yukikmt/whats-angular-5be0)
+[![Why I like React?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Why_I_like_React_.svg)](https://dev.to/yukikmt/why-i-like-react-22me)
+[![Weather Observation Station 17 Hackerrank Solution](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Weather_Observation_Station_17_Hackerrank_Solution.svg)](https://dev.to/realnamehidden1/weather-observation-station-17-hackerrank-solution-4fi1)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, November 16, 2022 at 5:55:36 PM
+> Last updated: Wednesday, November 16, 2022 at 11:12:50 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, November 16, 2022 at 5:55:38 PM
+> Last updated: Wednesday, November 16, 2022 at 11:12:53 PM
 
 > Showing 5 of 30 posts.
 
