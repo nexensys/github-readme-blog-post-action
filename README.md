@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, November 17, 2022 at 11:12:19 AM
+> Last updated: Thursday, November 17, 2022 at 5:58:44 PM
 
 > Showing 5 of 12 posts.
 
-[![Quick i18n setup in React native with autocomplete](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Quick_i18n_setup_in_React_native_with_autocomplete.svg)](https://dev.to/antoine_m/quick-i18n-setup-in-react-native-with-autocomplete-13mm)
-[![See How Others' Changes Compare To Your Own In IntelliJ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/See_How_Others'_Changes_Compare_To_Your_Own_In_IntelliJ.svg)](https://dev.to/gitlive/see-how-others-changes-compare-to-your-own-in-intellij-48ig)
-[![What Are the Largest Countries without an AWS Region?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_Are_the_Largest_Countries_without_an_AWS_Region_.svg)](https://dev.to/aws-heroes/what-are-the-largest-countries-without-an-aws-region-mc7)
-[![Getting started with Harness CI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Getting_started_with_Harness_CI.svg)](https://dev.to/freaking_wish/getting-started-with-harness-ci-g68)
-[![🔦 Community Spotlight - Tvusage, a Digital Wellbeing App 🔦](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/🔦_Community_Spotlight_-_Tvusage__a_Digital_Wellbeing_App_🔦.svg)](https://dev.to/appwrite/community-spotlight-tvusage-a-digital-wellbeing-app-35ch)
+[![Why Startups Suck at Security](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Why_Startups_Suck_at_Security.svg)](https://dev.to/linearb/why-startups-suck-at-security-4fop)
+[![How to Create Bubble Maps in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Create_Bubble_Maps_in_JavaScript.svg)](https://dev.to/andreykh1985/how-to-create-bubble-maps-in-javascript-4lc5)
+[![6 Powerful Articles Every Web Developer Must Read](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/6_Powerful_Articles_Every_Web_Developer_Must_Read.svg)](https://dev.to/elliot_brenyasarfo_18749/4-powerful-articles-every-web-developer-must-read-4gkd)
+[![How to sign your commits](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_sign_your_commits.svg)](https://dev.to/jmau111/how-to-sign-your-commits-h9a)
+[![#gitPanic - Stash](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/_gitPanic_-_Stash.svg)](https://dev.to/abbeyperini/gitpanic-stash-4gll)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, November 17, 2022 at 11:12:24 AM
+> Last updated: Thursday, November 17, 2022 at 5:58:46 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, November 17, 2022 at 11:12:27 AM
+> Last updated: Thursday, November 17, 2022 at 5:58:47 PM
 
 > Showing 5 of 30 posts.
 
+[![Vue Js Chat Application tutorial](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Vue_Js_Chat_Application_tutorial.svg)](https://dev.to/alakkadshaw/vue-js-chat-application-tutorial-4ena)
 [![Meet a new technology to display your big data volumes instantly without any waiting time!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Meet_a_new_technology_to_display_your_big_data_volumes_instantly_without_any_waiting_time!.svg)](https://dev.to/juliianikitina/meet-a-new-technology-to-display-your-big-data-volumes-instantly-without-any-waiting-time-242k)
 [![Cracking the Frontend System Design Interview](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Cracking_the_Frontend_System_Design_Interview.svg)](https://medhatdawoud.net/blog/cracking-frontend-system-design-interview)
 [![Release v1.3.0 · stefanocudini/leaflet-panel-layers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Release_v1.3.0_·_stefanocudini_leaflet-panel-layers.svg)](/stefanocudini/leaflet-panel-layers/releases/tag/v1.3.0)
 [![GitHub - vroby65/pixelart](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_vroby65_pixelart.svg)](https://github.com/vroby65/pixelart)
-[![Chart.js tutorial: Getting started with the all-new Chart.js v4 - Cube Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Chart.js_tutorial__Getting_started_with_the_all-new_Chart.js_v4_-_Cube_Blog.svg)](https://cube.dev/blog/chartjs-tutorial-getting-started-with-chartjs-v4)
 
 
 <!-- post-list:end -->
