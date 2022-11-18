@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, November 17, 2022 at 11:13:04 PM
+> Last updated: Friday, November 18, 2022 at 5:19:04 AM
 
 > Showing 5 of 12 posts.
 
-[![Table stakes for Detection Engineering](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Table_stakes_for_Detection_Engineering.svg)](https://dev.to/teachmetechy/table-stakes-for-detection-engineering-2ekh)
-[![Making Progress: How I've learned to move towards my goals](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Making_Progress__How_I've_learned_to_move_towards_my_goals.svg)](https://dev.to/chad_r_stewart/making-progress-how-ive-learned-to-move-towards-my-goals-2jnl)
-[![Frontend, Backend, and the Blurring Line In-Between](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Frontend__Backend__and_the_Blurring_Line_In-Between.svg)](https://dev.to/zenstack/frontend-backend-and-the-blurring-line-in-between-2h59)
-[![Why Startups Suck at Security](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Why_Startups_Suck_at_Security.svg)](https://dev.to/linearb/why-startups-suck-at-security-4fop)
-[![How to Create Bubble Maps in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Create_Bubble_Maps_in_JavaScript.svg)](https://dev.to/andreykh1985/how-to-create-bubble-maps-in-javascript-4lc5)
+[![Murtaza Hashwani | 3 Fast Ways to Learn Magento Developer.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Murtaza_Hashwani___3_Fast_Ways_to_Learn_Magento_Developer..svg)](https://dev.to/murtazahashwani/murtaza-hashwani-3-fast-ways-to-learn-magento-developer-4od4)
+[![Kubernetes Cordon: How It Works And When To Use It ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Kubernetes_Cordon__How_It_Works_And_When_To_Use_It_.svg)](https://dev.to/castai/kubernetes-cordon-how-it-works-and-when-to-use-it-pp5)
+[![Introduction to Supabase — The Firebase alternative](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Introduction_to_Supabase_—_The_Firebase_alternative.svg)](https://dev.to/shreyvijayvargiya/introduction-to-supabase-the-firebase-alternative-46fg)
+[![Command Line Editors tutorial pt 1 : EMACS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Command_Line_Editors_tutorial_pt_1___EMACS.svg)](https://dev.to/sarahokolo/command-line-editors-tutorial-pt-1-emacs-40mk)
+[![In One Minute : Maven](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/In_One_Minute___Maven.svg)](https://dev.to/rakeshkr2/in-one-minute-maven-45o)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, November 17, 2022 at 11:13:07 PM
+> Last updated: Friday, November 18, 2022 at 5:19:06 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, November 17, 2022 at 11:13:09 PM
+> Last updated: Friday, November 18, 2022 at 5:19:08 AM
 
 > Showing 5 of 30 posts.
 
