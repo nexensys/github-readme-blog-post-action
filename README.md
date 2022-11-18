@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, November 18, 2022 at 5:19:04 AM
+> Last updated: Friday, November 18, 2022 at 11:12:40 AM
 
 > Showing 5 of 12 posts.
 
-[![Murtaza Hashwani | 3 Fast Ways to Learn Magento Developer.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Murtaza_Hashwani___3_Fast_Ways_to_Learn_Magento_Developer..svg)](https://dev.to/murtazahashwani/murtaza-hashwani-3-fast-ways-to-learn-magento-developer-4od4)
-[![Kubernetes Cordon: How It Works And When To Use It ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Kubernetes_Cordon__How_It_Works_And_When_To_Use_It_.svg)](https://dev.to/castai/kubernetes-cordon-how-it-works-and-when-to-use-it-pp5)
-[![Introduction to Supabase — The Firebase alternative](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Introduction_to_Supabase_—_The_Firebase_alternative.svg)](https://dev.to/shreyvijayvargiya/introduction-to-supabase-the-firebase-alternative-46fg)
-[![Command Line Editors tutorial pt 1 : EMACS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Command_Line_Editors_tutorial_pt_1___EMACS.svg)](https://dev.to/sarahokolo/command-line-editors-tutorial-pt-1-emacs-40mk)
-[![In One Minute : Maven](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/In_One_Minute___Maven.svg)](https://dev.to/rakeshkr2/in-one-minute-maven-45o)
+[![30-Day React Learning Journey part-2 ( JSX )](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/30-Day_React_Learning_Journey_part-2_(_JSX_).svg)](https://dev.to/ymhaah/30-day-react-learning-journey-part-2-jsx--8hj)
+[![Speech Racer: My first hackathon project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Speech_Racer__My_first_hackathon_project.svg)](https://dev.to/bekahhw/speech-racer-my-first-hackathon-project-2ona)
+[![Wheatcha - MVP release! A catalogue of the best tech videos on YouTube.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Wheatcha_-_MVP_release!_A_catalogue_of_the_best_tech_videos_on_YouTube..svg)](https://dev.to/nordicbeaver/wheatcha-mvp-release-a-catalogue-of-the-best-tech-videos-on-youtube-3aok)
+[![Serverless tools cut both ways](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Serverless_tools_cut_both_ways.svg)](https://dev.to/aws-builders/serverless-tools-cut-both-ways-7o2)
+[![5 ways to improve the performance of Node.js API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_ways_to_improve_the_performance_of_Node.js_API.svg)](https://dev.to/qbentil/5-ways-to-improve-the-performance-of-nodejs-api-230d)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, November 18, 2022 at 5:19:06 AM
+> Last updated: Friday, November 18, 2022 at 11:12:44 AM
 
 > Showing 4 of 4 posts.
 
+[![Nuxt 3.0, TypeScript 4.9, Angular 15..](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Nuxt_3.0__TypeScript_4.9__Angular_15...svg)](https://javascriptweekly.com/issues/615)
 [![Rome wasn't rewritten in a day](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Rome_wasn't_rewritten_in_a_day.svg)](https://javascriptweekly.com/issues/614)
 [![Is Turbopack really 10x faster than Vite?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Is_Turbopack_really_10x_faster_than_Vite_.svg)](https://javascriptweekly.com/issues/613)
 [![Turbo-charged incremental bundling au Rust](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Turbo-charged_incremental_bundling_au_Rust.svg)](https://javascriptweekly.com/issues/612)
-[![🪜 Decorating with Dr. Axel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/🪜_Decorating_with_Dr._Axel.svg)](https://javascriptweekly.com/issues/611)
 
 
 ## Echo JS
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, November 18, 2022 at 5:19:08 AM
+> Last updated: Friday, November 18, 2022 at 11:12:46 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - pieroguerrero/auth-backend: Typescript RESTful backend application for User Authentication and Authorization. 🔒🔑📨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_pieroguerrero_auth-backend__Typescript_RESTful_backend_application_for_User_Authentication_and_Authorization._🔒🔑📨.svg)](https://github.com/pieroguerrero/auth-backend)
+[![Debugging CSS scroll using one simple style - Wisdom Geek](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Debugging_CSS_scroll_using_one_simple_style_-_Wisdom_Geek.svg)](https://www.wisdomgeek.com/development/web-development/debugging-css-scroll-using-one-simple-style/)
 [![How do Unary Plus and Unary Negation operators behave in Javascript?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_do_Unary_Plus_and_Unary_Negation_operators_behave_in_Javascript_.svg)](
 https://www.frontendroom.com/blog/how-do-unary-plus-and-unary-minus-operators-behave-in-javascript
 )
 [![Vue Js Chat Application tutorial](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Vue_Js_Chat_Application_tutorial.svg)](https://dev.to/alakkadshaw/vue-js-chat-application-tutorial-4ena)
 [![Meet a new technology to display your big data volumes instantly without any waiting time!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Meet_a_new_technology_to_display_your_big_data_volumes_instantly_without_any_waiting_time!.svg)](https://dev.to/juliianikitina/meet-a-new-technology-to-display-your-big-data-volumes-instantly-without-any-waiting-time-242k)
-[![Cracking the Frontend System Design Interview](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Cracking_the_Frontend_System_Design_Interview.svg)](https://medhatdawoud.net/blog/cracking-frontend-system-design-interview)
-[![Release v1.3.0 · stefanocudini/leaflet-panel-layers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Release_v1.3.0_·_stefanocudini_leaflet-panel-layers.svg)](/stefanocudini/leaflet-panel-layers/releases/tag/v1.3.0)
 
 
 <!-- post-list:end -->
