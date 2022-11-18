@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, November 17, 2022 at 5:58:44 PM
+> Last updated: Thursday, November 17, 2022 at 11:13:04 PM
 
 > Showing 5 of 12 posts.
 
+[![Table stakes for Detection Engineering](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Table_stakes_for_Detection_Engineering.svg)](https://dev.to/teachmetechy/table-stakes-for-detection-engineering-2ekh)
+[![Making Progress: How I've learned to move towards my goals](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Making_Progress__How_I've_learned_to_move_towards_my_goals.svg)](https://dev.to/chad_r_stewart/making-progress-how-ive-learned-to-move-towards-my-goals-2jnl)
+[![Frontend, Backend, and the Blurring Line In-Between](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Frontend__Backend__and_the_Blurring_Line_In-Between.svg)](https://dev.to/zenstack/frontend-backend-and-the-blurring-line-in-between-2h59)
 [![Why Startups Suck at Security](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Why_Startups_Suck_at_Security.svg)](https://dev.to/linearb/why-startups-suck-at-security-4fop)
 [![How to Create Bubble Maps in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Create_Bubble_Maps_in_JavaScript.svg)](https://dev.to/andreykh1985/how-to-create-bubble-maps-in-javascript-4lc5)
-[![6 Powerful Articles Every Web Developer Must Read](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/6_Powerful_Articles_Every_Web_Developer_Must_Read.svg)](https://dev.to/elliot_brenyasarfo_18749/4-powerful-articles-every-web-developer-must-read-4gkd)
-[![How to sign your commits](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_sign_your_commits.svg)](https://dev.to/jmau111/how-to-sign-your-commits-h9a)
-[![#gitPanic - Stash](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/_gitPanic_-_Stash.svg)](https://dev.to/abbeyperini/gitpanic-stash-4gll)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, November 17, 2022 at 5:58:46 PM
+> Last updated: Thursday, November 17, 2022 at 11:13:07 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, November 17, 2022 at 5:58:47 PM
+> Last updated: Thursday, November 17, 2022 at 11:13:09 PM
 
 > Showing 5 of 30 posts.
 
+[![How do Unary Plus and Unary Negation operators behave in Javascript?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_do_Unary_Plus_and_Unary_Negation_operators_behave_in_Javascript_.svg)](
+https://www.frontendroom.com/blog/how-do-unary-plus-and-unary-minus-operators-behave-in-javascript
+)
 [![Vue Js Chat Application tutorial](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Vue_Js_Chat_Application_tutorial.svg)](https://dev.to/alakkadshaw/vue-js-chat-application-tutorial-4ena)
 [![Meet a new technology to display your big data volumes instantly without any waiting time!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Meet_a_new_technology_to_display_your_big_data_volumes_instantly_without_any_waiting_time!.svg)](https://dev.to/juliianikitina/meet-a-new-technology-to-display-your-big-data-volumes-instantly-without-any-waiting-time-242k)
 [![Cracking the Frontend System Design Interview](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Cracking_the_Frontend_System_Design_Interview.svg)](https://medhatdawoud.net/blog/cracking-frontend-system-design-interview)
 [![Release v1.3.0 · stefanocudini/leaflet-panel-layers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Release_v1.3.0_·_stefanocudini_leaflet-panel-layers.svg)](/stefanocudini/leaflet-panel-layers/releases/tag/v1.3.0)
-[![GitHub - vroby65/pixelart](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_vroby65_pixelart.svg)](https://github.com/vroby65/pixelart)
 
 
 <!-- post-list:end -->
