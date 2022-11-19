@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, November 18, 2022 at 11:12:40 AM
+> Last updated: Friday, November 18, 2022 at 5:56:43 PM
 
 > Showing 5 of 12 posts.
 
-[![30-Day React Learning Journey part-2 ( JSX )](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/30-Day_React_Learning_Journey_part-2_(_JSX_).svg)](https://dev.to/ymhaah/30-day-react-learning-journey-part-2-jsx--8hj)
-[![Speech Racer: My first hackathon project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Speech_Racer__My_first_hackathon_project.svg)](https://dev.to/bekahhw/speech-racer-my-first-hackathon-project-2ona)
-[![Wheatcha - MVP release! A catalogue of the best tech videos on YouTube.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Wheatcha_-_MVP_release!_A_catalogue_of_the_best_tech_videos_on_YouTube..svg)](https://dev.to/nordicbeaver/wheatcha-mvp-release-a-catalogue-of-the-best-tech-videos-on-youtube-3aok)
-[![Serverless tools cut both ways](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Serverless_tools_cut_both_ways.svg)](https://dev.to/aws-builders/serverless-tools-cut-both-ways-7o2)
-[![5 ways to improve the performance of Node.js API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_ways_to_improve_the_performance_of_Node.js_API.svg)](https://dev.to/qbentil/5-ways-to-improve-the-performance-of-nodejs-api-230d)
+[![#gitPanic - Documentation and Profiles](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/_gitPanic_-_Documentation_and_Profiles.svg)](https://dev.to/abbeyperini/gitpanic-documentation-and-profiles-1end)
+[![Introduction to Kotlin Flows and Channels](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Introduction_to_Kotlin_Flows_and_Channels.svg)](https://dev.to/vtsen/introduction-to-kotlin-flows-and-channels-12o9)
+[![How to Loop Through a Podcast Episode List using Async IO with Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Loop_Through_a_Podcast_Episode_List_using_Async_IO_with_Python.svg)](https://dev.to/deepgram/how-to-loop-through-a-podcast-episode-list-using-async-io-with-python-h9h)
+[![O problema do React para quem é iniciante](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/O_problema_do_React_para_quem_é_iniciante.svg)](https://dev.to/juniokoi/o-problema-do-react-para-quem-e-iniciante-p2b)
+[![Quick introduction to SSH](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Quick_introduction_to_SSH.svg)](https://dev.to/rmmgc/quick-introduction-to-ssh-3gmm)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, November 18, 2022 at 11:12:44 AM
+> Last updated: Friday, November 18, 2022 at 5:56:46 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, November 18, 2022 at 11:12:46 AM
+> Last updated: Friday, November 18, 2022 at 5:56:51 PM
 
 > Showing 5 of 30 posts.
 
