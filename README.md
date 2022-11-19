@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, November 18, 2022 at 5:56:43 PM
+> Last updated: Friday, November 18, 2022 at 11:12:13 PM
 
 > Showing 5 of 12 posts.
 
-[![#gitPanic - Documentation and Profiles](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/_gitPanic_-_Documentation_and_Profiles.svg)](https://dev.to/abbeyperini/gitpanic-documentation-and-profiles-1end)
-[![Introduction to Kotlin Flows and Channels](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Introduction_to_Kotlin_Flows_and_Channels.svg)](https://dev.to/vtsen/introduction-to-kotlin-flows-and-channels-12o9)
-[![How to Loop Through a Podcast Episode List using Async IO with Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Loop_Through_a_Podcast_Episode_List_using_Async_IO_with_Python.svg)](https://dev.to/deepgram/how-to-loop-through-a-podcast-episode-list-using-async-io-with-python-h9h)
-[![O problema do React para quem é iniciante](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/O_problema_do_React_para_quem_é_iniciante.svg)](https://dev.to/juniokoi/o-problema-do-react-para-quem-e-iniciante-p2b)
-[![Quick introduction to SSH](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Quick_introduction_to_SSH.svg)](https://dev.to/rmmgc/quick-introduction-to-ssh-3gmm)
+[![How to Test a WebSocket based Application Using the API Tester Mobile App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Test_a_WebSocket_based_Application_Using_the_API_Tester_Mobile_App.svg)](https://dev.to/myogeshchavan97/how-to-test-a-websocket-based-application-using-the-api-tester-mobile-app-ile)
+[![Ideaas: A simple platform where lazy people can share their ideas with you and you can build them.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Ideaas__A_simple_platform_where_lazy_people_can_share_their_ideas_with_you_and_you_can_build_them..svg)](https://dev.to/namanvyas/ideaas-a-simple-platform-where-lazy-people-can-share-their-ideas-with-you-and-you-can-build-them-21lf)
+[![Portswigger’s lab write up: Clickjacking with a frame buster script](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Portswigger’s_lab_write_up__Clickjacking_with_a_frame_buster_script.svg)](https://dev.to/christianpaez/portswiggers-lab-write-up-clickjacking-with-a-frame-buster-script-3eap)
+[![Render Pipelines in wgpu and Rust](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Render_Pipelines_in_wgpu_and_Rust.svg)](https://dev.to/whoisryosuke/render-pipelines-in-wgpu-and-rust-2dh3)
+[![The experiment of SPVM::Thread is started today.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_experiment_of_SPVM__Thread_is_started_today..svg)](https://dev.to/yukikimoto/the-experiment-of-spvmthread-is-started-today-5oa)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, November 18, 2022 at 5:56:46 PM
+> Last updated: Friday, November 18, 2022 at 11:12:17 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, November 18, 2022 at 5:56:51 PM
+> Last updated: Friday, November 18, 2022 at 11:12:20 PM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - sureshpandiyan1/Genie: Genie is a rule-based bot built in python. It's a helpful desktop application for everyone who wants to do simple things quickly like download a file, minify, etc.,](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_sureshpandiyan1_Genie__Genie_is_a_rule-based_bot_built_in_python._It's_a_helpful_desktop_application_for_everyone_who_wants_to_do_simple_things_quickly_like_download_a_file__minify__etc._.svg)](https://github.com/sureshpandiyan1/Genie)
 [![GitHub - pieroguerrero/auth-backend: Typescript RESTful backend application for User Authentication and Authorization. 🔒🔑📨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_pieroguerrero_auth-backend__Typescript_RESTful_backend_application_for_User_Authentication_and_Authorization._🔒🔑📨.svg)](https://github.com/pieroguerrero/auth-backend)
 [![Debugging CSS scroll using one simple style - Wisdom Geek](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Debugging_CSS_scroll_using_one_simple_style_-_Wisdom_Geek.svg)](https://www.wisdomgeek.com/development/web-development/debugging-css-scroll-using-one-simple-style/)
 [![How do Unary Plus and Unary Negation operators behave in Javascript?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_do_Unary_Plus_and_Unary_Negation_operators_behave_in_Javascript_.svg)](
 https://www.frontendroom.com/blog/how-do-unary-plus-and-unary-minus-operators-behave-in-javascript
 )
 [![Vue Js Chat Application tutorial](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Vue_Js_Chat_Application_tutorial.svg)](https://dev.to/alakkadshaw/vue-js-chat-application-tutorial-4ena)
-[![Meet a new technology to display your big data volumes instantly without any waiting time!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Meet_a_new_technology_to_display_your_big_data_volumes_instantly_without_any_waiting_time!.svg)](https://dev.to/juliianikitina/meet-a-new-technology-to-display-your-big-data-volumes-instantly-without-any-waiting-time-242k)
 
 
 <!-- post-list:end -->
