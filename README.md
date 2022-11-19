@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, November 19, 2022 at 5:17:06 AM
+> Last updated: Saturday, November 19, 2022 at 11:11:43 AM
 
 > Showing 5 of 12 posts.
 
-[![Add Umami Analytics to a Web Application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Add_Umami_Analytics_to_a_Web_Application.svg)](https://dev.to/documatic/add-umami-analytics-to-a-web-application-4h36)
-[![How I Fixed a Linux Disk Performance Issue In Minutes! - A Step by Step Guide to Optimizing Linux System](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_I_Fixed_a_Linux_Disk_Performance_Issue_In_Minutes!_-_A_Step_by_Step_Guide_to_Optimizing_Linux_System.svg)](https://dev.to/howtouselinux/how-i-fixed-a-linux-disk-performance-issue-in-minutes-a-step-by-step-guide-to-optimizing-your-system-26o9)
-[![Kyverno Policy As Code Using CDK8S](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Kyverno_Policy_As_Code_Using_CDK8S.svg)](https://dev.to/aws-builders/kyverno-policy-as-code-using-cdk8s-3ibe)
-[![In One Minute : Amazon Cognito](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/In_One_Minute___Amazon_Cognito.svg)](https://dev.to/rakeshkr2/in-one-minute-amazon-cognito-gd)
-[![Getting Started with Storybook](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Getting_Started_with_Storybook.svg)](https://dev.to/shreyvijayvargiya/getting-started-with-storybook-4d70)
+[![Good project ideas in web development for beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Good_project_ideas_in_web_development_for_beginners.svg)](https://dev.to/ridhisingla001/good-project-ideas-in-web-development-for-beginners-1h79)
+[![How to Create Dynamic Forms in React CRUD app with Ant Design](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Create_Dynamic_Forms_in_React_CRUD_app_with_Ant_Design.svg)](https://dev.to/refine/how-to-create-dynamic-forms-in-react-crud-app-with-ant-design-3imk)
+[![E-COMMERCE GROWTH AND HEADLESS COMMERCE OVERVIEW](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/E-COMMERCE_GROWTH_AND_HEADLESS_COMMERCE_OVERVIEW.svg)](https://dev.to/codewithmmak/e-commerce-growth-and-headless-commerce-overview-2jlf)
+[![A basic understanding of tiktok's recommendation system](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_basic_understanding_of_tiktok's_recommendation_system.svg)](https://dev.to/joojodontoh/a-basic-understanding-of-tiktoks-recommendation-system-35lg)
+[![PostgreSQL do different equality predicates make a difference?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/PostgreSQL_do_different_equality_predicates_make_a_difference_.svg)](https://dev.to/yugabyte/postgresql-do-different-equality-predicates-make-a-difference-1c7)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, November 19, 2022 at 5:17:10 AM
+> Last updated: Saturday, November 19, 2022 at 11:11:46 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,12 +43,12 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, November 19, 2022 at 5:17:12 AM
+> Last updated: Saturday, November 19, 2022 at 11:11:49 AM
 
 > Showing 5 of 30 posts.
 
 [![GitHub - sureshpandiyan1/Genie: Genie is a rule-based bot built in python. It's a helpful desktop application for everyone who wants to do simple things quickly like download a file, minify, etc.,](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_sureshpandiyan1_Genie__Genie_is_a_rule-based_bot_built_in_python._It's_a_helpful_desktop_application_for_everyone_who_wants_to_do_simple_things_quickly_like_download_a_file__minify__etc._.svg)](https://github.com/sureshpandiyan1/Genie)
-[![GitHub - pieroguerrero/auth-backend: Typescript RESTful backend application for User Authentication and Authorization. 🔒🔑📨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_pieroguerrero_auth-backend__Typescript_RESTful_backend_application_for_User_Authentication_and_Authorization._🔒🔑📨.svg)](https://github.com/pieroguerrero/auth-backend)
+[![GitHub - pieroguerrero/auth-backend: Typescript RESTful backend application template for User Authentication and Authorization. 🔒🔑📨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_pieroguerrero_auth-backend__Typescript_RESTful_backend_application_template_for_User_Authentication_and_Authorization._🔒🔑📨.svg)](https://github.com/pieroguerrero/auth-backend)
 [![Debugging CSS scroll using one simple style - Wisdom Geek](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Debugging_CSS_scroll_using_one_simple_style_-_Wisdom_Geek.svg)](https://www.wisdomgeek.com/development/web-development/debugging-css-scroll-using-one-simple-style/)
 [![How do Unary Plus and Unary Negation operators behave in Javascript?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_do_Unary_Plus_and_Unary_Negation_operators_behave_in_Javascript_.svg)](
 https://www.frontendroom.com/blog/how-do-unary-plus-and-unary-minus-operators-behave-in-javascript
