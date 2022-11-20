@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, November 20, 2022 at 5:17:05 AM
+> Last updated: Sunday, November 20, 2022 at 11:11:35 AM
 
 > Showing 5 of 12 posts.
 
-[![Adapter pattern in TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Adapter_pattern_in_TypeScript.svg)](https://dev.to/jmalvarez/adapter-pattern-in-typescript-2ffl)
-[![WHY IS COMPATIBILITY TESTING MUCH NEEDED FOR CUSTOMER-FOCUSED TESTING?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/WHY_IS_COMPATIBILITY_TESTING_MUCH_NEEDED_FOR_CUSTOMER-FOCUSED_TESTING_.svg)](https://dev.to/codewithmmak/why-is-compatibility-testing-much-needed-for-customer-focused-testing-2nfp)
-[![Guess the logo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Guess_the_logo.svg)](https://dev.to/rakeshkr2/guess-the-logo-3jfm)
-[![✨Today I Learned: The Subtle Art of Code Reviews 💡✨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/✨Today_I_Learned__The_Subtle_Art_of_Code_Reviews_💡✨.svg)](https://dev.to/saminarp/today-i-learned-the-subtle-art-of-code-reviews-3pef)
-[![Whatsapp BOT with nodeJs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Whatsapp_BOT_with_nodeJs.svg)](https://dev.to/pawandeore/whatsapp-bot-with-nodejs-43d4)
+[![Newbie Here...](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Newbie_Here....svg)](https://dev.to/meistens/newbie-here-319d)
+[![Implementing a feature with Vanilla JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Implementing_a_feature_with_Vanilla_JavaScript.svg)](https://dev.to/mnosov622/implementing-a-feature-with-vanilla-javascript-ook)
+[![The Queue Data Strucure and How to Implement a Queue in Ruby](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Queue_Data_Strucure_and_How_to_Implement_a_Queue_in_Ruby.svg)](https://dev.to/jaredm/the-queue-data-strucure-and-how-to-implement-a-queue-in-ruby-433)
+[![Find The Smallest Positive Integer Not Occurring In An Array - 3 Approaches](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Find_The_Smallest_Positive_Integer_Not_Occurring_In_An_Array_-_3_Approaches.svg)](https://dev.to/yuridevat/find-the-smallest-positive-integer-not-occurring-in-an-array-3-approaches-53ka)
+[![How to position a footer with Tailwindcss](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_position_a_footer_with_Tailwindcss.svg)](https://dev.to/b1st4nd3r/how-to-position-a-footer-with-tailwindcss-25fn)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, November 20, 2022 at 5:17:08 AM
+> Last updated: Sunday, November 20, 2022 at 11:11:39 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, November 20, 2022 at 5:17:12 AM
+> Last updated: Sunday, November 20, 2022 at 11:11:42 AM
 
 > Showing 5 of 30 posts.
 
