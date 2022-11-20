@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, November 19, 2022 at 11:12:21 PM
+> Last updated: Sunday, November 20, 2022 at 5:17:05 AM
 
 > Showing 5 of 12 posts.
 
-[![Compiling C/C++ on both Windows and Linux, with address sanitizer!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Compiling_C_C++_on_both_Windows_and_Linux__with_address_sanitizer!.svg)](https://dev.to/midnqp/compiling-cc-on-both-windows-and-linux-with-address-sanitizer-3ikn)
-[![Collection of Linux Resources](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Collection_of_Linux_Resources.svg)](https://dev.to/caodawei3/collection-of-linux-resources-1k73)
-[![Getting to know CSS specificity](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Getting_to_know_CSS_specificity.svg)](https://dev.to/teejay128/getting-to-know-css-specificity-4lb)
-[![Multiple developers work simultaneously using their own branch on git](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Multiple_developers_work_simultaneously_using_their_own_branch_on_git.svg)](https://dev.to/yongchanghe/multiple-developers-work-simultaneously-using-their-own-branch-on-git-4c8c)
-[![Non-coding roles or something you like?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Non-coding_roles_or_something_you_like_.svg)](https://dev.to/sandordargo/non-coding-roles-or-something-you-like-pcl)
+[![Adapter pattern in TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Adapter_pattern_in_TypeScript.svg)](https://dev.to/jmalvarez/adapter-pattern-in-typescript-2ffl)
+[![WHY IS COMPATIBILITY TESTING MUCH NEEDED FOR CUSTOMER-FOCUSED TESTING?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/WHY_IS_COMPATIBILITY_TESTING_MUCH_NEEDED_FOR_CUSTOMER-FOCUSED_TESTING_.svg)](https://dev.to/codewithmmak/why-is-compatibility-testing-much-needed-for-customer-focused-testing-2nfp)
+[![Guess the logo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Guess_the_logo.svg)](https://dev.to/rakeshkr2/guess-the-logo-3jfm)
+[![✨Today I Learned: The Subtle Art of Code Reviews 💡✨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/✨Today_I_Learned__The_Subtle_Art_of_Code_Reviews_💡✨.svg)](https://dev.to/saminarp/today-i-learned-the-subtle-art-of-code-reviews-3pef)
+[![Whatsapp BOT with nodeJs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Whatsapp_BOT_with_nodeJs.svg)](https://dev.to/pawandeore/whatsapp-bot-with-nodejs-43d4)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, November 19, 2022 at 11:12:26 PM
+> Last updated: Sunday, November 20, 2022 at 5:17:08 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, November 19, 2022 at 11:12:29 PM
+> Last updated: Sunday, November 20, 2022 at 5:17:12 AM
 
 > Showing 5 of 30 posts.
 
