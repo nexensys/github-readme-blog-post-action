@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, November 19, 2022 at 5:58:45 PM
+> Last updated: Saturday, November 19, 2022 at 11:12:21 PM
 
 > Showing 5 of 12 posts.
 
-[![Mass surveillance - Communications intelligence](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Mass_surveillance_-_Communications_intelligence.svg)](https://dev.to/vipert/mass-surveillance-communications-intelligence-3g6g)
+[![Compiling C/C++ on both Windows and Linux, with address sanitizer!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Compiling_C_C++_on_both_Windows_and_Linux__with_address_sanitizer!.svg)](https://dev.to/midnqp/compiling-cc-on-both-windows-and-linux-with-address-sanitizer-3ikn)
+[![Collection of Linux Resources](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Collection_of_Linux_Resources.svg)](https://dev.to/caodawei3/collection-of-linux-resources-1k73)
+[![Getting to know CSS specificity](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Getting_to_know_CSS_specificity.svg)](https://dev.to/teejay128/getting-to-know-css-specificity-4lb)
 [![Multiple developers work simultaneously using their own branch on git](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Multiple_developers_work_simultaneously_using_their_own_branch_on_git.svg)](https://dev.to/yongchanghe/multiple-developers-work-simultaneously-using-their-own-branch-on-git-4c8c)
-[![DPS909 Blog: Internal Code Reviews](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/DPS909_Blog__Internal_Code_Reviews.svg)](https://dev.to/alexsam29/dps909-blog-internal-code-reviews-4h1)
-[![Node.js visualized: Event Loop Phases](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Node.js_visualized__Event_Loop_Phases.svg)](https://dev.to/nodedoctors/animated-nodejs-event-loop-phases-1mcp)
-[![Code review best practices](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Code_review_best_practices.svg)](https://dev.to/mnosov622/code-review-3l14)
+[![Non-coding roles or something you like?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Non-coding_roles_or_something_you_like_.svg)](https://dev.to/sandordargo/non-coding-roles-or-something-you-like-pcl)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, November 19, 2022 at 5:58:49 PM
+> Last updated: Saturday, November 19, 2022 at 11:12:26 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, November 19, 2022 at 5:58:52 PM
+> Last updated: Saturday, November 19, 2022 at 11:12:29 PM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - nick-lai/round-decimal: Decimal rounding with ULP.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_nick-lai_round-decimal__Decimal_rounding_with_ULP..svg)](https://github.com/nick-lai/round-decimal)
 [![GitHub - victorqribeiro/customFilter: A image editor that runs in the browser](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_victorqribeiro_customFilter__A_image_editor_that_runs_in_the_browser.svg)](https://github.com/victorqribeiro/customFilter)
 [![GitHub - sureshpandiyan1/Genie: Genie is a rule-based bot built in python. It's a helpful desktop application for everyone who wants to do simple things quickly like download a file, minify, etc.,](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_sureshpandiyan1_Genie__Genie_is_a_rule-based_bot_built_in_python._It's_a_helpful_desktop_application_for_everyone_who_wants_to_do_simple_things_quickly_like_download_a_file__minify__etc._.svg)](https://github.com/sureshpandiyan1/Genie)
 [![GitHub - pieroguerrero/auth-backend: Typescript RESTful backend application template for User Authentication and Authorization. 🔒🔑📨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_pieroguerrero_auth-backend__Typescript_RESTful_backend_application_template_for_User_Authentication_and_Authorization._🔒🔑📨.svg)](https://github.com/pieroguerrero/auth-backend)
 [![Debugging CSS scroll using one simple style - Wisdom Geek](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Debugging_CSS_scroll_using_one_simple_style_-_Wisdom_Geek.svg)](https://www.wisdomgeek.com/development/web-development/debugging-css-scroll-using-one-simple-style/)
-[![How do Unary Plus and Unary Negation operators behave in Javascript?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_do_Unary_Plus_and_Unary_Negation_operators_behave_in_Javascript_.svg)](
-https://www.frontendroom.com/blog/how-do-unary-plus-and-unary-minus-operators-behave-in-javascript
-)
 
 
 <!-- post-list:end -->
