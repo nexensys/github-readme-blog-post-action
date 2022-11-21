@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, November 21, 2022 at 5:19:54 AM
+> Last updated: Monday, November 21, 2022 at 11:12:59 AM
 
 > Showing 5 of 12 posts.
 
-[![Winston Logger - Full tutorial with a sample Nodejs application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Winston_Logger_-_Full_tutorial_with_a_sample_Nodejs_application.svg)](https://dev.to/signoz/winston-logger-full-tutorial-with-a-sample-nodejs-application-2fm9)
-[![Awesome Websites for UI Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Awesome_Websites_for_UI_Components.svg)](https://dev.to/surajondev/awesome-websites-for-ui-components-2c5g)
-[![All About Shopify Analytics](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/All_About_Shopify_Analytics.svg)](https://dev.to/gloriamaldonado/all-about-shopify-analytics-3oe4)
-[![Unit testing to cleaner code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Unit_testing_to_cleaner_code.svg)](https://dev.to/hi_iam_chris/unit-testing-to-cleaner-code-20l1)
-[![Deploy and maintain Kubernetes with Kubemarine - functional overview](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Deploy_and_maintain_Kubernetes_with_Kubemarine_-_functional_overview.svg)](https://dev.to/netcracker/deploy-and-maintain-kubernetes-with-kubemarine-functional-overview-1mkm)
+[![My favorite CSS authors that must be read](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/My_favorite_CSS_authors_that_must_be_read.svg)](https://dev.to/melnik909/my-favorite-css-authors-that-must-be-read-50f5)
+[![YAML collections: Sequences and mappings](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/YAML_collections__Sequences_and_mappings.svg)](https://dev.to/this-is-learning/yaml-collections-sequences-and-mappings-4meb)
+[![What is Bootstrap? The best 2022 beginner's guide.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_Bootstrap__The_best_2022_beginner's_guide..svg)](https://dev.to/documatic/what-is-bootstrap-the-best-2022-beginners-guide-19cp)
+[![Dockerized React & Django - Free Sample Project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Dockerized_React___Django_-_Free_Sample_Project.svg)](https://dev.to/sm0ke/dockerized-react-django-free-sample-project-13la)
+[![Best Cron Alternative You're Not Using](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Best_Cron_Alternative_You're_Not_Using.svg)](https://dev.to/hackmamba/best-cron-alternative-youre-not-using-22f)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, November 21, 2022 at 5:19:58 AM
+> Last updated: Monday, November 21, 2022 at 11:13:02 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, November 21, 2022 at 5:20:03 AM
+> Last updated: Monday, November 21, 2022 at 11:13:06 AM
 
 > Showing 5 of 30 posts.
 
 [![Ant Design 5.0 is released!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Ant_Design_5.0_is_released!.svg)](https://medium.com/ant-design/ant-design-5-0-is-released-27b2552f14a3)
 [![GitHub - nick-lai/round-decimal: Decimal rounding with ULP.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_nick-lai_round-decimal__Decimal_rounding_with_ULP..svg)](https://github.com/nick-lai/round-decimal)
 [![GitHub - victorqribeiro/customFilter: A image editor that runs in the browser](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_victorqribeiro_customFilter__A_image_editor_that_runs_in_the_browser.svg)](https://github.com/victorqribeiro/customFilter)
-[![GitHub - sureshpandiyan1/Genie: Genie is a rule-based bot built in python. It's a helpful desktop application for everyone who wants to do simple things quickly like download a file, minify, etc.,](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_sureshpandiyan1_Genie__Genie_is_a_rule-based_bot_built_in_python._It's_a_helpful_desktop_application_for_everyone_who_wants_to_do_simple_things_quickly_like_download_a_file__minify__etc._.svg)](https://github.com/sureshpandiyan1/Genie)
 [![GitHub - pieroguerrero/auth-backend: Typescript RESTful backend application template for User Authentication and Authorization. 🔒🔑📨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_pieroguerrero_auth-backend__Typescript_RESTful_backend_application_template_for_User_Authentication_and_Authorization._🔒🔑📨.svg)](https://github.com/pieroguerrero/auth-backend)
+[![Debugging CSS scroll using one simple style - Wisdom Geek](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Debugging_CSS_scroll_using_one_simple_style_-_Wisdom_Geek.svg)](https://www.wisdomgeek.com/development/web-development/debugging-css-scroll-using-one-simple-style/)
 
 
 <!-- post-list:end -->
