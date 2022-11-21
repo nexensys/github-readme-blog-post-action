@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, November 20, 2022 at 11:13:55 PM
+> Last updated: Monday, November 21, 2022 at 5:19:54 AM
 
 > Showing 5 of 12 posts.
 
-[![AWS open source newsletter, #136](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/AWS_open_source_newsletter___136.svg)](https://dev.to/aws/aws-open-source-newsletter-136-1ib3)
-[![re:Invent Swag guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/re_Invent_Swag_guide.svg)](https://dev.to/aws-builders/reinvent-swag-guide-3j3p)
-[![Best Practices and AWS Tools for Cost-Effective Cloud Management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Best_Practices_and_AWS_Tools_for_Cost-Effective_Cloud_Management.svg)](https://dev.to/nishant_sharma/best-practices-and-aws-tools-for-cost-effective-cloud-management-1j)
-[![Top 10 Open-Source DevOps Tools That You Should Know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_10_Open-Source_DevOps_Tools_That_You_Should_Know.svg)](https://dev.to/danielhu/top-10-open-source-devops-tools-that-you-should-know-ndg)
-[![Writing Your First Conference Proposal](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Writing_Your_First_Conference_Proposal.svg)](https://dev.to/bekahhw/writing-your-first-conference-proposal-4jei)
+[![Winston Logger - Full tutorial with a sample Nodejs application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Winston_Logger_-_Full_tutorial_with_a_sample_Nodejs_application.svg)](https://dev.to/signoz/winston-logger-full-tutorial-with-a-sample-nodejs-application-2fm9)
+[![Awesome Websites for UI Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Awesome_Websites_for_UI_Components.svg)](https://dev.to/surajondev/awesome-websites-for-ui-components-2c5g)
+[![All About Shopify Analytics](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/All_About_Shopify_Analytics.svg)](https://dev.to/gloriamaldonado/all-about-shopify-analytics-3oe4)
+[![Unit testing to cleaner code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Unit_testing_to_cleaner_code.svg)](https://dev.to/hi_iam_chris/unit-testing-to-cleaner-code-20l1)
+[![Deploy and maintain Kubernetes with Kubemarine - functional overview](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Deploy_and_maintain_Kubernetes_with_Kubemarine_-_functional_overview.svg)](https://dev.to/netcracker/deploy-and-maintain-kubernetes-with-kubemarine-functional-overview-1mkm)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, November 20, 2022 at 11:13:59 PM
+> Last updated: Monday, November 21, 2022 at 5:19:58 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,11 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, November 20, 2022 at 11:14:03 PM
+> Last updated: Monday, November 21, 2022 at 5:20:03 AM
 
 > Showing 5 of 30 posts.
 
-[![Ant Design 5.0 is released!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Ant_Design_5.0_is_released!.svg)](https://medium.com/@1075746765/ant-design-5-0-is-released-27b2552f14a3)
+[![Ant Design 5.0 is released!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Ant_Design_5.0_is_released!.svg)](https://medium.com/ant-design/ant-design-5-0-is-released-27b2552f14a3)
 [![GitHub - nick-lai/round-decimal: Decimal rounding with ULP.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_nick-lai_round-decimal__Decimal_rounding_with_ULP..svg)](https://github.com/nick-lai/round-decimal)
 [![GitHub - victorqribeiro/customFilter: A image editor that runs in the browser](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_victorqribeiro_customFilter__A_image_editor_that_runs_in_the_browser.svg)](https://github.com/victorqribeiro/customFilter)
 [![GitHub - sureshpandiyan1/Genie: Genie is a rule-based bot built in python. It's a helpful desktop application for everyone who wants to do simple things quickly like download a file, minify, etc.,](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_sureshpandiyan1_Genie__Genie_is_a_rule-based_bot_built_in_python._It's_a_helpful_desktop_application_for_everyone_who_wants_to_do_simple_things_quickly_like_download_a_file__minify__etc._.svg)](https://github.com/sureshpandiyan1/Genie)
