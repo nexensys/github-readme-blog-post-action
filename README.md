@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, November 20, 2022 at 11:11:35 AM
+> Last updated: Sunday, November 20, 2022 at 5:56:05 PM
 
 > Showing 5 of 12 posts.
 
-[![Newbie Here...](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Newbie_Here....svg)](https://dev.to/meistens/newbie-here-319d)
-[![Implementing a feature with Vanilla JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Implementing_a_feature_with_Vanilla_JavaScript.svg)](https://dev.to/mnosov622/implementing-a-feature-with-vanilla-javascript-ook)
-[![The Queue Data Strucure and How to Implement a Queue in Ruby](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Queue_Data_Strucure_and_How_to_Implement_a_Queue_in_Ruby.svg)](https://dev.to/jaredm/the-queue-data-strucure-and-how-to-implement-a-queue-in-ruby-433)
-[![Find The Smallest Positive Integer Not Occurring In An Array - 3 Approaches](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Find_The_Smallest_Positive_Integer_Not_Occurring_In_An_Array_-_3_Approaches.svg)](https://dev.to/yuridevat/find-the-smallest-positive-integer-not-occurring-in-an-array-3-approaches-53ka)
-[![How to position a footer with Tailwindcss](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_position_a_footer_with_Tailwindcss.svg)](https://dev.to/b1st4nd3r/how-to-position-a-footer-with-tailwindcss-25fn)
+[![You don’t need 100% coverage.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/You_don’t_need_100__coverage..svg)](https://dev.to/noriller/you-dont-need-100-coverage-412p)
+[![Fun with console.log() 💿](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Fun_with_console.log()_💿.svg)](https://dev.to/lissy93/fun-with-consolelog-3i59)
+[![List, dictionary and set comprehension](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/List__dictionary_and_set_comprehension.svg)](https://dev.to/bashebr/list-dictionary-and-set-comprehension-255b)
+[![Mastodon tips](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Mastodon_tips.svg)](https://dev.to/jarvisscript/mastodon-tips-6p8)
+[![Helpers in Ruby on Rails](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Helpers_in_Ruby_on_Rails.svg)](https://dev.to/toqeer__abbas/helpers-in-ruby-on-rails-1icl)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, November 20, 2022 at 11:11:39 AM
+> Last updated: Sunday, November 20, 2022 at 5:56:09 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, November 20, 2022 at 11:11:42 AM
+> Last updated: Sunday, November 20, 2022 at 5:56:13 PM
 
 > Showing 5 of 30 posts.
 
+[![Ant Design 5.0 is released!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Ant_Design_5.0_is_released!.svg)](https://medium.com/@1075746765/ant-design-5-0-is-released-27b2552f14a3)
 [![GitHub - nick-lai/round-decimal: Decimal rounding with ULP.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_nick-lai_round-decimal__Decimal_rounding_with_ULP..svg)](https://github.com/nick-lai/round-decimal)
 [![GitHub - victorqribeiro/customFilter: A image editor that runs in the browser](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_victorqribeiro_customFilter__A_image_editor_that_runs_in_the_browser.svg)](https://github.com/victorqribeiro/customFilter)
 [![GitHub - sureshpandiyan1/Genie: Genie is a rule-based bot built in python. It's a helpful desktop application for everyone who wants to do simple things quickly like download a file, minify, etc.,](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_sureshpandiyan1_Genie__Genie_is_a_rule-based_bot_built_in_python._It's_a_helpful_desktop_application_for_everyone_who_wants_to_do_simple_things_quickly_like_download_a_file__minify__etc._.svg)](https://github.com/sureshpandiyan1/Genie)
 [![GitHub - pieroguerrero/auth-backend: Typescript RESTful backend application template for User Authentication and Authorization. 🔒🔑📨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_pieroguerrero_auth-backend__Typescript_RESTful_backend_application_template_for_User_Authentication_and_Authorization._🔒🔑📨.svg)](https://github.com/pieroguerrero/auth-backend)
-[![Debugging CSS scroll using one simple style - Wisdom Geek](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Debugging_CSS_scroll_using_one_simple_style_-_Wisdom_Geek.svg)](https://www.wisdomgeek.com/development/web-development/debugging-css-scroll-using-one-simple-style/)
 
 
 <!-- post-list:end -->
