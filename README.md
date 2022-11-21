@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, November 20, 2022 at 5:56:05 PM
+> Last updated: Sunday, November 20, 2022 at 11:13:55 PM
 
 > Showing 5 of 12 posts.
 
-[![You don’t need 100% coverage.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/You_don’t_need_100__coverage..svg)](https://dev.to/noriller/you-dont-need-100-coverage-412p)
-[![Fun with console.log() 💿](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Fun_with_console.log()_💿.svg)](https://dev.to/lissy93/fun-with-consolelog-3i59)
-[![List, dictionary and set comprehension](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/List__dictionary_and_set_comprehension.svg)](https://dev.to/bashebr/list-dictionary-and-set-comprehension-255b)
-[![Mastodon tips](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Mastodon_tips.svg)](https://dev.to/jarvisscript/mastodon-tips-6p8)
-[![Helpers in Ruby on Rails](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Helpers_in_Ruby_on_Rails.svg)](https://dev.to/toqeer__abbas/helpers-in-ruby-on-rails-1icl)
+[![AWS open source newsletter, #136](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/AWS_open_source_newsletter___136.svg)](https://dev.to/aws/aws-open-source-newsletter-136-1ib3)
+[![re:Invent Swag guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/re_Invent_Swag_guide.svg)](https://dev.to/aws-builders/reinvent-swag-guide-3j3p)
+[![Best Practices and AWS Tools for Cost-Effective Cloud Management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Best_Practices_and_AWS_Tools_for_Cost-Effective_Cloud_Management.svg)](https://dev.to/nishant_sharma/best-practices-and-aws-tools-for-cost-effective-cloud-management-1j)
+[![Top 10 Open-Source DevOps Tools That You Should Know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_10_Open-Source_DevOps_Tools_That_You_Should_Know.svg)](https://dev.to/danielhu/top-10-open-source-devops-tools-that-you-should-know-ndg)
+[![Writing Your First Conference Proposal](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Writing_Your_First_Conference_Proposal.svg)](https://dev.to/bekahhw/writing-your-first-conference-proposal-4jei)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, November 20, 2022 at 5:56:09 PM
+> Last updated: Sunday, November 20, 2022 at 11:13:59 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, November 20, 2022 at 5:56:13 PM
+> Last updated: Sunday, November 20, 2022 at 11:14:03 PM
 
 > Showing 5 of 30 posts.
 
