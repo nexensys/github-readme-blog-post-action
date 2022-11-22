@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, November 21, 2022 at 11:13:20 PM
+> Last updated: Tuesday, November 22, 2022 at 5:20:40 AM
 
 > Showing 5 of 12 posts.
 
-[![The Future Of Software Engineering: Is Low-Code The Answer? [Infographic]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Future_Of_Software_Engineering__Is_Low-Code_The_Answer__[Infographic].svg)](https://dev.to/domfive/the-future-of-software-engineering-is-low-code-the-answer-infographic-207a)
-[![Q. What is JavaScript/Socket.io, node.js for Perl?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Q._What_is_JavaScript_Socket.io__node.js_for_Perl_.svg)](https://dev.to/yukikimoto/q-what-is-javascriptsocketio-nodejs-for-perl-36o4)
-[![Improve Your Git Commit Message Like a Pro](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Improve_Your_Git_Commit_Message_Like_a_Pro.svg)](https://dev.to/rifkiandriyanto/improve-your-git-commit-message-like-a-pro-1mk4)
-[![How to become a DevOps/Cloud Engineer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_become_a_DevOps_Cloud_Engineer.svg)](https://dev.to/johnnweke/how-to-become-a-devopscloud-engineer-1m)
-[![SPVM::IO::Socket::INET is available in experimental status.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/SPVM__IO__Socket__INET_is_available_in_experimental_status..svg)](https://dev.to/yukikimoto/spvmiosocketinet-is-available-in-experimental-status-4ejl)
+[![Why you should come to the brighter front end](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Why_you_should_come_to_the_brighter_front_end.svg)](https://dev.to/zenstack/why-you-should-come-to-the-brighter-front-end-mm0)
+[![Error Handling With try, catch and finally Blocks in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Error_Handling_With_try__catch_and_finally_Blocks_in_JavaScript.svg)](https://dev.to/refine/error-handling-with-try-catch-and-finally-blocks-in-javascript-35gm)
+[![A responsive striped CSS gradient inspired by 80s VHS tapes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_responsive_striped_CSS_gradient_inspired_by_80s_VHS_tapes.svg)](https://dev.to/whitep4nth3r/a-responsive-striped-css-pattern-inspired-by-80s-vhs-tapes-k02)
+[![Blockchain ? Bitcoin-Ethereum ? Why should one care ? 🤔](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Blockchain___Bitcoin-Ethereum___Why_should_one_care___🤔.svg)](https://dev.to/siddharthsing/blockchain-bitcoin-ethereum-why-should-one-care--1naa)
+[![Redesigning India’s most-used website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Redesigning_India’s_most-used_website.svg)](https://dev.to/shreyvijayvargiya/redesigning-indias-most-used-website-5053)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, November 21, 2022 at 11:13:23 PM
+> Last updated: Tuesday, November 22, 2022 at 5:20:43 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, November 21, 2022 at 11:13:29 PM
+> Last updated: Tuesday, November 22, 2022 at 5:20:48 AM
 
 > Showing 5 of 30 posts.
 
+[![Style your SolidJS website faster with StylifyCSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Style_your_SolidJS_website_faster_with_StylifyCSS.svg)](https://dev.to/machy8/style-your-solidjs-website-faster-with-stylifycss-9oj)
+[![GitHub - blacksmithop/NameDisambiguation: Name disambiguation made easy](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_blacksmithop_NameDisambiguation__Name_disambiguation_made_easy.svg)](https://github.com/blacksmithop/NameDisambiguation)
 [![API with NestJS #84. Implementing filtering using subqueries with raw SQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__84._Implementing_filtering_using_subqueries_with_raw_SQL.svg)](https://wanago.io/2022/11/21/api-nestjs-filtering-subqueries-sql/)
 [![Ant Design 5.0 is released!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Ant_Design_5.0_is_released!.svg)](https://medium.com/ant-design/ant-design-5-0-is-released-27b2552f14a3)
 [![GitHub - nick-lai/round-decimal: Decimal rounding with ULP.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_nick-lai_round-decimal__Decimal_rounding_with_ULP..svg)](https://github.com/nick-lai/round-decimal)
-[![GitHub - victorqribeiro/customFilter: A image editor that runs in the browser](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_victorqribeiro_customFilter__A_image_editor_that_runs_in_the_browser.svg)](https://github.com/victorqribeiro/customFilter)
-[![GitHub - pieroguerrero/auth-backend: Typescript RESTful backend application template for User Authentication and Authorization. 🔒🔑📨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_pieroguerrero_auth-backend__Typescript_RESTful_backend_application_template_for_User_Authentication_and_Authorization._🔒🔑📨.svg)](https://github.com/pieroguerrero/auth-backend)
 
 
 <!-- post-list:end -->
