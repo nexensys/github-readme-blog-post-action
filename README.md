@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, November 22, 2022 at 5:20:40 AM
+> Last updated: Tuesday, November 22, 2022 at 11:12:39 AM
 
 > Showing 5 of 12 posts.
 
-[![Why you should come to the brighter front end](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Why_you_should_come_to_the_brighter_front_end.svg)](https://dev.to/zenstack/why-you-should-come-to-the-brighter-front-end-mm0)
-[![Error Handling With try, catch and finally Blocks in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Error_Handling_With_try__catch_and_finally_Blocks_in_JavaScript.svg)](https://dev.to/refine/error-handling-with-try-catch-and-finally-blocks-in-javascript-35gm)
-[![A responsive striped CSS gradient inspired by 80s VHS tapes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_responsive_striped_CSS_gradient_inspired_by_80s_VHS_tapes.svg)](https://dev.to/whitep4nth3r/a-responsive-striped-css-pattern-inspired-by-80s-vhs-tapes-k02)
-[![Blockchain ? Bitcoin-Ethereum ? Why should one care ? 🤔](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Blockchain___Bitcoin-Ethereum___Why_should_one_care___🤔.svg)](https://dev.to/siddharthsing/blockchain-bitcoin-ethereum-why-should-one-care--1naa)
-[![Redesigning India’s most-used website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Redesigning_India’s_most-used_website.svg)](https://dev.to/shreyvijayvargiya/redesigning-indias-most-used-website-5053)
+[![Jest, Vitest, and WebComponents](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Jest__Vitest__and_WebComponents.svg)](https://dev.to/konnorrogers/jest-vitest-and-webcomponents-19lk)
+[![BlackBox — VSCode extension that turns your question into real code.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/BlackBox_—_VSCode_extension_that_turns_your_question_into_real_code..svg)](https://dev.to/majdsufian/blackbox-vscode-extension-that-turns-your-question-into-real-code-30f0)
+[![One Tool to view your Json better 👨‍💻](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/One_Tool_to_view_your_Json_better_👨‍💻.svg)](https://dev.to/majdsufian/one-tool-to-view-your-json-better-45km)
+[![One tool can save time when googling ⏲](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/One_tool_can_save_time_when_googling_⏲.svg)](https://dev.to/majdsufian/one-tool-can-save-time-when-googling-5bnm)
+[![No architecture is better than bad architecture](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/No_architecture_is_better_than_bad_architecture.svg)](https://dev.to/kirillrogovoy/no-architecture-is-better-than-bad-architecture-nho)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, November 22, 2022 at 5:20:43 AM
+> Last updated: Tuesday, November 22, 2022 at 11:12:42 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,12 +43,12 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, November 22, 2022 at 5:20:48 AM
+> Last updated: Tuesday, November 22, 2022 at 11:12:49 AM
 
 > Showing 5 of 30 posts.
 
+[![GraphQL federation with Hasura GraphQL Engine - Cube Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GraphQL_federation_with_Hasura_GraphQL_Engine_-_Cube_Blog.svg)](https://cube.dev/blog/graphql-federation-with-hasura-graphql-engine)
 [![Style your SolidJS website faster with StylifyCSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Style_your_SolidJS_website_faster_with_StylifyCSS.svg)](https://dev.to/machy8/style-your-solidjs-website-faster-with-stylifycss-9oj)
-[![GitHub - blacksmithop/NameDisambiguation: Name disambiguation made easy](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_blacksmithop_NameDisambiguation__Name_disambiguation_made_easy.svg)](https://github.com/blacksmithop/NameDisambiguation)
 [![API with NestJS #84. Implementing filtering using subqueries with raw SQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__84._Implementing_filtering_using_subqueries_with_raw_SQL.svg)](https://wanago.io/2022/11/21/api-nestjs-filtering-subqueries-sql/)
 [![Ant Design 5.0 is released!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Ant_Design_5.0_is_released!.svg)](https://medium.com/ant-design/ant-design-5-0-is-released-27b2552f14a3)
 [![GitHub - nick-lai/round-decimal: Decimal rounding with ULP.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_nick-lai_round-decimal__Decimal_rounding_with_ULP..svg)](https://github.com/nick-lai/round-decimal)
