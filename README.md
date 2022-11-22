@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, November 21, 2022 at 11:12:59 AM
+> Last updated: Monday, November 21, 2022 at 5:56:51 PM
 
 > Showing 5 of 12 posts.
 
-[![My favorite CSS authors that must be read](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/My_favorite_CSS_authors_that_must_be_read.svg)](https://dev.to/melnik909/my-favorite-css-authors-that-must-be-read-50f5)
-[![YAML collections: Sequences and mappings](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/YAML_collections__Sequences_and_mappings.svg)](https://dev.to/this-is-learning/yaml-collections-sequences-and-mappings-4meb)
-[![What is Bootstrap? The best 2022 beginner's guide.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_Bootstrap__The_best_2022_beginner's_guide..svg)](https://dev.to/documatic/what-is-bootstrap-the-best-2022-beginners-guide-19cp)
-[![Dockerized React & Django - Free Sample Project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Dockerized_React___Django_-_Free_Sample_Project.svg)](https://dev.to/sm0ke/dockerized-react-django-free-sample-project-13la)
-[![Best Cron Alternative You're Not Using](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Best_Cron_Alternative_You're_Not_Using.svg)](https://dev.to/hackmamba/best-cron-alternative-youre-not-using-22f)
+[![The easiest solution to code review bottlenecks? Estimated review time on pull requests](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_easiest_solution_to_code_review_bottlenecks__Estimated_review_time_on_pull_requests.svg)](https://dev.to/linearb/the-easiest-solution-to-code-review-bottlenecks-estimated-review-time-on-pull-requests-4m1e)
+[![Looking for a TinaCMS or Tina Cloud alternative?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Looking_for_a_TinaCMS_or_Tina_Cloud_alternative_.svg)](https://dev.to/cloudcannon/looking-for-a-tinacms-or-tina-cloud-alternative-1en8)
+[![schema-org-java: Java library for working with Schema.org data in JSON-LD format](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/schema-org-java__Java_library_for_working_with_Schema.org_data_in_JSON-LD_format.svg)](https://dev.to/kobee1203/schema-org-java-java-library-for-working-with-schemaorg-data-in-json-ld-format-5dg3)
+[![How to animate background image in react native](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_animate_background_image_in_react_native.svg)](https://dev.to/aj019/how-to-animate-background-image-in-react-native-1k37)
+[![But it works on MY machine! Debugging GitHub Workflows with VS Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/But_it_works_on_MY_machine!_Debugging_GitHub_Workflows_with_VS_Code.svg)](https://dev.to/sourishkrout/but-it-works-on-my-machine-debugging-github-workflows-with-vs-code-lok)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, November 21, 2022 at 11:13:02 AM
+> Last updated: Monday, November 21, 2022 at 5:56:55 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, November 21, 2022 at 11:13:06 AM
+> Last updated: Monday, November 21, 2022 at 5:57:03 PM
 
 > Showing 5 of 30 posts.
 
+[![API with NestJS #84. Implementing filtering using subqueries with raw SQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__84._Implementing_filtering_using_subqueries_with_raw_SQL.svg)](https://wanago.io/2022/11/21/api-nestjs-filtering-subqueries-sql/)
 [![Ant Design 5.0 is released!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Ant_Design_5.0_is_released!.svg)](https://medium.com/ant-design/ant-design-5-0-is-released-27b2552f14a3)
 [![GitHub - nick-lai/round-decimal: Decimal rounding with ULP.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_nick-lai_round-decimal__Decimal_rounding_with_ULP..svg)](https://github.com/nick-lai/round-decimal)
 [![GitHub - victorqribeiro/customFilter: A image editor that runs in the browser](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_victorqribeiro_customFilter__A_image_editor_that_runs_in_the_browser.svg)](https://github.com/victorqribeiro/customFilter)
 [![GitHub - pieroguerrero/auth-backend: Typescript RESTful backend application template for User Authentication and Authorization. 🔒🔑📨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_pieroguerrero_auth-backend__Typescript_RESTful_backend_application_template_for_User_Authentication_and_Authorization._🔒🔑📨.svg)](https://github.com/pieroguerrero/auth-backend)
-[![Debugging CSS scroll using one simple style - Wisdom Geek](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Debugging_CSS_scroll_using_one_simple_style_-_Wisdom_Geek.svg)](https://www.wisdomgeek.com/development/web-development/debugging-css-scroll-using-one-simple-style/)
 
 
 <!-- post-list:end -->
