@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, November 21, 2022 at 5:56:51 PM
+> Last updated: Monday, November 21, 2022 at 11:13:20 PM
 
 > Showing 5 of 12 posts.
 
-[![The easiest solution to code review bottlenecks? Estimated review time on pull requests](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_easiest_solution_to_code_review_bottlenecks__Estimated_review_time_on_pull_requests.svg)](https://dev.to/linearb/the-easiest-solution-to-code-review-bottlenecks-estimated-review-time-on-pull-requests-4m1e)
-[![Looking for a TinaCMS or Tina Cloud alternative?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Looking_for_a_TinaCMS_or_Tina_Cloud_alternative_.svg)](https://dev.to/cloudcannon/looking-for-a-tinacms-or-tina-cloud-alternative-1en8)
-[![schema-org-java: Java library for working with Schema.org data in JSON-LD format](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/schema-org-java__Java_library_for_working_with_Schema.org_data_in_JSON-LD_format.svg)](https://dev.to/kobee1203/schema-org-java-java-library-for-working-with-schemaorg-data-in-json-ld-format-5dg3)
-[![How to animate background image in react native](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_animate_background_image_in_react_native.svg)](https://dev.to/aj019/how-to-animate-background-image-in-react-native-1k37)
-[![But it works on MY machine! Debugging GitHub Workflows with VS Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/But_it_works_on_MY_machine!_Debugging_GitHub_Workflows_with_VS_Code.svg)](https://dev.to/sourishkrout/but-it-works-on-my-machine-debugging-github-workflows-with-vs-code-lok)
+[![The Future Of Software Engineering: Is Low-Code The Answer? [Infographic]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Future_Of_Software_Engineering__Is_Low-Code_The_Answer__[Infographic].svg)](https://dev.to/domfive/the-future-of-software-engineering-is-low-code-the-answer-infographic-207a)
+[![Q. What is JavaScript/Socket.io, node.js for Perl?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Q._What_is_JavaScript_Socket.io__node.js_for_Perl_.svg)](https://dev.to/yukikimoto/q-what-is-javascriptsocketio-nodejs-for-perl-36o4)
+[![Improve Your Git Commit Message Like a Pro](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Improve_Your_Git_Commit_Message_Like_a_Pro.svg)](https://dev.to/rifkiandriyanto/improve-your-git-commit-message-like-a-pro-1mk4)
+[![How to become a DevOps/Cloud Engineer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_become_a_DevOps_Cloud_Engineer.svg)](https://dev.to/johnnweke/how-to-become-a-devopscloud-engineer-1m)
+[![SPVM::IO::Socket::INET is available in experimental status.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/SPVM__IO__Socket__INET_is_available_in_experimental_status..svg)](https://dev.to/yukikimoto/spvmiosocketinet-is-available-in-experimental-status-4ejl)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, November 21, 2022 at 5:56:55 PM
+> Last updated: Monday, November 21, 2022 at 11:13:23 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, November 21, 2022 at 5:57:03 PM
+> Last updated: Monday, November 21, 2022 at 11:13:29 PM
 
 > Showing 5 of 30 posts.
 
