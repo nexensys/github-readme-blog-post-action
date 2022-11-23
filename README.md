@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, November 22, 2022 at 11:12:18 PM
+> Last updated: Wednesday, November 23, 2022 at 5:19:00 AM
 
 > Showing 5 of 12 posts.
 
-[![Announcing Launch of A Full Stack Course With Bonus Content](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Announcing_Launch_of_A_Full_Stack_Course_With_Bonus_Content.svg)](https://dev.to/myogeshchavan97/announcing-launch-of-a-full-stack-course-with-bonus-content-2c70)
-[![5 React Native UI/UX Tips and Tricks you must follow!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_React_Native_UI_UX_Tips_and_Tricks_you_must_follow!.svg)](https://dev.to/ruship001/5-react-native-uiux-tips-and-tricks-you-must-follow-28ai)
-[![What's new in SeaORM 0.10.x](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What's_new_in_SeaORM_0.10.x.svg)](https://dev.to/seaql/whats-new-in-seaorm-010x-cbd)
-[![Continuous Integration and Deployment on AWS - and a wishlist for CI/CD Tools on AWS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Continuous_Integration_and_Deployment_on_AWS_-_and_a_wishlist_for_CI_CD_Tools_on_AWS.svg)](https://dev.to/aws-builders/continuous-integration-and-deployment-on-aws-and-a-wishlist-for-cicd-tools-on-aws-5a13)
-[![Another contribution to Fig Autocomplete](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Another_contribution_to_Fig_Autocomplete.svg)](https://dev.to/tdaw/another-contribution-to-figautocomplete-9kg)
+[![Alpha Testing Program: post-mortem](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Alpha_Testing_Program__post-mortem.svg)](https://dev.to/wasp/alpha-testing-program-post-mortem-18hl)
+[![Introduction to Machine Learning](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Introduction_to_Machine_Learning.svg)](https://dev.to/debjotyms/intro-to-machine-learning-3bmb)
+[![Building Home Provider Application with Xata, Cloudinary, and NextJs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Building_Home_Provider_Application_with_Xata__Cloudinary__and_NextJs.svg)](https://dev.to/hackmamba/building-home-provider-application-with-xata-cloudinary-and-nextjs-48kk)
+[![Build a Jamstack Blog with Xata and Cloudinary](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_a_Jamstack_Blog_with_Xata_and_Cloudinary.svg)](https://dev.to/hackmamba/build-a-jamstack-blog-with-xata-and-cloudinary-655)
+[![CSS :is(),:where(),:has() and :not()](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/CSS__is()__where()__has()_and__not().svg)](https://dev.to/shubhamtiwari909/css-iswherehas-and-not-2afd)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, November 22, 2022 at 11:12:22 PM
+> Last updated: Wednesday, November 23, 2022 at 5:19:03 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, November 22, 2022 at 11:12:28 PM
+> Last updated: Wednesday, November 23, 2022 at 5:19:07 AM
 
 > Showing 5 of 30 posts.
 
