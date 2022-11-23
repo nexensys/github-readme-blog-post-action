@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, November 23, 2022 at 5:19:00 AM
+> Last updated: Wednesday, November 23, 2022 at 11:11:36 AM
 
 > Showing 5 of 12 posts.
 
-[![Alpha Testing Program: post-mortem](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Alpha_Testing_Program__post-mortem.svg)](https://dev.to/wasp/alpha-testing-program-post-mortem-18hl)
-[![Introduction to Machine Learning](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Introduction_to_Machine_Learning.svg)](https://dev.to/debjotyms/intro-to-machine-learning-3bmb)
-[![Building Home Provider Application with Xata, Cloudinary, and NextJs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Building_Home_Provider_Application_with_Xata__Cloudinary__and_NextJs.svg)](https://dev.to/hackmamba/building-home-provider-application-with-xata-cloudinary-and-nextjs-48kk)
-[![Build a Jamstack Blog with Xata and Cloudinary](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_a_Jamstack_Blog_with_Xata_and_Cloudinary.svg)](https://dev.to/hackmamba/build-a-jamstack-blog-with-xata-and-cloudinary-655)
-[![CSS :is(),:where(),:has() and :not()](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/CSS__is()__where()__has()_and__not().svg)](https://dev.to/shubhamtiwari909/css-iswherehas-and-not-2afd)
+[![Importance of hierarchy on website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Importance_of_hierarchy_on_website.svg)](https://dev.to/mnosov622/importance-of-hierarchy-on-website-38c0)
+[![Tier v0.5.2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Tier_v0.5.2.svg)](https://dev.to/tier/tier-v052-2o61)
+[![How to build the most beautiful Todolist with React Native and Socket.io 🎉](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_build_the_most_beautiful_Todolist_with_React_Native_and_Socket.io_🎉.svg)](https://dev.to/novu/how-to-build-the-most-beautiful-todolist-with-react-native-and-socketio-df5)
+[![A poor man's API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_poor_man's_API.svg)](https://dev.to/apisix/a-poor-mans-api-533m)
+[![Perl Dancer #2: Install Perl on Linux and Mac OSX](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Perl_Dancer__2__Install_Perl_on_Linux_and_Mac_OSX.svg)](https://dev.to/szabgab/perl-dancer-2-install-perl-on-linux-and-mac-osx-268k)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, November 23, 2022 at 5:19:03 AM
+> Last updated: Wednesday, November 23, 2022 at 11:11:45 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, November 23, 2022 at 5:19:07 AM
+> Last updated: Wednesday, November 23, 2022 at 11:11:51 AM
 
 > Showing 5 of 30 posts.
 
+[![Skip an Index in JavaScript Array map()](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Skip_an_Index_in_JavaScript_Array_map().svg)](
+https://masteringjs.io/tutorials/fundamentals/map-skip-index
+)
 [![GraphQL federation with Hasura GraphQL Engine - Cube Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GraphQL_federation_with_Hasura_GraphQL_Engine_-_Cube_Blog.svg)](https://cube.dev/blog/graphql-federation-with-hasura-graphql-engine)
 [![Style your SolidJS website faster with StylifyCSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Style_your_SolidJS_website_faster_with_StylifyCSS.svg)](https://dev.to/machy8/style-your-solidjs-website-faster-with-stylifycss-9oj)
 [![API with NestJS #84. Implementing filtering using subqueries with raw SQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__84._Implementing_filtering_using_subqueries_with_raw_SQL.svg)](https://wanago.io/2022/11/21/api-nestjs-filtering-subqueries-sql/)
 [![Ant Design 5.0 is released!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Ant_Design_5.0_is_released!.svg)](https://medium.com/ant-design/ant-design-5-0-is-released-27b2552f14a3)
-[![GitHub - nick-lai/round-decimal: Decimal rounding with ULP.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_nick-lai_round-decimal__Decimal_rounding_with_ULP..svg)](https://github.com/nick-lai/round-decimal)
 
 
 <!-- post-list:end -->
