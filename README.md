@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, November 22, 2022 at 5:49:39 PM
+> Last updated: Tuesday, November 22, 2022 at 11:12:18 PM
 
 > Showing 5 of 12 posts.
 
+[![Announcing Launch of A Full Stack Course With Bonus Content](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Announcing_Launch_of_A_Full_Stack_Course_With_Bonus_Content.svg)](https://dev.to/myogeshchavan97/announcing-launch-of-a-full-stack-course-with-bonus-content-2c70)
+[![5 React Native UI/UX Tips and Tricks you must follow!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_React_Native_UI_UX_Tips_and_Tricks_you_must_follow!.svg)](https://dev.to/ruship001/5-react-native-uiux-tips-and-tricks-you-must-follow-28ai)
+[![What's new in SeaORM 0.10.x](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What's_new_in_SeaORM_0.10.x.svg)](https://dev.to/seaql/whats-new-in-seaorm-010x-cbd)
+[![Continuous Integration and Deployment on AWS - and a wishlist for CI/CD Tools on AWS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Continuous_Integration_and_Deployment_on_AWS_-_and_a_wishlist_for_CI_CD_Tools_on_AWS.svg)](https://dev.to/aws-builders/continuous-integration-and-deployment-on-aws-and-a-wishlist-for-cicd-tools-on-aws-5a13)
 [![Another contribution to Fig Autocomplete](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Another_contribution_to_Fig_Autocomplete.svg)](https://dev.to/tdaw/another-contribution-to-figautocomplete-9kg)
-[![How to add absolute paths to your TypeScript Project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_add_absolute_paths_to_your_TypeScript_Project.svg)](https://dev.to/seanyasno/how-to-add-absolute-paths-to-your-typescript-project-b62)
-[![What's so cool about Fig Autocomplete? 💭](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What's_so_cool_about_Fig_Autocomplete__💭.svg)](https://dev.to/saminarp/whats-so-cool-about-fig-autocomplete-2j1f)
-[![#gitPanic - Removing and Restoring Work](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/_gitPanic_-_Removing_and_Restoring_Work.svg)](https://dev.to/abbeyperini/gitpanic-removing-and-restoring-work-ioi)
-[![RUST: How to test println!() ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/RUST__How_to_test_println!()__.svg)](https://dev.to/maxday/rust-how-to-test-println--1bd8)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, November 22, 2022 at 5:49:42 PM
+> Last updated: Tuesday, November 22, 2022 at 11:12:22 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, November 22, 2022 at 5:49:49 PM
+> Last updated: Tuesday, November 22, 2022 at 11:12:28 PM
 
 > Showing 5 of 30 posts.
 
