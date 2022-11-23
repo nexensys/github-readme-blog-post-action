@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, November 22, 2022 at 11:12:39 AM
+> Last updated: Tuesday, November 22, 2022 at 5:49:39 PM
 
 > Showing 5 of 12 posts.
 
-[![Jest, Vitest, and WebComponents](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Jest__Vitest__and_WebComponents.svg)](https://dev.to/konnorrogers/jest-vitest-and-webcomponents-19lk)
-[![BlackBox — VSCode extension that turns your question into real code.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/BlackBox_—_VSCode_extension_that_turns_your_question_into_real_code..svg)](https://dev.to/majdsufian/blackbox-vscode-extension-that-turns-your-question-into-real-code-30f0)
-[![One Tool to view your Json better 👨‍💻](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/One_Tool_to_view_your_Json_better_👨‍💻.svg)](https://dev.to/majdsufian/one-tool-to-view-your-json-better-45km)
-[![One tool can save time when googling ⏲](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/One_tool_can_save_time_when_googling_⏲.svg)](https://dev.to/majdsufian/one-tool-can-save-time-when-googling-5bnm)
-[![No architecture is better than bad architecture](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/No_architecture_is_better_than_bad_architecture.svg)](https://dev.to/kirillrogovoy/no-architecture-is-better-than-bad-architecture-nho)
+[![Another contribution to Fig Autocomplete](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Another_contribution_to_Fig_Autocomplete.svg)](https://dev.to/tdaw/another-contribution-to-figautocomplete-9kg)
+[![How to add absolute paths to your TypeScript Project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_add_absolute_paths_to_your_TypeScript_Project.svg)](https://dev.to/seanyasno/how-to-add-absolute-paths-to-your-typescript-project-b62)
+[![What's so cool about Fig Autocomplete? 💭](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What's_so_cool_about_Fig_Autocomplete__💭.svg)](https://dev.to/saminarp/whats-so-cool-about-fig-autocomplete-2j1f)
+[![#gitPanic - Removing and Restoring Work](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/_gitPanic_-_Removing_and_Restoring_Work.svg)](https://dev.to/abbeyperini/gitpanic-removing-and-restoring-work-ioi)
+[![RUST: How to test println!() ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/RUST__How_to_test_println!()__.svg)](https://dev.to/maxday/rust-how-to-test-println--1bd8)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, November 22, 2022 at 11:12:42 AM
+> Last updated: Tuesday, November 22, 2022 at 5:49:42 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, November 22, 2022 at 11:12:49 AM
+> Last updated: Tuesday, November 22, 2022 at 5:49:49 PM
 
 > Showing 5 of 30 posts.
 
