@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, November 24, 2022 at 5:19:31 AM
+> Last updated: Thursday, November 24, 2022 at 11:12:00 AM
 
 > Showing 5 of 12 posts.
 
-[![Building an In-App Bell Notification in React using Novu](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Building_an_In-App_Bell_Notification_in_React_using_Novu.svg)](https://dev.to/documatic/building-in-app-bell-notification-in-react-using-novu-325o)
-[![Build Your Own PHP Framework Step By Step - Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_Your_Own_PHP_Framework_Step_By_Step_-_Part_1.svg)](https://dev.to/robbiecahill/build-your-own-php-framework-step-by-step-part-1-k32)
-[![How to manage versions using update-alternatives](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_manage_versions_using_update-alternatives.svg)](https://dev.to/webduvet/how-to-manage-versions-using-update-alternatives-258e)
-[![How to trigger an email on database update in Flutter with SendGrid](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_trigger_an_email_on_database_update_in_Flutter_with_SendGrid.svg)](https://dev.to/hackmamba/how-to-trigger-an-email-on-database-update-in-flutter-with-sendgrid-3pc3)
-[![Meet the Microsoft Graph Product Group Leaders 28th November 3PM GMT](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Meet_the_Microsoft_Graph_Product_Group_Leaders_28th_November_3PM_GMT.svg)](https://dev.to/azure/meet-the-microsoft-graph-product-group-leaders-28th-november-3pm-gmt-4f20)
+[![Fine-Grained Access Control: Where RBAC falls short](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Fine-Grained_Access_Control__Where_RBAC_falls_short.svg)](https://dev.to/egeaytin/fine-grained-access-control-where-rbac-falls-short-37hp)
+[![Big Thanks to All Our Mods! 🙌](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Big_Thanks_to_All_Our_Mods!_🙌.svg)](https://dev.to/devteam/big-thanks-to-all-our-mods-4jl)
+[![Achieving end-to-end type safety in a modern JS GraphQL stack](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Achieving_end-to-end_type_safety_in_a_modern_JS_GraphQL_stack.svg)](https://dev.to/escape/achieving-end-to-end-type-safety-in-a-modern-js-graphql-stack-a6p)
+[![What is new in Java 20?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_new_in_Java_20_.svg)](https://dev.to/symflower/what-is-new-in-java-20-21gh)
+[![6 ways to find projects in Open Source](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/6_ways_to_find_projects_in_Open_Source.svg)](https://dev.to/pradumnasaraf/6-ways-to-find-projects-in-open-source-2kie)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, November 24, 2022 at 5:19:34 AM
+> Last updated: Thursday, November 24, 2022 at 11:12:03 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, November 24, 2022 at 5:19:39 AM
+> Last updated: Thursday, November 24, 2022 at 11:12:05 AM
 
 > Showing 5 of 30 posts.
 
+[![Import SVGs as React Components | How to code Tutorial](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Import_SVGs_as_React_Components___How_to_code_Tutorial.svg)](https://www.youtube.com/watch?v=KOo8UuoY33I)
+[![React Native in 2022 and Beyond - Semaphore](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_Native_in_2022_and_Beyond_-_Semaphore.svg)](https://semaphoreci.com/blog/react-native)
 [![Jest VSCode Extension | How to code Tutorial](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Jest_VSCode_Extension___How_to_code_Tutorial.svg)](https://www.youtube.com/watch?v=zWYmDO5UzWQ)
 [![Skip an Index in JavaScript Array map()](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Skip_an_Index_in_JavaScript_Array_map().svg)](
 https://masteringjs.io/tutorials/fundamentals/map-skip-index
 )
 [![GraphQL federation with Hasura GraphQL Engine - Cube Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GraphQL_federation_with_Hasura_GraphQL_Engine_-_Cube_Blog.svg)](https://cube.dev/blog/graphql-federation-with-hasura-graphql-engine)
-[![Style your SolidJS website faster with StylifyCSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Style_your_SolidJS_website_faster_with_StylifyCSS.svg)](https://dev.to/machy8/style-your-solidjs-website-faster-with-stylifycss-9oj)
-[![API with NestJS #84. Implementing filtering using subqueries with raw SQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__84._Implementing_filtering_using_subqueries_with_raw_SQL.svg)](https://wanago.io/2022/11/21/api-nestjs-filtering-subqueries-sql/)
 
 
 <!-- post-list:end -->
