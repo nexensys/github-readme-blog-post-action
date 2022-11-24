@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, November 23, 2022 at 11:12:11 PM
+> Last updated: Thursday, November 24, 2022 at 5:19:31 AM
 
 > Showing 5 of 12 posts.
 
-[![MongoDB 2022 Hackathon submission - Introducing Indian dishes catalog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/MongoDB_2022_Hackathon_submission_-_Introducing_Indian_dishes_catalog.svg)](https://dev.to/sachinchaurasiya/mongodb-2022-hackathon-submission-introducing-indian-dishes-catalog-1coa)
-[![School Management System - The best partner for seamless school management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/School_Management_System_-_The_best_partner_for_seamless_school_management.svg)](https://dev.to/anirudhro/school-management-system-the-best-partner-for-seamless-school-management-iji)
-[![How to make a Docker build image for the Python flavor of AWS CDK, for people who don't like NPM](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_make_a_Docker_build_image_for_the_Python_flavor_of_AWS_CDK__for_people_who_don't_like_NPM.svg)](https://dev.to/aws-builders/how-to-make-a-docker-build-image-for-the-python-flavor-of-aws-cdk-for-people-who-dont-like-npm-4nfk)
-[![Code is important, but you should also focus on the cohesion of the codebase.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Code_is_important__but_you_should_also_focus_on_the_cohesion_of_the_codebase..svg)](https://dev.to/hurricaneinteractive/module-driven-development-30mn)
-[![Git tutorial - the basics](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Git_tutorial_-_the_basics.svg)](https://dev.to/bitethecode/git-tutorial-the-basics-2d2d)
+[![Building an In-App Bell Notification in React using Novu](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Building_an_In-App_Bell_Notification_in_React_using_Novu.svg)](https://dev.to/documatic/building-in-app-bell-notification-in-react-using-novu-325o)
+[![Build Your Own PHP Framework Step By Step - Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_Your_Own_PHP_Framework_Step_By_Step_-_Part_1.svg)](https://dev.to/robbiecahill/build-your-own-php-framework-step-by-step-part-1-k32)
+[![How to manage versions using update-alternatives](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_manage_versions_using_update-alternatives.svg)](https://dev.to/webduvet/how-to-manage-versions-using-update-alternatives-258e)
+[![How to trigger an email on database update in Flutter with SendGrid](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_trigger_an_email_on_database_update_in_Flutter_with_SendGrid.svg)](https://dev.to/hackmamba/how-to-trigger-an-email-on-database-update-in-flutter-with-sendgrid-3pc3)
+[![Meet the Microsoft Graph Product Group Leaders 28th November 3PM GMT](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Meet_the_Microsoft_Graph_Product_Group_Leaders_28th_November_3PM_GMT.svg)](https://dev.to/azure/meet-the-microsoft-graph-product-group-leaders-28th-november-3pm-gmt-4f20)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, November 23, 2022 at 11:12:14 PM
+> Last updated: Thursday, November 24, 2022 at 5:19:34 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, November 23, 2022 at 11:12:19 PM
+> Last updated: Thursday, November 24, 2022 at 5:19:39 AM
 
 > Showing 5 of 30 posts.
 
+[![Jest VSCode Extension | How to code Tutorial](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Jest_VSCode_Extension___How_to_code_Tutorial.svg)](https://www.youtube.com/watch?v=zWYmDO5UzWQ)
 [![Skip an Index in JavaScript Array map()](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Skip_an_Index_in_JavaScript_Array_map().svg)](
 https://masteringjs.io/tutorials/fundamentals/map-skip-index
 )
 [![GraphQL federation with Hasura GraphQL Engine - Cube Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GraphQL_federation_with_Hasura_GraphQL_Engine_-_Cube_Blog.svg)](https://cube.dev/blog/graphql-federation-with-hasura-graphql-engine)
 [![Style your SolidJS website faster with StylifyCSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Style_your_SolidJS_website_faster_with_StylifyCSS.svg)](https://dev.to/machy8/style-your-solidjs-website-faster-with-stylifycss-9oj)
 [![API with NestJS #84. Implementing filtering using subqueries with raw SQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__84._Implementing_filtering_using_subqueries_with_raw_SQL.svg)](https://wanago.io/2022/11/21/api-nestjs-filtering-subqueries-sql/)
-[![Ant Design 5.0 is released!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Ant_Design_5.0_is_released!.svg)](https://medium.com/ant-design/ant-design-5-0-is-released-27b2552f14a3)
 
 
 <!-- post-list:end -->
