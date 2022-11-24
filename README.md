@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, November 23, 2022 at 5:55:10 PM
+> Last updated: Wednesday, November 23, 2022 at 11:12:11 PM
 
 > Showing 5 of 12 posts.
 
-[![Code is important, but you should also focus the cohesion of the codebase.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Code_is_important__but_you_should_also_focus_the_cohesion_of_the_codebase..svg)](https://dev.to/hurricaneinteractive/module-driven-development-30mn)
-[![Speed up your code with Promise.all](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Speed_up_your_code_with_Promise.all.svg)](https://dev.to/dperrymorrow/speed-up-your-code-with-promiseall-3d4i)
-[![Free Course - Learn: A Full Stack Application with Azure SQL and Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Free_Course_-_Learn__A_Full_Stack_Application_with_Azure_SQL_and_Prisma.svg)](https://dev.to/azure/free-course-learn-a-full-stack-application-with-azure-sql-and-prisma-42kp)
-[![Audio Media Accessibility: How To Improve Audio Media Transcriptions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Audio_Media_Accessibility__How_To_Improve_Audio_Media_Transcriptions.svg)](https://dev.to/virtualcoffee/audio-media-accessibility-how-to-improve-audio-media-transcriptions-2lk0)
-[![Beginner JavaScript Project: How to reverse a sentence and display it on screen](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Beginner_JavaScript_Project__How_to_reverse_a_sentence_and_display_it_on_screen.svg)](https://dev.to/codergirl1991/beginner-javascript-project-how-to-reverse-a-sentence-and-display-it-on-screen-4d03)
+[![MongoDB 2022 Hackathon submission - Introducing Indian dishes catalog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/MongoDB_2022_Hackathon_submission_-_Introducing_Indian_dishes_catalog.svg)](https://dev.to/sachinchaurasiya/mongodb-2022-hackathon-submission-introducing-indian-dishes-catalog-1coa)
+[![School Management System - The best partner for seamless school management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/School_Management_System_-_The_best_partner_for_seamless_school_management.svg)](https://dev.to/anirudhro/school-management-system-the-best-partner-for-seamless-school-management-iji)
+[![How to make a Docker build image for the Python flavor of AWS CDK, for people who don't like NPM](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_make_a_Docker_build_image_for_the_Python_flavor_of_AWS_CDK__for_people_who_don't_like_NPM.svg)](https://dev.to/aws-builders/how-to-make-a-docker-build-image-for-the-python-flavor-of-aws-cdk-for-people-who-dont-like-npm-4nfk)
+[![Code is important, but you should also focus on the cohesion of the codebase.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Code_is_important__but_you_should_also_focus_on_the_cohesion_of_the_codebase..svg)](https://dev.to/hurricaneinteractive/module-driven-development-30mn)
+[![Git tutorial - the basics](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Git_tutorial_-_the_basics.svg)](https://dev.to/bitethecode/git-tutorial-the-basics-2d2d)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, November 23, 2022 at 5:55:14 PM
+> Last updated: Wednesday, November 23, 2022 at 11:12:14 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, November 23, 2022 at 5:55:20 PM
+> Last updated: Wednesday, November 23, 2022 at 11:12:19 PM
 
 > Showing 5 of 30 posts.
 
