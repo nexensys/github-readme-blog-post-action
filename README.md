@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, November 24, 2022 at 11:12:00 AM
+> Last updated: Thursday, November 24, 2022 at 5:51:26 PM
 
 > Showing 5 of 12 posts.
 
-[![Fine-Grained Access Control: Where RBAC falls short](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Fine-Grained_Access_Control__Where_RBAC_falls_short.svg)](https://dev.to/egeaytin/fine-grained-access-control-where-rbac-falls-short-37hp)
-[![Big Thanks to All Our Mods! 🙌](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Big_Thanks_to_All_Our_Mods!_🙌.svg)](https://dev.to/devteam/big-thanks-to-all-our-mods-4jl)
-[![Achieving end-to-end type safety in a modern JS GraphQL stack](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Achieving_end-to-end_type_safety_in_a_modern_JS_GraphQL_stack.svg)](https://dev.to/escape/achieving-end-to-end-type-safety-in-a-modern-js-graphql-stack-a6p)
-[![What is new in Java 20?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_new_in_Java_20_.svg)](https://dev.to/symflower/what-is-new-in-java-20-21gh)
-[![6 ways to find projects in Open Source](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/6_ways_to_find_projects_in_Open_Source.svg)](https://dev.to/pradumnasaraf/6-ways-to-find-projects-in-open-source-2kie)
+[![The perfect open-sourcer does not exist](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_perfect_open-sourcer_does_not_exist.svg)](https://dev.to/batunpc/the-perfect-open-sourcer-does-not-exist-26pb)
+[![Content Structure: The Do's and Dont's of Content Creation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Content_Structure__The_Do's_and_Dont's_of_Content_Creation.svg)](https://dev.to/mcsee/content-structure-the-dos-and-donts-of-content-creation-1mig)
+[![NGINX WAF alternatives: App Protect vs. ModSecurity vs. open-appsec](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/NGINX_WAF_alternatives__App_Protect_vs._ModSecurity_vs._open-appsec.svg)](https://dev.to/openappsec/nginx-waf-alternatives-app-protect-vs-modsecurity-vs-open-appsec-325f)
+[![I'm doing this one thing differently next time I build a SaaS product](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/I'm_doing_this_one_thing_differently_next_time_I_build_a_SaaS_product.svg)](https://dev.to/theaccordance/im-doing-this-one-thing-differently-next-time-i-build-a-saas-product-2efp)
+[![The Transitional Web w/ Chris Ferdinandi](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Transitional_Web_w__Chris_Ferdinandi.svg)](https://dev.to/mikhailkaran/the-transitional-web-w-chris-ferdinandi-3ip7)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, November 24, 2022 at 11:12:03 AM
+> Last updated: Thursday, November 24, 2022 at 5:51:29 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, November 24, 2022 at 11:12:05 AM
+> Last updated: Thursday, November 24, 2022 at 5:51:33 PM
 
 > Showing 5 of 30 posts.
 
