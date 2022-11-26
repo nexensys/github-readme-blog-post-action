@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, November 24, 2022 at 5:51:26 PM
+> Last updated: Saturday, November 26, 2022 at 11:10:43 AM
 
 > Showing 5 of 12 posts.
 
-[![The perfect open-sourcer does not exist](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_perfect_open-sourcer_does_not_exist.svg)](https://dev.to/batunpc/the-perfect-open-sourcer-does-not-exist-26pb)
-[![Content Structure: The Do's and Dont's of Content Creation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Content_Structure__The_Do's_and_Dont's_of_Content_Creation.svg)](https://dev.to/mcsee/content-structure-the-dos-and-donts-of-content-creation-1mig)
-[![NGINX WAF alternatives: App Protect vs. ModSecurity vs. open-appsec](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/NGINX_WAF_alternatives__App_Protect_vs._ModSecurity_vs._open-appsec.svg)](https://dev.to/openappsec/nginx-waf-alternatives-app-protect-vs-modsecurity-vs-open-appsec-325f)
-[![I'm doing this one thing differently next time I build a SaaS product](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/I'm_doing_this_one_thing_differently_next_time_I_build_a_SaaS_product.svg)](https://dev.to/theaccordance/im-doing-this-one-thing-differently-next-time-i-build-a-saas-product-2efp)
-[![The Transitional Web w/ Chris Ferdinandi](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Transitional_Web_w__Chris_Ferdinandi.svg)](https://dev.to/mikhailkaran/the-transitional-web-w-chris-ferdinandi-3ip7)
+[![Zod Typesafe User Input](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Zod_Typesafe_User_Input.svg)](https://dev.to/perkinsjr/zod-typesafe-user-input-4pll)
+[![Wasp Beta Launch Week announcement](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Wasp_Beta_Launch_Week_announcement.svg)](https://dev.to/wasp/wasp-beta-launch-week-announcement-2363)
+[![GRPC Node + NextJs + Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/GRPC_Node_+_NextJs_+_Prisma.svg)](https://dev.to/ozair0/grpc-node-nextjs-prisma-1pp8)
+[![Coding Contest✨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Coding_Contest✨.svg)](https://dev.to/yashkapure06/coding-contest-4n6)
+[![A Guide to the Most Popular Types of APIs: REST, SOAP, GraphQL, and gRPC](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_Guide_to_the_Most_Popular_Types_of_APIs__REST__SOAP__GraphQL__and_gRPC.svg)](https://dev.to/pragativerma18/a-guide-to-the-most-popular-types-of-apis-rest-soap-graphql-and-grpc-4ail)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, November 24, 2022 at 5:51:29 PM
+> Last updated: Saturday, November 26, 2022 at 11:10:46 AM
 
 > Showing 4 of 4 posts.
 
+[![JavaScript Vocoder Puccini](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/JavaScript_Vocoder_Puccini.svg)](https://javascriptweekly.com/issues/616)
 [![Nuxt 3.0, TypeScript 4.9, Angular 15..](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Nuxt_3.0__TypeScript_4.9__Angular_15...svg)](https://javascriptweekly.com/issues/615)
 [![Rome wasn't rewritten in a day](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Rome_wasn't_rewritten_in_a_day.svg)](https://javascriptweekly.com/issues/614)
 [![Is Turbopack really 10x faster than Vite?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Is_Turbopack_really_10x_faster_than_Vite_.svg)](https://javascriptweekly.com/issues/613)
-[![Turbo-charged incremental bundling au Rust](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Turbo-charged_incremental_bundling_au_Rust.svg)](https://javascriptweekly.com/issues/612)
 
 
 ## Echo JS
@@ -43,17 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, November 24, 2022 at 5:51:33 PM
+> Last updated: Saturday, November 26, 2022 at 11:10:50 AM
 
 > Showing 5 of 30 posts.
 
-[![Import SVGs as React Components | How to code Tutorial](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Import_SVGs_as_React_Components___How_to_code_Tutorial.svg)](https://www.youtube.com/watch?v=KOo8UuoY33I)
-[![React Native in 2022 and Beyond - Semaphore](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_Native_in_2022_and_Beyond_-_Semaphore.svg)](https://semaphoreci.com/blog/react-native)
-[![Jest VSCode Extension | How to code Tutorial](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Jest_VSCode_Extension___How_to_code_Tutorial.svg)](https://www.youtube.com/watch?v=zWYmDO5UzWQ)
-[![Skip an Index in JavaScript Array map()](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Skip_an_Index_in_JavaScript_Array_map().svg)](
-https://masteringjs.io/tutorials/fundamentals/map-skip-index
-)
-[![GraphQL federation with Hasura GraphQL Engine - Cube Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GraphQL_federation_with_Hasura_GraphQL_Engine_-_Cube_Blog.svg)](https://cube.dev/blog/graphql-federation-with-hasura-graphql-engine)
+[![Hire Angular JS Developers: How to Find the Right Personnel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Hire_Angular_JS_Developers__How_to_Find_the_Right_Personnel.svg)](https://gloriumtech.com/hire-angular-js-developers-why-how-and-where-to-find-the-right-personnel/)
+[![GitHub - Simonwep/cinematic: 📽️ Ultra tiny library to add cinematics to your HTML5 videos!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Simonwep_cinematic__📽️_Ultra_tiny_library_to_add_cinematics_to_your_HTML5_videos!.svg)](https://github.com/Simonwep/cinematic)
+[![React Interview Questions and Answers Series' Articles](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_Interview_Questions_and_Answers_Series'_Articles.svg)](https://dev.to/aradwan20/series/19831)
+[![How to be Better at Algorithms? | Examples for Beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_be_Better_at_Algorithms____Examples_for_Beginners.svg)](https://dev.to/aradwan20/how-to-be-better-at-algorithms-examples-for-beginners-415k)
+[![Commercial and Residential solar Software company | solar software consulting](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Commercial_and_Residential_solar_Software_company___solar_software_consulting.svg)](https://enact-systems.com/)
 
 
 <!-- post-list:end -->
