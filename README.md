@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, November 26, 2022 at 5:54:49 PM
+> Last updated: Saturday, November 26, 2022 at 11:12:01 PM
 
 > Showing 5 of 12 posts.
 
+[![Release 0.2 - PR #2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Release_0.2_-_PR__2.svg)](https://dev.to/aparris21/release-02-pr-2-1il2)
+[![How to make a to-do list using Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_make_a_to-do_list_using_Javascript.svg)](https://dev.to/lensco825/how-to-make-a-to-do-list-using-javascript-23j0)
 [![OSD600: Adding CI to Siteit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/OSD600__Adding_CI_to_Siteit.svg)](https://dev.to/tdaw/osd600-adding-ci-to-siteit-c71)
 [![top 10 tips for problem-solving](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/top_10_tips_for_problem-solving.svg)](https://dev.to/mahmoudsayed/top-10-tips-for-problem-solving-5197)
 [![How to connect tomcat server with eclipse?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_connect_tomcat_server_with_eclipse_.svg)](https://dev.to/mahisewinet/how-to-connect-tomcat-server-with-eclipse-5gba)
-[![Backup/restore most of your Mac's dev tools easily](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Backup_restore_most_of_your_Mac's_dev_tools_easily.svg)](https://dev.to/jozsefdevs/backuprestore-most-of-your-macs-dev-tools-easily-5ae1)
-[![Planning And Tracking Projects With GitHub's Projects Tool](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Planning_And_Tracking_Projects_With_GitHub's_Projects_Tool.svg)](https://dev.to/adiatiayu/planning-and-tracking-projects-with-githubs-projects-tool-572l)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, November 26, 2022 at 5:54:53 PM
+> Last updated: Saturday, November 26, 2022 at 11:12:04 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, November 26, 2022 at 5:54:57 PM
+> Last updated: Saturday, November 26, 2022 at 11:12:07 PM
 
 > Showing 5 of 30 posts.
 
