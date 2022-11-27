@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, November 26, 2022 at 11:10:43 AM
+> Last updated: Saturday, November 26, 2022 at 5:54:49 PM
 
 > Showing 5 of 12 posts.
 
-[![Zod Typesafe User Input](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Zod_Typesafe_User_Input.svg)](https://dev.to/perkinsjr/zod-typesafe-user-input-4pll)
-[![Wasp Beta Launch Week announcement](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Wasp_Beta_Launch_Week_announcement.svg)](https://dev.to/wasp/wasp-beta-launch-week-announcement-2363)
-[![GRPC Node + NextJs + Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/GRPC_Node_+_NextJs_+_Prisma.svg)](https://dev.to/ozair0/grpc-node-nextjs-prisma-1pp8)
-[![Coding Contest✨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Coding_Contest✨.svg)](https://dev.to/yashkapure06/coding-contest-4n6)
-[![A Guide to the Most Popular Types of APIs: REST, SOAP, GraphQL, and gRPC](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_Guide_to_the_Most_Popular_Types_of_APIs__REST__SOAP__GraphQL__and_gRPC.svg)](https://dev.to/pragativerma18/a-guide-to-the-most-popular-types-of-apis-rest-soap-graphql-and-grpc-4ail)
+[![OSD600: Adding CI to Siteit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/OSD600__Adding_CI_to_Siteit.svg)](https://dev.to/tdaw/osd600-adding-ci-to-siteit-c71)
+[![top 10 tips for problem-solving](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/top_10_tips_for_problem-solving.svg)](https://dev.to/mahmoudsayed/top-10-tips-for-problem-solving-5197)
+[![How to connect tomcat server with eclipse?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_connect_tomcat_server_with_eclipse_.svg)](https://dev.to/mahisewinet/how-to-connect-tomcat-server-with-eclipse-5gba)
+[![Backup/restore most of your Mac's dev tools easily](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Backup_restore_most_of_your_Mac's_dev_tools_easily.svg)](https://dev.to/jozsefdevs/backuprestore-most-of-your-macs-dev-tools-easily-5ae1)
+[![Planning And Tracking Projects With GitHub's Projects Tool](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Planning_And_Tracking_Projects_With_GitHub's_Projects_Tool.svg)](https://dev.to/adiatiayu/planning-and-tracking-projects-with-githubs-projects-tool-572l)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, November 26, 2022 at 11:10:46 AM
+> Last updated: Saturday, November 26, 2022 at 5:54:53 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, November 26, 2022 at 11:10:50 AM
+> Last updated: Saturday, November 26, 2022 at 5:54:57 PM
 
 > Showing 5 of 30 posts.
 
