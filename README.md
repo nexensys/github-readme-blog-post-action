@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, November 26, 2022 at 11:12:01 PM
+> Last updated: Sunday, November 27, 2022 at 5:16:06 AM
 
 > Showing 5 of 12 posts.
 
-[![Release 0.2 - PR #2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Release_0.2_-_PR__2.svg)](https://dev.to/aparris21/release-02-pr-2-1il2)
-[![How to make a to-do list using Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_make_a_to-do_list_using_Javascript.svg)](https://dev.to/lensco825/how-to-make-a-to-do-list-using-javascript-23j0)
-[![OSD600: Adding CI to Siteit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/OSD600__Adding_CI_to_Siteit.svg)](https://dev.to/tdaw/osd600-adding-ci-to-siteit-c71)
-[![top 10 tips for problem-solving](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/top_10_tips_for_problem-solving.svg)](https://dev.to/mahmoudsayed/top-10-tips-for-problem-solving-5197)
-[![How to connect tomcat server with eclipse?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_connect_tomcat_server_with_eclipse_.svg)](https://dev.to/mahisewinet/how-to-connect-tomcat-server-with-eclipse-5gba)
+[![Use Preact in Next.js 13](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Use_Preact_in_Next.js_13.svg)](https://dev.to/dephraiim/use-preact-in-nextjs-13-24pp)
+[![Bridge pattern in TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Bridge_pattern_in_TypeScript.svg)](https://dev.to/jmalvarez/bridge-pattern-in-typescript-3hmj)
+[![Offline Terraform Provider](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Offline_Terraform_Provider.svg)](https://dev.to/rdamrong/offline-terraform-provider-2bgf)
+[![Learn CSS layouts by example - Flex (part 1)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Learn_CSS_layouts_by_example_-_Flex_(part_1).svg)](https://dev.to/mohsenkamrani/learn-css-layouts-by-example-flex-part-1-4g62)
+[![4 Steps to Create Google Authentication API in Node.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/4_Steps_to_Create_Google_Authentication_API_in_Node.js.svg)](https://dev.to/shreyvijayvargiya/4-steps-to-create-google-authentication-api-in-nodejs-41d3)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, November 26, 2022 at 11:12:04 PM
+> Last updated: Sunday, November 27, 2022 at 5:16:10 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, November 26, 2022 at 11:12:07 PM
+> Last updated: Sunday, November 27, 2022 at 5:16:12 AM
 
 > Showing 5 of 30 posts.
 
+[![
+Iceburg CRM – Open-Source Meta Driven CRM Using Vue3 / Laravel
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Iceburg_CRM_–_Open-Source_Meta_Driven_CRM_Using_Vue3___Laravel_.svg)](
+https://www.iceburg.ca
+)
 [![Hire Angular JS Developers: How to Find the Right Personnel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Hire_Angular_JS_Developers__How_to_Find_the_Right_Personnel.svg)](https://gloriumtech.com/hire-angular-js-developers-why-how-and-where-to-find-the-right-personnel/)
 [![GitHub - Simonwep/cinematic: 📽️ Ultra tiny library to add cinematics to your HTML5 videos!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Simonwep_cinematic__📽️_Ultra_tiny_library_to_add_cinematics_to_your_HTML5_videos!.svg)](https://github.com/Simonwep/cinematic)
 [![React Interview Questions and Answers Series' Articles](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_Interview_Questions_and_Answers_Series'_Articles.svg)](https://dev.to/aradwan20/series/19831)
 [![How to be Better at Algorithms? | Examples for Beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_be_Better_at_Algorithms____Examples_for_Beginners.svg)](https://dev.to/aradwan20/how-to-be-better-at-algorithms-examples-for-beginners-415k)
-[![Commercial and Residential solar Software company | solar software consulting](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Commercial_and_Residential_solar_Software_company___solar_software_consulting.svg)](https://enact-systems.com/)
 
 
 <!-- post-list:end -->
