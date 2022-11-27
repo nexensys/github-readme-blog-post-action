@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, November 27, 2022 at 5:16:06 AM
+> Last updated: Sunday, November 27, 2022 at 11:11:08 AM
 
 > Showing 5 of 12 posts.
 
-[![Use Preact in Next.js 13](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Use_Preact_in_Next.js_13.svg)](https://dev.to/dephraiim/use-preact-in-nextjs-13-24pp)
-[![Bridge pattern in TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Bridge_pattern_in_TypeScript.svg)](https://dev.to/jmalvarez/bridge-pattern-in-typescript-3hmj)
-[![Offline Terraform Provider](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Offline_Terraform_Provider.svg)](https://dev.to/rdamrong/offline-terraform-provider-2bgf)
-[![Learn CSS layouts by example - Flex (part 1)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Learn_CSS_layouts_by_example_-_Flex_(part_1).svg)](https://dev.to/mohsenkamrani/learn-css-layouts-by-example-flex-part-1-4g62)
-[![4 Steps to Create Google Authentication API in Node.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/4_Steps_to_Create_Google_Authentication_API_in_Node.js.svg)](https://dev.to/shreyvijayvargiya/4-steps-to-create-google-authentication-api-in-nodejs-41d3)
+[![Setting up Your First React TypeScript Project From Scratch](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Setting_up_Your_First_React_TypeScript_Project_From_Scratch.svg)](https://dev.to/gethackteam/setting-up-your-first-react-typescript-project-from-scratch-23jf)
+[![Plan first, then implement](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Plan_first__then_implement.svg)](https://dev.to/mnosov622/plan-first-then-implement-1epk)
+[![Fancy Text Generator 𝕐𝕠𝕦𝕣 𝕋𝕖𝕩𝕥 (𝓬𝓸𝓹𝔂 𝓪𝓷𝓭 𝓹𝓪𝓼𝓽𝓮)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Fancy_Text_Generator_𝕐𝕠𝕦𝕣_𝕋𝕖𝕩𝕥_(𝓬𝓸𝓹𝔂_𝓪𝓷𝓭_𝓹𝓪𝓼𝓽𝓮).svg)](https://dev.to/elinabey/fancy-text-generator--20oe)
+[![Encode, Encrypt, and Hash](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Encode__Encrypt__and_Hash.svg)](https://dev.to/ditaisy/encode-encrypt-and-hash-8de)
+[![What are the plans for this week?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_are_the_plans_for_this_week_.svg)](https://dev.to/mitchiemt11/what-are-the-plans-for-this-week-5336)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, November 27, 2022 at 5:16:10 AM
+> Last updated: Sunday, November 27, 2022 at 11:11:11 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,12 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, November 27, 2022 at 5:16:12 AM
+> Last updated: Sunday, November 27, 2022 at 11:11:14 AM
 
 > Showing 5 of 30 posts.
 
+[![How to split JavaScript strings into sentences, words or graphemes with "Intl.Segmenter"](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_split_JavaScript_strings_into_sentences__words_or_graphemes_with__Intl.Segmenter_.svg)](/today-i-learned/how-to-split-javascript-strings-with-intl-segmenter/)
+[![Next.js with Module Federation: the Future of Micro Frontends?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Next.js_with_Module_Federation__the_Future_of_Micro_Frontends_.svg)](https://okhivrych.io/nextjs-with-module-federation-the-future-of-micro-frontends)
 [![
 Iceburg CRM – Open-Source Meta Driven CRM Using Vue3 / Laravel
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Iceburg_CRM_–_Open-Source_Meta_Driven_CRM_Using_Vue3___Laravel_.svg)](
@@ -54,8 +56,6 @@ https://www.iceburg.ca
 )
 [![Hire Angular JS Developers: How to Find the Right Personnel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Hire_Angular_JS_Developers__How_to_Find_the_Right_Personnel.svg)](https://gloriumtech.com/hire-angular-js-developers-why-how-and-where-to-find-the-right-personnel/)
 [![GitHub - Simonwep/cinematic: 📽️ Ultra tiny library to add cinematics to your HTML5 videos!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Simonwep_cinematic__📽️_Ultra_tiny_library_to_add_cinematics_to_your_HTML5_videos!.svg)](https://github.com/Simonwep/cinematic)
-[![React Interview Questions and Answers Series' Articles](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_Interview_Questions_and_Answers_Series'_Articles.svg)](https://dev.to/aradwan20/series/19831)
-[![How to be Better at Algorithms? | Examples for Beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_be_Better_at_Algorithms____Examples_for_Beginners.svg)](https://dev.to/aradwan20/how-to-be-better-at-algorithms-examples-for-beginners-415k)
 
 
 <!-- post-list:end -->
