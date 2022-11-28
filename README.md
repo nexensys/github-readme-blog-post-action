@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, November 27, 2022 at 5:47:47 PM
+> Last updated: Sunday, November 27, 2022 at 11:13:00 PM
 
 > Showing 5 of 12 posts.
 
+[![Using Secret Manager for Configuration in .NET](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Using_Secret_Manager_for_Configuration_in_.NET.svg)](https://dev.to/gkarwchan/using-secret-manager-for-configuration-in-net-2pi2)
+[![The 38 Books Recommended to Me in the Past Few Months](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_38_Books_Recommended_to_Me_in_the_Past_Few_Months.svg)](https://dev.to/rockykev/the-38-books-recommended-to-me-in-the-past-few-months-1d35)
+[![Text Search](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Text_Search.svg)](https://dev.to/986913/text-search-3l53)
+[![No-code, Low-code, and Coding](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/No-code__Low-code__and_Coding.svg)](https://dev.to/function12_io/no-code-low-code-and-coding-4112)
 [![Melhorando a acessibilidade das suas postagens nas redes sociais](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Melhorando_a_acessibilidade_das_suas_postagens_nas_redes_sociais.svg)](https://dev.to/feministech/melhorando-a-acessibilidade-das-suas-postagens-nas-redes-sociais-27l5)
-[![New Reduct Storage v1.1.0 with Token API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/New_Reduct_Storage_v1.1.0_with_Token_API.svg)](https://dev.to/reduct-storage/new-reduct-storage-v110-with-token-api-24j8)
-[![Node.js visualized: promise, async/await and process.nextTick under the hood](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Node.js_visualized__promise__async_await_and_process.nextTick_under_the_hood.svg)](https://dev.to/nodedoctors/nodejs-visualized-promise-asyncawait-and-processnexttick-under-the-hood-234c)
-[![Como instalar y configurar tailwind usando PostCSS [Es]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Como_instalar_y_configurar_tailwind_usando_PostCSS_[Es].svg)](https://dev.to/hectorenrique/como-instalar-y-configurar-tailwind-usando-postcss-es-1a1g)
-[![DIY: I've built a music box for the 2nd x-mas of my son](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/DIY__I've_built_a_music_box_for_the_2nd_x-mas_of_my_son.svg)](https://dev.to/maximecheramy/diy-ive-built-a-music-box-for-the-2nd-x-mas-of-my-son-j03)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, November 27, 2022 at 5:47:50 PM
+> Last updated: Sunday, November 27, 2022 at 11:13:03 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, November 27, 2022 at 5:47:53 PM
+> Last updated: Sunday, November 27, 2022 at 11:13:06 PM
 
 > Showing 5 of 30 posts.
 
