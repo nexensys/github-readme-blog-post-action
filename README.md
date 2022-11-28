@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, November 27, 2022 at 11:11:08 AM
+> Last updated: Sunday, November 27, 2022 at 5:47:47 PM
 
 > Showing 5 of 12 posts.
 
-[![Setting up Your First React TypeScript Project From Scratch](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Setting_up_Your_First_React_TypeScript_Project_From_Scratch.svg)](https://dev.to/gethackteam/setting-up-your-first-react-typescript-project-from-scratch-23jf)
-[![Plan first, then implement](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Plan_first__then_implement.svg)](https://dev.to/mnosov622/plan-first-then-implement-1epk)
-[![Fancy Text Generator 𝕐𝕠𝕦𝕣 𝕋𝕖𝕩𝕥 (𝓬𝓸𝓹𝔂 𝓪𝓷𝓭 𝓹𝓪𝓼𝓽𝓮)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Fancy_Text_Generator_𝕐𝕠𝕦𝕣_𝕋𝕖𝕩𝕥_(𝓬𝓸𝓹𝔂_𝓪𝓷𝓭_𝓹𝓪𝓼𝓽𝓮).svg)](https://dev.to/elinabey/fancy-text-generator--20oe)
-[![Encode, Encrypt, and Hash](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Encode__Encrypt__and_Hash.svg)](https://dev.to/ditaisy/encode-encrypt-and-hash-8de)
-[![What are the plans for this week?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_are_the_plans_for_this_week_.svg)](https://dev.to/mitchiemt11/what-are-the-plans-for-this-week-5336)
+[![Melhorando a acessibilidade das suas postagens nas redes sociais](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Melhorando_a_acessibilidade_das_suas_postagens_nas_redes_sociais.svg)](https://dev.to/feministech/melhorando-a-acessibilidade-das-suas-postagens-nas-redes-sociais-27l5)
+[![New Reduct Storage v1.1.0 with Token API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/New_Reduct_Storage_v1.1.0_with_Token_API.svg)](https://dev.to/reduct-storage/new-reduct-storage-v110-with-token-api-24j8)
+[![Node.js visualized: promise, async/await and process.nextTick under the hood](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Node.js_visualized__promise__async_await_and_process.nextTick_under_the_hood.svg)](https://dev.to/nodedoctors/nodejs-visualized-promise-asyncawait-and-processnexttick-under-the-hood-234c)
+[![Como instalar y configurar tailwind usando PostCSS [Es]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Como_instalar_y_configurar_tailwind_usando_PostCSS_[Es].svg)](https://dev.to/hectorenrique/como-instalar-y-configurar-tailwind-usando-postcss-es-1a1g)
+[![DIY: I've built a music box for the 2nd x-mas of my son](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/DIY__I've_built_a_music_box_for_the_2nd_x-mas_of_my_son.svg)](https://dev.to/maximecheramy/diy-ive-built-a-music-box-for-the-2nd-x-mas-of-my-son-j03)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, November 27, 2022 at 11:11:11 AM
+> Last updated: Sunday, November 27, 2022 at 5:47:50 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, November 27, 2022 at 11:11:14 AM
+> Last updated: Sunday, November 27, 2022 at 5:47:53 PM
 
 > Showing 5 of 30 posts.
 
