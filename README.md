@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, November 27, 2022 at 11:13:00 PM
+> Last updated: Tuesday, November 29, 2022 at 11:11:56 AM
 
 > Showing 5 of 12 posts.
 
-[![Using Secret Manager for Configuration in .NET](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Using_Secret_Manager_for_Configuration_in_.NET.svg)](https://dev.to/gkarwchan/using-secret-manager-for-configuration-in-net-2pi2)
-[![The 38 Books Recommended to Me in the Past Few Months](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_38_Books_Recommended_to_Me_in_the_Past_Few_Months.svg)](https://dev.to/rockykev/the-38-books-recommended-to-me-in-the-past-few-months-1d35)
-[![Text Search](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Text_Search.svg)](https://dev.to/986913/text-search-3l53)
-[![No-code, Low-code, and Coding](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/No-code__Low-code__and_Coding.svg)](https://dev.to/function12_io/no-code-low-code-and-coding-4112)
-[![Melhorando a acessibilidade das suas postagens nas redes sociais](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Melhorando_a_acessibilidade_das_suas_postagens_nas_redes_sociais.svg)](https://dev.to/feministech/melhorando-a-acessibilidade-das-suas-postagens-nas-redes-sociais-27l5)
+[![Send and Request Data With Webhooks With AI Studio](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Send_and_Request_Data_With_Webhooks_With_AI_Studio.svg)](https://dev.to/mbcrump/send-and-request-data-with-webhooks-with-ai-studio-156a)
+[![Kubernetes Labels: Expert Guide with 10 Best Practices](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Kubernetes_Labels__Expert_Guide_with_10_Best_Practices.svg)](https://dev.to/castai/kubernetes-labels-expert-guide-with-10-best-practices-3l03)
+[![Announcing NgRx v15: Standalone APIs, Type-safe projectors, Component and ComponentStore updates, and more!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Announcing_NgRx_v15__Standalone_APIs__Type-safe_projectors__Component_and_ComponentStore_updates__and_more!.svg)](https://dev.to/ngrx/announcing-ngrx-v15-standalone-apis-type-safe-projectors-component-and-componentstore-updates-and-more-l7)
+[![About My Digital Garden](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/About_My_Digital_Garden.svg)](https://dev.to/abbeyperini/about-my-digital-garden-2o4h)
+[![You are writing tests wrong](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/You_are_writing_tests_wrong.svg)](https://dev.to/documatic/you-are-writing-tests-wrong-hln)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, November 27, 2022 at 11:13:03 PM
+> Last updated: Tuesday, November 29, 2022 at 11:11:59 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, November 27, 2022 at 11:13:06 PM
+> Last updated: Tuesday, November 29, 2022 at 11:12:06 AM
 
 > Showing 5 of 30 posts.
 
-[![How to split JavaScript strings into sentences, words or graphemes with "Intl.Segmenter"](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_split_JavaScript_strings_into_sentences__words_or_graphemes_with__Intl.Segmenter_.svg)](/today-i-learned/how-to-split-javascript-strings-with-intl-segmenter/)
-[![Next.js with Module Federation: the Future of Micro Frontends?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Next.js_with_Module_Federation__the_Future_of_Micro_Frontends_.svg)](https://okhivrych.io/nextjs-with-module-federation-the-future-of-micro-frontends)
-[![
-Iceburg CRM – Open-Source Meta Driven CRM Using Vue3 / Laravel
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Iceburg_CRM_–_Open-Source_Meta_Driven_CRM_Using_Vue3___Laravel_.svg)](
-https://www.iceburg.ca
-)
-[![Hire Angular JS Developers: How to Find the Right Personnel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Hire_Angular_JS_Developers__How_to_Find_the_Right_Personnel.svg)](https://gloriumtech.com/hire-angular-js-developers-why-how-and-where-to-find-the-right-personnel/)
-[![GitHub - Simonwep/cinematic: 📽️ Ultra tiny library to add cinematics to your HTML5 videos!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Simonwep_cinematic__📽️_Ultra_tiny_library_to_add_cinematics_to_your_HTML5_videos!.svg)](https://github.com/Simonwep/cinematic)
+[![GraphQL federation example with Apollo Federation and Apollo GraphOS - Cube Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GraphQL_federation_example_with_Apollo_Federation_and_Apollo_GraphOS_-_Cube_Blog.svg)](https://cube.dev/blog/graphql-federation-example-with-apollo-federation-and-apollo-graphos)
+[![Introduction to Gatsby with TypeScript and GitHub Pages](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Introduction_to_Gatsby_with_TypeScript_and_GitHub_Pages.svg)](https://wanago.io/2022/11/28/gatsby-typescript-github-pages/)
+[![GitHub - DustinBrett/daedalOS: Desktop environment in the browser.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_DustinBrett_daedalOS__Desktop_environment_in_the_browser..svg)](https://github.com/DustinBrett/daedalOS)
+[![GitHub - alexanderkhivrych/use-modal-hook: 🚀 React hook for controlling modal components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_alexanderkhivrych_use-modal-hook__🚀_React_hook_for_controlling_modal_components.svg)](https://github.com/alexanderkhivrych/use-modal-hook)
+[![GitHub - giffeler/undoh: This Typescript module provides an undo class that can be used to implement a simple undo/redo mechanism.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_giffeler_undoh__This_Typescript_module_provides_an_undo_class_that_can_be_used_to_implement_a_simple_undo_redo_mechanism..svg)](https://github.com/giffeler/undoh)
 
 
 <!-- post-list:end -->
