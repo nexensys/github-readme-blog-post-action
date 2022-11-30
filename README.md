@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, November 30, 2022 at 5:19:26 AM
+> Last updated: Wednesday, November 30, 2022 at 11:12:21 AM
 
 > Showing 5 of 12 posts.
 
-[![UI Framework for Flutter. What should be included in?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/UI_Framework_for_Flutter._What_should_be_included_in_.svg)](https://dev.to/frezyx/ui-framework-for-flutter-what-should-be-included-in-3k38)
-[![Elasticsearch vs Splunk - Which tool to choose for Log Management?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Elasticsearch_vs_Splunk_-_Which_tool_to_choose_for_Log_Management_.svg)](https://dev.to/signoz/elasticsearch-vs-splunk-which-tool-to-choose-for-log-management-1e7o)
-[![Goodbye Typescript, hello native typing for Javascript ✨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Goodbye_Typescript__hello_native_typing_for_Javascript_✨.svg)](https://dev.to/christopherkade/goodbye-typescript-hello-native-typing-for-javascript-3ee1)
-[![This Week In React #126: Perf, Progressive Enhancement, Remix, Storybook, React-Native, FlashList, Nitro, TC39...](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/This_Week_In_React__126__Perf__Progressive_Enhancement__Remix__Storybook__React-Native__FlashList__Nitro__TC39....svg)](https://dev.to/sebastienlorber/this-week-in-react-126-perf-progressive-enhancement-remix-storybook-react-native-flashlist-nitro-tc39-4k7b)
-[![How to involve your customers in Cypress Testing?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_involve_your_customers_in_Cypress_Testing_.svg)](https://dev.to/simosleepwalker/how-to-involve-your-customers-in-cypress-testing-576g)
+[![Web resource caching: Client-side](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Web_resource_caching__Client-side.svg)](https://dev.to/apisix/web-resource-caching-client-side-1jak)
+[![React Material Tailwind - Beginners’ Guide and Free Sample](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/React_Material_Tailwind_-_Beginners’_Guide_and_Free_Sample.svg)](https://dev.to/sm0ke/react-material-tailwind-beginners-guide-and-free-sample-5eh7)
+[![The model code gap](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_model_code_gap.svg)](https://dev.to/icepanel/the-model-code-gap-4m64)
+[![Welcome Thread - v202](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Welcome_Thread_-_v202.svg)](https://dev.to/thepracticaldev/welcome-thread-v202-j0i)
+[![Top 5 Python Algorithm Github Repositories](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_5_Python_Algorithm_Github_Repositories.svg)](https://dev.to/mavensingh/top-5-python-algorithm-github-repositories-294b)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, November 30, 2022 at 5:19:29 AM
+> Last updated: Wednesday, November 30, 2022 at 11:12:24 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, November 30, 2022 at 5:19:34 AM
+> Last updated: Wednesday, November 30, 2022 at 11:12:29 AM
 
 > Showing 5 of 30 posts.
 
