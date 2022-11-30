@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, November 29, 2022 at 5:52:11 PM
+> Last updated: Tuesday, November 29, 2022 at 11:12:31 PM
 
 > Showing 5 of 12 posts.
 
-[![A no-code platform for everyone](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_no-code_platform_for_everyone.svg)](https://dev.to/mohsenkamrani/a-no-code-platform-for-everyone-8ka)
-[![Text to speech generation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Text_to_speech_generation.svg)](https://dev.to/neuml/text-to-speech-generation-2nc1)
-[![My Virtual Meeting Survival Strategies](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/My_Virtual_Meeting_Survival_Strategies.svg)](https://dev.to/lillchan/my-virtual-meeting-survival-strategies-27oa)
-[![What Makes You Stay In A Community?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_Makes_You_Stay_In_A_Community_.svg)](https://dev.to/adiatiayu/what-makes-you-stay-in-a-community-4go)
-[![Web Security 101 - Part 1: Secrets](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Web_Security_101_-_Part_1__Secrets.svg)](https://dev.to/abbeyperini/web-security-101-part-1-secrets-5e39)
+[![E2E Testing using TestCafe](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/E2E_Testing_using_TestCafe.svg)](https://dev.to/jankaritech/e2e-testing-using-testcafe-17if)
+[![Common mistakes that developers make on resumes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Common_mistakes_that_developers_make_on_resumes.svg)](https://dev.to/codergirl1991/common-mistakes-that-developers-make-on-resumes-1d00)
+[![AWS Lambda support Node.js 18 now. Should we update the version of Node.js in the Lambda runtime?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/AWS_Lambda_support_Node.js_18_now._Should_we_update_the_version_of_Node.js_in_the_Lambda_runtime_.svg)](https://dev.to/aws-builders/aws-lambda-support-nodejs-18-now-should-we-update-the-version-of-nodejs-in-the-lambda-runtime-1ko7)
+[![🤖 Latest IT Open Positions - Week #48 of 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/🤖_Latest_IT_Open_Positions_-_Week__48_of_2022.svg)](https://dev.to/shman/latest-it-open-positions-week-48-of-2022-gp0)
+[![Developer Health: Tips for dealing with workplace anxieties and imposter syndrome](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Developer_Health__Tips_for_dealing_with_workplace_anxieties_and_imposter_syndrome.svg)](https://dev.to/codergirl1991/developer-health-tips-for-dealing-with-workplace-anxieties-and-imposter-syndrome-4i46)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, November 29, 2022 at 5:52:14 PM
+> Last updated: Tuesday, November 29, 2022 at 11:12:34 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, November 29, 2022 at 5:52:20 PM
+> Last updated: Tuesday, November 29, 2022 at 11:12:38 PM
 
 > Showing 5 of 30 posts.
 
