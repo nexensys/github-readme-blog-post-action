@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, November 29, 2022 at 11:12:31 PM
+> Last updated: Wednesday, November 30, 2022 at 5:19:26 AM
 
 > Showing 5 of 12 posts.
 
-[![E2E Testing using TestCafe](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/E2E_Testing_using_TestCafe.svg)](https://dev.to/jankaritech/e2e-testing-using-testcafe-17if)
-[![Common mistakes that developers make on resumes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Common_mistakes_that_developers_make_on_resumes.svg)](https://dev.to/codergirl1991/common-mistakes-that-developers-make-on-resumes-1d00)
-[![AWS Lambda support Node.js 18 now. Should we update the version of Node.js in the Lambda runtime?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/AWS_Lambda_support_Node.js_18_now._Should_we_update_the_version_of_Node.js_in_the_Lambda_runtime_.svg)](https://dev.to/aws-builders/aws-lambda-support-nodejs-18-now-should-we-update-the-version-of-nodejs-in-the-lambda-runtime-1ko7)
-[![🤖 Latest IT Open Positions - Week #48 of 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/🤖_Latest_IT_Open_Positions_-_Week__48_of_2022.svg)](https://dev.to/shman/latest-it-open-positions-week-48-of-2022-gp0)
-[![Developer Health: Tips for dealing with workplace anxieties and imposter syndrome](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Developer_Health__Tips_for_dealing_with_workplace_anxieties_and_imposter_syndrome.svg)](https://dev.to/codergirl1991/developer-health-tips-for-dealing-with-workplace-anxieties-and-imposter-syndrome-4i46)
+[![UI Framework for Flutter. What should be included in?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/UI_Framework_for_Flutter._What_should_be_included_in_.svg)](https://dev.to/frezyx/ui-framework-for-flutter-what-should-be-included-in-3k38)
+[![Elasticsearch vs Splunk - Which tool to choose for Log Management?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Elasticsearch_vs_Splunk_-_Which_tool_to_choose_for_Log_Management_.svg)](https://dev.to/signoz/elasticsearch-vs-splunk-which-tool-to-choose-for-log-management-1e7o)
+[![Goodbye Typescript, hello native typing for Javascript ✨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Goodbye_Typescript__hello_native_typing_for_Javascript_✨.svg)](https://dev.to/christopherkade/goodbye-typescript-hello-native-typing-for-javascript-3ee1)
+[![This Week In React #126: Perf, Progressive Enhancement, Remix, Storybook, React-Native, FlashList, Nitro, TC39...](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/This_Week_In_React__126__Perf__Progressive_Enhancement__Remix__Storybook__React-Native__FlashList__Nitro__TC39....svg)](https://dev.to/sebastienlorber/this-week-in-react-126-perf-progressive-enhancement-remix-storybook-react-native-flashlist-nitro-tc39-4k7b)
+[![How to involve your customers in Cypress Testing?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_involve_your_customers_in_Cypress_Testing_.svg)](https://dev.to/simosleepwalker/how-to-involve-your-customers-in-cypress-testing-576g)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, November 29, 2022 at 11:12:34 PM
+> Last updated: Wednesday, November 30, 2022 at 5:19:29 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, November 29, 2022 at 11:12:38 PM
+> Last updated: Wednesday, November 30, 2022 at 5:19:34 AM
 
 > Showing 5 of 30 posts.
 
