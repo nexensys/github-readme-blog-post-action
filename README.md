@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, November 30, 2022 at 5:56:27 PM
+> Last updated: Wednesday, November 30, 2022 at 11:12:57 PM
 
 > Showing 5 of 12 posts.
 
-[![Makefiles can be helpful in your CI Workflow](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Makefiles_can_be_helpful_in_your_CI_Workflow.svg)](https://dev.to/batunpc/makefiles-can-be-helpful-in-your-ci-workflow-36cl)
-[![🤖 ED-209 BOT is coming (for you)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/🤖_ED-209_BOT_is_coming_(for_you).svg)](https://dev.to/devops-heroes/ed-209-bot-is-coming-for-you-1gil)
-[![Samples of Using KMMBridge](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Samples_of_Using_KMMBridge.svg)](https://dev.to/touchlab/samples-of-using-kmmbridge-4bha)
-[![95 Blog Posts to Learn Data Analytics](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/95_Blog_Posts_to_Learn_Data_Analytics.svg)](https://dev.to/indiedeveloper/95-blog-posts-to-learn-data-analytics-228d)
-[![How to setup Metasploitable in a Mac with M1 chip](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_setup_Metasploitable_in_a_Mac_with_M1_chip.svg)](https://dev.to/merlos/how-to-setup-metasploitable-in-a-mac-with-m1-chip-44ph)
+[![7 Advent Calendars in 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/7_Advent_Calendars_in_2022.svg)](https://dev.to/szabgab/advent-calendars-in-2022-1kic)
+[![How to use AWS Backup cross-account backup to copy and restore DynamoDB tables between AWS accounts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_use_AWS_Backup_cross-account_backup_to_copy_and_restore_DynamoDB_tables_between_AWS_accounts.svg)](https://dev.to/aws-builders/how-to-use-aws-backup-cross-account-backup-to-copy-and-restore-dynamodb-tables-between-aws-accounts-54fo)
+[![Writing a Technical Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Writing_a_Technical_Blog.svg)](https://dev.to/abbeyperini/writing-a-technical-blog-79o)
+[![Top 6+ React Development Tools for Productivity](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_6+_React_Development_Tools_for_Productivity.svg)](https://dev.to/function12_io/top-6-react-development-tools-for-productivity-4d49)
+[![SPVM 0.9664 is released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/SPVM_0.9664_is_released.svg)](https://dev.to/yukikimoto/spvm-09664-is-released-4032)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, November 30, 2022 at 5:56:30 PM
+> Last updated: Wednesday, November 30, 2022 at 11:13:00 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, November 30, 2022 at 5:56:35 PM
+> Last updated: Wednesday, November 30, 2022 at 11:13:08 PM
 
 > Showing 5 of 30 posts.
 
