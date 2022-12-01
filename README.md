@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, December 1, 2022 at 5:19:20 AM
+> Last updated: Thursday, December 1, 2022 at 11:11:56 AM
 
 > Showing 5 of 12 posts.
 
-[![React forms: Formik and Yup intro](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/React_forms__Formik_and_Yup_intro.svg)](https://dev.to/hi_iam_chris/react-forms-formik-and-yup-intro-154g)
-[![Awesome time-saving tools for developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Awesome_time-saving_tools_for_developers.svg)](https://dev.to/documatic/awesome-time-saving-tools-for-developers-1df5)
-[![Microsoft .NET Maze: Understand .NET Core Vs .NET Framework Vs ASP.NET](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Microsoft_.NET_Maze__Understand_.NET_Core_Vs_.NET_Framework_Vs_ASP.NET.svg)](https://dev.to/karanjrawal/microsoft-net-maze-understand-net-core-vs-net-framework-vs-aspnet-3h71)
-[![Serverless Spy Vs Spy Chapter 1: X-ray](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Serverless_Spy_Vs_Spy_Chapter_1__X-ray.svg)](https://dev.to/aws-builders/serverless-spy-vs-spy-chapter-1-x-ray-361h)
-[![Spotify Wrapped 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Spotify_Wrapped_2022.svg)](https://dev.to/j471n/spotify-wrapped-2022-3i7a)
+[![9 Surprises using AWS EventBridge Scheduler](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/9_Surprises_using_AWS_EventBridge_Scheduler.svg)](https://dev.to/kumo/9-surprises-using-aws-eventbridge-scheduler-13b6)
+[![A first look at Amazon CodeCatalyst – Managing your Cloud-Build & Deployment infrastructure natively on AWS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_first_look_at_Amazon_CodeCatalyst_–_Managing_your_Cloud-Build___Deployment_infrastructure_natively_on_AWS.svg)](https://dev.to/aws-builders/a-first-look-at-amazon-codecatalyst-managing-your-cloud-build-deployment-infrastructure-natively-on-aws-1mhb)
+[![FAANG or Bust: My experience doing 4 software engineering internships at big tech companies](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/FAANG_or_Bust__My_experience_doing_4_software_engineering_internships_at_big_tech_companies.svg)](https://dev.to/ashih2018/faang-or-bust-my-experience-doing-four-software-engineering-internships-at-different-big-tech-companies-5eil)
+[![AWS Credentials: from Environment Variables to credentials_process](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/AWS_Credentials__from_Environment_Variables_to_credentials_process.svg)](https://dev.to/herrvilla/aws-credentials-from-environment-variables-to-credentialsprocess-4gpn)
+[![Imposter Syndrome as a Developer (a podcast)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Imposter_Syndrome_as_a_Developer_(a_podcast).svg)](https://dev.to/devsatasurion/imposter-syndrome-as-a-developer-a-podcast-4iik)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, December 1, 2022 at 5:19:23 AM
+> Last updated: Thursday, December 1, 2022 at 11:12:12 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, December 1, 2022 at 5:19:27 AM
+> Last updated: Thursday, December 1, 2022 at 11:12:16 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - ehmicky/modern-errors: Handle errors in a simple, stable, consistent way](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ehmicky_modern-errors__Handle_errors_in_a_simple__stable__consistent_way.svg)](https://github.com/ehmicky/modern-errors)
 [![Vylmech Engineering - Manufacturers of Industrial Valves, Flanges, and Tube Fittings](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Vylmech_Engineering_-_Manufacturers_of_Industrial_Valves__Flanges__and_Tube_Fittings.svg)](https://vylmech.com/)
 [![Module Federation for distributed front ends — the best of both worlds?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Module_Federation_for_distributed_front_ends_—_the_best_of_both_worlds_.svg)](https://medium.com/hacking-talent/module-federation-for-distributed-front-ends-the-best-of-both-worlds-bb6af9e4000e)
 [![rekwest](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/rekwest.svg)](https://www.npmjs.com/package/rekwest)
 [![Module Federation Lifehack  - Custom Container Name](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Module_Federation_Lifehack__-_Custom_Container_Name.svg)](https://okhivrych.io/module-federation-lifehack-custom-container-name)
-[![GraphQL federation example with Apollo Federation and Apollo GraphOS - Cube Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GraphQL_federation_example_with_Apollo_Federation_and_Apollo_GraphOS_-_Cube_Blog.svg)](https://cube.dev/blog/graphql-federation-example-with-apollo-federation-and-apollo-graphos)
 
 
 <!-- post-list:end -->
