@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, November 30, 2022 at 11:12:57 PM
+> Last updated: Thursday, December 1, 2022 at 5:19:20 AM
 
 > Showing 5 of 12 posts.
 
-[![7 Advent Calendars in 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/7_Advent_Calendars_in_2022.svg)](https://dev.to/szabgab/advent-calendars-in-2022-1kic)
-[![How to use AWS Backup cross-account backup to copy and restore DynamoDB tables between AWS accounts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_use_AWS_Backup_cross-account_backup_to_copy_and_restore_DynamoDB_tables_between_AWS_accounts.svg)](https://dev.to/aws-builders/how-to-use-aws-backup-cross-account-backup-to-copy-and-restore-dynamodb-tables-between-aws-accounts-54fo)
-[![Writing a Technical Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Writing_a_Technical_Blog.svg)](https://dev.to/abbeyperini/writing-a-technical-blog-79o)
-[![Top 6+ React Development Tools for Productivity](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_6+_React_Development_Tools_for_Productivity.svg)](https://dev.to/function12_io/top-6-react-development-tools-for-productivity-4d49)
-[![SPVM 0.9664 is released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/SPVM_0.9664_is_released.svg)](https://dev.to/yukikimoto/spvm-09664-is-released-4032)
+[![React forms: Formik and Yup intro](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/React_forms__Formik_and_Yup_intro.svg)](https://dev.to/hi_iam_chris/react-forms-formik-and-yup-intro-154g)
+[![Awesome time-saving tools for developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Awesome_time-saving_tools_for_developers.svg)](https://dev.to/documatic/awesome-time-saving-tools-for-developers-1df5)
+[![Microsoft .NET Maze: Understand .NET Core Vs .NET Framework Vs ASP.NET](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Microsoft_.NET_Maze__Understand_.NET_Core_Vs_.NET_Framework_Vs_ASP.NET.svg)](https://dev.to/karanjrawal/microsoft-net-maze-understand-net-core-vs-net-framework-vs-aspnet-3h71)
+[![Serverless Spy Vs Spy Chapter 1: X-ray](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Serverless_Spy_Vs_Spy_Chapter_1__X-ray.svg)](https://dev.to/aws-builders/serverless-spy-vs-spy-chapter-1-x-ray-361h)
+[![Spotify Wrapped 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Spotify_Wrapped_2022.svg)](https://dev.to/j471n/spotify-wrapped-2022-3i7a)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, November 30, 2022 at 11:13:00 PM
+> Last updated: Thursday, December 1, 2022 at 5:19:23 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, November 30, 2022 at 11:13:08 PM
+> Last updated: Thursday, December 1, 2022 at 5:19:27 AM
 
 > Showing 5 of 30 posts.
 
+[![Vylmech Engineering - Manufacturers of Industrial Valves, Flanges, and Tube Fittings](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Vylmech_Engineering_-_Manufacturers_of_Industrial_Valves__Flanges__and_Tube_Fittings.svg)](https://vylmech.com/)
+[![Module Federation for distributed front ends — the best of both worlds?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Module_Federation_for_distributed_front_ends_—_the_best_of_both_worlds_.svg)](https://medium.com/hacking-talent/module-federation-for-distributed-front-ends-the-best-of-both-worlds-bb6af9e4000e)
+[![rekwest](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/rekwest.svg)](https://www.npmjs.com/package/rekwest)
 [![Module Federation Lifehack  - Custom Container Name](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Module_Federation_Lifehack__-_Custom_Container_Name.svg)](https://okhivrych.io/module-federation-lifehack-custom-container-name)
 [![GraphQL federation example with Apollo Federation and Apollo GraphOS - Cube Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GraphQL_federation_example_with_Apollo_Federation_and_Apollo_GraphOS_-_Cube_Blog.svg)](https://cube.dev/blog/graphql-federation-example-with-apollo-federation-and-apollo-graphos)
-[![Introduction to Gatsby with TypeScript and GitHub Pages](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Introduction_to_Gatsby_with_TypeScript_and_GitHub_Pages.svg)](https://wanago.io/2022/11/28/gatsby-typescript-github-pages/)
-[![GitHub - DustinBrett/daedalOS: Desktop environment in the browser.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_DustinBrett_daedalOS__Desktop_environment_in_the_browser..svg)](https://github.com/DustinBrett/daedalOS)
-[![GitHub - alexanderkhivrych/use-modal-hook: 🚀 React hook for controlling modal components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_alexanderkhivrych_use-modal-hook__🚀_React_hook_for_controlling_modal_components.svg)](https://github.com/alexanderkhivrych/use-modal-hook)
 
 
 <!-- post-list:end -->
