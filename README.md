@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, November 30, 2022 at 11:12:21 AM
+> Last updated: Wednesday, November 30, 2022 at 5:56:27 PM
 
 > Showing 5 of 12 posts.
 
-[![Web resource caching: Client-side](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Web_resource_caching__Client-side.svg)](https://dev.to/apisix/web-resource-caching-client-side-1jak)
-[![React Material Tailwind - Beginners’ Guide and Free Sample](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/React_Material_Tailwind_-_Beginners’_Guide_and_Free_Sample.svg)](https://dev.to/sm0ke/react-material-tailwind-beginners-guide-and-free-sample-5eh7)
-[![The model code gap](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_model_code_gap.svg)](https://dev.to/icepanel/the-model-code-gap-4m64)
-[![Welcome Thread - v202](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Welcome_Thread_-_v202.svg)](https://dev.to/thepracticaldev/welcome-thread-v202-j0i)
-[![Top 5 Python Algorithm Github Repositories](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_5_Python_Algorithm_Github_Repositories.svg)](https://dev.to/mavensingh/top-5-python-algorithm-github-repositories-294b)
+[![Makefiles can be helpful in your CI Workflow](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Makefiles_can_be_helpful_in_your_CI_Workflow.svg)](https://dev.to/batunpc/makefiles-can-be-helpful-in-your-ci-workflow-36cl)
+[![🤖 ED-209 BOT is coming (for you)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/🤖_ED-209_BOT_is_coming_(for_you).svg)](https://dev.to/devops-heroes/ed-209-bot-is-coming-for-you-1gil)
+[![Samples of Using KMMBridge](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Samples_of_Using_KMMBridge.svg)](https://dev.to/touchlab/samples-of-using-kmmbridge-4bha)
+[![95 Blog Posts to Learn Data Analytics](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/95_Blog_Posts_to_Learn_Data_Analytics.svg)](https://dev.to/indiedeveloper/95-blog-posts-to-learn-data-analytics-228d)
+[![How to setup Metasploitable in a Mac with M1 chip](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_setup_Metasploitable_in_a_Mac_with_M1_chip.svg)](https://dev.to/merlos/how-to-setup-metasploitable-in-a-mac-with-m1-chip-44ph)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, November 30, 2022 at 11:12:24 AM
+> Last updated: Wednesday, November 30, 2022 at 5:56:30 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, November 30, 2022 at 11:12:29 AM
+> Last updated: Wednesday, November 30, 2022 at 5:56:35 PM
 
 > Showing 5 of 30 posts.
 
