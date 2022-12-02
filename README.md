@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, December 1, 2022 at 5:46:43 PM
+> Last updated: Thursday, December 1, 2022 at 11:11:34 PM
 
 > Showing 5 of 12 posts.
 
-[![All Client SDKs were updated for Reduct Storage v1.1.0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/All_Client_SDKs_were_updated_for_Reduct_Storage_v1.1.0.svg)](https://dev.to/reduct-storage/all-client-sdks-were-updated-for-reduct-storage-v110-1f94)
-[![Gene Kim + The Rise and Fall of DevOps | Conversations from DevOps Enterprise Summit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Gene_Kim_+_The_Rise_and_Fall_of_DevOps___Conversations_from_DevOps_Enterprise_Summit.svg)](https://dev.to/linearb/gene-kim-the-rise-and-fall-of-devops-conversations-from-devops-enterprise-summit-4klb)
-[![Static Website Setup on Amazon Cloud using Cloudfront, S3, Route53 & ACM for SSL.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Static_Website_Setup_on_Amazon_Cloud_using_Cloudfront__S3__Route53___ACM_for_SSL..svg)](https://dev.to/oayanda/static-website-setup-on-amazon-cloud-using-cloudfront-s3-route53-acm-for-ssl-44ij)
-[![Super Charging Fine-Grained Reactive Performance](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Super_Charging_Fine-Grained_Reactive_Performance.svg)](https://dev.to/modderme123/super-charging-fine-grained-reactive-performance-47ph)
-[![How to protect Apps and APIs in Kubernetes from zero day attacks?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_protect_Apps_and_APIs_in_Kubernetes_from_zero_day_attacks_.svg)](https://dev.to/openappsec/how-to-protect-apps-and-apis-in-kubernetes-from-zero-day-attacks-30k0)
+[![Right way to compare double and float in Java?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Right_way_to_compare_double_and_float_in_Java_.svg)](https://dev.to/somadevtoo/right-way-to-compare-double-and-float-in-java-4k06)
+[![Building the Frontend of a Progressive Web App Using React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Building_the_Frontend_of_a_Progressive_Web_App_Using_React.svg)](https://dev.to/batunpc/building-the-frontend-of-a-progressive-web-app-using-react-34nh)
+[![AWS DATABASES](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/AWS_DATABASES.svg)](https://dev.to/aws-builders/aws-databases-1h4b)
+[![Pushing container images to GitHub Container Registry with GitHub Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Pushing_container_images_to_GitHub_Container_Registry_with_GitHub_Actions.svg)](https://dev.to/willvelida/pushing-container-images-to-github-container-registry-with-github-actions-1m6b)
+[![Progress with feature implementation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Progress_with_feature_implementation.svg)](https://dev.to/ririio/progress-with-feature-implementation-4c0)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, December 1, 2022 at 5:46:46 PM
+> Last updated: Thursday, December 1, 2022 at 11:11:37 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, December 1, 2022 at 5:46:52 PM
+> Last updated: Thursday, December 1, 2022 at 11:11:41 PM
 
 > Showing 5 of 30 posts.
 
