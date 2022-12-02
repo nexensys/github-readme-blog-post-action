@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, December 2, 2022 at 5:17:11 AM
+> Last updated: Friday, December 2, 2022 at 11:11:26 AM
 
 > Showing 5 of 12 posts.
 
-[![Want to create attractive, interactive docs? Use these amazing documentation tools and examples](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Want_to_create_attractive__interactive_docs__Use_these_amazing_documentation_tools_and_examples.svg)](https://dev.to/robole/want-to-create-attractive-interactive-docs-use-these-amazing-documentation-tools-and-examples-562l)
-[![Bootstrap vs Tailwind CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Bootstrap_vs_Tailwind_CSS.svg)](https://dev.to/qbentil/bootstrap-vs-tailwind-css-48mp)
-[![Ruby + ML](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Ruby_+_ML.svg)](https://dev.to/daviducolo/ruby-ml-3f7h)
-[![JavaScript Events: Bubbling, Capturing, and Propagation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/JavaScript_Events__Bubbling__Capturing__and_Propagation.svg)](https://dev.to/mitchiemt11/javascript-events-bubbling-capturing-and-propagation-56ab)
-[![Google Keep style input form in VanillaJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Google_Keep_style_input_form_in_VanillaJS.svg)](https://dev.to/tanishqsingla/google-keep-style-input-form-in-vanillajs-19d3)
+[![When can you declare yourself a Full-stack Dev?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/When_can_you_declare_yourself_a_Full-stack_Dev_.svg)](https://dev.to/thomasbnt/when-can-you-declare-yourself-a-full-stack-dev-31j1)
+[![How to use variable inside variable in angular template?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_use_variable_inside_variable_in_angular_template_.svg)](https://dev.to/debanjant/how-to-use-variable-inside-variable-in-angular-template-569k)
+[![Scalable Job Queue in SQL (YugabyteDB)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Scalable_Job_Queue_in_SQL_(YugabyteDB).svg)](https://dev.to/yugabyte/scalable-job-queue-in-sql-yugabytedb-4ma5)
+[![What is stopping you from learning C?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_stopping_you_from_learning_C_.svg)](https://dev.to/yjdoc2/what-is-stopping-you-from-learning-c-272k)
+[![A journey towards a type-safe GraphQL API server](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_journey_towards_a_type-safe_GraphQL_API_server.svg)](https://dev.to/energiebespaarders/a-journey-towards-a-type-safe-graphql-api-server-52p8)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, December 2, 2022 at 5:17:14 AM
+> Last updated: Friday, December 2, 2022 at 11:11:30 AM
 
 > Showing 4 of 4 posts.
 
+[![Splitting up sentences with Intl.Segmenter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Splitting_up_sentences_with_Intl.Segmenter.svg)](https://javascriptweekly.com/issues/617)
 [![JavaScript Vocoder Puccini](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/JavaScript_Vocoder_Puccini.svg)](https://javascriptweekly.com/issues/616)
 [![Nuxt 3.0, TypeScript 4.9, Angular 15..](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Nuxt_3.0__TypeScript_4.9__Angular_15...svg)](https://javascriptweekly.com/issues/615)
 [![Rome wasn't rewritten in a day](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Rome_wasn't_rewritten_in_a_day.svg)](https://javascriptweekly.com/issues/614)
-[![Is Turbopack really 10x faster than Vite?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Is_Turbopack_really_10x_faster_than_Vite_.svg)](https://javascriptweekly.com/issues/613)
 
 
 ## Echo JS
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, December 2, 2022 at 5:17:20 AM
+> Last updated: Friday, December 2, 2022 at 11:11:35 AM
 
 > Showing 5 of 30 posts.
 
