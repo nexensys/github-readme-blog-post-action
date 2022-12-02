@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, December 1, 2022 at 11:11:34 PM
+> Last updated: Friday, December 2, 2022 at 5:17:11 AM
 
 > Showing 5 of 12 posts.
 
-[![Right way to compare double and float in Java?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Right_way_to_compare_double_and_float_in_Java_.svg)](https://dev.to/somadevtoo/right-way-to-compare-double-and-float-in-java-4k06)
-[![Building the Frontend of a Progressive Web App Using React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Building_the_Frontend_of_a_Progressive_Web_App_Using_React.svg)](https://dev.to/batunpc/building-the-frontend-of-a-progressive-web-app-using-react-34nh)
-[![AWS DATABASES](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/AWS_DATABASES.svg)](https://dev.to/aws-builders/aws-databases-1h4b)
-[![Pushing container images to GitHub Container Registry with GitHub Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Pushing_container_images_to_GitHub_Container_Registry_with_GitHub_Actions.svg)](https://dev.to/willvelida/pushing-container-images-to-github-container-registry-with-github-actions-1m6b)
-[![Progress with feature implementation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Progress_with_feature_implementation.svg)](https://dev.to/ririio/progress-with-feature-implementation-4c0)
+[![Want to create attractive, interactive docs? Use these amazing documentation tools and examples](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Want_to_create_attractive__interactive_docs__Use_these_amazing_documentation_tools_and_examples.svg)](https://dev.to/robole/want-to-create-attractive-interactive-docs-use-these-amazing-documentation-tools-and-examples-562l)
+[![Bootstrap vs Tailwind CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Bootstrap_vs_Tailwind_CSS.svg)](https://dev.to/qbentil/bootstrap-vs-tailwind-css-48mp)
+[![Ruby + ML](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Ruby_+_ML.svg)](https://dev.to/daviducolo/ruby-ml-3f7h)
+[![JavaScript Events: Bubbling, Capturing, and Propagation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/JavaScript_Events__Bubbling__Capturing__and_Propagation.svg)](https://dev.to/mitchiemt11/javascript-events-bubbling-capturing-and-propagation-56ab)
+[![Google Keep style input form in VanillaJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Google_Keep_style_input_form_in_VanillaJS.svg)](https://dev.to/tanishqsingla/google-keep-style-input-form-in-vanillajs-19d3)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, December 1, 2022 at 11:11:37 PM
+> Last updated: Friday, December 2, 2022 at 5:17:14 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, December 1, 2022 at 11:11:41 PM
+> Last updated: Friday, December 2, 2022 at 5:17:20 AM
 
 > Showing 5 of 30 posts.
 
+[![How to Convert a String to an Array with JavaScript - Stack Diary](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Convert_a_String_to_an_Array_with_JavaScript_-_Stack_Diary.svg)](https://stackdiary.com/string-to-array-javascript/)
+[![McDVOICE - McDVOICE](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/McDVOICE_-_McDVOICE.svg)](https://mcdvoice.me/)
 [![Use the Ternary Operator for Conditionals in Vue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Use_the_Ternary_Operator_for_Conditionals_in_Vue.svg)](
 https://masteringjs.io/tutorials/vue/ternary-operator
 )
 [![GitHub - ehmicky/modern-errors: Handle errors in a simple, stable, consistent way](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ehmicky_modern-errors__Handle_errors_in_a_simple__stable__consistent_way.svg)](https://github.com/ehmicky/modern-errors)
 [![Vylmech Engineering - Manufacturers of Industrial Valves, Flanges, and Tube Fittings](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Vylmech_Engineering_-_Manufacturers_of_Industrial_Valves__Flanges__and_Tube_Fittings.svg)](https://vylmech.com/)
-[![Module Federation for distributed front ends — the best of both worlds?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Module_Federation_for_distributed_front_ends_—_the_best_of_both_worlds_.svg)](https://medium.com/hacking-talent/module-federation-for-distributed-front-ends-the-best-of-both-worlds-bb6af9e4000e)
-[![rekwest](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/rekwest.svg)](https://www.npmjs.com/package/rekwest)
 
 
 <!-- post-list:end -->
