@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, December 2, 2022 at 5:44:58 PM
+> Last updated: Friday, December 2, 2022 at 11:10:42 PM
 
 > Showing 5 of 12 posts.
 
-[![React TypeScript: Outside Click Detector](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/React_TypeScript__Outside_Click_Detector.svg)](https://dev.to/therise3107/react-typescript-outside-click-detector-6gb)
-[![Writing better README.md files using GitHub flavoured markdown](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Writing_better_README.md_files_using_GitHub_flavoured_markdown.svg)](https://dev.to/abubakardev/writing-better-readmemd-files-using-github-flavoured-markdown-3344)
-[![How AR will disrupt retail and sales](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_AR_will_disrupt_retail_and_sales.svg)](https://dev.to/shiaart/how-ar-will-disrupt-retail-and-sales-5fbk)
-[![Advent of Code - Day 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Advent_of_Code_-_Day_2.svg)](https://dev.to/azure/advent-of-code-day-2-1fb2)
-[![My OpenMetal Experience](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/My_OpenMetal_Experience.svg)](https://dev.to/thenjdevopsguy/my-openmetal-experience-33ao)
+[![Learn Web Development by Building Projects](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Learn_Web_Development_by_Building_Projects.svg)](https://dev.to/codewithvoid/learn-web-development-by-building-projects-1kc1)
+[![Hey Tech Recruiter, Here Are Some Tips from a Developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Hey_Tech_Recruiter__Here_Are_Some_Tips_from_a_Developer.svg)](https://dev.to/eevajonnapanula/hey-tech-recruiter-here-are-some-tips-from-a-developer-4hl8)
+[![New React Native Template 2022 for start new app. I choice it](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/New_React_Native_Template_2022_for_start_new_app._I_choice_it.svg)](https://dev.to/bonnguyenitc/help-me-improve-codebase-for-react-native-boilerplate-33nm)
+[![Plans for something bigger](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Plans_for_something_bigger.svg)](https://dev.to/devils2ndself/plans-for-something-bigger-1d16)
+[![Advent of Code 2022 Day 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Advent_of_Code_2022_Day_2.svg)](https://dev.to/nickymeuleman/advent-of-code-2022-day-2-3b18)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, December 2, 2022 at 5:45:01 PM
+> Last updated: Friday, December 2, 2022 at 11:10:46 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, December 2, 2022 at 5:45:06 PM
+> Last updated: Friday, December 2, 2022 at 11:10:49 PM
 
 > Showing 5 of 30 posts.
 
