@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, December 2, 2022 at 11:10:42 PM
+> Last updated: Saturday, December 3, 2022 at 5:15:11 AM
 
 > Showing 5 of 12 posts.
 
-[![Learn Web Development by Building Projects](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Learn_Web_Development_by_Building_Projects.svg)](https://dev.to/codewithvoid/learn-web-development-by-building-projects-1kc1)
-[![Hey Tech Recruiter, Here Are Some Tips from a Developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Hey_Tech_Recruiter__Here_Are_Some_Tips_from_a_Developer.svg)](https://dev.to/eevajonnapanula/hey-tech-recruiter-here-are-some-tips-from-a-developer-4hl8)
-[![New React Native Template 2022 for start new app. I choice it](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/New_React_Native_Template_2022_for_start_new_app._I_choice_it.svg)](https://dev.to/bonnguyenitc/help-me-improve-codebase-for-react-native-boilerplate-33nm)
-[![Plans for something bigger](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Plans_for_something_bigger.svg)](https://dev.to/devils2ndself/plans-for-something-bigger-1d16)
-[![Advent of Code 2022 Day 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Advent_of_Code_2022_Day_2.svg)](https://dev.to/nickymeuleman/advent-of-code-2022-day-2-3b18)
+[![Setting up reCAPTCHA in your React Application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Setting_up_reCAPTCHA_in_your_React_Application.svg)](https://dev.to/zt4ff_1/setting-up-recaptcha-in-your-react-application-2213)
+[![Removing all vowels with JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Removing_all_vowels_with_JavaScript.svg)](https://dev.to/dailydevtips1/removing-all-vowels-with-javascript-2c70)
+[![How to install and activate Virtual Environment in Python Django](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_install_and_activate_Virtual_Environment_in_Python_Django.svg)](https://dev.to/samiullahsaleem/how-to-activate-virtual-environment-in-django-apb)
+[![UIKit vs SwiftUI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/UIKit_vs_SwiftUI.svg)](https://dev.to/saifullahsajid/uikit-vs-swiftui-1hd6)
+[![ACCESSING NFT SMART CONTRACT CODE](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/ACCESSING_NFT_SMART_CONTRACT_CODE.svg)](https://dev.to/stephenkimoi/accessing-nft-smart-contract-codes-56e6)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, December 2, 2022 at 11:10:46 PM
+> Last updated: Saturday, December 3, 2022 at 5:15:13 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,21 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, December 2, 2022 at 11:10:49 PM
+> Last updated: Saturday, December 3, 2022 at 5:15:17 AM
 
 > Showing 5 of 30 posts.
 
+[![
+Top Trends in Mobile App Development in 2022
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Top_Trends_in_Mobile_App_Development_in_2022_.svg)](
+https://flutterdesk.com/
+)
 [![Intro to Micro Front Ends](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Intro_to_Micro_Front_Ends.svg)](https://okhivrych.io/intro-to-micro-front-ends)
 [![How to Convert a String to an Array with JavaScript - Stack Diary](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Convert_a_String_to_an_Array_with_JavaScript_-_Stack_Diary.svg)](https://stackdiary.com/string-to-array-javascript/)
 [![McDVOICE - McDVOICE](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/McDVOICE_-_McDVOICE.svg)](https://mcdvoice.me/)
 [![Use the Ternary Operator for Conditionals in Vue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Use_the_Ternary_Operator_for_Conditionals_in_Vue.svg)](
 https://masteringjs.io/tutorials/vue/ternary-operator
 )
-[![GitHub - ehmicky/modern-errors: Handle errors in a simple, stable, consistent way](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ehmicky_modern-errors__Handle_errors_in_a_simple__stable__consistent_way.svg)](https://github.com/ehmicky/modern-errors)
 
 
 <!-- post-list:end -->
