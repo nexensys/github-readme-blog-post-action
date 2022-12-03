@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, December 3, 2022 at 5:15:11 AM
+> Last updated: Saturday, December 3, 2022 at 11:10:17 AM
 
 > Showing 5 of 12 posts.
 
-[![Setting up reCAPTCHA in your React Application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Setting_up_reCAPTCHA_in_your_React_Application.svg)](https://dev.to/zt4ff_1/setting-up-recaptcha-in-your-react-application-2213)
-[![Removing all vowels with JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Removing_all_vowels_with_JavaScript.svg)](https://dev.to/dailydevtips1/removing-all-vowels-with-javascript-2c70)
-[![How to install and activate Virtual Environment in Python Django](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_install_and_activate_Virtual_Environment_in_Python_Django.svg)](https://dev.to/samiullahsaleem/how-to-activate-virtual-environment-in-django-apb)
-[![UIKit vs SwiftUI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/UIKit_vs_SwiftUI.svg)](https://dev.to/saifullahsajid/uikit-vs-swiftui-1hd6)
-[![ACCESSING NFT SMART CONTRACT CODE](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/ACCESSING_NFT_SMART_CONTRACT_CODE.svg)](https://dev.to/stephenkimoi/accessing-nft-smart-contract-codes-56e6)
+[![Advent of Code Day 2 Solutions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Advent_of_Code_Day_2_Solutions.svg)](https://dev.to/liftoffstudios/advent-of-code-day-2-solutions-4efd)
+[![I passed the CPACC exam](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/I_passed_the_CPACC_exam.svg)](https://dev.to/yuridevat/i-passed-the-cpacc-exam-1pam)
+[![Kubernetes: What It Is, How It Works, and Why It's A Game changer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Kubernetes__What_It_Is__How_It_Works__and_Why_It's_A_Game_changer.svg)](https://dev.to/pramit_marattha/kubernetes-what-it-is-how-it-works-and-why-its-a-game-changer-15pg)
+[![Advent Of Code Day 1 Solutions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Advent_Of_Code_Day_1_Solutions.svg)](https://dev.to/liftoffstudios/advent-of-code-day-1-solutions-405o)
+[![Apollo Server v4 Breaking Changes. Time to move away?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Apollo_Server_v4_Breaking_Changes._Time_to_move_away_.svg)](https://dev.to/gethackteam/apollo-server-v4-breaking-changes-time-to-move-away-3fli)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, December 3, 2022 at 5:15:13 AM
+> Last updated: Saturday, December 3, 2022 at 11:10:21 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, December 3, 2022 at 5:15:17 AM
+> Last updated: Saturday, December 3, 2022 at 11:10:25 AM
 
 > Showing 5 of 30 posts.
 
+[![Code your Astro.build website faster with Stylify CSS | Stylify CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Code_your_Astro.build_website_faster_with_Stylify_CSS___Stylify_CSS.svg)](https://stylifycss.com/blog/code-your-astrobuild-website-faster-with-stylify-css)
 [![
 Top Trends in Mobile App Development in 2022
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Top_Trends_in_Mobile_App_Development_in_2022_.svg)](
@@ -55,9 +56,6 @@ https://flutterdesk.com/
 [![Intro to Micro Front Ends](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Intro_to_Micro_Front_Ends.svg)](https://okhivrych.io/intro-to-micro-front-ends)
 [![How to Convert a String to an Array with JavaScript - Stack Diary](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Convert_a_String_to_an_Array_with_JavaScript_-_Stack_Diary.svg)](https://stackdiary.com/string-to-array-javascript/)
 [![McDVOICE - McDVOICE](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/McDVOICE_-_McDVOICE.svg)](https://mcdvoice.me/)
-[![Use the Ternary Operator for Conditionals in Vue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Use_the_Ternary_Operator_for_Conditionals_in_Vue.svg)](
-https://masteringjs.io/tutorials/vue/ternary-operator
-)
 
 
 <!-- post-list:end -->
