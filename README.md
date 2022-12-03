@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, December 2, 2022 at 11:11:26 AM
+> Last updated: Friday, December 2, 2022 at 5:44:58 PM
 
 > Showing 5 of 12 posts.
 
-[![When can you declare yourself a Full-stack Dev?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/When_can_you_declare_yourself_a_Full-stack_Dev_.svg)](https://dev.to/thomasbnt/when-can-you-declare-yourself-a-full-stack-dev-31j1)
-[![How to use variable inside variable in angular template?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_use_variable_inside_variable_in_angular_template_.svg)](https://dev.to/debanjant/how-to-use-variable-inside-variable-in-angular-template-569k)
-[![Scalable Job Queue in SQL (YugabyteDB)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Scalable_Job_Queue_in_SQL_(YugabyteDB).svg)](https://dev.to/yugabyte/scalable-job-queue-in-sql-yugabytedb-4ma5)
-[![What is stopping you from learning C?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_stopping_you_from_learning_C_.svg)](https://dev.to/yjdoc2/what-is-stopping-you-from-learning-c-272k)
-[![A journey towards a type-safe GraphQL API server](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_journey_towards_a_type-safe_GraphQL_API_server.svg)](https://dev.to/energiebespaarders/a-journey-towards-a-type-safe-graphql-api-server-52p8)
+[![React TypeScript: Outside Click Detector](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/React_TypeScript__Outside_Click_Detector.svg)](https://dev.to/therise3107/react-typescript-outside-click-detector-6gb)
+[![Writing better README.md files using GitHub flavoured markdown](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Writing_better_README.md_files_using_GitHub_flavoured_markdown.svg)](https://dev.to/abubakardev/writing-better-readmemd-files-using-github-flavoured-markdown-3344)
+[![How AR will disrupt retail and sales](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_AR_will_disrupt_retail_and_sales.svg)](https://dev.to/shiaart/how-ar-will-disrupt-retail-and-sales-5fbk)
+[![Advent of Code - Day 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Advent_of_Code_-_Day_2.svg)](https://dev.to/azure/advent-of-code-day-2-1fb2)
+[![My OpenMetal Experience](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/My_OpenMetal_Experience.svg)](https://dev.to/thenjdevopsguy/my-openmetal-experience-33ao)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, December 2, 2022 at 11:11:30 AM
+> Last updated: Friday, December 2, 2022 at 5:45:01 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, December 2, 2022 at 11:11:35 AM
+> Last updated: Friday, December 2, 2022 at 5:45:06 PM
 
 > Showing 5 of 30 posts.
 
+[![Intro to Micro Front Ends](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Intro_to_Micro_Front_Ends.svg)](https://okhivrych.io/intro-to-micro-front-ends)
 [![How to Convert a String to an Array with JavaScript - Stack Diary](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Convert_a_String_to_an_Array_with_JavaScript_-_Stack_Diary.svg)](https://stackdiary.com/string-to-array-javascript/)
 [![McDVOICE - McDVOICE](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/McDVOICE_-_McDVOICE.svg)](https://mcdvoice.me/)
 [![Use the Ternary Operator for Conditionals in Vue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Use_the_Ternary_Operator_for_Conditionals_in_Vue.svg)](
 https://masteringjs.io/tutorials/vue/ternary-operator
 )
 [![GitHub - ehmicky/modern-errors: Handle errors in a simple, stable, consistent way](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ehmicky_modern-errors__Handle_errors_in_a_simple__stable__consistent_way.svg)](https://github.com/ehmicky/modern-errors)
-[![Vylmech Engineering - Manufacturers of Industrial Valves, Flanges, and Tube Fittings](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Vylmech_Engineering_-_Manufacturers_of_Industrial_Valves__Flanges__and_Tube_Fittings.svg)](https://vylmech.com/)
 
 
 <!-- post-list:end -->
