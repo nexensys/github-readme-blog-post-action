@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, December 3, 2022 at 11:11:06 PM
+> Last updated: Sunday, December 4, 2022 at 5:16:29 AM
 
 > Showing 5 of 12 posts.
 
-[![Creating a Telegram chatbot with ChatGPT: A Step-by-Step Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Creating_a_Telegram_chatbot_with_ChatGPT__A_Step-by-Step_Guide.svg)](https://dev.to/leighola/creating-a-telegram-chatbot-with-chatgpt-a-step-by-step-guide-42gg)
-[![How to make declarative/code-based router instead of file-based router in SvelteKit 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_make_declarative_code-based_router_instead_of_file-based_router_in_SvelteKit_2.svg)](https://dev.to/maxcore/how-to-make-declarativecode-based-router-instead-of-file-based-router-in-sveltekit-2-3dd4)
-[![Generate sitemap.xml and robots.txt in Nextjs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Generate_sitemap.xml_and_robots.txt_in_Nextjs.svg)](https://dev.to/basskibo/generate-sitemapxml-and-robotstxt-in-nextjs-4nl5)
-[![5 Small and Hidden React libraries You Should Already Be Using](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_Small_and_Hidden_React_libraries_You_Should_Already_Be_Using.svg)](https://dev.to/naubit/5-small-and-hidden-react-libraries-you-should-already-be-using-nb5)
-[![What is the future of a web dev? What is your destiny?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_the_future_of_a_web_dev__What_is_your_destiny_.svg)](https://dev.to/naubit/what-is-the-future-of-a-web-dev-what-is-your-destiny-50j0)
+[![Open Graph images](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Open_Graph_images.svg)](https://dev.to/krasun/open-graph-images-38lg)
+[![ES6 Data Structures: JS Map](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/ES6_Data_Structures__JS_Map.svg)](https://dev.to/mitchiemt11/es6-data-structures-js-map-467p)
+[![Why do SQL Server views need refreshing?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Why_do_SQL_Server_views_need_refreshing_.svg)](https://dev.to/trinityyi/why-do-sql-server-views-need-refreshing-1e4j)
+[![How JWTs Could Be Dangerous and Its Alternatives](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_JWTs_Could_Be_Dangerous_and_Its_Alternatives.svg)](https://dev.to/pragativerma18/how-jwts-could-be-dangerous-and-its-alternatives-3k3j)
+[![Golang CSRF Defense in Practice](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Golang_CSRF_Defense_in_Practice.svg)](https://dev.to/llance_24/golang-csrf-defense-in-practice-10k)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, December 3, 2022 at 11:11:10 PM
+> Last updated: Sunday, December 4, 2022 at 5:16:31 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, December 3, 2022 at 11:11:13 PM
+> Last updated: Sunday, December 4, 2022 at 5:16:34 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - codad5/keybinder: This is a Javascript library that helps with listening to browser Keyboard changes, and also helps in managing keyboard shortcuts in the browser. browser keyboard controller](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_codad5_keybinder__This_is_a_Javascript_library_that_helps_with_listening_to_browser_Keyboard_changes__and_also_helps_in_managing_keyboard_shortcuts_in_the_browser._browser_keyboard_controller.svg)](https://github.com/codad5/keybinder)
 [![Code your Astro.build website faster with Stylify CSS | Stylify CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Code_your_Astro.build_website_faster_with_Stylify_CSS___Stylify_CSS.svg)](https://stylifycss.com/blog/code-your-astrobuild-website-faster-with-stylify-css)
 [![
 Top Trends in Mobile App Development in 2022
@@ -55,7 +56,6 @@ https://flutterdesk.com/
 )
 [![Intro to Micro Front Ends](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Intro_to_Micro_Front_Ends.svg)](https://okhivrych.io/intro-to-micro-front-ends)
 [![How to Convert a String to an Array with JavaScript - Stack Diary](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Convert_a_String_to_an_Array_with_JavaScript_-_Stack_Diary.svg)](https://stackdiary.com/string-to-array-javascript/)
-[![McDVOICE - McDVOICE](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/McDVOICE_-_McDVOICE.svg)](https://mcdvoice.me/)
 
 
 <!-- post-list:end -->
