@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, December 3, 2022 at 11:10:17 AM
+> Last updated: Saturday, December 3, 2022 at 5:47:34 PM
 
 > Showing 5 of 12 posts.
 
-[![Advent of Code Day 2 Solutions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Advent_of_Code_Day_2_Solutions.svg)](https://dev.to/liftoffstudios/advent-of-code-day-2-solutions-4efd)
-[![I passed the CPACC exam](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/I_passed_the_CPACC_exam.svg)](https://dev.to/yuridevat/i-passed-the-cpacc-exam-1pam)
-[![Kubernetes: What It Is, How It Works, and Why It's A Game changer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Kubernetes__What_It_Is__How_It_Works__and_Why_It's_A_Game_changer.svg)](https://dev.to/pramit_marattha/kubernetes-what-it-is-how-it-works-and-why-its-a-game-changer-15pg)
-[![Advent Of Code Day 1 Solutions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Advent_Of_Code_Day_1_Solutions.svg)](https://dev.to/liftoffstudios/advent-of-code-day-1-solutions-405o)
-[![Apollo Server v4 Breaking Changes. Time to move away?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Apollo_Server_v4_Breaking_Changes._Time_to_move_away_.svg)](https://dev.to/gethackteam/apollo-server-v4-breaking-changes-time-to-move-away-3fli)
+[![5 Small and Hidden React libraries you should already be using](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_Small_and_Hidden_React_libraries_you_should_already_be_using.svg)](https://dev.to/naubit/5-small-and-hidden-react-libraries-you-should-already-be-using-nb5)
+[![What is the future of a web dev? What is your destiny?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_the_future_of_a_web_dev__What_is_your_destiny_.svg)](https://dev.to/naubit/what-is-the-future-of-a-web-dev-what-is-your-destiny-50j0)
+[![Final Weekend of the MongoDB Atlas Hackathon 2022 on DEV!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Final_Weekend_of_the_MongoDB_Atlas_Hackathon_2022_on_DEV!.svg)](https://dev.to/devteam/final-weekend-of-the-mongodb-atlas-hackathon-2022-on-dev-1h8p)
+[![Ready? Set. Code! 👨‍💻](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Ready__Set._Code!_👨‍💻.svg)](https://dev.to/paulxcodes/ready-set-go-1aok)
+[![Short-circuit Evaluation Of Logical Expressions In Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Short-circuit_Evaluation_Of_Logical_Expressions_In_Python.svg)](https://dev.to/kekyei/short-circuit-evaluation-of-logical-expressions-3b57)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, December 3, 2022 at 11:10:21 AM
+> Last updated: Saturday, December 3, 2022 at 5:47:37 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, December 3, 2022 at 11:10:25 AM
+> Last updated: Saturday, December 3, 2022 at 5:47:42 PM
 
 > Showing 5 of 30 posts.
 
