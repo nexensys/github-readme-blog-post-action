@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, December 3, 2022 at 5:47:34 PM
+> Last updated: Saturday, December 3, 2022 at 11:11:06 PM
 
 > Showing 5 of 12 posts.
 
-[![5 Small and Hidden React libraries you should already be using](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_Small_and_Hidden_React_libraries_you_should_already_be_using.svg)](https://dev.to/naubit/5-small-and-hidden-react-libraries-you-should-already-be-using-nb5)
+[![Creating a Telegram chatbot with ChatGPT: A Step-by-Step Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Creating_a_Telegram_chatbot_with_ChatGPT__A_Step-by-Step_Guide.svg)](https://dev.to/leighola/creating-a-telegram-chatbot-with-chatgpt-a-step-by-step-guide-42gg)
+[![How to make declarative/code-based router instead of file-based router in SvelteKit 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_make_declarative_code-based_router_instead_of_file-based_router_in_SvelteKit_2.svg)](https://dev.to/maxcore/how-to-make-declarativecode-based-router-instead-of-file-based-router-in-sveltekit-2-3dd4)
+[![Generate sitemap.xml and robots.txt in Nextjs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Generate_sitemap.xml_and_robots.txt_in_Nextjs.svg)](https://dev.to/basskibo/generate-sitemapxml-and-robotstxt-in-nextjs-4nl5)
+[![5 Small and Hidden React libraries You Should Already Be Using](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_Small_and_Hidden_React_libraries_You_Should_Already_Be_Using.svg)](https://dev.to/naubit/5-small-and-hidden-react-libraries-you-should-already-be-using-nb5)
 [![What is the future of a web dev? What is your destiny?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_the_future_of_a_web_dev__What_is_your_destiny_.svg)](https://dev.to/naubit/what-is-the-future-of-a-web-dev-what-is-your-destiny-50j0)
-[![Final Weekend of the MongoDB Atlas Hackathon 2022 on DEV!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Final_Weekend_of_the_MongoDB_Atlas_Hackathon_2022_on_DEV!.svg)](https://dev.to/devteam/final-weekend-of-the-mongodb-atlas-hackathon-2022-on-dev-1h8p)
-[![Ready? Set. Code! 👨‍💻](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Ready__Set._Code!_👨‍💻.svg)](https://dev.to/paulxcodes/ready-set-go-1aok)
-[![Short-circuit Evaluation Of Logical Expressions In Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Short-circuit_Evaluation_Of_Logical_Expressions_In_Python.svg)](https://dev.to/kekyei/short-circuit-evaluation-of-logical-expressions-3b57)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, December 3, 2022 at 5:47:37 PM
+> Last updated: Saturday, December 3, 2022 at 11:11:10 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, December 3, 2022 at 5:47:42 PM
+> Last updated: Saturday, December 3, 2022 at 11:11:13 PM
 
 > Showing 5 of 30 posts.
 
