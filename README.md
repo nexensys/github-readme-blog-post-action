@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, December 4, 2022 at 5:16:29 AM
+> Last updated: Sunday, December 4, 2022 at 11:10:14 AM
 
 > Showing 5 of 12 posts.
 
-[![Open Graph images](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Open_Graph_images.svg)](https://dev.to/krasun/open-graph-images-38lg)
-[![ES6 Data Structures: JS Map](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/ES6_Data_Structures__JS_Map.svg)](https://dev.to/mitchiemt11/es6-data-structures-js-map-467p)
-[![Why do SQL Server views need refreshing?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Why_do_SQL_Server_views_need_refreshing_.svg)](https://dev.to/trinityyi/why-do-sql-server-views-need-refreshing-1e4j)
-[![How JWTs Could Be Dangerous and Its Alternatives](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_JWTs_Could_Be_Dangerous_and_Its_Alternatives.svg)](https://dev.to/pragativerma18/how-jwts-could-be-dangerous-and-its-alternatives-3k3j)
-[![Golang CSRF Defense in Practice](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Golang_CSRF_Defense_in_Practice.svg)](https://dev.to/llance_24/golang-csrf-defense-in-practice-10k)
+[![Docker vs. Containerd: Which Containerization Technology is Right for Your Project?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Docker_vs._Containerd__Which_Containerization_Technology_is_Right_for_Your_Project_.svg)](https://dev.to/pramit_marattha/docker-vs-containerd-which-containerization-technology-is-right-for-your-project-25pk)
+[![You're running an online conference but get called out for having an all-male speaker lineup 2 days prior. Yo, What do you do?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/You're_running_an_online_conference_but_get_called_out_for_having_an_all-male_speaker_lineup_2_days_prior._Yo__What_do_you_do_.svg)](https://dev.to/andrewbrown/youre-running-an-online-conference-but-get-called-out-for-having-an-all-male-speaker-lineup-2-days-prior-yo-what-do-you-do-2m58)
+[![How to build a bullet-proof study system while learning](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_build_a_bullet-proof_study_system_while_learning.svg)](https://dev.to/joshhortt/how-to-build-a-bullet-proof-study-system-while-learning-oin)
+[![Modern UI tailwindcss ressources](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Modern_UI_tailwindcss_ressources.svg)](https://dev.to/tailus/modern-ui-tailwindcss-ressources-423m)
+[![The Surface Area of Software](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Surface_Area_of_Software.svg)](https://dev.to/david_whitney/the-surface-area-of-software-2926)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, December 4, 2022 at 5:16:31 AM
+> Last updated: Sunday, December 4, 2022 at 11:10:17 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, December 4, 2022 at 5:16:34 AM
+> Last updated: Sunday, December 4, 2022 at 11:10:21 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - tanekloc/tmsg: Type-safe i18n library for TypeScript apps. Based on and largely compatible with MessageFormat.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_tanekloc_tmsg__Type-safe_i18n_library_for_TypeScript_apps._Based_on_and_largely_compatible_with_MessageFormat..svg)](https://github.com/tanekloc/tmsg)
 [![GitHub - codad5/keybinder: This is a Javascript library that helps with listening to browser Keyboard changes, and also helps in managing keyboard shortcuts in the browser. browser keyboard controller](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_codad5_keybinder__This_is_a_Javascript_library_that_helps_with_listening_to_browser_Keyboard_changes__and_also_helps_in_managing_keyboard_shortcuts_in_the_browser._browser_keyboard_controller.svg)](https://github.com/codad5/keybinder)
 [![Code your Astro.build website faster with Stylify CSS | Stylify CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Code_your_Astro.build_website_faster_with_Stylify_CSS___Stylify_CSS.svg)](https://stylifycss.com/blog/code-your-astrobuild-website-faster-with-stylify-css)
 [![
@@ -55,7 +56,6 @@ Top Trends in Mobile App Development in 2022
 https://flutterdesk.com/
 )
 [![Intro to Micro Front Ends](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Intro_to_Micro_Front_Ends.svg)](https://okhivrych.io/intro-to-micro-front-ends)
-[![How to Convert a String to an Array with JavaScript - Stack Diary](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Convert_a_String_to_an_Array_with_JavaScript_-_Stack_Diary.svg)](https://stackdiary.com/string-to-array-javascript/)
 
 
 <!-- post-list:end -->
