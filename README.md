@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, December 4, 2022 at 5:45:45 PM
+> Last updated: Sunday, December 4, 2022 at 11:11:55 PM
 
 > Showing 5 of 12 posts.
 
-[![Power up your web apps with TensorFlow.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Power_up_your_web_apps_with_TensorFlow.js.svg)](https://dev.to/360macky/power-up-your-web-apps-with-tensorflowjs-15o5)
-[![4 FREE Resources To Boost Your Node.js Developer Career ⚡](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/4_FREE_Resources_To_Boost_Your_Node.js_Developer_Career_⚡.svg)](https://dev.to/nodedoctors/4-free-resources-to-boost-your-nodejs-developer-career-1bpe)
-[![Code Smell 184 - Exception Arrow Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Code_Smell_184_-_Exception_Arrow_Code.svg)](https://dev.to/mcsee/code-smell-184-exception-arrow-code-2cia)
-[![What The Facade?!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_The_Facade_!.svg)](https://dev.to/juniordevforlife/what-the-facade-22d4)
-[![How to upload an image to AWS S3 pre-assign URL with background-http.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_upload_an_image_to_AWS_S3_pre-assign_URL_with_background-http..svg)](https://dev.to/vanishdark/how-to-upload-an-image-to-aws-s3-pre-assign-url-with-background-http-207a)
+[![A look at HSL colors](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_look_at_HSL_colors.svg)](https://dev.to/dailydevtips1/a-look-at-hsl-colors-3c47)
+[![Create Floating Hearts 3D model in Three.JS and React Three Fiber](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Create_Floating_Hearts_3D_model_in_Three.JS_and_React_Three_Fiber.svg)](https://dev.to/leduc1901/create-floating-hearts-3d-model-in-threejs-and-react-three-fiber-5gk1)
+[![Mobile App Hacking & Protection](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Mobile_App_Hacking___Protection.svg)](https://dev.to/teamliapp/mobile-app-hacking-protection-4fk6)
+[![Consistency Tips for Developers That Actually Work](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Consistency_Tips_for_Developers_That_Actually_Work.svg)](https://dev.to/codewithvoid/consistency-tips-for-developers-that-actually-work-3m5a)
+[![React and express.js form validations with Zod](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/React_and_express.js_form_validations_with_Zod.svg)](https://dev.to/dawsoncodes/react-and-expressjs-form-validations-with-zod-2998)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, December 4, 2022 at 5:45:48 PM
+> Last updated: Sunday, December 4, 2022 at 11:11:59 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, December 4, 2022 at 5:45:50 PM
+> Last updated: Sunday, December 4, 2022 at 11:12:03 PM
 
 > Showing 5 of 30 posts.
 
