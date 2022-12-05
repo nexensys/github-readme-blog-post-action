@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, December 4, 2022 at 11:11:55 PM
+> Last updated: Monday, December 5, 2022 at 5:16:59 AM
 
 > Showing 5 of 12 posts.
 
-[![A look at HSL colors](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_look_at_HSL_colors.svg)](https://dev.to/dailydevtips1/a-look-at-hsl-colors-3c47)
-[![Create Floating Hearts 3D model in Three.JS and React Three Fiber](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Create_Floating_Hearts_3D_model_in_Three.JS_and_React_Three_Fiber.svg)](https://dev.to/leduc1901/create-floating-hearts-3d-model-in-threejs-and-react-three-fiber-5gk1)
-[![Mobile App Hacking & Protection](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Mobile_App_Hacking___Protection.svg)](https://dev.to/teamliapp/mobile-app-hacking-protection-4fk6)
-[![Consistency Tips for Developers That Actually Work](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Consistency_Tips_for_Developers_That_Actually_Work.svg)](https://dev.to/codewithvoid/consistency-tips-for-developers-that-actually-work-3m5a)
-[![React and express.js form validations with Zod](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/React_and_express.js_form_validations_with_Zod.svg)](https://dev.to/dawsoncodes/react-and-expressjs-form-validations-with-zod-2998)
+[![Top X programming and tech videos of November 2022.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_X_programming_and_tech_videos_of_November_2022..svg)](https://dev.to/nordicbeaver/top-x-programming-and-tech-videos-of-november-2022-22dc)
+[![Run event-driven workflows with Amazon EKS Blueprints, Keda and Karpenter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Run_event-driven_workflows_with_Amazon_EKS_Blueprints__Keda_and_Karpenter.svg)](https://dev.to/aws-builders/run-event-driven-workflows-with-amazon-eks-blueprints-keda-and-karpenter-160a)
+[![How to record videos with Puppeteer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_record_videos_with_Puppeteer.svg)](https://dev.to/krasun/how-to-record-videos-with-puppeteer-2f1d)
+[![Sleeping is not the best option](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Sleeping_is_not_the_best_option.svg)](https://dev.to/trikitrok/sleeping-is-not-the-best-option-2pn6)
+[![An Introduction to Storybook JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/An_Introduction_to_Storybook_JS.svg)](https://dev.to/quokkalabs/an-introduction-to-storybook-js-2n34)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, December 4, 2022 at 11:11:59 PM
+> Last updated: Monday, December 5, 2022 at 5:17:02 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, December 4, 2022 at 11:12:03 PM
+> Last updated: Monday, December 5, 2022 at 5:17:05 AM
 
 > Showing 5 of 30 posts.
 
