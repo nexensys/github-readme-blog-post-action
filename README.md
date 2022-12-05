@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, December 5, 2022 at 5:16:59 AM
+> Last updated: Monday, December 5, 2022 at 11:11:09 AM
 
 > Showing 5 of 12 posts.
 
-[![Top X programming and tech videos of November 2022.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_X_programming_and_tech_videos_of_November_2022..svg)](https://dev.to/nordicbeaver/top-x-programming-and-tech-videos-of-november-2022-22dc)
-[![Run event-driven workflows with Amazon EKS Blueprints, Keda and Karpenter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Run_event-driven_workflows_with_Amazon_EKS_Blueprints__Keda_and_Karpenter.svg)](https://dev.to/aws-builders/run-event-driven-workflows-with-amazon-eks-blueprints-keda-and-karpenter-160a)
-[![How to record videos with Puppeteer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_record_videos_with_Puppeteer.svg)](https://dev.to/krasun/how-to-record-videos-with-puppeteer-2f1d)
-[![Sleeping is not the best option](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Sleeping_is_not_the_best_option.svg)](https://dev.to/trikitrok/sleeping-is-not-the-best-option-2pn6)
-[![An Introduction to Storybook JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/An_Introduction_to_Storybook_JS.svg)](https://dev.to/quokkalabs/an-introduction-to-storybook-js-2n34)
+[![Media Queries in JS/TS done right](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Media_Queries_in_JS_TS_done_right.svg)](https://dev.to/this-is-learning/media-queries-in-jsts-done-right-l6o)
+[![Maintaining a Healthy-Enough Mindset through Uncertainty](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Maintaining_a_Healthy-Enough_Mindset_through_Uncertainty.svg)](https://dev.to/jenc/maintaining-a-healthy-enough-mindset-through-uncertainty-3j8e)
+[![Music Monday — What are you listening to? (Classic Rock Edition)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Music_Monday_—_What_are_you_listening_to__(Classic_Rock_Edition).svg)](https://dev.to/music-discussions/music-monday-what-are-you-listening-to-classic-rock-edition-5gcb)
+[![Why is your website slow? Common causes and how to fix them](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Why_is_your_website_slow__Common_causes_and_how_to_fix_them.svg)](https://dev.to/momciloo/why-is-your-website-slow-common-causes-and-how-to-fix-them-4k13)
+[![New TypeScript’s “satisfies” Operator](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/New_TypeScript’s_“satisfies”_Operator.svg)](https://dev.to/mdmostafizurrahaman/new-typescripts-satisfies-operator-4dmp)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, December 5, 2022 at 5:17:02 AM
+> Last updated: Monday, December 5, 2022 at 11:11:13 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, December 5, 2022 at 5:17:05 AM
+> Last updated: Monday, December 5, 2022 at 11:11:18 AM
 
 > Showing 5 of 30 posts.
 
-[![How to create PDF with JavaScript and jsPDF](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_create_PDF_with_JavaScript_and_jsPDF.svg)](https://www.ma-no.org/en/programming/javascript/how-to-create-pdf-with-javascript-and-jspdf)
-[![GitHub - tanekloc/tmsg: Type-safe i18n library for TypeScript apps. Based on and largely compatible with MessageFormat.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_tanekloc_tmsg__Type-safe_i18n_library_for_TypeScript_apps._Based_on_and_largely_compatible_with_MessageFormat..svg)](https://github.com/tanekloc/tmsg)
-[![GitHub - codad5/keybinder: This is a Javascript library that helps with listening to browser Keyboard changes, and also helps in managing keyboard shortcuts in the browser. browser keyboard controller](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_codad5_keybinder__This_is_a_Javascript_library_that_helps_with_listening_to_browser_Keyboard_changes__and_also_helps_in_managing_keyboard_shortcuts_in_the_browser._browser_keyboard_controller.svg)](https://github.com/codad5/keybinder)
-[![Code your Astro.build website faster with Stylify CSS | Stylify CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Code_your_Astro.build_website_faster_with_Stylify_CSS___Stylify_CSS.svg)](https://stylifycss.com/blog/code-your-astrobuild-website-faster-with-stylify-css)
+[![6 Ways to Loop an Array with JavaScript - Stack Diary](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/6_Ways_to_Loop_an_Array_with_JavaScript_-_Stack_Diary.svg)](https://stackdiary.com/array-loop-javascript/)
 [![
-Top Trends in Mobile App Development in 2022
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Top_Trends_in_Mobile_App_Development_in_2022_.svg)](
-https://flutterdesk.com/
+Js-sdsl - High performance JavaScript data structure library
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Js-sdsl_-_High_performance_JavaScript_data_structure_library_.svg)](
+https://js-sdsl.org/
 )
+[![API with NestJS #85. Defining constraints with raw SQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__85._Defining_constraints_with_raw_SQL.svg)](https://wanago.io/2022/12/05/api-nestjs-constraints-sql/)
+[![Introducing Codux](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Introducing_Codux.svg)](https://dev.to/codux/introducing-codux-15j5)
+[![How to create PDF with JavaScript and jsPDF](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_create_PDF_with_JavaScript_and_jsPDF.svg)](https://www.ma-no.org/en/programming/javascript/how-to-create-pdf-with-javascript-and-jspdf)
 
 
 <!-- post-list:end -->
