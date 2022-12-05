@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, December 4, 2022 at 11:10:14 AM
+> Last updated: Sunday, December 4, 2022 at 5:45:45 PM
 
 > Showing 5 of 12 posts.
 
-[![Docker vs. Containerd: Which Containerization Technology is Right for Your Project?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Docker_vs._Containerd__Which_Containerization_Technology_is_Right_for_Your_Project_.svg)](https://dev.to/pramit_marattha/docker-vs-containerd-which-containerization-technology-is-right-for-your-project-25pk)
-[![You're running an online conference but get called out for having an all-male speaker lineup 2 days prior. Yo, What do you do?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/You're_running_an_online_conference_but_get_called_out_for_having_an_all-male_speaker_lineup_2_days_prior._Yo__What_do_you_do_.svg)](https://dev.to/andrewbrown/youre-running-an-online-conference-but-get-called-out-for-having-an-all-male-speaker-lineup-2-days-prior-yo-what-do-you-do-2m58)
-[![How to build a bullet-proof study system while learning](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_build_a_bullet-proof_study_system_while_learning.svg)](https://dev.to/joshhortt/how-to-build-a-bullet-proof-study-system-while-learning-oin)
-[![Modern UI tailwindcss ressources](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Modern_UI_tailwindcss_ressources.svg)](https://dev.to/tailus/modern-ui-tailwindcss-ressources-423m)
-[![The Surface Area of Software](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Surface_Area_of_Software.svg)](https://dev.to/david_whitney/the-surface-area-of-software-2926)
+[![Power up your web apps with TensorFlow.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Power_up_your_web_apps_with_TensorFlow.js.svg)](https://dev.to/360macky/power-up-your-web-apps-with-tensorflowjs-15o5)
+[![4 FREE Resources To Boost Your Node.js Developer Career ⚡](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/4_FREE_Resources_To_Boost_Your_Node.js_Developer_Career_⚡.svg)](https://dev.to/nodedoctors/4-free-resources-to-boost-your-nodejs-developer-career-1bpe)
+[![Code Smell 184 - Exception Arrow Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Code_Smell_184_-_Exception_Arrow_Code.svg)](https://dev.to/mcsee/code-smell-184-exception-arrow-code-2cia)
+[![What The Facade?!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_The_Facade_!.svg)](https://dev.to/juniordevforlife/what-the-facade-22d4)
+[![How to upload an image to AWS S3 pre-assign URL with background-http.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_upload_an_image_to_AWS_S3_pre-assign_URL_with_background-http..svg)](https://dev.to/vanishdark/how-to-upload-an-image-to-aws-s3-pre-assign-url-with-background-http-207a)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, December 4, 2022 at 11:10:17 AM
+> Last updated: Sunday, December 4, 2022 at 5:45:48 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, December 4, 2022 at 11:10:21 AM
+> Last updated: Sunday, December 4, 2022 at 5:45:50 PM
 
 > Showing 5 of 30 posts.
 
+[![How to create PDF with JavaScript and jsPDF](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_create_PDF_with_JavaScript_and_jsPDF.svg)](https://www.ma-no.org/en/programming/javascript/how-to-create-pdf-with-javascript-and-jspdf)
 [![GitHub - tanekloc/tmsg: Type-safe i18n library for TypeScript apps. Based on and largely compatible with MessageFormat.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_tanekloc_tmsg__Type-safe_i18n_library_for_TypeScript_apps._Based_on_and_largely_compatible_with_MessageFormat..svg)](https://github.com/tanekloc/tmsg)
 [![GitHub - codad5/keybinder: This is a Javascript library that helps with listening to browser Keyboard changes, and also helps in managing keyboard shortcuts in the browser. browser keyboard controller](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_codad5_keybinder__This_is_a_Javascript_library_that_helps_with_listening_to_browser_Keyboard_changes__and_also_helps_in_managing_keyboard_shortcuts_in_the_browser._browser_keyboard_controller.svg)](https://github.com/codad5/keybinder)
 [![Code your Astro.build website faster with Stylify CSS | Stylify CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Code_your_Astro.build_website_faster_with_Stylify_CSS___Stylify_CSS.svg)](https://stylifycss.com/blog/code-your-astrobuild-website-faster-with-stylify-css)
@@ -55,7 +56,6 @@ Top Trends in Mobile App Development in 2022
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Top_Trends_in_Mobile_App_Development_in_2022_.svg)](
 https://flutterdesk.com/
 )
-[![Intro to Micro Front Ends](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Intro_to_Micro_Front_Ends.svg)](https://okhivrych.io/intro-to-micro-front-ends)
 
 
 <!-- post-list:end -->
