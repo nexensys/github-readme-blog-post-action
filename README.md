@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, December 5, 2022 at 11:11:09 AM
+> Last updated: Monday, December 5, 2022 at 5:45:25 PM
 
 > Showing 5 of 12 posts.
 
-[![Media Queries in JS/TS done right](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Media_Queries_in_JS_TS_done_right.svg)](https://dev.to/this-is-learning/media-queries-in-jsts-done-right-l6o)
-[![Maintaining a Healthy-Enough Mindset through Uncertainty](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Maintaining_a_Healthy-Enough_Mindset_through_Uncertainty.svg)](https://dev.to/jenc/maintaining-a-healthy-enough-mindset-through-uncertainty-3j8e)
-[![Music Monday — What are you listening to? (Classic Rock Edition)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Music_Monday_—_What_are_you_listening_to__(Classic_Rock_Edition).svg)](https://dev.to/music-discussions/music-monday-what-are-you-listening-to-classic-rock-edition-5gcb)
-[![Why is your website slow? Common causes and how to fix them](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Why_is_your_website_slow__Common_causes_and_how_to_fix_them.svg)](https://dev.to/momciloo/why-is-your-website-slow-common-causes-and-how-to-fix-them-4k13)
-[![New TypeScript’s “satisfies” Operator](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/New_TypeScript’s_“satisfies”_Operator.svg)](https://dev.to/mdmostafizurrahaman/new-typescripts-satisfies-operator-4dmp)
+[![10 ideas for SaaS startups in 2023 - by ChatGPT](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/10_ideas_for_SaaS_startups_in_2023_-_by_ChatGPT.svg)](https://dev.to/bobbyiliev/10-ideas-for-saas-startups-in-2023-by-chatgpt-5eg2)
+[![A new Eleventy theme — in a CMS with full Eleventy support!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_new_Eleventy_theme_—_in_a_CMS_with_full_Eleventy_support!.svg)](https://dev.to/cloudcannon/a-new-eleventy-theme-in-a-cms-with-full-eleventy-support-hfn)
+[![The Difference Between ChatGPT and GPT-3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Difference_Between_ChatGPT_and_GPT-3.svg)](https://dev.to/ben/the-difference-between-chatgpt-and-gpt-3-19dh)
+[![6 Steps to Problem-Solving: Think like a Developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/6_Steps_to_Problem-Solving__Think_like_a_Developer.svg)](https://dev.to/melodyoluoma/6-steps-to-problem-solving-think-like-a-developer-ofe)
+[![Inside Javascript Hoisting](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Inside_Javascript_Hoisting.svg)](https://dev.to/mihirverma7781/inside-javascript-hoisting-304o)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, December 5, 2022 at 11:11:13 AM
+> Last updated: Monday, December 5, 2022 at 5:45:28 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, December 5, 2022 at 11:11:18 AM
+> Last updated: Monday, December 5, 2022 at 5:45:33 PM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - joanjanku2000/generic-filter: Generic Filter ( JPA & Mongo Support )](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_joanjanku2000_generic-filter__Generic_Filter_(_JPA___Mongo_Support_).svg)](https://github.com/joanjanku2000/generic-filter)
 [![6 Ways to Loop an Array with JavaScript - Stack Diary](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/6_Ways_to_Loop_an_Array_with_JavaScript_-_Stack_Diary.svg)](https://stackdiary.com/array-loop-javascript/)
 [![
 Js-sdsl - High performance JavaScript data structure library
@@ -55,7 +56,6 @@ https://js-sdsl.org/
 )
 [![API with NestJS #85. Defining constraints with raw SQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__85._Defining_constraints_with_raw_SQL.svg)](https://wanago.io/2022/12/05/api-nestjs-constraints-sql/)
 [![Introducing Codux](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Introducing_Codux.svg)](https://dev.to/codux/introducing-codux-15j5)
-[![How to create PDF with JavaScript and jsPDF](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_create_PDF_with_JavaScript_and_jsPDF.svg)](https://www.ma-no.org/en/programming/javascript/how-to-create-pdf-with-javascript-and-jspdf)
 
 
 <!-- post-list:end -->
