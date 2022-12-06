@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, December 5, 2022 at 11:11:52 PM
+> Last updated: Tuesday, December 6, 2022 at 5:17:12 AM
 
 > Showing 5 of 12 posts.
 
-[![How to answer "What would be your dream job?"](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_answer__What_would_be_your_dream_job__.svg)](https://dev.to/lakshyakhatri/how-to-answer-what-would-be-your-dream-job-hbh)
-[![Understanding the keyword “this” in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Understanding_the_keyword_“this”_in_JavaScript.svg)](https://dev.to/onwuemene/understanding-the-keyword-this-in-javascript-2c8o)
-[![Simple State Management with RxJS — a To-do List example](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Simple_State_Management_with_RxJS_—_a_To-do_List_example.svg)](https://dev.to/leduc1901/simple-state-management-with-rxjs-a-to-do-list-example-2k6m)
-[![AWS re:Invent 2022 turned into a time for Celebration!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/AWS_re_Invent_2022_turned_into_a_time_for_Celebration!.svg)](https://dev.to/aws-heroes/aws-reinvent-2022-turned-into-a-time-for-celebration-16fa)
-[![Svelte beats react: faster, simpler, and better for your next web app!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Svelte_beats_react__faster__simpler__and_better_for_your_next_web_app!.svg)](https://dev.to/fershopls/svelte-beats-react-faster-simpler-and-better-for-your-next-web-app-1i77)
+[![The evolution of DevOps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_evolution_of_DevOps.svg)](https://dev.to/neeljyedu/the-evolution-of-devops-3g2f)
+[![How I build Register and Login page using Supabase](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_I_build_Register_and_Login_page_using_Supabase.svg)](https://dev.to/surajondev/how-i-build-register-and-login-page-using-supabase-5h43)
+[![How To Handle Scroll Events In JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_To_Handle_Scroll_Events_In_JavaScript.svg)](https://dev.to/nnekajenny/how-to-handle-scroll-events-in-javascript-2jne)
+[![Introducing AI / ChatGPT, and how it dreams in 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Introducing_AI___ChatGPT__and_how_it_dreams_in_2022.svg)](https://dev.to/picocreator/introducing-ai-chatgpt-and-how-it-dreams-in-2022-3bla)
+[![Why I choose T3 stack as the full-stack to build the react app](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Why_I_choose_T3_stack_as_the_full-stack_to_build_the_react_app.svg)](https://dev.to/zenstack/why-i-choose-t3-stack-as-the-fullstack-to-build-the-react-app-1e1k)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, December 5, 2022 at 11:11:56 PM
+> Last updated: Tuesday, December 6, 2022 at 5:17:15 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, December 5, 2022 at 11:12:01 PM
+> Last updated: Tuesday, December 6, 2022 at 5:17:22 AM
 
 > Showing 5 of 30 posts.
 
+[![Version 3.1 release notes | FoalTS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Version_3.1_release_notes___FoalTS.svg)](https://foalts.org/blog/2022/11/28/version-3.1-release-notes)
 [![GitHub - joanjanku2000/generic-filter: Generic Filter ( JPA & Mongo Support )](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_joanjanku2000_generic-filter__Generic_Filter_(_JPA___Mongo_Support_).svg)](https://github.com/joanjanku2000/generic-filter)
 [![6 Ways to Loop an Array with JavaScript - Stack Diary](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/6_Ways_to_Loop_an_Array_with_JavaScript_-_Stack_Diary.svg)](https://stackdiary.com/array-loop-javascript/)
 [![
@@ -55,7 +56,6 @@ Js-sdsl - High performance JavaScript data structure library
 https://js-sdsl.org/
 )
 [![API with NestJS #85. Defining constraints with raw SQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__85._Defining_constraints_with_raw_SQL.svg)](https://wanago.io/2022/12/05/api-nestjs-constraints-sql/)
-[![Introducing Codux](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Introducing_Codux.svg)](https://dev.to/codux/introducing-codux-15j5)
 
 
 <!-- post-list:end -->
