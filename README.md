@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, December 6, 2022 at 5:17:12 AM
+> Last updated: Tuesday, December 6, 2022 at 11:11:28 AM
 
 > Showing 5 of 12 posts.
 
-[![The evolution of DevOps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_evolution_of_DevOps.svg)](https://dev.to/neeljyedu/the-evolution-of-devops-3g2f)
-[![How I build Register and Login page using Supabase](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_I_build_Register_and_Login_page_using_Supabase.svg)](https://dev.to/surajondev/how-i-build-register-and-login-page-using-supabase-5h43)
-[![How To Handle Scroll Events In JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_To_Handle_Scroll_Events_In_JavaScript.svg)](https://dev.to/nnekajenny/how-to-handle-scroll-events-in-javascript-2jne)
-[![Introducing AI / ChatGPT, and how it dreams in 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Introducing_AI___ChatGPT__and_how_it_dreams_in_2022.svg)](https://dev.to/picocreator/introducing-ai-chatgpt-and-how-it-dreams-in-2022-3bla)
-[![Why I choose T3 stack as the full-stack to build the react app](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Why_I_choose_T3_stack_as_the_full-stack_to_build_the_react_app.svg)](https://dev.to/zenstack/why-i-choose-t3-stack-as-the-fullstack-to-build-the-react-app-1e1k)
+[![Code faster with custom VScode snippets](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Code_faster_with_custom_VScode_snippets.svg)](https://dev.to/antoine_m/code-faster-with-custom-vscode-snippets-4j79)
+[![Debug Like a Senior Developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Debug_Like_a_Senior_Developer.svg)](https://dev.to/codenameone/debug-like-a-senior-developer-g6m)
+[![Everything I needed to know about a career in tech, I learned from "The Rings of Power" (part 1)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Everything_I_needed_to_know_about_a_career_in_tech__I_learned_from__The_Rings_of_Power__(part_1).svg)](https://dev.to/newrelic/everything-i-needed-to-know-about-a-career-in-tech-i-learned-from-the-rings-of-power-part-1-2ocp)
+[![HOW DOES INTERNET WORK??](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/HOW_DOES_INTERNET_WORK__.svg)](https://dev.to/srishtikprasad/how-does-internet-work-3n19)
+[![Deploy a containerised Fast API application in Digital Ocean](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Deploy_a_containerised_Fast_API_application_in_Digital_Ocean.svg)](https://dev.to/ndrohith/deploy-a-containerised-fast-api-application-in-digital-ocean-25ik)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, December 6, 2022 at 5:17:15 AM
+> Last updated: Tuesday, December 6, 2022 at 11:11:32 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, December 6, 2022 at 5:17:22 AM
+> Last updated: Tuesday, December 6, 2022 at 11:11:38 AM
 
 > Showing 5 of 30 posts.
 
