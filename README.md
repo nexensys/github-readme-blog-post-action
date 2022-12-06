@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, December 5, 2022 at 5:45:25 PM
+> Last updated: Monday, December 5, 2022 at 11:11:52 PM
 
 > Showing 5 of 12 posts.
 
-[![10 ideas for SaaS startups in 2023 - by ChatGPT](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/10_ideas_for_SaaS_startups_in_2023_-_by_ChatGPT.svg)](https://dev.to/bobbyiliev/10-ideas-for-saas-startups-in-2023-by-chatgpt-5eg2)
-[![A new Eleventy theme — in a CMS with full Eleventy support!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_new_Eleventy_theme_—_in_a_CMS_with_full_Eleventy_support!.svg)](https://dev.to/cloudcannon/a-new-eleventy-theme-in-a-cms-with-full-eleventy-support-hfn)
-[![The Difference Between ChatGPT and GPT-3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Difference_Between_ChatGPT_and_GPT-3.svg)](https://dev.to/ben/the-difference-between-chatgpt-and-gpt-3-19dh)
-[![6 Steps to Problem-Solving: Think like a Developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/6_Steps_to_Problem-Solving__Think_like_a_Developer.svg)](https://dev.to/melodyoluoma/6-steps-to-problem-solving-think-like-a-developer-ofe)
-[![Inside Javascript Hoisting](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Inside_Javascript_Hoisting.svg)](https://dev.to/mihirverma7781/inside-javascript-hoisting-304o)
+[![How to answer "What would be your dream job?"](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_answer__What_would_be_your_dream_job__.svg)](https://dev.to/lakshyakhatri/how-to-answer-what-would-be-your-dream-job-hbh)
+[![Understanding the keyword “this” in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Understanding_the_keyword_“this”_in_JavaScript.svg)](https://dev.to/onwuemene/understanding-the-keyword-this-in-javascript-2c8o)
+[![Simple State Management with RxJS — a To-do List example](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Simple_State_Management_with_RxJS_—_a_To-do_List_example.svg)](https://dev.to/leduc1901/simple-state-management-with-rxjs-a-to-do-list-example-2k6m)
+[![AWS re:Invent 2022 turned into a time for Celebration!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/AWS_re_Invent_2022_turned_into_a_time_for_Celebration!.svg)](https://dev.to/aws-heroes/aws-reinvent-2022-turned-into-a-time-for-celebration-16fa)
+[![Svelte beats react: faster, simpler, and better for your next web app!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Svelte_beats_react__faster__simpler__and_better_for_your_next_web_app!.svg)](https://dev.to/fershopls/svelte-beats-react-faster-simpler-and-better-for-your-next-web-app-1i77)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, December 5, 2022 at 5:45:28 PM
+> Last updated: Monday, December 5, 2022 at 11:11:56 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, December 5, 2022 at 5:45:33 PM
+> Last updated: Monday, December 5, 2022 at 11:12:01 PM
 
 > Showing 5 of 30 posts.
 
