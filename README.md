@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, December 6, 2022 at 5:49:32 PM
+> Last updated: Tuesday, December 6, 2022 at 11:11:55 PM
 
 > Showing 5 of 12 posts.
 
-[![See you in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/See_you_in_2023.svg)](https://dev.to/jmau111/see-you-in-2023-5dgk)
-[![Understanding XSS with ChatGPT](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Understanding_XSS_with_ChatGPT.svg)](https://dev.to/bscript/understanding-xss-with-chatgpt-2l5d)
-[![How YOU can build a Web API in Java and Spring boot](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_YOU_can_build_a_Web_API_in_Java_and_Spring_boot.svg)](https://dev.to/azure/how-you-can-build-a-web-api-in-java-and-spring-boot-56ga)
-[![How to use NACLs and Security Groups](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_use_NACLs_and_Security_Groups.svg)](https://dev.to/aws-builders/how-to-use-nacls-and-security-groups-3bop)
-[![Network Access Control Lists vs Security Groups](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Network_Access_Control_Lists_vs_Security_Groups.svg)](https://dev.to/aws-builders/network-access-control-lists-vs-security-groups-4ekp)
+[![What is Rust?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_Rust_.svg)](https://dev.to/francescoxx/what-is-rust-2ii6)
+[![The Secret to Clean and Efficient Code: How to Denest Your Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Secret_to_Clean_and_Efficient_Code__How_to_Denest_Your_Code.svg)](https://dev.to/naubit/the-secret-to-clean-and-efficient-code-how-to-denest-your-code-af1)
+[![Too much, and yet not enough](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Too_much__and_yet_not_enough.svg)](https://dev.to/dailydevtips1/too-much-and-yet-not-enough-421e)
+[![Better two factor authentication experiences with WebOTP](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Better_two_factor_authentication_experiences_with_WebOTP.svg)](https://dev.to/philnash/better-two-factor-authentication-experiences-with-webotp-1ncm)
+[![What is a Web Server and how do Web Browsers communicate with it?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_a_Web_Server_and_how_do_Web_Browsers_communicate_with_it_.svg)](https://dev.to/leduc1901/what-is-a-web-server-and-how-do-web-browsers-communicate-with-it-4enl)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, December 6, 2022 at 5:49:35 PM
+> Last updated: Tuesday, December 6, 2022 at 11:11:58 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, December 6, 2022 at 5:49:37 PM
+> Last updated: Tuesday, December 6, 2022 at 11:12:03 PM
 
 > Showing 5 of 30 posts.
 
+[![
+XBRL Software
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_XBRL_Software_.svg)](
+https://www.microvistatech.com/xbrl-software.aspx
+)
 [![Electron Chat App Tutorial: Building a Desktop Chat App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Electron_Chat_App_Tutorial__Building_a_Desktop_Chat_App.svg)](https://dev.to/alakkadshaw/electron-chat-app-tutorial-building-a-desktop-chat-app-352p)
 [![Cloudflare automatic DNS update for homelab](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Cloudflare_automatic_DNS_update_for_homelab.svg)](https://blog.niradler.com/cloudflare-automatic-dns-update-for-homelab)
 [![Version 3.1 release notes | FoalTS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Version_3.1_release_notes___FoalTS.svg)](https://foalts.org/blog/2022/11/28/version-3.1-release-notes)
 [![GitHub - joanjanku2000/generic-filter: Generic Filter ( JPA & Mongo Support )](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_joanjanku2000_generic-filter__Generic_Filter_(_JPA___Mongo_Support_).svg)](https://github.com/joanjanku2000/generic-filter)
-[![6 Ways to Loop an Array with JavaScript - Stack Diary](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/6_Ways_to_Loop_an_Array_with_JavaScript_-_Stack_Diary.svg)](https://stackdiary.com/array-loop-javascript/)
 
 
 <!-- post-list:end -->
