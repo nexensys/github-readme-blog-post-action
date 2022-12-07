@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, December 6, 2022 at 11:11:55 PM
+> Last updated: Wednesday, December 7, 2022 at 5:16:52 AM
 
 > Showing 5 of 12 posts.
 
-[![What is Rust?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_Rust_.svg)](https://dev.to/francescoxx/what-is-rust-2ii6)
-[![The Secret to Clean and Efficient Code: How to Denest Your Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Secret_to_Clean_and_Efficient_Code__How_to_Denest_Your_Code.svg)](https://dev.to/naubit/the-secret-to-clean-and-efficient-code-how-to-denest-your-code-af1)
-[![Too much, and yet not enough](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Too_much__and_yet_not_enough.svg)](https://dev.to/dailydevtips1/too-much-and-yet-not-enough-421e)
-[![Better two factor authentication experiences with WebOTP](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Better_two_factor_authentication_experiences_with_WebOTP.svg)](https://dev.to/philnash/better-two-factor-authentication-experiences-with-webotp-1ncm)
-[![What is a Web Server and how do Web Browsers communicate with it?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_a_Web_Server_and_how_do_Web_Browsers_communicate_with_it_.svg)](https://dev.to/leduc1901/what-is-a-web-server-and-how-do-web-browsers-communicate-with-it-4enl)
+[![I’ve Got 99 Problems but Learning TypeScript Ain’t One](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/I’ve_Got_99_Problems_but_Learning_TypeScript_Ain’t_One.svg)](https://dev.to/codewithvoid/ive-got-99-problems-but-learning-typescript-aint-one-o70)
+[![This Week In React #127: Nextra, React-Query, React Documentary, Storybook, Remix, Tamagui, Solito, TC39, Rome...](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/This_Week_In_React__127__Nextra__React-Query__React_Documentary__Storybook__Remix__Tamagui__Solito__TC39__Rome....svg)](https://dev.to/sebastienlorber/this-week-in-react-127-nextra-react-query-react-documentary-storybook-remix-tamagui-solito-tc39-rome-36o0)
+[![5 Tips for Using React Table](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_Tips_for_Using_React_Table.svg)](https://dev.to/omerwow/5-tips-for-using-react-table-1779)
+[![Debug your React app like a Pro](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Debug_your_React_app_like_a_Pro.svg)](https://dev.to/mitchiemt11/debug-your-react-app-like-a-pro-2hk6)
+[![Git for Beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Git_for_Beginners.svg)](https://dev.to/annequinkenstein/git-for-beginners-3499)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, December 6, 2022 at 11:11:58 PM
+> Last updated: Wednesday, December 7, 2022 at 5:16:56 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, December 6, 2022 at 11:12:03 PM
+> Last updated: Wednesday, December 7, 2022 at 5:17:01 AM
 
 > Showing 5 of 30 posts.
 
@@ -55,7 +55,7 @@ https://www.microvistatech.com/xbrl-software.aspx
 [![Electron Chat App Tutorial: Building a Desktop Chat App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Electron_Chat_App_Tutorial__Building_a_Desktop_Chat_App.svg)](https://dev.to/alakkadshaw/electron-chat-app-tutorial-building-a-desktop-chat-app-352p)
 [![Cloudflare automatic DNS update for homelab](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Cloudflare_automatic_DNS_update_for_homelab.svg)](https://blog.niradler.com/cloudflare-automatic-dns-update-for-homelab)
 [![Version 3.1 release notes | FoalTS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Version_3.1_release_notes___FoalTS.svg)](https://foalts.org/blog/2022/11/28/version-3.1-release-notes)
-[![GitHub - joanjanku2000/generic-filter: Generic Filter ( JPA & Mongo Support )](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_joanjanku2000_generic-filter__Generic_Filter_(_JPA___Mongo_Support_).svg)](https://github.com/joanjanku2000/generic-filter)
+[![GitHub - joanjanku2000/generic-filter: Generic Filter ( JPA )](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_joanjanku2000_generic-filter__Generic_Filter_(_JPA_).svg)](https://github.com/joanjanku2000/generic-filter)
 
 
 <!-- post-list:end -->
