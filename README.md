@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, December 7, 2022 at 5:16:52 AM
+> Last updated: Wednesday, December 7, 2022 at 11:11:20 AM
 
 > Showing 5 of 12 posts.
 
-[![I’ve Got 99 Problems but Learning TypeScript Ain’t One](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/I’ve_Got_99_Problems_but_Learning_TypeScript_Ain’t_One.svg)](https://dev.to/codewithvoid/ive-got-99-problems-but-learning-typescript-aint-one-o70)
-[![This Week In React #127: Nextra, React-Query, React Documentary, Storybook, Remix, Tamagui, Solito, TC39, Rome...](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/This_Week_In_React__127__Nextra__React-Query__React_Documentary__Storybook__Remix__Tamagui__Solito__TC39__Rome....svg)](https://dev.to/sebastienlorber/this-week-in-react-127-nextra-react-query-react-documentary-storybook-remix-tamagui-solito-tc39-rome-36o0)
-[![5 Tips for Using React Table](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_Tips_for_Using_React_Table.svg)](https://dev.to/omerwow/5-tips-for-using-react-table-1779)
-[![Debug your React app like a Pro](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Debug_your_React_app_like_a_Pro.svg)](https://dev.to/mitchiemt11/debug-your-react-app-like-a-pro-2hk6)
-[![Git for Beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Git_for_Beginners.svg)](https://dev.to/annequinkenstein/git-for-beginners-3499)
+[![Advent of Code Day 6](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Advent_of_Code_Day_6.svg)](https://dev.to/liftoffstudios/advent-of-code-day-6-4io8)
+[![Avoiding Common Pitfalls when Working with React JS 🚫](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Avoiding_Common_Pitfalls_when_Working_with_React_JS_🚫.svg)](https://dev.to/namanvyas/avoiding-common-pitfalls-when-working-with-react-js-58pp)
+[![Web resource caching: Server-side](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Web_resource_caching__Server-side.svg)](https://dev.to/apisix/web-resource-caching-server-side-4hm2)
+[![9 announcements of AWS re: Invent 2022 that impressed me the most](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/9_announcements_of_AWS_re__Invent_2022_that_impressed_me_the_most.svg)](https://dev.to/aws-builders/9-announcements-of-aws-reinvent-2022-that-impressed-me-the-most-jlm)
+[![What does "if __name__ == '__main__'" do in Python?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_does__if___name___==_'__main__'__do_in_Python_.svg)](https://dev.to/szabgab/what-does-if-name-main-do-in-python-4o11)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, December 7, 2022 at 5:16:56 AM
+> Last updated: Wednesday, December 7, 2022 at 11:11:23 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,12 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, December 7, 2022 at 5:17:01 AM
+> Last updated: Wednesday, December 7, 2022 at 11:11:27 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - avastjs/cyber-icons: free futuristics svg icons components for React/Vue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_avastjs_cyber-icons__free_futuristics_svg_icons_components_for_React_Vue.svg)](https://github.com/avastjs/cyber-icons)
+[![JavaScript Functions: Why They're Essential to Understand? | Easy Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Functions__Why_They're_Essential_to_Understand____Easy_Guide.svg)](https://dev.to/aradwan20/javascript-functions-why-theyre-essential-to-understand-easy-guide-510p)
 [![
 XBRL Software
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_XBRL_Software_.svg)](
@@ -54,8 +56,6 @@ https://www.microvistatech.com/xbrl-software.aspx
 )
 [![Electron Chat App Tutorial: Building a Desktop Chat App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Electron_Chat_App_Tutorial__Building_a_Desktop_Chat_App.svg)](https://dev.to/alakkadshaw/electron-chat-app-tutorial-building-a-desktop-chat-app-352p)
 [![Cloudflare automatic DNS update for homelab](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Cloudflare_automatic_DNS_update_for_homelab.svg)](https://blog.niradler.com/cloudflare-automatic-dns-update-for-homelab)
-[![Version 3.1 release notes | FoalTS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Version_3.1_release_notes___FoalTS.svg)](https://foalts.org/blog/2022/11/28/version-3.1-release-notes)
-[![GitHub - joanjanku2000/generic-filter: Generic Filter ( JPA )](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_joanjanku2000_generic-filter__Generic_Filter_(_JPA_).svg)](https://github.com/joanjanku2000/generic-filter)
 
 
 <!-- post-list:end -->
