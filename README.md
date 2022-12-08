@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, December 7, 2022 at 11:11:20 AM
+> Last updated: Wednesday, December 7, 2022 at 5:44:57 PM
 
 > Showing 5 of 12 posts.
 
-[![Advent of Code Day 6](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Advent_of_Code_Day_6.svg)](https://dev.to/liftoffstudios/advent-of-code-day-6-4io8)
-[![Avoiding Common Pitfalls when Working with React JS 🚫](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Avoiding_Common_Pitfalls_when_Working_with_React_JS_🚫.svg)](https://dev.to/namanvyas/avoiding-common-pitfalls-when-working-with-react-js-58pp)
-[![Web resource caching: Server-side](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Web_resource_caching__Server-side.svg)](https://dev.to/apisix/web-resource-caching-server-side-4hm2)
-[![9 announcements of AWS re: Invent 2022 that impressed me the most](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/9_announcements_of_AWS_re__Invent_2022_that_impressed_me_the_most.svg)](https://dev.to/aws-builders/9-announcements-of-aws-reinvent-2022-that-impressed-me-the-most-jlm)
-[![What does "if __name__ == '__main__'" do in Python?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_does__if___name___==_'__main__'__do_in_Python_.svg)](https://dev.to/szabgab/what-does-if-name-main-do-in-python-4o11)
+[![JavaScript for Interviews](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/JavaScript_for_Interviews.svg)](https://dev.to/satejbidvai/javascript-for-interviews-4k6e)
+[![Creating a custom CSS loader of a Yu-Gi-Oh card flipping 🃏](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Creating_a_custom_CSS_loader_of_a_Yu-Gi-Oh_card_flipping_🃏.svg)](https://dev.to/christopherkade/creating-a-custom-css-loader-of-a-yu-gi-oh-card-flipping-3d7m)
+[![RSS Feed with Next.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/RSS_Feed_with_Next.js.svg)](https://dev.to/sdorra/rss-feed-with-nextjs-5dj8)
+[![Nairobi Stock Exchange Web Scraper (MongoDB Atlas Hackathon 2022 on DEV)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Nairobi_Stock_Exchange_Web_Scraper_(MongoDB_Atlas_Hackathon_2022_on_DEV).svg)](https://dev.to/ken_mwaura1/nairobi-stock-exchange-web-scraper-mongodb-atlas-hackathon-2022-on-dev-5346)
+[![When Python Runs Your Containers (part 1)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/When_Python_Runs_Your_Containers_(part_1).svg)](https://dev.to/otomato_io/when-python-runs-your-containers-part-1-2nd3)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, December 7, 2022 at 11:11:23 AM
+> Last updated: Wednesday, December 7, 2022 at 5:44:59 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, December 7, 2022 at 11:11:27 AM
+> Last updated: Wednesday, December 7, 2022 at 5:45:03 PM
 
 > Showing 5 of 30 posts.
 
