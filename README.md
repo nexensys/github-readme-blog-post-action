@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, December 7, 2022 at 5:44:57 PM
+> Last updated: Wednesday, December 7, 2022 at 11:12:27 PM
 
 > Showing 5 of 12 posts.
 
-[![JavaScript for Interviews](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/JavaScript_for_Interviews.svg)](https://dev.to/satejbidvai/javascript-for-interviews-4k6e)
-[![Creating a custom CSS loader of a Yu-Gi-Oh card flipping 🃏](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Creating_a_custom_CSS_loader_of_a_Yu-Gi-Oh_card_flipping_🃏.svg)](https://dev.to/christopherkade/creating-a-custom-css-loader-of-a-yu-gi-oh-card-flipping-3d7m)
-[![RSS Feed with Next.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/RSS_Feed_with_Next.js.svg)](https://dev.to/sdorra/rss-feed-with-nextjs-5dj8)
-[![Nairobi Stock Exchange Web Scraper (MongoDB Atlas Hackathon 2022 on DEV)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Nairobi_Stock_Exchange_Web_Scraper_(MongoDB_Atlas_Hackathon_2022_on_DEV).svg)](https://dev.to/ken_mwaura1/nairobi-stock-exchange-web-scraper-mongodb-atlas-hackathon-2022-on-dev-5346)
-[![When Python Runs Your Containers (part 1)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/When_Python_Runs_Your_Containers_(part_1).svg)](https://dev.to/otomato_io/when-python-runs-your-containers-part-1-2nd3)
+[![Increase productivity by visually differentiating between environments](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Increase_productivity_by_visually_differentiating_between_environments.svg)](https://dev.to/ama/increase-productivity-by-visually-differentiating-between-environments-5cpg)
+[![ML-Ops: An automated routine of training and deployment of a model using AWS ML-OPs Orchestrator and Step Functions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/ML-Ops__An_automated_routine_of_training_and_deployment_of_a_model_using_AWS_ML-OPs_Orchestrator_and_Step_Functions.svg)](https://dev.to/aws-builders/ml-ops-an-automated-routine-of-training-and-deployment-of-a-model-using-aws-ml-ops-orchestrator-and-step-functions-4ppm)
+[![Discussing my interview process for Google [Follow Up]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Discussing_my_interview_process_for_Google_[Follow_Up].svg)](https://dev.to/kurtissfrost/discussing-my-interview-process-for-google-follow-up-3nog)
+[![Portswigger’s lab write up: CORS vulnerability with basic origin reflection](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Portswigger’s_lab_write_up__CORS_vulnerability_with_basic_origin_reflection.svg)](https://dev.to/christianpaez/portswiggers-lab-write-up-cors-vulnerability-with-basic-origin-reflection-2359)
+[![To Be Known for our Kindness](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/To_Be_Known_for_our_Kindness.svg)](https://dev.to/baweaver/to-be-known-for-our-kindness-2p4a)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, December 7, 2022 at 5:44:59 PM
+> Last updated: Wednesday, December 7, 2022 at 11:12:31 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, December 7, 2022 at 5:45:03 PM
+> Last updated: Wednesday, December 7, 2022 at 11:12:35 PM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - MarketingPipeline/Termino.js: Create a web based terminal on any website - great for games, animations and real world apps!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_MarketingPipeline_Termino.js__Create_a_web_based_terminal_on_any_website_-_great_for_games__animations_and_real_world_apps!.svg)](https://github.com/MarketingPipeline/Termino.js)
 [![GitHub - avastjs/cyber-icons: free futuristics svg icons components for React/Vue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_avastjs_cyber-icons__free_futuristics_svg_icons_components_for_React_Vue.svg)](https://github.com/avastjs/cyber-icons)
 [![JavaScript Functions: Why They're Essential to Understand? | Easy Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Functions__Why_They're_Essential_to_Understand____Easy_Guide.svg)](https://dev.to/aradwan20/javascript-functions-why-theyre-essential-to-understand-easy-guide-510p)
 [![
@@ -55,7 +56,6 @@ XBRL Software
 https://www.microvistatech.com/xbrl-software.aspx
 )
 [![Electron Chat App Tutorial: Building a Desktop Chat App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Electron_Chat_App_Tutorial__Building_a_Desktop_Chat_App.svg)](https://dev.to/alakkadshaw/electron-chat-app-tutorial-building-a-desktop-chat-app-352p)
-[![Cloudflare automatic DNS update for homelab](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Cloudflare_automatic_DNS_update_for_homelab.svg)](https://blog.niradler.com/cloudflare-automatic-dns-update-for-homelab)
 
 
 <!-- post-list:end -->
