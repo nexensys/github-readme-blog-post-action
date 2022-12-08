@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, December 8, 2022 at 5:16:59 AM
+> Last updated: Thursday, December 8, 2022 at 11:11:12 AM
 
 > Showing 5 of 12 posts.
 
-[![Search Engine Scraping: What You Should Know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Search_Engine_Scraping__What_You_Should_Know.svg)](https://dev.to/oxylabs-io/search-engine-scraping-what-you-should-know-4fkp)
-[![Do i need to use cleanup function on useEffect?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Do_i_need_to_use_cleanup_function_on_useEffect_.svg)](https://dev.to/csituma/do-i-need-to-use-cleanup-function-on-useeffect-300d)
-[![JumiaClone E-commerce App (MongoDB Atlas Hackathon 2022 on DEV)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/JumiaClone_E-commerce_App_(MongoDB_Atlas_Hackathon_2022_on_DEV).svg)](https://dev.to/farukade/jumiaclone-e-commerce-app-mongodb-atlas-hackathon-2022-on-dev-27n)
-[![Show image in react js from mongoDB data](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Show_image_in_react_js_from_mongoDB_data.svg)](https://dev.to/amanp30/show-image-in-react-js-from-mongodb-data-1kc)
-[![JavaScript Functions: Why They're Essential to Understand? | Easy Guide - Part2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/JavaScript_Functions__Why_They're_Essential_to_Understand____Easy_Guide_-_Part2.svg)](https://dev.to/aradwan20/javascript-functions-why-theyre-essential-to-understand-easy-guide-part2-3a6b)
+[![MongoDB Atlas Hackathon 2022 on DEV](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/MongoDB_Atlas_Hackathon_2022_on_DEV.svg)](https://dev.to/sandyabhi/mongodb-atlas-hackathon-2022-on-dev-3ncd)
+[![Let's learn Django together (part 1)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Let's_learn_Django_together_(part_1).svg)](https://dev.to/makneta/lets-learn-django-together-part-1-481k)
+[![Build a Free Twitter Scheduler with Next.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_a_Free_Twitter_Scheduler_with_Next.js.svg)](https://dev.to/ixartz/build-a-free-twitter-scheduler-with-nextjs-41jf)
+[![Getting Started With ChatGPT-3 | Open AI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Getting_Started_With_ChatGPT-3___Open_AI.svg)](https://dev.to/arjungautam/getting-started-with-chatgpt-3-open-ai-3jf8)
+[![Introducing OnServic: A free App to find any Service Provider](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Introducing_OnServic__A_free_App_to_find_any_Service_Provider.svg)](https://dev.to/sushilbhattarai45/mongodb-atlas-hackathon-2022-on-dev-3pfa)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, December 8, 2022 at 5:17:02 AM
+> Last updated: Thursday, December 8, 2022 at 11:11:15 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, December 8, 2022 at 5:17:05 AM
+> Last updated: Thursday, December 8, 2022 at 11:11:19 AM
 
 > Showing 5 of 30 posts.
 
+[![Electron Chat App Tutorial: Building a Desktop Chat App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Electron_Chat_App_Tutorial__Building_a_Desktop_Chat_App.svg)](https://metered.hashnode.dev/electron-chat-app-tutorial-building-a-desktop-chat-app)
 [![JavaScript Functions: Why They're Essential to Understand? | Easy Guide - Part2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Functions__Why_They're_Essential_to_Understand____Easy_Guide_-_Part2.svg)](https://dev.to/aradwan20/javascript-functions-why-theyre-essential-to-understand-easy-guide-part2-3a6b)
 [![Code your Laravel website faster with Stylify CSS | Stylify CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Code_your_Laravel_website_faster_with_Stylify_CSS___Stylify_CSS.svg)](https://stylifycss.com/blog/code-your-laravel-website-faster-with-stylify-css)
 [![GitHub - MarketingPipeline/Termino.js: Create a web based terminal on any website - great for games, animations and real world apps!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_MarketingPipeline_Termino.js__Create_a_web_based_terminal_on_any_website_-_great_for_games__animations_and_real_world_apps!.svg)](https://github.com/MarketingPipeline/Termino.js)
 [![GitHub - avastjs/cyber-icons: free futuristics svg icons components for React/Vue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_avastjs_cyber-icons__free_futuristics_svg_icons_components_for_React_Vue.svg)](https://github.com/avastjs/cyber-icons)
-[![JavaScript Functions: Why They're Essential to Understand? | Easy Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Functions__Why_They're_Essential_to_Understand____Easy_Guide.svg)](https://dev.to/aradwan20/javascript-functions-why-theyre-essential-to-understand-easy-guide-510p)
 
 
 <!-- post-list:end -->
