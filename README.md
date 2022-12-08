@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, December 7, 2022 at 11:12:27 PM
+> Last updated: Thursday, December 8, 2022 at 5:16:59 AM
 
 > Showing 5 of 12 posts.
 
-[![Increase productivity by visually differentiating between environments](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Increase_productivity_by_visually_differentiating_between_environments.svg)](https://dev.to/ama/increase-productivity-by-visually-differentiating-between-environments-5cpg)
-[![ML-Ops: An automated routine of training and deployment of a model using AWS ML-OPs Orchestrator and Step Functions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/ML-Ops__An_automated_routine_of_training_and_deployment_of_a_model_using_AWS_ML-OPs_Orchestrator_and_Step_Functions.svg)](https://dev.to/aws-builders/ml-ops-an-automated-routine-of-training-and-deployment-of-a-model-using-aws-ml-ops-orchestrator-and-step-functions-4ppm)
-[![Discussing my interview process for Google [Follow Up]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Discussing_my_interview_process_for_Google_[Follow_Up].svg)](https://dev.to/kurtissfrost/discussing-my-interview-process-for-google-follow-up-3nog)
-[![Portswigger’s lab write up: CORS vulnerability with basic origin reflection](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Portswigger’s_lab_write_up__CORS_vulnerability_with_basic_origin_reflection.svg)](https://dev.to/christianpaez/portswiggers-lab-write-up-cors-vulnerability-with-basic-origin-reflection-2359)
-[![To Be Known for our Kindness](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/To_Be_Known_for_our_Kindness.svg)](https://dev.to/baweaver/to-be-known-for-our-kindness-2p4a)
+[![Search Engine Scraping: What You Should Know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Search_Engine_Scraping__What_You_Should_Know.svg)](https://dev.to/oxylabs-io/search-engine-scraping-what-you-should-know-4fkp)
+[![Do i need to use cleanup function on useEffect?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Do_i_need_to_use_cleanup_function_on_useEffect_.svg)](https://dev.to/csituma/do-i-need-to-use-cleanup-function-on-useeffect-300d)
+[![JumiaClone E-commerce App (MongoDB Atlas Hackathon 2022 on DEV)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/JumiaClone_E-commerce_App_(MongoDB_Atlas_Hackathon_2022_on_DEV).svg)](https://dev.to/farukade/jumiaclone-e-commerce-app-mongodb-atlas-hackathon-2022-on-dev-27n)
+[![Show image in react js from mongoDB data](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Show_image_in_react_js_from_mongoDB_data.svg)](https://dev.to/amanp30/show-image-in-react-js-from-mongodb-data-1kc)
+[![JavaScript Functions: Why They're Essential to Understand? | Easy Guide - Part2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/JavaScript_Functions__Why_They're_Essential_to_Understand____Easy_Guide_-_Part2.svg)](https://dev.to/aradwan20/javascript-functions-why-theyre-essential-to-understand-easy-guide-part2-3a6b)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, December 7, 2022 at 11:12:31 PM
+> Last updated: Thursday, December 8, 2022 at 5:17:02 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, December 7, 2022 at 11:12:35 PM
+> Last updated: Thursday, December 8, 2022 at 5:17:05 AM
 
 > Showing 5 of 30 posts.
 
+[![JavaScript Functions: Why They're Essential to Understand? | Easy Guide - Part2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Functions__Why_They're_Essential_to_Understand____Easy_Guide_-_Part2.svg)](https://dev.to/aradwan20/javascript-functions-why-theyre-essential-to-understand-easy-guide-part2-3a6b)
+[![Code your Laravel website faster with Stylify CSS | Stylify CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Code_your_Laravel_website_faster_with_Stylify_CSS___Stylify_CSS.svg)](https://stylifycss.com/blog/code-your-laravel-website-faster-with-stylify-css)
 [![GitHub - MarketingPipeline/Termino.js: Create a web based terminal on any website - great for games, animations and real world apps!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_MarketingPipeline_Termino.js__Create_a_web_based_terminal_on_any_website_-_great_for_games__animations_and_real_world_apps!.svg)](https://github.com/MarketingPipeline/Termino.js)
 [![GitHub - avastjs/cyber-icons: free futuristics svg icons components for React/Vue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_avastjs_cyber-icons__free_futuristics_svg_icons_components_for_React_Vue.svg)](https://github.com/avastjs/cyber-icons)
 [![JavaScript Functions: Why They're Essential to Understand? | Easy Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Functions__Why_They're_Essential_to_Understand____Easy_Guide.svg)](https://dev.to/aradwan20/javascript-functions-why-theyre-essential-to-understand-easy-guide-510p)
-[![
-XBRL Software
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_XBRL_Software_.svg)](
-https://www.microvistatech.com/xbrl-software.aspx
-)
-[![Electron Chat App Tutorial: Building a Desktop Chat App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Electron_Chat_App_Tutorial__Building_a_Desktop_Chat_App.svg)](https://dev.to/alakkadshaw/electron-chat-app-tutorial-building-a-desktop-chat-app-352p)
 
 
 <!-- post-list:end -->
