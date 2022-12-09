@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, December 9, 2022 at 5:16:28 AM
+> Last updated: Friday, December 9, 2022 at 11:11:11 AM
 
 > Showing 5 of 12 posts.
 
-[![6 Awesome tools to write better code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/6_Awesome_tools_to_write_better_code.svg)](https://dev.to/surajondev/6-awesome-tools-to-write-better-code-3p26)
-[![YugabyteDB: list failed commands](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/YugabyteDB__list_failed_commands.svg)](https://dev.to/yugabyte/yugabytedb-list-failed-commands-5166)
-[![9 websites to learn CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/9_websites_to_learn_CSS.svg)](https://dev.to/mohsenkamrani/9-websites-to-learn-css-gbe)
-[![Converting Your React Hook To TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Converting_Your_React_Hook_To_TypeScript.svg)](https://dev.to/mbarzeev/converting-your-react-hook-to-typescript-380e)
-[![Build a custom Javascript linter in 5 minutes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_a_custom_Javascript_linter_in_5_minutes.svg)](https://dev.to/geoffreycopin/build-a-custom-javascript-linter-in-5-minutes-4a1j)
+[![Data visualization using React and Tremor - With Sample](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Data_visualization_using_React_and_Tremor_-_With_Sample.svg)](https://dev.to/sm0ke/data-visualization-using-react-and-tremor-with-sample-546a)
+[![Tailwind CSS tutorial #31: Text Decoration Style](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Tailwind_CSS_tutorial__31__Text_Decoration_Style.svg)](https://dev.to/shubhicodes/tailwind-css-tutorial-31-text-decoration-style-14gb)
+[![What is a function? - Programming](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_a_function__-_Programming.svg)](https://dev.to/ezinne_anne/what-is-a-function-programming-2o1p)
+[![How to monetize open-source software](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_monetize_open-source_software.svg)](https://dev.to/paydevs/how-to-monetize-open-source-software-9a7)
+[![Rendering Web Methods in Next.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Rendering_Web_Methods_in_Next.js.svg)](https://dev.to/360macky/rendering-web-methods-in-nextjs-2e7)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, December 9, 2022 at 5:16:31 AM
+> Last updated: Friday, December 9, 2022 at 11:11:15 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, December 9, 2022 at 5:16:37 AM
+> Last updated: Friday, December 9, 2022 at 11:11:20 AM
 
 > Showing 5 of 30 posts.
 
