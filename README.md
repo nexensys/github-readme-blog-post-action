@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, December 8, 2022 at 5:47:52 PM
+> Last updated: Thursday, December 8, 2022 at 11:12:11 PM
 
 > Showing 5 of 12 posts.
 
-[![Regex, dont be scared](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Regex__dont_be_scared.svg)](https://dev.to/developersteve/regex-dont-be-scared-572o)
-[![MongoDB Atlas Hackathon 2022 on DEV](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/MongoDB_Atlas_Hackathon_2022_on_DEV.svg)](https://dev.to/ankitbrijwasi/mongodb-atlas-hackathon-2022-on-dev-15im)
-[![Rewind - MongoDB Atlas Hackathon 2022 on DEV](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Rewind_-_MongoDB_Atlas_Hackathon_2022_on_DEV.svg)](https://dev.to/dephraiim/rewind-mongodb-atlas-hackathon-2022-on-dev-4pg7)
-[![MongoDB Atlas Hackathon 2022 on DEV](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/MongoDB_Atlas_Hackathon_2022_on_DEV.svg)](https://dev.to/andrebellu/mongodb-atlas-hackathon-2022-on-dev-3ka7)
-[![Treating Devs Like Human Beings](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Treating_Devs_Like_Human_Beings.svg)](https://dev.to/linearb/treating-devs-like-human-beings-c01)
+[![APIs: The Revolutionary Interfaces](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/APIs__The_Revolutionary_Interfaces.svg)](https://dev.to/mwendwabundi/apis-the-revolutionary-interfaces-5853)
+[![Rsyslog Servisi ile Uzak Sunucuya log Yazdırma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Rsyslog_Servisi_ile_Uzak_Sunucuya_log_Yazdırma.svg)](https://dev.to/aciklab/rsyslog-servisi-ile-uzak-sunucuya-log-yazdirma-3i3n)
+[![Top 13 Reasons Why Your Test Automation Fails | Automation Testing Tutorial | Automation Tester](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_13_Reasons_Why_Your_Test_Automation_Fails___Automation_Testing_Tutorial___Automation_Tester.svg)](https://dev.to/promode/top-13-reasons-why-your-test-automation-fails-automation-testing-tutorial-automation-tester-3l2a)
+[![6 Best Front-end Frameworks to Use For Web Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/6_Best_Front-end_Frameworks_to_Use_For_Web_Development.svg)](https://dev.to/function12_io/6-best-front-end-frameworks-to-use-for-web-development-2flk)
+[![Developer productivity hacks 11](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Developer_productivity_hacks_11.svg)](https://dev.to/function12_io/developer-productivity-hacks-11-58p3)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, December 8, 2022 at 5:47:56 PM
+> Last updated: Thursday, December 8, 2022 at 11:12:14 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, December 8, 2022 at 5:47:59 PM
+> Last updated: Thursday, December 8, 2022 at 11:12:16 PM
 
 > Showing 5 of 30 posts.
 
