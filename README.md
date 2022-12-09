@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, December 8, 2022 at 11:11:12 AM
+> Last updated: Thursday, December 8, 2022 at 5:47:52 PM
 
 > Showing 5 of 12 posts.
 
-[![MongoDB Atlas Hackathon 2022 on DEV](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/MongoDB_Atlas_Hackathon_2022_on_DEV.svg)](https://dev.to/sandyabhi/mongodb-atlas-hackathon-2022-on-dev-3ncd)
-[![Let's learn Django together (part 1)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Let's_learn_Django_together_(part_1).svg)](https://dev.to/makneta/lets-learn-django-together-part-1-481k)
-[![Build a Free Twitter Scheduler with Next.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_a_Free_Twitter_Scheduler_with_Next.js.svg)](https://dev.to/ixartz/build-a-free-twitter-scheduler-with-nextjs-41jf)
-[![Getting Started With ChatGPT-3 | Open AI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Getting_Started_With_ChatGPT-3___Open_AI.svg)](https://dev.to/arjungautam/getting-started-with-chatgpt-3-open-ai-3jf8)
-[![Introducing OnServic: A free App to find any Service Provider](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Introducing_OnServic__A_free_App_to_find_any_Service_Provider.svg)](https://dev.to/sushilbhattarai45/mongodb-atlas-hackathon-2022-on-dev-3pfa)
+[![Regex, dont be scared](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Regex__dont_be_scared.svg)](https://dev.to/developersteve/regex-dont-be-scared-572o)
+[![MongoDB Atlas Hackathon 2022 on DEV](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/MongoDB_Atlas_Hackathon_2022_on_DEV.svg)](https://dev.to/ankitbrijwasi/mongodb-atlas-hackathon-2022-on-dev-15im)
+[![Rewind - MongoDB Atlas Hackathon 2022 on DEV](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Rewind_-_MongoDB_Atlas_Hackathon_2022_on_DEV.svg)](https://dev.to/dephraiim/rewind-mongodb-atlas-hackathon-2022-on-dev-4pg7)
+[![MongoDB Atlas Hackathon 2022 on DEV](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/MongoDB_Atlas_Hackathon_2022_on_DEV.svg)](https://dev.to/andrebellu/mongodb-atlas-hackathon-2022-on-dev-3ka7)
+[![Treating Devs Like Human Beings](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Treating_Devs_Like_Human_Beings.svg)](https://dev.to/linearb/treating-devs-like-human-beings-c01)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, December 8, 2022 at 11:11:15 AM
+> Last updated: Thursday, December 8, 2022 at 5:47:56 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, December 8, 2022 at 11:11:19 AM
+> Last updated: Thursday, December 8, 2022 at 5:47:59 PM
 
 > Showing 5 of 30 posts.
 
+[![Five Challenges to Building an Isomorphic JavaScript Library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Five_Challenges_to_Building_an_Isomorphic_JavaScript_Library.svg)](https://doordash.engineering/2022/12/06/five-challenges-to-building-an-isomorphic-javascript-library/)
+[![Build smaller, faster, and more secure desktop applications with a web frontend | Tauri Apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_smaller__faster__and_more_secure_desktop_applications_with_a_web_frontend___Tauri_Apps.svg)](https://tauri.app)
 [![Electron Chat App Tutorial: Building a Desktop Chat App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Electron_Chat_App_Tutorial__Building_a_Desktop_Chat_App.svg)](https://metered.hashnode.dev/electron-chat-app-tutorial-building-a-desktop-chat-app)
 [![JavaScript Functions: Why They're Essential to Understand? | Easy Guide - Part2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Functions__Why_They're_Essential_to_Understand____Easy_Guide_-_Part2.svg)](https://dev.to/aradwan20/javascript-functions-why-theyre-essential-to-understand-easy-guide-part2-3a6b)
 [![Code your Laravel website faster with Stylify CSS | Stylify CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Code_your_Laravel_website_faster_with_Stylify_CSS___Stylify_CSS.svg)](https://stylifycss.com/blog/code-your-laravel-website-faster-with-stylify-css)
-[![GitHub - MarketingPipeline/Termino.js: Create a web based terminal on any website - great for games, animations and real world apps!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_MarketingPipeline_Termino.js__Create_a_web_based_terminal_on_any_website_-_great_for_games__animations_and_real_world_apps!.svg)](https://github.com/MarketingPipeline/Termino.js)
-[![GitHub - avastjs/cyber-icons: free futuristics svg icons components for React/Vue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_avastjs_cyber-icons__free_futuristics_svg_icons_components_for_React_Vue.svg)](https://github.com/avastjs/cyber-icons)
 
 
 <!-- post-list:end -->
