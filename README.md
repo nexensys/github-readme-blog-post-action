@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, December 8, 2022 at 11:12:11 PM
+> Last updated: Friday, December 9, 2022 at 5:16:28 AM
 
 > Showing 5 of 12 posts.
 
-[![APIs: The Revolutionary Interfaces](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/APIs__The_Revolutionary_Interfaces.svg)](https://dev.to/mwendwabundi/apis-the-revolutionary-interfaces-5853)
-[![Rsyslog Servisi ile Uzak Sunucuya log Yazdırma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Rsyslog_Servisi_ile_Uzak_Sunucuya_log_Yazdırma.svg)](https://dev.to/aciklab/rsyslog-servisi-ile-uzak-sunucuya-log-yazdirma-3i3n)
-[![Top 13 Reasons Why Your Test Automation Fails | Automation Testing Tutorial | Automation Tester](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_13_Reasons_Why_Your_Test_Automation_Fails___Automation_Testing_Tutorial___Automation_Tester.svg)](https://dev.to/promode/top-13-reasons-why-your-test-automation-fails-automation-testing-tutorial-automation-tester-3l2a)
-[![6 Best Front-end Frameworks to Use For Web Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/6_Best_Front-end_Frameworks_to_Use_For_Web_Development.svg)](https://dev.to/function12_io/6-best-front-end-frameworks-to-use-for-web-development-2flk)
-[![Developer productivity hacks 11](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Developer_productivity_hacks_11.svg)](https://dev.to/function12_io/developer-productivity-hacks-11-58p3)
+[![6 Awesome tools to write better code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/6_Awesome_tools_to_write_better_code.svg)](https://dev.to/surajondev/6-awesome-tools-to-write-better-code-3p26)
+[![YugabyteDB: list failed commands](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/YugabyteDB__list_failed_commands.svg)](https://dev.to/yugabyte/yugabytedb-list-failed-commands-5166)
+[![9 websites to learn CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/9_websites_to_learn_CSS.svg)](https://dev.to/mohsenkamrani/9-websites-to-learn-css-gbe)
+[![Converting Your React Hook To TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Converting_Your_React_Hook_To_TypeScript.svg)](https://dev.to/mbarzeev/converting-your-react-hook-to-typescript-380e)
+[![Build a custom Javascript linter in 5 minutes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_a_custom_Javascript_linter_in_5_minutes.svg)](https://dev.to/geoffreycopin/build-a-custom-javascript-linter-in-5-minutes-4a1j)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, December 8, 2022 at 11:12:14 PM
+> Last updated: Friday, December 9, 2022 at 5:16:31 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, December 8, 2022 at 11:12:16 PM
+> Last updated: Friday, December 9, 2022 at 5:16:37 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - josdejong/svelte-jsoneditor: A web-based tool to view, edit, format, repair, query, transform, and validate JSON](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_josdejong_svelte-jsoneditor__A_web-based_tool_to_view__edit__format__repair__query__transform__and_validate_JSON.svg)](https://github.com/josdejong/svelte-jsoneditor)
+[![Lead for Career Assistance and scholarships](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Lead_for_Career_Assistance_and_scholarships.svg)](https://leadforcareer.com/)
 [![Five Challenges to Building an Isomorphic JavaScript Library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Five_Challenges_to_Building_an_Isomorphic_JavaScript_Library.svg)](https://doordash.engineering/2022/12/06/five-challenges-to-building-an-isomorphic-javascript-library/)
 [![Build smaller, faster, and more secure desktop applications with a web frontend | Tauri Apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_smaller__faster__and_more_secure_desktop_applications_with_a_web_frontend___Tauri_Apps.svg)](https://tauri.app)
 [![Electron Chat App Tutorial: Building a Desktop Chat App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Electron_Chat_App_Tutorial__Building_a_Desktop_Chat_App.svg)](https://metered.hashnode.dev/electron-chat-app-tutorial-building-a-desktop-chat-app)
-[![JavaScript Functions: Why They're Essential to Understand? | Easy Guide - Part2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Functions__Why_They're_Essential_to_Understand____Easy_Guide_-_Part2.svg)](https://dev.to/aradwan20/javascript-functions-why-theyre-essential-to-understand-easy-guide-part2-3a6b)
-[![Code your Laravel website faster with Stylify CSS | Stylify CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Code_your_Laravel_website_faster_with_Stylify_CSS___Stylify_CSS.svg)](https://stylifycss.com/blog/code-your-laravel-website-faster-with-stylify-css)
 
 
 <!-- post-list:end -->
