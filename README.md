@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, December 9, 2022 at 11:11:13 PM
+> Last updated: Saturday, December 10, 2022 at 5:15:22 AM
 
 > Showing 5 of 12 posts.
 
-[![Final thoughts on contribution](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Final_thoughts_on_contribution.svg)](https://dev.to/mnosov622/final-thoughts-on-contribution-1e4o)
-[![Use prettier & pre-commit hooks for testing.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Use_prettier___pre-commit_hooks_for_testing..svg)](https://dev.to/andreasrisager/use-prettier-pre-commit-hooks-for-testing-25nl)
-[![What's The Difference Between Tailwindcss and UI Framework (Bootstrap, etc.)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What's_The_Difference_Between_Tailwindcss_and_UI_Framework_(Bootstrap__etc.).svg)](https://dev.to/catur/whats-the-difference-between-tailwindcss-and-ui-framework-bootstrap-etc-aaf)
-[![Next.js 13 with Tailwind and MUI Boilerplate](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Next.js_13_with_Tailwind_and_MUI_Boilerplate.svg)](https://dev.to/serhii_kucherenko/nextjs-13-with-tailwind-and-mui-boilerplate-lhh)
-[![So what is Effector ☄️ ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/So_what_is_Effector_☄️__.svg)](https://dev.to/js2me/so-what-is-effector--3fl1)
+[![Top 20+ Best Udemy Courses to Learn Web Development Till Now](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_20+_Best_Udemy_Courses_to_Learn_Web_Development_Till_Now.svg)](https://dev.to/codeswithrocky/top-20-best-udemy-courses-to-learn-web-development-till-now-3df9)
+[![7 Techniques to Optimize React Applications Performance](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/7_Techniques_to_Optimize_React_Applications_Performance.svg)](https://dev.to/sanikommushirisha/efficient-components-techniques-to-optimise-react-applications-performance-3l9l)
+[![Flex with Tailwindcss](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Flex_with_Tailwindcss.svg)](https://dev.to/guillaumeduhan/flex-with-tailwindcss-733)
+[![[How to] write abstract functions in JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/[How_to]_write_abstract_functions_in_JS.svg)](https://dev.to/devneagu/how-to-write-abstract-functional-functions-in-js-1db)
+[![WHY YOUR STATE IS BEHIND.(react.js)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/WHY_YOUR_STATE_IS_BEHIND.(react.js).svg)](https://dev.to/csituma/why-your-state-is-one-character-behindreactjs-16im)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, December 9, 2022 at 11:11:17 PM
+> Last updated: Saturday, December 10, 2022 at 5:15:25 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, December 9, 2022 at 11:11:22 PM
+> Last updated: Saturday, December 10, 2022 at 5:15:29 AM
 
 > Showing 5 of 30 posts.
 
