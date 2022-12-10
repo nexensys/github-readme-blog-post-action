@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, December 10, 2022 at 5:15:22 AM
+> Last updated: Saturday, December 10, 2022 at 11:10:19 AM
 
 > Showing 5 of 12 posts.
 
-[![Top 20+ Best Udemy Courses to Learn Web Development Till Now](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_20+_Best_Udemy_Courses_to_Learn_Web_Development_Till_Now.svg)](https://dev.to/codeswithrocky/top-20-best-udemy-courses-to-learn-web-development-till-now-3df9)
-[![7 Techniques to Optimize React Applications Performance](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/7_Techniques_to_Optimize_React_Applications_Performance.svg)](https://dev.to/sanikommushirisha/efficient-components-techniques-to-optimise-react-applications-performance-3l9l)
-[![Flex with Tailwindcss](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Flex_with_Tailwindcss.svg)](https://dev.to/guillaumeduhan/flex-with-tailwindcss-733)
-[![[How to] write abstract functions in JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/[How_to]_write_abstract_functions_in_JS.svg)](https://dev.to/devneagu/how-to-write-abstract-functional-functions-in-js-1db)
-[![WHY YOUR STATE IS BEHIND.(react.js)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/WHY_YOUR_STATE_IS_BEHIND.(react.js).svg)](https://dev.to/csituma/why-your-state-is-one-character-behindreactjs-16im)
+[![Flutter Performance Best Practices](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Flutter_Performance_Best_Practices.svg)](https://dev.to/gulsenkeskin/flutter-performance-best-practices-27dd)
+[![Dart Flutter Quiz](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Dart_Flutter_Quiz.svg)](https://dev.to/gulsenkeskin/dart-flutter-quiz-5570)
+[![How to be productive as a developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_be_productive_as_a_developer.svg)](https://dev.to/awsmakshay/how-to-be-productive-as-a-developer-10e3)
+[![Demystifying tests in Laravel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Demystifying_tests_in_Laravel.svg)](https://dev.to/anwar_nairi/demystifying-tests-in-laravel-3bm8)
+[![What was your win this week?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_was_your_win_this_week_.svg)](https://dev.to/michaeltharrington/what-was-your-win-this-week-4h5a)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, December 10, 2022 at 5:15:25 AM
+> Last updated: Saturday, December 10, 2022 at 11:10:22 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, December 10, 2022 at 5:15:29 AM
+> Last updated: Saturday, December 10, 2022 at 11:10:25 AM
 
 > Showing 5 of 30 posts.
 
