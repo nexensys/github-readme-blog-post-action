@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, December 9, 2022 at 5:43:17 PM
+> Last updated: Friday, December 9, 2022 at 11:11:13 PM
 
 > Showing 5 of 12 posts.
 
-[![Has a Company Ever Rescinded Your Offer Letter?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Has_a_Company_Ever_Rescinded_Your_Offer_Letter_.svg)](https://dev.to/sloan/has-a-company-ever-rescinded-your-offer-letter-12mn)
-[![What is Continuous Merge?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_Continuous_Merge_.svg)](https://dev.to/linearb/what-is-continuous-merge-3m5h)
-[![Step by step: How to host your dotnet projects on Azure for free](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Step_by_step__How_to_host_your_dotnet_projects_on_Azure_for_free.svg)](https://dev.to/brunosilvadev/step-by-step-how-to-host-your-dotnet-projects-on-azure-for-free-56hg)
-[![Operating systems crash course: From kernels to virtualization](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Operating_systems_crash_course__From_kernels_to_virtualization.svg)](https://dev.to/educative/operating-systems-crash-course-from-kernels-to-virtualization-1nec)
-[![Behavior Driven Development (BDD)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Behavior_Driven_Development_(BDD).svg)](https://dev.to/devneagu/behaviour-driven-development-bdd-2fdi)
+[![Final thoughts on contribution](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Final_thoughts_on_contribution.svg)](https://dev.to/mnosov622/final-thoughts-on-contribution-1e4o)
+[![Use prettier & pre-commit hooks for testing.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Use_prettier___pre-commit_hooks_for_testing..svg)](https://dev.to/andreasrisager/use-prettier-pre-commit-hooks-for-testing-25nl)
+[![What's The Difference Between Tailwindcss and UI Framework (Bootstrap, etc.)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What's_The_Difference_Between_Tailwindcss_and_UI_Framework_(Bootstrap__etc.).svg)](https://dev.to/catur/whats-the-difference-between-tailwindcss-and-ui-framework-bootstrap-etc-aaf)
+[![Next.js 13 with Tailwind and MUI Boilerplate](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Next.js_13_with_Tailwind_and_MUI_Boilerplate.svg)](https://dev.to/serhii_kucherenko/nextjs-13-with-tailwind-and-mui-boilerplate-lhh)
+[![So what is Effector ☄️ ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/So_what_is_Effector_☄️__.svg)](https://dev.to/js2me/so-what-is-effector--3fl1)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, December 9, 2022 at 5:43:19 PM
+> Last updated: Friday, December 9, 2022 at 11:11:17 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, December 9, 2022 at 5:43:22 PM
+> Last updated: Friday, December 9, 2022 at 11:11:22 PM
 
 > Showing 5 of 30 posts.
 
