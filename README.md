@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, December 11, 2022 at 5:15:36 AM
+> Last updated: Sunday, December 11, 2022 at 11:10:51 AM
 
 > Showing 5 of 12 posts.
 
-[![7 Best Tools for Monitoring Node.js Servers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/7_Best_Tools_for_Monitoring_Node.js_Servers.svg)](https://dev.to/devland/7-best-tools-for-monitoring-nodejs-servers-168h)
-[![🤖 Fresh Tech Open Positions - Week #50 of 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/🤖_Fresh_Tech_Open_Positions_-_Week__50_of_2022.svg)](https://dev.to/shman/fresh-tech-open-positions-week-50-of-2022-52ch)
-[![Advent of Code 2022 - Day 11](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Advent_of_Code_2022_-_Day_11.svg)](https://dev.to/kalaspuffar/advent-of-code-2022-day-11-294p)
-[![Introduction: I'm Sangam](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Introduction__I'm_Sangam.svg)](https://dev.to/sangamswadik/introduction-im-sangam-45id)
-[![Learn Getting Started With Digitalocean Functions in Ten Minutes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Learn_Getting_Started_With_Digitalocean_Functions_in_Ten_Minutes.svg)](https://dev.to/makendrang/learn-getting-started-with-digitalocean-functions-in-ten-minutes-3629)
+[![Canadian Municipal GitHub Rankings](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Canadian_Municipal_GitHub_Rankings.svg)](https://dev.to/szabgab/canadian-municipal-github-rankings-2hhi)
+[![🛑 Why You Should Avoid the onclick Attribute in Your Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/🛑_Why_You_Should_Avoid_the_onclick_Attribute_in_Your_Code.svg)](https://dev.to/maxprogramming/why-you-should-avoid-the-onclick-attribute-in-your-code-560d)
+[![Event-Driven Architectures in AWS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Event-Driven_Architectures_in_AWS.svg)](https://dev.to/aws-builders/event-driven-architectures-in-aws-5g26)
+[![Tailwind CSS tutorial #33: Border Radius](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Tailwind_CSS_tutorial__33__Border_Radius.svg)](https://dev.to/shubhicodes/tailwind-css-tutorial-33-border-radius-1ba7)
+[![My first extension to Fig](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/My_first_extension_to_Fig.svg)](https://dev.to/jonasbn/my-first-extension-to-fig-15p7)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, December 11, 2022 at 5:15:38 AM
+> Last updated: Sunday, December 11, 2022 at 11:10:55 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, December 11, 2022 at 5:15:42 AM
+> Last updated: Sunday, December 11, 2022 at 11:10:59 AM
 
 > Showing 5 of 30 posts.
 
-[![GitHub - floranguyen0/mmas-money-tracker: 🔥🔥 An optimized application for daily expense tracking and finance management, written in Dart (Flutter framework). 💰💸](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_floranguyen0_mmas-money-tracker__🔥🔥_An_optimized_application_for_daily_expense_tracking_and_finance_management__written_in_Dart_(Flutter_framework)._💰💸.svg)](https://github.com/floranguyen0/mmas-money-tracker)
 [![GitHub - josdejong/svelte-jsoneditor: A web-based tool to view, edit, format, repair, query, transform, and validate JSON](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_josdejong_svelte-jsoneditor__A_web-based_tool_to_view__edit__format__repair__query__transform__and_validate_JSON.svg)](https://github.com/josdejong/svelte-jsoneditor)
 [![Five Challenges to Building an Isomorphic JavaScript Library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Five_Challenges_to_Building_an_Isomorphic_JavaScript_Library.svg)](https://doordash.engineering/2022/12/06/five-challenges-to-building-an-isomorphic-javascript-library/)
 [![Build smaller, faster, and more secure desktop applications with a web frontend | Tauri Apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_smaller__faster__and_more_secure_desktop_applications_with_a_web_frontend___Tauri_Apps.svg)](https://tauri.app)
 [![Electron Chat App Tutorial: Building a Desktop Chat App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Electron_Chat_App_Tutorial__Building_a_Desktop_Chat_App.svg)](https://metered.hashnode.dev/electron-chat-app-tutorial-building-a-desktop-chat-app)
+[![JavaScript Functions: Why They're Essential to Understand? | Easy Guide - Part2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Functions__Why_They're_Essential_to_Understand____Easy_Guide_-_Part2.svg)](https://dev.to/aradwan20/javascript-functions-why-theyre-essential-to-understand-easy-guide-part2-3a6b)
 
 
 <!-- post-list:end -->
