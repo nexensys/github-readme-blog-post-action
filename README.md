@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, December 10, 2022 at 5:52:24 PM
+> Last updated: Saturday, December 10, 2022 at 11:11:00 PM
 
 > Showing 5 of 12 posts.
 
-[![Programmers always Overthink](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Programmers_always_Overthink.svg)](https://dev.to/trinly01/programmers-always-overthink-1174)
-[![How To Integrate Google Calendar API and friendship with Laravel. Part 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_To_Integrate_Google_Calendar_API_and_friendship_with_Laravel._Part_2.svg)](https://dev.to/dnsinyukov/how-to-integrate-google-calendar-api-and-friendship-with-laravel-part-2-48ba)
-[![How I use Notion as a Software Developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_I_use_Notion_as_a_Software_Developer.svg)](https://dev.to/zt4ff_1/how-i-use-notion-as-a-software-developer-36fh)
-[![Learnings from Advent Of Code Day 1 as a Rust Newbie](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Learnings_from_Advent_Of_Code_Day_1_as_a_Rust_Newbie.svg)](https://dev.to/kunaljaydesai/learnings-from-advent-of-code-day-1-as-a-rust-newbie-2k86)
-[![Crafting a Compiler in Rust: Syntactic Analysis](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Crafting_a_Compiler_in_Rust__Syntactic_Analysis.svg)](https://dev.to/simmypeet/crafting-a-compiler-in-rust-syntactic-analysis-5dia)
+[![Conditional wrapping in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Conditional_wrapping_in_React.svg)](https://dev.to/dailydevtips1/conditional-wrapping-in-react-46o5)
+[![UIUC MCS - CS 427 Review - Software Engineering](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/UIUC_MCS_-_CS_427_Review_-_Software_Engineering.svg)](https://dev.to/scc33/uiuc-mcs-cs-427-review-software-engineering-3cbo)
+[![Avoiding (5) common Git mistakes in a team environment](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Avoiding_(5)_common_Git_mistakes_in_a_team_environment.svg)](https://dev.to/aneshodza/avoiding-5-common-git-mistakes-in-a-team-environment-1pm8)
+[![Cracking the Algorithm Interview](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Cracking_the_Algorithm_Interview.svg)](https://dev.to/qiutongs/cracking-the-algorithm-interview-2k63)
+[![Mastering Python Dictionaries & Pandas DataFrames](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Mastering_Python_Dictionaries___Pandas_DataFrames.svg)](https://dev.to/pyprodev/mastering-python-dictionaries-pandas-dataframes-1ai5)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, December 10, 2022 at 5:52:28 PM
+> Last updated: Saturday, December 10, 2022 at 11:11:04 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,11 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, December 10, 2022 at 5:52:32 PM
+> Last updated: Saturday, December 10, 2022 at 11:11:08 PM
 
 > Showing 5 of 30 posts.
 
-[![Serverless Authentication with Golang](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Serverless_Authentication_with_Golang.svg)](https://blog.niradler.com/serverless-authentication-with-golang)
+[![GitHub - floranguyen0/mmas-money-tracker: 🔥🔥 An optimized application for daily expense tracking and finance management, written in Dart (Flutter framework). 💰💸](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_floranguyen0_mmas-money-tracker__🔥🔥_An_optimized_application_for_daily_expense_tracking_and_finance_management__written_in_Dart_(Flutter_framework)._💰💸.svg)](https://github.com/floranguyen0/mmas-money-tracker)
 [![GitHub - josdejong/svelte-jsoneditor: A web-based tool to view, edit, format, repair, query, transform, and validate JSON](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_josdejong_svelte-jsoneditor__A_web-based_tool_to_view__edit__format__repair__query__transform__and_validate_JSON.svg)](https://github.com/josdejong/svelte-jsoneditor)
 [![Five Challenges to Building an Isomorphic JavaScript Library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Five_Challenges_to_Building_an_Isomorphic_JavaScript_Library.svg)](https://doordash.engineering/2022/12/06/five-challenges-to-building-an-isomorphic-javascript-library/)
 [![Build smaller, faster, and more secure desktop applications with a web frontend | Tauri Apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_smaller__faster__and_more_secure_desktop_applications_with_a_web_frontend___Tauri_Apps.svg)](https://tauri.app)
