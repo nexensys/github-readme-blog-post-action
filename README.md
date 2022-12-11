@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, December 10, 2022 at 11:10:19 AM
+> Last updated: Saturday, December 10, 2022 at 5:52:24 PM
 
 > Showing 5 of 12 posts.
 
-[![Flutter Performance Best Practices](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Flutter_Performance_Best_Practices.svg)](https://dev.to/gulsenkeskin/flutter-performance-best-practices-27dd)
-[![Dart Flutter Quiz](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Dart_Flutter_Quiz.svg)](https://dev.to/gulsenkeskin/dart-flutter-quiz-5570)
-[![How to be productive as a developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_be_productive_as_a_developer.svg)](https://dev.to/awsmakshay/how-to-be-productive-as-a-developer-10e3)
-[![Demystifying tests in Laravel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Demystifying_tests_in_Laravel.svg)](https://dev.to/anwar_nairi/demystifying-tests-in-laravel-3bm8)
-[![What was your win this week?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_was_your_win_this_week_.svg)](https://dev.to/michaeltharrington/what-was-your-win-this-week-4h5a)
+[![Programmers always Overthink](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Programmers_always_Overthink.svg)](https://dev.to/trinly01/programmers-always-overthink-1174)
+[![How To Integrate Google Calendar API and friendship with Laravel. Part 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_To_Integrate_Google_Calendar_API_and_friendship_with_Laravel._Part_2.svg)](https://dev.to/dnsinyukov/how-to-integrate-google-calendar-api-and-friendship-with-laravel-part-2-48ba)
+[![How I use Notion as a Software Developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_I_use_Notion_as_a_Software_Developer.svg)](https://dev.to/zt4ff_1/how-i-use-notion-as-a-software-developer-36fh)
+[![Learnings from Advent Of Code Day 1 as a Rust Newbie](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Learnings_from_Advent_Of_Code_Day_1_as_a_Rust_Newbie.svg)](https://dev.to/kunaljaydesai/learnings-from-advent-of-code-day-1-as-a-rust-newbie-2k86)
+[![Crafting a Compiler in Rust: Syntactic Analysis](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Crafting_a_Compiler_in_Rust__Syntactic_Analysis.svg)](https://dev.to/simmypeet/crafting-a-compiler-in-rust-syntactic-analysis-5dia)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, December 10, 2022 at 11:10:22 AM
+> Last updated: Saturday, December 10, 2022 at 5:52:28 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, December 10, 2022 at 11:10:25 AM
+> Last updated: Saturday, December 10, 2022 at 5:52:32 PM
 
 > Showing 5 of 30 posts.
 
+[![Serverless Authentication with Golang](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Serverless_Authentication_with_Golang.svg)](https://blog.niradler.com/serverless-authentication-with-golang)
 [![GitHub - josdejong/svelte-jsoneditor: A web-based tool to view, edit, format, repair, query, transform, and validate JSON](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_josdejong_svelte-jsoneditor__A_web-based_tool_to_view__edit__format__repair__query__transform__and_validate_JSON.svg)](https://github.com/josdejong/svelte-jsoneditor)
 [![Five Challenges to Building an Isomorphic JavaScript Library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Five_Challenges_to_Building_an_Isomorphic_JavaScript_Library.svg)](https://doordash.engineering/2022/12/06/five-challenges-to-building-an-isomorphic-javascript-library/)
 [![Build smaller, faster, and more secure desktop applications with a web frontend | Tauri Apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_smaller__faster__and_more_secure_desktop_applications_with_a_web_frontend___Tauri_Apps.svg)](https://tauri.app)
 [![Electron Chat App Tutorial: Building a Desktop Chat App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Electron_Chat_App_Tutorial__Building_a_Desktop_Chat_App.svg)](https://metered.hashnode.dev/electron-chat-app-tutorial-building-a-desktop-chat-app)
-[![JavaScript Functions: Why They're Essential to Understand? | Easy Guide - Part2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Functions__Why_They're_Essential_to_Understand____Easy_Guide_-_Part2.svg)](https://dev.to/aradwan20/javascript-functions-why-theyre-essential-to-understand-easy-guide-part2-3a6b)
 
 
 <!-- post-list:end -->
