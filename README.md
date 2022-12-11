@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, December 10, 2022 at 11:11:00 PM
+> Last updated: Sunday, December 11, 2022 at 5:15:36 AM
 
 > Showing 5 of 12 posts.
 
-[![Conditional wrapping in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Conditional_wrapping_in_React.svg)](https://dev.to/dailydevtips1/conditional-wrapping-in-react-46o5)
-[![UIUC MCS - CS 427 Review - Software Engineering](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/UIUC_MCS_-_CS_427_Review_-_Software_Engineering.svg)](https://dev.to/scc33/uiuc-mcs-cs-427-review-software-engineering-3cbo)
-[![Avoiding (5) common Git mistakes in a team environment](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Avoiding_(5)_common_Git_mistakes_in_a_team_environment.svg)](https://dev.to/aneshodza/avoiding-5-common-git-mistakes-in-a-team-environment-1pm8)
-[![Cracking the Algorithm Interview](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Cracking_the_Algorithm_Interview.svg)](https://dev.to/qiutongs/cracking-the-algorithm-interview-2k63)
-[![Mastering Python Dictionaries & Pandas DataFrames](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Mastering_Python_Dictionaries___Pandas_DataFrames.svg)](https://dev.to/pyprodev/mastering-python-dictionaries-pandas-dataframes-1ai5)
+[![7 Best Tools for Monitoring Node.js Servers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/7_Best_Tools_for_Monitoring_Node.js_Servers.svg)](https://dev.to/devland/7-best-tools-for-monitoring-nodejs-servers-168h)
+[![🤖 Fresh Tech Open Positions - Week #50 of 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/🤖_Fresh_Tech_Open_Positions_-_Week__50_of_2022.svg)](https://dev.to/shman/fresh-tech-open-positions-week-50-of-2022-52ch)
+[![Advent of Code 2022 - Day 11](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Advent_of_Code_2022_-_Day_11.svg)](https://dev.to/kalaspuffar/advent-of-code-2022-day-11-294p)
+[![Introduction: I'm Sangam](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Introduction__I'm_Sangam.svg)](https://dev.to/sangamswadik/introduction-im-sangam-45id)
+[![Learn Getting Started With Digitalocean Functions in Ten Minutes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Learn_Getting_Started_With_Digitalocean_Functions_in_Ten_Minutes.svg)](https://dev.to/makendrang/learn-getting-started-with-digitalocean-functions-in-ten-minutes-3629)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, December 10, 2022 at 11:11:04 PM
+> Last updated: Sunday, December 11, 2022 at 5:15:38 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, December 10, 2022 at 11:11:08 PM
+> Last updated: Sunday, December 11, 2022 at 5:15:42 AM
 
 > Showing 5 of 30 posts.
 
