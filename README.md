@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, December 11, 2022 at 5:50:52 PM
+> Last updated: Sunday, December 11, 2022 at 11:12:13 PM
 
 > Showing 5 of 12 posts.
 
-[![Remove Blank Lines from a File with Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Remove_Blank_Lines_from_a_File_with_Python.svg)](https://dev.to/jd2r/remove-blank-lines-from-a-file-461a)
-[![8 practical tips to boost the on-page SEO in no time](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/8_practical_tips_to_boost_the_on-page_SEO_in_no_time.svg)](https://dev.to/mohsenkamrani/8-practical-tips-to-boost-the-on-page-seo-in-no-time-43)
-[![3 Ways To Store Data in Computer Vision Applications](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/3_Ways_To_Store_Data_in_Computer_Vision_Applications.svg)](https://dev.to/reduct-storage/3-ways-to-store-data-in-computer-vision-applications-jio)
-[![SQL vs NoSQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/SQL_vs_NoSQL.svg)](https://dev.to/mradamus/sql-vs-nosql-2igo)
-[![Use Repository Pattern with Laravel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Use_Repository_Pattern_with_Laravel.svg)](https://dev.to/kasenda/use-repository-pattern-with-laravel-e8h)
+[![6 alternatives for div tag you need to know and use](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/6_alternatives_for_div_tag_you_need_to_know_and_use.svg)](https://dev.to/mohsenkamrani/6-alternatives-for-div-tag-you-need-to-know-and-use-4g3b)
+[![The Power of GitHub Actions for Streamlining DevOps Workflows](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Power_of_GitHub_Actions_for_Streamlining_DevOps_Workflows.svg)](https://dev.to/pramit_marattha/the-power-of-github-actions-for-streamlining-devops-workflows-1h91)
+[![Client-side image compression with Supabase Storage](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Client-side_image_compression_with_Supabase_Storage.svg)](https://dev.to/mikeesto/client-side-image-compression-with-supabase-storage-1193)
+[![Make Your Tmux Status Line 100% Better With Bash](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Make_Your_Tmux_Status_Line_100__Better_With_Bash.svg)](https://dev.to/brandonwallace/make-your-tmux-status-line-100-better-with-bash-mgf)
+[![Typescript: La palabra clave extends](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Typescript__La_palabra_clave_extends.svg)](https://dev.to/matiasfha/typescript-la-palabra-clave-extends-4nci)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, December 11, 2022 at 5:50:55 PM
+> Last updated: Sunday, December 11, 2022 at 11:12:17 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, December 11, 2022 at 5:51:01 PM
+> Last updated: Sunday, December 11, 2022 at 11:12:21 PM
 
 > Showing 5 of 30 posts.
 
+[![Free Social Media Video Downloaders - Sparkolinks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Free_Social_Media_Video_Downloaders_-_Sparkolinks.svg)](https://sparkolinks.com/)
 [![GitHub - josdejong/svelte-jsoneditor: A web-based tool to view, edit, format, repair, query, transform, and validate JSON](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_josdejong_svelte-jsoneditor__A_web-based_tool_to_view__edit__format__repair__query__transform__and_validate_JSON.svg)](https://github.com/josdejong/svelte-jsoneditor)
 [![Five Challenges to Building an Isomorphic JavaScript Library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Five_Challenges_to_Building_an_Isomorphic_JavaScript_Library.svg)](https://doordash.engineering/2022/12/06/five-challenges-to-building-an-isomorphic-javascript-library/)
 [![Build smaller, faster, and more secure desktop applications with a web frontend | Tauri Apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_smaller__faster__and_more_secure_desktop_applications_with_a_web_frontend___Tauri_Apps.svg)](https://tauri.app)
 [![Electron Chat App Tutorial: Building a Desktop Chat App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Electron_Chat_App_Tutorial__Building_a_Desktop_Chat_App.svg)](https://metered.hashnode.dev/electron-chat-app-tutorial-building-a-desktop-chat-app)
-[![JavaScript Functions: Why They're Essential to Understand? | Easy Guide - Part2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Functions__Why_They're_Essential_to_Understand____Easy_Guide_-_Part2.svg)](https://dev.to/aradwan20/javascript-functions-why-theyre-essential-to-understand-easy-guide-part2-3a6b)
 
 
 <!-- post-list:end -->
