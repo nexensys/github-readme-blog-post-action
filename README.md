@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, December 11, 2022 at 11:10:51 AM
+> Last updated: Sunday, December 11, 2022 at 5:50:52 PM
 
 > Showing 5 of 12 posts.
 
-[![Canadian Municipal GitHub Rankings](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Canadian_Municipal_GitHub_Rankings.svg)](https://dev.to/szabgab/canadian-municipal-github-rankings-2hhi)
-[![🛑 Why You Should Avoid the onclick Attribute in Your Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/🛑_Why_You_Should_Avoid_the_onclick_Attribute_in_Your_Code.svg)](https://dev.to/maxprogramming/why-you-should-avoid-the-onclick-attribute-in-your-code-560d)
-[![Event-Driven Architectures in AWS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Event-Driven_Architectures_in_AWS.svg)](https://dev.to/aws-builders/event-driven-architectures-in-aws-5g26)
-[![Tailwind CSS tutorial #33: Border Radius](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Tailwind_CSS_tutorial__33__Border_Radius.svg)](https://dev.to/shubhicodes/tailwind-css-tutorial-33-border-radius-1ba7)
-[![My first extension to Fig](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/My_first_extension_to_Fig.svg)](https://dev.to/jonasbn/my-first-extension-to-fig-15p7)
+[![Remove Blank Lines from a File with Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Remove_Blank_Lines_from_a_File_with_Python.svg)](https://dev.to/jd2r/remove-blank-lines-from-a-file-461a)
+[![8 practical tips to boost the on-page SEO in no time](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/8_practical_tips_to_boost_the_on-page_SEO_in_no_time.svg)](https://dev.to/mohsenkamrani/8-practical-tips-to-boost-the-on-page-seo-in-no-time-43)
+[![3 Ways To Store Data in Computer Vision Applications](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/3_Ways_To_Store_Data_in_Computer_Vision_Applications.svg)](https://dev.to/reduct-storage/3-ways-to-store-data-in-computer-vision-applications-jio)
+[![SQL vs NoSQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/SQL_vs_NoSQL.svg)](https://dev.to/mradamus/sql-vs-nosql-2igo)
+[![Use Repository Pattern with Laravel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Use_Repository_Pattern_with_Laravel.svg)](https://dev.to/kasenda/use-repository-pattern-with-laravel-e8h)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, December 11, 2022 at 11:10:55 AM
+> Last updated: Sunday, December 11, 2022 at 5:50:55 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, December 11, 2022 at 11:10:59 AM
+> Last updated: Sunday, December 11, 2022 at 5:51:01 PM
 
 > Showing 5 of 30 posts.
 
