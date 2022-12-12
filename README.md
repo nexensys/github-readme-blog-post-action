@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, December 11, 2022 at 11:12:13 PM
+> Last updated: Monday, December 12, 2022 at 5:17:27 AM
 
 > Showing 5 of 12 posts.
 
-[![6 alternatives for div tag you need to know and use](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/6_alternatives_for_div_tag_you_need_to_know_and_use.svg)](https://dev.to/mohsenkamrani/6-alternatives-for-div-tag-you-need-to-know-and-use-4g3b)
-[![The Power of GitHub Actions for Streamlining DevOps Workflows](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Power_of_GitHub_Actions_for_Streamlining_DevOps_Workflows.svg)](https://dev.to/pramit_marattha/the-power-of-github-actions-for-streamlining-devops-workflows-1h91)
-[![Client-side image compression with Supabase Storage](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Client-side_image_compression_with_Supabase_Storage.svg)](https://dev.to/mikeesto/client-side-image-compression-with-supabase-storage-1193)
-[![Make Your Tmux Status Line 100% Better With Bash](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Make_Your_Tmux_Status_Line_100__Better_With_Bash.svg)](https://dev.to/brandonwallace/make-your-tmux-status-line-100-better-with-bash-mgf)
-[![Typescript: La palabra clave extends](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Typescript__La_palabra_clave_extends.svg)](https://dev.to/matiasfha/typescript-la-palabra-clave-extends-4nci)
+[![How to get the user’s timezone in JavaScript with Edge Functions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_get_the_user’s_timezone_in_JavaScript_with_Edge_Functions.svg)](https://dev.to/whitep4nth3r/how-to-get-the-users-timezone-in-javascript-with-edge-functions-2m4b)
+[![Responsive Navbar with CSS and JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Responsive_Navbar_with_CSS_and_JS.svg)](https://dev.to/shubhamtiwari909/responsive-navbar-with-css-and-js-5e8f)
+[![Importance of Lazy Loading content](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Importance_of_Lazy_Loading_content.svg)](https://dev.to/hotjar/importance-of-lazy-loading-content-56ck)
+[![Building universal JS/TS plugins with unplugin](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Building_universal_JS_TS_plugins_with_unplugin.svg)](https://dev.to/jacobandrewsky/building-universal-jsts-plugins-with-unplugin-5328)
+[![AWS open source newsletter, #138](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/AWS_open_source_newsletter___138.svg)](https://dev.to/aws/aws-open-source-newsletter-138-461a)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, December 11, 2022 at 11:12:17 PM
+> Last updated: Monday, December 12, 2022 at 5:17:30 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, December 11, 2022 at 11:12:21 PM
+> Last updated: Monday, December 12, 2022 at 5:17:34 AM
 
 > Showing 5 of 30 posts.
 
