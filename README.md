@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, December 12, 2022 at 5:17:27 AM
+> Last updated: Monday, December 12, 2022 at 5:51:46 PM
 
 > Showing 5 of 12 posts.
 
-[![How to get the user’s timezone in JavaScript with Edge Functions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_get_the_user’s_timezone_in_JavaScript_with_Edge_Functions.svg)](https://dev.to/whitep4nth3r/how-to-get-the-users-timezone-in-javascript-with-edge-functions-2m4b)
-[![Responsive Navbar with CSS and JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Responsive_Navbar_with_CSS_and_JS.svg)](https://dev.to/shubhamtiwari909/responsive-navbar-with-css-and-js-5e8f)
-[![Importance of Lazy Loading content](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Importance_of_Lazy_Loading_content.svg)](https://dev.to/hotjar/importance-of-lazy-loading-content-56ck)
-[![Building universal JS/TS plugins with unplugin](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Building_universal_JS_TS_plugins_with_unplugin.svg)](https://dev.to/jacobandrewsky/building-universal-jsts-plugins-with-unplugin-5328)
-[![AWS open source newsletter, #138](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/AWS_open_source_newsletter___138.svg)](https://dev.to/aws/aws-open-source-newsletter-138-461a)
+[![How to choose between Flexbox, Float and Grid like a pro](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_choose_between_Flexbox__Float_and_Grid_like_a_pro.svg)](https://dev.to/mohsenkamrani/how-to-choose-between-flexbox-float-and-grid-like-a-pro-3d0h)
+[![How did you find your niche in tech?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_did_you_find_your_niche_in_tech_.svg)](https://dev.to/lisacee/how-did-you-find-your-niche-in-tech-5270)
+[![The dirty secrets of the IT Staffing industry](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_dirty_secrets_of_the_IT_Staffing_industry.svg)](https://dev.to/heyjtk/the-dirty-secrets-of-the-it-staffing-industry-19na)
+[![How to use the Pandas library in Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_use_the_Pandas_library_in_Python.svg)](https://dev.to/elvirhajdari/how-to-use-the-pandas-library-in-python-52e7)
+[![What is the difference between http1 and http2 ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_the_difference_between_http1_and_http2__.svg)](https://dev.to/moayad523/what-is-the-difference-between-http1-and-http2-437j)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, December 12, 2022 at 5:17:30 AM
+> Last updated: Monday, December 12, 2022 at 5:51:49 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, December 12, 2022 at 5:17:34 AM
+> Last updated: Monday, December 12, 2022 at 5:51:57 PM
 
 > Showing 5 of 30 posts.
 
-[![Free Social Media Video Downloaders - Sparkolinks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Free_Social_Media_Video_Downloaders_-_Sparkolinks.svg)](https://sparkolinks.com/)
+[![API with NestJS #86. Logging with the built-in logger when using raw SQL - wanago.io - Marcin Wanago Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__86._Logging_with_the_built-in_logger_when_using_raw_SQL_-_wanago.io_-_Marcin_Wanago_Blog.svg)](https://wanago.io/2022/12/12/api-with-nestjs-86-logging-with-the-built-in-logger-when-using-raw-sql/)
+[![A visual is worth 1000 lines of code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/A_visual_is_worth_1000_lines_of_code.svg)](https://dev.to/codux/a-visual-is-worth-1000-lines-of-code-pe)
+[![How to select a Framework for Design System Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_select_a_Framework_for_Design_System_Components.svg)](https://www.voorhoede.nl/en/blog/how-to-select-framework-design-system-components)
 [![GitHub - josdejong/svelte-jsoneditor: A web-based tool to view, edit, format, repair, query, transform, and validate JSON](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_josdejong_svelte-jsoneditor__A_web-based_tool_to_view__edit__format__repair__query__transform__and_validate_JSON.svg)](https://github.com/josdejong/svelte-jsoneditor)
 [![Five Challenges to Building an Isomorphic JavaScript Library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Five_Challenges_to_Building_an_Isomorphic_JavaScript_Library.svg)](https://doordash.engineering/2022/12/06/five-challenges-to-building-an-isomorphic-javascript-library/)
-[![Build smaller, faster, and more secure desktop applications with a web frontend | Tauri Apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_smaller__faster__and_more_secure_desktop_applications_with_a_web_frontend___Tauri_Apps.svg)](https://tauri.app)
-[![Electron Chat App Tutorial: Building a Desktop Chat App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Electron_Chat_App_Tutorial__Building_a_Desktop_Chat_App.svg)](https://metered.hashnode.dev/electron-chat-app-tutorial-building-a-desktop-chat-app)
 
 
 <!-- post-list:end -->
