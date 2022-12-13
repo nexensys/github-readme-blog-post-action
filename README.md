@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, December 13, 2022 at 5:17:19 AM
+> Last updated: Tuesday, December 13, 2022 at 11:11:08 AM
 
 > Showing 5 of 12 posts.
 
-[![React Drag and Drop File Upload example](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/React_Drag_and_Drop_File_Upload_example.svg)](https://dev.to/tienbku/react-drag-and-drop-file-upload-example-bac)
-[![Blue/Green Deployments for RDS: How Fast is a Switchover? ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Blue_Green_Deployments_for_RDS__How_Fast_is_a_Switchover__.svg)](https://dev.to/aws-heroes/bluegreen-deployments-for-rds-how-fast-is-a-switchover-48bf)
-[![🎄 New year open-source giveaway: <!-- post-list:start -->00 Amazon Gift Card + Full Swag Kit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/🎄_New_year_open-source_giveaway__<!-- post-list:start -->00_Amazon_Gift_Card_+_Full_Swag_Kit.svg)](https://dev.to/necatiozmen/new-year-open-source-giveaway-100-amazon-gift-card-full-swag-kit-2f3e)
-[![Free Python Converter Tool - DataFrames, OpenAPI, CSV to Models, DataTables](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Free_Python_Converter_Tool_-_DataFrames__OpenAPI__CSV_to_Models__DataTables.svg)](https://dev.to/sm0ke/free-python-converter-tool-dataframes-openapi-csv-to-models-datatables-26jn)
-[![A practical method for managing environment variables in microservices running on AWS ECS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_practical_method_for_managing_environment_variables_in_microservices_running_on_AWS_ECS.svg)](https://dev.to/asifroyal/a-practical-method-for-managing-environment-variables-in-microservices-running-on-aws-ecs-4ad)
+[![Expose-WSL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Expose-WSL.svg)](https://dev.to/icflorescu/expose-wsl-2o66)
+[![Debugging Program Control Flow](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Debugging_Program_Control_Flow.svg)](https://dev.to/codenameone/debugging-program-control-flow-3406)
+[![After I do digital detox for a month](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/After_I_do_digital_detox_for_a_month.svg)](https://dev.to/bitethecode/after-i-do-digital-detox-for-a-month-1k1b)
+[![What Prisma doesn’t have yet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_Prisma_doesn’t_have_yet.svg)](https://dev.to/zenstack/what-prisma-doesnt-have-yet-pan)
+[![The AWS DevOps Professional Exam is Exhausting! And Why You Don't Want To Repeat It](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_AWS_DevOps_Professional_Exam_is_Exhausting!_And_Why_You_Don't_Want_To_Repeat_It.svg)](https://dev.to/aws-builders/the-aws-devops-professional-exam-is-exhausting-and-why-you-dont-want-to-repeat-it-3bdj)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, December 13, 2022 at 5:17:22 AM
+> Last updated: Tuesday, December 13, 2022 at 11:11:12 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, December 13, 2022 at 5:17:29 AM
+> Last updated: Tuesday, December 13, 2022 at 11:11:18 AM
 
 > Showing 5 of 30 posts.
 
+[![Playing Minecraft & Quake 3 on my Website!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Playing_Minecraft___Quake_3_on_my_Website!.svg)](https://www.youtube.com/watch?v=xfs55_1L8jI)
 [![react use modal hook example - CodeSandbox](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/react_use_modal_hook_example_-_CodeSandbox.svg)](https://codesandbox.io/s/2zz9w1pwrr)
-[![What are the different types of Diaphragm Walls?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_are_the_different_types_of_Diaphragm_Walls_.svg)](https://medium.com/@gkvinfrastructurepvtltd/what-are-the-different-types-of-diaphragm-walls-4235947ff44c)
-[![GitHub - UM-NLP/faiss](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_UM-NLP_faiss.svg)](https://github.com/UM-NLP/faiss)
 [![API with NestJS #86. Logging with the built-in logger when using raw SQL - wanago.io - Marcin Wanago Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__86._Logging_with_the_built-in_logger_when_using_raw_SQL_-_wanago.io_-_Marcin_Wanago_Blog.svg)](https://wanago.io/2022/12/12/api-with-nestjs-86-logging-with-the-built-in-logger-when-using-raw-sql/)
 [![A visual is worth 1000 lines of code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/A_visual_is_worth_1000_lines_of_code.svg)](https://dev.to/codux/a-visual-is-worth-1000-lines-of-code-pe)
+[![How to select a Framework for Design System Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_select_a_Framework_for_Design_System_Components.svg)](https://www.voorhoede.nl/en/blog/how-to-select-framework-design-system-components)
 
 
 <!-- post-list:end -->
