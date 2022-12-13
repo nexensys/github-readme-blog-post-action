@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, December 12, 2022 at 5:51:46 PM
+> Last updated: Monday, December 12, 2022 at 11:12:17 PM
 
 > Showing 5 of 12 posts.
 
-[![How to choose between Flexbox, Float and Grid like a pro](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_choose_between_Flexbox__Float_and_Grid_like_a_pro.svg)](https://dev.to/mohsenkamrani/how-to-choose-between-flexbox-float-and-grid-like-a-pro-3d0h)
-[![How did you find your niche in tech?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_did_you_find_your_niche_in_tech_.svg)](https://dev.to/lisacee/how-did-you-find-your-niche-in-tech-5270)
-[![The dirty secrets of the IT Staffing industry](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_dirty_secrets_of_the_IT_Staffing_industry.svg)](https://dev.to/heyjtk/the-dirty-secrets-of-the-it-staffing-industry-19na)
-[![How to use the Pandas library in Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_use_the_Pandas_library_in_Python.svg)](https://dev.to/elvirhajdari/how-to-use-the-pandas-library-in-python-52e7)
-[![What is the difference between http1 and http2 ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_the_difference_between_http1_and_http2__.svg)](https://dev.to/moayad523/what-is-the-difference-between-http1-and-http2-437j)
+[![How to Make Accordion in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Make_Accordion_in_React.svg)](https://dev.to/reactjsguru/how-to-make-accordion-in-react-1nb0)
+[![An awesome list of Platform Engineering](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/An_awesome_list_of_Platform_Engineering.svg)](https://dev.to/node/an-awesome-list-of-platform-engineering-53io)
+[![Add Google Analytics to React/Next in 5 minutes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Add_Google_Analytics_to_React_Next_in_5_minutes.svg)](https://dev.to/leduc1901/add-google-analytics-to-reactnext-in-5-minutes-fbb)
+[![Securing your NextJS Web Application with AWS Amplify and Cognito](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Securing_your_NextJS_Web_Application_with_AWS_Amplify_and_Cognito.svg)](https://dev.to/czetsuya/securing-your-nextjs-web-application-with-aws-amplify-and-cognito-1hne)
+[![Svelte vs React: Which framework to learn in 2023?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Svelte_vs_React__Which_framework_to_learn_in_2023_.svg)](https://dev.to/mikhailkaran/svelte-vs-react-which-framework-to-learn-in-2023-50gf)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, December 12, 2022 at 5:51:49 PM
+> Last updated: Monday, December 12, 2022 at 11:12:20 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, December 12, 2022 at 5:51:57 PM
+> Last updated: Monday, December 12, 2022 at 11:12:24 PM
 
 > Showing 5 of 30 posts.
 
+[![What are the different types of Diaphragm Walls?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_are_the_different_types_of_Diaphragm_Walls_.svg)](https://medium.com/@gkvinfrastructurepvtltd/what-are-the-different-types-of-diaphragm-walls-4235947ff44c)
+[![GitHub - UM-NLP/faiss](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_UM-NLP_faiss.svg)](https://github.com/UM-NLP/faiss)
 [![API with NestJS #86. Logging with the built-in logger when using raw SQL - wanago.io - Marcin Wanago Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__86._Logging_with_the_built-in_logger_when_using_raw_SQL_-_wanago.io_-_Marcin_Wanago_Blog.svg)](https://wanago.io/2022/12/12/api-with-nestjs-86-logging-with-the-built-in-logger-when-using-raw-sql/)
 [![A visual is worth 1000 lines of code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/A_visual_is_worth_1000_lines_of_code.svg)](https://dev.to/codux/a-visual-is-worth-1000-lines-of-code-pe)
 [![How to select a Framework for Design System Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_select_a_Framework_for_Design_System_Components.svg)](https://www.voorhoede.nl/en/blog/how-to-select-framework-design-system-components)
-[![GitHub - josdejong/svelte-jsoneditor: A web-based tool to view, edit, format, repair, query, transform, and validate JSON](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_josdejong_svelte-jsoneditor__A_web-based_tool_to_view__edit__format__repair__query__transform__and_validate_JSON.svg)](https://github.com/josdejong/svelte-jsoneditor)
-[![Five Challenges to Building an Isomorphic JavaScript Library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Five_Challenges_to_Building_an_Isomorphic_JavaScript_Library.svg)](https://doordash.engineering/2022/12/06/five-challenges-to-building-an-isomorphic-javascript-library/)
 
 
 <!-- post-list:end -->
