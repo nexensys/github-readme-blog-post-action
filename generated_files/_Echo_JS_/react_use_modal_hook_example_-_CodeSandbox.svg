@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 610 110" width="600" height="100" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <style>
+      .title {
+        font-size: 1.5em;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        white-space: nowrap;
+      }
+      .description {
+        font-size: 0.75em;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+      }
+      .text {
+        text-align: start;
+        padding: 10px;
+        height: calc(100% - 20px);
+        margin-left: 100px;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+        color: black;
+      }
+           .date {
+        font-size: 0.5em;
+        opacity: 0.5;
+        text-align: end;
+        position: absolute;
+        bottom: 0;
+        right: 10px;
+        color: black;
+      }
+      .image {
+        height: 100px;
+        width: 100px;
+        background-image: url("data:image/png;base64,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");
+        background-size: cover;
+        position: absolute;
+        top: 0;
+        left: 0;
+        border-radius: 10px;
+        background-position: center;
+      }
+      .main {
+        fill: white;
+      }
+      .data {
+        opacity: 0.75;
+        text-align: start;
+        position: absolute;
+        bottom: 0;
+        padding-bottom: 5px;
+        left: 110px;
+        color: black;
+        max-width: 400px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+      }
+      .author {
+        opacity: 0.75;
+        font-size: 0.5em;
+      }
+      .category {
+        background-color: rgba(0, 0, 0, 0.25);
+        border-radius: 0.25em;
+        padding: 0.125em 0.25em;
+        font-size: 0.75em;
+        color: rgba(0, 0, 0, 0.8);
+      }
+    </style>
+  </defs>
+  <g class="main">
+    <rect class="content" width="600" height="100" stroke="rgba(0, 0, 0, 0.5)" x="5" y="5" rx="10" />
+    <foreignObject width="600" height="100" x="5" y="5">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
+        <div class="image" />
+<div class="text">
+          <div class="title">react&#0032;use&#0032;modal&#0032;hook&#0032;example&#0032;&#0045;&#0032;CodeSandbox</div>
+          <div class="description">react&#0032;use&#0032;modal&#0032;hook&#0032;example&#0032;by&#0032;alexanderkhivrych&#0032;using&#0032;react&#0044;&#0032;react&#0045;dom&#0044;&#0032;react&#0045;modal&#0044;&#0032;react&#0045;scripts&#0044;&#0032;use&#0045;modal&#0045;hook</div>
+          <div class="date"></div>
+          <div class="data">
+            <span class="author">alexanderkhivrych</span> 
+          </div>
+        </div>
+      </div>
+    </foreignObject>
+  </g>
+</svg>

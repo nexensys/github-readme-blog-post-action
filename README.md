@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, December 12, 2022 at 11:12:17 PM
+> Last updated: Tuesday, December 13, 2022 at 5:17:19 AM
 
 > Showing 5 of 12 posts.
 
-[![How to Make Accordion in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Make_Accordion_in_React.svg)](https://dev.to/reactjsguru/how-to-make-accordion-in-react-1nb0)
-[![An awesome list of Platform Engineering](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/An_awesome_list_of_Platform_Engineering.svg)](https://dev.to/node/an-awesome-list-of-platform-engineering-53io)
-[![Add Google Analytics to React/Next in 5 minutes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Add_Google_Analytics_to_React_Next_in_5_minutes.svg)](https://dev.to/leduc1901/add-google-analytics-to-reactnext-in-5-minutes-fbb)
-[![Securing your NextJS Web Application with AWS Amplify and Cognito](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Securing_your_NextJS_Web_Application_with_AWS_Amplify_and_Cognito.svg)](https://dev.to/czetsuya/securing-your-nextjs-web-application-with-aws-amplify-and-cognito-1hne)
-[![Svelte vs React: Which framework to learn in 2023?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Svelte_vs_React__Which_framework_to_learn_in_2023_.svg)](https://dev.to/mikhailkaran/svelte-vs-react-which-framework-to-learn-in-2023-50gf)
+[![React Drag and Drop File Upload example](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/React_Drag_and_Drop_File_Upload_example.svg)](https://dev.to/tienbku/react-drag-and-drop-file-upload-example-bac)
+[![Blue/Green Deployments for RDS: How Fast is a Switchover? ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Blue_Green_Deployments_for_RDS__How_Fast_is_a_Switchover__.svg)](https://dev.to/aws-heroes/bluegreen-deployments-for-rds-how-fast-is-a-switchover-48bf)
+[![🎄 New year open-source giveaway: <!-- post-list:start -->00 Amazon Gift Card + Full Swag Kit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/🎄_New_year_open-source_giveaway__<!-- post-list:start -->00_Amazon_Gift_Card_+_Full_Swag_Kit.svg)](https://dev.to/necatiozmen/new-year-open-source-giveaway-100-amazon-gift-card-full-swag-kit-2f3e)
+[![Free Python Converter Tool - DataFrames, OpenAPI, CSV to Models, DataTables](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Free_Python_Converter_Tool_-_DataFrames__OpenAPI__CSV_to_Models__DataTables.svg)](https://dev.to/sm0ke/free-python-converter-tool-dataframes-openapi-csv-to-models-datatables-26jn)
+[![A practical method for managing environment variables in microservices running on AWS ECS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_practical_method_for_managing_environment_variables_in_microservices_running_on_AWS_ECS.svg)](https://dev.to/asifroyal/a-practical-method-for-managing-environment-variables-in-microservices-running-on-aws-ecs-4ad)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, December 12, 2022 at 11:12:20 PM
+> Last updated: Tuesday, December 13, 2022 at 5:17:22 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, December 12, 2022 at 11:12:24 PM
+> Last updated: Tuesday, December 13, 2022 at 5:17:29 AM
 
 > Showing 5 of 30 posts.
 
+[![react use modal hook example - CodeSandbox](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/react_use_modal_hook_example_-_CodeSandbox.svg)](https://codesandbox.io/s/2zz9w1pwrr)
 [![What are the different types of Diaphragm Walls?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_are_the_different_types_of_Diaphragm_Walls_.svg)](https://medium.com/@gkvinfrastructurepvtltd/what-are-the-different-types-of-diaphragm-walls-4235947ff44c)
 [![GitHub - UM-NLP/faiss](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_UM-NLP_faiss.svg)](https://github.com/UM-NLP/faiss)
 [![API with NestJS #86. Logging with the built-in logger when using raw SQL - wanago.io - Marcin Wanago Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__86._Logging_with_the_built-in_logger_when_using_raw_SQL_-_wanago.io_-_Marcin_Wanago_Blog.svg)](https://wanago.io/2022/12/12/api-with-nestjs-86-logging-with-the-built-in-logger-when-using-raw-sql/)
 [![A visual is worth 1000 lines of code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/A_visual_is_worth_1000_lines_of_code.svg)](https://dev.to/codux/a-visual-is-worth-1000-lines-of-code-pe)
-[![How to select a Framework for Design System Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_select_a_Framework_for_Design_System_Components.svg)](https://www.voorhoede.nl/en/blog/how-to-select-framework-design-system-components)
 
 
 <!-- post-list:end -->
