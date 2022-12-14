@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, December 13, 2022 at 11:11:08 AM
+> Last updated: Tuesday, December 13, 2022 at 5:46:12 PM
 
 > Showing 5 of 12 posts.
 
-[![Expose-WSL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Expose-WSL.svg)](https://dev.to/icflorescu/expose-wsl-2o66)
-[![Debugging Program Control Flow](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Debugging_Program_Control_Flow.svg)](https://dev.to/codenameone/debugging-program-control-flow-3406)
-[![After I do digital detox for a month](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/After_I_do_digital_detox_for_a_month.svg)](https://dev.to/bitethecode/after-i-do-digital-detox-for-a-month-1k1b)
-[![What Prisma doesn’t have yet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_Prisma_doesn’t_have_yet.svg)](https://dev.to/zenstack/what-prisma-doesnt-have-yet-pan)
-[![The AWS DevOps Professional Exam is Exhausting! And Why You Don't Want To Repeat It](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_AWS_DevOps_Professional_Exam_is_Exhausting!_And_Why_You_Don't_Want_To_Repeat_It.svg)](https://dev.to/aws-builders/the-aws-devops-professional-exam-is-exhausting-and-why-you-dont-want-to-repeat-it-3bdj)
+[![Web Services Description Language](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Web_Services_Description_Language.svg)](https://dev.to/zhukmax/web-services-description-language-35pj)
+[![Array.sort() in JavaScript - I was asked about this in an interview](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Array.sort()_in_JavaScript_-_I_was_asked_about_this_in_an_interview.svg)](https://dev.to/mhm13dev/arraysort-in-javascript-i-was-asked-about-this-in-an-interview-387)
+[![Updating JSON data on SQL Server with JSON_MODIFY()](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Updating_JSON_data_on_SQL_Server_with_JSON_MODIFY().svg)](https://dev.to/gustavupp/updating-json-data-on-sql-server-with-jsonmodify-4i5)
+[![Stylify CSS: Automagic CSS bundles splitting into CSS layers in Astro.build](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Stylify_CSS__Automagic_CSS_bundles_splitting_into_CSS_layers_in_Astro.build.svg)](https://dev.to/machy8/stylify-css-automagic-css-bundles-splitting-into-css-layers-in-astrobuild-3po9)
+[![Mastermind - set up the Python skeleton](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Mastermind_-_set_up_the_Python_skeleton.svg)](https://dev.to/szabgab/mastermind-set-up-the-python-skeleton-2b6a)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, December 13, 2022 at 11:11:12 AM
+> Last updated: Tuesday, December 13, 2022 at 5:46:14 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, December 13, 2022 at 11:11:18 AM
+> Last updated: Tuesday, December 13, 2022 at 5:46:19 PM
 
 > Showing 5 of 30 posts.
 
+[![Stylify CSS: Automated utility-first CSS bundles splitting into CSS layers in Astro.build | Stylify CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Stylify_CSS__Automated_utility-first_CSS_bundles_splitting_into_CSS_layers_in_Astro.build___Stylify_CSS.svg)](https://stylifycss.com/blog/automated-css-bundles-in-astro-build)
 [![Playing Minecraft & Quake 3 on my Website!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Playing_Minecraft___Quake_3_on_my_Website!.svg)](https://www.youtube.com/watch?v=xfs55_1L8jI)
 [![react use modal hook example - CodeSandbox](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/react_use_modal_hook_example_-_CodeSandbox.svg)](https://codesandbox.io/s/2zz9w1pwrr)
 [![API with NestJS #86. Logging with the built-in logger when using raw SQL - wanago.io - Marcin Wanago Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__86._Logging_with_the_built-in_logger_when_using_raw_SQL_-_wanago.io_-_Marcin_Wanago_Blog.svg)](https://wanago.io/2022/12/12/api-with-nestjs-86-logging-with-the-built-in-logger-when-using-raw-sql/)
 [![A visual is worth 1000 lines of code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/A_visual_is_worth_1000_lines_of_code.svg)](https://dev.to/codux/a-visual-is-worth-1000-lines-of-code-pe)
-[![How to select a Framework for Design System Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_select_a_Framework_for_Design_System_Components.svg)](https://www.voorhoede.nl/en/blog/how-to-select-framework-design-system-components)
 
 
 <!-- post-list:end -->
