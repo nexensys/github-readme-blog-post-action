@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, December 13, 2022 at 5:46:12 PM
+> Last updated: Tuesday, December 13, 2022 at 11:12:26 PM
 
 > Showing 5 of 12 posts.
 
-[![Web Services Description Language](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Web_Services_Description_Language.svg)](https://dev.to/zhukmax/web-services-description-language-35pj)
-[![Array.sort() in JavaScript - I was asked about this in an interview](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Array.sort()_in_JavaScript_-_I_was_asked_about_this_in_an_interview.svg)](https://dev.to/mhm13dev/arraysort-in-javascript-i-was-asked-about-this-in-an-interview-387)
-[![Updating JSON data on SQL Server with JSON_MODIFY()](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Updating_JSON_data_on_SQL_Server_with_JSON_MODIFY().svg)](https://dev.to/gustavupp/updating-json-data-on-sql-server-with-jsonmodify-4i5)
-[![Stylify CSS: Automagic CSS bundles splitting into CSS layers in Astro.build](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Stylify_CSS__Automagic_CSS_bundles_splitting_into_CSS_layers_in_Astro.build.svg)](https://dev.to/machy8/stylify-css-automagic-css-bundles-splitting-into-css-layers-in-astrobuild-3po9)
-[![Mastermind - set up the Python skeleton](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Mastermind_-_set_up_the_Python_skeleton.svg)](https://dev.to/szabgab/mastermind-set-up-the-python-skeleton-2b6a)
+[![When do you use setState with a callback?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/When_do_you_use_setState_with_a_callback_.svg)](https://dev.to/csituma/when-do-you-use-setstate-with-a-callback-1f3g)
+[![UIUC MCS - CS 435 Review - Cloud Computer Networking](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/UIUC_MCS_-_CS_435_Review_-_Cloud_Computer_Networking.svg)](https://dev.to/scc33/uiuc-mcs-cs-435-review-cloud-computer-networking-58c5)
+[![DynamoDB and its Data Pane Operations - 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/DynamoDB_and_its_Data_Pane_Operations_-_1.svg)](https://dev.to/aws-builders/dynamodb-and-its-data-pane-operations-1-2772)
+[![A little about Typescript Utility Types](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_little_about_Typescript_Utility_Types.svg)](https://dev.to/murillonahvs/a-little-about-typescript-utility-types-1epd)
+[![Zod - Validate your API inputs with ease](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Zod_-_Validate_your_API_inputs_with_ease.svg)](https://dev.to/sammy1999/zod-validate-your-api-inputs-with-ease-2on9)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, December 13, 2022 at 5:46:14 PM
+> Last updated: Tuesday, December 13, 2022 at 11:12:29 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, December 13, 2022 at 5:46:19 PM
+> Last updated: Tuesday, December 13, 2022 at 11:12:37 PM
 
 > Showing 5 of 30 posts.
 
+[![Graph Editing Engine X6](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Graph_Editing_Engine_X6.svg)](https://medium.com/@newbyvector/graph-editing-engine-x6-b5dd3deb0a0a)
 [![Stylify CSS: Automated utility-first CSS bundles splitting into CSS layers in Astro.build | Stylify CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Stylify_CSS__Automated_utility-first_CSS_bundles_splitting_into_CSS_layers_in_Astro.build___Stylify_CSS.svg)](https://stylifycss.com/blog/automated-css-bundles-in-astro-build)
 [![Playing Minecraft & Quake 3 on my Website!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Playing_Minecraft___Quake_3_on_my_Website!.svg)](https://www.youtube.com/watch?v=xfs55_1L8jI)
 [![react use modal hook example - CodeSandbox](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/react_use_modal_hook_example_-_CodeSandbox.svg)](https://codesandbox.io/s/2zz9w1pwrr)
 [![API with NestJS #86. Logging with the built-in logger when using raw SQL - wanago.io - Marcin Wanago Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__86._Logging_with_the_built-in_logger_when_using_raw_SQL_-_wanago.io_-_Marcin_Wanago_Blog.svg)](https://wanago.io/2022/12/12/api-with-nestjs-86-logging-with-the-built-in-logger-when-using-raw-sql/)
-[![A visual is worth 1000 lines of code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/A_visual_is_worth_1000_lines_of_code.svg)](https://dev.to/codux/a-visual-is-worth-1000-lines-of-code-pe)
 
 
 <!-- post-list:end -->
