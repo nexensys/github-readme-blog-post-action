@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, December 13, 2022 at 11:12:26 PM
+> Last updated: Wednesday, December 14, 2022 at 5:17:23 AM
 
 > Showing 5 of 12 posts.
 
-[![When do you use setState with a callback?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/When_do_you_use_setState_with_a_callback_.svg)](https://dev.to/csituma/when-do-you-use-setstate-with-a-callback-1f3g)
-[![UIUC MCS - CS 435 Review - Cloud Computer Networking](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/UIUC_MCS_-_CS_435_Review_-_Cloud_Computer_Networking.svg)](https://dev.to/scc33/uiuc-mcs-cs-435-review-cloud-computer-networking-58c5)
-[![DynamoDB and its Data Pane Operations - 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/DynamoDB_and_its_Data_Pane_Operations_-_1.svg)](https://dev.to/aws-builders/dynamodb-and-its-data-pane-operations-1-2772)
-[![A little about Typescript Utility Types](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_little_about_Typescript_Utility_Types.svg)](https://dev.to/murillonahvs/a-little-about-typescript-utility-types-1epd)
-[![Zod - Validate your API inputs with ease](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Zod_-_Validate_your_API_inputs_with_ease.svg)](https://dev.to/sammy1999/zod-validate-your-api-inputs-with-ease-2on9)
+[![This Week In React #128: SWR, Vite, Codux, Storybook, Next.js, Forget, Nylon, Paper, align-deps, INP, Zod, Tauri...](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/This_Week_In_React__128__SWR__Vite__Codux__Storybook__Next.js__Forget__Nylon__Paper__align-deps__INP__Zod__Tauri....svg)](https://dev.to/sebastienlorber/this-week-in-react-128-nextra-react-query-react-documentary-storybook-remix-tamagui-solito-tc39-rome-9eb)
+[![How to become a DevOps Engineer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_become_a_DevOps_Engineer.svg)](https://dev.to/sec_maestro/how-to-become-a-devops-engineer-4kl4)
+[![Why Prisma and Platformatic are a great match](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Why_Prisma_and_Platformatic_are_a_great_match.svg)](https://dev.to/prisma/why-prisma-and-platformatic-are-a-great-match-2dkl)
+[![Python and relative imports in AWS Lambda Functions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Python_and_relative_imports_in_AWS_Lambda_Functions.svg)](https://dev.to/aws-builders/python-and-relative-imports-in-aws-lambda-functions-3khn)
+[![What I learned from self-hosting a Supabase Svelte project: Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_I_learned_from_self-hosting_a_Supabase_Svelte_project__Part_1.svg)](https://dev.to/chits_programming_blog/what-i-learned-from-self-hosting-a-supabase-svelte-project-part-1-4efa)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, December 13, 2022 at 11:12:29 PM
+> Last updated: Wednesday, December 14, 2022 at 5:17:27 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, December 13, 2022 at 11:12:37 PM
+> Last updated: Wednesday, December 14, 2022 at 5:17:34 AM
 
 > Showing 5 of 30 posts.
 
