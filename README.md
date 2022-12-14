@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, December 14, 2022 at 5:17:23 AM
+> Last updated: Wednesday, December 14, 2022 at 11:11:27 AM
 
 > Showing 5 of 12 posts.
 
-[![This Week In React #128: SWR, Vite, Codux, Storybook, Next.js, Forget, Nylon, Paper, align-deps, INP, Zod, Tauri...](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/This_Week_In_React__128__SWR__Vite__Codux__Storybook__Next.js__Forget__Nylon__Paper__align-deps__INP__Zod__Tauri....svg)](https://dev.to/sebastienlorber/this-week-in-react-128-nextra-react-query-react-documentary-storybook-remix-tamagui-solito-tc39-rome-9eb)
-[![How to become a DevOps Engineer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_become_a_DevOps_Engineer.svg)](https://dev.to/sec_maestro/how-to-become-a-devops-engineer-4kl4)
-[![Why Prisma and Platformatic are a great match](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Why_Prisma_and_Platformatic_are_a_great_match.svg)](https://dev.to/prisma/why-prisma-and-platformatic-are-a-great-match-2dkl)
-[![Python and relative imports in AWS Lambda Functions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Python_and_relative_imports_in_AWS_Lambda_Functions.svg)](https://dev.to/aws-builders/python-and-relative-imports-in-aws-lambda-functions-3khn)
-[![What I learned from self-hosting a Supabase Svelte project: Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_I_learned_from_self-hosting_a_Supabase_Svelte_project__Part_1.svg)](https://dev.to/chits_programming_blog/what-i-learned-from-self-hosting-a-supabase-svelte-project-part-1-4efa)
+[![Spring Boot 3 JPA + Auth + JWT](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Spring_Boot_3_JPA_+_Auth_+_JWT.svg)](https://dev.to/ozair0/spring-boot-3-jpa-auth-jwt-1imp)
+[![How to style a button using Tailwind CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_style_a_button_using_Tailwind_CSS.svg)](https://dev.to/shubhicodes/how-to-style-a-button-using-tailwind-css-2gpd)
+[![GLTF Animations in wgpu and Rust](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/GLTF_Animations_in_wgpu_and_Rust.svg)](https://dev.to/whoisryosuke/gltf-animations-in-wgpu-and-rust-4d9i)
+[![15 Javascript Browser APIs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/15_Javascript_Browser_APIs.svg)](https://dev.to/hidaytrahman/15-javascript-browser-apis-3d17)
+[![Rainbow Deployment: Why and How to Do It](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Rainbow_Deployment__Why_and_How_to_Do_It.svg)](https://dev.to/tmcclung/rainbow-deployment-why-and-how-to-do-it-32d3)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, December 14, 2022 at 5:17:27 AM
+> Last updated: Wednesday, December 14, 2022 at 11:11:33 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, December 14, 2022 at 5:17:34 AM
+> Last updated: Wednesday, December 14, 2022 at 11:11:38 AM
 
 > Showing 5 of 30 posts.
 
+[![Ecma International welcomes new members - Ecma International](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Ecma_International_welcomes_new_members_-_Ecma_International.svg)](https://www.ecma-international.org/news/ecma-international-welcomes-new-members-6/)
+[![Announcing Rome v11](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Announcing_Rome_v11.svg)](
+https://rome.tools/blog/2022/12/06/rome11/
+)
+[![Announcing Vite 4](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Announcing_Vite_4.svg)](https://vitejs.dev/blog/announcing-vite4)
 [![Graph Editing Engine X6](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Graph_Editing_Engine_X6.svg)](https://medium.com/@newbyvector/graph-editing-engine-x6-b5dd3deb0a0a)
 [![Stylify CSS: Automated utility-first CSS bundles splitting into CSS layers in Astro.build | Stylify CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Stylify_CSS__Automated_utility-first_CSS_bundles_splitting_into_CSS_layers_in_Astro.build___Stylify_CSS.svg)](https://stylifycss.com/blog/automated-css-bundles-in-astro-build)
-[![Playing Minecraft & Quake 3 on my Website!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Playing_Minecraft___Quake_3_on_my_Website!.svg)](https://www.youtube.com/watch?v=xfs55_1L8jI)
-[![react use modal hook example - CodeSandbox](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/react_use_modal_hook_example_-_CodeSandbox.svg)](https://codesandbox.io/s/2zz9w1pwrr)
-[![API with NestJS #86. Logging with the built-in logger when using raw SQL - wanago.io - Marcin Wanago Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__86._Logging_with_the_built-in_logger_when_using_raw_SQL_-_wanago.io_-_Marcin_Wanago_Blog.svg)](https://wanago.io/2022/12/12/api-with-nestjs-86-logging-with-the-built-in-logger-when-using-raw-sql/)
 
 
 <!-- post-list:end -->
