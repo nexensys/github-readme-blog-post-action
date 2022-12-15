@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, December 14, 2022 at 11:12:03 PM
+> Last updated: Thursday, December 15, 2022 at 5:17:07 AM
 
 > Showing 5 of 12 posts.
 
-[![LeetCode's Add Two Numbers in Linked List Solution - Beats 86% in Memory, Simple Brute Force Algorithm in Java](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/LeetCode's_Add_Two_Numbers_in_Linked_List_Solution_-_Beats_86__in_Memory__Simple_Brute_Force_Algorithm_in_Java.svg)](https://dev.to/verisimilitude11/leetcodes-add-two-numbers-solution-beats-86-in-memory-simple-brute-force-algorithm-in-java-292p)
-[![Azure-cli: Installing the tool on Linux](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Azure-cli__Installing_the_tool_on_Linux.svg)](https://dev.to/romeritomorais/installing-azure-cli-on-linux-8p7)
-[![Four security checklists for Android app development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Four_security_checklists_for_Android_app_development.svg)](https://dev.to/teamliapp/four-security-checklists-for-android-app-development-11nj)
-[![Introducing the mirror command in Reduct CLI version 0.3.0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Introducing_the_mirror_command_in_Reduct_CLI_version_0.3.0.svg)](https://dev.to/reduct-storage/introducing-the-mirror-command-in-reduct-cli-client-version-030-5hgf)
-[![How to Create and Manage Virtual Domains using Node.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Create_and_Manage_Virtual_Domains_using_Node.js.svg)](https://dev.to/devland/how-to-create-and-manage-virtual-domains-using-nodejs-3h14)
+[![Use Google Analytics to uncover the truth about dark and light mode user's preferences](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Use_Google_Analytics_to_uncover_the_truth_about_dark_and_light_mode_user's_preferences.svg)](https://dev.to/alex_barashkov/use-google-analytics-to-uncover-the-truth-about-dark-and-light-mode-users-preferences-46po)
+[![Easy Ways to Debug Your Code (Without Crying)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Easy_Ways_to_Debug_Your_Code_(Without_Crying).svg)](https://dev.to/codewithvoid/easy-ways-to-debug-your-code-without-crying-1p0f)
+[![How to build a piano with only HTML, CSS, Javascript ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_build_a_piano_with_only_HTML__CSS__Javascript__.svg)](https://dev.to/lotfijb/how-to-create-a-piano-with-only-html-css-javascript--3lk3)
+[![Shhhh... Kubernetes Secrets Are Not Really Secret!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Shhhh..._Kubernetes_Secrets_Are_Not_Really_Secret!.svg)](https://dev.to/oktadev/shhhh-kubernetes-secrets-are-not-really-secret-3h38)
+[![10 Must-Read Books for Every Programmer: Boost Your Skills and Advance Your Career!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/10_Must-Read_Books_for_Every_Programmer__Boost_Your_Skills_and_Advance_Your_Career!.svg)](https://dev.to/acromondx/10-must-read-books-for-every-programmer-boost-your-skills-and-advance-your-career-39p7)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, December 14, 2022 at 11:12:07 PM
+> Last updated: Thursday, December 15, 2022 at 5:17:09 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, December 14, 2022 at 11:12:12 PM
+> Last updated: Thursday, December 15, 2022 at 5:17:13 AM
 
 > Showing 5 of 30 posts.
 
+[![Chart.js 4.0 release celebration 🥳👏🎉 · Discussion #10977 · chartjs/Chart.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Chart.js_4.0_release_celebration_🥳👏🎉_·_Discussion__10977_·_chartjs_Chart.js.svg)](https://github.com/chartjs/Chart.js/discussions/10977)
 [![Ecma International welcomes new members - Ecma International](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Ecma_International_welcomes_new_members_-_Ecma_International.svg)](https://www.ecma-international.org/news/ecma-international-welcomes-new-members-6/)
 [![Announcing Rome v11](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Announcing_Rome_v11.svg)](
 https://rome.tools/blog/2022/12/06/rome11/
 )
 [![Announcing Vite 4](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Announcing_Vite_4.svg)](https://vitejs.dev/blog/announcing-vite4)
 [![Graph Editing Engine X6](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Graph_Editing_Engine_X6.svg)](https://medium.com/@newbyvector/graph-editing-engine-x6-b5dd3deb0a0a)
-[![Stylify CSS: Automated utility-first CSS bundles splitting into CSS layers in Astro.build | Stylify CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Stylify_CSS__Automated_utility-first_CSS_bundles_splitting_into_CSS_layers_in_Astro.build___Stylify_CSS.svg)](https://stylifycss.com/blog/automated-css-bundles-in-astro-build)
 
 
 <!-- post-list:end -->
