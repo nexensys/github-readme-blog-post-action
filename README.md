@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, December 14, 2022 at 5:49:24 PM
+> Last updated: Wednesday, December 14, 2022 at 11:12:03 PM
 
 > Showing 5 of 12 posts.
 
-[![My year in review](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/My_year_in_review.svg)](https://dev.to/santoshyadav198613/my-year-in-review-341d)
-[![SvelteKit 1.0 Has Been Released! 🥳](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/SvelteKit_1.0_Has_Been_Released!_🥳.svg)](https://dev.to/kvetoslavnovak/sveltekit-10-has-been-released-23me)
-[![Share code between React Native and React Web](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Share_code_between_React_Native_and_React_Web.svg)](https://dev.to/rita/share-code-between-react-native-and-react-web-1343)
-[![Fixing Class Composition in Tailwind CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Fixing_Class_Composition_in_Tailwind_CSS.svg)](https://dev.to/areknawo/fixing-class-composition-in-tailwind-css-1k4d)
-[![Educative Highlights from November: New courses, paths, projects](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Educative_Highlights_from_November__New_courses__paths__projects.svg)](https://dev.to/educative/educative-highlights-from-november-new-courses-paths-projects-5fgd)
+[![LeetCode's Add Two Numbers in Linked List Solution - Beats 86% in Memory, Simple Brute Force Algorithm in Java](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/LeetCode's_Add_Two_Numbers_in_Linked_List_Solution_-_Beats_86__in_Memory__Simple_Brute_Force_Algorithm_in_Java.svg)](https://dev.to/verisimilitude11/leetcodes-add-two-numbers-solution-beats-86-in-memory-simple-brute-force-algorithm-in-java-292p)
+[![Azure-cli: Installing the tool on Linux](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Azure-cli__Installing_the_tool_on_Linux.svg)](https://dev.to/romeritomorais/installing-azure-cli-on-linux-8p7)
+[![Four security checklists for Android app development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Four_security_checklists_for_Android_app_development.svg)](https://dev.to/teamliapp/four-security-checklists-for-android-app-development-11nj)
+[![Introducing the mirror command in Reduct CLI version 0.3.0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Introducing_the_mirror_command_in_Reduct_CLI_version_0.3.0.svg)](https://dev.to/reduct-storage/introducing-the-mirror-command-in-reduct-cli-client-version-030-5hgf)
+[![How to Create and Manage Virtual Domains using Node.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Create_and_Manage_Virtual_Domains_using_Node.js.svg)](https://dev.to/devland/how-to-create-and-manage-virtual-domains-using-nodejs-3h14)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, December 14, 2022 at 5:49:27 PM
+> Last updated: Wednesday, December 14, 2022 at 11:12:07 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, December 14, 2022 at 5:49:31 PM
+> Last updated: Wednesday, December 14, 2022 at 11:12:12 PM
 
 > Showing 5 of 30 posts.
 
