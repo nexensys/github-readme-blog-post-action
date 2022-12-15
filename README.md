@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, December 14, 2022 at 11:11:27 AM
+> Last updated: Wednesday, December 14, 2022 at 5:49:24 PM
 
 > Showing 5 of 12 posts.
 
-[![Spring Boot 3 JPA + Auth + JWT](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Spring_Boot_3_JPA_+_Auth_+_JWT.svg)](https://dev.to/ozair0/spring-boot-3-jpa-auth-jwt-1imp)
-[![How to style a button using Tailwind CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_style_a_button_using_Tailwind_CSS.svg)](https://dev.to/shubhicodes/how-to-style-a-button-using-tailwind-css-2gpd)
-[![GLTF Animations in wgpu and Rust](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/GLTF_Animations_in_wgpu_and_Rust.svg)](https://dev.to/whoisryosuke/gltf-animations-in-wgpu-and-rust-4d9i)
-[![15 Javascript Browser APIs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/15_Javascript_Browser_APIs.svg)](https://dev.to/hidaytrahman/15-javascript-browser-apis-3d17)
-[![Rainbow Deployment: Why and How to Do It](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Rainbow_Deployment__Why_and_How_to_Do_It.svg)](https://dev.to/tmcclung/rainbow-deployment-why-and-how-to-do-it-32d3)
+[![My year in review](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/My_year_in_review.svg)](https://dev.to/santoshyadav198613/my-year-in-review-341d)
+[![SvelteKit 1.0 Has Been Released! 🥳](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/SvelteKit_1.0_Has_Been_Released!_🥳.svg)](https://dev.to/kvetoslavnovak/sveltekit-10-has-been-released-23me)
+[![Share code between React Native and React Web](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Share_code_between_React_Native_and_React_Web.svg)](https://dev.to/rita/share-code-between-react-native-and-react-web-1343)
+[![Fixing Class Composition in Tailwind CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Fixing_Class_Composition_in_Tailwind_CSS.svg)](https://dev.to/areknawo/fixing-class-composition-in-tailwind-css-1k4d)
+[![Educative Highlights from November: New courses, paths, projects](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Educative_Highlights_from_November__New_courses__paths__projects.svg)](https://dev.to/educative/educative-highlights-from-november-new-courses-paths-projects-5fgd)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, December 14, 2022 at 11:11:33 AM
+> Last updated: Wednesday, December 14, 2022 at 5:49:27 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, December 14, 2022 at 11:11:38 AM
+> Last updated: Wednesday, December 14, 2022 at 5:49:31 PM
 
 > Showing 5 of 30 posts.
 
