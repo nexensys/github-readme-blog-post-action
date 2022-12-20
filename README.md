@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, December 19, 2022 at 5:46:25 PM
+> Last updated: Monday, December 19, 2022 at 11:11:57 PM
 
 > Showing 5 of 12 posts.
 
-[![Utility Types, in Typescript.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Utility_Types__in_Typescript..svg)](https://dev.to/gniches/utility-types-in-typescript-nal)
-[![The Benefits of Pair Programming for Problem-Solving](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Benefits_of_Pair_Programming_for_Problem-Solving.svg)](https://dev.to/360macky/the-benefits-of-pair-programming-for-problem-solving-48b1)
-[![Learn CSS Animation the Cool Way](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Learn_CSS_Animation_the_Cool_Way.svg)](https://dev.to/cocoandrew/learn-css-animation-the-cool-way-46mk)
-[![What Does ChatGPT Mean for New Software Developers?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_Does_ChatGPT_Mean_for_New_Software_Developers_.svg)](https://dev.to/techelevator/what-does-chatgpt-mean-for-new-software-developers-3e8a)
-[![Best Strategy for SEO in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Best_Strategy_for_SEO_in_2023.svg)](https://dev.to/chellsie/best-strategy-for-seo-in-2023-3k7m)
+[![The Rainbow of Crypto Schemes: Embracing the many Flavours, Beyond the Basic Ponzi Scheme](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Rainbow_of_Crypto_Schemes__Embracing_the_many_Flavours__Beyond_the_Basic_Ponzi_Scheme.svg)](https://dev.to/bipbopsadrobot/the-rainbow-of-crypto-schemes-embracing-the-many-flavours-beyond-the-basic-ponzi-scheme-k8d)
+[![7 best websites to get tons of fonts for free](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/7_best_websites_to_get_tons_of_fonts_for_free.svg)](https://dev.to/mohsenkamrani/7-best-websites-to-get-tons-of-fonts-for-free-1nce)
+[![Data Structures: Arrays and Lists in Comparison](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Data_Structures__Arrays_and_Lists_in_Comparison.svg)](https://dev.to/manukanne/data-structures-arrays-and-lists-in-comparison-518p)
+[![Quick bytes to integer (or other type) conversion in Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Quick_bytes_to_integer_(or_other_type)_conversion_in_Python.svg)](https://dev.to/eliteraspberries/quick-bytes-to-integer-or-other-type-conversion-in-python-27lg)
+[![⚠150+ Expressões JavaScript Que Você Precisa Conhecer⚠](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/⚠150+_Expressões_JavaScript_Que_Você_Precisa_Conhecer⚠.svg)](https://dev.to/mpetry/150-expressoes-javascript-que-voce-precisa-conhecer-2on)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, December 19, 2022 at 5:46:29 PM
+> Last updated: Monday, December 19, 2022 at 11:12:00 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, December 19, 2022 at 5:46:35 PM
+> Last updated: Monday, December 19, 2022 at 11:12:07 PM
 
 > Showing 5 of 30 posts.
 
