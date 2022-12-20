@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, December 20, 2022 at 5:16:21 AM
+> Last updated: Tuesday, December 20, 2022 at 11:10:37 AM
 
 > Showing 5 of 12 posts.
 
-[![Frontend Magic: All tools at one place](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Frontend_Magic__All_tools_at_one_place.svg)](https://dev.to/shreyvijayvargiya/frontend-magic-all-tools-at-one-place-30mp)
-[![Dynamic return type based on input parameter in TypeScript like Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Dynamic_return_type_based_on_input_parameter_in_TypeScript_like_Prisma.svg)](https://dev.to/zenstack/dynamic-return-type-based-on-input-parameter-in-typescript-like-prisma-1292)
-[![Backdrop-filters](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Backdrop-filters.svg)](https://dev.to/amiruweerathunga/backdrop-filters-49i4)
-[![AWS Community Builders - Christmas Edition](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/AWS_Community_Builders_-_Christmas_Edition.svg)](https://dev.to/aws-builders/aws-community-builders-christmas-edition-393a)
-[![AWS Community Builders Holiday Post 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/AWS_Community_Builders_Holiday_Post_2022.svg)](https://dev.to/aws-builders/secret-santa-with-the-aws-community-1a62)
+[![Does Angular Support Generic Component Types?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Does_Angular_Support_Generic_Component_Types_.svg)](https://dev.to/angular/does-angular-support-generic-component-types-4fkm)
+[![Graph Algorithms Cheat Sheet For Coding Interviews](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Graph_Algorithms_Cheat_Sheet_For_Coding_Interviews.svg)](https://dev.to/memgraph/graph-algorithms-cheat-sheet-for-coding-interviews-48h0)
+[![Watch And Evaluate](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Watch_And_Evaluate.svg)](https://dev.to/codenameone/watch-and-evaluate-53df)
+[![Writing a CPAN module that talks to ChatGPT](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Writing_a_CPAN_module_that_talks_to_ChatGPT.svg)](https://dev.to/davorg/writing-a-cpan-module-that-talks-to-chatgpt-gb5)
+[![ChatGPT + Flatlogic: Generate Fully-Functioning Web Apps Based on Description](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/ChatGPT_+_Flatlogic__Generate_Fully-Functioning_Web_Apps_Based_on_Description.svg)](https://dev.to/flatlogic_manager/chatgpt-flatlogic-generate-fully-functioning-web-apps-based-on-description-2n2a)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, December 20, 2022 at 5:16:24 AM
+> Last updated: Tuesday, December 20, 2022 at 11:10:41 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, December 20, 2022 at 5:16:31 AM
+> Last updated: Tuesday, December 20, 2022 at 11:10:49 AM
 
 > Showing 5 of 30 posts.
 
