@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, December 19, 2022 at 11:11:57 PM
+> Last updated: Tuesday, December 20, 2022 at 5:16:21 AM
 
 > Showing 5 of 12 posts.
 
-[![The Rainbow of Crypto Schemes: Embracing the many Flavours, Beyond the Basic Ponzi Scheme](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Rainbow_of_Crypto_Schemes__Embracing_the_many_Flavours__Beyond_the_Basic_Ponzi_Scheme.svg)](https://dev.to/bipbopsadrobot/the-rainbow-of-crypto-schemes-embracing-the-many-flavours-beyond-the-basic-ponzi-scheme-k8d)
-[![7 best websites to get tons of fonts for free](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/7_best_websites_to_get_tons_of_fonts_for_free.svg)](https://dev.to/mohsenkamrani/7-best-websites-to-get-tons-of-fonts-for-free-1nce)
-[![Data Structures: Arrays and Lists in Comparison](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Data_Structures__Arrays_and_Lists_in_Comparison.svg)](https://dev.to/manukanne/data-structures-arrays-and-lists-in-comparison-518p)
-[![Quick bytes to integer (or other type) conversion in Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Quick_bytes_to_integer_(or_other_type)_conversion_in_Python.svg)](https://dev.to/eliteraspberries/quick-bytes-to-integer-or-other-type-conversion-in-python-27lg)
-[![⚠150+ Expressões JavaScript Que Você Precisa Conhecer⚠](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/⚠150+_Expressões_JavaScript_Que_Você_Precisa_Conhecer⚠.svg)](https://dev.to/mpetry/150-expressoes-javascript-que-voce-precisa-conhecer-2on)
+[![Frontend Magic: All tools at one place](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Frontend_Magic__All_tools_at_one_place.svg)](https://dev.to/shreyvijayvargiya/frontend-magic-all-tools-at-one-place-30mp)
+[![Dynamic return type based on input parameter in TypeScript like Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Dynamic_return_type_based_on_input_parameter_in_TypeScript_like_Prisma.svg)](https://dev.to/zenstack/dynamic-return-type-based-on-input-parameter-in-typescript-like-prisma-1292)
+[![Backdrop-filters](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Backdrop-filters.svg)](https://dev.to/amiruweerathunga/backdrop-filters-49i4)
+[![AWS Community Builders - Christmas Edition](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/AWS_Community_Builders_-_Christmas_Edition.svg)](https://dev.to/aws-builders/aws-community-builders-christmas-edition-393a)
+[![AWS Community Builders Holiday Post 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/AWS_Community_Builders_Holiday_Post_2022.svg)](https://dev.to/aws-builders/secret-santa-with-the-aws-community-1a62)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, December 19, 2022 at 11:12:00 PM
+> Last updated: Tuesday, December 20, 2022 at 5:16:24 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, December 19, 2022 at 11:12:07 PM
+> Last updated: Tuesday, December 20, 2022 at 5:16:31 AM
 
 > Showing 5 of 30 posts.
 
