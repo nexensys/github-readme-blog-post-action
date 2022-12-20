@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, December 15, 2022 at 5:17:07 AM
+> Last updated: Monday, December 19, 2022 at 5:46:25 PM
 
 > Showing 5 of 12 posts.
 
-[![Use Google Analytics to uncover the truth about dark and light mode user's preferences](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Use_Google_Analytics_to_uncover_the_truth_about_dark_and_light_mode_user's_preferences.svg)](https://dev.to/alex_barashkov/use-google-analytics-to-uncover-the-truth-about-dark-and-light-mode-users-preferences-46po)
-[![Easy Ways to Debug Your Code (Without Crying)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Easy_Ways_to_Debug_Your_Code_(Without_Crying).svg)](https://dev.to/codewithvoid/easy-ways-to-debug-your-code-without-crying-1p0f)
-[![How to build a piano with only HTML, CSS, Javascript ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_build_a_piano_with_only_HTML__CSS__Javascript__.svg)](https://dev.to/lotfijb/how-to-create-a-piano-with-only-html-css-javascript--3lk3)
-[![Shhhh... Kubernetes Secrets Are Not Really Secret!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Shhhh..._Kubernetes_Secrets_Are_Not_Really_Secret!.svg)](https://dev.to/oktadev/shhhh-kubernetes-secrets-are-not-really-secret-3h38)
-[![10 Must-Read Books for Every Programmer: Boost Your Skills and Advance Your Career!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/10_Must-Read_Books_for_Every_Programmer__Boost_Your_Skills_and_Advance_Your_Career!.svg)](https://dev.to/acromondx/10-must-read-books-for-every-programmer-boost-your-skills-and-advance-your-career-39p7)
+[![Utility Types, in Typescript.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Utility_Types__in_Typescript..svg)](https://dev.to/gniches/utility-types-in-typescript-nal)
+[![The Benefits of Pair Programming for Problem-Solving](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Benefits_of_Pair_Programming_for_Problem-Solving.svg)](https://dev.to/360macky/the-benefits-of-pair-programming-for-problem-solving-48b1)
+[![Learn CSS Animation the Cool Way](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Learn_CSS_Animation_the_Cool_Way.svg)](https://dev.to/cocoandrew/learn-css-animation-the-cool-way-46mk)
+[![What Does ChatGPT Mean for New Software Developers?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_Does_ChatGPT_Mean_for_New_Software_Developers_.svg)](https://dev.to/techelevator/what-does-chatgpt-mean-for-new-software-developers-3e8a)
+[![Best Strategy for SEO in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Best_Strategy_for_SEO_in_2023.svg)](https://dev.to/chellsie/best-strategy-for-seo-in-2023-3k7m)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, December 15, 2022 at 5:17:09 AM
+> Last updated: Monday, December 19, 2022 at 5:46:29 PM
 
 > Showing 4 of 4 posts.
 
+[![A new jQuery release for Xmas](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/A_new_jQuery_release_for_Xmas.svg)](https://javascriptweekly.com/issues/619)
 [![Vite 4.0 released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Vite_4.0_released.svg)](https://javascriptweekly.com/issues/618)
 [![Splitting up sentences with Intl.Segmenter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Splitting_up_sentences_with_Intl.Segmenter.svg)](https://javascriptweekly.com/issues/617)
 [![JavaScript Vocoder Puccini](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/JavaScript_Vocoder_Puccini.svg)](https://javascriptweekly.com/issues/616)
-[![Nuxt 3.0, TypeScript 4.9, Angular 15..](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Nuxt_3.0__TypeScript_4.9__Angular_15...svg)](https://javascriptweekly.com/issues/615)
 
 
 ## Echo JS
@@ -43,17 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, December 15, 2022 at 5:17:13 AM
+> Last updated: Monday, December 19, 2022 at 5:46:35 PM
 
 > Showing 5 of 30 posts.
 
-[![Chart.js 4.0 release celebration 🥳👏🎉 · Discussion #10977 · chartjs/Chart.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Chart.js_4.0_release_celebration_🥳👏🎉_·_Discussion__10977_·_chartjs_Chart.js.svg)](https://github.com/chartjs/Chart.js/discussions/10977)
-[![Ecma International welcomes new members - Ecma International](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Ecma_International_welcomes_new_members_-_Ecma_International.svg)](https://www.ecma-international.org/news/ecma-international-welcomes-new-members-6/)
-[![Announcing Rome v11](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Announcing_Rome_v11.svg)](
-https://rome.tools/blog/2022/12/06/rome11/
-)
-[![Announcing Vite 4](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Announcing_Vite_4.svg)](https://vitejs.dev/blog/announcing-vite4)
-[![Graph Editing Engine X6](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Graph_Editing_Engine_X6.svg)](https://medium.com/@newbyvector/graph-editing-engine-x6-b5dd3deb0a0a)
+[![API with NestJS #87. Writing unit tests in a project with raw SQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__87._Writing_unit_tests_in_a_project_with_raw_SQL.svg)](https://wanago.io/2022/12/19/api-nestjs-unit-tests-raw-sql/)
+[![Callbacks in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Callbacks_in_JavaScript.svg)](https://www.ma-no.org/en/programming/javascript/callbacks-in-javascript)
+[![GitHub - Jm-Zion/rn-wave-bottom-bar: 🌊 Animated Tab Bottom Bar for react-navigation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Jm-Zion_rn-wave-bottom-bar__🌊_Animated_Tab_Bottom_Bar_for_react-navigation.svg)](https://github.com/Jm-Zion/rn-wave-bottom-bar)
+[![GitHub - prabhuignoto/react-visual-grid: 🪟 Image Grid / Masonry Layout for React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_prabhuignoto_react-visual-grid__🪟_Image_Grid___Masonry_Layout_for_React.svg)](https://github.com/prabhuignoto/react-visual-grid)
+[![GitHub - studboo/boo-boo-api](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_studboo_boo-boo-api.svg)](https://github.com/studboo/boo-boo-api)
 
 
 <!-- post-list:end -->
