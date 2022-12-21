@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, December 20, 2022 at 11:11:28 PM
+> Last updated: Wednesday, December 21, 2022 at 5:16:16 AM
 
 > Showing 5 of 12 posts.
 
-[![Yet Another Newsletter LOL: Just in time](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Yet_Another_Newsletter_LOL__Just_in_time.svg)](https://dev.to/nickytonline/yet-another-newsletter-lol-just-in-time-3675)
-[![Python-Basics](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Python-Basics.svg)](https://dev.to/levintech/python-basics-578n)
-[![Runme: Road to Testable Docs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Runme__Road_to_Testable_Docs.svg)](https://dev.to/sourishkrout/runme-road-to-testable-docs-4ede)
-[![Troubleshooting AWS Application Composer Errors](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Troubleshooting_AWS_Application_Composer_Errors.svg)](https://dev.to/aws-builders/troubleshooting-aws-application-composer-errors-445a)
-[![Understand difference between HTTP and HTTPs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Understand_difference_between_HTTP_and_HTTPs.svg)](https://dev.to/aksrao1998/understand-difference-between-http-and-https-17ah)
+[![Host a Serverless Flask App on Vercel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Host_a_Serverless_Flask_App_on_Vercel.svg)](https://dev.to/dhanushreddy29/host-a-serverless-flask-app-on-vercel-2a9l)
+[![📱Control your AWS Apps with a simple message.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/📱Control_your_AWS_Apps_with_a_simple_message..svg)](https://dev.to/aws-builders/control-your-aws-apps-with-a-simple-message-1595)
+[![Why decentralized storage matters for NFT metadata and your next NFT collection](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Why_decentralized_storage_matters_for_NFT_metadata_and_your_next_NFT_collection.svg)](https://dev.to/apillon/why-decentralized-storage-matters-for-nft-metadata-and-your-next-nft-collection-30dg)
+[![Breaking out of tutorial hell](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Breaking_out_of_tutorial_hell.svg)](https://dev.to/shubhicodes/breaking-out-of-tutorial-hell-1714)
+[![Playwright - debug your tests](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Playwright_-_debug_your_tests.svg)](https://dev.to/this-is-learning/playwright-debug-your-tests-1jeh)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, December 20, 2022 at 11:11:31 PM
+> Last updated: Wednesday, December 21, 2022 at 5:16:19 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, December 20, 2022 at 11:11:36 PM
+> Last updated: Wednesday, December 21, 2022 at 5:16:26 AM
 
 > Showing 5 of 30 posts.
 
+[![What are javascript symbols and how can they help you?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_are_javascript_symbols_and_how_can_they_help_you_.svg)](https://www.ma-no.org/en/programming/javascript/what-are-javascript-symbols-and-how-can-they-help-you)
 [![Methods in Vue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Methods_in_Vue.svg)](
 https://masteringjs.io/tutorials/vue/methods
 )
 [![API with NestJS #87. Writing unit tests in a project with raw SQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__87._Writing_unit_tests_in_a_project_with_raw_SQL.svg)](https://wanago.io/2022/12/19/api-nestjs-unit-tests-raw-sql/)
 [![Callbacks in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Callbacks_in_JavaScript.svg)](https://www.ma-no.org/en/programming/javascript/callbacks-in-javascript)
 [![GitHub - Jm-Zion/rn-wave-bottom-bar: 🌊 Animated Tab Bottom Bar for react-navigation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Jm-Zion_rn-wave-bottom-bar__🌊_Animated_Tab_Bottom_Bar_for_react-navigation.svg)](https://github.com/Jm-Zion/rn-wave-bottom-bar)
-[![GitHub - prabhuignoto/react-visual-grid: 🪟 Image Grid / Masonry Layout for React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_prabhuignoto_react-visual-grid__🪟_Image_Grid___Masonry_Layout_for_React.svg)](https://github.com/prabhuignoto/react-visual-grid)
 
 
 <!-- post-list:end -->
