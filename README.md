@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, December 20, 2022 at 11:10:37 AM
+> Last updated: Tuesday, December 20, 2022 at 5:42:37 PM
 
 > Showing 5 of 12 posts.
 
-[![Does Angular Support Generic Component Types?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Does_Angular_Support_Generic_Component_Types_.svg)](https://dev.to/angular/does-angular-support-generic-component-types-4fkm)
-[![Graph Algorithms Cheat Sheet For Coding Interviews](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Graph_Algorithms_Cheat_Sheet_For_Coding_Interviews.svg)](https://dev.to/memgraph/graph-algorithms-cheat-sheet-for-coding-interviews-48h0)
-[![Watch And Evaluate](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Watch_And_Evaluate.svg)](https://dev.to/codenameone/watch-and-evaluate-53df)
-[![Writing a CPAN module that talks to ChatGPT](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Writing_a_CPAN_module_that_talks_to_ChatGPT.svg)](https://dev.to/davorg/writing-a-cpan-module-that-talks-to-chatgpt-gb5)
-[![ChatGPT + Flatlogic: Generate Fully-Functioning Web Apps Based on Description](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/ChatGPT_+_Flatlogic__Generate_Fully-Functioning_Web_Apps_Based_on_Description.svg)](https://dev.to/flatlogic_manager/chatgpt-flatlogic-generate-fully-functioning-web-apps-based-on-description-2n2a)
+[![Being an AWS Community Builder in 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Being_an_AWS_Community_Builder_in_2022.svg)](https://dev.to/aws-builders/aws-community-builder-5082)
+[![Favorite TypeScript Resources](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Favorite_TypeScript_Resources.svg)](https://dev.to/sheelah_b/favorite-typescript-resources-150c)
+[![Merry Christmas from an AWS Community Builder](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Merry_Christmas_from_an_AWS_Community_Builder.svg)](https://dev.to/aws-builders/merry-christmas-from-an-aws-community-builder-il4)
+[![Difference between Entity and DTO](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Difference_between_Entity_and_DTO.svg)](https://dev.to/wagnernegrao/difference-between-entity-and-dto-2pkk)
+[![Top 7 Featured DEV Posts from the Past Week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_7_Featured_DEV_Posts_from_the_Past_Week.svg)](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3mmg)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, December 20, 2022 at 11:10:41 AM
+> Last updated: Tuesday, December 20, 2022 at 5:42:40 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, December 20, 2022 at 11:10:49 AM
+> Last updated: Tuesday, December 20, 2022 at 5:42:44 PM
 
 > Showing 5 of 30 posts.
 
+[![Methods in Vue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Methods_in_Vue.svg)](
+https://masteringjs.io/tutorials/vue/methods
+)
 [![API with NestJS #87. Writing unit tests in a project with raw SQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__87._Writing_unit_tests_in_a_project_with_raw_SQL.svg)](https://wanago.io/2022/12/19/api-nestjs-unit-tests-raw-sql/)
 [![Callbacks in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Callbacks_in_JavaScript.svg)](https://www.ma-no.org/en/programming/javascript/callbacks-in-javascript)
 [![GitHub - Jm-Zion/rn-wave-bottom-bar: 🌊 Animated Tab Bottom Bar for react-navigation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Jm-Zion_rn-wave-bottom-bar__🌊_Animated_Tab_Bottom_Bar_for_react-navigation.svg)](https://github.com/Jm-Zion/rn-wave-bottom-bar)
 [![GitHub - prabhuignoto/react-visual-grid: 🪟 Image Grid / Masonry Layout for React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_prabhuignoto_react-visual-grid__🪟_Image_Grid___Masonry_Layout_for_React.svg)](https://github.com/prabhuignoto/react-visual-grid)
-[![GitHub - studboo/boo-boo-api](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_studboo_boo-boo-api.svg)](https://github.com/studboo/boo-boo-api)
 
 
 <!-- post-list:end -->
