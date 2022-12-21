@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, December 20, 2022 at 5:42:37 PM
+> Last updated: Tuesday, December 20, 2022 at 11:11:28 PM
 
 > Showing 5 of 12 posts.
 
-[![Being an AWS Community Builder in 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Being_an_AWS_Community_Builder_in_2022.svg)](https://dev.to/aws-builders/aws-community-builder-5082)
-[![Favorite TypeScript Resources](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Favorite_TypeScript_Resources.svg)](https://dev.to/sheelah_b/favorite-typescript-resources-150c)
-[![Merry Christmas from an AWS Community Builder](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Merry_Christmas_from_an_AWS_Community_Builder.svg)](https://dev.to/aws-builders/merry-christmas-from-an-aws-community-builder-il4)
-[![Difference between Entity and DTO](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Difference_between_Entity_and_DTO.svg)](https://dev.to/wagnernegrao/difference-between-entity-and-dto-2pkk)
-[![Top 7 Featured DEV Posts from the Past Week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_7_Featured_DEV_Posts_from_the_Past_Week.svg)](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3mmg)
+[![Yet Another Newsletter LOL: Just in time](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Yet_Another_Newsletter_LOL__Just_in_time.svg)](https://dev.to/nickytonline/yet-another-newsletter-lol-just-in-time-3675)
+[![Python-Basics](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Python-Basics.svg)](https://dev.to/levintech/python-basics-578n)
+[![Runme: Road to Testable Docs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Runme__Road_to_Testable_Docs.svg)](https://dev.to/sourishkrout/runme-road-to-testable-docs-4ede)
+[![Troubleshooting AWS Application Composer Errors](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Troubleshooting_AWS_Application_Composer_Errors.svg)](https://dev.to/aws-builders/troubleshooting-aws-application-composer-errors-445a)
+[![Understand difference between HTTP and HTTPs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Understand_difference_between_HTTP_and_HTTPs.svg)](https://dev.to/aksrao1998/understand-difference-between-http-and-https-17ah)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, December 20, 2022 at 5:42:40 PM
+> Last updated: Tuesday, December 20, 2022 at 11:11:31 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, December 20, 2022 at 5:42:44 PM
+> Last updated: Tuesday, December 20, 2022 at 11:11:36 PM
 
 > Showing 5 of 30 posts.
 
