@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, December 21, 2022 at 5:16:16 AM
+> Last updated: Wednesday, December 21, 2022 at 11:10:55 AM
 
 > Showing 5 of 12 posts.
 
-[![Host a Serverless Flask App on Vercel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Host_a_Serverless_Flask_App_on_Vercel.svg)](https://dev.to/dhanushreddy29/host-a-serverless-flask-app-on-vercel-2a9l)
-[![📱Control your AWS Apps with a simple message.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/📱Control_your_AWS_Apps_with_a_simple_message..svg)](https://dev.to/aws-builders/control-your-aws-apps-with-a-simple-message-1595)
-[![Why decentralized storage matters for NFT metadata and your next NFT collection](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Why_decentralized_storage_matters_for_NFT_metadata_and_your_next_NFT_collection.svg)](https://dev.to/apillon/why-decentralized-storage-matters-for-nft-metadata-and-your-next-nft-collection-30dg)
-[![Breaking out of tutorial hell](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Breaking_out_of_tutorial_hell.svg)](https://dev.to/shubhicodes/breaking-out-of-tutorial-hell-1714)
-[![Playwright - debug your tests](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Playwright_-_debug_your_tests.svg)](https://dev.to/this-is-learning/playwright-debug-your-tests-1jeh)
+[![How To Test CRUD RESTful APIs With the API Tester Mobile App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_To_Test_CRUD_RESTful_APIs_With_the_API_Tester_Mobile_App.svg)](https://dev.to/mariamarsh/how-to-test-crud-restful-apis-with-the-api-tester-mobile-app-eco)
+[![How to switch to Azure kubelogin](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_switch_to_Azure_kubelogin.svg)](https://dev.to/goenning/how-to-switch-to-azure-kubelogin-4ld)
+[![Welcome Thread - v205](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Welcome_Thread_-_v205.svg)](https://dev.to/thepracticaldev/welcome-thread-v205-36g)
+[![Billions of unnecessary files in GitHub](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Billions_of_unnecessary_files_in_GitHub.svg)](https://dev.to/szabgab/billions-of-unnecessary-files-in-github-i85)
+[![This Week In React #129: useEffectEvent, Storybook, OpenNEXT, React Email, Remix, Next.js, Pointer-Events, Expo-MDX...](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/This_Week_In_React__129__useEffectEvent__Storybook__OpenNEXT__React_Email__Remix__Next.js__Pointer-Events__Expo-MDX....svg)](https://dev.to/sebastienlorber/this-week-in-react-129-useeffectevent-storybook-opennext-react-email-remix-nextjs-pointer-events-expo-mdx-14fi)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, December 21, 2022 at 5:16:19 AM
+> Last updated: Wednesday, December 21, 2022 at 11:10:58 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, December 21, 2022 at 5:16:26 AM
+> Last updated: Wednesday, December 21, 2022 at 11:11:04 AM
 
 > Showing 5 of 30 posts.
 
