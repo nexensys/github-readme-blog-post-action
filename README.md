@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, December 21, 2022 at 11:11:40 PM
+> Last updated: Thursday, December 22, 2022 at 5:16:17 AM
 
 > Showing 5 of 12 posts.
 
-[![rem vs em - Everything you need to know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/rem_vs_em_-_Everything_you_need_to_know.svg)](https://dev.to/refine/rem-vs-em-everything-you-need-to-know-5342)
-[![Flutter MCQ Questions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Flutter_MCQ_Questions.svg)](https://dev.to/satyam_prg/flutter-mcq-questions-4hm1)
-[![A Response Measure to the Security Threat of Virtual Space App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_Response_Measure_to_the_Security_Threat_of_Virtual_Space_App.svg)](https://dev.to/teamliapp/a-response-measure-to-the-security-threat-of-virtual-space-app-488f)
-[![ii](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/ii.svg)](https://dev.to/itsaomi/realtime-static-website-search-using-pure-javascript-35hi)
-[![Slack Next-gen Platform - The Simplest "Hello World"](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Slack_Next-gen_Platform_-_The_Simplest__Hello_World_.svg)](https://dev.to/seratch/slack-next-gen-platform-the-simplest-hello-world-4ic0)
+[![Responsive Navbar without Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Responsive_Navbar_without_Javascript.svg)](https://dev.to/shubhamtiwari909/responsive-navbar-without-javascript-3p7o)
+[![6 Awesome frameworks for Web Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/6_Awesome_frameworks_for_Web_Development.svg)](https://dev.to/surajondev/6-awesome-frameworks-for-web-development-2408)
+[![A Quick Guide to App Localization](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_Quick_Guide_to_App_Localization.svg)](https://dev.to/aexol-studio/a-quick-guide-to-app-localization-2j95)
+[![Taiga UI: Year of the Tiger](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Taiga_UI__Year_of_the_Tiger.svg)](https://dev.to/angular/taiga-ui-year-of-the-tiger-9ih)
+[![Build any Front-end like Admin Panel or CRM for your Supabase](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_any_Front-end_like_Admin_Panel_or_CRM_for_your_Supabase.svg)](https://dev.to/jet_admin/build-any-front-end-like-admin-panel-or-crm-for-your-supabase-1f2k)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, December 21, 2022 at 11:11:42 PM
+> Last updated: Thursday, December 22, 2022 at 5:16:20 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, December 21, 2022 at 11:11:47 PM
+> Last updated: Thursday, December 22, 2022 at 5:16:25 AM
 
 > Showing 5 of 30 posts.
 
