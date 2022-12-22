@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, December 21, 2022 at 5:44:22 PM
+> Last updated: Wednesday, December 21, 2022 at 11:11:40 PM
 
 > Showing 5 of 12 posts.
 
-[![A Developer Roadmap for High School Students: How to Get Started in Tech](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_Developer_Roadmap_for_High_School_Students__How_to_Get_Started_in_Tech.svg)](https://dev.to/verisimilitude11/a-developer-roadmap-for-high-school-students-how-to-get-started-in-tech-404g)
-[![Awesome JavaScript hacks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Awesome_JavaScript_hacks.svg)](https://dev.to/mitchiemt11/awesome-javascript-hacks-35e3)
-[![How I would build an MVP today](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_I_would_build_an_MVP_today.svg)](https://dev.to/justaashir/how-i-would-build-an-mvp-today-15hc)
-[![Bursting the TDD Bubble](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Bursting_the_TDD_Bubble.svg)](https://dev.to/linearb/bursting-the-tdd-bubble-49h2)
-[![6 things I do (and you should too) when I release open source code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/6_things_I_do_(and_you_should_too)_when_I_release_open_source_code.svg)](https://dev.to/orliesaurus/6-things-i-do-and-you-should-too-when-i-release-open-source-code-8ne)
+[![rem vs em - Everything you need to know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/rem_vs_em_-_Everything_you_need_to_know.svg)](https://dev.to/refine/rem-vs-em-everything-you-need-to-know-5342)
+[![Flutter MCQ Questions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Flutter_MCQ_Questions.svg)](https://dev.to/satyam_prg/flutter-mcq-questions-4hm1)
+[![A Response Measure to the Security Threat of Virtual Space App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_Response_Measure_to_the_Security_Threat_of_Virtual_Space_App.svg)](https://dev.to/teamliapp/a-response-measure-to-the-security-threat-of-virtual-space-app-488f)
+[![ii](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/ii.svg)](https://dev.to/itsaomi/realtime-static-website-search-using-pure-javascript-35hi)
+[![Slack Next-gen Platform - The Simplest "Hello World"](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Slack_Next-gen_Platform_-_The_Simplest__Hello_World_.svg)](https://dev.to/seratch/slack-next-gen-platform-the-simplest-hello-world-4ic0)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, December 21, 2022 at 5:44:26 PM
+> Last updated: Wednesday, December 21, 2022 at 11:11:42 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, December 21, 2022 at 5:44:33 PM
+> Last updated: Wednesday, December 21, 2022 at 11:11:47 PM
 
 > Showing 5 of 30 posts.
 
+[![Versioning, banners and why you may consider using it](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Versioning__banners_and_why_you_may_consider_using_it.svg)](https://adropincalm.com/blog/versioning-and-banners/)
 [![What are javascript symbols and how can they help you?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_are_javascript_symbols_and_how_can_they_help_you_.svg)](https://www.ma-no.org/en/programming/javascript/what-are-javascript-symbols-and-how-can-they-help-you)
 [![Methods in Vue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Methods_in_Vue.svg)](
 https://masteringjs.io/tutorials/vue/methods
 )
 [![API with NestJS #87. Writing unit tests in a project with raw SQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__87._Writing_unit_tests_in_a_project_with_raw_SQL.svg)](https://wanago.io/2022/12/19/api-nestjs-unit-tests-raw-sql/)
 [![Callbacks in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Callbacks_in_JavaScript.svg)](https://www.ma-no.org/en/programming/javascript/callbacks-in-javascript)
-[![GitHub - Jm-Zion/rn-wave-bottom-bar: 🌊 Animated Tab Bottom Bar for react-navigation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Jm-Zion_rn-wave-bottom-bar__🌊_Animated_Tab_Bottom_Bar_for_react-navigation.svg)](https://github.com/Jm-Zion/rn-wave-bottom-bar)
 
 
 <!-- post-list:end -->

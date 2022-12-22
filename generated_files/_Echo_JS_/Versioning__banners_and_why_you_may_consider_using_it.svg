@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 610 110" width="600" height="100" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <style>
+      .title {
+        font-size: 1.5em;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        white-space: nowrap;
+      }
+      .description {
+        font-size: 0.75em;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+      }
+      .text {
+        text-align: start;
+        padding: 10px;
+        height: calc(100% - 20px);
+        margin-left: 0;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+        color: black;
+      }
+           .date {
+        font-size: 0.5em;
+        opacity: 0.5;
+        text-align: end;
+        position: absolute;
+        bottom: 0;
+        right: 10px;
+        color: black;
+      }
+      
+      .main {
+        fill: white;
+      }
+      .data {
+        opacity: 0.75;
+        text-align: start;
+        position: absolute;
+        bottom: 0;
+        padding-bottom: 5px;
+        left: 10px;
+        color: black;
+        max-width: 400px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+      }
+      .author {
+        opacity: 0.75;
+        font-size: 0.5em;
+      }
+      .category {
+        background-color: rgba(0, 0, 0, 0.25);
+        border-radius: 0.25em;
+        padding: 0.125em 0.25em;
+        font-size: 0.75em;
+        color: rgba(0, 0, 0, 0.8);
+      }
+    </style>
+  </defs>
+  <g class="main">
+    <rect class="content" width="600" height="100" stroke="rgba(0, 0, 0, 0.5)" x="5" y="5" rx="10" />
+    <foreignObject width="600" height="100" x="5" y="5">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
+        <div class="text">
+          <div class="title">Versioning&#0044;&#0032;banners&#0032;and&#0032;why&#0032;you&#0032;may&#0032;consider&#0032;using&#0032;it</div>
+          <div class="description">One&#0032;day&#0044;&#0032;while&#0032;working&#0032;on&#0032;a&#0032;big&#0032;project&#0032;I&#0032;had&#0032;a&#0032;manager&#0032;coming&#0032;angry&#0032;at&#0032;me&#0046;&#0010;What&#0032;have&#0032;you&#0032;done&#0032;guys&#0063;&#0032;Did&#0032;you&#0032;test&#0032;the&#0032;code&#0032;after&#0032;integration&#0032;at&#0032;least&#0032;to&#0032;be&#0032;sure&#0032;it&#0032;was&#0032;fine&#0063;&#0010;We&#0032;were&#0032;close&#0032;to&#0032;a&#0032;deadline&#0032;—&#0032;a&#0032;lot&#0032;of&#0032;pressure&#0032;as&#0032;we&#0032;were&#0032;going&#0032;to&#0032;go&#0032;live&#0032;soon&#0032;—&#0032;and&#0032;she&#0032;was&#0032;worried&#0032;and&#0032;furious&#0032;because&#0032;all&#0032;of&#0032;the&#0032;bugfixes&#0032;in&#0032;UAT&#0032;were&#0032;getting&#0032;rejected&#0046;</div>
+          <div class="date"></div>
+          <div class="data">
+            <span class="author"></span> 
+          </div>
+        </div>
+      </div>
+    </foreignObject>
+  </g>
+</svg>
