@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, December 22, 2022 at 5:16:17 AM
+> Last updated: Thursday, December 22, 2022 at 11:11:00 AM
 
 > Showing 5 of 12 posts.
 
-[![Responsive Navbar without Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Responsive_Navbar_without_Javascript.svg)](https://dev.to/shubhamtiwari909/responsive-navbar-without-javascript-3p7o)
-[![6 Awesome frameworks for Web Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/6_Awesome_frameworks_for_Web_Development.svg)](https://dev.to/surajondev/6-awesome-frameworks-for-web-development-2408)
-[![A Quick Guide to App Localization](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_Quick_Guide_to_App_Localization.svg)](https://dev.to/aexol-studio/a-quick-guide-to-app-localization-2j95)
-[![Taiga UI: Year of the Tiger](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Taiga_UI__Year_of_the_Tiger.svg)](https://dev.to/angular/taiga-ui-year-of-the-tiger-9ih)
-[![Build any Front-end like Admin Panel or CRM for your Supabase](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_any_Front-end_like_Admin_Panel_or_CRM_for_your_Supabase.svg)](https://dev.to/jet_admin/build-any-front-end-like-admin-panel-or-crm-for-your-supabase-1f2k)
+[![Breve guia de sobrevivência com Terraform](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Breve_guia_de_sobrevivência_com_Terraform.svg)](https://dev.to/tuxpilgrim/breve-guia-de-sobrevivencia-com-terraform-ggn)
+[![10 practical newsletters every CTO should read](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/10_practical_newsletters_every_CTO_should_read.svg)](https://dev.to/anvarazizov/10-practical-newsletters-every-cto-should-read-oac)
+[![Do I need TypeScript?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Do_I_need_TypeScript_.svg)](https://dev.to/qbentil/do-i-need-typescript-lmk)
+[![Kubernetes Namespace: How To Use It To Organize And Optimize Costs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Kubernetes_Namespace__How_To_Use_It_To_Organize_And_Optimize_Costs.svg)](https://dev.to/castai/kubernetes-namespace-how-to-use-it-to-organize-and-optimize-costs-57pc)
+[![Geocoding with Ruby](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Geocoding_with_Ruby.svg)](https://dev.to/daviducolo/geocoding-with-ruby-4229)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, December 22, 2022 at 5:16:20 AM
+> Last updated: Thursday, December 22, 2022 at 11:11:03 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, December 22, 2022 at 5:16:25 AM
+> Last updated: Thursday, December 22, 2022 at 11:11:07 AM
 
 > Showing 5 of 30 posts.
 
