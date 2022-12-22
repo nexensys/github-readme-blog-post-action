@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, December 21, 2022 at 11:10:55 AM
+> Last updated: Wednesday, December 21, 2022 at 5:44:22 PM
 
 > Showing 5 of 12 posts.
 
-[![How To Test CRUD RESTful APIs With the API Tester Mobile App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_To_Test_CRUD_RESTful_APIs_With_the_API_Tester_Mobile_App.svg)](https://dev.to/mariamarsh/how-to-test-crud-restful-apis-with-the-api-tester-mobile-app-eco)
-[![How to switch to Azure kubelogin](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_switch_to_Azure_kubelogin.svg)](https://dev.to/goenning/how-to-switch-to-azure-kubelogin-4ld)
-[![Welcome Thread - v205](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Welcome_Thread_-_v205.svg)](https://dev.to/thepracticaldev/welcome-thread-v205-36g)
-[![Billions of unnecessary files in GitHub](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Billions_of_unnecessary_files_in_GitHub.svg)](https://dev.to/szabgab/billions-of-unnecessary-files-in-github-i85)
-[![This Week In React #129: useEffectEvent, Storybook, OpenNEXT, React Email, Remix, Next.js, Pointer-Events, Expo-MDX...](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/This_Week_In_React__129__useEffectEvent__Storybook__OpenNEXT__React_Email__Remix__Next.js__Pointer-Events__Expo-MDX....svg)](https://dev.to/sebastienlorber/this-week-in-react-129-useeffectevent-storybook-opennext-react-email-remix-nextjs-pointer-events-expo-mdx-14fi)
+[![A Developer Roadmap for High School Students: How to Get Started in Tech](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_Developer_Roadmap_for_High_School_Students__How_to_Get_Started_in_Tech.svg)](https://dev.to/verisimilitude11/a-developer-roadmap-for-high-school-students-how-to-get-started-in-tech-404g)
+[![Awesome JavaScript hacks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Awesome_JavaScript_hacks.svg)](https://dev.to/mitchiemt11/awesome-javascript-hacks-35e3)
+[![How I would build an MVP today](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_I_would_build_an_MVP_today.svg)](https://dev.to/justaashir/how-i-would-build-an-mvp-today-15hc)
+[![Bursting the TDD Bubble](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Bursting_the_TDD_Bubble.svg)](https://dev.to/linearb/bursting-the-tdd-bubble-49h2)
+[![6 things I do (and you should too) when I release open source code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/6_things_I_do_(and_you_should_too)_when_I_release_open_source_code.svg)](https://dev.to/orliesaurus/6-things-i-do-and-you-should-too-when-i-release-open-source-code-8ne)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, December 21, 2022 at 11:10:58 AM
+> Last updated: Wednesday, December 21, 2022 at 5:44:26 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, December 21, 2022 at 11:11:04 AM
+> Last updated: Wednesday, December 21, 2022 at 5:44:33 PM
 
 > Showing 5 of 30 posts.
 
