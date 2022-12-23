@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, December 22, 2022 at 5:43:19 PM
+> Last updated: Thursday, December 22, 2022 at 11:11:46 PM
 
 > Showing 5 of 12 posts.
 
-[![Open Swoole 22.0.0 released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Open_Swoole_22.0.0_released.svg)](https://dev.to/sebk69/open-swoole-2200-release-6mo)
-[![Season 2 Finale: Holidays, 2022’s Favorite Moments, Season 3 Sneak Peek & more!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Season_2_Finale__Holidays__2022’s_Favorite_Moments__Season_3_Sneak_Peek___more!.svg)](https://dev.to/linearb/season-2-finale-holidays-2022s-favorite-moments-season-3-sneak-peek-more-jof)
-[![The Four Horsemen of Software Complexity — Architecture Decision Records to the Rescue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Four_Horsemen_of_Software_Complexity_—_Architecture_Decision_Records_to_the_Rescue.svg)](https://dev.to/karvozavr/the-four-horsemen-of-software-complexity-architecture-decision-records-to-the-rescue-1211)
-[![MongoDB Atlas Hackathon 2022 Winners, Announced!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/MongoDB_Atlas_Hackathon_2022_Winners__Announced!.svg)](https://dev.to/devteam/mongodb-atlas-hackathon-2022-winners-announced-iib)
-[![ReductStore Client SDK for Python v1.2.0: New Features and Example Use](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/ReductStore_Client_SDK_for_Python_v1.2.0__New_Features_and_Example_Use.svg)](https://dev.to/reductstore/reductstore-client-sdk-for-python-v120-new-features-and-example-use-c4e)
+[![How to pass the arguments of Makefile.PL using cpanm](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_pass_the_arguments_of_Makefile.PL_using_cpanm.svg)](https://dev.to/yukikimoto/how-to-pass-the-arguments-of-makefilepl-using-cpanm-2212)
+[![20 Git Commands you (probably) didn't know about](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/20_Git_Commands_you_(probably)_didn't_know_about.svg)](https://dev.to/codeswithrocky/20-git-commands-you-probably-didnt-know-about-556n)
+[![🤖 Just Added IT Job Offers - Week #51 of 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/🤖_Just_Added_IT_Job_Offers_-_Week__51_of_2022.svg)](https://dev.to/shman/just-added-it-job-offers-week-51-of-2022-5chj)
+[![Android Compose DataStore Tutorial](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Android_Compose_DataStore_Tutorial.svg)](https://dev.to/ethand91/android-compose-datastore-tutorial-3bnl)
+[![Finalizing A New UI (Feedback Requested)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Finalizing_A_New_UI_(Feedback_Requested).svg)](https://dev.to/greenreader9/finalizing-a-new-ui-feedback-requested-5h96)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, December 22, 2022 at 5:43:22 PM
+> Last updated: Thursday, December 22, 2022 at 11:11:49 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, December 22, 2022 at 5:43:26 PM
+> Last updated: Thursday, December 22, 2022 at 11:11:55 PM
 
 > Showing 5 of 30 posts.
 
