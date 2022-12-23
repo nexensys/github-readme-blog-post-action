@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, December 22, 2022 at 11:11:46 PM
+> Last updated: Friday, December 23, 2022 at 5:15:31 AM
 
 > Showing 5 of 12 posts.
 
-[![How to pass the arguments of Makefile.PL using cpanm](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_pass_the_arguments_of_Makefile.PL_using_cpanm.svg)](https://dev.to/yukikimoto/how-to-pass-the-arguments-of-makefilepl-using-cpanm-2212)
-[![20 Git Commands you (probably) didn't know about](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/20_Git_Commands_you_(probably)_didn't_know_about.svg)](https://dev.to/codeswithrocky/20-git-commands-you-probably-didnt-know-about-556n)
-[![🤖 Just Added IT Job Offers - Week #51 of 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/🤖_Just_Added_IT_Job_Offers_-_Week__51_of_2022.svg)](https://dev.to/shman/just-added-it-job-offers-week-51-of-2022-5chj)
-[![Android Compose DataStore Tutorial](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Android_Compose_DataStore_Tutorial.svg)](https://dev.to/ethand91/android-compose-datastore-tutorial-3bnl)
-[![Finalizing A New UI (Feedback Requested)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Finalizing_A_New_UI_(Feedback_Requested).svg)](https://dev.to/greenreader9/finalizing-a-new-ui-feedback-requested-5h96)
+[![Docker-compose in 3 minutes: a practical guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Docker-compose_in_3_minutes__a_practical_guide.svg)](https://dev.to/mohsenkamrani/docker-compose-in-3-minutes-a-practical-guide-4ag2)
+[![How to host a website on GitHub with custom domain](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_host_a_website_on_GitHub_with_custom_domain.svg)](https://dev.to/hussaincode/how-to-host-a-website-on-github-with-custom-domain-58ca)
+[![Why React.js is So Popular ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Why_React.js_is_So_Popular__.svg)](https://dev.to/jagroop2000/why-reactjs-is-so-popular--51ho)
+[![Build and Deploy Your Own ChatGPT AI App in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_and_Deploy_Your_Own_ChatGPT_AI_App_in_JavaScript.svg)](https://dev.to/codeswithrocky/build-and-deploy-your-own-chatgpt-ai-app-in-javascript-opf)
+[![Flipping Card with CSS and Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Flipping_Card_with_CSS_and_Javascript.svg)](https://dev.to/shubhamtiwari909/flipping-card-with-css-and-javascript-2182)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, December 22, 2022 at 11:11:49 PM
+> Last updated: Friday, December 23, 2022 at 5:15:35 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,21 +43,27 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, December 22, 2022 at 11:11:55 PM
+> Last updated: Friday, December 23, 2022 at 5:16:08 AM
 
 > Showing 5 of 30 posts.
 
+[![
+Hire Offshore Developers in USA : Mobile App Development Company
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Hire_Offshore_Developers_in_USA___Mobile_App_Development_Company_.svg)](
+http://www.qsstechnosoft
+)
+[![
+indiankanoon.org - Arif Birya, Dilip j. Patel, N.R. Doshi Dubai.
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_indiankanoon.org_-_Arif_Birya__Dilip_j._Patel__N.R._Doshi_Dubai._.svg)](
+https://indiankanoon.org/doc/120251102/
+)
+[![RADDX Car NFTs | Metaverse Racing Game | Jump.Trade](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/RADDX_Car_NFTs___Metaverse_Racing_Game___Jump.Trade.svg)](undefined)
 [![
 Ask EchoJS: Best JS Based Animations
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Ask_EchoJS__Best_JS_Based_Animations_.svg)](
 http://www.echojs.com/news/41345
 )
 [![Versioning, banners and why you may consider using it](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Versioning__banners_and_why_you_may_consider_using_it.svg)](https://adropincalm.com/blog/versioning-and-banners/)
-[![What are javascript symbols and how can they help you?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_are_javascript_symbols_and_how_can_they_help_you_.svg)](https://www.ma-no.org/en/programming/javascript/what-are-javascript-symbols-and-how-can-they-help-you)
-[![Methods in Vue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Methods_in_Vue.svg)](
-https://masteringjs.io/tutorials/vue/methods
-)
-[![API with NestJS #87. Writing unit tests in a project with raw SQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__87._Writing_unit_tests_in_a_project_with_raw_SQL.svg)](https://wanago.io/2022/12/19/api-nestjs-unit-tests-raw-sql/)
 
 
 <!-- post-list:end -->
