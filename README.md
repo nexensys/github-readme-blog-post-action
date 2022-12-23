@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, December 22, 2022 at 11:11:00 AM
+> Last updated: Thursday, December 22, 2022 at 5:43:19 PM
 
 > Showing 5 of 12 posts.
 
-[![Breve guia de sobrevivência com Terraform](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Breve_guia_de_sobrevivência_com_Terraform.svg)](https://dev.to/tuxpilgrim/breve-guia-de-sobrevivencia-com-terraform-ggn)
-[![10 practical newsletters every CTO should read](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/10_practical_newsletters_every_CTO_should_read.svg)](https://dev.to/anvarazizov/10-practical-newsletters-every-cto-should-read-oac)
-[![Do I need TypeScript?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Do_I_need_TypeScript_.svg)](https://dev.to/qbentil/do-i-need-typescript-lmk)
-[![Kubernetes Namespace: How To Use It To Organize And Optimize Costs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Kubernetes_Namespace__How_To_Use_It_To_Organize_And_Optimize_Costs.svg)](https://dev.to/castai/kubernetes-namespace-how-to-use-it-to-organize-and-optimize-costs-57pc)
-[![Geocoding with Ruby](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Geocoding_with_Ruby.svg)](https://dev.to/daviducolo/geocoding-with-ruby-4229)
+[![Open Swoole 22.0.0 released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Open_Swoole_22.0.0_released.svg)](https://dev.to/sebk69/open-swoole-2200-release-6mo)
+[![Season 2 Finale: Holidays, 2022’s Favorite Moments, Season 3 Sneak Peek & more!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Season_2_Finale__Holidays__2022’s_Favorite_Moments__Season_3_Sneak_Peek___more!.svg)](https://dev.to/linearb/season-2-finale-holidays-2022s-favorite-moments-season-3-sneak-peek-more-jof)
+[![The Four Horsemen of Software Complexity — Architecture Decision Records to the Rescue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Four_Horsemen_of_Software_Complexity_—_Architecture_Decision_Records_to_the_Rescue.svg)](https://dev.to/karvozavr/the-four-horsemen-of-software-complexity-architecture-decision-records-to-the-rescue-1211)
+[![MongoDB Atlas Hackathon 2022 Winners, Announced!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/MongoDB_Atlas_Hackathon_2022_Winners__Announced!.svg)](https://dev.to/devteam/mongodb-atlas-hackathon-2022-winners-announced-iib)
+[![ReductStore Client SDK for Python v1.2.0: New Features and Example Use](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/ReductStore_Client_SDK_for_Python_v1.2.0__New_Features_and_Example_Use.svg)](https://dev.to/reductstore/reductstore-client-sdk-for-python-v120-new-features-and-example-use-c4e)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, December 22, 2022 at 11:11:03 AM
+> Last updated: Thursday, December 22, 2022 at 5:43:22 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,21 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, December 22, 2022 at 11:11:07 AM
+> Last updated: Thursday, December 22, 2022 at 5:43:26 PM
 
 > Showing 5 of 30 posts.
 
+[![
+Ask EchoJS: Best JS Based Animations
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Ask_EchoJS__Best_JS_Based_Animations_.svg)](
+http://www.echojs.com/news/41345
+)
 [![Versioning, banners and why you may consider using it](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Versioning__banners_and_why_you_may_consider_using_it.svg)](https://adropincalm.com/blog/versioning-and-banners/)
 [![What are javascript symbols and how can they help you?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_are_javascript_symbols_and_how_can_they_help_you_.svg)](https://www.ma-no.org/en/programming/javascript/what-are-javascript-symbols-and-how-can-they-help-you)
 [![Methods in Vue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Methods_in_Vue.svg)](
 https://masteringjs.io/tutorials/vue/methods
 )
 [![API with NestJS #87. Writing unit tests in a project with raw SQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__87._Writing_unit_tests_in_a_project_with_raw_SQL.svg)](https://wanago.io/2022/12/19/api-nestjs-unit-tests-raw-sql/)
-[![Callbacks in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Callbacks_in_JavaScript.svg)](https://www.ma-no.org/en/programming/javascript/callbacks-in-javascript)
 
 
 <!-- post-list:end -->
