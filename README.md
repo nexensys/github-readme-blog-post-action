@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, December 23, 2022 at 5:39:57 PM
+> Last updated: Friday, December 23, 2022 at 11:10:21 PM
 
 > Showing 5 of 12 posts.
 
-[![Useful High Order Functions in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Useful_High_Order_Functions_in_JavaScript.svg)](https://dev.to/ksowah/useful-high-order-functions-in-javascript-4dl4)
-[![Merry Christmas Codepen !](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Merry_Christmas_Codepen_!.svg)](https://dev.to/one_div/merry-christmas-codepen--53jk)
-[![SPVM 0.9672 is released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/SPVM_0.9672_is_released.svg)](https://dev.to/yukikimoto/spvm-09672-is-released-3he2)
-[![Would you like to communicate with me on DEV Community?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Would_you_like_to_communicate_with_me_on_DEV_Community_.svg)](https://dev.to/yukikimoto/would-you-like-to-communicate-with-me-on-dev-community-28j4)
-[![How to save trained model in tensorflow ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_save_trained_model_in_tensorflow__.svg)](https://dev.to/anurag629/how-to-save-trained-model-in-tensorflow--2eg6)
+[![Extracting Data with Hyperlambda's Semantic Slots](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Extracting_Data_with_Hyperlambda's_Semantic_Slots.svg)](https://dev.to/polterguy/extracting-data-with-hyperlambdas-semantic-slots-5696)
+[![My 2022 Year in Review](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/My_2022_Year_in_Review.svg)](https://dev.to/nickytonline/my-2022-year-in-review-a72)
+[![INTRODUCTION TO BLOCKCHAIN TECHNOLOGY](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/INTRODUCTION_TO_BLOCKCHAIN_TECHNOLOGY.svg)](https://dev.to/wisdomudo/introduction-to-blockchain-technology-1io)
+[![8 Best Christmas Web Hosting Deals 2022 Huge Discounts!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/8_Best_Christmas_Web_Hosting_Deals_2022_Huge_Discounts!.svg)](https://dev.to/codeswithrocky/8-best-christmas-web-hosting-deals-2022-huge-discounts-had)
+[![⚛Os 10 React Hooks Mais Úteis: 03 - useContext⚛](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/⚛Os_10_React_Hooks_Mais_Úteis__03_-_useContext⚛.svg)](https://dev.to/mpetry/os-10-react-hooks-mais-uteis-03-usecontext-469f)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, December 23, 2022 at 5:40:00 PM
+> Last updated: Friday, December 23, 2022 at 11:10:24 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, December 23, 2022 at 5:40:06 PM
+> Last updated: Friday, December 23, 2022 at 11:10:26 PM
 
 > Showing 5 of 30 posts.
 
+[![Anjoned Hostel & Cafe | Hostel in Anjuna Beach North Goa](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Anjoned_Hostel___Cafe___Hostel_in_Anjuna_Beach_North_Goa.svg)](https://www.anjoned.com/)
 [![
 Ask EchoJS: Best JS Based Animations
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Ask_EchoJS__Best_JS_Based_Animations_.svg)](
@@ -57,7 +58,6 @@ http://www.echojs.com/news/41345
 [![Methods in Vue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Methods_in_Vue.svg)](
 https://masteringjs.io/tutorials/vue/methods
 )
-[![API with NestJS #87. Writing unit tests in a project with raw SQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__87._Writing_unit_tests_in_a_project_with_raw_SQL.svg)](https://wanago.io/2022/12/19/api-nestjs-unit-tests-raw-sql/)
 
 
 <!-- post-list:end -->
