@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, December 23, 2022 at 11:10:21 PM
+> Last updated: Saturday, December 24, 2022 at 5:14:08 AM
 
 > Showing 5 of 12 posts.
 
-[![Extracting Data with Hyperlambda's Semantic Slots](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Extracting_Data_with_Hyperlambda's_Semantic_Slots.svg)](https://dev.to/polterguy/extracting-data-with-hyperlambdas-semantic-slots-5696)
-[![My 2022 Year in Review](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/My_2022_Year_in_Review.svg)](https://dev.to/nickytonline/my-2022-year-in-review-a72)
-[![INTRODUCTION TO BLOCKCHAIN TECHNOLOGY](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/INTRODUCTION_TO_BLOCKCHAIN_TECHNOLOGY.svg)](https://dev.to/wisdomudo/introduction-to-blockchain-technology-1io)
-[![8 Best Christmas Web Hosting Deals 2022 Huge Discounts!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/8_Best_Christmas_Web_Hosting_Deals_2022_Huge_Discounts!.svg)](https://dev.to/codeswithrocky/8-best-christmas-web-hosting-deals-2022-huge-discounts-had)
-[![⚛Os 10 React Hooks Mais Úteis: 03 - useContext⚛](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/⚛Os_10_React_Hooks_Mais_Úteis__03_-_useContext⚛.svg)](https://dev.to/mpetry/os-10-react-hooks-mais-uteis-03-usecontext-469f)
+[![Blockchain: Starting of new Journey](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Blockchain__Starting_of_new_Journey.svg)](https://dev.to/jagroop2000/blockchain-starting-of-new-journey-5970)
+[![What's wrong with code in 2022?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What's_wrong_with_code_in_2022_.svg)](https://dev.to/mariamarsh/whats-wrong-with-code-in-2022-3nbd)
+[![Local storage and Session storage and useful tips for debugging in Chrome](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Local_storage_and_Session_storage_and_useful_tips_for_debugging_in_Chrome.svg)](https://dev.to/mohsenkamrani/local-storage-and-session-storage-and-useful-tips-for-debugging-in-chrome-3588)
+[![Responsive Web Designs with CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Responsive_Web_Designs_with_CSS.svg)](https://dev.to/shubhamtiwari909/responsive-web-designs-with-css-241k)
+[![2022: Best Year of My Life! ✨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/2022__Best_Year_of_My_Life!_✨.svg)](https://dev.to/sauain/2022-best-year-of-my-life-47nj)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, December 23, 2022 at 11:10:24 PM
+> Last updated: Saturday, December 24, 2022 at 5:14:11 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, December 23, 2022 at 11:10:26 PM
+> Last updated: Saturday, December 24, 2022 at 5:14:13 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - jorisre/react-screen-wake-lock: 🌓 React implementation of the Screen Wake Lock API. It provides a way to prevent devices from dimming or locking the screen when an application needs to keep running](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_jorisre_react-screen-wake-lock__🌓_React_implementation_of_the_Screen_Wake_Lock_API._It_provides_a_way_to_prevent_devices_from_dimming_or_locking_the_screen_when_an_application_needs_to_keep_running.svg)](https://github.com/jorisre/react-screen-wake-lock)
 [![Anjoned Hostel & Cafe | Hostel in Anjuna Beach North Goa](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Anjoned_Hostel___Cafe___Hostel_in_Anjuna_Beach_North_Goa.svg)](https://www.anjoned.com/)
 [![
 Ask EchoJS: Best JS Based Animations
@@ -55,9 +56,6 @@ http://www.echojs.com/news/41345
 )
 [![Versioning, banners and why you may consider using it](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Versioning__banners_and_why_you_may_consider_using_it.svg)](https://adropincalm.com/blog/versioning-and-banners/)
 [![What are javascript symbols and how can they help you?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_are_javascript_symbols_and_how_can_they_help_you_.svg)](https://www.ma-no.org/en/programming/javascript/what-are-javascript-symbols-and-how-can-they-help-you)
-[![Methods in Vue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Methods_in_Vue.svg)](
-https://masteringjs.io/tutorials/vue/methods
-)
 
 
 <!-- post-list:end -->
