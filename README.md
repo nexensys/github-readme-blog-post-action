@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, December 24, 2022 at 11:09:44 AM
+> Last updated: Saturday, December 24, 2022 at 5:47:09 PM
 
 > Showing 5 of 12 posts.
 
-[![Do I need TypeScript?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Do_I_need_TypeScript_.svg)](https://dev.to/documatic/do-i-need-typescript-4n49)
-[![const a = [ ] is not an array?! 😱](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/const_a_=_[_]_is_not_an_array_!_😱.svg)](https://dev.to/bhaveek424/const-a-is-not-an-array-3obb)
-[![SSL Certificates - an easy to understand guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/SSL_Certificates_-_an_easy_to_understand_guide.svg)](https://dev.to/boroscsaba/ssl-certificates-an-easy-to-understand-guide-1g2a)
-[![Input Elments](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Input_Elments.svg)](https://dev.to/dipeshj2310/input-elments-3620)
-[![Front-End Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Front-End_Development.svg)](https://dev.to/kalyanimadhu98/front-end-development-494e)
+[![Useful: Abbreviation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Useful__Abbreviation.svg)](https://dev.to/ysellami/useful-abbreviation-3c76)
+[![Github Action Workflows for Perl Modules - Perl Club](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Github_Action_Workflows_for_Perl_Modules_-_Perl_Club.svg)](https://dev.to/yukikimoto/github-action-workflows-for-perl-modules-perl-club-kd5)
+[![Improving Performance with React Lazy and Suspense](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Improving_Performance_with_React_Lazy_and_Suspense.svg)](https://dev.to/farrokh/improving-performance-with-react-lazy-and-suspense-4g59)
+[![How to Self-host Supabase: A complete guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Self-host_Supabase__A_complete_guide.svg)](https://dev.to/chits_programming_blog/how-to-self-host-supabase-a-complete-guide-3ono)
+[![How to check if a tuple is empty in Python?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_check_if_a_tuple_is_empty_in_Python_.svg)](https://dev.to/trinityyi/how-to-check-if-a-tuple-is-empty-in-python-2ie2)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, December 24, 2022 at 11:09:48 AM
+> Last updated: Saturday, December 24, 2022 at 5:47:13 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, December 24, 2022 at 11:09:51 AM
+> Last updated: Saturday, December 24, 2022 at 5:47:16 PM
 
 > Showing 5 of 30 posts.
 
