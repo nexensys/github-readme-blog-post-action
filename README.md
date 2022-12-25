@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, December 25, 2022 at 5:14:37 AM
+> Last updated: Sunday, December 25, 2022 at 11:09:54 AM
 
 > Showing 5 of 12 posts.
 
-[![Lego Technic Large Hub'a Linux ile bağlanmak](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Lego_Technic_Large_Hub'a_Linux_ile_bağlanmak.svg)](https://dev.to/aliorhun/lego-technic-large-huba-linux-ile-baglanmak-4gkl)
-[![Command Line Interface for Beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Command_Line_Interface_for_Beginners.svg)](https://dev.to/omoluabidotcom/command-line-interface-for-beginners-4hjj)
-[![Event Bus Pattern in Android Using Kotlin Flows](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Event_Bus_Pattern_in_Android_Using_Kotlin_Flows.svg)](https://dev.to/mohitrajput987/event-bus-pattern-in-android-using-kotlin-flows-la)
-[![Top 10 software architecture pattern](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_10_software_architecture_pattern.svg)](https://dev.to/giasuddin90/top-10-software-architecture-pattern-4ngd)
-[![Chrome Extensions of the Month - December 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Chrome_Extensions_of_the_Month_-_December_2022.svg)](https://dev.to/j471n/chrome-extensions-of-the-month-december-2022-29hp)
+[![Baby Steps to Learn Web Development and land your first internship!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Baby_Steps_to_Learn_Web_Development_and_land_your_first_internship!.svg)](https://dev.to/darkxenium/baby-steps-to-learn-web-development-and-land-your-first-internship-cel)
+[![Migrate a 60k LOC TypeScript (NodeJS) repo to ESM and testing become 4x faster (1/2)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Migrate_a_60k_LOC_TypeScript_(NodeJS)_repo_to_ESM_and_testing_become_4x_faster_(1_2).svg)](https://dev.to/gaosun/migrate-a-60k-loc-typescript-nodejs-repo-to-esm-and-testing-become-4x-faster-12-5f82)
+[![How to Transition into Backend Development as a Frontend Web Developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Transition_into_Backend_Development_as_a_Frontend_Web_Developer.svg)](https://dev.to/darkxenium/how-to-transition-into-backend-development-as-a-frontend-web-developer-4ba5)
+[![CORS Error in 5 minutes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/CORS_Error_in_5_minutes.svg)](https://dev.to/alestor_123/cors-error-in-5-minutes-2doa)
+[![Svelte-kit (vite) with HMR over NGINX (Solution)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Svelte-kit_(vite)_with_HMR_over_NGINX_(Solution).svg)](https://dev.to/yaroslaff/svelte-kit-with-hmr-over-nginx-2pl2)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, December 25, 2022 at 5:14:40 AM
+> Last updated: Sunday, December 25, 2022 at 11:09:58 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, December 25, 2022 at 5:14:43 AM
+> Last updated: Sunday, December 25, 2022 at 11:10:02 AM
 
 > Showing 5 of 30 posts.
 
