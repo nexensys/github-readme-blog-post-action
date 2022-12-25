@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, December 24, 2022 at 5:47:09 PM
+> Last updated: Saturday, December 24, 2022 at 11:10:26 PM
 
 > Showing 5 of 12 posts.
 
+[![Start rethinkdb on startup in Arch Linux](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Start_rethinkdb_on_startup_in_Arch_Linux.svg)](https://dev.to/rounakcodes/start-rethinkdb-on-startup-in-arch-linux-dfo)
+[![How to Create a New Reposiorty on Github](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Create_a_New_Reposiorty_on_Github.svg)](https://dev.to/sardiusjay/how-to-create-a-new-reposiorty-on-github-5c6j)
+[![Compact Guide: How to sync Google calendar with Laravel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Compact_Guide__How_to_sync_Google_calendar_with_Laravel.svg)](https://dev.to/dnsinyukov/compact-guide-how-to-sync-google-calendar-with-laravel-145g)
+[![NPM Scripts summary](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/NPM_Scripts_summary.svg)](https://dev.to/asap/npm-scripts-summary-5012)
 [![Useful: Abbreviation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Useful__Abbreviation.svg)](https://dev.to/ysellami/useful-abbreviation-3c76)
-[![Github Action Workflows for Perl Modules - Perl Club](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Github_Action_Workflows_for_Perl_Modules_-_Perl_Club.svg)](https://dev.to/yukikimoto/github-action-workflows-for-perl-modules-perl-club-kd5)
-[![Improving Performance with React Lazy and Suspense](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Improving_Performance_with_React_Lazy_and_Suspense.svg)](https://dev.to/farrokh/improving-performance-with-react-lazy-and-suspense-4g59)
-[![How to Self-host Supabase: A complete guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Self-host_Supabase__A_complete_guide.svg)](https://dev.to/chits_programming_blog/how-to-self-host-supabase-a-complete-guide-3ono)
-[![How to check if a tuple is empty in Python?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_check_if_a_tuple_is_empty_in_Python_.svg)](https://dev.to/trinityyi/how-to-check-if-a-tuple-is-empty-in-python-2ie2)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, December 24, 2022 at 5:47:13 PM
+> Last updated: Saturday, December 24, 2022 at 11:10:29 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, December 24, 2022 at 5:47:16 PM
+> Last updated: Saturday, December 24, 2022 at 11:10:31 PM
 
 > Showing 5 of 30 posts.
 
