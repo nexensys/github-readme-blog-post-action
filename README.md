@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, December 24, 2022 at 11:10:26 PM
+> Last updated: Sunday, December 25, 2022 at 5:14:37 AM
 
 > Showing 5 of 12 posts.
 
-[![Start rethinkdb on startup in Arch Linux](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Start_rethinkdb_on_startup_in_Arch_Linux.svg)](https://dev.to/rounakcodes/start-rethinkdb-on-startup-in-arch-linux-dfo)
-[![How to Create a New Reposiorty on Github](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Create_a_New_Reposiorty_on_Github.svg)](https://dev.to/sardiusjay/how-to-create-a-new-reposiorty-on-github-5c6j)
-[![Compact Guide: How to sync Google calendar with Laravel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Compact_Guide__How_to_sync_Google_calendar_with_Laravel.svg)](https://dev.to/dnsinyukov/compact-guide-how-to-sync-google-calendar-with-laravel-145g)
-[![NPM Scripts summary](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/NPM_Scripts_summary.svg)](https://dev.to/asap/npm-scripts-summary-5012)
-[![Useful: Abbreviation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Useful__Abbreviation.svg)](https://dev.to/ysellami/useful-abbreviation-3c76)
+[![Lego Technic Large Hub'a Linux ile bağlanmak](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Lego_Technic_Large_Hub'a_Linux_ile_bağlanmak.svg)](https://dev.to/aliorhun/lego-technic-large-huba-linux-ile-baglanmak-4gkl)
+[![Command Line Interface for Beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Command_Line_Interface_for_Beginners.svg)](https://dev.to/omoluabidotcom/command-line-interface-for-beginners-4hjj)
+[![Event Bus Pattern in Android Using Kotlin Flows](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Event_Bus_Pattern_in_Android_Using_Kotlin_Flows.svg)](https://dev.to/mohitrajput987/event-bus-pattern-in-android-using-kotlin-flows-la)
+[![Top 10 software architecture pattern](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_10_software_architecture_pattern.svg)](https://dev.to/giasuddin90/top-10-software-architecture-pattern-4ngd)
+[![Chrome Extensions of the Month - December 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Chrome_Extensions_of_the_Month_-_December_2022.svg)](https://dev.to/j471n/chrome-extensions-of-the-month-december-2022-29hp)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, December 24, 2022 at 11:10:29 PM
+> Last updated: Sunday, December 25, 2022 at 5:14:40 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, December 24, 2022 at 11:10:31 PM
+> Last updated: Sunday, December 25, 2022 at 5:14:43 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - nursie999/TradingOS: TradingOS量化交易策略](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_nursie999_TradingOS__TradingOS量化交易策略.svg)](https://github.com/nursie999/TradingOS)
 [![GitHub - jorisre/react-screen-wake-lock: 🌓 React implementation of the Screen Wake Lock API. It provides a way to prevent devices from dimming or locking the screen when an application needs to keep running](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_jorisre_react-screen-wake-lock__🌓_React_implementation_of_the_Screen_Wake_Lock_API._It_provides_a_way_to_prevent_devices_from_dimming_or_locking_the_screen_when_an_application_needs_to_keep_running.svg)](https://github.com/jorisre/react-screen-wake-lock)
 [![
 Ask EchoJS: Best JS Based Animations
@@ -55,9 +56,6 @@ http://www.echojs.com/news/41345
 )
 [![Versioning, banners and why you may consider using it](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Versioning__banners_and_why_you_may_consider_using_it.svg)](https://adropincalm.com/blog/versioning-and-banners/)
 [![What are javascript symbols and how can they help you?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_are_javascript_symbols_and_how_can_they_help_you_.svg)](https://www.ma-no.org/en/programming/javascript/what-are-javascript-symbols-and-how-can-they-help-you)
-[![Methods in Vue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Methods_in_Vue.svg)](
-https://masteringjs.io/tutorials/vue/methods
-)
 
 
 <!-- post-list:end -->
