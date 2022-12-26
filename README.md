@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, December 25, 2022 at 11:11:54 PM
+> Last updated: Monday, December 26, 2022 at 5:15:36 AM
 
 > Showing 5 of 12 posts.
 
-[![How to make a clock Android app in Android Studio?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_make_a_clock_Android_app_in_Android_Studio_.svg)](https://dev.to/dhruvjoshi9/how-to-make-a-clock-android-app-in-android-studio-5724)
-[![Yet Another Newsletter LOL: Too much turkey](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Yet_Another_Newsletter_LOL__Too_much_turkey.svg)](https://dev.to/nickytonline/yet-another-newsletter-lol-too-much-turkey-3450)
-[![How to make a simple iOS app that shows time and date?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_make_a_simple_iOS_app_that_shows_time_and_date_.svg)](https://dev.to/dhruvjoshi9/how-to-make-a-simple-ios-app-that-shows-time-and-date-37jg)
-[![Algorithm for x-mass](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Algorithm_for_x-mass.svg)](https://dev.to/antonov_mike/algorithm-for-x-mass-3kc6)
-[![The Most Important Software Architectural Patterns You Need to Know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Most_Important_Software_Architectural_Patterns_You_Need_to_Know.svg)](https://dev.to/giasuddin90/the-most-important-software-architectural-patterns-you-need-to-know-45ho)
+[![How to code a Android app that shows phone's statistics and other hardware info?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_code_a_Android_app_that_shows_phone's_statistics_and_other_hardware_info_.svg)](https://dev.to/dhruvjoshi9/how-to-code-a-android-app-that-shows-phones-statics-and-other-hardware-info-1oad)
+[![Pandas - Visualizing Dataframe Data - 7 Days of Pandas](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Pandas_-_Visualizing_Dataframe_Data_-_7_Days_of_Pandas.svg)](https://dev.to/piyushraj/pandas-visualizing-dataframe-data-7-days-of-pandas-1l0p)
+[![Top 5 Skills for DevOps Engineer Professionals](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_5_Skills_for_DevOps_Engineer_Professionals.svg)](https://dev.to/ethanstechpune/top-5-skills-for-devops-engineer-professionals-38o0)
+[![Introduction to Data Structures and Algorithms](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Introduction_to_Data_Structures_and_Algorithms.svg)](https://dev.to/brilliance/introduction-to-data-structures-and-algorithms-5b6)
+[![Understanding Docker: part 37 – Content Trust](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Understanding_Docker__part_37_–_Content_Trust.svg)](https://dev.to/aurelievache/understanding-docker-part-37-content-trust-18n3)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, December 25, 2022 at 11:11:57 PM
+> Last updated: Monday, December 26, 2022 at 5:15:39 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, December 25, 2022 at 11:12:00 PM
+> Last updated: Monday, December 26, 2022 at 5:15:42 AM
 
 > Showing 5 of 30 posts.
 
