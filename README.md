@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, December 25, 2022 at 11:09:54 AM
+> Last updated: Sunday, December 25, 2022 at 5:44:45 PM
 
 > Showing 5 of 12 posts.
 
-[![Baby Steps to Learn Web Development and land your first internship!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Baby_Steps_to_Learn_Web_Development_and_land_your_first_internship!.svg)](https://dev.to/darkxenium/baby-steps-to-learn-web-development-and-land-your-first-internship-cel)
-[![Migrate a 60k LOC TypeScript (NodeJS) repo to ESM and testing become 4x faster (1/2)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Migrate_a_60k_LOC_TypeScript_(NodeJS)_repo_to_ESM_and_testing_become_4x_faster_(1_2).svg)](https://dev.to/gaosun/migrate-a-60k-loc-typescript-nodejs-repo-to-esm-and-testing-become-4x-faster-12-5f82)
-[![How to Transition into Backend Development as a Frontend Web Developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Transition_into_Backend_Development_as_a_Frontend_Web_Developer.svg)](https://dev.to/darkxenium/how-to-transition-into-backend-development-as-a-frontend-web-developer-4ba5)
-[![CORS Error in 5 minutes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/CORS_Error_in_5_minutes.svg)](https://dev.to/alestor_123/cors-error-in-5-minutes-2doa)
-[![Svelte-kit (vite) with HMR over NGINX (Solution)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Svelte-kit_(vite)_with_HMR_over_NGINX_(Solution).svg)](https://dev.to/yaroslaff/svelte-kit-with-hmr-over-nginx-2pl2)
+[![Service workers tutorial](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Service_workers_tutorial.svg)](https://dev.to/uploadcare/service-workers-tutorial-1b7h)
+[![Building the Docker Image: Expert Tips and Tricks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Building_the_Docker_Image__Expert_Tips_and_Tricks.svg)](https://dev.to/ericyi/building-the-docker-image-expert-tips-and-tricks-29d0)
+[![tsParticles 2.7.1 Released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/tsParticles_2.7.1_Released.svg)](https://dev.to/matteobruni/tsparticles-271-released-4iam)
+[![Installing Ansible on AWS EC2 Instance](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Installing_Ansible_on_AWS_EC2_Instance.svg)](https://dev.to/aws-builders/installing-ansible-on-aws-ec2-instance-fj9)
+[![AWS Lambda Extensions with Rust](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/AWS_Lambda_Extensions_with_Rust.svg)](https://dev.to/aws-builders/aws-lambda-extensions-with-rust-3mnl)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, December 25, 2022 at 11:09:58 AM
+> Last updated: Sunday, December 25, 2022 at 5:44:49 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, December 25, 2022 at 11:10:02 AM
+> Last updated: Sunday, December 25, 2022 at 5:44:52 PM
 
 > Showing 5 of 30 posts.
 
