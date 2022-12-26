@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, December 25, 2022 at 5:44:45 PM
+> Last updated: Sunday, December 25, 2022 at 11:11:54 PM
 
 > Showing 5 of 12 posts.
 
-[![Service workers tutorial](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Service_workers_tutorial.svg)](https://dev.to/uploadcare/service-workers-tutorial-1b7h)
-[![Building the Docker Image: Expert Tips and Tricks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Building_the_Docker_Image__Expert_Tips_and_Tricks.svg)](https://dev.to/ericyi/building-the-docker-image-expert-tips-and-tricks-29d0)
-[![tsParticles 2.7.1 Released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/tsParticles_2.7.1_Released.svg)](https://dev.to/matteobruni/tsparticles-271-released-4iam)
-[![Installing Ansible on AWS EC2 Instance](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Installing_Ansible_on_AWS_EC2_Instance.svg)](https://dev.to/aws-builders/installing-ansible-on-aws-ec2-instance-fj9)
-[![AWS Lambda Extensions with Rust](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/AWS_Lambda_Extensions_with_Rust.svg)](https://dev.to/aws-builders/aws-lambda-extensions-with-rust-3mnl)
+[![How to make a clock Android app in Android Studio?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_make_a_clock_Android_app_in_Android_Studio_.svg)](https://dev.to/dhruvjoshi9/how-to-make-a-clock-android-app-in-android-studio-5724)
+[![Yet Another Newsletter LOL: Too much turkey](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Yet_Another_Newsletter_LOL__Too_much_turkey.svg)](https://dev.to/nickytonline/yet-another-newsletter-lol-too-much-turkey-3450)
+[![How to make a simple iOS app that shows time and date?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_make_a_simple_iOS_app_that_shows_time_and_date_.svg)](https://dev.to/dhruvjoshi9/how-to-make-a-simple-ios-app-that-shows-time-and-date-37jg)
+[![Algorithm for x-mass](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Algorithm_for_x-mass.svg)](https://dev.to/antonov_mike/algorithm-for-x-mass-3kc6)
+[![The Most Important Software Architectural Patterns You Need to Know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Most_Important_Software_Architectural_Patterns_You_Need_to_Know.svg)](https://dev.to/giasuddin90/the-most-important-software-architectural-patterns-you-need-to-know-45ho)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, December 25, 2022 at 5:44:49 PM
+> Last updated: Sunday, December 25, 2022 at 11:11:57 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, December 25, 2022 at 5:44:52 PM
+> Last updated: Sunday, December 25, 2022 at 11:12:00 PM
 
 > Showing 5 of 30 posts.
 
