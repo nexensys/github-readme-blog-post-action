@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, December 26, 2022 at 5:44:05 PM
+> Last updated: Monday, December 26, 2022 at 11:11:39 PM
 
 > Showing 5 of 12 posts.
 
-[![La solución definitiva: (Dependency injection, Dependency inversion, Inversion of control y Hexagonal architecture)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/La_solución_definitiva__(Dependency_injection__Dependency_inversion__Inversion_of_control_y_Hexagonal_architecture).svg)](https://dev.to/dennysjmarquez/la-solucion-definitiva-dependency-injection-dependency-inversion-inversion-of-control-y-hexagonal-architecture-3fol)
-[![GraphQL Oversimplified](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/GraphQL_Oversimplified.svg)](https://dev.to/arafat4693/graphql-oversimplified-1g23)
-[![CLI Client for ReductStore v0.4.0 has been released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/CLI_Client_for_ReductStore_v0.4.0_has_been_released.svg)](https://dev.to/reductstore/cli-client-for-reductstore-v040-has-been-released-1fce)
-[![What is a cookie, and what are they used for?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_a_cookie__and_what_are_they_used_for_.svg)](https://dev.to/ezinne_anne/what-is-a-cookie-and-what-are-they-used-for-49kl)
-[![Monitor Your Cloud Environment with AWS Trusted Advisor ☁️](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Monitor_Your_Cloud_Environment_with_AWS_Trusted_Advisor_☁️.svg)](https://dev.to/aws-builders/monitor-your-cloud-environment-with-aws-trusted-advisor-1oeg)
+[![Pleroma 2.5.0 with Elixir 1.11 on OpenBSD 7.1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Pleroma_2.5.0_with_Elixir_1.11_on_OpenBSD_7.1.svg)](https://dev.to/nabbisen/pleroma-250-with-elixir-111-on-openbsd-71-302k)
+[![Slack Next-gen Platform - Datastores](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Slack_Next-gen_Platform_-_Datastores.svg)](https://dev.to/seratch/slack-next-gen-platform-datastores-3292)
+[![Gender Determination with Morphometry of Eyes using deep learning model.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Gender_Determination_with_Morphometry_of_Eyes_using_deep_learning_model..svg)](https://dev.to/anurag629/gender-determination-with-morphometry-of-eyes-using-deep-learning-model-5f83)
+[![How to intergrate Chatgpt into VSCode IDE](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_intergrate_Chatgpt_into_VSCode_IDE.svg)](https://dev.to/gallau/how-to-intergrate-chatgpt-into-vscode-ide-3km9)
+[![Do Software Testers Need to Learn Coding?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Do_Software_Testers_Need_to_Learn_Coding_.svg)](https://dev.to/promode/do-software-testers-need-to-learn-coding-gp9)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, December 26, 2022 at 5:44:08 PM
+> Last updated: Monday, December 26, 2022 at 11:11:43 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, December 26, 2022 at 5:44:14 PM
+> Last updated: Monday, December 26, 2022 at 11:11:52 PM
 
 > Showing 5 of 30 posts.
 
