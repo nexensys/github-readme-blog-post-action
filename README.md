@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, December 26, 2022 at 11:10:28 AM
+> Last updated: Monday, December 26, 2022 at 5:44:05 PM
 
 > Showing 5 of 12 posts.
 
-[![Building a Radar Chart in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Building_a_Radar_Chart_in_JavaScript.svg)](https://dev.to/andreykh1985/building-a-radar-chart-in-javascript-13pa)
-[![The 3 Short December CSS tips](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_3_Short_December_CSS_tips.svg)](https://dev.to/melnik909/the-3-short-december-css-tips-1m31)
-[![On the first day of Enhancing: Getting Started](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/On_the_first_day_of_Enhancing__Getting_Started.svg)](https://dev.to/begin/on-the-first-day-of-enhancing-getting-started-21hi)
-[![Master Notifications With ChatGPT, React and NodeJS 🧨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Master_Notifications_With_ChatGPT__React_and_NodeJS_🧨.svg)](https://dev.to/novu/master-notifications-with-chatgpt-react-and-nodejs-1ea9)
-[![What is SWR and How Can It Improve Your React Apps?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_SWR_and_How_Can_It_Improve_Your_React_Apps_.svg)](https://dev.to/basskibo/what-is-swr-and-how-can-it-improve-your-react-apps-2016)
+[![La solución definitiva: (Dependency injection, Dependency inversion, Inversion of control y Hexagonal architecture)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/La_solución_definitiva__(Dependency_injection__Dependency_inversion__Inversion_of_control_y_Hexagonal_architecture).svg)](https://dev.to/dennysjmarquez/la-solucion-definitiva-dependency-injection-dependency-inversion-inversion-of-control-y-hexagonal-architecture-3fol)
+[![GraphQL Oversimplified](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/GraphQL_Oversimplified.svg)](https://dev.to/arafat4693/graphql-oversimplified-1g23)
+[![CLI Client for ReductStore v0.4.0 has been released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/CLI_Client_for_ReductStore_v0.4.0_has_been_released.svg)](https://dev.to/reductstore/cli-client-for-reductstore-v040-has-been-released-1fce)
+[![What is a cookie, and what are they used for?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_a_cookie__and_what_are_they_used_for_.svg)](https://dev.to/ezinne_anne/what-is-a-cookie-and-what-are-they-used-for-49kl)
+[![Monitor Your Cloud Environment with AWS Trusted Advisor ☁️](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Monitor_Your_Cloud_Environment_with_AWS_Trusted_Advisor_☁️.svg)](https://dev.to/aws-builders/monitor-your-cloud-environment-with-aws-trusted-advisor-1oeg)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, December 26, 2022 at 11:10:31 AM
+> Last updated: Monday, December 26, 2022 at 5:44:08 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, December 26, 2022 at 11:10:36 AM
+> Last updated: Monday, December 26, 2022 at 5:44:14 PM
 
 > Showing 5 of 30 posts.
 
+[![The Ultimate React Project: 2 YEARS of Building an OS in the Browser!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Ultimate_React_Project__2_YEARS_of_Building_an_OS_in_the_Browser!.svg)](https://www.youtube.com/watch?v=AMnLsUytCRQ)
 [![API with NestJS #88. Testing a project with raw SQL using integration tests](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__88._Testing_a_project_with_raw_SQL_using_integration_tests.svg)](https://wanago.io/2022/12/26/api-nestjs-integration-testing-sql/)
 [![GirlsGoGames for Girls - Cute Dress Up](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GirlsGoGames_for_Girls_-_Cute_Dress_Up.svg)](https://cutedressup.com/games/girlsgogames/)
 [![Custom Software Development Company - 10decoders](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Custom_Software_Development_Company_-_10decoders.svg)](https://10decoders.com/)
 [![GitHub - nursie999/TradingOS: TradingOS量化交易策略](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_nursie999_TradingOS__TradingOS量化交易策略.svg)](https://github.com/nursie999/TradingOS)
-[![GitHub - jorisre/react-screen-wake-lock: 🌓 React implementation of the Screen Wake Lock API. It provides a way to prevent devices from dimming or locking the screen when an application needs to keep running](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_jorisre_react-screen-wake-lock__🌓_React_implementation_of_the_Screen_Wake_Lock_API._It_provides_a_way_to_prevent_devices_from_dimming_or_locking_the_screen_when_an_application_needs_to_keep_running.svg)](https://github.com/jorisre/react-screen-wake-lock)
 
 
 <!-- post-list:end -->
