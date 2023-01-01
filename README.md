@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, January 1, 2023 at 5:14:45 AM
+> Last updated: Sunday, January 1, 2023 at 11:09:53 AM
 
 > Showing 5 of 12 posts.
 
-[![Unraveling the Confusion: A Primer on AI, ML, and DL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Unraveling_the_Confusion__A_Primer_on_AI__ML__and_DL.svg)](https://dev.to/anurag629/unraveling-the-confusion-a-primer-on-ai-ml-and-dl-5eha)
-[![Search & Save to list Button only with HTML CSS with awesome gradients](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Search___Save_to_list_Button_only_with_HTML_CSS_with_awesome_gradients.svg)](https://dev.to/amiruweerathunga/search-save-to-list-button-only-with-html-css-with-awesome-gradients-47ha)
-[![CSS Variables end to end](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/CSS_Variables_end_to_end.svg)](https://dev.to/urstrulyvishwak/css-variables-end-to-end-4dej)
-[![Animation Techniques with anime.js: Timing, Easing, and Keyframes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Animation_Techniques_with_anime.js__Timing__Easing__and_Keyframes.svg)](https://dev.to/mohsenkamrani/animation-techniques-with-animejs-timing-easing-and-keyframes-4986)
-[![Notes on OAuth2.0 #1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Notes_on_OAuth2.0__1.svg)](https://dev.to/otter13/notes-on-oauth20-1-1f2m)
+[![Ditch the div Tag: Use These HTML Tags Instead](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Ditch_the_div_Tag__Use_These_HTML_Tags_Instead.svg)](https://dev.to/arafat4693/ditch-the-div-tag-use-these-tags-instead-2a3c)
+[![💅🏻If you're beautiful, follow this JS Code Style](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/💅🏻If_you're_beautiful__follow_this_JS_Code_Style.svg)](https://dev.to/pulkitsingh/if-youre-beautiful-follow-this-js-code-style-3m99)
+[![Adding Framer motion to your react websites!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Adding_Framer_motion_to_your_react_websites!.svg)](https://dev.to/darkxenium/adding-framer-motion-to-your-react-websites-9ln)
+[![How to stop Feeling overwhelmed when everyone around you are getting better jobs?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_stop_Feeling_overwhelmed_when_everyone_around_you_are_getting_better_jobs_.svg)](https://dev.to/darkxenium/how-to-stop-feeling-overwhelmed-when-everyone-around-you-are-getting-better-jobs-4hle)
+[![A new year - ring in the true](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_new_year_-_ring_in_the_true.svg)](https://dev.to/robole/an-alternative-new-year-ring-in-the-true-1fk3)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, January 1, 2023 at 5:14:48 AM
+> Last updated: Sunday, January 1, 2023 at 11:09:56 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, January 1, 2023 at 5:14:49 AM
+> Last updated: Sunday, January 1, 2023 at 11:09:58 AM
 
 > Showing 5 of 30 posts.
 
