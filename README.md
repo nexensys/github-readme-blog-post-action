@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, December 31, 2022 at 11:10:41 PM
+> Last updated: Sunday, January 1, 2023 at 5:14:45 AM
 
 > Showing 5 of 12 posts.
 
-[![Best Year End 2022 & New Year 2023 Deals OFFERS & Discounts from Top Web Hosting Companies](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Best_Year_End_2022___New_Year_2023_Deals_OFFERS___Discounts_from_Top_Web_Hosting_Companies.svg)](https://dev.to/codeswithrocky/best-year-end-2022-new-year-2023-deals-offers-discounts-from-top-web-hosting-companies-11an)
-[![Happy Coding : 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Happy_Coding___2023.svg)](https://dev.to/jagroop2000/happy-coding-2023-2m6)
-[![Become an Animation Master with Anime.js - Part 1: Setting up the Environment and Basic Animations](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Become_an_Animation_Master_with_Anime.js_-_Part_1__Setting_up_the_Environment_and_Basic_Animations.svg)](https://dev.to/mohsenkamrani/become-an-animation-master-with-animejs-part-1-setting-up-the-environment-and-basic-animations-1pad)
-[![How to set up Jenkins and a Pipeline on AWS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_set_up_Jenkins_and_a_Pipeline_on_AWS.svg)](https://dev.to/aws-builders/how-to-set-up-jenkins-and-a-pipeline-on-aws-2pak)
-[![The 8 best books I read in 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_8_best_books_I_read_in_2022.svg)](https://dev.to/sandordargo/the-8-best-books-i-read-in-2022-52i4)
+[![Unraveling the Confusion: A Primer on AI, ML, and DL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Unraveling_the_Confusion__A_Primer_on_AI__ML__and_DL.svg)](https://dev.to/anurag629/unraveling-the-confusion-a-primer-on-ai-ml-and-dl-5eha)
+[![Search & Save to list Button only with HTML CSS with awesome gradients](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Search___Save_to_list_Button_only_with_HTML_CSS_with_awesome_gradients.svg)](https://dev.to/amiruweerathunga/search-save-to-list-button-only-with-html-css-with-awesome-gradients-47ha)
+[![CSS Variables end to end](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/CSS_Variables_end_to_end.svg)](https://dev.to/urstrulyvishwak/css-variables-end-to-end-4dej)
+[![Animation Techniques with anime.js: Timing, Easing, and Keyframes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Animation_Techniques_with_anime.js__Timing__Easing__and_Keyframes.svg)](https://dev.to/mohsenkamrani/animation-techniques-with-animejs-timing-easing-and-keyframes-4986)
+[![Notes on OAuth2.0 #1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Notes_on_OAuth2.0__1.svg)](https://dev.to/otter13/notes-on-oauth20-1-1f2m)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, December 31, 2022 at 11:10:44 PM
+> Last updated: Sunday, January 1, 2023 at 5:14:48 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, December 31, 2022 at 11:10:46 PM
+> Last updated: Sunday, January 1, 2023 at 5:14:49 AM
 
 > Showing 5 of 30 posts.
 
