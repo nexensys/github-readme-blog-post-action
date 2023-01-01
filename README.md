@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, December 26, 2022 at 11:11:39 PM
+> Last updated: Saturday, December 31, 2022 at 5:53:03 PM
 
 > Showing 5 of 12 posts.
 
-[![Pleroma 2.5.0 with Elixir 1.11 on OpenBSD 7.1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Pleroma_2.5.0_with_Elixir_1.11_on_OpenBSD_7.1.svg)](https://dev.to/nabbisen/pleroma-250-with-elixir-111-on-openbsd-71-302k)
-[![Slack Next-gen Platform - Datastores](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Slack_Next-gen_Platform_-_Datastores.svg)](https://dev.to/seratch/slack-next-gen-platform-datastores-3292)
-[![Gender Determination with Morphometry of Eyes using deep learning model.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Gender_Determination_with_Morphometry_of_Eyes_using_deep_learning_model..svg)](https://dev.to/anurag629/gender-determination-with-morphometry-of-eyes-using-deep-learning-model-5f83)
-[![How to intergrate Chatgpt into VSCode IDE](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_intergrate_Chatgpt_into_VSCode_IDE.svg)](https://dev.to/gallau/how-to-intergrate-chatgpt-into-vscode-ide-3km9)
-[![Do Software Testers Need to Learn Coding?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Do_Software_Testers_Need_to_Learn_Coding_.svg)](https://dev.to/promode/do-software-testers-need-to-learn-coding-gp9)
+[![The 8 best books I read in 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_8_best_books_I_read_in_2022.svg)](https://dev.to/sandordargo/the-8-best-books-i-read-in-2022-52i4)
+[![Looking back at the past year (and a half) of accessibility work.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Looking_back_at_the_past_year_(and_a_half)_of_accessibility_work..svg)](https://dev.to/fossheim/looking-back-at-the-past-year-and-a-half-of-accessibility-work-3jca)
+[![Plan for 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Plan_for_2023.svg)](https://dev.to/reaction/plan-for-2023-k2)
+[![Everyone NEEDS to use this API!!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Everyone_NEEDS_to_use_this_API!!.svg)](https://dev.to/scupdev/the-api-is-done-3ni3)
+[![Deploy your django Project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Deploy_your_django_Project.svg)](https://dev.to/fayomihorace/deploy-your-django-project-11o3)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, December 26, 2022 at 11:11:43 PM
+> Last updated: Saturday, December 31, 2022 at 5:53:05 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, December 26, 2022 at 11:11:52 PM
+> Last updated: Saturday, December 31, 2022 at 5:53:09 PM
 
 > Showing 5 of 30 posts.
 
-[![The Ultimate React Project: 2 YEARS of Building an OS in the Browser!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Ultimate_React_Project__2_YEARS_of_Building_an_OS_in_the_Browser!.svg)](https://www.youtube.com/watch?v=AMnLsUytCRQ)
-[![API with NestJS #88. Testing a project with raw SQL using integration tests](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__88._Testing_a_project_with_raw_SQL_using_integration_tests.svg)](https://wanago.io/2022/12/26/api-nestjs-integration-testing-sql/)
-[![GirlsGoGames for Girls - Cute Dress Up](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GirlsGoGames_for_Girls_-_Cute_Dress_Up.svg)](https://cutedressup.com/games/girlsgogames/)
-[![Custom Software Development Company - 10decoders](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Custom_Software_Development_Company_-_10decoders.svg)](https://10decoders.com/)
-[![GitHub - nursie999/TradingOS: TradingOS量化交易策略](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_nursie999_TradingOS__TradingOS量化交易策略.svg)](https://github.com/nursie999/TradingOS)
+[![Adding JPEG XL & QOI Support to my Website OS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Adding_JPEG_XL___QOI_Support_to_my_Website_OS.svg)](https://dev.to/dustinbrett/adding-jpeg-xl-qoi-support-to-my-website-os-3oni)
+[![Identity Crisis: How Modern Applications Generate Unique Ids](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Identity_Crisis__How_Modern_Applications_Generate_Unique_Ids.svg)](https://medium.com/javascript-scene/identity-crisis-how-modern-applications-generate-unique-ids-39562736f557)
+[![Mutative - 10x faster than Immer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Mutative_-_10x_faster_than_Immer.svg)](https://dev.to/unadlib/mutative-10x-faster-than-immer-2060)
+[![GitHub - jorisre/react-telephone: ☎️ Tiniest react phone input component (auto formating included)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_jorisre_react-telephone__☎️_Tiniest_react_phone_input_component_(auto_formating_included).svg)](https://github.com/jorisre/react-telephone)
+[![Code your Remix website faster with Stylify CSS | Stylify CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Code_your_Remix_website_faster_with_Stylify_CSS___Stylify_CSS.svg)](https://stylifycss.com/blog/code-your-remix-website-faster-with-stylify-css)
 
 
 <!-- post-list:end -->
