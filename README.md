@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, December 31, 2022 at 5:53:03 PM
+> Last updated: Saturday, December 31, 2022 at 11:10:41 PM
 
 > Showing 5 of 12 posts.
 
+[![Best Year End 2022 & New Year 2023 Deals OFFERS & Discounts from Top Web Hosting Companies](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Best_Year_End_2022___New_Year_2023_Deals_OFFERS___Discounts_from_Top_Web_Hosting_Companies.svg)](https://dev.to/codeswithrocky/best-year-end-2022-new-year-2023-deals-offers-discounts-from-top-web-hosting-companies-11an)
+[![Happy Coding : 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Happy_Coding___2023.svg)](https://dev.to/jagroop2000/happy-coding-2023-2m6)
+[![Become an Animation Master with Anime.js - Part 1: Setting up the Environment and Basic Animations](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Become_an_Animation_Master_with_Anime.js_-_Part_1__Setting_up_the_Environment_and_Basic_Animations.svg)](https://dev.to/mohsenkamrani/become-an-animation-master-with-animejs-part-1-setting-up-the-environment-and-basic-animations-1pad)
+[![How to set up Jenkins and a Pipeline on AWS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_set_up_Jenkins_and_a_Pipeline_on_AWS.svg)](https://dev.to/aws-builders/how-to-set-up-jenkins-and-a-pipeline-on-aws-2pak)
 [![The 8 best books I read in 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_8_best_books_I_read_in_2022.svg)](https://dev.to/sandordargo/the-8-best-books-i-read-in-2022-52i4)
-[![Looking back at the past year (and a half) of accessibility work.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Looking_back_at_the_past_year_(and_a_half)_of_accessibility_work..svg)](https://dev.to/fossheim/looking-back-at-the-past-year-and-a-half-of-accessibility-work-3jca)
-[![Plan for 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Plan_for_2023.svg)](https://dev.to/reaction/plan-for-2023-k2)
-[![Everyone NEEDS to use this API!!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Everyone_NEEDS_to_use_this_API!!.svg)](https://dev.to/scupdev/the-api-is-done-3ni3)
-[![Deploy your django Project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Deploy_your_django_Project.svg)](https://dev.to/fayomihorace/deploy-your-django-project-11o3)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, December 31, 2022 at 5:53:05 PM
+> Last updated: Saturday, December 31, 2022 at 11:10:44 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, December 31, 2022 at 5:53:09 PM
+> Last updated: Saturday, December 31, 2022 at 11:10:46 PM
 
 > Showing 5 of 30 posts.
 
