@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, January 2, 2023 at 5:15:57 AM
+> Last updated: Monday, January 2, 2023 at 11:10:41 AM
 
 > Showing 5 of 12 posts.
 
-[![Overcoming Procrastination: The Key to Success for Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Overcoming_Procrastination__The_Key_to_Success_for_Developers.svg)](https://dev.to/evansifyke/overcoming-procrastination-the-key-to-success-for-developers-5fge)
-[![Help, my Angular bundle is growing!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Help__my_Angular_bundle_is_growing!.svg)](https://dev.to/this-is-angular/help-my-angular-bundle-is-growing-1jkj)
-[![AnimationRenderer: listening and playing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/AnimationRenderer__listening_and_playing.svg)](https://dev.to/this-is-angular/animationrenderer-listening-and-playing-4i3a)
-[![C Vs C++](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/C_Vs_C++.svg)](https://dev.to/jagroop2000/c-vs-c-42cn)
-[![JS Functional Concepts: Pipe and Compose](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/JS_Functional_Concepts__Pipe_and_Compose.svg)](https://dev.to/joelbonetr/js-functional-concepts-pipe-and-compose-1mho)
+[![Prioritizing Technical Debt as If Time & Money Matters - Adam Tornhill](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Prioritizing_Technical_Debt_as_If_Time___Money_Matters_-_Adam_Tornhill.svg)](https://dev.to/szabgab/prioritizing-technical-debt-as-if-time-money-matters-adam-tornhill-5b5o)
+[![17 Compelling Reasons To Start Ditching TypeScript Now.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/17_Compelling_Reasons_To_Start_Ditching_TypeScript_Now..svg)](https://dev.to/wiseai/17-compelling-reasons-to-start-ditching-typescript-now-249b)
+[![Time To Rethink Cattle vs. Pets (serverless)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Time_To_Rethink_Cattle_vs._Pets_(serverless).svg)](https://dev.to/aws-heroes/time-to-rethink-cattle-vs-pets-serverless-5c0j)
+[![What are your objectives for 2023?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_are_your_objectives_for_2023_.svg)](https://dev.to/mxglt/what-are-your-objectives-for-2023-a20)
+[![Meme Monday 👑](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Meme_Monday_👑.svg)](https://dev.to/ben/meme-monday-pg3)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, January 2, 2023 at 5:16:00 AM
+> Last updated: Monday, January 2, 2023 at 11:10:44 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,11 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, January 2, 2023 at 5:16:06 AM
+> Last updated: Monday, January 2, 2023 at 11:10:48 AM
 
 > Showing 5 of 30 posts.
 
-[![Blockchain App Development | Technology Solution & Service Provider](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Blockchain_App_Development___Technology_Solution___Service_Provider.svg)](https://blockchainappmaker.com/)
+[![Titanium SDK 12.0.0.GA released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Titanium_SDK_12.0.0.GA_released.svg)](https://tidev.io/)
 [![Adding JPEG XL & QOI Support to my Website OS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Adding_JPEG_XL___QOI_Support_to_my_Website_OS.svg)](https://dev.to/dustinbrett/adding-jpeg-xl-qoi-support-to-my-website-os-3oni)
 [![Identity Crisis: How Modern Applications Generate Unique Ids](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Identity_Crisis__How_Modern_Applications_Generate_Unique_Ids.svg)](https://medium.com/javascript-scene/identity-crisis-how-modern-applications-generate-unique-ids-39562736f557)
 [![Mutative - 10x faster than Immer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Mutative_-_10x_faster_than_Immer.svg)](https://dev.to/unadlib/mutative-10x-faster-than-immer-2060)
