@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, January 1, 2023 at 11:11:31 PM
+> Last updated: Monday, January 2, 2023 at 5:15:57 AM
 
 > Showing 5 of 12 posts.
 
-[![Microservices vs Monolithic Architecture: A Practical Approach](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Microservices_vs_Monolithic_Architecture__A_Practical_Approach.svg)](https://dev.to/lovepreetsingh/microservices-vs-monolithic-architecture-a-practical-approach-4m06)
-[![Exploring the Intersection of AI and AR/VR Technology](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Exploring_the_Intersection_of_AI_and_AR_VR_Technology.svg)](https://dev.to/anurag629/exploring-the-intersection-of-ai-and-arvr-technology-509j)
-[![How to make money as a software engineer?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_make_money_as_a_software_engineer_.svg)](https://dev.to/bimashazaman/how-to-make-money-as-a-software-engineer-4h84)
-[![Higher-Order Functions — JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Higher-Order_Functions_—_JavaScript.svg)](https://dev.to/fantom/higher-order-functions-javascript-5919)
-[![Top 7 Colour Schemes that Will Make Your Website Stand Out in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_7_Colour_Schemes_that_Will_Make_Your_Website_Stand_Out_in_2023.svg)](https://dev.to/mohsenkamrani/top-7-colour-schemes-that-will-make-your-website-stand-out-in-2023-4038)
+[![Overcoming Procrastination: The Key to Success for Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Overcoming_Procrastination__The_Key_to_Success_for_Developers.svg)](https://dev.to/evansifyke/overcoming-procrastination-the-key-to-success-for-developers-5fge)
+[![Help, my Angular bundle is growing!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Help__my_Angular_bundle_is_growing!.svg)](https://dev.to/this-is-angular/help-my-angular-bundle-is-growing-1jkj)
+[![AnimationRenderer: listening and playing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/AnimationRenderer__listening_and_playing.svg)](https://dev.to/this-is-angular/animationrenderer-listening-and-playing-4i3a)
+[![C Vs C++](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/C_Vs_C++.svg)](https://dev.to/jagroop2000/c-vs-c-42cn)
+[![JS Functional Concepts: Pipe and Compose](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/JS_Functional_Concepts__Pipe_and_Compose.svg)](https://dev.to/joelbonetr/js-functional-concepts-pipe-and-compose-1mho)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, January 1, 2023 at 11:11:35 PM
+> Last updated: Monday, January 2, 2023 at 5:16:00 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, January 1, 2023 at 11:11:38 PM
+> Last updated: Monday, January 2, 2023 at 5:16:06 AM
 
 > Showing 5 of 30 posts.
 
+[![Blockchain App Development | Technology Solution & Service Provider](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Blockchain_App_Development___Technology_Solution___Service_Provider.svg)](https://blockchainappmaker.com/)
 [![Adding JPEG XL & QOI Support to my Website OS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Adding_JPEG_XL___QOI_Support_to_my_Website_OS.svg)](https://dev.to/dustinbrett/adding-jpeg-xl-qoi-support-to-my-website-os-3oni)
 [![Identity Crisis: How Modern Applications Generate Unique Ids](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Identity_Crisis__How_Modern_Applications_Generate_Unique_Ids.svg)](https://medium.com/javascript-scene/identity-crisis-how-modern-applications-generate-unique-ids-39562736f557)
 [![Mutative - 10x faster than Immer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Mutative_-_10x_faster_than_Immer.svg)](https://dev.to/unadlib/mutative-10x-faster-than-immer-2060)
 [![GitHub - jorisre/react-telephone: ☎️ Tiniest react phone input component (auto formating included)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_jorisre_react-telephone__☎️_Tiniest_react_phone_input_component_(auto_formating_included).svg)](https://github.com/jorisre/react-telephone)
-[![Code your Remix website faster with Stylify CSS | Stylify CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Code_your_Remix_website_faster_with_Stylify_CSS___Stylify_CSS.svg)](https://stylifycss.com/blog/code-your-remix-website-faster-with-stylify-css)
 
 
 <!-- post-list:end -->
