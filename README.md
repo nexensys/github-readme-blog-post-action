@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, January 1, 2023 at 11:09:53 AM
+> Last updated: Sunday, January 1, 2023 at 5:44:58 PM
 
 > Showing 5 of 12 posts.
 
-[![Ditch the div Tag: Use These HTML Tags Instead](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Ditch_the_div_Tag__Use_These_HTML_Tags_Instead.svg)](https://dev.to/arafat4693/ditch-the-div-tag-use-these-tags-instead-2a3c)
-[![💅🏻If you're beautiful, follow this JS Code Style](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/💅🏻If_you're_beautiful__follow_this_JS_Code_Style.svg)](https://dev.to/pulkitsingh/if-youre-beautiful-follow-this-js-code-style-3m99)
-[![Adding Framer motion to your react websites!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Adding_Framer_motion_to_your_react_websites!.svg)](https://dev.to/darkxenium/adding-framer-motion-to-your-react-websites-9ln)
-[![How to stop Feeling overwhelmed when everyone around you are getting better jobs?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_stop_Feeling_overwhelmed_when_everyone_around_you_are_getting_better_jobs_.svg)](https://dev.to/darkxenium/how-to-stop-feeling-overwhelmed-when-everyone-around-you-are-getting-better-jobs-4hle)
-[![A new year - ring in the true](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_new_year_-_ring_in_the_true.svg)](https://dev.to/robole/an-alternative-new-year-ring-in-the-true-1fk3)
+[![Top 7 Colour Schemes that Will Make Your Website Stand Out in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_7_Colour_Schemes_that_Will_Make_Your_Website_Stand_Out_in_2023.svg)](https://dev.to/mohsenkamrani/top-7-colour-schemes-that-will-make-your-website-stand-out-in-2023-4038)
+[![Can I remove the "DEBUG" banner in Flutter?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Can_I_remove_the__DEBUG__banner_in_Flutter_.svg)](https://dev.to/petrussola/can-i-remove-the-debug-banner-in-flutter-907)
+[![Adding Pinia to Nuxt 3 🍍 (2023)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Adding_Pinia_to_Nuxt_3_🍍_(2023).svg)](https://dev.to/tao/adding-pinia-to-nuxt-3-2023-3l77)
+[![⚛Os 10 React Hooks Mais Úteis: 06 - useCallback⚛](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/⚛Os_10_React_Hooks_Mais_Úteis__06_-_useCallback⚛.svg)](https://dev.to/mpetry/os-10-react-hooks-mais-uteis-06-usecallback-4di)
+[![AWS ageMaker and Amazon stack](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/AWS_ageMaker_and_Amazon_stack.svg)](https://dev.to/aws-builders/sagemaker-and-amazon-stack-2jaa)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, January 1, 2023 at 11:09:56 AM
+> Last updated: Sunday, January 1, 2023 at 5:45:01 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, January 1, 2023 at 11:09:58 AM
+> Last updated: Sunday, January 1, 2023 at 5:45:05 PM
 
 > Showing 5 of 30 posts.
 
