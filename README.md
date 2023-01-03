@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, January 2, 2023 at 5:45:54 PM
+> Last updated: Monday, January 2, 2023 at 11:10:00 PM
 
 > Showing 5 of 12 posts.
 
+[![OpenBSD Disk Encryption: Change passphrase](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/OpenBSD_Disk_Encryption__Change_passphrase.svg)](https://dev.to/nabbisen/openbsd-disk-encryption-change-passphrase-4i8l)
+[![What is Your Dream Programming Language Like?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_Your_Dream_Programming_Language_Like_.svg)](https://dev.to/satinwuker/what-is-your-dream-programming-language-like-7cm)
+[![I Let A.I. Do DevOps - This Is What Happened (feat ChatGPT and DALL-E)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/I_Let_A.I._Do_DevOps_-_This_Is_What_Happened_(feat_ChatGPT_and_DALL-E).svg)](https://dev.to/n3wt0n/i-let-ai-do-devops-this-is-what-happened-feat-chatgpt-and-dall-e-47mj)
 [![UI elements examples with Tailwind CSS 🖼️](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/UI_elements_examples_with_Tailwind_CSS_🖼️.svg)](https://dev.to/rgolawski/ui-elements-examples-with-tailwind-css-2do8)
 [![Supercharge your StepFunctions productivity with local file system sync in Workflow Studio](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Supercharge_your_StepFunctions_productivity_with_local_file_system_sync_in_Workflow_Studio.svg)](https://dev.to/aws-builders/supercharge-your-stepfunctions-productivity-with-local-file-system-sync-in-workflow-studio-4ab9)
-[![Cheaply running ruby on rails apps (for side projects)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Cheaply_running_ruby_on_rails_apps_(for_side_projects).svg)](https://dev.to/alexspark/cheaply-running-ruby-on-rails-apps-for-side-projects-4na6)
-[![Monthly Challenge #3: Morse Code 🆘](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Monthly_Challenge__3__Morse_Code_🆘.svg)](https://dev.to/codedex/monthly-challenge-3-morse-code-4d97)
-[![Angular Internals: How Reactivity Works with Zone.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Angular_Internals__How_Reactivity_Works_with_Zone.js.svg)](https://dev.to/this-is-angular/angular-internals-how-reactivity-works-with-zonejs-302m)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, January 2, 2023 at 5:45:57 PM
+> Last updated: Monday, January 2, 2023 at 11:10:04 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, January 2, 2023 at 5:46:03 PM
+> Last updated: Monday, January 2, 2023 at 11:10:12 PM
 
 > Showing 5 of 30 posts.
 
