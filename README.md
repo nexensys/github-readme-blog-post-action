@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, January 2, 2023 at 11:10:41 AM
+> Last updated: Monday, January 2, 2023 at 5:45:54 PM
 
 > Showing 5 of 12 posts.
 
-[![Prioritizing Technical Debt as If Time & Money Matters - Adam Tornhill](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Prioritizing_Technical_Debt_as_If_Time___Money_Matters_-_Adam_Tornhill.svg)](https://dev.to/szabgab/prioritizing-technical-debt-as-if-time-money-matters-adam-tornhill-5b5o)
-[![17 Compelling Reasons To Start Ditching TypeScript Now.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/17_Compelling_Reasons_To_Start_Ditching_TypeScript_Now..svg)](https://dev.to/wiseai/17-compelling-reasons-to-start-ditching-typescript-now-249b)
-[![Time To Rethink Cattle vs. Pets (serverless)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Time_To_Rethink_Cattle_vs._Pets_(serverless).svg)](https://dev.to/aws-heroes/time-to-rethink-cattle-vs-pets-serverless-5c0j)
-[![What are your objectives for 2023?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_are_your_objectives_for_2023_.svg)](https://dev.to/mxglt/what-are-your-objectives-for-2023-a20)
-[![Meme Monday 👑](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Meme_Monday_👑.svg)](https://dev.to/ben/meme-monday-pg3)
+[![UI elements examples with Tailwind CSS 🖼️](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/UI_elements_examples_with_Tailwind_CSS_🖼️.svg)](https://dev.to/rgolawski/ui-elements-examples-with-tailwind-css-2do8)
+[![Supercharge your StepFunctions productivity with local file system sync in Workflow Studio](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Supercharge_your_StepFunctions_productivity_with_local_file_system_sync_in_Workflow_Studio.svg)](https://dev.to/aws-builders/supercharge-your-stepfunctions-productivity-with-local-file-system-sync-in-workflow-studio-4ab9)
+[![Cheaply running ruby on rails apps (for side projects)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Cheaply_running_ruby_on_rails_apps_(for_side_projects).svg)](https://dev.to/alexspark/cheaply-running-ruby-on-rails-apps-for-side-projects-4na6)
+[![Monthly Challenge #3: Morse Code 🆘](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Monthly_Challenge__3__Morse_Code_🆘.svg)](https://dev.to/codedex/monthly-challenge-3-morse-code-4d97)
+[![Angular Internals: How Reactivity Works with Zone.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Angular_Internals__How_Reactivity_Works_with_Zone.js.svg)](https://dev.to/this-is-angular/angular-internals-how-reactivity-works-with-zonejs-302m)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, January 2, 2023 at 11:10:44 AM
+> Last updated: Monday, January 2, 2023 at 5:45:57 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, January 2, 2023 at 11:10:48 AM
+> Last updated: Monday, January 2, 2023 at 5:46:03 PM
 
 > Showing 5 of 30 posts.
 
+[![API with NestJS #89. Replacing Express with Fastify](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__89._Replacing_Express_with_Fastify.svg)](https://wanago.io/2023/01/02/api-nestjs-fastify/)
 [![Titanium SDK 12.0.0.GA released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Titanium_SDK_12.0.0.GA_released.svg)](https://tidev.io/)
 [![Adding JPEG XL & QOI Support to my Website OS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Adding_JPEG_XL___QOI_Support_to_my_Website_OS.svg)](https://dev.to/dustinbrett/adding-jpeg-xl-qoi-support-to-my-website-os-3oni)
 [![Identity Crisis: How Modern Applications Generate Unique Ids](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Identity_Crisis__How_Modern_Applications_Generate_Unique_Ids.svg)](https://medium.com/javascript-scene/identity-crisis-how-modern-applications-generate-unique-ids-39562736f557)
 [![Mutative - 10x faster than Immer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Mutative_-_10x_faster_than_Immer.svg)](https://dev.to/unadlib/mutative-10x-faster-than-immer-2060)
-[![GitHub - jorisre/react-telephone: ☎️ Tiniest react phone input component (auto formating included)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_jorisre_react-telephone__☎️_Tiniest_react_phone_input_component_(auto_formating_included).svg)](https://github.com/jorisre/react-telephone)
 
 
 <!-- post-list:end -->
