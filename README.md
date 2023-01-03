@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, January 2, 2023 at 11:10:00 PM
+> Last updated: Tuesday, January 3, 2023 at 5:16:29 AM
 
 > Showing 5 of 12 posts.
 
-[![OpenBSD Disk Encryption: Change passphrase](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/OpenBSD_Disk_Encryption__Change_passphrase.svg)](https://dev.to/nabbisen/openbsd-disk-encryption-change-passphrase-4i8l)
-[![What is Your Dream Programming Language Like?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_Your_Dream_Programming_Language_Like_.svg)](https://dev.to/satinwuker/what-is-your-dream-programming-language-like-7cm)
-[![I Let A.I. Do DevOps - This Is What Happened (feat ChatGPT and DALL-E)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/I_Let_A.I._Do_DevOps_-_This_Is_What_Happened_(feat_ChatGPT_and_DALL-E).svg)](https://dev.to/n3wt0n/i-let-ai-do-devops-this-is-what-happened-feat-chatgpt-and-dall-e-47mj)
-[![UI elements examples with Tailwind CSS 🖼️](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/UI_elements_examples_with_Tailwind_CSS_🖼️.svg)](https://dev.to/rgolawski/ui-elements-examples-with-tailwind-css-2do8)
-[![Supercharge your StepFunctions productivity with local file system sync in Workflow Studio](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Supercharge_your_StepFunctions_productivity_with_local_file_system_sync_in_Workflow_Studio.svg)](https://dev.to/aws-builders/supercharge-your-stepfunctions-productivity-with-local-file-system-sync-in-workflow-studio-4ab9)
+[![6 ways we improved our documentation in 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/6_ways_we_improved_our_documentation_in_2022.svg)](https://dev.to/medusajs/6-ways-we-improved-our-documentation-in-2022-1hnp)
+[![The Power of List Comprehensions in Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Power_of_List_Comprehensions_in_Python.svg)](https://dev.to/anurag629/the-power-of-list-comprehensions-in-python-31l7)
+[![AWS re:Invent 2022 Recap | Data & Analytics services](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/AWS_re_Invent_2022_Recap___Data___Analytics_services.svg)](https://dev.to/aws-builders/aws-reinvent-2022-recap-data-analytics-services-51em)
+[![Dev Retro 2022: What made me a better developer?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Dev_Retro_2022__What_made_me_a_better_developer_.svg)](https://dev.to/atapas/dev-retro-2022-what-made-me-a-better-developer-4kd)
+[![How to speak at conferences when you’re scared of public speaking](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_speak_at_conferences_when_you’re_scared_of_public_speaking.svg)](https://dev.to/blackgirlbytes/how-to-speak-at-a-conference-when-youre-scared-of-public-speaking-562f)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, January 2, 2023 at 11:10:04 PM
+> Last updated: Tuesday, January 3, 2023 at 5:16:32 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, January 2, 2023 at 11:10:12 PM
+> Last updated: Tuesday, January 3, 2023 at 5:16:39 AM
 
 > Showing 5 of 30 posts.
 
+[![Late music icon Zex Manatsa's widow, Stella, dies  - NewZimbabwe.com](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Late_music_icon_Zex_Manatsa's_widow__Stella__dies__-_NewZimbabwe.com.svg)](https://www.newzimbabwe.com/latest-late-music-icon-zex-manatsas-widow-stella-dies/)
 [![API with NestJS #89. Replacing Express with Fastify](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__89._Replacing_Express_with_Fastify.svg)](https://wanago.io/2023/01/02/api-nestjs-fastify/)
 [![Titanium SDK 12.0.0.GA released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Titanium_SDK_12.0.0.GA_released.svg)](https://tidev.io/)
 [![Adding JPEG XL & QOI Support to my Website OS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Adding_JPEG_XL___QOI_Support_to_my_Website_OS.svg)](https://dev.to/dustinbrett/adding-jpeg-xl-qoi-support-to-my-website-os-3oni)
 [![Identity Crisis: How Modern Applications Generate Unique Ids](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Identity_Crisis__How_Modern_Applications_Generate_Unique_Ids.svg)](https://medium.com/javascript-scene/identity-crisis-how-modern-applications-generate-unique-ids-39562736f557)
-[![Mutative - 10x faster than Immer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Mutative_-_10x_faster_than_Immer.svg)](https://dev.to/unadlib/mutative-10x-faster-than-immer-2060)
 
 
 <!-- post-list:end -->
