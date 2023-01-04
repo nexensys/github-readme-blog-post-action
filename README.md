@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, January 3, 2023 at 11:10:46 AM
+> Last updated: Tuesday, January 3, 2023 at 5:45:47 PM
 
 > Showing 5 of 12 posts.
 
-[![Debugging Streams and Collections](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Debugging_Streams_and_Collections.svg)](https://dev.to/codenameone/debugging-streams-and-collections-1ac4)
-[![Why Cybersecurity is Crucial in the Modern Workplace? (But is not much talked about)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Why_Cybersecurity_is_Crucial_in_the_Modern_Workplace__(But_is_not_much_talked_about).svg)](https://dev.to/acidop/why-cybersecurity-is-crucial-in-the-modern-workplace-but-is-not-much-talked-about-16kn)
-[![Drastically decrease the size of your Docker application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Drastically_decrease_the_size_of_your_Docker_application.svg)](https://dev.to/meetkern/drastically-decrease-the-size-of-you-docker-application-jfa)
-[![JavaScript Array Methods: A Comprehensive Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/JavaScript_Array_Methods__A_Comprehensive_Guide.svg)](https://dev.to/93lucasp/javascript-array-methods-a-comprehensive-guide-1fbb)
-[![Creating Interactive Charts with D3.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Creating_Interactive_Charts_with_D3.js.svg)](https://dev.to/ayka_code/creating-interactive-charts-with-d3js-152o)
+[![Review: Mastering Laravel Validation Rules](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Review__Mastering_Laravel_Validation_Rules.svg)](https://dev.to/ashallendesign/review-mastering-laravel-validation-rules-2np6)
+[![Top 7 Featured DEV Posts from the Past Week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_7_Featured_DEV_Posts_from_the_Past_Week.svg)](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-5epe)
+[![What is the difference between SSR, ISR, SSS 👀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_the_difference_between_SSR__ISR__SSS_👀.svg)](https://dev.to/artem/what-is-the-difference-between-ssr-isr-sss-5d05)
+[![Modernization with Module Federation, Nx and React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Modernization_with_Module_Federation__Nx_and_React.svg)](https://dev.to/zchapple/modernization-with-module-federation-nx-and-react-4kj5)
+[![Learn JavaScript while Playing Games - Gamify Your Learning](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Learn_JavaScript_while_Playing_Games_-_Gamify_Your_Learning.svg)](https://dev.to/paulknulst/learn-javascript-while-playing-games-gamify-your-learning-3c5h)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, January 3, 2023 at 11:10:48 AM
+> Last updated: Tuesday, January 3, 2023 at 5:45:51 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, January 3, 2023 at 11:10:53 AM
+> Last updated: Tuesday, January 3, 2023 at 5:45:57 PM
 
 > Showing 5 of 30 posts.
 
