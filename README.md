@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, January 4, 2023 at 5:16:44 AM
+> Last updated: Wednesday, January 4, 2023 at 11:11:18 AM
 
 > Showing 5 of 12 posts.
 
-[![Building a Video Player in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Building_a_Video_Player_in_React.svg)](https://dev.to/documatic/building-a-video-player-in-react-1mlf)
-[![Regression Modeling 101: Understanding Different Types of Models and How to Choose the Right One](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Regression_Modeling_101__Understanding_Different_Types_of_Models_and_How_to_Choose_the_Right_One.svg)](https://dev.to/anurag629/a-comprehensive-guide-to-regression-modeling-types-techniques-and-applications-7nb)
-[![Learning from Real Projects: AWS Beyond the Certifications (1/10)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Learning_from_Real_Projects__AWS_Beyond_the_Certifications_(1_10).svg)](https://dev.to/aws-builders/learning-from-real-projects-aws-beyond-the-certifications-110-41g7)
-[![How to Fetch Data in React with useSWR](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Fetch_Data_in_React_with_useSWR.svg)](https://dev.to/refine/how-to-fetch-data-in-react-with-useswr-3dbe)
-[![Why Django in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Why_Django_in_2023.svg)](https://dev.to/jagroop2000/why-django-in-2023-2knk)
+[![This is how to deploy a machine learning model with Anvil](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/This_is_how_to_deploy_a_machine_learning_model_with_Anvil.svg)](https://dev.to/anvil/this-is-how-to-deploy-a-machine-learning-model-with-anvil-47c8)
+[![How to use ChatGPT in Visual Studio Code.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_use_ChatGPT_in_Visual_Studio_Code..svg)](https://dev.to/0xfedev/how-to-use-chatgpt-directly-in-visual-studio-code-h0p)
+[![Web scraping Google Lens Results with Nodejs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Web_scraping_Google_Lens_Results_with_Nodejs.svg)](https://dev.to/serpapi/web-scraping-google-lens-results-with-nodejs-4fhp)
+[![CodeNewbie Podcast Season Finale (S22E9): Coding Bootcamps and Coding Journeys with Mark Thompson](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/CodeNewbie_Podcast_Season_Finale_(S22E9)__Coding_Bootcamps_and_Coding_Journeys_with_Mark_Thompson.svg)](https://dev.to/codenewbieteam/codenewbie-podcast-season-finale-s22e9-coding-bootcamps-and-coding-journeys-with-mark-thompson-58jn)
+[![Verifying requests from Slack - The CORRECT method for Node.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Verifying_requests_from_Slack_-_The_CORRECT_method_for_Node.js.svg)](https://dev.to/soumyadey/verifying-requests-from-slack-the-correct-method-for-nodejs-417i)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, January 4, 2023 at 5:16:47 AM
+> Last updated: Wednesday, January 4, 2023 at 11:11:22 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, January 4, 2023 at 5:16:54 AM
+> Last updated: Wednesday, January 4, 2023 at 11:11:31 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - 4rokis/monorepo-example](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_4rokis_monorepo-example.svg)](https://github.com/4rokis/monorepo-example)
 [![Lodash's cloneDeep() Function](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Lodash's_cloneDeep()_Function.svg)](
 https://masteringjs.io/tutorials/lodash/clone-deep
 )
 [![Late music icon Zex Manatsa's widow, Stella, dies  - NewZimbabwe.com](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Late_music_icon_Zex_Manatsa's_widow__Stella__dies__-_NewZimbabwe.com.svg)](https://www.newzimbabwe.com/latest-late-music-icon-zex-manatsas-widow-stella-dies/)
 [![API with NestJS #89. Replacing Express with Fastify](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__89._Replacing_Express_with_Fastify.svg)](https://wanago.io/2023/01/02/api-nestjs-fastify/)
 [![Titanium SDK 12.0.0.GA released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Titanium_SDK_12.0.0.GA_released.svg)](https://tidev.io/)
-[![Adding JPEG XL & QOI Support to my Website OS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Adding_JPEG_XL___QOI_Support_to_my_Website_OS.svg)](https://dev.to/dustinbrett/adding-jpeg-xl-qoi-support-to-my-website-os-3oni)
 
 
 <!-- post-list:end -->
