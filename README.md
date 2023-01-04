@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, January 3, 2023 at 11:11:43 PM
+> Last updated: Wednesday, January 4, 2023 at 5:16:44 AM
 
 > Showing 5 of 12 posts.
 
-[![Use which: Interface or Type Alias in Typescript?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Use_which__Interface_or_Type_Alias_in_Typescript_.svg)](https://dev.to/magentaqin/use-which-interface-or-type-alias-in-typescript-3cj4)
-[![Database 101: Data Consistency for Beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Database_101__Data_Consistency_for_Beginners.svg)](https://dev.to/danielhe4rt/database-101-why-so-interesting-1344)
-[![Typescript: Functions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Typescript__Functions.svg)](https://dev.to/j471n/typescript-functions-4nkp)
-[![check file size in Linux](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/check_file_size_in_Linux.svg)](https://dev.to/howtouselinux/check-file-size-in-linux-468i)
-[![#DevDiscuss: Monoliths vs. Microservices](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/_DevDiscuss__Monoliths_vs._Microservices.svg)](https://dev.to/devteam/devdiscuss-monoliths-vs-microservices-5942)
+[![Building a Video Player in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Building_a_Video_Player_in_React.svg)](https://dev.to/documatic/building-a-video-player-in-react-1mlf)
+[![Regression Modeling 101: Understanding Different Types of Models and How to Choose the Right One](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Regression_Modeling_101__Understanding_Different_Types_of_Models_and_How_to_Choose_the_Right_One.svg)](https://dev.to/anurag629/a-comprehensive-guide-to-regression-modeling-types-techniques-and-applications-7nb)
+[![Learning from Real Projects: AWS Beyond the Certifications (1/10)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Learning_from_Real_Projects__AWS_Beyond_the_Certifications_(1_10).svg)](https://dev.to/aws-builders/learning-from-real-projects-aws-beyond-the-certifications-110-41g7)
+[![How to Fetch Data in React with useSWR](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Fetch_Data_in_React_with_useSWR.svg)](https://dev.to/refine/how-to-fetch-data-in-react-with-useswr-3dbe)
+[![Why Django in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Why_Django_in_2023.svg)](https://dev.to/jagroop2000/why-django-in-2023-2knk)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, January 3, 2023 at 11:11:45 PM
+> Last updated: Wednesday, January 4, 2023 at 5:16:47 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, January 3, 2023 at 11:11:50 PM
+> Last updated: Wednesday, January 4, 2023 at 5:16:54 AM
 
 > Showing 5 of 30 posts.
 
