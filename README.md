@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, January 3, 2023 at 5:45:47 PM
+> Last updated: Tuesday, January 3, 2023 at 11:11:43 PM
 
 > Showing 5 of 12 posts.
 
-[![Review: Mastering Laravel Validation Rules](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Review__Mastering_Laravel_Validation_Rules.svg)](https://dev.to/ashallendesign/review-mastering-laravel-validation-rules-2np6)
-[![Top 7 Featured DEV Posts from the Past Week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_7_Featured_DEV_Posts_from_the_Past_Week.svg)](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-5epe)
-[![What is the difference between SSR, ISR, SSS 👀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_the_difference_between_SSR__ISR__SSS_👀.svg)](https://dev.to/artem/what-is-the-difference-between-ssr-isr-sss-5d05)
-[![Modernization with Module Federation, Nx and React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Modernization_with_Module_Federation__Nx_and_React.svg)](https://dev.to/zchapple/modernization-with-module-federation-nx-and-react-4kj5)
-[![Learn JavaScript while Playing Games - Gamify Your Learning](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Learn_JavaScript_while_Playing_Games_-_Gamify_Your_Learning.svg)](https://dev.to/paulknulst/learn-javascript-while-playing-games-gamify-your-learning-3c5h)
+[![Use which: Interface or Type Alias in Typescript?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Use_which__Interface_or_Type_Alias_in_Typescript_.svg)](https://dev.to/magentaqin/use-which-interface-or-type-alias-in-typescript-3cj4)
+[![Database 101: Data Consistency for Beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Database_101__Data_Consistency_for_Beginners.svg)](https://dev.to/danielhe4rt/database-101-why-so-interesting-1344)
+[![Typescript: Functions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Typescript__Functions.svg)](https://dev.to/j471n/typescript-functions-4nkp)
+[![check file size in Linux](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/check_file_size_in_Linux.svg)](https://dev.to/howtouselinux/check-file-size-in-linux-468i)
+[![#DevDiscuss: Monoliths vs. Microservices](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/_DevDiscuss__Monoliths_vs._Microservices.svg)](https://dev.to/devteam/devdiscuss-monoliths-vs-microservices-5942)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, January 3, 2023 at 5:45:51 PM
+> Last updated: Tuesday, January 3, 2023 at 11:11:45 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, January 3, 2023 at 5:45:57 PM
+> Last updated: Tuesday, January 3, 2023 at 11:11:50 PM
 
 > Showing 5 of 30 posts.
 
