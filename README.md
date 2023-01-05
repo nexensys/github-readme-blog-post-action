@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, January 4, 2023 at 11:10:17 PM
+> Last updated: Thursday, January 5, 2023 at 5:17:06 AM
 
 > Showing 5 of 12 posts.
 
-[![Understanding stops property on LinearGradient in Flutter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Understanding_stops_property_on_LinearGradient_in_Flutter.svg)](https://dev.to/anshsaini/understanding-stops-property-on-lineargradient-in-flutter-1fnk)
-[![Handling Network Status in Your React App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Handling_Network_Status_in_Your_React_App.svg)](https://dev.to/thelamina/handling-network-status-in-your-react-app-4222)
-[![5 Web Design Tips for a Stunning and Professional Look in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_Web_Design_Tips_for_a_Stunning_and_Professional_Look_in_2023.svg)](https://dev.to/mohsenkamrani/5-web-design-tips-for-a-stunning-and-professional-look-in-2023-4659)
-[![Certified Kubernetes Application Developer (CKAD) Exam Tips](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Certified_Kubernetes_Application_Developer_(CKAD)_Exam_Tips.svg)](https://dev.to/akdevcraft/certified-kubernetes-application-developer-ckad-exam-tips-4a1b)
-[![What are the most profitable side hustles for software engineers?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_are_the_most_profitable_side_hustles_for_software_engineers_.svg)](https://dev.to/cleancodestudio/what-are-the-most-profitable-side-hustles-for-software-engineers-1fc2)
+[![Kubernetes Control Plane: 10 Tips for Airtight K8s Security](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Kubernetes_Control_Plane__10_Tips_for_Airtight_K8s_Security.svg)](https://dev.to/castai/kubernetes-control-plane-10-tips-for-airtight-k8s-security-77d)
+[![Notion Templates for Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Notion_Templates_for_Developers.svg)](https://dev.to/shreyvijayvargiya/notion-templates-for-developers-2k2o)
+[![Automate Your LinkedIn Presence, Drive Traffic and Manage Projects with These Amazing Tools](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Automate_Your_LinkedIn_Presence__Drive_Traffic_and_Manage_Projects_with_These_Amazing_Tools.svg)](https://dev.to/ahmadji93/automate-your-linkedin-presence-drive-traffic-and-manage-projects-with-these-amazing-tools-4o2h)
+[![Asynchronous and synchronous JavaScript Basics!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Asynchronous_and_synchronous_JavaScript_Basics!.svg)](https://dev.to/darkxenium/asynchronous-and-synchronous-javascript-basics-40d1)
+[![Become a Frontend web developer in 2023 - A step by step guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Become_a_Frontend_web_developer_in_2023_-_A_step_by_step_guide.svg)](https://dev.to/shubhicodes/become-a-frontend-web-developer-in-2023-a-step-by-step-guide-m24)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, January 4, 2023 at 11:10:21 PM
+> Last updated: Thursday, January 5, 2023 at 5:17:10 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,12 +43,16 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, January 4, 2023 at 11:10:28 PM
+> Last updated: Thursday, January 5, 2023 at 5:17:18 AM
 
 > Showing 5 of 30 posts.
 
 [![Docker Apps Organization Using Docker Homepage](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Docker_Apps_Organization_Using_Docker_Homepage.svg)](https://blog.niradler.com/docker-apps-organization-using-docker-homepage)
-[![GitHub - 4rokis/monorepo-example](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_4rokis_monorepo-example.svg)](https://github.com/4rokis/monorepo-example)
+[![
+NextJS Zone Monorepo
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_NextJS_Zone_Monorepo_.svg)](
+https://github.com/S4n60w3n/monorepo-example
+)
 [![Lodash's cloneDeep() Function](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Lodash's_cloneDeep()_Function.svg)](
 https://masteringjs.io/tutorials/lodash/clone-deep
 )
