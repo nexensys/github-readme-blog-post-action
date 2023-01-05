@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, January 4, 2023 at 11:11:18 AM
+> Last updated: Wednesday, January 4, 2023 at 5:48:54 PM
 
 > Showing 5 of 12 posts.
 
-[![This is how to deploy a machine learning model with Anvil](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/This_is_how_to_deploy_a_machine_learning_model_with_Anvil.svg)](https://dev.to/anvil/this-is-how-to-deploy-a-machine-learning-model-with-anvil-47c8)
-[![How to use ChatGPT in Visual Studio Code.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_use_ChatGPT_in_Visual_Studio_Code..svg)](https://dev.to/0xfedev/how-to-use-chatgpt-directly-in-visual-studio-code-h0p)
-[![Web scraping Google Lens Results with Nodejs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Web_scraping_Google_Lens_Results_with_Nodejs.svg)](https://dev.to/serpapi/web-scraping-google-lens-results-with-nodejs-4fhp)
-[![CodeNewbie Podcast Season Finale (S22E9): Coding Bootcamps and Coding Journeys with Mark Thompson](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/CodeNewbie_Podcast_Season_Finale_(S22E9)__Coding_Bootcamps_and_Coding_Journeys_with_Mark_Thompson.svg)](https://dev.to/codenewbieteam/codenewbie-podcast-season-finale-s22e9-coding-bootcamps-and-coding-journeys-with-mark-thompson-58jn)
-[![Verifying requests from Slack - The CORRECT method for Node.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Verifying_requests_from_Slack_-_The_CORRECT_method_for_Node.js.svg)](https://dev.to/soumyadey/verifying-requests-from-slack-the-correct-method-for-nodejs-417i)
+[![The Pragmatic Programmer - Book Review](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Pragmatic_Programmer_-_Book_Review.svg)](https://dev.to/scc33/the-pragmatic-programmer-book-review-31mh)
+[![Protecting routes with NextAuth in Nextjs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Protecting_routes_with_NextAuth_in_Nextjs.svg)](https://dev.to/esponges/protecting-routes-with-nextauth-in-nextjs-2kkd)
+[![ReductStore behind NGINX](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/ReductStore_behind_NGINX.svg)](https://dev.to/reductstore/reductstore-behind-nginx-2144)
+[![Story of an IP Address Tracker App (a React.js App)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Story_of_an_IP_Address_Tracker_App_(a_React.js_App).svg)](https://dev.to/alptekin/story-of-an-ip-address-tracker-app-a-reactjs-app-3nja)
+[![Creating Custom Hooks in React and TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Creating_Custom_Hooks_in_React_and_TypeScript.svg)](https://dev.to/majdsufian/creating-custom-hooks-in-react-and-typescript-7ho)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, January 4, 2023 at 11:11:22 AM
+> Last updated: Wednesday, January 4, 2023 at 5:48:57 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, January 4, 2023 at 11:11:31 AM
+> Last updated: Wednesday, January 4, 2023 at 5:49:05 PM
 
 > Showing 5 of 30 posts.
 
+[![Docker Apps Organization Using Docker Homepage](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Docker_Apps_Organization_Using_Docker_Homepage.svg)](https://blog.niradler.com/docker-apps-organization-using-docker-homepage)
 [![GitHub - 4rokis/monorepo-example](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_4rokis_monorepo-example.svg)](https://github.com/4rokis/monorepo-example)
 [![Lodash's cloneDeep() Function](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Lodash's_cloneDeep()_Function.svg)](
 https://masteringjs.io/tutorials/lodash/clone-deep
 )
 [![Late music icon Zex Manatsa's widow, Stella, dies  - NewZimbabwe.com](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Late_music_icon_Zex_Manatsa's_widow__Stella__dies__-_NewZimbabwe.com.svg)](https://www.newzimbabwe.com/latest-late-music-icon-zex-manatsas-widow-stella-dies/)
 [![API with NestJS #89. Replacing Express with Fastify](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__89._Replacing_Express_with_Fastify.svg)](https://wanago.io/2023/01/02/api-nestjs-fastify/)
-[![Titanium SDK 12.0.0.GA released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Titanium_SDK_12.0.0.GA_released.svg)](https://tidev.io/)
 
 
 <!-- post-list:end -->
