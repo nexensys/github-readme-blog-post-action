@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, January 4, 2023 at 5:48:54 PM
+> Last updated: Wednesday, January 4, 2023 at 11:10:17 PM
 
 > Showing 5 of 12 posts.
 
-[![The Pragmatic Programmer - Book Review](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Pragmatic_Programmer_-_Book_Review.svg)](https://dev.to/scc33/the-pragmatic-programmer-book-review-31mh)
-[![Protecting routes with NextAuth in Nextjs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Protecting_routes_with_NextAuth_in_Nextjs.svg)](https://dev.to/esponges/protecting-routes-with-nextauth-in-nextjs-2kkd)
-[![ReductStore behind NGINX](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/ReductStore_behind_NGINX.svg)](https://dev.to/reductstore/reductstore-behind-nginx-2144)
-[![Story of an IP Address Tracker App (a React.js App)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Story_of_an_IP_Address_Tracker_App_(a_React.js_App).svg)](https://dev.to/alptekin/story-of-an-ip-address-tracker-app-a-reactjs-app-3nja)
-[![Creating Custom Hooks in React and TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Creating_Custom_Hooks_in_React_and_TypeScript.svg)](https://dev.to/majdsufian/creating-custom-hooks-in-react-and-typescript-7ho)
+[![Understanding stops property on LinearGradient in Flutter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Understanding_stops_property_on_LinearGradient_in_Flutter.svg)](https://dev.to/anshsaini/understanding-stops-property-on-lineargradient-in-flutter-1fnk)
+[![Handling Network Status in Your React App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Handling_Network_Status_in_Your_React_App.svg)](https://dev.to/thelamina/handling-network-status-in-your-react-app-4222)
+[![5 Web Design Tips for a Stunning and Professional Look in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_Web_Design_Tips_for_a_Stunning_and_Professional_Look_in_2023.svg)](https://dev.to/mohsenkamrani/5-web-design-tips-for-a-stunning-and-professional-look-in-2023-4659)
+[![Certified Kubernetes Application Developer (CKAD) Exam Tips](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Certified_Kubernetes_Application_Developer_(CKAD)_Exam_Tips.svg)](https://dev.to/akdevcraft/certified-kubernetes-application-developer-ckad-exam-tips-4a1b)
+[![What are the most profitable side hustles for software engineers?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_are_the_most_profitable_side_hustles_for_software_engineers_.svg)](https://dev.to/cleancodestudio/what-are-the-most-profitable-side-hustles-for-software-engineers-1fc2)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, January 4, 2023 at 5:48:57 PM
+> Last updated: Wednesday, January 4, 2023 at 11:10:21 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, January 4, 2023 at 5:49:05 PM
+> Last updated: Wednesday, January 4, 2023 at 11:10:28 PM
 
 > Showing 5 of 30 posts.
 
