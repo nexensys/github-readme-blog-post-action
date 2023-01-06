@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, January 5, 2023 at 11:11:21 AM
+> Last updated: Thursday, January 5, 2023 at 5:47:37 PM
 
 > Showing 5 of 12 posts.
 
-[![Fluid Pull Requests](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Fluid_Pull_Requests.svg)](https://dev.to/reviewpad/fluid-pull-requests-36a4)
-[![MERN Interview Questions asked to me in Various Interviews.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/MERN_Interview_Questions_asked_to_me_in_Various_Interviews..svg)](https://dev.to/viveksinra/mern-interview-questions-asked-to-me-in-various-interviews-2c8j)
-[![GraphQL vs. REST](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/GraphQL_vs._REST.svg)](https://dev.to/appwrite/graphql-vs-rest-50j)
-[![Appwrite vs. Hasura vs. Apollo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Appwrite_vs._Hasura_vs._Apollo.svg)](https://dev.to/appwrite/appwrite-vs-hasura-vs-apollo-5cb4)
-[![Must know — Container Security Constructs: Namespace, SecComp, Control Groups, SELinux](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Must_know_—_Container_Security_Constructs__Namespace__SecComp__Control_Groups__SELinux.svg)](https://dev.to/shweta_vohra/must-know-container-security-constructs-namespace-seccomp-control-groups-selinux-53ac)
+[![How Google Cloud is Educating the Next Generation of Cloud Engineers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_Google_Cloud_is_Educating_the_Next_Generation_of_Cloud_Engineers.svg)](https://dev.to/linearb/how-google-cloud-is-educating-the-next-generation-of-cloud-engineers-3obc)
+[![Quero contratar uma pessoa DevRel, e agora?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Quero_contratar_uma_pessoa_DevRel__e_agora_.svg)](https://dev.to/feministech/quero-contratar-uma-pessoa-devrel-e-agora-2jdd)
+[![Quick guide for PHP prepared statements](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Quick_guide_for_PHP_prepared_statements.svg)](https://dev.to/wizarddos/quick-guide-for-php-prepared-statements-26k9)
+[![Guide to TMUX - Terminal That Remembers Everything](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Guide_to_TMUX_-_Terminal_That_Remembers_Everything.svg)](https://dev.to/dnsinyukov/guide-to-tmux-terminal-that-remembers-everything-39aa)
+[![5 Ways React Can Improve Your Web Development Process](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_Ways_React_Can_Improve_Your_Web_Development_Process.svg)](https://dev.to/kboskin/5-ways-react-can-improve-your-web-development-process-2co8)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, January 5, 2023 at 11:11:24 AM
+> Last updated: Thursday, January 5, 2023 at 5:47:40 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, January 5, 2023 at 11:11:29 AM
+> Last updated: Thursday, January 5, 2023 at 5:47:46 PM
 
 > Showing 5 of 30 posts.
 
