@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, January 6, 2023 at 5:16:27 AM
+> Last updated: Friday, January 6, 2023 at 11:10:56 AM
 
 > Showing 5 of 12 posts.
 
-[![How to make a Camera Android app that has photo filters? Full Code and Step by step guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_make_a_Camera_Android_app_that_has_photo_filters__Full_Code_and_Step_by_step_guide.svg)](https://dev.to/dhruvjoshi9/how-to-make-a-camera-android-app-that-has-photo-filters-full-code-and-step-by-step-guide-4147)
-[![Awesome Readme Examples for Writing better Readmes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Awesome_Readme_Examples_for_Writing_better_Readmes.svg)](https://dev.to/documatic/awesome-readme-examples-for-writing-better-readmes-3eh3)
-[![A Beginner's Guide to Feature Selection in Machine Learning: Techniques and Tips](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_Beginner's_Guide_to_Feature_Selection_in_Machine_Learning__Techniques_and_Tips.svg)](https://dev.to/phylis/a-beginners-guide-to-feature-selection-in-machine-learning-techniques-and-tips-459o)
-[![Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Python.svg)](https://dev.to/jagroop2000/python-11c)
-[![All you (probably) need to know about caching on the web 🗃](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/All_you_(probably)_need_to_know_about_caching_on_the_web_🗃.svg)](https://dev.to/enterspeed/all-you-probably-need-to-know-about-caching-on-the-web-4loa)
+[![C elements that are not supported in C++🚫](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/C_elements_that_are_not_supported_in_C++🚫.svg)](https://dev.to/mariamarsh/c-elements-that-are-not-supported-in-c-4i6n)
+[![Introducing Rubberduck, the chat assistant that makes coding easier!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Introducing_Rubberduck__the_chat_assistant_that_makes_coding_easier!.svg)](https://dev.to/lgrammel/introducing-rubberduck-the-chat-assistant-that-makes-coding-easier-547a)
+[![Working with audio in ffmpeg - Part 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Working_with_audio_in_ffmpeg_-_Part_2.svg)](https://dev.to/video/working-with-audio-in-ffmpeg-part-2-1ip)
+[![Git rebase interactive: the story of a clean repo history](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Git_rebase_interactive__the_story_of_a_clean_repo_history.svg)](https://dev.to/crispitipina/git-rebase-interactive-the-story-of-a-clean-repo-history-16ag)
+[![Rust on Arch Linux: Getting started](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Rust_on_Arch_Linux__Getting_started.svg)](https://dev.to/nabbisen/rust-on-arch-linux-getting-started-4d56)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, January 6, 2023 at 5:16:30 AM
+> Last updated: Friday, January 6, 2023 at 11:10:58 AM
 
 > Showing 4 of 4 posts.
 
+[![Looking at both 2022 and 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Looking_at_both_2022_and_2023.svg)](https://javascriptweekly.com/issues/620)
 [![A new jQuery release for Xmas](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/A_new_jQuery_release_for_Xmas.svg)](https://javascriptweekly.com/issues/619)
 [![Vite 4.0 released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Vite_4.0_released.svg)](https://javascriptweekly.com/issues/618)
 [![Splitting up sentences with Intl.Segmenter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Splitting_up_sentences_with_Intl.Segmenter.svg)](https://javascriptweekly.com/issues/617)
-[![JavaScript Vocoder Puccini](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/JavaScript_Vocoder_Puccini.svg)](https://javascriptweekly.com/issues/616)
 
 
 ## Echo JS
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, January 6, 2023 at 5:16:37 AM
+> Last updated: Friday, January 6, 2023 at 11:11:03 AM
 
 > Showing 5 of 30 posts.
 
+[![Conditional API Responses For JavaScript vs. HTML Forms](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Conditional_API_Responses_For_JavaScript_vs._HTML_Forms.svg)](https://austingil.com/http-javascript-vs-html/)
 [![Build Electron App with Vue in 3 easy steps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_Electron_App_with_Vue_in_3_easy_steps.svg)](https://metered.hashnode.dev/build-electron-app-with-vue-in-3-easy-steps)
 [![Docker Apps Organization Using Docker Homepage](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Docker_Apps_Organization_Using_Docker_Homepage.svg)](https://blog.niradler.com/docker-apps-organization-using-docker-homepage)
 [![GitHub - 4rokis/monorepo-example](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_4rokis_monorepo-example.svg)](https://github.com/4rokis/monorepo-example)
 [![Lodash's cloneDeep() Function](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Lodash's_cloneDeep()_Function.svg)](
 https://masteringjs.io/tutorials/lodash/clone-deep
 )
-[![Late music icon Zex Manatsa's widow, Stella, dies  - NewZimbabwe.com](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Late_music_icon_Zex_Manatsa's_widow__Stella__dies__-_NewZimbabwe.com.svg)](https://www.newzimbabwe.com/latest-late-music-icon-zex-manatsas-widow-stella-dies/)
 
 
 <!-- post-list:end -->
