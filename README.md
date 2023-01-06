@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, January 5, 2023 at 11:11:37 PM
+> Last updated: Friday, January 6, 2023 at 5:16:27 AM
 
 > Showing 5 of 12 posts.
 
-[![¡Guía de introducción a Docker en español!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/¡Guía_de_introducción_a_Docker_en_español!.svg)](https://dev.to/maricarmendev/guia-de-introduccion-a-docker-en-espanol-2dfo)
-[![Python — Command line](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Python_—_Command_line.svg)](https://dev.to/levintech/python-command-line-367g)
-[![Service Mesh and Enterprise Scale Design](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Service_Mesh_and_Enterprise_Scale_Design.svg)](https://dev.to/shweta_vohra/service-mesh-and-enterprise-scale-design-4a58)
-[![How electricity reaches computer (And why its needed)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_electricity_reaches_computer_(And_why_its_needed).svg)](https://dev.to/cleancodestudio/how-electricity-reaches-computer-and-why-its-needed-3hc3)
-[![Build Bingo Online with NextJS 13 and Supabase](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_Bingo_Online_with_NextJS_13_and_Supabase.svg)](https://dev.to/bonnguyenitc/create-bingo-online-with-nextjs-13-and-supabase-57cd)
+[![How to make a Camera Android app that has photo filters? Full Code and Step by step guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_make_a_Camera_Android_app_that_has_photo_filters__Full_Code_and_Step_by_step_guide.svg)](https://dev.to/dhruvjoshi9/how-to-make-a-camera-android-app-that-has-photo-filters-full-code-and-step-by-step-guide-4147)
+[![Awesome Readme Examples for Writing better Readmes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Awesome_Readme_Examples_for_Writing_better_Readmes.svg)](https://dev.to/documatic/awesome-readme-examples-for-writing-better-readmes-3eh3)
+[![A Beginner's Guide to Feature Selection in Machine Learning: Techniques and Tips](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_Beginner's_Guide_to_Feature_Selection_in_Machine_Learning__Techniques_and_Tips.svg)](https://dev.to/phylis/a-beginners-guide-to-feature-selection-in-machine-learning-techniques-and-tips-459o)
+[![Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Python.svg)](https://dev.to/jagroop2000/python-11c)
+[![All you (probably) need to know about caching on the web 🗃](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/All_you_(probably)_need_to_know_about_caching_on_the_web_🗃.svg)](https://dev.to/enterspeed/all-you-probably-need-to-know-about-caching-on-the-web-4loa)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, January 5, 2023 at 11:11:39 PM
+> Last updated: Friday, January 6, 2023 at 5:16:30 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, January 5, 2023 at 11:11:43 PM
+> Last updated: Friday, January 6, 2023 at 5:16:37 AM
 
 > Showing 5 of 30 posts.
 
