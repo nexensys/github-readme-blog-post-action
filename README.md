@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, January 6, 2023 at 11:10:56 AM
+> Last updated: Friday, January 6, 2023 at 5:44:19 PM
 
 > Showing 5 of 12 posts.
 
-[![C elements that are not supported in C++🚫](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/C_elements_that_are_not_supported_in_C++🚫.svg)](https://dev.to/mariamarsh/c-elements-that-are-not-supported-in-c-4i6n)
-[![Introducing Rubberduck, the chat assistant that makes coding easier!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Introducing_Rubberduck__the_chat_assistant_that_makes_coding_easier!.svg)](https://dev.to/lgrammel/introducing-rubberduck-the-chat-assistant-that-makes-coding-easier-547a)
-[![Working with audio in ffmpeg - Part 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Working_with_audio_in_ffmpeg_-_Part_2.svg)](https://dev.to/video/working-with-audio-in-ffmpeg-part-2-1ip)
-[![Git rebase interactive: the story of a clean repo history](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Git_rebase_interactive__the_story_of_a_clean_repo_history.svg)](https://dev.to/crispitipina/git-rebase-interactive-the-story-of-a-clean-repo-history-16ag)
-[![Rust on Arch Linux: Getting started](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Rust_on_Arch_Linux__Getting_started.svg)](https://dev.to/nabbisen/rust-on-arch-linux-getting-started-4d56)
+[![5 Simple Steps to Creating Your Very Own npm Module](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_Simple_Steps_to_Creating_Your_Very_Own_npm_Module.svg)](https://dev.to/basskibo/5-simple-steps-to-creating-your-very-own-npm-module-3j74)
+[![Followers become 179](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Followers_become_179.svg)](https://dev.to/yukikimoto/followers-become-179-57b4)
+[![Deploy Django Docker Compose to Heroku](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Deploy_Django_Docker_Compose_to_Heroku.svg)](https://dev.to/geetechlab/deploy-django-docker-compose-to-heroku-2m6o)
+[![docker compose for django](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/docker_compose_for_django.svg)](https://dev.to/geetechlab/docker-compose-for-django-3l08)
+[![How to add Version Catalog to your Android App?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_add_Version_Catalog_to_your_Android_App_.svg)](https://dev.to/vtsen/how-to-add-version-catalog-to-your-android-app-1ibm)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, January 6, 2023 at 11:10:58 AM
+> Last updated: Friday, January 6, 2023 at 5:44:22 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, January 6, 2023 at 11:11:03 AM
+> Last updated: Friday, January 6, 2023 at 5:44:27 PM
 
 > Showing 5 of 30 posts.
 
