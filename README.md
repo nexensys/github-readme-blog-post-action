@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, January 6, 2023 at 5:44:19 PM
+> Last updated: Friday, January 6, 2023 at 11:10:13 PM
 
 > Showing 5 of 12 posts.
 
+[![Bundling YAMLs for Kubernetes with Helm](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Bundling_YAMLs_for_Kubernetes_with_Helm.svg)](https://dev.to/aniket762/bundling-yamls-for-kubernetes-with-helm-4pck)
+[![Python - Numpy](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Python_-_Numpy.svg)](https://dev.to/levintech/python-numpy-3aaa)
+[![Die besten 10 Podcast-Folgen für Webentwickler 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Die_besten_10_Podcast-Folgen_für_Webentwickler_2022.svg)](https://dev.to/koality/die-besten-10-podcast-folgen-fur-webentwickler-2022-23ln)
 [![5 Simple Steps to Creating Your Very Own npm Module](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_Simple_Steps_to_Creating_Your_Very_Own_npm_Module.svg)](https://dev.to/basskibo/5-simple-steps-to-creating-your-very-own-npm-module-3j74)
-[![Followers become 179](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Followers_become_179.svg)](https://dev.to/yukikimoto/followers-become-179-57b4)
-[![Deploy Django Docker Compose to Heroku](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Deploy_Django_Docker_Compose_to_Heroku.svg)](https://dev.to/geetechlab/deploy-django-docker-compose-to-heroku-2m6o)
-[![docker compose for django](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/docker_compose_for_django.svg)](https://dev.to/geetechlab/docker-compose-for-django-3l08)
-[![How to add Version Catalog to your Android App?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_add_Version_Catalog_to_your_Android_App_.svg)](https://dev.to/vtsen/how-to-add-version-catalog-to-your-android-app-1ibm)
+[![Twitter Data Pipeline with Apache Airflow + MinIO (S3 compatible Object Storage)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Twitter_Data_Pipeline_with_Apache_Airflow_+_MinIO_(S3_compatible_Object_Storage).svg)](https://dev.to/mikekenneth77/twitter-data-pipeline-with-apache-airflow-minio-s3-compatible-object-storage-2g4h)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, January 6, 2023 at 5:44:22 PM
+> Last updated: Friday, January 6, 2023 at 11:10:16 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, January 6, 2023 at 5:44:27 PM
+> Last updated: Friday, January 6, 2023 at 11:10:21 PM
 
 > Showing 5 of 30 posts.
 
