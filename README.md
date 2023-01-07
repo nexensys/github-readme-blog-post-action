@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, January 6, 2023 at 11:10:13 PM
+> Last updated: Saturday, January 7, 2023 at 5:14:19 AM
 
 > Showing 5 of 12 posts.
 
-[![Bundling YAMLs for Kubernetes with Helm](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Bundling_YAMLs_for_Kubernetes_with_Helm.svg)](https://dev.to/aniket762/bundling-yamls-for-kubernetes-with-helm-4pck)
-[![Python - Numpy](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Python_-_Numpy.svg)](https://dev.to/levintech/python-numpy-3aaa)
-[![Die besten 10 Podcast-Folgen für Webentwickler 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Die_besten_10_Podcast-Folgen_für_Webentwickler_2022.svg)](https://dev.to/koality/die-besten-10-podcast-folgen-fur-webentwickler-2022-23ln)
-[![5 Simple Steps to Creating Your Very Own npm Module](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_Simple_Steps_to_Creating_Your_Very_Own_npm_Module.svg)](https://dev.to/basskibo/5-simple-steps-to-creating-your-very-own-npm-module-3j74)
-[![Twitter Data Pipeline with Apache Airflow + MinIO (S3 compatible Object Storage)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Twitter_Data_Pipeline_with_Apache_Airflow_+_MinIO_(S3_compatible_Object_Storage).svg)](https://dev.to/mikekenneth77/twitter-data-pipeline-with-apache-airflow-minio-s3-compatible-object-storage-2g4h)
+[![Getting Started with a Web Scraping Project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Getting_Started_with_a_Web_Scraping_Project.svg)](https://dev.to/ken_mwaura1/getting-started-with-a-web-scraping-project-10ej)
+[![How to set up Font Awesome in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_set_up_Font_Awesome_in_React.svg)](https://dev.to/davidemaye/how-to-set-up-font-awesome-in-react-5a8d)
+[![IP Address: A concept we must know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/IP_Address__A_concept_we_must_know.svg)](https://dev.to/pragyasapkota/ip-address-a-concept-we-must-know-30al)
+[![How To Find A Job With Soft Skills When Coding Skills Are Weak III](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_To_Find_A_Job_With_Soft_Skills_When_Coding_Skills_Are_Weak_III.svg)](https://dev.to/yuridevat/how-to-find-a-job-with-soft-skills-when-coding-skills-are-weak-iii-f79)
+[![Double pendulums, how do they work? | Physics | Simulation | TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Double_pendulums__how_do_they_work____Physics___Simulation___TypeScript.svg)](https://dev.to/nordicbeaver/double-pendulums-how-do-they-work-physics-simulation-typescript-2cg1)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, January 6, 2023 at 11:10:16 PM
+> Last updated: Saturday, January 7, 2023 at 5:14:23 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, January 6, 2023 at 11:10:21 PM
+> Last updated: Saturday, January 7, 2023 at 5:14:27 AM
 
 > Showing 5 of 30 posts.
 
+[![<date-time> element](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_date-time__element.svg)](https://architrixs.github.io/date-time-custom-element/)
 [![Conditional API Responses For JavaScript vs. HTML Forms](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Conditional_API_Responses_For_JavaScript_vs._HTML_Forms.svg)](https://austingil.com/http-javascript-vs-html/)
 [![Build Electron App with Vue in 3 easy steps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_Electron_App_with_Vue_in_3_easy_steps.svg)](https://metered.hashnode.dev/build-electron-app-with-vue-in-3-easy-steps)
 [![Docker Apps Organization Using Docker Homepage](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Docker_Apps_Organization_Using_Docker_Homepage.svg)](https://blog.niradler.com/docker-apps-organization-using-docker-homepage)
 [![GitHub - 4rokis/monorepo-example](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_4rokis_monorepo-example.svg)](https://github.com/4rokis/monorepo-example)
-[![Lodash's cloneDeep() Function](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Lodash's_cloneDeep()_Function.svg)](
-https://masteringjs.io/tutorials/lodash/clone-deep
-)
 
 
 <!-- post-list:end -->
