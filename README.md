@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, January 7, 2023 at 5:14:19 AM
+> Last updated: Saturday, January 7, 2023 at 11:09:53 AM
 
 > Showing 5 of 12 posts.
 
-[![Getting Started with a Web Scraping Project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Getting_Started_with_a_Web_Scraping_Project.svg)](https://dev.to/ken_mwaura1/getting-started-with-a-web-scraping-project-10ej)
-[![How to set up Font Awesome in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_set_up_Font_Awesome_in_React.svg)](https://dev.to/davidemaye/how-to-set-up-font-awesome-in-react-5a8d)
-[![IP Address: A concept we must know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/IP_Address__A_concept_we_must_know.svg)](https://dev.to/pragyasapkota/ip-address-a-concept-we-must-know-30al)
-[![How To Find A Job With Soft Skills When Coding Skills Are Weak III](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_To_Find_A_Job_With_Soft_Skills_When_Coding_Skills_Are_Weak_III.svg)](https://dev.to/yuridevat/how-to-find-a-job-with-soft-skills-when-coding-skills-are-weak-iii-f79)
-[![Double pendulums, how do they work? | Physics | Simulation | TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Double_pendulums__how_do_they_work____Physics___Simulation___TypeScript.svg)](https://dev.to/nordicbeaver/double-pendulums-how-do-they-work-physics-simulation-typescript-2cg1)
+[![Top 5 cryptocurrency APIs for developers ©️](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_5_cryptocurrency_APIs_for_developers_©️.svg)](https://dev.to/mariamarsh/top-5-cryptocurrency-apis-for-developers-c-8i)
+[![How to Create a QR-Code with React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Create_a_QR-Code_with_React.svg)](https://dev.to/franciscomendes10866/how-to-create-a-qr-code-with-react-5aj9)
+[![Blockchain Block Anatomy](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Blockchain_Block_Anatomy.svg)](https://dev.to/siddharthsing/block-anatomy-of-a-blockchain-4773)
+[![What is Chat GPT](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_Chat_GPT.svg)](https://dev.to/bibekkakati/what-is-chat-gpt-3ko6)
+[![Cycling Challenge Dashboard with HTML & CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Cycling_Challenge_Dashboard_with_HTML___CSS.svg)](https://dev.to/crayoncode/cycling-challenge-dashboard-with-html-css-1gi8)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, January 7, 2023 at 5:14:23 AM
+> Last updated: Saturday, January 7, 2023 at 11:09:56 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, January 7, 2023 at 5:14:27 AM
+> Last updated: Saturday, January 7, 2023 at 11:10:04 AM
 
 > Showing 5 of 30 posts.
 
+[![An Introduction to the Mithril JavaScript Framework: A Lightweight and Intuitive Solution for Building Single-Page Applications - FrontNet Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/An_Introduction_to_the_Mithril_JavaScript_Framework__A_Lightweight_and_Intuitive_Solution_for_Building_Single-Page_Applications_-_FrontNet_Blog.svg)](https://frontnet.eu/an-introduction-to-the-mithril-javascript-framework-a-lightweight-and-intuitive-solution-for-building-single-page-applications/)
+[![Tried and Tested Top 10 Video Calling API | 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Tried_and_Tested_Top_10_Video_Calling_API___2023.svg)](https://dev.to/stutinath/top-video-calling-api-and-conferencing-sdk-47g0)
 [![<date-time> element](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_date-time__element.svg)](https://architrixs.github.io/date-time-custom-element/)
 [![Conditional API Responses For JavaScript vs. HTML Forms](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Conditional_API_Responses_For_JavaScript_vs._HTML_Forms.svg)](https://austingil.com/http-javascript-vs-html/)
 [![Build Electron App with Vue in 3 easy steps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_Electron_App_with_Vue_in_3_easy_steps.svg)](https://metered.hashnode.dev/build-electron-app-with-vue-in-3-easy-steps)
-[![Docker Apps Organization Using Docker Homepage](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Docker_Apps_Organization_Using_Docker_Homepage.svg)](https://blog.niradler.com/docker-apps-organization-using-docker-homepage)
-[![GitHub - 4rokis/monorepo-example](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_4rokis_monorepo-example.svg)](https://github.com/4rokis/monorepo-example)
 
 
 <!-- post-list:end -->
