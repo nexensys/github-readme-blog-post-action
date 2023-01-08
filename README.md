@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, January 7, 2023 at 11:09:53 AM
+> Last updated: Saturday, January 7, 2023 at 5:50:38 PM
 
 > Showing 5 of 12 posts.
 
-[![Top 5 cryptocurrency APIs for developers ©️](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_5_cryptocurrency_APIs_for_developers_©️.svg)](https://dev.to/mariamarsh/top-5-cryptocurrency-apis-for-developers-c-8i)
-[![How to Create a QR-Code with React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Create_a_QR-Code_with_React.svg)](https://dev.to/franciscomendes10866/how-to-create-a-qr-code-with-react-5aj9)
-[![Blockchain Block Anatomy](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Blockchain_Block_Anatomy.svg)](https://dev.to/siddharthsing/block-anatomy-of-a-blockchain-4773)
-[![What is Chat GPT](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_Chat_GPT.svg)](https://dev.to/bibekkakati/what-is-chat-gpt-3ko6)
-[![Cycling Challenge Dashboard with HTML & CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Cycling_Challenge_Dashboard_with_HTML___CSS.svg)](https://dev.to/crayoncode/cycling-challenge-dashboard-with-html-css-1gi8)
+[![Supercharge Your Skills: 7 Tips for Writing Clean and Efficient JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Supercharge_Your_Skills__7_Tips_for_Writing_Clean_and_Efficient_JavaScript.svg)](https://dev.to/mohsenkamrani/supercharge-your-skills-7-tips-for-writing-clean-and-efficient-javascript-1gjf)
+[![Removing Google Analytics does it have an impact on the ranking?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Removing_Google_Analytics_does_it_have_an_impact_on_the_ranking_.svg)](https://dev.to/thomasbnt/removing-google-analytics-does-it-have-an-impact-on-the-ranking-4de)
+[![Performance comparison: ReductStore vs. Minio](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Performance_comparison__ReductStore_vs._Minio.svg)](https://dev.to/reductstore/performance-comparison-reductstore-vs-minio-5cek)
+[![6 Project Management Tools To Boost Your Productivity](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/6_Project_Management_Tools_To_Boost_Your_Productivity.svg)](https://dev.to/arafat4693/5-project-management-tools-to-boost-your-productivity-2d20)
+[![Comparing Netlify and GitHub Pages: A Detailed Look at Two Popular Static Website Hosting Platforms](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Comparing_Netlify_and_GitHub_Pages__A_Detailed_Look_at_Two_Popular_Static_Website_Hosting_Platforms.svg)](https://dev.to/nvspavankalyan/comparing-netlify-and-github-pages-a-detailed-look-at-two-popular-static-website-hosting-platforms-4j21)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, January 7, 2023 at 11:09:56 AM
+> Last updated: Saturday, January 7, 2023 at 5:50:41 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, January 7, 2023 at 11:10:04 AM
+> Last updated: Saturday, January 7, 2023 at 5:50:46 PM
 
 > Showing 5 of 30 posts.
 
