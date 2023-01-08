@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, January 7, 2023 at 11:10:39 PM
+> Last updated: Sunday, January 8, 2023 at 5:14:46 AM
 
 > Showing 5 of 12 posts.
 
-[![Build a custom MySQL Docker Container](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_a_custom_MySQL_Docker_Container.svg)](https://dev.to/sumana2001/build-a-custom-mysql-docker-container-404f)
-[![7 Amazing GitHub Repositories Every Developer Should Follow in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/7_Amazing_GitHub_Repositories_Every_Developer_Should_Follow_in_2023.svg)](https://dev.to/ruppysuppy/7-amazing-github-repositories-every-developer-should-follow-in-2023-53i8)
-[![Flutter 3 の状態管理 (State、ステート): アプローチ (概念)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Flutter_3_の状態管理_(State、ステート)__アプローチ_(概念).svg)](https://dev.to/nabbisen/flutter-3-nozhuang-tai-guan-li-state-suteto-apuroti-gai-nian--2lmj)
-[![How to install and Configure NVM on Mac OS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_install_and_Configure_NVM_on_Mac_OS.svg)](https://dev.to/ajeetraina/how-to-install-and-configure-nvm-on-mac-os-5fgi)
-[![Running ChatGPT Locally using Docker Desktop](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Running_ChatGPT_Locally_using_Docker_Desktop.svg)](https://dev.to/docker/running-chatgpt-locally-using-docker-desktop-2i31)
+[![My Open-Source Project Got More Than 2.3K Github Stars 🤯⭐](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/My_Open-Source_Project_Got_More_Than_2.3K_Github_Stars_🤯⭐.svg)](https://dev.to/rammcodes/my-open-source-project-got-more-than-23k-github-stars-5deo)
+[![Juicy Regular Expression(REGEX) Patterns For Everyone](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Juicy_Regular_Expression(REGEX)_Patterns_For_Everyone.svg)](https://dev.to/arafat4693/maximize-your-productivity-with-these-handy-regular-expressionregex-patterns-14dh)
+[![How to download fancy QR Codes with React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_download_fancy_QR_Codes_with_React.svg)](https://dev.to/anshsaini/how-to-download-fancy-qr-codes-with-react-b25)
+[![JavaScript null is weird](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/JavaScript_null_is_weird.svg)](https://dev.to/niza/javascript-null-is-weird-33o9)
+[![⚡️React Performance Optimization: useMemo vs useCallback](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/⚡️React_Performance_Optimization__useMemo_vs_useCallback.svg)](https://dev.to/ahmedgmurtaza/react-performance-optimization-usememo-vs-usecallback-2p2a)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, January 7, 2023 at 11:10:43 PM
+> Last updated: Sunday, January 8, 2023 at 5:14:48 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, January 7, 2023 at 11:10:48 PM
+> Last updated: Sunday, January 8, 2023 at 5:14:52 AM
 
 > Showing 5 of 30 posts.
 
