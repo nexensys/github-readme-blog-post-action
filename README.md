@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, January 8, 2023 at 5:14:46 AM
+> Last updated: Sunday, January 8, 2023 at 11:09:52 AM
 
 > Showing 5 of 12 posts.
 
-[![My Open-Source Project Got More Than 2.3K Github Stars 🤯⭐](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/My_Open-Source_Project_Got_More_Than_2.3K_Github_Stars_🤯⭐.svg)](https://dev.to/rammcodes/my-open-source-project-got-more-than-23k-github-stars-5deo)
-[![Juicy Regular Expression(REGEX) Patterns For Everyone](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Juicy_Regular_Expression(REGEX)_Patterns_For_Everyone.svg)](https://dev.to/arafat4693/maximize-your-productivity-with-these-handy-regular-expressionregex-patterns-14dh)
-[![How to download fancy QR Codes with React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_download_fancy_QR_Codes_with_React.svg)](https://dev.to/anshsaini/how-to-download-fancy-qr-codes-with-react-b25)
-[![JavaScript null is weird](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/JavaScript_null_is_weird.svg)](https://dev.to/niza/javascript-null-is-weird-33o9)
-[![⚡️React Performance Optimization: useMemo vs useCallback](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/⚡️React_Performance_Optimization__useMemo_vs_useCallback.svg)](https://dev.to/ahmedgmurtaza/react-performance-optimization-usememo-vs-usecallback-2p2a)
+[![Create a project in React without create-react-app/vite 2023 (Spanish)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Create_a_project_in_React_without_create-react-app_vite_2023_(Spanish).svg)](https://dev.to/alfredocu/create-a-project-in-react-without-create-react-appvite-2023-spanish-12nd)
+[![Excelize 2.7.0 Released - Go language API for spreadsheets (Excel) files](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Excelize_2.7.0_Released_-_Go_language_API_for_spreadsheets_(Excel)_files.svg)](https://dev.to/xuri/excelize-270-released-go-language-api-for-spreadsheets-excel-files-9en)
+[![8 React Projects to Build in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/8_React_Projects_to_Build_in_2023.svg)](https://dev.to/reedbarger/8-react-projects-to-build-in-2023-49c8)
+[![The useDeferredValue hook - React 17.0 beta features](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_useDeferredValue_hook_-_React_17.0_beta_features.svg)](https://dev.to/alfredosalzillo/the-usedeferredvalue-hook-react-170-beta-features-5bpo)
+[![Flyway Migrations Naming Strategy in a Big Project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Flyway_Migrations_Naming_Strategy_in_a_Big_Project.svg)](https://dev.to/kirekov/flyway-migrations-naming-strategy-in-a-big-project-51fp)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, January 8, 2023 at 5:14:48 AM
+> Last updated: Sunday, January 8, 2023 at 11:09:55 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, January 8, 2023 at 5:14:52 AM
+> Last updated: Sunday, January 8, 2023 at 11:09:59 AM
 
 > Showing 5 of 30 posts.
 
