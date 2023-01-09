@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, January 8, 2023 at 11:11:47 PM
+> Last updated: Monday, January 9, 2023 at 5:17:12 AM
 
 > Showing 5 of 12 posts.
 
-[![NumPy 101: A Beginner's Guide to Data Science with Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/NumPy_101__A_Beginner's_Guide_to_Data_Science_with_Python.svg)](https://dev.to/anurag629/numpy-101-a-beginners-guide-to-data-science-with-python-49an)
-[![Progressive Web Apps : An introduction](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Progressive_Web_Apps___An_introduction.svg)](https://dev.to/vnaydev/progressive-web-apps-an-introduction-1k5j)
-[![rustup が "error: linker `cc` not found" で失敗 - Alpine Linux 3.17 (Rust 1.66)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/rustup_が__error__linker_`cc`_not_found__で失敗_-_Alpine_Linux_3.17_(Rust_1.66).svg)](https://dev.to/nabbisen/rustup-ga-error-linker-cc-not-found-deshi-bai-alpine-linux-317-rust-166-2k41)
-[![Fix rustup failed with "error: linker `cc` not found" on Alpine Linux 3.17 (Rust 1.66)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Fix_rustup_failed_with__error__linker_`cc`_not_found__on_Alpine_Linux_3.17_(Rust_1.66).svg)](https://dev.to/nabbisen/fix-rustup-failed-with-error-linker-cc-not-found-on-alpine-linux-317-rust-166-jam)
-[![The Fastest Way to Generate QR Codes: The QR Generator API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Fastest_Way_to_Generate_QR_Codes__The_QR_Generator_API.svg)](https://dev.to/amolkalra/the-fastest-way-to-generate-qr-codes-the-qr-generator-api-1hm2)
+[![3 reasons why any website's security is important](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/3_reasons_why_any_website's_security_is_important.svg)](https://dev.to/smartscanner/3-reasons-why-any-websites-security-is-important-1m52)
+[![CSS Loading Animation - 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/CSS_Loading_Animation_-_1.svg)](https://dev.to/shubhamtiwari909/css-loading-animation-1-4568)
+[![The Unofficial Official Beginner's Guide to starting out in Developer Relations.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Unofficial_Official_Beginner's_Guide_to_starting_out_in_Developer_Relations..svg)](https://dev.to/ifeoma/the-unofficial-official-beginners-guide-to-starting-out-in-developer-relations-48op)
+[![5 Best Practices for Coding: Tips for Writing Clean, Efficient, and Maintainable Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_Best_Practices_for_Coding__Tips_for_Writing_Clean__Efficient__and_Maintainable_Code.svg)](https://dev.to/kingsley/5-best-practices-for-coding-tips-for-writing-clean-efficient-and-maintainable-code-43ik)
+[![Blogging with Next.js and MDX: The ultimate combination for dynamic content](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Blogging_with_Next.js_and_MDX__The_ultimate_combination_for_dynamic_content.svg)](https://dev.to/basskibo/blogging-with-nextjs-and-mdx-the-ultimate-combination-for-dynamic-content-4ooe)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, January 8, 2023 at 11:11:51 PM
+> Last updated: Monday, January 9, 2023 at 5:17:14 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, January 8, 2023 at 11:11:56 PM
+> Last updated: Monday, January 9, 2023 at 5:17:18 AM
 
 > Showing 5 of 30 posts.
 
