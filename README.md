@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, January 8, 2023 at 5:46:57 PM
+> Last updated: Sunday, January 8, 2023 at 11:11:47 PM
 
 > Showing 5 of 12 posts.
 
-[![🚀Top 9+ Node.js Templates and Dashboards to Boost Your Workflow🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/🚀Top_9+_Node.js_Templates_and_Dashboards_to_Boost_Your_Workflow🚀.svg)](https://dev.to/artborovik/top-9-nodejs-templates-and-dashboards-to-boost-your-workflow-42b1)
-[![Quick Start with the ReductStore Python SDK](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Quick_Start_with_the_ReductStore_Python_SDK.svg)](https://dev.to/reductstore/quick-start-with-the-reductstore-python-sdk-n30)
-[![Build a reorderable list in react](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_a_reorderable_list_in_react.svg)](https://dev.to/h8moss/build-a-reorderable-list-in-react-29on)
-[![A year in review (2022)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_year_in_review_(2022).svg)](https://dev.to/enaughton/a-year-in-review-2022-232n)
-[![State Management in Frontend Development: An Overview and Case Study](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/State_Management_in_Frontend_Development__An_Overview_and_Case_Study.svg)](https://dev.to/hitonomi_0/state-management-in-frontend-development-an-overview-and-case-study-2a)
+[![NumPy 101: A Beginner's Guide to Data Science with Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/NumPy_101__A_Beginner's_Guide_to_Data_Science_with_Python.svg)](https://dev.to/anurag629/numpy-101-a-beginners-guide-to-data-science-with-python-49an)
+[![Progressive Web Apps : An introduction](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Progressive_Web_Apps___An_introduction.svg)](https://dev.to/vnaydev/progressive-web-apps-an-introduction-1k5j)
+[![rustup が "error: linker `cc` not found" で失敗 - Alpine Linux 3.17 (Rust 1.66)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/rustup_が__error__linker_`cc`_not_found__で失敗_-_Alpine_Linux_3.17_(Rust_1.66).svg)](https://dev.to/nabbisen/rustup-ga-error-linker-cc-not-found-deshi-bai-alpine-linux-317-rust-166-2k41)
+[![Fix rustup failed with "error: linker `cc` not found" on Alpine Linux 3.17 (Rust 1.66)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Fix_rustup_failed_with__error__linker_`cc`_not_found__on_Alpine_Linux_3.17_(Rust_1.66).svg)](https://dev.to/nabbisen/fix-rustup-failed-with-error-linker-cc-not-found-on-alpine-linux-317-rust-166-jam)
+[![The Fastest Way to Generate QR Codes: The QR Generator API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Fastest_Way_to_Generate_QR_Codes__The_QR_Generator_API.svg)](https://dev.to/amolkalra/the-fastest-way-to-generate-qr-codes-the-qr-generator-api-1hm2)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, January 8, 2023 at 5:47:00 PM
+> Last updated: Sunday, January 8, 2023 at 11:11:51 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, January 8, 2023 at 5:47:05 PM
+> Last updated: Sunday, January 8, 2023 at 11:11:56 PM
 
 > Showing 5 of 30 posts.
 
