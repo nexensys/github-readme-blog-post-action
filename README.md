@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, January 10, 2023 at 5:17:22 AM
+> Last updated: Tuesday, January 10, 2023 at 11:11:14 AM
 
 > Showing 5 of 12 posts.
 
-[![Tips From A Shy Introvert: How To Engage And Get More Involved In A Community](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Tips_From_A_Shy_Introvert__How_To_Engage_And_Get_More_Involved_In_A_Community.svg)](https://dev.to/adiatiayu/tips-from-a-shy-introvert-how-to-engage-and-get-more-involved-in-a-community-468b)
-[![Dockerizing your Angular application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Dockerizing_your_Angular_application.svg)](https://dev.to/claudemotoba/dockerizing-your-angular-application-a5f)
-[![Explore Docker-based bundles with JHipster and Entando 7.1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Explore_Docker-based_bundles_with_JHipster_and_Entando_7.1.svg)](https://dev.to/entando/explore-docker-based-bundles-with-jhipster-and-entando-71-1b84)
-[![My Visual JavaScript Array Cheatsheet That Went Viral on Linkedin 🤯🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/My_Visual_JavaScript_Array_Cheatsheet_That_Went_Viral_on_Linkedin_🤯🔥.svg)](https://dev.to/rammcodes/my-visual-javascript-array-cheatsheet-that-went-viral-on-linkedin-44bb)
-[![Setting up a Documentation Website for your Software Project with Hugo and Netlify](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Setting_up_a_Documentation_Website_for_your_Software_Project_with_Hugo_and_Netlify.svg)](https://dev.to/erikaheidi/setting-up-a-documentation-website-for-your-software-project-with-hugo-and-netlify-4bpj)
+[![Mergulhos profundos ou investigando sistemas](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Mergulhos_profundos_ou_investigando_sistemas.svg)](https://dev.to/pedrokiefer/mergulhos-profundos-ou-investigando-sistemas-314m)
+[![How to Create a Stunning GitHub Readme Profile](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Create_a_Stunning_GitHub_Readme_Profile.svg)](https://dev.to/patilganesh1010/how-to-create-a-stunning-github-readme-profile-5gg0)
+[![Rendering NativeScript Angular Templates and Components into images](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Rendering_NativeScript_Angular_Templates_and_Components_into_images.svg)](https://dev.to/valorsoftware/rendering-nativescript-angular-templates-and-components-into-images-56bk)
+[![Watch Area and Renderers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Watch_Area_and_Renderers.svg)](https://dev.to/codenameone/watch-area-and-renderers-2mi4)
+[![4 signs you’re over-engineering ⚓️](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/4_signs_you’re_over-engineering_⚓️.svg)](https://dev.to/christopherkade/4-signs-youre-over-engineering-1g8l)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, January 10, 2023 at 5:17:25 AM
+> Last updated: Tuesday, January 10, 2023 at 11:11:17 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, January 10, 2023 at 5:17:32 AM
+> Last updated: Tuesday, January 10, 2023 at 11:11:21 AM
 
 > Showing 5 of 30 posts.
 
