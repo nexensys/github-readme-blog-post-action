@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, January 9, 2023 at 11:11:45 AM
+> Last updated: Monday, January 9, 2023 at 5:49:51 PM
 
 > Showing 5 of 12 posts.
 
-[![Running the KubernetesPodOperator in different AWS accounts when using Amazon Managed Workflows for Apache Airflow v2.x](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Running_the_KubernetesPodOperator_in_different_AWS_accounts_when_using_Amazon_Managed_Workflows_for_Apache_Airflow_v2.x.svg)](https://dev.to/aws/running-the-kubernetespodoperator-in-different-aws-accounts-when-using-amazon-managed-workflows-for-apache-airflow-v2x-51l7)
-[![Axios GET and POST examples](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Axios_GET_and_POST_examples.svg)](https://dev.to/alakkadshaw/axios-get-and-post-examples-npi)
-[![Actually, dark mode can save the planet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Actually__dark_mode_can_save_the_planet.svg)](https://dev.to/shadowfaxrodeo/actually-dark-mode-can-save-the-planet-3fg6)
-[![Top 5+ useful ReactJS Plugins for 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_5+_useful_ReactJS_Plugins_for_2023.svg)](https://dev.to/fredy/top-5-useful-reactjs-plugins-for-2023-e97)
-[![Tracetest v0.9: Making Configuration Easy](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Tracetest_v0.9__Making_Configuration_Easy.svg)](https://dev.to/kubeshop/tracetest-v09-making-configuration-easy-15h1)
+[![Boost your programming with ChatGPT3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Boost_your_programming_with_ChatGPT3.svg)](https://dev.to/bogdanaks/boost-your-programming-with-chatgpt3-2a5m)
+[![Day 669 : Siesta](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Day_669___Siesta.svg)](https://dev.to/dwane/day-669-siesta-4nf6)
+[![The benefits of pair programming for new developers 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_benefits_of_pair_programming_for_new_developers_🚀.svg)](https://dev.to/ricovz/the-benefits-of-pair-programming-for-new-developers-in0)
+[![LeetCode's Defanging an IP Address - Java Solution Beats 100% Memory & 92% Runtime](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/LeetCode's_Defanging_an_IP_Address_-_Java_Solution_Beats_100__Memory___92__Runtime.svg)](https://dev.to/verisimilitude11/leetcodes-defanging-an-ip-address-java-solution-beats-100-memory-92-runtime-473p)
+[![Build a Serverless ChatGPT SMS Chatbot with the OpenAI API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_a_Serverless_ChatGPT_SMS_Chatbot_with_the_OpenAI_API.svg)](https://dev.to/twilio/build-a-serverless-chatgpt-sms-chatbot-with-the-openai-api-3am)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, January 9, 2023 at 11:11:49 AM
+> Last updated: Monday, January 9, 2023 at 5:49:55 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, January 9, 2023 at 11:11:52 AM
+> Last updated: Monday, January 9, 2023 at 5:50:01 PM
 
 > Showing 5 of 30 posts.
 
+[![API with NestJS #90. Using various types of SQL joins](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__90._Using_various_types_of_SQL_joins.svg)](https://wanago.io/2023/01/09/api-nestjs-sql-join/)
 [![GitHub - sun0day/autocannon-app: A web app based on autocannon](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_sun0day_autocannon-app__A_web_app_based_on_autocannon.svg)](https://github.com/sun0day/autocannon-app)
 [![Tried and Tested Top 10 Video Calling API | 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Tried_and_Tested_Top_10_Video_Calling_API___2023.svg)](https://dev.to/stutinath/top-video-calling-api-and-conferencing-sdk-47g0)
 [![<date-time> element](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_date-time__element.svg)](https://architrixs.github.io/date-time-custom-element/)
 [![Conditional API Responses For JavaScript vs. HTML Forms](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Conditional_API_Responses_For_JavaScript_vs._HTML_Forms.svg)](https://austingil.com/http-javascript-vs-html/)
-[![Docker Apps Organization Using Docker Homepage](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Docker_Apps_Organization_Using_Docker_Homepage.svg)](https://blog.niradler.com/docker-apps-organization-using-docker-homepage)
 
 
 <!-- post-list:end -->
