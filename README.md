@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, January 9, 2023 at 11:13:01 PM
+> Last updated: Tuesday, January 10, 2023 at 5:17:22 AM
 
 > Showing 5 of 12 posts.
 
-[![5 websites will make you a smarter 🏆 developer👩‍💻](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_websites_will_make_you_a_smarter_🏆_developer👩‍💻.svg)](https://dev.to/mahmoudessam/5-websites-will-make-you-a-smarter-developer-2jld)
-[![Ultimate Guide to Computer Science and Competitive Programming with the best resources on the Internet.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Ultimate_Guide_to_Computer_Science_and_Competitive_Programming_with_the_best_resources_on_the_Internet..svg)](https://dev.to/0xhriday/ultimate-guide-to-computer-science-and-competitive-programming-with-the-best-resources-on-the-internet-406n)
-[![An exercise in multi-threading, and lessons learned](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/An_exercise_in_multi-threading__and_lessons_learned.svg)](https://dev.to/taikedz/an-exercise-in-multi-threading-and-lessons-learned-461m)
-[![Boost your programming with ChatGPT3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Boost_your_programming_with_ChatGPT3.svg)](https://dev.to/bogdanaks/boost-your-programming-with-chatgpt3-2a5m)
-[![Developers - which tools have you ever paid for or wouldn't mind paying for?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Developers_-_which_tools_have_you_ever_paid_for_or_wouldn't_mind_paying_for_.svg)](https://dev.to/npobbathi/developers-which-tools-have-you-ever-paid-for-or-wouldnt-mind-paying-for-5ce9)
+[![Tips From A Shy Introvert: How To Engage And Get More Involved In A Community](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Tips_From_A_Shy_Introvert__How_To_Engage_And_Get_More_Involved_In_A_Community.svg)](https://dev.to/adiatiayu/tips-from-a-shy-introvert-how-to-engage-and-get-more-involved-in-a-community-468b)
+[![Dockerizing your Angular application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Dockerizing_your_Angular_application.svg)](https://dev.to/claudemotoba/dockerizing-your-angular-application-a5f)
+[![Explore Docker-based bundles with JHipster and Entando 7.1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Explore_Docker-based_bundles_with_JHipster_and_Entando_7.1.svg)](https://dev.to/entando/explore-docker-based-bundles-with-jhipster-and-entando-71-1b84)
+[![My Visual JavaScript Array Cheatsheet That Went Viral on Linkedin 🤯🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/My_Visual_JavaScript_Array_Cheatsheet_That_Went_Viral_on_Linkedin_🤯🔥.svg)](https://dev.to/rammcodes/my-visual-javascript-array-cheatsheet-that-went-viral-on-linkedin-44bb)
+[![Setting up a Documentation Website for your Software Project with Hugo and Netlify](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Setting_up_a_Documentation_Website_for_your_Software_Project_with_Hugo_and_Netlify.svg)](https://dev.to/erikaheidi/setting-up-a-documentation-website-for-your-software-project-with-hugo-and-netlify-4bpj)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, January 9, 2023 at 11:13:05 PM
+> Last updated: Tuesday, January 10, 2023 at 5:17:25 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, January 9, 2023 at 11:13:10 PM
+> Last updated: Tuesday, January 10, 2023 at 5:17:32 AM
 
 > Showing 5 of 30 posts.
 
+[![
+Investigators go easy on US-indicted - hvk.org
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Investigators_go_easy_on_US-indicted_-_hvk.org_.svg)](
+https://www.hvk.org/2011/1211/43.html
+)
 [![Notes on making typescript declaration files](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Notes_on_making_typescript_declaration_files.svg)](https://adropincalm.com/blog/notes-on-making-typescript-declaration-files/)
 [![GitHub - garu2/Skills-CSS: 🚀 Una colección de tips para ayudarte a mejorar sus habilidades de CSS 🪐](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_garu2_Skills-CSS__🚀_Una_colección_de_tips_para_ayudarte_a_mejorar_sus_habilidades_de_CSS_🪐.svg)](https://github.com/garu2/Skills-CSS)
 [![API with NestJS #90. Using various types of SQL joins](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__90._Using_various_types_of_SQL_joins.svg)](https://wanago.io/2023/01/09/api-nestjs-sql-join/)
 [![GitHub - sun0day/autocannon-app: A web app based on autocannon](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_sun0day_autocannon-app__A_web_app_based_on_autocannon.svg)](https://github.com/sun0day/autocannon-app)
-[![Tried and Tested Top 10 Video Calling API | 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Tried_and_Tested_Top_10_Video_Calling_API___2023.svg)](https://dev.to/stutinath/top-video-calling-api-and-conferencing-sdk-47g0)
 
 
 <!-- post-list:end -->
