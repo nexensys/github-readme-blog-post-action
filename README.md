@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, January 10, 2023 at 11:11:48 PM
+> Last updated: Wednesday, January 11, 2023 at 5:17:24 AM
 
 > Showing 5 of 12 posts.
 
-[![Create a Real Time Crypto Price App with Next.js, TypeScript, Tailwind CSS & Binance API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Create_a_Real_Time_Crypto_Price_App_with_Next.js__TypeScript__Tailwind_CSS___Binance_API.svg)](https://dev.to/codeofrelevancy/create-a-real-time-crypto-price-app-with-nextjs-typescript-tailwind-css-binance-api-1oc8)
-[![Creating a Stunning GitHub Profile README: Tips and Tricks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Creating_a_Stunning_GitHub_Profile_README__Tips_and_Tricks.svg)](https://dev.to/gaurav_meherkhamb/creating-a-stunning-github-profile-readme-tips-and-tricks-200l)
-[![How to Position Your Team for Success in Estimation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Position_Your_Team_for_Success_in_Estimation.svg)](https://dev.to/lambdatest/how-to-position-your-team-for-success-in-estimation-3d3l)
-[![Using GitHub API to fetch and display a GitHub user profile](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Using_GitHub_API_to_fetch_and_display_a_GitHub_user_profile.svg)](https://dev.to/falanatolu/using-github-api-to-fetch-and-display-a-github-user-profile-26g6)
-[![Designing a Strong Call-to-Action for Your Landing Page](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Designing_a_Strong_Call-to-Action_for_Your_Landing_Page.svg)](https://dev.to/mohsenkamrani/designing-a-strong-call-to-action-for-your-landing-page-26pb)
+[![2023 Frontend Full Stack Repository](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/2023_Frontend_Full_Stack_Repository.svg)](https://dev.to/shreyvijayvargiya/2023-frontend-full-stack-repository-6l8)
+[![A Brief History of API: RPC, REST, GraphQL, tRPC](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_Brief_History_of_API__RPC__REST__GraphQL__tRPC.svg)](https://dev.to/zenstack/a-brief-history-of-api-rpc-rest-graphql-trpc-fme)
+[![How to set mongoose schema field from list of strings (enum)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_set_mongoose_schema_field_from_list_of_strings_(enum).svg)](https://dev.to/codever/how-to-set-mongoose-schema-field-from-list-of-strings-enum-3jb4)
+[![How to set value of input field in angular template](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_set_value_of_input_field_in_angular_template.svg)](https://dev.to/codever/how-to-set-value-of-input-field-in-angular-template-4j6e)
+[![Migrating to the Cloud: Best practices and pitfalls to avoid](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Migrating_to_the_Cloud__Best_practices_and_pitfalls_to_avoid.svg)](https://dev.to/roy8/migrating-to-the-cloud-best-practices-and-pitfalls-to-avoid-3b3h)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, January 10, 2023 at 11:11:51 PM
+> Last updated: Wednesday, January 11, 2023 at 5:17:27 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, January 10, 2023 at 11:11:55 PM
+> Last updated: Wednesday, January 11, 2023 at 5:17:30 AM
 
 > Showing 5 of 30 posts.
 
+[![Tutorial: Build a Mind Map App with React Flow - React Flow](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Tutorial__Build_a_Mind_Map_App_with_React_Flow_-_React_Flow.svg)](https://reactflow.dev/blog/mind-map-app-with-react-flow/)
+[![billboard.js 3.7 release: new treemap type support!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/billboard.js_3.7_release__new_treemap_type_support!.svg)](https://netil.medium.com/billboard-js-3-7-release-new-treemap-type-support-de9c8e887de1)
+[![Concepts behind modern frameworks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Concepts_behind_modern_frameworks.svg)](https://dev.to/lexlohr/concepts-behind-modern-frameworks-4m1g)
 [![Top Custom app development company in India, USA, Aus & UAE](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Top_Custom_app_development_company_in_India__USA__Aus___UAE.svg)](https://codeflashinfotech.com/)
 [![The State of JS 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_State_of_JS_2022.svg)](https://2022.stateofjs.com/en-US/)
-[![Notes on making typescript declaration files](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Notes_on_making_typescript_declaration_files.svg)](https://adropincalm.com/blog/notes-on-making-typescript-declaration-files/)
-[![GitHub - garu2/Skills-CSS: 🚀 Una colección de tips para ayudarte a mejorar sus habilidades de CSS 🪐](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_garu2_Skills-CSS__🚀_Una_colección_de_tips_para_ayudarte_a_mejorar_sus_habilidades_de_CSS_🪐.svg)](https://github.com/garu2/Skills-CSS)
-[![API with NestJS #90. Using various types of SQL joins](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__90._Using_various_types_of_SQL_joins.svg)](https://wanago.io/2023/01/09/api-nestjs-sql-join/)
 
 
 <!-- post-list:end -->
