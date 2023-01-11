@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, January 10, 2023 at 11:11:14 AM
+> Last updated: Tuesday, January 10, 2023 at 5:48:15 PM
 
 > Showing 5 of 12 posts.
 
-[![Mergulhos profundos ou investigando sistemas](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Mergulhos_profundos_ou_investigando_sistemas.svg)](https://dev.to/pedrokiefer/mergulhos-profundos-ou-investigando-sistemas-314m)
-[![How to Create a Stunning GitHub Readme Profile](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Create_a_Stunning_GitHub_Readme_Profile.svg)](https://dev.to/patilganesh1010/how-to-create-a-stunning-github-readme-profile-5gg0)
-[![Rendering NativeScript Angular Templates and Components into images](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Rendering_NativeScript_Angular_Templates_and_Components_into_images.svg)](https://dev.to/valorsoftware/rendering-nativescript-angular-templates-and-components-into-images-56bk)
-[![Watch Area and Renderers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Watch_Area_and_Renderers.svg)](https://dev.to/codenameone/watch-area-and-renderers-2mi4)
-[![4 signs you’re over-engineering ⚓️](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/4_signs_you’re_over-engineering_⚓️.svg)](https://dev.to/christopherkade/4-signs-youre-over-engineering-1g8l)
+[![#DevDiscuss: Uses of WebAssembly](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/_DevDiscuss__Uses_of_WebAssembly.svg)](https://dev.to/devteam/live-devdiscuss-uses-of-webassembly-516l)
+[![23 of the best Eleventy Themes (Starters) for 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/23_of_the_best_Eleventy_Themes_(Starters)_for_2023.svg)](https://dev.to/cloudcannon/23-of-the-best-eleventy-themes-starters-for-2023-edd)
+[![JavaScript Callbacks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/JavaScript_Callbacks.svg)](https://dev.to/catherineisonline/javascript-callbacks-24cp)
+[![Who is working on building communities?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Who_is_working_on_building_communities_.svg)](https://dev.to/rosiesherry/who-is-working-on-building-communities-11kk)
+[![Import maps 101](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Import_maps_101.svg)](https://dev.to/uploadcare/import-maps-101-2f28)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, January 10, 2023 at 11:11:17 AM
+> Last updated: Tuesday, January 10, 2023 at 5:48:19 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, January 10, 2023 at 11:11:21 AM
+> Last updated: Tuesday, January 10, 2023 at 5:48:26 PM
 
 > Showing 5 of 30 posts.
 
-[![
-Investigators go easy on US-indicted - hvk.org
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Investigators_go_easy_on_US-indicted_-_hvk.org_.svg)](
-https://www.hvk.org/2011/1211/43.html
-)
 [![Notes on making typescript declaration files](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Notes_on_making_typescript_declaration_files.svg)](https://adropincalm.com/blog/notes-on-making-typescript-declaration-files/)
 [![GitHub - garu2/Skills-CSS: 🚀 Una colección de tips para ayudarte a mejorar sus habilidades de CSS 🪐](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_garu2_Skills-CSS__🚀_Una_colección_de_tips_para_ayudarte_a_mejorar_sus_habilidades_de_CSS_🪐.svg)](https://github.com/garu2/Skills-CSS)
 [![API with NestJS #90. Using various types of SQL joins](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__90._Using_various_types_of_SQL_joins.svg)](https://wanago.io/2023/01/09/api-nestjs-sql-join/)
 [![GitHub - sun0day/autocannon-app: A web app based on autocannon](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_sun0day_autocannon-app__A_web_app_based_on_autocannon.svg)](https://github.com/sun0day/autocannon-app)
+[![Tried and Tested Top 10 Video Calling API | 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Tried_and_Tested_Top_10_Video_Calling_API___2023.svg)](https://dev.to/stutinath/top-video-calling-api-and-conferencing-sdk-47g0)
 
 
 <!-- post-list:end -->
