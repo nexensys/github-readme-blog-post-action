@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, January 11, 2023 at 5:17:24 AM
+> Last updated: Wednesday, January 11, 2023 at 11:13:55 AM
 
 > Showing 5 of 12 posts.
 
-[![2023 Frontend Full Stack Repository](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/2023_Frontend_Full_Stack_Repository.svg)](https://dev.to/shreyvijayvargiya/2023-frontend-full-stack-repository-6l8)
-[![A Brief History of API: RPC, REST, GraphQL, tRPC](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_Brief_History_of_API__RPC__REST__GraphQL__tRPC.svg)](https://dev.to/zenstack/a-brief-history-of-api-rpc-rest-graphql-trpc-fme)
-[![How to set mongoose schema field from list of strings (enum)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_set_mongoose_schema_field_from_list_of_strings_(enum).svg)](https://dev.to/codever/how-to-set-mongoose-schema-field-from-list-of-strings-enum-3jb4)
-[![How to set value of input field in angular template](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_set_value_of_input_field_in_angular_template.svg)](https://dev.to/codever/how-to-set-value-of-input-field-in-angular-template-4j6e)
-[![Migrating to the Cloud: Best practices and pitfalls to avoid](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Migrating_to_the_Cloud__Best_practices_and_pitfalls_to_avoid.svg)](https://dev.to/roy8/migrating-to-the-cloud-best-practices-and-pitfalls-to-avoid-3b3h)
+[![Computer Science: Basic Concepts of Data Processing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Computer_Science__Basic_Concepts_of_Data_Processing.svg)](https://dev.to/bcostaaa01/computer-science-basic-concepts-of-data-processing-54md)
+[![make your JavaScript code more efficient, readable, and maintainable.(Part 1)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/make_your_JavaScript_code_more_efficient__readable__and_maintainable.(Part_1).svg)](https://dev.to/malikhaziq/make-your-javascript-code-more-efficient-readable-and-maintainable-3h12)
+[![We're on vue.land](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/We're_on_vue.land.svg)](https://dev.to/devteam/were-on-vueland-21d3)
+[![How I archived 100 million PDF documents... (Part 1)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_I_archived_100_million_PDF_documents..._(Part_1).svg)](https://dev.to/laxika/how-i-archived-100-million-pdf-documents-part-1-1ha7)
+[![Automate Updating Major Release Tag on New Releases of a GitHub Action](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Automate_Updating_Major_Release_Tag_on_New_Releases_of_a_GitHub_Action.svg)](https://dev.to/cicirello/automate-updating-major-release-tag-on-new-releases-of-a-github-action-cci)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, January 11, 2023 at 5:17:27 AM
+> Last updated: Wednesday, January 11, 2023 at 11:13:58 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, January 11, 2023 at 5:17:30 AM
+> Last updated: Wednesday, January 11, 2023 at 11:14:01 AM
 
 > Showing 5 of 30 posts.
 
+[![How to Destructure Props in Vue (Composition API)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Destructure_Props_in_Vue_(Composition_API).svg)](https://dmitripavlutin.com/props-destructure-vue-composition/)
 [![Tutorial: Build a Mind Map App with React Flow - React Flow](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Tutorial__Build_a_Mind_Map_App_with_React_Flow_-_React_Flow.svg)](https://reactflow.dev/blog/mind-map-app-with-react-flow/)
 [![billboard.js 3.7 release: new treemap type support!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/billboard.js_3.7_release__new_treemap_type_support!.svg)](https://netil.medium.com/billboard-js-3-7-release-new-treemap-type-support-de9c8e887de1)
 [![Concepts behind modern frameworks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Concepts_behind_modern_frameworks.svg)](https://dev.to/lexlohr/concepts-behind-modern-frameworks-4m1g)
 [![Top Custom app development company in India, USA, Aus & UAE](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Top_Custom_app_development_company_in_India__USA__Aus___UAE.svg)](https://codeflashinfotech.com/)
-[![The State of JS 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_State_of_JS_2022.svg)](https://2022.stateofjs.com/en-US/)
 
 
 <!-- post-list:end -->
