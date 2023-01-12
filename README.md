@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, January 11, 2023 at 5:47:50 PM
+> Last updated: Wednesday, January 11, 2023 at 11:11:50 PM
 
 > Showing 5 of 12 posts.
 
-[![React JSX for Beginners: How to Build Dynamic Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/React_JSX_for_Beginners__How_to_Build_Dynamic_Components.svg)](https://dev.to/mr_walkr/react-jsx-for-beginners-how-to-build-dynamic-components-13gc)
-[![What is the best solution to host a simple JSON and fetch it for free?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_the_best_solution_to_host_a_simple_JSON_and_fetch_it_for_free_.svg)](https://dev.to/cyril/what-is-the-best-solution-to-host-a-simple-json-and-fetch-it-for-free-28dc)
-[![Blocks and methods overloading](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Blocks_and_methods_overloading.svg)](https://dev.to/franciscello/blocks-and-methods-overloading-31i2)
-[![What is callback hell?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_callback_hell_.svg)](https://dev.to/catherineisonline/what-is-callback-hell-3emp)
-[![Retro Computing is Fun](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Retro_Computing_is_Fun.svg)](https://dev.to/lefebvre/retro-computing-is-fun-2ami)
+[![We asked ChatGPT how to use our service. Here is what AI answered](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/We_asked_ChatGPT_how_to_use_our_service._Here_is_what_AI_answered.svg)](https://dev.to/uploadcare/we-asked-chatgpt-how-to-use-our-service-here-is-what-ai-answered-1jf2)
+[![Top 5 Reasons why Django can be used for your next project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_5_Reasons_why_Django_can_be_used_for_your_next_project.svg)](https://dev.to/wasava/top-5-reasons-why-django-can-be-used-for-your-next-project-3odg)
+[![How setup Firebase on your Frontend project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_setup_Firebase_on_your_Frontend_project.svg)](https://dev.to/nicolasmontielf/how-setup-firebase-on-your-frontend-project-1ap)
+[![6 master tips you'll ever need to set up reliable CI systems](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/6_master_tips_you'll_ever_need_to_set_up_reliable_CI_systems.svg)](https://dev.to/pragyanatvade/6-master-tips-youll-ever-need-to-set-up-reliable-ci-systems-5b88)
+[![6 Ways to Delete a Property In JavaScript You Must Know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/6_Ways_to_Delete_a_Property_In_JavaScript_You_Must_Know.svg)](https://dev.to/mohsenkamrani/6-ways-to-delete-a-property-in-javascript-you-must-know-912)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, January 11, 2023 at 5:47:53 PM
+> Last updated: Wednesday, January 11, 2023 at 11:11:53 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, January 11, 2023 at 5:47:55 PM
+> Last updated: Wednesday, January 11, 2023 at 11:11:59 PM
 
 > Showing 5 of 30 posts.
 
