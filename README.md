@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, January 11, 2023 at 11:11:50 PM
+> Last updated: Thursday, January 12, 2023 at 5:18:29 AM
 
 > Showing 5 of 12 posts.
 
-[![We asked ChatGPT how to use our service. Here is what AI answered](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/We_asked_ChatGPT_how_to_use_our_service._Here_is_what_AI_answered.svg)](https://dev.to/uploadcare/we-asked-chatgpt-how-to-use-our-service-here-is-what-ai-answered-1jf2)
-[![Top 5 Reasons why Django can be used for your next project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_5_Reasons_why_Django_can_be_used_for_your_next_project.svg)](https://dev.to/wasava/top-5-reasons-why-django-can-be-used-for-your-next-project-3odg)
-[![How setup Firebase on your Frontend project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_setup_Firebase_on_your_Frontend_project.svg)](https://dev.to/nicolasmontielf/how-setup-firebase-on-your-frontend-project-1ap)
-[![6 master tips you'll ever need to set up reliable CI systems](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/6_master_tips_you'll_ever_need_to_set_up_reliable_CI_systems.svg)](https://dev.to/pragyanatvade/6-master-tips-youll-ever-need-to-set-up-reliable-ci-systems-5b88)
-[![6 Ways to Delete a Property In JavaScript You Must Know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/6_Ways_to_Delete_a_Property_In_JavaScript_You_Must_Know.svg)](https://dev.to/mohsenkamrani/6-ways-to-delete-a-property-in-javascript-you-must-know-912)
+[![Understanding the basics and advanced concepts of RDBMS and SQL for data science and analysis](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Understanding_the_basics_and_advanced_concepts_of_RDBMS_and_SQL_for_data_science_and_analysis.svg)](https://dev.to/anurag629/understanding-the-basics-and-advanced-concepts-of-rdbms-and-sql-for-data-science-and-analysis-5h4l)
+[![21 questions you’ll ask if you code a VSCode extension](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/21_questions_you’ll_ask_if_you_code_a_VSCode_extension.svg)](https://dev.to/promyze/21-questions-youll-ask-if-you-code-a-vscode-extension-5g3n)
+[![Use a help target in your Makefile](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Use_a_help_target_in_your_Makefile.svg)](https://dev.to/aws-builders/use-a-help-target-in-your-makefile-46a3)
+[![TOP 6 React Native libraries with native performance ⚡️](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/TOP_6_React_Native_libraries_with_native_performance_⚡️.svg)](https://dev.to/kirill3333/top-6-react-native-libraries-with-native-performance-33d5)
+[![Understanding Docker: part 38 – System](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Understanding_Docker__part_38_–_System.svg)](https://dev.to/aurelievache/understanding-docker-part-38-system-4nob)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, January 11, 2023 at 11:11:53 PM
+> Last updated: Thursday, January 12, 2023 at 5:18:33 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, January 11, 2023 at 11:11:59 PM
+> Last updated: Thursday, January 12, 2023 at 5:18:36 AM
 
 > Showing 5 of 30 posts.
 
