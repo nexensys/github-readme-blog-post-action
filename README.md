@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, January 12, 2023 at 11:12:09 PM
+> Last updated: Friday, January 13, 2023 at 5:16:36 AM
 
 > Showing 5 of 12 posts.
 
-[![React Components 101: Building Reusable Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/React_Components_101__Building_Reusable_Components.svg)](https://dev.to/devarshishimpi/react-components-101-building-reusable-components-3pf9)
-[![Component Testing with Cypress](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Component_Testing_with_Cypress.svg)](https://dev.to/nickytonline/component-testing-with-cypress-kog)
-[![Learn To Create An App From Scratch In 13 Steps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Learn_To_Create_An_App_From_Scratch_In_13_Steps.svg)](https://dev.to/s04282976alisha/learn-to-create-an-app-from-scratch-in-13-steps-45c)
-[![Exploring the possibilities: How AI is enhancing the human creativity](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Exploring_the_possibilities__How_AI_is_enhancing_the_human_creativity.svg)](https://dev.to/gaurav_meherkhamb/exploring-the-possibilities-how-ai-is-enhancing-the-human-creativity-2cf1)
-[![JavaScript Console Types and Tricks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/JavaScript_Console_Types_and_Tricks.svg)](https://dev.to/akashkumaravel/javascript-console-types-and-tricks-1lef)
+[![GKE Cost Optimization: 10 Steps For A Lower Cloud Bill In 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/GKE_Cost_Optimization__10_Steps_For_A_Lower_Cloud_Bill_In_2023.svg)](https://dev.to/castai/gke-cost-optimization-10-steps-for-a-lower-cloud-bill-in-2023-67a)
+[![Custom Notification Template with JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Custom_Notification_Template_with_JS.svg)](https://dev.to/shubhamtiwari909/custom-notification-template-with-js-5bc)
+[![MinIO on OpenBSD 7.2: インストール](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/MinIO_on_OpenBSD_7.2__インストール.svg)](https://dev.to/nabbisen/minio-on-openbsd-72-insutoru-nod)
+[![The Best AWS re:Invent Ever? Looking Back at Eleven Editions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Best_AWS_re_Invent_Ever__Looking_Back_at_Eleven_Editions.svg)](https://dev.to/aws-heroes/the-best-aws-reinvent-ever-looking-back-at-eleven-editions-2mpg)
+[![Linear Algebra for Data Science: Understanding and Applying Vectors, Matrices and their Operations using Numpy](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Linear_Algebra_for_Data_Science__Understanding_and_Applying_Vectors__Matrices_and_their_Operations_using_Numpy.svg)](https://dev.to/anurag629/linear-algebra-for-data-science-understanding-and-applying-vectors-matrices-and-their-operations-using-numpy-5a7m)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, January 12, 2023 at 11:12:11 PM
+> Last updated: Friday, January 13, 2023 at 5:16:39 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, January 12, 2023 at 11:12:14 PM
+> Last updated: Friday, January 13, 2023 at 5:16:43 AM
 
 > Showing 5 of 30 posts.
 
