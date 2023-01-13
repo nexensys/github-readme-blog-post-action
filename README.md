@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, January 13, 2023 at 5:16:36 AM
+> Last updated: Friday, January 13, 2023 at 11:10:57 AM
 
 > Showing 5 of 12 posts.
 
-[![GKE Cost Optimization: 10 Steps For A Lower Cloud Bill In 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/GKE_Cost_Optimization__10_Steps_For_A_Lower_Cloud_Bill_In_2023.svg)](https://dev.to/castai/gke-cost-optimization-10-steps-for-a-lower-cloud-bill-in-2023-67a)
-[![Custom Notification Template with JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Custom_Notification_Template_with_JS.svg)](https://dev.to/shubhamtiwari909/custom-notification-template-with-js-5bc)
-[![MinIO on OpenBSD 7.2: インストール](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/MinIO_on_OpenBSD_7.2__インストール.svg)](https://dev.to/nabbisen/minio-on-openbsd-72-insutoru-nod)
-[![The Best AWS re:Invent Ever? Looking Back at Eleven Editions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Best_AWS_re_Invent_Ever__Looking_Back_at_Eleven_Editions.svg)](https://dev.to/aws-heroes/the-best-aws-reinvent-ever-looking-back-at-eleven-editions-2mpg)
-[![Linear Algebra for Data Science: Understanding and Applying Vectors, Matrices and their Operations using Numpy](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Linear_Algebra_for_Data_Science__Understanding_and_Applying_Vectors__Matrices_and_their_Operations_using_Numpy.svg)](https://dev.to/anurag629/linear-algebra-for-data-science-understanding-and-applying-vectors-matrices-and-their-operations-using-numpy-5a7m)
+[![Don't Burn Out: Self-Care Tips for Software Engineers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Don't_Burn_Out__Self-Care_Tips_for_Software_Engineers.svg)](https://dev.to/omrigm/dont-burn-out-self-care-tips-for-software-engineers-49fl)
+[![Share your locally hosted web app using Codespaces](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Share_your_locally_hosted_web_app_using_Codespaces.svg)](https://dev.to/github/share-your-locally-hosted-web-app-using-codespaces-276k)
+[![Make Money As a Technical Writer ✍🏻](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Make_Money_As_a_Technical_Writer_✍🏻.svg)](https://dev.to/patilganesh1010/make-money-as-a-technical-writer-4ifl)
+[![7 steps to Angular Material Dialog instead of Angular Component](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/7_steps_to_Angular_Material_Dialog_instead_of_Angular_Component.svg)](https://dev.to/juliecherner/7-steps-to-angular-material-dialog-instead-of-angular-component-4jlb)
+[![5 GitHub Repositories That Will Make Your Life Easier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_GitHub_Repositories_That_Will_Make_Your_Life_Easier.svg)](https://dev.to/onlydevs_/5-github-repositories-that-will-make-your-life-easier-l0j)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, January 13, 2023 at 5:16:39 AM
+> Last updated: Friday, January 13, 2023 at 11:11:01 AM
 
 > Showing 4 of 4 posts.
 
+[![Java-Script Jarre](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Java-Script_Jarre.svg)](https://javascriptweekly.com/issues/621)
 [![Looking at both 2022 and 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Looking_at_both_2022_and_2023.svg)](https://javascriptweekly.com/issues/620)
 [![A new jQuery release for Xmas](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/A_new_jQuery_release_for_Xmas.svg)](https://javascriptweekly.com/issues/619)
 [![Vite 4.0 released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Vite_4.0_released.svg)](https://javascriptweekly.com/issues/618)
-[![Splitting up sentences with Intl.Segmenter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Splitting_up_sentences_with_Intl.Segmenter.svg)](https://javascriptweekly.com/issues/617)
 
 
 ## Echo JS
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, January 13, 2023 at 5:16:43 AM
+> Last updated: Friday, January 13, 2023 at 11:11:04 AM
 
 > Showing 5 of 30 posts.
 
