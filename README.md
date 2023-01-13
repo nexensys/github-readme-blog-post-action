@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, January 12, 2023 at 5:48:14 PM
+> Last updated: Thursday, January 12, 2023 at 11:12:09 PM
 
 > Showing 5 of 12 posts.
 
-[![How to Create an Astro Search component 🔍🤔](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Create_an_Astro_Search_component_🔍🤔.svg)](https://dev.to/danidiaztech/how-to-create-an-astro-search-component-2731)
-[![10 Extensions to Improve your Productivity with Notion](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/10_Extensions_to_Improve_your_Productivity_with_Notion.svg)](https://dev.to/zt4ff_1/10-extensions-to-improve-your-productivity-with-notion-9gh)
-[![Portfolio Website Inspired by VS Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Portfolio_Website_Inspired_by_VS_Code.svg)](https://dev.to/lotfijb/portfolio-website-inspired-by-vs-code-103k)
-[![Startup Growth & Metrics: What to Measure & When](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Startup_Growth___Metrics__What_to_Measure___When.svg)](https://dev.to/linearb/startup-growth-metrics-what-to-measure-when-2in0)
-[![8 Juicy Chrome Extensions for Web Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/8_Juicy_Chrome_Extensions_for_Web_Developers.svg)](https://dev.to/arafat4693/8-juicy-chrome-extensions-for-web-developers-3ien)
+[![React Components 101: Building Reusable Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/React_Components_101__Building_Reusable_Components.svg)](https://dev.to/devarshishimpi/react-components-101-building-reusable-components-3pf9)
+[![Component Testing with Cypress](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Component_Testing_with_Cypress.svg)](https://dev.to/nickytonline/component-testing-with-cypress-kog)
+[![Learn To Create An App From Scratch In 13 Steps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Learn_To_Create_An_App_From_Scratch_In_13_Steps.svg)](https://dev.to/s04282976alisha/learn-to-create-an-app-from-scratch-in-13-steps-45c)
+[![Exploring the possibilities: How AI is enhancing the human creativity](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Exploring_the_possibilities__How_AI_is_enhancing_the_human_creativity.svg)](https://dev.to/gaurav_meherkhamb/exploring-the-possibilities-how-ai-is-enhancing-the-human-creativity-2cf1)
+[![JavaScript Console Types and Tricks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/JavaScript_Console_Types_and_Tricks.svg)](https://dev.to/akashkumaravel/javascript-console-types-and-tricks-1lef)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, January 12, 2023 at 5:48:18 PM
+> Last updated: Thursday, January 12, 2023 at 11:12:11 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, January 12, 2023 at 5:48:21 PM
+> Last updated: Thursday, January 12, 2023 at 11:12:14 PM
 
 > Showing 5 of 30 posts.
 
