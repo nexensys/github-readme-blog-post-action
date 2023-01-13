@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, January 12, 2023 at 11:12:17 AM
+> Last updated: Thursday, January 12, 2023 at 5:48:14 PM
 
 > Showing 5 of 12 posts.
 
-[![Train a language model from scratch](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Train_a_language_model_from_scratch.svg)](https://dev.to/neuml/train-a-language-model-from-scratch-5o)
-[![One-Click Code Block Copying in React with react-copy-to-clipboard](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/One-Click_Code_Block_Copying_in_React_with_react-copy-to-clipboard.svg)](https://dev.to/basskibo/one-click-code-block-copying-in-react-with-react-copy-to-clipboard-4pb6)
-[![How to produce type-safe GraphQL queries using TypeScript 💥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_produce_type-safe_GraphQL_queries_using_TypeScript_💥.svg)](https://dev.to/livecycle/how-to-produce-type-safe-graphql-queries-using-typescript-52pe)
-[![Creating a Weather App with GUI with the help of Tkinter and OpenWeatherMap API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Creating_a_Weather_App_with_GUI_with_the_help_of_Tkinter_and_OpenWeatherMap_API.svg)](https://dev.to/ashishpandey/creating-a-gui-weather-app-with-tkinter-and-openweathermap-api-3oog)
-[![5 AI Tools That Will Increase Your Productivity As A Developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_AI_Tools_That_Will_Increase_Your_Productivity_As_A_Developer.svg)](https://dev.to/onlydevs_/5-ai-tools-that-will-increase-your-productivity-as-a-developer-42b)
+[![How to Create an Astro Search component 🔍🤔](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Create_an_Astro_Search_component_🔍🤔.svg)](https://dev.to/danidiaztech/how-to-create-an-astro-search-component-2731)
+[![10 Extensions to Improve your Productivity with Notion](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/10_Extensions_to_Improve_your_Productivity_with_Notion.svg)](https://dev.to/zt4ff_1/10-extensions-to-improve-your-productivity-with-notion-9gh)
+[![Portfolio Website Inspired by VS Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Portfolio_Website_Inspired_by_VS_Code.svg)](https://dev.to/lotfijb/portfolio-website-inspired-by-vs-code-103k)
+[![Startup Growth & Metrics: What to Measure & When](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Startup_Growth___Metrics__What_to_Measure___When.svg)](https://dev.to/linearb/startup-growth-metrics-what-to-measure-when-2in0)
+[![8 Juicy Chrome Extensions for Web Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/8_Juicy_Chrome_Extensions_for_Web_Developers.svg)](https://dev.to/arafat4693/8-juicy-chrome-extensions-for-web-developers-3ien)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, January 12, 2023 at 11:12:21 AM
+> Last updated: Thursday, January 12, 2023 at 5:48:18 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, January 12, 2023 at 11:12:25 AM
+> Last updated: Thursday, January 12, 2023 at 5:48:21 PM
 
 > Showing 5 of 30 posts.
 
+[![Get the Last Element in an Array in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Get_the_Last_Element_in_an_Array_in_JavaScript.svg)](
+https://masteringjs.io/tutorials/fundamentals/get-last-element-array
+)
 [![GitHub - oslabs-beta/KnightOwl: An npm package of GraphQL middleware to protect you from malicious queries.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_oslabs-beta_KnightOwl__An_npm_package_of_GraphQL_middleware_to_protect_you_from_malicious_queries..svg)](https://github.com/oslabs-beta/KnightOwl)
 [![Brief History of Frontend UI Tools and Newest Guy on the Block](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Brief_History_of_Frontend_UI_Tools_and_Newest_Guy_on_the_Block.svg)](https://dev.to/codux/brief-history-of-frontend-ui-tools-and-newest-guy-on-the-block-jm)
 [![How to Destructure Props in Vue (Composition API)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Destructure_Props_in_Vue_(Composition_API).svg)](https://dmitripavlutin.com/props-destructure-vue-composition/)
 [![Tutorial: Build a Mind Map App with React Flow - React Flow](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Tutorial__Build_a_Mind_Map_App_with_React_Flow_-_React_Flow.svg)](https://reactflow.dev/blog/mind-map-app-with-react-flow/)
-[![billboard.js 3.7 release: new treemap type support!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/billboard.js_3.7_release__new_treemap_type_support!.svg)](https://netil.medium.com/billboard-js-3-7-release-new-treemap-type-support-de9c8e887de1)
 
 
 <!-- post-list:end -->
