@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, January 14, 2023 at 5:14:39 AM
+> Last updated: Saturday, January 14, 2023 at 11:09:49 AM
 
 > Showing 5 of 12 posts.
 
-[![Go custom struct validation - the idiomatic way](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Go_custom_struct_validation_-_the_idiomatic_way.svg)](https://dev.to/pankhudib/go-custom-struct-validation-the-idiomatic-way-53m8)
-[![Build your porfolio using Next.jS and TailwindCSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_your_porfolio_using_Next.jS_and_TailwindCSS.svg)](https://dev.to/munene/build-your-porfolio-using-nextjs-and-tailwindcss-5207)
-[![Top 10 extensiones para VSCode](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_10_extensiones_para_VSCode.svg)](https://dev.to/anthonytrillo/top-10-extensiones-para-vscode-2lgi)
-[![How to use ChatGPT to boost your developer productivity](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_use_ChatGPT_to_boost_your_developer_productivity.svg)](https://dev.to/developeratul/how-to-use-chatgpt-to-boost-your-developer-productivity-3e5a)
-[![GOlang ile şifreleme işlemleri için crypto paketi](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/GOlang_ile_şifreleme_işlemleri_için_crypto_paketi.svg)](https://dev.to/aciklab/golang-ile-sifreleme-islemleri-icin-crypto-paketi-eaa)
+[![51 AI tools you should be using for life, programming, content creation and everything else](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/51_AI_tools_you_should_be_using_for_life__programming__content_creation_and_everything_else.svg)](https://dev.to/andrewbaisden/51-ai-tools-you-should-be-using-for-life-programming-content-creation-and-everything-else-3n8k)
+[![Avoiding common pitfalls with ControlValueAccessors in Angular](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Avoiding_common_pitfalls_with_ControlValueAccessors_in_Angular.svg)](https://dev.to/valorsoftware/avoiding-common-pitfalls-with-controlvalueaccessors-in-angular-4m57)
+[![Using Beautiful Material Themes from Material Theme Builder in Stylify CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Using_Beautiful_Material_Themes_from_Material_Theme_Builder_in_Stylify_CSS.svg)](https://dev.to/machy8/using-beautiful-material-themes-from-material-theme-builder-in-stylify-css-430k)
+[![Y U NO USE the JS native APIs?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Y_U_NO_USE_the_JS_native_APIs_.svg)](https://dev.to/noriller/y-u-no-use-the-js-native-apis-39dh)
+[![Introduction of OOP](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Introduction_of_OOP.svg)](https://dev.to/khoshimov23/introduction-of-oop-d17)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, January 14, 2023 at 5:14:42 AM
+> Last updated: Saturday, January 14, 2023 at 11:09:53 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, January 14, 2023 at 5:14:47 AM
+> Last updated: Saturday, January 14, 2023 at 11:09:57 AM
 
 > Showing 5 of 30 posts.
 
