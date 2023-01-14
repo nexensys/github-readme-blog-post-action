@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, January 13, 2023 at 11:10:31 PM
+> Last updated: Saturday, January 14, 2023 at 5:14:39 AM
 
 > Showing 5 of 12 posts.
 
-[![How to integrate chatGPT in WhatsApp on Android?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_integrate_chatGPT_in_WhatsApp_on_Android_.svg)](https://dev.to/dhruvjoshi9/how-to-integrate-chatgpt-in-whatsapp-on-android-1npn)
-[![9 Common JavaScript Interview Questions You Might Not Know The Answer For.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/9_Common_JavaScript_Interview_Questions_You_Might_Not_Know_The_Answer_For..svg)](https://dev.to/gustavupp/9-common-javascript-interview-questions-you-might-not-know-the-answer-for-3a8g)
-[![How to build a portfolio website with React & Tailwind CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_build_a_portfolio_website_with_React___Tailwind_CSS.svg)](https://dev.to/coderamrin/how-to-build-a-portfolio-website-with-react-tailwind-css-fni)
-[!["Building with Node.js: Navigating the World of Best Practices and Best Tools"](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/_Building_with_Node.js__Navigating_the_World_of_Best_Practices_and_Best_Tools_.svg)](https://dev.to/hanishrao/building-with-nodejs-navigating-the-world-of-best-practices-and-best-tools-2c2n)
-[![Using Live Suffix in LiveView](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Using_Live_Suffix_in_LiveView.svg)](https://dev.to/clsource/using-live-suffix-in-liveview-2m07)
+[![Go custom struct validation - the idiomatic way](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Go_custom_struct_validation_-_the_idiomatic_way.svg)](https://dev.to/pankhudib/go-custom-struct-validation-the-idiomatic-way-53m8)
+[![Build your porfolio using Next.jS and TailwindCSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_your_porfolio_using_Next.jS_and_TailwindCSS.svg)](https://dev.to/munene/build-your-porfolio-using-nextjs-and-tailwindcss-5207)
+[![Top 10 extensiones para VSCode](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_10_extensiones_para_VSCode.svg)](https://dev.to/anthonytrillo/top-10-extensiones-para-vscode-2lgi)
+[![How to use ChatGPT to boost your developer productivity](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_use_ChatGPT_to_boost_your_developer_productivity.svg)](https://dev.to/developeratul/how-to-use-chatgpt-to-boost-your-developer-productivity-3e5a)
+[![GOlang ile şifreleme işlemleri için crypto paketi](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/GOlang_ile_şifreleme_işlemleri_için_crypto_paketi.svg)](https://dev.to/aciklab/golang-ile-sifreleme-islemleri-icin-crypto-paketi-eaa)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, January 13, 2023 at 11:10:34 PM
+> Last updated: Saturday, January 14, 2023 at 5:14:42 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, January 13, 2023 at 11:10:38 PM
+> Last updated: Saturday, January 14, 2023 at 5:14:47 AM
 
 > Showing 5 of 30 posts.
 
