@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, January 13, 2023 at 11:10:57 AM
+> Last updated: Friday, January 13, 2023 at 5:44:03 PM
 
 > Showing 5 of 12 posts.
 
-[![Don't Burn Out: Self-Care Tips for Software Engineers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Don't_Burn_Out__Self-Care_Tips_for_Software_Engineers.svg)](https://dev.to/omrigm/dont-burn-out-self-care-tips-for-software-engineers-49fl)
-[![Share your locally hosted web app using Codespaces](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Share_your_locally_hosted_web_app_using_Codespaces.svg)](https://dev.to/github/share-your-locally-hosted-web-app-using-codespaces-276k)
-[![Make Money As a Technical Writer ✍🏻](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Make_Money_As_a_Technical_Writer_✍🏻.svg)](https://dev.to/patilganesh1010/make-money-as-a-technical-writer-4ifl)
-[![7 steps to Angular Material Dialog instead of Angular Component](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/7_steps_to_Angular_Material_Dialog_instead_of_Angular_Component.svg)](https://dev.to/juliecherner/7-steps-to-angular-material-dialog-instead-of-angular-component-4jlb)
-[![5 GitHub Repositories That Will Make Your Life Easier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_GitHub_Repositories_That_Will_Make_Your_Life_Easier.svg)](https://dev.to/onlydevs_/5-github-repositories-that-will-make-your-life-easier-l0j)
+[![orms python: uma visão geral](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/orms_python__uma_visão_geral.svg)](https://dev.to/leandcesar/orms-python-uma-visao-geral-2po3)
+[![All the Ways to Remove an Item from an Array](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/All_the_Ways_to_Remove_an_Item_from_an_Array.svg)](https://dev.to/mohsenkamrani/all-the-ways-to-remove-an-item-from-an-array-1m60)
+[![A former GitHub VP’s insights into how engineers build their products without actually knowing if they’ll be used](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_former_GitHub_VP’s_insights_into_how_engineers_build_their_products_without_actually_knowing_if_they’ll_be_used.svg)](https://dev.to/linearb/a-former-github-vps-insights-into-how-engineers-build-their-products-without-actually-knowing-if-theyll-be-used-3jno)
+[![Unlocking the Potential of AI for Developers: How to Increase Productivity & Shorten Time-To-Market](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Unlocking_the_Potential_of_AI_for_Developers__How_to_Increase_Productivity___Shorten_Time-To-Market.svg)](https://dev.to/eekayonline/unlocking-the-potential-of-ai-for-developers-how-to-increase-productivity-shorten-time-to-market-48h7)
+[![We're on ruby.social](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/We're_on_ruby.social.svg)](https://dev.to/devteam/were-on-rubysocial-1m3n)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, January 13, 2023 at 11:11:01 AM
+> Last updated: Friday, January 13, 2023 at 5:44:07 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, January 13, 2023 at 11:11:04 AM
+> Last updated: Friday, January 13, 2023 at 5:44:10 PM
 
 > Showing 5 of 30 posts.
 
+[![Rebase vs. Merge: Pros and cons - Aviator Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Rebase_vs._Merge__Pros_and_cons_-_Aviator_Blog.svg)](https://www.aviator.co/blog/rebase-vs-merge-pros-and-cons/)
 [![Get the Last Element in an Array in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Get_the_Last_Element_in_an_Array_in_JavaScript.svg)](
 https://masteringjs.io/tutorials/fundamentals/get-last-element-array
 )
 [![GitHub - oslabs-beta/KnightOwl: An npm package of GraphQL middleware to protect you from malicious queries.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_oslabs-beta_KnightOwl__An_npm_package_of_GraphQL_middleware_to_protect_you_from_malicious_queries..svg)](https://github.com/oslabs-beta/KnightOwl)
 [![Brief History of Frontend UI Tools and Newest Guy on the Block](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Brief_History_of_Frontend_UI_Tools_and_Newest_Guy_on_the_Block.svg)](https://dev.to/codux/brief-history-of-frontend-ui-tools-and-newest-guy-on-the-block-jm)
 [![How to Destructure Props in Vue (Composition API)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Destructure_Props_in_Vue_(Composition_API).svg)](https://dmitripavlutin.com/props-destructure-vue-composition/)
-[![Tutorial: Build a Mind Map App with React Flow - React Flow](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Tutorial__Build_a_Mind_Map_App_with_React_Flow_-_React_Flow.svg)](https://reactflow.dev/blog/mind-map-app-with-react-flow/)
 
 
 <!-- post-list:end -->
