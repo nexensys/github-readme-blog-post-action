@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, January 13, 2023 at 5:44:03 PM
+> Last updated: Friday, January 13, 2023 at 11:10:31 PM
 
 > Showing 5 of 12 posts.
 
-[![orms python: uma visão geral](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/orms_python__uma_visão_geral.svg)](https://dev.to/leandcesar/orms-python-uma-visao-geral-2po3)
-[![All the Ways to Remove an Item from an Array](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/All_the_Ways_to_Remove_an_Item_from_an_Array.svg)](https://dev.to/mohsenkamrani/all-the-ways-to-remove-an-item-from-an-array-1m60)
-[![A former GitHub VP’s insights into how engineers build their products without actually knowing if they’ll be used](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_former_GitHub_VP’s_insights_into_how_engineers_build_their_products_without_actually_knowing_if_they’ll_be_used.svg)](https://dev.to/linearb/a-former-github-vps-insights-into-how-engineers-build-their-products-without-actually-knowing-if-theyll-be-used-3jno)
-[![Unlocking the Potential of AI for Developers: How to Increase Productivity & Shorten Time-To-Market](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Unlocking_the_Potential_of_AI_for_Developers__How_to_Increase_Productivity___Shorten_Time-To-Market.svg)](https://dev.to/eekayonline/unlocking-the-potential-of-ai-for-developers-how-to-increase-productivity-shorten-time-to-market-48h7)
-[![We're on ruby.social](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/We're_on_ruby.social.svg)](https://dev.to/devteam/were-on-rubysocial-1m3n)
+[![How to integrate chatGPT in WhatsApp on Android?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_integrate_chatGPT_in_WhatsApp_on_Android_.svg)](https://dev.to/dhruvjoshi9/how-to-integrate-chatgpt-in-whatsapp-on-android-1npn)
+[![9 Common JavaScript Interview Questions You Might Not Know The Answer For.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/9_Common_JavaScript_Interview_Questions_You_Might_Not_Know_The_Answer_For..svg)](https://dev.to/gustavupp/9-common-javascript-interview-questions-you-might-not-know-the-answer-for-3a8g)
+[![How to build a portfolio website with React & Tailwind CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_build_a_portfolio_website_with_React___Tailwind_CSS.svg)](https://dev.to/coderamrin/how-to-build-a-portfolio-website-with-react-tailwind-css-fni)
+[!["Building with Node.js: Navigating the World of Best Practices and Best Tools"](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/_Building_with_Node.js__Navigating_the_World_of_Best_Practices_and_Best_Tools_.svg)](https://dev.to/hanishrao/building-with-nodejs-navigating-the-world-of-best-practices-and-best-tools-2c2n)
+[![Using Live Suffix in LiveView](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Using_Live_Suffix_in_LiveView.svg)](https://dev.to/clsource/using-live-suffix-in-liveview-2m07)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, January 13, 2023 at 5:44:07 PM
+> Last updated: Friday, January 13, 2023 at 11:10:34 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, January 13, 2023 at 5:44:10 PM
+> Last updated: Friday, January 13, 2023 at 11:10:38 PM
 
 > Showing 5 of 30 posts.
 
+[![Kotlin 1.8 has been officially released by JetBrains - FrontNet Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Kotlin_1.8_has_been_officially_released_by_JetBrains_-_FrontNet_Blog.svg)](https://frontnet.eu/kotlin-1-8-has-been-officially-released-by-jetbrains/)
 [![Rebase vs. Merge: Pros and cons - Aviator Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Rebase_vs._Merge__Pros_and_cons_-_Aviator_Blog.svg)](https://www.aviator.co/blog/rebase-vs-merge-pros-and-cons/)
 [![Get the Last Element in an Array in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Get_the_Last_Element_in_an_Array_in_JavaScript.svg)](
 https://masteringjs.io/tutorials/fundamentals/get-last-element-array
 )
 [![GitHub - oslabs-beta/KnightOwl: An npm package of GraphQL middleware to protect you from malicious queries.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_oslabs-beta_KnightOwl__An_npm_package_of_GraphQL_middleware_to_protect_you_from_malicious_queries..svg)](https://github.com/oslabs-beta/KnightOwl)
 [![Brief History of Frontend UI Tools and Newest Guy on the Block](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Brief_History_of_Frontend_UI_Tools_and_Newest_Guy_on_the_Block.svg)](https://dev.to/codux/brief-history-of-frontend-ui-tools-and-newest-guy-on-the-block-jm)
-[![How to Destructure Props in Vue (Composition API)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Destructure_Props_in_Vue_(Composition_API).svg)](https://dmitripavlutin.com/props-destructure-vue-composition/)
 
 
 <!-- post-list:end -->
