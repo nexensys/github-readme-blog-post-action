@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, January 14, 2023 at 11:09:49 AM
+> Last updated: Saturday, January 14, 2023 at 5:50:51 PM
 
 > Showing 5 of 12 posts.
 
-[![51 AI tools you should be using for life, programming, content creation and everything else](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/51_AI_tools_you_should_be_using_for_life__programming__content_creation_and_everything_else.svg)](https://dev.to/andrewbaisden/51-ai-tools-you-should-be-using-for-life-programming-content-creation-and-everything-else-3n8k)
-[![Avoiding common pitfalls with ControlValueAccessors in Angular](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Avoiding_common_pitfalls_with_ControlValueAccessors_in_Angular.svg)](https://dev.to/valorsoftware/avoiding-common-pitfalls-with-controlvalueaccessors-in-angular-4m57)
-[![Using Beautiful Material Themes from Material Theme Builder in Stylify CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Using_Beautiful_Material_Themes_from_Material_Theme_Builder_in_Stylify_CSS.svg)](https://dev.to/machy8/using-beautiful-material-themes-from-material-theme-builder-in-stylify-css-430k)
-[![Y U NO USE the JS native APIs?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Y_U_NO_USE_the_JS_native_APIs_.svg)](https://dev.to/noriller/y-u-no-use-the-js-native-apis-39dh)
-[![Introduction of OOP](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Introduction_of_OOP.svg)](https://dev.to/khoshimov23/introduction-of-oop-d17)
+[![Authenticate using Auth0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Authenticate_using_Auth0.svg)](https://dev.to/mitul3737/authenticate-using-auth0-535l)
+[![Atomic Habits](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Atomic_Habits.svg)](https://dev.to/skydler/atomic-habits-20an)
+[![Mailgun REST API integration from serverless node.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Mailgun_REST_API_integration_from_serverless_node.js.svg)](https://dev.to/restdbjones/mailgun-rest-api-integration-from-serverless-nodejs-5hc7)
+[![Unlock the Power of Next.js and Tailwind CSS: The Ultimate Stack for Frontend Developers Starting in 202](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Unlock_the_Power_of_Next.js_and_Tailwind_CSS__The_Ultimate_Stack_for_Frontend_Developers_Starting_in_202.svg)](https://dev.to/msolecki/unlock-the-power-of-nextjs-and-tailwind-css-the-ultimate-stack-for-frontend-developers-starting-in-202-3o6j)
+[![Demystifying AWS Lambda Functions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Demystifying_AWS_Lambda_Functions.svg)](https://dev.to/conorshirren/demystifying-aws-lambda-functions-92d)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, January 14, 2023 at 11:09:53 AM
+> Last updated: Saturday, January 14, 2023 at 5:50:53 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, January 14, 2023 at 11:09:57 AM
+> Last updated: Saturday, January 14, 2023 at 5:50:56 PM
 
 > Showing 5 of 30 posts.
 
