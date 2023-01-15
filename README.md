@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, January 14, 2023 at 11:11:00 PM
+> Last updated: Sunday, January 15, 2023 at 5:14:43 AM
 
 > Showing 5 of 12 posts.
 
-[![What are some advanced Python projects?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_are_some_advanced_Python_projects_.svg)](https://dev.to/ridhisingla001/what-are-some-advanced-python-projects-6cc)
-[![What are some good web development projects using Python?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_are_some_good_web_development_projects_using_Python_.svg)](https://dev.to/ridhisingla001/what-are-some-good-web-development-projects-using-python-216k)
-[![Intro to Git](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Intro_to_Git.svg)](https://dev.to/ridhisingla001/intro-to-git-16j4)
-[![What is Product Management?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_Product_Management_.svg)](https://dev.to/ridhisingla001/what-is-product-management-3a2g)
-[![Lemmy 0.16.7 on OpenBSD 7.2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Lemmy_0.16.7_on_OpenBSD_7.2.svg)](https://dev.to/nabbisen/lemmy-0167-on-openbsd-72-3jkc)
+[![Lemmy Server 0.16.7 on OpenBSD 7.2: Install](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Lemmy_Server_0.16.7_on_OpenBSD_7.2__Install.svg)](https://dev.to/nabbisen/lemmy-server-0167-on-openbsd-72-install-1gk1)
+[![These newer programming Languages could be the future](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/These_newer_programming_Languages_could_be_the_future.svg)](https://dev.to/niza/these-newer-programming-languages-could-be-the-future-182c)
+[![🚀Top Bootstrap Admin Templates🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/🚀Top_Bootstrap_Admin_Templates🚀.svg)](https://dev.to/flatlogic_manager/top-bootstrap-admin-templates-3ld9)
+[![Kubectl Logs Tail | How to Tail Kubernetes Logs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Kubectl_Logs_Tail___How_to_Tail_Kubernetes_Logs.svg)](https://dev.to/danielfavour/kubectl-logs-tail-how-to-tail-kubernetes-logs-gdl)
+[![Thank you DEV!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Thank_you_DEV!.svg)](https://dev.to/chainguns/thank-you-dev-24a5)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, January 14, 2023 at 11:11:03 PM
+> Last updated: Sunday, January 15, 2023 at 5:14:47 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, January 14, 2023 at 11:11:05 PM
+> Last updated: Sunday, January 15, 2023 at 5:14:52 AM
 
 > Showing 5 of 30 posts.
 
