@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, January 14, 2023 at 5:50:51 PM
+> Last updated: Saturday, January 14, 2023 at 11:11:00 PM
 
 > Showing 5 of 12 posts.
 
-[![Authenticate using Auth0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Authenticate_using_Auth0.svg)](https://dev.to/mitul3737/authenticate-using-auth0-535l)
-[![Atomic Habits](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Atomic_Habits.svg)](https://dev.to/skydler/atomic-habits-20an)
-[![Mailgun REST API integration from serverless node.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Mailgun_REST_API_integration_from_serverless_node.js.svg)](https://dev.to/restdbjones/mailgun-rest-api-integration-from-serverless-nodejs-5hc7)
-[![Unlock the Power of Next.js and Tailwind CSS: The Ultimate Stack for Frontend Developers Starting in 202](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Unlock_the_Power_of_Next.js_and_Tailwind_CSS__The_Ultimate_Stack_for_Frontend_Developers_Starting_in_202.svg)](https://dev.to/msolecki/unlock-the-power-of-nextjs-and-tailwind-css-the-ultimate-stack-for-frontend-developers-starting-in-202-3o6j)
-[![Demystifying AWS Lambda Functions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Demystifying_AWS_Lambda_Functions.svg)](https://dev.to/conorshirren/demystifying-aws-lambda-functions-92d)
+[![What are some advanced Python projects?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_are_some_advanced_Python_projects_.svg)](https://dev.to/ridhisingla001/what-are-some-advanced-python-projects-6cc)
+[![What are some good web development projects using Python?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_are_some_good_web_development_projects_using_Python_.svg)](https://dev.to/ridhisingla001/what-are-some-good-web-development-projects-using-python-216k)
+[![Intro to Git](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Intro_to_Git.svg)](https://dev.to/ridhisingla001/intro-to-git-16j4)
+[![What is Product Management?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_Product_Management_.svg)](https://dev.to/ridhisingla001/what-is-product-management-3a2g)
+[![Lemmy 0.16.7 on OpenBSD 7.2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Lemmy_0.16.7_on_OpenBSD_7.2.svg)](https://dev.to/nabbisen/lemmy-0167-on-openbsd-72-3jkc)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, January 14, 2023 at 5:50:53 PM
+> Last updated: Saturday, January 14, 2023 at 11:11:03 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, January 14, 2023 at 5:50:56 PM
+> Last updated: Saturday, January 14, 2023 at 11:11:05 PM
 
 > Showing 5 of 30 posts.
 
