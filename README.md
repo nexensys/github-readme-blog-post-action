@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, January 15, 2023 at 5:14:43 AM
+> Last updated: Monday, January 16, 2023 at 5:47:03 PM
 
 > Showing 5 of 12 posts.
 
-[![Lemmy Server 0.16.7 on OpenBSD 7.2: Install](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Lemmy_Server_0.16.7_on_OpenBSD_7.2__Install.svg)](https://dev.to/nabbisen/lemmy-server-0167-on-openbsd-72-install-1gk1)
-[![These newer programming Languages could be the future](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/These_newer_programming_Languages_could_be_the_future.svg)](https://dev.to/niza/these-newer-programming-languages-could-be-the-future-182c)
-[![🚀Top Bootstrap Admin Templates🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/🚀Top_Bootstrap_Admin_Templates🚀.svg)](https://dev.to/flatlogic_manager/top-bootstrap-admin-templates-3ld9)
-[![Kubectl Logs Tail | How to Tail Kubernetes Logs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Kubectl_Logs_Tail___How_to_Tail_Kubernetes_Logs.svg)](https://dev.to/danielfavour/kubectl-logs-tail-how-to-tail-kubernetes-logs-gdl)
-[![Thank you DEV!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Thank_you_DEV!.svg)](https://dev.to/chainguns/thank-you-dev-24a5)
+[![Get notified when there are commits to pull in VS Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Get_notified_when_there_are_commits_to_pull_in_VS_Code.svg)](https://dev.to/gitlive/get-notified-when-there-are-commits-to-pull-in-vs-code-61k)
+[![My Dev Setup: A Look into My Software and Hardware](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/My_Dev_Setup__A_Look_into_My_Software_and_Hardware.svg)](https://dev.to/tonimontana/my-dev-setup-a-look-into-my-software-and-hardware-38ni)
+[![Enhance your READMEs with native Mermaid diagrams](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Enhance_your_READMEs_with_native_Mermaid_diagrams.svg)](https://dev.to/360macky/enhance-your-readmes-with-native-mermaid-diagrams-3g7l)
+[![The Top Five Static Site Generators (SSGs) for 2023 — and when to use them](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Top_Five_Static_Site_Generators_(SSGs)_for_2023_—_and_when_to_use_them.svg)](https://dev.to/cloudcannon/the-top-five-static-site-generators-ssgs-for-2023-and-when-to-use-them-39pg)
+[![Serverless Technology](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Serverless_Technology.svg)](https://dev.to/yellowgem/serverless-technology-p3m)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, January 15, 2023 at 5:14:47 AM
+> Last updated: Monday, January 16, 2023 at 5:47:06 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, January 15, 2023 at 5:14:52 AM
+> Last updated: Monday, January 16, 2023 at 5:47:13 PM
 
 > Showing 5 of 30 posts.
 
-[![Kotlin 1.8 has been officially released by JetBrains - FrontNet Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Kotlin_1.8_has_been_officially_released_by_JetBrains_-_FrontNet_Blog.svg)](https://frontnet.eu/kotlin-1-8-has-been-officially-released-by-jetbrains/)
-[![Rebase vs. Merge: Pros and cons - Aviator Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Rebase_vs._Merge__Pros_and_cons_-_Aviator_Blog.svg)](https://www.aviator.co/blog/rebase-vs-merge-pros-and-cons/)
-[![Get the Last Element in an Array in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Get_the_Last_Element_in_an_Array_in_JavaScript.svg)](
-https://masteringjs.io/tutorials/fundamentals/get-last-element-array
-)
-[![GitHub - oslabs-beta/KnightOwl: An npm package of GraphQL middleware to protect you from malicious queries.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_oslabs-beta_KnightOwl__An_npm_package_of_GraphQL_middleware_to_protect_you_from_malicious_queries..svg)](https://github.com/oslabs-beta/KnightOwl)
-[![Brief History of Frontend UI Tools and Newest Guy on the Block](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Brief_History_of_Frontend_UI_Tools_and_Newest_Guy_on_the_Block.svg)](https://dev.to/codux/brief-history-of-frontend-ui-tools-and-newest-guy-on-the-block-jm)
+[![Nodejs fetch API: The Complete Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Nodejs_fetch_API__The_Complete_Guide.svg)](https://metered.hashnode.dev/nodejs-fetch-api-the-complete-guide)
+[![API with NestJS #91. Dockerizing a NestJS API with Docker Compose](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__91._Dockerizing_a_NestJS_API_with_Docker_Compose.svg)](https://wanago.io/2023/01/16/api-nestjs-docker-compose/)
+[![GitHub - andreferreiradlw/pokestats: The Pokedex powered by PokeApi](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_andreferreiradlw_pokestats__The_Pokedex_powered_by_PokeApi.svg)](https://github.com/andreferreiradlw/pokestats)
+[![GitHub - azu/tsconfig-to-dual-package: Node.js dual package tool that add package.json to tsconfig's `outDir`](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_azu_tsconfig-to-dual-package__Node.js_dual_package_tool_that_add_package.json_to_tsconfig's_`outDir`.svg)](https://github.com/azu/tsconfig-to-dual-package)
+[![GitHub - sun0day/dns-detector: A nodejs cli tool to resolve host's IPs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_sun0day_dns-detector__A_nodejs_cli_tool_to_resolve_host's_IPs.svg)](https://github.com/sun0day/dns-detector)
 
 
 <!-- post-list:end -->
