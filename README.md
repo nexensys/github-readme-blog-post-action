@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, January 16, 2023 at 5:47:03 PM
+> Last updated: Monday, January 16, 2023 at 11:11:29 PM
 
 > Showing 5 of 12 posts.
 
-[![Get notified when there are commits to pull in VS Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Get_notified_when_there_are_commits_to_pull_in_VS_Code.svg)](https://dev.to/gitlive/get-notified-when-there-are-commits-to-pull-in-vs-code-61k)
-[![My Dev Setup: A Look into My Software and Hardware](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/My_Dev_Setup__A_Look_into_My_Software_and_Hardware.svg)](https://dev.to/tonimontana/my-dev-setup-a-look-into-my-software-and-hardware-38ni)
-[![Enhance your READMEs with native Mermaid diagrams](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Enhance_your_READMEs_with_native_Mermaid_diagrams.svg)](https://dev.to/360macky/enhance-your-readmes-with-native-mermaid-diagrams-3g7l)
-[![The Top Five Static Site Generators (SSGs) for 2023 — and when to use them](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Top_Five_Static_Site_Generators_(SSGs)_for_2023_—_and_when_to_use_them.svg)](https://dev.to/cloudcannon/the-top-five-static-site-generators-ssgs-for-2023-and-when-to-use-them-39pg)
-[![Serverless Technology](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Serverless_Technology.svg)](https://dev.to/yellowgem/serverless-technology-p3m)
+[![AWS Lambda and Azure Function](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/AWS_Lambda_and_Azure_Function.svg)](https://dev.to/yogini16/aws-lambda-and-azure-function-5678)
+[![Scale Node JS App using Cluster Module](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Scale_Node_JS_App_using_Cluster_Module.svg)](https://dev.to/lovepreetsingh/scale-node-js-app-using-cluster-module-3bg8)
+[![AI Tools for Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/AI_Tools_for_Developers.svg)](https://dev.to/rahul3002/ai-tools-for-developers-g79)
+[![Best tools to outsource your IT projects](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Best_tools_to_outsource_your_IT_projects.svg)](https://dev.to/abhineetraj1/best-tools-to-outsource-your-it-projects-3gep)
+[![How to Easily update an Object that's in state in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Easily_update_an_Object_that's_in_state_in_React.svg)](https://dev.to/noel_ethan/how-to-easily-update-an-object-thats-in-state-in-react-bb9)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, January 16, 2023 at 5:47:06 PM
+> Last updated: Monday, January 16, 2023 at 11:11:31 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, January 16, 2023 at 5:47:13 PM
+> Last updated: Monday, January 16, 2023 at 11:11:41 PM
 
 > Showing 5 of 30 posts.
 
