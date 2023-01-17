@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, January 17, 2023 at 5:17:51 AM
+> Last updated: Tuesday, January 17, 2023 at 11:10:47 AM
 
 > Showing 5 of 12 posts.
 
-[![Free Resources To Become a Job Ready React Developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Free_Resources_To_Become_a_Job_Ready_React_Developer.svg)](https://dev.to/onlydevs_/free-resources-to-become-a-job-ready-react-developer-2667)
-[![How to Build Your ERP System in Minutes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Build_Your_ERP_System_in_Minutes.svg)](https://dev.to/flatlogic/how-to-build-your-erp-system-in-minutes-2500)
-[![Unlock the Secrets of Blockchain: What is a Consensus Algorithm?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Unlock_the_Secrets_of_Blockchain__What_is_a_Consensus_Algorithm_.svg)](https://dev.to/siddharthsing/unlock-the-secrets-of-blockchain-what-is-a-consensus-algorithm-2104)
-[![How to preload images for canvas in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_preload_images_for_canvas_in_JavaScript.svg)](https://dev.to/alejandroakbal/how-to-preload-images-for-canvas-in-javascript-251c)
-[![Show: Open-source admin dashboard with Tailwind CSS and Flowbite](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Show__Open-source_admin_dashboard_with_Tailwind_CSS_and_Flowbite.svg)](https://dev.to/themesberg/show-open-source-admin-dashboard-with-tailwind-css-and-flowbite-3fdj)
+[![Deploy Amazon IVS Live Streams and Chat with Terraform](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Deploy_Amazon_IVS_Live_Streams_and_Chat_with_Terraform.svg)](https://dev.to/aws/deploy-amazon-ivs-live-streams-and-chat-with-terraform-3cml)
+[![Resume Writing Secrets: 25 Tips to Get You Hired](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Resume_Writing_Secrets__25_Tips_to_Get_You_Hired.svg)](https://dev.to/codewithvoid/resume-writing-secrets-25-tips-to-get-you-hired-5bp6)
+[![Top 7 Featured DEV Posts from the Past Week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_7_Featured_DEV_Posts_from_the_Past_Week.svg)](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-2dkd)
+[![CastingVote - App built with Phoenix(1.6) - PART 01](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/CastingVote_-_App_built_with_Phoenix(1.6)_-_PART_01.svg)](https://dev.to/milicagolocorbin/castingvote-app-built-with-phoenix16-part-01-1gec)
+[![I Tested How Good Is ChatGPT When Describing Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/I_Tested_How_Good_Is_ChatGPT_When_Describing_Code.svg)](https://dev.to/codewithbernard/i-tested-how-good-is-chatgpt-when-describing-code-ljf)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, January 17, 2023 at 5:17:55 AM
+> Last updated: Tuesday, January 17, 2023 at 11:10:49 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, January 17, 2023 at 5:18:01 AM
+> Last updated: Tuesday, January 17, 2023 at 11:10:53 AM
 
 > Showing 5 of 30 posts.
 
+[![
+Crop and Upload Image Service
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Crop_and_Upload_Image_Service_.svg)](
+https://arokis.me/articles/crop-and-upload-image-service
+)
 [![Using Material Theme from Material Theme Builder in Stylify CSS | Stylify CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_Material_Theme_from_Material_Theme_Builder_in_Stylify_CSS___Stylify_CSS.svg)](https://stylifycss.com/blog/material-theme-integration)
 [![Nodejs fetch API: The Complete Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Nodejs_fetch_API__The_Complete_Guide.svg)](https://metered.hashnode.dev/nodejs-fetch-api-the-complete-guide)
 [![API with NestJS #91. Dockerizing a NestJS API with Docker Compose](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__91._Dockerizing_a_NestJS_API_with_Docker_Compose.svg)](https://wanago.io/2023/01/16/api-nestjs-docker-compose/)
 [![GitHub - andreferreiradlw/pokestats: The Pokedex powered by PokeApi](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_andreferreiradlw_pokestats__The_Pokedex_powered_by_PokeApi.svg)](https://github.com/andreferreiradlw/pokestats)
-[![GitHub - azu/tsconfig-to-dual-package: Node.js dual package tool that add package.json to tsconfig's `outDir`](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_azu_tsconfig-to-dual-package__Node.js_dual_package_tool_that_add_package.json_to_tsconfig's_`outDir`.svg)](https://github.com/azu/tsconfig-to-dual-package)
 
 
 <!-- post-list:end -->
