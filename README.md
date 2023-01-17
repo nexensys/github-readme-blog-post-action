@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, January 16, 2023 at 11:11:29 PM
+> Last updated: Tuesday, January 17, 2023 at 5:17:51 AM
 
 > Showing 5 of 12 posts.
 
-[![AWS Lambda and Azure Function](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/AWS_Lambda_and_Azure_Function.svg)](https://dev.to/yogini16/aws-lambda-and-azure-function-5678)
-[![Scale Node JS App using Cluster Module](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Scale_Node_JS_App_using_Cluster_Module.svg)](https://dev.to/lovepreetsingh/scale-node-js-app-using-cluster-module-3bg8)
-[![AI Tools for Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/AI_Tools_for_Developers.svg)](https://dev.to/rahul3002/ai-tools-for-developers-g79)
-[![Best tools to outsource your IT projects](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Best_tools_to_outsource_your_IT_projects.svg)](https://dev.to/abhineetraj1/best-tools-to-outsource-your-it-projects-3gep)
-[![How to Easily update an Object that's in state in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Easily_update_an_Object_that's_in_state_in_React.svg)](https://dev.to/noel_ethan/how-to-easily-update-an-object-thats-in-state-in-react-bb9)
+[![Free Resources To Become a Job Ready React Developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Free_Resources_To_Become_a_Job_Ready_React_Developer.svg)](https://dev.to/onlydevs_/free-resources-to-become-a-job-ready-react-developer-2667)
+[![How to Build Your ERP System in Minutes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Build_Your_ERP_System_in_Minutes.svg)](https://dev.to/flatlogic/how-to-build-your-erp-system-in-minutes-2500)
+[![Unlock the Secrets of Blockchain: What is a Consensus Algorithm?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Unlock_the_Secrets_of_Blockchain__What_is_a_Consensus_Algorithm_.svg)](https://dev.to/siddharthsing/unlock-the-secrets-of-blockchain-what-is-a-consensus-algorithm-2104)
+[![How to preload images for canvas in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_preload_images_for_canvas_in_JavaScript.svg)](https://dev.to/alejandroakbal/how-to-preload-images-for-canvas-in-javascript-251c)
+[![Show: Open-source admin dashboard with Tailwind CSS and Flowbite](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Show__Open-source_admin_dashboard_with_Tailwind_CSS_and_Flowbite.svg)](https://dev.to/themesberg/show-open-source-admin-dashboard-with-tailwind-css-and-flowbite-3fdj)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, January 16, 2023 at 11:11:31 PM
+> Last updated: Tuesday, January 17, 2023 at 5:17:55 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, January 16, 2023 at 11:11:41 PM
+> Last updated: Tuesday, January 17, 2023 at 5:18:01 AM
 
 > Showing 5 of 30 posts.
 
+[![Using Material Theme from Material Theme Builder in Stylify CSS | Stylify CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_Material_Theme_from_Material_Theme_Builder_in_Stylify_CSS___Stylify_CSS.svg)](https://stylifycss.com/blog/material-theme-integration)
 [![Nodejs fetch API: The Complete Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Nodejs_fetch_API__The_Complete_Guide.svg)](https://metered.hashnode.dev/nodejs-fetch-api-the-complete-guide)
 [![API with NestJS #91. Dockerizing a NestJS API with Docker Compose](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__91._Dockerizing_a_NestJS_API_with_Docker_Compose.svg)](https://wanago.io/2023/01/16/api-nestjs-docker-compose/)
 [![GitHub - andreferreiradlw/pokestats: The Pokedex powered by PokeApi](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_andreferreiradlw_pokestats__The_Pokedex_powered_by_PokeApi.svg)](https://github.com/andreferreiradlw/pokestats)
 [![GitHub - azu/tsconfig-to-dual-package: Node.js dual package tool that add package.json to tsconfig's `outDir`](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_azu_tsconfig-to-dual-package__Node.js_dual_package_tool_that_add_package.json_to_tsconfig's_`outDir`.svg)](https://github.com/azu/tsconfig-to-dual-package)
-[![GitHub - sun0day/dns-detector: A nodejs cli tool to resolve host's IPs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_sun0day_dns-detector__A_nodejs_cli_tool_to_resolve_host's_IPs.svg)](https://github.com/sun0day/dns-detector)
 
 
 <!-- post-list:end -->
