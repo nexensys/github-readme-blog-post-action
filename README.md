@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, January 17, 2023 at 11:10:47 AM
+> Last updated: Tuesday, January 17, 2023 at 5:50:21 PM
 
 > Showing 5 of 12 posts.
 
-[![Deploy Amazon IVS Live Streams and Chat with Terraform](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Deploy_Amazon_IVS_Live_Streams_and_Chat_with_Terraform.svg)](https://dev.to/aws/deploy-amazon-ivs-live-streams-and-chat-with-terraform-3cml)
-[![Resume Writing Secrets: 25 Tips to Get You Hired](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Resume_Writing_Secrets__25_Tips_to_Get_You_Hired.svg)](https://dev.to/codewithvoid/resume-writing-secrets-25-tips-to-get-you-hired-5bp6)
-[![Top 7 Featured DEV Posts from the Past Week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_7_Featured_DEV_Posts_from_the_Past_Week.svg)](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-2dkd)
-[![CastingVote - App built with Phoenix(1.6) - PART 01](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/CastingVote_-_App_built_with_Phoenix(1.6)_-_PART_01.svg)](https://dev.to/milicagolocorbin/castingvote-app-built-with-phoenix16-part-01-1gec)
-[![I Tested How Good Is ChatGPT When Describing Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/I_Tested_How_Good_Is_ChatGPT_When_Describing_Code.svg)](https://dev.to/codewithbernard/i-tested-how-good-is-chatgpt-when-describing-code-ljf)
+[![Layoffs: It’s Okay to Not Be Okay](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Layoffs__It’s_Okay_to_Not_Be_Okay.svg)](https://dev.to/torianne02/layoffs-its-okay-to-not-be-okay-l2l)
+[![Best Design Trends of 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Best_Design_Trends_of_2023.svg)](https://dev.to/arafat4693/best-design-trends-of-2023-1die)
+[![#DevDiscuss: Passwordless Authentication](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/_DevDiscuss__Passwordless_Authentication.svg)](https://dev.to/devteam/live-devdiscuss-passwordless-authentication-13i2)
+[![Syntax, logical and runtime errors](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Syntax__logical_and_runtime_errors.svg)](https://dev.to/matthewoluwabusayoopoola/syntax-logical-and-runtime-errors-1721)
+[![Autoleap - A very useful tool for Linux bash users](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Autoleap_-_A_very_useful_tool_for_Linux_bash_users.svg)](https://dev.to/llagerlof/autoleap-a-very-useful-tool-for-linux-bash-users-1n31)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, January 17, 2023 at 11:10:49 AM
+> Last updated: Tuesday, January 17, 2023 at 5:50:25 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, January 17, 2023 at 11:10:53 AM
+> Last updated: Tuesday, January 17, 2023 at 5:50:31 PM
 
 > Showing 5 of 30 posts.
 
