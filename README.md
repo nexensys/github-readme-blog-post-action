@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, January 17, 2023 at 11:12:07 PM
+> Last updated: Wednesday, January 18, 2023 at 5:16:44 AM
 
 > Showing 5 of 12 posts.
 
-[![Serverless Latency: Understanding and Reducing the Delay](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Serverless_Latency__Understanding_and_Reducing_the_Delay.svg)](https://dev.to/aws-builders/serverless-latency-understanding-and-reducing-the-delay-2nna)
-[![Democratizing DNA Analysis and Shaping the Future of Genetics Research!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Democratizing_DNA_Analysis_and_Shaping_the_Future_of_Genetics_Research!.svg)](https://dev.to/dnanalyzer/democratizing-dna-analysis-and-shaping-the-future-of-genetics-research-1l5l)
-[![Package Publishing Reading & Resources](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Package_Publishing_Reading___Resources.svg)](https://dev.to/laurenashpole/package-publishing-reading-resources-34dc)
-[![Mastodon Streaming to Apache Pulsar via Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Mastodon_Streaming_to_Apache_Pulsar_via_Python.svg)](https://dev.to/tspannhw/mastodon-streaming-to-apache-pulsar-via-python-1p4h)
-[![Layoffs: It’s Okay to Not Be Okay](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Layoffs__It’s_Okay_to_Not_Be_Okay.svg)](https://dev.to/torianne02/layoffs-its-okay-to-not-be-okay-l2l)
+[![Best "Free" Resources To Learn Node.js From Beginner to Advanced](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Best__Free__Resources_To_Learn_Node.js_From_Beginner_to_Advanced.svg)](https://dev.to/onlydevs_/best-free-resources-to-learn-nodejs-from-beginner-to-advanced-975)
+[![⚛️⚡️ Introduction to React Hooks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/⚛️⚡️_Introduction_to_React_Hooks.svg)](https://dev.to/iamdevmarcos/introduction-to-react-hooks-2m4f)
+[![Passing Data in React: The Power of Props](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Passing_Data_in_React__The_Power_of_Props.svg)](https://dev.to/mr_walkr/passing-data-in-react-the-power-of-props-4n1)
+[![Manage serverless APIs with Apache APISIX](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Manage_serverless_APIs_with_Apache_APISIX.svg)](https://dev.to/apisix/manage-serverless-apis-with-apache-apisix-55a8)
+[![Getting Started with Deno Fresh & the Platform](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Getting_Started_with_Deno_Fresh___the_Platform.svg)](https://dev.to/askrodney/getting-started-with-deno-fresh-the-platform-59kb)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, January 17, 2023 at 11:12:10 PM
+> Last updated: Wednesday, January 18, 2023 at 5:16:46 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, January 17, 2023 at 11:12:15 PM
+> Last updated: Wednesday, January 18, 2023 at 5:16:50 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - redpangilinan/dungeon-crawler-rpg-od: Quick dungeon crawler experience on demand!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_redpangilinan_dungeon-crawler-rpg-od__Quick_dungeon_crawler_experience_on_demand!.svg)](https://github.com/redpangilinan/dungeon-crawler-rpg-od)
 [![
 Crop and Upload Image Service
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Crop_and_Upload_Image_Service_.svg)](
@@ -55,7 +56,6 @@ https://arokis.me/articles/crop-and-upload-image-service
 [![Using Material Theme from Material Theme Builder in Stylify CSS | Stylify CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_Material_Theme_from_Material_Theme_Builder_in_Stylify_CSS___Stylify_CSS.svg)](https://stylifycss.com/blog/material-theme-integration)
 [![Nodejs fetch API: The Complete Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Nodejs_fetch_API__The_Complete_Guide.svg)](https://metered.hashnode.dev/nodejs-fetch-api-the-complete-guide)
 [![API with NestJS #91. Dockerizing a NestJS API with Docker Compose](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__91._Dockerizing_a_NestJS_API_with_Docker_Compose.svg)](https://wanago.io/2023/01/16/api-nestjs-docker-compose/)
-[![GitHub - andreferreiradlw/pokestats: The Pokedex powered by PokeApi](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_andreferreiradlw_pokestats__The_Pokedex_powered_by_PokeApi.svg)](https://github.com/andreferreiradlw/pokestats)
 
 
 <!-- post-list:end -->
