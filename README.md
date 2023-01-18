@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, January 18, 2023 at 5:16:44 AM
+> Last updated: Wednesday, January 18, 2023 at 11:10:58 AM
 
 > Showing 5 of 12 posts.
 
-[![Best "Free" Resources To Learn Node.js From Beginner to Advanced](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Best__Free__Resources_To_Learn_Node.js_From_Beginner_to_Advanced.svg)](https://dev.to/onlydevs_/best-free-resources-to-learn-nodejs-from-beginner-to-advanced-975)
-[![⚛️⚡️ Introduction to React Hooks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/⚛️⚡️_Introduction_to_React_Hooks.svg)](https://dev.to/iamdevmarcos/introduction-to-react-hooks-2m4f)
-[![Passing Data in React: The Power of Props](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Passing_Data_in_React__The_Power_of_Props.svg)](https://dev.to/mr_walkr/passing-data-in-react-the-power-of-props-4n1)
-[![Manage serverless APIs with Apache APISIX](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Manage_serverless_APIs_with_Apache_APISIX.svg)](https://dev.to/apisix/manage-serverless-apis-with-apache-apisix-55a8)
-[![Getting Started with Deno Fresh & the Platform](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Getting_Started_with_Deno_Fresh___the_Platform.svg)](https://dev.to/askrodney/getting-started-with-deno-fresh-the-platform-59kb)
+[![Full-Stack Development Has Changed In 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Full-Stack_Development_Has_Changed_In_2023.svg)](https://dev.to/mikehtmlallthethings/full-stack-development-has-changed-in-2023-g4i)
+[![Improving Your Development Documentation Project (1 of 3)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Improving_Your_Development_Documentation_Project_(1_of_3).svg)](https://dev.to/javierhf/improving-your-development-documentation-project-1-of-3-48cn)
+[![Why we chose C over Rust](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Why_we_chose_C_over_Rust.svg)](https://dev.to/luos/why-we-chose-c-over-rust-4gfk)
+[![5 Full-Stack Project Ideas for 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_Full-Stack_Project_Ideas_for_2023.svg)](https://dev.to/johongirr/5-full-stack-project-ideas-for-2023-l4o)
+[![SELinux: Beginner's guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/SELinux__Beginner's_guide.svg)](https://dev.to/jmau111/selinux-beginners-guide-15af)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, January 18, 2023 at 5:16:46 AM
+> Last updated: Wednesday, January 18, 2023 at 11:11:02 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, January 18, 2023 at 5:16:50 AM
+> Last updated: Wednesday, January 18, 2023 at 11:11:09 AM
 
 > Showing 5 of 30 posts.
 
