@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, January 17, 2023 at 5:50:21 PM
+> Last updated: Tuesday, January 17, 2023 at 11:12:07 PM
 
 > Showing 5 of 12 posts.
 
+[![Serverless Latency: Understanding and Reducing the Delay](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Serverless_Latency__Understanding_and_Reducing_the_Delay.svg)](https://dev.to/aws-builders/serverless-latency-understanding-and-reducing-the-delay-2nna)
+[![Democratizing DNA Analysis and Shaping the Future of Genetics Research!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Democratizing_DNA_Analysis_and_Shaping_the_Future_of_Genetics_Research!.svg)](https://dev.to/dnanalyzer/democratizing-dna-analysis-and-shaping-the-future-of-genetics-research-1l5l)
+[![Package Publishing Reading & Resources](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Package_Publishing_Reading___Resources.svg)](https://dev.to/laurenashpole/package-publishing-reading-resources-34dc)
+[![Mastodon Streaming to Apache Pulsar via Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Mastodon_Streaming_to_Apache_Pulsar_via_Python.svg)](https://dev.to/tspannhw/mastodon-streaming-to-apache-pulsar-via-python-1p4h)
 [![Layoffs: It’s Okay to Not Be Okay](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Layoffs__It’s_Okay_to_Not_Be_Okay.svg)](https://dev.to/torianne02/layoffs-its-okay-to-not-be-okay-l2l)
-[![Best Design Trends of 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Best_Design_Trends_of_2023.svg)](https://dev.to/arafat4693/best-design-trends-of-2023-1die)
-[![#DevDiscuss: Passwordless Authentication](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/_DevDiscuss__Passwordless_Authentication.svg)](https://dev.to/devteam/live-devdiscuss-passwordless-authentication-13i2)
-[![Syntax, logical and runtime errors](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Syntax__logical_and_runtime_errors.svg)](https://dev.to/matthewoluwabusayoopoola/syntax-logical-and-runtime-errors-1721)
-[![Autoleap - A very useful tool for Linux bash users](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Autoleap_-_A_very_useful_tool_for_Linux_bash_users.svg)](https://dev.to/llagerlof/autoleap-a-very-useful-tool-for-linux-bash-users-1n31)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, January 17, 2023 at 5:50:25 PM
+> Last updated: Tuesday, January 17, 2023 at 11:12:10 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, January 17, 2023 at 5:50:31 PM
+> Last updated: Tuesday, January 17, 2023 at 11:12:15 PM
 
 > Showing 5 of 30 posts.
 
