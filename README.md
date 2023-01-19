@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, January 19, 2023 at 5:17:27 AM
+> Last updated: Thursday, January 19, 2023 at 11:12:46 AM
 
 > Showing 5 of 12 posts.
 
-[![The Not So Small Things of Developing Software](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Not_So_Small_Things_of_Developing_Software.svg)](https://dev.to/solidi/the-not-so-small-things-of-developing-software-3emi)
-[![Lessons learned since posting my salary history publicly](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Lessons_learned_since_posting_my_salary_history_publicly.svg)](https://dev.to/jamietanna/lessons-learned-since-posting-my-salary-history-publicly-5055)
-[![NEURAL NETWORK](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/NEURAL_NETWORK.svg)](https://dev.to/felix715/neural-network-3830)
-[![Roadmap To Prepare Yourself for Coding Interviews in Just 8 Weeks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Roadmap_To_Prepare_Yourself_for_Coding_Interviews_in_Just_8_Weeks.svg)](https://dev.to/onlydevs_/roadmap-to-prepare-yourself-for-coding-interviews-in-just-8-weeks-3ag5)
-[![This Week In React #131: useReducer, Controlled Inputs, Async React, DevTools, React-Query, Storybook, Remix, RN , Expo...](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/This_Week_In_React__131__useReducer__Controlled_Inputs__Async_React__DevTools__React-Query__Storybook__Remix__RN___Expo....svg)](https://dev.to/sebastienlorber/this-week-in-react-131-usereducer-controlled-inputs-async-react-devtools-react-query-storybook-remix-rn-expo-mcp)
+[![Portswigger’s lab write up: CORS vulnerability with trusted null origin](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Portswigger’s_lab_write_up__CORS_vulnerability_with_trusted_null_origin.svg)](https://dev.to/christianpaez/portswiggers-lab-write-up-cors-vulnerability-with-trusted-null-origin-4g9c)
+[![Why to use React.js?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Why_to_use_React.js_.svg)](https://dev.to/itskunal/why-to-use-reactjs-2e9n)
+[![My blogging journey until now - I'm moving to Hashnode](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/My_blogging_journey_until_now_-_I'm_moving_to_Hashnode.svg)](https://dev.to/miguelmj/my-blogging-journey-until-now-im-moving-to-hashnode-496b)
+[![Appwrite Announces Pizza and Swag Fund](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Appwrite_Announces_Pizza_and_Swag_Fund.svg)](https://dev.to/appwrite/appwrite-announces-pizza-and-swag-fund-200m)
+[![How to Mock and Test AsyncStorage in React Native](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Mock_and_Test_AsyncStorage_in_React_Native.svg)](https://dev.to/tiaeastwood/how-to-mock-and-test-asyncstorage-in-react-native-4kil)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, January 19, 2023 at 5:17:30 AM
+> Last updated: Thursday, January 19, 2023 at 11:12:51 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, January 19, 2023 at 5:17:34 AM
+> Last updated: Thursday, January 19, 2023 at 11:12:55 AM
 
 > Showing 5 of 30 posts.
 
