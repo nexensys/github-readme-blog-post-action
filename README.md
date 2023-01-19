@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, January 18, 2023 at 11:10:58 AM
+> Last updated: Wednesday, January 18, 2023 at 5:48:35 PM
 
 > Showing 5 of 12 posts.
 
-[![Full-Stack Development Has Changed In 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Full-Stack_Development_Has_Changed_In_2023.svg)](https://dev.to/mikehtmlallthethings/full-stack-development-has-changed-in-2023-g4i)
-[![Improving Your Development Documentation Project (1 of 3)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Improving_Your_Development_Documentation_Project_(1_of_3).svg)](https://dev.to/javierhf/improving-your-development-documentation-project-1-of-3-48cn)
-[![Why we chose C over Rust](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Why_we_chose_C_over_Rust.svg)](https://dev.to/luos/why-we-chose-c-over-rust-4gfk)
-[![5 Full-Stack Project Ideas for 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_Full-Stack_Project_Ideas_for_2023.svg)](https://dev.to/johongirr/5-full-stack-project-ideas-for-2023-l4o)
-[![SELinux: Beginner's guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/SELinux__Beginner's_guide.svg)](https://dev.to/jmau111/selinux-beginners-guide-15af)
+[![Incremental Static Regeneration using Next.js with Strapi](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Incremental_Static_Regeneration_using_Next.js_with_Strapi.svg)](https://dev.to/strapi/incremental-static-regeneration-using-nextjs-with-strapi-3n9f)
+[![Mastering Advanced Types in TypeScript.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Mastering_Advanced_Types_in_TypeScript..svg)](https://dev.to/khalidahmada/mastering-advanced-types-in-typescript-25c9)
+[![What is “production” Machine Learning?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_“production”_Machine_Learning_.svg)](https://dev.to/sematic/what-is-production-machine-learning-22mk)
+[![How to Count Words and Characters in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Count_Words_and_Characters_in_JavaScript.svg)](https://dev.to/thedevdrawer/how-to-count-words-and-characters-in-javascript-1hb)
+[![Svelte for Beginners: A Beginner's Guide to Building Web Applications](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Svelte_for_Beginners__A_Beginner's_Guide_to_Building_Web_Applications.svg)](https://dev.to/rafael_abuawad/svelte-for-beginners-a-beginners-guide-to-building-web-applications-3o5j)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, January 18, 2023 at 11:11:02 AM
+> Last updated: Wednesday, January 18, 2023 at 5:48:38 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, January 18, 2023 at 11:11:09 AM
+> Last updated: Wednesday, January 18, 2023 at 5:48:45 PM
 
 > Showing 5 of 30 posts.
 
