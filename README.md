@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, January 18, 2023 at 11:11:47 PM
+> Last updated: Thursday, January 19, 2023 at 5:17:27 AM
 
 > Showing 5 of 12 posts.
 
-[![8 Ways to master web development in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/8_Ways_to_master_web_development_in_2023.svg)](https://dev.to/hy_piyush/8-ways-to-master-web-development-in-2023-3dl2)
-[![The essentials for Flutter front-end developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_essentials_for_Flutter_front-end_developers.svg)](https://dev.to/function12_io/the-essentials-for-flutter-front-end-developers-5dk8)
-[![Alternatives To Node Js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Alternatives_To_Node_Js.svg)](https://dev.to/niza/alternatives-to-node-js-48h9)
-[![Building A (Really) Simple Blog with Google Sheets as the Database](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Building_A_(Really)_Simple_Blog_with_Google_Sheets_as_the_Database.svg)](https://dev.to/daviduzondu/building-a-really-simple-blog-with-google-sheets-as-the-database-4db4)
-[![CSS Generators](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/CSS_Generators.svg)](https://dev.to/rahul3002/css-generators-m2n)
+[![The Not So Small Things of Developing Software](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Not_So_Small_Things_of_Developing_Software.svg)](https://dev.to/solidi/the-not-so-small-things-of-developing-software-3emi)
+[![Lessons learned since posting my salary history publicly](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Lessons_learned_since_posting_my_salary_history_publicly.svg)](https://dev.to/jamietanna/lessons-learned-since-posting-my-salary-history-publicly-5055)
+[![NEURAL NETWORK](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/NEURAL_NETWORK.svg)](https://dev.to/felix715/neural-network-3830)
+[![Roadmap To Prepare Yourself for Coding Interviews in Just 8 Weeks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Roadmap_To_Prepare_Yourself_for_Coding_Interviews_in_Just_8_Weeks.svg)](https://dev.to/onlydevs_/roadmap-to-prepare-yourself-for-coding-interviews-in-just-8-weeks-3ag5)
+[![This Week In React #131: useReducer, Controlled Inputs, Async React, DevTools, React-Query, Storybook, Remix, RN , Expo...](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/This_Week_In_React__131__useReducer__Controlled_Inputs__Async_React__DevTools__React-Query__Storybook__Remix__RN___Expo....svg)](https://dev.to/sebastienlorber/this-week-in-react-131-usereducer-controlled-inputs-async-react-devtools-react-query-storybook-remix-rn-expo-mcp)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, January 18, 2023 at 11:11:51 PM
+> Last updated: Thursday, January 19, 2023 at 5:17:30 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,11 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, January 18, 2023 at 11:11:57 PM
+> Last updated: Thursday, January 19, 2023 at 5:17:34 AM
 
 > Showing 5 of 30 posts.
 
-[![GitHub - redpangilinan/dungeon-crawler-rpg-od: Quick dungeon crawler experience on demand!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_redpangilinan_dungeon-crawler-rpg-od__Quick_dungeon_crawler_experience_on_demand!.svg)](https://github.com/redpangilinan/dungeon-crawler-rpg-od)
+[![GitHub - redpangilinan/dungeon-crawler-rpg-od: Quick dungeon crawler experience on demand with diablo inspired looting system!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_redpangilinan_dungeon-crawler-rpg-od__Quick_dungeon_crawler_experience_on_demand_with_diablo_inspired_looting_system!.svg)](https://github.com/redpangilinan/dungeon-crawler-rpg-od)
 [![
 Crop and Upload Image Service
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Crop_and_Upload_Image_Service_.svg)](
