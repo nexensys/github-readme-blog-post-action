@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, January 18, 2023 at 5:48:35 PM
+> Last updated: Wednesday, January 18, 2023 at 11:11:47 PM
 
 > Showing 5 of 12 posts.
 
-[![Incremental Static Regeneration using Next.js with Strapi](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Incremental_Static_Regeneration_using_Next.js_with_Strapi.svg)](https://dev.to/strapi/incremental-static-regeneration-using-nextjs-with-strapi-3n9f)
-[![Mastering Advanced Types in TypeScript.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Mastering_Advanced_Types_in_TypeScript..svg)](https://dev.to/khalidahmada/mastering-advanced-types-in-typescript-25c9)
-[![What is “production” Machine Learning?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_“production”_Machine_Learning_.svg)](https://dev.to/sematic/what-is-production-machine-learning-22mk)
-[![How to Count Words and Characters in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Count_Words_and_Characters_in_JavaScript.svg)](https://dev.to/thedevdrawer/how-to-count-words-and-characters-in-javascript-1hb)
-[![Svelte for Beginners: A Beginner's Guide to Building Web Applications](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Svelte_for_Beginners__A_Beginner's_Guide_to_Building_Web_Applications.svg)](https://dev.to/rafael_abuawad/svelte-for-beginners-a-beginners-guide-to-building-web-applications-3o5j)
+[![8 Ways to master web development in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/8_Ways_to_master_web_development_in_2023.svg)](https://dev.to/hy_piyush/8-ways-to-master-web-development-in-2023-3dl2)
+[![The essentials for Flutter front-end developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_essentials_for_Flutter_front-end_developers.svg)](https://dev.to/function12_io/the-essentials-for-flutter-front-end-developers-5dk8)
+[![Alternatives To Node Js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Alternatives_To_Node_Js.svg)](https://dev.to/niza/alternatives-to-node-js-48h9)
+[![Building A (Really) Simple Blog with Google Sheets as the Database](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Building_A_(Really)_Simple_Blog_with_Google_Sheets_as_the_Database.svg)](https://dev.to/daviduzondu/building-a-really-simple-blog-with-google-sheets-as-the-database-4db4)
+[![CSS Generators](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/CSS_Generators.svg)](https://dev.to/rahul3002/css-generators-m2n)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, January 18, 2023 at 5:48:38 PM
+> Last updated: Wednesday, January 18, 2023 at 11:11:51 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, January 18, 2023 at 5:48:45 PM
+> Last updated: Wednesday, January 18, 2023 at 11:11:57 PM
 
 > Showing 5 of 30 posts.
 
