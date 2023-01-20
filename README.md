@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, January 19, 2023 at 11:12:46 AM
+> Last updated: Thursday, January 19, 2023 at 5:48:02 PM
 
 > Showing 5 of 12 posts.
 
-[![Portswigger’s lab write up: CORS vulnerability with trusted null origin](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Portswigger’s_lab_write_up__CORS_vulnerability_with_trusted_null_origin.svg)](https://dev.to/christianpaez/portswiggers-lab-write-up-cors-vulnerability-with-trusted-null-origin-4g9c)
-[![Why to use React.js?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Why_to_use_React.js_.svg)](https://dev.to/itskunal/why-to-use-reactjs-2e9n)
-[![My blogging journey until now - I'm moving to Hashnode](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/My_blogging_journey_until_now_-_I'm_moving_to_Hashnode.svg)](https://dev.to/miguelmj/my-blogging-journey-until-now-im-moving-to-hashnode-496b)
-[![Appwrite Announces Pizza and Swag Fund](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Appwrite_Announces_Pizza_and_Swag_Fund.svg)](https://dev.to/appwrite/appwrite-announces-pizza-and-swag-fund-200m)
-[![How to Mock and Test AsyncStorage in React Native](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Mock_and_Test_AsyncStorage_in_React_Native.svg)](https://dev.to/tiaeastwood/how-to-mock-and-test-asyncstorage-in-react-native-4kil)
+[![How install Jupyter?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_install_Jupyter_.svg)](https://dev.to/xlmriosx/how-install-jupyter-2f7j)
+[![The Journey to Code Mastery w/ Marqeta's CTO, Randy Kern](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Journey_to_Code_Mastery_w__Marqeta's_CTO__Randy_Kern.svg)](https://dev.to/linearb/the-journey-to-code-mastery-w-marqetas-cto-randy-kern-3jae)
+[![JS Promises #3: Garbage collection and memory leaks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/JS_Promises__3__Garbage_collection_and_memory_leaks.svg)](https://dev.to/xnimorz/js-promises-3-garbage-collection-and-memory-leaks-2oi7)
+[![30 days 30 shorts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/30_days_30_shorts.svg)](https://dev.to/shreyvijayvargiya/30-days-30-shorts-2cn0)
+[![Your CI needs CI: A New Way to Build CI Pipelines](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Your_CI_needs_CI__A_New_Way_to_Build_CI_Pipelines.svg)](https://dev.to/kpenfound/your-ci-needs-ci-a-new-way-to-build-ci-pipelines-2gbi)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, January 19, 2023 at 11:12:51 AM
+> Last updated: Thursday, January 19, 2023 at 5:48:07 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, January 19, 2023 at 11:12:55 AM
+> Last updated: Thursday, January 19, 2023 at 5:48:12 PM
 
 > Showing 5 of 30 posts.
 
