@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, January 19, 2023 at 5:48:02 PM
+> Last updated: Thursday, January 19, 2023 at 11:11:59 PM
 
 > Showing 5 of 12 posts.
 
+[![Data Engineering and DataOps: A Beginner's Guide to Building Data Solutions and Solving Real-World Challenges](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Data_Engineering_and_DataOps__A_Beginner's_Guide_to_Building_Data_Solutions_and_Solving_Real-World_Challenges.svg)](https://dev.to/chaos-genius/data-engineering-and-dataops-a-beginners-guide-to-building-data-solutions-and-solving-real-world-challenges-4p5j)
+[![🐞 Fix a WordPress login loop caused by Cloudflare Turnstile and Wordfence 2FA conflict 🐞](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/🐞_Fix_a_WordPress_login_loop_caused_by_Cloudflare_Turnstile_and_Wordfence_2FA_conflict_🐞.svg)](https://dev.to/hunghvu/fix-a-wordpress-login-loop-caused-by-cloudflare-turnstile-and-wordfence-2fa-conflict-1ma8)
+[![Tried Polars in Ruby](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Tried_Polars_in_Ruby.svg)](https://dev.to/kojix2/tried-polars-in-ruby-2p5j)
 [![How install Jupyter?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_install_Jupyter_.svg)](https://dev.to/xlmriosx/how-install-jupyter-2f7j)
-[![The Journey to Code Mastery w/ Marqeta's CTO, Randy Kern](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Journey_to_Code_Mastery_w__Marqeta's_CTO__Randy_Kern.svg)](https://dev.to/linearb/the-journey-to-code-mastery-w-marqetas-cto-randy-kern-3jae)
-[![JS Promises #3: Garbage collection and memory leaks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/JS_Promises__3__Garbage_collection_and_memory_leaks.svg)](https://dev.to/xnimorz/js-promises-3-garbage-collection-and-memory-leaks-2oi7)
-[![30 days 30 shorts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/30_days_30_shorts.svg)](https://dev.to/shreyvijayvargiya/30-days-30-shorts-2cn0)
-[![Your CI needs CI: A New Way to Build CI Pipelines](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Your_CI_needs_CI__A_New_Way_to_Build_CI_Pipelines.svg)](https://dev.to/kpenfound/your-ci-needs-ci-a-new-way-to-build-ci-pipelines-2gbi)
+[![Modals with React Router 6 and Remix](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Modals_with_React_Router_6_and_Remix.svg)](https://dev.to/infoxicator/modals-with-react-router-6-and-remix-1e35)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, January 19, 2023 at 5:48:07 PM
+> Last updated: Thursday, January 19, 2023 at 11:12:01 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, January 19, 2023 at 5:48:12 PM
+> Last updated: Thursday, January 19, 2023 at 11:12:06 PM
 
 > Showing 5 of 30 posts.
 
