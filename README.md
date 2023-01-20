@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, January 19, 2023 at 11:11:59 PM
+> Last updated: Friday, January 20, 2023 at 5:17:12 AM
 
 > Showing 5 of 12 posts.
 
-[![Data Engineering and DataOps: A Beginner's Guide to Building Data Solutions and Solving Real-World Challenges](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Data_Engineering_and_DataOps__A_Beginner's_Guide_to_Building_Data_Solutions_and_Solving_Real-World_Challenges.svg)](https://dev.to/chaos-genius/data-engineering-and-dataops-a-beginners-guide-to-building-data-solutions-and-solving-real-world-challenges-4p5j)
-[![🐞 Fix a WordPress login loop caused by Cloudflare Turnstile and Wordfence 2FA conflict 🐞](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/🐞_Fix_a_WordPress_login_loop_caused_by_Cloudflare_Turnstile_and_Wordfence_2FA_conflict_🐞.svg)](https://dev.to/hunghvu/fix-a-wordpress-login-loop-caused-by-cloudflare-turnstile-and-wordfence-2fa-conflict-1ma8)
-[![Tried Polars in Ruby](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Tried_Polars_in_Ruby.svg)](https://dev.to/kojix2/tried-polars-in-ruby-2p5j)
-[![How install Jupyter?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_install_Jupyter_.svg)](https://dev.to/xlmriosx/how-install-jupyter-2f7j)
-[![Modals with React Router 6 and Remix](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Modals_with_React_Router_6_and_Remix.svg)](https://dev.to/infoxicator/modals-with-react-router-6-and-remix-1e35)
+[![Why I am happy to be a Javascript developer?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Why_I_am_happy_to_be_a_Javascript_developer_.svg)](https://dev.to/hadnazzar/why-i-am-happy-to-be-a-javascript-developer-h62)
+[![Text To Speech Converter with JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Text_To_Speech_Converter_with_JavaScript.svg)](https://dev.to/shantanu_jana/text-to-speech-converter-with-javascript-30oo)
+[![Build a Subscription-Based Service with Stripe and Appwrite Functions in Flutter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_a_Subscription-Based_Service_with_Stripe_and_Appwrite_Functions_in_Flutter.svg)](https://dev.to/hackmamba/build-a-subscription-based-service-with-stripe-and-appwrite-functions-in-flutter-bia)
+[![Top 8 tips for visiting re:Invent 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_8_tips_for_visiting_re_Invent_2023.svg)](https://dev.to/aws-builders/top-8-tips-for-visiting-reinvent-2023-257b)
+[![Become a JavaScript Testing Pro: 14 Resources for Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Become_a_JavaScript_Testing_Pro__14_Resources_for_Developers.svg)](https://dev.to/mbarzeev/become-a-javascript-testing-pro-14-resources-for-developers-4pkm)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, January 19, 2023 at 11:12:01 PM
+> Last updated: Friday, January 20, 2023 at 5:17:15 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,16 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, January 19, 2023 at 11:12:06 PM
+> Last updated: Friday, January 20, 2023 at 5:17:19 AM
 
 > Showing 5 of 30 posts.
 
+[![Accessibility kit for web developers | De Voorhoede](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Accessibility_kit_for_web_developers___De_Voorhoede.svg)](https://www.voorhoede.nl/nl/blog/accessibility-kit-for-web-developers)
+[![
+API to get Blockchain data - Load the data from the blockchain into your own database
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_API_to_get_Blockchain_data_-_Load_the_data_from_the_blockchain_into_your_own_database_.svg)](
+https://www.footprint.network/data-api
+)
 [![GitHub - redpangilinan/dungeon-crawler-rpg-od: Quick dungeon crawler experience on demand with diablo inspired looting system!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_redpangilinan_dungeon-crawler-rpg-od__Quick_dungeon_crawler_experience_on_demand_with_diablo_inspired_looting_system!.svg)](https://github.com/redpangilinan/dungeon-crawler-rpg-od)
 [![
 Crop and Upload Image Service
@@ -54,8 +60,6 @@ Crop and Upload Image Service
 https://arokis.me/articles/crop-and-upload-image-service
 )
 [![Using Material Theme from Material Theme Builder in Stylify CSS | Stylify CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_Material_Theme_from_Material_Theme_Builder_in_Stylify_CSS___Stylify_CSS.svg)](https://stylifycss.com/blog/material-theme-integration)
-[![Nodejs fetch API: The Complete Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Nodejs_fetch_API__The_Complete_Guide.svg)](https://metered.hashnode.dev/nodejs-fetch-api-the-complete-guide)
-[![API with NestJS #91. Dockerizing a NestJS API with Docker Compose](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__91._Dockerizing_a_NestJS_API_with_Docker_Compose.svg)](https://wanago.io/2023/01/16/api-nestjs-docker-compose/)
 
 
 <!-- post-list:end -->
