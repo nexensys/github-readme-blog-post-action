@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, January 20, 2023 at 5:17:12 AM
+> Last updated: Friday, January 20, 2023 at 11:11:03 AM
 
 > Showing 5 of 12 posts.
 
-[![Why I am happy to be a Javascript developer?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Why_I_am_happy_to_be_a_Javascript_developer_.svg)](https://dev.to/hadnazzar/why-i-am-happy-to-be-a-javascript-developer-h62)
-[![Text To Speech Converter with JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Text_To_Speech_Converter_with_JavaScript.svg)](https://dev.to/shantanu_jana/text-to-speech-converter-with-javascript-30oo)
-[![Build a Subscription-Based Service with Stripe and Appwrite Functions in Flutter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_a_Subscription-Based_Service_with_Stripe_and_Appwrite_Functions_in_Flutter.svg)](https://dev.to/hackmamba/build-a-subscription-based-service-with-stripe-and-appwrite-functions-in-flutter-bia)
-[![Top 8 tips for visiting re:Invent 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_8_tips_for_visiting_re_Invent_2023.svg)](https://dev.to/aws-builders/top-8-tips-for-visiting-reinvent-2023-257b)
-[![Become a JavaScript Testing Pro: 14 Resources for Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Become_a_JavaScript_Testing_Pro__14_Resources_for_Developers.svg)](https://dev.to/mbarzeev/become-a-javascript-testing-pro-14-resources-for-developers-4pkm)
+[![Creating a Smart Twitter Bot with OpenAI's GPT-3: A Step-by-Step Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Creating_a_Smart_Twitter_Bot_with_OpenAI's_GPT-3__A_Step-by-Step_Guide.svg)](https://dev.to/paulwababu/creating-a-smart-twitter-bot-with-openais-gpt-3-a-step-by-step-guide-119k)
+[![Firebase + Nextjs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Firebase_+_Nextjs.svg)](https://dev.to/abbhiishek/firebase-nextjs-511a)
+[![How to get started with the basics of front end development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_get_started_with_the_basics_of_front_end_development.svg)](https://dev.to/catherineisonline/how-to-get-started-with-the-basics-of-front-end-development-1bh5)
+[![Python vs C++ : What should You take up in 2023 !](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Python_vs_C++___What_should_You_take_up_in_2023_!.svg)](https://dev.to/darkxenium/python-vs-c-what-should-you-take-up-in-2023--5gae)
+[![Bootstrap vs Bulma CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Bootstrap_vs_Bulma_CSS.svg)](https://dev.to/get_pieces/bootstrap-vs-bulma-css-32bf)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, January 20, 2023 at 5:17:15 AM
+> Last updated: Friday, January 20, 2023 at 11:11:06 AM
 
 > Showing 4 of 4 posts.
 
+[![Why document.write() is bad](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Why_document.write()_is_bad.svg)](https://javascriptweekly.com/issues/622)
 [![Java-Script Jarre](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Java-Script_Jarre.svg)](https://javascriptweekly.com/issues/621)
 [![Looking at both 2022 and 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Looking_at_both_2022_and_2023.svg)](https://javascriptweekly.com/issues/620)
 [![A new jQuery release for Xmas](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/A_new_jQuery_release_for_Xmas.svg)](https://javascriptweekly.com/issues/619)
-[![Vite 4.0 released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Vite_4.0_released.svg)](https://javascriptweekly.com/issues/618)
 
 
 ## Echo JS
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, January 20, 2023 at 5:17:19 AM
+> Last updated: Friday, January 20, 2023 at 11:11:09 AM
 
 > Showing 5 of 30 posts.
 
