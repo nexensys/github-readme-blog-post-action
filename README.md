@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, January 20, 2023 at 11:11:03 AM
+> Last updated: Friday, January 20, 2023 at 5:47:10 PM
 
 > Showing 5 of 12 posts.
 
-[![Creating a Smart Twitter Bot with OpenAI's GPT-3: A Step-by-Step Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Creating_a_Smart_Twitter_Bot_with_OpenAI's_GPT-3__A_Step-by-Step_Guide.svg)](https://dev.to/paulwababu/creating-a-smart-twitter-bot-with-openais-gpt-3-a-step-by-step-guide-119k)
-[![Firebase + Nextjs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Firebase_+_Nextjs.svg)](https://dev.to/abbhiishek/firebase-nextjs-511a)
-[![How to get started with the basics of front end development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_get_started_with_the_basics_of_front_end_development.svg)](https://dev.to/catherineisonline/how-to-get-started-with-the-basics-of-front-end-development-1bh5)
-[![Python vs C++ : What should You take up in 2023 !](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Python_vs_C++___What_should_You_take_up_in_2023_!.svg)](https://dev.to/darkxenium/python-vs-c-what-should-you-take-up-in-2023--5gae)
-[![Bootstrap vs Bulma CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Bootstrap_vs_Bulma_CSS.svg)](https://dev.to/get_pieces/bootstrap-vs-bulma-css-32bf)
+[![Cook a Recipe: Create a Web application using AWS Amplify](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Cook_a_Recipe__Create_a_Web_application_using_AWS_Amplify.svg)](https://dev.to/aws-builders/cook-a-recipe-create-a-web-application-using-aws-amplify-3128)
+[![CLI Client for ReductStore v0.5.0 has been released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/CLI_Client_for_ReductStore_v0.5.0_has_been_released.svg)](https://dev.to/reductstore/cli-client-for-reductstore-v050-has-been-released-3dam)
+[![Hosting Your Application the Right Way: An Overview to Hosting Compute Power in the Cloud to Save Money and Time](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Hosting_Your_Application_the_Right_Way__An_Overview_to_Hosting_Compute_Power_in_the_Cloud_to_Save_Money_and_Time.svg)](https://dev.to/kaykleinvogel/hosting-your-application-the-right-way-an-overview-to-hosting-compute-power-in-the-cloud-to-save-money-and-time-m1)
+[![First steps with Ansible.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/First_steps_with_Ansible..svg)](https://dev.to/aldorvv__/first-steps-with-ansible-5dje)
+[![Software Architecture Patterns: Space-based Architecture](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Software_Architecture_Patterns__Space-based_Architecture.svg)](https://dev.to/alexrashkov/software-architecture-patterns-space-based-architecture-h2i)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, January 20, 2023 at 11:11:06 AM
+> Last updated: Friday, January 20, 2023 at 5:47:14 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,16 +43,12 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, January 20, 2023 at 11:11:09 AM
+> Last updated: Friday, January 20, 2023 at 5:47:17 PM
 
 > Showing 5 of 30 posts.
 
+[![Release Neutralinojs v4.10.0 released! · neutralinojs/neutralinojs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Release_Neutralinojs_v4.10.0_released!_·_neutralinojs_neutralinojs.svg)](/neutralinojs/neutralinojs/releases/tag/v4.10.0)
 [![Accessibility kit for web developers | De Voorhoede](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Accessibility_kit_for_web_developers___De_Voorhoede.svg)](https://www.voorhoede.nl/nl/blog/accessibility-kit-for-web-developers)
-[![
-API to get Blockchain data - Load the data from the blockchain into your own database
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_API_to_get_Blockchain_data_-_Load_the_data_from_the_blockchain_into_your_own_database_.svg)](
-https://www.footprint.network/data-api
-)
 [![GitHub - redpangilinan/dungeon-crawler-rpg-od: Quick dungeon crawler experience on demand with diablo inspired looting system!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_redpangilinan_dungeon-crawler-rpg-od__Quick_dungeon_crawler_experience_on_demand_with_diablo_inspired_looting_system!.svg)](https://github.com/redpangilinan/dungeon-crawler-rpg-od)
 [![
 Crop and Upload Image Service
