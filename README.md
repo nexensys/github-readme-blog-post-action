@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, January 21, 2023 at 5:14:46 AM
+> Last updated: Saturday, January 21, 2023 at 11:09:42 AM
 
 > Showing 5 of 12 posts.
 
-[![v1.3.0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/v1.3.0.svg)](https://dev.to/essentialsp/v130-41n4)
-[![EssentialsP - v1.3.0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/EssentialsP_-_v1.3.0.svg)](https://dev.to/pandadev_/essentialsp-v130-4a05)
-[![AWS Serverless Production Readiness Checklist](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/AWS_Serverless_Production_Readiness_Checklist.svg)](https://dev.to/aws-builders/aws-serverless-production-readiness-checklist-4jj)
-[![Podman 4.3 on Windows 10: インストール](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Podman_4.3_on_Windows_10__インストール.svg)](https://dev.to/nabbisen/podman-43-on-windows-10-insutoru-dmg)
-[![10 Free Spring Certification Practice Questions for Java Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/10_Free_Spring_Certification_Practice_Questions_for_Java_Developers.svg)](https://dev.to/javinpaul/10-free-spring-certification-practice-questions-for-java-developers-194o)
+[![Amazon API Gateway integration with AWS WAF](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Amazon_API_Gateway_integration_with_AWS_WAF.svg)](https://dev.to/aws-builders/amazon-api-gateway-integration-with-aws-waf-22b4)
+[![Time Complexity](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Time_Complexity.svg)](https://dev.to/abbhiishek/time-complexity-41a1)
+[![Raffle Draws on the Ethereum Blockchain: A Beginner's Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Raffle_Draws_on_the_Ethereum_Blockchain__A_Beginner's_Guide.svg)](https://dev.to/daltonic/raffle-draws-on-the-ethereum-blockchain-a-beginners-guide-29o2)
+[![Contribute on Open Source Projects as a Beginner](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Contribute_on_Open_Source_Projects_as_a_Beginner.svg)](https://dev.to/anjankarmakar/contribute-on-open-source-projects-as-a-beginner-4mge)
+[![Readymade Quiz for AWS re:Invent re:Cap from QuizHub](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Readymade_Quiz_for_AWS_re_Invent_re_Cap_from_QuizHub.svg)](https://dev.to/aws-heroes/readymade-quiz-for-aws-reinvent-recap-from-quizhub-2akm)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, January 21, 2023 at 5:14:49 AM
+> Last updated: Saturday, January 21, 2023 at 11:09:45 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, January 21, 2023 at 5:14:51 AM
+> Last updated: Saturday, January 21, 2023 at 11:09:48 AM
 
 > Showing 5 of 30 posts.
 
