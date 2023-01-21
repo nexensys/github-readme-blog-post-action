@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, January 20, 2023 at 5:47:10 PM
+> Last updated: Friday, January 20, 2023 at 11:10:43 PM
 
 > Showing 5 of 12 posts.
 
-[![Cook a Recipe: Create a Web application using AWS Amplify](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Cook_a_Recipe__Create_a_Web_application_using_AWS_Amplify.svg)](https://dev.to/aws-builders/cook-a-recipe-create-a-web-application-using-aws-amplify-3128)
-[![CLI Client for ReductStore v0.5.0 has been released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/CLI_Client_for_ReductStore_v0.5.0_has_been_released.svg)](https://dev.to/reductstore/cli-client-for-reductstore-v050-has-been-released-3dam)
-[![Hosting Your Application the Right Way: An Overview to Hosting Compute Power in the Cloud to Save Money and Time](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Hosting_Your_Application_the_Right_Way__An_Overview_to_Hosting_Compute_Power_in_the_Cloud_to_Save_Money_and_Time.svg)](https://dev.to/kaykleinvogel/hosting-your-application-the-right-way-an-overview-to-hosting-compute-power-in-the-cloud-to-save-money-and-time-m1)
-[![First steps with Ansible.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/First_steps_with_Ansible..svg)](https://dev.to/aldorvv__/first-steps-with-ansible-5dje)
-[![Software Architecture Patterns: Space-based Architecture](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Software_Architecture_Patterns__Space-based_Architecture.svg)](https://dev.to/alexrashkov/software-architecture-patterns-space-based-architecture-h2i)
+[![Unsupervised Learning: Techniques, Types, and Applications](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Unsupervised_Learning__Techniques__Types__and_Applications.svg)](https://dev.to/anurag629/unsupervised-learning-techniques-types-and-applications-48kk)
+[![How to Make a Color Picker in JavaScript?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Make_a_Color_Picker_in_JavaScript_.svg)](https://dev.to/shantanu_jana/how-to-make-a-color-picker-in-javascript-15lc)
+[![The Top 5 Websites for Effective Coding](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Top_5_Websites_for_Effective_Coding.svg)](https://dev.to/rahul3002/the-top-5-websites-for-effective-coding-20o9)
+[![The last form library for React you will ever need](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_last_form_library_for_React_you_will_ever_need.svg)](https://dev.to/jucian0/the-last-form-library-for-react-you-will-ever-need-3d42)
+[![Notice and Alerts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Notice_and_Alerts.svg)](https://dev.to/austinmei5/notice-and-alerts-35p6)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, January 20, 2023 at 5:47:14 PM
+> Last updated: Friday, January 20, 2023 at 11:10:46 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, January 20, 2023 at 5:47:17 PM
+> Last updated: Friday, January 20, 2023 at 11:10:48 PM
 
 > Showing 5 of 30 posts.
 
