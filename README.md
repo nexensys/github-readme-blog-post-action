@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, January 20, 2023 at 11:10:43 PM
+> Last updated: Saturday, January 21, 2023 at 5:14:46 AM
 
 > Showing 5 of 12 posts.
 
-[![Unsupervised Learning: Techniques, Types, and Applications](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Unsupervised_Learning__Techniques__Types__and_Applications.svg)](https://dev.to/anurag629/unsupervised-learning-techniques-types-and-applications-48kk)
-[![How to Make a Color Picker in JavaScript?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Make_a_Color_Picker_in_JavaScript_.svg)](https://dev.to/shantanu_jana/how-to-make-a-color-picker-in-javascript-15lc)
-[![The Top 5 Websites for Effective Coding](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Top_5_Websites_for_Effective_Coding.svg)](https://dev.to/rahul3002/the-top-5-websites-for-effective-coding-20o9)
-[![The last form library for React you will ever need](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_last_form_library_for_React_you_will_ever_need.svg)](https://dev.to/jucian0/the-last-form-library-for-react-you-will-ever-need-3d42)
-[![Notice and Alerts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Notice_and_Alerts.svg)](https://dev.to/austinmei5/notice-and-alerts-35p6)
+[![v1.3.0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/v1.3.0.svg)](https://dev.to/essentialsp/v130-41n4)
+[![EssentialsP - v1.3.0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/EssentialsP_-_v1.3.0.svg)](https://dev.to/pandadev_/essentialsp-v130-4a05)
+[![AWS Serverless Production Readiness Checklist](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/AWS_Serverless_Production_Readiness_Checklist.svg)](https://dev.to/aws-builders/aws-serverless-production-readiness-checklist-4jj)
+[![Podman 4.3 on Windows 10: インストール](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Podman_4.3_on_Windows_10__インストール.svg)](https://dev.to/nabbisen/podman-43-on-windows-10-insutoru-dmg)
+[![10 Free Spring Certification Practice Questions for Java Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/10_Free_Spring_Certification_Practice_Questions_for_Java_Developers.svg)](https://dev.to/javinpaul/10-free-spring-certification-practice-questions-for-java-developers-194o)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, January 20, 2023 at 11:10:46 PM
+> Last updated: Saturday, January 21, 2023 at 5:14:49 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, January 20, 2023 at 11:10:48 PM
+> Last updated: Saturday, January 21, 2023 at 5:14:51 AM
 
 > Showing 5 of 30 posts.
 
