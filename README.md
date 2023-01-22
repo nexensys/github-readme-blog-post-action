@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, January 21, 2023 at 11:09:42 AM
+> Last updated: Saturday, January 21, 2023 at 5:52:07 PM
 
 > Showing 5 of 12 posts.
 
-[![Amazon API Gateway integration with AWS WAF](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Amazon_API_Gateway_integration_with_AWS_WAF.svg)](https://dev.to/aws-builders/amazon-api-gateway-integration-with-aws-waf-22b4)
-[![Time Complexity](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Time_Complexity.svg)](https://dev.to/abbhiishek/time-complexity-41a1)
-[![Raffle Draws on the Ethereum Blockchain: A Beginner's Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Raffle_Draws_on_the_Ethereum_Blockchain__A_Beginner's_Guide.svg)](https://dev.to/daltonic/raffle-draws-on-the-ethereum-blockchain-a-beginners-guide-29o2)
-[![Contribute on Open Source Projects as a Beginner](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Contribute_on_Open_Source_Projects_as_a_Beginner.svg)](https://dev.to/anjankarmakar/contribute-on-open-source-projects-as-a-beginner-4mge)
-[![Readymade Quiz for AWS re:Invent re:Cap from QuizHub](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Readymade_Quiz_for_AWS_re_Invent_re_Cap_from_QuizHub.svg)](https://dev.to/aws-heroes/readymade-quiz-for-aws-reinvent-recap-from-quizhub-2akm)
+[![How to get full CSS selector path?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_get_full_CSS_selector_path_.svg)](https://dev.to/martinadams/how-to-get-full-css-selector-path-1c8g)
+[![Top 10 Headless CMS in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_10_Headless_CMS_in_2023.svg)](https://dev.to/ezinne_anne/top-10-headless-cms-in-2023-3i66)
+[![🧧Happy Lunar New Year, and thanks dev.to for the great 2022🎆](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/🧧Happy_Lunar_New_Year__and_thanks_dev.to_for_the_great_2022🎆.svg)](https://dev.to/hunghvu/happy-lunar-new-year-and-thanks-devto-for-the-great-2022-o7n)
+[![Web Scraping - A Complete Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Web_Scraping_-_A_Complete_Guide.svg)](https://dev.to/serpdogapi/web-scraping-a-complete-guide-1lk2)
+[![Animate everything with Framer Motion](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Animate_everything_with_Framer_Motion.svg)](https://dev.to/ariburaco/animate-everything-with-framer-motion-mpd)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, January 21, 2023 at 11:09:45 AM
+> Last updated: Saturday, January 21, 2023 at 5:52:10 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, January 21, 2023 at 11:09:48 AM
+> Last updated: Saturday, January 21, 2023 at 5:52:14 PM
 
 > Showing 5 of 30 posts.
 
