@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, January 21, 2023 at 11:10:33 PM
+> Last updated: Sunday, January 22, 2023 at 5:15:01 AM
 
 > Showing 5 of 12 posts.
 
-[![Top 10 Most Popular CSS Interview Questions 🦄](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_10_Most_Popular_CSS_Interview_Questions_🦄.svg)](https://dev.to/rammcodes/top-10-most-popular-css-interview-questions-47cj)
-[![I bet you don’t know about these 11 functional HTML elements](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/I_bet_you_don’t_know_about_these_11_functional_HTML_elements.svg)](https://dev.to/hy_piyush/i-bet-you-dont-know-about-these-11-functional-html-elements-1gpe)
-[![6 GitHub Repositories You Can't Live Without](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/6_GitHub_Repositories_You_Can't_Live_Without.svg)](https://dev.to/rahul3002/6-github-repositories-you-cant-live-without-1mka)
-[![My Homelab](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/My_Homelab.svg)](https://dev.to/johnbwoodruff/my-homelab-11mb)
-[![Next.js: Build the simplest tagging system](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Next.js__Build_the_simplest_tagging_system.svg)](https://dev.to/jareechang/nextjs-build-the-simplest-tagging-system-el7)
+[![Building a Simple Recommendation System with Scikit-Learn](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Building_a_Simple_Recommendation_System_with_Scikit-Learn.svg)](https://dev.to/abhaysinghr1/building-a-simple-recommendation-system-with-scikit-learn-7op)
+[![Node js PostgreSql,express, server connection](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Node_js_PostgreSql_express__server_connection.svg)](https://dev.to/bappasahabapi/node-js-postgresqlexpress-server-connection-4gpn)
+[![AWS VPC BASICS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/AWS_VPC_BASICS.svg)](https://dev.to/isec101/aws-vpc-basics-412p)
+[![Difference Between DOM and Virtual DOM](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Difference_Between_DOM_and_Virtual_DOM.svg)](https://dev.to/vamsi_76_89/difference-between-dom-and-virtual-dom-2g8g)
+[![3 years into coding](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/3_years_into_coding.svg)](https://dev.to/vulcanwm/3-years-into-coding-ni9)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, January 21, 2023 at 11:10:36 PM
+> Last updated: Sunday, January 22, 2023 at 5:15:05 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, January 21, 2023 at 11:10:39 PM
+> Last updated: Sunday, January 22, 2023 at 5:15:08 AM
 
 > Showing 5 of 30 posts.
 
