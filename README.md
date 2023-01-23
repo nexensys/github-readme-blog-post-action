@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, January 22, 2023 at 11:11:01 PM
+> Last updated: Monday, January 23, 2023 at 5:16:32 AM
 
 > Showing 5 of 12 posts.
 
-[![Utilizando Patch Package](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Utilizando_Patch_Package.svg)](https://dev.to/arthu0x07/utilizando-patch-package-3emd)
-[![Linear Regression in Python: From Data to Model](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Linear_Regression_in_Python__From_Data_to_Model.svg)](https://dev.to/anurag629/linear-regression-in-python-from-data-to-model-3m34)
-[![DataOps 101: An Introduction to the Essential Approach of Data Management Operations and Observability](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/DataOps_101__An_Introduction_to_the_Essential_Approach_of_Data_Management_Operations_and_Observability.svg)](https://dev.to/chaos-genius/dataops-101-an-introduction-to-the-essential-approach-of-data-management-operations-and-observability-2gea)
-[![Unlock the Power of debugging: Utilizing Clear Code as a Tool for Documentation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Unlock_the_Power_of_debugging__Utilizing_Clear_Code_as_a_Tool_for_Documentation.svg)](https://dev.to/ankushppie/unlock-the-power-of-debugging-utilizing-clear-code-as-a-tool-for-documentation-161f)
-[![Why you should be learning cloud in 2023 | AWS Community Builders Program](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Why_you_should_be_learning_cloud_in_2023___AWS_Community_Builders_Program.svg)](https://dev.to/aws-builders/why-you-should-be-learning-cloud-in-2023-aws-community-builders-program-4b37)
+[![Kotlin Web Framework Ktor: What's New and How It Can Benefit Your Project?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Kotlin_Web_Framework_Ktor__What's_New_and_How_It_Can_Benefit_Your_Project_.svg)](https://dev.to/quokkalabs/kotlin-web-framework-ktor-whats-new-and-how-it-can-benefit-your-project-21b5)
+[![Building personalised recommendation system (p.2)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Building_personalised_recommendation_system_(p.2).svg)](https://dev.to/vhutov/building-personalised-recommendation-system-p2-53gk)
+[![Creating GitHub Template Repository](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Creating_GitHub_Template_Repository.svg)](https://dev.to/rndsetiawan/creating-github-template-repository-3m5l)
+[![5 free resources to learn JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_free_resources_to_learn_JavaScript.svg)](https://dev.to/catherineisonline/5-free-resources-to-learn-javascript-1la7)
+[![Appwrite Loves Open Source: Why I decided to support Starship](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Appwrite_Loves_Open_Source__Why_I_decided_to_support_Starship.svg)](https://dev.to/appwrite/appwrite-loves-open-source-why-i-decided-to-support-starship-3pfc)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, January 22, 2023 at 11:11:04 PM
+> Last updated: Monday, January 23, 2023 at 5:16:36 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, January 22, 2023 at 11:11:07 PM
+> Last updated: Monday, January 23, 2023 at 5:16:39 AM
 
 > Showing 5 of 30 posts.
 
