@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, January 22, 2023 at 5:44:35 PM
+> Last updated: Sunday, January 22, 2023 at 11:11:01 PM
 
 > Showing 5 of 12 posts.
 
-[![What the heck is Tailwind CSS and should I use it?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_the_heck_is_Tailwind_CSS_and_should_I_use_it_.svg)](https://dev.to/chasehuber/what-the-heck-is-tailwind-css-and-should-i-use-it-557d)
-[![Build your resume in React + SSG!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_your_resume_in_React_+_SSG!.svg)](https://dev.to/jeckhummer/build-your-resume-in-react-ssg-10i4)
-[![DNS Basics Explained](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/DNS_Basics_Explained.svg)](https://dev.to/nskrypnik/dns-basics-explained-2mea)
-[![Unlock the Power of CTEs: Simplify and Optimize Your SQL Queries](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Unlock_the_Power_of_CTEs__Simplify_and_Optimize_Your_SQL_Queries.svg)](https://dev.to/devneagu/unlock-the-power-of-ctes-simplify-and-optimize-your-sql-queries-43el)
-[![Como realizar um bom troubleshooting ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Como_realizar_um_bom_troubleshooting__.svg)](https://dev.to/brunonovais/como-realizar-um-bom-troubleshooting--1h4p)
+[![Utilizando Patch Package](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Utilizando_Patch_Package.svg)](https://dev.to/arthu0x07/utilizando-patch-package-3emd)
+[![Linear Regression in Python: From Data to Model](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Linear_Regression_in_Python__From_Data_to_Model.svg)](https://dev.to/anurag629/linear-regression-in-python-from-data-to-model-3m34)
+[![DataOps 101: An Introduction to the Essential Approach of Data Management Operations and Observability](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/DataOps_101__An_Introduction_to_the_Essential_Approach_of_Data_Management_Operations_and_Observability.svg)](https://dev.to/chaos-genius/dataops-101-an-introduction-to-the-essential-approach-of-data-management-operations-and-observability-2gea)
+[![Unlock the Power of debugging: Utilizing Clear Code as a Tool for Documentation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Unlock_the_Power_of_debugging__Utilizing_Clear_Code_as_a_Tool_for_Documentation.svg)](https://dev.to/ankushppie/unlock-the-power-of-debugging-utilizing-clear-code-as-a-tool-for-documentation-161f)
+[![Why you should be learning cloud in 2023 | AWS Community Builders Program](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Why_you_should_be_learning_cloud_in_2023___AWS_Community_Builders_Program.svg)](https://dev.to/aws-builders/why-you-should-be-learning-cloud-in-2023-aws-community-builders-program-4b37)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, January 22, 2023 at 5:44:37 PM
+> Last updated: Sunday, January 22, 2023 at 11:11:04 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, January 22, 2023 at 5:44:39 PM
+> Last updated: Sunday, January 22, 2023 at 11:11:07 PM
 
 > Showing 5 of 30 posts.
 
