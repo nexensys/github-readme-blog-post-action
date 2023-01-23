@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, January 22, 2023 at 11:09:57 AM
+> Last updated: Sunday, January 22, 2023 at 5:44:35 PM
 
 > Showing 5 of 12 posts.
 
-[![Yet Another Newsletter LOL: So much snow!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Yet_Another_Newsletter_LOL__So_much_snow!.svg)](https://dev.to/nickytonline/yet-another-newsletter-lol-so-much-snow-3enl)
-[![Measuring Java 11 Lambda cold starts with SnapStart - Part 6 priming the request invocation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Measuring_Java_11_Lambda_cold_starts_with_SnapStart_-_Part_6_priming_the_request_invocation.svg)](https://dev.to/aws-builders/measuring-java-11-lambda-cold-starts-with-snapstart-part-6-priming-the-request-invocation-30od)
-[![I do HTML and CSS for a living](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/I_do_HTML_and_CSS_for_a_living.svg)](https://dev.to/starbist/i-do-html-and-css-for-a-living-20lj)
-[![Building a free Open-source portfolio template using HTML, CSS and JS | Part 5](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Building_a_free_Open-source_portfolio_template_using_HTML__CSS_and_JS___Part_5.svg)](https://dev.to/nisarhassan12/building-a-free-open-source-portfolio-template-using-html-css-and-js-part-5-15ne)
-[![React Interview Questions asked to me with answers.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/React_Interview_Questions_asked_to_me_with_answers..svg)](https://dev.to/viveksinra/react-interview-questions-asked-to-me-with-answers-1d04)
+[![What the heck is Tailwind CSS and should I use it?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_the_heck_is_Tailwind_CSS_and_should_I_use_it_.svg)](https://dev.to/chasehuber/what-the-heck-is-tailwind-css-and-should-i-use-it-557d)
+[![Build your resume in React + SSG!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_your_resume_in_React_+_SSG!.svg)](https://dev.to/jeckhummer/build-your-resume-in-react-ssg-10i4)
+[![DNS Basics Explained](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/DNS_Basics_Explained.svg)](https://dev.to/nskrypnik/dns-basics-explained-2mea)
+[![Unlock the Power of CTEs: Simplify and Optimize Your SQL Queries](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Unlock_the_Power_of_CTEs__Simplify_and_Optimize_Your_SQL_Queries.svg)](https://dev.to/devneagu/unlock-the-power-of-ctes-simplify-and-optimize-your-sql-queries-43el)
+[![Como realizar um bom troubleshooting ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Como_realizar_um_bom_troubleshooting__.svg)](https://dev.to/brunonovais/como-realizar-um-bom-troubleshooting--1h4p)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, January 22, 2023 at 11:10:00 AM
+> Last updated: Sunday, January 22, 2023 at 5:44:37 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, January 22, 2023 at 11:10:03 AM
+> Last updated: Sunday, January 22, 2023 at 5:44:39 PM
 
 > Showing 5 of 30 posts.
 
