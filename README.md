@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, January 23, 2023 at 5:16:32 AM
+> Last updated: Monday, January 23, 2023 at 5:49:39 PM
 
 > Showing 5 of 12 posts.
 
-[![Kotlin Web Framework Ktor: What's New and How It Can Benefit Your Project?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Kotlin_Web_Framework_Ktor__What's_New_and_How_It_Can_Benefit_Your_Project_.svg)](https://dev.to/quokkalabs/kotlin-web-framework-ktor-whats-new-and-how-it-can-benefit-your-project-21b5)
-[![Building personalised recommendation system (p.2)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Building_personalised_recommendation_system_(p.2).svg)](https://dev.to/vhutov/building-personalised-recommendation-system-p2-53gk)
-[![Creating GitHub Template Repository](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Creating_GitHub_Template_Repository.svg)](https://dev.to/rndsetiawan/creating-github-template-repository-3m5l)
-[![5 free resources to learn JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_free_resources_to_learn_JavaScript.svg)](https://dev.to/catherineisonline/5-free-resources-to-learn-javascript-1la7)
-[![Appwrite Loves Open Source: Why I decided to support Starship](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Appwrite_Loves_Open_Source__Why_I_decided_to_support_Starship.svg)](https://dev.to/appwrite/appwrite-loves-open-source-why-i-decided-to-support-starship-3pfc)
+[![Nextra 2 – Next.js Static Site Generator](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Nextra_2_–_Next.js_Static_Site_Generator.svg)](https://dev.to/the-guild/nextra-2-nextjs-static-site-generator-47op)
+[![Closures in JavaScript - the Simplest Explanation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Closures_in_JavaScript_-_the_Simplest_Explanation.svg)](https://dev.to/mohsenkamrani/closures-in-javascript-the-simplest-explanation-9gj)
+[![How to Become a Full Stack Designer in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Become_a_Full_Stack_Designer_in_2023.svg)](https://dev.to/michaellarocca/how-to-become-a-full-stack-designer-in-2023-1moe)
+[![React Router Typesafe Routes v1.0.0 is Here 🎉](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/React_Router_Typesafe_Routes_v1.0.0_is_Here_🎉.svg)](https://dev.to/fenok/react-router-typesafe-routes-v100-is-here-8cg)
+[![Understanding :has() selector in CSS.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Understanding__has()_selector_in_CSS..svg)](https://dev.to/jasmin/understanding-has-selector-in-css-55j3)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, January 23, 2023 at 5:16:36 AM
+> Last updated: Monday, January 23, 2023 at 5:49:43 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,20 +43,18 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, January 23, 2023 at 5:16:39 AM
+> Last updated: Monday, January 23, 2023 at 5:49:48 PM
 
 > Showing 5 of 30 posts.
 
+[![What Does Setting the Length of a JavaScript Array Do?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_Does_Setting_the_Length_of_a_JavaScript_Array_Do_.svg)](
+https://masteringjs.io/tutorials/fundamentals/array-set-length
+)
+[![GitHub - flashohq/open-source-react-courses](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_flashohq_open-source-react-courses.svg)](https://github.com/flashohq/open-source-react-courses)
+[![API with NestJS #92. Increasing the developer experience with Docker Compose](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__92._Increasing_the_developer_experience_with_Docker_Compose.svg)](https://wanago.io/2023/01/23/api-nestjs-docker-compose-improvements/)
+[![TheJam.dev 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/TheJam.dev_2023.svg)](https://cfe.dev/events/the-jam-2023/)
 [![The behaviour of the setTimeout in useEffect hook](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_behaviour_of_the_setTimeout_in_useEffect_hook.svg)](
 https://frontendroom.com/the-behaviour-of-settimeout-in-useeffect-hook/
-)
-[![Release Neutralinojs v4.10.0 released! · neutralinojs/neutralinojs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Release_Neutralinojs_v4.10.0_released!_·_neutralinojs_neutralinojs.svg)](/neutralinojs/neutralinojs/releases/tag/v4.10.0)
-[![Accessibility kit for web developers | De Voorhoede](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Accessibility_kit_for_web_developers___De_Voorhoede.svg)](https://www.voorhoede.nl/nl/blog/accessibility-kit-for-web-developers)
-[![GitHub - redpangilinan/dungeon-crawler-rpg-od: Quick dungeon crawler experience on demand with diablo inspired looting system!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_redpangilinan_dungeon-crawler-rpg-od__Quick_dungeon_crawler_experience_on_demand_with_diablo_inspired_looting_system!.svg)](https://github.com/redpangilinan/dungeon-crawler-rpg-od)
-[![
-Crop and Upload Image Service
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Crop_and_Upload_Image_Service_.svg)](
-https://arokis.me/articles/crop-and-upload-image-service
 )
 
 
