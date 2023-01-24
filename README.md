@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, January 23, 2023 at 11:11:20 PM
+> Last updated: Tuesday, January 24, 2023 at 5:17:03 AM
 
 > Showing 5 of 12 posts.
 
-[![Top 10 React js interview questions.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_10_React_js_interview_questions..svg)](https://dev.to/said7388/top-10-react-js-interview-questions-48dc)
-[![AWS Glue | CSV to Parquet transformation | Getting started](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/AWS_Glue___CSV_to_Parquet_transformation___Getting_started.svg)](https://dev.to/aws-builders/aws-glue-csv-to-parquet-transformation-getting-started-2j13)
-[![How to get Started with Data And Help Your Community](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_get_Started_with_Data_And_Help_Your_Community.svg)](https://dev.to/cincybc/how-to-get-started-with-data-and-help-your-community-d67)
-[![Web-Based Programming Tools for Everyone](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Web-Based_Programming_Tools_for_Everyone.svg)](https://dev.to/rahul3002/web-based-programming-tools-for-everyone-np5)
-[![Pattern Matching Interfaces in Ruby](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Pattern_Matching_Interfaces_in_Ruby.svg)](https://dev.to/baweaver/pattern-matching-interfaces-in-ruby-1b15)
+[![Improving Operational Excellence using Game Days](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Improving_Operational_Excellence_using_Game_Days.svg)](https://dev.to/aws-builders/improving-operational-excellence-using-game-days-23cg)
+[![How to Build a React Native Video Calling App with Callkeep using Firebase and Video SDK](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Build_a_React_Native_Video_Calling_App_with_Callkeep_using_Firebase_and_Video_SDK.svg)](https://dev.to/video-sdk/react-native-video-calling-app-with-callkeep-1o73)
+[![Improvements that CSS could use in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Improvements_that_CSS_could_use_in_2023.svg)](https://dev.to/robole/improvements-that-css-could-use-in-2023-59n9)
+[![Become a Git Wizard 🧙‍♂️: Mastering the Advanced Git Commands](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Become_a_Git_Wizard_🧙‍♂️__Mastering_the_Advanced_Git_Commands.svg)](https://dev.to/elliot_brenya/become-a-git-wizard-mastering-the-advanced-git-commands-3he4)
+[![How to become a Java Programmer in 2023?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_become_a_Java_Programmer_in_2023_.svg)](https://dev.to/javinpaul/how-to-become-a-java-programmer-in-2023-36dg)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, January 23, 2023 at 11:11:23 PM
+> Last updated: Tuesday, January 24, 2023 at 5:17:06 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,21 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, January 23, 2023 at 11:11:28 PM
+> Last updated: Tuesday, January 24, 2023 at 5:17:09 AM
 
 > Showing 5 of 30 posts.
 
+[![How to Build a WebRTC React Native App Free](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Build_a_WebRTC_React_Native_App_Free.svg)](https://dev.to/video-sdk/react-native-webrtc-lm9)
+[![
+React-Phaser
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_React-Phaser_.svg)](
+https://arokis.me/articles/react-phaser
+)
 [![What Does Setting the Length of a JavaScript Array Do?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_Does_Setting_the_Length_of_a_JavaScript_Array_Do_.svg)](
 https://masteringjs.io/tutorials/fundamentals/array-set-length
 )
 [![GitHub - flashohq/open-source-react-courses](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_flashohq_open-source-react-courses.svg)](https://github.com/flashohq/open-source-react-courses)
 [![API with NestJS #92. Increasing the developer experience with Docker Compose](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__92._Increasing_the_developer_experience_with_Docker_Compose.svg)](https://wanago.io/2023/01/23/api-nestjs-docker-compose-improvements/)
-[![TheJam.dev 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/TheJam.dev_2023.svg)](https://cfe.dev/events/the-jam-2023/)
-[![The behaviour of the setTimeout in useEffect hook](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_behaviour_of_the_setTimeout_in_useEffect_hook.svg)](
-https://frontendroom.com/the-behaviour-of-settimeout-in-useeffect-hook/
-)
 
 
 <!-- post-list:end -->

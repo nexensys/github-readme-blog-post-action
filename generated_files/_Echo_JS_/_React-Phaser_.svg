@@ -19,7 +19,7 @@
         text-align: start;
         padding: 10px;
         height: calc(100% - 20px);
-        margin-left: 100px;
+        margin-left: 0;
         font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
         color: black;
       }
@@ -32,17 +32,7 @@
         right: 10px;
         color: black;
       }
-      .image {
-        height: 100px;
-        width: 100px;
-        background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAfYAAAEKAQAAAADIwEpzAAAAAXNSR0IArs4c6QAAAE5JREFUeNrty7EJAAAIA7D+f7Ngj3ASkj3Zk4nv+77v+77v+77v+77v+77v+77v+77v+77v+77v+77v+77v+77v+77v+77v+77v+77/+hf0mDU8W+G7ggAAAABJRU5ErkJggg==");
-        background-size: cover;
-        position: absolute;
-        top: 0;
-        left: 0;
-        border-radius: 10px;
-        background-position: center;
-      }
+      
       .main {
         fill: white;
       }
@@ -52,7 +42,7 @@
         position: absolute;
         bottom: 0;
         padding-bottom: 5px;
-        left: 110px;
+        left: 10px;
         color: black;
         max-width: 400px;
         overflow: hidden;
@@ -76,13 +66,12 @@
     <rect class="content" width="600" height="100" stroke="rgba(0, 0, 0, 0.5)" x="5" y="5" rx="10" />
     <foreignObject width="600" height="100" x="5" y="5">
       <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
-        <div class="image" />
-<div class="text">
-          <div class="title">AWS&#0032;Glue&#0032;&#0124;&#0032;CSV&#0032;to&#0032;Parquet&#0032;transformation&#0032;&#0124;&#0032;Getting&#0032;started</div>
-          <div class="description">AWS&#0032;Glue&#0032;is&#0032;a&#0032;fully&#0032;managed&#0032;serverless&#0032;ETL&#0032;service&#0046;&#0032;It&#0032;makes&#0032;it&#0032;easy&#0032;to&#0032;discover&#0044;&#0032;transform&#0032;and&#0032;load&#0046;&#0046;&#0046;</div>
-          <div class="date">1&#0047;24&#0047;23</div>
+        <div class="text">
+          <div class="title">&#0010;React&#0045;Phaser&#0010;</div>
+          <div class="description">Comments</div>
+          <div class="date"></div>
           <div class="data">
-            <span class="author">Chirag&#0032;&#0040;Srce&#0032;Cde&#0041;</span> <span class="category">aws</span> <span class="category">awsglue</span> <span class="category">data</span> <span class="category">tutorial</span>
+            <span class="author"></span> 
           </div>
         </div>
       </div>
