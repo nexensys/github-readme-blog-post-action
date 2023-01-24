@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, January 23, 2023 at 5:49:39 PM
+> Last updated: Monday, January 23, 2023 at 11:11:20 PM
 
 > Showing 5 of 12 posts.
 
-[![Nextra 2 – Next.js Static Site Generator](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Nextra_2_–_Next.js_Static_Site_Generator.svg)](https://dev.to/the-guild/nextra-2-nextjs-static-site-generator-47op)
-[![Closures in JavaScript - the Simplest Explanation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Closures_in_JavaScript_-_the_Simplest_Explanation.svg)](https://dev.to/mohsenkamrani/closures-in-javascript-the-simplest-explanation-9gj)
-[![How to Become a Full Stack Designer in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Become_a_Full_Stack_Designer_in_2023.svg)](https://dev.to/michaellarocca/how-to-become-a-full-stack-designer-in-2023-1moe)
-[![React Router Typesafe Routes v1.0.0 is Here 🎉](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/React_Router_Typesafe_Routes_v1.0.0_is_Here_🎉.svg)](https://dev.to/fenok/react-router-typesafe-routes-v100-is-here-8cg)
-[![Understanding :has() selector in CSS.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Understanding__has()_selector_in_CSS..svg)](https://dev.to/jasmin/understanding-has-selector-in-css-55j3)
+[![Top 10 React js interview questions.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_10_React_js_interview_questions..svg)](https://dev.to/said7388/top-10-react-js-interview-questions-48dc)
+[![AWS Glue | CSV to Parquet transformation | Getting started](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/AWS_Glue___CSV_to_Parquet_transformation___Getting_started.svg)](https://dev.to/aws-builders/aws-glue-csv-to-parquet-transformation-getting-started-2j13)
+[![How to get Started with Data And Help Your Community](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_get_Started_with_Data_And_Help_Your_Community.svg)](https://dev.to/cincybc/how-to-get-started-with-data-and-help-your-community-d67)
+[![Web-Based Programming Tools for Everyone](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Web-Based_Programming_Tools_for_Everyone.svg)](https://dev.to/rahul3002/web-based-programming-tools-for-everyone-np5)
+[![Pattern Matching Interfaces in Ruby](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Pattern_Matching_Interfaces_in_Ruby.svg)](https://dev.to/baweaver/pattern-matching-interfaces-in-ruby-1b15)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, January 23, 2023 at 5:49:43 PM
+> Last updated: Monday, January 23, 2023 at 11:11:23 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, January 23, 2023 at 5:49:48 PM
+> Last updated: Monday, January 23, 2023 at 11:11:28 PM
 
 > Showing 5 of 30 posts.
 
