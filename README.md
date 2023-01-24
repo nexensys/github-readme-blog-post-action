@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, January 24, 2023 at 5:17:03 AM
+> Last updated: Tuesday, January 24, 2023 at 11:10:50 AM
 
 > Showing 5 of 12 posts.
 
-[![Improving Operational Excellence using Game Days](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Improving_Operational_Excellence_using_Game_Days.svg)](https://dev.to/aws-builders/improving-operational-excellence-using-game-days-23cg)
-[![How to Build a React Native Video Calling App with Callkeep using Firebase and Video SDK](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Build_a_React_Native_Video_Calling_App_with_Callkeep_using_Firebase_and_Video_SDK.svg)](https://dev.to/video-sdk/react-native-video-calling-app-with-callkeep-1o73)
-[![Improvements that CSS could use in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Improvements_that_CSS_could_use_in_2023.svg)](https://dev.to/robole/improvements-that-css-could-use-in-2023-59n9)
-[![Become a Git Wizard 🧙‍♂️: Mastering the Advanced Git Commands](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Become_a_Git_Wizard_🧙‍♂️__Mastering_the_Advanced_Git_Commands.svg)](https://dev.to/elliot_brenya/become-a-git-wizard-mastering-the-advanced-git-commands-3he4)
-[![How to become a Java Programmer in 2023?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_become_a_Java_Programmer_in_2023_.svg)](https://dev.to/javinpaul/how-to-become-a-java-programmer-in-2023-36dg)
+[![Fast and reliable end-to-end tests with Playwright on GitHub Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Fast_and_reliable_end-to-end_tests_with_Playwright_on_GitHub_Actions.svg)](https://dev.to/drakulavich/fast-and-reliable-end-to-end-tests-with-playwright-on-github-actions-2mkh)
+[![How to create Disclaimer for Website or App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_create_Disclaimer_for_Website_or_App.svg)](https://dev.to/goonlinetools/how-to-create-disclaimer-for-website-or-app-78c)
+[![Automated CSS Atomization, shrinking CSS files by 80%](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Automated_CSS_Atomization__shrinking_CSS_files_by_80_.svg)](https://dev.to/thejaredwilcurt/automated-css-atomization-shrinking-css-files-by-80-1pnf)
+[![I just wanted to buy pants. How excessive JavaScript is costing you money](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/I_just_wanted_to_buy_pants._How_excessive_JavaScript_is_costing_you_money.svg)](https://dev.to/begin/i-just-wanted-to-buy-pants-how-excessive-javascript-is-costing-you-money-1mgp)
+[![8 Best C++ IDEs to use in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/8_Best_C++_IDEs_to_use_in_2023.svg)](https://dev.to/mariamarsh/8-best-c-ides-to-use-in-2023-4kf5)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, January 24, 2023 at 5:17:06 AM
+> Last updated: Tuesday, January 24, 2023 at 11:10:52 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, January 24, 2023 at 5:17:09 AM
+> Last updated: Tuesday, January 24, 2023 at 11:10:54 AM
 
 > Showing 5 of 30 posts.
 
+[![Designing and building a headless ecommerce page with AI and Shopify Hydrogen](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Designing_and_building_a_headless_ecommerce_page_with_AI_and_Shopify_Hydrogen.svg)](https://hassan.rocks/designing-and-building-a-headless-ecommerce-page-with-ai-and-shopify-hydrogen)
 [![How to Build a WebRTC React Native App Free](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Build_a_WebRTC_React_Native_App_Free.svg)](https://dev.to/video-sdk/react-native-webrtc-lm9)
 [![
 React-Phaser
@@ -57,7 +58,6 @@ https://arokis.me/articles/react-phaser
 https://masteringjs.io/tutorials/fundamentals/array-set-length
 )
 [![GitHub - flashohq/open-source-react-courses](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_flashohq_open-source-react-courses.svg)](https://github.com/flashohq/open-source-react-courses)
-[![API with NestJS #92. Increasing the developer experience with Docker Compose](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__92._Increasing_the_developer_experience_with_Docker_Compose.svg)](https://wanago.io/2023/01/23/api-nestjs-docker-compose-improvements/)
 
 
 <!-- post-list:end -->
