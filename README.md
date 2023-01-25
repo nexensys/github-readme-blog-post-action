@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, January 24, 2023 at 5:44:53 PM
+> Last updated: Tuesday, January 24, 2023 at 11:11:37 PM
 
 > Showing 5 of 12 posts.
 
-[![Avoiding code duplication in styled components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Avoiding_code_duplication_in_styled_components.svg)](https://dev.to/aligumustosun/avoiding-code-duplication-in-styled-components-5a7j)
-[![Multi-step form ReactJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Multi-step_form_ReactJS.svg)](https://dev.to/jucian0/multi-step-form-reactjs-6cn)
-[![The Best 5 Side Hustles for Software Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Best_5_Side_Hustles_for_Software_Developers.svg)](https://dev.to/rickblyth/the-best-5-side-hustles-for-software-developers-2f1l)
-[![Are you asking too much from your team/tech lead?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Are_you_asking_too_much_from_your_team_tech_lead_.svg)](https://dev.to/danlebrero/are-you-asking-too-much-from-your-teamtech-lead-42db)
-[![How using Tailwind enhances your coding skills](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_using_Tailwind_enhances_your_coding_skills.svg)](https://dev.to/esponges/how-using-tailwind-enhances-your-coding-skills-2103)
+[![How To Make Date Range Filter in React JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_To_Make_Date_Range_Filter_in_React_JS.svg)](https://dev.to/reactjsguru/how-to-make-date-range-filter-in-react-js-5h4p)
+[![The useState Hook: A Deep Dive into React State Management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_useState_Hook__A_Deep_Dive_into_React_State_Management.svg)](https://dev.to/mr_walkr/the-usestate-hook-a-deep-dive-into-react-state-management-2e9m)
+[![Predicting Medical Costs using Multivariate Linear Regression in Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Predicting_Medical_Costs_using_Multivariate_Linear_Regression_in_Python.svg)](https://dev.to/anurag629/predicting-medical-costs-using-multivariate-linear-regression-in-python-440l)
+[![4 simple ways for developers to earn an extra $500 per month](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/4_simple_ways_for_developers_to_earn_an_extra_$500_per_month.svg)](https://dev.to/rahul3002/4-simple-ways-for-developers-to-earn-an-extra-500-per-month-53b7)
+[![Optical Illusion tutorial with the Commodore 64 and DurexForth](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Optical_Illusion_tutorial_with_the_Commodore_64_and_DurexForth.svg)](https://dev.to/ianwitham/optical-illusion-tutorial-with-the-commodore-64-and-durexforth-4hbm)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, January 24, 2023 at 5:44:56 PM
+> Last updated: Tuesday, January 24, 2023 at 11:11:40 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, January 24, 2023 at 5:44:57 PM
+> Last updated: Tuesday, January 24, 2023 at 11:11:43 PM
 
 > Showing 5 of 30 posts.
 
