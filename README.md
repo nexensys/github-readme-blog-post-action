@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, January 24, 2023 at 11:10:50 AM
+> Last updated: Tuesday, January 24, 2023 at 5:44:53 PM
 
 > Showing 5 of 12 posts.
 
-[![Fast and reliable end-to-end tests with Playwright on GitHub Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Fast_and_reliable_end-to-end_tests_with_Playwright_on_GitHub_Actions.svg)](https://dev.to/drakulavich/fast-and-reliable-end-to-end-tests-with-playwright-on-github-actions-2mkh)
-[![How to create Disclaimer for Website or App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_create_Disclaimer_for_Website_or_App.svg)](https://dev.to/goonlinetools/how-to-create-disclaimer-for-website-or-app-78c)
-[![Automated CSS Atomization, shrinking CSS files by 80%](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Automated_CSS_Atomization__shrinking_CSS_files_by_80_.svg)](https://dev.to/thejaredwilcurt/automated-css-atomization-shrinking-css-files-by-80-1pnf)
-[![I just wanted to buy pants. How excessive JavaScript is costing you money](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/I_just_wanted_to_buy_pants._How_excessive_JavaScript_is_costing_you_money.svg)](https://dev.to/begin/i-just-wanted-to-buy-pants-how-excessive-javascript-is-costing-you-money-1mgp)
-[![8 Best C++ IDEs to use in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/8_Best_C++_IDEs_to_use_in_2023.svg)](https://dev.to/mariamarsh/8-best-c-ides-to-use-in-2023-4kf5)
+[![Avoiding code duplication in styled components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Avoiding_code_duplication_in_styled_components.svg)](https://dev.to/aligumustosun/avoiding-code-duplication-in-styled-components-5a7j)
+[![Multi-step form ReactJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Multi-step_form_ReactJS.svg)](https://dev.to/jucian0/multi-step-form-reactjs-6cn)
+[![The Best 5 Side Hustles for Software Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Best_5_Side_Hustles_for_Software_Developers.svg)](https://dev.to/rickblyth/the-best-5-side-hustles-for-software-developers-2f1l)
+[![Are you asking too much from your team/tech lead?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Are_you_asking_too_much_from_your_team_tech_lead_.svg)](https://dev.to/danlebrero/are-you-asking-too-much-from-your-teamtech-lead-42db)
+[![How using Tailwind enhances your coding skills](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_using_Tailwind_enhances_your_coding_skills.svg)](https://dev.to/esponges/how-using-tailwind-enhances-your-coding-skills-2103)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, January 24, 2023 at 11:10:52 AM
+> Last updated: Tuesday, January 24, 2023 at 5:44:56 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, January 24, 2023 at 11:10:54 AM
+> Last updated: Tuesday, January 24, 2023 at 5:44:57 PM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - rush86999/atomic: Solve all your scheduling problems using AI for everyone](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_rush86999_atomic__Solve_all_your_scheduling_problems_using_AI_for_everyone.svg)](https://github.com/rush86999/atomic)
 [![Designing and building a headless ecommerce page with AI and Shopify Hydrogen](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Designing_and_building_a_headless_ecommerce_page_with_AI_and_Shopify_Hydrogen.svg)](https://hassan.rocks/designing-and-building-a-headless-ecommerce-page-with-ai-and-shopify-hydrogen)
 [![How to Build a WebRTC React Native App Free](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Build_a_WebRTC_React_Native_App_Free.svg)](https://dev.to/video-sdk/react-native-webrtc-lm9)
 [![
@@ -57,7 +58,6 @@ https://arokis.me/articles/react-phaser
 [![What Does Setting the Length of a JavaScript Array Do?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_Does_Setting_the_Length_of_a_JavaScript_Array_Do_.svg)](
 https://masteringjs.io/tutorials/fundamentals/array-set-length
 )
-[![GitHub - flashohq/open-source-react-courses](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_flashohq_open-source-react-courses.svg)](https://github.com/flashohq/open-source-react-courses)
 
 
 <!-- post-list:end -->

@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 610 110" width="600" height="100" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <style>
+      .title {
+        font-size: 1.5em;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        white-space: nowrap;
+      }
+      .description {
+        font-size: 0.75em;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+      }
+      .text {
+        text-align: start;
+        padding: 10px;
+        height: calc(100% - 20px);
+        margin-left: 100px;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+        color: black;
+      }
+           .date {
+        font-size: 0.5em;
+        opacity: 0.5;
+        text-align: end;
+        position: absolute;
+        bottom: 0;
+        right: 10px;
+        color: black;
+      }
+      .image {
+        height: 100px;
+        width: 100px;
+        background-image: url("data:image/png;base64,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");
+        background-size: cover;
+        position: absolute;
+        top: 0;
+        left: 0;
+        border-radius: 10px;
+        background-position: center;
+      }
+      .main {
+        fill: white;
+      }
+      .data {
+        opacity: 0.75;
+        text-align: start;
+        position: absolute;
+        bottom: 0;
+        padding-bottom: 5px;
+        left: 110px;
+        color: black;
+        max-width: 400px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+      }
+      .author {
+        opacity: 0.75;
+        font-size: 0.5em;
+      }
+      .category {
+        background-color: rgba(0, 0, 0, 0.25);
+        border-radius: 0.25em;
+        padding: 0.125em 0.25em;
+        font-size: 0.75em;
+        color: rgba(0, 0, 0, 0.8);
+      }
+    </style>
+  </defs>
+  <g class="main">
+    <rect class="content" width="600" height="100" stroke="rgba(0, 0, 0, 0.5)" x="5" y="5" rx="10" />
+    <foreignObject width="600" height="100" x="5" y="5">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
+        <div class="image" />
+<div class="text">
+          <div class="title">Multi&#0045;step&#0032;form&#0032;ReactJS</div>
+          <div class="description">Hi&#0032;folks&#0044;&#0032;in&#0032;this&#0032;tutorial&#0032;I&#0032;want&#0032;to&#0032;show&#0032;you&#0032;how&#0032;easily&#0032;you&#0032;can&#0032;build&#0032;a&#0032;multi&#0045;step&#0032;form&#0032;using&#0046;&#0046;&#0046;</div>
+          <div class="date">1&#0047;25&#0047;23</div>
+          <div class="data">
+            <span class="author">Jucian0</span> <span class="category">webdev</span> <span class="category">javascript</span> <span class="category">tutorial</span> <span class="category">react</span>
+          </div>
+        </div>
+      </div>
+    </foreignObject>
+  </g>
+</svg>
