@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, January 26, 2023 at 5:17:58 AM
+> Last updated: Thursday, January 26, 2023 at 11:10:43 AM
 
 > Showing 5 of 12 posts.
 
-[![I'm building an open-source VSCode chatbot extension with OpenAI / GPT3 in public](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/I'm_building_an_open-source_VSCode_chatbot_extension_with_OpenAI___GPT3_in_public.svg)](https://dev.to/lgrammel/im-building-an-open-source-vscodechatbot-extension-withopenai-gpt3-in-public-2f5b)
-[![Reflection on Visitor Pattern in Typescript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Reflection_on_Visitor_Pattern_in_Typescript.svg)](https://dev.to/zenstack/reflection-on-visitor-pattern-in-typescript-4gjd)
-[![Leveraging @angular 15 host directives](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Leveraging_@angular_15_host_directives.svg)](https://dev.to/valorsoftware/leveraging-angular-15-host-directives-52en)
-[![A step-by-step roadmap to mastering Javascript 🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_step-by-step_roadmap_to_mastering_Javascript_🔥.svg)](https://dev.to/rammcodes/a-step-by-step-roadmap-to-mastering-javascript-3mcf)
-[![Memory Implications of static vs non-static. Comparing pass by reference & value.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Memory_Implications_of_static_vs_non-static._Comparing_pass_by_reference___value..svg)](https://dev.to/wrlpeake/memory-implications-of-static-vs-non-static-comparing-pass-by-reference-value-57pd)
+[![Programming mathematical objects](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Programming_mathematical_objects.svg)](https://dev.to/miguelmj/programming-mathematical-objects-1n3n)
+[![Protegendo sua API NodeJs contra ReDos Attack[Parte 1]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Protegendo_sua_API_NodeJs_contra_ReDos_Attack[Parte_1].svg)](https://dev.to/r9n/protegendo-sua-api-nodejs-contra-redos-attackparte-1-16mc)
+[![Sorting Algorithm](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Sorting_Algorithm.svg)](https://dev.to/jonnynotbravo/sorting-algorithm-6dj)
+[![Custom Google Map Markers on iOS with React Native Maps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Custom_Google_Map_Markers_on_iOS_with_React_Native_Maps.svg)](https://dev.to/jobber/custom-google-map-markers-on-ios-with-react-native-maps-1m2n)
+[![É possível a organização de trabalhadores da bolha de TI brasileira?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/É_possível_a_organização_de_trabalhadores_da_bolha_de_TI_brasileira_.svg)](https://dev.to/lixeletto/e-possivel-a-organizacao-de-trabalhadores-da-bolha-de-ti-brasileira-3ikp)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, January 26, 2023 at 5:18:02 AM
+> Last updated: Thursday, January 26, 2023 at 11:10:46 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,21 +43,23 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, January 26, 2023 at 5:18:06 AM
+> Last updated: Thursday, January 26, 2023 at 11:10:47 AM
 
 > Showing 5 of 30 posts.
 
+[![Orcastration: Visualize Your Docker Swarm with Powerful Metrics](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Orcastration__Visualize_Your_Docker_Swarm_with_Powerful_Metrics.svg)](https://medium.com/@orcastration2022/orcastration-visualize-your-docker-swarm-with-powerful-metrics-c188373ed58d)
+[![Flaky Tests, and How to Deal with Them](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Flaky_Tests__and_How_to_Deal_with_Them.svg)](https://dev.to/codux/flaky-tests-and-how-to-deal-with-them-2id2)
+[![
+Dockwell: Open source container metrics monitoring with no configuration or setup required!
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Dockwell__Open_source_container_metrics_monitoring_with_no_configuration_or_setup_required!_.svg)](
+https://dockwell.tech/
+)
+[![🚀 Code your SvelteKit website faster with Stylify CSS | Stylify CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/🚀_Code_your_SvelteKit_website_faster_with_Stylify_CSS___Stylify_CSS.svg)](https://stylifycss.com/blog/code-your-sveltekit-website-faster-with-stylify-css)
 [![
 The W Pattern Forex Trading Guide For Beginner
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_The_W_Pattern_Forex_Trading_Guide_For_Beginner_.svg)](
 https://allatraders.com/the-w-pattern-forex-trading-guide-for-beginner/
 )
-[![Convert a Set to an Array in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Convert_a_Set_to_an_Array_in_JavaScript.svg)](
-https://masteringjs.io/tutorials/fundamentals/set-to-array
-)
-[![GeoPicker](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GeoPicker.svg)](https://stefcud.medium.com/geopicker-bf4c4321c9ec)
-[![Agora vs Twilio vs Vonage vs Zoom vs Video SDK: Top WebRTC SDKs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Agora_vs_Twilio_vs_Vonage_vs_Zoom_vs_Video_SDK__Top_WebRTC_SDKs.svg)](https://dev.to/video_sdk/agora-vs-twilio-vs-vonage-vs-zoom-vs-video-sdk-top-webrtc-sdks-2jaf)
-[![5 Must-Know Differences Between ref() and reactive() in Vue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/5_Must-Know_Differences_Between_ref()_and_reactive()_in_Vue.svg)](https://dmitripavlutin.com/ref-reactive-differences-vue/)
 
 
 <!-- post-list:end -->
