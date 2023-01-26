@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, January 25, 2023 at 11:11:38 PM
+> Last updated: Thursday, January 26, 2023 at 5:17:58 AM
 
 > Showing 5 of 12 posts.
 
-[![Bias vs Variance: The Key to Successful Predictive Modeling](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Bias_vs_Variance__The_Key_to_Successful_Predictive_Modeling.svg)](https://dev.to/anurag629/bias-vs-variance-the-key-to-successful-predictive-modeling-mbp)
-[![Make a Final Term Calculator](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Make_a_Final_Term_Calculator.svg)](https://dev.to/hyunseunglee2008/make-a-final-term-calculator-3k06)
-[![Supabase & Metamask Signed Authentication (Web3)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Supabase___Metamask_Signed_Authentication_(Web3).svg)](https://dev.to/59023g/supabase-metamask-signed-authentication-web3-53e1)
-[![Authentication in Next.js with Supabase and Next 13](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Authentication_in_Next.js_with_Supabase_and_Next_13.svg)](https://dev.to/mryechkin/authentication-in-nextjs-with-supabase-and-next-13-36le)
-[![Always Busy Running Your Business? 3 Steps From ”The 4-Hour Work Week” to Free Up Time and Achieve Your Dream Lifestyle.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Always_Busy_Running_Your_Business__3_Steps_From_”The_4-Hour_Work_Week”_to_Free_Up_Time_and_Achieve_Your_Dream_Lifestyle..svg)](https://dev.to/kaykleinvogel/always-busy-running-your-business-3-steps-from-the-4-hour-work-week-to-free-up-time-and-achieve-your-dream-lifestyle-2pab)
+[![I'm building an open-source VSCode chatbot extension with OpenAI / GPT3 in public](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/I'm_building_an_open-source_VSCode_chatbot_extension_with_OpenAI___GPT3_in_public.svg)](https://dev.to/lgrammel/im-building-an-open-source-vscodechatbot-extension-withopenai-gpt3-in-public-2f5b)
+[![Reflection on Visitor Pattern in Typescript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Reflection_on_Visitor_Pattern_in_Typescript.svg)](https://dev.to/zenstack/reflection-on-visitor-pattern-in-typescript-4gjd)
+[![Leveraging @angular 15 host directives](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Leveraging_@angular_15_host_directives.svg)](https://dev.to/valorsoftware/leveraging-angular-15-host-directives-52en)
+[![A step-by-step roadmap to mastering Javascript 🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_step-by-step_roadmap_to_mastering_Javascript_🔥.svg)](https://dev.to/rammcodes/a-step-by-step-roadmap-to-mastering-javascript-3mcf)
+[![Memory Implications of static vs non-static. Comparing pass by reference & value.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Memory_Implications_of_static_vs_non-static._Comparing_pass_by_reference___value..svg)](https://dev.to/wrlpeake/memory-implications-of-static-vs-non-static-comparing-pass-by-reference-value-57pd)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, January 25, 2023 at 11:11:42 PM
+> Last updated: Thursday, January 26, 2023 at 5:18:02 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,21 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, January 25, 2023 at 11:11:46 PM
+> Last updated: Thursday, January 26, 2023 at 5:18:06 AM
 
 > Showing 5 of 30 posts.
 
+[![
+The W Pattern Forex Trading Guide For Beginner
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_The_W_Pattern_Forex_Trading_Guide_For_Beginner_.svg)](
+https://allatraders.com/the-w-pattern-forex-trading-guide-for-beginner/
+)
 [![Convert a Set to an Array in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Convert_a_Set_to_an_Array_in_JavaScript.svg)](
 https://masteringjs.io/tutorials/fundamentals/set-to-array
 )
 [![GeoPicker](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GeoPicker.svg)](https://stefcud.medium.com/geopicker-bf4c4321c9ec)
 [![Agora vs Twilio vs Vonage vs Zoom vs Video SDK: Top WebRTC SDKs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Agora_vs_Twilio_vs_Vonage_vs_Zoom_vs_Video_SDK__Top_WebRTC_SDKs.svg)](https://dev.to/video_sdk/agora-vs-twilio-vs-vonage-vs-zoom-vs-video-sdk-top-webrtc-sdks-2jaf)
 [![5 Must-Know Differences Between ref() and reactive() in Vue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/5_Must-Know_Differences_Between_ref()_and_reactive()_in_Vue.svg)](https://dmitripavlutin.com/ref-reactive-differences-vue/)
-[![GitHub - apache/age: Graph database optimized for fast analysis and real-time data processing. It is provided as an extension to PostgreSQL.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_apache_age__Graph_database_optimized_for_fast_analysis_and_real-time_data_processing._It_is_provided_as_an_extension_to_PostgreSQL..svg)](https://github.com/apache/age)
 
 
 <!-- post-list:end -->
