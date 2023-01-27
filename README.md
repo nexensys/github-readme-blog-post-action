@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, January 27, 2023 at 5:16:00 AM
+> Last updated: Friday, January 27, 2023 at 11:10:54 AM
 
 > Showing 5 of 12 posts.
 
-[![5 Websites to help you learn Frontend Web Development Faster](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_Websites_to_help_you_learn_Frontend_Web_Development_Faster.svg)](https://dev.to/onlydevs_/5-websites-to-help-you-learn-frontend-web-development-faster-1ici)
-[![Dockyard Academy. Passing the baton.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Dockyard_Academy._Passing_the_baton..svg)](https://dev.to/bigspaces/dockyard-academy-passing-the-baton-6p)
-[![Integrating Newman with Jenkins](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Integrating_Newman_with_Jenkins.svg)](https://dev.to/ranafge/integrating-newman-with-jenkins-1368)
-[![Performance Regression Testing for React Native](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Performance_Regression_Testing_for_React_Native.svg)](https://dev.to/vladimirnovick/performance-regression-testing-for-react-native-4pj5)
-[![GKE Security: Top 10 Strategies for Securing Your Cluster](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/GKE_Security__Top_10_Strategies_for_Securing_Your_Cluster.svg)](https://dev.to/castai/gke-security-top-10-strategies-for-securing-your-cluster-1p66)
+[![Your Open Source Project needs CodeSandbox - Here’s why](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Your_Open_Source_Project_needs_CodeSandbox_-_Here’s_why.svg)](https://dev.to/codesandboxio/your-open-source-project-needs-codesandbox-heres-why-1cn1)
+[![What is a Serverless Architecture?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_a_Serverless_Architecture_.svg)](https://dev.to/elviskim18/what-is-a-serverless-architecture-ci6)
+[![SEO Cheat Sheet for Devs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/SEO_Cheat_Sheet_for_Devs.svg)](https://dev.to/chetanam/seo-cheat-sheet-for-devs-2kca)
+[![Localization state survey 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Localization_state_survey_2022.svg)](https://dev.to/localizely/localization-state-survey-2022-h2i)
+[![Aurora Serverless v1 to Serverless v2 - comparison, migration and blue/green deployment](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Aurora_Serverless_v1_to_Serverless_v2_-_comparison__migration_and_blue_green_deployment.svg)](https://dev.to/aws-builders/aurora-serverless-v1-to-serverless-v2-comparison-migration-and-bluegreen-deployment-4aa8)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, January 27, 2023 at 5:16:03 AM
+> Last updated: Friday, January 27, 2023 at 11:10:57 AM
 
 > Showing 4 of 4 posts.
 
+[![Astro 2.0 and TypeScript 5.0 beta](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Astro_2.0_and_TypeScript_5.0_beta.svg)](https://javascriptweekly.com/issues/623)
 [![Why document.write() is bad](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Why_document.write()_is_bad.svg)](https://javascriptweekly.com/issues/622)
 [![Java-Script Jarre](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Java-Script_Jarre.svg)](https://javascriptweekly.com/issues/621)
 [![Looking at both 2022 and 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Looking_at_both_2022_and_2023.svg)](https://javascriptweekly.com/issues/620)
-[![A new jQuery release for Xmas](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/A_new_jQuery_release_for_Xmas.svg)](https://javascriptweekly.com/issues/619)
 
 
 ## Echo JS
@@ -43,19 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, January 27, 2023 at 5:16:05 AM
+> Last updated: Friday, January 27, 2023 at 11:11:02 AM
 
 > Showing 5 of 30 posts.
 
-[![Best "Free" Resources To Learn Node.js From Beginner to Advanced](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Best__Free__Resources_To_Learn_Node.js_From_Beginner_to_Advanced.svg)](https://dev.to/onlydevs_/best-free-resources-to-learn-nodejs-from-beginner-to-advanced-975)
 [![GitHub - velocitatem/suppress: AI as Backend. Really, its like express.js but easier and uses AI.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_velocitatem_suppress__AI_as_Backend._Really__its_like_express.js_but_easier_and_uses_AI..svg)](https://github.com/velocitatem/suppress)
-[![Orcastration: Visualize Your Docker Swarm with Powerful Metrics](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Orcastration__Visualize_Your_Docker_Swarm_with_Powerful_Metrics.svg)](https://medium.com/@orcastration2022/orcastration-visualize-your-docker-swarm-with-powerful-metrics-c188373ed58d)
+[![GitHub - oslabs-beta/Orcastration: A GUI designed to easily visualize Docker Swarm Nodes allowing developers to fully understand their swarm, containers, and images at all times.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_oslabs-beta_Orcastration__A_GUI_designed_to_easily_visualize_Docker_Swarm_Nodes_allowing_developers_to_fully_understand_their_swarm__containers__and_images_at_all_times..svg)](https://github.com/oslabs-beta/Orcastration)
 [![Flaky Tests, and How to Deal with Them](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Flaky_Tests__and_How_to_Deal_with_Them.svg)](https://dev.to/codux/flaky-tests-and-how-to-deal-with-them-2id2)
-[![
-Dockwell: Open source container metrics monitoring with no configuration or setup required!
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Dockwell__Open_source_container_metrics_monitoring_with_no_configuration_or_setup_required!_.svg)](
-https://dockwell.tech/
-)
+[![GitHub - oslabs-beta/dockwell](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_oslabs-beta_dockwell.svg)](https://github.com/oslabs-beta/dockwell)
+[![🚀 Code your SvelteKit website faster with Stylify CSS | Stylify CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/🚀_Code_your_SvelteKit_website_faster_with_Stylify_CSS___Stylify_CSS.svg)](https://stylifycss.com/blog/code-your-sveltekit-website-faster-with-stylify-css)
 
 
 <!-- post-list:end -->
