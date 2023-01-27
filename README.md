@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, January 26, 2023 at 11:10:43 AM
+> Last updated: Thursday, January 26, 2023 at 5:48:47 PM
 
 > Showing 5 of 12 posts.
 
-[![Programming mathematical objects](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Programming_mathematical_objects.svg)](https://dev.to/miguelmj/programming-mathematical-objects-1n3n)
-[![Protegendo sua API NodeJs contra ReDos Attack[Parte 1]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Protegendo_sua_API_NodeJs_contra_ReDos_Attack[Parte_1].svg)](https://dev.to/r9n/protegendo-sua-api-nodejs-contra-redos-attackparte-1-16mc)
-[![Sorting Algorithm](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Sorting_Algorithm.svg)](https://dev.to/jonnynotbravo/sorting-algorithm-6dj)
-[![Custom Google Map Markers on iOS with React Native Maps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Custom_Google_Map_Markers_on_iOS_with_React_Native_Maps.svg)](https://dev.to/jobber/custom-google-map-markers-on-ios-with-react-native-maps-1m2n)
-[![É possível a organização de trabalhadores da bolha de TI brasileira?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/É_possível_a_organização_de_trabalhadores_da_bolha_de_TI_brasileira_.svg)](https://dev.to/lixeletto/e-possivel-a-organizacao-de-trabalhadores-da-bolha-de-ti-brasileira-3ikp)
+[![JavaScript tip to efficiently search in long arrays and save performance](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/JavaScript_tip_to_efficiently_search_in_long_arrays_and_save_performance.svg)](https://dev.to/rem0nfawzi/javascript-tip-to-efficiently-search-in-long-arrays-and-save-performance-1914)
+[![Connecting Your Devs' Work to the Business | A Conversation w/ Shopify, Slack & Stripe](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Connecting_Your_Devs'_Work_to_the_Business___A_Conversation_w__Shopify__Slack___Stripe.svg)](https://dev.to/linearb/connecting-your-devs-work-to-the-business-a-conversation-w-shopify-slack-stripe-5cak)
+[![ReductStore v1.3.0 Released!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/ReductStore_v1.3.0_Released!.svg)](https://dev.to/reductstore/reductstore-v130-released-2adg)
+[![NPM Audit: 5 Ways to Use it to Protect Your Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/NPM_Audit__5_Ways_to_Use_it_to_Protect_Your_Code.svg)](https://dev.to/yayabobi/npm-audit-5-ways-to-use-it-to-protect-your-code-2ajg)
+[![10 Amazing Developer Tools That Will Improve Your Workflow](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/10_Amazing_Developer_Tools_That_Will_Improve_Your_Workflow.svg)](https://dev.to/hr21don/10-amazing-developer-tools-that-will-improve-your-workflow-2h8m)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, January 26, 2023 at 11:10:46 AM
+> Last updated: Thursday, January 26, 2023 at 5:48:50 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,22 +43,18 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, January 26, 2023 at 11:10:47 AM
+> Last updated: Thursday, January 26, 2023 at 5:48:52 PM
 
 > Showing 5 of 30 posts.
 
+[![Best "Free" Resources To Learn Node.js From Beginner to Advanced](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Best__Free__Resources_To_Learn_Node.js_From_Beginner_to_Advanced.svg)](https://dev.to/onlydevs_/best-free-resources-to-learn-nodejs-from-beginner-to-advanced-975)
+[![GitHub - velocitatem/suppress: AI as Backend. Really, its like express.js but easier and uses AI.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_velocitatem_suppress__AI_as_Backend._Really__its_like_express.js_but_easier_and_uses_AI..svg)](https://github.com/velocitatem/suppress)
 [![Orcastration: Visualize Your Docker Swarm with Powerful Metrics](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Orcastration__Visualize_Your_Docker_Swarm_with_Powerful_Metrics.svg)](https://medium.com/@orcastration2022/orcastration-visualize-your-docker-swarm-with-powerful-metrics-c188373ed58d)
 [![Flaky Tests, and How to Deal with Them](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Flaky_Tests__and_How_to_Deal_with_Them.svg)](https://dev.to/codux/flaky-tests-and-how-to-deal-with-them-2id2)
 [![
 Dockwell: Open source container metrics monitoring with no configuration or setup required!
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Dockwell__Open_source_container_metrics_monitoring_with_no_configuration_or_setup_required!_.svg)](
 https://dockwell.tech/
-)
-[![🚀 Code your SvelteKit website faster with Stylify CSS | Stylify CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/🚀_Code_your_SvelteKit_website_faster_with_Stylify_CSS___Stylify_CSS.svg)](https://stylifycss.com/blog/code-your-sveltekit-website-faster-with-stylify-css)
-[![
-The W Pattern Forex Trading Guide For Beginner
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_The_W_Pattern_Forex_Trading_Guide_For_Beginner_.svg)](
-https://allatraders.com/the-w-pattern-forex-trading-guide-for-beginner/
 )
 
 
