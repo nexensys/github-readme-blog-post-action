@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, January 26, 2023 at 11:11:40 PM
+> Last updated: Friday, January 27, 2023 at 5:16:00 AM
 
 > Showing 5 of 12 posts.
 
-[![Will ChatGPT replace Developer's Job?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Will_ChatGPT_replace_Developer's_Job_.svg)](https://dev.to/dhruvjoshi9/will-chatgpt-replace-developers-job-37j2)
-[![3 Free ways to earn loads of money online💸](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/3_Free_ways_to_earn_loads_of_money_online💸.svg)](https://dev.to/albertyao/3-free-ways-to-earn-loads-of-money-online-529g)
-[![Git Commit Patterns](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Git_Commit_Patterns.svg)](https://dev.to/jasonh33/git-commit-patterns-5dm7)
-[![How to reduce the cost of GitHub Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_reduce_the_cost_of_GitHub_Actions.svg)](https://dev.to/zhangjintao/how-to-reduce-the-cost-of-github-actions-2en5)
-[![How working/install Pig with Notebooks?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_working_install_Pig_with_Notebooks_.svg)](https://dev.to/xlmriosx/how-workinginstall-pig-with-notebooks-54km)
+[![5 Websites to help you learn Frontend Web Development Faster](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_Websites_to_help_you_learn_Frontend_Web_Development_Faster.svg)](https://dev.to/onlydevs_/5-websites-to-help-you-learn-frontend-web-development-faster-1ici)
+[![Dockyard Academy. Passing the baton.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Dockyard_Academy._Passing_the_baton..svg)](https://dev.to/bigspaces/dockyard-academy-passing-the-baton-6p)
+[![Integrating Newman with Jenkins](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Integrating_Newman_with_Jenkins.svg)](https://dev.to/ranafge/integrating-newman-with-jenkins-1368)
+[![Performance Regression Testing for React Native](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Performance_Regression_Testing_for_React_Native.svg)](https://dev.to/vladimirnovick/performance-regression-testing-for-react-native-4pj5)
+[![GKE Security: Top 10 Strategies for Securing Your Cluster](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/GKE_Security__Top_10_Strategies_for_Securing_Your_Cluster.svg)](https://dev.to/castai/gke-security-top-10-strategies-for-securing-your-cluster-1p66)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, January 26, 2023 at 11:11:43 PM
+> Last updated: Friday, January 27, 2023 at 5:16:03 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, January 26, 2023 at 11:11:47 PM
+> Last updated: Friday, January 27, 2023 at 5:16:05 AM
 
 > Showing 5 of 30 posts.
 
