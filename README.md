@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, January 27, 2023 at 11:10:54 AM
+> Last updated: Friday, January 27, 2023 at 5:47:19 PM
 
 > Showing 5 of 12 posts.
 
-[![Your Open Source Project needs CodeSandbox - Here’s why](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Your_Open_Source_Project_needs_CodeSandbox_-_Here’s_why.svg)](https://dev.to/codesandboxio/your-open-source-project-needs-codesandbox-heres-why-1cn1)
-[![What is a Serverless Architecture?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_a_Serverless_Architecture_.svg)](https://dev.to/elviskim18/what-is-a-serverless-architecture-ci6)
-[![SEO Cheat Sheet for Devs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/SEO_Cheat_Sheet_for_Devs.svg)](https://dev.to/chetanam/seo-cheat-sheet-for-devs-2kca)
-[![Localization state survey 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Localization_state_survey_2022.svg)](https://dev.to/localizely/localization-state-survey-2022-h2i)
-[![Aurora Serverless v1 to Serverless v2 - comparison, migration and blue/green deployment](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Aurora_Serverless_v1_to_Serverless_v2_-_comparison__migration_and_blue_green_deployment.svg)](https://dev.to/aws-builders/aurora-serverless-v1-to-serverless-v2-comparison-migration-and-bluegreen-deployment-4aa8)
+[![DRY, KISS, and YAGNI to avoid Over-engineering Trap](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/DRY__KISS__and_YAGNI_to_avoid_Over-engineering_Trap.svg)](https://dev.to/vtsen/dry-kiss-and-yagni-to-avoid-over-engineering-trap-2m42)
+[![Still using Word ? Try this instead !](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Still_using_Word___Try_this_instead_!.svg)](https://dev.to/ziadoua/still-using-word-try-this-instead--42g0)
+[![AWS Cloud Quest: Templating Serverless Applications](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/AWS_Cloud_Quest__Templating_Serverless_Applications.svg)](https://dev.to/arc/aws-cloud-quest-templating-serverless-applications-59bi)
+[![What was your win this week?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_was_your_win_this_week_.svg)](https://dev.to/michaeltharrington/what-was-your-win-this-week-f70)
+[![.NET MAUI Blazor - Best practices for mobile UI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/.NET_MAUI_Blazor_-_Best_practices_for_mobile_UI.svg)](https://dev.to/mhrastegari/net-maui-blazor-best-practices-for-mobile-ui-4def)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, January 27, 2023 at 11:10:57 AM
+> Last updated: Friday, January 27, 2023 at 5:47:23 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, January 27, 2023 at 11:11:02 AM
+> Last updated: Friday, January 27, 2023 at 5:47:27 PM
 
 > Showing 5 of 30 posts.
 
