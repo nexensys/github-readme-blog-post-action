@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, January 27, 2023 at 5:47:19 PM
+> Last updated: Friday, January 27, 2023 at 11:10:34 PM
 
 > Showing 5 of 12 posts.
 
+[![useEffect() 🪝](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/useEffect()_🪝.svg)](https://dev.to/mihir_chhatre/useeffect-19m2)
+[![How to Add JWT Authentication to NestJS Apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Add_JWT_Authentication_to_NestJS_Apps.svg)](https://dev.to/leduc1901/how-to-add-jwt-authentication-to-nestjs-apps-6bb)
+[![Must know CSS code.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Must_know_CSS_code..svg)](https://dev.to/orix/must-know-css-code-4302)
+[![Dev.to - Weekly Web Development Newsletter 1/27/23](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Dev.to_-_Weekly_Web_Development_Newsletter_1_27_23.svg)](https://dev.to/expoverse/devto-weekly-web-development-newsletter-12723-4i5g)
 [![DRY, KISS, and YAGNI to avoid Over-engineering Trap](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/DRY__KISS__and_YAGNI_to_avoid_Over-engineering_Trap.svg)](https://dev.to/vtsen/dry-kiss-and-yagni-to-avoid-over-engineering-trap-2m42)
-[![Still using Word ? Try this instead !](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Still_using_Word___Try_this_instead_!.svg)](https://dev.to/ziadoua/still-using-word-try-this-instead--42g0)
-[![AWS Cloud Quest: Templating Serverless Applications](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/AWS_Cloud_Quest__Templating_Serverless_Applications.svg)](https://dev.to/arc/aws-cloud-quest-templating-serverless-applications-59bi)
-[![What was your win this week?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_was_your_win_this_week_.svg)](https://dev.to/michaeltharrington/what-was-your-win-this-week-f70)
-[![.NET MAUI Blazor - Best practices for mobile UI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/.NET_MAUI_Blazor_-_Best_practices_for_mobile_UI.svg)](https://dev.to/mhrastegari/net-maui-blazor-best-practices-for-mobile-ui-4def)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, January 27, 2023 at 5:47:23 PM
+> Last updated: Friday, January 27, 2023 at 11:10:36 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, January 27, 2023 at 5:47:27 PM
+> Last updated: Friday, January 27, 2023 at 11:10:38 PM
 
 > Showing 5 of 30 posts.
 
