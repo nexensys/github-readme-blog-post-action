@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, January 27, 2023 at 11:10:34 PM
+> Last updated: Saturday, January 28, 2023 at 5:14:55 AM
 
 > Showing 5 of 12 posts.
 
-[![useEffect() 🪝](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/useEffect()_🪝.svg)](https://dev.to/mihir_chhatre/useeffect-19m2)
-[![How to Add JWT Authentication to NestJS Apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Add_JWT_Authentication_to_NestJS_Apps.svg)](https://dev.to/leduc1901/how-to-add-jwt-authentication-to-nestjs-apps-6bb)
-[![Must know CSS code.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Must_know_CSS_code..svg)](https://dev.to/orix/must-know-css-code-4302)
-[![Dev.to - Weekly Web Development Newsletter 1/27/23](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Dev.to_-_Weekly_Web_Development_Newsletter_1_27_23.svg)](https://dev.to/expoverse/devto-weekly-web-development-newsletter-12723-4i5g)
-[![DRY, KISS, and YAGNI to avoid Over-engineering Trap](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/DRY__KISS__and_YAGNI_to_avoid_Over-engineering_Trap.svg)](https://dev.to/vtsen/dry-kiss-and-yagni-to-avoid-over-engineering-trap-2m42)
+[![Deleted Post](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Deleted_Post.svg)](https://dev.to/rammcodes/how-the-event-loop-works-in-javascript-visually-explained-15bk)
+[![Save your clients internet, Serving big JSON dataset files over network like a pro](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Save_your_clients_internet__Serving_big_JSON_dataset_files_over_network_like_a_pro.svg)](https://dev.to/rajeshroyal/save-your-clients-internet-serving-big-json-dataset-files-over-network-like-a-pro-4fde)
+[![10 Techniques for Improving Machine Learning Models](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/10_Techniques_for_Improving_Machine_Learning_Models.svg)](https://dev.to/anurag629/10-techniques-for-improving-machine-learning-models-18k9)
+[![Introduction to UTXO vs Account-Based Model](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Introduction_to_UTXO_vs_Account-Based_Model.svg)](https://dev.to/zt4ff_1/introduction-to-utxo-vs-account-based-model-56cc)
+[![Improving the performance of styled components with native CSS features](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Improving_the_performance_of_styled_components_with_native_CSS_features.svg)](https://dev.to/ondrejsevcik/improving-the-performance-of-styled-components-with-native-css-features-27pd)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, January 27, 2023 at 11:10:36 PM
+> Last updated: Saturday, January 28, 2023 at 5:14:58 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, January 27, 2023 at 11:10:38 PM
+> Last updated: Saturday, January 28, 2023 at 5:15:02 AM
 
 > Showing 5 of 30 posts.
 
+[![NFT Development Services | NFT Development Solutions | NFTWIIZ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/NFT_Development_Services___NFT_Development_Solutions___NFTWIIZ.svg)](https://www.nftwiiz.io/)
 [![GitHub - velocitatem/suppress: AI as Backend. Really, its like express.js but easier and uses AI.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_velocitatem_suppress__AI_as_Backend._Really__its_like_express.js_but_easier_and_uses_AI..svg)](https://github.com/velocitatem/suppress)
 [![GitHub - oslabs-beta/Orcastration: A GUI designed to easily visualize Docker Swarm Nodes allowing developers to fully understand their swarm, containers, and images at all times.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_oslabs-beta_Orcastration__A_GUI_designed_to_easily_visualize_Docker_Swarm_Nodes_allowing_developers_to_fully_understand_their_swarm__containers__and_images_at_all_times..svg)](https://github.com/oslabs-beta/Orcastration)
 [![Flaky Tests, and How to Deal with Them](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Flaky_Tests__and_How_to_Deal_with_Them.svg)](https://dev.to/codux/flaky-tests-and-how-to-deal-with-them-2id2)
 [![GitHub - oslabs-beta/dockwell](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_oslabs-beta_dockwell.svg)](https://github.com/oslabs-beta/dockwell)
-[![🚀 Code your SvelteKit website faster with Stylify CSS | Stylify CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/🚀_Code_your_SvelteKit_website_faster_with_Stylify_CSS___Stylify_CSS.svg)](https://stylifycss.com/blog/code-your-sveltekit-website-faster-with-stylify-css)
 
 
 <!-- post-list:end -->
