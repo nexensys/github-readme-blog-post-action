@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, January 29, 2023 at 5:14:54 AM
+> Last updated: Sunday, January 29, 2023 at 11:09:41 AM
 
 > Showing 5 of 12 posts.
 
-[![My Favorite System Design Interview Questions and Coding Problems](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/My_Favorite_System_Design_Interview_Questions_and_Coding_Problems.svg)](https://dev.to/javinpaul/my-favorite-system-design-interview-questions-and-coding-problems-4m2j)
-[![The ultimate template for publishing ES modules](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_ultimate_template_for_publishing_ES_modules.svg)](https://dev.to/semicognitive/the-ultimate-template-for-publishing-es-modules-1lik)
-[![10 Must-Know GitHub Repositories for JavaScript Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/10_Must-Know_GitHub_Repositories_for_JavaScript_Developers.svg)](https://dev.to/arjuncodess/10-must-know-github-repositories-for-javascript-developers-53fj)
-[![Build These 5 Projects To Get Hired As A Junior React Developer ASAP 🤯🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_These_5_Projects_To_Get_Hired_As_A_Junior_React_Developer_ASAP_🤯🔥.svg)](https://dev.to/rammcodes/build-these-5-projects-to-get-hired-as-a-junior-react-developer-asap-3098)
-[![ChatGPT: The Future of AI-Powered Communication](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/ChatGPT__The_Future_of_AI-Powered_Communication.svg)](https://dev.to/arjuncodess/chatgpt-the-future-of-ai-powered-communication-59go)
+[![JAVASCRIPT : AJAX AND FETCH](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/JAVASCRIPT___AJAX_AND_FETCH.svg)](https://dev.to/prerna0202/javascript-ajax-and-fetch-5oh)
+[![5 Basic Tips Everyone Should Know for Optimizing React Performance 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_Basic_Tips_Everyone_Should_Know_for_Optimizing_React_Performance_🚀.svg)](https://dev.to/naubit/5-basic-tips-everyone-should-know-for-optimizing-react-performance-22o9)
+[![Storage vs Memory vs Calldata](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Storage_vs_Memory_vs_Calldata.svg)](https://dev.to/shlok2740/storage-vs-memory-vs-calldata-4l65)
+[![How I Get Into The Open-Source World](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_I_Get_Into_The_Open-Source_World.svg)](https://dev.to/rabeeh/how-i-get-into-the-open-source-world-13e7)
+[![Using Pivot Chart to Replace Your Pivot Table](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Using_Pivot_Chart_to_Replace_Your_Pivot_Table.svg)](https://dev.to/observedobserver/using-pivot-chart-to-replace-your-pivot-table-4bh3)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, January 29, 2023 at 5:14:58 AM
+> Last updated: Sunday, January 29, 2023 at 11:09:44 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, January 29, 2023 at 5:15:03 AM
+> Last updated: Sunday, January 29, 2023 at 11:09:48 AM
 
 > Showing 5 of 30 posts.
 
