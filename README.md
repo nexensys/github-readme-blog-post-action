@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, January 28, 2023 at 11:10:32 PM
+> Last updated: Sunday, January 29, 2023 at 5:14:54 AM
 
 > Showing 5 of 12 posts.
 
-[![How to get into React Native?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_get_into_React_Native_.svg)](https://dev.to/darkxenium/how-to-get-into-react-native-k8b)
-[![Podman 4.3 on Artix Linux: 初期設定で発生する問題を解決](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Podman_4.3_on_Artix_Linux__初期設定で発生する問題を解決.svg)](https://dev.to/nabbisen/podman-43-on-artix-linux-chu-qi-she-ding-defa-sheng-suruwen-ti-wojie-jue-25pl)
-[![Using React Wrap Balancer to Make Wrapping Less Awkward](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Using_React_Wrap_Balancer_to_Make_Wrapping_Less_Awkward.svg)](https://dev.to/ikartik/using-react-wrap-balancer-to-make-wrapping-less-awkward-112n)
-[![Introducing Serverless DNA - A New Site dedicated to Serverless!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Introducing_Serverless_DNA_-_A_New_Site_dedicated_to_Serverless!.svg)](https://dev.to/aws-builders/introducing-serverless-dna-a-new-site-dedicated-to-serverless-38mi)
-[![The Breakdown of Serverless](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Breakdown_of_Serverless.svg)](https://dev.to/jennjunod/the-breakdown-of-serverless-2e9a)
+[![My Favorite System Design Interview Questions and Coding Problems](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/My_Favorite_System_Design_Interview_Questions_and_Coding_Problems.svg)](https://dev.to/javinpaul/my-favorite-system-design-interview-questions-and-coding-problems-4m2j)
+[![The ultimate template for publishing ES modules](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_ultimate_template_for_publishing_ES_modules.svg)](https://dev.to/semicognitive/the-ultimate-template-for-publishing-es-modules-1lik)
+[![10 Must-Know GitHub Repositories for JavaScript Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/10_Must-Know_GitHub_Repositories_for_JavaScript_Developers.svg)](https://dev.to/arjuncodess/10-must-know-github-repositories-for-javascript-developers-53fj)
+[![Build These 5 Projects To Get Hired As A Junior React Developer ASAP 🤯🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_These_5_Projects_To_Get_Hired_As_A_Junior_React_Developer_ASAP_🤯🔥.svg)](https://dev.to/rammcodes/build-these-5-projects-to-get-hired-as-a-junior-react-developer-asap-3098)
+[![ChatGPT: The Future of AI-Powered Communication](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/ChatGPT__The_Future_of_AI-Powered_Communication.svg)](https://dev.to/arjuncodess/chatgpt-the-future-of-ai-powered-communication-59go)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, January 28, 2023 at 11:10:35 PM
+> Last updated: Sunday, January 29, 2023 at 5:14:58 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, January 28, 2023 at 11:10:44 PM
+> Last updated: Sunday, January 29, 2023 at 5:15:03 AM
 
 > Showing 5 of 30 posts.
 
