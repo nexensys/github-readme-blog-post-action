@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, January 30, 2023 at 5:16:51 AM
+> Last updated: Monday, January 30, 2023 at 11:11:16 AM
 
 > Showing 5 of 12 posts.
 
-[![Talk to people who are on the same site | 🌐 Browsemates](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Talk_to_people_who_are_on_the_same_site___🌐_Browsemates.svg)](https://dev.to/rajeshj3/talk-to-people-who-are-on-the-same-site-browsemates-2alp)
-[![Discover the Top 15 AI Websites Changing the Game in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Discover_the_Top_15_AI_Websites_Changing_the_Game_in_2023.svg)](https://dev.to/pablonax/discover-the-top-15-ai-websites-changing-the-game-in-2023-4l5j)
-[![Mastering Sass: Tips and Tricks for Efficient Workflow.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Mastering_Sass__Tips_and_Tricks_for_Efficient_Workflow..svg)](https://dev.to/nnekajenny/mastering-sass-tips-and-tricks-for-efficient-workflow-8k0)
-[![Looking for feedback on opensource VS Code AI extension](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Looking_for_feedback_on_opensource_VS_Code_AI_extension.svg)](https://dev.to/lgrammel/looking-for-feedback-on-opensource-vs-code-ai-extension-da2)
-[![Password Hashing in Node.js Using bcryptjs Library.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Password_Hashing_in_Node.js_Using_bcryptjs_Library..svg)](https://dev.to/mr_walkr/password-hashing-in-nodejs-using-bcryptjs-library-3j56)
+[![Responsive Text - Without @media queries](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Responsive_Text_-_Without_@media_queries.svg)](https://dev.to/vulcanwm/responsive-text-without-media-queries-4enc)
+[![Effective Refactoring with Codemods](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Effective_Refactoring_with_Codemods.svg)](https://dev.to/carloscuesta/effective-refactoring-with-codemods-5010)
+[![Set up a basic multi-tenant architecture in Rails 7](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Set_up_a_basic_multi-tenant_architecture_in_Rails_7.svg)](https://dev.to/harsh_u115/set-up-a-basic-multi-tenant-architecture-in-rails-7-4445)
+[![How To Write Clean Code As A Developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_To_Write_Clean_Code_As_A_Developer.svg)](https://dev.to/scofieldidehen/how-to-write-clean-code-as-a-developer-471c)
+[![Best React UI frameworks to boost Productivity 🚀 🌟](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Best_React_UI_frameworks_to_boost_Productivity_🚀_🌟.svg)](https://dev.to/bitohq/best-react-ui-frameworks-to-boost-productivity-2m43)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, January 30, 2023 at 5:16:54 AM
+> Last updated: Monday, January 30, 2023 at 11:11:20 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, January 30, 2023 at 5:16:58 AM
+> Last updated: Monday, January 30, 2023 at 11:11:25 AM
 
 > Showing 5 of 30 posts.
 
+[![Applying the Principle of Least Astonishment: Improving Code Quality and User Experience](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Applying_the_Principle_of_Least_Astonishment__Improving_Code_Quality_and_User_Experience.svg)](https://creotip.io/posts/principle-of-least-astonishment-with-code-examples)
 [![Implementing SonarQube code coverage in a simple JavaScript application - Aviator Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Implementing_SonarQube_code_coverage_in_a_simple_JavaScript_application_-_Aviator_Blog.svg)](https://www.aviator.co/blog/implementing-sonarqube-code-coverage-in-a-simple-javascript-application/)
-[![NFT Development Services | NFT Development Solutions | NFTWIIZ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/NFT_Development_Services___NFT_Development_Solutions___NFTWIIZ.svg)](https://www.nftwiiz.io/)
 [![GitHub - velocitatem/suppress: AI as Backend. Really, its like express.js but easier and uses AI.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_velocitatem_suppress__AI_as_Backend._Really__its_like_express.js_but_easier_and_uses_AI..svg)](https://github.com/velocitatem/suppress)
 [![GitHub - oslabs-beta/Orcastration: A GUI designed to easily visualize Docker Swarm Nodes allowing developers to fully understand their swarm, containers, and images at all times.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_oslabs-beta_Orcastration__A_GUI_designed_to_easily_visualize_Docker_Swarm_Nodes_allowing_developers_to_fully_understand_their_swarm__containers__and_images_at_all_times..svg)](https://github.com/oslabs-beta/Orcastration)
-[![Flaky Tests, and How to Deal with Them](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Flaky_Tests__and_How_to_Deal_with_Them.svg)](https://dev.to/codux/flaky-tests-and-how-to-deal-with-them-2id2)
+[![GitHub - oslabs-beta/dockwell](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_oslabs-beta_dockwell.svg)](https://github.com/oslabs-beta/dockwell)
 
 
 <!-- post-list:end -->
