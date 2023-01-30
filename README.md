@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, January 29, 2023 at 5:43:05 PM
+> Last updated: Sunday, January 29, 2023 at 11:12:07 PM
 
 > Showing 5 of 12 posts.
 
-[![Analysing which Mastodon apps I've used](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Analysing_which_Mastodon_apps_I've_used.svg)](https://dev.to/andypiper/analysing-which-mastodon-apps-ive-used-30pb)
-[![chatGPT — Everything you need to know about chatGPT](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/chatGPT_—_Everything_you_need_to_know_about_chatGPT.svg)](https://dev.to/rutikkpatel/chatgpt-everything-you-need-to-know-about-chatgpt-4f44)
-[![Split messages from single SQS queue into Multiple SQS queues using EventBridge](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Split_messages_from_single_SQS_queue_into_Multiple_SQS_queues_using_EventBridge.svg)](https://dev.to/aws-builders/split-messages-from-single-sqs-queue-into-multiple-sqs-queues-using-eventbridge-g0p)
-[![From Good to Great: The Power of Empathy in Programming](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/From_Good_to_Great__The_Power_of_Empathy_in_Programming.svg)](https://dev.to/noriller/from-good-to-great-the-power-of-empathy-in-programming-162p)
-[![Publishing a Vue 3 - Typescript Component Library to GitHub Packages](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Publishing_a_Vue_3_-_Typescript_Component_Library_to_GitHub_Packages.svg)](https://dev.to/peshanghiwa/publishing-a-vue-3-typescript-component-library-to-github-packages-46ec)
+[![Must have websites for every Frontend Web developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Must_have_websites_for_every_Frontend_Web_developer.svg)](https://dev.to/hy_piyush/must-have-websites-for-every-frontend-web-developer-3ajm)
+[![Set up a PostgreSQL database and connect to NestJS with TypeORM](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Set_up_a_PostgreSQL_database_and_connect_to_NestJS_with_TypeORM.svg)](https://dev.to/leduc1901/set-up-a-postgresql-database-and-connect-to-nestjs-with-typeorm-35np)
+[![Access Azure KeyVault Secrets Through Nodejs Application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Access_Azure_KeyVault_Secrets_Through_Nodejs_Application.svg)](https://dev.to/dileepamabulage/access-azure-keyvault-secrets-through-nodejs-application-bim)
+[![Build Networks with VLANs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_Networks_with_VLANs.svg)](https://dev.to/aakhtar3/build-networks-with-vlans-1ldd)
+[![Debugging NodeJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Debugging_NodeJS.svg)](https://dev.to/markmatute/debugging-nodejs-15jb)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, January 29, 2023 at 5:43:08 PM
+> Last updated: Sunday, January 29, 2023 at 11:12:10 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, January 29, 2023 at 5:43:12 PM
+> Last updated: Sunday, January 29, 2023 at 11:12:13 PM
 
 > Showing 5 of 30 posts.
 
