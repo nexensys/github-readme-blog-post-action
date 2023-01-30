@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, January 29, 2023 at 11:12:07 PM
+> Last updated: Monday, January 30, 2023 at 5:16:51 AM
 
 > Showing 5 of 12 posts.
 
-[![Must have websites for every Frontend Web developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Must_have_websites_for_every_Frontend_Web_developer.svg)](https://dev.to/hy_piyush/must-have-websites-for-every-frontend-web-developer-3ajm)
-[![Set up a PostgreSQL database and connect to NestJS with TypeORM](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Set_up_a_PostgreSQL_database_and_connect_to_NestJS_with_TypeORM.svg)](https://dev.to/leduc1901/set-up-a-postgresql-database-and-connect-to-nestjs-with-typeorm-35np)
-[![Access Azure KeyVault Secrets Through Nodejs Application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Access_Azure_KeyVault_Secrets_Through_Nodejs_Application.svg)](https://dev.to/dileepamabulage/access-azure-keyvault-secrets-through-nodejs-application-bim)
-[![Build Networks with VLANs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_Networks_with_VLANs.svg)](https://dev.to/aakhtar3/build-networks-with-vlans-1ldd)
-[![Debugging NodeJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Debugging_NodeJS.svg)](https://dev.to/markmatute/debugging-nodejs-15jb)
+[![Talk to people who are on the same site | 🌐 Browsemates](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Talk_to_people_who_are_on_the_same_site___🌐_Browsemates.svg)](https://dev.to/rajeshj3/talk-to-people-who-are-on-the-same-site-browsemates-2alp)
+[![Discover the Top 15 AI Websites Changing the Game in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Discover_the_Top_15_AI_Websites_Changing_the_Game_in_2023.svg)](https://dev.to/pablonax/discover-the-top-15-ai-websites-changing-the-game-in-2023-4l5j)
+[![Mastering Sass: Tips and Tricks for Efficient Workflow.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Mastering_Sass__Tips_and_Tricks_for_Efficient_Workflow..svg)](https://dev.to/nnekajenny/mastering-sass-tips-and-tricks-for-efficient-workflow-8k0)
+[![Looking for feedback on opensource VS Code AI extension](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Looking_for_feedback_on_opensource_VS_Code_AI_extension.svg)](https://dev.to/lgrammel/looking-for-feedback-on-opensource-vs-code-ai-extension-da2)
+[![Password Hashing in Node.js Using bcryptjs Library.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Password_Hashing_in_Node.js_Using_bcryptjs_Library..svg)](https://dev.to/mr_walkr/password-hashing-in-nodejs-using-bcryptjs-library-3j56)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, January 29, 2023 at 11:12:10 PM
+> Last updated: Monday, January 30, 2023 at 5:16:54 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, January 29, 2023 at 11:12:13 PM
+> Last updated: Monday, January 30, 2023 at 5:16:58 AM
 
 > Showing 5 of 30 posts.
 
