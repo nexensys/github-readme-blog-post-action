@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, January 29, 2023 at 11:09:41 AM
+> Last updated: Sunday, January 29, 2023 at 5:43:05 PM
 
 > Showing 5 of 12 posts.
 
-[![JAVASCRIPT : AJAX AND FETCH](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/JAVASCRIPT___AJAX_AND_FETCH.svg)](https://dev.to/prerna0202/javascript-ajax-and-fetch-5oh)
-[![5 Basic Tips Everyone Should Know for Optimizing React Performance 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5_Basic_Tips_Everyone_Should_Know_for_Optimizing_React_Performance_🚀.svg)](https://dev.to/naubit/5-basic-tips-everyone-should-know-for-optimizing-react-performance-22o9)
-[![Storage vs Memory vs Calldata](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Storage_vs_Memory_vs_Calldata.svg)](https://dev.to/shlok2740/storage-vs-memory-vs-calldata-4l65)
-[![How I Get Into The Open-Source World](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_I_Get_Into_The_Open-Source_World.svg)](https://dev.to/rabeeh/how-i-get-into-the-open-source-world-13e7)
-[![Using Pivot Chart to Replace Your Pivot Table](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Using_Pivot_Chart_to_Replace_Your_Pivot_Table.svg)](https://dev.to/observedobserver/using-pivot-chart-to-replace-your-pivot-table-4bh3)
+[![Analysing which Mastodon apps I've used](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Analysing_which_Mastodon_apps_I've_used.svg)](https://dev.to/andypiper/analysing-which-mastodon-apps-ive-used-30pb)
+[![chatGPT — Everything you need to know about chatGPT](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/chatGPT_—_Everything_you_need_to_know_about_chatGPT.svg)](https://dev.to/rutikkpatel/chatgpt-everything-you-need-to-know-about-chatgpt-4f44)
+[![Split messages from single SQS queue into Multiple SQS queues using EventBridge](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Split_messages_from_single_SQS_queue_into_Multiple_SQS_queues_using_EventBridge.svg)](https://dev.to/aws-builders/split-messages-from-single-sqs-queue-into-multiple-sqs-queues-using-eventbridge-g0p)
+[![From Good to Great: The Power of Empathy in Programming](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/From_Good_to_Great__The_Power_of_Empathy_in_Programming.svg)](https://dev.to/noriller/from-good-to-great-the-power-of-empathy-in-programming-162p)
+[![Publishing a Vue 3 - Typescript Component Library to GitHub Packages](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Publishing_a_Vue_3_-_Typescript_Component_Library_to_GitHub_Packages.svg)](https://dev.to/peshanghiwa/publishing-a-vue-3-typescript-component-library-to-github-packages-46ec)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, January 29, 2023 at 11:09:44 AM
+> Last updated: Sunday, January 29, 2023 at 5:43:08 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, January 29, 2023 at 11:09:48 AM
+> Last updated: Sunday, January 29, 2023 at 5:43:12 PM
 
 > Showing 5 of 30 posts.
 
+[![Implementing SonarQube code coverage in a simple JavaScript application - Aviator Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Implementing_SonarQube_code_coverage_in_a_simple_JavaScript_application_-_Aviator_Blog.svg)](https://www.aviator.co/blog/implementing-sonarqube-code-coverage-in-a-simple-javascript-application/)
 [![NFT Development Services | NFT Development Solutions | NFTWIIZ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/NFT_Development_Services___NFT_Development_Solutions___NFTWIIZ.svg)](https://www.nftwiiz.io/)
 [![GitHub - velocitatem/suppress: AI as Backend. Really, its like express.js but easier and uses AI.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_velocitatem_suppress__AI_as_Backend._Really__its_like_express.js_but_easier_and_uses_AI..svg)](https://github.com/velocitatem/suppress)
 [![GitHub - oslabs-beta/Orcastration: A GUI designed to easily visualize Docker Swarm Nodes allowing developers to fully understand their swarm, containers, and images at all times.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_oslabs-beta_Orcastration__A_GUI_designed_to_easily_visualize_Docker_Swarm_Nodes_allowing_developers_to_fully_understand_their_swarm__containers__and_images_at_all_times..svg)](https://github.com/oslabs-beta/Orcastration)
 [![Flaky Tests, and How to Deal with Them](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Flaky_Tests__and_How_to_Deal_with_Them.svg)](https://dev.to/codux/flaky-tests-and-how-to-deal-with-them-2id2)
-[![GitHub - oslabs-beta/dockwell](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_oslabs-beta_dockwell.svg)](https://github.com/oslabs-beta/dockwell)
 
 
 <!-- post-list:end -->
