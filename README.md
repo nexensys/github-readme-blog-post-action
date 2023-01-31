@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, January 30, 2023 at 5:50:50 PM
+> Last updated: Monday, January 30, 2023 at 11:11:37 PM
 
 > Showing 5 of 12 posts.
 
-[![What the HAL? The Quest for Finding a Suitable Embedded Rust HAL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_the_HAL__The_Quest_for_Finding_a_Suitable_Embedded_Rust_HAL.svg)](https://dev.to/apollolabsbin/what-the-hal-the-quest-for-finding-a-suitable-embedded-rust-hal-2i02)
-[![From Angular to Remix: Route by route migration](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/From_Angular_to_Remix__Route_by_route_migration.svg)](https://dev.to/hinnhabib/from-angular-to-remix-route-by-route-migration-50m0)
-[![Getting the tempo of a song using librosa](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Getting_the_tempo_of_a_song_using_librosa.svg)](https://dev.to/highcenburg/getting-the-tempo-of-a-song-using-librosa-4e5b)
-[![Local Environment Seeders in Laravel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Local_Environment_Seeders_in_Laravel.svg)](https://dev.to/_stefanzweifel/local-environment-seeders-in-laravel-53a0)
-[![🔥Top Angular Open Source Projects 💻](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/🔥Top_Angular_Open_Source_Projects_💻.svg)](https://dev.to/flatlogic_manager/top-angular-open-source-projects-326k)
+[![The K-Nearest Neighbors Algorithm for regression and classification](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_K-Nearest_Neighbors_Algorithm_for_regression_and_classification.svg)](https://dev.to/anurag629/the-k-nearest-neighbors-algorithm-for-regression-and-classification-jgo)
+[![Understanding the javascript:void(0) Statement](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Understanding_the_javascript_void(0)_Statement.svg)](https://dev.to/codeofrelevancy/understanding-the-javascriptvoid0-statement-2dna)
+[![A Comprehensive Guide to Cloud Migration from On-Prem Datacenter to AWS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_Comprehensive_Guide_to_Cloud_Migration_from_On-Prem_Datacenter_to_AWS.svg)](https://dev.to/aws-builders/a-comprehensive-guide-to-cloud-migration-from-on-prem-datacenter-to-aws-215i)
+[![Data Pipelines with Great Expectations | Introduction](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Data_Pipelines_with_Great_Expectations___Introduction.svg)](https://dev.to/samuelearl/data-pipelines-with-great-expectations-introduction-o37)
+[![Web Scraping With Puppeteer for Total Noobs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Web_Scraping_With_Puppeteer_for_Total_Noobs.svg)](https://dev.to/juniordevforlife/web-scraping-with-puppeteer-for-total-noobs-38j4)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, January 30, 2023 at 5:50:54 PM
+> Last updated: Monday, January 30, 2023 at 11:11:40 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, January 30, 2023 at 5:51:00 PM
+> Last updated: Monday, January 30, 2023 at 11:11:49 PM
 
 > Showing 5 of 30 posts.
 
