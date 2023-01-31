@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, January 31, 2023 at 5:16:17 AM
+> Last updated: Tuesday, January 31, 2023 at 11:10:55 AM
 
 > Showing 5 of 12 posts.
 
-[![Goodbye to Saccharine Feelings of Clean Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Goodbye_to_Saccharine_Feelings_of_Clean_Code.svg)](https://dev.to/solidi/goodbye-to-saccharine-feelings-of-clean-code-15o4)
-[![Complete Spring Boot: Build Enterprise Level Apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Complete_Spring_Boot__Build_Enterprise_Level_Apps.svg)](https://dev.to/lovepreetsingh/complete-spring-boot-build-enterprise-level-apps-2h50)
-[![Cap XVIII: Aprendemos de otros (o cómo no ser un desarrollador perezoso), El libro negro del programador. 💻](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Cap_XVIII__Aprendemos_de_otros_(o_cómo_no_ser_un_desarrollador_perezoso)__El_libro_negro_del_programador._💻.svg)](https://dev.to/duxtech/cap-xviii-aprendemos-de-otros-o-como-no-ser-un-desarrollador-perezoso-el-libro-negro-del-programador-3l91)
-[![Rendering with NextJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Rendering_with_NextJS.svg)](https://dev.to/hi_iam_chris/rendering-with-nextjs-1db1)
-[![Axios to consume REST API in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Axios_to_consume_REST_API_in_React.svg)](https://dev.to/documatic/axios-to-consume-rest-api-in-react-4549)
+[![Build a Team permissions system in Node.js app using Auth0 and Permify - Part 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_a_Team_permissions_system_in_Node.js_app_using_Auth0_and_Permify_-_Part_2.svg)](https://dev.to/permify/build-a-team-permissions-system-in-nodejs-app-using-auth0-and-permify-part-2-4i9d)
+[![Build a team permissions system in Node.js app using Auth0 and Permify - Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_a_team_permissions_system_in_Node.js_app_using_Auth0_and_Permify_-_Part_1.svg)](https://dev.to/permify/build-a-team-permissions-system-in-nodejs-app-using-auth0-and-permify-part-1-52bo)
+[![21 Problem Solving Lessons to Ace Coding Interviews](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/21_Problem_Solving_Lessons_to_Ace_Coding_Interviews.svg)](https://dev.to/codewithvoid/21-problem-solving-lessons-to-ace-coding-interviews-268n)
+[![AWS Lambda Smart Feature Flags — Now with Time Based Conditions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/AWS_Lambda_Smart_Feature_Flags_—_Now_with_Time_Based_Conditions.svg)](https://dev.to/aws-builders/aws-lambda-smart-feature-flags-now-with-time-based-conditions-25oe)
+[![I challenged myself to read every day, and it changed my life 📚](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/I_challenged_myself_to_read_every_day__and_it_changed_my_life_📚.svg)](https://dev.to/derlin/i-challenged-myself-to-read-every-day-and-it-changed-my-life-2oef)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, January 31, 2023 at 5:16:20 AM
+> Last updated: Tuesday, January 31, 2023 at 11:10:57 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, January 31, 2023 at 5:16:26 AM
+> Last updated: Tuesday, January 31, 2023 at 11:11:01 AM
 
 > Showing 5 of 30 posts.
 
+[![How to Load Chart.js from CDNs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Load_Chart.js_from_CDNs.svg)](
+https://masteringjs.io/tutorials/chartjs/cdn
+)
+[![GitHub - umutyesildal/yesildal.me-personal-portfolio: A lightweight, customizable and responsive single-page personal portfolio website, created by using Reactjs and Nextjs.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_umutyesildal_yesildal.me-personal-portfolio__A_lightweight__customizable_and_responsive_single-page_personal_portfolio_website__created_by_using_Reactjs_and_Nextjs..svg)](https://github.com/umutyesildal/yesildal.me-personal-portfolio)
+[![GitHub - karaxuna/meerkat: Library to simplify working with mongodb aggregation framework.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_karaxuna_meerkat__Library_to_simplify_working_with_mongodb_aggregation_framework..svg)](https://github.com/karaxuna/meerkat)
 [![Server side Rendering with Module-Federation ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Server_side_Rendering_with_Module-Federation_.svg)](https://microfrontends.substack.com/p/server-side-rendering-with-module)
 [![API with NestJS #93. Deploying a NestJS app with Amazon ECS and RDS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__93._Deploying_a_NestJS_app_with_Amazon_ECS_and_RDS.svg)](https://wanago.io/2023/01/30/api-nestjs-amazon-aws-ecs-rds-ec2/)
-[![Solid.js, React, and Vue - reactivity systems compared](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Solid.js__React__and_Vue_-_reactivity_systems_compared.svg)](https://vrite.io/blog/solidjs-react-and-vue-reactivity-systems-compared/)
-[![Applying the Principle of Least Astonishment: Improving Code Quality and User Experience](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Applying_the_Principle_of_Least_Astonishment__Improving_Code_Quality_and_User_Experience.svg)](https://creotip.io/posts/principle-of-least-astonishment-with-code-examples)
-[![Implementing SonarQube code coverage in a simple JavaScript application - Aviator Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Implementing_SonarQube_code_coverage_in_a_simple_JavaScript_application_-_Aviator_Blog.svg)](https://www.aviator.co/blog/implementing-sonarqube-code-coverage-in-a-simple-javascript-application/)
 
 
 <!-- post-list:end -->
