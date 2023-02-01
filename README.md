@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, January 31, 2023 at 5:54:24 PM
+> Last updated: Tuesday, January 31, 2023 at 11:12:17 PM
 
 > Showing 5 of 12 posts.
 
+[![10 GitHub repositories you must know as a JavaScript developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/10_GitHub_repositories_you_must_know_as_a_JavaScript_developer.svg)](https://dev.to/hy_piyush/10-github-repositories-you-must-know-as-a-javascript-developer-f5d)
+[![Comparing Kubernetes Gateway and Ingress APIs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Comparing_Kubernetes_Gateway_and_Ingress_APIs.svg)](https://dev.to/apisix/comparing-kubernetes-gateway-and-ingress-apis-22oj)
 [![Help reducing Firebase Realtime Database Download](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Help_reducing_Firebase_Realtime_Database_Download.svg)](https://dev.to/hyunseunglee2008/help-reducing-firebase-realtime-database-download-16l8)
+[![January Stripe Developer Digest](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/January_Stripe_Developer_Digest.svg)](https://dev.to/stripe/january-stripe-developer-digest-m5d)
 [![How install Cloud SDK Docker image from GCP?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_install_Cloud_SDK_Docker_image_from_GCP_.svg)](https://dev.to/xlmriosx/how-install-cloud-sdk-docker-image-in-gcp-4mep)
-[![#DEVDiscuss: to Specialize or to Generalize?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/_DEVDiscuss__to_Specialize_or_to_Generalize_.svg)](https://dev.to/devteam/devdiscuss-to-specialize-or-to-generalize-46lj)
-[![Top 10 html elements to use in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_10_html_elements_to_use_in_2023.svg)](https://dev.to/johnpaul/top-10-html-elements-to-use-in-2023-3b04)
-[![Garden.io: what is it and why should you be using it? 🪴](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Garden.io__what_is_it_and_why_should_you_be_using_it__🪴.svg)](https://dev.to/bcostaaa01/gardenio-what-is-it-and-why-should-you-be-using-it-4m7g)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, January 31, 2023 at 5:54:27 PM
+> Last updated: Tuesday, January 31, 2023 at 11:12:20 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, January 31, 2023 at 5:54:33 PM
+> Last updated: Tuesday, January 31, 2023 at 11:12:23 PM
 
 > Showing 5 of 30 posts.
 
