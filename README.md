@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, January 31, 2023 at 11:10:55 AM
+> Last updated: Tuesday, January 31, 2023 at 5:54:24 PM
 
 > Showing 5 of 12 posts.
 
-[![Build a Team permissions system in Node.js app using Auth0 and Permify - Part 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_a_Team_permissions_system_in_Node.js_app_using_Auth0_and_Permify_-_Part_2.svg)](https://dev.to/permify/build-a-team-permissions-system-in-nodejs-app-using-auth0-and-permify-part-2-4i9d)
-[![Build a team permissions system in Node.js app using Auth0 and Permify - Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_a_team_permissions_system_in_Node.js_app_using_Auth0_and_Permify_-_Part_1.svg)](https://dev.to/permify/build-a-team-permissions-system-in-nodejs-app-using-auth0-and-permify-part-1-52bo)
-[![21 Problem Solving Lessons to Ace Coding Interviews](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/21_Problem_Solving_Lessons_to_Ace_Coding_Interviews.svg)](https://dev.to/codewithvoid/21-problem-solving-lessons-to-ace-coding-interviews-268n)
-[![AWS Lambda Smart Feature Flags — Now with Time Based Conditions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/AWS_Lambda_Smart_Feature_Flags_—_Now_with_Time_Based_Conditions.svg)](https://dev.to/aws-builders/aws-lambda-smart-feature-flags-now-with-time-based-conditions-25oe)
-[![I challenged myself to read every day, and it changed my life 📚](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/I_challenged_myself_to_read_every_day__and_it_changed_my_life_📚.svg)](https://dev.to/derlin/i-challenged-myself-to-read-every-day-and-it-changed-my-life-2oef)
+[![Help reducing Firebase Realtime Database Download](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Help_reducing_Firebase_Realtime_Database_Download.svg)](https://dev.to/hyunseunglee2008/help-reducing-firebase-realtime-database-download-16l8)
+[![How install Cloud SDK Docker image from GCP?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_install_Cloud_SDK_Docker_image_from_GCP_.svg)](https://dev.to/xlmriosx/how-install-cloud-sdk-docker-image-in-gcp-4mep)
+[![#DEVDiscuss: to Specialize or to Generalize?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/_DEVDiscuss__to_Specialize_or_to_Generalize_.svg)](https://dev.to/devteam/devdiscuss-to-specialize-or-to-generalize-46lj)
+[![Top 10 html elements to use in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_10_html_elements_to_use_in_2023.svg)](https://dev.to/johnpaul/top-10-html-elements-to-use-in-2023-3b04)
+[![Garden.io: what is it and why should you be using it? 🪴](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Garden.io__what_is_it_and_why_should_you_be_using_it__🪴.svg)](https://dev.to/bcostaaa01/gardenio-what-is-it-and-why-should-you-be-using-it-4m7g)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, January 31, 2023 at 11:10:57 AM
+> Last updated: Tuesday, January 31, 2023 at 5:54:27 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, January 31, 2023 at 11:11:01 AM
+> Last updated: Tuesday, January 31, 2023 at 5:54:33 PM
 
 > Showing 5 of 30 posts.
 
