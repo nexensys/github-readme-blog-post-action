@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, January 31, 2023 at 11:12:17 PM
+> Last updated: Wednesday, February 1, 2023 at 5:18:15 AM
 
 > Showing 5 of 12 posts.
 
-[![10 GitHub repositories you must know as a JavaScript developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/10_GitHub_repositories_you_must_know_as_a_JavaScript_developer.svg)](https://dev.to/hy_piyush/10-github-repositories-you-must-know-as-a-javascript-developer-f5d)
-[![Comparing Kubernetes Gateway and Ingress APIs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Comparing_Kubernetes_Gateway_and_Ingress_APIs.svg)](https://dev.to/apisix/comparing-kubernetes-gateway-and-ingress-apis-22oj)
-[![Help reducing Firebase Realtime Database Download](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Help_reducing_Firebase_Realtime_Database_Download.svg)](https://dev.to/hyunseunglee2008/help-reducing-firebase-realtime-database-download-16l8)
-[![January Stripe Developer Digest](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/January_Stripe_Developer_Digest.svg)](https://dev.to/stripe/january-stripe-developer-digest-m5d)
-[![How install Cloud SDK Docker image from GCP?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_install_Cloud_SDK_Docker_image_from_GCP_.svg)](https://dev.to/xlmriosx/how-install-cloud-sdk-docker-image-in-gcp-4mep)
+[![Move files from SSH server to S3 bucket](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Move_files_from_SSH_server_to_S3_bucket.svg)](https://dev.to/aws-builders/move-files-from-ssh-server-to-s3-bucket-18pf)
+[![How to become a software developer (Seriously)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_become_a_software_developer_(Seriously).svg)](https://dev.to/heybaldur/how-to-become-a-software-developer-seriously-1dg5)
+[![Allow access to REST API Gateway from specific IP addresses | Whitelist IPs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Allow_access_to_REST_API_Gateway_from_specific_IP_addresses___Whitelist_IPs.svg)](https://dev.to/aws-builders/allow-access-to-rest-api-gateway-from-specific-ip-addresses-whitelist-ips-l30)
+[![KNN (K-nearest neighbors) Classification](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/KNN_(K-nearest_neighbors)_Classification.svg)](https://dev.to/anurag629/knn-k-nearest-neighbors-classification-4ha1)
+[![7 Simple Strategies to Increase your Productivity as a Developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/7_Simple_Strategies_to_Increase_your_Productivity_as_a_Developer.svg)](https://dev.to/onlydevs_/7-simple-strategies-to-increase-your-productivity-as-a-developer-46b3)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, January 31, 2023 at 11:12:20 PM
+> Last updated: Wednesday, February 1, 2023 at 5:18:18 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, January 31, 2023 at 11:12:23 PM
+> Last updated: Wednesday, February 1, 2023 at 5:18:23 AM
 
 > Showing 5 of 30 posts.
 
+[![Using Apache ECharts in React Native](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_Apache_ECharts_in_React_Native.svg)](https://medium.com/@chenzhiqing/using-apache-echarts-in-react-native-55c6d555ac03)
+[![Free Resources To Become a Job Ready React Developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Free_Resources_To_Become_a_Job_Ready_React_Developer.svg)](https://dev.to/onlydevs_/free-resources-to-become-a-job-ready-react-developer-2667)
+[![Revisiting alternatives to Heroku, Vercel Edition - eddywashere.com](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Revisiting_alternatives_to_Heroku__Vercel_Edition_-_eddywashere.com.svg)](https://eddywashere.com/blog/revisiting-alternatives-to-heroku-vercel-edition/)
 [![How to Load Chart.js from CDNs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Load_Chart.js_from_CDNs.svg)](
 https://masteringjs.io/tutorials/chartjs/cdn
 )
 [![GitHub - umutyesildal/yesildal.me-personal-portfolio: A lightweight, customizable and responsive single-page personal portfolio website, created by using Reactjs and Nextjs.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_umutyesildal_yesildal.me-personal-portfolio__A_lightweight__customizable_and_responsive_single-page_personal_portfolio_website__created_by_using_Reactjs_and_Nextjs..svg)](https://github.com/umutyesildal/yesildal.me-personal-portfolio)
-[![GitHub - karaxuna/meerkat: Library to simplify working with mongodb aggregation framework.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_karaxuna_meerkat__Library_to_simplify_working_with_mongodb_aggregation_framework..svg)](https://github.com/karaxuna/meerkat)
-[![Server side Rendering with Module-Federation ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Server_side_Rendering_with_Module-Federation_.svg)](https://microfrontends.substack.com/p/server-side-rendering-with-module)
-[![API with NestJS #93. Deploying a NestJS app with Amazon ECS and RDS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__93._Deploying_a_NestJS_app_with_Amazon_ECS_and_RDS.svg)](https://wanago.io/2023/01/30/api-nestjs-amazon-aws-ecs-rds-ec2/)
 
 
 <!-- post-list:end -->
