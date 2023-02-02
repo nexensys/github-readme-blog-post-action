@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, February 1, 2023 at 11:11:11 AM
+> Last updated: Wednesday, February 1, 2023 at 5:48:37 PM
 
 > Showing 5 of 12 posts.
 
-[![What is AWS EKS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_AWS_EKS.svg)](https://dev.to/roy8/what-is-aws-eks-2df9)
-[![Pagination ReactJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Pagination_ReactJS.svg)](https://dev.to/cleveroscar/pagination-reactjs-1ne)
-[![No AI Needed! 7 Proven Time-Saving Apps and tools To Turn Every Front-End Developer & Designer into a Design Ninja 🎨🥷🏽! Part One](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/No_AI_Needed!_7_Proven_Time-Saving_Apps_and_tools_To_Turn_Every_Front-End_Developer___Designer_into_a_Design_Ninja_🎨🥷🏽!_Part_One.svg)](https://dev.to/ramziosta/no-ai-needed-7-proven-time-saving-apps-and-tools-to-turn-every-front-end-developer-designer-into-a-design-ninja-part-one-5fai)
-[![Building a software bill of materials (SBOM) using open source tools](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Building_a_software_bill_of_materials_(SBOM)_using_open_source_tools.svg)](https://dev.to/aws/building-a-software-bill-of-materials-sbom-using-open-source-tools-2a6j)
-[![How to install Remix with Flowbite and Tailwind CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_install_Remix_with_Flowbite_and_Tailwind_CSS.svg)](https://dev.to/themesberg/how-to-install-remix-with-flowbite-and-tailwind-css-49b3)
+[![Asset Pipeline JS Migration](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Asset_Pipeline_JS_Migration.svg)](https://dev.to/devteam/asset-pipeline-js-migration-48ki)
+[![How to remove unwanted files in a commit but still keep it locally](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_remove_unwanted_files_in_a_commit_but_still_keep_it_locally.svg)](https://dev.to/elukuro/how-to-remove-unwanted-files-in-a-commit-but-still-keep-it-locally-2nh)
+[![🚀 5 Advanced ES6 Features Every JavaScript Developer Should Master](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/🚀_5_Advanced_ES6_Features_Every_JavaScript_Developer_Should_Master.svg)](https://dev.to/naubit/5-advanced-es6-features-every-javascript-developer-should-master-3mkn)
+[![How to create a beating heart with pure CSS for your valentine ♥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_create_a_beating_heart_with_pure_CSS_for_your_valentine_♥.svg)](https://dev.to/dimeloper/how-to-create-a-beating-heart-with-pure-css-for-your-valentine-4pe6)
+[![🚀 20 Engineering Blogs from Product companies (Meta, Uber, Stripe)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/🚀_20_Engineering_Blogs_from_Product_companies_(Meta__Uber__Stripe).svg)](https://dev.to/alexr/20-engineering-blogs-from-product-companies-meta-uber-stripe-1lck)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, February 1, 2023 at 11:11:13 AM
+> Last updated: Wednesday, February 1, 2023 at 5:48:40 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, February 1, 2023 at 11:11:17 AM
+> Last updated: Wednesday, February 1, 2023 at 5:48:44 PM
 
 > Showing 5 of 30 posts.
 
+[![Best JS rich text editors for 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Best_JS_rich_text_editors_for_2023.svg)](https://vrite.io/blog/best-js-rich-text-editors-for-2023/)
 [![How I Made My App 2.4x Faster Switching to Svelte](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_I_Made_My_App_2.4x_Faster_Switching_to_Svelte.svg)](https://blog.flotes.app/posts/flotes-2x-faster)
 [![Using Vite to Serve and Hot-Reload React App & Express API Together](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_Vite_to_Serve_and_Hot-Reload_React_App___Express_API_Together.svg)](https://noam.hashnode.dev/using-vite-to-serve-and-hot-reload-react-app-express-api-together)
 [![Using Apache ECharts in React Native](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_Apache_ECharts_in_React_Native.svg)](https://medium.com/@chenzhiqing/using-apache-echarts-in-react-native-55c6d555ac03)
 [![Free Resources To Become a Job Ready React Developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Free_Resources_To_Become_a_Job_Ready_React_Developer.svg)](https://dev.to/onlydevs_/free-resources-to-become-a-job-ready-react-developer-2667)
-[![Revisiting alternatives to Heroku, Vercel Edition](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Revisiting_alternatives_to_Heroku__Vercel_Edition.svg)](https://eddywashere.com/blog/revisiting-alternatives-to-heroku-vercel-edition/)
 
 
 <!-- post-list:end -->
