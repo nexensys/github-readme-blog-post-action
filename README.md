@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, February 2, 2023 at 5:18:28 AM
+> Last updated: Thursday, February 2, 2023 at 11:11:24 AM
 
 > Showing 5 of 12 posts.
 
-[![Stop being scared of InjectionTokens](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Stop_being_scared_of_InjectionTokens.svg)](https://dev.to/this-is-angular/stop-being-scared-of-injectiontokens-2406)
-[![how to fix the “command not found” error](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/how_to_fix_the_“command_not_found”_error.svg)](https://dev.to/howtouselinux/how-to-fix-the-command-not-found-error-43nb)
-[![The Sass Blueprint](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Sass_Blueprint.svg)](https://dev.to/anujnegi_/the-sass-blueprint-4hb5)
-[![1Password CLI, AWS and Terraform](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/1Password_CLI__AWS_and_Terraform.svg)](https://dev.to/johnmccuk/1password-cli-aws-and-terraform-5g30)
-[![Understanding the Spread Operator(...) in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Understanding_the_Spread_Operator(...)_in_JavaScript.svg)](https://dev.to/brandonbawe/understanding-the-spread-operator-in-javascript-4pg6)
+[![Introducing Avatarify AI: the AI-powered profile photo generator](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Introducing_Avatarify_AI__the_AI-powered_profile_photo_generator.svg)](https://dev.to/epavanello/introducing-avatarify-ai-the-ai-powered-profile-photo-generator-4j73)
+[![Created A AI-Powered Solution For E-commerce Products](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Created_A_AI-Powered_Solution_For_E-commerce_Products.svg)](https://dev.to/namanvyas/created-a-ai-powered-solution-for-e-commerce-products-19j)
+[![¿Qué tanto sabemos de Agile? Conceptos claves y el porqué funcionan.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/¿Qué_tanto_sabemos_de_Agile__Conceptos_claves_y_el_porqué_funcionan..svg)](https://dev.to/rootstrap/que-tanto-sabemos-de-agile-conceptos-claves-y-el-porque-funcionan-199c)
+[![HarperDB: Staking a Claim as the Only Globally Distributed Edge Data Platform](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/HarperDB__Staking_a_Claim_as_the_Only_Globally_Distributed_Edge_Data_Platform.svg)](https://dev.to/harperdb/harperdb-staking-a-claim-as-the-only-globally-distributed-edge-data-platform-44a2)
+[![24 Inspiring Shopify Examples to Get You Excited in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/24_Inspiring_Shopify_Examples_to_Get_You_Excited_in_2023.svg)](https://dev.to/dsalinasgardon/24-inspiring-shopify-examples-to-get-you-excited-in-2023-251a)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, February 2, 2023 at 5:18:32 AM
+> Last updated: Thursday, February 2, 2023 at 11:11:28 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, February 2, 2023 at 5:18:35 AM
+> Last updated: Thursday, February 2, 2023 at 11:11:31 AM
 
 > Showing 5 of 30 posts.
 
+[![Cancel Duplicate Fetch Requests in JavaScript Enhanced Forms](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Cancel_Duplicate_Fetch_Requests_in_JavaScript_Enhanced_Forms.svg)](https://austingil.com/cancel-duplicate-fetch-requests-in-javascript-enhanced-forms/)
 [![Best JS rich text editors for 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Best_JS_rich_text_editors_for_2023.svg)](https://vrite.io/blog/best-js-rich-text-editors-for-2023/)
 [![How I Made My App 2.4x Faster Switching to Svelte](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_I_Made_My_App_2.4x_Faster_Switching_to_Svelte.svg)](https://blog.flotes.app/posts/flotes-2x-faster)
 [![Using Vite to Serve and Hot-Reload React App & Express API Together](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_Vite_to_Serve_and_Hot-Reload_React_App___Express_API_Together.svg)](https://noam.hashnode.dev/using-vite-to-serve-and-hot-reload-react-app-express-api-together)
 [![Using Apache ECharts in React Native](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_Apache_ECharts_in_React_Native.svg)](https://medium.com/@chenzhiqing/using-apache-echarts-in-react-native-55c6d555ac03)
-[![Free Resources To Become a Job Ready React Developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Free_Resources_To_Become_a_Job_Ready_React_Developer.svg)](https://dev.to/onlydevs_/free-resources-to-become-a-job-ready-react-developer-2667)
 
 
 <!-- post-list:end -->
