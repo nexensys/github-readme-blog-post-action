@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, February 2, 2023 at 11:11:24 AM
+> Last updated: Monday, February 6, 2023 at 11:11:06 AM
 
 > Showing 5 of 12 posts.
 
-[![Introducing Avatarify AI: the AI-powered profile photo generator](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Introducing_Avatarify_AI__the_AI-powered_profile_photo_generator.svg)](https://dev.to/epavanello/introducing-avatarify-ai-the-ai-powered-profile-photo-generator-4j73)
-[![Created A AI-Powered Solution For E-commerce Products](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Created_A_AI-Powered_Solution_For_E-commerce_Products.svg)](https://dev.to/namanvyas/created-a-ai-powered-solution-for-e-commerce-products-19j)
-[![¿Qué tanto sabemos de Agile? Conceptos claves y el porqué funcionan.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/¿Qué_tanto_sabemos_de_Agile__Conceptos_claves_y_el_porqué_funcionan..svg)](https://dev.to/rootstrap/que-tanto-sabemos-de-agile-conceptos-claves-y-el-porque-funcionan-199c)
-[![HarperDB: Staking a Claim as the Only Globally Distributed Edge Data Platform](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/HarperDB__Staking_a_Claim_as_the_Only_Globally_Distributed_Edge_Data_Platform.svg)](https://dev.to/harperdb/harperdb-staking-a-claim-as-the-only-globally-distributed-edge-data-platform-44a2)
-[![24 Inspiring Shopify Examples to Get You Excited in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/24_Inspiring_Shopify_Examples_to_Get_You_Excited_in_2023.svg)](https://dev.to/dsalinasgardon/24-inspiring-shopify-examples-to-get-you-excited-in-2023-251a)
+[![Hdjdhdjfh](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Hdjdhdjfh.svg)](https://dev.to/gejegdjdgdhdg/hdjdhdjfh-5bdo)
+[![Design Thinking - Low Vs Pro Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Design_Thinking_-_Low_Vs_Pro_Code.svg)](https://dev.to/balagmadhu/design-thinking-low-vs-pro-code-400a)
+[![How To Name Your Branches - The Method I Use...](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_To_Name_Your_Branches_-_The_Method_I_Use....svg)](https://dev.to/yosileyid/how-to-name-your-branches-the-method-i-use-2cl4)
+[![How to use content collection in Astro.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_use_content_collection_in_Astro..svg)](https://dev.to/obinnaspeaks/how-to-use-content-collection-in-astro-43j2)
+[![What is Vue?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_Vue_.svg)](https://dev.to/flatlogic/what-is-vue-456g)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, February 2, 2023 at 11:11:28 AM
+> Last updated: Monday, February 6, 2023 at 11:11:09 AM
 
 > Showing 4 of 4 posts.
 
+[![Ways to remove event listeners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Ways_to_remove_event_listeners.svg)](https://javascriptweekly.com/issues/624)
 [![Astro 2.0 and TypeScript 5.0 beta](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Astro_2.0_and_TypeScript_5.0_beta.svg)](https://javascriptweekly.com/issues/623)
 [![Why document.write() is bad](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Why_document.write()_is_bad.svg)](https://javascriptweekly.com/issues/622)
 [![Java-Script Jarre](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Java-Script_Jarre.svg)](https://javascriptweekly.com/issues/621)
-[![Looking at both 2022 and 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Looking_at_both_2022_and_2023.svg)](https://javascriptweekly.com/issues/620)
 
 
 ## Echo JS
@@ -43,15 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, February 2, 2023 at 11:11:31 AM
+> Last updated: Monday, February 6, 2023 at 11:11:14 AM
 
 > Showing 5 of 30 posts.
 
-[![Cancel Duplicate Fetch Requests in JavaScript Enhanced Forms](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Cancel_Duplicate_Fetch_Requests_in_JavaScript_Enhanced_Forms.svg)](https://austingil.com/cancel-duplicate-fetch-requests-in-javascript-enhanced-forms/)
-[![Best JS rich text editors for 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Best_JS_rich_text_editors_for_2023.svg)](https://vrite.io/blog/best-js-rich-text-editors-for-2023/)
-[![How I Made My App 2.4x Faster Switching to Svelte](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_I_Made_My_App_2.4x_Faster_Switching_to_Svelte.svg)](https://blog.flotes.app/posts/flotes-2x-faster)
-[![Using Vite to Serve and Hot-Reload React App & Express API Together](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_Vite_to_Serve_and_Hot-Reload_React_App___Express_API_Together.svg)](https://noam.hashnode.dev/using-vite-to-serve-and-hot-reload-react-app-express-api-together)
-[![Using Apache ECharts in React Native](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_Apache_ECharts_in_React_Native.svg)](https://medium.com/@chenzhiqing/using-apache-echarts-in-react-native-55c6d555ac03)
+[![Adding real-time full-text search to a Next.js app with Tigris | Tigris](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Adding_real-time_full-text_search_to_a_Next.js_app_with_Tigris___Tigris.svg)](https://www.tigrisdata.com/blog/adding-real-time-full-text-search-to-a-next.js-app-with-tigris/)
+[![GitHub - flashohq/open-source-Django-courses](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_flashohq_open-source-Django-courses.svg)](https://github.com/flashohq/open-source-Django-courses)
+[![API with NestJS #94. Deploying multiple instances on AWS with a load balancer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__94._Deploying_multiple_instances_on_AWS_with_a_load_balancer.svg)](https://wanago.io/2023/02/06/api-nestjs-aws-load-balancer/)
+[![How to change Gatsby Cloud node version?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_change_Gatsby_Cloud_node_version_.svg)](
+https://frontendroom.com/change-gatsby-cloud-node-version/
+)
+[![How to access ref from the different components in react](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_access_ref_from_the_different_components_in_react.svg)](
+https://frontendroom.com/access-ref-from-different-component/
+)
 
 
 <!-- post-list:end -->
