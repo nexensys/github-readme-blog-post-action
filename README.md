@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, February 7, 2023 at 5:17:19 AM
+> Last updated: Tuesday, February 7, 2023 at 11:11:11 AM
 
 > Showing 5 of 12 posts.
 
-[![Centroid-based Clustering: A Powerful Machine Learning Technique for Partitioning Datasets](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Centroid-based_Clustering__A_Powerful_Machine_Learning_Technique_for_Partitioning_Datasets.svg)](https://dev.to/anurag629/centroid-based-clustering-a-powerful-machine-learning-technique-for-partitioning-datasets-41im)
-[![Deno vs NodeJs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Deno_vs_NodeJs.svg)](https://dev.to/hshoja/deno-vs-nodejs-hb3)
-[![React TypeScript Basics](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/React_TypeScript_Basics.svg)](https://dev.to/polaroidkidd/react-typescript-basics-23em)
-[![Ultimate Guide To Hire Flutter Developers For Your Project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Ultimate_Guide_To_Hire_Flutter_Developers_For_Your_Project.svg)](https://dev.to/quokkalabs/ultimate-guide-to-hire-flutter-developers-for-your-project-5c2b)
-[![How pair programming can change your coding experience](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_pair_programming_can_change_your_coding_experience.svg)](https://dev.to/crispitipina/how-pair-programming-can-change-your-coding-experience-jnh)
+[![Host Your Own Online Shop with Django-Oscar & PyCharm](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Host_Your_Own_Online_Shop_with_Django-Oscar___PyCharm.svg)](https://dev.to/appmap/host-your-own-online-shop-with-django-oscar-pycharm-3m37)
+[![Web Agency Design - Free Bootstrap 5 Template](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Web_Agency_Design_-_Free_Bootstrap_5_Template.svg)](https://dev.to/sm0ke/web-agency-design-free-bootstrap-5-template-4a8n)
+[![What are you Missing by Debugging in VS Code?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_are_you_Missing_by_Debugging_in_VS_Code_.svg)](https://dev.to/codenameone/what-are-you-missing-by-debugging-in-vs-code-alb)
+[![SwiftUI & ChatGPT. The world is changing. Again.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/SwiftUI___ChatGPT._The_world_is_changing._Again..svg)](https://dev.to/sergeyleschev/swiftui-chatgpt-the-world-is-changing-again-4ja3)
+[![Cancel Duplicate Fetch Requests in JavaScript Enhanced Forms](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Cancel_Duplicate_Fetch_Requests_in_JavaScript_Enhanced_Forms.svg)](https://dev.to/austingil/cancel-duplicate-fetch-requests-in-javascript-enhanced-forms-23hp)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, February 7, 2023 at 5:17:22 AM
+> Last updated: Tuesday, February 7, 2023 at 11:11:14 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, February 7, 2023 at 5:17:25 AM
+> Last updated: Tuesday, February 7, 2023 at 11:11:18 AM
 
 > Showing 5 of 30 posts.
 
