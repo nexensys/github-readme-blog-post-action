@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, February 6, 2023 at 11:11:06 AM
+> Last updated: Monday, February 6, 2023 at 5:48:14 PM
 
 > Showing 5 of 12 posts.
 
-[![Hdjdhdjfh](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Hdjdhdjfh.svg)](https://dev.to/gejegdjdgdhdg/hdjdhdjfh-5bdo)
-[![Design Thinking - Low Vs Pro Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Design_Thinking_-_Low_Vs_Pro_Code.svg)](https://dev.to/balagmadhu/design-thinking-low-vs-pro-code-400a)
-[![How To Name Your Branches - The Method I Use...](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_To_Name_Your_Branches_-_The_Method_I_Use....svg)](https://dev.to/yosileyid/how-to-name-your-branches-the-method-i-use-2cl4)
-[![How to use content collection in Astro.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_use_content_collection_in_Astro..svg)](https://dev.to/obinnaspeaks/how-to-use-content-collection-in-astro-43j2)
-[![What is Vue?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_Vue_.svg)](https://dev.to/flatlogic/what-is-vue-456g)
+[![SvelteKit vs. Next.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/SvelteKit_vs._Next.js.svg)](https://dev.to/cloudcannon/sveltekit-vs-nextjs-542i)
+[![v-show vs v-if: Conditional Rendering in Vue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/v-show_vs_v-if__Conditional_Rendering_in_Vue.svg)](https://dev.to/smpnjn/v-show-vs-v-if-conditional-rendering-in-vue-39ji)
+[![Events, events, events](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Events__events__events.svg)](https://dev.to/katafrakt/events-events-events-7j5)
+[![STM32F4 Embedded Rust at the PAC: svd2rust](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/STM32F4_Embedded_Rust_at_the_PAC__svd2rust.svg)](https://dev.to/apollolabsbin/stm32f4-embedded-rust-at-the-pac-svd2rust-457d)
+[![Authentication and Authorization in a Node API using Fastify, tRPC and Supertokens](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Authentication_and_Authorization_in_a_Node_API_using_Fastify__tRPC_and_Supertokens.svg)](https://dev.to/franciscomendes10866/authentication-and-authorization-in-a-node-api-using-fastify-trpc-and-supertokens-3cgn)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, February 6, 2023 at 11:11:09 AM
+> Last updated: Monday, February 6, 2023 at 5:48:17 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,18 +43,16 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, February 6, 2023 at 11:11:14 AM
+> Last updated: Monday, February 6, 2023 at 5:48:22 PM
 
 > Showing 5 of 30 posts.
 
+[![Separation of concerns slows you down](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Separation_of_concerns_slows_you_down.svg)](https://vrite.io/blog/separation-of-concerns-slows-you-down/)
 [![Adding real-time full-text search to a Next.js app with Tigris | Tigris](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Adding_real-time_full-text_search_to_a_Next.js_app_with_Tigris___Tigris.svg)](https://www.tigrisdata.com/blog/adding-real-time-full-text-search-to-a-next.js-app-with-tigris/)
 [![GitHub - flashohq/open-source-Django-courses](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_flashohq_open-source-Django-courses.svg)](https://github.com/flashohq/open-source-Django-courses)
 [![API with NestJS #94. Deploying multiple instances on AWS with a load balancer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__94._Deploying_multiple_instances_on_AWS_with_a_load_balancer.svg)](https://wanago.io/2023/02/06/api-nestjs-aws-load-balancer/)
 [![How to change Gatsby Cloud node version?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_change_Gatsby_Cloud_node_version_.svg)](
 https://frontendroom.com/change-gatsby-cloud-node-version/
-)
-[![How to access ref from the different components in react](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_access_ref_from_the_different_components_in_react.svg)](
-https://frontendroom.com/access-ref-from-different-component/
 )
 
 
