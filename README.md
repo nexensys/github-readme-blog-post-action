@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, February 6, 2023 at 11:11:31 PM
+> Last updated: Tuesday, February 7, 2023 at 5:17:19 AM
 
 > Showing 5 of 12 posts.
 
-[![Sometimes I Feel Like I'm Invisible - Experiences of a Woman in Tech](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Sometimes_I_Feel_Like_I'm_Invisible_-_Experiences_of_a_Woman_in_Tech.svg)](https://dev.to/eevajonnapanula/sometimes-i-feel-like-im-invisible-experiences-of-a-woman-in-tech-3glb)
-[![How to download Youtube Music and Videos with Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_download_Youtube_Music_and_Videos_with_Python.svg)](https://dev.to/shittu_olumide_/how-to-download-youtube-music-and-videos-with-python-37k5)
-[![CLI Client for ReductStore v0.6.0 has been released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/CLI_Client_for_ReductStore_v0.6.0_has_been_released.svg)](https://dev.to/reductstore/cli-client-for-reductstore-v060-has-been-released-3kfd)
-[![Zero Assumption's Proxy Architecture](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Zero_Assumption's_Proxy_Architecture.svg)](https://dev.to/zeroassumptions/zero-assumptions-proxy-architecture-8ok)
-[![Creating Swagger Specs Document - Part 3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Creating_Swagger_Specs_Document_-_Part_3.svg)](https://dev.to/alcb1310/creating-swagger-specs-document-part-3-1jhg)
+[![Centroid-based Clustering: A Powerful Machine Learning Technique for Partitioning Datasets](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Centroid-based_Clustering__A_Powerful_Machine_Learning_Technique_for_Partitioning_Datasets.svg)](https://dev.to/anurag629/centroid-based-clustering-a-powerful-machine-learning-technique-for-partitioning-datasets-41im)
+[![Deno vs NodeJs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Deno_vs_NodeJs.svg)](https://dev.to/hshoja/deno-vs-nodejs-hb3)
+[![React TypeScript Basics](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/React_TypeScript_Basics.svg)](https://dev.to/polaroidkidd/react-typescript-basics-23em)
+[![Ultimate Guide To Hire Flutter Developers For Your Project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Ultimate_Guide_To_Hire_Flutter_Developers_For_Your_Project.svg)](https://dev.to/quokkalabs/ultimate-guide-to-hire-flutter-developers-for-your-project-5c2b)
+[![How pair programming can change your coding experience](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_pair_programming_can_change_your_coding_experience.svg)](https://dev.to/crispitipina/how-pair-programming-can-change-your-coding-experience-jnh)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, February 6, 2023 at 11:11:33 PM
+> Last updated: Tuesday, February 7, 2023 at 5:17:22 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, February 6, 2023 at 11:11:37 PM
+> Last updated: Tuesday, February 7, 2023 at 5:17:25 AM
 
 > Showing 5 of 30 posts.
 
+[![Write Atomic CSS like Facebook with Stylify | Stylify CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Write_Atomic_CSS_like_Facebook_with_Stylify___Stylify_CSS.svg)](https://stylifycss.com/blog/write-css-like-facebook)
+[![
+How to Build a GPT-Powered Customer Support Bot for Discord with Node.js in 30 minutes
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_How_to_Build_a_GPT-Powered_Customer_Support_Bot_for_Discord_with_Node.js_in_30_minutes_.svg)](
+https://stdlib.com/guides/how-to-build-a-gpt-support-discord-bot/
+)
 [![Separation of concerns slows you down](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Separation_of_concerns_slows_you_down.svg)](https://vrite.io/blog/separation-of-concerns-slows-you-down/)
 [![Adding real-time full-text search to a Next.js app with Tigris | Tigris](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Adding_real-time_full-text_search_to_a_Next.js_app_with_Tigris___Tigris.svg)](https://www.tigrisdata.com/blog/adding-real-time-full-text-search-to-a-next.js-app-with-tigris/)
 [![GitHub - flashohq/open-source-Django-courses](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_flashohq_open-source-Django-courses.svg)](https://github.com/flashohq/open-source-Django-courses)
-[![API with NestJS #94. Deploying multiple instances on AWS with a load balancer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__94._Deploying_multiple_instances_on_AWS_with_a_load_balancer.svg)](https://wanago.io/2023/02/06/api-nestjs-aws-load-balancer/)
-[![How to change Gatsby Cloud node version?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_change_Gatsby_Cloud_node_version_.svg)](
-https://frontendroom.com/change-gatsby-cloud-node-version/
-)
 
 
 <!-- post-list:end -->
