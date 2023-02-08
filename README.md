@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, February 7, 2023 at 11:11:11 AM
+> Last updated: Tuesday, February 7, 2023 at 5:50:07 PM
 
 > Showing 5 of 12 posts.
 
-[![Host Your Own Online Shop with Django-Oscar & PyCharm](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Host_Your_Own_Online_Shop_with_Django-Oscar___PyCharm.svg)](https://dev.to/appmap/host-your-own-online-shop-with-django-oscar-pycharm-3m37)
-[![Web Agency Design - Free Bootstrap 5 Template](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Web_Agency_Design_-_Free_Bootstrap_5_Template.svg)](https://dev.to/sm0ke/web-agency-design-free-bootstrap-5-template-4a8n)
-[![What are you Missing by Debugging in VS Code?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_are_you_Missing_by_Debugging_in_VS_Code_.svg)](https://dev.to/codenameone/what-are-you-missing-by-debugging-in-vs-code-alb)
-[![SwiftUI & ChatGPT. The world is changing. Again.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/SwiftUI___ChatGPT._The_world_is_changing._Again..svg)](https://dev.to/sergeyleschev/swiftui-chatgpt-the-world-is-changing-again-4ja3)
-[![Cancel Duplicate Fetch Requests in JavaScript Enhanced Forms](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Cancel_Duplicate_Fetch_Requests_in_JavaScript_Enhanced_Forms.svg)](https://dev.to/austingil/cancel-duplicate-fetch-requests-in-javascript-enhanced-forms-23hp)
+[![Code Smell 195 - Yoda Conditions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Code_Smell_195_-_Yoda_Conditions.svg)](https://dev.to/mcsee/code-smell-195-yoda-conditions-1mgl)
+[![RubyConf 2022 Talk Video for Building Native GUI Apps in Ruby](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/RubyConf_2022_Talk_Video_for_Building_Native_GUI_Apps_in_Ruby.svg)](https://dev.to/andyobtiva/rubyconf-2022-talk-video-for-building-native-gui-apps-in-ruby-5dp)
+[![Is Java Still Relevant in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Is_Java_Still_Relevant_in_2023.svg)](https://dev.to/amigoscode/is-java-still-relevant-in-2023-3453)
+[![#DEVDiscuss: Golden Handcuffs 💰](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/_DEVDiscuss__Golden_Handcuffs_💰.svg)](https://dev.to/devteam/devdiscuss-golden-handcuffs-4n67)
+[![Creating sites, the Jamstack way](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Creating_sites__the_Jamstack_way.svg)](https://dev.to/cloudcannon/creating-sites-the-jamstack-way-cda)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, February 7, 2023 at 11:11:14 AM
+> Last updated: Tuesday, February 7, 2023 at 5:50:10 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,13 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, February 7, 2023 at 11:11:18 AM
+> Last updated: Tuesday, February 7, 2023 at 5:50:13 PM
 
 > Showing 5 of 30 posts.
 
+[![How to Add 2 Arrays Together in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Add_2_Arrays_Together_in_JavaScript.svg)](
+https://masteringjs.io/tutorials/fundamentals/add-arrays
+)
 [![Write Atomic CSS like Facebook with Stylify | Stylify CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Write_Atomic_CSS_like_Facebook_with_Stylify___Stylify_CSS.svg)](https://stylifycss.com/blog/write-css-like-facebook)
 [![
 How to Build a GPT-Powered Customer Support Bot for Discord with Node.js in 30 minutes
@@ -55,7 +58,6 @@ https://stdlib.com/guides/how-to-build-a-gpt-support-discord-bot/
 )
 [![Separation of concerns slows you down](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Separation_of_concerns_slows_you_down.svg)](https://vrite.io/blog/separation-of-concerns-slows-you-down/)
 [![Adding real-time full-text search to a Next.js app with Tigris | Tigris](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Adding_real-time_full-text_search_to_a_Next.js_app_with_Tigris___Tigris.svg)](https://www.tigrisdata.com/blog/adding-real-time-full-text-search-to-a-next.js-app-with-tigris/)
-[![GitHub - flashohq/open-source-Django-courses](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_flashohq_open-source-Django-courses.svg)](https://github.com/flashohq/open-source-Django-courses)
 
 
 <!-- post-list:end -->
