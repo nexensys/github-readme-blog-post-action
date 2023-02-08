@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, February 7, 2023 at 5:50:07 PM
+> Last updated: Tuesday, February 7, 2023 at 11:12:24 PM
 
 > Showing 5 of 12 posts.
 
-[![Code Smell 195 - Yoda Conditions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Code_Smell_195_-_Yoda_Conditions.svg)](https://dev.to/mcsee/code-smell-195-yoda-conditions-1mgl)
-[![RubyConf 2022 Talk Video for Building Native GUI Apps in Ruby](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/RubyConf_2022_Talk_Video_for_Building_Native_GUI_Apps_in_Ruby.svg)](https://dev.to/andyobtiva/rubyconf-2022-talk-video-for-building-native-gui-apps-in-ruby-5dp)
-[![Is Java Still Relevant in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Is_Java_Still_Relevant_in_2023.svg)](https://dev.to/amigoscode/is-java-still-relevant-in-2023-3453)
-[![#DEVDiscuss: Golden Handcuffs 💰](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/_DEVDiscuss__Golden_Handcuffs_💰.svg)](https://dev.to/devteam/devdiscuss-golden-handcuffs-4n67)
-[![Creating sites, the Jamstack way](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Creating_sites__the_Jamstack_way.svg)](https://dev.to/cloudcannon/creating-sites-the-jamstack-way-cda)
+[![Fixing Corrupted DOCX Files with PowerShell: A Step-by-Step Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Fixing_Corrupted_DOCX_Files_with_PowerShell__A_Step-by-Step_Guide.svg)](https://dev.to/ademking/fixing-corrupted-docx-files-with-powershell-a-step-by-step-guide-bic)
+[![Build a Killer Job Portal Website Using JobPilot Laravel Script](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_a_Killer_Job_Portal_Website_Using_JobPilot_Laravel_Script.svg)](https://dev.to/hosainmihad/build-a-killer-job-portal-website-using-jobpilot-script-e19)
+[![Why Push Notifications Are On The Rise & What To Do About It](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Why_Push_Notifications_Are_On_The_Rise___What_To_Do_About_It.svg)](https://dev.to/betty1999kamanthe/why-push-notifications-are-on-the-rise-what-to-do-about-it-5079)
+[![Top 5 Free and Open Source Resume Builders](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_5_Free_and_Open_Source_Resume_Builders.svg)](https://dev.to/opendataanalytics/top-5-free-and-open-source-resume-builders-acj)
+[![Top 10 Netlify Alternatives for Deploying Your Website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_10_Netlify_Alternatives_for_Deploying_Your_Website.svg)](https://dev.to/opendataanalytics/top-10-netlify-alternatives-for-deploying-your-website-2ihk)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, February 7, 2023 at 5:50:10 PM
+> Last updated: Tuesday, February 7, 2023 at 11:12:27 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, February 7, 2023 at 5:50:13 PM
+> Last updated: Tuesday, February 7, 2023 at 11:12:30 PM
 
 > Showing 5 of 30 posts.
 
