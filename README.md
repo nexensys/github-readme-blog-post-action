@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, February 7, 2023 at 11:12:24 PM
+> Last updated: Wednesday, February 8, 2023 at 5:17:14 AM
 
 > Showing 5 of 12 posts.
 
-[![Fixing Corrupted DOCX Files with PowerShell: A Step-by-Step Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Fixing_Corrupted_DOCX_Files_with_PowerShell__A_Step-by-Step_Guide.svg)](https://dev.to/ademking/fixing-corrupted-docx-files-with-powershell-a-step-by-step-guide-bic)
-[![Build a Killer Job Portal Website Using JobPilot Laravel Script](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_a_Killer_Job_Portal_Website_Using_JobPilot_Laravel_Script.svg)](https://dev.to/hosainmihad/build-a-killer-job-portal-website-using-jobpilot-script-e19)
-[![Why Push Notifications Are On The Rise & What To Do About It](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Why_Push_Notifications_Are_On_The_Rise___What_To_Do_About_It.svg)](https://dev.to/betty1999kamanthe/why-push-notifications-are-on-the-rise-what-to-do-about-it-5079)
-[![Top 5 Free and Open Source Resume Builders](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_5_Free_and_Open_Source_Resume_Builders.svg)](https://dev.to/opendataanalytics/top-5-free-and-open-source-resume-builders-acj)
-[![Top 10 Netlify Alternatives for Deploying Your Website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_10_Netlify_Alternatives_for_Deploying_Your_Website.svg)](https://dev.to/opendataanalytics/top-10-netlify-alternatives-for-deploying-your-website-2ihk)
+[![Distributed Tracing with OpenTelemetry - Part II](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Distributed_Tracing_with_OpenTelemetry_-_Part_II.svg)](https://dev.to/signoz/distributed-tracing-with-opentelemetry-part-ii-3ieo)
+[![Comparing the best headless CMS solutions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Comparing_the_best_headless_CMS_solutions.svg)](https://dev.to/refine/comparing-the-best-headless-cms-solutions-59hf)
+[![Some Very Cool (Underrated maybe) React Libraries](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Some_Very_Cool_(Underrated_maybe)_React_Libraries.svg)](https://dev.to/darkxenium/some-very-cool-underrated-maybe-react-libraries-4do6)
+[![Use Maps more and Objects less](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Use_Maps_more_and_Objects_less.svg)](https://dev.to/builderio/use-maps-more-and-objects-less-2flk)
+[![Beginner's Guide to React Query](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Beginner's_Guide_to_React_Query.svg)](https://dev.to/iambilalriaz/beginners-guide-to-react-query-12c8)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, February 7, 2023 at 11:12:27 PM
+> Last updated: Wednesday, February 8, 2023 at 5:17:17 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,21 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, February 7, 2023 at 11:12:30 PM
+> Last updated: Wednesday, February 8, 2023 at 5:17:20 AM
 
 > Showing 5 of 30 posts.
 
+[![How to install ready mix concrete plant - 120 cbm per hour batch mixer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_install_ready_mix_concrete_plant_-_120_cbm_per_hour_batch_mixer.svg)](https://www.youtube.com/watch?v=Qss5VLQphc0)
+[![GitHub - rash0/Vue-Ecom: 🛍️ A Full Vue StoreFront Templet.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_rash0_Vue-Ecom__🛍️_A_Full_Vue_StoreFront_Templet..svg)](https://github.com/rash0/Vue-Ecom)
+[![Environment Variables in JavaScript: process.env](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Environment_Variables_in_JavaScript__process.env.svg)](https://dmitripavlutin.com/environment-variables-javascript/)
 [![How to Add 2 Arrays Together in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Add_2_Arrays_Together_in_JavaScript.svg)](
 https://masteringjs.io/tutorials/fundamentals/add-arrays
 )
 [![Write Atomic CSS like Facebook with Stylify | Stylify CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Write_Atomic_CSS_like_Facebook_with_Stylify___Stylify_CSS.svg)](https://stylifycss.com/blog/write-css-like-facebook)
-[![
-How to Build a GPT-Powered Customer Support Bot for Discord with Node.js in 30 minutes
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_How_to_Build_a_GPT-Powered_Customer_Support_Bot_for_Discord_with_Node.js_in_30_minutes_.svg)](
-https://stdlib.com/guides/how-to-build-a-gpt-support-discord-bot/
-)
-[![Separation of concerns slows you down](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Separation_of_concerns_slows_you_down.svg)](https://vrite.io/blog/separation-of-concerns-slows-you-down/)
-[![Adding real-time full-text search to a Next.js app with Tigris | Tigris](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Adding_real-time_full-text_search_to_a_Next.js_app_with_Tigris___Tigris.svg)](https://www.tigrisdata.com/blog/adding-real-time-full-text-search-to-a-next.js-app-with-tigris/)
 
 
 <!-- post-list:end -->
