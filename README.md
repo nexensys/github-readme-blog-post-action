@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, February 8, 2023 at 5:47:04 PM
+> Last updated: Wednesday, February 8, 2023 at 11:12:01 PM
 
 > Showing 5 of 12 posts.
 
+[![ANDROID APP SIGNING & ZIPALIGN](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/ANDROID_APP_SIGNING___ZIPALIGN.svg)](https://dev.to/teamliapp/android-app-signing-zipalign-5c98)
+[![FizzBuzz: the-problem 🧮](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/FizzBuzz__the-problem_🧮.svg)](https://dev.to/mathleite/fizzbuzz-the-problem-3n6f)
+[![Testing Angular routing components with RouterTestingHarness, provideLocationMocks, and provideRouter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Testing_Angular_routing_components_with_RouterTestingHarness__provideLocationMocks__and_provideRouter.svg)](https://dev.to/this-is-angular/testing-angular-routing-components-with-routertestingharness-providelocationmocks-and-providerouter-oi8)
 [![Free Online Storybook Conference 2023 ️‍🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Free_Online_Storybook_Conference_2023_️‍🔥.svg)](https://dev.to/frontendengineer/free-online-storybook-conference-2023-4eh0)
-[![Macro-Roni? AI-yi-yi!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Macro-Roni__AI-yi-yi!.svg)](https://dev.to/sidunn/macro-roni-ai-yi-yi-3fce)
-[![¡Ya somos 100 millones!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/¡Ya_somos_100_millones!.svg)](https://dev.to/github/ya-somos-100-millones-3ndb)
-[![How to Send Ethers Programmatically without Metamask](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Send_Ethers_Programmatically_without_Metamask.svg)](https://dev.to/daltonic/how-to-send-ethers-programmatically-without-metamask-32n9)
-[![Exploring the World of AI with John Smith, Senior Software Engineer at OpenAI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Exploring_the_World_of_AI_with_John_Smith__Senior_Software_Engineer_at_OpenAI.svg)](https://dev.to/cloudx/exploring-the-world-of-ai-with-john-smith-senior-software-engineer-at-openai-2l6d)
+[![How to create a Docker Image with Nginx from an EC2 Instance and Push to ECR Repository](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_create_a_Docker_Image_with_Nginx_from_an_EC2_Instance_and_Push_to_ECR_Repository.svg)](https://dev.to/aws-builders/how-to-create-a-docker-image-with-nginx-from-an-ec2-instance-and-push-to-ecr-repository-nkb)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, February 8, 2023 at 5:47:08 PM
+> Last updated: Wednesday, February 8, 2023 at 11:12:04 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, February 8, 2023 at 5:47:12 PM
+> Last updated: Wednesday, February 8, 2023 at 11:12:08 PM
 
 > Showing 5 of 30 posts.
 
