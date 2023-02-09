@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, February 9, 2023 at 5:17:53 AM
+> Last updated: Thursday, February 9, 2023 at 11:11:36 AM
 
 > Showing 5 of 12 posts.
 
-[![Bess Katramados – The Spouse of a Popular WWE wrestler](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Bess_Katramados_–_The_Spouse_of_a_Popular_WWE_wrestler.svg)](https://dev.to/ankitzestful7/bess-katramados-the-spouse-of-a-popular-wwe-wrestler-44j4)
-[![Docker vs Virtual Machines The Comparison You Need](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Docker_vs_Virtual_Machines_The_Comparison_You_Need.svg)](https://dev.to/bytehide/docker-vs-virtual-machines-the-comparison-you-need-4ai3)
-[![How To Make A Music Player Using HTML CSS And JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_To_Make_A_Music_Player_Using_HTML_CSS_And_JavaScript.svg)](https://dev.to/wirelessqna/how-to-make-a-music-player-using-html-css-and-javascript-4ab0)
-[![Azure Containers Services: Pricing and Feature Comparison](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Azure_Containers_Services__Pricing_and_Feature_Comparison.svg)](https://dev.to/castai/azure-containers-services-pricing-and-feature-comparison-3f3)
-[![Make your Angular NgRx reducers an eye candy 🍬 using this fantastic library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Make_your_Angular_NgRx_reducers_an_eye_candy_🍬_using_this_fantastic_library.svg)](https://dev.to/this-is-angular/make-your-angular-ngrx-reducers-an-eye-candy-using-this-fantastic-library-4b8c)
+[![What's new in SeaORM 0.11.0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What's_new_in_SeaORM_0.11.0.svg)](https://dev.to/seaql/whats-new-in-seaorm-0110-4k13)
+[![JavaScript tutorial series: Variables](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/JavaScript_tutorial_series__Variables.svg)](https://dev.to/fullstackjo/javascript-tutorial-series-variables-2nmd)
+[![pyaction 4.16.0 Released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/pyaction_4.16.0_Released.svg)](https://dev.to/cicirello/pyaction-4160-released-mac)
+[![Liman MYS üzerinde network-API ayağa kaldırma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Liman_MYS_üzerinde_network-API_ayağa_kaldırma.svg)](https://dev.to/aciklab/liman-mys-uzerinde-network-api-ayaga-kaldirma-4gbe)
+[![Build and Deploy NodeJS App On Kubernetes from Scratch](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_and_Deploy_NodeJS_App_On_Kubernetes_from_Scratch.svg)](https://dev.to/lovepreetsingh/build-nodejs-app-on-kubernetes-from-scratch-66g)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, February 9, 2023 at 5:17:56 AM
+> Last updated: Thursday, February 9, 2023 at 11:11:40 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, February 9, 2023 at 5:18:02 AM
+> Last updated: Thursday, February 9, 2023 at 11:11:46 AM
 
 > Showing 5 of 30 posts.
 
+[![The Future of CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Future_of_CSS.svg)](https://dev.to/codux/the-future-of-css-33kl)
+[![GitHub - arc53/DocsGPT: GPT-powered chat for documentation search & assistance.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_arc53_DocsGPT__GPT-powered_chat_for_documentation_search___assistance..svg)](https://github.com/arc53/DocsGPT)
+[![GitHub - webdiscus/html-bundler-webpack-plugin: The plugin handles HTML template as entry point, extracts CSS, JS, images from their sources loaded directly in HTML](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_webdiscus_html-bundler-webpack-plugin__The_plugin_handles_HTML_template_as_entry_point__extracts_CSS__JS__images_from_their_sources_loaded_directly_in_HTML.svg)](https://github.com/webdiscus/html-bundler-webpack-plugin)
 [![Struggling to Mock graphQL Data? Open Source apollo-mock-http to the Rescue.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Struggling_to_Mock_graphQL_Data__Open_Source_apollo-mock-http_to_the_Rescue..svg)](https://medium.com/intuit-engineering/struggling-to-mock-graphql-data-open-source-apollo-mock-http-to-the-rescue-aee86db9233a)
 [![About US - PR Power Engineers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/About_US_-_PR_Power_Engineers.svg)](https://www.prpowerengineers.com/about-us/)
-[![Consolidate alerts with Feeder](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Consolidate_alerts_with_Feeder.svg)](https://blog.niradler.com/consolidate-alerts-with-feeder)
-[![GitHub - getdozer/dozer: A  Plug and Play Data Cache that instantly gives you Blazing Fast gRPC and REST APIs.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_getdozer_dozer__A__Plug_and_Play_Data_Cache_that_instantly_gives_you_Blazing_Fast_gRPC_and_REST_APIs..svg)](https://github.com/getdozer/dozer)
-[![Independent Software Developer vs Fortune 500 Software Engineer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Independent_Software_Developer_vs_Fortune_500_Software_Engineer.svg)](https://blog.flotes.app/posts/independent-vs-company)
 
 
 <!-- post-list:end -->
