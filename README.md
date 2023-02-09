@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, February 8, 2023 at 11:12:01 PM
+> Last updated: Thursday, February 9, 2023 at 5:17:53 AM
 
 > Showing 5 of 12 posts.
 
-[![ANDROID APP SIGNING & ZIPALIGN](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/ANDROID_APP_SIGNING___ZIPALIGN.svg)](https://dev.to/teamliapp/android-app-signing-zipalign-5c98)
-[![FizzBuzz: the-problem 🧮](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/FizzBuzz__the-problem_🧮.svg)](https://dev.to/mathleite/fizzbuzz-the-problem-3n6f)
-[![Testing Angular routing components with RouterTestingHarness, provideLocationMocks, and provideRouter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Testing_Angular_routing_components_with_RouterTestingHarness__provideLocationMocks__and_provideRouter.svg)](https://dev.to/this-is-angular/testing-angular-routing-components-with-routertestingharness-providelocationmocks-and-providerouter-oi8)
-[![Free Online Storybook Conference 2023 ️‍🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Free_Online_Storybook_Conference_2023_️‍🔥.svg)](https://dev.to/frontendengineer/free-online-storybook-conference-2023-4eh0)
-[![How to create a Docker Image with Nginx from an EC2 Instance and Push to ECR Repository](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_create_a_Docker_Image_with_Nginx_from_an_EC2_Instance_and_Push_to_ECR_Repository.svg)](https://dev.to/aws-builders/how-to-create-a-docker-image-with-nginx-from-an-ec2-instance-and-push-to-ecr-repository-nkb)
+[![Bess Katramados – The Spouse of a Popular WWE wrestler](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Bess_Katramados_–_The_Spouse_of_a_Popular_WWE_wrestler.svg)](https://dev.to/ankitzestful7/bess-katramados-the-spouse-of-a-popular-wwe-wrestler-44j4)
+[![Docker vs Virtual Machines The Comparison You Need](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Docker_vs_Virtual_Machines_The_Comparison_You_Need.svg)](https://dev.to/bytehide/docker-vs-virtual-machines-the-comparison-you-need-4ai3)
+[![How To Make A Music Player Using HTML CSS And JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_To_Make_A_Music_Player_Using_HTML_CSS_And_JavaScript.svg)](https://dev.to/wirelessqna/how-to-make-a-music-player-using-html-css-and-javascript-4ab0)
+[![Azure Containers Services: Pricing and Feature Comparison](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Azure_Containers_Services__Pricing_and_Feature_Comparison.svg)](https://dev.to/castai/azure-containers-services-pricing-and-feature-comparison-3f3)
+[![Make your Angular NgRx reducers an eye candy 🍬 using this fantastic library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Make_your_Angular_NgRx_reducers_an_eye_candy_🍬_using_this_fantastic_library.svg)](https://dev.to/this-is-angular/make-your-angular-ngrx-reducers-an-eye-candy-using-this-fantastic-library-4b8c)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, February 8, 2023 at 11:12:04 PM
+> Last updated: Thursday, February 9, 2023 at 5:17:56 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, February 8, 2023 at 11:12:08 PM
+> Last updated: Thursday, February 9, 2023 at 5:18:02 AM
 
 > Showing 5 of 30 posts.
 
+[![Struggling to Mock graphQL Data? Open Source apollo-mock-http to the Rescue.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Struggling_to_Mock_graphQL_Data__Open_Source_apollo-mock-http_to_the_Rescue..svg)](https://medium.com/intuit-engineering/struggling-to-mock-graphql-data-open-source-apollo-mock-http-to-the-rescue-aee86db9233a)
+[![About US - PR Power Engineers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/About_US_-_PR_Power_Engineers.svg)](https://www.prpowerengineers.com/about-us/)
 [![Consolidate alerts with Feeder](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Consolidate_alerts_with_Feeder.svg)](https://blog.niradler.com/consolidate-alerts-with-feeder)
 [![GitHub - getdozer/dozer: A  Plug and Play Data Cache that instantly gives you Blazing Fast gRPC and REST APIs.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_getdozer_dozer__A__Plug_and_Play_Data_Cache_that_instantly_gives_you_Blazing_Fast_gRPC_and_REST_APIs..svg)](https://github.com/getdozer/dozer)
 [![Independent Software Developer vs Fortune 500 Software Engineer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Independent_Software_Developer_vs_Fortune_500_Software_Engineer.svg)](https://blog.flotes.app/posts/independent-vs-company)
-[![Django: The High-Level Python Web Framework for Effortless and Secure Web Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Django__The_High-Level_Python_Web_Framework_for_Effortless_and_Secure_Web_Development.svg)](https://dev.to/onlydevs_/django-the-high-level-python-web-framework-for-effortless-and-secure-web-development-1ob5)
-[![How to install ready mix concrete plant - 120 cbm per hour batch mixer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_install_ready_mix_concrete_plant_-_120_cbm_per_hour_batch_mixer.svg)](https://www.youtube.com/watch?v=Qss5VLQphc0)
 
 
 <!-- post-list:end -->
