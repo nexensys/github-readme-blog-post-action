@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, February 9, 2023 at 5:53:19 PM
+> Last updated: Thursday, February 9, 2023 at 11:12:22 PM
 
 > Showing 5 of 12 posts.
 
-[![The Problem with MTTR: Learning from Incident Reports](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Problem_with_MTTR__Learning_from_Incident_Reports.svg)](https://dev.to/linearb/the-problem-with-mttr-learning-from-incident-reports-2jpi)
-[![System Design Resources: The Complete Set ⚡📦](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/System_Design_Resources__The_Complete_Set_⚡📦.svg)](https://dev.to/alexr/system-design-resources-the-complete-set-1cl)
-[![Adding client-side rendered webmentions to my blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Adding_client-side_rendered_webmentions_to_my_blog.svg)](https://dev.to/cdransf/adding-client-side-rendered-webmentions-to-my-blog-4fp4)
-[![How create and upload content in Cloud Storage GCP?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_create_and_upload_content_in_Cloud_Storage_GCP_.svg)](https://dev.to/xlmriosx/how-create-and-upload-content-in-cloud-storage-gcp-1fae)
-[![How to build 3 simple animation with framer motion](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_build_3_simple_animation_with_framer_motion.svg)](https://dev.to/rardooba/how-to-build-3-simple-animation-with-framer-motion-4j9k)
+[![JavaScript Array Methods Cheatsheet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/JavaScript_Array_Methods_Cheatsheet.svg)](https://dev.to/codeofrelevancy/javascript-array-methods-cheatsheet-4abn)
+[![Boost Your Productivity as a Developer with OpenAI's ChatGPT](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Boost_Your_Productivity_as_a_Developer_with_OpenAI's_ChatGPT.svg)](https://dev.to/manthanbhatt/boost-your-productivity-as-a-developer-with-openais-chatgpt-1n5l)
+[![10 GitHub Repos That'll Make You a Better Developer ️‍🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/10_GitHub_Repos_That'll_Make_You_a_Better_Developer_️‍🔥.svg)](https://dev.to/rahul3002/10-github-repos-thatll-make-you-a-better-developer-2cg6)
+[![How to Build GPT with NumPy in a Day](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Build_GPT_with_NumPy_in_a_Day.svg)](https://dev.to/opendataanalytics/how-to-build-gpt-with-numpy-in-a-day-1jfo)
+[![Complete Guide on Docker Logs [All access methods included]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Complete_Guide_on_Docker_Logs_[All_access_methods_included].svg)](https://dev.to/danielfavour/complete-guide-on-docker-logs-all-access-methods-included-55gi)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, February 9, 2023 at 5:53:23 PM
+> Last updated: Thursday, February 9, 2023 at 11:12:24 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, February 9, 2023 at 5:55:25 PM
+> Last updated: Thursday, February 9, 2023 at 11:12:30 PM
 
 > Showing 5 of 30 posts.
 
