@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, February 9, 2023 at 11:12:22 PM
+> Last updated: Friday, February 10, 2023 at 5:16:39 AM
 
 > Showing 5 of 12 posts.
 
-[![JavaScript Array Methods Cheatsheet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/JavaScript_Array_Methods_Cheatsheet.svg)](https://dev.to/codeofrelevancy/javascript-array-methods-cheatsheet-4abn)
-[![Boost Your Productivity as a Developer with OpenAI's ChatGPT](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Boost_Your_Productivity_as_a_Developer_with_OpenAI's_ChatGPT.svg)](https://dev.to/manthanbhatt/boost-your-productivity-as-a-developer-with-openais-chatgpt-1n5l)
-[![10 GitHub Repos That'll Make You a Better Developer ️‍🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/10_GitHub_Repos_That'll_Make_You_a_Better_Developer_️‍🔥.svg)](https://dev.to/rahul3002/10-github-repos-thatll-make-you-a-better-developer-2cg6)
-[![How to Build GPT with NumPy in a Day](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Build_GPT_with_NumPy_in_a_Day.svg)](https://dev.to/opendataanalytics/how-to-build-gpt-with-numpy-in-a-day-1jfo)
-[![Complete Guide on Docker Logs [All access methods included]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Complete_Guide_on_Docker_Logs_[All_access_methods_included].svg)](https://dev.to/danielfavour/complete-guide-on-docker-logs-all-access-methods-included-55gi)
+[![Stop using console.log() instead use👇](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Stop_using_console.log()_instead_use👇.svg)](https://dev.to/iarchitsharma/stop-using-consolelog-instead-use-26b2)
+[![Kubernetes Load Balancer: Expert Guide With Examples](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Kubernetes_Load_Balancer__Expert_Guide_With_Examples.svg)](https://dev.to/castai/kubernetes-load-balancer-expert-guide-with-examples-5an6)
+[![3D Orbiting Split Images](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/3D_Orbiting_Split_Images.svg)](https://dev.to/w7freedownload/3d-orbiting-split-images-2n98)
+[![Use cases of log.Fatal in Golang](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Use_cases_of_log.Fatal_in_Golang.svg)](https://dev.to/mavensingh/use-cases-of-logfatal-in-golang-ag9)
+[![How to add custom attributes in Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_add_custom_attributes_in_Prisma.svg)](https://dev.to/zenstack/how-to-add-custom-attributes-in-prisma-6i8)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, February 9, 2023 at 11:12:24 PM
+> Last updated: Friday, February 10, 2023 at 5:16:42 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, February 9, 2023 at 11:12:30 PM
+> Last updated: Friday, February 10, 2023 at 5:16:46 AM
 
 > Showing 5 of 30 posts.
 
+[![Home Improvement Guest Post Submission | TheBlogofprogress](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Home_Improvement_Guest_Post_Submission___TheBlogofprogress.svg)](https://theblogofprogress.com/how-does-outsourcing-to-manual-testing-companies-help-in-delivering-quality-products/)
 [![The Future of CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Future_of_CSS.svg)](https://dev.to/codux/the-future-of-css-33kl)
 [![GitHub - arc53/DocsGPT: GPT-powered chat for documentation search & assistance.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_arc53_DocsGPT__GPT-powered_chat_for_documentation_search___assistance..svg)](https://github.com/arc53/DocsGPT)
 [![GitHub - webdiscus/html-bundler-webpack-plugin: The plugin handles HTML template as entry point, extracts CSS, JS, images from their sources loaded directly in HTML](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_webdiscus_html-bundler-webpack-plugin__The_plugin_handles_HTML_template_as_entry_point__extracts_CSS__JS__images_from_their_sources_loaded_directly_in_HTML.svg)](https://github.com/webdiscus/html-bundler-webpack-plugin)
 [![Struggling to Mock graphQL Data? Open Source apollo-mock-http to the Rescue.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Struggling_to_Mock_graphQL_Data__Open_Source_apollo-mock-http_to_the_Rescue..svg)](https://medium.com/intuit-engineering/struggling-to-mock-graphql-data-open-source-apollo-mock-http-to-the-rescue-aee86db9233a)
-[![About US - PR Power Engineers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/About_US_-_PR_Power_Engineers.svg)](https://www.prpowerengineers.com/about-us/)
 
 
 <!-- post-list:end -->
