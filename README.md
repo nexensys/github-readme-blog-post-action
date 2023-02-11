@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, February 10, 2023 at 11:11:23 AM
+> Last updated: Friday, February 10, 2023 at 5:42:00 PM
 
 > Showing 5 of 12 posts.
 
-[![How I Built My Fullstack Portfolio Website🐬](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_I_Built_My_Fullstack_Portfolio_Website🐬.svg)](https://dev.to/arafat4693/how-i-built-my-fullstack-and-typesafe-portfolio-website-26ia)
-[![CodePen Designs - 35 : 3D Ecommerce Experience with Spline](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/CodePen_Designs_-_35___3D_Ecommerce_Experience_with_Spline.svg)](https://dev.to/jon_snow789/codepen-designs-35-3d-ecommerce-experience-with-spline-51md)
-[![Cracking Your Technical Interview with LeetCode: A Step-by-Step Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Cracking_Your_Technical_Interview_with_LeetCode__A_Step-by-Step_Guide.svg)](https://dev.to/kunalkumar007/cracking-your-technical-interview-with-leetcode-a-step-by-step-guide-3aj6)
-[![Dynamic emails with handlebars and nodemailer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Dynamic_emails_with_handlebars_and_nodemailer.svg)](https://dev.to/nsmet/dynamic-emails-with-handlebars-and-nodemailer-2e8b)
-[![How I Found The Most Influential Users on Hacker News](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_I_Found_The_Most_Influential_Users_on_Hacker_News.svg)](https://dev.to/memgraph/how-i-found-the-most-influential-users-on-hacker-news-409g)
+[![An issue task board for audacious open source contributors](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/An_issue_task_board_for_audacious_open_source_contributors.svg)](https://dev.to/quine/an-issue-task-board-for-audacious-open-source-contributors-1p39)
+[![New Release of ReductStore JavaScript SDK v1.3.0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/New_Release_of_ReductStore_JavaScript_SDK_v1.3.0.svg)](https://dev.to/reductstore/new-release-of-reductstore-javascript-sdk-v130-1f3f)
+[![Better Folding✨ - All you ever wished from VSCode folding.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Better_Folding✨_-_All_you_ever_wished_from_VSCode_folding..svg)](https://dev.to/mtbaqer/introducing-better-folding-all-you-ever-wished-from-vscode-folding-cga)
+[![Descubre la potencia oculta de Linux con estas 5 características de la terminal](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Descubre_la_potencia_oculta_de_Linux_con_estas_5_características_de_la_terminal.svg)](https://dev.to/ricardoveronica/descubre-la-potencia-oculta-de-linux-con-estas-5-caracteristicas-de-la-terminal-5jj)
+[![Share your ChatGPT cringe moments 👇 🤖🧠](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Share_your_ChatGPT_cringe_moments_👇_🤖🧠.svg)](https://dev.to/ironcladdev/share-your-chatgpt-cringe-moments-1ol6)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, February 10, 2023 at 11:11:26 AM
+> Last updated: Friday, February 10, 2023 at 5:42:04 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, February 10, 2023 at 11:11:30 AM
+> Last updated: Friday, February 10, 2023 at 5:42:07 PM
 
 > Showing 5 of 30 posts.
 
+[![Using Lodash's omit() Function](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_Lodash's_omit()_Function.svg)](
+https://masteringjs.io/tutorials/lodash/omit
+)
+[![GitHub - DEATHTINYZ/moodlody: Moodlody is an app with nature sounds to help you focus, sleep, relax and relieve stress.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_DEATHTINYZ_moodlody__Moodlody_is_an_app_with_nature_sounds_to_help_you_focus__sleep__relax_and_relieve_stress..svg)](https://github.com/DEATHTINYZ/moodlody)
 [![cotd](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/cotd.svg)](https://www.npmjs.com/package/cotd)
 [![GitHub - NightClover-code/discord-music-bot: Music bot w/ a playlist feature - discord.js and Lavalink.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_NightClover-code_discord-music-bot__Music_bot_w__a_playlist_feature_-_discord.js_and_Lavalink..svg)](https://github.com/NightClover-code/discord-music-bot)
 [![Home Improvement Guest Post Submission | TheBlogofprogress](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Home_Improvement_Guest_Post_Submission___TheBlogofprogress.svg)](https://theblogofprogress.com/how-does-outsourcing-to-manual-testing-companies-help-in-delivering-quality-products/)
-[![The Future of CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Future_of_CSS.svg)](https://dev.to/codux/the-future-of-css-33kl)
-[![GitHub - arc53/DocsGPT: GPT-powered chat for documentation search & assistance.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_arc53_DocsGPT__GPT-powered_chat_for_documentation_search___assistance..svg)](https://github.com/arc53/DocsGPT)
 
 
 <!-- post-list:end -->
