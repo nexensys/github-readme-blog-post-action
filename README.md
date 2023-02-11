@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, February 11, 2023 at 5:15:10 AM
+> Last updated: Saturday, February 11, 2023 at 11:10:16 AM
 
 > Showing 5 of 12 posts.
 
-[![Open Source ChatGPT based Bing Search launched](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Open_Source_ChatGPT_based_Bing_Search_launched.svg)](https://dev.to/polterguy/open-source-chatgpt-based-bing-search-launched-1kii)
-[![Npm vs Yarn: What Should you use for managing packages in React?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Npm_vs_Yarn__What_Should_you_use_for_managing_packages_in_React_.svg)](https://dev.to/darkxenium/npm-vs-yarn-what-should-you-use-for-managing-packages-in-react-2332)
-[![What are portals in React?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_are_portals_in_React_.svg)](https://dev.to/codeofrelevancy/what-are-portals-in-react-eb)
-[![Decoding the Evolving Landscape of Web Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Decoding_the_Evolving_Landscape_of_Web_Development.svg)](https://dev.to/zenstack/decoding-the-evolving-landscape-of-web-development-3b65)
-[![Deploy Your Node.js Project on AWS with Nginx and SSL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Deploy_Your_Node.js_Project_on_AWS_with_Nginx_and_SSL.svg)](https://dev.to/alanmathew175/deploy-your-nodejs-project-on-aws-with-nginx-and-ssl-4944)
+[![A minimal, multi-framework, responsive image component](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_minimal__multi-framework__responsive_image_component.svg)](https://dev.to/ascorbic/a-minimal-multi-framework-responsive-image-component-3iop)
+[![Redux-like state container in SwiftUI. Usage.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Redux-like_state_container_in_SwiftUI._Usage..svg)](https://dev.to/sergeyleschev/redux-like-state-container-in-swiftui-usage-k1i)
+[![Redux-like state container in SwiftUI. Side effects.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Redux-like_state_container_in_SwiftUI._Side_effects..svg)](https://dev.to/sergeyleschev/redux-like-state-container-in-swiftui-side-effects-3l23)
+[![Redux-like state container in SwiftUI. Unidirectional flow.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Redux-like_state_container_in_SwiftUI._Unidirectional_flow..svg)](https://dev.to/sergeyleschev/redux-like-state-container-in-swiftui-basics-unidirectional-flow-3f2p)
+[![Redux-like state container in SwiftUI. Reducer and Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Redux-like_state_container_in_SwiftUI._Reducer_and_Actions.svg)](https://dev.to/sergeyleschev/redux-like-state-container-in-swiftui-basics-reducer-and-actions-flg)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, February 11, 2023 at 5:15:14 AM
+> Last updated: Saturday, February 11, 2023 at 11:10:20 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, February 11, 2023 at 5:15:17 AM
+> Last updated: Saturday, February 11, 2023 at 11:10:24 AM
 
 > Showing 5 of 30 posts.
 
