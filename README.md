@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, February 10, 2023 at 11:11:13 PM
+> Last updated: Saturday, February 11, 2023 at 5:15:10 AM
 
 > Showing 5 of 12 posts.
 
-[![Building a Secure JWT Server with Node.js and jsonwebtoken](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Building_a_Secure_JWT_Server_with_Node.js_and_jsonwebtoken.svg)](https://dev.to/knitesh/building-a-secure-jwt-server-with-nodejs-and-jsonwebtoken-2l32)
-[![My setup for publishing to Dev.to using github](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/My_setup_for_publishing_to_Dev.to_using_github.svg)](https://dev.to/jlewis92/my-setup-for-publishing-to-devto-using-github-1k0n)
-[![¿Cómo instalar ubuntu server en una imagen docker desde un Sistema Operativo Windows?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/¿Cómo_instalar_ubuntu_server_en_una_imagen_docker_desde_un_Sistema_Operativo_Windows_.svg)](https://dev.to/ronaldobc21/como-instalar-ubuntu-server-en-una-imagen-docker-desde-un-sistema-operativo-windows-2dnh)
-[![13 Of The Best Web3 Applications In 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/13_Of_The_Best_Web3_Applications_In_2023.svg)](https://dev.to/dipprofitdotcom/13-of-the-best-web3-applications-in-2023-ibp)
-[![NPM Commands and Shortcuts You Should Know as a JavaScript Dev](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/NPM_Commands_and_Shortcuts_You_Should_Know_as_a_JavaScript_Dev.svg)](https://dev.to/devland/npm-commands-and-shortcuts-you-should-know-as-a-javascript-dev-2l15)
+[![Open Source ChatGPT based Bing Search launched](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Open_Source_ChatGPT_based_Bing_Search_launched.svg)](https://dev.to/polterguy/open-source-chatgpt-based-bing-search-launched-1kii)
+[![Npm vs Yarn: What Should you use for managing packages in React?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Npm_vs_Yarn__What_Should_you_use_for_managing_packages_in_React_.svg)](https://dev.to/darkxenium/npm-vs-yarn-what-should-you-use-for-managing-packages-in-react-2332)
+[![What are portals in React?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_are_portals_in_React_.svg)](https://dev.to/codeofrelevancy/what-are-portals-in-react-eb)
+[![Decoding the Evolving Landscape of Web Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Decoding_the_Evolving_Landscape_of_Web_Development.svg)](https://dev.to/zenstack/decoding-the-evolving-landscape-of-web-development-3b65)
+[![Deploy Your Node.js Project on AWS with Nginx and SSL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Deploy_Your_Node.js_Project_on_AWS_with_Nginx_and_SSL.svg)](https://dev.to/alanmathew175/deploy-your-nodejs-project-on-aws-with-nginx-and-ssl-4944)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, February 10, 2023 at 11:11:15 PM
+> Last updated: Saturday, February 11, 2023 at 5:15:14 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, February 10, 2023 at 11:11:18 PM
+> Last updated: Saturday, February 11, 2023 at 5:15:17 AM
 
 > Showing 5 of 30 posts.
 
+[![React.js: The Documentary](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React.js__The_Documentary.svg)](https://www.youtube.com/watch?v=8pDqJVdNa44)
 [![Using Lodash's omit() Function](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_Lodash's_omit()_Function.svg)](
 https://masteringjs.io/tutorials/lodash/omit
 )
 [![GitHub - DEATHTINYZ/moodlody: Moodlody is an app with nature sounds to help you focus, sleep, relax and relieve stress.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_DEATHTINYZ_moodlody__Moodlody_is_an_app_with_nature_sounds_to_help_you_focus__sleep__relax_and_relieve_stress..svg)](https://github.com/DEATHTINYZ/moodlody)
 [![cotd](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/cotd.svg)](https://www.npmjs.com/package/cotd)
 [![GitHub - NightClover-code/discord-music-bot: Music bot w/ a playlist feature - discord.js and Lavalink.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_NightClover-code_discord-music-bot__Music_bot_w__a_playlist_feature_-_discord.js_and_Lavalink..svg)](https://github.com/NightClover-code/discord-music-bot)
-[![Home Improvement Guest Post Submission | TheBlogofprogress](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Home_Improvement_Guest_Post_Submission___TheBlogofprogress.svg)](https://theblogofprogress.com/how-does-outsourcing-to-manual-testing-companies-help-in-delivering-quality-products/)
 
 
 <!-- post-list:end -->
