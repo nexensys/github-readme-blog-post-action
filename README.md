@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, February 10, 2023 at 5:42:00 PM
+> Last updated: Friday, February 10, 2023 at 11:11:13 PM
 
 > Showing 5 of 12 posts.
 
-[![An issue task board for audacious open source contributors](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/An_issue_task_board_for_audacious_open_source_contributors.svg)](https://dev.to/quine/an-issue-task-board-for-audacious-open-source-contributors-1p39)
-[![New Release of ReductStore JavaScript SDK v1.3.0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/New_Release_of_ReductStore_JavaScript_SDK_v1.3.0.svg)](https://dev.to/reductstore/new-release-of-reductstore-javascript-sdk-v130-1f3f)
-[![Better Folding✨ - All you ever wished from VSCode folding.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Better_Folding✨_-_All_you_ever_wished_from_VSCode_folding..svg)](https://dev.to/mtbaqer/introducing-better-folding-all-you-ever-wished-from-vscode-folding-cga)
-[![Descubre la potencia oculta de Linux con estas 5 características de la terminal](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Descubre_la_potencia_oculta_de_Linux_con_estas_5_características_de_la_terminal.svg)](https://dev.to/ricardoveronica/descubre-la-potencia-oculta-de-linux-con-estas-5-caracteristicas-de-la-terminal-5jj)
-[![Share your ChatGPT cringe moments 👇 🤖🧠](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Share_your_ChatGPT_cringe_moments_👇_🤖🧠.svg)](https://dev.to/ironcladdev/share-your-chatgpt-cringe-moments-1ol6)
+[![Building a Secure JWT Server with Node.js and jsonwebtoken](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Building_a_Secure_JWT_Server_with_Node.js_and_jsonwebtoken.svg)](https://dev.to/knitesh/building-a-secure-jwt-server-with-nodejs-and-jsonwebtoken-2l32)
+[![My setup for publishing to Dev.to using github](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/My_setup_for_publishing_to_Dev.to_using_github.svg)](https://dev.to/jlewis92/my-setup-for-publishing-to-devto-using-github-1k0n)
+[![¿Cómo instalar ubuntu server en una imagen docker desde un Sistema Operativo Windows?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/¿Cómo_instalar_ubuntu_server_en_una_imagen_docker_desde_un_Sistema_Operativo_Windows_.svg)](https://dev.to/ronaldobc21/como-instalar-ubuntu-server-en-una-imagen-docker-desde-un-sistema-operativo-windows-2dnh)
+[![13 Of The Best Web3 Applications In 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/13_Of_The_Best_Web3_Applications_In_2023.svg)](https://dev.to/dipprofitdotcom/13-of-the-best-web3-applications-in-2023-ibp)
+[![NPM Commands and Shortcuts You Should Know as a JavaScript Dev](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/NPM_Commands_and_Shortcuts_You_Should_Know_as_a_JavaScript_Dev.svg)](https://dev.to/devland/npm-commands-and-shortcuts-you-should-know-as-a-javascript-dev-2l15)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, February 10, 2023 at 5:42:04 PM
+> Last updated: Friday, February 10, 2023 at 11:11:15 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, February 10, 2023 at 5:42:07 PM
+> Last updated: Friday, February 10, 2023 at 11:11:18 PM
 
 > Showing 5 of 30 posts.
 
