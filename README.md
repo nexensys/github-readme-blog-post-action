@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, February 11, 2023 at 11:10:16 AM
+> Last updated: Saturday, February 11, 2023 at 5:52:29 PM
 
 > Showing 5 of 12 posts.
 
-[![A minimal, multi-framework, responsive image component](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_minimal__multi-framework__responsive_image_component.svg)](https://dev.to/ascorbic/a-minimal-multi-framework-responsive-image-component-3iop)
-[![Redux-like state container in SwiftUI. Usage.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Redux-like_state_container_in_SwiftUI._Usage..svg)](https://dev.to/sergeyleschev/redux-like-state-container-in-swiftui-usage-k1i)
-[![Redux-like state container in SwiftUI. Side effects.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Redux-like_state_container_in_SwiftUI._Side_effects..svg)](https://dev.to/sergeyleschev/redux-like-state-container-in-swiftui-side-effects-3l23)
-[![Redux-like state container in SwiftUI. Unidirectional flow.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Redux-like_state_container_in_SwiftUI._Unidirectional_flow..svg)](https://dev.to/sergeyleschev/redux-like-state-container-in-swiftui-basics-unidirectional-flow-3f2p)
-[![Redux-like state container in SwiftUI. Reducer and Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Redux-like_state_container_in_SwiftUI._Reducer_and_Actions.svg)](https://dev.to/sergeyleschev/redux-like-state-container-in-swiftui-basics-reducer-and-actions-flg)
+[![React dans Symfony avec Vite](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/React_dans_Symfony_avec_Vite.svg)](https://dev.to/gbtux/react-dans-symfony-avec-vite-5e74)
+[![Write promises chaining using async/await.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Write_promises_chaining_using_async_await..svg)](https://dev.to/ayanabilothman/write-promises-chaining-using-asyncawait-3b1m)
+[![Use APIs the write way](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Use_APIs_the_write_way.svg)](https://dev.to/limacodes/use-apis-the-write-way-3flf)
+[![C# Q&A : Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/C__Q_A___Part_1.svg)](https://dev.to/rasheedmozaffar/c-qa-part-1-5fog)
+[![Decoding JS: Polyfills and Transpilers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Decoding_JS__Polyfills_and_Transpilers.svg)](https://dev.to/harshitakanal/decoding-js-polyfills-and-transpilers-3b87)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, February 11, 2023 at 11:10:20 AM
+> Last updated: Saturday, February 11, 2023 at 5:52:32 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, February 11, 2023 at 11:10:24 AM
+> Last updated: Saturday, February 11, 2023 at 5:52:35 PM
 
 > Showing 5 of 30 posts.
 
+[![5 websites every UI UX designer should know to get inspiration](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/5_websites_every_UI_UX_designer_should_know_to_get_inspiration.svg)](
+https://frontendroom.com/ui-designs-inspiration/
+)
 [![React.js: The Documentary](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React.js__The_Documentary.svg)](https://www.youtube.com/watch?v=8pDqJVdNa44)
 [![Using Lodash's omit() Function](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_Lodash's_omit()_Function.svg)](
 https://masteringjs.io/tutorials/lodash/omit
 )
 [![GitHub - DEATHTINYZ/moodlody: Moodlody is an app with nature sounds to help you focus, sleep, relax and relieve stress.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_DEATHTINYZ_moodlody__Moodlody_is_an_app_with_nature_sounds_to_help_you_focus__sleep__relax_and_relieve_stress..svg)](https://github.com/DEATHTINYZ/moodlody)
 [![cotd](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/cotd.svg)](https://www.npmjs.com/package/cotd)
-[![GitHub - NightClover-code/discord-music-bot: Music bot w/ a playlist feature - discord.js and Lavalink.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_NightClover-code_discord-music-bot__Music_bot_w__a_playlist_feature_-_discord.js_and_Lavalink..svg)](https://github.com/NightClover-code/discord-music-bot)
 
 
 <!-- post-list:end -->
