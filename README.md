@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, February 12, 2023 at 11:10:25 AM
+> Last updated: Sunday, February 12, 2023 at 5:51:08 PM
 
 > Showing 5 of 12 posts.
 
-[![Z-Library Gets Taken Down by US Authorities, But why?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Z-Library_Gets_Taken_Down_by_US_Authorities__But_why_.svg)](https://dev.to/aliahmed/z-library-gets-taken-down-by-us-authorities-but-why-11l5)
-[![Meta (Facebook): Ask Me Anything](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Meta_(Facebook)__Ask_Me_Anything.svg)](https://dev.to/alexr/meta-facebook-ask-me-anything-39o3)
-[![useMemo vs useCallback](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/useMemo_vs_useCallback.svg)](https://dev.to/ujwalkumar1995/usememo-vs-usecallback-49kd)
-[![Yet Another Newsletter LOL: H2 Oh!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Yet_Another_Newsletter_LOL__H2_Oh!.svg)](https://dev.to/nickytonline/yet-another-newsletter-lol-h2-oh-52lh)
-[![Fine-Tune GPT-3 on custom datasets with just 10 lines of code using GPT-Index](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Fine-Tune_GPT-3_on_custom_datasets_with_just_10_lines_of_code_using_GPT-Index.svg)](https://dev.to/dhanushreddy29/fine-tune-gpt-3-on-custom-dataset-with-just-10-lines-of-code-using-gpt-index-18mc)
+[![Version Control of git/github](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Version_Control_of_git_github.svg)](https://dev.to/cromajetex/version-control-of-gitgithub-15e7)
+[![Best ideas from Clean Code by Robert C. Martin (with Typescript examples)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Best_ideas_from_Clean_Code_by_Robert_C._Martin_(with_Typescript_examples).svg)](https://dev.to/turboninh/best-ideas-from-clean-code-by-robert-c-martin-with-typescript-examples-14of)
+[![Four More Tools You Can't Live Without](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Four_More_Tools_You_Can't_Live_Without.svg)](https://dev.to/sebastianccc/four-more-tools-you-cant-live-without-n3i)
+[![Rethinking the Modern Web](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Rethinking_the_Modern_Web.svg)](https://dev.to/oxharris/rethinking-the-modern-web-5cn1)
+[![schema-org-java 0.4.0 released - Java library for working with Schema.org data in JSON-LD format](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/schema-org-java_0.4.0_released_-_Java_library_for_working_with_Schema.org_data_in_JSON-LD_format.svg)](https://dev.to/kobee1203/schema-org-java-040-released-java-library-for-working-with-schemaorg-data-in-json-ld-format-50m6)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, February 12, 2023 at 11:10:27 AM
+> Last updated: Sunday, February 12, 2023 at 5:51:12 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, February 12, 2023 at 11:10:29 AM
+> Last updated: Sunday, February 12, 2023 at 5:51:15 PM
 
 > Showing 5 of 30 posts.
 
