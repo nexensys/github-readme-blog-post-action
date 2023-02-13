@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, February 12, 2023 at 5:51:08 PM
+> Last updated: Sunday, February 12, 2023 at 11:12:24 PM
 
 > Showing 5 of 12 posts.
 
-[![Version Control of git/github](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Version_Control_of_git_github.svg)](https://dev.to/cromajetex/version-control-of-gitgithub-15e7)
-[![Best ideas from Clean Code by Robert C. Martin (with Typescript examples)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Best_ideas_from_Clean_Code_by_Robert_C._Martin_(with_Typescript_examples).svg)](https://dev.to/turboninh/best-ideas-from-clean-code-by-robert-c-martin-with-typescript-examples-14of)
-[![Four More Tools You Can't Live Without](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Four_More_Tools_You_Can't_Live_Without.svg)](https://dev.to/sebastianccc/four-more-tools-you-cant-live-without-n3i)
-[![Rethinking the Modern Web](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Rethinking_the_Modern_Web.svg)](https://dev.to/oxharris/rethinking-the-modern-web-5cn1)
-[![schema-org-java 0.4.0 released - Java library for working with Schema.org data in JSON-LD format](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/schema-org-java_0.4.0_released_-_Java_library_for_working_with_Schema.org_data_in_JSON-LD_format.svg)](https://dev.to/kobee1203/schema-org-java-040-released-java-library-for-working-with-schemaorg-data-in-json-ld-format-50m6)
+[![Running Jenkins On Docker | Day 3 | Jenkins Tutorial for Beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Running_Jenkins_On_Docker___Day_3___Jenkins_Tutorial_for_Beginners.svg)](https://dev.to/promode/running-jenkins-on-docker-day-3-jenkins-tutorial-for-beginners-5cjd)
+[![7 Reasons why Norway is the Best Place to Live in the World](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/7_Reasons_why_Norway_is_the_Best_Place_to_Live_in_the_World.svg)](https://dev.to/mayurjadhav/7-reasons-why-norway-is-the-best-place-to-live-in-the-world-5d5g)
+[![Creating a lambda function to call ChatGPT](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Creating_a_lambda_function_to_call_ChatGPT.svg)](https://dev.to/aws-builders/creating-a-lambda-function-to-call-chatgpt-pj)
+[![Entendendo o problema de N+1 query usando o Django](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Entendendo_o_problema_de_N+1_query_usando_o_Django.svg)](https://dev.to/wesleymorais/entendendo-o-problema-de-n1-query-usando-o-orm-do-django-4f43)
+[![What in the world is DOM?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_in_the_world_is_DOM_.svg)](https://dev.to/mayuhayakawa/what-in-the-world-is-dom-54p6)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, February 12, 2023 at 5:51:12 PM
+> Last updated: Sunday, February 12, 2023 at 11:12:28 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, February 12, 2023 at 5:51:15 PM
+> Last updated: Sunday, February 12, 2023 at 11:12:31 PM
 
 > Showing 5 of 30 posts.
 
