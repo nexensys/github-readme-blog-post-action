@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, February 13, 2023 at 5:17:49 AM
+> Last updated: Monday, February 13, 2023 at 11:11:53 AM
 
 > Showing 5 of 12 posts.
 
-[![The Benefits of Using Task Management Tools](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Benefits_of_Using_Task_Management_Tools.svg)](https://dev.to/blst-security/the-benefits-of-using-task-management-tools-4pce)
-[![An Introduction to Variables in JavaScript: Understanding the Basics](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/An_Introduction_to_Variables_in_JavaScript__Understanding_the_Basics.svg)](https://dev.to/haszankauna/an-introduction-to-variables-in-javascript-understanding-the-basics-134a)
-[![Introduction to JavaScript: What is JavaScript and Why is it Important for Web Development?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Introduction_to_JavaScript__What_is_JavaScript_and_Why_is_it_Important_for_Web_Development_.svg)](https://dev.to/haszankauna/introduction-to-javascript-what-is-javascript-and-why-is-it-important-for-web-development-4cl7)
-[![Creating a Telegram Desktop App with PostgreSQL and Next.js 🪄](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Creating_a_Telegram_Desktop_App_with_PostgreSQL_and_Next.js_🪄.svg)](https://dev.to/livecycle/creating-a-telegram-desktop-app-with-postgresql-and-nextjs-4im2)
-[![Liman MYS - Ağ İzleme Eklentisi - Host Kavramı](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Liman_MYS_-_Ağ_İzleme_Eklentisi_-_Host_Kavramı.svg)](https://dev.to/aciklab/host-kavrami-38gc)
+[![From Wi-Fi to Li-Fi, sending data via light using Arduino and JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/From_Wi-Fi_to_Li-Fi__sending_data_via_light_using_Arduino_and_JavaScript.svg)](https://dev.to/stripe/from-wi-fi-to-li-fi-sending-data-via-light-using-arduino-and-javascript-4mpb)
+[![Adding a GitHub login to your Flutter app with Appwrite](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Adding_a_GitHub_login_to_your_Flutter_app_with_Appwrite.svg)](https://dev.to/hackmamba/adding-a-github-login-to-your-flutter-app-with-appwrite-4i74)
+[![What are your Goals for the week? 2/13](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_are_your_Goals_for_the_week__2_13.svg)](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-213-4ca9)
+[![Concurrency and Parallelism: An Overview](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Concurrency_and_Parallelism__An_Overview.svg)](https://dev.to/costamatheus97/concurrency-and-parallelism-an-overview-4jam)
+[![What Makes Learning Web Development Worthwhile in the Coming Years?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_Makes_Learning_Web_Development_Worthwhile_in_the_Coming_Years_.svg)](https://dev.to/aradwan20/what-makes-learning-web-development-worthwhile-in-the-coming-years-2l3o)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, February 13, 2023 at 5:17:52 AM
+> Last updated: Monday, February 13, 2023 at 11:11:55 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, February 13, 2023 at 5:17:54 AM
+> Last updated: Monday, February 13, 2023 at 11:11:57 AM
 
 > Showing 5 of 30 posts.
 
+[![Interacting with OpenAI in Node.js and Express](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Interacting_with_OpenAI_in_Node.js_and_Express.svg)](https://medium.com/@hassan.djirdeh/interacting-with-openai-in-node-js-and-express-647e771fc4ad)
 [![
 I am not able to post  anything here , it is showing Invalid News
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_I_am_not_able_to_post__anything_here___it_is_showing_Invalid_News_.svg)](
 http://www.echojs.com/news/41479
-)
-[![5 websites every UI UX designer should know to get inspiration](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/5_websites_every_UI_UX_designer_should_know_to_get_inspiration.svg)](
-https://frontendroom.com/ui-designs-inspiration/
 )
 [![React.js: The Documentary](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React.js__The_Documentary.svg)](https://www.youtube.com/watch?v=8pDqJVdNa44)
 [![Using Lodash's omit() Function](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_Lodash's_omit()_Function.svg)](
