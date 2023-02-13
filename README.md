@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, February 12, 2023 at 11:12:24 PM
+> Last updated: Monday, February 13, 2023 at 5:17:49 AM
 
 > Showing 5 of 12 posts.
 
-[![Running Jenkins On Docker | Day 3 | Jenkins Tutorial for Beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Running_Jenkins_On_Docker___Day_3___Jenkins_Tutorial_for_Beginners.svg)](https://dev.to/promode/running-jenkins-on-docker-day-3-jenkins-tutorial-for-beginners-5cjd)
-[![7 Reasons why Norway is the Best Place to Live in the World](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/7_Reasons_why_Norway_is_the_Best_Place_to_Live_in_the_World.svg)](https://dev.to/mayurjadhav/7-reasons-why-norway-is-the-best-place-to-live-in-the-world-5d5g)
-[![Creating a lambda function to call ChatGPT](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Creating_a_lambda_function_to_call_ChatGPT.svg)](https://dev.to/aws-builders/creating-a-lambda-function-to-call-chatgpt-pj)
-[![Entendendo o problema de N+1 query usando o Django](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Entendendo_o_problema_de_N+1_query_usando_o_Django.svg)](https://dev.to/wesleymorais/entendendo-o-problema-de-n1-query-usando-o-orm-do-django-4f43)
-[![What in the world is DOM?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_in_the_world_is_DOM_.svg)](https://dev.to/mayuhayakawa/what-in-the-world-is-dom-54p6)
+[![The Benefits of Using Task Management Tools](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Benefits_of_Using_Task_Management_Tools.svg)](https://dev.to/blst-security/the-benefits-of-using-task-management-tools-4pce)
+[![An Introduction to Variables in JavaScript: Understanding the Basics](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/An_Introduction_to_Variables_in_JavaScript__Understanding_the_Basics.svg)](https://dev.to/haszankauna/an-introduction-to-variables-in-javascript-understanding-the-basics-134a)
+[![Introduction to JavaScript: What is JavaScript and Why is it Important for Web Development?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Introduction_to_JavaScript__What_is_JavaScript_and_Why_is_it_Important_for_Web_Development_.svg)](https://dev.to/haszankauna/introduction-to-javascript-what-is-javascript-and-why-is-it-important-for-web-development-4cl7)
+[![Creating a Telegram Desktop App with PostgreSQL and Next.js 🪄](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Creating_a_Telegram_Desktop_App_with_PostgreSQL_and_Next.js_🪄.svg)](https://dev.to/livecycle/creating-a-telegram-desktop-app-with-postgresql-and-nextjs-4im2)
+[![Liman MYS - Ağ İzleme Eklentisi - Host Kavramı](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Liman_MYS_-_Ağ_İzleme_Eklentisi_-_Host_Kavramı.svg)](https://dev.to/aciklab/host-kavrami-38gc)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, February 12, 2023 at 11:12:28 PM
+> Last updated: Monday, February 13, 2023 at 5:17:52 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, February 12, 2023 at 11:12:31 PM
+> Last updated: Monday, February 13, 2023 at 5:17:54 AM
 
 > Showing 5 of 30 posts.
 
+[![
+I am not able to post  anything here , it is showing Invalid News
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_I_am_not_able_to_post__anything_here___it_is_showing_Invalid_News_.svg)](
+http://www.echojs.com/news/41479
+)
 [![5 websites every UI UX designer should know to get inspiration](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/5_websites_every_UI_UX_designer_should_know_to_get_inspiration.svg)](
 https://frontendroom.com/ui-designs-inspiration/
 )
@@ -55,7 +60,6 @@ https://frontendroom.com/ui-designs-inspiration/
 https://masteringjs.io/tutorials/lodash/omit
 )
 [![GitHub - DEATHTINYZ/moodlody: Moodlody is an app with nature sounds to help you focus, sleep, relax and relieve stress.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_DEATHTINYZ_moodlody__Moodlody_is_an_app_with_nature_sounds_to_help_you_focus__sleep__relax_and_relieve_stress..svg)](https://github.com/DEATHTINYZ/moodlody)
-[![cotd](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/cotd.svg)](https://www.npmjs.com/package/cotd)
 
 
 <!-- post-list:end -->
