@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, February 13, 2023 at 11:11:53 AM
+> Last updated: Monday, February 13, 2023 at 5:52:22 PM
 
 > Showing 5 of 12 posts.
 
-[![From Wi-Fi to Li-Fi, sending data via light using Arduino and JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/From_Wi-Fi_to_Li-Fi__sending_data_via_light_using_Arduino_and_JavaScript.svg)](https://dev.to/stripe/from-wi-fi-to-li-fi-sending-data-via-light-using-arduino-and-javascript-4mpb)
-[![Adding a GitHub login to your Flutter app with Appwrite](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Adding_a_GitHub_login_to_your_Flutter_app_with_Appwrite.svg)](https://dev.to/hackmamba/adding-a-github-login-to-your-flutter-app-with-appwrite-4i74)
-[![What are your Goals for the week? 2/13](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_are_your_Goals_for_the_week__2_13.svg)](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-213-4ca9)
-[![Concurrency and Parallelism: An Overview](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Concurrency_and_Parallelism__An_Overview.svg)](https://dev.to/costamatheus97/concurrency-and-parallelism-an-overview-4jam)
-[![What Makes Learning Web Development Worthwhile in the Coming Years?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_Makes_Learning_Web_Development_Worthwhile_in_the_Coming_Years_.svg)](https://dev.to/aradwan20/what-makes-learning-web-development-worthwhile-in-the-coming-years-2l3o)
+[![Code Comments Are Not Enough](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Code_Comments_Are_Not_Enough.svg)](https://dev.to/ericmeadowsdev/code-comments-are-not-enough-2eae)
+[![Automating the deletion of specifc inbound rules from any security groups in AWS via Config](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Automating_the_deletion_of_specifc_inbound_rules_from_any_security_groups_in_AWS_via_Config.svg)](https://dev.to/aws-builders/automating-the-deletion-of-specifc-inbound-rules-from-any-security-groups-in-aws-via-config-21lb)
+[![AWS Cloud Quest: Triggers - Aggregating Data](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/AWS_Cloud_Quest__Triggers_-_Aggregating_Data.svg)](https://dev.to/arc/aws-cloud-quest-triggers-aggregating-data-4njl)
+[![Deploying your React.js & Express.js server to Render.com](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Deploying_your_React.js___Express.js_server_to_Render.com.svg)](https://dev.to/pixelrena/deploying-your-reactjs-expressjs-server-to-rendercom-4jbo)
+[![Laravel Nested Eager Loading on Polymorphic Relationships](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Laravel_Nested_Eager_Loading_on_Polymorphic_Relationships.svg)](https://dev.to/muathye/laravel-nested-eager-loading-on-polymorphic-relationships-2dmc)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, February 13, 2023 at 11:11:55 AM
+> Last updated: Monday, February 13, 2023 at 5:52:26 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,12 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, February 13, 2023 at 11:11:57 AM
+> Last updated: Monday, February 13, 2023 at 5:52:32 PM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - ddosify/ddosify: High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud - https://ddosify.com 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ddosify_ddosify__High-performance_load_testing_tool__written_in_Golang._For_distributed_and_Geo-targeted_load_testing__Ddosify_Cloud_-_https___ddosify.com_🚀.svg)](https://github.com/ddosify/ddosify)
+[![API with NestJS #95. CI/CD with Amazon ECS and GitHub Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__95._CI_CD_with_Amazon_ECS_and_GitHub_Actions.svg)](https://wanago.io/2023/02/13/nestjs-api-ci-cd-aws-ecs-github-actions/)
 [![Interacting with OpenAI in Node.js and Express](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Interacting_with_OpenAI_in_Node.js_and_Express.svg)](https://medium.com/@hassan.djirdeh/interacting-with-openai-in-node-js-and-express-647e771fc4ad)
 [![
 I am not able to post  anything here , it is showing Invalid News
@@ -54,10 +56,6 @@ I am not able to post  anything here , it is showing Invalid News
 http://www.echojs.com/news/41479
 )
 [![React.js: The Documentary](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React.js__The_Documentary.svg)](https://www.youtube.com/watch?v=8pDqJVdNa44)
-[![Using Lodash's omit() Function](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_Lodash's_omit()_Function.svg)](
-https://masteringjs.io/tutorials/lodash/omit
-)
-[![GitHub - DEATHTINYZ/moodlody: Moodlody is an app with nature sounds to help you focus, sleep, relax and relieve stress.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_DEATHTINYZ_moodlody__Moodlody_is_an_app_with_nature_sounds_to_help_you_focus__sleep__relax_and_relieve_stress..svg)](https://github.com/DEATHTINYZ/moodlody)
 
 
 <!-- post-list:end -->
