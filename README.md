@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, February 14, 2023 at 5:18:11 AM
+> Last updated: Tuesday, February 14, 2023 at 11:11:38 AM
 
 > Showing 5 of 12 posts.
 
-[![How GitHub Actions can improve CI/CD and compares with Azure Pipelines](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_GitHub_Actions_can_improve_CI_CD_and_compares_with_Azure_Pipelines.svg)](https://dev.to/pwd9000/how-github-actions-can-improve-cicd-and-compares-with-azure-pipelines-3bh)
-[![Developing Web Applications Using Php and Mysql](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Developing_Web_Applications_Using_Php_and_Mysql.svg)](https://dev.to/devbambhaniya/developing-web-applications-using-php-and-mysql-4c7g)
-[![A short guide to web accessibility](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_short_guide_to_web_accessibility.svg)](https://dev.to/adityasaini3/a-short-guide-to-web-accessibility-k12)
-[![How To Handle Data Fetching in Next.js Using SWR](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_To_Handle_Data_Fetching_in_Next.js_Using_SWR.svg)](https://dev.to/precious654/how-to-handle-data-fetching-in-nextjs-using-swr-2mhg)
-[![Sunil Tulsiani — Reasons You Should Invest in Real Estate](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Sunil_Tulsiani_—_Reasons_You_Should_Invest_in_Real_Estate.svg)](https://dev.to/suniltulsiani/sunil-tulsiani-reasons-you-should-invest-in-real-estate-27j2)
+[![O passo a passo de como criei meu portfólio e como você pode fazer o mesmo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/O_passo_a_passo_de_como_criei_meu_portfólio_e_como_você_pode_fazer_o_mesmo.svg)](https://dev.to/dellamora/o-passo-a-passo-de-como-criei-meu-portfolio-e-como-voce-pode-fazer-o-mesmo-23kf)
+[![How to setup Flutter for App Development?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_setup_Flutter_for_App_Development_.svg)](https://dev.to/slimpotatoboy/how-to-setup-flutter-for-app-development-5080)
+[![Learning Crystal with Battlesnake](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Learning_Crystal_with_Battlesnake.svg)](https://dev.to/fdocr/learning-crystal-with-battlesnake-3chj)
+[![How to make your Rust project management successfully?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_make_your_Rust_project_management_successfully_.svg)](https://dev.to/nathan20/how-to-make-your-rust-project-management-successfully-57m3)
+[![Open source or not?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Open_source_or_not_.svg)](https://dev.to/vulcanwm/open-source-or-not-19h8)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, February 14, 2023 at 5:18:14 AM
+> Last updated: Tuesday, February 14, 2023 at 11:11:41 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, February 14, 2023 at 5:18:20 AM
+> Last updated: Tuesday, February 14, 2023 at 11:11:44 AM
 
 > Showing 5 of 30 posts.
 
