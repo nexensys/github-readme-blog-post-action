@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, February 13, 2023 at 11:12:34 PM
+> Last updated: Tuesday, February 14, 2023 at 5:18:11 AM
 
 > Showing 5 of 12 posts.
 
-[![How to Use ChatGPT to Improve Your Productivity (5 Examples)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Use_ChatGPT_to_Improve_Your_Productivity_(5_Examples).svg)](https://dev.to/opendataanalytics/how-to-use-chatgpt-to-improve-your-productivity-5-examples-39lj)
-[![I'm autistic and there's something I want to do with it](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/I'm_autistic_and_there's_something_I_want_to_do_with_it.svg)](https://dev.to/valeriavg/im-autistic-and-theres-something-i-want-to-do-with-it-3n1k)
-[![Use axios as better practice in ReactJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Use_axios_as_better_practice_in_ReactJS.svg)](https://dev.to/deepakjaiswal/use-axios-as-better-practice-in-reactjs-2m6b)
-[![JavaScript Variable](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/JavaScript_Variable.svg)](https://dev.to/khalilnazari/javascript-variable-2ec9)
-[![How to implement authentication with nestjs using guards in 3 easy steps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_implement_authentication_with_nestjs_using_guards_in_3_easy_steps.svg)](https://dev.to/bryangranado/how-to-implement-authentication-with-nestjs-using-guards-in-3-easy-steps-24je)
+[![How GitHub Actions can improve CI/CD and compares with Azure Pipelines](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_GitHub_Actions_can_improve_CI_CD_and_compares_with_Azure_Pipelines.svg)](https://dev.to/pwd9000/how-github-actions-can-improve-cicd-and-compares-with-azure-pipelines-3bh)
+[![Developing Web Applications Using Php and Mysql](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Developing_Web_Applications_Using_Php_and_Mysql.svg)](https://dev.to/devbambhaniya/developing-web-applications-using-php-and-mysql-4c7g)
+[![A short guide to web accessibility](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_short_guide_to_web_accessibility.svg)](https://dev.to/adityasaini3/a-short-guide-to-web-accessibility-k12)
+[![How To Handle Data Fetching in Next.js Using SWR](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_To_Handle_Data_Fetching_in_Next.js_Using_SWR.svg)](https://dev.to/precious654/how-to-handle-data-fetching-in-nextjs-using-swr-2mhg)
+[![Sunil Tulsiani — Reasons You Should Invest in Real Estate](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Sunil_Tulsiani_—_Reasons_You_Should_Invest_in_Real_Estate.svg)](https://dev.to/suniltulsiani/sunil-tulsiani-reasons-you-should-invest-in-real-estate-27j2)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, February 13, 2023 at 11:12:38 PM
+> Last updated: Tuesday, February 14, 2023 at 5:18:14 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, February 13, 2023 at 11:12:43 PM
+> Last updated: Tuesday, February 14, 2023 at 5:18:20 AM
 
 > Showing 5 of 30 posts.
 
+[![
+Flasho: Open source tool for developers to set up transactional notifications in less than 5 minutes.
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Flasho__Open_source_tool_for_developers_to_set_up_transactional_notifications_in_less_than_5_minutes._.svg)](
+https://flasho.io/
+)
+[![Introducing Handlebars in WebAssembly | Blog by De Voorhoede](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Introducing_Handlebars_in_WebAssembly___Blog_by_De_Voorhoede.svg)](https://www.voorhoede.nl/en/blog/introducing-handlebars-in-webassembly/)
+[![Fate-Sharing, islands architecture and O(1) frameworks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Fate-Sharing__islands_architecture_and_O(1)_frameworks.svg)](https://microfrontends.substack.com/p/fate-sharing-islands-architecture)
 [![GitHub - ddosify/ddosify: High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud - https://ddosify.com 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ddosify_ddosify__High-performance_load_testing_tool__written_in_Golang._For_distributed_and_Geo-targeted_load_testing__Ddosify_Cloud_-_https___ddosify.com_🚀.svg)](https://github.com/ddosify/ddosify)
 [![API with NestJS #95. CI/CD with Amazon ECS and GitHub Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__95._CI_CD_with_Amazon_ECS_and_GitHub_Actions.svg)](https://wanago.io/2023/02/13/nestjs-api-ci-cd-aws-ecs-github-actions/)
-[![Interacting with OpenAI in Node.js and Express](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Interacting_with_OpenAI_in_Node.js_and_Express.svg)](https://medium.com/@hassan.djirdeh/interacting-with-openai-in-node-js-and-express-647e771fc4ad)
-[![
-I am not able to post  anything here , it is showing Invalid News
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_I_am_not_able_to_post__anything_here___it_is_showing_Invalid_News_.svg)](
-http://www.echojs.com/news/41479
-)
-[![React.js: The Documentary](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React.js__The_Documentary.svg)](https://www.youtube.com/watch?v=8pDqJVdNa44)
 
 
 <!-- post-list:end -->
