@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, February 13, 2023 at 5:52:22 PM
+> Last updated: Monday, February 13, 2023 at 11:12:34 PM
 
 > Showing 5 of 12 posts.
 
-[![Code Comments Are Not Enough](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Code_Comments_Are_Not_Enough.svg)](https://dev.to/ericmeadowsdev/code-comments-are-not-enough-2eae)
-[![Automating the deletion of specifc inbound rules from any security groups in AWS via Config](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Automating_the_deletion_of_specifc_inbound_rules_from_any_security_groups_in_AWS_via_Config.svg)](https://dev.to/aws-builders/automating-the-deletion-of-specifc-inbound-rules-from-any-security-groups-in-aws-via-config-21lb)
-[![AWS Cloud Quest: Triggers - Aggregating Data](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/AWS_Cloud_Quest__Triggers_-_Aggregating_Data.svg)](https://dev.to/arc/aws-cloud-quest-triggers-aggregating-data-4njl)
-[![Deploying your React.js & Express.js server to Render.com](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Deploying_your_React.js___Express.js_server_to_Render.com.svg)](https://dev.to/pixelrena/deploying-your-reactjs-expressjs-server-to-rendercom-4jbo)
-[![Laravel Nested Eager Loading on Polymorphic Relationships](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Laravel_Nested_Eager_Loading_on_Polymorphic_Relationships.svg)](https://dev.to/muathye/laravel-nested-eager-loading-on-polymorphic-relationships-2dmc)
+[![How to Use ChatGPT to Improve Your Productivity (5 Examples)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Use_ChatGPT_to_Improve_Your_Productivity_(5_Examples).svg)](https://dev.to/opendataanalytics/how-to-use-chatgpt-to-improve-your-productivity-5-examples-39lj)
+[![I'm autistic and there's something I want to do with it](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/I'm_autistic_and_there's_something_I_want_to_do_with_it.svg)](https://dev.to/valeriavg/im-autistic-and-theres-something-i-want-to-do-with-it-3n1k)
+[![Use axios as better practice in ReactJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Use_axios_as_better_practice_in_ReactJS.svg)](https://dev.to/deepakjaiswal/use-axios-as-better-practice-in-reactjs-2m6b)
+[![JavaScript Variable](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/JavaScript_Variable.svg)](https://dev.to/khalilnazari/javascript-variable-2ec9)
+[![How to implement authentication with nestjs using guards in 3 easy steps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_implement_authentication_with_nestjs_using_guards_in_3_easy_steps.svg)](https://dev.to/bryangranado/how-to-implement-authentication-with-nestjs-using-guards-in-3-easy-steps-24je)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, February 13, 2023 at 5:52:26 PM
+> Last updated: Monday, February 13, 2023 at 11:12:38 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, February 13, 2023 at 5:52:32 PM
+> Last updated: Monday, February 13, 2023 at 11:12:43 PM
 
 > Showing 5 of 30 posts.
 
