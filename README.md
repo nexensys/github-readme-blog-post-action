@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, February 15, 2023 at 5:18:08 AM
+> Last updated: Wednesday, February 15, 2023 at 11:11:45 AM
 
 > Showing 5 of 12 posts.
 
-[![The Power of AWS Step Functions: Simplifying Complex Applications](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Power_of_AWS_Step_Functions__Simplifying_Complex_Applications.svg)](https://dev.to/blst-security/the-power-of-aws-step-functions-simplifying-complex-applications-2lga)
-[![Setup External Secrets with Hashicorp Vault on AWS EKS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Setup_External_Secrets_with_Hashicorp_Vault_on_AWS_EKS.svg)](https://dev.to/argonaut/setup-external-secrets-with-hashicorp-vault-on-aws-eks-o1d)
-[![Basic End To End Encryption With Crypto](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Basic_End_To_End_Encryption_With_Crypto.svg)](https://dev.to/lambstar/basic-end-to-end-encryption-with-crypto-2gh7)
-[![#refineweek: Setting Up the Client App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/_refineweek__Setting_Up_the_Client_App.svg)](https://dev.to/refine/refineweek-setting-up-the-client-app-5722)
-[![Creating a Custom Solana Connect Wallet UI with React and Chakra UI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Creating_a_Custom_Solana_Connect_Wallet_UI_with_React_and_Chakra_UI.svg)](https://dev.to/anishde12020/creating-a-custom-solana-connect-wallet-ui-with-react-and-chakra-ui-4lko)
+[![How to Send Invoice and Add Payment Reminder in Next.js with Courier API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Send_Invoice_and_Add_Payment_Reminder_in_Next.js_with_Courier_API.svg)](https://dev.to/courier/how-to-send-invoice-and-add-payment-reminder-in-nextjs-with-courier-api-3i0a)
+[![Draggable element & Cursor to see the filters separately](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Draggable_element___Cursor_to_see_the_filters_separately.svg)](https://dev.to/amiru_weerathunga/draggable-element-cursor-to-see-the-filters-separately-2fk1)
+[![Next.js Tutorial: Building a Complete Web App from Scratch with React, Server-Side Rendering, and SEO-Friendly URLs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Next.js_Tutorial__Building_a_Complete_Web_App_from_Scratch_with_React__Server-Side_Rendering__and_SEO-Friendly_URLs.svg)](https://dev.to/monu181/nextjs-tutorial-building-a-complete-web-app-from-scratch-with-react-server-side-rendering-and-seo-friendly-urls-3c55)
+[![A Guide for "this" keyword in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_Guide_for__this__keyword_in_JavaScript.svg)](https://dev.to/brianbogita/a-guide-for-this-keyword-in-javascript-3fo5)
+[![What are the key differences between React.js and Next.js in terms of technical capabilities?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_are_the_key_differences_between_React.js_and_Next.js_in_terms_of_technical_capabilities_.svg)](https://dev.to/monu181/what-are-the-key-differences-between-reactjs-and-nextjs-in-terms-of-technical-capabilities-3em)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, February 15, 2023 at 5:18:11 AM
+> Last updated: Wednesday, February 15, 2023 at 11:11:48 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,14 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, February 15, 2023 at 5:18:14 AM
+> Last updated: Wednesday, February 15, 2023 at 11:11:51 AM
 
 > Showing 5 of 30 posts.
 
+[![JavaScript Optional Chaining with Array Index](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Optional_Chaining_with_Array_Index.svg)](
+https://masteringjs.io/tutorials/fundamentals/optional-chaining-array
+)
+[![Ready to Release? Securing Your React Native Apps - Semaphore](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Ready_to_Release__Securing_Your_React_Native_Apps_-_Semaphore.svg)](https://semaphoreci.com/blog/securing-react-native)
 [![Is It Worth Learning JavaScript? Popularity, Salaries, and Future](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Is_It_Worth_Learning_JavaScript__Popularity__Salaries__and_Future.svg)](https://stackdiary.com/is-it-worth-learning-javascript/)
 [![Mastering the semantic versioning syntax in package.json: A Beginner's Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Mastering_the_semantic_versioning_syntax_in_package.json__A_Beginner's_Guide.svg)](
 https://frontendroom.com/semantic-versioning-in-package-json/
@@ -56,8 +60,6 @@ Flasho: Open source tool for developers to set up transactional notifications in
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Flasho__Open_source_tool_for_developers_to_set_up_transactional_notifications_in_less_than_5_minutes._.svg)](
 https://flasho.io/
 )
-[![Introducing Handlebars in WebAssembly | Blog by De Voorhoede](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Introducing_Handlebars_in_WebAssembly___Blog_by_De_Voorhoede.svg)](https://www.voorhoede.nl/en/blog/introducing-handlebars-in-webassembly/)
-[![Fate-Sharing, islands architecture and O(1) frameworks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Fate-Sharing__islands_architecture_and_O(1)_frameworks.svg)](https://microfrontends.substack.com/p/fate-sharing-islands-architecture)
 
 
 <!-- post-list:end -->
