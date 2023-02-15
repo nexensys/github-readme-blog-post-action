@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, February 14, 2023 at 5:50:40 PM
+> Last updated: Tuesday, February 14, 2023 at 11:12:36 PM
 
 > Showing 5 of 12 posts.
 
-[![Sexiest way to manage your AWS resources](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Sexiest_way_to_manage_your_AWS_resources.svg)](https://dev.to/aws-builders/sexiest-way-to-manage-your-aws-resources-3nc9)
-[![The Best Engineers Think Like Investors, Not Builders](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Best_Engineers_Think_Like_Investors__Not_Builders.svg)](https://dev.to/_michaellin/the-best-engineers-think-like-investors-not-builders-1ip3)
-[![Is it Time to go Back to the Monolith?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Is_it_Time_to_go_Back_to_the_Monolith_.svg)](https://dev.to/codenameone/is-it-time-to-go-back-to-the-monolith-3eok)
-[![#refineweek: Pilot & refine architecture](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/_refineweek__Pilot___refine_architecture.svg)](https://dev.to/refine/refineweek-pilot-refine-architecture-dg3)
-[![Top 7 Featured DEV Posts from the Past Week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_7_Featured_DEV_Posts_from_the_Past_Week.svg)](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-40)
+[![Accelerate CI/CD with Ephemeral Environments](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Accelerate_CI_CD_with_Ephemeral_Environments.svg)](https://dev.to/pavanbelagatti/accelerate-cicd-with-ephemeral-environments-115b)
+[![Get me there faster](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Get_me_there_faster.svg)](https://dev.to/aws-builders/get-me-there-faster-2gc1)
+[![How to optimize website assets loading?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_optimize_website_assets_loading_.svg)](https://dev.to/stakedesigner/how-to-optimize-website-assets-loading-3icg)
+[![Top 9 visual modelling tools for software architecture](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_9_visual_modelling_tools_for_software_architecture.svg)](https://dev.to/icepanel/top-9-visual-modelling-tools-for-software-architecture-19pb)
+[![CodeSmash - Building in Public - Add Stacks to the Canvas](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/CodeSmash_-_Building_in_Public_-_Add_Stacks_to_the_Canvas.svg)](https://dev.to/mariostopfer/codesmash-building-in-public-add-stacks-to-the-canvas-4jo6)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, February 14, 2023 at 5:50:43 PM
+> Last updated: Tuesday, February 14, 2023 at 11:12:39 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, February 14, 2023 at 5:50:47 PM
+> Last updated: Tuesday, February 14, 2023 at 11:12:41 PM
 
 > Showing 5 of 30 posts.
 
