@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, February 14, 2023 at 11:11:38 AM
+> Last updated: Tuesday, February 14, 2023 at 5:50:40 PM
 
 > Showing 5 of 12 posts.
 
-[![O passo a passo de como criei meu portfólio e como você pode fazer o mesmo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/O_passo_a_passo_de_como_criei_meu_portfólio_e_como_você_pode_fazer_o_mesmo.svg)](https://dev.to/dellamora/o-passo-a-passo-de-como-criei-meu-portfolio-e-como-voce-pode-fazer-o-mesmo-23kf)
-[![How to setup Flutter for App Development?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_setup_Flutter_for_App_Development_.svg)](https://dev.to/slimpotatoboy/how-to-setup-flutter-for-app-development-5080)
-[![Learning Crystal with Battlesnake](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Learning_Crystal_with_Battlesnake.svg)](https://dev.to/fdocr/learning-crystal-with-battlesnake-3chj)
-[![How to make your Rust project management successfully?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_make_your_Rust_project_management_successfully_.svg)](https://dev.to/nathan20/how-to-make-your-rust-project-management-successfully-57m3)
-[![Open source or not?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Open_source_or_not_.svg)](https://dev.to/vulcanwm/open-source-or-not-19h8)
+[![Sexiest way to manage your AWS resources](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Sexiest_way_to_manage_your_AWS_resources.svg)](https://dev.to/aws-builders/sexiest-way-to-manage-your-aws-resources-3nc9)
+[![The Best Engineers Think Like Investors, Not Builders](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Best_Engineers_Think_Like_Investors__Not_Builders.svg)](https://dev.to/_michaellin/the-best-engineers-think-like-investors-not-builders-1ip3)
+[![Is it Time to go Back to the Monolith?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Is_it_Time_to_go_Back_to_the_Monolith_.svg)](https://dev.to/codenameone/is-it-time-to-go-back-to-the-monolith-3eok)
+[![#refineweek: Pilot & refine architecture](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/_refineweek__Pilot___refine_architecture.svg)](https://dev.to/refine/refineweek-pilot-refine-architecture-dg3)
+[![Top 7 Featured DEV Posts from the Past Week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_7_Featured_DEV_Posts_from_the_Past_Week.svg)](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-40)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, February 14, 2023 at 11:11:41 AM
+> Last updated: Tuesday, February 14, 2023 at 5:50:43 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,13 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, February 14, 2023 at 11:11:44 AM
+> Last updated: Tuesday, February 14, 2023 at 5:50:47 PM
 
 > Showing 5 of 30 posts.
 
+[![Mastering the semantic versioning syntax in package.json: A Beginner's Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Mastering_the_semantic_versioning_syntax_in_package.json__A_Beginner's_Guide.svg)](
+https://frontendroom.com/semantic-versioning-in-package-json/
+)
 [![
 Flasho: Open source tool for developers to set up transactional notifications in less than 5 minutes.
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Flasho__Open_source_tool_for_developers_to_set_up_transactional_notifications_in_less_than_5_minutes._.svg)](
@@ -55,7 +58,6 @@ https://flasho.io/
 [![Introducing Handlebars in WebAssembly | Blog by De Voorhoede](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Introducing_Handlebars_in_WebAssembly___Blog_by_De_Voorhoede.svg)](https://www.voorhoede.nl/en/blog/introducing-handlebars-in-webassembly/)
 [![Fate-Sharing, islands architecture and O(1) frameworks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Fate-Sharing__islands_architecture_and_O(1)_frameworks.svg)](https://microfrontends.substack.com/p/fate-sharing-islands-architecture)
 [![GitHub - ddosify/ddosify: High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud - https://ddosify.com 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ddosify_ddosify__High-performance_load_testing_tool__written_in_Golang._For_distributed_and_Geo-targeted_load_testing__Ddosify_Cloud_-_https___ddosify.com_🚀.svg)](https://github.com/ddosify/ddosify)
-[![API with NestJS #95. CI/CD with Amazon ECS and GitHub Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__95._CI_CD_with_Amazon_ECS_and_GitHub_Actions.svg)](https://wanago.io/2023/02/13/nestjs-api-ci-cd-aws-ecs-github-actions/)
 
 
 <!-- post-list:end -->
