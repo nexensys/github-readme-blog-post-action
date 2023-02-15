@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, February 14, 2023 at 11:12:36 PM
+> Last updated: Wednesday, February 15, 2023 at 5:18:08 AM
 
 > Showing 5 of 12 posts.
 
-[![Accelerate CI/CD with Ephemeral Environments](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Accelerate_CI_CD_with_Ephemeral_Environments.svg)](https://dev.to/pavanbelagatti/accelerate-cicd-with-ephemeral-environments-115b)
-[![Get me there faster](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Get_me_there_faster.svg)](https://dev.to/aws-builders/get-me-there-faster-2gc1)
-[![How to optimize website assets loading?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_optimize_website_assets_loading_.svg)](https://dev.to/stakedesigner/how-to-optimize-website-assets-loading-3icg)
-[![Top 9 visual modelling tools for software architecture](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_9_visual_modelling_tools_for_software_architecture.svg)](https://dev.to/icepanel/top-9-visual-modelling-tools-for-software-architecture-19pb)
-[![CodeSmash - Building in Public - Add Stacks to the Canvas](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/CodeSmash_-_Building_in_Public_-_Add_Stacks_to_the_Canvas.svg)](https://dev.to/mariostopfer/codesmash-building-in-public-add-stacks-to-the-canvas-4jo6)
+[![The Power of AWS Step Functions: Simplifying Complex Applications](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Power_of_AWS_Step_Functions__Simplifying_Complex_Applications.svg)](https://dev.to/blst-security/the-power-of-aws-step-functions-simplifying-complex-applications-2lga)
+[![Setup External Secrets with Hashicorp Vault on AWS EKS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Setup_External_Secrets_with_Hashicorp_Vault_on_AWS_EKS.svg)](https://dev.to/argonaut/setup-external-secrets-with-hashicorp-vault-on-aws-eks-o1d)
+[![Basic End To End Encryption With Crypto](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Basic_End_To_End_Encryption_With_Crypto.svg)](https://dev.to/lambstar/basic-end-to-end-encryption-with-crypto-2gh7)
+[![#refineweek: Setting Up the Client App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/_refineweek__Setting_Up_the_Client_App.svg)](https://dev.to/refine/refineweek-setting-up-the-client-app-5722)
+[![Creating a Custom Solana Connect Wallet UI with React and Chakra UI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Creating_a_Custom_Solana_Connect_Wallet_UI_with_React_and_Chakra_UI.svg)](https://dev.to/anishde12020/creating-a-custom-solana-connect-wallet-ui-with-react-and-chakra-ui-4lko)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, February 14, 2023 at 11:12:39 PM
+> Last updated: Wednesday, February 15, 2023 at 5:18:11 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, February 14, 2023 at 11:12:41 PM
+> Last updated: Wednesday, February 15, 2023 at 5:18:14 AM
 
 > Showing 5 of 30 posts.
 
+[![Is It Worth Learning JavaScript? Popularity, Salaries, and Future](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Is_It_Worth_Learning_JavaScript__Popularity__Salaries__and_Future.svg)](https://stackdiary.com/is-it-worth-learning-javascript/)
 [![Mastering the semantic versioning syntax in package.json: A Beginner's Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Mastering_the_semantic_versioning_syntax_in_package.json__A_Beginner's_Guide.svg)](
 https://frontendroom.com/semantic-versioning-in-package-json/
 )
@@ -57,7 +58,6 @@ https://flasho.io/
 )
 [![Introducing Handlebars in WebAssembly | Blog by De Voorhoede](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Introducing_Handlebars_in_WebAssembly___Blog_by_De_Voorhoede.svg)](https://www.voorhoede.nl/en/blog/introducing-handlebars-in-webassembly/)
 [![Fate-Sharing, islands architecture and O(1) frameworks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Fate-Sharing__islands_architecture_and_O(1)_frameworks.svg)](https://microfrontends.substack.com/p/fate-sharing-islands-architecture)
-[![GitHub - ddosify/ddosify: High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud - https://ddosify.com 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ddosify_ddosify__High-performance_load_testing_tool__written_in_Golang._For_distributed_and_Geo-targeted_load_testing__Ddosify_Cloud_-_https___ddosify.com_🚀.svg)](https://github.com/ddosify/ddosify)
 
 
 <!-- post-list:end -->
