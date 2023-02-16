@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, February 15, 2023 at 5:50:29 PM
+> Last updated: Wednesday, February 15, 2023 at 11:12:04 PM
 
 > Showing 5 of 12 posts.
 
-[![How to create a custom random ID with Postgres](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_create_a_custom_random_ID_with_Postgres.svg)](https://dev.to/tgmarinhodev/how-to-create-a-custom-random-id-with-postgres-jg9)
-[![12 Top Python Libraries To Know in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/12_Top_Python_Libraries_To_Know_in_2023.svg)](https://dev.to/ritapossible/12-top-python-libraries-to-know-in-2023-3g3k)
-[![Code Organization for an Elixir Endpoint](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Code_Organization_for_an_Elixir_Endpoint.svg)](https://dev.to/clsource/code-organization-for-an-elixir-endpoint-3k2i)
-[![Welcome Thread - v212](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Welcome_Thread_-_v212.svg)](https://dev.to/thepracticaldev/welcome-thread-v212-mcf)
-[![Closing a Knowledge Gap: Best Practices for Writing Git Commit Messages](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Closing_a_Knowledge_Gap__Best_Practices_for_Writing_Git_Commit_Messages.svg)](https://dev.to/davidchedrick/closing-a-knowledge-gap-best-practices-for-writing-git-commit-messages-5c8l)
+[![Comandos básicos do Redis](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Comandos_básicos_do_Redis.svg)](https://dev.to/paulowalravendev/comandos-basicos-do-redis-3e6l)
+[![Is Astra Pro worth it (Answered 20 Questions to Help You Decide)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Is_Astra_Pro_worth_it_(Answered_20_Questions_to_Help_You_Decide).svg)](https://dev.to/digitalkube/is-astra-pro-worth-it-answered-20-questions-to-help-you-decide-163i)
+[![The Recursion Explanation I Wish I Had Read As A Self-Taught Developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Recursion_Explanation_I_Wish_I_Had_Read_As_A_Self-Taught_Developer.svg)](https://dev.to/gustavupp/the-recursion-explanation-i-wish-i-had-read-as-a-self-taught-developer-3g4p)
+[![Creating a Unique Constraint with DynamoDB](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Creating_a_Unique_Constraint_with_DynamoDB.svg)](https://dev.to/aws-builders/creating-a-unique-constraint-with-dynamodb-1k82)
+[![Build your next website with Astro](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_your_next_website_with_Astro.svg)](https://dev.to/360macky/build-your-next-website-with-astro-40ip)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, February 15, 2023 at 5:50:32 PM
+> Last updated: Wednesday, February 15, 2023 at 11:12:06 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, February 15, 2023 at 5:50:34 PM
+> Last updated: Wednesday, February 15, 2023 at 11:12:08 PM
 
 > Showing 5 of 30 posts.
 
