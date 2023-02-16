@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, February 15, 2023 at 11:11:45 AM
+> Last updated: Wednesday, February 15, 2023 at 5:50:29 PM
 
 > Showing 5 of 12 posts.
 
-[![How to Send Invoice and Add Payment Reminder in Next.js with Courier API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Send_Invoice_and_Add_Payment_Reminder_in_Next.js_with_Courier_API.svg)](https://dev.to/courier/how-to-send-invoice-and-add-payment-reminder-in-nextjs-with-courier-api-3i0a)
-[![Draggable element & Cursor to see the filters separately](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Draggable_element___Cursor_to_see_the_filters_separately.svg)](https://dev.to/amiru_weerathunga/draggable-element-cursor-to-see-the-filters-separately-2fk1)
-[![Next.js Tutorial: Building a Complete Web App from Scratch with React, Server-Side Rendering, and SEO-Friendly URLs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Next.js_Tutorial__Building_a_Complete_Web_App_from_Scratch_with_React__Server-Side_Rendering__and_SEO-Friendly_URLs.svg)](https://dev.to/monu181/nextjs-tutorial-building-a-complete-web-app-from-scratch-with-react-server-side-rendering-and-seo-friendly-urls-3c55)
-[![A Guide for "this" keyword in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_Guide_for__this__keyword_in_JavaScript.svg)](https://dev.to/brianbogita/a-guide-for-this-keyword-in-javascript-3fo5)
-[![What are the key differences between React.js and Next.js in terms of technical capabilities?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_are_the_key_differences_between_React.js_and_Next.js_in_terms_of_technical_capabilities_.svg)](https://dev.to/monu181/what-are-the-key-differences-between-reactjs-and-nextjs-in-terms-of-technical-capabilities-3em)
+[![How to create a custom random ID with Postgres](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_create_a_custom_random_ID_with_Postgres.svg)](https://dev.to/tgmarinhodev/how-to-create-a-custom-random-id-with-postgres-jg9)
+[![12 Top Python Libraries To Know in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/12_Top_Python_Libraries_To_Know_in_2023.svg)](https://dev.to/ritapossible/12-top-python-libraries-to-know-in-2023-3g3k)
+[![Code Organization for an Elixir Endpoint](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Code_Organization_for_an_Elixir_Endpoint.svg)](https://dev.to/clsource/code-organization-for-an-elixir-endpoint-3k2i)
+[![Welcome Thread - v212](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Welcome_Thread_-_v212.svg)](https://dev.to/thepracticaldev/welcome-thread-v212-mcf)
+[![Closing a Knowledge Gap: Best Practices for Writing Git Commit Messages](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Closing_a_Knowledge_Gap__Best_Practices_for_Writing_Git_Commit_Messages.svg)](https://dev.to/davidchedrick/closing-a-knowledge-gap-best-practices-for-writing-git-commit-messages-5c8l)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, February 15, 2023 at 11:11:48 AM
+> Last updated: Wednesday, February 15, 2023 at 5:50:32 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, February 15, 2023 at 11:11:51 AM
+> Last updated: Wednesday, February 15, 2023 at 5:50:34 PM
 
 > Showing 5 of 30 posts.
 
+[![Core-js maintainer complains open source is broken](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Core-js_maintainer_complains_open_source_is_broken.svg)](https://www.theregister.com/2023/02/15/corejs_russia_open_source/)
 [![JavaScript Optional Chaining with Array Index](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Optional_Chaining_with_Array_Index.svg)](
 https://masteringjs.io/tutorials/fundamentals/optional-chaining-array
 )
@@ -54,11 +55,6 @@ https://masteringjs.io/tutorials/fundamentals/optional-chaining-array
 [![Is It Worth Learning JavaScript? Popularity, Salaries, and Future](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Is_It_Worth_Learning_JavaScript__Popularity__Salaries__and_Future.svg)](https://stackdiary.com/is-it-worth-learning-javascript/)
 [![Mastering the semantic versioning syntax in package.json: A Beginner's Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Mastering_the_semantic_versioning_syntax_in_package.json__A_Beginner's_Guide.svg)](
 https://frontendroom.com/semantic-versioning-in-package-json/
-)
-[![
-Flasho: Open source tool for developers to set up transactional notifications in less than 5 minutes.
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Flasho__Open_source_tool_for_developers_to_set_up_transactional_notifications_in_less_than_5_minutes._.svg)](
-https://flasho.io/
 )
 
 
