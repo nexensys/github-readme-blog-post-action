@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, February 16, 2023 at 5:17:42 AM
+> Last updated: Thursday, February 16, 2023 at 11:10:11 AM
 
 > Showing 5 of 12 posts.
 
-[![Composable A/B Testing with Ninetailed and Contentful](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Composable_A_B_Testing_with_Ninetailed_and_Contentful.svg)](https://dev.to/ninetailed/composable-ab-testing-with-ninetailed-and-contentful-11p8)
-[![Open source StreamDeck alternative](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Open_source_StreamDeck_alternative.svg)](https://dev.to/josuigoa/open-source-streamdeck-alternative-1gf3)
-[![Tricky JavaScript Interview Question Using Array And Object Destructuring Combined](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Tricky_JavaScript_Interview_Question_Using_Array_And_Object_Destructuring_Combined.svg)](https://dev.to/myogeshchavan97/tricky-javascript-interview-question-using-array-and-object-destructuring-combined-5399)
-[![UI Design Roadmap 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/UI_Design_Roadmap_2023.svg)](https://dev.to/hachib/ui-design-roadmap-2023-37mm)
-[![traceroute](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/traceroute.svg)](https://dev.to/sunnybhambhani/traceroute-2o6m)
+[![Aplicando o Learn In Public na Vida Real](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Aplicando_o_Learn_In_Public_na_Vida_Real.svg)](https://dev.to/devrelbr/aplicando-o-learn-in-public-na-vida-real-3027)
+[![Battle of the Cookies: Regular Cookies vs. HTTP-Only](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Battle_of_the_Cookies__Regular_Cookies_vs._HTTP-Only.svg)](https://dev.to/costamatheus97/battle-of-the-cookies-regular-cookies-vs-http-only-1n0a)
+[![Manipulando Set no Redis](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Manipulando_Set_no_Redis.svg)](https://dev.to/paulowalravendev/manipulando-set-no-redis-57fp)
+[![First Steps With TinyBase](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/First_Steps_With_TinyBase.svg)](https://dev.to/parenttobias/first-steps-with-tinybase-1ola)
+[![User Interface Principles: Neumorphism and Glassmorphism](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/User_Interface_Principles__Neumorphism_and_Glassmorphism.svg)](https://dev.to/get_pieces/user-interface-principles-neumorphism-and-glassmorphism-4cf7)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, February 16, 2023 at 5:17:44 AM
+> Last updated: Thursday, February 16, 2023 at 11:10:14 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, February 16, 2023 at 5:17:47 AM
+> Last updated: Thursday, February 16, 2023 at 11:10:16 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - StopNGo/react-proto: Template React project with full TypeScript and SSR support.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_StopNGo_react-proto__Template_React_project_with_full_TypeScript_and_SSR_support..svg)](https://github.com/StopNGo/react-proto)
 [![How to Effortlessly Migrate from Styled Components CSS-in-JS to Stylify Utility-First CSS for Better React Development. | Stylify CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Effortlessly_Migrate_from_Styled_Components_CSS-in-JS_to_Stylify_Utility-First_CSS_for_Better_React_Development.___Stylify_CSS.svg)](https://stylifycss.com/blog/how-to-migrate-from-styled-components)
 [![Core-js maintainer complains open source is broken](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Core-js_maintainer_complains_open_source_is_broken.svg)](https://www.theregister.com/2023/02/15/corejs_russia_open_source/)
 [![JavaScript Optional Chaining with Array Index](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Optional_Chaining_with_Array_Index.svg)](
 https://masteringjs.io/tutorials/fundamentals/optional-chaining-array
 )
 [![Ready to Release? Securing Your React Native Apps - Semaphore](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Ready_to_Release__Securing_Your_React_Native_Apps_-_Semaphore.svg)](https://semaphoreci.com/blog/securing-react-native)
-[![Is It Worth Learning JavaScript? Popularity, Salaries, and Future](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Is_It_Worth_Learning_JavaScript__Popularity__Salaries__and_Future.svg)](https://stackdiary.com/is-it-worth-learning-javascript/)
 
 
 <!-- post-list:end -->
