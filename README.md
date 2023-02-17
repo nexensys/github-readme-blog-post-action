@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, February 16, 2023 at 11:12:26 PM
+> Last updated: Friday, February 17, 2023 at 5:17:08 AM
 
 > Showing 5 of 12 posts.
 
-[![AWS Pipeline + GitHub: Automating Your Software Delivery Process](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/AWS_Pipeline_+_GitHub__Automating_Your_Software_Delivery_Process.svg)](https://dev.to/aws-builders/aws-pipeline-github-automating-your-software-delivery-process-55i0)
-[![Put ChatGPT on your website for €49 per month](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Put_ChatGPT_on_your_website_for_€49_per_month.svg)](https://dev.to/polterguy/put-chatgpt-on-your-website-for-eu49-per-month-1kaj)
-[![Tricky JavaScript Interview Question Using Array And Object Destructuring Combined](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Tricky_JavaScript_Interview_Question_Using_Array_And_Object_Destructuring_Combined.svg)](https://dev.to/myogeshchavan97/tricky-javascript-interview-question-using-array-and-object-destructuring-combined-nj5)
-[![Calisthenics exercises recommendation software](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Calisthenics_exercises_recommendation_software.svg)](https://dev.to/ftapiaa27/calisthenics-exercises-recommendation-software-2672)
-[![E quando o hello world já começa dando errado: a cultura de escrever artigos com tutoriais que só dão certo.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/E_quando_o_hello_world_já_começa_dando_errado__a_cultura_de_escrever_artigos_com_tutoriais_que_só_dão_certo..svg)](https://dev.to/feministech/e-quando-o-hello-world-ja-comeca-dando-errado-a-cultura-de-escrever-artigos-com-tutoriais-que-so-dao-certo-379m)
+[![10 remote tech companies hiring developers now](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/10_remote_tech_companies_hiring_developers_now.svg)](https://dev.to/karlybl/10-remote-tech-companies-hiring-developers-now-3ojg)
+[![Optimize React Component Performance with Memoization Using React.memo()](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Optimize_React_Component_Performance_with_Memoization_Using_React.memo().svg)](https://dev.to/codeofrelevancy/optimize-react-component-performance-with-memoization-using-reactmemo-3chp)
+[![How to make your GitHub project pop on social media](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_make_your_GitHub_project_pop_on_social_media.svg)](https://dev.to/mizouzie/how-to-make-your-github-project-pop-on-social-media-38je)
+[![A Beginner's Guide to ELK Stack](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_Beginner's_Guide_to_ELK_Stack.svg)](https://dev.to/devland/a-beginners-guide-to-elk-stack-2gk3)
+[![The Cloud Monitoring Journey](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_Cloud_Monitoring_Journey.svg)](https://dev.to/promcat/the-cloud-monitoring-journey-27k8)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, February 16, 2023 at 11:12:30 PM
+> Last updated: Friday, February 17, 2023 at 5:17:11 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, February 16, 2023 at 11:12:33 PM
+> Last updated: Friday, February 17, 2023 at 5:17:15 AM
 
 > Showing 5 of 30 posts.
 
