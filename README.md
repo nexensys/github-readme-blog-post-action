@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, February 16, 2023 at 11:10:11 AM
+> Last updated: Thursday, February 16, 2023 at 5:52:58 PM
 
 > Showing 5 of 12 posts.
 
-[![Aplicando o Learn In Public na Vida Real](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Aplicando_o_Learn_In_Public_na_Vida_Real.svg)](https://dev.to/devrelbr/aplicando-o-learn-in-public-na-vida-real-3027)
-[![Battle of the Cookies: Regular Cookies vs. HTTP-Only](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Battle_of_the_Cookies__Regular_Cookies_vs._HTTP-Only.svg)](https://dev.to/costamatheus97/battle-of-the-cookies-regular-cookies-vs-http-only-1n0a)
-[![Manipulando Set no Redis](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Manipulando_Set_no_Redis.svg)](https://dev.to/paulowalravendev/manipulando-set-no-redis-57fp)
-[![First Steps With TinyBase](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/First_Steps_With_TinyBase.svg)](https://dev.to/parenttobias/first-steps-with-tinybase-1ola)
-[![User Interface Principles: Neumorphism and Glassmorphism](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/User_Interface_Principles__Neumorphism_and_Glassmorphism.svg)](https://dev.to/get_pieces/user-interface-principles-neumorphism-and-glassmorphism-4cf7)
+[![Can Value Stream Management Solve DevOps‘ Struggles?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Can_Value_Stream_Management_Solve_DevOps‘_Struggles_.svg)](https://dev.to/linearb/can-value-stream-management-solve-devops-struggles-icj)
+[![How to Build Offline Web Applications](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Build_Offline_Web_Applications.svg)](https://dev.to/scofieldidehen/how-to-build-offline-web-applications-5a9l)
+[![AI at Work: Looking within as an Autistic Programmer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/AI_at_Work__Looking_within_as_an_Autistic_Programmer.svg)](https://dev.to/adam_cyclones/ai-at-work-looking-within-as-an-autistic-programmer-5hdm)
+[![An animated Heart for Valentine's Day](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/An_animated_Heart_for_Valentine's_Day.svg)](https://dev.to/ll/an-animated-heart-for-valentines-day-2m74)
+[![useCallback – Demystifying React Hooks (Pt. 1)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/useCallback_–_Demystifying_React_Hooks_(Pt._1).svg)](https://dev.to/austinrt/demystifying-react-hooks-usecallback-4618)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, February 16, 2023 at 11:10:14 AM
+> Last updated: Thursday, February 16, 2023 at 5:53:02 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, February 16, 2023 at 11:10:16 AM
+> Last updated: Thursday, February 16, 2023 at 5:53:05 PM
 
 > Showing 5 of 30 posts.
 
+[![
+Free Node.js Full Stack Developer Course: Build Your Own Photo Sharing App
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Free_Node.js_Full_Stack_Developer_Course__Build_Your_Own_Photo_Sharing_App_.svg)](
+https://kinsta.com/academy/course/node-js-full-stack-developer/
+)
+[![Protect Your Site from Bots with CAPTCHAs and JavaScript Challenges](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Protect_Your_Site_from_Bots_with_CAPTCHAs_and_JavaScript_Challenges.svg)](https://auth0.com/blog/protect-site-from-bots-with-captchas-javascript-challenges/)
 [![GitHub - StopNGo/react-proto: Template React project with full TypeScript and SSR support.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_StopNGo_react-proto__Template_React_project_with_full_TypeScript_and_SSR_support..svg)](https://github.com/StopNGo/react-proto)
 [![How to Effortlessly Migrate from Styled Components CSS-in-JS to Stylify Utility-First CSS for Better React Development. | Stylify CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Effortlessly_Migrate_from_Styled_Components_CSS-in-JS_to_Stylify_Utility-First_CSS_for_Better_React_Development.___Stylify_CSS.svg)](https://stylifycss.com/blog/how-to-migrate-from-styled-components)
 [![Core-js maintainer complains open source is broken](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Core-js_maintainer_complains_open_source_is_broken.svg)](https://www.theregister.com/2023/02/15/corejs_russia_open_source/)
-[![JavaScript Optional Chaining with Array Index](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Optional_Chaining_with_Array_Index.svg)](
-https://masteringjs.io/tutorials/fundamentals/optional-chaining-array
-)
-[![Ready to Release? Securing Your React Native Apps - Semaphore](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Ready_to_Release__Securing_Your_React_Native_Apps_-_Semaphore.svg)](https://semaphoreci.com/blog/securing-react-native)
 
 
 <!-- post-list:end -->
