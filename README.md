@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, February 16, 2023 at 5:52:58 PM
+> Last updated: Thursday, February 16, 2023 at 11:12:26 PM
 
 > Showing 5 of 12 posts.
 
-[![Can Value Stream Management Solve DevOps‘ Struggles?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Can_Value_Stream_Management_Solve_DevOps‘_Struggles_.svg)](https://dev.to/linearb/can-value-stream-management-solve-devops-struggles-icj)
-[![How to Build Offline Web Applications](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Build_Offline_Web_Applications.svg)](https://dev.to/scofieldidehen/how-to-build-offline-web-applications-5a9l)
-[![AI at Work: Looking within as an Autistic Programmer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/AI_at_Work__Looking_within_as_an_Autistic_Programmer.svg)](https://dev.to/adam_cyclones/ai-at-work-looking-within-as-an-autistic-programmer-5hdm)
-[![An animated Heart for Valentine's Day](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/An_animated_Heart_for_Valentine's_Day.svg)](https://dev.to/ll/an-animated-heart-for-valentines-day-2m74)
-[![useCallback – Demystifying React Hooks (Pt. 1)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/useCallback_–_Demystifying_React_Hooks_(Pt._1).svg)](https://dev.to/austinrt/demystifying-react-hooks-usecallback-4618)
+[![AWS Pipeline + GitHub: Automating Your Software Delivery Process](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/AWS_Pipeline_+_GitHub__Automating_Your_Software_Delivery_Process.svg)](https://dev.to/aws-builders/aws-pipeline-github-automating-your-software-delivery-process-55i0)
+[![Put ChatGPT on your website for €49 per month](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Put_ChatGPT_on_your_website_for_€49_per_month.svg)](https://dev.to/polterguy/put-chatgpt-on-your-website-for-eu49-per-month-1kaj)
+[![Tricky JavaScript Interview Question Using Array And Object Destructuring Combined](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Tricky_JavaScript_Interview_Question_Using_Array_And_Object_Destructuring_Combined.svg)](https://dev.to/myogeshchavan97/tricky-javascript-interview-question-using-array-and-object-destructuring-combined-nj5)
+[![Calisthenics exercises recommendation software](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Calisthenics_exercises_recommendation_software.svg)](https://dev.to/ftapiaa27/calisthenics-exercises-recommendation-software-2672)
+[![E quando o hello world já começa dando errado: a cultura de escrever artigos com tutoriais que só dão certo.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/E_quando_o_hello_world_já_começa_dando_errado__a_cultura_de_escrever_artigos_com_tutoriais_que_só_dão_certo..svg)](https://dev.to/feministech/e-quando-o-hello-world-ja-comeca-dando-errado-a-cultura-de-escrever-artigos-com-tutoriais-que-so-dao-certo-379m)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, February 16, 2023 at 5:53:02 PM
+> Last updated: Thursday, February 16, 2023 at 11:12:30 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, February 16, 2023 at 5:53:05 PM
+> Last updated: Thursday, February 16, 2023 at 11:12:33 PM
 
 > Showing 5 of 30 posts.
 
