@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, February 17, 2023 at 5:48:14 PM
+> Last updated: Friday, February 17, 2023 at 11:10:57 PM
 
 > Showing 5 of 12 posts.
 
-[![Golang Roadmap 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Golang_Roadmap_2023.svg)](https://dev.to/learngoonline/golang-roadmap-2023-4076)
-[![Você sabia? - Curiosidades JAVA](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Você_sabia__-_Curiosidades_JAVA.svg)](https://dev.to/brmartin/voce-sabia-curiosidades-java-52lh)
-[![🪝 What is Hoisting in JavaScript?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/🪝_What_is_Hoisting_in_JavaScript_.svg)](https://dev.to/catherineisonline/what-is-hoisting-in-javascript-5c9b)
-[![Some new features to look forward to on DEV](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Some_new_features_to_look_forward_to_on_DEV.svg)](https://dev.to/devteam/some-new-features-to-look-forward-to-on-dev-5jk)
-[![Godot 4: "Pointing" an Area2D to the correct direction using look_at!.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Godot_4___Pointing__an_Area2D_to_the_correct_direction_using_look_at!..svg)](https://dev.to/pcanella/godot-4-pointing-an-area2d-to-the-correct-direction-using-lookat-58k2)
+[![Tiny CRM - Linode + DEV Hackathon Submission](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Tiny_CRM_-_Linode_+_DEV_Hackathon_Submission.svg)](https://dev.to/frikishaan/tiny-crm-linode-dev-hackathon-submission-5gc1)
+[![Top 10 Things to not do while coding!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_10_Things_to_not_do_while_coding!.svg)](https://dev.to/dhruvjoshi9/top-10-things-to-not-do-while-coding-2hl3)
+[![How to use Docker with Ruby on Rails applications.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_use_Docker_with_Ruby_on_Rails_applications..svg)](https://dev.to/harsh_u115/how-to-use-docker-with-ruby-on-rails-applications-4p13)
+[![State Management in React with Redux](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/State_Management_in_React_with_Redux.svg)](https://dev.to/haszankauna/state-management-in-react-with-redux-2l41)
+[![React Native vs React: Key Differences and Use Cases](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/React_Native_vs_React__Key_Differences_and_Use_Cases.svg)](https://dev.to/haszankauna/react-native-vs-react-key-differences-and-use-cases-1l8f)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, February 17, 2023 at 5:48:17 PM
+> Last updated: Friday, February 17, 2023 at 11:11:01 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, February 17, 2023 at 5:48:22 PM
+> Last updated: Friday, February 17, 2023 at 11:11:04 PM
 
 > Showing 5 of 30 posts.
 
