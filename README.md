@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, February 18, 2023 at 5:15:22 AM
+> Last updated: Saturday, February 18, 2023 at 11:10:27 AM
 
 > Showing 5 of 12 posts.
 
-[![Redux-like state container in SwiftUI. Derived stores.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Redux-like_state_container_in_SwiftUI._Derived_stores..svg)](https://dev.to/sergeyleschev/redux-like-state-container-in-swiftui-derived-stores-2d62)
-[![Redux-like state container in SwiftUI. Reducer composition.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Redux-like_state_container_in_SwiftUI._Reducer_composition..svg)](https://dev.to/sergeyleschev/redux-like-state-container-in-swiftui-reducer-composition-3j0m)
-[![Redux-like state container in SwiftUI. State composition.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Redux-like_state_container_in_SwiftUI._State_composition..svg)](https://dev.to/sergeyleschev/redux-like-state-container-in-swiftui-state-composition-57e5)
-[![Redux-like state container in SwiftUI. State normalization.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Redux-like_state_container_in_SwiftUI._State_normalization..svg)](https://dev.to/sergeyleschev/redux-like-state-container-in-swiftui-state-normalization-108o)
-[![Mastering CSS Flexbox: From Basics to Advanced Techniques](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Mastering_CSS_Flexbox__From_Basics_to_Advanced_Techniques.svg)](https://dev.to/sarveshh/mastering-css-flexbox-from-basics-to-advanced-techniques-1foe)
+[![Python Lists tutorial](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Python_Lists_tutorial.svg)](https://dev.to/max24816/python-lists-tutorial-2g43)
+[![First Next.js website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/First_Next.js_website.svg)](https://dev.to/vulcanwm/first-nextjs-website-3e8m)
+[![How to manage physical resources in your Docker containers and keep production servers fast?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_manage_physical_resources_in_your_Docker_containers_and_keep_production_servers_fast_.svg)](https://dev.to/nahuelsegovia/how-to-manage-physical-resources-in-your-docker-containers-and-keep-production-servers-fast-5apj)
+[![A bright future for Effect](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_bright_future_for_Effect.svg)](https://dev.to/effect-ts/a-bright-future-for-effect-455m)
+[![Ruby on Rails on Lambda on Arm64/Graviton2!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Ruby_on_Rails_on_Lambda_on_Arm64_Graviton2!.svg)](https://dev.to/aws-heroes/ruby-on-rails-on-lambda-on-arm64graviton2-154e)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, February 18, 2023 at 5:15:24 AM
+> Last updated: Saturday, February 18, 2023 at 11:10:30 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, February 18, 2023 at 5:15:27 AM
+> Last updated: Saturday, February 18, 2023 at 11:10:33 AM
 
 > Showing 5 of 30 posts.
 
