@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, February 17, 2023 at 11:10:57 PM
+> Last updated: Saturday, February 18, 2023 at 5:15:22 AM
 
 > Showing 5 of 12 posts.
 
-[![Tiny CRM - Linode + DEV Hackathon Submission](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Tiny_CRM_-_Linode_+_DEV_Hackathon_Submission.svg)](https://dev.to/frikishaan/tiny-crm-linode-dev-hackathon-submission-5gc1)
-[![Top 10 Things to not do while coding!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_10_Things_to_not_do_while_coding!.svg)](https://dev.to/dhruvjoshi9/top-10-things-to-not-do-while-coding-2hl3)
-[![How to use Docker with Ruby on Rails applications.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_use_Docker_with_Ruby_on_Rails_applications..svg)](https://dev.to/harsh_u115/how-to-use-docker-with-ruby-on-rails-applications-4p13)
-[![State Management in React with Redux](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/State_Management_in_React_with_Redux.svg)](https://dev.to/haszankauna/state-management-in-react-with-redux-2l41)
-[![React Native vs React: Key Differences and Use Cases](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/React_Native_vs_React__Key_Differences_and_Use_Cases.svg)](https://dev.to/haszankauna/react-native-vs-react-key-differences-and-use-cases-1l8f)
+[![Redux-like state container in SwiftUI. Derived stores.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Redux-like_state_container_in_SwiftUI._Derived_stores..svg)](https://dev.to/sergeyleschev/redux-like-state-container-in-swiftui-derived-stores-2d62)
+[![Redux-like state container in SwiftUI. Reducer composition.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Redux-like_state_container_in_SwiftUI._Reducer_composition..svg)](https://dev.to/sergeyleschev/redux-like-state-container-in-swiftui-reducer-composition-3j0m)
+[![Redux-like state container in SwiftUI. State composition.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Redux-like_state_container_in_SwiftUI._State_composition..svg)](https://dev.to/sergeyleschev/redux-like-state-container-in-swiftui-state-composition-57e5)
+[![Redux-like state container in SwiftUI. State normalization.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Redux-like_state_container_in_SwiftUI._State_normalization..svg)](https://dev.to/sergeyleschev/redux-like-state-container-in-swiftui-state-normalization-108o)
+[![Mastering CSS Flexbox: From Basics to Advanced Techniques](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Mastering_CSS_Flexbox__From_Basics_to_Advanced_Techniques.svg)](https://dev.to/sarveshh/mastering-css-flexbox-from-basics-to-advanced-techniques-1foe)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, February 17, 2023 at 11:11:01 PM
+> Last updated: Saturday, February 18, 2023 at 5:15:24 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, February 17, 2023 at 11:11:04 PM
+> Last updated: Saturday, February 18, 2023 at 5:15:27 AM
 
 > Showing 5 of 30 posts.
 
