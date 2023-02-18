@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Friday, February 17, 2023 at 11:11:26 AM
+> Last updated: Friday, February 17, 2023 at 5:48:14 PM
 
 > Showing 5 of 12 posts.
 
-[![Final Weekend of the Linode Hackathon on DEV!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Final_Weekend_of_the_Linode_Hackathon_on_DEV!.svg)](https://dev.to/devteam/final-weekend-of-the-linode-hackathon-on-dev-392c)
-[![Python dictionaries comprehension tutorial](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Python_dictionaries_comprehension_tutorial.svg)](https://dev.to/max24816/python-dictionaries-comprehension-tutorial-3bda)
-[![Dark mode with Analog & Tailwind](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Dark_mode_with_Analog___Tailwind.svg)](https://dev.to/this-is-angular/dark-mode-with-analog-tailwind-4049)
-[![Building a real-time commenting app with Socket.io and React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Building_a_real-time_commenting_app_with_Socket.io_and_React.svg)](https://dev.to/knocklabs/building-a-real-time-commenting-app-with-socketio-and-react-11ae)
-[![2023 Started](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/2023_Started.svg)](https://dev.to/constantinrazvan/2023-started-3dh4)
+[![Golang Roadmap 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Golang_Roadmap_2023.svg)](https://dev.to/learngoonline/golang-roadmap-2023-4076)
+[![Você sabia? - Curiosidades JAVA](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Você_sabia__-_Curiosidades_JAVA.svg)](https://dev.to/brmartin/voce-sabia-curiosidades-java-52lh)
+[![🪝 What is Hoisting in JavaScript?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/🪝_What_is_Hoisting_in_JavaScript_.svg)](https://dev.to/catherineisonline/what-is-hoisting-in-javascript-5c9b)
+[![Some new features to look forward to on DEV](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Some_new_features_to_look_forward_to_on_DEV.svg)](https://dev.to/devteam/some-new-features-to-look-forward-to-on-dev-5jk)
+[![Godot 4: "Pointing" an Area2D to the correct direction using look_at!.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Godot_4___Pointing__an_Area2D_to_the_correct_direction_using_look_at!..svg)](https://dev.to/pcanella/godot-4-pointing-an-area2d-to-the-correct-direction-using-lookat-58k2)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, February 17, 2023 at 11:11:30 AM
+> Last updated: Friday, February 17, 2023 at 5:48:17 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, February 17, 2023 at 11:11:34 AM
+> Last updated: Friday, February 17, 2023 at 5:48:22 PM
 
 > Showing 5 of 30 posts.
 
 [![Let's make JS RegExps Streamy - Socket](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Let's_make_JS_RegExps_Streamy_-_Socket.svg)](https://socket.dev/blog/let-s-make-js-regexps-streamy)
 [![GitHub - jucian0/createform: Create forms without effort. 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_jucian0_createform__Create_forms_without_effort._🚀.svg)](https://github.com/jucian0/createform)
-[![
-Free Node.js Full Stack Developer Course: Build Your Own Photo Sharing App
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Free_Node.js_Full_Stack_Developer_Course__Build_Your_Own_Photo_Sharing_App_.svg)](
-https://kinsta.com/academy/course/node-js-full-stack-developer/
-)
 [![Protect Your Site from Bots with CAPTCHAs and JavaScript Challenges](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Protect_Your_Site_from_Bots_with_CAPTCHAs_and_JavaScript_Challenges.svg)](https://auth0.com/blog/protect-site-from-bots-with-captchas-javascript-challenges/)
 [![GitHub - StopNGo/react-proto: Template React project with full TypeScript and SSR support.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_StopNGo_react-proto__Template_React_project_with_full_TypeScript_and_SSR_support..svg)](https://github.com/StopNGo/react-proto)
+[![How to Effortlessly Migrate from Styled Components CSS-in-JS to Stylify Utility-First CSS for Better React Development. | Stylify CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Effortlessly_Migrate_from_Styled_Components_CSS-in-JS_to_Stylify_Utility-First_CSS_for_Better_React_Development.___Stylify_CSS.svg)](https://stylifycss.com/blog/how-to-migrate-from-styled-components)
 
 
 <!-- post-list:end -->
