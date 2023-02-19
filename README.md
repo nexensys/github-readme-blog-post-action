@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, February 18, 2023 at 5:51:24 PM
+> Last updated: Saturday, February 18, 2023 at 11:11:17 PM
 
 > Showing 5 of 12 posts.
 
-[![Creating an App with React, Apollo, and GraphQL: A Step-by-Step Guide to Fetching Data and Error Handling](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Creating_an_App_with_React__Apollo__and_GraphQL__A_Step-by-Step_Guide_to_Fetching_Data_and_Error_Handling.svg)](https://dev.to/icyybee/creating-an-app-with-react-apollo-and-graphql-a-step-by-step-guide-to-fetching-data-and-error-handling-5bgh)
-[![CodeSmash No Code Platform](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/CodeSmash_No_Code_Platform.svg)](https://dev.to/mariostopfer/codesmash-no-code-platform-3h4b)
-[![Building an app to search the APOD archive by color 🪐](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Building_an_app_to_search_the_APOD_archive_by_color_🪐.svg)](https://dev.to/bryce/building-an-app-to-search-the-apod-archive-by-color-23bb)
-[![Learning SQL and an Introduction on Python for Data Science](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Learning_SQL_and_an_Introduction_on_Python_for_Data_Science.svg)](https://dev.to/joe_jngigi/learning-sql-and-an-introduction-on-python-for-data-science-5hii)
-[![10 Coding Projects to Impress Employers and Land Your Dream Job 😎](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/10_Coding_Projects_to_Impress_Employers_and_Land_Your_Dream_Job_😎.svg)](https://dev.to/acidop/10-coding-projects-to-impress-employers-and-land-your-dream-job-5ail)
+[![CI/CD in a nutshell](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/CI_CD_in_a_nutshell.svg)](https://dev.to/leandronsp/cicd-in-a-nutshell-3k6a)
+[![Getting started with React.js with Typescript using vite.js⚡](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Getting_started_with_React.js_with_Typescript_using_vite.js⚡.svg)](https://dev.to/headbwoi/getting-started-with-reactjs-with-typescript-using-vitejs-hjo)
+[![Publishing Your Extensions to Visual Studio Marketplace](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Publishing_Your_Extensions_to_Visual_Studio_Marketplace.svg)](https://dev.to/shiftescape/publishing-your-extensions-to-visual-studio-marketplace-49ma)
+[![6-part series on configuring a CI/CD pipeline using Customized Docker image on an Apache Web Server & Application Load Balancer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/6-part_series_on_configuring_a_CI_CD_pipeline_using_Customized_Docker_image_on_an_Apache_Web_Server___Application_Load_Balancer.svg)](https://dev.to/aws-builders/6-part-series-on-configuring-a-cicd-pipeline-using-customized-docker-image-on-an-apache-web-server-application-load-balancer-34ao)
+[![Creating routing API with Express JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Creating_routing_API_with_Express_JS.svg)](https://dev.to/zettasoft/creating-routing-api-with-express-js-2ilh)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, February 18, 2023 at 5:51:28 PM
+> Last updated: Saturday, February 18, 2023 at 11:11:20 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, February 18, 2023 at 5:51:32 PM
+> Last updated: Saturday, February 18, 2023 at 11:11:22 PM
 
 > Showing 5 of 30 posts.
 
