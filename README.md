@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, February 18, 2023 at 11:10:27 AM
+> Last updated: Saturday, February 18, 2023 at 5:51:24 PM
 
 > Showing 5 of 12 posts.
 
-[![Python Lists tutorial](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Python_Lists_tutorial.svg)](https://dev.to/max24816/python-lists-tutorial-2g43)
-[![First Next.js website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/First_Next.js_website.svg)](https://dev.to/vulcanwm/first-nextjs-website-3e8m)
-[![How to manage physical resources in your Docker containers and keep production servers fast?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_manage_physical_resources_in_your_Docker_containers_and_keep_production_servers_fast_.svg)](https://dev.to/nahuelsegovia/how-to-manage-physical-resources-in-your-docker-containers-and-keep-production-servers-fast-5apj)
-[![A bright future for Effect](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_bright_future_for_Effect.svg)](https://dev.to/effect-ts/a-bright-future-for-effect-455m)
-[![Ruby on Rails on Lambda on Arm64/Graviton2!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Ruby_on_Rails_on_Lambda_on_Arm64_Graviton2!.svg)](https://dev.to/aws-heroes/ruby-on-rails-on-lambda-on-arm64graviton2-154e)
+[![Creating an App with React, Apollo, and GraphQL: A Step-by-Step Guide to Fetching Data and Error Handling](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Creating_an_App_with_React__Apollo__and_GraphQL__A_Step-by-Step_Guide_to_Fetching_Data_and_Error_Handling.svg)](https://dev.to/icyybee/creating-an-app-with-react-apollo-and-graphql-a-step-by-step-guide-to-fetching-data-and-error-handling-5bgh)
+[![CodeSmash No Code Platform](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/CodeSmash_No_Code_Platform.svg)](https://dev.to/mariostopfer/codesmash-no-code-platform-3h4b)
+[![Building an app to search the APOD archive by color 🪐](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Building_an_app_to_search_the_APOD_archive_by_color_🪐.svg)](https://dev.to/bryce/building-an-app-to-search-the-apod-archive-by-color-23bb)
+[![Learning SQL and an Introduction on Python for Data Science](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Learning_SQL_and_an_Introduction_on_Python_for_Data_Science.svg)](https://dev.to/joe_jngigi/learning-sql-and-an-introduction-on-python-for-data-science-5hii)
+[![10 Coding Projects to Impress Employers and Land Your Dream Job 😎](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/10_Coding_Projects_to_Impress_Employers_and_Land_Your_Dream_Job_😎.svg)](https://dev.to/acidop/10-coding-projects-to-impress-employers-and-land-your-dream-job-5ail)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, February 18, 2023 at 11:10:30 AM
+> Last updated: Saturday, February 18, 2023 at 5:51:28 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, February 18, 2023 at 11:10:33 AM
+> Last updated: Saturday, February 18, 2023 at 5:51:32 PM
 
 > Showing 5 of 30 posts.
 
