@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, February 18, 2023 at 11:11:17 PM
+> Last updated: Sunday, February 19, 2023 at 5:15:48 AM
 
 > Showing 5 of 12 posts.
 
-[![CI/CD in a nutshell](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/CI_CD_in_a_nutshell.svg)](https://dev.to/leandronsp/cicd-in-a-nutshell-3k6a)
-[![Getting started with React.js with Typescript using vite.js⚡](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Getting_started_with_React.js_with_Typescript_using_vite.js⚡.svg)](https://dev.to/headbwoi/getting-started-with-reactjs-with-typescript-using-vitejs-hjo)
-[![Publishing Your Extensions to Visual Studio Marketplace](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Publishing_Your_Extensions_to_Visual_Studio_Marketplace.svg)](https://dev.to/shiftescape/publishing-your-extensions-to-visual-studio-marketplace-49ma)
-[![6-part series on configuring a CI/CD pipeline using Customized Docker image on an Apache Web Server & Application Load Balancer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/6-part_series_on_configuring_a_CI_CD_pipeline_using_Customized_Docker_image_on_an_Apache_Web_Server___Application_Load_Balancer.svg)](https://dev.to/aws-builders/6-part-series-on-configuring-a-cicd-pipeline-using-customized-docker-image-on-an-apache-web-server-application-load-balancer-34ao)
-[![Creating routing API with Express JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Creating_routing_API_with_Express_JS.svg)](https://dev.to/zettasoft/creating-routing-api-with-express-js-2ilh)
+[![An article on introduction to python for data science.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/An_article_on_introduction_to_python_for_data_science..svg)](https://dev.to/kemboijebby/an-article-on-introduction-to-python-for-data-science-415c)
+[![Creating Web Accessibility: Semantic Tags](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Creating_Web_Accessibility__Semantic_Tags.svg)](https://dev.to/frontend_jedi/creating-web-accessibility-semantic-tags-50bl)
+[![ReScript, React and spread props - it's now possible!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/ReScript__React_and_spread_props_-_it's_now_possible!.svg)](https://dev.to/zth/rescript-react-and-spread-props-its-now-possible-1k98)
+[![Setting Network Proxy in Docker in linux](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Setting_Network_Proxy_in_Docker_in_linux.svg)](https://dev.to/tusharrao198/setting-network-proxy-in-docker-in-linux-h7j)
+[![NOSQL: The Future of Data Management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/NOSQL__The_Future_of_Data_Management.svg)](https://dev.to/msmello_/nosql-the-future-of-data-management-4fd3)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, February 18, 2023 at 11:11:20 PM
+> Last updated: Sunday, February 19, 2023 at 5:15:51 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, February 18, 2023 at 11:11:22 PM
+> Last updated: Sunday, February 19, 2023 at 5:15:53 AM
 
 > Showing 5 of 30 posts.
 
+[![3 Simple Habits to Improve Your Tests - Yonatan Kra](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/3_Simple_Habits_to_Improve_Your_Tests_-_Yonatan_Kra.svg)](https://yonatankra.com/3-simple-habits-to-improve-your-tests/)
+[![🏝️ i18n translations in Next.js 13's app-dir for server/client components 🌊](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/🏝️_i18n_translations_in_Next.js_13's_app-dir_for_server_client_components_🌊.svg)](https://dev.to/aralroca/i18n-translations-in-nextjs-13s-app-dir-for-serverclient-components-4ek8)
 [![Let's make JS RegExps Streamy - Socket](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Let's_make_JS_RegExps_Streamy_-_Socket.svg)](https://socket.dev/blog/let-s-make-js-regexps-streamy)
 [![GitHub - jucian0/createform: Create forms without effort. 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_jucian0_createform__Create_forms_without_effort._🚀.svg)](https://github.com/jucian0/createform)
 [![Protect Your Site from Bots with CAPTCHAs and JavaScript Challenges](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Protect_Your_Site_from_Bots_with_CAPTCHAs_and_JavaScript_Challenges.svg)](https://auth0.com/blog/protect-site-from-bots-with-captchas-javascript-challenges/)
-[![GitHub - StopNGo/react-proto: Template React project with full TypeScript and SSR support.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_StopNGo_react-proto__Template_React_project_with_full_TypeScript_and_SSR_support..svg)](https://github.com/StopNGo/react-proto)
-[![How to Effortlessly Migrate from Styled Components CSS-in-JS to Stylify Utility-First CSS for Better React Development. | Stylify CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Effortlessly_Migrate_from_Styled_Components_CSS-in-JS_to_Stylify_Utility-First_CSS_for_Better_React_Development.___Stylify_CSS.svg)](https://stylifycss.com/blog/how-to-migrate-from-styled-components)
 
 
 <!-- post-list:end -->
