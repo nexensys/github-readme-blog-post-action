@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, February 19, 2023 at 11:12:33 PM
+> Last updated: Monday, February 20, 2023 at 5:17:39 AM
 
 > Showing 5 of 12 posts.
 
-[![SOLID PRINCIPLES](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/SOLID_PRINCIPLES.svg)](https://dev.to/manishakundrapu/solid-principles-1e8o)
-[![Advanced Overview of String Conversion in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Advanced_Overview_of_String_Conversion_in_JavaScript.svg)](https://dev.to/andrewsavetchuk/advanced-overview-of-string-conversionin-javascript-68k)
-[![How to use @next/font globally](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_use_@next_font_globally.svg)](https://dev.to/mikeesto/how-to-use-nextfont-globally-4img)
-[![Hosting a static website in AWS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Hosting_a_static_website_in_AWS.svg)](https://dev.to/dmeadows8585/hosting-a-static-reactjs-app-in-aws-5769)
-[![Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Javascript.svg)](https://dev.to/sofweng10/javascript-29h4)
+[![Top 11 Advanced Tkinter Projects You Should Try This Year](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_11_Advanced_Tkinter_Projects_You_Should_Try_This_Year.svg)](https://dev.to/khumbolamulungu/top-11-advanced-tkinter-projects-you-should-try-this-year-115l)
+[![Awesome T-Shirts to Rock Your Programmer Persona](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Awesome_T-Shirts_to_Rock_Your_Programmer_Persona.svg)](https://dev.to/surajondev/awesome-t-shirts-to-rock-your-programmer-persona-1nb3)
+[![Computer Vision: from 0 to HERO (intro)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Computer_Vision__from_0_to_HERO_(intro).svg)](https://dev.to/iravshan/computer-vision-from-0-to-hero-intro-170m)
+[![Mastering Git: Concepts and code examples](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Mastering_Git__Concepts_and_code_examples.svg)](https://dev.to/blst-security/mastering-git-concepts-and-code-examples-12dd)
+[![Feature engineering – Machine learning](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Feature_engineering_–_Machine_learning.svg)](https://dev.to/balagmadhu/feature-engineering-machine-learning-4555)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, February 19, 2023 at 11:12:36 PM
+> Last updated: Monday, February 20, 2023 at 5:17:42 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, February 19, 2023 at 11:12:38 PM
+> Last updated: Monday, February 20, 2023 at 5:17:44 AM
 
 > Showing 5 of 30 posts.
 
