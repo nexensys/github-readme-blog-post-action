@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, February 19, 2023 at 5:52:00 PM
+> Last updated: Sunday, February 19, 2023 at 11:12:33 PM
 
 > Showing 5 of 12 posts.
 
-[![CLI Client for ReductStore v0.7.0 has been released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/CLI_Client_for_ReductStore_v0.7.0_has_been_released.svg)](https://dev.to/reductstore/cli-client-for-reductstore-v070-has-been-released-1jil)
-[![Tekton CI, part III, listen to Github events](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Tekton_CI__part_III__listen_to_Github_events.svg)](https://dev.to/leandronsp/tekton-ci-part-iii-listen-to-github-events-1h3i)
-[![Second Next.js website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Second_Next.js_website.svg)](https://dev.to/vulcanwm/second-nextjs-website-c70)
-[![CSS !important: Avoid Using](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/CSS_!important__Avoid_Using.svg)](https://dev.to/stakedesigner/css-important-avoid-using-2k4c)
-[![What is eBPF?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/What_is_eBPF_.svg)](https://dev.to/deepeshaburse/what-is-ebpf-2bkb)
+[![SOLID PRINCIPLES](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/SOLID_PRINCIPLES.svg)](https://dev.to/manishakundrapu/solid-principles-1e8o)
+[![Advanced Overview of String Conversion in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Advanced_Overview_of_String_Conversion_in_JavaScript.svg)](https://dev.to/andrewsavetchuk/advanced-overview-of-string-conversionin-javascript-68k)
+[![How to use @next/font globally](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_use_@next_font_globally.svg)](https://dev.to/mikeesto/how-to-use-nextfont-globally-4img)
+[![Hosting a static website in AWS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Hosting_a_static_website_in_AWS.svg)](https://dev.to/dmeadows8585/hosting-a-static-reactjs-app-in-aws-5769)
+[![Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Javascript.svg)](https://dev.to/sofweng10/javascript-29h4)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, February 19, 2023 at 5:52:03 PM
+> Last updated: Sunday, February 19, 2023 at 11:12:36 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, February 19, 2023 at 5:52:05 PM
+> Last updated: Sunday, February 19, 2023 at 11:12:38 PM
 
 > Showing 5 of 30 posts.
 
+[![How to add 3rd party script in your gatsby website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_add_3rd_party_script_in_your_gatsby_website.svg)](
+https://frontendroom.com/how-to-add-3rd-party-script-in-your-gatsby-website/
+)
+[![GitHub - sun0day/dns-detector: A nodejs cli tool to resolve host's IPs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_sun0day_dns-detector__A_nodejs_cli_tool_to_resolve_host's_IPs.svg)](https://github.com/sun0day/dns-detector)
+[![GitHub - ColonelParrot/AnabolicSet: 💪 Javascript Set on steroids.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ColonelParrot_AnabolicSet__💪_Javascript_Set_on_steroids..svg)](https://github.com/ColonelParrot/AnabolicSet)
+[![Top JavaScript Frameworks and Technology 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Top_JavaScript_Frameworks_and_Technology_2023.svg)](https://medium.com/javascript-scene/top-javascript-frameworks-and-technology-2023-4e4a06d6be93)
 [![GitHub - oferca/tf: A progress bar for terraform commands](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_oferca_tf__A_progress_bar_for_terraform_commands.svg)](https://github.com/oferca/tf)
-[![GitHub - liriliri/vscode-settings-editor: VS Code visual editor for settings like npm package.json](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_liriliri_vscode-settings-editor__VS_Code_visual_editor_for_settings_like_npm_package.json.svg)](https://github.com/liriliri/vscode-settings-editor)
-[![Thoughts on APIs stability](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Thoughts_on_APIs_stability.svg)](https://adropincalm.com/blog/thoughts-on-apis-stability/)
-[![3 Simple Habits to Improve Your Tests - Yonatan Kra](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/3_Simple_Habits_to_Improve_Your_Tests_-_Yonatan_Kra.svg)](https://yonatankra.com/3-simple-habits-to-improve-your-tests/)
-[![🏝️ i18n translations in Next.js 13's app-dir for server/client components 🌊](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/🏝️_i18n_translations_in_Next.js_13's_app-dir_for_server_client_components_🌊.svg)](https://dev.to/aralroca/i18n-translations-in-nextjs-13s-app-dir-for-serverclient-components-4ek8)
 
 
 <!-- post-list:end -->
