@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, February 21, 2023 at 5:17:29 AM
+> Last updated: Tuesday, February 21, 2023 at 11:11:31 AM
 
 > Showing 5 of 12 posts.
 
-[![How to Develop an EV Charging Station Finder App?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Develop_an_EV_Charging_Station_Finder_App_.svg)](https://dev.to/davidsm48726661/how-to-develop-an-ev-charging-station-finder-app-503m)
-[![Build a High-Performing Ecommerce with Svelte and Medusa Backend](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_a_High-Performing_Ecommerce_with_Svelte_and_Medusa_Backend.svg)](https://dev.to/femi_dev/build-a-high-performing-ecommerce-with-svelte-and-medusa-backend-45b4)
-[![Top 5 Freelance Services! Best Freelance Websites to Find Work](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_5_Freelance_Services!_Best_Freelance_Websites_to_Find_Work.svg)](https://dev.to/codenear/top-5-freelance-services-best-freelance-websites-to-find-work-53lb)
-[![Mastering the ReactJS Interview: Tips and Tricks to Impress and Hire Top React Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Mastering_the_ReactJS_Interview__Tips_and_Tricks_to_Impress_and_Hire_Top_React_Developers.svg)](https://dev.to/crossskatee1/mastering-the-reactjs-interview-tips-and-tricks-to-impress-and-hire-top-react-developers-2np2)
-[![5+ Secrets Time Estimation Hints in Project Management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5+_Secrets_Time_Estimation_Hints_in_Project_Management.svg)](https://dev.to/flatlogic/5-secrets-time-estimation-hints-in-project-management-5h1g)
+[![How to Ace Your Technical Interview](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Ace_Your_Technical_Interview.svg)](https://dev.to/michaellarocca/how-to-ace-your-technical-interview-2fdm)
+[![Como Consegui uma Carreira em DevRel Ainda na Faculdade](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Como_Consegui_uma_Carreira_em_DevRel_Ainda_na_Faculdade.svg)](https://dev.to/devrelbr/como-consegui-uma-carreira-em-devrel-ainda-na-faculdade-anc)
+[![NPM & Yarn: A CLI Comparison](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/NPM___Yarn__A_CLI_Comparison.svg)](https://dev.to/arafat4693/npm-yarn-a-cli-comparison-56nb)
+[![Java Serialization Filtering - Prevent 0-day Security Vulnerabilities](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Java_Serialization_Filtering_-_Prevent_0-day_Security_Vulnerabilities.svg)](https://dev.to/codenameone/java-serialization-filtering-prevent-0-day-security-vulnerabilities-ipk)
+[![File Handling: The Best File Formats for Web Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/File_Handling__The_Best_File_Formats_for_Web_Development.svg)](https://dev.to/get_pieces/file-handling-the-best-file-formats-for-web-development-2225)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, February 21, 2023 at 5:17:33 AM
+> Last updated: Tuesday, February 21, 2023 at 11:11:35 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,16 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, February 21, 2023 at 5:17:39 AM
+> Last updated: Tuesday, February 21, 2023 at 11:11:42 AM
 
 > Showing 5 of 30 posts.
 
+[![
+[Tutorial] Building a simple chatbot with React and OpenAI
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_[Tutorial]_Building_a_simple_chatbot_with_React_and_OpenAI_.svg)](
+https://newsletter.frontendfresh.com/archive/tutorial-building-a-chatbot-with-react-and-openai/
+)
+[![GitHub - drakeexqw/eyetools: Fully undetectable remote access tool for educational purposes.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_drakeexqw_eyetools__Fully_undetectable_remote_access_tool_for_educational_purposes..svg)](https://github.com/drakeexqw/eyetools)
 [![
 Benefits Of Affordable Data Entry Services Outsourcing
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Benefits_Of_Affordable_Data_Entry_Services_Outsourcing_.svg)](
@@ -54,10 +60,6 @@ https://www.astercube.com/online-data-entry-services/
 )
 [![The One Trick to Writing Effective Tests - Yonatan Kra](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_One_Trick_to_Writing_Effective_Tests_-_Yonatan_Kra.svg)](https://yonatankra.com/the-one-trick-to-writing-effective-tests/)
 [![Flutter-WebRTC: A Complete Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Flutter-WebRTC__A_Complete_Guide.svg)](https://dev.to/video-sdk/flutter-webrtc-a-complete-guide-1b8o)
-[![Convert a JavaScript Enum to a String](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Convert_a_JavaScript_Enum_to_a_String.svg)](
-https://masteringjs.io/tutorials/fundamentals/enum-to-string
-)
-[![API with NestJS #96. Running unit tests with CI/CD and GitHub Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__96._Running_unit_tests_with_CI_CD_and_GitHub_Actions.svg)](https://wanago.io/2023/02/20/api-nestjs-tests-ci-cd-github-actions/)
 
 
 <!-- post-list:end -->
