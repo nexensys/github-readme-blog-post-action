@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, February 20, 2023 at 5:52:04 PM
+> Last updated: Monday, February 20, 2023 at 11:12:28 PM
 
 > Showing 5 of 12 posts.
 
-[![Embeddings in the Cloud](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Embeddings_in_the_Cloud.svg)](https://dev.to/neuml/embeddings-in-the-cloud-3cgg)
-[![How to get up to speed in a new codebase, fast](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_get_up_to_speed_in_a_new_codebase__fast.svg)](https://dev.to/kev_mcg/how-to-get-up-to-speed-in-a-new-codebase-fast-31ep)
-[![Challenge Accepted: #100DaysOfCode](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Challenge_Accepted___100DaysOfCode.svg)](https://dev.to/danielhe4rt/challenge-accepted-100daysofcode-4i00)
-[![SvelteKit 1.0 - Build an blog, fetching posts from your DEV profile 🦄](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/SvelteKit_1.0_-_Build_an_blog__fetching_posts_from_your_DEV_profile_🦄.svg)](https://dev.to/lissy93/sveltekit-10-build-an-blog-fetching-posts-from-your-dev-profile-29f)
-[![React-Native-IAP: One package to rule them all 🧙‍♂️](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/React-Native-IAP__One_package_to_rule_them_all_🧙‍♂️.svg)](https://dev.to/amazonappdev/react-native-iap-one-package-to-rule-them-all-4f0n)
+[![Trusted Users, should we improve the visibility of this feature/concept?👮](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Trusted_Users__should_we_improve_the_visibility_of_this_feature_concept_👮.svg)](https://dev.to/hunghvu/trusted-users-should-we-improve-the-visibility-of-this-featureconcept-158k)
+[![How to Develop Scalable and Maintainable JavaScript Apps using ES6 Design Patterns](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Develop_Scalable_and_Maintainable_JavaScript_Apps_using_ES6_Design_Patterns.svg)](https://dev.to/haszankauna/how-to-develop-scalable-and-maintainable-javascript-apps-using-es6-design-patterns-4cpe)
+[![Bit Manipulation Mastery: A Free Course for Technical Interviews](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Bit_Manipulation_Mastery__A_Free_Course_for_Technical_Interviews.svg)](https://dev.to/ggorantala/bit-manipulation-mastery-a-free-course-for-technical-interviews-1df8)
+[![Docker Commands Cheat Sheet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Docker_Commands_Cheat_Sheet.svg)](https://dev.to/pragyanatvade/docker-commands-cheat-sheet-47n4)
+[![9 Useful Chrome Extensions for Web Developers / Web Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/9_Useful_Chrome_Extensions_for_Web_Developers___Web_Development.svg)](https://dev.to/snowiewdev/9-google-chrome-extensions-for-web-developers-front-end-web-development-4n7i)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, February 20, 2023 at 5:52:07 PM
+> Last updated: Monday, February 20, 2023 at 11:12:32 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, February 20, 2023 at 5:52:12 PM
+> Last updated: Monday, February 20, 2023 at 11:12:37 PM
 
 > Showing 5 of 30 posts.
 
+[![Flutter-WebRTC: A Complete Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Flutter-WebRTC__A_Complete_Guide.svg)](https://dev.to/video-sdk/flutter-webrtc-a-complete-guide-1b8o)
 [![Convert a JavaScript Enum to a String](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Convert_a_JavaScript_Enum_to_a_String.svg)](
 https://masteringjs.io/tutorials/fundamentals/enum-to-string
 )
@@ -55,7 +56,6 @@ https://masteringjs.io/tutorials/fundamentals/enum-to-string
 [![How to add 3rd party script in your gatsby website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_add_3rd_party_script_in_your_gatsby_website.svg)](
 https://frontendroom.com/how-to-add-3rd-party-script-in-your-gatsby-website/
 )
-[![GitHub - sun0day/dns-detector: A nodejs cli tool to resolve host's IPs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_sun0day_dns-detector__A_nodejs_cli_tool_to_resolve_host's_IPs.svg)](https://github.com/sun0day/dns-detector)
 
 
 <!-- post-list:end -->
