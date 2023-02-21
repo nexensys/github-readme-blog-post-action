@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Monday, February 20, 2023 at 11:12:28 PM
+> Last updated: Tuesday, February 21, 2023 at 5:17:29 AM
 
 > Showing 5 of 12 posts.
 
-[![Trusted Users, should we improve the visibility of this feature/concept?👮](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Trusted_Users__should_we_improve_the_visibility_of_this_feature_concept_👮.svg)](https://dev.to/hunghvu/trusted-users-should-we-improve-the-visibility-of-this-featureconcept-158k)
-[![How to Develop Scalable and Maintainable JavaScript Apps using ES6 Design Patterns](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Develop_Scalable_and_Maintainable_JavaScript_Apps_using_ES6_Design_Patterns.svg)](https://dev.to/haszankauna/how-to-develop-scalable-and-maintainable-javascript-apps-using-es6-design-patterns-4cpe)
-[![Bit Manipulation Mastery: A Free Course for Technical Interviews](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Bit_Manipulation_Mastery__A_Free_Course_for_Technical_Interviews.svg)](https://dev.to/ggorantala/bit-manipulation-mastery-a-free-course-for-technical-interviews-1df8)
-[![Docker Commands Cheat Sheet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Docker_Commands_Cheat_Sheet.svg)](https://dev.to/pragyanatvade/docker-commands-cheat-sheet-47n4)
-[![9 Useful Chrome Extensions for Web Developers / Web Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/9_Useful_Chrome_Extensions_for_Web_Developers___Web_Development.svg)](https://dev.to/snowiewdev/9-google-chrome-extensions-for-web-developers-front-end-web-development-4n7i)
+[![How to Develop an EV Charging Station Finder App?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_Develop_an_EV_Charging_Station_Finder_App_.svg)](https://dev.to/davidsm48726661/how-to-develop-an-ev-charging-station-finder-app-503m)
+[![Build a High-Performing Ecommerce with Svelte and Medusa Backend](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_a_High-Performing_Ecommerce_with_Svelte_and_Medusa_Backend.svg)](https://dev.to/femi_dev/build-a-high-performing-ecommerce-with-svelte-and-medusa-backend-45b4)
+[![Top 5 Freelance Services! Best Freelance Websites to Find Work](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Top_5_Freelance_Services!_Best_Freelance_Websites_to_Find_Work.svg)](https://dev.to/codenear/top-5-freelance-services-best-freelance-websites-to-find-work-53lb)
+[![Mastering the ReactJS Interview: Tips and Tricks to Impress and Hire Top React Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Mastering_the_ReactJS_Interview__Tips_and_Tricks_to_Impress_and_Hire_Top_React_Developers.svg)](https://dev.to/crossskatee1/mastering-the-reactjs-interview-tips-and-tricks-to-impress-and-hire-top-react-developers-2np2)
+[![5+ Secrets Time Estimation Hints in Project Management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/5+_Secrets_Time_Estimation_Hints_in_Project_Management.svg)](https://dev.to/flatlogic/5-secrets-time-estimation-hints-in-project-management-5h1g)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, February 20, 2023 at 11:12:32 PM
+> Last updated: Tuesday, February 21, 2023 at 5:17:33 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,21 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, February 20, 2023 at 11:12:37 PM
+> Last updated: Tuesday, February 21, 2023 at 5:17:39 AM
 
 > Showing 5 of 30 posts.
 
+[![
+Benefits Of Affordable Data Entry Services Outsourcing
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Benefits_Of_Affordable_Data_Entry_Services_Outsourcing_.svg)](
+https://www.astercube.com/online-data-entry-services/
+)
+[![The One Trick to Writing Effective Tests - Yonatan Kra](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_One_Trick_to_Writing_Effective_Tests_-_Yonatan_Kra.svg)](https://yonatankra.com/the-one-trick-to-writing-effective-tests/)
 [![Flutter-WebRTC: A Complete Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Flutter-WebRTC__A_Complete_Guide.svg)](https://dev.to/video-sdk/flutter-webrtc-a-complete-guide-1b8o)
 [![Convert a JavaScript Enum to a String](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Convert_a_JavaScript_Enum_to_a_String.svg)](
 https://masteringjs.io/tutorials/fundamentals/enum-to-string
 )
 [![API with NestJS #96. Running unit tests with CI/CD and GitHub Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__96._Running_unit_tests_with_CI_CD_and_GitHub_Actions.svg)](https://wanago.io/2023/02/20/api-nestjs-tests-ci-cd-github-actions/)
-[![JS Fwdays Europe - Micro Frontends](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JS_Fwdays_Europe_-_Micro_Frontends.svg)](https://okhivrych.io/js-fwdays-europe-micro-frontends)
-[![How to add 3rd party script in your gatsby website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_add_3rd_party_script_in_your_gatsby_website.svg)](
-https://frontendroom.com/how-to-add-3rd-party-script-in-your-gatsby-website/
-)
 
 
 <!-- post-list:end -->
