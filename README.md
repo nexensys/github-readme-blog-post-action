@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, February 21, 2023 at 11:12:37 PM
+> Last updated: Wednesday, February 22, 2023 at 5:17:58 AM
 
 > Showing 5 of 12 posts.
 
-[!["The Power of the Coding Mindset": How Developing the Coding Mindset Can Take Your Programming to the Next Level](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/_The_Power_of_the_Coding_Mindset___How_Developing_the_Coding_Mindset_Can_Take_Your_Programming_to_the_Next_Level.svg)](https://dev.to/turinumugisha_s/the-power-of-the-coding-mindset-how-developing-the-coding-mindset-can-take-your-programming-to-the-next-level-3a52)
-[![Using the HTML Geolocation API to display a users location on a map](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Using_the_HTML_Geolocation_API_to_display_a_users_location_on_a_map.svg)](https://dev.to/michaelburrows/using-the-html-geolocation-api-to-display-a-users-location-on-a-map-bi8)
-[![How to build a real-time multiplayer game with Flutter Flame](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_build_a_real-time_multiplayer_game_with_Flutter_Flame.svg)](https://dev.to/supabase/how-to-build-a-real-time-multiplayer-game-with-flutter-flame-3k7f)
-[![How To Get Started In A Career In Web Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_To_Get_Started_In_A_Career_In_Web_Development.svg)](https://dev.to/jacquicoombe/how-to-get-started-in-a-career-in-web-development-3jgo)
-[![7 Reasons Why You Need to Master the Fundamentals (A Visual Guide)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/7_Reasons_Why_You_Need_to_Master_the_Fundamentals_(A_Visual_Guide).svg)](https://dev.to/thefaisal/7-top-reasons-why-you-need-to-master-the-fundamentals-a-visual-guide-apo)
+[![GKE Cluster Optimization: 13 Tactics For A Smoother K8s Deployment](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/GKE_Cluster_Optimization__13_Tactics_For_A_Smoother_K8s_Deployment.svg)](https://dev.to/castai/gke-cluster-optimization-13-tactics-for-a-smoother-k8s-deployment-c7o)
+[![Build 3D Scenes Declaratively with TresJS using Vue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Build_3D_Scenes_Declaratively_with_TresJS_using_Vue.svg)](https://dev.to/alvarosabu/build-3d-scenes-declaratively-with-tresjs-using-vue-4jej)
+[![Use Appwrite and Flutter to build a serverless mobile wallet service](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Use_Appwrite_and_Flutter_to_build_a_serverless_mobile_wallet_service.svg)](https://dev.to/hackmamba/use-appwrite-and-flutter-to-build-a-serverless-mobile-wallet-service-bk2)
+[![The 10 most common mistakes in frontend development and how to avoid them](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_10_most_common_mistakes_in_frontend_development_and_how_to_avoid_them.svg)](https://dev.to/haszankauna/the-10-most-common-mistakes-in-frontend-development-and-how-to-avoid-them-2e31)
+[![How I Turned My Coffee Addiction into a Ruby and Postgres Adventure](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_I_Turned_My_Coffee_Addiction_into_a_Ruby_and_Postgres_Adventure.svg)](https://dev.to/yet_anotherdev/how-i-turned-my-coffee-addiction-into-a-ruby-and-postgres-adventure-5djb)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, February 21, 2023 at 11:12:41 PM
+> Last updated: Wednesday, February 22, 2023 at 5:18:02 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,21 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, February 21, 2023 at 11:12:46 PM
+> Last updated: Wednesday, February 22, 2023 at 5:18:07 AM
 
 > Showing 5 of 30 posts.
 
+[![How to Handle Date & Time with JavaScript - Stack Diary](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Handle_Date___Time_with_JavaScript_-_Stack_Diary.svg)](https://stackdiary.com/how-to-handle-date-time-with-javascript/)
+[![Use a fallback image when the image is failed to load](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Use_a_fallback_image_when_the_image_is_failed_to_load.svg)](
+https://frontendroom.com/use-fallback-image/
+)
+[![How To Build Desktop Apps Using React: A Quick Introduction to Tauri](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_To_Build_Desktop_Apps_Using_React__A_Quick_Introduction_to_Tauri.svg)](https://blog.bitsrc.io/how-to-build-desktop-apps-using-react-a-quick-introduction-to-tauri-63fcad43914e)
 [![GitHub - subbu963/esm-polyfills: ESM module polyfills for nodejs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_subbu963_esm-polyfills__ESM_module_polyfills_for_nodejs.svg)](https://github.com/subbu963/esm-polyfills)
 [![GitHub - TiagoCavalcante/r3f-native-orbitcontrols: OrbitControls for React Three Fiber in React Native](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_TiagoCavalcante_r3f-native-orbitcontrols__OrbitControls_for_React_Three_Fiber_in_React_Native.svg)](https://github.com/TiagoCavalcante/r3f-native-orbitcontrols)
-[![
-[Tutorial] Building a simple chatbot with React and OpenAI
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_[Tutorial]_Building_a_simple_chatbot_with_React_and_OpenAI_.svg)](
-https://newsletter.frontendfresh.com/archive/tutorial-building-a-chatbot-with-react-and-openai/
-)
-[![The One Trick to Writing Effective Tests - Yonatan Kra](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_One_Trick_to_Writing_Effective_Tests_-_Yonatan_Kra.svg)](https://yonatankra.com/the-one-trick-to-writing-effective-tests/)
-[![Convert a JavaScript Enum to a String](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Convert_a_JavaScript_Enum_to_a_String.svg)](
-https://masteringjs.io/tutorials/fundamentals/enum-to-string
-)
 
 
 <!-- post-list:end -->
