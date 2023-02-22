@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, February 21, 2023 at 5:47:44 PM
+> Last updated: Tuesday, February 21, 2023 at 11:12:37 PM
 
 > Showing 5 of 12 posts.
 
-[![@TopDown On Replit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/@TopDown_On_Replit.svg)](https://dev.to/ultrawyatt/topdown-on-replit-4hkg)
-[![SRE book notes: Dealing with Interrupts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/SRE_book_notes__Dealing_with_Interrupts.svg)](https://dev.to/bitmaybewise/sre-book-notes-dealing-with-interrupts-4gib)
-[![Linode + DEV Hackathon](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Linode_+_DEV_Hackathon.svg)](https://dev.to/divyapankajananda/linode-dev-hackathon-4nb8)
-[![Project templating cloud](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Project_templating_cloud.svg)](https://dev.to/aws-builders/project-templating-cloud-388e)
-[![Polymorphic associations in Active Record](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Polymorphic_associations_in_Active_Record.svg)](https://dev.to/mattishida/polymorphic-associations-in-active-record-2pjk)
+[!["The Power of the Coding Mindset": How Developing the Coding Mindset Can Take Your Programming to the Next Level](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/_The_Power_of_the_Coding_Mindset___How_Developing_the_Coding_Mindset_Can_Take_Your_Programming_to_the_Next_Level.svg)](https://dev.to/turinumugisha_s/the-power-of-the-coding-mindset-how-developing-the-coding-mindset-can-take-your-programming-to-the-next-level-3a52)
+[![Using the HTML Geolocation API to display a users location on a map](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Using_the_HTML_Geolocation_API_to_display_a_users_location_on_a_map.svg)](https://dev.to/michaelburrows/using-the-html-geolocation-api-to-display-a-users-location-on-a-map-bi8)
+[![How to build a real-time multiplayer game with Flutter Flame](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_build_a_real-time_multiplayer_game_with_Flutter_Flame.svg)](https://dev.to/supabase/how-to-build-a-real-time-multiplayer-game-with-flutter-flame-3k7f)
+[![How To Get Started In A Career In Web Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_To_Get_Started_In_A_Career_In_Web_Development.svg)](https://dev.to/jacquicoombe/how-to-get-started-in-a-career-in-web-development-3jgo)
+[![7 Reasons Why You Need to Master the Fundamentals (A Visual Guide)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/7_Reasons_Why_You_Need_to_Master_the_Fundamentals_(A_Visual_Guide).svg)](https://dev.to/thefaisal/7-top-reasons-why-you-need-to-master-the-fundamentals-a-visual-guide-apo)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, February 21, 2023 at 5:47:47 PM
+> Last updated: Tuesday, February 21, 2023 at 11:12:41 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,12 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, February 21, 2023 at 5:47:54 PM
+> Last updated: Tuesday, February 21, 2023 at 11:12:46 PM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - subbu963/esm-polyfills: ESM module polyfills for nodejs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_subbu963_esm-polyfills__ESM_module_polyfills_for_nodejs.svg)](https://github.com/subbu963/esm-polyfills)
+[![GitHub - TiagoCavalcante/r3f-native-orbitcontrols: OrbitControls for React Three Fiber in React Native](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_TiagoCavalcante_r3f-native-orbitcontrols__OrbitControls_for_React_Three_Fiber_in_React_Native.svg)](https://github.com/TiagoCavalcante/r3f-native-orbitcontrols)
 [![
 [Tutorial] Building a simple chatbot with React and OpenAI
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_[Tutorial]_Building_a_simple_chatbot_with_React_and_OpenAI_.svg)](
@@ -56,8 +58,6 @@ https://newsletter.frontendfresh.com/archive/tutorial-building-a-chatbot-with-re
 [![Convert a JavaScript Enum to a String](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Convert_a_JavaScript_Enum_to_a_String.svg)](
 https://masteringjs.io/tutorials/fundamentals/enum-to-string
 )
-[![API with NestJS #96. Running unit tests with CI/CD and GitHub Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__96._Running_unit_tests_with_CI_CD_and_GitHub_Actions.svg)](https://wanago.io/2023/02/20/api-nestjs-tests-ci-cd-github-actions/)
-[![JS Fwdays Europe - Micro Frontends](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JS_Fwdays_Europe_-_Micro_Frontends.svg)](https://okhivrych.io/js-fwdays-europe-micro-frontends)
 
 
 <!-- post-list:end -->
