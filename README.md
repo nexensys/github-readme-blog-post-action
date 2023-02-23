@@ -5,20 +5,20 @@ A (somewhat) simple github action that generates a set of cards for recent blog 
 Here's an example of how it looks given the URLs for DEV Community, JavaScript Weekly, and Echo JS:
 
 <!-- post-list:start -->
-## DEV Community 👩‍💻👨‍💻
+## DEV Community
 
-The most recent home feed on DEV Community 👩‍💻👨‍💻.
+The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, February 23, 2023 at 5:19:36 AM
+> Last updated: Thursday, February 23, 2023 at 11:12:05 AM
 
 > Showing 5 of 12 posts.
 
-[![AI and Ethics. A Summary of the Oxford Handbook of Ethics of AI [Chapter 1]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/AI_and_Ethics._A_Summary_of_the_Oxford_Handbook_of_Ethics_of_AI_[Chapter_1].svg)](https://dev.to/grahamthedev/summary-oxford-handbook-of-ethics-of-ai-chapter-1-520j)
-[![7 Essential React Libraries for Front-End Web Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/7_Essential_React_Libraries_for_Front-End_Web_Development.svg)](https://dev.to/surajondev/7-essential-react-libraries-for-front-end-web-development-23el)
-[![How To Set Up Docker In Nodejs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_To_Set_Up_Docker_In_Nodejs.svg)](https://dev.to/davydocsurg/how-to-set-up-docker-in-nodejs-59kb)
-[![All about Promises in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/All_about_Promises_in_JavaScript.svg)](https://dev.to/codeofrelevancy/all-about-promises-in-javascript-39lj)
-[![Object-Oriented Design: The Key to Scalable and Maintainable Software](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Object-Oriented_Design__The_Key_to_Scalable_and_Maintainable_Software.svg)](https://dev.to/msmello_/object-oriented-design-the-key-to-scalable-and-maintainable-software-21li)
+[![Building APOD color search part I: Image analysis in Rust](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_APOD_color_search_part_I__Image_analysis_in_Rust.svg)](https://dev.to/bryce/building-apod-color-search-part-i-image-analysis-in-rust-24a5)
+[![Porque as pessoas estão desenvolvendo dentro de containers?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Porque_as_pessoas_estão_desenvolvendo_dentro_de_containers_.svg)](https://dev.to/github/porque-as-pessoas-estao-desenvolvendo-dentro-de-containers-lif)
+[![Experiments with the JavaScript Garbage Collector](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Experiments_with_the_JavaScript_Garbage_Collector.svg)](https://dev.to/codux/experiments-with-the-javascript-garbage-collector-2ae3)
+[![Junior Developers NEED to Hear This!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Junior_Developers_NEED_to_Hear_This!.svg)](https://dev.to/mikehtmlallthethings/junior-developers-need-to-hear-this-5bm8)
+[![Spring Security and Non-flat Roles Inheritance Architecture](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Spring_Security_and_Non-flat_Roles_Inheritance_Architecture.svg)](https://dev.to/kirekov/spring-security-and-non-flat-roles-inheritance-architecture-2a7b)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, February 23, 2023 at 5:19:40 AM
+> Last updated: Thursday, February 23, 2023 at 11:12:09 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, February 23, 2023 at 5:19:46 AM
+> Last updated: Thursday, February 23, 2023 at 11:12:13 AM
 
 > Showing 5 of 30 posts.
 
+[![Experiments with the JavaScript Garbage Collector](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Experiments_with_the_JavaScript_Garbage_Collector.svg)](https://dev.to/codux/experiments-with-the-javascript-garbage-collector-2ae3)
 [![Implementing Tuples in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Implementing_Tuples_in_JavaScript.svg)](
 https://masteringjs.io/tutorials/fundamentals/tuple
 )
@@ -55,7 +56,6 @@ https://masteringjs.io/tutorials/fundamentals/tuple
 [![Use a fallback image when the image is failed to load](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Use_a_fallback_image_when_the_image_is_failed_to_load.svg)](
 https://frontendroom.com/use-fallback-image/
 )
-[![How To Build Desktop Apps Using React: A Quick Introduction to Tauri](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_To_Build_Desktop_Apps_Using_React__A_Quick_Introduction_to_Tauri.svg)](https://blog.bitsrc.io/how-to-build-desktop-apps-using-react-a-quick-introduction-to-tauri-63fcad43914e)
 
 
 <!-- post-list:end -->
