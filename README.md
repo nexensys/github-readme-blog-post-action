@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, February 22, 2023 at 11:12:07 PM
+> Last updated: Thursday, February 23, 2023 at 5:19:36 AM
 
 > Showing 5 of 12 posts.
 
-[![Criei um hook personalizado para buscar dados da API do Rick and Morty com React Query e TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Criei_um_hook_personalizado_para_buscar_dados_da_API_do_Rick_and_Morty_com_React_Query_e_TypeScript.svg)](https://dev.to/dellamora/criei-um-hook-personalizado-para-buscar-dados-da-api-do-rick-and-morty-com-react-query-1c7f)
-[![Notas rápidas de Flexbox](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Notas_rápidas_de_Flexbox.svg)](https://dev.to/oswald_echeverri/notas-rapidas-de-flexbox-51b9)
-[![Pixelating Images With React/JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Pixelating_Images_With_React_JavaScript.svg)](https://dev.to/bytebodger/pixelating-images-in-reactjavascript-2ac7)
-[![Golang Web App Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Golang_Web_App_Development.svg)](https://dev.to/danielporter000866901/golang-web-app-development-4d6f)
-[![Deploying Bicep Template using Azure DevOps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Deploying_Bicep_Template_using_Azure_DevOps.svg)](https://dev.to/lakkimartin/deploying-bicep-template-using-azure-devops-4m53)
+[![AI and Ethics. A Summary of the Oxford Handbook of Ethics of AI [Chapter 1]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/AI_and_Ethics._A_Summary_of_the_Oxford_Handbook_of_Ethics_of_AI_[Chapter_1].svg)](https://dev.to/grahamthedev/summary-oxford-handbook-of-ethics-of-ai-chapter-1-520j)
+[![7 Essential React Libraries for Front-End Web Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/7_Essential_React_Libraries_for_Front-End_Web_Development.svg)](https://dev.to/surajondev/7-essential-react-libraries-for-front-end-web-development-23el)
+[![How To Set Up Docker In Nodejs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_To_Set_Up_Docker_In_Nodejs.svg)](https://dev.to/davydocsurg/how-to-set-up-docker-in-nodejs-59kb)
+[![All about Promises in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/All_about_Promises_in_JavaScript.svg)](https://dev.to/codeofrelevancy/all-about-promises-in-javascript-39lj)
+[![Object-Oriented Design: The Key to Scalable and Maintainable Software](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Object-Oriented_Design__The_Key_to_Scalable_and_Maintainable_Software.svg)](https://dev.to/msmello_/object-oriented-design-the-key-to-scalable-and-maintainable-software-21li)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, February 22, 2023 at 11:12:10 PM
+> Last updated: Thursday, February 23, 2023 at 5:19:40 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, February 22, 2023 at 11:12:15 PM
+> Last updated: Thursday, February 23, 2023 at 5:19:46 AM
 
 > Showing 5 of 30 posts.
 
