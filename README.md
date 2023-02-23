@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, February 22, 2023 at 11:11:47 AM
+> Last updated: Wednesday, February 22, 2023 at 5:47:58 PM
 
 > Showing 5 of 12 posts.
 
-[![KLYNTAR Basics. Part 1: The idea of multistaking on KLY for the theoretical maximum security & decentralization😼](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/KLYNTAR_Basics._Part_1__The_idea_of_multistaking_on_KLY_for_the_theoretical_maximum_security___decentralization😼.svg)](https://dev.to/vladchernenko/klyntar-basics-part-1-the-idea-of-multistaking-on-kly-for-the-theoretical-maximum-security-decentralization-56ij)
-[![Learn the Basics of RegEx in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Learn_the_Basics_of_RegEx_in_JavaScript.svg)](https://dev.to/thedevdrawer/learn-the-basics-of-regex-in-javascript-4kdh)
-[![How to define higher-order functions in Rust](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/How_to_define_higher-order_functions_in_Rust.svg)](https://dev.to/logrocket/how-to-define-higher-order-functions-in-rust-51g1)
-[![A importância da cultura de testes no front-end](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/A_importância_da_cultura_de_testes_no_front-end.svg)](https://dev.to/scafeli/a-importancia-da-cultura-de-testes-no-front-end-dlf)
-[![The what and why of CI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/The_what_and_why_of_CI.svg)](https://dev.to/aneshodza/ci-crash-course-2eo4)
+[![New Programmers, What Challenges Are You Facing?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/New_Programmers__What_Challenges_Are_You_Facing_.svg)](https://dev.to/codenewbieteam/new-programmers-what-challenges-are-you-facing-45k9)
+[![ReductStore Client SDK for C++ v1.3.0 with Labels Support](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/ReductStore_Client_SDK_for_C++_v1.3.0_with_Labels_Support.svg)](https://dev.to/reductstore/reductstore-client-sdk-for-c-v130-with-labels-support-3ej9)
+[![Welcome Mastodon to Fast Forward!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Welcome_Mastodon_to_Fast_Forward!.svg)](https://dev.to/fastly/welcome-mastodon-to-fast-forward-11g4)
+[![AWS Networking - AWS VPC, Subnets, Security Groups, NAT Gateway & IP Addresses](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/AWS_Networking_-_AWS_VPC__Subnets__Security_Groups__NAT_Gateway___IP_Addresses.svg)](https://dev.to/aws-builders/aws-networking-aws-vpc-subnets-security-groups-nat-gateway-ip-addresses-4p8c)
+[![Understanding React Hooks: How to Use useRef, useMemo, and useCallback for More Efficient Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Understanding_React_Hooks__How_to_Use_useRef__useMemo__and_useCallback_for_More_Efficient_Code.svg)](https://dev.to/michael_osas/understanding-react-hooks-how-to-use-useref-usememo-and-usecallback-for-more-efficient-code-3ceh)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, February 22, 2023 at 11:11:56 AM
+> Last updated: Wednesday, February 22, 2023 at 5:48:02 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, February 22, 2023 at 11:12:01 AM
+> Last updated: Wednesday, February 22, 2023 at 5:48:07 PM
 
 > Showing 5 of 30 posts.
 
+[![Implementing Tuples in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Implementing_Tuples_in_JavaScript.svg)](
+https://masteringjs.io/tutorials/fundamentals/tuple
+)
 [![GitHub - xeitojs/xeito: 🤞 Xeito is a framework for building interactive web applications with Typescript and Tagged Template Literals.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_xeitojs_xeito__🤞_Xeito_is_a_framework_for_building_interactive_web_applications_with_Typescript_and_Tagged_Template_Literals..svg)](https://github.com/xeitojs/xeito)
 [![How to Handle Date & Time with JavaScript - Stack Diary](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Handle_Date___Time_with_JavaScript_-_Stack_Diary.svg)](https://stackdiary.com/how-to-handle-date-time-with-javascript/)
 [![Use a fallback image when the image is failed to load](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Use_a_fallback_image_when_the_image_is_failed_to_load.svg)](
 https://frontendroom.com/use-fallback-image/
 )
 [![How To Build Desktop Apps Using React: A Quick Introduction to Tauri](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_To_Build_Desktop_Apps_Using_React__A_Quick_Introduction_to_Tauri.svg)](https://blog.bitsrc.io/how-to-build-desktop-apps-using-react-a-quick-introduction-to-tauri-63fcad43914e)
-[![GitHub - subbu963/esm-polyfills: ESM module polyfills for nodejs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_subbu963_esm-polyfills__ESM_module_polyfills_for_nodejs.svg)](https://github.com/subbu963/esm-polyfills)
 
 
 <!-- post-list:end -->
