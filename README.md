@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community 👩‍💻👨‍💻.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, February 22, 2023 at 5:47:58 PM
+> Last updated: Wednesday, February 22, 2023 at 11:12:07 PM
 
 > Showing 5 of 12 posts.
 
-[![New Programmers, What Challenges Are You Facing?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/New_Programmers__What_Challenges_Are_You_Facing_.svg)](https://dev.to/codenewbieteam/new-programmers-what-challenges-are-you-facing-45k9)
-[![ReductStore Client SDK for C++ v1.3.0 with Labels Support](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/ReductStore_Client_SDK_for_C++_v1.3.0_with_Labels_Support.svg)](https://dev.to/reductstore/reductstore-client-sdk-for-c-v130-with-labels-support-3ej9)
-[![Welcome Mastodon to Fast Forward!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Welcome_Mastodon_to_Fast_Forward!.svg)](https://dev.to/fastly/welcome-mastodon-to-fast-forward-11g4)
-[![AWS Networking - AWS VPC, Subnets, Security Groups, NAT Gateway & IP Addresses](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/AWS_Networking_-_AWS_VPC__Subnets__Security_Groups__NAT_Gateway___IP_Addresses.svg)](https://dev.to/aws-builders/aws-networking-aws-vpc-subnets-security-groups-nat-gateway-ip-addresses-4p8c)
-[![Understanding React Hooks: How to Use useRef, useMemo, and useCallback for More Efficient Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Understanding_React_Hooks__How_to_Use_useRef__useMemo__and_useCallback_for_More_Efficient_Code.svg)](https://dev.to/michael_osas/understanding-react-hooks-how-to-use-useref-usememo-and-usecallback-for-more-efficient-code-3ceh)
+[![Criei um hook personalizado para buscar dados da API do Rick and Morty com React Query e TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Criei_um_hook_personalizado_para_buscar_dados_da_API_do_Rick_and_Morty_com_React_Query_e_TypeScript.svg)](https://dev.to/dellamora/criei-um-hook-personalizado-para-buscar-dados-da-api-do-rick-and-morty-com-react-query-1c7f)
+[![Notas rápidas de Flexbox](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Notas_rápidas_de_Flexbox.svg)](https://dev.to/oswald_echeverri/notas-rapidas-de-flexbox-51b9)
+[![Pixelating Images With React/JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Pixelating_Images_With_React_JavaScript.svg)](https://dev.to/bytebodger/pixelating-images-in-reactjavascript-2ac7)
+[![Golang Web App Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Golang_Web_App_Development.svg)](https://dev.to/danielporter000866901/golang-web-app-development-4d6f)
+[![Deploying Bicep Template using Azure DevOps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community_👩‍💻👨‍💻/Deploying_Bicep_Template_using_Azure_DevOps.svg)](https://dev.to/lakkimartin/deploying-bicep-template-using-azure-devops-4m53)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community 👩‍💻👨‍💻.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, February 22, 2023 at 5:48:02 PM
+> Last updated: Wednesday, February 22, 2023 at 11:12:10 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, February 22, 2023 at 5:48:07 PM
+> Last updated: Wednesday, February 22, 2023 at 11:12:15 PM
 
 > Showing 5 of 30 posts.
 
