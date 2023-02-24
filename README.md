@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, February 24, 2023 at 5:17:35 AM
+> Last updated: Friday, February 24, 2023 at 11:11:52 AM
 
 > Showing 5 of 12 posts.
 
-[![Neden IQ Testi yaptırmalısınız?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Neden_IQ_Testi_yaptırmalısınız_.svg)](https://dev.to/iqsertifikasi/neden-iq-testi-yaptirmalisiniz-3bi8)
-[![Add an Options Page to Chrome Extension](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Add_an_Options_Page_to_Chrome_Extension.svg)](https://dev.to/codegino/add-an-options-page-to-chrome-extension-4p3e)
-[![How to create and visualize a cardioid using javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_and_visualize_a_cardioid_using_javascript.svg)](https://dev.to/eyudinkov/how-to-create-and-visualize-a-cardioid-using-javascript-33l4)
-[![How to Build a React Admin Panel with Mantine and Strapi](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Build_a_React_Admin_Panel_with_Mantine_and_Strapi.svg)](https://dev.to/refine/how-to-build-a-react-admin-panel-with-mantine-and-strapi-58i9)
-[![10 Game-Changing No Code/Low Code Tools Every Developer Should Know About](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_Game-Changing_No_Code_Low_Code_Tools_Every_Developer_Should_Know_About.svg)](https://dev.to/thenomadevel/10-game-changing-no-codelow-code-tools-every-developer-should-know-about-2a4l)
+[![Qt 6 - The Ultimate UX Development Platform](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Qt_6_-_The_Ultimate_UX_Development_Platform.svg)](https://dev.to/bekbrace/qt-6-the-ultimate-ux-development-platform-b5d)
+[![9 Must-Have SaaS Tools for Startups to Boost Growth](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/9_Must-Have_SaaS_Tools_for_Startups_to_Boost_Growth.svg)](https://dev.to/seeratawan01/9-must-have-saas-tools-for-startups-to-boost-growth-2b07)
+[![Open-Source Licensing: Solving the Mystery](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Open-Source_Licensing__Solving_the_Mystery.svg)](https://dev.to/arindam_1729/open-source-licensing-solving-the-mystery-5a1f)
+[![Breaking Up with Express: How NestJS Stole My Heart](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Breaking_Up_with_Express__How_NestJS_Stole_My_Heart.svg)](https://dev.to/joeljsv/breaking-up-with-express-how-nestjs-stole-my-heart-1kob)
+[![Learning React: Class Components and State](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Learning_React__Class_Components_and_State.svg)](https://dev.to/lensco825/learning-react-class-components-and-state-em0)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, February 24, 2023 at 5:17:38 AM
+> Last updated: Friday, February 24, 2023 at 11:11:55 AM
 
 > Showing 4 of 4 posts.
 
+[![ECMAScript 2023 for President](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/ECMAScript_2023_for_President.svg)](https://javascriptweekly.com/issues/627)
 [![JavaScript sans build systems?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/JavaScript_sans_build_systems_.svg)](https://javascriptweekly.com/issues/626)
 [![Bringing JavaScript to WebAssembly](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Bringing_JavaScript_to_WebAssembly.svg)](https://javascriptweekly.com/issues/625)
 [![Ways to remove event listeners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Ways_to_remove_event_listeners.svg)](https://javascriptweekly.com/issues/624)
-[![Astro 2.0 and TypeScript 5.0 beta](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Astro_2.0_and_TypeScript_5.0_beta.svg)](https://javascriptweekly.com/issues/623)
 
 
 ## Echo JS
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, February 24, 2023 at 5:17:41 AM
+> Last updated: Friday, February 24, 2023 at 11:11:58 AM
 
 > Showing 5 of 30 posts.
 
