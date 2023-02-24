@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, February 23, 2023 at 11:12:05 AM
+> Last updated: Thursday, February 23, 2023 at 5:49:13 PM
 
 > Showing 5 of 12 posts.
 
-[![Building APOD color search part I: Image analysis in Rust](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_APOD_color_search_part_I__Image_analysis_in_Rust.svg)](https://dev.to/bryce/building-apod-color-search-part-i-image-analysis-in-rust-24a5)
-[![Porque as pessoas estão desenvolvendo dentro de containers?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Porque_as_pessoas_estão_desenvolvendo_dentro_de_containers_.svg)](https://dev.to/github/porque-as-pessoas-estao-desenvolvendo-dentro-de-containers-lif)
-[![Experiments with the JavaScript Garbage Collector](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Experiments_with_the_JavaScript_Garbage_Collector.svg)](https://dev.to/codux/experiments-with-the-javascript-garbage-collector-2ae3)
-[![Junior Developers NEED to Hear This!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Junior_Developers_NEED_to_Hear_This!.svg)](https://dev.to/mikehtmlallthethings/junior-developers-need-to-hear-this-5bm8)
-[![Spring Security and Non-flat Roles Inheritance Architecture](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Spring_Security_and_Non-flat_Roles_Inheritance_Architecture.svg)](https://dev.to/kirekov/spring-security-and-non-flat-roles-inheritance-architecture-2a7b)
+[![How to integrate third-party APIs into your frontend applications](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_integrate_third-party_APIs_into_your_frontend_applications.svg)](https://dev.to/haszankauna/how-to-integrate-third-party-apis-into-your-frontend-applications-1p30)
+[![Deploying an HTTP app using Docker + GKE + Cloudflare (living document)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deploying_an_HTTP_app_using_Docker_+_GKE_+_Cloudflare_(living_document).svg)](https://dev.to/morganw/deploying-an-http-app-using-docker-gke-cloudflare-living-document-4db7)
+[![The Science Of Allocating Dev Resources In 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Science_Of_Allocating_Dev_Resources_In_2023.svg)](https://dev.to/linearb/the-science-of-allocating-dev-resources-in-2023-30a2)
+[![How To Safely Verify MACs With Go And PHP Examples](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Safely_Verify_MACs_With_Go_And_PHP_Examples.svg)](https://dev.to/breda/how-to-safely-verify-macs-with-go-and-php-examples-3nde)
+[![Developer's programming languages won’t make you successful](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Developer's_programming_languages_won’t_make_you_successful.svg)](https://dev.to/shreyvijayvargiya/developers-programming-languages-wont-make-you-successful-lbd)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, February 23, 2023 at 11:12:09 AM
+> Last updated: Thursday, February 23, 2023 at 5:49:16 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, February 23, 2023 at 11:12:13 AM
+> Last updated: Thursday, February 23, 2023 at 5:49:19 PM
 
 > Showing 5 of 30 posts.
 
