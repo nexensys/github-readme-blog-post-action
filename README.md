@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, February 23, 2023 at 11:12:42 PM
+> Last updated: Friday, February 24, 2023 at 5:17:35 AM
 
 > Showing 5 of 12 posts.
 
-[![Advanced Techniques for Working with Ruby Collections 🎯](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Advanced_Techniques_for_Working_with_Ruby_Collections_🎯.svg)](https://dev.to/eakmotion/advanced-techniques-for-working-with-ruby-collections-4l08)
-[![AWS Cloud Quest: Backing Up Data](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_Cloud_Quest__Backing_Up_Data.svg)](https://dev.to/arc/aws-cloud-quest-backing-up-data-1jo9)
-[![[TECH]PCI SSC Security Requirements for Fintech Apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/[TECH]PCI_SSC_Security_Requirements_for_Fintech_Apps.svg)](https://dev.to/teamliapp/techpci-ssc-security-requirements-for-fintech-apps-bp5)
-[![SvelteKit: Easy code-based router for enterprise, instead of file-based router for home pages [February 2023]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/SvelteKit__Easy_code-based_router_for_enterprise__instead_of_file-based_router_for_home_pages_[February_2023].svg)](https://dev.to/maxcore/sveltekit-easy-code-based-router-for-enterprise-instead-of-file-based-router-for-home-pages-february-2023-2fk)
-[![97 Things Every Programmer should know part 5](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/97_Things_Every_Programmer_should_know_part_5.svg)](https://dev.to/devarshikansara/97-things-every-programmer-should-know-part-5-1pp2)
+[![Neden IQ Testi yaptırmalısınız?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Neden_IQ_Testi_yaptırmalısınız_.svg)](https://dev.to/iqsertifikasi/neden-iq-testi-yaptirmalisiniz-3bi8)
+[![Add an Options Page to Chrome Extension](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Add_an_Options_Page_to_Chrome_Extension.svg)](https://dev.to/codegino/add-an-options-page-to-chrome-extension-4p3e)
+[![How to create and visualize a cardioid using javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_and_visualize_a_cardioid_using_javascript.svg)](https://dev.to/eyudinkov/how-to-create-and-visualize-a-cardioid-using-javascript-33l4)
+[![How to Build a React Admin Panel with Mantine and Strapi](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Build_a_React_Admin_Panel_with_Mantine_and_Strapi.svg)](https://dev.to/refine/how-to-build-a-react-admin-panel-with-mantine-and-strapi-58i9)
+[![10 Game-Changing No Code/Low Code Tools Every Developer Should Know About](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_Game-Changing_No_Code_Low_Code_Tools_Every_Developer_Should_Know_About.svg)](https://dev.to/thenomadevel/10-game-changing-no-codelow-code-tools-every-developer-should-know-about-2a4l)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, February 23, 2023 at 11:12:45 PM
+> Last updated: Friday, February 24, 2023 at 5:17:38 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, February 23, 2023 at 11:12:49 PM
+> Last updated: Friday, February 24, 2023 at 5:17:41 AM
 
 > Showing 5 of 30 posts.
 
+[![Faster React apps coding: How to migrate from Emotion CSS-in-JS to Stylify Utility-First CSS. | Stylify CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Faster_React_apps_coding__How_to_migrate_from_Emotion_CSS-in-JS_to_Stylify_Utility-First_CSS.___Stylify_CSS.svg)](https://stylifycss.com/blog/how-to-migrate-from-emotion)
+[![Improve TypeScript Omit type](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Improve_TypeScript_Omit_type.svg)](https://dev.to/przemyslawjanbeigert/improve-typescript-omit-type-3d90)
 [![Experiments with the JavaScript Garbage Collector](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Experiments_with_the_JavaScript_Garbage_Collector.svg)](https://dev.to/codux/experiments-with-the-javascript-garbage-collector-2ae3)
 [![Implementing Tuples in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Implementing_Tuples_in_JavaScript.svg)](
 https://masteringjs.io/tutorials/fundamentals/tuple
 )
 [![GitHub - xeitojs/xeito: 🤞 Xeito is a framework for building interactive web applications with Typescript and Tagged Template Literals.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_xeitojs_xeito__🤞_Xeito_is_a_framework_for_building_interactive_web_applications_with_Typescript_and_Tagged_Template_Literals..svg)](https://github.com/xeitojs/xeito)
-[![How to Handle Date & Time with JavaScript - Stack Diary](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Handle_Date___Time_with_JavaScript_-_Stack_Diary.svg)](https://stackdiary.com/how-to-handle-date-time-with-javascript/)
-[![Use a fallback image when the image is failed to load](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Use_a_fallback_image_when_the_image_is_failed_to_load.svg)](
-https://frontendroom.com/use-fallback-image/
-)
 
 
 <!-- post-list:end -->
