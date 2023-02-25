@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, February 24, 2023 at 11:11:22 PM
+> Last updated: Saturday, February 25, 2023 at 5:15:36 AM
 
 > Showing 5 of 12 posts.
 
-[![Binary Search](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Binary_Search.svg)](https://dev.to/berutodo/binary-search-18e9)
-[![How to: work on two or more folders at the same time in VSCode](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to__work_on_two_or_more_folders_at_the_same_time_in_VSCode.svg)](https://dev.to/edgarcodes/how-to-work-on-two-or-more-folders-at-the-same-time-in-vscode-4bcg)
-[![How upload data in format JSON to Datastore from GCP?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_upload_data_in_format_JSON_to_Datastore_from_GCP_.svg)](https://dev.to/xlmriosx/how-upload-data-in-format-json-to-datastore-from-gcp-20no)
-[![Practical Tips for Freelance Developers: How to Find Clients and Grow Your Business](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Practical_Tips_for_Freelance_Developers__How_to_Find_Clients_and_Grow_Your_Business.svg)](https://dev.to/uncle_ben/practical-tips-for-freelance-developers-how-to-find-clients-and-grow-your-business-3hnj)
-[![Convert Android App to Use Material 3 Design](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Convert_Android_App_to_Use_Material_3_Design.svg)](https://dev.to/vtsen/convert-android-app-to-use-material-3-design-3ojm)
+[![Introduction of Rails Engine with basic example.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_of_Rails_Engine_with_basic_example..svg)](https://dev.to/harsh_u115/introduction-of-rails-engine-with-basic-example-2egm)
+[![Resolving SSH Permission Denied Errors Due to OpenSSH Version Vulnerabilities](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Resolving_SSH_Permission_Denied_Errors_Due_to_OpenSSH_Version_Vulnerabilities.svg)](https://dev.to/ibrarturi/resolving-ssh-permission-denied-errors-due-to-openssh-version-vulnerabilities-3mjh)
+[![7 Best Practices for Software Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/7_Best_Practices_for_Software_Developers.svg)](https://dev.to/devland/7-best-practices-for-software-developers-1l28)
+[![Caching in Ruby on Rails 7](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Caching_in_Ruby_on_Rails_7.svg)](https://dev.to/ahmadraza/caching-in-ruby-on-rails-7-470g)
+[![Sending Emails Using Python And Flask And Gmail](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Sending_Emails_Using_Python_And_Flask_And_Gmail.svg)](https://dev.to/ethand91/sending-emails-using-python-and-flask-and-gmail-17ba)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, February 24, 2023 at 11:11:26 PM
+> Last updated: Saturday, February 25, 2023 at 5:15:39 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, February 24, 2023 at 11:11:29 PM
+> Last updated: Saturday, February 25, 2023 at 5:15:40 AM
 
 > Showing 5 of 30 posts.
 
