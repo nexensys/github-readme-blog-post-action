@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, February 24, 2023 at 5:51:04 PM
+> Last updated: Friday, February 24, 2023 at 11:11:22 PM
 
 > Showing 5 of 12 posts.
 
+[![Binary Search](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Binary_Search.svg)](https://dev.to/berutodo/binary-search-18e9)
+[![How to: work on two or more folders at the same time in VSCode](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to__work_on_two_or_more_folders_at_the_same_time_in_VSCode.svg)](https://dev.to/edgarcodes/how-to-work-on-two-or-more-folders-at-the-same-time-in-vscode-4bcg)
 [![How upload data in format JSON to Datastore from GCP?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_upload_data_in_format_JSON_to_Datastore_from_GCP_.svg)](https://dev.to/xlmriosx/how-upload-data-in-format-json-to-datastore-from-gcp-20no)
-[![Recoil is the Samurai Sword of React State Management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Recoil_is_the_Samurai_Sword_of_React_State_Management.svg)](https://dev.to/codeofrelevancy/recoil-is-the-samurai-sword-of-react-state-management-1eg0)
+[![Practical Tips for Freelance Developers: How to Find Clients and Grow Your Business](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Practical_Tips_for_Freelance_Developers__How_to_Find_Clients_and_Grow_Your_Business.svg)](https://dev.to/uncle_ben/practical-tips-for-freelance-developers-how-to-find-clients-and-grow-your-business-3hnj)
 [![Convert Android App to Use Material 3 Design](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Convert_Android_App_to_Use_Material_3_Design.svg)](https://dev.to/vtsen/convert-android-app-to-use-material-3-design-3ojm)
-[![First release of SPVM::File::Temp and SPVM::File::Find](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/First_release_of_SPVM__File__Temp_and_SPVM__File__Find.svg)](https://dev.to/yukikimoto/first-release-of-spvmfiletemp-and-spvmfilefind-ca2)
-[![AWS Cloud Quest: Content Delivery Networks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_Cloud_Quest__Content_Delivery_Networks.svg)](https://dev.to/arc/aws-cloud-quest-content-delivery-networks-4gjb)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, February 24, 2023 at 5:51:08 PM
+> Last updated: Friday, February 24, 2023 at 11:11:26 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, February 24, 2023 at 5:51:11 PM
+> Last updated: Friday, February 24, 2023 at 11:11:29 PM
 
 > Showing 5 of 30 posts.
 
+[![How to generate a number from the text in Javascript?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_generate_a_number_from_the_text_in_Javascript_.svg)](
+https://frontendroom.com/generate-number-from-text/
+)
 [![Faster React apps coding: How to migrate from Emotion CSS-in-JS to Stylify Utility-First CSS. | Stylify CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Faster_React_apps_coding__How_to_migrate_from_Emotion_CSS-in-JS_to_Stylify_Utility-First_CSS.___Stylify_CSS.svg)](https://stylifycss.com/blog/how-to-migrate-from-emotion)
 [![Improve TypeScript Omit type](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Improve_TypeScript_Omit_type.svg)](https://dev.to/przemyslawjanbeigert/improve-typescript-omit-type-3d90)
 [![Experiments with the JavaScript Garbage Collector](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Experiments_with_the_JavaScript_Garbage_Collector.svg)](https://dev.to/codux/experiments-with-the-javascript-garbage-collector-2ae3)
 [![Implementing Tuples in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Implementing_Tuples_in_JavaScript.svg)](
 https://masteringjs.io/tutorials/fundamentals/tuple
 )
-[![GitHub - xeitojs/xeito: 🤞 Xeito is a framework for building interactive web applications with Typescript and Tagged Template Literals.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_xeitojs_xeito__🤞_Xeito_is_a_framework_for_building_interactive_web_applications_with_Typescript_and_Tagged_Template_Literals..svg)](https://github.com/xeitojs/xeito)
 
 
 <!-- post-list:end -->
