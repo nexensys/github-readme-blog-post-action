@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, February 25, 2023 at 5:15:36 AM
+> Last updated: Saturday, February 25, 2023 at 11:10:44 AM
 
 > Showing 5 of 12 posts.
 
-[![Introduction of Rails Engine with basic example.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_of_Rails_Engine_with_basic_example..svg)](https://dev.to/harsh_u115/introduction-of-rails-engine-with-basic-example-2egm)
-[![Resolving SSH Permission Denied Errors Due to OpenSSH Version Vulnerabilities](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Resolving_SSH_Permission_Denied_Errors_Due_to_OpenSSH_Version_Vulnerabilities.svg)](https://dev.to/ibrarturi/resolving-ssh-permission-denied-errors-due-to-openssh-version-vulnerabilities-3mjh)
-[![7 Best Practices for Software Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/7_Best_Practices_for_Software_Developers.svg)](https://dev.to/devland/7-best-practices-for-software-developers-1l28)
-[![Caching in Ruby on Rails 7](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Caching_in_Ruby_on_Rails_7.svg)](https://dev.to/ahmadraza/caching-in-ruby-on-rails-7-470g)
-[![Sending Emails Using Python And Flask And Gmail](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Sending_Emails_Using_Python_And_Flask_And_Gmail.svg)](https://dev.to/ethand91/sending-emails-using-python-and-flask-and-gmail-17ba)
+[![Turning 14...](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Turning_14....svg)](https://dev.to/vulcanwm/turning-14-1ifm)
+[![Ditching useState and useReducer: Why useImmer is the better option](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ditching_useState_and_useReducer__Why_useImmer_is_the_better_option.svg)](https://dev.to/rasaf_ibrahim/ditching-usestate-and-usereducer-why-useimmer-is-the-better-option-11hk)
+[![Understanding the Differences Between HTTP and HTTPS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_the_Differences_Between_HTTP_and_HTTPS.svg)](https://dev.to/haszankauna/understanding-the-differences-between-http-and-https-3155)
+[![A Comprehensive Tree Traversal Guide in Javascript - General and Binary Tree Traversals](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Comprehensive_Tree_Traversal_Guide_in_Javascript_-_General_and_Binary_Tree_Traversals.svg)](https://dev.to/humblecoder00/a-comprehensive-tree-traversal-guide-in-javascript-general-and-binary-tree-traversals-9lg)
+[![Building Dynamic User Interfaces with React and React-Router](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_Dynamic_User_Interfaces_with_React_and_React-Router.svg)](https://dev.to/haszankauna/building-dynamic-user-interfaces-with-react-and-react-router-2gcp)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, February 25, 2023 at 5:15:39 AM
+> Last updated: Saturday, February 25, 2023 at 11:10:48 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, February 25, 2023 at 5:15:40 AM
+> Last updated: Saturday, February 25, 2023 at 11:10:50 AM
 
 > Showing 5 of 30 posts.
 
