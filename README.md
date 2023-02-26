@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, February 25, 2023 at 11:11:40 PM
+> Last updated: Sunday, February 26, 2023 at 5:16:27 AM
 
 > Showing 5 of 12 posts.
 
-[![2d motion circle](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/2d_motion_circle.svg)](https://dev.to/nagvanshi9275/2d-motion-circle-451d)
-[![Why you shouldn't use slow regular expressions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_you_shouldn't_use_slow_regular_expressions.svg)](https://dev.to/leduc1901/why-you-shouldnt-use-slow-regular-expressions-2bnc)
-[![Set up Jenkins with HTTPS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Set_up_Jenkins_with_HTTPS.svg)](https://dev.to/jeansen/set-up-jenkins-with-https-250k)
-[![JavaScript Tutorial Series: Function expressions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_Tutorial_Series__Function_expressions.svg)](https://dev.to/fullstackjo/javascript-tutorial-series-function-expressions-4ofj)
-[![Unions and Narrowing in TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unions_and_Narrowing_in_TypeScript.svg)](https://dev.to/keento0809/unions-and-narrowing-in-typescript-5154)
+[![Logistics Automation - Parcel Label Generation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Logistics_Automation_-_Parcel_Label_Generation.svg)](https://dev.to/balagmadhu/logistics-automation-parcel-label-generation-5c2j)
+[![Mantenha o foco em entregar valor com DevOps, SRE e FinOps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mantenha_o_foco_em_entregar_valor_com_DevOps__SRE_e_FinOps.svg)](https://dev.to/espigah/mantenha-o-foco-em-entregar-valor-com-devops-sre-e-finops-3j0e)
+[![Vite: The Fast, Simple, and Efficient Build Tool for Web Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Vite__The_Fast__Simple__and_Efficient_Build_Tool_for_Web_Developers.svg)](https://dev.to/sammaji15/vite-the-fast-simple-and-efficient-build-tool-for-web-developers-5hhb)
+[![20 Console Methods that Will Transform How You Debug](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/20_Console_Methods_that_Will_Transform_How_You_Debug.svg)](https://dev.to/fpaghar/20-console-methods-that-will-transform-how-you-debug-3d46)
+[![Optimizing Web Performance: The Benefits of Using SVGs Over PNGs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Optimizing_Web_Performance__The_Benefits_of_Using_SVGs_Over_PNGs.svg)](https://dev.to/ugurkellecioglu/optimizing-web-performance-the-benefits-of-using-svgs-over-pngs-385c)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, February 25, 2023 at 11:11:44 PM
+> Last updated: Sunday, February 26, 2023 at 5:16:30 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, February 25, 2023 at 11:11:47 PM
+> Last updated: Sunday, February 26, 2023 at 5:16:37 AM
 
 > Showing 5 of 30 posts.
 
