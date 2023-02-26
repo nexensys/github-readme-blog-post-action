@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, February 25, 2023 at 11:10:44 AM
+> Last updated: Saturday, February 25, 2023 at 5:55:35 PM
 
 > Showing 5 of 12 posts.
 
-[![Turning 14...](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Turning_14....svg)](https://dev.to/vulcanwm/turning-14-1ifm)
-[![Ditching useState and useReducer: Why useImmer is the better option](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ditching_useState_and_useReducer__Why_useImmer_is_the_better_option.svg)](https://dev.to/rasaf_ibrahim/ditching-usestate-and-usereducer-why-useimmer-is-the-better-option-11hk)
-[![Understanding the Differences Between HTTP and HTTPS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_the_Differences_Between_HTTP_and_HTTPS.svg)](https://dev.to/haszankauna/understanding-the-differences-between-http-and-https-3155)
-[![A Comprehensive Tree Traversal Guide in Javascript - General and Binary Tree Traversals](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Comprehensive_Tree_Traversal_Guide_in_Javascript_-_General_and_Binary_Tree_Traversals.svg)](https://dev.to/humblecoder00/a-comprehensive-tree-traversal-guide-in-javascript-general-and-binary-tree-traversals-9lg)
-[![Building Dynamic User Interfaces with React and React-Router](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_Dynamic_User_Interfaces_with_React_and_React-Router.svg)](https://dev.to/haszankauna/building-dynamic-user-interfaces-with-react-and-react-router-2gcp)
+[![How to create a Website Using HTML and CSS Only](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_a_Website_Using_HTML_and_CSS_Only.svg)](https://dev.to/rutikkpatel/how-to-create-a-website-using-html-and-css-only-29oc)
+[![How To provisioning DataSources in Grafana with Kubernetes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_provisioning_DataSources_in_Grafana_with_Kubernetes.svg)](https://dev.to/saschadev/how-to-provisioning-datasources-in-grafana-with-kubernetes-5blm)
+[![HTTP Headers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/HTTP_Headers.svg)](https://dev.to/jacopo/http-headers-5je)
+[![Add Firebase v9 to your JavaScript App in 10 mins](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Add_Firebase_v9_to_your_JavaScript_App_in_10_mins.svg)](https://dev.to/hirajatamil/add-firebase-v9-to-your-javascript-app-in-10-mins-2ijd)
+[![How to learning Swift in 2023 ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_learning_Swift_in_2023__.svg)](https://dev.to/iamdevmarcos/how-to-learning-swift-in-2023--5fj3)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, February 25, 2023 at 11:10:48 AM
+> Last updated: Saturday, February 25, 2023 at 5:55:39 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, February 25, 2023 at 11:10:50 AM
+> Last updated: Saturday, February 25, 2023 at 5:55:41 PM
 
 > Showing 5 of 30 posts.
 
+[![Examples of Get and Post Requests with Axios](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Examples_of_Get_and_Post_Requests_with_Axios.svg)](https://medium.com/@jamesbordane57/examples-of-get-and-post-requests-with-axios-d18f395c921d)
 [![How to generate a number from the text in Javascript?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_generate_a_number_from_the_text_in_Javascript_.svg)](
 https://frontendroom.com/generate-number-from-text/
 )
 [![Faster React apps coding: How to migrate from Emotion CSS-in-JS to Stylify Utility-First CSS. | Stylify CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Faster_React_apps_coding__How_to_migrate_from_Emotion_CSS-in-JS_to_Stylify_Utility-First_CSS.___Stylify_CSS.svg)](https://stylifycss.com/blog/how-to-migrate-from-emotion)
 [![Improve TypeScript Omit type](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Improve_TypeScript_Omit_type.svg)](https://dev.to/przemyslawjanbeigert/improve-typescript-omit-type-3d90)
 [![Experiments with the JavaScript Garbage Collector](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Experiments_with_the_JavaScript_Garbage_Collector.svg)](https://dev.to/codux/experiments-with-the-javascript-garbage-collector-2ae3)
-[![Implementing Tuples in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Implementing_Tuples_in_JavaScript.svg)](
-https://masteringjs.io/tutorials/fundamentals/tuple
-)
 
 
 <!-- post-list:end -->
