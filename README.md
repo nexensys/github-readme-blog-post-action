@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, February 25, 2023 at 5:55:35 PM
+> Last updated: Saturday, February 25, 2023 at 11:11:40 PM
 
 > Showing 5 of 12 posts.
 
-[![How to create a Website Using HTML and CSS Only](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_a_Website_Using_HTML_and_CSS_Only.svg)](https://dev.to/rutikkpatel/how-to-create-a-website-using-html-and-css-only-29oc)
-[![How To provisioning DataSources in Grafana with Kubernetes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_provisioning_DataSources_in_Grafana_with_Kubernetes.svg)](https://dev.to/saschadev/how-to-provisioning-datasources-in-grafana-with-kubernetes-5blm)
-[![HTTP Headers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/HTTP_Headers.svg)](https://dev.to/jacopo/http-headers-5je)
-[![Add Firebase v9 to your JavaScript App in 10 mins](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Add_Firebase_v9_to_your_JavaScript_App_in_10_mins.svg)](https://dev.to/hirajatamil/add-firebase-v9-to-your-javascript-app-in-10-mins-2ijd)
-[![How to learning Swift in 2023 ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_learning_Swift_in_2023__.svg)](https://dev.to/iamdevmarcos/how-to-learning-swift-in-2023--5fj3)
+[![2d motion circle](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/2d_motion_circle.svg)](https://dev.to/nagvanshi9275/2d-motion-circle-451d)
+[![Why you shouldn't use slow regular expressions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_you_shouldn't_use_slow_regular_expressions.svg)](https://dev.to/leduc1901/why-you-shouldnt-use-slow-regular-expressions-2bnc)
+[![Set up Jenkins with HTTPS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Set_up_Jenkins_with_HTTPS.svg)](https://dev.to/jeansen/set-up-jenkins-with-https-250k)
+[![JavaScript Tutorial Series: Function expressions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_Tutorial_Series__Function_expressions.svg)](https://dev.to/fullstackjo/javascript-tutorial-series-function-expressions-4ofj)
+[![Unions and Narrowing in TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unions_and_Narrowing_in_TypeScript.svg)](https://dev.to/keento0809/unions-and-narrowing-in-typescript-5154)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, February 25, 2023 at 5:55:39 PM
+> Last updated: Saturday, February 25, 2023 at 11:11:44 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, February 25, 2023 at 5:55:41 PM
+> Last updated: Saturday, February 25, 2023 at 11:11:47 PM
 
 > Showing 5 of 30 posts.
 
