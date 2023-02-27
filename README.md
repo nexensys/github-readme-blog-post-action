@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, February 26, 2023 at 11:10:36 AM
+> Last updated: Sunday, February 26, 2023 at 5:50:38 PM
 
 > Showing 5 of 12 posts.
 
-[![Using & configuring zitadel for integration with AWS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using___configuring_zitadel_for_integration_with_AWS.svg)](https://dev.to/karanbir/using-configuring-zitadel-for-integration-with-aws-4cgf)
-[![Notion UI React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Notion_UI_React.svg)](https://dev.to/bogdanaks/notion-ui-react-2efh)
-[![A Beginner's Guide to Understanding DevOps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Beginner's_Guide_to_Understanding_DevOps.svg)](https://dev.to/rejoice/a-beginners-guide-to-understanding-devops-3nd6)
-[![Getting Started With Kafka with Node JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_Started_With_Kafka_with_Node_JS.svg)](https://dev.to/tejachundru/getting-started-with-kafka-with-node-js-i22)
-[![Yet Another Newsletter LOL: Renaissance](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Yet_Another_Newsletter_LOL__Renaissance.svg)](https://dev.to/nickytonline/yet-another-newsletter-lol-renaissance-5b8j)
+[![How to Build an Answer-to-Earn Platform with React, Solidity, and CometChat](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Build_an_Answer-to-Earn_Platform_with_React__Solidity__and_CometChat.svg)](https://dev.to/daltonic/how-to-build-an-answer-to-earn-platform-with-react-solidity-and-cometchat-2hj2)
+[![Adding Sound to JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Adding_Sound_to_JS.svg)](https://dev.to/colinwilliams91/adding-sound-to-js-b3i)
+[![Announcing MiniBASIC](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Announcing_MiniBASIC.svg)](https://dev.to/joestrout/announcing-minibasic-1i6f)
+[![React Performance Optimization: Tips and Techniques for Faster Apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Performance_Optimization__Tips_and_Techniques_for_Faster_Apps.svg)](https://dev.to/agboolaidris/react-performance-optimization-tips-and-techniques-for-faster-apps-44pl)
+[![Eventos orientados com Amazon EventBridge](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Eventos_orientados_com_Amazon_EventBridge.svg)](https://dev.to/rafaelonline/eventos-orientados-com-amazon-eventbridge-1185)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, February 26, 2023 at 11:10:38 AM
+> Last updated: Sunday, February 26, 2023 at 5:50:42 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, February 26, 2023 at 11:10:41 AM
+> Last updated: Sunday, February 26, 2023 at 5:50:45 PM
 
 > Showing 5 of 30 posts.
 
+[![Playing with Fire: Serverless PWA with Firebase](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Playing_with_Fire__Serverless_PWA_with_Firebase.svg)](https://cfe.dev/events/serverless-pwa-with-firebase/)
 [![How to Build a Vivid Birthday Quiz in 20 minutes? - Yonatan Kra](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Build_a_Vivid_Birthday_Quiz_in_20_minutes__-_Yonatan_Kra.svg)](https://yonatankra.com/how-to-build-a-vivid-birthday-quiz-in-20-minutes/)
 [![Examples of Get and Post Requests with Axios](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Examples_of_Get_and_Post_Requests_with_Axios.svg)](https://medium.com/@jamesbordane57/examples-of-get-and-post-requests-with-axios-d18f395c921d)
 [![How to generate a number from the text in Javascript?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_generate_a_number_from_the_text_in_Javascript_.svg)](
 https://frontendroom.com/generate-number-from-text/
 )
 [![Faster React apps coding: How to migrate from Emotion CSS-in-JS to Stylify Utility-First CSS. | Stylify CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Faster_React_apps_coding__How_to_migrate_from_Emotion_CSS-in-JS_to_Stylify_Utility-First_CSS.___Stylify_CSS.svg)](https://stylifycss.com/blog/how-to-migrate-from-emotion)
-[![Improve TypeScript Omit type](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Improve_TypeScript_Omit_type.svg)](https://dev.to/przemyslawjanbeigert/improve-typescript-omit-type-3d90)
 
 
 <!-- post-list:end -->
