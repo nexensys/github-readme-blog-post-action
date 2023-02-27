@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, February 27, 2023 at 5:19:01 AM
+> Last updated: Monday, February 27, 2023 at 11:12:09 AM
 
 > Showing 5 of 12 posts.
 
-[![How to add bootstrap in Rails 7](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_add_bootstrap_in_Rails_7.svg)](https://dev.to/rutikkpatel/how-to-add-bootstrap-in-rails-7-5pd)
-[![S'Monday 😪](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/S'Monday_😪.svg)](https://dev.to/codenewbieteam/smonday-4hcj)
-[![Design: Desfazendo Mal-entendidos - DDD](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Design__Desfazendo_Mal-entendidos_-_DDD.svg)](https://dev.to/wsantosdev/design-desfazendo-mal-entendidos-ddd-o05)
-[![From Idea to Reality: How Custom Software Development Brings Your Vision to Life](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/From_Idea_to_Reality__How_Custom_Software_Development_Brings_Your_Vision_to_Life.svg)](https://dev.to/digitalmarketinglab/from-idea-to-reality-how-custom-software-development-brings-your-vision-to-life-2f47)
-[![7 React UI Component Libraries for Building Beautiful Interfaces](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/7_React_UI_Component_Libraries_for_Building_Beautiful_Interfaces.svg)](https://dev.to/surajondev/7-react-ui-component-libraries-for-buliding-beautiful-interfaces-4o5)
+[![#ThisMonthInSWA - January 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_ThisMonthInSWA_-_January_2023.svg)](https://dev.to/azure/thismonthinswa-january-2023-45cc)
+[![How To Cross-Post The Same Article On Different Blogging Platforms To Reach More Readers.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Cross-Post_The_Same_Article_On_Different_Blogging_Platforms_To_Reach_More_Readers..svg)](https://dev.to/the_greatbonnie/how-to-cross-post-the-same-article-on-different-blogging-platforms-to-reach-more-readers-2306)
+[![IndexedDB on steroids using Dexie.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/IndexedDB_on_steroids_using_Dexie.js.svg)](https://dev.to/bgopikrishna/indexeddb-on-steroids-using-dexiejs-1ej4)
+[![FLiPN-FLaNK Stack Weekly 27Feb2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/FLiPN-FLaNK_Stack_Weekly_27Feb2023.svg)](https://dev.to/tspannhw/flipn-flank-stack-weekly-27feb2023-27gb)
+[![How to solve Vercel and Netlify "Page Not Found" after page refresh [SOLVED]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_solve_Vercel_and_Netlify__Page_Not_Found__after_page_refresh_[SOLVED].svg)](https://dev.to/devvsakib/how-to-solve-vercel-and-netlify-page-not-found-after-page-refresh-solved-2ol7)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, February 27, 2023 at 5:19:05 AM
+> Last updated: Monday, February 27, 2023 at 11:12:13 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, February 27, 2023 at 5:19:09 AM
+> Last updated: Monday, February 27, 2023 at 11:12:19 AM
 
 > Showing 5 of 30 posts.
 
+[![API with NestJS #97. Introduction to managing logs with Amazon CloudWatch](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__97._Introduction_to_managing_logs_with_Amazon_CloudWatch.svg)](https://wanago.io/2023/02/27/nestjs-api-aws-cloudwatch-amazon/)
+[![Using Tigris Database and Search with tRPC and Next.js - Part 1 | Tigris](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_Tigris_Database_and_Search_with_tRPC_and_Next.js_-_Part_1___Tigris.svg)](https://www.tigrisdata.com/blog/tigris-database-search-trpc-nextjs-part-1/)
 [![Playing with Fire: Serverless PWA with Firebase](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Playing_with_Fire__Serverless_PWA_with_Firebase.svg)](https://cfe.dev/events/serverless-pwa-with-firebase/)
 [![How to Build a Vivid Birthday Quiz in 20 minutes? - Yonatan Kra](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Build_a_Vivid_Birthday_Quiz_in_20_minutes__-_Yonatan_Kra.svg)](https://yonatankra.com/how-to-build-a-vivid-birthday-quiz-in-20-minutes/)
 [![Examples of Get and Post Requests with Axios](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Examples_of_Get_and_Post_Requests_with_Axios.svg)](https://medium.com/@jamesbordane57/examples-of-get-and-post-requests-with-axios-d18f395c921d)
-[![How to generate a number from the text in Javascript?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_generate_a_number_from_the_text_in_Javascript_.svg)](
-https://frontendroom.com/generate-number-from-text/
-)
-[![Faster React apps coding: How to migrate from Emotion CSS-in-JS to Stylify Utility-First CSS. | Stylify CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Faster_React_apps_coding__How_to_migrate_from_Emotion_CSS-in-JS_to_Stylify_Utility-First_CSS.___Stylify_CSS.svg)](https://stylifycss.com/blog/how-to-migrate-from-emotion)
 
 
 <!-- post-list:end -->
