@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, February 26, 2023 at 5:50:38 PM
+> Last updated: Sunday, February 26, 2023 at 11:12:56 PM
 
 > Showing 5 of 12 posts.
 
-[![How to Build an Answer-to-Earn Platform with React, Solidity, and CometChat](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Build_an_Answer-to-Earn_Platform_with_React__Solidity__and_CometChat.svg)](https://dev.to/daltonic/how-to-build-an-answer-to-earn-platform-with-react-solidity-and-cometchat-2hj2)
-[![Adding Sound to JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Adding_Sound_to_JS.svg)](https://dev.to/colinwilliams91/adding-sound-to-js-b3i)
-[![Announcing MiniBASIC](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Announcing_MiniBASIC.svg)](https://dev.to/joestrout/announcing-minibasic-1i6f)
-[![React Performance Optimization: Tips and Techniques for Faster Apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Performance_Optimization__Tips_and_Techniques_for_Faster_Apps.svg)](https://dev.to/agboolaidris/react-performance-optimization-tips-and-techniques-for-faster-apps-44pl)
-[![Eventos orientados com Amazon EventBridge](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Eventos_orientados_com_Amazon_EventBridge.svg)](https://dev.to/rafaelonline/eventos-orientados-com-amazon-eventbridge-1185)
+[![Configure Kubernetes Readiness and Liveness Probes - Tutorial](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Configure_Kubernetes_Readiness_and_Liveness_Probes_-_Tutorial.svg)](https://dev.to/pavanbelagatti/configure-kubernetes-readiness-and-liveness-probes-tutorial-478p)
+[![Code a responsive step progress bar with HTML, CSS, & JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Code_a_responsive_step_progress_bar_with_HTML__CSS____JavaScript.svg)](https://dev.to/michaelburrows/code-a-responsive-step-progress-bar-with-html-css-javascript-2f6l)
+[![Understanding MySQL EXPLAIN output - part 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_MySQL_EXPLAIN_output_-_part_2.svg)](https://dev.to/amitiwary999/understanding-mysql-explain-output-part-2-2eg0)
+[![Recoil is the Samurai Sword of React State Management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Recoil_is_the_Samurai_Sword_of_React_State_Management.svg)](https://dev.to/codeofrelevancy/recoil-is-the-samurai-sword-of-react-state-management-5h3c)
+[![Auth0 in React and Node](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Auth0_in_React_and_Node.svg)](https://dev.to/mavis_chen/auth0-in-react-and-node-38o0)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, February 26, 2023 at 5:50:42 PM
+> Last updated: Sunday, February 26, 2023 at 11:12:59 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, February 26, 2023 at 5:50:45 PM
+> Last updated: Sunday, February 26, 2023 at 11:13:02 PM
 
 > Showing 5 of 30 posts.
 
