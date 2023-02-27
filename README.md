@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, February 26, 2023 at 11:12:56 PM
+> Last updated: Monday, February 27, 2023 at 5:19:01 AM
 
 > Showing 5 of 12 posts.
 
-[![Configure Kubernetes Readiness and Liveness Probes - Tutorial](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Configure_Kubernetes_Readiness_and_Liveness_Probes_-_Tutorial.svg)](https://dev.to/pavanbelagatti/configure-kubernetes-readiness-and-liveness-probes-tutorial-478p)
-[![Code a responsive step progress bar with HTML, CSS, & JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Code_a_responsive_step_progress_bar_with_HTML__CSS____JavaScript.svg)](https://dev.to/michaelburrows/code-a-responsive-step-progress-bar-with-html-css-javascript-2f6l)
-[![Understanding MySQL EXPLAIN output - part 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_MySQL_EXPLAIN_output_-_part_2.svg)](https://dev.to/amitiwary999/understanding-mysql-explain-output-part-2-2eg0)
-[![Recoil is the Samurai Sword of React State Management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Recoil_is_the_Samurai_Sword_of_React_State_Management.svg)](https://dev.to/codeofrelevancy/recoil-is-the-samurai-sword-of-react-state-management-5h3c)
-[![Auth0 in React and Node](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Auth0_in_React_and_Node.svg)](https://dev.to/mavis_chen/auth0-in-react-and-node-38o0)
+[![How to add bootstrap in Rails 7](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_add_bootstrap_in_Rails_7.svg)](https://dev.to/rutikkpatel/how-to-add-bootstrap-in-rails-7-5pd)
+[![S'Monday 😪](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/S'Monday_😪.svg)](https://dev.to/codenewbieteam/smonday-4hcj)
+[![Design: Desfazendo Mal-entendidos - DDD](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Design__Desfazendo_Mal-entendidos_-_DDD.svg)](https://dev.to/wsantosdev/design-desfazendo-mal-entendidos-ddd-o05)
+[![From Idea to Reality: How Custom Software Development Brings Your Vision to Life](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/From_Idea_to_Reality__How_Custom_Software_Development_Brings_Your_Vision_to_Life.svg)](https://dev.to/digitalmarketinglab/from-idea-to-reality-how-custom-software-development-brings-your-vision-to-life-2f47)
+[![7 React UI Component Libraries for Building Beautiful Interfaces](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/7_React_UI_Component_Libraries_for_Building_Beautiful_Interfaces.svg)](https://dev.to/surajondev/7-react-ui-component-libraries-for-buliding-beautiful-interfaces-4o5)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, February 26, 2023 at 11:12:59 PM
+> Last updated: Monday, February 27, 2023 at 5:19:05 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, February 26, 2023 at 11:13:02 PM
+> Last updated: Monday, February 27, 2023 at 5:19:09 AM
 
 > Showing 5 of 30 posts.
 
