@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, February 27, 2023 at 11:12:09 AM
+> Last updated: Monday, February 27, 2023 at 5:51:23 PM
 
 > Showing 5 of 12 posts.
 
-[![#ThisMonthInSWA - January 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_ThisMonthInSWA_-_January_2023.svg)](https://dev.to/azure/thismonthinswa-january-2023-45cc)
-[![How To Cross-Post The Same Article On Different Blogging Platforms To Reach More Readers.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Cross-Post_The_Same_Article_On_Different_Blogging_Platforms_To_Reach_More_Readers..svg)](https://dev.to/the_greatbonnie/how-to-cross-post-the-same-article-on-different-blogging-platforms-to-reach-more-readers-2306)
-[![IndexedDB on steroids using Dexie.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/IndexedDB_on_steroids_using_Dexie.js.svg)](https://dev.to/bgopikrishna/indexeddb-on-steroids-using-dexiejs-1ej4)
-[![FLiPN-FLaNK Stack Weekly 27Feb2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/FLiPN-FLaNK_Stack_Weekly_27Feb2023.svg)](https://dev.to/tspannhw/flipn-flank-stack-weekly-27feb2023-27gb)
-[![How to solve Vercel and Netlify "Page Not Found" after page refresh [SOLVED]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_solve_Vercel_and_Netlify__Page_Not_Found__after_page_refresh_[SOLVED].svg)](https://dev.to/devvsakib/how-to-solve-vercel-and-netlify-page-not-found-after-page-refresh-solved-2ol7)
+[![CodeNewbie Memes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CodeNewbie_Memes.svg)](https://dev.to/codenewbieteam/codenewbie-memes-3fbn)
+[![Discovering the Magic of CSS and HTML](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Discovering_the_Magic_of_CSS_and_HTML.svg)](https://dev.to/srhiulli/discovering-the-magic-of-css-and-html-5b8p)
+[![Building the Amplidex; A GraphQL Powered Pokedex](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_the_Amplidex;_A_GraphQL_Powered_Pokedex.svg)](https://dev.to/amplication/building-the-amplidex-a-graphql-powered-pokedex-1pd2)
+[![Deploy WordPress on EC2 by WordPress AMI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deploy_WordPress_on_EC2_by_WordPress_AMI.svg)](https://dev.to/aws-builders/deploy-wordpress-on-ec2-by-wordpress-ami-2mog)
+[![How to Enable 2FA for your GitHub Account ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Enable_2FA_for_your_GitHub_Account_.svg)](https://dev.to/github/how-to-enable-2fa-for-your-github-account-4o60)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, February 27, 2023 at 11:12:13 AM
+> Last updated: Monday, February 27, 2023 at 5:51:25 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, February 27, 2023 at 11:12:19 AM
+> Last updated: Monday, February 27, 2023 at 5:51:29 PM
 
 > Showing 5 of 30 posts.
 
