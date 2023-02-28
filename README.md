@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, February 27, 2023 at 5:51:23 PM
+> Last updated: Monday, February 27, 2023 at 11:12:46 PM
 
 > Showing 5 of 12 posts.
 
-[![CodeNewbie Memes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CodeNewbie_Memes.svg)](https://dev.to/codenewbieteam/codenewbie-memes-3fbn)
-[![Discovering the Magic of CSS and HTML](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Discovering_the_Magic_of_CSS_and_HTML.svg)](https://dev.to/srhiulli/discovering-the-magic-of-css-and-html-5b8p)
-[![Building the Amplidex; A GraphQL Powered Pokedex](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_the_Amplidex;_A_GraphQL_Powered_Pokedex.svg)](https://dev.to/amplication/building-the-amplidex-a-graphql-powered-pokedex-1pd2)
-[![Deploy WordPress on EC2 by WordPress AMI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deploy_WordPress_on_EC2_by_WordPress_AMI.svg)](https://dev.to/aws-builders/deploy-wordpress-on-ec2-by-wordpress-ami-2mog)
-[![How to Enable 2FA for your GitHub Account ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Enable_2FA_for_your_GitHub_Account_.svg)](https://dev.to/github/how-to-enable-2fa-for-your-github-account-4o60)
+[![Using React with Google Cloud Storage: A Guide to Cloud File Storage and Retrieval](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_React_with_Google_Cloud_Storage__A_Guide_to_Cloud_File_Storage_and_Retrieval.svg)](https://dev.to/haszankauna/using-react-with-google-cloud-storage-a-guide-to-cloud-file-storage-and-retrieval-1mcm)
+[![Streamlining Appointment Scheduling with React and Calendly API Integration](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Streamlining_Appointment_Scheduling_with_React_and_Calendly_API_Integration.svg)](https://dev.to/haszankauna/streamlining-appointment-scheduling-with-react-and-calendly-api-integration-c29)
+[![Software Design Patterns: An Overview and When to Use Them](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Software_Design_Patterns__An_Overview_and_When_to_Use_Them.svg)](https://dev.to/yelk11/software-design-patterns-an-overview-and-when-to-use-them-37ja)
+[![React Architectures: FLUX vs REDUX](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Architectures__FLUX_vs_REDUX.svg)](https://dev.to/lovepreetsingh/react-architectures-flux-vs-redux-249l)
+[![Streamlining React Application Development with CI/CD using GitHub Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Streamlining_React_Application_Development_with_CI_CD_using_GitHub_Actions.svg)](https://dev.to/haszankauna/streamlining-react-application-development-with-cicd-using-github-actions-4h86)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, February 27, 2023 at 5:51:25 PM
+> Last updated: Monday, February 27, 2023 at 11:12:50 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, February 27, 2023 at 5:51:29 PM
+> Last updated: Monday, February 27, 2023 at 11:12:56 PM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - ColonelParrot/feedbackplus: Screenshotting and screenshot editing for your feedback forms with JavaScript.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ColonelParrot_feedbackplus__Screenshotting_and_screenshot_editing_for_your_feedback_forms_with_JavaScript..svg)](https://github.com/ColonelParrot/feedbackplus)
 [![API with NestJS #97. Introduction to managing logs with Amazon CloudWatch](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__97._Introduction_to_managing_logs_with_Amazon_CloudWatch.svg)](https://wanago.io/2023/02/27/nestjs-api-aws-cloudwatch-amazon/)
 [![Using Tigris Database and Search with tRPC and Next.js - Part 1 | Tigris](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_Tigris_Database_and_Search_with_tRPC_and_Next.js_-_Part_1___Tigris.svg)](https://www.tigrisdata.com/blog/tigris-database-search-trpc-nextjs-part-1/)
 [![Playing with Fire: Serverless PWA with Firebase](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Playing_with_Fire__Serverless_PWA_with_Firebase.svg)](https://cfe.dev/events/serverless-pwa-with-firebase/)
 [![How to Build a Vivid Birthday Quiz in 20 minutes? - Yonatan Kra](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Build_a_Vivid_Birthday_Quiz_in_20_minutes__-_Yonatan_Kra.svg)](https://yonatankra.com/how-to-build-a-vivid-birthday-quiz-in-20-minutes/)
-[![Examples of Get and Post Requests with Axios](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Examples_of_Get_and_Post_Requests_with_Axios.svg)](https://medium.com/@jamesbordane57/examples-of-get-and-post-requests-with-axios-d18f395c921d)
 
 
 <!-- post-list:end -->
