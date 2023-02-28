@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, February 27, 2023 at 11:12:46 PM
+> Last updated: Tuesday, February 28, 2023 at 5:17:56 AM
 
 > Showing 5 of 12 posts.
 
-[![Using React with Google Cloud Storage: A Guide to Cloud File Storage and Retrieval](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_React_with_Google_Cloud_Storage__A_Guide_to_Cloud_File_Storage_and_Retrieval.svg)](https://dev.to/haszankauna/using-react-with-google-cloud-storage-a-guide-to-cloud-file-storage-and-retrieval-1mcm)
-[![Streamlining Appointment Scheduling with React and Calendly API Integration](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Streamlining_Appointment_Scheduling_with_React_and_Calendly_API_Integration.svg)](https://dev.to/haszankauna/streamlining-appointment-scheduling-with-react-and-calendly-api-integration-c29)
-[![Software Design Patterns: An Overview and When to Use Them](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Software_Design_Patterns__An_Overview_and_When_to_Use_Them.svg)](https://dev.to/yelk11/software-design-patterns-an-overview-and-when-to-use-them-37ja)
-[![React Architectures: FLUX vs REDUX](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Architectures__FLUX_vs_REDUX.svg)](https://dev.to/lovepreetsingh/react-architectures-flux-vs-redux-249l)
-[![Streamlining React Application Development with CI/CD using GitHub Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Streamlining_React_Application_Development_with_CI_CD_using_GitHub_Actions.svg)](https://dev.to/haszankauna/streamlining-react-application-development-with-cicd-using-github-actions-4h86)
+[![Top 10 Plaforms for Fonts Download .](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_10_Plaforms_for_Fonts_Download_..svg)](https://dev.to/yug2477/top-10-plaforms-for-fonts-download--2963)
+[![Video Gaming Concepts For the Uninitiated](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Video_Gaming_Concepts_For_the_Uninitiated.svg)](https://dev.to/solidi/video-gaming-concepts-for-the-uninitiated-4k8m)
+[![The Future of Dining: Exploring the Benefits of Virtual Reality in Restaurants](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Future_of_Dining__Exploring_the_Benefits_of_Virtual_Reality_in_Restaurants.svg)](https://dev.to/bookerrjanee/the-future-of-dining-exploring-the-benefits-of-virtual-reality-in-restaurants-glc)
+[![3 tips to keep microservice architecture from becoming a mess](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/3_tips_to_keep_microservice_architecture_from_becoming_a_mess.svg)](https://dev.to/frolk/3-tips-to-keep-microservice-architecture-from-becoming-a-mess-4hic)
+[![Introduction to React Hooks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_to_React_Hooks.svg)](https://dev.to/aabi26/introduction-to-react-hooks-hmc)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, February 27, 2023 at 11:12:50 PM
+> Last updated: Tuesday, February 28, 2023 at 5:17:58 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, February 27, 2023 at 11:12:56 PM
+> Last updated: Tuesday, February 28, 2023 at 5:18:03 AM
 
 > Showing 5 of 30 posts.
 
+[![
+directory.mirror.co.uk | Joe Ricotta - Real Estate Developer
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_directory.mirror.co.uk___Joe_Ricotta_-_Real_Estate_Developer_.svg)](
+https://directory.mirror.co.uk/company/249547b0b5395a389ba77695ecb1358a
+)
+[![What is ref() in Vue?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_is_ref()_in_Vue_.svg)](https://dmitripavlutin.com/ref-in-vue/)
 [![GitHub - ColonelParrot/feedbackplus: Screenshotting and screenshot editing for your feedback forms with JavaScript.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ColonelParrot_feedbackplus__Screenshotting_and_screenshot_editing_for_your_feedback_forms_with_JavaScript..svg)](https://github.com/ColonelParrot/feedbackplus)
 [![API with NestJS #97. Introduction to managing logs with Amazon CloudWatch](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__97._Introduction_to_managing_logs_with_Amazon_CloudWatch.svg)](https://wanago.io/2023/02/27/nestjs-api-aws-cloudwatch-amazon/)
 [![Using Tigris Database and Search with tRPC and Next.js - Part 1 | Tigris](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_Tigris_Database_and_Search_with_tRPC_and_Next.js_-_Part_1___Tigris.svg)](https://www.tigrisdata.com/blog/tigris-database-search-trpc-nextjs-part-1/)
-[![Playing with Fire: Serverless PWA with Firebase](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Playing_with_Fire__Serverless_PWA_with_Firebase.svg)](https://cfe.dev/events/serverless-pwa-with-firebase/)
-[![How to Build a Vivid Birthday Quiz in 20 minutes? - Yonatan Kra](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Build_a_Vivid_Birthday_Quiz_in_20_minutes__-_Yonatan_Kra.svg)](https://yonatankra.com/how-to-build-a-vivid-birthday-quiz-in-20-minutes/)
 
 
 <!-- post-list:end -->
