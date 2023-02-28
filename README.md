@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, February 28, 2023 at 5:17:56 AM
+> Last updated: Tuesday, February 28, 2023 at 11:11:56 AM
 
 > Showing 5 of 12 posts.
 
-[![Top 10 Plaforms for Fonts Download .](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_10_Plaforms_for_Fonts_Download_..svg)](https://dev.to/yug2477/top-10-plaforms-for-fonts-download--2963)
-[![Video Gaming Concepts For the Uninitiated](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Video_Gaming_Concepts_For_the_Uninitiated.svg)](https://dev.to/solidi/video-gaming-concepts-for-the-uninitiated-4k8m)
-[![The Future of Dining: Exploring the Benefits of Virtual Reality in Restaurants](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Future_of_Dining__Exploring_the_Benefits_of_Virtual_Reality_in_Restaurants.svg)](https://dev.to/bookerrjanee/the-future-of-dining-exploring-the-benefits-of-virtual-reality-in-restaurants-glc)
-[![3 tips to keep microservice architecture from becoming a mess](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/3_tips_to_keep_microservice_architecture_from_becoming_a_mess.svg)](https://dev.to/frolk/3-tips-to-keep-microservice-architecture-from-becoming-a-mess-4hic)
-[![Introduction to React Hooks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_to_React_Hooks.svg)](https://dev.to/aabi26/introduction-to-react-hooks-hmc)
+[![The decline of CSS Tricks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_decline_of_CSS_Tricks.svg)](https://dev.to/robole/the-decline-of-css-tricks-1a3b)
+[![Moonly weekly progress update #38](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Moonly_weekly_progress_update__38.svg)](https://dev.to/moonly/moonly-weekly-progress-update-38-3d95)
+[![Top 7 Featured DEV Posts from the Past Week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_7_Featured_DEV_Posts_from_the_Past_Week.svg)](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4e99)
+[![How to speed up pandas with NumPy methods](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_speed_up_pandas_with_NumPy_methods.svg)](https://dev.to/deepnote/how-to-speed-up-pandas-with-numpy-methods-34pa)
+[![Connecting the Dots: How Data Strategy Fuels AI Strategy](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Connecting_the_Dots__How_Data_Strategy_Fuels_AI_Strategy.svg)](https://dev.to/balagmadhu/connecting-the-dots-how-data-strategy-fuels-ai-strategy-76m)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, February 28, 2023 at 5:17:58 AM
+> Last updated: Tuesday, February 28, 2023 at 11:11:59 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, February 28, 2023 at 5:18:03 AM
+> Last updated: Tuesday, February 28, 2023 at 11:12:08 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - aralroca/next-load: Load & consume data in an easy way in Next.js +13 app dir](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_aralroca_next-load__Load___consume_data_in_an_easy_way_in_Next.js_+13_app_dir.svg)](https://github.com/aralroca/next-load)
 [![
 directory.mirror.co.uk | Joe Ricotta - Real Estate Developer
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_directory.mirror.co.uk___Joe_Ricotta_-_Real_Estate_Developer_.svg)](
@@ -55,7 +56,6 @@ https://directory.mirror.co.uk/company/249547b0b5395a389ba77695ecb1358a
 [![What is ref() in Vue?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_is_ref()_in_Vue_.svg)](https://dmitripavlutin.com/ref-in-vue/)
 [![GitHub - ColonelParrot/feedbackplus: Screenshotting and screenshot editing for your feedback forms with JavaScript.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ColonelParrot_feedbackplus__Screenshotting_and_screenshot_editing_for_your_feedback_forms_with_JavaScript..svg)](https://github.com/ColonelParrot/feedbackplus)
 [![API with NestJS #97. Introduction to managing logs with Amazon CloudWatch](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__97._Introduction_to_managing_logs_with_Amazon_CloudWatch.svg)](https://wanago.io/2023/02/27/nestjs-api-aws-cloudwatch-amazon/)
-[![Using Tigris Database and Search with tRPC and Next.js - Part 1 | Tigris](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_Tigris_Database_and_Search_with_tRPC_and_Next.js_-_Part_1___Tigris.svg)](https://www.tigrisdata.com/blog/tigris-database-search-trpc-nextjs-part-1/)
 
 
 <!-- post-list:end -->
