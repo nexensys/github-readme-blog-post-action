@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, February 28, 2023 at 11:11:56 AM
+> Last updated: Tuesday, February 28, 2023 at 5:55:38 PM
 
 > Showing 5 of 12 posts.
 
-[![The decline of CSS Tricks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_decline_of_CSS_Tricks.svg)](https://dev.to/robole/the-decline-of-css-tricks-1a3b)
-[![Moonly weekly progress update #38](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Moonly_weekly_progress_update__38.svg)](https://dev.to/moonly/moonly-weekly-progress-update-38-3d95)
-[![Top 7 Featured DEV Posts from the Past Week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_7_Featured_DEV_Posts_from_the_Past_Week.svg)](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4e99)
-[![How to speed up pandas with NumPy methods](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_speed_up_pandas_with_NumPy_methods.svg)](https://dev.to/deepnote/how-to-speed-up-pandas-with-numpy-methods-34pa)
-[![Connecting the Dots: How Data Strategy Fuels AI Strategy](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Connecting_the_Dots__How_Data_Strategy_Fuels_AI_Strategy.svg)](https://dev.to/balagmadhu/connecting-the-dots-how-data-strategy-fuels-ai-strategy-76m)
+[![Top 5 AI-Powered Image Generation Tools for Creating High-Quality Images](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_5_AI-Powered_Image_Generation_Tools_for_Creating_High-Quality_Images.svg)](https://dev.to/amananandrai/top-5-ai-powered-image-generation-tools-for-creating-high-quality-images-2n89)
+[![Using Virtual Color Mixing to Extend Your Palette in React/JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_Virtual_Color_Mixing_to_Extend_Your_Palette_in_React_JavaScript.svg)](https://dev.to/bytebodger/using-virtual-color-mixing-to-extend-your-palette-in-reactjavascript-l41)
+[![Speed Up Cypress Testing of NextAuth Secured Web Apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Speed_Up_Cypress_Testing_of_NextAuth_Secured_Web_Apps.svg)](https://dev.to/cowofevil/speed-up-cypress-testing-of-nextauth-secured-web-apps-10a0)
+[![Trending Python repos of the week 📈](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Trending_Python_repos_of_the_week_📈.svg)](https://dev.to/quine/trending-python-repos-of-the-week-lh0)
+[![C# FileStream For Lazy Developers In A Hurry. The Bare Minimum](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/C__FileStream_For_Lazy_Developers_In_A_Hurry._The_Bare_Minimum.svg)](https://dev.to/gustavupp/c-filestream-for-lazy-developers-in-a-hurry-the-bare-minimum-3ic9)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, February 28, 2023 at 11:11:59 AM
+> Last updated: Tuesday, February 28, 2023 at 5:55:42 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, February 28, 2023 at 11:12:08 AM
+> Last updated: Tuesday, February 28, 2023 at 5:55:47 PM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - rpgeeganage/ots-share-app: A self-hosting app to share secrets only one-time.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_rpgeeganage_ots-share-app__A_self-hosting_app_to_share_secrets_only_one-time..svg)](https://github.com/rpgeeganage/ots-share-app)
 [![GitHub - aralroca/next-load: Load & consume data in an easy way in Next.js +13 app dir](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_aralroca_next-load__Load___consume_data_in_an_easy_way_in_Next.js_+13_app_dir.svg)](https://github.com/aralroca/next-load)
 [![
 directory.mirror.co.uk | Joe Ricotta - Real Estate Developer
@@ -55,7 +56,6 @@ https://directory.mirror.co.uk/company/249547b0b5395a389ba77695ecb1358a
 )
 [![What is ref() in Vue?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_is_ref()_in_Vue_.svg)](https://dmitripavlutin.com/ref-in-vue/)
 [![GitHub - ColonelParrot/feedbackplus: Screenshotting and screenshot editing for your feedback forms with JavaScript.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ColonelParrot_feedbackplus__Screenshotting_and_screenshot_editing_for_your_feedback_forms_with_JavaScript..svg)](https://github.com/ColonelParrot/feedbackplus)
-[![API with NestJS #97. Introduction to managing logs with Amazon CloudWatch](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__97._Introduction_to_managing_logs_with_Amazon_CloudWatch.svg)](https://wanago.io/2023/02/27/nestjs-api-aws-cloudwatch-amazon/)
 
 
 <!-- post-list:end -->
