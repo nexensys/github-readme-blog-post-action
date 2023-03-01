@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, February 28, 2023 at 11:13:28 PM
+> Last updated: Wednesday, March 1, 2023 at 5:18:37 AM
 
 > Showing 5 of 12 posts.
 
-[![Learn How to Setup a CI/CD Pipeline from Scratch](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Learn_How_to_Setup_a_CI_CD_Pipeline_from_Scratch.svg)](https://dev.to/pavanbelagatti/learn-how-to-setup-a-cicd-pipeline-from-scratch-for-a-go-application-4m69)
-[![Git Work Trees](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Git_Work_Trees.svg)](https://dev.to/bsrz/git-work-trees-fg9)
-[![Kubernetes 101, part II, pods](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Kubernetes_101__part_II__pods.svg)](https://dev.to/leandronsp/kubernetes-101-part-ii-pods-19pb)
-[![My Journey into the Cloud Computing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_Journey_into_the_Cloud_Computing.svg)](https://dev.to/aws-builders/my-journey-into-the-cloud-computing-3ppl)
-[![Components of DevOps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Components_of_DevOps.svg)](https://dev.to/abhixsh/components-of-devops-2394)
+[![Why You Should Love Do Untils in Power Automate](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_You_Should_Love_Do_Untils_in_Power_Automate.svg)](https://dev.to/wyattdave/why-you-should-love-do-untils-in-power-automate-3ic8)
+[![Making GraphQL Codegen Work For You: GraphQL Integration with React and TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Making_GraphQL_Codegen_Work_For_You__GraphQL_Integration_with_React_and_TypeScript.svg)](https://dev.to/novu/making-graphql-codegen-work-for-you-graphql-integration-with-react-and-typescript-3bbm)
+[![Convert HTML To Notion Blocks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Convert_HTML_To_Notion_Blocks.svg)](https://dev.to/zirkelc/convert-html-to-notion-blocks-3fcm)
+[![IQ Testlerinde Başarılı Olmak İçin İpuçları ve Stratejiler](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/IQ_Testlerinde_Başarılı_Olmak_İçin_İpuçları_ve_Stratejiler.svg)](https://dev.to/iqsertifikasi/iq-testlerinde-basarili-olmak-icin-ipuclari-ve-stratejiler-27hi)
+[![Usability Testing: The Key to Creating User-Friendly and Effective Products](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Usability_Testing__The_Key_to_Creating_User-Friendly_and_Effective_Products.svg)](https://dev.to/msmello_/usability-testing-the-key-to-creating-user-friendly-and-effective-products-5fke)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, February 28, 2023 at 11:13:32 PM
+> Last updated: Wednesday, March 1, 2023 at 5:18:40 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, February 28, 2023 at 11:13:36 PM
+> Last updated: Wednesday, March 1, 2023 at 5:18:43 AM
 
 > Showing 5 of 30 posts.
 
