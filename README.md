@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, March 1, 2023 at 5:18:37 AM
+> Last updated: Wednesday, March 1, 2023 at 11:11:57 AM
 
 > Showing 5 of 12 posts.
 
-[![Why You Should Love Do Untils in Power Automate](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_You_Should_Love_Do_Untils_in_Power_Automate.svg)](https://dev.to/wyattdave/why-you-should-love-do-untils-in-power-automate-3ic8)
-[![Making GraphQL Codegen Work For You: GraphQL Integration with React and TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Making_GraphQL_Codegen_Work_For_You__GraphQL_Integration_with_React_and_TypeScript.svg)](https://dev.to/novu/making-graphql-codegen-work-for-you-graphql-integration-with-react-and-typescript-3bbm)
-[![Convert HTML To Notion Blocks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Convert_HTML_To_Notion_Blocks.svg)](https://dev.to/zirkelc/convert-html-to-notion-blocks-3fcm)
-[![IQ Testlerinde Başarılı Olmak İçin İpuçları ve Stratejiler](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/IQ_Testlerinde_Başarılı_Olmak_İçin_İpuçları_ve_Stratejiler.svg)](https://dev.to/iqsertifikasi/iq-testlerinde-basarili-olmak-icin-ipuclari-ve-stratejiler-27hi)
-[![Usability Testing: The Key to Creating User-Friendly and Effective Products](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Usability_Testing__The_Key_to_Creating_User-Friendly_and_Effective_Products.svg)](https://dev.to/msmello_/usability-testing-the-key-to-creating-user-friendly-and-effective-products-5fke)
+[![React vs Signals: 10 Years Later](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_vs_Signals__10_Years_Later.svg)](https://dev.to/this-is-learning/react-vs-signals-10-years-later-3k71)
+[![What is indexing in DB?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_indexing_in_DB_.svg)](https://dev.to/ahmadraza/what-is-indexing-in-db-1pdj)
+[![How I'm Building a SaaS to Launch in 7 days (in public)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_I'm_Building_a_SaaS_to_Launch_in_7_days_(in_public).svg)](https://dev.to/pwang_szn/how-im-building-a-saas-to-launch-in-7-days-in-public-5dh9)
+[![How to save a string to clipboard in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_save_a_string_to_clipboard_in_JavaScript.svg)](https://dev.to/david_bilsonn/how-to-save-a-string-to-clipboard-in-javascript-13ie)
+[![Automate Docker Image Builds and Push to Docker Hub Using GitHub Actions 🐳🐙](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Automate_Docker_Image_Builds_and_Push_to_Docker_Hub_Using_GitHub_Actions_🐳🐙.svg)](https://dev.to/ken_mwaura1/automate-docker-image-builds-and-push-to-docker-hub-using-github-actions-32g5)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, March 1, 2023 at 5:18:40 AM
+> Last updated: Wednesday, March 1, 2023 at 11:12:02 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,16 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, March 1, 2023 at 5:18:43 AM
+> Last updated: Wednesday, March 1, 2023 at 11:12:06 AM
 
 > Showing 5 of 30 posts.
 
+[![Handling onClick Events on ChartJS Bar Charts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Handling_onClick_Events_on_ChartJS_Bar_Charts.svg)](
+https://masteringjs.io/tutorials/chartjs/onclick-bar-chart
+)
+[![How to calculate the intersection of multiple arrays in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_calculate_the_intersection_of_multiple_arrays_in_JavaScript.svg)](
+https://frontendroom.com/intersection-of-multiple-arrays-in-js/
+)
 [![GitHub - rpgeeganage/ots-share-app: A self-hosting app to share secrets only one-time.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_rpgeeganage_ots-share-app__A_self-hosting_app_to_share_secrets_only_one-time..svg)](https://github.com/rpgeeganage/ots-share-app)
 [![GitHub - aralroca/next-load: Load & consume data in an easy way in Next.js +13 app dir](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_aralroca_next-load__Load___consume_data_in_an_easy_way_in_Next.js_+13_app_dir.svg)](https://github.com/aralroca/next-load)
 [![
@@ -54,8 +60,6 @@ directory.mirror.co.uk | Joe Ricotta - Real Estate Developer
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_directory.mirror.co.uk___Joe_Ricotta_-_Real_Estate_Developer_.svg)](
 https://directory.mirror.co.uk/company/249547b0b5395a389ba77695ecb1358a
 )
-[![What is ref() in Vue?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_is_ref()_in_Vue_.svg)](https://dmitripavlutin.com/ref-in-vue/)
-[![GitHub - ColonelParrot/feedbackplus: Screenshotting and screenshot editing for your feedback forms with JavaScript.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ColonelParrot_feedbackplus__Screenshotting_and_screenshot_editing_for_your_feedback_forms_with_JavaScript..svg)](https://github.com/ColonelParrot/feedbackplus)
 
 
 <!-- post-list:end -->
