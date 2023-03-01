@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, February 28, 2023 at 5:55:38 PM
+> Last updated: Tuesday, February 28, 2023 at 11:13:28 PM
 
 > Showing 5 of 12 posts.
 
-[![Top 5 AI-Powered Image Generation Tools for Creating High-Quality Images](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_5_AI-Powered_Image_Generation_Tools_for_Creating_High-Quality_Images.svg)](https://dev.to/amananandrai/top-5-ai-powered-image-generation-tools-for-creating-high-quality-images-2n89)
-[![Using Virtual Color Mixing to Extend Your Palette in React/JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_Virtual_Color_Mixing_to_Extend_Your_Palette_in_React_JavaScript.svg)](https://dev.to/bytebodger/using-virtual-color-mixing-to-extend-your-palette-in-reactjavascript-l41)
-[![Speed Up Cypress Testing of NextAuth Secured Web Apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Speed_Up_Cypress_Testing_of_NextAuth_Secured_Web_Apps.svg)](https://dev.to/cowofevil/speed-up-cypress-testing-of-nextauth-secured-web-apps-10a0)
-[![Trending Python repos of the week 📈](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Trending_Python_repos_of_the_week_📈.svg)](https://dev.to/quine/trending-python-repos-of-the-week-lh0)
-[![C# FileStream For Lazy Developers In A Hurry. The Bare Minimum](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/C__FileStream_For_Lazy_Developers_In_A_Hurry._The_Bare_Minimum.svg)](https://dev.to/gustavupp/c-filestream-for-lazy-developers-in-a-hurry-the-bare-minimum-3ic9)
+[![Learn How to Setup a CI/CD Pipeline from Scratch](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Learn_How_to_Setup_a_CI_CD_Pipeline_from_Scratch.svg)](https://dev.to/pavanbelagatti/learn-how-to-setup-a-cicd-pipeline-from-scratch-for-a-go-application-4m69)
+[![Git Work Trees](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Git_Work_Trees.svg)](https://dev.to/bsrz/git-work-trees-fg9)
+[![Kubernetes 101, part II, pods](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Kubernetes_101__part_II__pods.svg)](https://dev.to/leandronsp/kubernetes-101-part-ii-pods-19pb)
+[![My Journey into the Cloud Computing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_Journey_into_the_Cloud_Computing.svg)](https://dev.to/aws-builders/my-journey-into-the-cloud-computing-3ppl)
+[![Components of DevOps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Components_of_DevOps.svg)](https://dev.to/abhixsh/components-of-devops-2394)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, February 28, 2023 at 5:55:42 PM
+> Last updated: Tuesday, February 28, 2023 at 11:13:32 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, February 28, 2023 at 5:55:47 PM
+> Last updated: Tuesday, February 28, 2023 at 11:13:36 PM
 
 > Showing 5 of 30 posts.
 
