@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, March 1, 2023 at 11:11:57 AM
+> Last updated: Wednesday, March 1, 2023 at 5:54:23 PM
 
 > Showing 5 of 12 posts.
 
-[![React vs Signals: 10 Years Later](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_vs_Signals__10_Years_Later.svg)](https://dev.to/this-is-learning/react-vs-signals-10-years-later-3k71)
-[![What is indexing in DB?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_indexing_in_DB_.svg)](https://dev.to/ahmadraza/what-is-indexing-in-db-1pdj)
-[![How I'm Building a SaaS to Launch in 7 days (in public)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_I'm_Building_a_SaaS_to_Launch_in_7_days_(in_public).svg)](https://dev.to/pwang_szn/how-im-building-a-saas-to-launch-in-7-days-in-public-5dh9)
-[![How to save a string to clipboard in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_save_a_string_to_clipboard_in_JavaScript.svg)](https://dev.to/david_bilsonn/how-to-save-a-string-to-clipboard-in-javascript-13ie)
-[![Automate Docker Image Builds and Push to Docker Hub Using GitHub Actions 🐳🐙](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Automate_Docker_Image_Builds_and_Push_to_Docker_Hub_Using_GitHub_Actions_🐳🐙.svg)](https://dev.to/ken_mwaura1/automate-docker-image-builds-and-push-to-docker-hub-using-github-actions-32g5)
+[![Creating Web Accessibility: CSS Best Practices](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_Web_Accessibility__CSS_Best_Practices.svg)](https://dev.to/frontend_jedi/creating-web-accessibility-css-best-practices-46fm)
+[![Deploying Spring Boot Application on Heroku and connecting the app to MongoDB Atlas](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deploying_Spring_Boot_Application_on_Heroku_and_connecting_the_app_to_MongoDB_Atlas.svg)](https://dev.to/vuchuru27916/hosting-spring-boot-on-heroku-and-mongodb-on-mongodb-atlas-g8l)
+[![Hackathon - Hack Together: Microsoft Graph and .NET 🦒 - Day 01](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Hackathon_-_Hack_Together__Microsoft_Graph_and_.NET_🦒_-_Day_01.svg)](https://dev.to/kasuken/hackathon-hack-together-microsoft-graph-and-net-day-01-3a5f)
+[![WHY I BELIEVE IN CROSS-PLATFORM TECHNOLOGIES](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/WHY_I_BELIEVE_IN_CROSS-PLATFORM_TECHNOLOGIES.svg)](https://dev.to/alexcoding42/why-i-believe-in-cross-platform-technologies-4kmd)
+[![Get All Results from DynamoDB Queries Easily!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Get_All_Results_from_DynamoDB_Queries_Easily!.svg)](https://dev.to/thebenforce/get-all-results-from-dynamodb-queries-easily-9j5)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, March 1, 2023 at 11:12:02 AM
+> Last updated: Wednesday, March 1, 2023 at 5:54:27 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, March 1, 2023 at 11:12:06 AM
+> Last updated: Wednesday, March 1, 2023 at 5:54:30 PM
 
 > Showing 5 of 30 posts.
 
+[![Introducing Python Support - Socket](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Introducing_Python_Support_-_Socket.svg)](https://socket.dev/blog/python-support)
 [![Handling onClick Events on ChartJS Bar Charts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Handling_onClick_Events_on_ChartJS_Bar_Charts.svg)](
 https://masteringjs.io/tutorials/chartjs/onclick-bar-chart
 )
@@ -55,11 +56,6 @@ https://frontendroom.com/intersection-of-multiple-arrays-in-js/
 )
 [![GitHub - rpgeeganage/ots-share-app: A self-hosting app to share secrets only one-time.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_rpgeeganage_ots-share-app__A_self-hosting_app_to_share_secrets_only_one-time..svg)](https://github.com/rpgeeganage/ots-share-app)
 [![GitHub - aralroca/next-load: Load & consume data in an easy way in Next.js +13 app dir](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_aralroca_next-load__Load___consume_data_in_an_easy_way_in_Next.js_+13_app_dir.svg)](https://github.com/aralroca/next-load)
-[![
-directory.mirror.co.uk | Joe Ricotta - Real Estate Developer
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_directory.mirror.co.uk___Joe_Ricotta_-_Real_Estate_Developer_.svg)](
-https://directory.mirror.co.uk/company/249547b0b5395a389ba77695ecb1358a
-)
 
 
 <!-- post-list:end -->
