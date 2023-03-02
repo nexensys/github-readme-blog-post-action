@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, March 2, 2023 at 5:17:06 AM
+> Last updated: Thursday, March 2, 2023 at 11:12:51 AM
 
 > Showing 5 of 12 posts.
 
-[![Background jobs for Kemal server in Crystal lang](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Background_jobs_for_Kemal_server_in_Crystal_lang.svg)](https://dev.to/fdocr/background-jobs-for-kemal-server-in-crystal-lang-53j5)
-[![Netex Aktif Tarama Nasıl Yapılır?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Netex_Aktif_Tarama_Nasıl_Yapılır_.svg)](https://dev.to/aciklab/netex-aktif-tarama-nasil-yapilir-3196)
-[![Netex, AD Kaynağı Ekleme ve Kullanımı](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Netex__AD_Kaynağı_Ekleme_ve_Kullanımı.svg)](https://dev.to/aciklab/ad-kaynagi-ekleme-ve-kullanimi-ga2)
-[![Netex Sensöre DHCP Rolünü Ekleme](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Netex_Sensöre_DHCP_Rolünü_Ekleme.svg)](https://dev.to/aciklab/netex-sensore-dhcp-rolunu-ekleme-2f06)
-[![Exploring the Top Charting Libraries for React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exploring_the_Top_Charting_Libraries_for_React.svg)](https://dev.to/surajondev/exploring-the-top-charting-libraries-for-react-22bp)
+[![February Stripe Developer Digest](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/February_Stripe_Developer_Digest.svg)](https://dev.to/stripe/february-stripe-developer-digest-5f98)
+[![Build your own Tana clone with this new frontend](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_your_own_Tana_clone_with_this_new_frontend.svg)](https://dev.to/progrium/build-your-own-tana-clone-with-this-new-frontend-15ao)
+[![Create Better Content with These AI Tools](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_Better_Content_with_These_AI_Tools.svg)](https://dev.to/olanetsoft/create-better-content-with-these-ai-tools-305m)
+[![Connect to a PostgreSQL database(python).](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Connect_to_a_PostgreSQL_database(python)..svg)](https://dev.to/ayon_ssp/connect-to-a-postgresql-databasepython-4fkd)
+[![4 Full-Stack Project ideas for Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/4_Full-Stack_Project_ideas_for_Developers.svg)](https://dev.to/hardikgohilhlr/4-full-stack-project-ideas-for-developers-23dc)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, March 2, 2023 at 5:17:10 AM
+> Last updated: Thursday, March 2, 2023 at 11:12:55 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,11 +43,10 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, March 2, 2023 at 5:17:14 AM
+> Last updated: Thursday, March 2, 2023 at 11:12:58 AM
 
 > Showing 5 of 30 posts.
 
-[![Introducing Python Support - Socket](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Introducing_Python_Support_-_Socket.svg)](https://socket.dev/blog/python-support)
 [![Handling onClick Events on ChartJS Bar Charts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Handling_onClick_Events_on_ChartJS_Bar_Charts.svg)](
 https://masteringjs.io/tutorials/chartjs/onclick-bar-chart
 )
@@ -56,6 +55,7 @@ https://frontendroom.com/intersection-of-multiple-arrays-in-js/
 )
 [![GitHub - rpgeeganage/ots-share-app: A self-hosting app to share secrets only one-time.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_rpgeeganage_ots-share-app__A_self-hosting_app_to_share_secrets_only_one-time..svg)](https://github.com/rpgeeganage/ots-share-app)
 [![GitHub - aralroca/next-load: Load & consume data in an easy way in Next.js +13 app dir](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_aralroca_next-load__Load___consume_data_in_an_easy_way_in_Next.js_+13_app_dir.svg)](https://github.com/aralroca/next-load)
+[![What is ref() in Vue?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_is_ref()_in_Vue_.svg)](https://dmitripavlutin.com/ref-in-vue/)
 
 
 <!-- post-list:end -->
