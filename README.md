@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, March 1, 2023 at 5:54:23 PM
+> Last updated: Wednesday, March 1, 2023 at 11:12:27 PM
 
 > Showing 5 of 12 posts.
 
-[![Creating Web Accessibility: CSS Best Practices](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_Web_Accessibility__CSS_Best_Practices.svg)](https://dev.to/frontend_jedi/creating-web-accessibility-css-best-practices-46fm)
-[![Deploying Spring Boot Application on Heroku and connecting the app to MongoDB Atlas](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deploying_Spring_Boot_Application_on_Heroku_and_connecting_the_app_to_MongoDB_Atlas.svg)](https://dev.to/vuchuru27916/hosting-spring-boot-on-heroku-and-mongodb-on-mongodb-atlas-g8l)
-[![Hackathon - Hack Together: Microsoft Graph and .NET 🦒 - Day 01](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Hackathon_-_Hack_Together__Microsoft_Graph_and_.NET_🦒_-_Day_01.svg)](https://dev.to/kasuken/hackathon-hack-together-microsoft-graph-and-net-day-01-3a5f)
-[![WHY I BELIEVE IN CROSS-PLATFORM TECHNOLOGIES](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/WHY_I_BELIEVE_IN_CROSS-PLATFORM_TECHNOLOGIES.svg)](https://dev.to/alexcoding42/why-i-believe-in-cross-platform-technologies-4kmd)
-[![Get All Results from DynamoDB Queries Easily!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Get_All_Results_from_DynamoDB_Queries_Easily!.svg)](https://dev.to/thebenforce/get-all-results-from-dynamodb-queries-easily-9j5)
+[![Truthy And Falsy Value In JavaScript.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Truthy_And_Falsy_Value_In_JavaScript..svg)](https://dev.to/azadulkabir455/truthy-and-falsy-value-in-javascript-4gjg)
+[![How to build a Twitter sentiment analysis data pipeline?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_build_a_Twitter_sentiment_analysis_data_pipeline_.svg)](https://dev.to/hirendhaduk_/how-to-build-a-twitter-sentiment-analysis-data-pipeline-5cb9)
+[![What Everyone Ought to Know About Singelton design pattern](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_Everyone_Ought_to_Know_About_Singelton_design_pattern.svg)](https://dev.to/abhiram55545309/what-everyone-ought-to-know-about-singelton-design-pattern-387d)
+[![How to deploy a React App using Firebase Hosting](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_deploy_a_React_App_using_Firebase_Hosting.svg)](https://dev.to/alvisonhunter/how-to-deploy-a-react-app-using-firebase-hosting-ga6)
+[![Reducing Color Depth with React/JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Reducing_Color_Depth_with_React_JavaScript.svg)](https://dev.to/bytebodger/reducing-color-depth-with-reactjavascript-4gg5)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, March 1, 2023 at 5:54:27 PM
+> Last updated: Wednesday, March 1, 2023 at 11:12:30 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, March 1, 2023 at 5:54:30 PM
+> Last updated: Wednesday, March 1, 2023 at 11:12:32 PM
 
 > Showing 5 of 30 posts.
 
