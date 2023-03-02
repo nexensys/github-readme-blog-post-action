@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, March 1, 2023 at 11:12:27 PM
+> Last updated: Thursday, March 2, 2023 at 5:17:06 AM
 
 > Showing 5 of 12 posts.
 
-[![Truthy And Falsy Value In JavaScript.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Truthy_And_Falsy_Value_In_JavaScript..svg)](https://dev.to/azadulkabir455/truthy-and-falsy-value-in-javascript-4gjg)
-[![How to build a Twitter sentiment analysis data pipeline?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_build_a_Twitter_sentiment_analysis_data_pipeline_.svg)](https://dev.to/hirendhaduk_/how-to-build-a-twitter-sentiment-analysis-data-pipeline-5cb9)
-[![What Everyone Ought to Know About Singelton design pattern](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_Everyone_Ought_to_Know_About_Singelton_design_pattern.svg)](https://dev.to/abhiram55545309/what-everyone-ought-to-know-about-singelton-design-pattern-387d)
-[![How to deploy a React App using Firebase Hosting](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_deploy_a_React_App_using_Firebase_Hosting.svg)](https://dev.to/alvisonhunter/how-to-deploy-a-react-app-using-firebase-hosting-ga6)
-[![Reducing Color Depth with React/JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Reducing_Color_Depth_with_React_JavaScript.svg)](https://dev.to/bytebodger/reducing-color-depth-with-reactjavascript-4gg5)
+[![Background jobs for Kemal server in Crystal lang](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Background_jobs_for_Kemal_server_in_Crystal_lang.svg)](https://dev.to/fdocr/background-jobs-for-kemal-server-in-crystal-lang-53j5)
+[![Netex Aktif Tarama Nasıl Yapılır?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Netex_Aktif_Tarama_Nasıl_Yapılır_.svg)](https://dev.to/aciklab/netex-aktif-tarama-nasil-yapilir-3196)
+[![Netex, AD Kaynağı Ekleme ve Kullanımı](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Netex__AD_Kaynağı_Ekleme_ve_Kullanımı.svg)](https://dev.to/aciklab/ad-kaynagi-ekleme-ve-kullanimi-ga2)
+[![Netex Sensöre DHCP Rolünü Ekleme](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Netex_Sensöre_DHCP_Rolünü_Ekleme.svg)](https://dev.to/aciklab/netex-sensore-dhcp-rolunu-ekleme-2f06)
+[![Exploring the Top Charting Libraries for React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exploring_the_Top_Charting_Libraries_for_React.svg)](https://dev.to/surajondev/exploring-the-top-charting-libraries-for-react-22bp)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, March 1, 2023 at 11:12:30 PM
+> Last updated: Thursday, March 2, 2023 at 5:17:10 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, March 1, 2023 at 11:12:32 PM
+> Last updated: Thursday, March 2, 2023 at 5:17:14 AM
 
 > Showing 5 of 30 posts.
 
