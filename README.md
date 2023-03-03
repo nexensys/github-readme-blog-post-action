@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, March 3, 2023 at 5:17:20 AM
+> Last updated: Friday, March 3, 2023 at 11:12:16 AM
 
 > Showing 5 of 12 posts.
 
-[![What I learned as a Product Manager while creating my product](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_I_learned_as_a_Product_Manager_while_creating_my_product.svg)](https://dev.to/dimanikulin/what-i-learned-as-a-product-manager-while-creating-my-product-3fom)
-[![How Woovi Developers are using ChatGPT to move faster?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_Woovi_Developers_are_using_ChatGPT_to_move_faster_.svg)](https://dev.to/woovi/how-woovi-developers-are-using-chatgpt-to-move-faster-1b57)
-[![What new CSS and JavaScript features can we expect soon? Or is it all unexpected?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_new_CSS_and_JavaScript_features_can_we_expect_soon__Or_is_it_all_unexpected_.svg)](https://dev.to/robole/what-new-css-and-javascript-features-can-we-expect-soon-or-is-it-all-unexpected-2o7b)
-[![A Full CSS Guide with Samples | Best For Beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Full_CSS_Guide_with_Samples___Best_For_Beginners.svg)](https://dev.to/dhruvjoshi9/a-full-css-guide-with-samples-best-for-beginners-n64)
-[![My Nim Development Weekly Report (2/26)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_Nim_Development_Weekly_Report_(2_26).svg)](https://dev.to/ringabout/my-nim-development-weekly-report-226-47ai)
+[![Python try exception tutorial](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Python_try_exception_tutorial.svg)](https://dev.to/max24816/python-try-exception-tutorial-2nlp)
+[![Python classes and objects tutorial](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Python_classes_and_objects_tutorial.svg)](https://dev.to/max24816/python-class-and-objects-21k6)
+[![Install Ruby on Rails on Ubuntu](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Install_Ruby_on_Rails_on_Ubuntu.svg)](https://dev.to/ahmadraza/install-ruby-on-rails-on-ubuntu-4l5j)
+[![My first 6 months as AWS Community Builder: boosting my career and fighting Imposter Syndrome!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_first_6_months_as_AWS_Community_Builder__boosting_my_career_and_fighting_Imposter_Syndrome!.svg)](https://dev.to/aws-builders/boost-your-career-by-becoming-an-aws-community-builder-4hkj)
+[![How to think together; a way to better pair programming sessions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_think_together;_a_way_to_better_pair_programming_sessions.svg)](https://dev.to/charliekroon/how-to-think-together-a-way-to-better-pair-programming-sessions-57ah)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, March 3, 2023 at 5:17:23 AM
+> Last updated: Friday, March 3, 2023 at 11:12:20 AM
 
 > Showing 4 of 4 posts.
 
+[![Garbage collector experiments](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Garbage_collector_experiments.svg)](https://javascriptweekly.com/issues/628)
 [![ECMAScript 2023 for President](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/ECMAScript_2023_for_President.svg)](https://javascriptweekly.com/issues/627)
 [![JavaScript sans build systems?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/JavaScript_sans_build_systems_.svg)](https://javascriptweekly.com/issues/626)
 [![Bringing JavaScript to WebAssembly](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Bringing_JavaScript_to_WebAssembly.svg)](https://javascriptweekly.com/issues/625)
-[![Ways to remove event listeners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Ways_to_remove_event_listeners.svg)](https://javascriptweekly.com/issues/624)
 
 
 ## Echo JS
@@ -43,12 +43,13 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, March 3, 2023 at 5:17:25 AM
+> Last updated: Friday, March 3, 2023 at 11:12:23 AM
 
 > Showing 5 of 30 posts.
 
-[![Builder.ai Named to Fast Company's Annual List of the World's Most Innovative Companies for 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Builder.ai_Named_to_Fast_Company's_Annual_List_of_the_World's_Most_Innovative_Companies_for_2023.svg)](https://www.prnewswire.com/news-releases/builderai-named-to-fast-companys-annual-list-of-the-worlds-most-innovative-companies-for-2023-301760897.html)
-[![The Most Popular Build Tools for Front-end Developers in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Most_Popular_Build_Tools_for_Front-end_Developers_in_2023.svg)](https://stackdiary.com/build-tools-for-web-development/)
+[![How to migrate from Pure CSS framework to Stylify CSS | Stylify CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_migrate_from_Pure_CSS_framework_to_Stylify_CSS___Stylify_CSS.svg)](
+https://stylifycss.com/docs/migration/pure-css
+)
 [![Handling onClick Events on ChartJS Bar Charts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Handling_onClick_Events_on_ChartJS_Bar_Charts.svg)](
 https://masteringjs.io/tutorials/chartjs/onclick-bar-chart
 )
@@ -56,6 +57,7 @@ https://masteringjs.io/tutorials/chartjs/onclick-bar-chart
 https://frontendroom.com/intersection-of-multiple-arrays-in-js/
 )
 [![GitHub - rpgeeganage/ots-share-app: A self-hosting app to share secrets only one-time.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_rpgeeganage_ots-share-app__A_self-hosting_app_to_share_secrets_only_one-time..svg)](https://github.com/rpgeeganage/ots-share-app)
+[![GitHub - aralroca/next-load: Load & consume data in an easy way in Next.js +13 app dir](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_aralroca_next-load__Load___consume_data_in_an_easy_way_in_Next.js_+13_app_dir.svg)](https://github.com/aralroca/next-load)
 
 
 <!-- post-list:end -->
