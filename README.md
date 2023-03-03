@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, March 2, 2023 at 11:12:23 PM
+> Last updated: Friday, March 3, 2023 at 5:17:20 AM
 
 > Showing 5 of 12 posts.
 
-[![Best Practices for Building a Validation Layer in Go](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_Practices_for_Building_a_Validation_Layer_in_Go.svg)](https://dev.to/ansu/best-practices-for-building-a-validation-layer-in-go-59j9)
-[![My Favorite Free Courses to Learn DevOps in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_Favorite_Free_Courses_to_Learn_DevOps_in_2023.svg)](https://dev.to/javinpaul/my-favorite-free-courses-to-learn-devops-in-2023-4h6m)
-[![IP Address in Networking](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/IP_Address_in_Networking.svg)](https://dev.to/kirancg777/ip-address-in-networking-1le5)
-[![Overview of MVC Architectural Pattern](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Overview_of_MVC_Architectural_Pattern.svg)](https://dev.to/andrewsavetchuk/overview-of-mvc-architectural-pattern-ld)
-[![Docker Container Management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Docker_Container_Management.svg)](https://dev.to/waji97/docker-container-management-2fnf)
+[![What I learned as a Product Manager while creating my product](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_I_learned_as_a_Product_Manager_while_creating_my_product.svg)](https://dev.to/dimanikulin/what-i-learned-as-a-product-manager-while-creating-my-product-3fom)
+[![How Woovi Developers are using ChatGPT to move faster?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_Woovi_Developers_are_using_ChatGPT_to_move_faster_.svg)](https://dev.to/woovi/how-woovi-developers-are-using-chatgpt-to-move-faster-1b57)
+[![What new CSS and JavaScript features can we expect soon? Or is it all unexpected?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_new_CSS_and_JavaScript_features_can_we_expect_soon__Or_is_it_all_unexpected_.svg)](https://dev.to/robole/what-new-css-and-javascript-features-can-we-expect-soon-or-is-it-all-unexpected-2o7b)
+[![A Full CSS Guide with Samples | Best For Beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Full_CSS_Guide_with_Samples___Best_For_Beginners.svg)](https://dev.to/dhruvjoshi9/a-full-css-guide-with-samples-best-for-beginners-n64)
+[![My Nim Development Weekly Report (2/26)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_Nim_Development_Weekly_Report_(2_26).svg)](https://dev.to/ringabout/my-nim-development-weekly-report-226-47ai)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, March 2, 2023 at 11:12:27 PM
+> Last updated: Friday, March 3, 2023 at 5:17:23 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,12 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, March 2, 2023 at 11:12:31 PM
+> Last updated: Friday, March 3, 2023 at 5:17:25 AM
 
 > Showing 5 of 30 posts.
 
+[![Builder.ai Named to Fast Company's Annual List of the World's Most Innovative Companies for 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Builder.ai_Named_to_Fast_Company's_Annual_List_of_the_World's_Most_Innovative_Companies_for_2023.svg)](https://www.prnewswire.com/news-releases/builderai-named-to-fast-companys-annual-list-of-the-worlds-most-innovative-companies-for-2023-301760897.html)
+[![The Most Popular Build Tools for Front-end Developers in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Most_Popular_Build_Tools_for_Front-end_Developers_in_2023.svg)](https://stackdiary.com/build-tools-for-web-development/)
 [![Handling onClick Events on ChartJS Bar Charts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Handling_onClick_Events_on_ChartJS_Bar_Charts.svg)](
 https://masteringjs.io/tutorials/chartjs/onclick-bar-chart
 )
@@ -54,8 +56,6 @@ https://masteringjs.io/tutorials/chartjs/onclick-bar-chart
 https://frontendroom.com/intersection-of-multiple-arrays-in-js/
 )
 [![GitHub - rpgeeganage/ots-share-app: A self-hosting app to share secrets only one-time.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_rpgeeganage_ots-share-app__A_self-hosting_app_to_share_secrets_only_one-time..svg)](https://github.com/rpgeeganage/ots-share-app)
-[![GitHub - aralroca/next-load: Load & consume data in an easy way in Next.js +13 app dir](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_aralroca_next-load__Load___consume_data_in_an_easy_way_in_Next.js_+13_app_dir.svg)](https://github.com/aralroca/next-load)
-[![What is ref() in Vue?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_is_ref()_in_Vue_.svg)](https://dmitripavlutin.com/ref-in-vue/)
 
 
 <!-- post-list:end -->
