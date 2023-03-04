@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, March 3, 2023 at 11:12:16 AM
+> Last updated: Friday, March 3, 2023 at 5:48:04 PM
 
 > Showing 5 of 12 posts.
 
-[![Python try exception tutorial](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Python_try_exception_tutorial.svg)](https://dev.to/max24816/python-try-exception-tutorial-2nlp)
-[![Python classes and objects tutorial](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Python_classes_and_objects_tutorial.svg)](https://dev.to/max24816/python-class-and-objects-21k6)
-[![Install Ruby on Rails on Ubuntu](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Install_Ruby_on_Rails_on_Ubuntu.svg)](https://dev.to/ahmadraza/install-ruby-on-rails-on-ubuntu-4l5j)
-[![My first 6 months as AWS Community Builder: boosting my career and fighting Imposter Syndrome!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_first_6_months_as_AWS_Community_Builder__boosting_my_career_and_fighting_Imposter_Syndrome!.svg)](https://dev.to/aws-builders/boost-your-career-by-becoming-an-aws-community-builder-4hkj)
-[![How to think together; a way to better pair programming sessions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_think_together;_a_way_to_better_pair_programming_sessions.svg)](https://dev.to/charliekroon/how-to-think-together-a-way-to-better-pair-programming-sessions-57ah)
+[![민주당 내홍 속…'434억' 재판 앞둔 이재명, 3일부터 격주 출석 / 친명·비명 간 파열음 해결책은? [이슈 톺아보기] MBN뉴스 23.03.02](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/민주당_내홍_속…'434억'_재판_앞둔_이재명__3일부터_격주_출석___친명·비명_간_파열음_해결책은__[이슈_톺아보기]_MBN뉴스_23.03.02.svg)](https://dev.to/mesinzer/minjudang-naehong-sog434eog-jaepan-apdun-ijaemyeong-3ilbuteo-gyeogju-culseog-cinmyeongbimyeong-gan-payeoleum-haegyeolcaegeun-isyu-topabogi-mbnnyuseu-230302-n1c)
+[![Why Oh My ZSH is so cool?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_Oh_My_ZSH_is_so_cool_.svg)](https://dev.to/equiman/why-oh-my-zsh-is-so-cool-31gd)
+[![How to use nodemon with VSCode debugger?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_nodemon_with_VSCode_debugger_.svg)](https://dev.to/t4inha/how-to-use-nodemon-with-vscode-debugger-2bpa)
+[![Introduction with examples to Emu8086](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_with_examples_to_Emu8086.svg)](https://dev.to/xlmriosx/introduction-with-examples-to-emu8086-54lh)
+[![How to pass and access data from one route to another with useLocation, useNavigate, useHistory hooks.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_pass_and_access_data_from_one_route_to_another_with_useLocation__useNavigate__useHistory_hooks..svg)](https://dev.to/esedev/how-to-pass-and-access-data-from-one-route-to-another-with-uselocation-usenavigate-usehistory-hooks-1g5m)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, March 3, 2023 at 11:12:20 AM
+> Last updated: Friday, March 3, 2023 at 5:48:08 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, March 3, 2023 at 11:12:23 AM
+> Last updated: Friday, March 3, 2023 at 5:48:13 PM
 
 > Showing 5 of 30 posts.
 
+[![rekwest](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/rekwest.svg)](https://www.npmjs.com/package/rekwest)
 [![How to migrate from Pure CSS framework to Stylify CSS | Stylify CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_migrate_from_Pure_CSS_framework_to_Stylify_CSS___Stylify_CSS.svg)](
 https://stylifycss.com/docs/migration/pure-css
 )
@@ -57,7 +58,6 @@ https://masteringjs.io/tutorials/chartjs/onclick-bar-chart
 https://frontendroom.com/intersection-of-multiple-arrays-in-js/
 )
 [![GitHub - rpgeeganage/ots-share-app: A self-hosting app to share secrets only one-time.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_rpgeeganage_ots-share-app__A_self-hosting_app_to_share_secrets_only_one-time..svg)](https://github.com/rpgeeganage/ots-share-app)
-[![GitHub - aralroca/next-load: Load & consume data in an easy way in Next.js +13 app dir](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_aralroca_next-load__Load___consume_data_in_an_easy_way_in_Next.js_+13_app_dir.svg)](https://github.com/aralroca/next-load)
 
 
 <!-- post-list:end -->
