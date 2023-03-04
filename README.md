@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, March 4, 2023 at 5:16:05 AM
+> Last updated: Saturday, March 4, 2023 at 11:10:33 AM
 
 > Showing 5 of 12 posts.
 
-[![How to return multiple items in a map function in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_return_multiple_items_in_a_map_function_in_JavaScript.svg)](https://dev.to/david_bilsonn/how-to-return-multiple-items-in-a-map-function-in-javascript-eip)
-[![Rails Service Objects: A Tiny Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Rails_Service_Objects__A_Tiny_Guide.svg)](https://dev.to/daviducolo/rails-service-objects-a-tiny-guide-11d2)
-[![Help Needed !!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Help_Needed_!!.svg)](https://dev.to/jagroop2000/help-needed--24ln)
-[![Fetching Data Made Easy with the useQuery Hook in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Fetching_Data_Made_Easy_with_the_useQuery_Hook_in_React.svg)](https://dev.to/xaypanya/fetching-data-made-easy-with-the-usequery-hook-in-react-2b22)
-[![Neuroevolution: Genetic Algo and Artificial Neural Network - Free Course](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Neuroevolution__Genetic_Algo_and_Artificial_Neural_Network_-_Free_Course.svg)](https://dev.to/apssouza22/deep-evolution-genetic-algo-and-artificial-neural-network-free-course-ikn)
+[![I made a drag & drop dashboard builder for React and Chakra UI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_made_a_drag___drop_dashboard_builder_for_React_and_Chakra_UI.svg)](https://dev.to/rarestoma/i-made-a-drag-drop-dashboard-builder-for-react-and-chakra-ui-n7j)
+[![System Design](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/System_Design.svg)](https://dev.to/adahanu074/system-design-1h4m)
+[![How to check if a key exists in a dictionary python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_check_if_a_key_exists_in_a_dictionary_python.svg)](https://dev.to/max24816/how-to-check-if-a-key-exists-in-a-dictionary-python-132i)
+[![Build A Password Generator](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_A_Password_Generator.svg)](https://dev.to/kalashin1/build-a-password-generator-11oo)
+[![Working with .zip files in C#](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Working_with_.zip_files_in_C_.svg)](https://dev.to/karenpayneoregon/working-with-zip-files-in-c-52e3)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, March 4, 2023 at 5:16:09 AM
+> Last updated: Saturday, March 4, 2023 at 11:10:37 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, March 4, 2023 at 5:16:14 AM
+> Last updated: Saturday, March 4, 2023 at 11:10:43 AM
 
 > Showing 5 of 30 posts.
 
