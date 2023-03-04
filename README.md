@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, March 3, 2023 at 11:11:21 PM
+> Last updated: Saturday, March 4, 2023 at 5:16:05 AM
 
 > Showing 5 of 12 posts.
 
-[![rant_category() got an unexpected keyword argument 'slug'](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/rant_category()_got_an_unexpected_keyword_argument_'slug'.svg)](https://dev.to/highcenburg/rantcategory-got-an-unexpected-keyword-argument-slug-40hd)
-[![Replacing If-Else Statements with Enums in Java](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Replacing_If-Else_Statements_with_Enums_in_Java.svg)](https://dev.to/marcosgofavaretto/replacing-if-else-statements-with-enums-in-java-40n8)
-[![Converter texto (string) para número em JavaScript e suas diferenças](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Converter_texto_(string)_para_número_em_JavaScript_e_suas_diferenças.svg)](https://dev.to/ruanaragao/converter-texto-string-para-numero-em-javascript-e-suas-diferencas-5hd1)
-[![How to Choose the Right Bootstrap Theme For Your Business?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Choose_the_Right_Bootstrap_Theme_For_Your_Business_.svg)](https://dev.to/uiocean/how-to-choose-the-right-bootstrap-theme-for-your-business-3pd7)
-[![10 Cool CodePen Demos (February 23)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_Cool_CodePen_Demos_(February_23).svg)](https://dev.to/alvaromontoro/10-cool-codepen-demos-february-23-3l2o)
+[![How to return multiple items in a map function in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_return_multiple_items_in_a_map_function_in_JavaScript.svg)](https://dev.to/david_bilsonn/how-to-return-multiple-items-in-a-map-function-in-javascript-eip)
+[![Rails Service Objects: A Tiny Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Rails_Service_Objects__A_Tiny_Guide.svg)](https://dev.to/daviducolo/rails-service-objects-a-tiny-guide-11d2)
+[![Help Needed !!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Help_Needed_!!.svg)](https://dev.to/jagroop2000/help-needed--24ln)
+[![Fetching Data Made Easy with the useQuery Hook in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Fetching_Data_Made_Easy_with_the_useQuery_Hook_in_React.svg)](https://dev.to/xaypanya/fetching-data-made-easy-with-the-usequery-hook-in-react-2b22)
+[![Neuroevolution: Genetic Algo and Artificial Neural Network - Free Course](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Neuroevolution__Genetic_Algo_and_Artificial_Neural_Network_-_Free_Course.svg)](https://dev.to/apssouza22/deep-evolution-genetic-algo-and-artificial-neural-network-free-course-ikn)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, March 3, 2023 at 11:11:25 PM
+> Last updated: Saturday, March 4, 2023 at 5:16:09 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, March 3, 2023 at 11:11:30 PM
+> Last updated: Saturday, March 4, 2023 at 5:16:14 AM
 
 > Showing 5 of 30 posts.
 
