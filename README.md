@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, March 4, 2023 at 11:11:21 PM
+> Last updated: Sunday, March 5, 2023 at 5:16:15 AM
 
 > Showing 5 of 12 posts.
 
-[![7 Libraries You Should Know as a React Developer 💯🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/7_Libraries_You_Should_Know_as_a_React_Developer_💯🔥.svg)](https://dev.to/ruppysuppy/7-libraries-you-should-know-as-a-react-developer-2ib5)
-[![Unique Git Commands You Should Know!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unique_Git_Commands_You_Should_Know!.svg)](https://dev.to/sriparno08/unique-git-commands-you-should-know-k9i)
-[![From a Dumb Student to a PyTorch Contributor: The Impact of Teachers on My Life⚡](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/From_a_Dumb_Student_to_a_PyTorch_Contributor__The_Impact_of_Teachers_on_My_Life⚡.svg)](https://dev.to/vivekcodes/from-a-dumb-student-to-a-pytorch-contributor-the-impact-of-teachers-on-my-life-4me4)
-[![registration form in flutter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/registration_form_in_flutter.svg)](https://dev.to/realnamehidden1_61/registration-form-in-flutter-nh7)
-[![Manipulating the browser's history in react](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Manipulating_the_browser's_history_in_react.svg)](https://dev.to/esedev/manipulating-the-browsers-history-in-react-5agm)
+[![Essential Linux Commands Every DevOps Engineer Should Know – Part 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Essential_Linux_Commands_Every_DevOps_Engineer_Should_Know_–_Part_2.svg)](https://dev.to/aradwan20/essential-linux-commands-every-devops-engineer-should-know-part-2-4n6a)
+[![Step by step: Store Amazon DynamoDB records in AWS S3 with Amazon Kinesis Data Stream / Firehose](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Step_by_step__Store_Amazon_DynamoDB_records_in_AWS_S3_with_Amazon_Kinesis_Data_Stream___Firehose.svg)](https://dev.to/aws-builders/step-by-step-store-amazon-dynamodb-records-in-aws-s3-with-amazon-kinesis-data-stream-firehose-2687)
+[![Deploying on AWS Elastic Beanstalk](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deploying_on_AWS_Elastic_Beanstalk.svg)](https://dev.to/vivekalhat/deploying-on-elastic-beanstalk-27in)
+[![Python list comprehension](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Python_list_comprehension.svg)](https://dev.to/max24816/python-list-comprehension-24hk)
+[![How to find users for open source project with no resources and connections](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_find_users_for_open_source_project_with_no_resources_and_connections.svg)](https://dev.to/zenstack/how-to-find-users-for-open-source-project-with-no-resources-and-connections-1lni)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, March 4, 2023 at 11:11:23 PM
+> Last updated: Sunday, March 5, 2023 at 5:16:17 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,11 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, March 4, 2023 at 11:11:27 PM
+> Last updated: Sunday, March 5, 2023 at 5:16:20 AM
 
 > Showing 5 of 30 posts.
 
-[![GitHub - matiasvlevi/gptdoc: Generate JSDOC comments with the help of OpenAI's models.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_matiasvlevi_gptdoc__Generate_JSDOC_comments_with_the_help_of_OpenAI's_models..svg)](https://github.com/matiasvlevi/gptdoc)
+[![GitHub - matiasvlevi/gptdoc: Generate JSDOC comments with OpenAI models.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_matiasvlevi_gptdoc__Generate_JSDOC_comments_with_OpenAI_models..svg)](https://github.com/matiasvlevi/gptdoc)
 [![rekwest](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/rekwest.svg)](https://www.npmjs.com/package/rekwest)
 [![How to migrate from Pure CSS framework to Stylify CSS | Stylify CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_migrate_from_Pure_CSS_framework_to_Stylify_CSS___Stylify_CSS.svg)](
 https://stylifycss.com/docs/migration/pure-css
