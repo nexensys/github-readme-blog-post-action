@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, March 4, 2023 at 5:56:52 PM
+> Last updated: Saturday, March 4, 2023 at 11:11:21 PM
 
 > Showing 5 of 12 posts.
 
-[![O que é e como funciona o Cloud Native](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/O_que_é_e_como_funciona_o_Cloud_Native.svg)](https://dev.to/whathebea/cloud-native-3ef6)
-[![Build a CRUD DApp using Solidity | Nextjs | Thirdweb | Tailwind CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_a_CRUD_DApp_using_Solidity___Nextjs___Thirdweb___Tailwind_CSS.svg)](https://dev.to/thisisgazzar/build-a-crud-dapp-using-solidity-nextjs-thirdweb-tailwind-css-44m8)
-[![How I made my resume with HTML and Tailwind CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_I_made_my_resume_with_HTML_and_Tailwind_CSS.svg)](https://dev.to/ronanru/how-i-made-my-resume-with-html-and-tailwind-css-2676)
-[![How to dynamically render forms from a schema using React, Typescript and React Hook Form](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_dynamically_render_forms_from_a_schema_using_React__Typescript_and_React_Hook_Form.svg)](https://dev.to/pranavb6/how-to-dynamically-render-forms-from-a-schema-using-react-typescript-and-react-hook-form-pph)
-[![ReactJS : When to use Class Component Over Function Component?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/ReactJS___When_to_use_Class_Component_Over_Function_Component_.svg)](https://dev.to/imparmarjatin/reactjs-when-to-use-class-component-over-function-component-1ob5)
+[![7 Libraries You Should Know as a React Developer 💯🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/7_Libraries_You_Should_Know_as_a_React_Developer_💯🔥.svg)](https://dev.to/ruppysuppy/7-libraries-you-should-know-as-a-react-developer-2ib5)
+[![Unique Git Commands You Should Know!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unique_Git_Commands_You_Should_Know!.svg)](https://dev.to/sriparno08/unique-git-commands-you-should-know-k9i)
+[![From a Dumb Student to a PyTorch Contributor: The Impact of Teachers on My Life⚡](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/From_a_Dumb_Student_to_a_PyTorch_Contributor__The_Impact_of_Teachers_on_My_Life⚡.svg)](https://dev.to/vivekcodes/from-a-dumb-student-to-a-pytorch-contributor-the-impact-of-teachers-on-my-life-4me4)
+[![registration form in flutter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/registration_form_in_flutter.svg)](https://dev.to/realnamehidden1_61/registration-form-in-flutter-nh7)
+[![Manipulating the browser's history in react](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Manipulating_the_browser's_history_in_react.svg)](https://dev.to/esedev/manipulating-the-browsers-history-in-react-5agm)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, March 4, 2023 at 5:56:55 PM
+> Last updated: Saturday, March 4, 2023 at 11:11:23 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, March 4, 2023 at 5:57:01 PM
+> Last updated: Saturday, March 4, 2023 at 11:11:27 PM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - matiasvlevi/gptdoc: Generate JSDOC comments with the help of OpenAI's models.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_matiasvlevi_gptdoc__Generate_JSDOC_comments_with_the_help_of_OpenAI's_models..svg)](https://github.com/matiasvlevi/gptdoc)
 [![rekwest](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/rekwest.svg)](https://www.npmjs.com/package/rekwest)
 [![How to migrate from Pure CSS framework to Stylify CSS | Stylify CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_migrate_from_Pure_CSS_framework_to_Stylify_CSS___Stylify_CSS.svg)](
 https://stylifycss.com/docs/migration/pure-css
@@ -54,10 +55,7 @@ https://stylifycss.com/docs/migration/pure-css
 [![Handling onClick Events on ChartJS Bar Charts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Handling_onClick_Events_on_ChartJS_Bar_Charts.svg)](
 https://masteringjs.io/tutorials/chartjs/onclick-bar-chart
 )
-[![How to calculate the intersection of multiple arrays in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_calculate_the_intersection_of_multiple_arrays_in_JavaScript.svg)](
-https://frontendroom.com/intersection-of-multiple-arrays-in-js/
-)
-[![GitHub - rpgeeganage/ots-share-app: A self-hosting app to share secrets only one-time.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_rpgeeganage_ots-share-app__A_self-hosting_app_to_share_secrets_only_one-time..svg)](https://github.com/rpgeeganage/ots-share-app)
+[![How to calculate the intersection of multiple arrays in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_calculate_the_intersection_of_multiple_arrays_in_JavaScript.svg)](https://frontendroom.com/intersection-of-multiple-arrays-in-js/)
 
 
 <!-- post-list:end -->
