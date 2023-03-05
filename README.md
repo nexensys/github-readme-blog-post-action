@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, March 4, 2023 at 11:10:33 AM
+> Last updated: Saturday, March 4, 2023 at 5:56:52 PM
 
 > Showing 5 of 12 posts.
 
-[![I made a drag & drop dashboard builder for React and Chakra UI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_made_a_drag___drop_dashboard_builder_for_React_and_Chakra_UI.svg)](https://dev.to/rarestoma/i-made-a-drag-drop-dashboard-builder-for-react-and-chakra-ui-n7j)
-[![System Design](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/System_Design.svg)](https://dev.to/adahanu074/system-design-1h4m)
-[![How to check if a key exists in a dictionary python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_check_if_a_key_exists_in_a_dictionary_python.svg)](https://dev.to/max24816/how-to-check-if-a-key-exists-in-a-dictionary-python-132i)
-[![Build A Password Generator](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_A_Password_Generator.svg)](https://dev.to/kalashin1/build-a-password-generator-11oo)
-[![Working with .zip files in C#](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Working_with_.zip_files_in_C_.svg)](https://dev.to/karenpayneoregon/working-with-zip-files-in-c-52e3)
+[![O que é e como funciona o Cloud Native](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/O_que_é_e_como_funciona_o_Cloud_Native.svg)](https://dev.to/whathebea/cloud-native-3ef6)
+[![Build a CRUD DApp using Solidity | Nextjs | Thirdweb | Tailwind CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_a_CRUD_DApp_using_Solidity___Nextjs___Thirdweb___Tailwind_CSS.svg)](https://dev.to/thisisgazzar/build-a-crud-dapp-using-solidity-nextjs-thirdweb-tailwind-css-44m8)
+[![How I made my resume with HTML and Tailwind CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_I_made_my_resume_with_HTML_and_Tailwind_CSS.svg)](https://dev.to/ronanru/how-i-made-my-resume-with-html-and-tailwind-css-2676)
+[![How to dynamically render forms from a schema using React, Typescript and React Hook Form](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_dynamically_render_forms_from_a_schema_using_React__Typescript_and_React_Hook_Form.svg)](https://dev.to/pranavb6/how-to-dynamically-render-forms-from-a-schema-using-react-typescript-and-react-hook-form-pph)
+[![ReactJS : When to use Class Component Over Function Component?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/ReactJS___When_to_use_Class_Component_Over_Function_Component_.svg)](https://dev.to/imparmarjatin/reactjs-when-to-use-class-component-over-function-component-1ob5)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, March 4, 2023 at 11:10:37 AM
+> Last updated: Saturday, March 4, 2023 at 5:56:55 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, March 4, 2023 at 11:10:43 AM
+> Last updated: Saturday, March 4, 2023 at 5:57:01 PM
 
 > Showing 5 of 30 posts.
 
