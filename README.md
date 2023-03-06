@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, March 5, 2023 at 11:13:05 PM
+> Last updated: Monday, March 6, 2023 at 5:18:30 AM
 
 > Showing 5 of 12 posts.
 
-[![Mastering Docker: Writing Optimal Dockerfiles and Optimizing Image Size for Smarter Deployments](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_Docker__Writing_Optimal_Dockerfiles_and_Optimizing_Image_Size_for_Smarter_Deployments.svg)](https://dev.to/rokibulhasan114/mastering-docker-writing-optimal-dockerfiles-and-optimizing-image-size-for-smarter-deployments-13h2)
-[![HOW TO STUDY BETTER](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/HOW_TO_STUDY_BETTER.svg)](https://dev.to/codebhandari/how-to-study-better-1479)
-[![POO en Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/POO_en_Python.svg)](https://dev.to/maxwellnewage/poo-en-python-15ae)
-[![Using AWS CodeDeploy with Lambda for Canary Deployments](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_AWS_CodeDeploy_with_Lambda_for_Canary_Deployments.svg)](https://dev.to/benbpyle/using-aws-codedeploy-with-lambda-for-canary-deployments-4fed)
-[![My Nim Development Weekly Report (3/5)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_Nim_Development_Weekly_Report_(3_5).svg)](https://dev.to/ringabout/my-nim-development-weekly-report-35-12hd)
+[![Tech Lead: How to Mentoring Junior Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tech_Lead__How_to_Mentoring_Junior_Developers.svg)](https://dev.to/daniloab/tech-lead-how-to-mentoring-junior-developers-58o1)
+[![DevOps Career Road Map](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/DevOps_Career_Road_Map.svg)](https://dev.to/aws-builders/devops-career-road-map-4ebd)
+[![Pull sooner and merge faster in VS Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Pull_sooner_and_merge_faster_in_VS_Code.svg)](https://dev.to/gitlive/pull-sooner-and-merge-faster-in-vs-code-nmj)
+[![How to make Webpack Faster in a Monorepo?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_make_Webpack_Faster_in_a_Monorepo_.svg)](https://dev.to/woovi/how-to-make-webpack-faster-in-a-monorepo-2f87)
+[![Git Cheatsheet: A Quick Reference Guide for Git Commands ✨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Git_Cheatsheet__A_Quick_Reference_Guide_for_Git_Commands_✨.svg)](https://dev.to/aerodarius/git-cheatsheet-a-quick-reference-guide-for-git-commands-3pif)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, March 5, 2023 at 11:13:09 PM
+> Last updated: Monday, March 6, 2023 at 5:18:33 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, March 5, 2023 at 11:13:13 PM
+> Last updated: Monday, March 6, 2023 at 5:18:35 AM
 
 > Showing 5 of 30 posts.
 
+[![Minify private methods in a TypeScript class](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Minify_private_methods_in_a_TypeScript_class.svg)](https://dev.to/przemyslawjanbeigert/minify-private-methods-in-a-typescript-class-3kk4)
+[![Daskalo / Do you speak JavaScript? / Your JavaScript app is made of state machines](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Daskalo___Do_you_speak_JavaScript____Your_JavaScript_app_is_made_of_state_machines.svg)](https://daskalo.dev/courses/do-you-speak-javascript/13)
 [![GitHub - matiasvlevi/gptdoc: Generate JSDOC comments with OpenAI models.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_matiasvlevi_gptdoc__Generate_JSDOC_comments_with_OpenAI_models..svg)](https://github.com/matiasvlevi/gptdoc)
 [![rekwest](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/rekwest.svg)](https://www.npmjs.com/package/rekwest)
 [![How to migrate from Pure CSS framework to Stylify CSS | Stylify CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_migrate_from_Pure_CSS_framework_to_Stylify_CSS___Stylify_CSS.svg)](
 https://stylifycss.com/docs/migration/pure-css
 )
-[![Handling onClick Events on ChartJS Bar Charts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Handling_onClick_Events_on_ChartJS_Bar_Charts.svg)](
-https://masteringjs.io/tutorials/chartjs/onclick-bar-chart
-)
-[![How to calculate the intersection of multiple arrays in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_calculate_the_intersection_of_multiple_arrays_in_JavaScript.svg)](https://frontendroom.com/intersection-of-multiple-arrays-in-js/)
 
 
 <!-- post-list:end -->
