@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, March 5, 2023 at 5:50:19 PM
+> Last updated: Sunday, March 5, 2023 at 11:13:05 PM
 
 > Showing 5 of 12 posts.
 
-[![Building Maintainable User Interfaces with React and TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_Maintainable_User_Interfaces_with_React_and_TypeScript.svg)](https://dev.to/haszankauna/building-maintainable-user-interfaces-with-react-and-typescript-21f7)
-[![Best Practices for Building React Apps with Code Splitting and Lazy Loading to Improve Performance and Maintainability](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_Practices_for_Building_React_Apps_with_Code_Splitting_and_Lazy_Loading_to_Improve_Performance_and_Maintainability.svg)](https://dev.to/haszankauna/best-practices-for-building-react-apps-with-code-splitting-and-lazy-loading-to-improve-performance-and-maintainability-11d8)
-[![Yet Another Newsletter LOL: Signals!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Yet_Another_Newsletter_LOL__Signals!.svg)](https://dev.to/nickytonline/yet-another-newsletter-lol-signals-4e60)
-[![Understanding the Difference Between props and state in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_the_Difference_Between_props_and_state_in_React.svg)](https://dev.to/haszankauna/understanding-the-difference-between-props-and-state-in-react-2mg3)
-[![KLYNTAR Virtual Machines. Part 0: KLY-EVM — shardable, low-level managed, mutable, and WASM-improved EVM.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/KLYNTAR_Virtual_Machines._Part_0__KLY-EVM_—_shardable__low-level_managed__mutable__and_WASM-improved_EVM..svg)](https://dev.to/klyntar/klyntar-virtual-machines-part-0-kly-evm-shardable-low-level-managed-mutable-and-wasm-improved-evm-15cd)
+[![Mastering Docker: Writing Optimal Dockerfiles and Optimizing Image Size for Smarter Deployments](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_Docker__Writing_Optimal_Dockerfiles_and_Optimizing_Image_Size_for_Smarter_Deployments.svg)](https://dev.to/rokibulhasan114/mastering-docker-writing-optimal-dockerfiles-and-optimizing-image-size-for-smarter-deployments-13h2)
+[![HOW TO STUDY BETTER](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/HOW_TO_STUDY_BETTER.svg)](https://dev.to/codebhandari/how-to-study-better-1479)
+[![POO en Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/POO_en_Python.svg)](https://dev.to/maxwellnewage/poo-en-python-15ae)
+[![Using AWS CodeDeploy with Lambda for Canary Deployments](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_AWS_CodeDeploy_with_Lambda_for_Canary_Deployments.svg)](https://dev.to/benbpyle/using-aws-codedeploy-with-lambda-for-canary-deployments-4fed)
+[![My Nim Development Weekly Report (3/5)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_Nim_Development_Weekly_Report_(3_5).svg)](https://dev.to/ringabout/my-nim-development-weekly-report-35-12hd)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, March 5, 2023 at 5:50:23 PM
+> Last updated: Sunday, March 5, 2023 at 11:13:09 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, March 5, 2023 at 5:50:27 PM
+> Last updated: Sunday, March 5, 2023 at 11:13:13 PM
 
 > Showing 5 of 30 posts.
 
