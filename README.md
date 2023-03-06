@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, March 6, 2023 at 5:18:30 AM
+> Last updated: Monday, March 6, 2023 at 11:12:17 AM
 
 > Showing 5 of 12 posts.
 
-[![Tech Lead: How to Mentoring Junior Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tech_Lead__How_to_Mentoring_Junior_Developers.svg)](https://dev.to/daniloab/tech-lead-how-to-mentoring-junior-developers-58o1)
-[![DevOps Career Road Map](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/DevOps_Career_Road_Map.svg)](https://dev.to/aws-builders/devops-career-road-map-4ebd)
-[![Pull sooner and merge faster in VS Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Pull_sooner_and_merge_faster_in_VS_Code.svg)](https://dev.to/gitlive/pull-sooner-and-merge-faster-in-vs-code-nmj)
-[![How to make Webpack Faster in a Monorepo?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_make_Webpack_Faster_in_a_Monorepo_.svg)](https://dev.to/woovi/how-to-make-webpack-faster-in-a-monorepo-2f87)
-[![Git Cheatsheet: A Quick Reference Guide for Git Commands ✨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Git_Cheatsheet__A_Quick_Reference_Guide_for_Git_Commands_✨.svg)](https://dev.to/aerodarius/git-cheatsheet-a-quick-reference-guide-for-git-commands-3pif)
+[![Billing the technical debt](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Billing_the_technical_debt.svg)](https://dev.to/adambrandizzi/billing-the-technical-debt-45kb)
+[![CodePen Designs - 43 : Lottie Animations in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CodePen_Designs_-_43___Lottie_Animations_in_React.svg)](https://dev.to/jon_snow789/codepen-designs-43-lottie-animations-in-react-1j31)
+[![Wrap Battling](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Wrap_Battling.svg)](https://dev.to/alvaromontoro/wrap-battling-15d0)
+[![The next generation image format for the web is not JPEG XL?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_next_generation_image_format_for_the_web_is_not_JPEG_XL_.svg)](https://dev.to/robole/the-next-generation-image-format-for-the-web-is-not-jpeg-xl-348f)
+[![Use NGINX as database proxy](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Use_NGINX_as_database_proxy.svg)](https://dev.to/mxglt/use-nginx-as-database-proxy-3p95)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, March 6, 2023 at 5:18:33 AM
+> Last updated: Monday, March 6, 2023 at 11:12:20 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, March 6, 2023 at 5:18:35 AM
+> Last updated: Monday, March 6, 2023 at 11:12:24 AM
 
 > Showing 5 of 30 posts.
 
