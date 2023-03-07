@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, March 6, 2023 at 11:12:17 AM
+> Last updated: Monday, March 6, 2023 at 5:54:05 PM
 
 > Showing 5 of 12 posts.
 
-[![Billing the technical debt](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Billing_the_technical_debt.svg)](https://dev.to/adambrandizzi/billing-the-technical-debt-45kb)
-[![CodePen Designs - 43 : Lottie Animations in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CodePen_Designs_-_43___Lottie_Animations_in_React.svg)](https://dev.to/jon_snow789/codepen-designs-43-lottie-animations-in-react-1j31)
-[![Wrap Battling](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Wrap_Battling.svg)](https://dev.to/alvaromontoro/wrap-battling-15d0)
-[![The next generation image format for the web is not JPEG XL?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_next_generation_image_format_for_the_web_is_not_JPEG_XL_.svg)](https://dev.to/robole/the-next-generation-image-format-for-the-web-is-not-jpeg-xl-348f)
-[![Use NGINX as database proxy](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Use_NGINX_as_database_proxy.svg)](https://dev.to/mxglt/use-nginx-as-database-proxy-3p95)
+[![Catch me if you can](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Catch_me_if_you_can.svg)](https://dev.to/onlinedevelopers/catch-me-if-you-can-h8b)
+[![Maximizing Your Job Search: Insights from Andronica Klaas, Meta Engineer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Maximizing_Your_Job_Search__Insights_from_Andronica_Klaas__Meta_Engineer.svg)](https://dev.to/michaellarocca/maximizing-your-job-search-insights-from-andronica-klaas-meta-engineer-9c7)
+[![JavaScript Tutorial Series: HTML attributes & DOM object properties.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_Tutorial_Series__HTML_attributes___DOM_object_properties..svg)](https://dev.to/fullstackjo/javascript-tutorial-series-html-attributes-dom-object-properties-311o)
+[![If use Jetpack compose don't use Shared Preference](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/If_use_Jetpack_compose_don't_use_Shared_Preference.svg)](https://dev.to/thecoder93/if-use-jetpack-compose-dont-use-shared-preference-p8p)
+[![osdc-2023-assignment7](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/osdc-2023-assignment7.svg)](https://dev.to/anatlavitzkovitz/osdc-2023-assignment7-1i2f)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, March 6, 2023 at 11:12:20 AM
+> Last updated: Monday, March 6, 2023 at 5:54:09 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, March 6, 2023 at 11:12:24 AM
+> Last updated: Monday, March 6, 2023 at 5:54:19 PM
 
 > Showing 5 of 30 posts.
 
+[![API with NestJS #98. Health checks with Terminus and Amazon ECS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__98._Health_checks_with_Terminus_and_Amazon_ECS.svg)](https://wanago.io/2023/03/06/api-nestjs-health-checks-terminus-aws/)
 [![Minify private methods in a TypeScript class](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Minify_private_methods_in_a_TypeScript_class.svg)](https://dev.to/przemyslawjanbeigert/minify-private-methods-in-a-typescript-class-3kk4)
 [![Daskalo / Do you speak JavaScript? / Your JavaScript app is made of state machines](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Daskalo___Do_you_speak_JavaScript____Your_JavaScript_app_is_made_of_state_machines.svg)](https://daskalo.dev/courses/do-you-speak-javascript/13)
 [![GitHub - matiasvlevi/gptdoc: Generate JSDOC comments with OpenAI models.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_matiasvlevi_gptdoc__Generate_JSDOC_comments_with_OpenAI_models..svg)](https://github.com/matiasvlevi/gptdoc)
 [![rekwest](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/rekwest.svg)](https://www.npmjs.com/package/rekwest)
-[![How to migrate from Pure CSS framework to Stylify CSS | Stylify CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_migrate_from_Pure_CSS_framework_to_Stylify_CSS___Stylify_CSS.svg)](
-https://stylifycss.com/docs/migration/pure-css
-)
 
 
 <!-- post-list:end -->
