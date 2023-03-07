@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, March 6, 2023 at 11:12:29 PM
+> Last updated: Tuesday, March 7, 2023 at 5:18:14 AM
 
 > Showing 5 of 12 posts.
 
-[![How atomic Git commits dramatically increased my productivity - and will increase yours too](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_atomic_Git_commits_dramatically_increased_my_productivity_-_and_will_increase_yours_too.svg)](https://dev.to/samuelfaure/how-atomic-git-commits-dramatically-increased-my-productivity-and-will-increase-yours-too-4a84)
-[![Creating a responsive navbar with React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_a_responsive_navbar_with_React.svg)](https://dev.to/haszankauna/creating-a-responsive-navbar-with-react-3b2c)
-[![Creating a responsive navbar with React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_a_responsive_navbar_with_React.svg)](https://dev.to/haszankauna/creating-a-responsive-navbar-with-react-38d4)
-[![How to use Web Workers in ReactJS: A step-by-step guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_Web_Workers_in_ReactJS__A_step-by-step_guide.svg)](https://dev.to/ifourtechnolab/how-to-use-web-workers-in-reactjs-a-step-by-step-guide-2oo1)
-[![6 Common Mistakes New Engineering Leaders make](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/6_Common_Mistakes_New_Engineering_Leaders_make.svg)](https://dev.to/kulkarniankita9/the-6-common-mistakes-new-engineering-leaders-make-5agi)
+[![How to Build a Full Stack Web3 TikTok Clone with React Native, Livepeer, and Lens Protocol](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Build_a_Full_Stack_Web3_TikTok_Clone_with_React_Native__Livepeer__and_Lens_Protocol.svg)](https://dev.to/suhailkakar/how-to-build-a-full-stack-web3-tiktok-clone-with-react-native-livepeer-and-lens-protocol-2l8a)
+[![Moonly weekly progress update #39](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Moonly_weekly_progress_update__39.svg)](https://dev.to/moonly/moonly-weekly-progress-update-39-2bfj)
+[![Deploying a React app to production](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deploying_a_React_app_to_production.svg)](https://dev.to/haszankauna/deploying-a-react-app-to-production-4i61)
+[![Scribe Chrome Extension: The Ultimate Tool for Documenting Your Processes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Scribe_Chrome_Extension__The_Ultimate_Tool_for_Documenting_Your_Processes.svg)](https://dev.to/esedev/scribe-chrome-extension-the-ultimate-tool-for-documenting-your-processes-4kif)
+[![Spring Boot With JSP](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Spring_Boot_With_JSP.svg)](https://dev.to/realnamehidden1_61/spring-boot-with-jsp-5ame)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, March 6, 2023 at 11:12:32 PM
+> Last updated: Tuesday, March 7, 2023 at 5:18:17 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, March 6, 2023 at 11:12:38 PM
+> Last updated: Tuesday, March 7, 2023 at 5:18:24 AM
 
 > Showing 5 of 30 posts.
 
+[![What is Software Quality Assurance?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_is_Software_Quality_Assurance_.svg)](https://www.pixelqa.com/blog/post/what-is-software-quality-assurance)
+[![Best Liquor store pos system | Pos for liquor Store - Atlantic Systems, Inc](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Best_Liquor_store_pos_system___Pos_for_liquor_Store_-_Atlantic_Systems__Inc.svg)](https://atlanticsystemsinc.com/)
 [![API with NestJS #98. Health checks with Terminus and Amazon ECS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__98._Health_checks_with_Terminus_and_Amazon_ECS.svg)](https://wanago.io/2023/03/06/api-nestjs-health-checks-terminus-aws/)
 [![Minify private methods in a TypeScript class](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Minify_private_methods_in_a_TypeScript_class.svg)](https://dev.to/przemyslawjanbeigert/minify-private-methods-in-a-typescript-class-3kk4)
 [![Daskalo / Do you speak JavaScript? / Your JavaScript app is made of state machines](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Daskalo___Do_you_speak_JavaScript____Your_JavaScript_app_is_made_of_state_machines.svg)](https://daskalo.dev/courses/do-you-speak-javascript/13)
-[![GitHub - matiasvlevi/gptdoc: Generate JSDOC comments with OpenAI models.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_matiasvlevi_gptdoc__Generate_JSDOC_comments_with_OpenAI_models..svg)](https://github.com/matiasvlevi/gptdoc)
-[![rekwest](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/rekwest.svg)](https://www.npmjs.com/package/rekwest)
 
 
 <!-- post-list:end -->
