@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, March 7, 2023 at 5:18:14 AM
+> Last updated: Tuesday, March 7, 2023 at 11:11:55 AM
 
 > Showing 5 of 12 posts.
 
-[![How to Build a Full Stack Web3 TikTok Clone with React Native, Livepeer, and Lens Protocol](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Build_a_Full_Stack_Web3_TikTok_Clone_with_React_Native__Livepeer__and_Lens_Protocol.svg)](https://dev.to/suhailkakar/how-to-build-a-full-stack-web3-tiktok-clone-with-react-native-livepeer-and-lens-protocol-2l8a)
-[![Moonly weekly progress update #39](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Moonly_weekly_progress_update__39.svg)](https://dev.to/moonly/moonly-weekly-progress-update-39-2bfj)
-[![Deploying a React app to production](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deploying_a_React_app_to_production.svg)](https://dev.to/haszankauna/deploying-a-react-app-to-production-4i61)
-[![Scribe Chrome Extension: The Ultimate Tool for Documenting Your Processes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Scribe_Chrome_Extension__The_Ultimate_Tool_for_Documenting_Your_Processes.svg)](https://dev.to/esedev/scribe-chrome-extension-the-ultimate-tool-for-documenting-your-processes-4kif)
-[![Spring Boot With JSP](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Spring_Boot_With_JSP.svg)](https://dev.to/realnamehidden1_61/spring-boot-with-jsp-5ame)
+[![Tidelift can help with legal support for lifters](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tidelift_can_help_with_legal_support_for_lifters.svg)](https://dev.to/tidelift/tidelift-can-help-with-legal-support-for-lifters-4729)
+[![I tried making this reflective UI using HTML CSS and Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_tried_making_this_reflective_UI_using_HTML_CSS_and_Javascript.svg)](https://dev.to/namanvyas/i-tried-making-this-reflective-ui-using-html-css-and-javascript-52ij)
+[![5 Real-world Projects for Practicing With NextJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Real-world_Projects_for_Practicing_With_NextJS.svg)](https://dev.to/devland/5-real-world-projects-for-practicing-with-nextjs-55g7)
+[![ChatGPT shares its interview experience with Google for the post of SDE Intern.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/ChatGPT_shares_its_interview_experience_with_Google_for_the_post_of_SDE_Intern..svg)](https://dev.to/anshsinghsonkhia/chatgpt-shares-its-interview-experience-with-google-for-the-post-of-sde-intern-1h9l)
+[![50 chart types for data visualization explained](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/50_chart_types_for_data_visualization_explained.svg)](https://dev.to/jscharting/50-chart-types-for-data-visualization-explained-1f5g)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, March 7, 2023 at 5:18:17 AM
+> Last updated: Tuesday, March 7, 2023 at 11:11:57 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, March 7, 2023 at 5:18:24 AM
+> Last updated: Tuesday, March 7, 2023 at 11:11:59 AM
 
 > Showing 5 of 30 posts.
 
+[![The Nullish Coalescing Operator ?? in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Nullish_Coalescing_Operator____in_JavaScript.svg)](
+https://masteringjs.io/tutorials/fundamentals/nullish-coalescing
+)
+[![Template literal types in the Vuex](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Template_literal_types_in_the_Vuex.svg)](https://dev.to/przemyslawjanbeigert/template-literal-types-in-the-vuex-45kg)
 [![What is Software Quality Assurance?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_is_Software_Quality_Assurance_.svg)](https://www.pixelqa.com/blog/post/what-is-software-quality-assurance)
 [![Best Liquor store pos system | Pos for liquor Store - Atlantic Systems, Inc](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Best_Liquor_store_pos_system___Pos_for_liquor_Store_-_Atlantic_Systems__Inc.svg)](https://atlanticsystemsinc.com/)
-[![API with NestJS #98. Health checks with Terminus and Amazon ECS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__98._Health_checks_with_Terminus_and_Amazon_ECS.svg)](https://wanago.io/2023/03/06/api-nestjs-health-checks-terminus-aws/)
 [![Minify private methods in a TypeScript class](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Minify_private_methods_in_a_TypeScript_class.svg)](https://dev.to/przemyslawjanbeigert/minify-private-methods-in-a-typescript-class-3kk4)
-[![Daskalo / Do you speak JavaScript? / Your JavaScript app is made of state machines](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Daskalo___Do_you_speak_JavaScript____Your_JavaScript_app_is_made_of_state_machines.svg)](https://daskalo.dev/courses/do-you-speak-javascript/13)
 
 
 <!-- post-list:end -->
