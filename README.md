@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, March 6, 2023 at 5:54:05 PM
+> Last updated: Monday, March 6, 2023 at 11:12:29 PM
 
 > Showing 5 of 12 posts.
 
-[![Catch me if you can](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Catch_me_if_you_can.svg)](https://dev.to/onlinedevelopers/catch-me-if-you-can-h8b)
-[![Maximizing Your Job Search: Insights from Andronica Klaas, Meta Engineer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Maximizing_Your_Job_Search__Insights_from_Andronica_Klaas__Meta_Engineer.svg)](https://dev.to/michaellarocca/maximizing-your-job-search-insights-from-andronica-klaas-meta-engineer-9c7)
-[![JavaScript Tutorial Series: HTML attributes & DOM object properties.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_Tutorial_Series__HTML_attributes___DOM_object_properties..svg)](https://dev.to/fullstackjo/javascript-tutorial-series-html-attributes-dom-object-properties-311o)
-[![If use Jetpack compose don't use Shared Preference](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/If_use_Jetpack_compose_don't_use_Shared_Preference.svg)](https://dev.to/thecoder93/if-use-jetpack-compose-dont-use-shared-preference-p8p)
-[![osdc-2023-assignment7](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/osdc-2023-assignment7.svg)](https://dev.to/anatlavitzkovitz/osdc-2023-assignment7-1i2f)
+[![How atomic Git commits dramatically increased my productivity - and will increase yours too](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_atomic_Git_commits_dramatically_increased_my_productivity_-_and_will_increase_yours_too.svg)](https://dev.to/samuelfaure/how-atomic-git-commits-dramatically-increased-my-productivity-and-will-increase-yours-too-4a84)
+[![Creating a responsive navbar with React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_a_responsive_navbar_with_React.svg)](https://dev.to/haszankauna/creating-a-responsive-navbar-with-react-3b2c)
+[![Creating a responsive navbar with React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_a_responsive_navbar_with_React.svg)](https://dev.to/haszankauna/creating-a-responsive-navbar-with-react-38d4)
+[![How to use Web Workers in ReactJS: A step-by-step guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_Web_Workers_in_ReactJS__A_step-by-step_guide.svg)](https://dev.to/ifourtechnolab/how-to-use-web-workers-in-reactjs-a-step-by-step-guide-2oo1)
+[![6 Common Mistakes New Engineering Leaders make](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/6_Common_Mistakes_New_Engineering_Leaders_make.svg)](https://dev.to/kulkarniankita9/the-6-common-mistakes-new-engineering-leaders-make-5agi)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, March 6, 2023 at 5:54:09 PM
+> Last updated: Monday, March 6, 2023 at 11:12:32 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, March 6, 2023 at 5:54:19 PM
+> Last updated: Monday, March 6, 2023 at 11:12:38 PM
 
 > Showing 5 of 30 posts.
 
