@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, March 8, 2023 at 5:18:07 AM
+> Last updated: Wednesday, March 8, 2023 at 11:12:27 AM
 
 > Showing 5 of 12 posts.
 
-[![Semantic or keyword search for finding ChatGPT context. Who searched it better?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Semantic_or_keyword_search_for_finding_ChatGPT_context._Who_searched_it_better_.svg)](https://dev.to/tsg/semantic-or-keyword-search-for-finding-chatgpt-context-who-searched-it-better-4bdp)
-[![Unlocking the Secrets to Success - How to Thrive as a Technical Writer and Earn a Living](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unlocking_the_Secrets_to_Success_-_How_to_Thrive_as_a_Technical_Writer_and_Earn_a_Living.svg)](https://dev.to/andrewbaisden/unlocking-the-secrets-to-success-how-to-thrive-as-a-technical-writer-and-earn-a-living-5epl)
-[![10 repositories to star if you are a Javascript developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_repositories_to_star_if_you_are_a_Javascript_developer.svg)](https://dev.to/tejakummarikuntla/10-repositories-to-star-if-you-are-a-javascript-developer-40aj)
-[![Learn How to Deploy NGINX on Kubernetes Using Helm Chart](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Learn_How_to_Deploy_NGINX_on_Kubernetes_Using_Helm_Chart.svg)](https://dev.to/pavanbelagatti/learn-how-to-deploy-nginx-on-kubernetes-using-helm-chart-4p6e)
-[![Simplify state with reducer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Simplify_state_with_reducer.svg)](https://dev.to/thexdev/simplify-state-with-reducer-28bn)
+[![8 Ways to Support Women Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/8_Ways_to_Support_Women_Developers.svg)](https://dev.to/abbeyperini/8-ways-to-support-women-developers-55lf)
+[![Building an API using FastAPI and Uvicorn](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_an_API_using_FastAPI_and_Uvicorn.svg)](https://dev.to/blst-security/building-an-api-using-fastapi-and-uvicorn-3h79)
+[![React Form Validations Made Easy — The Ultimate Cheat Sheet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Form_Validations_Made_Easy_—_The_Ultimate_Cheat_Sheet.svg)](https://dev.to/nitinfab/react-form-validations-made-easy-the-ultimate-cheat-sheet-1f33)
+[![Yangi qator](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Yangi_qator.svg)](https://dev.to/nuriddin152/yangi-qator-4733)
+[![Mentors](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mentors.svg)](https://dev.to/jhatcher9999/mentors-34j5)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, March 8, 2023 at 5:18:11 AM
+> Last updated: Wednesday, March 8, 2023 at 11:12:31 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, March 8, 2023 at 5:18:13 AM
+> Last updated: Wednesday, March 8, 2023 at 11:12:39 AM
 
 > Showing 5 of 30 posts.
 
-[![
-WebGPT: Customizable Website Chat Agent built in Node.js / JavaScript
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_WebGPT__Customizable_Website_Chat_Agent_built_in_Node.js___JavaScript_.svg)](
-https://web-gpt-demo.com/
-)
+[![Running Safari 16 on Windows is EASY!!!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Running_Safari_16_on_Windows_is_EASY!!!.svg)](https://www.youtube.com/watch?v=W3IH7zDR_HQ)
 [![The Nullish Coalescing Operator ?? in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Nullish_Coalescing_Operator____in_JavaScript.svg)](
 https://masteringjs.io/tutorials/fundamentals/nullish-coalescing
 )
