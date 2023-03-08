@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, March 7, 2023 at 11:11:55 AM
+> Last updated: Tuesday, March 7, 2023 at 5:53:20 PM
 
 > Showing 5 of 12 posts.
 
-[![Tidelift can help with legal support for lifters](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tidelift_can_help_with_legal_support_for_lifters.svg)](https://dev.to/tidelift/tidelift-can-help-with-legal-support-for-lifters-4729)
-[![I tried making this reflective UI using HTML CSS and Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_tried_making_this_reflective_UI_using_HTML_CSS_and_Javascript.svg)](https://dev.to/namanvyas/i-tried-making-this-reflective-ui-using-html-css-and-javascript-52ij)
-[![5 Real-world Projects for Practicing With NextJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Real-world_Projects_for_Practicing_With_NextJS.svg)](https://dev.to/devland/5-real-world-projects-for-practicing-with-nextjs-55g7)
-[![ChatGPT shares its interview experience with Google for the post of SDE Intern.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/ChatGPT_shares_its_interview_experience_with_Google_for_the_post_of_SDE_Intern..svg)](https://dev.to/anshsinghsonkhia/chatgpt-shares-its-interview-experience-with-google-for-the-post-of-sde-intern-1h9l)
-[![50 chart types for data visualization explained](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/50_chart_types_for_data_visualization_explained.svg)](https://dev.to/jscharting/50-chart-types-for-data-visualization-explained-1f5g)
+[![How to Use "Cats" dataset with Python ReductStore SDK](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Use__Cats__dataset_with_Python_ReductStore_SDK.svg)](https://dev.to/reductstore/how-to-use-cats-dataset-with-python-reduct-sdk-4197)
+[![🌱Using Forem as an intranet website, yay or nay?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🌱Using_Forem_as_an_intranet_website__yay_or_nay_.svg)](https://dev.to/hunghvu/using-forem-as-an-intranet-website-yay-or-nay-3hdo)
+[![Announcing the First Release Candidate of HydePHP: A Laravel-Based Static Site Generator](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Announcing_the_First_Release_Candidate_of_HydePHP__A_Laravel-Based_Static_Site_Generator.svg)](https://dev.to/codewithcaen/announcing-the-first-release-candidate-of-hydephp-a-laravel-based-static-site-generator-5307)
+[![How to compress a large video without losing quality using FFmpeg with Termux](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_compress_a_large_video_without_losing_quality_using_FFmpeg_with_Termux.svg)](https://dev.to/sparklesix/how-to-compress-a-large-video-without-losing-quality-using-ffmpeg-with-termux-1dhi)
+[![JavaScript Tutorial Series: Manipulating elements styles](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_Tutorial_Series__Manipulating_elements_styles.svg)](https://dev.to/fullstackjo/javascript-tutorial-series-manipulating-elements-styles-4k0i)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, March 7, 2023 at 11:11:57 AM
+> Last updated: Tuesday, March 7, 2023 at 5:53:24 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, March 7, 2023 at 11:11:59 AM
+> Last updated: Tuesday, March 7, 2023 at 5:53:26 PM
 
 > Showing 5 of 30 posts.
 
@@ -51,9 +51,9 @@ http://www.echojs.com
 https://masteringjs.io/tutorials/fundamentals/nullish-coalescing
 )
 [![Template literal types in the Vuex](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Template_literal_types_in_the_Vuex.svg)](https://dev.to/przemyslawjanbeigert/template-literal-types-in-the-vuex-45kg)
-[![What is Software Quality Assurance?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_is_Software_Quality_Assurance_.svg)](https://www.pixelqa.com/blog/post/what-is-software-quality-assurance)
-[![Best Liquor store pos system | Pos for liquor Store - Atlantic Systems, Inc](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Best_Liquor_store_pos_system___Pos_for_liquor_Store_-_Atlantic_Systems__Inc.svg)](https://atlanticsystemsinc.com/)
 [![Minify private methods in a TypeScript class](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Minify_private_methods_in_a_TypeScript_class.svg)](https://dev.to/przemyslawjanbeigert/minify-private-methods-in-a-typescript-class-3kk4)
+[![GitHub - matiasvlevi/gptdoc: Generate JSDOC comments with OpenAI models.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_matiasvlevi_gptdoc__Generate_JSDOC_comments_with_OpenAI_models..svg)](https://github.com/matiasvlevi/gptdoc)
+[![rekwest](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/rekwest.svg)](https://www.npmjs.com/package/rekwest)
 
 
 <!-- post-list:end -->
