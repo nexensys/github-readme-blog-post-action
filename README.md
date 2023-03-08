@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, March 7, 2023 at 5:53:20 PM
+> Last updated: Tuesday, March 7, 2023 at 11:12:29 PM
 
 > Showing 5 of 12 posts.
 
-[![How to Use "Cats" dataset with Python ReductStore SDK](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Use__Cats__dataset_with_Python_ReductStore_SDK.svg)](https://dev.to/reductstore/how-to-use-cats-dataset-with-python-reduct-sdk-4197)
-[![🌱Using Forem as an intranet website, yay or nay?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🌱Using_Forem_as_an_intranet_website__yay_or_nay_.svg)](https://dev.to/hunghvu/using-forem-as-an-intranet-website-yay-or-nay-3hdo)
-[![Announcing the First Release Candidate of HydePHP: A Laravel-Based Static Site Generator](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Announcing_the_First_Release_Candidate_of_HydePHP__A_Laravel-Based_Static_Site_Generator.svg)](https://dev.to/codewithcaen/announcing-the-first-release-candidate-of-hydephp-a-laravel-based-static-site-generator-5307)
-[![How to compress a large video without losing quality using FFmpeg with Termux](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_compress_a_large_video_without_losing_quality_using_FFmpeg_with_Termux.svg)](https://dev.to/sparklesix/how-to-compress-a-large-video-without-losing-quality-using-ffmpeg-with-termux-1dhi)
-[![JavaScript Tutorial Series: Manipulating elements styles](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_Tutorial_Series__Manipulating_elements_styles.svg)](https://dev.to/fullstackjo/javascript-tutorial-series-manipulating-elements-styles-4k0i)
+[![Resources You Should Follow to Stay updated with Latest Tech Trends](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Resources_You_Should_Follow_to_Stay_updated_with_Latest_Tech_Trends.svg)](https://dev.to/patilganesh1010/resources-you-should-follow-to-stay-updated-with-latest-tech-trends-1dmf)
+[![Docker Registry Management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Docker_Registry_Management.svg)](https://dev.to/waji97/docker-registry-management-3ag2)
+[![How to fetch data from API in ReactJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_fetch_data_from_API_in_ReactJS.svg)](https://dev.to/adityasaini3/how-to-fetch-data-from-api-in-reactjs-g56)
+[![well... let's go to implement linter to project!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/well..._let's_go_to_implement_linter_to_project!.svg)](https://dev.to/juanestban/well-lets-go-to-implement-linter-to-project-2o6j)
+[![🔥7 Mind-Blowing React Libraries That Will Turn Your Coding Experience Into an Epic Adventure!🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🔥7_Mind-Blowing_React_Libraries_That_Will_Turn_Your_Coding_Experience_Into_an_Epic_Adventure!🔥.svg)](https://dev.to/mnq11/7-mind-blowing-react-libraries-that-will-turn-your-coding-experience-into-an-epic-adventure-2hnb)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, March 7, 2023 at 5:53:24 PM
+> Last updated: Tuesday, March 7, 2023 at 11:12:32 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, March 7, 2023 at 5:53:26 PM
+> Last updated: Tuesday, March 7, 2023 at 11:12:34 PM
 
 > Showing 5 of 30 posts.
 
