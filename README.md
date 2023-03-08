@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, March 7, 2023 at 11:12:29 PM
+> Last updated: Wednesday, March 8, 2023 at 5:18:07 AM
 
 > Showing 5 of 12 posts.
 
-[![Resources You Should Follow to Stay updated with Latest Tech Trends](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Resources_You_Should_Follow_to_Stay_updated_with_Latest_Tech_Trends.svg)](https://dev.to/patilganesh1010/resources-you-should-follow-to-stay-updated-with-latest-tech-trends-1dmf)
-[![Docker Registry Management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Docker_Registry_Management.svg)](https://dev.to/waji97/docker-registry-management-3ag2)
-[![How to fetch data from API in ReactJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_fetch_data_from_API_in_ReactJS.svg)](https://dev.to/adityasaini3/how-to-fetch-data-from-api-in-reactjs-g56)
-[![well... let's go to implement linter to project!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/well..._let's_go_to_implement_linter_to_project!.svg)](https://dev.to/juanestban/well-lets-go-to-implement-linter-to-project-2o6j)
-[![🔥7 Mind-Blowing React Libraries That Will Turn Your Coding Experience Into an Epic Adventure!🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🔥7_Mind-Blowing_React_Libraries_That_Will_Turn_Your_Coding_Experience_Into_an_Epic_Adventure!🔥.svg)](https://dev.to/mnq11/7-mind-blowing-react-libraries-that-will-turn-your-coding-experience-into-an-epic-adventure-2hnb)
+[![Semantic or keyword search for finding ChatGPT context. Who searched it better?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Semantic_or_keyword_search_for_finding_ChatGPT_context._Who_searched_it_better_.svg)](https://dev.to/tsg/semantic-or-keyword-search-for-finding-chatgpt-context-who-searched-it-better-4bdp)
+[![Unlocking the Secrets to Success - How to Thrive as a Technical Writer and Earn a Living](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unlocking_the_Secrets_to_Success_-_How_to_Thrive_as_a_Technical_Writer_and_Earn_a_Living.svg)](https://dev.to/andrewbaisden/unlocking-the-secrets-to-success-how-to-thrive-as-a-technical-writer-and-earn-a-living-5epl)
+[![10 repositories to star if you are a Javascript developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_repositories_to_star_if_you_are_a_Javascript_developer.svg)](https://dev.to/tejakummarikuntla/10-repositories-to-star-if-you-are-a-javascript-developer-40aj)
+[![Learn How to Deploy NGINX on Kubernetes Using Helm Chart](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Learn_How_to_Deploy_NGINX_on_Kubernetes_Using_Helm_Chart.svg)](https://dev.to/pavanbelagatti/learn-how-to-deploy-nginx-on-kubernetes-using-helm-chart-4p6e)
+[![Simplify state with reducer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Simplify_state_with_reducer.svg)](https://dev.to/thexdev/simplify-state-with-reducer-28bn)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, March 7, 2023 at 11:12:32 PM
+> Last updated: Wednesday, March 8, 2023 at 5:18:11 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,21 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, March 7, 2023 at 11:12:34 PM
+> Last updated: Wednesday, March 8, 2023 at 5:18:13 AM
 
 > Showing 5 of 30 posts.
 
+[![
+WebGPT: Customizable Website Chat Agent built in Node.js / JavaScript
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_WebGPT__Customizable_Website_Chat_Agent_built_in_Node.js___JavaScript_.svg)](
+https://web-gpt-demo.com/
+)
 [![The Nullish Coalescing Operator ?? in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Nullish_Coalescing_Operator____in_JavaScript.svg)](
 https://masteringjs.io/tutorials/fundamentals/nullish-coalescing
 )
 [![Template literal types in the Vuex](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Template_literal_types_in_the_Vuex.svg)](https://dev.to/przemyslawjanbeigert/template-literal-types-in-the-vuex-45kg)
 [![Minify private methods in a TypeScript class](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Minify_private_methods_in_a_TypeScript_class.svg)](https://dev.to/przemyslawjanbeigert/minify-private-methods-in-a-typescript-class-3kk4)
 [![GitHub - matiasvlevi/gptdoc: Generate JSDOC comments with OpenAI models.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_matiasvlevi_gptdoc__Generate_JSDOC_comments_with_OpenAI_models..svg)](https://github.com/matiasvlevi/gptdoc)
-[![rekwest](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/rekwest.svg)](https://www.npmjs.com/package/rekwest)
 
 
 <!-- post-list:end -->
