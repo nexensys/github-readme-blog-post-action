@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, March 8, 2023 at 5:52:49 PM
+> Last updated: Wednesday, March 8, 2023 at 11:13:08 PM
 
 > Showing 5 of 12 posts.
 
-[![Gender equality in the tech industry](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Gender_equality_in_the_tech_industry.svg)](https://dev.to/abhixsh/gender-equality-in-the-tech-industry-375h)
-[![AWS Cloud Quest: Container Services](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_Cloud_Quest__Container_Services.svg)](https://dev.to/arc/aws-cloud-quest-container-services-1hi7)
-[![How to create a free email subscription form in NextJS, Netlify and MailerLite](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_a_free_email_subscription_form_in_NextJS__Netlify_and_MailerLite.svg)](https://dev.to/duncanteege/how-to-create-an-email-subscription-form-in-nextjs-netlify-and-mailerlite-41mc)
-[![The CodeNewbie Podcast, S23:E4: A/B Testing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_CodeNewbie_Podcast__S23_E4__A_B_Testing.svg)](https://dev.to/codenewbieteam/the-codenewbie-podcast-s23e4-ab-testing-1n96)
-[![Tips to become a better programmer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tips_to_become_a_better_programmer.svg)](https://dev.to/abdrzqsalihu/tips-to-become-a-better-programmer-2bba)
+[![Experience of first event of 2023 as speaker](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Experience_of_first_event_of_2023_as_speaker.svg)](https://dev.to/aws-builders/experience-of-first-event-of-2023-as-speaker-2cpi)
+[![The March 2023 Newsletter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_March_2023_Newsletter.svg)](https://dev.to/amplication/the-march-2023-newsletter-il8)
+[![O que os símbolos(~) e (^) representam nas dependências de projetos?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/O_que_os_símbolos(~)_e_(^)_representam_nas_dependências_de_projetos_.svg)](https://dev.to/jessilyneh/o-que-os-simbolos-e-representam-nas-dependencias-de-projetos-jm0)
+[![How to Escape Tutorial Hell](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Escape_Tutorial_Hell.svg)](https://dev.to/ikechukwu/how-to-escape-tutorial-hell-4pi2)
+[![Promoting Equality in the Tech Industry](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Promoting_Equality_in_the_Tech_Industry.svg)](https://dev.to/binayakjha/promoting-equality-in-the-tech-industry-16ph)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, March 8, 2023 at 5:52:53 PM
+> Last updated: Wednesday, March 8, 2023 at 11:13:12 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, March 8, 2023 at 5:52:56 PM
+> Last updated: Wednesday, March 8, 2023 at 11:13:15 PM
 
 > Showing 5 of 30 posts.
 
