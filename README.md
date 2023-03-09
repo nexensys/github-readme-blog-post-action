@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, March 8, 2023 at 11:13:08 PM
+> Last updated: Thursday, March 9, 2023 at 5:18:26 AM
 
 > Showing 5 of 12 posts.
 
-[![Experience of first event of 2023 as speaker](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Experience_of_first_event_of_2023_as_speaker.svg)](https://dev.to/aws-builders/experience-of-first-event-of-2023-as-speaker-2cpi)
-[![The March 2023 Newsletter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_March_2023_Newsletter.svg)](https://dev.to/amplication/the-march-2023-newsletter-il8)
-[![O que os símbolos(~) e (^) representam nas dependências de projetos?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/O_que_os_símbolos(~)_e_(^)_representam_nas_dependências_de_projetos_.svg)](https://dev.to/jessilyneh/o-que-os-simbolos-e-representam-nas-dependencias-de-projetos-jm0)
-[![How to Escape Tutorial Hell](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Escape_Tutorial_Hell.svg)](https://dev.to/ikechukwu/how-to-escape-tutorial-hell-4pi2)
-[![Promoting Equality in the Tech Industry](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Promoting_Equality_in_the_Tech_Industry.svg)](https://dev.to/binayakjha/promoting-equality-in-the-tech-industry-16ph)
+[![The History of Ecommerce: 1979 to 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_History_of_Ecommerce__1979_to_2023.svg)](https://dev.to/medusajs/the-history-of-ecommerce-1979-to-2023-2k9n)
+[![Data Breaches and Healthcare: Is India Lacking in Healthcare Data Security?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Data_Breaches_and_Healthcare__Is_India_Lacking_in_Healthcare_Data_Security_.svg)](https://dev.to/sierra_cyber/data-breaches-and-healthcare-is-india-lacking-in-healthcare-data-security-12la)
+[![How I improve my skills in Typescript #5 : Satisfies operator](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_I_improve_my_skills_in_Typescript__5___Satisfies_operator.svg)](https://dev.to/codeoz/how-i-improve-my-skills-in-typescript-5-satisfies-operator-2312)
+[![5 Essential Google Chrome Extension for Web Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Essential_Google_Chrome_Extension_for_Web_Developers.svg)](https://dev.to/surajondev/5-essential-google-chrome-extension-for-web-developers-4mpf)
+[![How to create a multistage Dockerfile](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_a_multistage_Dockerfile.svg)](https://dev.to/hshoja/how-to-create-a-multistage-dockerfile-16kl)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, March 8, 2023 at 11:13:12 PM
+> Last updated: Thursday, March 9, 2023 at 5:18:31 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, March 8, 2023 at 11:13:15 PM
+> Last updated: Thursday, March 9, 2023 at 5:18:33 AM
 
 > Showing 5 of 30 posts.
 
+[![How to Improve React Native Performance - Semaphore](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Improve_React_Native_Performance_-_Semaphore.svg)](https://semaphoreci.com/blog/react-native-performance)
 [![The Nullish Coalescing Operator ?? in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Nullish_Coalescing_Operator____in_JavaScript.svg)](
 https://masteringjs.io/tutorials/fundamentals/nullish-coalescing
 )
 [![Template literal types in the Vuex](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Template_literal_types_in_the_Vuex.svg)](https://dev.to/przemyslawjanbeigert/template-literal-types-in-the-vuex-45kg)
 [![Minify private methods in a TypeScript class](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Minify_private_methods_in_a_TypeScript_class.svg)](https://dev.to/przemyslawjanbeigert/minify-private-methods-in-a-typescript-class-3kk4)
 [![GitHub - matiasvlevi/gptdoc: Generate JSDOC comments with OpenAI models.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_matiasvlevi_gptdoc__Generate_JSDOC_comments_with_OpenAI_models..svg)](https://github.com/matiasvlevi/gptdoc)
-[![rekwest](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/rekwest.svg)](https://www.npmjs.com/package/rekwest)
 
 
 <!-- post-list:end -->
