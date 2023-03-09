@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, March 9, 2023 at 5:18:26 AM
+> Last updated: Thursday, March 9, 2023 at 11:12:09 AM
 
 > Showing 5 of 12 posts.
 
-[![The History of Ecommerce: 1979 to 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_History_of_Ecommerce__1979_to_2023.svg)](https://dev.to/medusajs/the-history-of-ecommerce-1979-to-2023-2k9n)
-[![Data Breaches and Healthcare: Is India Lacking in Healthcare Data Security?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Data_Breaches_and_Healthcare__Is_India_Lacking_in_Healthcare_Data_Security_.svg)](https://dev.to/sierra_cyber/data-breaches-and-healthcare-is-india-lacking-in-healthcare-data-security-12la)
-[![How I improve my skills in Typescript #5 : Satisfies operator](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_I_improve_my_skills_in_Typescript__5___Satisfies_operator.svg)](https://dev.to/codeoz/how-i-improve-my-skills-in-typescript-5-satisfies-operator-2312)
-[![5 Essential Google Chrome Extension for Web Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Essential_Google_Chrome_Extension_for_Web_Developers.svg)](https://dev.to/surajondev/5-essential-google-chrome-extension-for-web-developers-4mpf)
-[![How to create a multistage Dockerfile](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_a_multistage_Dockerfile.svg)](https://dev.to/hshoja/how-to-create-a-multistage-dockerfile-16kl)
+[![Promoting Gender Equity and Inclusion in the Tech Industry and Beyond](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Promoting_Gender_Equity_and_Inclusion_in_the_Tech_Industry_and_Beyond.svg)](https://dev.to/kaviiiiisha/promoting-gender-equity-and-inclusion-in-the-tech-industry-and-beyond-28pk)
+[![When numbers don't make sense](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/When_numbers_don't_make_sense.svg)](https://dev.to/miguelmj/when-numbers-dont-make-sense-10gi)
+[![Announcing the Tracetest integration with Keptn, the control plane for cloud-native application life-cycle orchestration](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Announcing_the_Tracetest_integration_with_Keptn__the_control_plane_for_cloud-native_application_life-cycle_orchestration.svg)](https://dev.to/kubeshop/announcing-the-tracetest-integration-with-keptn-the-control-plane-for-cloud-native-application-life-cycle-orchestration-1i24)
+[![AI powered movie recommendations](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AI_powered_movie_recommendations.svg)](https://dev.to/bdougieyo/ai-powered-movie-recommendations-4h8m)
+[![Building with Next.js - part 4](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_with_Next.js_-_part_4.svg)](https://dev.to/this-is-learning/building-with-nextjs-part-4-2b08)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, March 9, 2023 at 5:18:31 AM
+> Last updated: Thursday, March 9, 2023 at 11:12:13 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, March 9, 2023 at 5:18:33 AM
+> Last updated: Thursday, March 9, 2023 at 11:12:16 AM
 
 > Showing 5 of 30 posts.
 
