@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, March 9, 2023 at 11:13:13 PM
+> Last updated: Friday, March 10, 2023 at 5:18:08 AM
 
 > Showing 5 of 12 posts.
 
-[![How to check if character is uppercase in Rust?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_check_if_character_is_uppercase_in_Rust_.svg)](https://dev.to/foxinfotech/how-to-check-if-character-is-uppercase-in-rust-1i3i)
-[![Module Federation in Production: architecture, development workflow, and deployments](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Module_Federation_in_Production__architecture__development_workflow__and_deployments.svg)](https://dev.to/burhanuday/module-federation-in-production-architecture-development-workflow-and-deployments-3ahf)
-[![Connecting AWS Lambda with Amazon RDS using AWS CDK and Node.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Connecting_AWS_Lambda_with_Amazon_RDS_using_AWS_CDK_and_Node.js.svg)](https://dev.to/aws-builders/connecting-aws-lambda-with-amazon-rds-using-aws-cdk-and-nodejs-55mj)
-[![HackTheChain](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/HackTheChain.svg)](https://dev.to/himanshuchittora23908/hackthechain-2ibl)
-[![Building Resilient Systems: Retry Pattern in Microservices](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_Resilient_Systems__Retry_Pattern_in_Microservices.svg)](https://dev.to/apoorvtyagi/building-resilient-systems-retry-pattern-in-microservices-1ngj)
+[![Introduction to ReactJS and its key features](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_to_ReactJS_and_its_key_features.svg)](https://dev.to/codewithsom/introduction-to-reactjs-and-its-key-features-4dii)
+[![Great GitHub repositories that developers love](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Great_GitHub_repositories_that_developers_love.svg)](https://dev.to/swordheath/great-github-repositories-that-developers-love-1g97)
+[![The Truth About CloudWatch Pricing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Truth_About_CloudWatch_Pricing.svg)](https://dev.to/cast_ai/the-truth-about-cloudwatch-pricing-1pgk)
+[![Two React Apps in a same S3 Bucket.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Two_React_Apps_in_a_same_S3_Bucket..svg)](https://dev.to/jorgeagoiz/two-react-apps-in-a-same-s3-bucket-4ado)
+[![This Week In Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/This_Week_In_Python.svg)](https://dev.to/bascodes/this-week-in-python-47jn)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, March 9, 2023 at 11:13:17 PM
+> Last updated: Friday, March 10, 2023 at 5:18:12 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, March 9, 2023 at 11:13:21 PM
+> Last updated: Friday, March 10, 2023 at 5:18:15 AM
 
 > Showing 5 of 30 posts.
 
