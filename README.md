@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, March 9, 2023 at 5:51:15 PM
+> Last updated: Thursday, March 9, 2023 at 11:13:13 PM
 
 > Showing 5 of 12 posts.
 
-[![Creating a tab component in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_a_tab_component_in_React.svg)](https://dev.to/michaelburrows/creating-a-tab-component-in-react-46hk)
-[![What is the best free background remover app?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_the_best_free_background_remover_app_.svg)](https://dev.to/aminezel/what-is-the-best-free-background-remover-ai-app-149c)
-[![Reinventing IBM | DevSecOps, AI, Quantum Computing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Reinventing_IBM___DevSecOps__AI__Quantum_Computing.svg)](https://dev.to/linearb/reinventing-ibm-devsecops-ai-quantum-computing-4nmo)
-[![Tech Equality Pledge: Educating, Mentoring, and Advocating for Change](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tech_Equality_Pledge__Educating__Mentoring__and_Advocating_for_Change.svg)](https://dev.to/geesilu/tech-equality-pledge-educating-mentoring-and-advocating-for-change-53k6)
-[![How to Build a Responsive Password Field Component using TailwindCSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Build_a_Responsive_Password_Field_Component_using_TailwindCSS.svg)](https://dev.to/mbianoubradon/how-to-build-a-responsive-password-field-component-using-tailwindcss-75p)
+[![How to check if character is uppercase in Rust?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_check_if_character_is_uppercase_in_Rust_.svg)](https://dev.to/foxinfotech/how-to-check-if-character-is-uppercase-in-rust-1i3i)
+[![Module Federation in Production: architecture, development workflow, and deployments](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Module_Federation_in_Production__architecture__development_workflow__and_deployments.svg)](https://dev.to/burhanuday/module-federation-in-production-architecture-development-workflow-and-deployments-3ahf)
+[![Connecting AWS Lambda with Amazon RDS using AWS CDK and Node.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Connecting_AWS_Lambda_with_Amazon_RDS_using_AWS_CDK_and_Node.js.svg)](https://dev.to/aws-builders/connecting-aws-lambda-with-amazon-rds-using-aws-cdk-and-nodejs-55mj)
+[![HackTheChain](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/HackTheChain.svg)](https://dev.to/himanshuchittora23908/hackthechain-2ibl)
+[![Building Resilient Systems: Retry Pattern in Microservices](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_Resilient_Systems__Retry_Pattern_in_Microservices.svg)](https://dev.to/apoorvtyagi/building-resilient-systems-retry-pattern-in-microservices-1ngj)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, March 9, 2023 at 5:51:19 PM
+> Last updated: Thursday, March 9, 2023 at 11:13:17 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, March 9, 2023 at 5:51:22 PM
+> Last updated: Thursday, March 9, 2023 at 11:13:21 PM
 
 > Showing 5 of 30 posts.
 
+[![Running the Latest Safari WebKit on Windows](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Running_the_Latest_Safari_WebKit_on_Windows.svg)](https://dev.to/dustinbrett/running-the-latest-safari-webkit-on-windows-33pb)
+[![GitHub - ptrumpis/snap-camera-server: Host your own Snap Camera server after the shutdown on January 25, 2023.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ptrumpis_snap-camera-server__Host_your_own_Snap_Camera_server_after_the_shutdown_on_January_25__2023..svg)](https://github.com/ptrumpis/snap-camera-server)
 [![Build Node.JS Chat App with WebSocket, Node.js Cluster and Redis](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_Node.JS_Chat_App_with_WebSocket__Node.js_Cluster_and_Redis.svg)](https://metered.hashnode.dev/build-nodejs-chat-app-with-websocket-nodejs-cluster-and-redis)
 [![How to Improve React Native Performance - Semaphore](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Improve_React_Native_Performance_-_Semaphore.svg)](https://semaphoreci.com/blog/react-native-performance)
 [![The Nullish Coalescing Operator ?? in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Nullish_Coalescing_Operator____in_JavaScript.svg)](
 https://masteringjs.io/tutorials/fundamentals/nullish-coalescing
 )
-[![Template literal types in the Vuex](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Template_literal_types_in_the_Vuex.svg)](https://dev.to/przemyslawjanbeigert/template-literal-types-in-the-vuex-45kg)
-[![Minify private methods in a TypeScript class](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Minify_private_methods_in_a_TypeScript_class.svg)](https://dev.to/przemyslawjanbeigert/minify-private-methods-in-a-typescript-class-3kk4)
 
 
 <!-- post-list:end -->
