@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, March 10, 2023 at 5:18:08 AM
+> Last updated: Friday, March 10, 2023 at 11:10:48 AM
 
 > Showing 5 of 12 posts.
 
-[![Introduction to ReactJS and its key features](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_to_ReactJS_and_its_key_features.svg)](https://dev.to/codewithsom/introduction-to-reactjs-and-its-key-features-4dii)
-[![Great GitHub repositories that developers love](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Great_GitHub_repositories_that_developers_love.svg)](https://dev.to/swordheath/great-github-repositories-that-developers-love-1g97)
-[![The Truth About CloudWatch Pricing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Truth_About_CloudWatch_Pricing.svg)](https://dev.to/cast_ai/the-truth-about-cloudwatch-pricing-1pgk)
-[![Two React Apps in a same S3 Bucket.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Two_React_Apps_in_a_same_S3_Bucket..svg)](https://dev.to/jorgeagoiz/two-react-apps-in-a-same-s3-bucket-4ado)
-[![This Week In Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/This_Week_In_Python.svg)](https://dev.to/bascodes/this-week-in-python-47jn)
+[![What does effective advocacy look like?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_does_effective_advocacy_look_like_.svg)](https://dev.to/devteam/what-does-effective-advocacy-look-like-5cnh)
+[![Boosting Woman Participation in Open Source Projects: A Beginner's Guide to Contributing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Boosting_Woman_Participation_in_Open_Source_Projects__A_Beginner's_Guide_to_Contributing.svg)](https://dev.to/dellamora/boosting-woman-participation-in-open-source-projects-a-beginners-guide-to-contributing-5g49)
+[![Starting as a Hashnode blogger](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Starting_as_a_Hashnode_blogger.svg)](https://dev.to/vulcanwm/starting-as-a-hashnode-blogger-3d6)
+[![Blobby image animation in CSS 🦠](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Blobby_image_animation_in_CSS_🦠.svg)](https://dev.to/bryce/blobby-image-animation-in-css-5d3o)
+[![How to use SolidJS library with ReactJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_SolidJS_library_with_ReactJS.svg)](https://dev.to/dbarabashdev/how-to-use-solidjs-library-with-reactjs-and-typescript-202e)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, March 10, 2023 at 5:18:12 AM
+> Last updated: Friday, March 10, 2023 at 11:10:51 AM
 
 > Showing 4 of 4 posts.
 
+[![New JavaScript features of the past few years](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/New_JavaScript_features_of_the_past_few_years.svg)](https://javascriptweekly.com/issues/629)
 [![Garbage collector experiments](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Garbage_collector_experiments.svg)](https://javascriptweekly.com/issues/628)
 [![ECMAScript 2023 for President](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/ECMAScript_2023_for_President.svg)](https://javascriptweekly.com/issues/627)
 [![JavaScript sans build systems?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/JavaScript_sans_build_systems_.svg)](https://javascriptweekly.com/issues/626)
-[![Bringing JavaScript to WebAssembly](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Bringing_JavaScript_to_WebAssembly.svg)](https://javascriptweekly.com/issues/625)
 
 
 ## Echo JS
@@ -43,17 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, March 10, 2023 at 5:18:15 AM
+> Last updated: Friday, March 10, 2023 at 11:10:54 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - bitair-org/concurrent.js: Easy Multithreading for JavaScript (Node.js, Deno & Browser)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_bitair-org_concurrent.js__Easy_Multithreading_for_JavaScript_(Node.js__Deno___Browser).svg)](https://github.com/bitair-org/concurrent.js)
 [![Running the Latest Safari WebKit on Windows](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Running_the_Latest_Safari_WebKit_on_Windows.svg)](https://dev.to/dustinbrett/running-the-latest-safari-webkit-on-windows-33pb)
 [![GitHub - ptrumpis/snap-camera-server: Host your own Snap Camera server after the shutdown on January 25, 2023.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ptrumpis_snap-camera-server__Host_your_own_Snap_Camera_server_after_the_shutdown_on_January_25__2023..svg)](https://github.com/ptrumpis/snap-camera-server)
 [![Build Node.JS Chat App with WebSocket, Node.js Cluster and Redis](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_Node.JS_Chat_App_with_WebSocket__Node.js_Cluster_and_Redis.svg)](https://metered.hashnode.dev/build-nodejs-chat-app-with-websocket-nodejs-cluster-and-redis)
 [![How to Improve React Native Performance - Semaphore](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Improve_React_Native_Performance_-_Semaphore.svg)](https://semaphoreci.com/blog/react-native-performance)
-[![The Nullish Coalescing Operator ?? in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Nullish_Coalescing_Operator____in_JavaScript.svg)](
-https://masteringjs.io/tutorials/fundamentals/nullish-coalescing
-)
 
 
 <!-- post-list:end -->
