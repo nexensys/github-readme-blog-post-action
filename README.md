@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, March 9, 2023 at 11:12:09 AM
+> Last updated: Thursday, March 9, 2023 at 5:51:15 PM
 
 > Showing 5 of 12 posts.
 
-[![Promoting Gender Equity and Inclusion in the Tech Industry and Beyond](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Promoting_Gender_Equity_and_Inclusion_in_the_Tech_Industry_and_Beyond.svg)](https://dev.to/kaviiiiisha/promoting-gender-equity-and-inclusion-in-the-tech-industry-and-beyond-28pk)
-[![When numbers don't make sense](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/When_numbers_don't_make_sense.svg)](https://dev.to/miguelmj/when-numbers-dont-make-sense-10gi)
-[![Announcing the Tracetest integration with Keptn, the control plane for cloud-native application life-cycle orchestration](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Announcing_the_Tracetest_integration_with_Keptn__the_control_plane_for_cloud-native_application_life-cycle_orchestration.svg)](https://dev.to/kubeshop/announcing-the-tracetest-integration-with-keptn-the-control-plane-for-cloud-native-application-life-cycle-orchestration-1i24)
-[![AI powered movie recommendations](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AI_powered_movie_recommendations.svg)](https://dev.to/bdougieyo/ai-powered-movie-recommendations-4h8m)
-[![Building with Next.js - part 4](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_with_Next.js_-_part_4.svg)](https://dev.to/this-is-learning/building-with-nextjs-part-4-2b08)
+[![Creating a tab component in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_a_tab_component_in_React.svg)](https://dev.to/michaelburrows/creating-a-tab-component-in-react-46hk)
+[![What is the best free background remover app?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_the_best_free_background_remover_app_.svg)](https://dev.to/aminezel/what-is-the-best-free-background-remover-ai-app-149c)
+[![Reinventing IBM | DevSecOps, AI, Quantum Computing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Reinventing_IBM___DevSecOps__AI__Quantum_Computing.svg)](https://dev.to/linearb/reinventing-ibm-devsecops-ai-quantum-computing-4nmo)
+[![Tech Equality Pledge: Educating, Mentoring, and Advocating for Change](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tech_Equality_Pledge__Educating__Mentoring__and_Advocating_for_Change.svg)](https://dev.to/geesilu/tech-equality-pledge-educating-mentoring-and-advocating-for-change-53k6)
+[![How to Build a Responsive Password Field Component using TailwindCSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Build_a_Responsive_Password_Field_Component_using_TailwindCSS.svg)](https://dev.to/mbianoubradon/how-to-build-a-responsive-password-field-component-using-tailwindcss-75p)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, March 9, 2023 at 11:12:13 AM
+> Last updated: Thursday, March 9, 2023 at 5:51:19 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, March 9, 2023 at 11:12:16 AM
+> Last updated: Thursday, March 9, 2023 at 5:51:22 PM
 
 > Showing 5 of 30 posts.
 
+[![Build Node.JS Chat App with WebSocket, Node.js Cluster and Redis](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_Node.JS_Chat_App_with_WebSocket__Node.js_Cluster_and_Redis.svg)](https://metered.hashnode.dev/build-nodejs-chat-app-with-websocket-nodejs-cluster-and-redis)
 [![How to Improve React Native Performance - Semaphore](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Improve_React_Native_Performance_-_Semaphore.svg)](https://semaphoreci.com/blog/react-native-performance)
 [![The Nullish Coalescing Operator ?? in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Nullish_Coalescing_Operator____in_JavaScript.svg)](
 https://masteringjs.io/tutorials/fundamentals/nullish-coalescing
 )
 [![Template literal types in the Vuex](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Template_literal_types_in_the_Vuex.svg)](https://dev.to/przemyslawjanbeigert/template-literal-types-in-the-vuex-45kg)
 [![Minify private methods in a TypeScript class](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Minify_private_methods_in_a_TypeScript_class.svg)](https://dev.to/przemyslawjanbeigert/minify-private-methods-in-a-typescript-class-3kk4)
-[![GitHub - matiasvlevi/gptdoc: Generate JSDOC comments with OpenAI models.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_matiasvlevi_gptdoc__Generate_JSDOC_comments_with_OpenAI_models..svg)](https://github.com/matiasvlevi/gptdoc)
 
 
 <!-- post-list:end -->
