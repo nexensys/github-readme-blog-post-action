@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, March 10, 2023 at 11:10:48 AM
+> Last updated: Friday, March 10, 2023 at 5:42:46 PM
 
 > Showing 5 of 12 posts.
 
-[![What does effective advocacy look like?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_does_effective_advocacy_look_like_.svg)](https://dev.to/devteam/what-does-effective-advocacy-look-like-5cnh)
-[![Boosting Woman Participation in Open Source Projects: A Beginner's Guide to Contributing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Boosting_Woman_Participation_in_Open_Source_Projects__A_Beginner's_Guide_to_Contributing.svg)](https://dev.to/dellamora/boosting-woman-participation-in-open-source-projects-a-beginners-guide-to-contributing-5g49)
-[![Starting as a Hashnode blogger](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Starting_as_a_Hashnode_blogger.svg)](https://dev.to/vulcanwm/starting-as-a-hashnode-blogger-3d6)
-[![Blobby image animation in CSS 🦠](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Blobby_image_animation_in_CSS_🦠.svg)](https://dev.to/bryce/blobby-image-animation-in-css-5d3o)
-[![How to use SolidJS library with ReactJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_SolidJS_library_with_ReactJS.svg)](https://dev.to/dbarabashdev/how-to-use-solidjs-library-with-reactjs-and-typescript-202e)
+[![Confidential Optical Character Recognition Service With Cape](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Confidential_Optical_Character_Recognition_Service_With_Cape.svg)](https://dev.to/yanndupis/confidential-optical-character-recognition-service-with-cape-3kha)
+[![🤖📈 How TweetHunter Used NLP to Build a Successful Startup 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🤖📈_How_TweetHunter_Used_NLP_to_Build_a_Successful_Startup_🚀.svg)](https://dev.to/teodeleanu/how-tweethunter-used-nlp-to-build-a-successful-startup-21ec)
+[![A humble call for newbies in #wecoded](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_humble_call_for_newbies_in__wecoded.svg)](https://dev.to/codenewbieteam/a-humble-call-for-newbies-in-wecoded-3mho)
+[![minSdk vs targetSdk vs compileSdk](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/minSdk_vs_targetSdk_vs_compileSdk.svg)](https://dev.to/vtsen/minsdk-vs-targetsdk-vs-compilesdk-d21)
+[![SPVM now supports object-oriented programming in Perl](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/SPVM_now_supports_object-oriented_programming_in_Perl.svg)](https://dev.to/yukikimoto/spvm-now-supports-object-oriented-programming-in-perl-5ghp)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, March 10, 2023 at 11:10:51 AM
+> Last updated: Friday, March 10, 2023 at 5:42:49 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, March 10, 2023 at 11:10:54 AM
+> Last updated: Friday, March 10, 2023 at 5:42:52 PM
 
 > Showing 5 of 30 posts.
 
