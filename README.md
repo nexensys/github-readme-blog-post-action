@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, March 10, 2023 at 5:42:46 PM
+> Last updated: Friday, March 10, 2023 at 11:10:53 PM
 
 > Showing 5 of 12 posts.
 
-[![Confidential Optical Character Recognition Service With Cape](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Confidential_Optical_Character_Recognition_Service_With_Cape.svg)](https://dev.to/yanndupis/confidential-optical-character-recognition-service-with-cape-3kha)
-[![🤖📈 How TweetHunter Used NLP to Build a Successful Startup 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🤖📈_How_TweetHunter_Used_NLP_to_Build_a_Successful_Startup_🚀.svg)](https://dev.to/teodeleanu/how-tweethunter-used-nlp-to-build-a-successful-startup-21ec)
-[![A humble call for newbies in #wecoded](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_humble_call_for_newbies_in__wecoded.svg)](https://dev.to/codenewbieteam/a-humble-call-for-newbies-in-wecoded-3mho)
-[![minSdk vs targetSdk vs compileSdk](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/minSdk_vs_targetSdk_vs_compileSdk.svg)](https://dev.to/vtsen/minsdk-vs-targetsdk-vs-compilesdk-d21)
-[![SPVM now supports object-oriented programming in Perl](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/SPVM_now_supports_object-oriented_programming_in_Perl.svg)](https://dev.to/yukikimoto/spvm-now-supports-object-oriented-programming-in-perl-5ghp)
+[![A Developer’s Guide to Avoiding the Pitfalls of Exposing the Domain Layer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Developer’s_Guide_to_Avoiding_the_Pitfalls_of_Exposing_the_Domain_Layer.svg)](https://dev.to/manojlingala/a-developers-guide-to-avoiding-the-pitfalls-of-exposing-the-domain-layer-5clg)
+[![How to remove a property from an object in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_remove_a_property_from_an_object_in_JavaScript.svg)](https://dev.to/david_bilsonn/how-to-remove-a-property-from-an-object-in-javascript-bcg)
+[![A Beginner's Guide to Vault: Understanding Secrets, Credentials, and Secure Data Management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Beginner's_Guide_to_Vault__Understanding_Secrets__Credentials__and_Secure_Data_Management.svg)](https://dev.to/xlmriosx/a-beginners-guide-to-vault-understanding-secrets-credentials-and-secure-data-management-4a77)
+[![Selfhosted NodeJS ChatGPT Discord Bot](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Selfhosted_NodeJS_ChatGPT_Discord_Bot.svg)](https://dev.to/gbti/selfhosted-nodejs-chatgpt-discord-bot-2fel)
+[![Middleware in nest.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Middleware_in_nest.js.svg)](https://dev.to/djibrilm/middleware-in-nestjs-5hka)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, March 10, 2023 at 5:42:49 PM
+> Last updated: Friday, March 10, 2023 at 11:10:56 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, March 10, 2023 at 5:42:52 PM
+> Last updated: Friday, March 10, 2023 at 11:11:01 PM
 
 > Showing 5 of 30 posts.
 
