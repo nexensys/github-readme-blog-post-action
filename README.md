@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, March 10, 2023 at 11:10:53 PM
+> Last updated: Saturday, March 11, 2023 at 5:15:04 AM
 
 > Showing 5 of 12 posts.
 
-[![A Developer’s Guide to Avoiding the Pitfalls of Exposing the Domain Layer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Developer’s_Guide_to_Avoiding_the_Pitfalls_of_Exposing_the_Domain_Layer.svg)](https://dev.to/manojlingala/a-developers-guide-to-avoiding-the-pitfalls-of-exposing-the-domain-layer-5clg)
-[![How to remove a property from an object in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_remove_a_property_from_an_object_in_JavaScript.svg)](https://dev.to/david_bilsonn/how-to-remove-a-property-from-an-object-in-javascript-bcg)
-[![A Beginner's Guide to Vault: Understanding Secrets, Credentials, and Secure Data Management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Beginner's_Guide_to_Vault__Understanding_Secrets__Credentials__and_Secure_Data_Management.svg)](https://dev.to/xlmriosx/a-beginners-guide-to-vault-understanding-secrets-credentials-and-secure-data-management-4a77)
-[![Selfhosted NodeJS ChatGPT Discord Bot](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Selfhosted_NodeJS_ChatGPT_Discord_Bot.svg)](https://dev.to/gbti/selfhosted-nodejs-chatgpt-discord-bot-2fel)
-[![Middleware in nest.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Middleware_in_nest.js.svg)](https://dev.to/djibrilm/middleware-in-nestjs-5hka)
+[![✨ETH Dubai 2023 MetaMask SDK Developer Guide✨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/✨ETH_Dubai_2023_MetaMask_SDK_Developer_Guide✨.svg)](https://dev.to/metamask/eth-dubai-2023-metamask-sdk-developer-guide-e9a)
+[![Custom Converters in DynamoDB: Building Robust Data Models with Ease](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Custom_Converters_in_DynamoDB__Building_Robust_Data_Models_with_Ease.svg)](https://dev.to/manojlingala/custom-converters-in-dynamodb-building-robust-data-models-with-ease-4a5c)
+[![The Language We Use Matters](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Language_We_Use_Matters.svg)](https://dev.to/eevajonnapanula/the-language-we-use-matters-9mn)
+[![Automate Docker Image Builds and Push to GitHub Registry Using GitHub Actions 🐙](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Automate_Docker_Image_Builds_and_Push_to_GitHub_Registry_Using_GitHub_Actions_🐙.svg)](https://dev.to/ken_mwaura1/automate-docker-image-builds-and-push-to-github-registry-using-github-actions-4h20)
+[![How to Build Responsive Users Card Using TailwindCSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Build_Responsive_Users_Card_Using_TailwindCSS.svg)](https://dev.to/mbianoubradon/how-to-build-responsive-users-card-using-tailwindcss-d40)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, March 10, 2023 at 11:10:56 PM
+> Last updated: Saturday, March 11, 2023 at 5:15:08 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, March 10, 2023 at 11:11:01 PM
+> Last updated: Saturday, March 11, 2023 at 5:15:12 AM
 
 > Showing 5 of 30 posts.
 
