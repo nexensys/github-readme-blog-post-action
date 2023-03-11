@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, March 11, 2023 at 5:15:04 AM
+> Last updated: Saturday, March 11, 2023 at 11:10:02 AM
 
 > Showing 5 of 12 posts.
 
-[![✨ETH Dubai 2023 MetaMask SDK Developer Guide✨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/✨ETH_Dubai_2023_MetaMask_SDK_Developer_Guide✨.svg)](https://dev.to/metamask/eth-dubai-2023-metamask-sdk-developer-guide-e9a)
-[![Custom Converters in DynamoDB: Building Robust Data Models with Ease](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Custom_Converters_in_DynamoDB__Building_Robust_Data_Models_with_Ease.svg)](https://dev.to/manojlingala/custom-converters-in-dynamodb-building-robust-data-models-with-ease-4a5c)
-[![The Language We Use Matters](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Language_We_Use_Matters.svg)](https://dev.to/eevajonnapanula/the-language-we-use-matters-9mn)
-[![Automate Docker Image Builds and Push to GitHub Registry Using GitHub Actions 🐙](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Automate_Docker_Image_Builds_and_Push_to_GitHub_Registry_Using_GitHub_Actions_🐙.svg)](https://dev.to/ken_mwaura1/automate-docker-image-builds-and-push-to-github-registry-using-github-actions-4h20)
-[![How to Build Responsive Users Card Using TailwindCSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Build_Responsive_Users_Card_Using_TailwindCSS.svg)](https://dev.to/mbianoubradon/how-to-build-responsive-users-card-using-tailwindcss-d40)
+[![Stahhp Screening for TLDs in Your Email Fields](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Stahhp_Screening_for_TLDs_in_Your_Email_Fields.svg)](https://dev.to/bytebodger/stahhp-screening-for-tlds-in-your-email-fields-585l)
+[![#4: Median of Two Sorted Arrays](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_4__Median_of_Two_Sorted_Arrays.svg)](https://dev.to/jd2r/4-median-of-two-sorted-arrays-4bc6)
+[![Development environment for the Python requests package](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Development_environment_for_the_Python_requests_package.svg)](https://dev.to/szabgab/development-environment-for-the-python-requests-package-eae)
+[![How to make the Google reCAPTCHA responsive?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_make_the_Google_reCAPTCHA_responsive_.svg)](https://dev.to/connectaryal/how-to-make-the-google-recaptcha-responsive-1fod)
+[![The Basics of Querying with Cypher in PostgreSQL using Apache Age](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Basics_of_Querying_with_Cypher_in_PostgreSQL_using_Apache_Age.svg)](https://dev.to/xk_woon/the-basics-of-querying-with-cypher-in-postgresql-using-apache-age-43p1)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, March 11, 2023 at 5:15:08 AM
+> Last updated: Saturday, March 11, 2023 at 11:10:05 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, March 11, 2023 at 5:15:12 AM
+> Last updated: Saturday, March 11, 2023 at 11:10:12 AM
 
 > Showing 5 of 30 posts.
 
