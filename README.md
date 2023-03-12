@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, March 11, 2023 at 11:10:59 PM
+> Last updated: Sunday, March 12, 2023 at 6:15:13 AM
 
 > Showing 5 of 12 posts.
 
-[![HackerRank SQL Basic Select](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/HackerRank_SQL_Basic_Select.svg)](https://dev.to/spiffyeight77/hackerrank-sql-basic-select-1dj5)
-[![Terminal Tips & Tricks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Terminal_Tips___Tricks.svg)](https://dev.to/topher2014/terminal-tips-tricks-h9n)
-[![Connect Four Terminal Game](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Connect_Four_Terminal_Game.svg)](https://dev.to/ma5hti/connect-four-terminal-game-2nl1)
-[![Java CRUD Rest API using Spring Boot, Hibernate, Postgres, Docker and Docker Compose](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Java_CRUD_Rest_API_using_Spring_Boot__Hibernate__Postgres__Docker_and_Docker_Compose.svg)](https://dev.to/francescoxx/java-crud-rest-api-using-spring-boot-hibernate-postgres-docker-and-docker-compose-5cln)
-[![build resilient applications accessing Azure services with no code.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/build_resilient_applications_accessing_Azure_services_with_no_code..svg)](https://dev.to/gkarwchan/build-resilient-applications-accessing-azure-services-with-no-code-48hn)
+[![What is RedwoodJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_RedwoodJS.svg)](https://dev.to/abhixsh/what-is-redwoodjs-1gf3)
+[![How to create a calendar in Vue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_a_calendar_in_Vue.svg)](https://dev.to/owais11art/how-to-create-a-calendar-in-vue-4m0k)
+[![Auto Deploy to AWS App Runner using AWS CDK and Azure DevOps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Auto_Deploy_to_AWS_App_Runner_using_AWS_CDK_and_Azure_DevOps.svg)](https://dev.to/aws-builders/auto-deploy-to-aws-app-runner-using-aws-cdk-and-azure-devops-1jbp)
+[![Creating a Mouse Tracking Eye Effect With JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_a_Mouse_Tracking_Eye_Effect_With_JavaScript.svg)](https://dev.to/salehmubashar/creating-a-mouse-tracking-eye-effect-with-javascript-31i9)
+[![Essential SQL Commands for Data Science](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Essential_SQL_Commands_for_Data_Science.svg)](https://dev.to/perekamoyo21/essential-sql-commands-for-data-science-284g)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, March 11, 2023 at 11:11:03 PM
+> Last updated: Sunday, March 12, 2023 at 6:15:16 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,12 +43,12 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, March 11, 2023 at 11:11:07 PM
+> Last updated: Sunday, March 12, 2023 at 6:15:19 AM
 
 > Showing 5 of 30 posts.
 
 [![Shell-free scripts with Execa 7](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Shell-free_scripts_with_Execa_7.svg)](https://medium.com/@ehmicky/shell-free-scripts-with-execa-7-885fb3b42f83)
-[![GitHub - bitair-org/concurrent.js: Easy Multithreading for JavaScript (Node.js, Deno & Browser)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_bitair-org_concurrent.js__Easy_Multithreading_for_JavaScript_(Node.js__Deno___Browser).svg)](https://github.com/bitair-org/concurrent.js)
+[![GitHub - bitair-org/concurrent.js: Easy Multithreading for Non-blocking Parallel Computation (Node.js, Deno & Browser)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_bitair-org_concurrent.js__Easy_Multithreading_for_Non-blocking_Parallel_Computation_(Node.js__Deno___Browser).svg)](https://github.com/bitair-org/concurrent.js)
 [![Running the Latest Safari WebKit on Windows](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Running_the_Latest_Safari_WebKit_on_Windows.svg)](https://dev.to/dustinbrett/running-the-latest-safari-webkit-on-windows-33pb)
 [![GitHub - ptrumpis/snap-camera-server: Host your own Snap Camera server after the shutdown on January 25, 2023.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ptrumpis_snap-camera-server__Host_your_own_Snap_Camera_server_after_the_shutdown_on_January_25__2023..svg)](https://github.com/ptrumpis/snap-camera-server)
 [![Build Node.JS Chat App with WebSocket, Node.js Cluster and Redis](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_Node.JS_Chat_App_with_WebSocket__Node.js_Cluster_and_Redis.svg)](https://metered.hashnode.dev/build-nodejs-chat-app-with-websocket-nodejs-cluster-and-redis)
