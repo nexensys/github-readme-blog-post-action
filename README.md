@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, March 12, 2023 at 6:15:13 AM
+> Last updated: Sunday, March 12, 2023 at 12:10:26 PM
 
 > Showing 5 of 12 posts.
 
-[![What is RedwoodJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_RedwoodJS.svg)](https://dev.to/abhixsh/what-is-redwoodjs-1gf3)
-[![How to create a calendar in Vue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_a_calendar_in_Vue.svg)](https://dev.to/owais11art/how-to-create-a-calendar-in-vue-4m0k)
-[![Auto Deploy to AWS App Runner using AWS CDK and Azure DevOps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Auto_Deploy_to_AWS_App_Runner_using_AWS_CDK_and_Azure_DevOps.svg)](https://dev.to/aws-builders/auto-deploy-to-aws-app-runner-using-aws-cdk-and-azure-devops-1jbp)
-[![Creating a Mouse Tracking Eye Effect With JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_a_Mouse_Tracking_Eye_Effect_With_JavaScript.svg)](https://dev.to/salehmubashar/creating-a-mouse-tracking-eye-effect-with-javascript-31i9)
-[![Essential SQL Commands for Data Science](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Essential_SQL_Commands_for_Data_Science.svg)](https://dev.to/perekamoyo21/essential-sql-commands-for-data-science-284g)
+[![Code a bus schedule CLI with Node.js and Python [ + Sqlite3 ]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Code_a_bus_schedule_CLI_with_Node.js_and_Python_[_+_Sqlite3_].svg)](https://dev.to/bekbrace/code-a-bus-schedule-cli-with-nodejs-and-python-sqlite3--6nn)
+[![Install jupyter notebook](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Install_jupyter_notebook.svg)](https://dev.to/max24816/install-jupyter-notebook-1cm0)
+[![🚀 Check out useReducer!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🚀_Check_out_useReducer!.svg)](https://dev.to/seeratawan01/check-out-usereducer-1ba3)
+[![How to test Next.js app with svg imports as component using vitest?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_test_Next.js_app_with_svg_imports_as_component_using_vitest_.svg)](https://dev.to/mayank1513/how-to-test-nextjs-app-with-svg-imports-as-component-using-vitest-3idi)
+[![Why Webpack Remains a Powerful Choice for Front-End Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_Webpack_Remains_a_Powerful_Choice_for_Front-End_Development.svg)](https://dev.to/fritzlolpro/why-webpack-remains-a-powerful-choice-for-front-end-development-mc2)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, March 12, 2023 at 6:15:16 AM
+> Last updated: Sunday, March 12, 2023 at 12:10:29 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, March 12, 2023 at 6:15:19 AM
+> Last updated: Sunday, March 12, 2023 at 12:10:33 PM
 
 > Showing 5 of 30 posts.
 
