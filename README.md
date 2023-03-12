@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, March 11, 2023 at 5:51:55 PM
+> Last updated: Saturday, March 11, 2023 at 11:10:59 PM
 
 > Showing 5 of 12 posts.
 
-[![Rendering Twig templates in Storybook](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Rendering_Twig_templates_in_Storybook.svg)](https://dev.to/gromnan/storybook-with-server-side-twig-components-easy-43ii)
-[![Implementing Tic Tac Toe in Vue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Implementing_Tic_Tac_Toe_in_Vue.svg)](https://dev.to/diseyi/implementing-tic-tac-toe-in-vue-57go)
-[![A Journey Towards a More Accessible and Inclusive Web.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Journey_Towards_a_More_Accessible_and_Inclusive_Web..svg)](https://dev.to/wiseai/a-journey-towards-a-more-accessible-and-inclusive-web-1ad5)
-[![Manage AWS services directly from Kubernetes ☸️](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Manage_AWS_services_directly_from_Kubernetes_☸️.svg)](https://dev.to/aws-builders/manage-aws-services-directly-from-kubernetes-1183)
-[![Mastering Eager Loading and Beyond! Rails 7](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_Eager_Loading_and_Beyond!_Rails_7.svg)](https://dev.to/ahmadraza/mastering-eager-loading-and-beyond-rails-7-5eie)
+[![HackerRank SQL Basic Select](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/HackerRank_SQL_Basic_Select.svg)](https://dev.to/spiffyeight77/hackerrank-sql-basic-select-1dj5)
+[![Terminal Tips & Tricks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Terminal_Tips___Tricks.svg)](https://dev.to/topher2014/terminal-tips-tricks-h9n)
+[![Connect Four Terminal Game](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Connect_Four_Terminal_Game.svg)](https://dev.to/ma5hti/connect-four-terminal-game-2nl1)
+[![Java CRUD Rest API using Spring Boot, Hibernate, Postgres, Docker and Docker Compose](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Java_CRUD_Rest_API_using_Spring_Boot__Hibernate__Postgres__Docker_and_Docker_Compose.svg)](https://dev.to/francescoxx/java-crud-rest-api-using-spring-boot-hibernate-postgres-docker-and-docker-compose-5cln)
+[![build resilient applications accessing Azure services with no code.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/build_resilient_applications_accessing_Azure_services_with_no_code..svg)](https://dev.to/gkarwchan/build-resilient-applications-accessing-azure-services-with-no-code-48hn)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, March 11, 2023 at 5:51:58 PM
+> Last updated: Saturday, March 11, 2023 at 11:11:03 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, March 11, 2023 at 5:52:01 PM
+> Last updated: Saturday, March 11, 2023 at 11:11:07 PM
 
 > Showing 5 of 30 posts.
 
