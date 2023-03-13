@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, March 12, 2023 at 6:47:38 PM
+> Last updated: Monday, March 13, 2023 at 12:12:35 AM
 
 > Showing 5 of 12 posts.
 
-[![My Coding Journey So Far....](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_Coding_Journey_So_Far.....svg)](https://dev.to/blessing0024/my-coding-journey-so-far-2p8l)
-[![AWS and the 12 Factor App Methodology: Maximizing Efficiency and Scalability](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_and_the_12_Factor_App_Methodology__Maximizing_Efficiency_and_Scalability.svg)](https://dev.to/aws-builders/aws-and-the-12-factor-app-methodology-maximizing-efficiency-and-scalability-1cb6)
-[![TypeScript Mapped Union Type](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/TypeScript_Mapped_Union_Type.svg)](https://dev.to/nartc/typescript-mapped-union-type-haf)
-[![Docusaurus: Create your project documentation simply and efficiently!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Docusaurus__Create_your_project_documentation_simply_and_efficiently!.svg)](https://dev.to/jlgjosue/docusaurus-create-your-project-documentation-simply-and-efficiently-4edp)
-[![Moving from classic Linux distro to ChromeOS Flex? Here was what I found <🪲>](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Moving_from_classic_Linux_distro_to_ChromeOS_Flex__Here_was_what_I_found__🪲_.svg)](https://dev.to/hunghvu/moving-from-classic-linux-distro-to-chromeos-flex-here-was-what-i-found--eek)
+[![AWS open source newsletter, #148](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_open_source_newsletter___148.svg)](https://dev.to/aws/aws-open-source-newsletter-148-5h2b)
+[![Excellent solution for React Native charting in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Excellent_solution_for_React_Native_charting_in_2023.svg)](https://dev.to/zhiqingchen/excellent-solution-for-react-native-charting-in-2023-3k07)
+[![My Nim Development Weekly Report (3/12)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_Nim_Development_Weekly_Report_(3_12).svg)](https://dev.to/ringabout/my-nim-development-weekly-report-312-1343)
+[![Introduction to Database transaction, Read phenomenom and isolation level using Sequelize ORM](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_to_Database_transaction__Read_phenomenom_and_isolation_level_using_Sequelize_ORM.svg)](https://dev.to/niyiojeyinka/introduction-to-database-transaction-read-phenomenom-and-isolation-level-using-sequelize-orm-dh1)
+[![SOLID Principles: Explained with Golang Examples](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/SOLID_Principles__Explained_with_Golang_Examples.svg)](https://dev.to/ansu/solid-principles-explained-with-golang-examples-5eh)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, March 12, 2023 at 6:47:42 PM
+> Last updated: Monday, March 13, 2023 at 12:12:38 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, March 12, 2023 at 6:47:45 PM
+> Last updated: Monday, March 13, 2023 at 12:12:40 AM
 
 > Showing 5 of 30 posts.
 
+[![Excellent solution for React Native charting in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Excellent_solution_for_React_Native_charting_in_2023.svg)](https://medium.com/@chenzhiqing/excellent-solutions-for-react-native-charting-in-2023-8af776307351)
 [![Shell-free scripts with Execa 7](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Shell-free_scripts_with_Execa_7.svg)](https://medium.com/@ehmicky/shell-free-scripts-with-execa-7-885fb3b42f83)
 [![GitHub - bitair-org/concurrent.js: Easy Multithreading for Non-blocking Parallel Computation (Node.js, Deno & Browser)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_bitair-org_concurrent.js__Easy_Multithreading_for_Non-blocking_Parallel_Computation_(Node.js__Deno___Browser).svg)](https://github.com/bitair-org/concurrent.js)
 [![Running the Latest Safari WebKit on Windows](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Running_the_Latest_Safari_WebKit_on_Windows.svg)](https://dev.to/dustinbrett/running-the-latest-safari-webkit-on-windows-33pb)
 [![GitHub - ptrumpis/snap-camera-server: Host your own Snap Camera server after the shutdown on January 25, 2023.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ptrumpis_snap-camera-server__Host_your_own_Snap_Camera_server_after_the_shutdown_on_January_25__2023..svg)](https://github.com/ptrumpis/snap-camera-server)
-[![Build Node.JS Chat App with WebSocket, Node.js Cluster and Redis](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_Node.JS_Chat_App_with_WebSocket__Node.js_Cluster_and_Redis.svg)](https://metered.hashnode.dev/build-nodejs-chat-app-with-websocket-nodejs-cluster-and-redis)
 
 
 <!-- post-list:end -->
