@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, March 13, 2023 at 12:12:35 AM
+> Last updated: Monday, March 13, 2023 at 6:18:16 AM
 
 > Showing 5 of 12 posts.
 
-[![AWS open source newsletter, #148](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_open_source_newsletter___148.svg)](https://dev.to/aws/aws-open-source-newsletter-148-5h2b)
-[![Excellent solution for React Native charting in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Excellent_solution_for_React_Native_charting_in_2023.svg)](https://dev.to/zhiqingchen/excellent-solution-for-react-native-charting-in-2023-3k07)
-[![My Nim Development Weekly Report (3/12)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_Nim_Development_Weekly_Report_(3_12).svg)](https://dev.to/ringabout/my-nim-development-weekly-report-312-1343)
-[![Introduction to Database transaction, Read phenomenom and isolation level using Sequelize ORM](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_to_Database_transaction__Read_phenomenom_and_isolation_level_using_Sequelize_ORM.svg)](https://dev.to/niyiojeyinka/introduction-to-database-transaction-read-phenomenom-and-isolation-level-using-sequelize-orm-dh1)
-[![SOLID Principles: Explained with Golang Examples](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/SOLID_Principles__Explained_with_Golang_Examples.svg)](https://dev.to/ansu/solid-principles-explained-with-golang-examples-5eh)
+[![The Rise and Fall of Silicon Valley Bank: What It Means for Tech Startups](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Rise_and_Fall_of_Silicon_Valley_Bank__What_It_Means_for_Tech_Startups.svg)](https://dev.to/khoubaibsudo/the-rise-and-fall-of-silicon-valley-bank-what-it-means-for-tech-startups-3d59)
+[![S'Monday 😪 Wyld Stallyns](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/S'Monday_😪_Wyld_Stallyns.svg)](https://dev.to/codenewbieteam/smonday-4m09)
+[![How to brand yourself (in 9 steps)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_brand_yourself_(in_9_steps).svg)](https://dev.to/acidop/how-to-brand-yourself-in-9-steps-5582)
+[![Astro and Azure Static Web Apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Astro_and_Azure_Static_Web_Apps.svg)](https://dev.to/florianrappl/astro-and-azure-static-web-apps-efl)
+[![Best Practices for Securing Kubernetes Deployments](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_Practices_for_Securing_Kubernetes_Deployments.svg)](https://dev.to/aws-builders/best-practices-for-securing-kubernetes-deployments-1jg6)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, March 13, 2023 at 12:12:38 AM
+> Last updated: Monday, March 13, 2023 at 6:18:20 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, March 13, 2023 at 12:12:40 AM
+> Last updated: Monday, March 13, 2023 at 6:18:24 AM
 
 > Showing 5 of 30 posts.
 
