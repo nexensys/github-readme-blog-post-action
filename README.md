@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, March 13, 2023 at 6:18:16 AM
+> Last updated: Monday, March 13, 2023 at 12:10:43 PM
 
 > Showing 5 of 12 posts.
 
-[![The Rise and Fall of Silicon Valley Bank: What It Means for Tech Startups](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Rise_and_Fall_of_Silicon_Valley_Bank__What_It_Means_for_Tech_Startups.svg)](https://dev.to/khoubaibsudo/the-rise-and-fall-of-silicon-valley-bank-what-it-means-for-tech-startups-3d59)
-[![S'Monday 😪 Wyld Stallyns](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/S'Monday_😪_Wyld_Stallyns.svg)](https://dev.to/codenewbieteam/smonday-4m09)
-[![How to brand yourself (in 9 steps)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_brand_yourself_(in_9_steps).svg)](https://dev.to/acidop/how-to-brand-yourself-in-9-steps-5582)
-[![Astro and Azure Static Web Apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Astro_and_Azure_Static_Web_Apps.svg)](https://dev.to/florianrappl/astro-and-azure-static-web-apps-efl)
-[![Best Practices for Securing Kubernetes Deployments](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_Practices_for_Securing_Kubernetes_Deployments.svg)](https://dev.to/aws-builders/best-practices-for-securing-kubernetes-deployments-1jg6)
+[![Things to do while programming!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Things_to_do_while_programming!.svg)](https://dev.to/iamsatyanchal/things-to-do-while-programming-3jkg)
+[![Can you afford your own website as a writer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Can_you_afford_your_own_website_as_a_writer.svg)](https://dev.to/shreyvijayvargiya/can-you-afford-your-own-website-as-a-writer-3ch6)
+[![What are your Goals for the Week of March 12 - 18?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_are_your_Goals_for_the_Week_of_March_12_-_18_.svg)](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-of-march-12-18-4ije)
+[![How to Create a Venn Diagram in JS (with Some Help of Tolkien)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Create_a_Venn_Diagram_in_JS_(with_Some_Help_of_Tolkien).svg)](https://dev.to/andreykh1985/how-to-create-a-venn-diagram-in-js-with-some-help-of-tolkien-4fn6)
+[![*CodeNewbie* Meme Monday!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_CodeNewbie__Meme_Monday!.svg)](https://dev.to/codenewbieteam/codenewbie-meme-monday-5703)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, March 13, 2023 at 6:18:20 AM
+> Last updated: Monday, March 13, 2023 at 12:10:46 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, March 13, 2023 at 6:18:24 AM
+> Last updated: Monday, March 13, 2023 at 12:10:49 PM
 
 > Showing 5 of 30 posts.
 
