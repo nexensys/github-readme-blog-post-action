@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, March 14, 2023 at 12:12:53 AM
+> Last updated: Tuesday, March 14, 2023 at 6:22:07 AM
 
 > Showing 5 of 12 posts.
 
-[![Big O: A Beginner's Guide:](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Big_O__A_Beginner's_Guide_.svg)](https://dev.to/binayakjha/big-o-a-beginners-guide-175c)
-[![# The Pros and Cons of Using CSS Frameworks in Web Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/__The_Pros_and_Cons_of_Using_CSS_Frameworks_in_Web_Development.svg)](https://dev.to/iamsatyanchal/-the-pros-and-cons-of-using-css-frameworks-in-web-development-c22)
-[![# The Pros and Cons of Using JavaScript Frameworks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/__The_Pros_and_Cons_of_Using_JavaScript_Frameworks.svg)](https://dev.to/iamsatyanchal/-the-pros-and-cons-of-using-javascript-frameworks-6f6)
-[![# Introduction to React Router](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/__Introduction_to_React_Router.svg)](https://dev.to/iamsatyanchal/-introduction-to-react-router-47cg)
-[![Why I choose CRA ( Create-react-app) over Vite for this React project ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_I_choose_CRA_(_Create-react-app)_over_Vite_for_this_React_project__.svg)](https://dev.to/apfirebolt/why-i-choose-cra-create-react-app-over-vite-for-this-react-project--cj8)
+[![C program to display calendar for a given year](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/C_program_to_display_calendar_for_a_given_year.svg)](https://dev.to/mavensingh/c-program-to-display-calendar-for-a-given-year-21k)
+[![Making explicit what is Production ready and what is not](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Making_explicit_what_is_Production_ready_and_what_is_not.svg)](https://dev.to/woovi/making-explicit-what-is-production-ready-and-what-is-not-4pgg)
+[![Share your work in progress in real time from VS Code or JetBrains](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Share_your_work_in_progress_in_real_time_from_VS_Code_or_JetBrains.svg)](https://dev.to/gitlive/share-your-work-in-progress-in-real-time-from-vs-code-or-jetbrains-1i5a)
+[![Eagle Eye - Grow your DevTool by engaging with content](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Eagle_Eye_-_Grow_your_DevTool_by_engaging_with_content.svg)](https://dev.to/crowddotdev/eagle-eye-grow-your-devtool-by-engaging-with-content-80g)
+[![Deploy S3 hosted application using CodePipeline](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deploy_S3_hosted_application_using_CodePipeline.svg)](https://dev.to/aws-builders/deploy-s3-hosted-application-using-codepipeline-3jka)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, March 14, 2023 at 12:12:56 AM
+> Last updated: Tuesday, March 14, 2023 at 6:22:10 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, March 14, 2023 at 12:12:58 AM
+> Last updated: Tuesday, March 14, 2023 at 6:22:14 AM
 
 > Showing 5 of 30 posts.
 
