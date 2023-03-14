@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, March 13, 2023 at 12:10:43 PM
+> Last updated: Monday, March 13, 2023 at 6:41:40 PM
 
 > Showing 5 of 12 posts.
 
-[![Things to do while programming!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Things_to_do_while_programming!.svg)](https://dev.to/iamsatyanchal/things-to-do-while-programming-3jkg)
-[![Can you afford your own website as a writer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Can_you_afford_your_own_website_as_a_writer.svg)](https://dev.to/shreyvijayvargiya/can-you-afford-your-own-website-as-a-writer-3ch6)
-[![What are your Goals for the Week of March 12 - 18?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_are_your_Goals_for_the_Week_of_March_12_-_18_.svg)](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-of-march-12-18-4ije)
-[![How to Create a Venn Diagram in JS (with Some Help of Tolkien)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Create_a_Venn_Diagram_in_JS_(with_Some_Help_of_Tolkien).svg)](https://dev.to/andreykh1985/how-to-create-a-venn-diagram-in-js-with-some-help-of-tolkien-4fn6)
-[![*CodeNewbie* Meme Monday!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_CodeNewbie__Meme_Monday!.svg)](https://dev.to/codenewbieteam/codenewbie-meme-monday-5703)
+[![👨🏽‍💻🚀 Discover These 5 Incredible ES6 Features That Will Make You a Better JavaScript Developer 🚀👨🏽‍💻](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/👨🏽‍💻🚀_Discover_These_5_Incredible_ES6_Features_That_Will_Make_You_a_Better_JavaScript_Developer_🚀👨🏽‍💻.svg)](https://dev.to/almonteluis/discover-these-5-incredible-es6-features-that-will-make-you-a-better-javascript-developer-37lo)
+[![What you should know about SEO as a Web Developer!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_you_should_know_about_SEO_as_a_Web_Developer!.svg)](https://dev.to/flpms/what-you-should-know-about-seo-as-a-web-developer-pdl)
+[![Raspberry Pi como runner do GitHub Action](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Raspberry_Pi_como_runner_do_GitHub_Action.svg)](https://dev.to/santospedroh/raspberry-pi-como-runner-do-github-action-596h)
+[![Neopets - Meu inicio não tão convencional na área da tecnologia](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Neopets_-_Meu_inicio_não_tão_convencional_na_área_da_tecnologia.svg)](https://dev.to/vanessatelles/neopets-meu-inicio-nao-tao-convencional-na-area-da-tecnologia-1560)
+[![Building a Random Nerd Joke App with Public API's in Javascript .](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_Random_Nerd_Joke_App_with_Public_API's_in_Javascript_..svg)](https://dev.to/ebuka1anthony/building-a-random-nerd-joke-app-with-public-apis-in-javascript--11f3)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, March 13, 2023 at 12:10:46 PM
+> Last updated: Monday, March 13, 2023 at 6:41:44 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, March 13, 2023 at 12:10:49 PM
+> Last updated: Monday, March 13, 2023 at 6:41:48 PM
 
 > Showing 5 of 30 posts.
 
 [![Excellent solution for React Native charting in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Excellent_solution_for_React_Native_charting_in_2023.svg)](https://medium.com/@chenzhiqing/excellent-solutions-for-react-native-charting-in-2023-8af776307351)
 [![Shell-free scripts with Execa 7](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Shell-free_scripts_with_Execa_7.svg)](https://medium.com/@ehmicky/shell-free-scripts-with-execa-7-885fb3b42f83)
 [![GitHub - bitair-org/concurrent.js: Easy Multithreading for Non-blocking Parallel Computation (Node.js, Deno & Browser)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_bitair-org_concurrent.js__Easy_Multithreading_for_Non-blocking_Parallel_Computation_(Node.js__Deno___Browser).svg)](https://github.com/bitair-org/concurrent.js)
-[![Running the Latest Safari WebKit on Windows](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Running_the_Latest_Safari_WebKit_on_Windows.svg)](https://dev.to/dustinbrett/running-the-latest-safari-webkit-on-windows-33pb)
 [![GitHub - ptrumpis/snap-camera-server: Host your own Snap Camera server after the shutdown on January 25, 2023.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ptrumpis_snap-camera-server__Host_your_own_Snap_Camera_server_after_the_shutdown_on_January_25__2023..svg)](https://github.com/ptrumpis/snap-camera-server)
+[![Build Node.JS Chat App with WebSocket, Node.js Cluster and Redis](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_Node.JS_Chat_App_with_WebSocket__Node.js_Cluster_and_Redis.svg)](https://metered.hashnode.dev/build-nodejs-chat-app-with-websocket-nodejs-cluster-and-redis)
 
 
 <!-- post-list:end -->
