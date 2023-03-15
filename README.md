@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, March 14, 2023 at 12:13:38 PM
+> Last updated: Tuesday, March 14, 2023 at 6:47:50 PM
 
 > Showing 5 of 12 posts.
 
-[![Using Node.js for Ecommerce: Pros and Cons](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_Node.js_for_Ecommerce__Pros_and_Cons.svg)](https://dev.to/medusajs/using-nodejs-for-ecommerce-pros-and-cons-25cl)
-[![SQL Server and Flyway: a Docker approach](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/SQL_Server_and_Flyway__a_Docker_approach.svg)](https://dev.to/leopardorossi/sql-server-and-flyway-a-docker-approach-kdj)
-[![# 5 Tips for Optimizing Your Website's Page Load Speed](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/__5_Tips_for_Optimizing_Your_Website's_Page_Load_Speed.svg)](https://dev.to/iamsatyanchal/-5-tips-for-optimizing-your-websites-page-load-speed-2ccp)
-[![4 Easy steps to train your AI model and create personal Avatar generator 😎✨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/4_Easy_steps_to_train_your_AI_model_and_create_personal_Avatar_generator_😎✨.svg)](https://dev.to/madza/4-easy-steps-to-train-your-ai-model-and-create-personal-avatar-generator-3mji)
-[![Talking about Kotlin Coroutines](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Talking_about_Kotlin_Coroutines.svg)](https://dev.to/j_a_o_v_c_t_r/talking-about-kotlin-coroutines-7jf)
+[![Man, Machine, and the Art of Algorithmic Mastery: A GPT4 Perspective](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Man__Machine__and_the_Art_of_Algorithmic_Mastery__A_GPT4_Perspective.svg)](https://dev.to/teodeleanu/man-machine-and-the-art-of-algorithmic-mastery-a-gpt4-perspective-ibi)
+[![Securing Data Lake in AWS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Securing_Data_Lake_in_AWS.svg)](https://dev.to/aws-builders/securing-data-lake-in-aws-1e1p)
+[![Create a MySQL RDS Database Instance with Terraform and connect with MySQL Workbench](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_a_MySQL_RDS_Database_Instance_with_Terraform_and_connect_with_MySQL_Workbench.svg)](https://dev.to/aws-builders/create-a-mysql-rds-database-instance-with-terraform-3oab)
+[![Understanding Cross-site Scripting (XSS) Vulnerability](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_Cross-site_Scripting_(XSS)_Vulnerability.svg)](https://dev.to/iamsatyanchal/understanding-cross-site-scripting-xss-vulnerability-34bo)
+[![What is Responsive Web Design?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_Responsive_Web_Design_.svg)](https://dev.to/iamsatyanchal/what-is-responsive-web-design-3p2b)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, March 14, 2023 at 12:13:42 PM
+> Last updated: Tuesday, March 14, 2023 at 6:47:53 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,13 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, March 14, 2023 at 12:13:46 PM
+> Last updated: Tuesday, March 14, 2023 at 6:47:55 PM
 
 > Showing 5 of 30 posts.
 
+[![The toFixed() Function in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_toFixed()_Function_in_JavaScript.svg)](
+https://masteringjs.io/tutorials/fundamentals/tofixed
+)
 [![
 Revolutionise React State Management: Experience Direct Value Changes with useMutableState 😍
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Revolutionise_React_State_Management__Experience_Direct_Value_Changes_with_useMutableState_😍_.svg)](
@@ -54,8 +57,7 @@ https://antonioru.github.io/beautiful-react-hooks/#/useMutableState
 )
 [![GitHub - ptrumpis/snap-lens-file-extractor: JavaScript Online File Extractor, Parser, Unpacker for the Snap Camera / Snapchat Lens File Format (lens.lns / *.lns)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ptrumpis_snap-lens-file-extractor__JavaScript_Online_File_Extractor__Parser__Unpacker_for_the_Snap_Camera___Snapchat_Lens_File_Format_(lens.lns____.lns).svg)](https://github.com/ptrumpis/snap-lens-file-extractor)
 [![Excellent solution for React Native charting in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Excellent_solution_for_React_Native_charting_in_2023.svg)](https://medium.com/@chenzhiqing/excellent-solutions-for-react-native-charting-in-2023-8af776307351)
-[![Shell-free scripts with Execa 7](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Shell-free_scripts_with_Execa_7.svg)](https://medium.com/@ehmicky/shell-free-scripts-with-execa-7-885fb3b42f83)
-[![GitHub - bitair-org/concurrent.js: Easy Multithreading for Non-blocking Parallel Computation (Node.js, Deno & Web Browsers)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_bitair-org_concurrent.js__Easy_Multithreading_for_Non-blocking_Parallel_Computation_(Node.js__Deno___Web_Browsers).svg)](https://github.com/bitair-org/concurrent.js)
+[![Shell-free scripts with Execa 7](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Shell-free_scripts_with_Execa_7.svg)](https://itnext.io/shell-free-scripts-with-execa-7-885fb3b42f83)
 
 
 <!-- post-list:end -->
