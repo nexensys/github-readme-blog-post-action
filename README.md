@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, March 15, 2023 at 12:12:07 AM
+> Last updated: Wednesday, March 15, 2023 at 12:11:33 PM
 
 > Showing 5 of 12 posts.
 
-[![Learn How to Run GitHub Actions in Your CI/CD Pipeline](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Learn_How_to_Run_GitHub_Actions_in_Your_CI_CD_Pipeline.svg)](https://dev.to/pavanbelagatti/learn-how-to-run-github-actions-in-your-cicd-pipeline-4p8k)
-[![Introducing Inkwell: A lightweight, easy-to-use terminal-based text editor](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_Inkwell__A_lightweight__easy-to-use_terminal-based_text_editor.svg)](https://dev.to/zitrocode/introducing-inkwell-a-lightweight-easy-to-use-terminal-based-text-editor-gkd)
-[![Top 10 Tips for Beginners to Fix Your Code Magically!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_10_Tips_for_Beginners_to_Fix_Your_Code_Magically!.svg)](https://dev.to/dhruvjoshi9/top-10-tips-for-beginners-to-fix-your-code-magically-1fng)
-[![🚀🔮Unlocking the Power 🔓 of Blockchain: A Comprehensive Guide 🔑](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🚀🔮Unlocking_the_Power_🔓_of_Blockchain__A_Comprehensive_Guide_🔑.svg)](https://dev.to/akshaykurhekar/unlocking-the-power-of-blockchain-a-comprehensive-guide-412f)
-[![Accountant Vs IT Skills & Software Skills in the Present World](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Accountant_Vs_IT_Skills___Software_Skills_in_the_Present_World.svg)](https://dev.to/windyaaa/accountant-vs-it-skills-software-skills-in-the-present-world-56gl)
+[![Introduction to Progressive Web Apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_to_Progressive_Web_Apps.svg)](https://dev.to/iamsatyanchal/-introduction-to-progressive-web-apps-ob7)
+[![Top 5 Latest Frontend Technologies in Web Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_5_Latest_Frontend_Technologies_in_Web_Development.svg)](https://dev.to/iamsatyanchal/top-5-latest-frontend-technologies-in-web-development-5a05)
+[![Micro Frontend Discovery - The Driver for Scalability](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Micro_Frontend_Discovery_-_The_Driver_for_Scalability.svg)](https://dev.to/florianrappl/micro-frontend-discovery-the-driver-for-scalability-oai)
+[![OpenAI launches GPT-4 a multimodal Language model](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/OpenAI_launches_GPT-4_a_multimodal_Language_model.svg)](https://dev.to/amananandrai/openai-launches-gpt-4-a-multimodal-language-model-3fc)
+[![Understanding the Compose Function in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_the_Compose_Function_in_JavaScript.svg)](https://dev.to/frontend_jedi/understanding-the-compose-function-in-javascript-3g34)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, March 15, 2023 at 12:12:11 AM
+> Last updated: Wednesday, March 15, 2023 at 12:11:36 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, March 15, 2023 at 12:12:16 AM
+> Last updated: Wednesday, March 15, 2023 at 12:11:38 PM
 
 > Showing 5 of 30 posts.
 
+[![Server Driven UI, Personalization, Runtime Bundling](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Server_Driven_UI__Personalization__Runtime_Bundling.svg)](https://microfrontends.substack.com/p/server-driven-ui-personalization)
 [![The toFixed() Function in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_toFixed()_Function_in_JavaScript.svg)](
 https://masteringjs.io/tutorials/fundamentals/tofixed
 )
@@ -57,7 +58,6 @@ https://antonioru.github.io/beautiful-react-hooks/#/useMutableState
 )
 [![GitHub - ptrumpis/snap-lens-file-extractor: JavaScript Online File Extractor, Parser, Unpacker for the Snap Camera / Snapchat Lens File Format (lens.lns / *.lns)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ptrumpis_snap-lens-file-extractor__JavaScript_Online_File_Extractor__Parser__Unpacker_for_the_Snap_Camera___Snapchat_Lens_File_Format_(lens.lns____.lns).svg)](https://github.com/ptrumpis/snap-lens-file-extractor)
 [![Excellent solution for React Native charting in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Excellent_solution_for_React_Native_charting_in_2023.svg)](https://medium.com/@chenzhiqing/excellent-solutions-for-react-native-charting-in-2023-8af776307351)
-[![Shell-free scripts with Execa 7](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Shell-free_scripts_with_Execa_7.svg)](https://itnext.io/shell-free-scripts-with-execa-7-885fb3b42f83)
 
 
 <!-- post-list:end -->
