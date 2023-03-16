@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, March 15, 2023 at 12:11:33 PM
+> Last updated: Wednesday, March 15, 2023 at 6:50:43 PM
 
 > Showing 5 of 12 posts.
 
-[![Introduction to Progressive Web Apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_to_Progressive_Web_Apps.svg)](https://dev.to/iamsatyanchal/-introduction-to-progressive-web-apps-ob7)
-[![Top 5 Latest Frontend Technologies in Web Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_5_Latest_Frontend_Technologies_in_Web_Development.svg)](https://dev.to/iamsatyanchal/top-5-latest-frontend-technologies-in-web-development-5a05)
-[![Micro Frontend Discovery - The Driver for Scalability](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Micro_Frontend_Discovery_-_The_Driver_for_Scalability.svg)](https://dev.to/florianrappl/micro-frontend-discovery-the-driver-for-scalability-oai)
-[![OpenAI launches GPT-4 a multimodal Language model](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/OpenAI_launches_GPT-4_a_multimodal_Language_model.svg)](https://dev.to/amananandrai/openai-launches-gpt-4-a-multimodal-language-model-3fc)
-[![Understanding the Compose Function in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_the_Compose_Function_in_JavaScript.svg)](https://dev.to/frontend_jedi/understanding-the-compose-function-in-javascript-3g34)
+[![How to convert Solidity JSON ABI to Human Readable ABI in Hardhat](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_convert_Solidity_JSON_ABI_to_Human_Readable_ABI_in_Hardhat.svg)](https://dev.to/anjana_j/how-to-convert-solidity-json-abi-to-human-readable-abi-in-hardhat-21mj)
+[![How can leaders better support primary caregivers?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_can_leaders_better_support_primary_caregivers_.svg)](https://dev.to/devteam/how-can-leaders-better-support-primary-caregivers-35b8)
+[![🌐 Creating Eye-Catching Layouts Has Never Been Easier: The Power of CSS Grid🌐](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🌐_Creating_Eye-Catching_Layouts_Has_Never_Been_Easier__The_Power_of_CSS_Grid🌐.svg)](https://dev.to/almonteluis/creating-eye-catching-layouts-has-never-been-easier-the-power-of-css-grid-3k91)
+[![🧮 JavaScript for Beginners: Data Structures](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🧮_JavaScript_for_Beginners__Data_Structures.svg)](https://dev.to/catherineisonline/javascript-for-beginners-data-structures-2j6i)
+[![Trabalhando com multiplas databases no laravel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Trabalhando_com_multiplas_databases_no_laravel.svg)](https://dev.to/woney/trabalhando-com-multiplas-databases-no-laravel-ooc)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, March 15, 2023 at 12:11:36 PM
+> Last updated: Wednesday, March 15, 2023 at 6:50:47 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,12 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, March 15, 2023 at 12:11:38 PM
+> Last updated: Wednesday, March 15, 2023 at 6:50:49 PM
 
 > Showing 5 of 30 posts.
 
+[![Introducing Mongoose 7](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Introducing_Mongoose_7.svg)](http://www.thecodebarbarian.com/introducing-mongoose-7)
+[![GitHub - ptrumpis/snap-lens-cache-import: Import your local application cached Snap Lenses to your own Snap Camera Server with ease.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ptrumpis_snap-lens-cache-import__Import_your_local_application_cached_Snap_Lenses_to_your_own_Snap_Camera_Server_with_ease..svg)](https://github.com/ptrumpis/snap-lens-cache-import)
 [![Server Driven UI, Personalization, Runtime Bundling](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Server_Driven_UI__Personalization__Runtime_Bundling.svg)](https://microfrontends.substack.com/p/server-driven-ui-personalization)
 [![The toFixed() Function in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_toFixed()_Function_in_JavaScript.svg)](
 https://masteringjs.io/tutorials/fundamentals/tofixed
@@ -56,8 +58,6 @@ Revolutionise React State Management: Experience Direct Value Changes with useMu
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Revolutionise_React_State_Management__Experience_Direct_Value_Changes_with_useMutableState_😍_.svg)](
 https://antonioru.github.io/beautiful-react-hooks/#/useMutableState
 )
-[![GitHub - ptrumpis/snap-lens-file-extractor: JavaScript Online File Extractor, Parser, Unpacker for the Snap Camera / Snapchat Lens File Format (lens.lns / *.lns)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ptrumpis_snap-lens-file-extractor__JavaScript_Online_File_Extractor__Parser__Unpacker_for_the_Snap_Camera___Snapchat_Lens_File_Format_(lens.lns____.lns).svg)](https://github.com/ptrumpis/snap-lens-file-extractor)
-[![Excellent solution for React Native charting in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Excellent_solution_for_React_Native_charting_in_2023.svg)](https://medium.com/@chenzhiqing/excellent-solutions-for-react-native-charting-in-2023-8af776307351)
 
 
 <!-- post-list:end -->
