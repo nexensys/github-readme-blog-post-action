@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, March 16, 2023 at 12:12:12 AM
+> Last updated: Thursday, March 16, 2023 at 6:17:23 AM
 
 > Showing 5 of 12 posts.
 
-[![Animation -6 : Pizza loader](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Animation_-6___Pizza_loader.svg)](https://dev.to/jon_snow789/animation-6-pizza-loader-3bc2)
-[![Managing your OpenAI on Azure Costs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Managing_your_OpenAI_on_Azure_Costs.svg)](https://dev.to/integerman/managing-your-openai-on-azure-costs-369o)
-[![Javascript Basic Topics you need to know #1 ( Scope, Hoisting, Temporal Dead Zone)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Javascript_Basic_Topics_you_need_to_know__1_(_Scope__Hoisting__Temporal_Dead_Zone).svg)](https://dev.to/liobouchan/javascript-basic-topics-you-need-to-know-1-scope-hoisting-temporal-dead-zone-1h9f)
-[![Axolo: GitHub Slack integration](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Axolo__GitHub_Slack_integration.svg)](https://dev.to/cosydney/axolo-github-slack-integration-48lf)
-[![NodeJS `Buffer` is cool](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/NodeJS_`Buffer`_is_cool.svg)](https://dev.to/lionelrowe/nodejs-buffer-is-cool-19d7)
+[![Tips for writing effective technical documentation for software products](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tips_for_writing_effective_technical_documentation_for_software_products.svg)](https://dev.to/haszankauna/tips-for-writing-effective-technical-documentation-for-software-products-318h)
+[![Using eslint to fix wrong i18n usages](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_eslint_to_fix_wrong_i18n_usages.svg)](https://dev.to/woovi/using-eslint-to-fix-wrong-i18n-usages-2h39)
+[![10 Reasons Why Python Will Still Dominate Programming Languages By 2027](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_Reasons_Why_Python_Will_Still_Dominate_Programming_Languages_By_2027.svg)](https://dev.to/sefaliw/10-reasons-why-python-will-still-dominate-programming-languages-by-2027-5074)
+[![Provisioning a Kubernetes Cluster Using Rancher in AWS EC2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Provisioning_a_Kubernetes_Cluster_Using_Rancher_in_AWS_EC2.svg)](https://dev.to/aws-builders/provisioning-a-kubernetes-cluster-using-rancher-in-aws-ec2-51o7)
+[![Best practices for designing and implementing software testing frameworks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_practices_for_designing_and_implementing_software_testing_frameworks.svg)](https://dev.to/haszankauna/best-practices-for-designing-and-implementing-software-testing-frameworks-2156)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, March 16, 2023 at 12:12:16 AM
+> Last updated: Thursday, March 16, 2023 at 6:17:26 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,21 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, March 16, 2023 at 12:12:19 AM
+> Last updated: Thursday, March 16, 2023 at 6:17:27 AM
 
 > Showing 5 of 30 posts.
 
+[![How to migrate from Bootstrap CSS framework to Stylify CSS | Stylify CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_migrate_from_Bootstrap_CSS_framework_to_Stylify_CSS___Stylify_CSS.svg)](https://stylifycss.com/docs/migration/bootstrap)
+[![
+Siddharth Mehta of IL&FS shares about the digital growth of India
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Siddharth_Mehta_of_IL_FS_shares_about_the_digital_growth_of_India_.svg)](
+https://www.spoke.com/topics/the-economy-of-internet-is-growing-in-india-says-siddharth-mehta-il-and-fs-627e044304532cf5de051bb9
+)
 [![Introducing Mongoose 7](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Introducing_Mongoose_7.svg)](http://www.thecodebarbarian.com/introducing-mongoose-7)
 [![GitHub - ptrumpis/snap-lens-cache-import: Import your local application cached Snap Lenses to your own Snap Camera Server with ease.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ptrumpis_snap-lens-cache-import__Import_your_local_application_cached_Snap_Lenses_to_your_own_Snap_Camera_Server_with_ease..svg)](https://github.com/ptrumpis/snap-lens-cache-import)
 [![Server Driven UI, Personalization, Runtime Bundling](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Server_Driven_UI__Personalization__Runtime_Bundling.svg)](https://microfrontends.substack.com/p/server-driven-ui-personalization)
-[![The toFixed() Function in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_toFixed()_Function_in_JavaScript.svg)](
-https://masteringjs.io/tutorials/fundamentals/tofixed
-)
-[![
-Revolutionise React State Management: Experience Direct Value Changes with useMutableState 😍
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Revolutionise_React_State_Management__Experience_Direct_Value_Changes_with_useMutableState_😍_.svg)](
-https://antonioru.github.io/beautiful-react-hooks/#/useMutableState
-)
 
 
 <!-- post-list:end -->
