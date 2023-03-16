@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, March 15, 2023 at 6:50:43 PM
+> Last updated: Thursday, March 16, 2023 at 12:12:12 AM
 
 > Showing 5 of 12 posts.
 
-[![How to convert Solidity JSON ABI to Human Readable ABI in Hardhat](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_convert_Solidity_JSON_ABI_to_Human_Readable_ABI_in_Hardhat.svg)](https://dev.to/anjana_j/how-to-convert-solidity-json-abi-to-human-readable-abi-in-hardhat-21mj)
-[![How can leaders better support primary caregivers?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_can_leaders_better_support_primary_caregivers_.svg)](https://dev.to/devteam/how-can-leaders-better-support-primary-caregivers-35b8)
-[![🌐 Creating Eye-Catching Layouts Has Never Been Easier: The Power of CSS Grid🌐](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🌐_Creating_Eye-Catching_Layouts_Has_Never_Been_Easier__The_Power_of_CSS_Grid🌐.svg)](https://dev.to/almonteluis/creating-eye-catching-layouts-has-never-been-easier-the-power-of-css-grid-3k91)
-[![🧮 JavaScript for Beginners: Data Structures](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🧮_JavaScript_for_Beginners__Data_Structures.svg)](https://dev.to/catherineisonline/javascript-for-beginners-data-structures-2j6i)
-[![Trabalhando com multiplas databases no laravel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Trabalhando_com_multiplas_databases_no_laravel.svg)](https://dev.to/woney/trabalhando-com-multiplas-databases-no-laravel-ooc)
+[![Animation -6 : Pizza loader](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Animation_-6___Pizza_loader.svg)](https://dev.to/jon_snow789/animation-6-pizza-loader-3bc2)
+[![Managing your OpenAI on Azure Costs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Managing_your_OpenAI_on_Azure_Costs.svg)](https://dev.to/integerman/managing-your-openai-on-azure-costs-369o)
+[![Javascript Basic Topics you need to know #1 ( Scope, Hoisting, Temporal Dead Zone)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Javascript_Basic_Topics_you_need_to_know__1_(_Scope__Hoisting__Temporal_Dead_Zone).svg)](https://dev.to/liobouchan/javascript-basic-topics-you-need-to-know-1-scope-hoisting-temporal-dead-zone-1h9f)
+[![Axolo: GitHub Slack integration](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Axolo__GitHub_Slack_integration.svg)](https://dev.to/cosydney/axolo-github-slack-integration-48lf)
+[![NodeJS `Buffer` is cool](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/NodeJS_`Buffer`_is_cool.svg)](https://dev.to/lionelrowe/nodejs-buffer-is-cool-19d7)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, March 15, 2023 at 6:50:47 PM
+> Last updated: Thursday, March 16, 2023 at 12:12:16 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, March 15, 2023 at 6:50:49 PM
+> Last updated: Thursday, March 16, 2023 at 12:12:19 AM
 
 > Showing 5 of 30 posts.
 
