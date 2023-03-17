@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, March 16, 2023 at 6:51:18 PM
+> Last updated: Friday, March 17, 2023 at 12:10:55 AM
 
 > Showing 5 of 12 posts.
 
-[![💥 Top 10 JavaScript Libraries and Frameworks to Watch in 2023 💥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/💥_Top_10_JavaScript_Libraries_and_Frameworks_to_Watch_in_2023_💥.svg)](https://dev.to/megagon/top-10-javascript-libraries-and-frameworks-to-watch-in-2023-47dj)
-[![🚀 Ways to Title Case Strings with Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🚀_Ways_to_Title_Case_Strings_with_Javascript.svg)](https://dev.to/ypdev19/ways-to-title-case-strings-with-javascript-1dpe)
-[![Upgrading to Next.js 13: Migration Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Upgrading_to_Next.js_13__Migration_Guide.svg)](https://dev.to/iskurbanov/upgrading-to-nextjs-13-migration-guide-2m3f)
-[![Next.js 13 Image Cheatsheet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Next.js_13_Image_Cheatsheet.svg)](https://dev.to/iskurbanov/nextjs-13-image-cheatsheet-55fd)
-[![Account Abstraction in Web3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Account_Abstraction_in_Web3.svg)](https://dev.to/desmondsanctity/account-abstraction-in-web3-mce)
+[![Building an Image Recognition App in Javascript using Pinecone, Hugging Face, and Vercel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_an_Image_Recognition_App_in_Javascript_using_Pinecone__Hugging_Face__and_Vercel.svg)](https://dev.to/rschwabco/building-an-image-recognition-app-in-javascript-using-pinecone-hugging-face-and-vercel-2b0p)
+[![Best 23 Web Design Trends To Follow In 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_23_Web_Design_Trends_To_Follow_In_2023.svg)](https://dev.to/lambdatest/best-23-web-design-trends-to-follow-in-2023-3ec6)
+[![Capture VS Bubble](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Capture_VS_Bubble.svg)](https://dev.to/mrh0200/capture-vs-bubble-3ao2)
+[![Dear Princess Programmer: Keep Coding!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dear_Princess_Programmer__Keep_Coding!.svg)](https://dev.to/theoriginalbpc/dear-princess-programmer-keep-coding-520a)
+[![Serverless & Well Architected](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Serverless___Well_Architected.svg)](https://dev.to/aws-heroes/serverless-well-architected-40jn)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, March 16, 2023 at 6:51:22 PM
+> Last updated: Friday, March 17, 2023 at 12:10:58 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, March 16, 2023 at 6:51:25 PM
+> Last updated: Friday, March 17, 2023 at 12:11:01 AM
 
 > Showing 5 of 30 posts.
 
+[![React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React.svg)](https://react.dev/)
+[![GitHub - MarketingPipeline/TryCatch.js: A JavaScript library to handle errors in a more structured way.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_MarketingPipeline_TryCatch.js__A_JavaScript_library_to_handle_errors_in_a_more_structured_way..svg)](https://github.com/MarketingPipeline/TryCatch.js)
 [![Socket rolls out wrapper to defend devs against bad packages](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Socket_rolls_out_wrapper_to_defend_devs_against_bad_packages.svg)](https://www.theregister.com/2023/03/16/socket_npm_safe_javascript/)
 [![How to migrate from Bootstrap CSS framework to Stylify CSS | Stylify CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_migrate_from_Bootstrap_CSS_framework_to_Stylify_CSS___Stylify_CSS.svg)](https://stylifycss.com/docs/migration/bootstrap)
 [![Introducing Mongoose 7](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Introducing_Mongoose_7.svg)](http://www.thecodebarbarian.com/introducing-mongoose-7)
-[![GitHub - ptrumpis/snap-lens-cache-import: Import your local application cached Snap Lenses to your own Snap Camera Server with ease.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ptrumpis_snap-lens-cache-import__Import_your_local_application_cached_Snap_Lenses_to_your_own_Snap_Camera_Server_with_ease..svg)](https://github.com/ptrumpis/snap-lens-cache-import)
-[![Server Driven UI, Personalization, Runtime Bundling](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Server_Driven_UI__Personalization__Runtime_Bundling.svg)](https://microfrontends.substack.com/p/server-driven-ui-personalization)
 
 
 <!-- post-list:end -->
