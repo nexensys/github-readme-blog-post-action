@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, March 17, 2023 at 6:17:10 AM
+> Last updated: Friday, March 17, 2023 at 12:10:52 PM
 
 > Showing 5 of 12 posts.
 
-[![Hello I have good Results in Python Programming Language….](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Hello_I_have_good_Results_in_Python_Programming_Language…..svg)](https://dev.to/uktamhakker/helloi-have-good-results-in-python-programming-language-24o2)
-[![Dealing with Floating Point Numbers in JavaScript: Lessons Learned](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dealing_with_Floating_Point_Numbers_in_JavaScript__Lessons_Learned.svg)](https://dev.to/kyosifov/dealing-with-floating-point-numbers-in-javascript-lessons-learned-2070)
-[![Advanced Google search Shortcut](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Advanced_Google_search_Shortcut.svg)](https://dev.to/jakaria455173/advanced-google-search-shortcut-3nkm)
-[![How not to start a software project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_not_to_start_a_software_project.svg)](https://dev.to/furkangulsen/how-not-to-start-a-software-project-4hcl)
-[![Why YAML is better than JSON (read before screaming)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_YAML_is_better_than_JSON_(read_before_screaming).svg)](https://dev.to/lenra/why-yaml-is-better-than-json-read-before-screaming-39m8)
+[![🌳tree command](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🌳tree_command.svg)](https://dev.to/ayon_ssp/tree-command-3c5k)
+[![What have you learned through #WeCoded?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_have_you_learned_through__WeCoded_.svg)](https://dev.to/devteam/what-have-you-learned-through-wecoded-16lg)
+[![The newest must-have developer tool is ChatGPT](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_newest_must-have_developer_tool_is_ChatGPT.svg)](https://dev.to/pluralsight/the-newest-must-have-developer-tool-is-chatgpt-3gng)
+[![We coded, together ✨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/We_coded__together_✨.svg)](https://dev.to/devteam/we-coded-together-25bo)
+[![A developer's guide to estimation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_developer's_guide_to_estimation.svg)](https://dev.to/jlewis92/a-developers-guide-to-estimation-3143)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, March 17, 2023 at 6:17:14 AM
+> Last updated: Friday, March 17, 2023 at 12:10:57 PM
 
 > Showing 4 of 4 posts.
 
+[![Transformers: JavaScript in Disguise](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Transformers__JavaScript_in_Disguise.svg)](https://javascriptweekly.com/issues/630)
 [![New JavaScript features of the past few years](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/New_JavaScript_features_of_the_past_few_years.svg)](https://javascriptweekly.com/issues/629)
 [![Garbage collector experiments](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Garbage_collector_experiments.svg)](https://javascriptweekly.com/issues/628)
 [![ECMAScript 2023 for President](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/ECMAScript_2023_for_President.svg)](https://javascriptweekly.com/issues/627)
-[![JavaScript sans build systems?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/JavaScript_sans_build_systems_.svg)](https://javascriptweekly.com/issues/626)
 
 
 ## Echo JS
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, March 17, 2023 at 6:17:17 AM
+> Last updated: Friday, March 17, 2023 at 12:11:00 PM
 
 > Showing 5 of 30 posts.
 
+[![How to Use v-model with Form Inputs in Vue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Use_v-model_with_Form_Inputs_in_Vue.svg)](https://dmitripavlutin.com/vue-v-model-form-inputs/)
 [![yobulkdev/pages/api/upload at main · yobulkdev/yobulkdev](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/yobulkdev_pages_api_upload_at_main_·_yobulkdev_yobulkdev.svg)](https://github.com/yobulkdev/yobulkdev)
 [![GitHub - rasimandiran/react-file-trap: Simple wrapper component that convert child component to a drag and drop file input](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_rasimandiran_react-file-trap__Simple_wrapper_component_that_convert_child_component_to_a_drag_and_drop_file_input.svg)](https://github.com/rasimandiran/react-file-trap)
 [![GitHub - niradler/fn-lifecycle: Control the before and after of running a function, can be used for validation, caching, data mutation and more.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_niradler_fn-lifecycle__Control_the_before_and_after_of_running_a_function__can_be_used_for_validation__caching__data_mutation_and_more..svg)](https://github.com/niradler/fn-lifecycle)
 [![React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React.svg)](https://react.dev/)
-[![GitHub - MarketingPipeline/TryCatch.js: A JavaScript library to handle errors in a more structured way.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_MarketingPipeline_TryCatch.js__A_JavaScript_library_to_handle_errors_in_a_more_structured_way..svg)](https://github.com/MarketingPipeline/TryCatch.js)
 
 
 <!-- post-list:end -->
