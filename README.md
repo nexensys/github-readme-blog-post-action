@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, March 16, 2023 at 6:17:23 AM
+> Last updated: Thursday, March 16, 2023 at 6:51:18 PM
 
 > Showing 5 of 12 posts.
 
-[![Tips for writing effective technical documentation for software products](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tips_for_writing_effective_technical_documentation_for_software_products.svg)](https://dev.to/haszankauna/tips-for-writing-effective-technical-documentation-for-software-products-318h)
-[![Using eslint to fix wrong i18n usages](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_eslint_to_fix_wrong_i18n_usages.svg)](https://dev.to/woovi/using-eslint-to-fix-wrong-i18n-usages-2h39)
-[![10 Reasons Why Python Will Still Dominate Programming Languages By 2027](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_Reasons_Why_Python_Will_Still_Dominate_Programming_Languages_By_2027.svg)](https://dev.to/sefaliw/10-reasons-why-python-will-still-dominate-programming-languages-by-2027-5074)
-[![Provisioning a Kubernetes Cluster Using Rancher in AWS EC2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Provisioning_a_Kubernetes_Cluster_Using_Rancher_in_AWS_EC2.svg)](https://dev.to/aws-builders/provisioning-a-kubernetes-cluster-using-rancher-in-aws-ec2-51o7)
-[![Best practices for designing and implementing software testing frameworks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_practices_for_designing_and_implementing_software_testing_frameworks.svg)](https://dev.to/haszankauna/best-practices-for-designing-and-implementing-software-testing-frameworks-2156)
+[![💥 Top 10 JavaScript Libraries and Frameworks to Watch in 2023 💥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/💥_Top_10_JavaScript_Libraries_and_Frameworks_to_Watch_in_2023_💥.svg)](https://dev.to/megagon/top-10-javascript-libraries-and-frameworks-to-watch-in-2023-47dj)
+[![🚀 Ways to Title Case Strings with Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🚀_Ways_to_Title_Case_Strings_with_Javascript.svg)](https://dev.to/ypdev19/ways-to-title-case-strings-with-javascript-1dpe)
+[![Upgrading to Next.js 13: Migration Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Upgrading_to_Next.js_13__Migration_Guide.svg)](https://dev.to/iskurbanov/upgrading-to-nextjs-13-migration-guide-2m3f)
+[![Next.js 13 Image Cheatsheet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Next.js_13_Image_Cheatsheet.svg)](https://dev.to/iskurbanov/nextjs-13-image-cheatsheet-55fd)
+[![Account Abstraction in Web3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Account_Abstraction_in_Web3.svg)](https://dev.to/desmondsanctity/account-abstraction-in-web3-mce)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, March 16, 2023 at 6:17:26 AM
+> Last updated: Thursday, March 16, 2023 at 6:51:22 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,16 +43,12 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, March 16, 2023 at 6:17:27 AM
+> Last updated: Thursday, March 16, 2023 at 6:51:25 PM
 
 > Showing 5 of 30 posts.
 
+[![Socket rolls out wrapper to defend devs against bad packages](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Socket_rolls_out_wrapper_to_defend_devs_against_bad_packages.svg)](https://www.theregister.com/2023/03/16/socket_npm_safe_javascript/)
 [![How to migrate from Bootstrap CSS framework to Stylify CSS | Stylify CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_migrate_from_Bootstrap_CSS_framework_to_Stylify_CSS___Stylify_CSS.svg)](https://stylifycss.com/docs/migration/bootstrap)
-[![
-Siddharth Mehta of IL&FS shares about the digital growth of India
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Siddharth_Mehta_of_IL_FS_shares_about_the_digital_growth_of_India_.svg)](
-https://www.spoke.com/topics/the-economy-of-internet-is-growing-in-india-says-siddharth-mehta-il-and-fs-627e044304532cf5de051bb9
-)
 [![Introducing Mongoose 7](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Introducing_Mongoose_7.svg)](http://www.thecodebarbarian.com/introducing-mongoose-7)
 [![GitHub - ptrumpis/snap-lens-cache-import: Import your local application cached Snap Lenses to your own Snap Camera Server with ease.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ptrumpis_snap-lens-cache-import__Import_your_local_application_cached_Snap_Lenses_to_your_own_Snap_Camera_Server_with_ease..svg)](https://github.com/ptrumpis/snap-lens-cache-import)
 [![Server Driven UI, Personalization, Runtime Bundling](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Server_Driven_UI__Personalization__Runtime_Bundling.svg)](https://microfrontends.substack.com/p/server-driven-ui-personalization)
