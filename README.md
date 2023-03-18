@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, March 17, 2023 at 12:10:52 PM
+> Last updated: Friday, March 17, 2023 at 6:45:33 PM
 
 > Showing 5 of 12 posts.
 
-[![🌳tree command](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🌳tree_command.svg)](https://dev.to/ayon_ssp/tree-command-3c5k)
-[![What have you learned through #WeCoded?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_have_you_learned_through__WeCoded_.svg)](https://dev.to/devteam/what-have-you-learned-through-wecoded-16lg)
-[![The newest must-have developer tool is ChatGPT](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_newest_must-have_developer_tool_is_ChatGPT.svg)](https://dev.to/pluralsight/the-newest-must-have-developer-tool-is-chatgpt-3gng)
-[![We coded, together ✨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/We_coded__together_✨.svg)](https://dev.to/devteam/we-coded-together-25bo)
-[![A developer's guide to estimation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_developer's_guide_to_estimation.svg)](https://dev.to/jlewis92/a-developers-guide-to-estimation-3143)
+[![Amazon VPC Lattice — Build Applications, Not Networks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Amazon_VPC_Lattice_—_Build_Applications__Not_Networks.svg)](https://dev.to/aws-builders/amazon-vpc-lattice-build-applications-not-networks-59j8)
+[![HOW TO USE CHATGPT ON VSCODE](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/HOW_TO_USE_CHATGPT_ON_VSCODE.svg)](https://dev.to/umaola/how-to-use-chatgpt-on-vscode-3dn)
+[![Introducing the Enhance Blog Template](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_the_Enhance_Blog_Template.svg)](https://dev.to/begin/introducing-the-enhance-blog-template-4bc2)
+[![Como el viaje donde me robaron alrededor de --000 se convirtió en uno de los mejores viajes de mi vida](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Como_el_viaje_donde_me_robaron_alrededor_de_--000_se_convirtió_en_uno_de_los_mejores_viajes_de_mi_vida.svg)](https://dev.to/aws-builders/como-el-viaje-donde-me-robaron-alrededor-de-4000-se-convirtio-en-uno-de-los-mejores-viajes-de-mi-vida-3jmj)
+[![Cookies-Based Authentication Vs Session-Based Authentication](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cookies-Based_Authentication_Vs_Session-Based_Authentication.svg)](https://dev.to/emmykolic/cookies-based-authentication-vs-session-based-authentication-1f6)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, March 17, 2023 at 12:10:57 PM
+> Last updated: Friday, March 17, 2023 at 6:45:36 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, March 17, 2023 at 12:11:00 PM
+> Last updated: Friday, March 17, 2023 at 6:45:38 PM
 
 > Showing 5 of 30 posts.
 
+[![Learning JavaScript from ChatGPT](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Learning_JavaScript_from_ChatGPT.svg)](https://medium.com/javascript-scene/learning-javascript-from-chatgpt-c0baebc19ae9)
 [![How to Use v-model with Form Inputs in Vue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Use_v-model_with_Form_Inputs_in_Vue.svg)](https://dmitripavlutin.com/vue-v-model-form-inputs/)
 [![yobulkdev/pages/api/upload at main · yobulkdev/yobulkdev](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/yobulkdev_pages_api_upload_at_main_·_yobulkdev_yobulkdev.svg)](https://github.com/yobulkdev/yobulkdev)
 [![GitHub - rasimandiran/react-file-trap: Simple wrapper component that convert child component to a drag and drop file input](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_rasimandiran_react-file-trap__Simple_wrapper_component_that_convert_child_component_to_a_drag_and_drop_file_input.svg)](https://github.com/rasimandiran/react-file-trap)
 [![GitHub - niradler/fn-lifecycle: Control the before and after of running a function, can be used for validation, caching, data mutation and more.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_niradler_fn-lifecycle__Control_the_before_and_after_of_running_a_function__can_be_used_for_validation__caching__data_mutation_and_more..svg)](https://github.com/niradler/fn-lifecycle)
-[![React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React.svg)](https://react.dev/)
 
 
 <!-- post-list:end -->
