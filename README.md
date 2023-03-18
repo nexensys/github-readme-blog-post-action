@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, March 17, 2023 at 6:45:33 PM
+> Last updated: Saturday, March 18, 2023 at 12:10:54 AM
 
 > Showing 5 of 12 posts.
 
-[![Amazon VPC Lattice — Build Applications, Not Networks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Amazon_VPC_Lattice_—_Build_Applications__Not_Networks.svg)](https://dev.to/aws-builders/amazon-vpc-lattice-build-applications-not-networks-59j8)
-[![HOW TO USE CHATGPT ON VSCODE](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/HOW_TO_USE_CHATGPT_ON_VSCODE.svg)](https://dev.to/umaola/how-to-use-chatgpt-on-vscode-3dn)
-[![Introducing the Enhance Blog Template](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_the_Enhance_Blog_Template.svg)](https://dev.to/begin/introducing-the-enhance-blog-template-4bc2)
-[![Como el viaje donde me robaron alrededor de --000 se convirtió en uno de los mejores viajes de mi vida](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Como_el_viaje_donde_me_robaron_alrededor_de_--000_se_convirtió_en_uno_de_los_mejores_viajes_de_mi_vida.svg)](https://dev.to/aws-builders/como-el-viaje-donde-me-robaron-alrededor-de-4000-se-convirtio-en-uno-de-los-mejores-viajes-de-mi-vida-3jmj)
-[![Cookies-Based Authentication Vs Session-Based Authentication](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cookies-Based_Authentication_Vs_Session-Based_Authentication.svg)](https://dev.to/emmykolic/cookies-based-authentication-vs-session-based-authentication-1f6)
+[![The Art of Debugging: Strategies and Techniques for Efficient Troubleshooting](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Art_of_Debugging__Strategies_and_Techniques_for_Efficient_Troubleshooting.svg)](https://dev.to/bhavin9920/the-art-of-debugging-strategies-and-techniques-for-efficient-troubleshooting-53a6)
+[![Scope, Hoisting and Closures in Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Scope__Hoisting_and_Closures_in_Javascript.svg)](https://dev.to/tejeswararao123/scope-hoisting-and-closures-in-javascript-5e7o)
+[![What I'd like to see AI used for - women's month edition](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_I'd_like_to_see_AI_used_for_-_women's_month_edition.svg)](https://dev.to/sylwiavargas/what-id-like-to-see-ai-used-for-womens-month-edition-5768)
+[![AWS Terraform for Single Containers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_Terraform_for_Single_Containers.svg)](https://dev.to/tythos/aws-terraform-for-single-containers-5dkf)
+[![Mulheres na Tecnologia](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mulheres_na_Tecnologia.svg)](https://dev.to/feministech/mulheres-na-tecnologia-51mo)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, March 17, 2023 at 6:45:36 PM
+> Last updated: Saturday, March 18, 2023 at 12:10:58 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, March 17, 2023 at 6:45:38 PM
+> Last updated: Saturday, March 18, 2023 at 12:11:02 AM
 
 > Showing 5 of 30 posts.
 
