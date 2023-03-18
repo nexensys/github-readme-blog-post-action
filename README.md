@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, March 18, 2023 at 12:10:54 AM
+> Last updated: Saturday, March 18, 2023 at 6:15:13 AM
 
 > Showing 5 of 12 posts.
 
-[![The Art of Debugging: Strategies and Techniques for Efficient Troubleshooting](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Art_of_Debugging__Strategies_and_Techniques_for_Efficient_Troubleshooting.svg)](https://dev.to/bhavin9920/the-art-of-debugging-strategies-and-techniques-for-efficient-troubleshooting-53a6)
-[![Scope, Hoisting and Closures in Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Scope__Hoisting_and_Closures_in_Javascript.svg)](https://dev.to/tejeswararao123/scope-hoisting-and-closures-in-javascript-5e7o)
-[![What I'd like to see AI used for - women's month edition](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_I'd_like_to_see_AI_used_for_-_women's_month_edition.svg)](https://dev.to/sylwiavargas/what-id-like-to-see-ai-used-for-womens-month-edition-5768)
-[![AWS Terraform for Single Containers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_Terraform_for_Single_Containers.svg)](https://dev.to/tythos/aws-terraform-for-single-containers-5dkf)
-[![Mulheres na Tecnologia](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mulheres_na_Tecnologia.svg)](https://dev.to/feministech/mulheres-na-tecnologia-51mo)
+[![PHP Search Box with MYSQL and AJAX JQuery](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/PHP_Search_Box_with_MYSQL_and_AJAX_JQuery.svg)](https://dev.to/adeleyeayodeji/php-search-box-with-mysql-and-ajax-jquery-3ba0)
+[![10 Common Mistakes to Avoid While Writing JavaScript Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_Common_Mistakes_to_Avoid_While_Writing_JavaScript_Code.svg)](https://dev.to/dhanushnehru/10-common-mistakes-to-avoid-while-writing-javascript-code-39cg)
+[![5 resources to create your next CSS background](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_resources_to_create_your_next_CSS_background.svg)](https://dev.to/justice_hub/5-resources-to-create-your-next-css-background-ll3)
+[![SOLID Principal](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/SOLID_Principal.svg)](https://dev.to/ajaz/solid-principal-2hkj)
+[![Redux-like state container in SwiftUI: Connectors.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Redux-like_state_container_in_SwiftUI__Connectors..svg)](https://dev.to/sergeyleschev/redux-like-state-container-in-swiftui-connectors-b31)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, March 18, 2023 at 12:10:58 AM
+> Last updated: Saturday, March 18, 2023 at 6:15:17 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, March 18, 2023 at 12:11:02 AM
+> Last updated: Saturday, March 18, 2023 at 6:15:19 AM
 
 > Showing 5 of 30 posts.
 
