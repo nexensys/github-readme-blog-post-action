@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, March 18, 2023 at 6:53:36 PM
+> Last updated: Sunday, March 19, 2023 at 12:12:14 AM
 
 > Showing 5 of 12 posts.
 
+[![Why Hackathons and Swag are Essential for ICT Undergraduates](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_Hackathons_and_Swag_are_Essential_for_ICT_Undergraduates.svg)](https://dev.to/abhixsh/why-hackathons-and-swag-are-essential-for-ict-undergraduates-15mm)
+[![CSS Box-Sizing Tutorial](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CSS_Box-Sizing_Tutorial.svg)](https://dev.to/akshdesai1/css-box-sizing-tutorial-fli)
+[![Creating Basic Shapes with CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_Basic_Shapes_with_CSS.svg)](https://dev.to/rutikkpatel/creating-basic-shapes-with-css-3m0e)
 [![A Beginner’s Guide to Cryptocurrency Wallets](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Beginner’s_Guide_to_Cryptocurrency_Wallets.svg)](https://dev.to/rejoice/a-beginners-guide-to-cryptocurrency-wallets-j5g)
 [![What in the World is the DOM?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_in_the_World_is_the_DOM_.svg)](https://dev.to/beaucoburn/what-in-the-world-is-the-dom-bbe)
-[![How To Build The Video And Voice Call App With ZEGOCLOUD In React Native](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Build_The_Video_And_Voice_Call_App_With_ZEGOCLOUD_In_React_Native.svg)](https://dev.to/codewithdarkwa/how-to-build-the-video-and-voice-call-app-with-zegocloud-in-react-native-2gj3)
-[![Getting Started with Ansible: An Introduction to Automation, Configuration Management, and Orchestration](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_Started_with_Ansible__An_Introduction_to_Automation__Configuration_Management__and_Orchestration.svg)](https://dev.to/xlmriosx/getting-started-with-ansible-an-introduction-to-automation-configuration-management-and-orchestration-1h95)
-[![Install CMake on Windows](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Install_CMake_on_Windows.svg)](https://dev.to/arun3sh/install-cmake-on-windows-4eo5)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, March 18, 2023 at 6:53:39 PM
+> Last updated: Sunday, March 19, 2023 at 12:12:17 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, March 18, 2023 at 6:53:41 PM
+> Last updated: Sunday, March 19, 2023 at 12:12:20 AM
 
 > Showing 5 of 30 posts.
 
+[![15 Hover Card Effect With Animation And Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/15_Hover_Card_Effect_With_Animation_And_Javascript.svg)](https://wizardry-design.com/15-hover-card-effect-with-animation-and-javascript/)
 [![Exploring the Possibilities of React Native Vision Camera](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Exploring_the_Possibilities_of_React_Native_Vision_Camera.svg)](https://dskcode.com/react-native-vision-camera)
 [![Learning JavaScript from ChatGPT](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Learning_JavaScript_from_ChatGPT.svg)](https://medium.com/javascript-scene/learning-javascript-from-chatgpt-c0baebc19ae9)
 [![How to Use v-model with Form Inputs in Vue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Use_v-model_with_Form_Inputs_in_Vue.svg)](https://dmitripavlutin.com/vue-v-model-form-inputs/)
 [![yobulkdev/pages/api/upload at main · yobulkdev/yobulkdev](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/yobulkdev_pages_api_upload_at_main_·_yobulkdev_yobulkdev.svg)](https://github.com/yobulkdev/yobulkdev)
-[![GitHub - rasimandiran/react-file-trap: Simple wrapper component that convert child component to a drag and drop file input](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_rasimandiran_react-file-trap__Simple_wrapper_component_that_convert_child_component_to_a_drag_and_drop_file_input.svg)](https://github.com/rasimandiran/react-file-trap)
 
 
 <!-- post-list:end -->
