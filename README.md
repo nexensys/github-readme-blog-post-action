@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, March 18, 2023 at 12:10:06 PM
+> Last updated: Saturday, March 18, 2023 at 6:53:36 PM
 
 > Showing 5 of 12 posts.
 
-[![A Beginner's Guide to Smart Contracts: Exploring the Simple Storage Contract on Ethereum in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Beginner's_Guide_to_Smart_Contracts__Exploring_the_Simple_Storage_Contract_on_Ethereum_in_2023.svg)](https://dev.to/rike/a-beginners-guide-to-smart-contracts-exploring-the-simple-storage-contract-on-ethereum-in-2023-21m0)
-[![Country Phone Extension Search Javascript package.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Country_Phone_Extension_Search_Javascript_package..svg)](https://dev.to/mayank30/country-phone-extension-search-javascript-package-3pa0)
-[![Managing Dependencies in Node.js: An Overview of NPM and Yarn](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Managing_Dependencies_in_Node.js__An_Overview_of_NPM_and_Yarn.svg)](https://dev.to/ubaydah/managing-dependencies-in-nodejs-an-overview-of-npm-and-yarn-2g9n)
-[![Never Miss Notifications Using SMS Github Action](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Never_Miss_Notifications_Using_SMS_Github_Action.svg)](https://dev.to/alphaolomi/never-miss-notifications-using-sms-github-action-29c0)
-[![Next.js Authentication using Higher-Order Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Next.js_Authentication_using_Higher-Order_Components.svg)](https://dev.to/theodorusclarence/nextjs-authentication-using-higher-order-components-23ac)
+[![A Beginner’s Guide to Cryptocurrency Wallets](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Beginner’s_Guide_to_Cryptocurrency_Wallets.svg)](https://dev.to/rejoice/a-beginners-guide-to-cryptocurrency-wallets-j5g)
+[![What in the World is the DOM?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_in_the_World_is_the_DOM_.svg)](https://dev.to/beaucoburn/what-in-the-world-is-the-dom-bbe)
+[![How To Build The Video And Voice Call App With ZEGOCLOUD In React Native](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Build_The_Video_And_Voice_Call_App_With_ZEGOCLOUD_In_React_Native.svg)](https://dev.to/codewithdarkwa/how-to-build-the-video-and-voice-call-app-with-zegocloud-in-react-native-2gj3)
+[![Getting Started with Ansible: An Introduction to Automation, Configuration Management, and Orchestration](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_Started_with_Ansible__An_Introduction_to_Automation__Configuration_Management__and_Orchestration.svg)](https://dev.to/xlmriosx/getting-started-with-ansible-an-introduction-to-automation-configuration-management-and-orchestration-1h95)
+[![Install CMake on Windows](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Install_CMake_on_Windows.svg)](https://dev.to/arun3sh/install-cmake-on-windows-4eo5)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, March 18, 2023 at 12:10:10 PM
+> Last updated: Saturday, March 18, 2023 at 6:53:39 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, March 18, 2023 at 12:10:13 PM
+> Last updated: Saturday, March 18, 2023 at 6:53:41 PM
 
 > Showing 5 of 30 posts.
 
