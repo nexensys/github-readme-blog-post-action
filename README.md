@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, March 19, 2023 at 6:15:29 AM
+> Last updated: Sunday, March 19, 2023 at 12:10:27 PM
 
 > Showing 5 of 12 posts.
 
-[![An Introduction to AWS Batch](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/An_Introduction_to_AWS_Batch.svg)](https://dev.to/aws-builders/an-introduction-to-aws-batch-2pei)
-[![Revolutionizing APIs: The GraphQL Future](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Revolutionizing_APIs__The_GraphQL_Future.svg)](https://dev.to/jagroop2000/revolutionizing-apis-the-graphql-future-2gc9)
-[![Best Ways to Use Media Query Breakpoints with 3 Frameworks in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_Ways_to_Use_Media_Query_Breakpoints_with_3_Frameworks_in_2023.svg)](https://dev.to/themewagon/best-ways-to-use-media-query-breakpoints-with-3-frameworks-in-2023-4jl6)
-[![TypeScript for Beginners: What You Should Know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/TypeScript_for_Beginners__What_You_Should_Know.svg)](https://dev.to/swordheath/typescript-for-beginners-what-you-should-know-n0a)
-[![AWS Services for Blogging: A Comprehensive Overview](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_Services_for_Blogging__A_Comprehensive_Overview.svg)](https://dev.to/manojlingala/aws-services-for-blogging-a-comprehensive-overview-3e4b)
+[![Python Portfolio - Dynamic Invitation Image Generator](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Python_Portfolio_-_Dynamic_Invitation_Image_Generator.svg)](https://dev.to/tirthpatel/python-portfolio-dynamic-invitation-image-generator-1b2g)
+[![Why use graph database?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_use_graph_database_.svg)](https://dev.to/zainabsaad/why-use-graph-database-26b)
+[![Uploading multiple files at the same time using multithreading in NodeJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Uploading_multiple_files_at_the_same_time_using_multithreading_in_NodeJS.svg)](https://dev.to/wesleymreng7/uploading-multiple-files-at-the-same-time-using-multithreading-in-nodejs-3ib4)
+[![4 Ways to Automate Visual Regression Tests](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/4_Ways_to_Automate_Visual_Regression_Tests.svg)](https://dev.to/willkre/4-ways-to-automate-visual-regression-tests-39f5)
+[![Como adicionar banco de dados em uma aplicação .NET 7 [PT-BR]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Como_adicionar_banco_de_dados_em_uma_aplicação_.NET_7_[PT-BR].svg)](https://dev.to/andredarcie/como-adicionar-banco-de-dados-em-uma-aplicacao-net-7-pt-br-mi9)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, March 19, 2023 at 6:15:33 AM
+> Last updated: Sunday, March 19, 2023 at 12:10:30 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, March 19, 2023 at 6:15:37 AM
+> Last updated: Sunday, March 19, 2023 at 12:10:33 PM
 
 > Showing 5 of 30 posts.
 
+[![React Native Image Compressor](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_Native_Image_Compressor.svg)](https://dskcode.com/react-native-image-compressor)
 [![15 Hover Card Effect With Animation And Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/15_Hover_Card_Effect_With_Animation_And_Javascript.svg)](https://wizardry-design.com/15-hover-card-effect-with-animation-and-javascript/)
 [![Exploring the Possibilities of React Native Vision Camera](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Exploring_the_Possibilities_of_React_Native_Vision_Camera.svg)](https://dskcode.com/react-native-vision-camera)
 [![Learning JavaScript from ChatGPT](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Learning_JavaScript_from_ChatGPT.svg)](https://medium.com/javascript-scene/learning-javascript-from-chatgpt-c0baebc19ae9)
 [![How to Use v-model with Form Inputs in Vue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Use_v-model_with_Form_Inputs_in_Vue.svg)](https://dmitripavlutin.com/vue-v-model-form-inputs/)
-[![yobulkdev/pages/api/upload at main · yobulkdev/yobulkdev](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/yobulkdev_pages_api_upload_at_main_·_yobulkdev_yobulkdev.svg)](https://github.com/yobulkdev/yobulkdev)
 
 
 <!-- post-list:end -->
