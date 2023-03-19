@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, March 19, 2023 at 12:12:14 AM
+> Last updated: Sunday, March 19, 2023 at 6:15:29 AM
 
 > Showing 5 of 12 posts.
 
-[![Why Hackathons and Swag are Essential for ICT Undergraduates](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_Hackathons_and_Swag_are_Essential_for_ICT_Undergraduates.svg)](https://dev.to/abhixsh/why-hackathons-and-swag-are-essential-for-ict-undergraduates-15mm)
-[![CSS Box-Sizing Tutorial](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CSS_Box-Sizing_Tutorial.svg)](https://dev.to/akshdesai1/css-box-sizing-tutorial-fli)
-[![Creating Basic Shapes with CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_Basic_Shapes_with_CSS.svg)](https://dev.to/rutikkpatel/creating-basic-shapes-with-css-3m0e)
-[![A Beginner’s Guide to Cryptocurrency Wallets](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Beginner’s_Guide_to_Cryptocurrency_Wallets.svg)](https://dev.to/rejoice/a-beginners-guide-to-cryptocurrency-wallets-j5g)
-[![What in the World is the DOM?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_in_the_World_is_the_DOM_.svg)](https://dev.to/beaucoburn/what-in-the-world-is-the-dom-bbe)
+[![An Introduction to AWS Batch](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/An_Introduction_to_AWS_Batch.svg)](https://dev.to/aws-builders/an-introduction-to-aws-batch-2pei)
+[![Revolutionizing APIs: The GraphQL Future](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Revolutionizing_APIs__The_GraphQL_Future.svg)](https://dev.to/jagroop2000/revolutionizing-apis-the-graphql-future-2gc9)
+[![Best Ways to Use Media Query Breakpoints with 3 Frameworks in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_Ways_to_Use_Media_Query_Breakpoints_with_3_Frameworks_in_2023.svg)](https://dev.to/themewagon/best-ways-to-use-media-query-breakpoints-with-3-frameworks-in-2023-4jl6)
+[![TypeScript for Beginners: What You Should Know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/TypeScript_for_Beginners__What_You_Should_Know.svg)](https://dev.to/swordheath/typescript-for-beginners-what-you-should-know-n0a)
+[![AWS Services for Blogging: A Comprehensive Overview](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_Services_for_Blogging__A_Comprehensive_Overview.svg)](https://dev.to/manojlingala/aws-services-for-blogging-a-comprehensive-overview-3e4b)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, March 19, 2023 at 12:12:17 AM
+> Last updated: Sunday, March 19, 2023 at 6:15:33 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, March 19, 2023 at 12:12:20 AM
+> Last updated: Sunday, March 19, 2023 at 6:15:37 AM
 
 > Showing 5 of 30 posts.
 
