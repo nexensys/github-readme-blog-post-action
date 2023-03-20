@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, March 20, 2023 at 12:12:38 AM
+> Last updated: Monday, March 20, 2023 at 6:17:56 AM
 
 > Showing 5 of 12 posts.
 
-[![Netex, VMware Kaynağı Ekleme ve Kullanımı](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Netex__VMware_Kaynağı_Ekleme_ve_Kullanımı.svg)](https://dev.to/aciklab/netex-vmware-kaynagi-ekleme-ve-kullanimi-375e)
-[![Netex, Sertifika'nın Güncellenmesi](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Netex__Sertifika'nın_Güncellenmesi.svg)](https://dev.to/aciklab/netex-sertifikanin-guncellenmesi-1867)
-[![RPM tabanlı Makinalarda SNMPv3 Kurulumu ve Konfigürasyonu](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/RPM_tabanlı_Makinalarda_SNMPv3_Kurulumu_ve_Konfigürasyonu.svg)](https://dev.to/aciklab/rpm-tabanli-makinalarda-snmpv3-kurulumu-ve-konfigurasyonu-30fo)
-[![Unleashing Twitter's Data: How to Access the Twitter API with JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unleashing_Twitter's_Data__How_to_Access_the_Twitter_API_with_JavaScript.svg)](https://dev.to/nimeshbrt/unleashing-twitters-data-how-to-access-the-twitter-api-with-javascript-24mp)
-[![EventBus Mesh](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/EventBus_Mesh.svg)](https://dev.to/aws-builders/eventbus-mesh-4c8o)
+[![Setup CloudFront & Amazon S3 to Deliver objects on the Web Apps (securely & efficiently)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Setup_CloudFront___Amazon_S3_to_Deliver_objects_on_the_Web_Apps_(securely___efficiently).svg)](https://dev.to/tanmaygi/setup-cloudfront-amazon-s3-to-deliver-objects-on-the-web-apps-securely-efficiently-2gnk)
+[![Structs in Julia](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Structs_in_Julia.svg)](https://dev.to/ifihan/structs-in-julia-ock)
+[![What the FORK are you doing?!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_the_FORK_are_you_doing_!.svg)](https://dev.to/this-is-learning/what-the-fork-are-you-doing-4n68)
+[![React and Firestore Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_and_Firestore_Part_1.svg)](https://dev.to/salehmubashar/react-and-firestore-part-1-2ab2)
+[![Salesforce Mastery: Maximizing ROI and Streamlining Business Processes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Salesforce_Mastery__Maximizing_ROI_and_Streamlining_Business_Processes.svg)](https://dev.to/prishav/salesforce-mastery-maximizing-roi-and-streamlining-business-processes-2a85)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, March 20, 2023 at 12:12:42 AM
+> Last updated: Monday, March 20, 2023 at 6:18:00 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, March 20, 2023 at 12:12:45 AM
+> Last updated: Monday, March 20, 2023 at 6:18:03 AM
 
 > Showing 5 of 30 posts.
 
+[![Highlights from Vue.js Nation 2023 | De Voorhoede](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Highlights_from_Vue.js_Nation_2023___De_Voorhoede.svg)](https://www.voorhoede.nl/en/blog/highlights-vue-js-nation-2023/)
+[![GitHub - ptrumpis/snap-lens-web-crawler: Crawl and download Snap Lenses from lens.snapchat.com with ease](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ptrumpis_snap-lens-web-crawler__Crawl_and_download_Snap_Lenses_from_lens.snapchat.com_with_ease.svg)](https://github.com/ptrumpis/snap-lens-web-crawler)
 [![React Native Image Compressor](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_Native_Image_Compressor.svg)](https://dskcode.com/react-native-image-compressor)
 [![15 Hover Card Effect With Animation And Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/15_Hover_Card_Effect_With_Animation_And_Javascript.svg)](https://wizardry-design.com/15-hover-card-effect-with-animation-and-javascript/)
 [![Exploring the Possibilities of React Native Vision Camera](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Exploring_the_Possibilities_of_React_Native_Vision_Camera.svg)](https://dskcode.com/react-native-vision-camera)
-[![Learning JavaScript from ChatGPT](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Learning_JavaScript_from_ChatGPT.svg)](https://medium.com/javascript-scene/learning-javascript-from-chatgpt-c0baebc19ae9)
-[![How to Use v-model with Form Inputs in Vue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Use_v-model_with_Form_Inputs_in_Vue.svg)](https://dmitripavlutin.com/vue-v-model-form-inputs/)
 
 
 <!-- post-list:end -->
