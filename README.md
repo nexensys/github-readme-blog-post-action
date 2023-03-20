@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, March 20, 2023 at 6:17:56 AM
+> Last updated: Monday, March 20, 2023 at 12:11:49 PM
 
 > Showing 5 of 12 posts.
 
-[![Setup CloudFront & Amazon S3 to Deliver objects on the Web Apps (securely & efficiently)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Setup_CloudFront___Amazon_S3_to_Deliver_objects_on_the_Web_Apps_(securely___efficiently).svg)](https://dev.to/tanmaygi/setup-cloudfront-amazon-s3-to-deliver-objects-on-the-web-apps-securely-efficiently-2gnk)
-[![Structs in Julia](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Structs_in_Julia.svg)](https://dev.to/ifihan/structs-in-julia-ock)
-[![What the FORK are you doing?!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_the_FORK_are_you_doing_!.svg)](https://dev.to/this-is-learning/what-the-fork-are-you-doing-4n68)
-[![React and Firestore Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_and_Firestore_Part_1.svg)](https://dev.to/salehmubashar/react-and-firestore-part-1-2ab2)
-[![Salesforce Mastery: Maximizing ROI and Streamlining Business Processes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Salesforce_Mastery__Maximizing_ROI_and_Streamlining_Business_Processes.svg)](https://dev.to/prishav/salesforce-mastery-maximizing-roi-and-streamlining-business-processes-2a85)
+[![Guide: Installing New Relic Agent on Nginx](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Guide__Installing_New_Relic_Agent_on_Nginx.svg)](https://dev.to/alexanderisora/guide-installing-new-relic-agent-on-nginx-44m2)
+[![chicago](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/chicago.svg)](https://dev.to/ulisse/chicago-1hai)
+[![padlock](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/padlock.svg)](https://dev.to/ulisse/padlock-2egi)
+[![Implementing Wildcard Subdomain (Part 2) - Creating subdomain programmatically](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Implementing_Wildcard_Subdomain_(Part_2)_-_Creating_subdomain_programmatically.svg)](https://dev.to/akinmyde/implementing-wildcard-subdomain-part-2-creating-subdomain-programmatically-223i)
+[![How to be Better in React Code Reusability - Part2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_be_Better_in_React_Code_Reusability_-_Part2.svg)](https://dev.to/aradwan20/how-to-be-better-in-react-code-reusability-part2-5cc2)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, March 20, 2023 at 6:18:00 AM
+> Last updated: Monday, March 20, 2023 at 12:11:52 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, March 20, 2023 at 6:18:03 AM
+> Last updated: Monday, March 20, 2023 at 12:11:56 PM
 
 > Showing 5 of 30 posts.
 
+[![Create React native Buttons with Easy-to-Use Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Create_React_native_Buttons_with_Easy-to-Use_Components.svg)](https://dskcode.com/react-native-button-component)
+[![GitHub - humblepenguinn/envio: Envio is a command-line tool that simplifies the management of environment variables across multiple profiles. It allows users to easily switch between different configurations and apply them to their current environment](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_humblepenguinn_envio__Envio_is_a_command-line_tool_that_simplifies_the_management_of_environment_variables_across_multiple_profiles._It_allows_users_to_easily_switch_between_different_configurations_and_apply_them_to_their_current_environment.svg)](https://github.com/humblepenguinn/envio)
 [![Highlights from Vue.js Nation 2023 | De Voorhoede](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Highlights_from_Vue.js_Nation_2023___De_Voorhoede.svg)](https://www.voorhoede.nl/en/blog/highlights-vue-js-nation-2023/)
 [![GitHub - ptrumpis/snap-lens-web-crawler: Crawl and download Snap Lenses from lens.snapchat.com with ease](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ptrumpis_snap-lens-web-crawler__Crawl_and_download_Snap_Lenses_from_lens.snapchat.com_with_ease.svg)](https://github.com/ptrumpis/snap-lens-web-crawler)
 [![React Native Image Compressor](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_Native_Image_Compressor.svg)](https://dskcode.com/react-native-image-compressor)
-[![15 Hover Card Effect With Animation And Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/15_Hover_Card_Effect_With_Animation_And_Javascript.svg)](https://wizardry-design.com/15-hover-card-effect-with-animation-and-javascript/)
-[![Exploring the Possibilities of React Native Vision Camera](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Exploring_the_Possibilities_of_React_Native_Vision_Camera.svg)](https://dskcode.com/react-native-vision-camera)
 
 
 <!-- post-list:end -->
