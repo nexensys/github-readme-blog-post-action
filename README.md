@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, March 21, 2023 at 6:16:30 AM
+> Last updated: Tuesday, March 21, 2023 at 12:10:54 PM
 
 > Showing 5 of 12 posts.
 
-[![Build your first Data science project from your Netflix data](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_your_first_Data_science_project_from_your_Netflix_data.svg)](https://dev.to/shittu_olumide_/build-your-first-data-science-project-from-your-netflix-data-4gi0)
-[![JavaScript-Promises](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript-Promises.svg)](https://dev.to/kebean10/javascript-promises-66n)
-[![Chat Indexing with Chatsindex.com](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Chat_Indexing_with_Chatsindex.com.svg)](https://dev.to/mmuller88/chat-indexing-with-chatsindexcom-3i11)
-[![How Woovi Handles Pair Programming](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_Woovi_Handles_Pair_Programming.svg)](https://dev.to/woovi/how-woovi-handles-pair-programming-3anj)
-[![Mastering Git with ChatGPT — best auto-commits you've ever seen](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_Git_with_ChatGPT_—_best_auto-commits_you've_ever_seen.svg)](https://dev.to/disukharev/mastering-git-with-chatgpt-best-autocommits-youve-ever-seen-1l1m)
+[![[Desafio] - 10 Desafios Simples de System Design](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/[Desafio]_-_10_Desafios_Simples_de_System_Design.svg)](https://dev.to/zanfranceschi/desafio-10-desafios-simples-de-system-design-c3h)
+[![Encryption: Explained to a 5 Year Old 👶🏻](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Encryption__Explained_to_a_5_Year_Old_👶🏻.svg)](https://dev.to/acidop/encryption-explained-to-a-5-year-old-fci)
+[![Create A Passwordless Authentication System](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_A_Passwordless_Authentication_System.svg)](https://dev.to/kalashin1/create-a-passwordless-authentication-system-ci3)
+[![API with Typescript + Nest + TypeORM + Postgres + Docker](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/API_with_Typescript_+_Nest_+_TypeORM_+_Postgres_+_Docker.svg)](https://dev.to/filbraga/api-with-typescript-nest-typeorm-postgres-docker-1m81)
+[![DevOps For Developers: Continuous Integration, GitHub Actions & Sonar Cloud](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/DevOps_For_Developers__Continuous_Integration__GitHub_Actions___Sonar_Cloud.svg)](https://dev.to/codenameone/devops-for-developers-continuous-integration-github-actions-sonar-cloud-ob0)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, March 21, 2023 at 6:16:34 AM
+> Last updated: Tuesday, March 21, 2023 at 12:10:58 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, March 21, 2023 at 6:16:39 AM
+> Last updated: Tuesday, March 21, 2023 at 12:11:03 PM
 
 > Showing 5 of 30 posts.
 
 [![
-Import Snap Lenses from your application cache
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Import_Snap_Lenses_from_your_application_cache_.svg)](
-https://ptrumpis.github.io/snap-lens-cache-import/
+Introducing envio: The Secure CLI Tool for Managing Environment Variables
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Introducing_envio__The_Secure_CLI_Tool_for_Managing_Environment_Variables_.svg)](
+http://www.echojs.com/news/41594
 )
 [![API with NestJS #100. The HTTPS protocol with Route 53 and AWS Certificate Manager](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__100._The_HTTPS_protocol_with_Route_53_and_AWS_Certificate_Manager.svg)](https://wanago.io/2023/03/20/api-nestjs-https-aws/)
 [![Create React native Buttons with Easy-to-Use Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Create_React_native_Buttons_with_Easy-to-Use_Components.svg)](https://dskcode.com/react-native-button-component)
-[![GitHub - humblepenguinn/envio: Envio is a command-line tool that simplifies the management of environment variables across multiple profiles. It allows users to easily switch between different configurations and apply them to their current environment](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_humblepenguinn_envio__Envio_is_a_command-line_tool_that_simplifies_the_management_of_environment_variables_across_multiple_profiles._It_allows_users_to_easily_switch_between_different_configurations_and_apply_them_to_their_current_environment.svg)](https://github.com/humblepenguinn/envio)
 [![Highlights from Vue.js Nation 2023 | De Voorhoede](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Highlights_from_Vue.js_Nation_2023___De_Voorhoede.svg)](https://www.voorhoede.nl/en/blog/highlights-vue-js-nation-2023/)
+[![GitHub - ptrumpis/snap-lens-web-crawler: Crawl and download Snap Lenses from lens.snapchat.com with ease](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ptrumpis_snap-lens-web-crawler__Crawl_and_download_Snap_Lenses_from_lens.snapchat.com_with_ease.svg)](https://github.com/ptrumpis/snap-lens-web-crawler)
 
 
 <!-- post-list:end -->
