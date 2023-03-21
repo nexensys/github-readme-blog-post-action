@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, March 20, 2023 at 6:44:02 PM
+> Last updated: Tuesday, March 21, 2023 at 12:11:27 AM
 
 > Showing 5 of 12 posts.
 
+[![C++ if, if...else and Nested if...else](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/C++_if__if...else_and_Nested_if...else.svg)](https://dev.to/manzura07/c-if-ifelse-and-nested-ifelse-20o8)
+[![Image Generation Tutorial Using Python And The Leaf API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Image_Generation_Tutorial_Using_Python_And_The_Leaf_API.svg)](https://dev.to/ethand91/image-generation-tutorial-using-python-and-the-leaf-api-2jgf)
+[![Conte sua história](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Conte_sua_história.svg)](https://dev.to/feministech/conte-sua-historia-3912)
+[![AI Hallucinations are still around](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AI_Hallucinations_are_still_around.svg)](https://dev.to/contenda/ai-hallucinations-are-still-around-1330)
 [![⚔React vs. Vue.js: A Batalha dos Gigantes do Front-end](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/⚔React_vs._Vue.js__A_Batalha_dos_Gigantes_do_Front-end.svg)](https://dev.to/mpetry/react-vs-vuejs-a-batalha-dos-gigantes-do-front-end-2pdk)
-[![How Senior Developers Sabotage Interviews](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_Senior_Developers_Sabotage_Interviews.svg)](https://dev.to/bybydev/how-senior-developers-sabotage-interviews-497n)
-[![Teoria de Grafos em Everything Everywhere All at Once](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Teoria_de_Grafos_em_Everything_Everywhere_All_at_Once.svg)](https://dev.to/vanessatelles/teoria-de-grafos-em-everything-everywhere-all-at-once-5hhp)
-[![How to Setup Devise for User Authentication on Rails 7](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Setup_Devise_for_User_Authentication_on_Rails_7.svg)](https://dev.to/ackshaey/how-to-setup-devise-for-user-authentication-on-rails-7-ojg)
-[![Zod 101 - A Typescript-first Schema Validation Library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Zod_101_-_A_Typescript-first_Schema_Validation_Library.svg)](https://dev.to/kharioki/zod-101-a-typescript-first-schema-validation-library-4dgm)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, March 20, 2023 at 6:44:05 PM
+> Last updated: Tuesday, March 21, 2023 at 12:11:31 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, March 20, 2023 at 6:44:09 PM
+> Last updated: Tuesday, March 21, 2023 at 12:11:36 AM
 
 > Showing 5 of 30 posts.
 
