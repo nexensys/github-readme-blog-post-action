@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, March 20, 2023 at 12:11:49 PM
+> Last updated: Monday, March 20, 2023 at 6:44:02 PM
 
 > Showing 5 of 12 posts.
 
-[![Guide: Installing New Relic Agent on Nginx](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Guide__Installing_New_Relic_Agent_on_Nginx.svg)](https://dev.to/alexanderisora/guide-installing-new-relic-agent-on-nginx-44m2)
-[![chicago](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/chicago.svg)](https://dev.to/ulisse/chicago-1hai)
-[![padlock](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/padlock.svg)](https://dev.to/ulisse/padlock-2egi)
-[![Implementing Wildcard Subdomain (Part 2) - Creating subdomain programmatically](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Implementing_Wildcard_Subdomain_(Part_2)_-_Creating_subdomain_programmatically.svg)](https://dev.to/akinmyde/implementing-wildcard-subdomain-part-2-creating-subdomain-programmatically-223i)
-[![How to be Better in React Code Reusability - Part2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_be_Better_in_React_Code_Reusability_-_Part2.svg)](https://dev.to/aradwan20/how-to-be-better-in-react-code-reusability-part2-5cc2)
+[![⚔React vs. Vue.js: A Batalha dos Gigantes do Front-end](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/⚔React_vs._Vue.js__A_Batalha_dos_Gigantes_do_Front-end.svg)](https://dev.to/mpetry/react-vs-vuejs-a-batalha-dos-gigantes-do-front-end-2pdk)
+[![How Senior Developers Sabotage Interviews](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_Senior_Developers_Sabotage_Interviews.svg)](https://dev.to/bybydev/how-senior-developers-sabotage-interviews-497n)
+[![Teoria de Grafos em Everything Everywhere All at Once](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Teoria_de_Grafos_em_Everything_Everywhere_All_at_Once.svg)](https://dev.to/vanessatelles/teoria-de-grafos-em-everything-everywhere-all-at-once-5hhp)
+[![How to Setup Devise for User Authentication on Rails 7](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Setup_Devise_for_User_Authentication_on_Rails_7.svg)](https://dev.to/ackshaey/how-to-setup-devise-for-user-authentication-on-rails-7-ojg)
+[![Zod 101 - A Typescript-first Schema Validation Library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Zod_101_-_A_Typescript-first_Schema_Validation_Library.svg)](https://dev.to/kharioki/zod-101-a-typescript-first-schema-validation-library-4dgm)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, March 20, 2023 at 12:11:52 PM
+> Last updated: Monday, March 20, 2023 at 6:44:05 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, March 20, 2023 at 12:11:56 PM
+> Last updated: Monday, March 20, 2023 at 6:44:09 PM
 
 > Showing 5 of 30 posts.
 
+[![API with NestJS #100. The HTTPS protocol with Route 53 and AWS Certificate Manager](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__100._The_HTTPS_protocol_with_Route_53_and_AWS_Certificate_Manager.svg)](https://wanago.io/2023/03/20/api-nestjs-https-aws/)
 [![Create React native Buttons with Easy-to-Use Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Create_React_native_Buttons_with_Easy-to-Use_Components.svg)](https://dskcode.com/react-native-button-component)
 [![GitHub - humblepenguinn/envio: Envio is a command-line tool that simplifies the management of environment variables across multiple profiles. It allows users to easily switch between different configurations and apply them to their current environment](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_humblepenguinn_envio__Envio_is_a_command-line_tool_that_simplifies_the_management_of_environment_variables_across_multiple_profiles._It_allows_users_to_easily_switch_between_different_configurations_and_apply_them_to_their_current_environment.svg)](https://github.com/humblepenguinn/envio)
 [![Highlights from Vue.js Nation 2023 | De Voorhoede](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Highlights_from_Vue.js_Nation_2023___De_Voorhoede.svg)](https://www.voorhoede.nl/en/blog/highlights-vue-js-nation-2023/)
 [![GitHub - ptrumpis/snap-lens-web-crawler: Crawl and download Snap Lenses from lens.snapchat.com with ease](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ptrumpis_snap-lens-web-crawler__Crawl_and_download_Snap_Lenses_from_lens.snapchat.com_with_ease.svg)](https://github.com/ptrumpis/snap-lens-web-crawler)
-[![React Native Image Compressor](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_Native_Image_Compressor.svg)](https://dskcode.com/react-native-image-compressor)
 
 
 <!-- post-list:end -->
