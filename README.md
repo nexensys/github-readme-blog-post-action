@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, March 22, 2023 at 12:11:06 AM
+> Last updated: Wednesday, March 22, 2023 at 6:16:21 AM
 
 > Showing 5 of 12 posts.
 
-[![Zabbix 6.X LDAP Entegrasyonu](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Zabbix_6.X_LDAP_Entegrasyonu.svg)](https://dev.to/aciklab/zabbix-6-ldap-entegrasyonu-gol)
-[![Comprehensive comparison of Web Apps, PWAs, SPAs, Hybrid Apps, and Native Apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Comprehensive_comparison_of_Web_Apps__PWAs__SPAs__Hybrid_Apps__and_Native_Apps.svg)](https://dev.to/toviszsolt/comprehensive-comparison-of-web-apps-pwas-spas-hybrid-apps-and-native-apps-3m03)
-[![CSS Display](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CSS_Display.svg)](https://dev.to/rutikkpatel/css-display-4hfg)
-[![O guia definitivo para hospedar uma SPA Angular/React com S3, Route 53 e CloudFront](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/O_guia_definitivo_para_hospedar_uma_SPA_Angular_React_com_S3__Route_53_e_CloudFront.svg)](https://dev.to/aws-builders/o-guia-definitivo-para-hospedar-uma-spa-angularreact-com-s3-route-53-e-cloudfront-232h)
-[![Semantic HTML](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Semantic_HTML.svg)](https://dev.to/nicvazquez/semantic-html-48kg)
+[![7 Tips on the profession of UI/UX Design](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/7_Tips_on_the_profession_of_UI_UX_Design.svg)](https://dev.to/albericojr/7-tips-on-the-profession-of-uiux-design-3g1i)
+[![Top 5 React Admin Templates](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_5_React_Admin_Templates.svg)](https://dev.to/necatiozmen/top-5-react-admin-templates-j0b)
+[![Making sure our database queries are fast](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Making_sure_our_database_queries_are_fast.svg)](https://dev.to/woovi/making-sure-our-database-queries-are-fast-2625)
+[![Create a Pull Request from Visual Studio Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_a_Pull_Request_from_Visual_Studio_Code.svg)](https://dev.to/this-is-learning/create-a-pull-request-from-visual-studio-code-18nh)
+[![How to Identify Essential Proteins Using Betweenness Centrality](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Identify_Essential_Proteins_Using_Betweenness_Centrality.svg)](https://dev.to/memgraph/how-to-identify-essential-proteins-using-betweenness-centrality-575j)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, March 22, 2023 at 12:11:09 AM
+> Last updated: Wednesday, March 22, 2023 at 6:16:24 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,12 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, March 22, 2023 at 12:11:15 AM
+> Last updated: Wednesday, March 22, 2023 at 6:16:29 AM
 
 > Showing 5 of 30 posts.
 
+[![Cool frontend arts of local-first: storage, sync, conflicts—Martian Chronicles, Evil Martians’ team blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Cool_frontend_arts_of_local-first__storage__sync__conflicts—Martian_Chronicles__Evil_Martians’_team_blog.svg)](https://evilmartians.com/chronicles/cool-front-end-arts-of-local-first-storage-sync-and-conflicts)
+[![GitHub - iDev-Games/Trig-JS: The easy way to create CSS animations that react to the element's position on screen.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_iDev-Games_Trig-JS__The_easy_way_to_create_CSS_animations_that_react_to_the_element's_position_on_screen..svg)](https://github.com/iDev-Games/Trig-JS)
 [![Convert Callbacks to Async/Await with OpenAI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Convert_Callbacks_to_Async_Await_with_OpenAI.svg)](
 https://masteringjs.io/tutorials/tools/callback-to-async-await
 )
@@ -56,8 +58,6 @@ Introducing envio: The Secure CLI Tool for Managing Environment Variables
 http://www.echojs.com/news/41594
 )
 [![API with NestJS #100. The HTTPS protocol with Route 53 and AWS Certificate Manager](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__100._The_HTTPS_protocol_with_Route_53_and_AWS_Certificate_Manager.svg)](https://wanago.io/2023/03/20/api-nestjs-https-aws/)
-[![Create React native Buttons with Easy-to-Use Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Create_React_native_Buttons_with_Easy-to-Use_Components.svg)](https://dskcode.com/react-native-button-component)
-[![Highlights from Vue.js Nation 2023 | De Voorhoede](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Highlights_from_Vue.js_Nation_2023___De_Voorhoede.svg)](https://www.voorhoede.nl/en/blog/highlights-vue-js-nation-2023/)
 
 
 <!-- post-list:end -->
