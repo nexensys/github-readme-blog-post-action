@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, March 21, 2023 at 12:10:54 PM
+> Last updated: Tuesday, March 21, 2023 at 6:44:03 PM
 
 > Showing 5 of 12 posts.
 
-[![[Desafio] - 10 Desafios Simples de System Design](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/[Desafio]_-_10_Desafios_Simples_de_System_Design.svg)](https://dev.to/zanfranceschi/desafio-10-desafios-simples-de-system-design-c3h)
-[![Encryption: Explained to a 5 Year Old 👶🏻](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Encryption__Explained_to_a_5_Year_Old_👶🏻.svg)](https://dev.to/acidop/encryption-explained-to-a-5-year-old-fci)
-[![Create A Passwordless Authentication System](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_A_Passwordless_Authentication_System.svg)](https://dev.to/kalashin1/create-a-passwordless-authentication-system-ci3)
-[![API with Typescript + Nest + TypeORM + Postgres + Docker](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/API_with_Typescript_+_Nest_+_TypeORM_+_Postgres_+_Docker.svg)](https://dev.to/filbraga/api-with-typescript-nest-typeorm-postgres-docker-1m81)
-[![DevOps For Developers: Continuous Integration, GitHub Actions & Sonar Cloud](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/DevOps_For_Developers__Continuous_Integration__GitHub_Actions___Sonar_Cloud.svg)](https://dev.to/codenameone/devops-for-developers-continuous-integration-github-actions-sonar-cloud-ob0)
+[![Semantic Search With Xata, OpenAI, TypeScript, and Deno](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Semantic_Search_With_Xata__OpenAI__TypeScript__and_Deno.svg)](https://dev.to/xata/semantic-search-with-xata-openai-typescript-and-deno-31lb)
+[![Decentralized Databases: ComposeDB](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Decentralized_Databases__ComposeDB.svg)](https://dev.to/fllstck/decentralized-databases-composedb-49m3)
+[![How to access a private AWS RDS database](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_access_a_private_AWS_RDS_database.svg)](https://dev.to/aws-builders/how-to-access-a-private-aws-rds-database-d8p)
+[![The easy approach to learning Object-Oriented Programming in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_easy_approach_to_learning_Object-Oriented_Programming_in_JavaScript.svg)](https://dev.to/efkumah/the-easy-approach-to-learning-object-oriented-programming-in-javascript-5e24)
+[![#DEVDiscuss: The Future of AI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_DEVDiscuss__The_Future_of_AI.svg)](https://dev.to/devteam/devdiscuss-the-future-of-ai-45f2)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, March 21, 2023 at 12:10:58 PM
+> Last updated: Tuesday, March 21, 2023 at 6:44:07 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,13 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, March 21, 2023 at 12:11:03 PM
+> Last updated: Tuesday, March 21, 2023 at 6:44:11 PM
 
 > Showing 5 of 30 posts.
 
+[![Convert Callbacks to Async/Await with OpenAI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Convert_Callbacks_to_Async_Await_with_OpenAI.svg)](
+https://masteringjs.io/tutorials/tools/callback-to-async-await
+)
 [![
 Introducing envio: The Secure CLI Tool for Managing Environment Variables
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Introducing_envio__The_Secure_CLI_Tool_for_Managing_Environment_Variables_.svg)](
@@ -55,7 +58,6 @@ http://www.echojs.com/news/41594
 [![API with NestJS #100. The HTTPS protocol with Route 53 and AWS Certificate Manager](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__100._The_HTTPS_protocol_with_Route_53_and_AWS_Certificate_Manager.svg)](https://wanago.io/2023/03/20/api-nestjs-https-aws/)
 [![Create React native Buttons with Easy-to-Use Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Create_React_native_Buttons_with_Easy-to-Use_Components.svg)](https://dskcode.com/react-native-button-component)
 [![Highlights from Vue.js Nation 2023 | De Voorhoede](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Highlights_from_Vue.js_Nation_2023___De_Voorhoede.svg)](https://www.voorhoede.nl/en/blog/highlights-vue-js-nation-2023/)
-[![GitHub - ptrumpis/snap-lens-web-crawler: Crawl and download Snap Lenses from lens.snapchat.com with ease](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ptrumpis_snap-lens-web-crawler__Crawl_and_download_Snap_Lenses_from_lens.snapchat.com_with_ease.svg)](https://github.com/ptrumpis/snap-lens-web-crawler)
 
 
 <!-- post-list:end -->
