@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, March 21, 2023 at 6:44:03 PM
+> Last updated: Wednesday, March 22, 2023 at 12:11:06 AM
 
 > Showing 5 of 12 posts.
 
-[![Semantic Search With Xata, OpenAI, TypeScript, and Deno](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Semantic_Search_With_Xata__OpenAI__TypeScript__and_Deno.svg)](https://dev.to/xata/semantic-search-with-xata-openai-typescript-and-deno-31lb)
-[![Decentralized Databases: ComposeDB](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Decentralized_Databases__ComposeDB.svg)](https://dev.to/fllstck/decentralized-databases-composedb-49m3)
-[![How to access a private AWS RDS database](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_access_a_private_AWS_RDS_database.svg)](https://dev.to/aws-builders/how-to-access-a-private-aws-rds-database-d8p)
-[![The easy approach to learning Object-Oriented Programming in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_easy_approach_to_learning_Object-Oriented_Programming_in_JavaScript.svg)](https://dev.to/efkumah/the-easy-approach-to-learning-object-oriented-programming-in-javascript-5e24)
-[![#DEVDiscuss: The Future of AI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_DEVDiscuss__The_Future_of_AI.svg)](https://dev.to/devteam/devdiscuss-the-future-of-ai-45f2)
+[![Zabbix 6.X LDAP Entegrasyonu](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Zabbix_6.X_LDAP_Entegrasyonu.svg)](https://dev.to/aciklab/zabbix-6-ldap-entegrasyonu-gol)
+[![Comprehensive comparison of Web Apps, PWAs, SPAs, Hybrid Apps, and Native Apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Comprehensive_comparison_of_Web_Apps__PWAs__SPAs__Hybrid_Apps__and_Native_Apps.svg)](https://dev.to/toviszsolt/comprehensive-comparison-of-web-apps-pwas-spas-hybrid-apps-and-native-apps-3m03)
+[![CSS Display](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CSS_Display.svg)](https://dev.to/rutikkpatel/css-display-4hfg)
+[![O guia definitivo para hospedar uma SPA Angular/React com S3, Route 53 e CloudFront](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/O_guia_definitivo_para_hospedar_uma_SPA_Angular_React_com_S3__Route_53_e_CloudFront.svg)](https://dev.to/aws-builders/o-guia-definitivo-para-hospedar-uma-spa-angularreact-com-s3-route-53-e-cloudfront-232h)
+[![Semantic HTML](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Semantic_HTML.svg)](https://dev.to/nicvazquez/semantic-html-48kg)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, March 21, 2023 at 6:44:07 PM
+> Last updated: Wednesday, March 22, 2023 at 12:11:09 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, March 21, 2023 at 6:44:11 PM
+> Last updated: Wednesday, March 22, 2023 at 12:11:15 AM
 
 > Showing 5 of 30 posts.
 
