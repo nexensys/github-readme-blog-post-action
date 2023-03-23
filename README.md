@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, March 23, 2023 at 12:11:20 AM
+> Last updated: Thursday, March 23, 2023 at 6:17:04 AM
 
 > Showing 5 of 12 posts.
 
-[![How to Upload and return files in ASP.NET MVC?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Upload_and_return_files_in_ASP.NET_MVC_.svg)](https://dev.to/ifourtechnolab/how-to-upload-and-return-files-in-aspnet-mvc-13j2)
-[![Print()funksiyasi haqida](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Print()funksiyasi_haqida.svg)](https://dev.to/saidaim0001/printfunksiyasi-haqida-41n3)
-[![5 Hidden Gems in the Python Standard Library You Probably Don't Know About](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Hidden_Gems_in_the_Python_Standard_Library_You_Probably_Don't_Know_About.svg)](https://dev.to/bhavin9920/5-hidden-gems-in-the-python-standard-library-you-probably-dont-know-about-4ii5)
-[![MySQL, PostgreSQL e MariaDB, qual o melhor para o seu uso?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/MySQL__PostgreSQL_e_MariaDB__qual_o_melhor_para_o_seu_uso_.svg)](https://dev.to/gabrielgcj/mysql-postgresql-e-mariadb-qual-o-melhor-para-o-seu-uso-3c3l)
-[![Build and host your own Calendy-like scheduling page using Next.js and Google APIs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_and_host_your_own_Calendy-like_scheduling_page_using_Next.js_and_Google_APIs.svg)](https://dev.to/timfee/build-and-host-your-own-calendy-like-scheduling-page-using-nextjs-and-google-apis-5ack)
+[![A flexible nodejs crawler library — x-crawl](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_flexible_nodejs_crawler_library_—_x-crawl.svg)](https://dev.to/coderhxl/a-flexible-nodejs-crawler-library-x-crawl-50gl)
+[![What's New in ChatGPT-4? Explore New Features | Image Processing to Acing in Tests](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What's_New_in_ChatGPT-4__Explore_New_Features___Image_Processing_to_Acing_in_Tests.svg)](https://dev.to/dhruvjoshi9/what-is-new-in-gpt-4-from-processing-images-to-acing-in-tests-4g59)
+[![RaisedButton Deprecation and Migration Guide With An Example](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/RaisedButton_Deprecation_and_Migration_Guide_With_An_Example.svg)](https://dev.to/kuldeeptarapara/raisedbutton-deprecation-and-migration-guide-with-an-example-4ogo)
+[![I Created An Open-Source Portfolio Website Template For Developers Called WowFolio 🦄](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_Created_An_Open-Source_Portfolio_Website_Template_For_Developers_Called_WowFolio_🦄.svg)](https://dev.to/rammcodes/i-created-an-open-source-portfolio-template-for-developers-called-wowfolio-457k)
+[![Filter PNGs for Acropalypse using Compute@Edge](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Filter_PNGs_for_Acropalypse_using_Compute@Edge.svg)](https://dev.to/fastly/filter-pngs-for-acropalypse-using-computeedge-1c58)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, March 23, 2023 at 12:11:23 AM
+> Last updated: Thursday, March 23, 2023 at 6:17:08 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, March 23, 2023 at 12:11:25 AM
+> Last updated: Thursday, March 23, 2023 at 6:17:12 AM
 
 > Showing 5 of 30 posts.
 
+[![Introducing the highly usable and feature-rich open-source WebGL libraries of egjs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Introducing_the_highly_usable_and_feature-rich_open-source_WebGL_libraries_of_egjs.svg)](https://medium.com/naver-fe-platform/introducing-the-highly-usable-and-feature-rich-open-source-webgl-libraries-of-egjs-ea1c73341b3e)
 [![Web Village Voyage](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Web_Village_Voyage.svg)](https://www.youtube.com/channel/UCrYp-z-6BvFC6P3009q0peg)
 [![
 Envio: The CLI tool you need for your Environment Variables
@@ -55,9 +56,6 @@ http://www.echojs.com/news/41598
 )
 [![Cool frontend arts of local-first: storage, sync, conflicts—Martian Chronicles, Evil Martians’ team blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Cool_frontend_arts_of_local-first__storage__sync__conflicts—Martian_Chronicles__Evil_Martians’_team_blog.svg)](https://evilmartians.com/chronicles/cool-front-end-arts-of-local-first-storage-sync-and-conflicts)
 [![GitHub - iDev-Games/Trig-JS: The easy way to create CSS animations that react to the element's position on screen.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_iDev-Games_Trig-JS__The_easy_way_to_create_CSS_animations_that_react_to_the_element's_position_on_screen..svg)](https://github.com/iDev-Games/Trig-JS)
-[![Convert Callbacks to Async/Await with OpenAI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Convert_Callbacks_to_Async_Await_with_OpenAI.svg)](
-https://masteringjs.io/tutorials/tools/callback-to-async-await
-)
 
 
 <!-- post-list:end -->
