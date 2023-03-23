@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, March 22, 2023 at 12:10:38 PM
+> Last updated: Wednesday, March 22, 2023 at 6:44:16 PM
 
 > Showing 5 of 12 posts.
 
-[![This Week In React #139: React.dev, Remix, Server Components, Error Boundary, Wakuwork, React-Native, Bottom Sheet...](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/This_Week_In_React__139__React.dev__Remix__Server_Components__Error_Boundary__Wakuwork__React-Native__Bottom_Sheet....svg)](https://dev.to/sebastienlorber/this-week-in-react-139-reactdev-remix-server-components-error-boundary-wakuwork-react-native-bottom-sheet-4i9h)
-[![Unlocking Web Accessibility: Tips for Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unlocking_Web_Accessibility__Tips_for_Developers.svg)](https://dev.to/highflyer910/unlocking-web-accessibility-tips-for-developers-d6l)
-[![How to Speed Up your Applications by Caching at the Edge with HarperDB](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Speed_Up_your_Applications_by_Caching_at_the_Edge_with_HarperDB.svg)](https://dev.to/doabledanny/how-to-speed-up-your-applications-by-caching-at-the-edge-with-harperdb-3o2l)
-[![Python One Line While Loop](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Python_One_Line_While_Loop.svg)](https://dev.to/max24816/python-one-line-while-loop-4j2k)
-[![I'm planning to build a new OS for embedded smart displays](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I'm_planning_to_build_a_new_OS_for_embedded_smart_displays.svg)](https://dev.to/souviktests/im-planning-to-build-a-new-os-for-embedded-smart-displays-319e)
+[![The CodeNewbie Podcast, S23:E6: From Site Reliability Engineer to Principal Software Engineer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_CodeNewbie_Podcast__S23_E6__From_Site_Reliability_Engineer_to_Principal_Software_Engineer.svg)](https://dev.to/codenewbieteam/the-codenewbie-podcast-s23e6-from-site-reliability-engineer-to-principal-software-engineer-g36)
+[![Rebuilding my Portfolio with Next, MDX, and Contentlayer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Rebuilding_my_Portfolio_with_Next__MDX__and_Contentlayer.svg)](https://dev.to/emotionaldaffodil/rebuilding-my-portfolio-with-next-mdx-and-contentlayer-11jl)
+[![The Power of Graph Databases: Unlocking the Potential of Connected Data](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Power_of_Graph_Databases__Unlocking_the_Potential_of_Connected_Data.svg)](https://dev.to/m4rcxs/the-power-of-graph-databases-unlocking-the-potential-of-connected-data-39c)
+[![Exciting projects to build using Socket.IO Node.js Express](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exciting_projects_to_build_using_Socket.IO_Node.js_Express.svg)](https://dev.to/blissfelix3/exciting-projects-to-build-using-socketio-nodejs-express-7mn)
+[![The Complete Path to Grokking the Engineering Manager Interview](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Complete_Path_to_Grokking_the_Engineering_Manager_Interview.svg)](https://dev.to/educative/the-complete-path-to-grokking-the-engineering-manager-interview-168i)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, March 22, 2023 at 12:10:41 PM
+> Last updated: Wednesday, March 22, 2023 at 6:44:19 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, March 22, 2023 at 12:10:45 PM
+> Last updated: Wednesday, March 22, 2023 at 6:44:20 PM
 
 > Showing 5 of 30 posts.
 
+[![
+Envio: The CLI tool you need for your Environment Variables
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Envio__The_CLI_tool_you_need_for_your_Environment_Variables_.svg)](
+http://www.echojs.com/news/41598
+)
 [![Cool frontend arts of local-first: storage, sync, conflicts—Martian Chronicles, Evil Martians’ team blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Cool_frontend_arts_of_local-first__storage__sync__conflicts—Martian_Chronicles__Evil_Martians’_team_blog.svg)](https://evilmartians.com/chronicles/cool-front-end-arts-of-local-first-storage-sync-and-conflicts)
 [![GitHub - iDev-Games/Trig-JS: The easy way to create CSS animations that react to the element's position on screen.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_iDev-Games_Trig-JS__The_easy_way_to_create_CSS_animations_that_react_to_the_element's_position_on_screen..svg)](https://github.com/iDev-Games/Trig-JS)
 [![Convert Callbacks to Async/Await with OpenAI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Convert_Callbacks_to_Async_Await_with_OpenAI.svg)](
@@ -57,7 +62,6 @@ Introducing envio: The Secure CLI Tool for Managing Environment Variables
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Introducing_envio__The_Secure_CLI_Tool_for_Managing_Environment_Variables_.svg)](
 http://www.echojs.com/news/41594
 )
-[![API with NestJS #100. The HTTPS protocol with Route 53 and AWS Certificate Manager](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__100._The_HTTPS_protocol_with_Route_53_and_AWS_Certificate_Manager.svg)](https://wanago.io/2023/03/20/api-nestjs-https-aws/)
 
 
 <!-- post-list:end -->
