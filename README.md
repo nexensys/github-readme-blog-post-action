@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, March 23, 2023 at 6:17:04 AM
+> Last updated: Thursday, March 23, 2023 at 12:10:53 PM
 
 > Showing 5 of 12 posts.
 
-[![A flexible nodejs crawler library — x-crawl](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_flexible_nodejs_crawler_library_—_x-crawl.svg)](https://dev.to/coderhxl/a-flexible-nodejs-crawler-library-x-crawl-50gl)
-[![What's New in ChatGPT-4? Explore New Features | Image Processing to Acing in Tests](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What's_New_in_ChatGPT-4__Explore_New_Features___Image_Processing_to_Acing_in_Tests.svg)](https://dev.to/dhruvjoshi9/what-is-new-in-gpt-4-from-processing-images-to-acing-in-tests-4g59)
-[![RaisedButton Deprecation and Migration Guide With An Example](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/RaisedButton_Deprecation_and_Migration_Guide_With_An_Example.svg)](https://dev.to/kuldeeptarapara/raisedbutton-deprecation-and-migration-guide-with-an-example-4ogo)
-[![I Created An Open-Source Portfolio Website Template For Developers Called WowFolio 🦄](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_Created_An_Open-Source_Portfolio_Website_Template_For_Developers_Called_WowFolio_🦄.svg)](https://dev.to/rammcodes/i-created-an-open-source-portfolio-template-for-developers-called-wowfolio-457k)
-[![Filter PNGs for Acropalypse using Compute@Edge](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Filter_PNGs_for_Acropalypse_using_Compute@Edge.svg)](https://dev.to/fastly/filter-pngs-for-acropalypse-using-computeedge-1c58)
+[![The State of Public APIs 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_State_of_Public_APIs_2023.svg)](https://dev.to/tristankalos/the-state-of-public-apis-2023-1m1f)
+[![The useEffect cleanup and the two circumstances it's called.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_useEffect_cleanup_and_the_two_circumstances_it's_called..svg)](https://dev.to/bradwestfall/the-useeffect-cleanup-and-the-two-circumstances-its-called-1n80)
+[![How to Use Memgraph With Python and Jupyter Notebooks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Use_Memgraph_With_Python_and_Jupyter_Notebooks.svg)](https://dev.to/memgraph/how-to-use-memgraph-with-python-and-jupyter-notebooks-4cc6)
+[![🧨 7 User Engagement Tools (how they help you to grow your business)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🧨_7_User_Engagement_Tools_(how_they_help_you_to_grow_your_business).svg)](https://dev.to/shbz/7-user-engagementtools-how-they-help-youto-grow-your-business-337l)
+[![Guide to Accessibility Advocacy](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Guide_to_Accessibility_Advocacy.svg)](https://dev.to/vetswhocode/guide-to-accessibility-advocacy-3ddb)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, March 23, 2023 at 6:17:08 AM
+> Last updated: Thursday, March 23, 2023 at 12:10:57 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,12 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, March 23, 2023 at 6:17:12 AM
+> Last updated: Thursday, March 23, 2023 at 12:11:00 PM
 
 > Showing 5 of 30 posts.
 
+[![How to use Tailwind CSS in React Native With Example - dskcode.com](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_use_Tailwind_CSS_in_React_Native_With_Example_-_dskcode.com.svg)](https://dskcode.com/how-to-use-tailwind-css-in-react-native-with-example)
+[![React: Lessons from the Trenches - useEffect x Infinity](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React__Lessons_from_the_Trenches_-_useEffect_x_Infinity.svg)](https://dev.to/codux/react-lessons-from-the-trenches-useeffect-x-infinity-1e3d)
 [![Introducing the highly usable and feature-rich open-source WebGL libraries of egjs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Introducing_the_highly_usable_and_feature-rich_open-source_WebGL_libraries_of_egjs.svg)](https://medium.com/naver-fe-platform/introducing-the-highly-usable-and-feature-rich-open-source-webgl-libraries-of-egjs-ea1c73341b3e)
 [![Web Village Voyage](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Web_Village_Voyage.svg)](https://www.youtube.com/channel/UCrYp-z-6BvFC6P3009q0peg)
 [![
@@ -54,8 +56,6 @@ Envio: The CLI tool you need for your Environment Variables
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Envio__The_CLI_tool_you_need_for_your_Environment_Variables_.svg)](
 http://www.echojs.com/news/41598
 )
-[![Cool frontend arts of local-first: storage, sync, conflicts—Martian Chronicles, Evil Martians’ team blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Cool_frontend_arts_of_local-first__storage__sync__conflicts—Martian_Chronicles__Evil_Martians’_team_blog.svg)](https://evilmartians.com/chronicles/cool-front-end-arts-of-local-first-storage-sync-and-conflicts)
-[![GitHub - iDev-Games/Trig-JS: The easy way to create CSS animations that react to the element's position on screen.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_iDev-Games_Trig-JS__The_easy_way_to_create_CSS_animations_that_react_to_the_element's_position_on_screen..svg)](https://github.com/iDev-Games/Trig-JS)
 
 
 <!-- post-list:end -->
