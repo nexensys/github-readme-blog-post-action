@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, March 22, 2023 at 6:44:16 PM
+> Last updated: Thursday, March 23, 2023 at 12:11:20 AM
 
 > Showing 5 of 12 posts.
 
-[![The CodeNewbie Podcast, S23:E6: From Site Reliability Engineer to Principal Software Engineer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_CodeNewbie_Podcast__S23_E6__From_Site_Reliability_Engineer_to_Principal_Software_Engineer.svg)](https://dev.to/codenewbieteam/the-codenewbie-podcast-s23e6-from-site-reliability-engineer-to-principal-software-engineer-g36)
-[![Rebuilding my Portfolio with Next, MDX, and Contentlayer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Rebuilding_my_Portfolio_with_Next__MDX__and_Contentlayer.svg)](https://dev.to/emotionaldaffodil/rebuilding-my-portfolio-with-next-mdx-and-contentlayer-11jl)
-[![The Power of Graph Databases: Unlocking the Potential of Connected Data](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Power_of_Graph_Databases__Unlocking_the_Potential_of_Connected_Data.svg)](https://dev.to/m4rcxs/the-power-of-graph-databases-unlocking-the-potential-of-connected-data-39c)
-[![Exciting projects to build using Socket.IO Node.js Express](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exciting_projects_to_build_using_Socket.IO_Node.js_Express.svg)](https://dev.to/blissfelix3/exciting-projects-to-build-using-socketio-nodejs-express-7mn)
-[![The Complete Path to Grokking the Engineering Manager Interview](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Complete_Path_to_Grokking_the_Engineering_Manager_Interview.svg)](https://dev.to/educative/the-complete-path-to-grokking-the-engineering-manager-interview-168i)
+[![How to Upload and return files in ASP.NET MVC?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Upload_and_return_files_in_ASP.NET_MVC_.svg)](https://dev.to/ifourtechnolab/how-to-upload-and-return-files-in-aspnet-mvc-13j2)
+[![Print()funksiyasi haqida](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Print()funksiyasi_haqida.svg)](https://dev.to/saidaim0001/printfunksiyasi-haqida-41n3)
+[![5 Hidden Gems in the Python Standard Library You Probably Don't Know About](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Hidden_Gems_in_the_Python_Standard_Library_You_Probably_Don't_Know_About.svg)](https://dev.to/bhavin9920/5-hidden-gems-in-the-python-standard-library-you-probably-dont-know-about-4ii5)
+[![MySQL, PostgreSQL e MariaDB, qual o melhor para o seu uso?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/MySQL__PostgreSQL_e_MariaDB__qual_o_melhor_para_o_seu_uso_.svg)](https://dev.to/gabrielgcj/mysql-postgresql-e-mariadb-qual-o-melhor-para-o-seu-uso-3c3l)
+[![Build and host your own Calendy-like scheduling page using Next.js and Google APIs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_and_host_your_own_Calendy-like_scheduling_page_using_Next.js_and_Google_APIs.svg)](https://dev.to/timfee/build-and-host-your-own-calendy-like-scheduling-page-using-nextjs-and-google-apis-5ack)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, March 22, 2023 at 6:44:19 PM
+> Last updated: Thursday, March 23, 2023 at 12:11:23 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, March 22, 2023 at 6:44:20 PM
+> Last updated: Thursday, March 23, 2023 at 12:11:25 AM
 
 > Showing 5 of 30 posts.
 
+[![Web Village Voyage](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Web_Village_Voyage.svg)](https://www.youtube.com/channel/UCrYp-z-6BvFC6P3009q0peg)
 [![
 Envio: The CLI tool you need for your Environment Variables
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Envio__The_CLI_tool_you_need_for_your_Environment_Variables_.svg)](
@@ -56,11 +57,6 @@ http://www.echojs.com/news/41598
 [![GitHub - iDev-Games/Trig-JS: The easy way to create CSS animations that react to the element's position on screen.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_iDev-Games_Trig-JS__The_easy_way_to_create_CSS_animations_that_react_to_the_element's_position_on_screen..svg)](https://github.com/iDev-Games/Trig-JS)
 [![Convert Callbacks to Async/Await with OpenAI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Convert_Callbacks_to_Async_Await_with_OpenAI.svg)](
 https://masteringjs.io/tutorials/tools/callback-to-async-await
-)
-[![
-Introducing envio: The Secure CLI Tool for Managing Environment Variables
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Introducing_envio__The_Secure_CLI_Tool_for_Managing_Environment_Variables_.svg)](
-http://www.echojs.com/news/41594
 )
 
 
