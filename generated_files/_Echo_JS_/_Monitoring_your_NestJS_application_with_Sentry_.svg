@@ -67,7 +67,7 @@
     <foreignObject width="600" height="100" x="5" y="5">
       <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
         <div class="text">
-          <div class="title">&#0010;Envio&#0032;–&#0032;The&#0032;CLI&#0032;tool&#0032;to&#0032;manage&#0032;your&#0032;Enviornment&#0032;Variables&#0010;</div>
+          <div class="title">&#0010;Monitoring&#0032;your&#0032;NestJS&#0032;application&#0032;with&#0032;Sentry&#0010;</div>
           <div class="description">Comments</div>
           <div class="date"></div>
           <div class="data">
