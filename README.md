@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, March 23, 2023 at 12:10:53 PM
+> Last updated: Thursday, March 23, 2023 at 6:44:26 PM
 
 > Showing 5 of 12 posts.
 
-[![The State of Public APIs 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_State_of_Public_APIs_2023.svg)](https://dev.to/tristankalos/the-state-of-public-apis-2023-1m1f)
-[![The useEffect cleanup and the two circumstances it's called.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_useEffect_cleanup_and_the_two_circumstances_it's_called..svg)](https://dev.to/bradwestfall/the-useeffect-cleanup-and-the-two-circumstances-its-called-1n80)
-[![How to Use Memgraph With Python and Jupyter Notebooks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Use_Memgraph_With_Python_and_Jupyter_Notebooks.svg)](https://dev.to/memgraph/how-to-use-memgraph-with-python-and-jupyter-notebooks-4cc6)
-[![🧨 7 User Engagement Tools (how they help you to grow your business)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🧨_7_User_Engagement_Tools_(how_they_help_you_to_grow_your_business).svg)](https://dev.to/shbz/7-user-engagementtools-how-they-help-youto-grow-your-business-337l)
-[![Guide to Accessibility Advocacy](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Guide_to_Accessibility_Advocacy.svg)](https://dev.to/vetswhocode/guide-to-accessibility-advocacy-3ddb)
+[![Weekly Challenge #4 - Start the Singularity](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Weekly_Challenge__4_-_Start_the_Singularity.svg)](https://dev.to/codenewbieteam/weekly-challenge-4-start-the-singularity-4mn8)
+[![Team Topologies: Organizing Business & Technology Teams](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Team_Topologies__Organizing_Business___Technology_Teams.svg)](https://dev.to/linearb/team-topologies-organizing-business-technology-teams-plb)
+[![How to amend changes to your pull request?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_amend_changes_to_your_pull_request_.svg)](https://dev.to/rafsun42/how-to-amend-changes-to-your-pull-request-54fi)
+[![Introducing the CSS pattern generator for application backgrounds](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_the_CSS_pattern_generator_for_application_backgrounds.svg)](https://dev.to/sanchezmarcosme/introducing-the-css-pattern-generator-for-application-backgrounds-178m)
+[![JavaScript Tutorial Series: Introduction to JavaScript events.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_Tutorial_Series__Introduction_to_JavaScript_events..svg)](https://dev.to/fullstackjo/javascript-tutorial-series-introduction-to-javascript-events-4mlp)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, March 23, 2023 at 12:10:57 PM
+> Last updated: Thursday, March 23, 2023 at 6:44:29 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, March 23, 2023 at 12:11:00 PM
+> Last updated: Thursday, March 23, 2023 at 6:44:31 PM
 
 > Showing 5 of 30 posts.
 
+[![
+Envio – The CLI tool to manage your Enviornment Variables
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Envio_–_The_CLI_tool_to_manage_your_Enviornment_Variables_.svg)](
+http://www.echojs.com/news/41603
+)
 [![How to use Tailwind CSS in React Native With Example - dskcode.com](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_use_Tailwind_CSS_in_React_Native_With_Example_-_dskcode.com.svg)](https://dskcode.com/how-to-use-tailwind-css-in-react-native-with-example)
 [![React: Lessons from the Trenches - useEffect x Infinity](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React__Lessons_from_the_Trenches_-_useEffect_x_Infinity.svg)](https://dev.to/codux/react-lessons-from-the-trenches-useeffect-x-infinity-1e3d)
 [![Introducing the highly usable and feature-rich open-source WebGL libraries of egjs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Introducing_the_highly_usable_and_feature-rich_open-source_WebGL_libraries_of_egjs.svg)](https://medium.com/naver-fe-platform/introducing-the-highly-usable-and-feature-rich-open-source-webgl-libraries-of-egjs-ea1c73341b3e)
 [![Web Village Voyage](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Web_Village_Voyage.svg)](https://www.youtube.com/channel/UCrYp-z-6BvFC6P3009q0peg)
-[![
-Envio: The CLI tool you need for your Environment Variables
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Envio__The_CLI_tool_you_need_for_your_Environment_Variables_.svg)](
-http://www.echojs.com/news/41598
-)
 
 
 <!-- post-list:end -->
