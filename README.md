@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, March 23, 2023 at 6:44:26 PM
+> Last updated: Friday, March 24, 2023 at 12:11:15 AM
 
 > Showing 5 of 12 posts.
 
-[![Weekly Challenge #4 - Start the Singularity](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Weekly_Challenge__4_-_Start_the_Singularity.svg)](https://dev.to/codenewbieteam/weekly-challenge-4-start-the-singularity-4mn8)
-[![Team Topologies: Organizing Business & Technology Teams](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Team_Topologies__Organizing_Business___Technology_Teams.svg)](https://dev.to/linearb/team-topologies-organizing-business-technology-teams-plb)
-[![How to amend changes to your pull request?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_amend_changes_to_your_pull_request_.svg)](https://dev.to/rafsun42/how-to-amend-changes-to-your-pull-request-54fi)
-[![Introducing the CSS pattern generator for application backgrounds](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_the_CSS_pattern_generator_for_application_backgrounds.svg)](https://dev.to/sanchezmarcosme/introducing-the-css-pattern-generator-for-application-backgrounds-178m)
-[![JavaScript Tutorial Series: Introduction to JavaScript events.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_Tutorial_Series__Introduction_to_JavaScript_events..svg)](https://dev.to/fullstackjo/javascript-tutorial-series-introduction-to-javascript-events-4mlp)
+[![AVL Tree](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AVL_Tree.svg)](https://dev.to/codeninjausman/avl-tree-46o2)
+[![How to make a digital clock using JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_make_a_digital_clock_using_JavaScript.svg)](https://dev.to/michaelburrows/how-to-make-a-digital-clock-using-javascript-4lja)
+[![How to Effectively Read Code: Tips and Strategies](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Effectively_Read_Code__Tips_and_Strategies.svg)](https://dev.to/bhavin9920/how-to-effectively-read-code-tips-and-strategies-1df5)
+[![Mastering AWS High Availability: A Comprehensive Guide for Optimizing Your Infrastructure](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_AWS_High_Availability__A_Comprehensive_Guide_for_Optimizing_Your_Infrastructure.svg)](https://dev.to/aws-builders/mastering-aws-high-availability-a-comprehensive-guide-for-optimizing-your-infrastructure-1eok)
+[![The Definitive Guide to Top AWS Services: In-Depth Analysis and Use Cases](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Definitive_Guide_to_Top_AWS_Services__In-Depth_Analysis_and_Use_Cases.svg)](https://dev.to/aws-builders/the-definitive-guide-to-top-aws-services-in-depth-analysis-and-use-cases-2fm0)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, March 23, 2023 at 6:44:29 PM
+> Last updated: Friday, March 24, 2023 at 12:11:18 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, March 23, 2023 at 6:44:31 PM
+> Last updated: Friday, March 24, 2023 at 12:11:20 AM
 
 > Showing 5 of 30 posts.
 
