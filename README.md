@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, March 25, 2023 at 6:14:33 AM
+> Last updated: Saturday, March 25, 2023 at 12:09:45 PM
 
 > Showing 5 of 12 posts.
 
-[![How to use Postman for API testing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_Postman_for_API_testing.svg)](https://dev.to/terieyenike/how-to-use-postman-for-api-testing-10cl)
-[![Maximizing Your Flutter App's Performance with (Async)NotifierProvider, Freezed & Riverpod Code Generators](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Maximizing_Your_Flutter_App's_Performance_with_(Async)NotifierProvider__Freezed___Riverpod_Code_Generators.svg)](https://dev.to/nikki_eke/maximizing-your-flutter-apps-performance-with-asyncnotifierprovider-freezed-riverpod-code-generators-1af1)
-[![Package React Applications using Docker](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Package_React_Applications_using_Docker.svg)](https://dev.to/imvedanshmehra/package-react-applications-using-docker-47dk)
-[![Variables and Constants: Declaration and Usage](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Variables_and_Constants__Declaration_and_Usage.svg)](https://dev.to/avinashtechlvr/variables-and-constants-declaration-and-usage-4ica)
-[![Fast Reads Unleashed: Performance Analysis of AWS GraphQL, DynamoDB, and Redis Cache](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Fast_Reads_Unleashed__Performance_Analysis_of_AWS_GraphQL__DynamoDB__and_Redis_Cache.svg)](https://dev.to/manojlingala/fast-reads-unleashed-performance-analysis-of-aws-graphql-dynamodb-and-redis-cache-1i5a)
+[![How to use Chrome DevTools to debug your webpage — intro for beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_Chrome_DevTools_to_debug_your_webpage_—_intro_for_beginners.svg)](https://dev.to/this-is-learning/how-to-use-chrome-devtools-to-debug-your-webpage-intro-for-beginners-b3g)
+[![💲 Build your resume and get paid](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/💲_Build_your_resume_and_get_paid.svg)](https://dev.to/acidop/build-your-resume-and-get-paid-2imf)
+[![Understanding React Context: A Comprehensive Tutorial for Beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_React_Context__A_Comprehensive_Tutorial_for_Beginners.svg)](https://dev.to/nitinfab/understanding-react-context-a-comprehensive-tutorial-for-beginners-2cpl)
+[![Python dictionary append](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Python_dictionary_append.svg)](https://dev.to/max24816/python-dictionary-append-1an7)
+[![I asked GPT-4 to build a Shopify app. In an hour. And it did.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_asked_GPT-4_to_build_a_Shopify_app._In_an_hour._And_it_did..svg)](https://dev.to/ralfelfving/i-asked-gpt-4-to-build-a-shopify-app-in-an-hour-and-it-did-3gd6)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, March 25, 2023 at 6:14:36 AM
+> Last updated: Saturday, March 25, 2023 at 12:09:48 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, March 25, 2023 at 6:14:38 AM
+> Last updated: Saturday, March 25, 2023 at 12:09:59 PM
 
 > Showing 5 of 30 posts.
 
+[![React Native vs Flutter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_Native_vs_Flutter.svg)](https://dskcode.com/react-native-vs-flutter)
 [![
 Examples of Trig.js CSS scroll animations
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Examples_of_Trig.js_CSS_scroll_animations_.svg)](
@@ -59,7 +60,6 @@ Monitoring your NestJS application with Sentry
 https://goo.su/c4PNOEH
 )
 [![I wasn’t going to write a CSV parser, really... - JSON Indepth](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/I_wasn’t_going_to_write_a_CSV_parser__really..._-_JSON_Indepth.svg)](https://jsoneditoronline.org/indepth/parse/csv-parser-javascript/)
-[![How to use Tailwind CSS in React Native With Example - dskcode.com](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_use_Tailwind_CSS_in_React_Native_With_Example_-_dskcode.com.svg)](https://dskcode.com/how-to-use-tailwind-css-in-react-native-with-example)
 
 
 <!-- post-list:end -->
