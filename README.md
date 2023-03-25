@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, March 24, 2023 at 12:10:56 PM
+> Last updated: Friday, March 24, 2023 at 6:43:25 PM
 
 > Showing 5 of 12 posts.
 
-[![The Magical World of Mid Journey](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Magical_World_of_Mid_Journey.svg)](https://dev.to/alvisonhunter/mid-journey-46mi)
-[![Troubleshooting Timezone Issues in PostgreSQL with DBeaver](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Troubleshooting_Timezone_Issues_in_PostgreSQL_with_DBeaver.svg)](https://dev.to/filbraga/troubleshooting-timezone-issues-in-postgresql-with-dbeaver-2lc6)
-[![Understanding Libraries, Interfaces, and Abstract Contracts in Solidity](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_Libraries__Interfaces__and_Abstract_Contracts_in_Solidity.svg)](https://dev.to/shlok2740/understanding-libraries-interfaces-and-abstract-contracts-in-solidity-14nn)
-[![DevRelCon Yokohama 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/DevRelCon_Yokohama_2023.svg)](https://dev.to/haimantika/devrelcon-yokohama-2023-12nh)
-[![Another Unnecessary Post in Favor of Linux?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Another_Unnecessary_Post_in_Favor_of_Linux_.svg)](https://dev.to/ingosteinke/another-unnecessary-post-in-favor-of-linux-1jjp)
+[![Should I Choose Tailwind or Vanilla CSS?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Should_I_Choose_Tailwind_or_Vanilla_CSS_.svg)](https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl)
+[![What's the most mind-blowing AI example you've seen?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What's_the_most_mind-blowing_AI_example_you've_seen_.svg)](https://dev.to/brunoj/whats-the-most-mind-blowing-ai-example-youve-seen-1n4)
+[![Governments on GitHub](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Governments_on_GitHub.svg)](https://dev.to/szabgab/governments-on-github-52ee)
+[![Creating A Single Page Application Using Mustache and PHP](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_A_Single_Page_Application_Using_Mustache_and_PHP.svg)](https://dev.to/thedevdrawer/creating-a-single-page-application-using-mustache-and-php-38ej)
+[![Angular Signals](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Angular_Signals.svg)](https://dev.to/jrohatiner/angular-signals-3n6k)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, March 24, 2023 at 12:10:59 PM
+> Last updated: Friday, March 24, 2023 at 6:43:28 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,16 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, March 24, 2023 at 12:11:03 PM
+> Last updated: Friday, March 24, 2023 at 6:43:31 PM
 
 > Showing 5 of 30 posts.
 
+[![
+Examples of Trig.js CSS scroll animations
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Examples_of_Trig.js_CSS_scroll_animations_.svg)](
+https://idev-games.github.io/Trig-JS-Examples/
+)
+[![GitHub - victorqribeiro/memes2: Parsing memes from memedroid with JavaScript and PHP](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_victorqribeiro_memes2__Parsing_memes_from_memedroid_with_JavaScript_and_PHP.svg)](https://github.com/victorqribeiro/memes2)
 [![
 Monitoring your NestJS application with Sentry
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Monitoring_your_NestJS_application_with_Sentry_.svg)](
@@ -54,8 +60,6 @@ https://goo.su/c4PNOEH
 )
 [![I wasn’t going to write a CSV parser, really... - JSON Indepth](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/I_wasn’t_going_to_write_a_CSV_parser__really..._-_JSON_Indepth.svg)](https://jsoneditoronline.org/indepth/parse/csv-parser-javascript/)
 [![How to use Tailwind CSS in React Native With Example - dskcode.com](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_use_Tailwind_CSS_in_React_Native_With_Example_-_dskcode.com.svg)](https://dskcode.com/how-to-use-tailwind-css-in-react-native-with-example)
-[![React: Lessons from the Trenches - useEffect x Infinity](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React__Lessons_from_the_Trenches_-_useEffect_x_Infinity.svg)](https://dev.to/codux/react-lessons-from-the-trenches-useeffect-x-infinity-1e3d)
-[![Introducing the highly usable and feature-rich open-source WebGL libraries of egjs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Introducing_the_highly_usable_and_feature-rich_open-source_WebGL_libraries_of_egjs.svg)](https://medium.com/naver-fe-platform/introducing-the-highly-usable-and-feature-rich-open-source-webgl-libraries-of-egjs-ea1c73341b3e)
 
 
 <!-- post-list:end -->
