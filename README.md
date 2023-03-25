@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, March 24, 2023 at 6:43:25 PM
+> Last updated: Saturday, March 25, 2023 at 12:10:46 AM
 
 > Showing 5 of 12 posts.
 
+[![Step by step: Build your first AWS Amplify and React App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Step_by_step__Build_your_first_AWS_Amplify_and_React_App.svg)](https://dev.to/aws-builders/step-by-step-build-your-first-aws-amplify-and-react-app-1agn)
 [![Should I Choose Tailwind or Vanilla CSS?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Should_I_Choose_Tailwind_or_Vanilla_CSS_.svg)](https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl)
+[![What is Kotlin Reified Type Parameter?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_Kotlin_Reified_Type_Parameter_.svg)](https://dev.to/vtsen/what-is-kotlin-reified-type-parameter-17d7)
 [![What's the most mind-blowing AI example you've seen?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What's_the_most_mind-blowing_AI_example_you've_seen_.svg)](https://dev.to/brunoj/whats-the-most-mind-blowing-ai-example-youve-seen-1n4)
-[![Governments on GitHub](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Governments_on_GitHub.svg)](https://dev.to/szabgab/governments-on-github-52ee)
-[![Creating A Single Page Application Using Mustache and PHP](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_A_Single_Page_Application_Using_Mustache_and_PHP.svg)](https://dev.to/thedevdrawer/creating-a-single-page-application-using-mustache-and-php-38ej)
-[![Angular Signals](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Angular_Signals.svg)](https://dev.to/jrohatiner/angular-signals-3n6k)
+[![DynamoDB Basic - Part 1: Introduction DynamoDB](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/DynamoDB_Basic_-_Part_1__Introduction_DynamoDB.svg)](https://dev.to/aws-builders/dynamodb-basic-part-1-introduction-dynamodb-254h)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, March 24, 2023 at 6:43:28 PM
+> Last updated: Saturday, March 25, 2023 at 12:10:49 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, March 24, 2023 at 6:43:31 PM
+> Last updated: Saturday, March 25, 2023 at 12:10:53 AM
 
 > Showing 5 of 30 posts.
 
