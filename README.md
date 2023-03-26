@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, March 25, 2023 at 12:09:45 PM
+> Last updated: Saturday, March 25, 2023 at 6:49:24 PM
 
 > Showing 5 of 12 posts.
 
-[![How to use Chrome DevTools to debug your webpage — intro for beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_Chrome_DevTools_to_debug_your_webpage_—_intro_for_beginners.svg)](https://dev.to/this-is-learning/how-to-use-chrome-devtools-to-debug-your-webpage-intro-for-beginners-b3g)
-[![💲 Build your resume and get paid](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/💲_Build_your_resume_and_get_paid.svg)](https://dev.to/acidop/build-your-resume-and-get-paid-2imf)
-[![Understanding React Context: A Comprehensive Tutorial for Beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_React_Context__A_Comprehensive_Tutorial_for_Beginners.svg)](https://dev.to/nitinfab/understanding-react-context-a-comprehensive-tutorial-for-beginners-2cpl)
-[![Python dictionary append](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Python_dictionary_append.svg)](https://dev.to/max24816/python-dictionary-append-1an7)
-[![I asked GPT-4 to build a Shopify app. In an hour. And it did.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_asked_GPT-4_to_build_a_Shopify_app._In_an_hour._And_it_did..svg)](https://dev.to/ralfelfving/i-asked-gpt-4-to-build-a-shopify-app-in-an-hour-and-it-did-3gd6)
+[![Secure Data with On-Prem Storage of Engineer Activity](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Secure_Data_with_On-Prem_Storage_of_Engineer_Activity.svg)](https://dev.to/zeroassumptions/secure-data-with-on-prem-storage-of-engineer-activity-58ef)
+[![Step by Step: Build a Membership Website with Amplify, Stripe, and Next.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Step_by_Step__Build_a_Membership_Website_with_Amplify__Stripe__and_Next.js.svg)](https://dev.to/aws-builders/step-by-step-build-a-membership-website-with-amplify-stripe-and-nextjs-p4e)
+[![If-Else Vs Switch-Case](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/If-Else_Vs_Switch-Case.svg)](https://dev.to/emmysteven/if-else-vs-switch-case-16fe)
+[![Continuous Integration, Delivery, and Deployment: Best Practises, Benefits, and Tools](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Continuous_Integration__Delivery__and_Deployment__Best_Practises__Benefits__and_Tools.svg)](https://dev.to/ezinne_anne/continuous-integration-delivery-and-deployment-best-practises-benefits-and-tools-40ac)
+[![What It Was Like To Code For Amazon (Part 1)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_It_Was_Like_To_Code_For_Amazon_(Part_1).svg)](https://dev.to/bytebodger/what-it-was-like-to-code-for-amazon-part-1-5034)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, March 25, 2023 at 12:09:48 PM
+> Last updated: Saturday, March 25, 2023 at 6:49:28 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, March 25, 2023 at 12:09:59 PM
+> Last updated: Saturday, March 25, 2023 at 6:49:33 PM
 
 > Showing 5 of 30 posts.
 
+[![
+Building a Realtime Messaging app with React Native and Firebase
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Building_a_Realtime_Messaging_app_with_React_Native_and_Firebase_.svg)](
+https://goo.su/SyzK
+)
 [![React Native vs Flutter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_Native_vs_Flutter.svg)](https://dskcode.com/react-native-vs-flutter)
 [![
 Examples of Trig.js CSS scroll animations
@@ -59,7 +64,6 @@ Monitoring your NestJS application with Sentry
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Monitoring_your_NestJS_application_with_Sentry_.svg)](
 https://goo.su/c4PNOEH
 )
-[![I wasn’t going to write a CSV parser, really... - JSON Indepth](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/I_wasn’t_going_to_write_a_CSV_parser__really..._-_JSON_Indepth.svg)](https://jsoneditoronline.org/indepth/parse/csv-parser-javascript/)
 
 
 <!-- post-list:end -->
