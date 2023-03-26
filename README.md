@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, March 26, 2023 at 12:10:22 AM
+> Last updated: Sunday, March 26, 2023 at 6:14:29 AM
 
 > Showing 5 of 12 posts.
 
-[![Mastering JavaScript in 100 Days: A Structured Plan for Proficiency](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_JavaScript_in_100_Days__A_Structured_Plan_for_Proficiency.svg)](https://dev.to/abhixsh/mastering-javascript-in-100-days-a-structured-plan-for-proficiency-1jbo)
-[![Supercharge Your Python: 5 Tips for Boosting Performance](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Supercharge_Your_Python__5_Tips_for_Boosting_Performance.svg)](https://dev.to/yaw595/supercharge-your-python-5-tips-for-boosting-performance-fpa)
-[![From Problems to Solutions: Understanding Design Patterns](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/From_Problems_to_Solutions__Understanding_Design_Patterns.svg)](https://dev.to/documatic/from-problems-to-solutions-understanding-design-patterns-3b7i)
-[![Deploy React.js application on Render](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deploy_React.js_application_on_Render.svg)](https://dev.to/ahmed0saber/deploy-reactjs-application-on-render-2dca)
-[![How to gain experience without work ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_gain_experience_without_work__.svg)](https://dev.to/ahmed0saber/how-to-gain-experience-without-work--1624)
+[![Using Typescript without compilation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_Typescript_without_compilation.svg)](https://dev.to/thepassle/using-typescript-without-compilation-3ko4)
+[![Women in Tech Sweden 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Women_in_Tech_Sweden_2023.svg)](https://dev.to/emmadawsondev/women-in-tech-sweden-2023-27l9)
+[![Building a Chrome extension to join meetings on time](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_Chrome_extension_to_join_meetings_on_time.svg)](https://dev.to/bpsagar/building-a-chrome-extension-to-join-meetings-on-time-33mg)
+[![Debugging Your Code: Tips and Tools for Finding and Fixing Bugs in Your Web Applications](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Debugging_Your_Code__Tips_and_Tools_for_Finding_and_Fixing_Bugs_in_Your_Web_Applications.svg)](https://dev.to/zuzexx/debugging-your-code-tips-and-tools-for-finding-and-fixing-bugs-in-your-web-applications-2ab4)
+[![A story of let, const, object mutation, and a bug in my code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_story_of_let__const__object_mutation__and_a_bug_in_my_code.svg)](https://dev.to/this-is-learning/a-story-of-let-const-object-mutation-and-a-bug-in-my-code-1del)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, March 26, 2023 at 12:10:26 AM
+> Last updated: Sunday, March 26, 2023 at 6:14:32 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, March 26, 2023 at 12:10:29 AM
+> Last updated: Sunday, March 26, 2023 at 6:14:37 AM
 
 > Showing 5 of 30 posts.
 
