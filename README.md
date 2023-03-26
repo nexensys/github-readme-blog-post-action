@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, March 26, 2023 at 6:14:29 AM
+> Last updated: Sunday, March 26, 2023 at 12:09:43 PM
 
 > Showing 5 of 12 posts.
 
-[![Using Typescript without compilation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_Typescript_without_compilation.svg)](https://dev.to/thepassle/using-typescript-without-compilation-3ko4)
-[![Women in Tech Sweden 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Women_in_Tech_Sweden_2023.svg)](https://dev.to/emmadawsondev/women-in-tech-sweden-2023-27l9)
-[![Building a Chrome extension to join meetings on time](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_Chrome_extension_to_join_meetings_on_time.svg)](https://dev.to/bpsagar/building-a-chrome-extension-to-join-meetings-on-time-33mg)
-[![Debugging Your Code: Tips and Tools for Finding and Fixing Bugs in Your Web Applications](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Debugging_Your_Code__Tips_and_Tools_for_Finding_and_Fixing_Bugs_in_Your_Web_Applications.svg)](https://dev.to/zuzexx/debugging-your-code-tips-and-tools-for-finding-and-fixing-bugs-in-your-web-applications-2ab4)
-[![A story of let, const, object mutation, and a bug in my code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_story_of_let__const__object_mutation__and_a_bug_in_my_code.svg)](https://dev.to/this-is-learning/a-story-of-let-const-object-mutation-and-a-bug-in-my-code-1del)
+[![Angular Universal is the Problem, not Angular](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Angular_Universal_is_the_Problem__not_Angular.svg)](https://dev.to/jdgamble555/angular-universal-is-the-problem-not-angular-5801)
+[![Session 1. How I created a team and established the first intro meeting to contribute to Open Source.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Session_1._How_I_created_a_team_and_established_the_first_intro_meeting_to_contribute_to_Open_Source..svg)](https://dev.to/yasia_n/session-1-how-i-created-a-team-and-established-first-intro-meeting-to-contribute-in-open-source-l9o)
+[![JavaScript Module Bundlers and all that Jazz ✨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_Module_Bundlers_and_all_that_Jazz_✨.svg)](https://dev.to/harshitakanal/javascript-module-bundlers-and-all-that-jazz-3hbi)
+[![Yet Another Newsletter LOL: Cache](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Yet_Another_Newsletter_LOL__Cache.svg)](https://dev.to/nickytonline/yet-another-newsletter-lol-cache-5e21)
+[![Symfony Station Communiqué — 24 March 2023. A look at Symfony, Drupal, PHP, Cybersecurity, and Fediverse news!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Symfony_Station_Communiqué_—_24_March_2023._A_look_at_Symfony__Drupal__PHP__Cybersecurity__and_Fediverse_news!.svg)](https://dev.to/reubenwalker64/symfony-station-communique-24-march-2023-a-look-at-symfony-drupal-php-cybersecurity-and-fediverse-news-57id)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, March 26, 2023 at 6:14:32 AM
+> Last updated: Sunday, March 26, 2023 at 12:09:46 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, March 26, 2023 at 6:14:37 AM
+> Last updated: Sunday, March 26, 2023 at 12:09:49 PM
 
 > Showing 5 of 30 posts.
 
+[![Harness the Power of React Hooks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Harness_the_Power_of_React_Hooks.svg)](https://dskcode.com/harness-the-power-of-react-hooks)
 [![GitHub - nhattien015/nest-graphql-typeorm-best-example: Nest + GraphQL + TypeORM codebase. Let's contribute it for better. Thank you](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_nhattien015_nest-graphql-typeorm-best-example__Nest_+_GraphQL_+_TypeORM_codebase._Let's_contribute_it_for_better._Thank_you.svg)](https://github.com/nhattien015/nest-graphql-typeorm-best-example)
 [![
 Building a Realtime Messaging app with React Native and Firebase
@@ -59,7 +60,6 @@ Examples of Trig.js CSS scroll animations
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Examples_of_Trig.js_CSS_scroll_animations_.svg)](
 https://idev-games.github.io/Trig-JS-Examples/
 )
-[![GitHub - victorqribeiro/memes2: Parsing memes from memedroid with JavaScript and PHP](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_victorqribeiro_memes2__Parsing_memes_from_memedroid_with_JavaScript_and_PHP.svg)](https://github.com/victorqribeiro/memes2)
 
 
 <!-- post-list:end -->
