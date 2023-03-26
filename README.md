@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, March 25, 2023 at 6:49:24 PM
+> Last updated: Sunday, March 26, 2023 at 12:10:22 AM
 
 > Showing 5 of 12 posts.
 
-[![Secure Data with On-Prem Storage of Engineer Activity](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Secure_Data_with_On-Prem_Storage_of_Engineer_Activity.svg)](https://dev.to/zeroassumptions/secure-data-with-on-prem-storage-of-engineer-activity-58ef)
-[![Step by Step: Build a Membership Website with Amplify, Stripe, and Next.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Step_by_Step__Build_a_Membership_Website_with_Amplify__Stripe__and_Next.js.svg)](https://dev.to/aws-builders/step-by-step-build-a-membership-website-with-amplify-stripe-and-nextjs-p4e)
-[![If-Else Vs Switch-Case](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/If-Else_Vs_Switch-Case.svg)](https://dev.to/emmysteven/if-else-vs-switch-case-16fe)
-[![Continuous Integration, Delivery, and Deployment: Best Practises, Benefits, and Tools](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Continuous_Integration__Delivery__and_Deployment__Best_Practises__Benefits__and_Tools.svg)](https://dev.to/ezinne_anne/continuous-integration-delivery-and-deployment-best-practises-benefits-and-tools-40ac)
-[![What It Was Like To Code For Amazon (Part 1)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_It_Was_Like_To_Code_For_Amazon_(Part_1).svg)](https://dev.to/bytebodger/what-it-was-like-to-code-for-amazon-part-1-5034)
+[![Mastering JavaScript in 100 Days: A Structured Plan for Proficiency](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_JavaScript_in_100_Days__A_Structured_Plan_for_Proficiency.svg)](https://dev.to/abhixsh/mastering-javascript-in-100-days-a-structured-plan-for-proficiency-1jbo)
+[![Supercharge Your Python: 5 Tips for Boosting Performance](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Supercharge_Your_Python__5_Tips_for_Boosting_Performance.svg)](https://dev.to/yaw595/supercharge-your-python-5-tips-for-boosting-performance-fpa)
+[![From Problems to Solutions: Understanding Design Patterns](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/From_Problems_to_Solutions__Understanding_Design_Patterns.svg)](https://dev.to/documatic/from-problems-to-solutions-understanding-design-patterns-3b7i)
+[![Deploy React.js application on Render](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deploy_React.js_application_on_Render.svg)](https://dev.to/ahmed0saber/deploy-reactjs-application-on-render-2dca)
+[![How to gain experience without work ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_gain_experience_without_work__.svg)](https://dev.to/ahmed0saber/how-to-gain-experience-without-work--1624)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, March 25, 2023 at 6:49:28 PM
+> Last updated: Sunday, March 26, 2023 at 12:10:26 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, March 25, 2023 at 6:49:33 PM
+> Last updated: Sunday, March 26, 2023 at 12:10:29 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - nhattien015/nest-graphql-typeorm-best-example: Nest + GraphQL + TypeORM codebase. Let's contribute it for better. Thank you](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_nhattien015_nest-graphql-typeorm-best-example__Nest_+_GraphQL_+_TypeORM_codebase._Let's_contribute_it_for_better._Thank_you.svg)](https://github.com/nhattien015/nest-graphql-typeorm-best-example)
 [![
 Building a Realtime Messaging app with React Native and Firebase
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Building_a_Realtime_Messaging_app_with_React_Native_and_Firebase_.svg)](
@@ -59,11 +60,6 @@ Examples of Trig.js CSS scroll animations
 https://idev-games.github.io/Trig-JS-Examples/
 )
 [![GitHub - victorqribeiro/memes2: Parsing memes from memedroid with JavaScript and PHP](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_victorqribeiro_memes2__Parsing_memes_from_memedroid_with_JavaScript_and_PHP.svg)](https://github.com/victorqribeiro/memes2)
-[![
-Monitoring your NestJS application with Sentry
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Monitoring_your_NestJS_application_with_Sentry_.svg)](
-https://goo.su/c4PNOEH
-)
 
 
 <!-- post-list:end -->
