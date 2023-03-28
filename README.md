@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, March 28, 2023 at 12:11:38 AM
+> Last updated: Tuesday, March 28, 2023 at 6:17:39 AM
 
 > Showing 5 of 12 posts.
 
-[![You Need to Know About Pure Functions & Impure Functions in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/You_Need_to_Know_About_Pure_Functions___Impure_Functions_in_JavaScript.svg)](https://dev.to/codeofrelevancy/you-need-to-know-about-pure-functions-impure-functions-in-javascript-57)
-[![Devblog #1: Welcome to Pixelino - The Birth of a Minimalist Pixel Art Drawing Tool](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Devblog__1__Welcome_to_Pixelino_-_The_Birth_of_a_Minimalist_Pixel_Art_Drawing_Tool.svg)](https://dev.to/zitrocode/devblog-1-welcome-to-pixelino-the-birth-of-a-minimalist-pixel-art-drawing-tool-315p)
-[![Time & Space Complexity, Stability of Algorithm](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Time___Space_Complexity__Stability_of_Algorithm.svg)](https://dev.to/madhubankhatri/time-space-complexity-stability-of-algorithm-ai5)
-[![Leveraging AWS CodePipeline pipeline and Serverless Framework to deploy a Flask API.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Leveraging_AWS_CodePipeline_pipeline_and_Serverless_Framework_to_deploy_a_Flask_API..svg)](https://dev.to/aws-builders/leveraging-aws-codepipeline-pipeline-and-serverless-framework-to-deploy-a-flask-api-3jha)
-[![How to split an Angular app into micro-frontend apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_split_an_Angular_app_into_micro-frontend_apps.svg)](https://dev.to/michaeljota/how-to-split-an-angular-app-into-micro-frontend-apps-1fi9)
+[![An Introduction to Solana Pay and how to Integrate it into Your Next.js App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/An_Introduction_to_Solana_Pay_and_how_to_Integrate_it_into_Your_Next.js_App.svg)](https://dev.to/avneesh0612/an-introduction-to-solana-pay-and-how-to-integrate-it-into-your-nextjs-app-36kl)
+[![Deploy static websites to Amazon S3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deploy_static_websites_to_Amazon_S3.svg)](https://dev.to/aws-builders/deploy-static-websites-to-amazon-s3-49lf)
+[![Revolutionizing Data Processing with CXXGraph: A Comprehensive Guide to Graph Data Structures in C++](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Revolutionizing_Data_Processing_with_CXXGraph__A_Comprehensive_Guide_to_Graph_Data_Structures_in_C++.svg)](https://dev.to/zigrazor/revolutionizing-data-processing-with-cxxgraph-a-comprehensive-guide-to-graph-data-structures-in-c-3od5)
+[![A migration to Vue 3: part 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_migration_to_Vue_3__part_2.svg)](https://dev.to/studyportals/a-migration-to-vue-3-part-2-40b0)
+[![🔎 What is Lexical Scope in JavaScript?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🔎_What_is_Lexical_Scope_in_JavaScript_.svg)](https://dev.to/catherineisonline/what-is-lexical-scope-in-javascript-4gi8)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, March 28, 2023 at 12:11:41 AM
+> Last updated: Tuesday, March 28, 2023 at 6:17:43 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, March 28, 2023 at 12:11:48 AM
+> Last updated: Tuesday, March 28, 2023 at 6:17:48 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - Genez-io/genezio: Run a completely functional backend in just a few minutes.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Genez-io_genezio__Run_a_completely_functional_backend_in_just_a_few_minutes..svg)](https://github.com/Genez-io/genezio)
+[![Understanding TypeScript Function Types: A Beginner's Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Understanding_TypeScript_Function_Types__A_Beginner's_Guide.svg)](https://dmitripavlutin.com/typescript-function-type/)
+[![v0.2.0 Envio — The Modern And Secure CLI Tool You Absolutely Need Environment Variables](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/v0.2.0_Envio_—_The_Modern_And_Secure_CLI_Tool_You_Absolutely_Need_Environment_Variables.svg)](https://medium.com/@humblepenguinoffical/v0-2-0-envio-the-modern-and-secure-cli-tool-you-absolutely-need-environment-variables-d25dcb014ffd)
 [![API with NestJS #101. Managing sensitive data using the AWS Secrets Manager](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__101._Managing_sensitive_data_using_the_AWS_Secrets_Manager.svg)](https://wanago.io/2023/03/27/api-nestjs-aws-secret-manager/)
 [![Use React Hooks with the State Hook for Easier State Management | React hooks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Use_React_Hooks_with_the_State_Hook_for_Easier_State_Management___React_hooks.svg)](http://dskcode.com/use-react-hooks-with-the-state-hook-for-easier-state-management)
-[![Build a Full-Stack Next.js Application and deploy to Vercel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_a_Full-Stack_Next.js_Application_and_deploy_to_Vercel.svg)](https://www.youtube.com/watch?v=UIylvFz2m-I)
-[![GitHub - bitair-org/concurrent.js: Non-blocking Computation for JavaScript RTEs (Web Browsers, Node.js & Deno)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_bitair-org_concurrent.js__Non-blocking_Computation_for_JavaScript_RTEs_(Web_Browsers__Node.js___Deno).svg)](https://github.com/bitair-org/concurrent.js)
-[![How to migrate from Bulma CSS framework to Stylify CSS | Stylify CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_migrate_from_Bulma_CSS_framework_to_Stylify_CSS___Stylify_CSS.svg)](https://stylifycss.com/docs/migration/bulma)
 
 
 <!-- post-list:end -->
