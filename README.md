@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, March 28, 2023 at 6:17:39 AM
+> Last updated: Tuesday, March 28, 2023 at 12:10:51 PM
 
 > Showing 5 of 12 posts.
 
-[![An Introduction to Solana Pay and how to Integrate it into Your Next.js App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/An_Introduction_to_Solana_Pay_and_how_to_Integrate_it_into_Your_Next.js_App.svg)](https://dev.to/avneesh0612/an-introduction-to-solana-pay-and-how-to-integrate-it-into-your-nextjs-app-36kl)
-[![Deploy static websites to Amazon S3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deploy_static_websites_to_Amazon_S3.svg)](https://dev.to/aws-builders/deploy-static-websites-to-amazon-s3-49lf)
-[![Revolutionizing Data Processing with CXXGraph: A Comprehensive Guide to Graph Data Structures in C++](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Revolutionizing_Data_Processing_with_CXXGraph__A_Comprehensive_Guide_to_Graph_Data_Structures_in_C++.svg)](https://dev.to/zigrazor/revolutionizing-data-processing-with-cxxgraph-a-comprehensive-guide-to-graph-data-structures-in-c-3od5)
-[![A migration to Vue 3: part 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_migration_to_Vue_3__part_2.svg)](https://dev.to/studyportals/a-migration-to-vue-3-part-2-40b0)
-[![🔎 What is Lexical Scope in JavaScript?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🔎_What_is_Lexical_Scope_in_JavaScript_.svg)](https://dev.to/catherineisonline/what-is-lexical-scope-in-javascript-4gi8)
+[![Low Cost "Overkill" AWS Infrastructure for a Newborn Startup](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Low_Cost__Overkill__AWS_Infrastructure_for_a_Newborn_Startup.svg)](https://dev.to/aws-builders/low-cost-overkill-aws-infrastructure-for-a-newborn-startup-aaf)
+[![What is an API? Part 1.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_an_API__Part_1..svg)](https://dev.to/11cconnolly/what-is-an-api-part-1-f35)
+[![Why You Should Use a React Framework for Your Next Project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_You_Should_Use_a_React_Framework_for_Your_Next_Project.svg)](https://dev.to/nilanth/why-you-should-use-a-react-framework-for-your-next-project-5enb)
+[![Use these Notion Templates to Create Your Portfolio in Seconds](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Use_these_Notion_Templates_to_Create_Your_Portfolio_in_Seconds.svg)](https://dev.to/xenoxdev/use-these-notion-templates-to-create-your-portfolio-in-seconds-4jnp)
+[![Paracetamol.js💊| #212: Explica este código JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Paracetamol.js💊___212__Explica_este_código_JavaScript.svg)](https://dev.to/duxtech/paracetamoljs-212-explica-este-codigo-javascript-6f1)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, March 28, 2023 at 6:17:43 AM
+> Last updated: Tuesday, March 28, 2023 at 12:10:54 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, March 28, 2023 at 6:17:48 AM
+> Last updated: Tuesday, March 28, 2023 at 12:10:56 PM
 
 > Showing 5 of 30 posts.
 
+[![How to Use the useEffect Hook in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Use_the_useEffect_Hook_in_React.svg)](https://dskcode.com/how-to-use-the-useeffect-hook-in-react)
+[![File Uploads for the Web (2): Upload Files with JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/File_Uploads_for_the_Web_(2)__Upload_Files_with_JavaScript.svg)](https://austingil.com/upload-files-with-javascript/)
+[![Working with UUID in Node](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Working_with_UUID_in_Node.svg)](
+https://masteringjs.io/tutorials/node/uuid
+)
 [![GitHub - Genez-io/genezio: Run a completely functional backend in just a few minutes.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Genez-io_genezio__Run_a_completely_functional_backend_in_just_a_few_minutes..svg)](https://github.com/Genez-io/genezio)
 [![Understanding TypeScript Function Types: A Beginner's Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Understanding_TypeScript_Function_Types__A_Beginner's_Guide.svg)](https://dmitripavlutin.com/typescript-function-type/)
-[![v0.2.0 Envio — The Modern And Secure CLI Tool You Absolutely Need Environment Variables](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/v0.2.0_Envio_—_The_Modern_And_Secure_CLI_Tool_You_Absolutely_Need_Environment_Variables.svg)](https://medium.com/@humblepenguinoffical/v0-2-0-envio-the-modern-and-secure-cli-tool-you-absolutely-need-environment-variables-d25dcb014ffd)
-[![API with NestJS #101. Managing sensitive data using the AWS Secrets Manager](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__101._Managing_sensitive_data_using_the_AWS_Secrets_Manager.svg)](https://wanago.io/2023/03/27/api-nestjs-aws-secret-manager/)
-[![Use React Hooks with the State Hook for Easier State Management | React hooks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Use_React_Hooks_with_the_State_Hook_for_Easier_State_Management___React_hooks.svg)](http://dskcode.com/use-react-hooks-with-the-state-hook-for-easier-state-management)
 
 
 <!-- post-list:end -->
