@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, March 27, 2023 at 12:12:42 PM
+> Last updated: Monday, March 27, 2023 at 6:46:24 PM
 
 > Showing 5 of 12 posts.
 
-[![Three JS Examples : 1. Three JS Cube Animation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Three_JS_Examples___1._Three_JS_Cube_Animation.svg)](https://dev.to/jon_snow789/three-js-examples-1-three-js-cube-animation-46ga)
-[![Build Stunning NextJs Portfolio⭐ Website using Tailwind-CSS and Framer-motion](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_Stunning_NextJs_Portfolio⭐_Website_using_Tailwind-CSS_and_Framer-motion.svg)](https://dev.to/codebucks/build-stunning-nextjs-portfolio-website-using-tailwind-css-and-framer-motion-3oh)
-[![Looking for New Opportunities](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Looking_for_New_Opportunities.svg)](https://dev.to/avinashvagh/looking-for-new-opportunities-2epg)
-[![Condicionales sin else en JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Condicionales_sin_else_en_JavaScript.svg)](https://dev.to/asjordi/condicionales-sin-else-en-javascript-1de3)
-[![OpenTelemetry vs Datadog - Choosing between OpenTelemetry and Datadog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/OpenTelemetry_vs_Datadog_-_Choosing_between_OpenTelemetry_and_Datadog.svg)](https://dev.to/danielfavour/opentelemetry-vs-datadog-choosing-between-opentelemetry-and-datadog-2c84)
+[!["ChatGPT" locally for everyone](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_ChatGPT__locally_for_everyone.svg)](https://dev.to/benherbst/chatgpt-locally-for-everyone-3plj)
+[![Deploy cPanel & WHM on AWS EC2 Instance](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deploy_cPanel___WHM_on_AWS_EC2_Instance.svg)](https://dev.to/aws-builders/deploy-cpanel-whm-on-aws-ec2-instance-36i5)
+[![🌟 How to Create the Best Portfolio Website to Land a Junior Dev Job 🌟](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🌟_How_to_Create_the_Best_Portfolio_Website_to_Land_a_Junior_Dev_Job_🌟.svg)](https://dev.to/megagon/how-to-create-the-best-portfolio-website-to-land-a-junior-dev-job-5224)
+[![26- A Guide to Creating QGIS Plugins in a Step-by-Step Manner](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/26-_A_Guide_to_Creating_QGIS_Plugins_in_a_Step-by-Step_Manner.svg)](https://dev.to/azad77/26-a-guide-to-creating-qgis-plugins-in-a-step-by-step-manner-2gkg)
+[![How to Automatically Update Resume On Your Personal Site From OverLeaf](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Automatically_Update_Resume_On_Your_Personal_Site_From_OverLeaf.svg)](https://dev.to/dessygil/how-to-automatically-update-resume-on-your-personal-site-from-overleaf-1fld)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, March 27, 2023 at 12:12:46 PM
+> Last updated: Monday, March 27, 2023 at 6:46:28 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, March 27, 2023 at 12:12:51 PM
+> Last updated: Monday, March 27, 2023 at 6:46:35 PM
 
 > Showing 5 of 30 posts.
 
+[![API with NestJS #101. Managing sensitive data using the AWS Secrets Manager](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__101._Managing_sensitive_data_using_the_AWS_Secrets_Manager.svg)](https://wanago.io/2023/03/27/api-nestjs-aws-secret-manager/)
 [![Use React Hooks with the State Hook for Easier State Management | React hooks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Use_React_Hooks_with_the_State_Hook_for_Easier_State_Management___React_hooks.svg)](http://dskcode.com/use-react-hooks-with-the-state-hook-for-easier-state-management)
 [![Build a Full-Stack Next.js Application and deploy to Vercel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_a_Full-Stack_Next.js_Application_and_deploy_to_Vercel.svg)](https://www.youtube.com/watch?v=UIylvFz2m-I)
 [![GitHub - bitair-org/concurrent.js: Non-blocking Computation for JavaScript RTEs (Web Browsers, Node.js & Deno)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_bitair-org_concurrent.js__Non-blocking_Computation_for_JavaScript_RTEs_(Web_Browsers__Node.js___Deno).svg)](https://github.com/bitair-org/concurrent.js)
 [![How to migrate from Bulma CSS framework to Stylify CSS | Stylify CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_migrate_from_Bulma_CSS_framework_to_Stylify_CSS___Stylify_CSS.svg)](https://stylifycss.com/docs/migration/bulma)
-[![Building a Modern Document Website for React Native Library Like React Native ECharts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_a_Modern_Document_Website_for_React_Native_Library_Like_React_Native_ECharts.svg)](https://itnext.io/building-a-modern-document-website-for-react-native-library-like-react-native-echarts-8772e555dac8)
 
 
 <!-- post-list:end -->
