@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, March 27, 2023 at 6:46:24 PM
+> Last updated: Tuesday, March 28, 2023 at 12:11:38 AM
 
 > Showing 5 of 12 posts.
 
-[!["ChatGPT" locally for everyone](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_ChatGPT__locally_for_everyone.svg)](https://dev.to/benherbst/chatgpt-locally-for-everyone-3plj)
-[![Deploy cPanel & WHM on AWS EC2 Instance](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deploy_cPanel___WHM_on_AWS_EC2_Instance.svg)](https://dev.to/aws-builders/deploy-cpanel-whm-on-aws-ec2-instance-36i5)
-[![🌟 How to Create the Best Portfolio Website to Land a Junior Dev Job 🌟](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🌟_How_to_Create_the_Best_Portfolio_Website_to_Land_a_Junior_Dev_Job_🌟.svg)](https://dev.to/megagon/how-to-create-the-best-portfolio-website-to-land-a-junior-dev-job-5224)
-[![26- A Guide to Creating QGIS Plugins in a Step-by-Step Manner](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/26-_A_Guide_to_Creating_QGIS_Plugins_in_a_Step-by-Step_Manner.svg)](https://dev.to/azad77/26-a-guide-to-creating-qgis-plugins-in-a-step-by-step-manner-2gkg)
-[![How to Automatically Update Resume On Your Personal Site From OverLeaf](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Automatically_Update_Resume_On_Your_Personal_Site_From_OverLeaf.svg)](https://dev.to/dessygil/how-to-automatically-update-resume-on-your-personal-site-from-overleaf-1fld)
+[![You Need to Know About Pure Functions & Impure Functions in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/You_Need_to_Know_About_Pure_Functions___Impure_Functions_in_JavaScript.svg)](https://dev.to/codeofrelevancy/you-need-to-know-about-pure-functions-impure-functions-in-javascript-57)
+[![Devblog #1: Welcome to Pixelino - The Birth of a Minimalist Pixel Art Drawing Tool](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Devblog__1__Welcome_to_Pixelino_-_The_Birth_of_a_Minimalist_Pixel_Art_Drawing_Tool.svg)](https://dev.to/zitrocode/devblog-1-welcome-to-pixelino-the-birth-of-a-minimalist-pixel-art-drawing-tool-315p)
+[![Time & Space Complexity, Stability of Algorithm](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Time___Space_Complexity__Stability_of_Algorithm.svg)](https://dev.to/madhubankhatri/time-space-complexity-stability-of-algorithm-ai5)
+[![Leveraging AWS CodePipeline pipeline and Serverless Framework to deploy a Flask API.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Leveraging_AWS_CodePipeline_pipeline_and_Serverless_Framework_to_deploy_a_Flask_API..svg)](https://dev.to/aws-builders/leveraging-aws-codepipeline-pipeline-and-serverless-framework-to-deploy-a-flask-api-3jha)
+[![How to split an Angular app into micro-frontend apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_split_an_Angular_app_into_micro-frontend_apps.svg)](https://dev.to/michaeljota/how-to-split-an-angular-app-into-micro-frontend-apps-1fi9)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, March 27, 2023 at 6:46:28 PM
+> Last updated: Tuesday, March 28, 2023 at 12:11:41 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, March 27, 2023 at 6:46:35 PM
+> Last updated: Tuesday, March 28, 2023 at 12:11:48 AM
 
 > Showing 5 of 30 posts.
 
