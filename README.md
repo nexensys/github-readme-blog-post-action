@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, March 29, 2023 at 6:18:15 AM
+> Last updated: Wednesday, March 29, 2023 at 12:18:12 PM
 
 > Showing 5 of 12 posts.
 
-[![How to build a mood tracker app in Flutter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_build_a_mood_tracker_app_in_Flutter.svg)](https://dev.to/hackmamba/how-to-build-a-mood-tracker-app-in-flutter-pc8)
-[![Avalonia UI and MAUI - Something for everyone](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Avalonia_UI_and_MAUI_-_Something_for_everyone.svg)](https://dev.to/avalonia/avalonia-ui-and-maui-something-for-everyone-1a3d)
-[![Compare Colors Palettes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Compare_Colors_Palettes.svg)](https://dev.to/colorswall/compare-colors-palettes-2ehl)
-[![A detailed guide on how to implement Server-side Rendering (SSR) in a NextJs Application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_detailed_guide_on_how_to_implement_Server-side_Rendering_(SSR)_in_a_NextJs_Application.svg)](https://dev.to/onlyoneerin/a-detailed-guide-on-how-to-implement-server-side-rendering-ssr-in-a-nextjs-application-1mpp)
-[![Do you know about the Accounting Information System (AIS)?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Do_you_know_about_the_Accounting_Information_System_(AIS)_.svg)](https://dev.to/windyaaa/do-you-know-about-the-accounting-information-system-ais-2mdo)
+[![#Python Operators](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_Python_Operators.svg)](https://dev.to/saidaim0001/python-operators-194o)
+[![GitHub Copilot for CLI makes Terminal scripting and Git as easy as asking a question](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/GitHub_Copilot_for_CLI_makes_Terminal_scripting_and_Git_as_easy_as_asking_a_question.svg)](https://dev.to/codepo8/github-copilot-for-cli-makes-terminal-scripting-and-git-as-easy-as-asking-a-question-3m81)
+[![React Server Components Without a Framework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Server_Components_Without_a_Framework.svg)](https://dev.to/shiftyp/react-server-components-without-a-framework-2jpf)
+[![how to make any rounded shape way more sexy? (css only)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/how_to_make_any_rounded_shape_way_more_sexy__(css_only).svg)](https://dev.to/norflin321/how-to-make-any-rounded-shape-way-more-sexy-css-only-3c04)
+[![Insertar elementos en un índice específico de un array en JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Insertar_elementos_en_un_índice_específico_de_un_array_en_JavaScript.svg)](https://dev.to/asjordi/insertar-elementos-en-un-indice-especifico-de-un-array-en-javascript-3j1n)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, March 29, 2023 at 6:18:19 AM
+> Last updated: Wednesday, March 29, 2023 at 12:18:16 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,21 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, March 29, 2023 at 6:18:23 AM
+> Last updated: Wednesday, March 29, 2023 at 12:18:21 PM
 
 > Showing 5 of 30 posts.
 
+[![
+An Introduction to Pinia: The Alternative State Management Library for Vue.js Applications
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_An_Introduction_to_Pinia__The_Alternative_State_Management_Library_for_Vue.js_Applications_.svg)](
+https://goo.su/bi70g
+)
 [![How to Use the useEffect Hook in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Use_the_useEffect_Hook_in_React.svg)](https://dskcode.com/how-to-use-the-useeffect-hook-in-react)
 [![File Uploads for the Web (2): Upload Files with JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/File_Uploads_for_the_Web_(2)__Upload_Files_with_JavaScript.svg)](https://austingil.com/upload-files-with-javascript/)
 [![Working with UUID in Node](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Working_with_UUID_in_Node.svg)](
 https://masteringjs.io/tutorials/node/uuid
 )
 [![GitHub - Genez-io/genezio: Run a completely functional backend in just a few minutes.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Genez-io_genezio__Run_a_completely_functional_backend_in_just_a_few_minutes..svg)](https://github.com/Genez-io/genezio)
-[![Understanding TypeScript Function Types: A Beginner's Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Understanding_TypeScript_Function_Types__A_Beginner's_Guide.svg)](https://dmitripavlutin.com/typescript-function-type/)
 
 
 <!-- post-list:end -->
