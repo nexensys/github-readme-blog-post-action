@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, March 28, 2023 at 12:10:51 PM
+> Last updated: Tuesday, March 28, 2023 at 6:51:48 PM
 
 > Showing 5 of 12 posts.
 
-[![Low Cost "Overkill" AWS Infrastructure for a Newborn Startup](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Low_Cost__Overkill__AWS_Infrastructure_for_a_Newborn_Startup.svg)](https://dev.to/aws-builders/low-cost-overkill-aws-infrastructure-for-a-newborn-startup-aaf)
-[![What is an API? Part 1.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_an_API__Part_1..svg)](https://dev.to/11cconnolly/what-is-an-api-part-1-f35)
-[![Why You Should Use a React Framework for Your Next Project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_You_Should_Use_a_React_Framework_for_Your_Next_Project.svg)](https://dev.to/nilanth/why-you-should-use-a-react-framework-for-your-next-project-5enb)
-[![Use these Notion Templates to Create Your Portfolio in Seconds](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Use_these_Notion_Templates_to_Create_Your_Portfolio_in_Seconds.svg)](https://dev.to/xenoxdev/use-these-notion-templates-to-create-your-portfolio-in-seconds-4jnp)
-[![Paracetamol.js💊| #212: Explica este código JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Paracetamol.js💊___212__Explica_este_código_JavaScript.svg)](https://dev.to/duxtech/paracetamoljs-212-explica-este-codigo-javascript-6f1)
+[![Building a simple Chrome extension with JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_simple_Chrome_extension_with_JS.svg)](https://dev.to/audreymengue/building-a-simple-chrome-extension-with-js-1143)
+[![Manage Calendar & Address Book Micro-services](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Manage_Calendar___Address_Book_Micro-services.svg)](https://dev.to/otomato_io/manage-calendar-address-book-micro-services-pj1)
+[![Breaking and building encryption in NFC digital wallets 📳](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Breaking_and_building_encryption_in_NFC_digital_wallets_📳.svg)](https://dev.to/cossacklabs/breaking-and-building-encryption-in-nfc-digital-wallets-39c4)
+[![Manage Prometheus TSDB in the better way!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Manage_Prometheus_TSDB_in_the_better_way!.svg)](https://dev.to/vamirreza/manage-prometheus-tsdb-in-the-better-way-236a)
+[![Does everything have a price?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Does_everything_have_a_price_.svg)](https://dev.to/corners2wall/does-everything-have-a-price-56p9)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, March 28, 2023 at 12:10:54 PM
+> Last updated: Tuesday, March 28, 2023 at 6:51:51 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, March 28, 2023 at 12:10:56 PM
+> Last updated: Tuesday, March 28, 2023 at 6:51:53 PM
 
 > Showing 5 of 30 posts.
 
