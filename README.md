@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, March 28, 2023 at 6:51:48 PM
+> Last updated: Wednesday, March 29, 2023 at 12:11:55 AM
 
 > Showing 5 of 12 posts.
 
-[![Building a simple Chrome extension with JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_simple_Chrome_extension_with_JS.svg)](https://dev.to/audreymengue/building-a-simple-chrome-extension-with-js-1143)
-[![Manage Calendar & Address Book Micro-services](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Manage_Calendar___Address_Book_Micro-services.svg)](https://dev.to/otomato_io/manage-calendar-address-book-micro-services-pj1)
-[![Breaking and building encryption in NFC digital wallets 📳](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Breaking_and_building_encryption_in_NFC_digital_wallets_📳.svg)](https://dev.to/cossacklabs/breaking-and-building-encryption-in-nfc-digital-wallets-39c4)
-[![Manage Prometheus TSDB in the better way!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Manage_Prometheus_TSDB_in_the_better_way!.svg)](https://dev.to/vamirreza/manage-prometheus-tsdb-in-the-better-way-236a)
-[![Does everything have a price?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Does_everything_have_a_price_.svg)](https://dev.to/corners2wall/does-everything-have-a-price-56p9)
+[![A step-by-step guide on using Redux Toolkit with React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_step-by-step_guide_on_using_Redux_Toolkit_with_React.svg)](https://dev.to/ifourtechnolab/a-step-by-step-guide-on-using-redux-toolkit-with-react-2485)
+[![How to Center a Div : CSS Tips and Tricks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Center_a_Div___CSS_Tips_and_Tricks.svg)](https://dev.to/rutikkpatel/how-to-center-a-div-css-tips-and-tricks-3lfp)
+[![How to Extract Bing News Data with SerpApi and Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Extract_Bing_News_Data_with_SerpApi_and_Python.svg)](https://dev.to/serpapi/how-to-extract-bing-news-data-with-serpapi-and-python-345i)
+[![Hacking AWS Account via AWS Lambda SSRF](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Hacking_AWS_Account_via_AWS_Lambda_SSRF.svg)](https://dev.to/aws-builders/hacking-aws-account-via-aws-lambda-ssrf-nof)
+[![Animation -18 : Pure CSS Gooey Loader Animation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Animation_-18___Pure_CSS_Gooey_Loader_Animation.svg)](https://dev.to/jon_snow789/animation-18-pure-css-gooey-loader-animation-11pc)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, March 28, 2023 at 6:51:51 PM
+> Last updated: Wednesday, March 29, 2023 at 12:11:59 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, March 28, 2023 at 6:51:53 PM
+> Last updated: Wednesday, March 29, 2023 at 12:12:03 AM
 
 > Showing 5 of 30 posts.
 
