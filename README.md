@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, March 30, 2023 at 6:16:53 AM
+> Last updated: Thursday, March 30, 2023 at 12:10:13 PM
 
 > Showing 5 of 12 posts.
 
-[![Searching - DSA | Part 4 |](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Searching_-_DSA___Part_4__.svg)](https://dev.to/madhubankhatri/searching-dsa-part-4--1ah9)
-[![How to Automate Tasks with ILLA Cloud: A Low-Code Platform for Internal Tools](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Automate_Tasks_with_ILLA_Cloud__A_Low-Code_Platform_for_Internal_Tools.svg)](https://dev.to/illa/how-to-automate-tasks-with-illa-cloud-a-low-code-platform-for-internal-tools-1472)
-[![Defining Contract Error using Soroban Assembly Script SDK](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Defining_Contract_Error_using_Soroban_Assembly_Script_SDK.svg)](https://dev.to/darkvallen/error-handling-using-soroban-assembly-script-sdk-519m)
-[![The Web3 Security Guide: Protecting Your Digital Assets in a Decentralized World](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Web3_Security_Guide__Protecting_Your_Digital_Assets_in_a_Decentralized_World.svg)](https://dev.to/cocoandrew/the-web3-security-guide-protecting-your-digital-assets-in-a-decentralized-world-4lgf)
-[![Web3 App Development Using Solidity and Truffle Framework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Web3_App_Development_Using_Solidity_and_Truffle_Framework.svg)](https://dev.to/cryptoneroo/web3-app-development-using-solidity-and-truffle-framework-2p3e)
+[![Demystifying GraphQL Security: A Comprehensive Guide to Introspection](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Demystifying_GraphQL_Security__A_Comprehensive_Guide_to_Introspection.svg)](https://dev.to/tristankalos/demystifying-graphql-security-a-comprehensive-guide-to-introspection-34fm)
+[![Explaining Distributed Systems Like I'm 5](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Explaining_Distributed_Systems_Like_I'm_5.svg)](https://dev.to/sabrinaesaquino/explain-distributed-systems-like-im-5-51o6)
+[![gnu-on-alpine 3.17.3 and alpine-plus-plus 3.17.3 Released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/gnu-on-alpine_3.17.3_and_alpine-plus-plus_3.17.3_Released.svg)](https://dev.to/cicirello/gnu-on-alpine-3173-and-alpine-plus-plus-3173-released-20d5)
+[![UML (Unified Modeling Language)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/UML_(Unified_Modeling_Language).svg)](https://dev.to/mhzaf/uml-unified-modeling-language-2bk)
+[![Application Deployment On Azure Cloud using Azure Web App Service](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Application_Deployment_On_Azure_Cloud_using_Azure_Web_App_Service.svg)](https://dev.to/sardarmudassaralikhan/application-deployment-on-azure-cloud-using-azure-web-app-service-2lh8)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, March 30, 2023 at 6:16:57 AM
+> Last updated: Thursday, March 30, 2023 at 12:10:17 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,12 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, March 30, 2023 at 6:17:01 AM
+> Last updated: Thursday, March 30, 2023 at 12:10:21 PM
 
 > Showing 5 of 30 posts.
 
+[![Spam-tastic! npm Registry Swamped by Bizarre John Wick Frenzy - Socket](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Spam-tastic!_npm_Registry_Swamped_by_Bizarre_John_Wick_Frenzy_-_Socket.svg)](https://socket.dev/blog/npm-registry-spam-john-wick)
+[![File Uploads for the Web (3): File Uploads in Node & Nuxt](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/File_Uploads_for_the_Web_(3)__File_Uploads_in_Node___Nuxt.svg)](https://austingil.com/file-uploads-in-node/)
 [![A Comprehensive Guide to Using Context and State in Your App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/A_Comprehensive_Guide_to_Using_Context_and_State_in_Your_App.svg)](https://dskcode.com/a-comprehensive-guide-to-using-context-and-state-in-your-app)
 [![We're Working on Cassandra Support for Mongoose](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/We're_Working_on_Cassandra_Support_for_Mongoose.svg)](http://www.thecodebarbarian.com/were-working-on-cassandra-support-for-mongoose)
 [![
@@ -54,8 +56,6 @@ An Introduction to Pinia: The Alternative State Management Library for Vue.js Ap
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_An_Introduction_to_Pinia__The_Alternative_State_Management_Library_for_Vue.js_Applications_.svg)](
 https://goo.su/bi70g
 )
-[![How to Use the useEffect Hook in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Use_the_useEffect_Hook_in_React.svg)](https://dskcode.com/how-to-use-the-useeffect-hook-in-react)
-[![File Uploads for the Web (2): Upload Files with JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/File_Uploads_for_the_Web_(2)__Upload_Files_with_JavaScript.svg)](https://austingil.com/upload-files-with-javascript/)
 
 
 <!-- post-list:end -->
