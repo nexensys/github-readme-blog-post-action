@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, March 29, 2023 at 12:18:12 PM
+> Last updated: Wednesday, March 29, 2023 at 6:45:53 PM
 
 > Showing 5 of 12 posts.
 
-[![#Python Operators](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_Python_Operators.svg)](https://dev.to/saidaim0001/python-operators-194o)
-[![GitHub Copilot for CLI makes Terminal scripting and Git as easy as asking a question](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/GitHub_Copilot_for_CLI_makes_Terminal_scripting_and_Git_as_easy_as_asking_a_question.svg)](https://dev.to/codepo8/github-copilot-for-cli-makes-terminal-scripting-and-git-as-easy-as-asking-a-question-3m81)
-[![React Server Components Without a Framework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Server_Components_Without_a_Framework.svg)](https://dev.to/shiftyp/react-server-components-without-a-framework-2jpf)
-[![how to make any rounded shape way more sexy? (css only)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/how_to_make_any_rounded_shape_way_more_sexy__(css_only).svg)](https://dev.to/norflin321/how-to-make-any-rounded-shape-way-more-sexy-css-only-3c04)
-[![Insertar elementos en un índice específico de un array en JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Insertar_elementos_en_un_índice_específico_de_un_array_en_JavaScript.svg)](https://dev.to/asjordi/insertar-elementos-en-un-indice-especifico-de-un-array-en-javascript-3j1n)
+[![Bye bye](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Bye_bye.svg)](https://dev.to/corners2wall/bye-bye-18ip)
+[![What is FaceIO Facial Recognition? - Face Recognition Software and Face Analysis Explained](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_FaceIO_Facial_Recognition__-_Face_Recognition_Software_and_Face_Analysis_Explained.svg)](https://dev.to/ahmedqureshi54/what-is-faceio-facial-recognition-face-recognition-software-and-face-analysis-explained-3e7m)
+[![Going fullstack with Flutter and MongoDB Atlas Data API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Going_fullstack_with_Flutter_and_MongoDB_Atlas_Data_API.svg)](https://dev.to/malomz/going-fullstack-with-flutter-and-mongodb-atlas-data-api-381m)
+[![Combining APIs Responses in Node](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Combining_APIs_Responses_in_Node.svg)](https://dev.to/lutefd/combining-two-api-responses-in-node-4n47)
+[![Cert-Manager Conflict with EKS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cert-Manager_Conflict_with_EKS.svg)](https://dev.to/aws-builders/conflict-cert-manager-with-eks-2lbf)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, March 29, 2023 at 12:18:16 PM
+> Last updated: Wednesday, March 29, 2023 at 6:45:55 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, March 29, 2023 at 12:18:21 PM
+> Last updated: Wednesday, March 29, 2023 at 6:45:58 PM
 
 > Showing 5 of 30 posts.
 
+[![We're Working on Cassandra Support for Mongoose](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/We're_Working_on_Cassandra_Support_for_Mongoose.svg)](http://www.thecodebarbarian.com/were-working-on-cassandra-support-for-mongoose)
 [![
 An Introduction to Pinia: The Alternative State Management Library for Vue.js Applications
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_An_Introduction_to_Pinia__The_Alternative_State_Management_Library_for_Vue.js_Applications_.svg)](
@@ -57,7 +58,6 @@ https://goo.su/bi70g
 [![Working with UUID in Node](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Working_with_UUID_in_Node.svg)](
 https://masteringjs.io/tutorials/node/uuid
 )
-[![GitHub - Genez-io/genezio: Run a completely functional backend in just a few minutes.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Genez-io_genezio__Run_a_completely_functional_backend_in_just_a_few_minutes..svg)](https://github.com/Genez-io/genezio)
 
 
 <!-- post-list:end -->
