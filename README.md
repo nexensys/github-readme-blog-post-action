@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, March 29, 2023 at 6:45:53 PM
+> Last updated: Thursday, March 30, 2023 at 12:11:40 AM
 
 > Showing 5 of 12 posts.
 
-[![Bye bye](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Bye_bye.svg)](https://dev.to/corners2wall/bye-bye-18ip)
-[![What is FaceIO Facial Recognition? - Face Recognition Software and Face Analysis Explained](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_FaceIO_Facial_Recognition__-_Face_Recognition_Software_and_Face_Analysis_Explained.svg)](https://dev.to/ahmedqureshi54/what-is-faceio-facial-recognition-face-recognition-software-and-face-analysis-explained-3e7m)
-[![Going fullstack with Flutter and MongoDB Atlas Data API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Going_fullstack_with_Flutter_and_MongoDB_Atlas_Data_API.svg)](https://dev.to/malomz/going-fullstack-with-flutter-and-mongodb-atlas-data-api-381m)
-[![Combining APIs Responses in Node](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Combining_APIs_Responses_in_Node.svg)](https://dev.to/lutefd/combining-two-api-responses-in-node-4n47)
-[![Cert-Manager Conflict with EKS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cert-Manager_Conflict_with_EKS.svg)](https://dev.to/aws-builders/conflict-cert-manager-with-eks-2lbf)
+[![Introducing the new Hoppscotch documentation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_the_new_Hoppscotch_documentation.svg)](https://dev.to/hoppscotch/introducing-the-new-hoppscotch-documentation-52mp)
+[![Why Learning to Code Is the Best Investment You Can Make in Yourself](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_Learning_to_Code_Is_the_Best_Investment_You_Can_Make_in_Yourself.svg)](https://dev.to/bhavin9920/why-learning-to-code-is-the-best-investment-you-can-make-in-yourself-6og)
+[![Simplest Hello World Ever ( in RUST )](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Simplest_Hello_World_Ever_(_in_RUST_).svg)](https://dev.to/vchiranjeeviak/simplest-hello-world-ever-in-rust--23be)
+[![Javascript Object #3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Javascript_Object__3.svg)](https://dev.to/samr/javascript-object-3-ep7)
+[![Mastering API Calls in React: A Beginner's Guide to Building and Consuming REST APIs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_API_Calls_in_React__A_Beginner's_Guide_to_Building_and_Consuming_REST_APIs.svg)](https://dev.to/devxvaibhav/mastering-api-calls-in-react-a-beginners-guide-to-building-and-consuming-rest-apis-e2j)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, March 29, 2023 at 6:45:55 PM
+> Last updated: Thursday, March 30, 2023 at 12:11:44 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, March 29, 2023 at 6:45:58 PM
+> Last updated: Thursday, March 30, 2023 at 12:11:48 AM
 
 > Showing 5 of 30 posts.
 
+[![A Comprehensive Guide to Using Context and State in Your App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/A_Comprehensive_Guide_to_Using_Context_and_State_in_Your_App.svg)](https://dskcode.com/a-comprehensive-guide-to-using-context-and-state-in-your-app)
 [![We're Working on Cassandra Support for Mongoose](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/We're_Working_on_Cassandra_Support_for_Mongoose.svg)](http://www.thecodebarbarian.com/were-working-on-cassandra-support-for-mongoose)
 [![
 An Introduction to Pinia: The Alternative State Management Library for Vue.js Applications
@@ -55,9 +56,6 @@ https://goo.su/bi70g
 )
 [![How to Use the useEffect Hook in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Use_the_useEffect_Hook_in_React.svg)](https://dskcode.com/how-to-use-the-useeffect-hook-in-react)
 [![File Uploads for the Web (2): Upload Files with JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/File_Uploads_for_the_Web_(2)__Upload_Files_with_JavaScript.svg)](https://austingil.com/upload-files-with-javascript/)
-[![Working with UUID in Node](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Working_with_UUID_in_Node.svg)](
-https://masteringjs.io/tutorials/node/uuid
-)
 
 
 <!-- post-list:end -->
