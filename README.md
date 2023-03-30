@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, March 30, 2023 at 12:11:40 AM
+> Last updated: Thursday, March 30, 2023 at 6:16:53 AM
 
 > Showing 5 of 12 posts.
 
-[![Introducing the new Hoppscotch documentation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_the_new_Hoppscotch_documentation.svg)](https://dev.to/hoppscotch/introducing-the-new-hoppscotch-documentation-52mp)
-[![Why Learning to Code Is the Best Investment You Can Make in Yourself](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_Learning_to_Code_Is_the_Best_Investment_You_Can_Make_in_Yourself.svg)](https://dev.to/bhavin9920/why-learning-to-code-is-the-best-investment-you-can-make-in-yourself-6og)
-[![Simplest Hello World Ever ( in RUST )](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Simplest_Hello_World_Ever_(_in_RUST_).svg)](https://dev.to/vchiranjeeviak/simplest-hello-world-ever-in-rust--23be)
-[![Javascript Object #3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Javascript_Object__3.svg)](https://dev.to/samr/javascript-object-3-ep7)
-[![Mastering API Calls in React: A Beginner's Guide to Building and Consuming REST APIs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_API_Calls_in_React__A_Beginner's_Guide_to_Building_and_Consuming_REST_APIs.svg)](https://dev.to/devxvaibhav/mastering-api-calls-in-react-a-beginners-guide-to-building-and-consuming-rest-apis-e2j)
+[![Searching - DSA | Part 4 |](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Searching_-_DSA___Part_4__.svg)](https://dev.to/madhubankhatri/searching-dsa-part-4--1ah9)
+[![How to Automate Tasks with ILLA Cloud: A Low-Code Platform for Internal Tools](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Automate_Tasks_with_ILLA_Cloud__A_Low-Code_Platform_for_Internal_Tools.svg)](https://dev.to/illa/how-to-automate-tasks-with-illa-cloud-a-low-code-platform-for-internal-tools-1472)
+[![Defining Contract Error using Soroban Assembly Script SDK](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Defining_Contract_Error_using_Soroban_Assembly_Script_SDK.svg)](https://dev.to/darkvallen/error-handling-using-soroban-assembly-script-sdk-519m)
+[![The Web3 Security Guide: Protecting Your Digital Assets in a Decentralized World](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Web3_Security_Guide__Protecting_Your_Digital_Assets_in_a_Decentralized_World.svg)](https://dev.to/cocoandrew/the-web3-security-guide-protecting-your-digital-assets-in-a-decentralized-world-4lgf)
+[![Web3 App Development Using Solidity and Truffle Framework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Web3_App_Development_Using_Solidity_and_Truffle_Framework.svg)](https://dev.to/cryptoneroo/web3-app-development-using-solidity-and-truffle-framework-2p3e)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, March 30, 2023 at 12:11:44 AM
+> Last updated: Thursday, March 30, 2023 at 6:16:57 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, March 30, 2023 at 12:11:48 AM
+> Last updated: Thursday, March 30, 2023 at 6:17:01 AM
 
 > Showing 5 of 30 posts.
 
