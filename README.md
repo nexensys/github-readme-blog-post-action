@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, March 30, 2023 at 12:10:13 PM
+> Last updated: Thursday, March 30, 2023 at 6:46:07 PM
 
 > Showing 5 of 12 posts.
 
-[![Demystifying GraphQL Security: A Comprehensive Guide to Introspection](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Demystifying_GraphQL_Security__A_Comprehensive_Guide_to_Introspection.svg)](https://dev.to/tristankalos/demystifying-graphql-security-a-comprehensive-guide-to-introspection-34fm)
-[![Explaining Distributed Systems Like I'm 5](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Explaining_Distributed_Systems_Like_I'm_5.svg)](https://dev.to/sabrinaesaquino/explain-distributed-systems-like-im-5-51o6)
-[![gnu-on-alpine 3.17.3 and alpine-plus-plus 3.17.3 Released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/gnu-on-alpine_3.17.3_and_alpine-plus-plus_3.17.3_Released.svg)](https://dev.to/cicirello/gnu-on-alpine-3173-and-alpine-plus-plus-3173-released-20d5)
-[![UML (Unified Modeling Language)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/UML_(Unified_Modeling_Language).svg)](https://dev.to/mhzaf/uml-unified-modeling-language-2bk)
-[![Application Deployment On Azure Cloud using Azure Web App Service](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Application_Deployment_On_Azure_Cloud_using_Azure_Web_App_Service.svg)](https://dev.to/sardarmudassaralikhan/application-deployment-on-azure-cloud-using-azure-web-app-service-2lh8)
+[![Value type vs Reference type in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Value_type_vs_Reference_type_in_JavaScript.svg)](https://dev.to/badr21/value-type-vs-reference-type-in-javascript-4fp6)
+[![😤 That feeling when your favorite project too goes in the graveyard...](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/😤_That_feeling_when_your_favorite_project_too_goes_in_the_graveyard....svg)](https://dev.to/jmfayard/when-your-project-too-goes-in-the-graveyard-1bka)
+[![An Alt-Text Primer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/An_Alt-Text_Primer.svg)](https://dev.to/baspin94/an-alt-text-primer-53fd)
+[![Why JavaScript is a Prototype-based OOP](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_JavaScript_is_a_Prototype-based_OOP.svg)](https://dev.to/efkumah/why-javascript-is-a-prototype-based-oop-4b4g)
+[![No More Goerli Faucets! Using the New Infura Sepolia Faucet for Ethereum Smart Contract Testing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/No_More_Goerli_Faucets!_Using_the_New_Infura_Sepolia_Faucet_for_Ethereum_Smart_Contract_Testing.svg)](https://dev.to/mbogan/no-more-goerli-faucets-using-the-new-infura-sepolia-faucet-for-ethereum-smart-contract-testing-3nca)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, March 30, 2023 at 12:10:17 PM
+> Last updated: Thursday, March 30, 2023 at 6:46:11 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, March 30, 2023 at 12:10:21 PM
+> Last updated: Thursday, March 30, 2023 at 6:46:15 PM
 
 > Showing 5 of 30 posts.
 
