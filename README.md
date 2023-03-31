@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, March 31, 2023 at 6:15:49 AM
+> Last updated: Friday, March 31, 2023 at 12:09:33 PM
 
 > Showing 5 of 12 posts.
 
-[![How I passed the AWS Certified Security  — Specialty Exam (SCS-C01)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_I_passed_the_AWS_Certified_Security__—_Specialty_Exam_(SCS-C01).svg)](https://dev.to/aditmodi/how-i-passed-the-aws-certified-security-specialty-exam-scs-c01-44b4)
-[![How Streaming database differs from a Traditional database?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_Streaming_database_differs_from_a_Traditional_database_.svg)](https://dev.to/bobur/how-streaming-database-differs-from-a-traditional-database-o1a)
-[![Creating a Minesweeper Game in SolidJS - Score, Timer and Game State](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_a_Minesweeper_Game_in_SolidJS_-_Score__Timer_and_Game_State.svg)](https://dev.to/mbarzeev/creating-a-minesweeper-game-in-solidjs-score-timer-and-game-state-56n0)
-[![Want a special configuration in VS Code for a particular environment or workflow?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Want_a_special_configuration_in_VS_Code_for_a_particular_environment_or_workflow_.svg)](https://dev.to/robole/vs-code-custom-workflows-and-project-configuration-with-profiles-2ib6)
-[![Calculate life span and age in years in javascript/typescript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Calculate_life_span_and_age_in_years_in_javascript_typescript.svg)](https://dev.to/codever/calculate-life-span-and-age-in-years-in-javascripttypescript-5f99)
+[![Build your own mini ATMs using Aadhaar and Eko APIs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_your_own_mini_ATMs_using_Aadhaar_and_Eko_APIs.svg)](https://dev.to/ekodevs/build-your-own-mini-atms-using-aadhaar-and-eko-apis-a5a)
+[![Programirleme nireden öwrenmeli? Programirleme öwredýän programmalar](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Programirleme_nireden_öwrenmeli__Programirleme_öwredýän_programmalar.svg)](https://dev.to/tmprogrammer/programirleme-nireden-owrenmeli-programirleme-owredyan-programmalar-321h)
+[![We Knows Object In 🧑🏻‍💻JavaScript⤵️](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/We_Knows_Object_In_🧑🏻‍💻JavaScript⤵️.svg)](https://dev.to/shaikhmd007/we-knows-object-in-javascript-3a6h)
+[![what you need to know about Github Workflows](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/what_you_need_to_know_about_Github_Workflows.svg)](https://dev.to/shirinr/what-you-need-to-know-about-github-workflow-4jg8)
+[![Bring your text to life with the React Typing Animator!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Bring_your_text_to_life_with_the_React_Typing_Animator!.svg)](https://dev.to/j3rry320/bring-your-text-to-life-with-the-react-typing-animator-34i6)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, March 31, 2023 at 6:15:52 AM
+> Last updated: Friday, March 31, 2023 at 12:09:37 PM
 
 > Showing 4 of 4 posts.
 
+[![Import maps go universal](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Import_maps_go_universal.svg)](https://javascriptweekly.com/issues/632)
 [![Playwright now offers a UI mode](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Playwright_now_offers_a_UI_mode.svg)](https://javascriptweekly.com/issues/631)
 [![Transformers: JavaScript in Disguise](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Transformers__JavaScript_in_Disguise.svg)](https://javascriptweekly.com/issues/630)
 [![New JavaScript features of the past few years](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/New_JavaScript_features_of_the_past_few_years.svg)](https://javascriptweekly.com/issues/629)
-[![Garbage collector experiments](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Garbage_collector_experiments.svg)](https://javascriptweekly.com/issues/628)
 
 
 ## Echo JS
@@ -43,10 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, March 31, 2023 at 6:15:54 AM
+> Last updated: Friday, March 31, 2023 at 12:09:41 PM
 
 > Showing 5 of 30 posts.
 
+[![
+Error Handling in JavaScript: A Guide to Try/Catch, Throw, and Custom Error Classes
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Error_Handling_in_JavaScript__A_Guide_to_Try_Catch__Throw__and_Custom_Error_Classes_.svg)](
+https://goo.su/UhOv2U
+)
 [![
 Password Generator online
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Password_Generator_online_.svg)](
@@ -55,7 +60,6 @@ https://passwordgenerator.dskcode.com/
 [![Spam-tastic! npm Registry Swamped by Bizarre John Wick Frenzy - Socket](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Spam-tastic!_npm_Registry_Swamped_by_Bizarre_John_Wick_Frenzy_-_Socket.svg)](https://socket.dev/blog/npm-registry-spam-john-wick)
 [![File Uploads for the Web (3): File Uploads in Node & Nuxt](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/File_Uploads_for_the_Web_(3)__File_Uploads_in_Node___Nuxt.svg)](https://austingil.com/file-uploads-in-node/)
 [![A Comprehensive Guide to Using Context and State in Your App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/A_Comprehensive_Guide_to_Using_Context_and_State_in_Your_App.svg)](https://dskcode.com/a-comprehensive-guide-to-using-context-and-state-in-your-app)
-[![We're Working on Cassandra Support for Mongoose](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/We're_Working_on_Cassandra_Support_for_Mongoose.svg)](http://www.thecodebarbarian.com/were-working-on-cassandra-support-for-mongoose)
 
 
 <!-- post-list:end -->
