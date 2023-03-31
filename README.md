@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, March 30, 2023 at 6:46:07 PM
+> Last updated: Friday, March 31, 2023 at 12:11:28 AM
 
 > Showing 5 of 12 posts.
 
-[![Value type vs Reference type in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Value_type_vs_Reference_type_in_JavaScript.svg)](https://dev.to/badr21/value-type-vs-reference-type-in-javascript-4fp6)
-[![😤 That feeling when your favorite project too goes in the graveyard...](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/😤_That_feeling_when_your_favorite_project_too_goes_in_the_graveyard....svg)](https://dev.to/jmfayard/when-your-project-too-goes-in-the-graveyard-1bka)
-[![An Alt-Text Primer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/An_Alt-Text_Primer.svg)](https://dev.to/baspin94/an-alt-text-primer-53fd)
-[![Why JavaScript is a Prototype-based OOP](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_JavaScript_is_a_Prototype-based_OOP.svg)](https://dev.to/efkumah/why-javascript-is-a-prototype-based-oop-4b4g)
-[![No More Goerli Faucets! Using the New Infura Sepolia Faucet for Ethereum Smart Contract Testing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/No_More_Goerli_Faucets!_Using_the_New_Infura_Sepolia_Faucet_for_Ethereum_Smart_Contract_Testing.svg)](https://dev.to/mbogan/no-more-goerli-faucets-using-the-new-infura-sepolia-faucet-for-ethereum-smart-contract-testing-3nca)
+[![My Favorite Coursera Courses for Blockchain Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_Favorite_Coursera_Courses_for_Blockchain_Developers.svg)](https://dev.to/javinpaul/my-favorite-coursera-courses-for-blockchain-developers-71l)
+[![Getting Started with Blogging: A Beginners Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_Started_with_Blogging__A_Beginners_Guide.svg)](https://dev.to/arindam_1729/getting-started-with-blogging-a-beginners-guide-41d0)
+[![What is Kubernetes ?: The Future of Cloud-Native Application Development.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_Kubernetes____The_Future_of_Cloud-Native_Application_Development..svg)](https://dev.to/inibambam/what-is-kubernetes-the-future-of-cloud-native-application-development-1mfl)
+[![How to Disable Highly Privileged Azure AD Users with Azure Logic Apps and Microsoft Graph API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Disable_Highly_Privileged_Azure_AD_Users_with_Azure_Logic_Apps_and_Microsoft_Graph_API.svg)](https://dev.to/bbbrian/how-to-disable-azure-ad-users-with-azure-logic-apps-and-microsoft-graph-api-48kl)
+[![Two trie implementations in Rust (one's super fast)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Two_trie_implementations_in_Rust_(one's_super_fast).svg)](https://dev.to/timclicks/two-trie-implementations-in-rust-ones-super-fast-2f3m)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, March 30, 2023 at 6:46:11 PM
+> Last updated: Friday, March 31, 2023 at 12:11:31 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, March 30, 2023 at 6:46:15 PM
+> Last updated: Friday, March 31, 2023 at 12:11:34 AM
 
 > Showing 5 of 30 posts.
 
