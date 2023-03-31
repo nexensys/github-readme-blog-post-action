@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, March 31, 2023 at 12:11:28 AM
+> Last updated: Friday, March 31, 2023 at 6:15:49 AM
 
 > Showing 5 of 12 posts.
 
-[![My Favorite Coursera Courses for Blockchain Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_Favorite_Coursera_Courses_for_Blockchain_Developers.svg)](https://dev.to/javinpaul/my-favorite-coursera-courses-for-blockchain-developers-71l)
-[![Getting Started with Blogging: A Beginners Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_Started_with_Blogging__A_Beginners_Guide.svg)](https://dev.to/arindam_1729/getting-started-with-blogging-a-beginners-guide-41d0)
-[![What is Kubernetes ?: The Future of Cloud-Native Application Development.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_Kubernetes____The_Future_of_Cloud-Native_Application_Development..svg)](https://dev.to/inibambam/what-is-kubernetes-the-future-of-cloud-native-application-development-1mfl)
-[![How to Disable Highly Privileged Azure AD Users with Azure Logic Apps and Microsoft Graph API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Disable_Highly_Privileged_Azure_AD_Users_with_Azure_Logic_Apps_and_Microsoft_Graph_API.svg)](https://dev.to/bbbrian/how-to-disable-azure-ad-users-with-azure-logic-apps-and-microsoft-graph-api-48kl)
-[![Two trie implementations in Rust (one's super fast)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Two_trie_implementations_in_Rust_(one's_super_fast).svg)](https://dev.to/timclicks/two-trie-implementations-in-rust-ones-super-fast-2f3m)
+[![How I passed the AWS Certified Security  — Specialty Exam (SCS-C01)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_I_passed_the_AWS_Certified_Security__—_Specialty_Exam_(SCS-C01).svg)](https://dev.to/aditmodi/how-i-passed-the-aws-certified-security-specialty-exam-scs-c01-44b4)
+[![How Streaming database differs from a Traditional database?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_Streaming_database_differs_from_a_Traditional_database_.svg)](https://dev.to/bobur/how-streaming-database-differs-from-a-traditional-database-o1a)
+[![Creating a Minesweeper Game in SolidJS - Score, Timer and Game State](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_a_Minesweeper_Game_in_SolidJS_-_Score__Timer_and_Game_State.svg)](https://dev.to/mbarzeev/creating-a-minesweeper-game-in-solidjs-score-timer-and-game-state-56n0)
+[![Want a special configuration in VS Code for a particular environment or workflow?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Want_a_special_configuration_in_VS_Code_for_a_particular_environment_or_workflow_.svg)](https://dev.to/robole/vs-code-custom-workflows-and-project-configuration-with-profiles-2ib6)
+[![Calculate life span and age in years in javascript/typescript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Calculate_life_span_and_age_in_years_in_javascript_typescript.svg)](https://dev.to/codever/calculate-life-span-and-age-in-years-in-javascripttypescript-5f99)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, March 31, 2023 at 12:11:31 AM
+> Last updated: Friday, March 31, 2023 at 6:15:52 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, March 31, 2023 at 12:11:34 AM
+> Last updated: Friday, March 31, 2023 at 6:15:54 AM
 
 > Showing 5 of 30 posts.
 
+[![
+Password Generator online
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Password_Generator_online_.svg)](
+https://passwordgenerator.dskcode.com/
+)
 [![Spam-tastic! npm Registry Swamped by Bizarre John Wick Frenzy - Socket](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Spam-tastic!_npm_Registry_Swamped_by_Bizarre_John_Wick_Frenzy_-_Socket.svg)](https://socket.dev/blog/npm-registry-spam-john-wick)
 [![File Uploads for the Web (3): File Uploads in Node & Nuxt](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/File_Uploads_for_the_Web_(3)__File_Uploads_in_Node___Nuxt.svg)](https://austingil.com/file-uploads-in-node/)
 [![A Comprehensive Guide to Using Context and State in Your App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/A_Comprehensive_Guide_to_Using_Context_and_State_in_Your_App.svg)](https://dskcode.com/a-comprehensive-guide-to-using-context-and-state-in-your-app)
 [![We're Working on Cassandra Support for Mongoose](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/We're_Working_on_Cassandra_Support_for_Mongoose.svg)](http://www.thecodebarbarian.com/were-working-on-cassandra-support-for-mongoose)
-[![
-An Introduction to Pinia: The Alternative State Management Library for Vue.js Applications
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_An_Introduction_to_Pinia__The_Alternative_State_Management_Library_for_Vue.js_Applications_.svg)](
-https://goo.su/bi70g
-)
 
 
 <!-- post-list:end -->
