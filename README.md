@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, March 31, 2023 at 6:46:07 PM
+> Last updated: Saturday, April 1, 2023 at 12:10:17 AM
 
 > Showing 5 of 12 posts.
 
-[![Best Minors to Pair with a Computer Science Degree: Enhance Your Expertise and Marketability](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_Minors_to_Pair_with_a_Computer_Science_Degree__Enhance_Your_Expertise_and_Marketability.svg)](https://dev.to/sbang/best-minors-to-pair-with-a-computer-science-degree-enhance-your-expertise-and-marketability-47gh)
-[![Automatizando la generación de datos ficticios con Seed, Factory, Faker y TypeORM en NestJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Automatizando_la_generación_de_datos_ficticios_con_Seed__Factory__Faker_y_TypeORM_en_NestJS.svg)](https://dev.to/imgildev/automatizando-la-generacion-de-datos-ficticios-con-seed-factory-faker-y-typeorm-en-nestjs-5fpc)
-[![DevOps is the Philosophy, Platform is the Practice](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/DevOps_is_the_Philosophy__Platform_is_the_Practice.svg)](https://dev.to/linearb/devops-is-the-philosophy-platform-is-the-practice-11hc)
-[![Python to SQL and back again... an Object-Relational Mapping tale.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Python_to_SQL_and_back_again..._an_Object-Relational_Mapping_tale..svg)](https://dev.to/afromatt6288/python-to-sql-and-back-again-an-object-relational-mapping-tale-2nmh)
-[![Top 5 Struggles of Backend Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_5_Struggles_of_Backend_Developers.svg)](https://dev.to/nooptoday/top-5-struggles-of-backend-developers-1788)
+[![Top React Data Fetching Libraries](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_React_Data_Fetching_Libraries.svg)](https://dev.to/bybydev/top-react-data-fetching-libraries-4e9e)
+[![Improve Yourself as a developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Improve_Yourself_as_a_developer.svg)](https://dev.to/brojenuel/improve-yourself-as-a-developer-5836)
+[![Learn How to Use Artifactory as a Docker Registry](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Learn_How_to_Use_Artifactory_as_a_Docker_Registry.svg)](https://dev.to/pavanbelagatti/learn-how-to-use-artifactory-as-a-docker-registry-446g)
+[![Beyond the Basics: Discovering the Untold Features of .NET](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Beyond_the_Basics__Discovering_the_Untold_Features_of_.NET.svg)](https://dev.to/bhavin9920/beyond-the-basics-discovering-the-untold-features-of-net-355f)
+[![Detección de objetos con Azure Custom Vision](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Detección_de_objetos_con_Azure_Custom_Vision.svg)](https://dev.to/esdanielgomez/deteccion-de-objetos-con-azure-custom-vision-pp9)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, March 31, 2023 at 6:46:11 PM
+> Last updated: Saturday, April 1, 2023 at 12:10:21 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, March 31, 2023 at 6:46:15 PM
+> Last updated: Saturday, April 1, 2023 at 12:10:24 AM
 
 > Showing 5 of 30 posts.
 
+[![SudoLang: A Powerful Pseudocode Programming Language for LLMs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/SudoLang__A_Powerful_Pseudocode_Programming_Language_for_LLMs.svg)](https://medium.com/javascript-scene/sudolang-a-powerful-pseudocode-programming-language-for-llms-d64d42aa719b)
 [![
 Error Handling in JavaScript: A Guide to Try/Catch, Throw, and Custom Error Classes
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Error_Handling_in_JavaScript__A_Guide_to_Try_Catch__Throw__and_Custom_Error_Classes_.svg)](
@@ -59,7 +60,6 @@ https://passwordgenerator.dskcode.com/
 )
 [![Spam-tastic! npm Registry Swamped by Bizarre John Wick Frenzy - Socket](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Spam-tastic!_npm_Registry_Swamped_by_Bizarre_John_Wick_Frenzy_-_Socket.svg)](https://socket.dev/blog/npm-registry-spam-john-wick)
 [![File Uploads for the Web (3): File Uploads in Node & Nuxt](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/File_Uploads_for_the_Web_(3)__File_Uploads_in_Node___Nuxt.svg)](https://austingil.com/file-uploads-in-node/)
-[![A Comprehensive Guide to Using Context and State in Your App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/A_Comprehensive_Guide_to_Using_Context_and_State_in_Your_App.svg)](https://dskcode.com/a-comprehensive-guide-to-using-context-and-state-in-your-app)
 
 
 <!-- post-list:end -->
