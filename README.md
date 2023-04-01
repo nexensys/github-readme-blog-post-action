@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, April 1, 2023 at 6:14:02 AM
+> Last updated: Saturday, April 1, 2023 at 12:09:12 PM
 
 > Showing 5 of 12 posts.
 
-[![useless picoCTF 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/useless_picoCTF_2023.svg)](https://dev.to/brunoblaise/useless-picoctf-2023-1p3g)
-[![repetitions picoctf 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/repetitions_picoctf_2023.svg)](https://dev.to/brunoblaise/repetitions-picoctf-2023-21p5)
-[![Permissions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Permissions.svg)](https://dev.to/brunoblaise/permissions-i55)
-[![Rules 2023 picoCTF](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Rules_2023_picoCTF.svg)](https://dev.to/brunoblaise/rules-2023-picoctf-1054)
-[![Chrono picoCTf 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Chrono_picoCTf_2023.svg)](https://dev.to/brunoblaise/chrono-picoctf-2023-1j8h)
+[![A deep dive into the CSS color-mix() function and future of colors on the web.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_deep_dive_into_the_CSS_color-mix()_function_and_future_of_colors_on_the_web..svg)](https://dev.to/astrit/a-deep-dive-into-the-css-color-mix-function-and-future-of-colors-on-the-web-2pgi)
+[![Vue JS And PocketBase #1 Authentication And User Management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Vue_JS_And_PocketBase__1_Authentication_And_User_Management.svg)](https://dev.to/aaronksaunders/vue-js-and-pocketbase-1-authentication-and-user-management-663)
+[![How an RDBMS works #3: Database Life Cycle Overview](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_an_RDBMS_works__3__Database_Life_Cycle_Overview.svg)](https://dev.to/carlasanches/how-an-rdbms-works-database-life-cycle-overview-2gb4)
+[![Meu primeiro ano na Realidade Virtual - VR [PT-BR]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Meu_primeiro_ano_na_Realidade_Virtual_-_VR_[PT-BR].svg)](https://dev.to/andredarcie/meu-primeiro-ano-na-realidade-virtual-vr-pt-br-52m4)
+[![Folder Structure for Modern Web Applications](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Folder_Structure_for_Modern_Web_Applications.svg)](https://dev.to/noruwa/folder-structure-for-modern-web-applications-4d11)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, April 1, 2023 at 6:14:07 AM
+> Last updated: Saturday, April 1, 2023 at 12:09:16 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, April 1, 2023 at 6:14:10 AM
+> Last updated: Saturday, April 1, 2023 at 12:09:19 PM
 
 > Showing 5 of 30 posts.
 
