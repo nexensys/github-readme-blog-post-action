@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, March 31, 2023 at 12:09:33 PM
+> Last updated: Friday, March 31, 2023 at 6:46:07 PM
 
 > Showing 5 of 12 posts.
 
-[![Build your own mini ATMs using Aadhaar and Eko APIs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_your_own_mini_ATMs_using_Aadhaar_and_Eko_APIs.svg)](https://dev.to/ekodevs/build-your-own-mini-atms-using-aadhaar-and-eko-apis-a5a)
-[![Programirleme nireden öwrenmeli? Programirleme öwredýän programmalar](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Programirleme_nireden_öwrenmeli__Programirleme_öwredýän_programmalar.svg)](https://dev.to/tmprogrammer/programirleme-nireden-owrenmeli-programirleme-owredyan-programmalar-321h)
-[![We Knows Object In 🧑🏻‍💻JavaScript⤵️](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/We_Knows_Object_In_🧑🏻‍💻JavaScript⤵️.svg)](https://dev.to/shaikhmd007/we-knows-object-in-javascript-3a6h)
-[![what you need to know about Github Workflows](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/what_you_need_to_know_about_Github_Workflows.svg)](https://dev.to/shirinr/what-you-need-to-know-about-github-workflow-4jg8)
-[![Bring your text to life with the React Typing Animator!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Bring_your_text_to_life_with_the_React_Typing_Animator!.svg)](https://dev.to/j3rry320/bring-your-text-to-life-with-the-react-typing-animator-34i6)
+[![Best Minors to Pair with a Computer Science Degree: Enhance Your Expertise and Marketability](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_Minors_to_Pair_with_a_Computer_Science_Degree__Enhance_Your_Expertise_and_Marketability.svg)](https://dev.to/sbang/best-minors-to-pair-with-a-computer-science-degree-enhance-your-expertise-and-marketability-47gh)
+[![Automatizando la generación de datos ficticios con Seed, Factory, Faker y TypeORM en NestJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Automatizando_la_generación_de_datos_ficticios_con_Seed__Factory__Faker_y_TypeORM_en_NestJS.svg)](https://dev.to/imgildev/automatizando-la-generacion-de-datos-ficticios-con-seed-factory-faker-y-typeorm-en-nestjs-5fpc)
+[![DevOps is the Philosophy, Platform is the Practice](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/DevOps_is_the_Philosophy__Platform_is_the_Practice.svg)](https://dev.to/linearb/devops-is-the-philosophy-platform-is-the-practice-11hc)
+[![Python to SQL and back again... an Object-Relational Mapping tale.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Python_to_SQL_and_back_again..._an_Object-Relational_Mapping_tale..svg)](https://dev.to/afromatt6288/python-to-sql-and-back-again-an-object-relational-mapping-tale-2nmh)
+[![Top 5 Struggles of Backend Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_5_Struggles_of_Backend_Developers.svg)](https://dev.to/nooptoday/top-5-struggles-of-backend-developers-1788)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, March 31, 2023 at 12:09:37 PM
+> Last updated: Friday, March 31, 2023 at 6:46:11 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, March 31, 2023 at 12:09:41 PM
+> Last updated: Friday, March 31, 2023 at 6:46:15 PM
 
 > Showing 5 of 30 posts.
 
