@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, April 1, 2023 at 12:10:17 AM
+> Last updated: Saturday, April 1, 2023 at 6:14:02 AM
 
 > Showing 5 of 12 posts.
 
-[![Top React Data Fetching Libraries](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_React_Data_Fetching_Libraries.svg)](https://dev.to/bybydev/top-react-data-fetching-libraries-4e9e)
-[![Improve Yourself as a developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Improve_Yourself_as_a_developer.svg)](https://dev.to/brojenuel/improve-yourself-as-a-developer-5836)
-[![Learn How to Use Artifactory as a Docker Registry](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Learn_How_to_Use_Artifactory_as_a_Docker_Registry.svg)](https://dev.to/pavanbelagatti/learn-how-to-use-artifactory-as-a-docker-registry-446g)
-[![Beyond the Basics: Discovering the Untold Features of .NET](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Beyond_the_Basics__Discovering_the_Untold_Features_of_.NET.svg)](https://dev.to/bhavin9920/beyond-the-basics-discovering-the-untold-features-of-net-355f)
-[![Detección de objetos con Azure Custom Vision](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Detección_de_objetos_con_Azure_Custom_Vision.svg)](https://dev.to/esdanielgomez/deteccion-de-objetos-con-azure-custom-vision-pp9)
+[![useless picoCTF 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/useless_picoCTF_2023.svg)](https://dev.to/brunoblaise/useless-picoctf-2023-1p3g)
+[![repetitions picoctf 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/repetitions_picoctf_2023.svg)](https://dev.to/brunoblaise/repetitions-picoctf-2023-21p5)
+[![Permissions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Permissions.svg)](https://dev.to/brunoblaise/permissions-i55)
+[![Rules 2023 picoCTF](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Rules_2023_picoCTF.svg)](https://dev.to/brunoblaise/rules-2023-picoctf-1054)
+[![Chrono picoCTf 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Chrono_picoCTf_2023.svg)](https://dev.to/brunoblaise/chrono-picoctf-2023-1j8h)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, April 1, 2023 at 12:10:21 AM
+> Last updated: Saturday, April 1, 2023 at 6:14:07 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, April 1, 2023 at 12:10:24 AM
+> Last updated: Saturday, April 1, 2023 at 6:14:10 AM
 
 > Showing 5 of 30 posts.
 
+[![Creating a Custom Card Component in React Native](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Creating_a_Custom_Card_Component_in_React_Native.svg)](https://dskcode.com/custom-card-component-in-react-native)
 [![SudoLang: A Powerful Pseudocode Programming Language for LLMs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/SudoLang__A_Powerful_Pseudocode_Programming_Language_for_LLMs.svg)](https://medium.com/javascript-scene/sudolang-a-powerful-pseudocode-programming-language-for-llms-d64d42aa719b)
 [![
 Error Handling in JavaScript: A Guide to Try/Catch, Throw, and Custom Error Classes
@@ -59,7 +60,6 @@ Password Generator online
 https://passwordgenerator.dskcode.com/
 )
 [![Spam-tastic! npm Registry Swamped by Bizarre John Wick Frenzy - Socket](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Spam-tastic!_npm_Registry_Swamped_by_Bizarre_John_Wick_Frenzy_-_Socket.svg)](https://socket.dev/blog/npm-registry-spam-john-wick)
-[![File Uploads for the Web (3): File Uploads in Node & Nuxt](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/File_Uploads_for_the_Web_(3)__File_Uploads_in_Node___Nuxt.svg)](https://austingil.com/file-uploads-in-node/)
 
 
 <!-- post-list:end -->
