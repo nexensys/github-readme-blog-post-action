@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, April 1, 2023 at 12:09:12 PM
+> Last updated: Saturday, April 1, 2023 at 6:46:13 PM
 
 > Showing 5 of 12 posts.
 
-[![A deep dive into the CSS color-mix() function and future of colors on the web.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_deep_dive_into_the_CSS_color-mix()_function_and_future_of_colors_on_the_web..svg)](https://dev.to/astrit/a-deep-dive-into-the-css-color-mix-function-and-future-of-colors-on-the-web-2pgi)
-[![Vue JS And PocketBase #1 Authentication And User Management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Vue_JS_And_PocketBase__1_Authentication_And_User_Management.svg)](https://dev.to/aaronksaunders/vue-js-and-pocketbase-1-authentication-and-user-management-663)
-[![How an RDBMS works #3: Database Life Cycle Overview](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_an_RDBMS_works__3__Database_Life_Cycle_Overview.svg)](https://dev.to/carlasanches/how-an-rdbms-works-database-life-cycle-overview-2gb4)
-[![Meu primeiro ano na Realidade Virtual - VR [PT-BR]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Meu_primeiro_ano_na_Realidade_Virtual_-_VR_[PT-BR].svg)](https://dev.to/andredarcie/meu-primeiro-ano-na-realidade-virtual-vr-pt-br-52m4)
-[![Folder Structure for Modern Web Applications](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Folder_Structure_for_Modern_Web_Applications.svg)](https://dev.to/noruwa/folder-structure-for-modern-web-applications-4d11)
+[![Disjoint Set Union heuristics](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Disjoint_Set_Union_heuristics.svg)](https://dev.to/aallzz/disjoint-set-union-heuristics-2e82)
+[![Create an Angular app with ESLint & Tailwind CSS in seconds](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_an_Angular_app_with_ESLint___Tailwind_CSS_in_seconds.svg)](https://dev.to/joshuahills/create-an-angular-app-with-eslint-tailwind-css-in-seconds-9jb)
+[![Horizontal Calendar - a simple date picker for React Native](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Horizontal_Calendar_-_a_simple_date_picker_for_React_Native.svg)](https://dev.to/kharioki/horizontal-calendar-a-simple-date-picker-for-react-native-4h2)
+[![My Installed App as Developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_Installed_App_as_Developer.svg)](https://dev.to/granitebps/my-installed-app-as-developer-440g)
+[![apt-key'in deprecate olması](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/apt-key'in_deprecate_olması.svg)](https://dev.to/aciklab/apt-keyin-deprecate-olmasi-1ph7)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, April 1, 2023 at 12:09:16 PM
+> Last updated: Saturday, April 1, 2023 at 6:46:15 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, April 1, 2023 at 12:09:19 PM
+> Last updated: Saturday, April 1, 2023 at 6:46:19 PM
 
 > Showing 5 of 30 posts.
 
