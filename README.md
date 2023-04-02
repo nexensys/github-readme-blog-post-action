@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, April 2, 2023 at 6:14:18 AM
+> Last updated: Sunday, April 2, 2023 at 12:09:01 PM
 
 > Showing 5 of 12 posts.
 
-[![Deploy Your Next.js App with AWS Amplify Like a Pro — It’s Easier Than You Think](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deploy_Your_Next.js_App_with_AWS_Amplify_Like_a_Pro_—_It’s_Easier_Than_You_Think.svg)](https://dev.to/nitinfab/deploy-your-nextjs-app-with-aws-amplify-like-a-pro-its-easier-than-you-think-4c41)
-[![Does software development have an age limit?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Does_software_development_have_an_age_limit_.svg)](https://dev.to/alexhyettdev/does-software-development-have-an-age-limit-1cjo)
-[![Comparing accessibility: Hashnode vs. Dev.to](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Comparing_accessibility__Hashnode_vs._Dev.to.svg)](https://dev.to/emmadawsondev/comparing-accessibility-hashnode-vs-devto-21g5)
-[![Open-Source or Proprietary Software?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Open-Source_or_Proprietary_Software_.svg)](https://dev.to/codenewbieteam/open-source-or-proprietary-software-hil)
-[![CS2 just had an update](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CS2_just_had_an_update.svg)](https://dev.to/kartik7120/cs2-just-had-an-update-176o)
+[![Unlocking the Power of Next.js Pre-Rendering with Server-Side Props](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unlocking_the_Power_of_Next.js_Pre-Rendering_with_Server-Side_Props.svg)](https://dev.to/hi_iam_chris/unlocking-the-power-of-nextjs-pre-rendering-with-server-side-props-1od4)
+[![A new simple approach to diagram as code on AWS with CDK and D2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_new_simple_approach_to_diagram_as_code_on_AWS_with_CDK_and_D2.svg)](https://dev.to/aws-builders/a-new-simple-approach-to-diagram-as-code-on-aws-with-cdk-and-d2-17ef)
+[![Top 10 Best VScode Themes for 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_10_Best_VScode_Themes_for_2023.svg)](https://dev.to/bekbrace/top-10-best-vscode-themes-for-2023-21kl)
+[![Unlock the Secrets of Prompt Engineering: Master the Craft with This Proven Template 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unlock_the_Secrets_of_Prompt_Engineering__Master_the_Craft_with_This_Proven_Template_🚀.svg)](https://dev.to/jimmymcbride/unlock-the-secrets-of-prompt-engineering-master-the-craft-with-this-proven-template-39nm)
+[![Three JS Examples : 2. Three js rocket animation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Three_JS_Examples___2._Three_js_rocket_animation.svg)](https://dev.to/jon_snow789/three-js-examples-2-three-js-rocket-animation-175i)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, April 2, 2023 at 6:14:20 AM
+> Last updated: Sunday, April 2, 2023 at 12:09:04 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, April 2, 2023 at 6:14:23 AM
+> Last updated: Sunday, April 2, 2023 at 12:09:08 PM
 
 > Showing 5 of 30 posts.
 
@@ -59,7 +59,7 @@ Password Generator online
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Password_Generator_online_.svg)](
 https://passwordgenerator.dskcode.com/
 )
-[![Spam-tastic! npm Registry Swamped by Bizarre John Wick Frenzy - Socket](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Spam-tastic!_npm_Registry_Swamped_by_Bizarre_John_Wick_Frenzy_-_Socket.svg)](https://socket.dev/blog/npm-registry-spam-john-wick?ck_subscriber_id=2104217204)
+[![Spam-tastic! npm Registry Swamped by Bizarre John Wick Frenzy - Socket](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Spam-tastic!_npm_Registry_Swamped_by_Bizarre_John_Wick_Frenzy_-_Socket.svg)](https://socket.dev/blog/npm-registry-spam-john-wick)
 
 
 <!-- post-list:end -->
