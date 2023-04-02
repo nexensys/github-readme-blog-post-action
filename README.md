@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, April 1, 2023 at 6:46:13 PM
+> Last updated: Sunday, April 2, 2023 at 12:10:13 AM
 
 > Showing 5 of 12 posts.
 
-[![Disjoint Set Union heuristics](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Disjoint_Set_Union_heuristics.svg)](https://dev.to/aallzz/disjoint-set-union-heuristics-2e82)
-[![Create an Angular app with ESLint & Tailwind CSS in seconds](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_an_Angular_app_with_ESLint___Tailwind_CSS_in_seconds.svg)](https://dev.to/joshuahills/create-an-angular-app-with-eslint-tailwind-css-in-seconds-9jb)
-[![Horizontal Calendar - a simple date picker for React Native](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Horizontal_Calendar_-_a_simple_date_picker_for_React_Native.svg)](https://dev.to/kharioki/horizontal-calendar-a-simple-date-picker-for-react-native-4h2)
-[![My Installed App as Developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_Installed_App_as_Developer.svg)](https://dev.to/granitebps/my-installed-app-as-developer-440g)
-[![apt-key'in deprecate olması](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/apt-key'in_deprecate_olması.svg)](https://dev.to/aciklab/apt-keyin-deprecate-olmasi-1ph7)
+[![Build Your Tech Skills: Best Udemy Courses to Take in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_Your_Tech_Skills__Best_Udemy_Courses_to_Take_in_2023.svg)](https://dev.to/javinpaul/build-your-tech-skills-best-udemy-courses-to-take-in-2023-bf4)
+[![7 Tricks to take the Performance of your Website to the Moon 🚀🌙](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/7_Tricks_to_take_the_Performance_of_your_Website_to_the_Moon_🚀🌙.svg)](https://dev.to/ruppysuppy/7-tricks-to-take-the-performance-of-your-website-to-the-moon-1kpl)
+[![Python map(), filter() and reduce()](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Python_map()__filter()_and_reduce().svg)](https://dev.to/max24816/python-map-filter-and-reduce-1ldj)
+[![Python CRUD Rest API, using: Django, Postgres, Docker and Docker Compose](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Python_CRUD_Rest_API__using__Django__Postgres__Docker_and_Docker_Compose.svg)](https://dev.to/francescoxx/python-crud-rest-api-using-django-postgres-docker-and-docker-compose-4nhe)
+[![Memory Management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Memory_Management.svg)](https://dev.to/pablinme/memory-management-3367)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, April 1, 2023 at 6:46:15 PM
+> Last updated: Sunday, April 2, 2023 at 12:10:16 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, April 1, 2023 at 6:46:19 PM
+> Last updated: Sunday, April 2, 2023 at 12:10:19 AM
 
 > Showing 5 of 30 posts.
 
