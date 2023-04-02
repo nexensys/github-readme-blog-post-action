@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, April 2, 2023 at 12:10:13 AM
+> Last updated: Sunday, April 2, 2023 at 6:14:18 AM
 
 > Showing 5 of 12 posts.
 
-[![Build Your Tech Skills: Best Udemy Courses to Take in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_Your_Tech_Skills__Best_Udemy_Courses_to_Take_in_2023.svg)](https://dev.to/javinpaul/build-your-tech-skills-best-udemy-courses-to-take-in-2023-bf4)
-[![7 Tricks to take the Performance of your Website to the Moon 🚀🌙](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/7_Tricks_to_take_the_Performance_of_your_Website_to_the_Moon_🚀🌙.svg)](https://dev.to/ruppysuppy/7-tricks-to-take-the-performance-of-your-website-to-the-moon-1kpl)
-[![Python map(), filter() and reduce()](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Python_map()__filter()_and_reduce().svg)](https://dev.to/max24816/python-map-filter-and-reduce-1ldj)
-[![Python CRUD Rest API, using: Django, Postgres, Docker and Docker Compose](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Python_CRUD_Rest_API__using__Django__Postgres__Docker_and_Docker_Compose.svg)](https://dev.to/francescoxx/python-crud-rest-api-using-django-postgres-docker-and-docker-compose-4nhe)
-[![Memory Management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Memory_Management.svg)](https://dev.to/pablinme/memory-management-3367)
+[![Deploy Your Next.js App with AWS Amplify Like a Pro — It’s Easier Than You Think](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deploy_Your_Next.js_App_with_AWS_Amplify_Like_a_Pro_—_It’s_Easier_Than_You_Think.svg)](https://dev.to/nitinfab/deploy-your-nextjs-app-with-aws-amplify-like-a-pro-its-easier-than-you-think-4c41)
+[![Does software development have an age limit?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Does_software_development_have_an_age_limit_.svg)](https://dev.to/alexhyettdev/does-software-development-have-an-age-limit-1cjo)
+[![Comparing accessibility: Hashnode vs. Dev.to](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Comparing_accessibility__Hashnode_vs._Dev.to.svg)](https://dev.to/emmadawsondev/comparing-accessibility-hashnode-vs-devto-21g5)
+[![Open-Source or Proprietary Software?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Open-Source_or_Proprietary_Software_.svg)](https://dev.to/codenewbieteam/open-source-or-proprietary-software-hil)
+[![CS2 just had an update](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CS2_just_had_an_update.svg)](https://dev.to/kartik7120/cs2-just-had-an-update-176o)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, April 2, 2023 at 12:10:16 AM
+> Last updated: Sunday, April 2, 2023 at 6:14:20 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, April 2, 2023 at 12:10:19 AM
+> Last updated: Sunday, April 2, 2023 at 6:14:23 AM
 
 > Showing 5 of 30 posts.
 
@@ -59,7 +59,7 @@ Password Generator online
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Password_Generator_online_.svg)](
 https://passwordgenerator.dskcode.com/
 )
-[![Spam-tastic! npm Registry Swamped by Bizarre John Wick Frenzy - Socket](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Spam-tastic!_npm_Registry_Swamped_by_Bizarre_John_Wick_Frenzy_-_Socket.svg)](https://socket.dev/blog/npm-registry-spam-john-wick)
+[![Spam-tastic! npm Registry Swamped by Bizarre John Wick Frenzy - Socket](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Spam-tastic!_npm_Registry_Swamped_by_Bizarre_John_Wick_Frenzy_-_Socket.svg)](https://socket.dev/blog/npm-registry-spam-john-wick?ck_subscriber_id=2104217204)
 
 
 <!-- post-list:end -->
