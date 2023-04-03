@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, April 2, 2023 at 12:09:01 PM
+> Last updated: Sunday, April 2, 2023 at 6:42:53 PM
 
 > Showing 5 of 12 posts.
 
-[![Unlocking the Power of Next.js Pre-Rendering with Server-Side Props](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unlocking_the_Power_of_Next.js_Pre-Rendering_with_Server-Side_Props.svg)](https://dev.to/hi_iam_chris/unlocking-the-power-of-nextjs-pre-rendering-with-server-side-props-1od4)
-[![A new simple approach to diagram as code on AWS with CDK and D2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_new_simple_approach_to_diagram_as_code_on_AWS_with_CDK_and_D2.svg)](https://dev.to/aws-builders/a-new-simple-approach-to-diagram-as-code-on-aws-with-cdk-and-d2-17ef)
-[![Top 10 Best VScode Themes for 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_10_Best_VScode_Themes_for_2023.svg)](https://dev.to/bekbrace/top-10-best-vscode-themes-for-2023-21kl)
-[![Unlock the Secrets of Prompt Engineering: Master the Craft with This Proven Template 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unlock_the_Secrets_of_Prompt_Engineering__Master_the_Craft_with_This_Proven_Template_🚀.svg)](https://dev.to/jimmymcbride/unlock-the-secrets-of-prompt-engineering-master-the-craft-with-this-proven-template-39nm)
-[![Three JS Examples : 2. Three js rocket animation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Three_JS_Examples___2._Three_js_rocket_animation.svg)](https://dev.to/jon_snow789/three-js-examples-2-three-js-rocket-animation-175i)
+[![Have questions about ESLint?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Have_questions_about_ESLint_.svg)](https://dev.to/nickytonline/have-questions-about-eslint-2ahp)
+[![Beginner's Guide to Storybook](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Beginner's_Guide_to_Storybook.svg)](https://dev.to/zeeshanhshaheen/beginners-guide-to-storybook-59ib)
+[![You Don't Need to Sacrifice Developer Experience for Productivity](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/You_Don't_Need_to_Sacrifice_Developer_Experience_for_Productivity.svg)](https://dev.to/linearb/you-dont-need-to-sacrifice-developer-experience-for-productivity-4abc)
+[![Filtering on DENSE_RANK() optimized as pushed-down DISTINCT in YugabyteDB](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Filtering_on_DENSE_RANK()_optimized_as_pushed-down_DISTINCT_in_YugabyteDB.svg)](https://dev.to/yugabyte/filtering-on-denserank-optimized-as-pushed-down-distinct-in-yugabytedb-5mp)
+[![Job Hunting Season: Month 4](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Job_Hunting_Season__Month_4.svg)](https://dev.to/taepal467/job-hunting-season-month-4-2e9i)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, April 2, 2023 at 12:09:04 PM
+> Last updated: Sunday, April 2, 2023 at 6:42:57 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, April 2, 2023 at 12:09:08 PM
+> Last updated: Sunday, April 2, 2023 at 6:43:00 PM
 
 > Showing 5 of 30 posts.
 
