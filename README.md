@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, April 2, 2023 at 6:42:53 PM
+> Last updated: Monday, April 3, 2023 at 12:11:20 AM
 
 > Showing 5 of 12 posts.
 
-[![Have questions about ESLint?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Have_questions_about_ESLint_.svg)](https://dev.to/nickytonline/have-questions-about-eslint-2ahp)
-[![Beginner's Guide to Storybook](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Beginner's_Guide_to_Storybook.svg)](https://dev.to/zeeshanhshaheen/beginners-guide-to-storybook-59ib)
-[![You Don't Need to Sacrifice Developer Experience for Productivity](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/You_Don't_Need_to_Sacrifice_Developer_Experience_for_Productivity.svg)](https://dev.to/linearb/you-dont-need-to-sacrifice-developer-experience-for-productivity-4abc)
-[![Filtering on DENSE_RANK() optimized as pushed-down DISTINCT in YugabyteDB](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Filtering_on_DENSE_RANK()_optimized_as_pushed-down_DISTINCT_in_YugabyteDB.svg)](https://dev.to/yugabyte/filtering-on-denserank-optimized-as-pushed-down-distinct-in-yugabytedb-5mp)
-[![Job Hunting Season: Month 4](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Job_Hunting_Season__Month_4.svg)](https://dev.to/taepal467/job-hunting-season-month-4-2e9i)
+[![Fascinating Programming Facts You Need to Know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Fascinating_Programming_Facts_You_Need_to_Know.svg)](https://dev.to/mavensingh/fascinating-programming-facts-you-need-to-know-38bm)
+[![Various ways to make an Input mandatory in Angular](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Various_ways_to_make_an_Input_mandatory_in_Angular.svg)](https://dev.to/this-is-angular/various-ways-to-make-an-input-mandatory-in-angular-2jko)
+[![The Future of Code: When Humans and AI Collaborate](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Future_of_Code__When_Humans_and_AI_Collaborate.svg)](https://dev.to/bhavin9920/the-future-of-code-when-humans-and-ai-collaborate-24jb)
+[![Logistics Automation - Automate Document Classification](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Logistics_Automation_-_Automate_Document_Classification.svg)](https://dev.to/balagmadhu/logistics-automation-automate-document-classification-55fn)
+[![Ethical Hacking - Conceptos básicos](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ethical_Hacking_-_Conceptos_básicos.svg)](https://dev.to/dennysjmarquez/ethical-hacking-conceptos-basicos-1coc)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, April 2, 2023 at 6:42:57 PM
+> Last updated: Monday, April 3, 2023 at 12:11:23 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, April 2, 2023 at 6:43:00 PM
+> Last updated: Monday, April 3, 2023 at 12:11:26 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - aidenybai/million: 🔟🔼6️⃣ An extremely fast virtual DOM that makes React up to 70% faster!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_aidenybai_million__🔟🔼6️⃣_An_extremely_fast_virtual_DOM_that_makes_React_up_to_70__faster!.svg)](https://github.com/aidenybai/million)
 [![Creating a Custom Card Component in React Native](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Creating_a_Custom_Card_Component_in_React_Native.svg)](https://dskcode.com/custom-card-component-in-react-native)
 [![SudoLang: A Powerful Pseudocode Programming Language for LLMs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/SudoLang__A_Powerful_Pseudocode_Programming_Language_for_LLMs.svg)](https://medium.com/javascript-scene/sudolang-a-powerful-pseudocode-programming-language-for-llms-d64d42aa719b)
 [![
@@ -59,7 +60,6 @@ Password Generator online
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Password_Generator_online_.svg)](
 https://passwordgenerator.dskcode.com/
 )
-[![Spam-tastic! npm Registry Swamped by Bizarre John Wick Frenzy - Socket](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Spam-tastic!_npm_Registry_Swamped_by_Bizarre_John_Wick_Frenzy_-_Socket.svg)](https://socket.dev/blog/npm-registry-spam-john-wick)
 
 
 <!-- post-list:end -->
