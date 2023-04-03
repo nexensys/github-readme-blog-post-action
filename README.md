@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, April 3, 2023 at 12:11:20 AM
+> Last updated: Monday, April 3, 2023 at 6:15:52 AM
 
 > Showing 5 of 12 posts.
 
-[![Fascinating Programming Facts You Need to Know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Fascinating_Programming_Facts_You_Need_to_Know.svg)](https://dev.to/mavensingh/fascinating-programming-facts-you-need-to-know-38bm)
-[![Various ways to make an Input mandatory in Angular](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Various_ways_to_make_an_Input_mandatory_in_Angular.svg)](https://dev.to/this-is-angular/various-ways-to-make-an-input-mandatory-in-angular-2jko)
-[![The Future of Code: When Humans and AI Collaborate](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Future_of_Code__When_Humans_and_AI_Collaborate.svg)](https://dev.to/bhavin9920/the-future-of-code-when-humans-and-ai-collaborate-24jb)
-[![Logistics Automation - Automate Document Classification](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Logistics_Automation_-_Automate_Document_Classification.svg)](https://dev.to/balagmadhu/logistics-automation-automate-document-classification-55fn)
-[![Ethical Hacking - Conceptos básicos](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ethical_Hacking_-_Conceptos_básicos.svg)](https://dev.to/dennysjmarquez/ethical-hacking-conceptos-basicos-1coc)
+[![Monthly Amazon Location Service Updates - 2023.03](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Monthly_Amazon_Location_Service_Updates_-_2023.03.svg)](https://dev.to/aws-heroes/monthly-amazon-location-service-updates-202303-140l)
+[![Simulating Streaming Data for Fraud Detection with Datagen CLI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Simulating_Streaming_Data_for_Fraud_Detection_with_Datagen_CLI.svg)](https://dev.to/bobbyiliev/simulating-streaming-data-for-fraud-detection-with-datagen-cli-4aa8)
+[![Simple port scanning without a port scanner](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Simple_port_scanning_without_a_port_scanner.svg)](https://dev.to/yugabyte/simple-port-scanning-without-a-port-scanner-3mj7)
+[![3 Ways to Optimize Your Node.js Application Performance](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/3_Ways_to_Optimize_Your_Node.js_Application_Performance.svg)](https://dev.to/pavanbelagatti/3-ways-to-optimize-your-nodejs-application-performance-2mo5)
+[![Abstract Class vs Interface in C#: Analyzing the Pros and Cons](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Abstract_Class_vs_Interface_in_C___Analyzing_the_Pros_and_Cons.svg)](https://dev.to/bytehide/abstract-class-vs-interface-in-c-analyzing-the-pros-and-cons-32mj)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, April 3, 2023 at 12:11:23 AM
+> Last updated: Monday, April 3, 2023 at 6:15:55 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,23 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, April 3, 2023 at 12:11:26 AM
+> Last updated: Monday, April 3, 2023 at 6:16:00 AM
 
 > Showing 5 of 30 posts.
 
+[![MLGPT Machine Learning Prompts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/MLGPT_Machine_Learning_Prompts.svg)](https://vorentai01.gumroad.com/l/yylit)
+[![
+Create your own scroll animations in CSS. Using an efficient and lightweight JS package
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Create_your_own_scroll_animations_in_CSS._Using_an_efficient_and_lightweight_JS_package_.svg)](
+https://idev-games.github.io/Trig-JS/
+)
+[![Checklist for software quality assurance | Articles Submission Service](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Checklist_for_software_quality_assurance___Articles_Submission_Service.svg)](https://articlessubmissionservice.com/checklist-for-software-quality-assurance/)
+[![Best practices for software quality assurance | Article Abode](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Best_practices_for_software_quality_assurance___Article_Abode.svg)](https://articleabode.com/best-practices-for-software-quality-assurance/)
 [![GitHub - aidenybai/million: 🔟🔼6️⃣ An extremely fast virtual DOM that makes React up to 70% faster!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_aidenybai_million__🔟🔼6️⃣_An_extremely_fast_virtual_DOM_that_makes_React_up_to_70__faster!.svg)](https://github.com/aidenybai/million)
-[![Creating a Custom Card Component in React Native](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Creating_a_Custom_Card_Component_in_React_Native.svg)](https://dskcode.com/custom-card-component-in-react-native)
-[![SudoLang: A Powerful Pseudocode Programming Language for LLMs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/SudoLang__A_Powerful_Pseudocode_Programming_Language_for_LLMs.svg)](https://medium.com/javascript-scene/sudolang-a-powerful-pseudocode-programming-language-for-llms-d64d42aa719b)
-[![
-Error Handling in JavaScript: A Guide to Try/Catch, Throw, and Custom Error Classes
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Error_Handling_in_JavaScript__A_Guide_to_Try_Catch__Throw__and_Custom_Error_Classes_.svg)](
-https://goo.su/UhOv2U
-)
-[![
-Password Generator online
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Password_Generator_online_.svg)](
-https://passwordgenerator.dskcode.com/
-)
 
 
 <!-- post-list:end -->
