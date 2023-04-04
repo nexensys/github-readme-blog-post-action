@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, April 3, 2023 at 12:10:26 PM
+> Last updated: Monday, April 3, 2023 at 6:43:09 PM
 
 > Showing 5 of 12 posts.
 
-[![Questions to ask in an interview](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Questions_to_ask_in_an_interview.svg)](https://dev.to/virtualcoffee/questions-to-ask-in-an-interview-2g0e)
-[![Why aren’t you contributing to open source?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_aren’t_you_contributing_to_open_source_.svg)](https://dev.to/bekahhw/why-arent-you-contributing-to-open-source-3nk8)
-[![Conditional Statements in JavaScript: If-Else](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Conditional_Statements_in_JavaScript__If-Else.svg)](https://dev.to/max24816/conditional-statements-in-javascript-if-else-15jc)
-[![How to create a read-only GraphQL server](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_a_read-only_GraphQL_server.svg)](https://dev.to/woovi/how-to-create-a-read-only-graphql-server-12ck)
-[![How to build a portfolio section with Tailwind CSS and Flowbite](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_build_a_portfolio_section_with_Tailwind_CSS_and_Flowbite.svg)](https://dev.to/themesberg/how-to-build-a-portfolio-section-with-tailwind-css-and-flowbite-3bh0)
+[![Running Kubernetes on Github Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Running_Kubernetes_on_Github_Actions.svg)](https://dev.to/kitarp29/running-kubernetes-on-github-actions-f2c)
+[![Considerations before creating a hybrid infrastructure with AWS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Considerations_before_creating_a_hybrid_infrastructure_with_AWS.svg)](https://dev.to/aws-builders/considerations-before-creating-a-hybrid-infrastructure-with-aws-4j2f)
+[![Measuring latencies for the new region of AWS Spain (eu-south-2)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Measuring_latencies_for_the_new_region_of_AWS_Spain_(eu-south-2).svg)](https://dev.to/aws-builders/measuring-latencies-for-the-new-region-of-aws-spain-eu-south-2-kpd)
+[![Using Node.js for Automated Testing and Continuous Integration](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_Node.js_for_Automated_Testing_and_Continuous_Integration.svg)](https://dev.to/folasayosamuel/using-nodejs-for-automated-testing-and-continuous-integration-36k5)
+[![How to Create EC2 Instance (Ubuntu 22.04) on AWS and Connect Via SSH using PEM](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Create_EC2_Instance_(Ubuntu_22.04)_on_AWS_and_Connect_Via_SSH_using_PEM.svg)](https://dev.to/ivy_j/how-to-create-ec2-instance-ubuntu-2204-on-aws-and-connect-via-ssh-using-pem-492o)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, April 3, 2023 at 12:10:30 PM
+> Last updated: Monday, April 3, 2023 at 6:43:12 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,16 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, April 3, 2023 at 12:10:40 PM
+> Last updated: Monday, April 3, 2023 at 6:43:21 PM
 
 > Showing 5 of 30 posts.
 
+[![Unit Testing ChatGPT Prompts: Introducing Riteway for SudoLang](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Unit_Testing_ChatGPT_Prompts__Introducing_Riteway_for_SudoLang.svg)](https://medium.com/javascript-scene/unit-testing-chatgpt-prompts-introducing-riteway-for-sudolang-52761c34abc4)
+[![
+Exploring Modern JavaScript: A Comprehensive Guide to ES6 and Beyond
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Exploring_Modern_JavaScript__A_Comprehensive_Guide_to_ES6_and_Beyond_.svg)](
+https://goo.su/Unw5A4w
+)
 [![
 Typescript CRUD Framework
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Typescript_CRUD_Framework_.svg)](
@@ -54,12 +60,6 @@ https://case.app
 )
 [![How to migrate from Tachyons Utility-First CSS framework to Stylify CSS | Stylify CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_migrate_from_Tachyons_Utility-First_CSS_framework_to_Stylify_CSS___Stylify_CSS.svg)](https://stylifycss.com/docs/migration/tachyons)
 [![API with NestJS #102. Writing unit tests with Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__102._Writing_unit_tests_with_Prisma.svg)](https://wanago.io/2023/04/03/api-nestjs-unit-tests-prisma/)
-[![MLGPT Machine Learning Prompts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/MLGPT_Machine_Learning_Prompts.svg)](https://vorentai01.gumroad.com/l/yylit)
-[![
-Create your own scroll animations in CSS. Using an efficient and lightweight JS package
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Create_your_own_scroll_animations_in_CSS._Using_an_efficient_and_lightweight_JS_package_.svg)](
-https://idev-games.github.io/Trig-JS/
-)
 
 
 <!-- post-list:end -->
