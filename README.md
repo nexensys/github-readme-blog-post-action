@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, April 4, 2023 at 12:11:04 AM
+> Last updated: Tuesday, April 4, 2023 at 6:15:45 AM
 
 > Showing 5 of 12 posts.
 
-[![Coding a Port Scanner with Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Coding_a_Port_Scanner_with_Python.svg)](https://dev.to/jsquared/coding-a-port-scanner-with-python-5he7)
-[![How to use .NET's built-in caching mechanism to improve the performance of your web applications](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_.NET's_built-in_caching_mechanism_to_improve_the_performance_of_your_web_applications.svg)](https://dev.to/bhavin9920/how-to-use-nets-built-in-caching-mechanism-to-improve-the-performance-of-your-web-applications-55o)
-[![memory GAME NEW FEATURE](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/memory_GAME_NEW_FEATURE.svg)](https://dev.to/nagvanshi9275/memory-game-new-feature-3c0e)
-[![A Detailed Guide on How to Build a Website with Next.js and Headless WordPress + SEO - 2023 Web Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Detailed_Guide_on_How_to_Build_a_Website_with_Next.js_and_Headless_WordPress_+_SEO_-_2023_Web_Development.svg)](https://dev.to/jeffsalive/a-detailed-guide-on-how-to-build-a-website-with-nextjs-and-headless-wordpress-seo-2023-web-development-4nof)
-[![Conditional Statements in JavaScript: Switch](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Conditional_Statements_in_JavaScript__Switch.svg)](https://dev.to/max24816/conditional-statements-in-javascript-switch-53l)
+[![You put what in a public subnet‽](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/You_put_what_in_a_public_subnet‽.svg)](https://dev.to/aws-builders/you-put-what-in-a-public-subnet-2hm2)
+[![Reset Local Repository Branch to be Just Like Remote Repository HEAD: A Step-by-Step Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Reset_Local_Repository_Branch_to_be_Just_Like_Remote_Repository_HEAD__A_Step-by-Step_Guide.svg)](https://dev.to/bobbyiliev/reset-local-repository-branch-to-be-just-like-remote-repository-head-a-step-by-step-guide-1n2k)
+[![DevOps Tooling Landscape](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/DevOps_Tooling_Landscape.svg)](https://dev.to/devland/devops-tooling-landscape-33m8)
+[![Django](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Django.svg)](https://dev.to/viyash/django-156g)
+[![Guide to Creating a Secure and Efficient Personal AWS Account in 2023 - Best Practices for First-Time Users](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Guide_to_Creating_a_Secure_and_Efficient_Personal_AWS_Account_in_2023_-_Best_Practices_for_First-Time_Users.svg)](https://dev.to/aws-builders/guide-to-creating-a-secure-and-efficient-personal-aws-account-in-2023-best-practices-for-first-time-users-4cfn)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, April 4, 2023 at 12:11:06 AM
+> Last updated: Tuesday, April 4, 2023 at 6:15:48 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, April 4, 2023 at 12:11:11 AM
+> Last updated: Tuesday, April 4, 2023 at 6:15:53 AM
 
 > Showing 5 of 30 posts.
 
+[![
+Globaldev Group IT company
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Globaldev_Group_IT_company_.svg)](
+https://www.globaldev.tech/
+)
 [![Unit Testing ChatGPT Prompts: Introducing Riteway for SudoLang](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Unit_Testing_ChatGPT_Prompts__Introducing_Riteway_for_SudoLang.svg)](https://medium.com/javascript-scene/unit-testing-chatgpt-prompts-introducing-riteway-for-sudolang-52761c34abc4)
 [![
 Exploring Modern JavaScript: A Comprehensive Guide to ES6 and Beyond
@@ -59,7 +64,6 @@ Typescript CRUD Framework
 https://case.app
 )
 [![How to migrate from Tachyons Utility-First CSS framework to Stylify CSS | Stylify CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_migrate_from_Tachyons_Utility-First_CSS_framework_to_Stylify_CSS___Stylify_CSS.svg)](https://stylifycss.com/docs/migration/tachyons)
-[![API with NestJS #102. Writing unit tests with Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__102._Writing_unit_tests_with_Prisma.svg)](https://wanago.io/2023/04/03/api-nestjs-unit-tests-prisma/)
 
 
 <!-- post-list:end -->
