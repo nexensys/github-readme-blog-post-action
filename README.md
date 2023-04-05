@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, April 4, 2023 at 6:36:42 PM
+> Last updated: Wednesday, April 5, 2023 at 12:11:26 AM
 
 > Showing 5 of 12 posts.
 
-[![The Five Lines of Code Principle: Why Less is More in Programming](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Five_Lines_of_Code_Principle__Why_Less_is_More_in_Programming.svg)](https://dev.to/kanani_nirav/the-five-lines-of-code-principle-why-less-is-more-in-programming-31j6)
-[![How to create a div with a curved bottom](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_a_div_with_a_curved_bottom.svg)](https://dev.to/arnosolo/how-to-create-a-div-with-a-curved-bottom-4i6l)
-[![Design Pattern: Strategy (TS)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Design_Pattern__Strategy_(TS).svg)](https://dev.to/daniyarotynshin/design-pattern-strategy-ts-3e55)
-[![[React] Render Props Pattern](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/[React]_Render_Props_Pattern.svg)](https://dev.to/jgamaraalv/react-render-props-pattern-314j)
-[![Serverless Functions & FaaS with Vercel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Serverless_Functions___FaaS_with_Vercel.svg)](https://dev.to/anuradha9712/serverless-functions-faas-with-vercel-4a44)
+[![What is prop drilling in React?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_prop_drilling_in_React_.svg)](https://dev.to/codeofrelevancy/what-is-prop-drilling-in-react-3kol)
+[![Pull Requests, Post-Bootcamp Advice, and Implementing Alt Text!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Pull_Requests__Post-Bootcamp_Advice__and_Implementing_Alt_Text!.svg)](https://dev.to/codenewbieteam/pull-requests-post-bootcamp-advice-and-implementing-alt-text-1l9o)
+[![How to cultivate goods connections](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_cultivate_goods_connections.svg)](https://dev.to/daniellimae/how-to-cultivate-goods-connections-58ji)
+[![Docker Commands Cheat Sheet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Docker_Commands_Cheat_Sheet.svg)](https://dev.to/pragyanatvade/docker-commands-cheat-sheet-2pnf)
+[![10 Cool CodePen Demos (March 23)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_Cool_CodePen_Demos_(March_23).svg)](https://dev.to/alvaromontoro/10-cool-codepen-demos-march-23-484p)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, April 4, 2023 at 6:36:45 PM
+> Last updated: Wednesday, April 5, 2023 at 12:11:31 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, April 4, 2023 at 6:36:50 PM
+> Last updated: Wednesday, April 5, 2023 at 12:11:37 AM
 
 > Showing 5 of 30 posts.
 
+[![Why software needs quality assurance? | Press Release 101](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Why_software_needs_quality_assurance____Press_Release_101.svg)](https://pressrelease101.co.uk/why-software-needs-quality-assurance/)
 [![The parseInt Function in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_parseInt_Function_in_JavaScript.svg)](
 https://masteringjs.io/tutorials/fundamentals/parseint
 )
@@ -56,11 +57,6 @@ https://masteringjs.io/tutorials/fundamentals/parseint
 Exploring Modern JavaScript: A Comprehensive Guide to ES6 and Beyond
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Exploring_Modern_JavaScript__A_Comprehensive_Guide_to_ES6_and_Beyond_.svg)](
 https://goo.su/Unw5A4w
-)
-[![
-Typescript CRUD Framework
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Typescript_CRUD_Framework_.svg)](
-https://case.app
 )
 
 
