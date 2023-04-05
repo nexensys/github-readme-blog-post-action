@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, April 5, 2023 at 6:19:12 AM
+> Last updated: Wednesday, April 5, 2023 at 12:12:20 PM
 
 > Showing 5 of 12 posts.
 
-[![Harbor üzerine Docker imajı gönderebilme](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Harbor_üzerine_Docker_imajı_gönderebilme.svg)](https://dev.to/aciklab/harbor-uzerine-docker-imaji-gonderebilme-3k1k)
-[![Javascript Object #5](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Javascript_Object__5.svg)](https://dev.to/samr/javascript-object-5-4nke)
-[![Top 5 Python Tricks and Coding Hacks That Beginners Should Know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_5_Python_Tricks_and_Coding_Hacks_That_Beginners_Should_Know.svg)](https://dev.to/dhruvjoshi9/top-5-python-tricks-and-coding-hacks-that-beginners-should-know-83m)
-[![Web Scraping in Python: Avoid Detection Like a Ninja](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Web_Scraping_in_Python__Avoid_Detection_Like_a_Ninja.svg)](https://dev.to/zenrowshq/web-scraping-in-python-avoid-detection-like-a-ninja-2op1)
-[![Javascript Object #4](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Javascript_Object__4.svg)](https://dev.to/samr/javascript-object-4-26n7)
+[![Modernizing Legacy Applications in PHP: Challenges and Approaches](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Modernizing_Legacy_Applications_in_PHP__Challenges_and_Approaches.svg)](https://dev.to/antonlogvinenko/modernizing-legacy-applications-in-php-challenges-and-approaches-2h15)
+[![Guide to Face Detection and Recognition Software Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Guide_to_Face_Detection_and_Recognition_Software_Development.svg)](https://dev.to/stanislavkutnyk/guide-to-face-detection-and-recognition-software-development-47b8)
+[![How to Create an NFT Marketplace: Approaches, Features, Costs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Create_an_NFT_Marketplace__Approaches__Features__Costs.svg)](https://dev.to/marcelmadjanta/how-to-create-an-nft-marketplace-approaches-features-costs-361h)
+[![Prove Developer's Guide: Prove's Approach to Batch APIs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Prove_Developer's_Guide__Prove's_Approach_to_Batch_APIs.svg)](https://dev.to/prove/prove-developers-guide-proves-approach-to-batch-apis-2djg)
+[![Bind Route Info to Component Inputs (New Router feature)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Bind_Route_Info_to_Component_Inputs_(New_Router_feature).svg)](https://dev.to/this-is-angular/bind-route-info-to-component-inputs-new-router-feature-35ll)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, April 5, 2023 at 6:19:15 AM
+> Last updated: Wednesday, April 5, 2023 at 12:12:24 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, April 5, 2023 at 6:19:20 AM
+> Last updated: Wednesday, April 5, 2023 at 12:12:28 PM
 
 > Showing 5 of 30 posts.
 
+[![React Native New Architecture](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_Native_New_Architecture.svg)](https://dskcode.com/react-native-new-architecture)
+[![GitHub - barinbritva/add-to-calendar: Create links for adding events to calendar services such as Outlook, Office 365, Google and Yahoo or to any calendar app using downloadable ICS files.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_barinbritva_add-to-calendar__Create_links_for_adding_events_to_calendar_services_such_as_Outlook__Office_365__Google_and_Yahoo_or_to_any_calendar_app_using_downloadable_ICS_files..svg)](https://github.com/barinbritva/add-to-calendar)
 [![GitHub - humblepenguinn/tmplt: tmplt is a command-line interface tool that allows you to quickly and easily set up project templates for various programming languages and frameworks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_humblepenguinn_tmplt__tmplt_is_a_command-line_interface_tool_that_allows_you_to_quickly_and_easily_set_up_project_templates_for_various_programming_languages_and_frameworks.svg)](https://github.com/humblepenguinn/tmplt)
 [![Why software needs quality assurance? | Press Release 101](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Why_software_needs_quality_assurance____Press_Release_101.svg)](https://pressrelease101.co.uk/why-software-needs-quality-assurance/)
 [![The parseInt Function in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_parseInt_Function_in_JavaScript.svg)](
 https://masteringjs.io/tutorials/fundamentals/parseint
 )
-[![GitHub - wantedly/react-declassify: say goodbye to class components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_wantedly_react-declassify__say_goodbye_to_class_components.svg)](https://github.com/wantedly/react-declassify)
-[![Unit Testing ChatGPT Prompts: Introducing Riteway for SudoLang](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Unit_Testing_ChatGPT_Prompts__Introducing_Riteway_for_SudoLang.svg)](https://medium.com/javascript-scene/unit-testing-chatgpt-prompts-introducing-riteway-for-sudolang-52761c34abc4)
 
 
 <!-- post-list:end -->
