@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, April 5, 2023 at 12:11:26 AM
+> Last updated: Wednesday, April 5, 2023 at 6:19:12 AM
 
 > Showing 5 of 12 posts.
 
-[![What is prop drilling in React?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_prop_drilling_in_React_.svg)](https://dev.to/codeofrelevancy/what-is-prop-drilling-in-react-3kol)
-[![Pull Requests, Post-Bootcamp Advice, and Implementing Alt Text!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Pull_Requests__Post-Bootcamp_Advice__and_Implementing_Alt_Text!.svg)](https://dev.to/codenewbieteam/pull-requests-post-bootcamp-advice-and-implementing-alt-text-1l9o)
-[![How to cultivate goods connections](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_cultivate_goods_connections.svg)](https://dev.to/daniellimae/how-to-cultivate-goods-connections-58ji)
-[![Docker Commands Cheat Sheet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Docker_Commands_Cheat_Sheet.svg)](https://dev.to/pragyanatvade/docker-commands-cheat-sheet-2pnf)
-[![10 Cool CodePen Demos (March 23)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_Cool_CodePen_Demos_(March_23).svg)](https://dev.to/alvaromontoro/10-cool-codepen-demos-march-23-484p)
+[![Harbor üzerine Docker imajı gönderebilme](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Harbor_üzerine_Docker_imajı_gönderebilme.svg)](https://dev.to/aciklab/harbor-uzerine-docker-imaji-gonderebilme-3k1k)
+[![Javascript Object #5](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Javascript_Object__5.svg)](https://dev.to/samr/javascript-object-5-4nke)
+[![Top 5 Python Tricks and Coding Hacks That Beginners Should Know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_5_Python_Tricks_and_Coding_Hacks_That_Beginners_Should_Know.svg)](https://dev.to/dhruvjoshi9/top-5-python-tricks-and-coding-hacks-that-beginners-should-know-83m)
+[![Web Scraping in Python: Avoid Detection Like a Ninja](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Web_Scraping_in_Python__Avoid_Detection_Like_a_Ninja.svg)](https://dev.to/zenrowshq/web-scraping-in-python-avoid-detection-like-a-ninja-2op1)
+[![Javascript Object #4](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Javascript_Object__4.svg)](https://dev.to/samr/javascript-object-4-26n7)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, April 5, 2023 at 12:11:31 AM
+> Last updated: Wednesday, April 5, 2023 at 6:19:15 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,21 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, April 5, 2023 at 12:11:37 AM
+> Last updated: Wednesday, April 5, 2023 at 6:19:20 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - humblepenguinn/tmplt: tmplt is a command-line interface tool that allows you to quickly and easily set up project templates for various programming languages and frameworks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_humblepenguinn_tmplt__tmplt_is_a_command-line_interface_tool_that_allows_you_to_quickly_and_easily_set_up_project_templates_for_various_programming_languages_and_frameworks.svg)](https://github.com/humblepenguinn/tmplt)
 [![Why software needs quality assurance? | Press Release 101](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Why_software_needs_quality_assurance____Press_Release_101.svg)](https://pressrelease101.co.uk/why-software-needs-quality-assurance/)
 [![The parseInt Function in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_parseInt_Function_in_JavaScript.svg)](
 https://masteringjs.io/tutorials/fundamentals/parseint
 )
 [![GitHub - wantedly/react-declassify: say goodbye to class components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_wantedly_react-declassify__say_goodbye_to_class_components.svg)](https://github.com/wantedly/react-declassify)
 [![Unit Testing ChatGPT Prompts: Introducing Riteway for SudoLang](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Unit_Testing_ChatGPT_Prompts__Introducing_Riteway_for_SudoLang.svg)](https://medium.com/javascript-scene/unit-testing-chatgpt-prompts-introducing-riteway-for-sudolang-52761c34abc4)
-[![
-Exploring Modern JavaScript: A Comprehensive Guide to ES6 and Beyond
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Exploring_Modern_JavaScript__A_Comprehensive_Guide_to_ES6_and_Beyond_.svg)](
-https://goo.su/Unw5A4w
-)
 
 
 <!-- post-list:end -->
