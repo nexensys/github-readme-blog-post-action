@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, April 4, 2023 at 12:09:08 PM
+> Last updated: Tuesday, April 4, 2023 at 6:36:42 PM
 
 > Showing 5 of 12 posts.
 
-[![Medusa: A New Way to Build Commerce](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Medusa__A_New_Way_to_Build_Commerce.svg)](https://dev.to/medusajs/medusa-a-new-way-to-build-commerce-4hia)
-[![Moonly weekly progress update #43](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Moonly_weekly_progress_update__43.svg)](https://dev.to/moonly/moonly-weekly-progress-update-43-2mh9)
-[![What is Design System and how to build it](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_Design_System_and_how_to_build_it.svg)](https://dev.to/jvidaln/what-is-design-system-and-how-to-build-it-30ad)
-[![Three JS Examples : 4. Three js geometry animation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Three_JS_Examples___4._Three_js_geometry_animation.svg)](https://dev.to/jon_snow789/three-js-examples-4-three-js-geometry-animation-4e05)
-[![Connect modbus sensor XY-MD02 to NodeRED with balena](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Connect_modbus_sensor_XY-MD02_to_NodeRED_with_balena.svg)](https://dev.to/mpous/connect-modbus-sensor-xy-md02-to-nodered-with-balena-pn4)
+[![The Five Lines of Code Principle: Why Less is More in Programming](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Five_Lines_of_Code_Principle__Why_Less_is_More_in_Programming.svg)](https://dev.to/kanani_nirav/the-five-lines-of-code-principle-why-less-is-more-in-programming-31j6)
+[![How to create a div with a curved bottom](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_a_div_with_a_curved_bottom.svg)](https://dev.to/arnosolo/how-to-create-a-div-with-a-curved-bottom-4i6l)
+[![Design Pattern: Strategy (TS)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Design_Pattern__Strategy_(TS).svg)](https://dev.to/daniyarotynshin/design-pattern-strategy-ts-3e55)
+[![[React] Render Props Pattern](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/[React]_Render_Props_Pattern.svg)](https://dev.to/jgamaraalv/react-render-props-pattern-314j)
+[![Serverless Functions & FaaS with Vercel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Serverless_Functions___FaaS_with_Vercel.svg)](https://dev.to/anuradha9712/serverless-functions-faas-with-vercel-4a44)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, April 4, 2023 at 12:09:12 PM
+> Last updated: Tuesday, April 4, 2023 at 6:36:45 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,16 +43,14 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, April 4, 2023 at 12:09:17 PM
+> Last updated: Tuesday, April 4, 2023 at 6:36:50 PM
 
 > Showing 5 of 30 posts.
 
-[![GitHub - wantedly/react-declassify: say goodbye to class components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_wantedly_react-declassify__say_goodbye_to_class_components.svg)](https://github.com/wantedly/react-declassify)
-[![
-Globaldev Group IT company
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Globaldev_Group_IT_company_.svg)](
-https://www.globaldev.tech/
+[![The parseInt Function in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_parseInt_Function_in_JavaScript.svg)](
+https://masteringjs.io/tutorials/fundamentals/parseint
 )
+[![GitHub - wantedly/react-declassify: say goodbye to class components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_wantedly_react-declassify__say_goodbye_to_class_components.svg)](https://github.com/wantedly/react-declassify)
 [![Unit Testing ChatGPT Prompts: Introducing Riteway for SudoLang](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Unit_Testing_ChatGPT_Prompts__Introducing_Riteway_for_SudoLang.svg)](https://medium.com/javascript-scene/unit-testing-chatgpt-prompts-introducing-riteway-for-sudolang-52761c34abc4)
 [![
 Exploring Modern JavaScript: A Comprehensive Guide to ES6 and Beyond
