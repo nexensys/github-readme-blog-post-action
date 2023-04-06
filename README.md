@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, April 5, 2023 at 6:41:27 PM
+> Last updated: Thursday, April 6, 2023 at 12:10:49 AM
 
 > Showing 5 of 12 posts.
 
-[![Just another memo to ask JetBrains implement manual files sorting in their products just like in Xcode, thx for the attention](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Just_another_memo_to_ask_JetBrains_implement_manual_files_sorting_in_their_products_just_like_in_Xcode__thx_for_the_attention.svg)](https://dev.to/maxcore/just-yet-another-cry-to-ask-jetbrains-implement-manual-sorting-in-their-products-just-like-in-xcode-thx-for-the-attention-2e7)
-[![A Step-by-Step Guide to Coding a Simple Extension on Firefox!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Step-by-Step_Guide_to_Coding_a_Simple_Extension_on_Firefox!.svg)](https://dev.to/xiacodes/a-step-by-step-guide-to-coding-a-simple-extension-477)
-[![Asynchronous JavaScript: Promises Async Await!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Asynchronous_JavaScript__Promises_Async_Await!.svg)](https://dev.to/cybermaxi7/asynchronous-javascript-promises-async-await-1402)
-[![Data Reduction and Why It Is Important For Edge Computing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Data_Reduction_and_Why_It_Is_Important_For_Edge_Computing.svg)](https://dev.to/reductstore/data-reduction-and-why-it-is-important-for-edge-computing-1f4m)
-[![10 Impressive Machine Learning Projects to Add to Your Python Portfolio](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_Impressive_Machine_Learning_Projects_to_Add_to_Your_Python_Portfolio.svg)](https://dev.to/sbang/10-impressive-machine-learning-projects-to-add-to-your-python-portfolio-30om)
+[![The Dark Side of Big Tech's Understanding of Human Psychology](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Dark_Side_of_Big_Tech's_Understanding_of_Human_Psychology.svg)](https://dev.to/bhavin9920/the-dark-side-of-big-techs-understanding-of-human-psychology-kbg)
+[![Meta Launches a new Photo Segmentation model : Segment Anything](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Meta_Launches_a_new_Photo_Segmentation_model___Segment_Anything.svg)](https://dev.to/amananandrai/meta-launches-a-new-photo-segmentation-model-segment-anything-2j0f)
+[![Understanding FP: Overcoming Intuition and Ease Hurdles (loops vs. recursion)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_FP__Overcoming_Intuition_and_Ease_Hurdles_(loops_vs._recursion).svg)](https://dev.to/zelenya/understanding-fp-overcoming-intuition-and-ease-hurdles-loops-vs-recursion-2hfn)
+[![4 VSCode extensions I use when developing with Tailwind](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/4_VSCode_extensions_I_use_when_developing_with_Tailwind.svg)](https://dev.to/kalimahapps/4-vscode-extensions-i-use-for-tailwind-2him)
+[![How to make a modal with ReactJs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_make_a_modal_with_ReactJs.svg)](https://dev.to/ismailadegbite/how-to-make-a-modal-with-reactjs-4n69)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, April 5, 2023 at 6:41:31 PM
+> Last updated: Thursday, April 6, 2023 at 12:10:53 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, April 5, 2023 at 6:41:37 PM
+> Last updated: Thursday, April 6, 2023 at 12:11:00 AM
 
 > Showing 5 of 30 posts.
 
+[![Website Quality Assurance & Why Should Hire Software Quality Assurance Team | Article Rockstars](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Website_Quality_Assurance___Why_Should_Hire_Software_Quality_Assurance_Team___Article_Rockstars.svg)](https://articlerockstars.com/website-quality-assurance-why-should-hire-software-quality-assurance-team/)
+[![Oh My Promises](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Oh_My_Promises.svg)](https://adropincalm.com/blog/oh-my-promises/)
 [![React Native New Architecture](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_Native_New_Architecture.svg)](https://dskcode.com/react-native-new-architecture)
 [![GitHub - barinbritva/add-to-calendar: Create links for adding events to calendar services such as Outlook, Office 365, Google and Yahoo or to any calendar app using downloadable ICS files.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_barinbritva_add-to-calendar__Create_links_for_adding_events_to_calendar_services_such_as_Outlook__Office_365__Google_and_Yahoo_or_to_any_calendar_app_using_downloadable_ICS_files..svg)](https://github.com/barinbritva/add-to-calendar)
 [![GitHub - humblepenguinn/tmplt: tmplt is a command-line interface tool that allows you to quickly and easily set up project templates for various programming languages and frameworks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_humblepenguinn_tmplt__tmplt_is_a_command-line_interface_tool_that_allows_you_to_quickly_and_easily_set_up_project_templates_for_various_programming_languages_and_frameworks.svg)](https://github.com/humblepenguinn/tmplt)
-[![Why software needs quality assurance? | Press Release 101](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Why_software_needs_quality_assurance____Press_Release_101.svg)](https://pressrelease101.co.uk/why-software-needs-quality-assurance/)
-[![The parseInt Function in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_parseInt_Function_in_JavaScript.svg)](
-https://masteringjs.io/tutorials/fundamentals/parseint
-)
 
 
 <!-- post-list:end -->

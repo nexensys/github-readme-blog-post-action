@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 610 110" width="600" height="100" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <style>
+      .title {
+        font-size: 1.5em;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        white-space: nowrap;
+      }
+      .description {
+        font-size: 0.75em;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+      }
+      .text {
+        text-align: start;
+        padding: 10px;
+        height: calc(100% - 20px);
+        margin-left: 0;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+        color: black;
+      }
+           .date {
+        font-size: 0.5em;
+        opacity: 0.5;
+        text-align: end;
+        position: absolute;
+        bottom: 0;
+        right: 10px;
+        color: black;
+      }
+      
+      .main {
+        fill: white;
+      }
+      .data {
+        opacity: 0.75;
+        text-align: start;
+        position: absolute;
+        bottom: 0;
+        padding-bottom: 5px;
+        left: 10px;
+        color: black;
+        max-width: 400px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+      }
+      .author {
+        opacity: 0.75;
+        font-size: 0.5em;
+      }
+      .category {
+        background-color: rgba(0, 0, 0, 0.25);
+        border-radius: 0.25em;
+        padding: 0.125em 0.25em;
+        font-size: 0.75em;
+        color: rgba(0, 0, 0, 0.8);
+      }
+    </style>
+  </defs>
+  <g class="main">
+    <rect class="content" width="600" height="100" stroke="rgba(0, 0, 0, 0.5)" x="5" y="5" rx="10" />
+    <foreignObject width="600" height="100" x="5" y="5">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
+        <div class="text">
+          <div class="title">Oh&#0032;My&#0032;Promises</div>
+          <div class="description">I’ve&#0032;been&#0032;shamingly&#0032;using&#0032;Promises&#0032;for&#0032;years&#0032;without&#0032;really&#0032;taking&#0032;the&#0032;time&#0032;to&#0032;explore&#0032;beyond&#0032;then&#0032;and&#0032;catch&#0046;&#0010;Big&#0032;big&#0032;mistake&#0046;&#0032;There’s&#0032;so&#0032;much&#0032;more&#0046;&#0032;then&#0032;and&#0032;catch&#0032;are&#0032;just&#0032;the&#0032;tip&#0032;of&#0032;the&#0032;iceberg&#0046;&#0010;Promise&#0044;&#0032;the&#0032;main&#0032;idea&#0032;Let’s&#0032;begin&#0032;considering&#0032;what’s&#0032;a&#0032;Promise&#0046;&#0010;Loosely&#0032;speaking&#0044;&#0032;think&#0032;of&#0032;a&#0032;Promise&#0032;as&#0032;an&#0032;object&#0032;which&#0032;may&#0032;deliver&#0032;a&#0032;value&#0046;&#0010;As&#0032;the&#0032;name&#0032;Promise&#0032;suggests&#0044;&#0032;the&#0032;concept&#0032;behind&#0032;is&#0058;&#0032;I&#0032;don’t&#0032;have&#0032;a&#0032;value&#0032;now&#0032;but&#0032;I&#0032;promise&#0032;to&#0032;deliver&#0032;once&#0032;I&#0032;have&#0032;it&#0046;</div>
+          <div class="date"></div>
+          <div class="data">
+            <span class="author"></span> 
+          </div>
+        </div>
+      </div>
+    </foreignObject>
+  </g>
+</svg>
