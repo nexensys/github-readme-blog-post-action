@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, April 6, 2023 at 12:10:49 AM
+> Last updated: Thursday, April 6, 2023 at 6:15:18 AM
 
 > Showing 5 of 12 posts.
 
-[![The Dark Side of Big Tech's Understanding of Human Psychology](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Dark_Side_of_Big_Tech's_Understanding_of_Human_Psychology.svg)](https://dev.to/bhavin9920/the-dark-side-of-big-techs-understanding-of-human-psychology-kbg)
-[![Meta Launches a new Photo Segmentation model : Segment Anything](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Meta_Launches_a_new_Photo_Segmentation_model___Segment_Anything.svg)](https://dev.to/amananandrai/meta-launches-a-new-photo-segmentation-model-segment-anything-2j0f)
-[![Understanding FP: Overcoming Intuition and Ease Hurdles (loops vs. recursion)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_FP__Overcoming_Intuition_and_Ease_Hurdles_(loops_vs._recursion).svg)](https://dev.to/zelenya/understanding-fp-overcoming-intuition-and-ease-hurdles-loops-vs-recursion-2hfn)
-[![4 VSCode extensions I use when developing with Tailwind](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/4_VSCode_extensions_I_use_when_developing_with_Tailwind.svg)](https://dev.to/kalimahapps/4-vscode-extensions-i-use-for-tailwind-2him)
-[![How to make a modal with ReactJs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_make_a_modal_with_ReactJs.svg)](https://dev.to/ismailadegbite/how-to-make-a-modal-with-reactjs-4n69)
+[![Best Practices for Testing React Apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_Practices_for_Testing_React_Apps.svg)](https://dev.to/dpkreativ/best-practices-for-testing-react-apps-3dfi)
+[![Awesome VS Code Extensions for 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Awesome_VS_Code_Extensions_for_2023.svg)](https://dev.to/surajondev/awesome-vs-code-extensions-for-2023-2i1b)
+[![How to hire Reactjs developer?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_hire_Reactjs_developer_.svg)](https://dev.to/sofster_/how-to-hire-reactjs-developer-339j)
+[![The Page Visibility API: Improve User Experience and Performance](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Page_Visibility_API__Improve_User_Experience_and_Performance.svg)](https://dev.to/nialljoemaher/the-page-visibility-api-improve-user-experience-and-performance-451)
+[![Breaking Down DeFi: The Simplest Guide to Understanding Decentralized Finance.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Breaking_Down_DeFi__The_Simplest_Guide_to_Understanding_Decentralized_Finance..svg)](https://dev.to/aysha/breaking-down-defi-the-simplest-guide-to-understanding-decentralized-finance-3hpd)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, April 6, 2023 at 12:10:53 AM
+> Last updated: Thursday, April 6, 2023 at 6:15:20 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, April 6, 2023 at 12:11:00 AM
+> Last updated: Thursday, April 6, 2023 at 6:15:33 AM
 
 > Showing 5 of 30 posts.
 
