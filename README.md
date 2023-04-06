@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, April 6, 2023 at 6:15:18 AM
+> Last updated: Thursday, April 6, 2023 at 12:10:08 PM
 
 > Showing 5 of 12 posts.
 
-[![Best Practices for Testing React Apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_Practices_for_Testing_React_Apps.svg)](https://dev.to/dpkreativ/best-practices-for-testing-react-apps-3dfi)
-[![Awesome VS Code Extensions for 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Awesome_VS_Code_Extensions_for_2023.svg)](https://dev.to/surajondev/awesome-vs-code-extensions-for-2023-2i1b)
-[![How to hire Reactjs developer?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_hire_Reactjs_developer_.svg)](https://dev.to/sofster_/how-to-hire-reactjs-developer-339j)
-[![The Page Visibility API: Improve User Experience and Performance](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Page_Visibility_API__Improve_User_Experience_and_Performance.svg)](https://dev.to/nialljoemaher/the-page-visibility-api-improve-user-experience-and-performance-451)
-[![Breaking Down DeFi: The Simplest Guide to Understanding Decentralized Finance.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Breaking_Down_DeFi__The_Simplest_Guide_to_Understanding_Decentralized_Finance..svg)](https://dev.to/aysha/breaking-down-defi-the-simplest-guide-to-understanding-decentralized-finance-3hpd)
+[![Integrate Apache Spark and QuestDB for Time-Series Analytics](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Integrate_Apache_Spark_and_QuestDB_for_Time-Series_Analytics.svg)](https://dev.to/glasstiger/integrate-apache-spark-and-questdb-for-time-series-analytics-3i3n)
+[![Exploring Google Zanzibar: A Demonstration of Its Basics](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exploring_Google_Zanzibar__A_Demonstration_of_Its_Basics.svg)](https://dev.to/egeaytin/exploring-google-zanzibar-a-demonstration-of-its-basics-b1h)
+[![Web Frameworks for Backend Engineers: Streamline Your Development Process](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Web_Frameworks_for_Backend_Engineers__Streamline_Your_Development_Process.svg)](https://dev.to/rainleander/web-frameworks-for-backend-engineers-streamline-your-development-process-28lg)
+[![Communication in a Microservice Architecture](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Communication_in_a_Microservice_Architecture.svg)](https://dev.to/amplication/communication-in-a-microservice-architecture-5ga)
+[![Creating mesmerizing spirograph animations with Python and Spyrograph](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_mesmerizing_spirograph_animations_with_Python_and_Spyrograph.svg)](https://dev.to/chrisgreening/creating-mesmerizing-spirograph-animations-with-python-and-spyrograph-2n1)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, April 6, 2023 at 6:15:20 AM
+> Last updated: Thursday, April 6, 2023 at 12:10:11 PM
 
 > Showing 4 of 4 posts.
 
+[![JavaScript on your schedule](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/JavaScript_on_your_schedule.svg)](https://javascriptweekly.com/issues/633)
 [![Import maps go universal](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Import_maps_go_universal.svg)](https://javascriptweekly.com/issues/632)
 [![Playwright now offers a UI mode](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Playwright_now_offers_a_UI_mode.svg)](https://javascriptweekly.com/issues/631)
 [![Transformers: JavaScript in Disguise](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Transformers__JavaScript_in_Disguise.svg)](https://javascriptweekly.com/issues/630)
-[![New JavaScript features of the past few years](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/New_JavaScript_features_of_the_past_few_years.svg)](https://javascriptweekly.com/issues/629)
 
 
 ## Echo JS
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, April 6, 2023 at 6:15:33 AM
+> Last updated: Thursday, April 6, 2023 at 12:10:14 PM
 
 > Showing 5 of 30 posts.
 
-[![Website Quality Assurance & Why Should Hire Software Quality Assurance Team | Article Rockstars](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Website_Quality_Assurance___Why_Should_Hire_Software_Quality_Assurance_Team___Article_Rockstars.svg)](https://articlerockstars.com/website-quality-assurance-why-should-hire-software-quality-assurance-team/)
+[![JavaScript Coding Questions for Interviews: An Essential Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Coding_Questions_for_Interviews__An_Essential_Guide.svg)](https://dskcode.com/javascript-coding-questions-for-interviews)
+[![Introducing Socket AI – ChatGPT-Powered Threat Analysis - Socket](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Introducing_Socket_AI_–_ChatGPT-Powered_Threat_Analysis_-_Socket.svg)](https://socket.dev/blog/introducing-socket-ai-chatgpt-powered-threat-analysis)
 [![Oh My Promises](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Oh_My_Promises.svg)](https://adropincalm.com/blog/oh-my-promises/)
 [![React Native New Architecture](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_Native_New_Architecture.svg)](https://dskcode.com/react-native-new-architecture)
 [![GitHub - barinbritva/add-to-calendar: Create links for adding events to calendar services such as Outlook, Office 365, Google and Yahoo or to any calendar app using downloadable ICS files.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_barinbritva_add-to-calendar__Create_links_for_adding_events_to_calendar_services_such_as_Outlook__Office_365__Google_and_Yahoo_or_to_any_calendar_app_using_downloadable_ICS_files..svg)](https://github.com/barinbritva/add-to-calendar)
-[![GitHub - humblepenguinn/tmplt: tmplt is a command-line interface tool that allows you to quickly and easily set up project templates for various programming languages and frameworks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_humblepenguinn_tmplt__tmplt_is_a_command-line_interface_tool_that_allows_you_to_quickly_and_easily_set_up_project_templates_for_various_programming_languages_and_frameworks.svg)](https://github.com/humblepenguinn/tmplt)
 
 
 <!-- post-list:end -->
