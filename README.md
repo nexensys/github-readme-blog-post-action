@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, April 5, 2023 at 12:12:20 PM
+> Last updated: Wednesday, April 5, 2023 at 6:41:27 PM
 
 > Showing 5 of 12 posts.
 
-[![Modernizing Legacy Applications in PHP: Challenges and Approaches](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Modernizing_Legacy_Applications_in_PHP__Challenges_and_Approaches.svg)](https://dev.to/antonlogvinenko/modernizing-legacy-applications-in-php-challenges-and-approaches-2h15)
-[![Guide to Face Detection and Recognition Software Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Guide_to_Face_Detection_and_Recognition_Software_Development.svg)](https://dev.to/stanislavkutnyk/guide-to-face-detection-and-recognition-software-development-47b8)
-[![How to Create an NFT Marketplace: Approaches, Features, Costs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Create_an_NFT_Marketplace__Approaches__Features__Costs.svg)](https://dev.to/marcelmadjanta/how-to-create-an-nft-marketplace-approaches-features-costs-361h)
-[![Prove Developer's Guide: Prove's Approach to Batch APIs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Prove_Developer's_Guide__Prove's_Approach_to_Batch_APIs.svg)](https://dev.to/prove/prove-developers-guide-proves-approach-to-batch-apis-2djg)
-[![Bind Route Info to Component Inputs (New Router feature)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Bind_Route_Info_to_Component_Inputs_(New_Router_feature).svg)](https://dev.to/this-is-angular/bind-route-info-to-component-inputs-new-router-feature-35ll)
+[![Just another memo to ask JetBrains implement manual files sorting in their products just like in Xcode, thx for the attention](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Just_another_memo_to_ask_JetBrains_implement_manual_files_sorting_in_their_products_just_like_in_Xcode__thx_for_the_attention.svg)](https://dev.to/maxcore/just-yet-another-cry-to-ask-jetbrains-implement-manual-sorting-in-their-products-just-like-in-xcode-thx-for-the-attention-2e7)
+[![A Step-by-Step Guide to Coding a Simple Extension on Firefox!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Step-by-Step_Guide_to_Coding_a_Simple_Extension_on_Firefox!.svg)](https://dev.to/xiacodes/a-step-by-step-guide-to-coding-a-simple-extension-477)
+[![Asynchronous JavaScript: Promises Async Await!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Asynchronous_JavaScript__Promises_Async_Await!.svg)](https://dev.to/cybermaxi7/asynchronous-javascript-promises-async-await-1402)
+[![Data Reduction and Why It Is Important For Edge Computing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Data_Reduction_and_Why_It_Is_Important_For_Edge_Computing.svg)](https://dev.to/reductstore/data-reduction-and-why-it-is-important-for-edge-computing-1f4m)
+[![10 Impressive Machine Learning Projects to Add to Your Python Portfolio](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_Impressive_Machine_Learning_Projects_to_Add_to_Your_Python_Portfolio.svg)](https://dev.to/sbang/10-impressive-machine-learning-projects-to-add-to-your-python-portfolio-30om)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, April 5, 2023 at 12:12:24 PM
+> Last updated: Wednesday, April 5, 2023 at 6:41:31 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, April 5, 2023 at 12:12:28 PM
+> Last updated: Wednesday, April 5, 2023 at 6:41:37 PM
 
 > Showing 5 of 30 posts.
 
