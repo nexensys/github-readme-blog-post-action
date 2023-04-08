@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, April 6, 2023 at 12:10:08 PM
+> Last updated: Saturday, April 8, 2023 at 12:09:17 PM
 
 > Showing 5 of 12 posts.
 
-[![Integrate Apache Spark and QuestDB for Time-Series Analytics](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Integrate_Apache_Spark_and_QuestDB_for_Time-Series_Analytics.svg)](https://dev.to/glasstiger/integrate-apache-spark-and-questdb-for-time-series-analytics-3i3n)
-[![Exploring Google Zanzibar: A Demonstration of Its Basics](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exploring_Google_Zanzibar__A_Demonstration_of_Its_Basics.svg)](https://dev.to/egeaytin/exploring-google-zanzibar-a-demonstration-of-its-basics-b1h)
-[![Web Frameworks for Backend Engineers: Streamline Your Development Process](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Web_Frameworks_for_Backend_Engineers__Streamline_Your_Development_Process.svg)](https://dev.to/rainleander/web-frameworks-for-backend-engineers-streamline-your-development-process-28lg)
-[![Communication in a Microservice Architecture](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Communication_in_a_Microservice_Architecture.svg)](https://dev.to/amplication/communication-in-a-microservice-architecture-5ga)
-[![Creating mesmerizing spirograph animations with Python and Spyrograph](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_mesmerizing_spirograph_animations_with_Python_and_Spyrograph.svg)](https://dev.to/chrisgreening/creating-mesmerizing-spirograph-animations-with-python-and-spyrograph-2n1)
+[![Monolithic vs. Microservices Architecture](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Monolithic_vs._Microservices_Architecture.svg)](https://dev.to/ezinne_anne/monolithic-vs-microservices-architecture-n89)
+[![Introducing SingularGPT - automate your device with AI Vision](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_SingularGPT_-_automate_your_device_with_AI_Vision.svg)](https://dev.to/abhiprojectz/introducing-singulargpt-automate-your-device-with-ai-vision-1che)
+[![10 visuals to boost your mood](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_visuals_to_boost_your_mood.svg)](https://dev.to/jon_snow789/10-visuals-to-boost-your-mood-12c2)
+[![Bilmeniz gereken HTTP Durum Kodları](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Bilmeniz_gereken_HTTP_Durum_Kodları.svg)](https://dev.to/berkanyldrim/bilmeniz-gereken-http-durum-kodlari-1593)
+[![String vs StringBuffer vs StringBuilder](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/String_vs_StringBuffer_vs_StringBuilder.svg)](https://dev.to/eronalves1996/string-vs-stringbuffer-vs-stringbuilder-nbe)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, April 6, 2023 at 12:10:11 PM
+> Last updated: Saturday, April 8, 2023 at 12:09:20 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,21 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, April 6, 2023 at 12:10:14 PM
+> Last updated: Saturday, April 8, 2023 at 12:09:22 PM
 
 > Showing 5 of 30 posts.
 
-[![JavaScript Coding Questions for Interviews: An Essential Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Coding_Questions_for_Interviews__An_Essential_Guide.svg)](https://dskcode.com/javascript-coding-questions-for-interviews)
-[![Introducing Socket AI – ChatGPT-Powered Threat Analysis - Socket](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Introducing_Socket_AI_–_ChatGPT-Powered_Threat_Analysis_-_Socket.svg)](https://socket.dev/blog/introducing-socket-ai-chatgpt-powered-threat-analysis)
-[![Oh My Promises](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Oh_My_Promises.svg)](https://adropincalm.com/blog/oh-my-promises/)
-[![React Native New Architecture](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_Native_New_Architecture.svg)](https://dskcode.com/react-native-new-architecture)
-[![GitHub - barinbritva/add-to-calendar: Create links for adding events to calendar services such as Outlook, Office 365, Google and Yahoo or to any calendar app using downloadable ICS files.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_barinbritva_add-to-calendar__Create_links_for_adding_events_to_calendar_services_such_as_Outlook__Office_365__Google_and_Yahoo_or_to_any_calendar_app_using_downloadable_ICS_files..svg)](https://github.com/barinbritva/add-to-calendar)
+[![Is Lingoda the Best Language Learning Platform For You? | Lingoda Review 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Is_Lingoda_the_Best_Language_Learning_Platform_For_You____Lingoda_Review_2023.svg)](https://dskview.com/lingoda-review)
+[![Configuring maxBodyLength in Axios](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Configuring_maxBodyLength_in_Axios.svg)](
+https://masteringjs.io/tutorials/axios/maxbodylength
+)
+[![
+I made simpler Blitz Download Page with astrojs, It's damn fast
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_I_made_simpler_Blitz_Download_Page_with_astrojs__It's_damn_fast_.svg)](
+https://theblitz.app
+)
+[![TechRealm](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/TechRealm.svg)](https://github.com/Tech-Realm)
+[![React forwardRef(): How to Pass Refs to Child Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_forwardRef()__How_to_Pass_Refs_to_Child_Components.svg)](https://dmitripavlutin.com/react-forwardref/)
 
 
 <!-- post-list:end -->
