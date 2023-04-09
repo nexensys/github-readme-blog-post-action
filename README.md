@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, April 8, 2023 at 12:09:17 PM
+> Last updated: Saturday, April 8, 2023 at 6:44:17 PM
 
 > Showing 5 of 12 posts.
 
-[![Monolithic vs. Microservices Architecture](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Monolithic_vs._Microservices_Architecture.svg)](https://dev.to/ezinne_anne/monolithic-vs-microservices-architecture-n89)
-[![Introducing SingularGPT - automate your device with AI Vision](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_SingularGPT_-_automate_your_device_with_AI_Vision.svg)](https://dev.to/abhiprojectz/introducing-singulargpt-automate-your-device-with-ai-vision-1che)
-[![10 visuals to boost your mood](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_visuals_to_boost_your_mood.svg)](https://dev.to/jon_snow789/10-visuals-to-boost-your-mood-12c2)
-[![Bilmeniz gereken HTTP Durum Kodları](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Bilmeniz_gereken_HTTP_Durum_Kodları.svg)](https://dev.to/berkanyldrim/bilmeniz-gereken-http-durum-kodlari-1593)
-[![String vs StringBuffer vs StringBuilder](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/String_vs_StringBuffer_vs_StringBuilder.svg)](https://dev.to/eronalves1996/string-vs-stringbuffer-vs-stringbuilder-nbe)
+[![Building a Notes App with Next.js 13](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_Notes_App_with_Next.js_13.svg)](https://dev.to/bujai/building-a-notes-app-with-nextjs-13-5gcd)
+[![Testing Applications In Laravel.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Testing_Applications_In_Laravel..svg)](https://dev.to/rebelnii/testing-applications-in-laravel-1899)
+[!["Secret Weapons: 10 VS Code Extensions You Didn't Know You Needed"](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_Secret_Weapons__10_VS_Code_Extensions_You_Didn't_Know_You_Needed_.svg)](https://dev.to/mojodev/secret-weapons-10-vs-code-extensions-you-didnt-know-you-needed-2k02)
+[![Text-Based Entity Relationship Diagrams with Mermaid.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Text-Based_Entity_Relationship_Diagrams_with_Mermaid.js.svg)](https://dev.to/integerman/text-based-entity-relationship-diagrams-with-mermaidjs-36md)
+[![The Productivity apps I use in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Productivity_apps_I_use_in_2023.svg)](https://dev.to/cassidoo/the-productivity-apps-i-use-in-2023-3m8l)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, April 8, 2023 at 12:09:20 PM
+> Last updated: Saturday, April 8, 2023 at 6:44:19 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, April 8, 2023 at 12:09:22 PM
+> Last updated: Saturday, April 8, 2023 at 6:44:21 PM
 
 > Showing 5 of 30 posts.
 
