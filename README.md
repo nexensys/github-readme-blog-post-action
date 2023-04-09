@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, April 9, 2023 at 12:09:50 AM
+> Last updated: Sunday, April 9, 2023 at 6:13:54 AM
 
 > Showing 5 of 12 posts.
 
-[![Creating a Progressive Web App in React A Beginners Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_a_Progressive_Web_App_in_React_A_Beginners_Guide.svg)](https://dev.to/varshithvhegde/creating-a-progressive-web-app-in-react-a-beginners-guide-3l9g)
-[![6 Frontend Award Websites For Developers To Get Inspired or Recognized](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/6_Frontend_Award_Websites_For_Developers_To_Get_Inspired_or_Recognized.svg)](https://dev.to/snowiewdev/6-frontend-award-websites-for-developers-to-get-inspired-or-recognized-47pa)
-[![datadelivery: Providing public datasets to explore in AWS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/datadelivery__Providing_public_datasets_to_explore_in_AWS.svg)](https://dev.to/aws-builders/datadelivery-providing-public-datasets-to-explore-in-aws-2029)
-[![Building a Notes App with Next.js 13](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_Notes_App_with_Next.js_13.svg)](https://dev.to/bujai/building-a-notes-app-with-nextjs-13-5gcd)
-[![Testing Applications In Laravel.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Testing_Applications_In_Laravel..svg)](https://dev.to/rebelnii/testing-applications-in-laravel-1899)
+[![Understanding HTML tags.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_HTML_tags..svg)](https://dev.to/jindalkeshav82/understanding-html-tags-3ck5)
+[![ZenStack: Start with Why](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/ZenStack__Start_with_Why.svg)](https://dev.to/zenstack/zenstack-start-with-why-2c2m)
+[![Authentication in React Applications using Firebase and its services. Part 3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Authentication_in_React_Applications_using_Firebase_and_its_services._Part_3.svg)](https://dev.to/dev_cody/authentication-in-react-applications-using-firebase-and-its-services-part-3-1j7o)
+[![How to use Local Storage in Next.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_Local_Storage_in_Next.js.svg)](https://dev.to/collegewap/how-to-use-local-storage-in-nextjs-2l2j)
+[![Dockerize Your Nextjs App Like a Pro: Advanced Tips for Next-Level Optimization](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dockerize_Your_Nextjs_App_Like_a_Pro__Advanced_Tips_for_Next-Level_Optimization.svg)](https://dev.to/nitinfab/dockerize-your-nextjs-app-like-a-pro-advanced-tips-for-next-level-optimization-nb2)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, April 9, 2023 at 12:09:53 AM
+> Last updated: Sunday, April 9, 2023 at 6:13:58 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, April 9, 2023 at 12:09:55 AM
+> Last updated: Sunday, April 9, 2023 at 6:14:00 AM
 
 > Showing 5 of 30 posts.
 
