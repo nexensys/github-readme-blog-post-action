@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, April 9, 2023 at 6:13:54 AM
+> Last updated: Sunday, April 9, 2023 at 12:09:27 PM
 
 > Showing 5 of 12 posts.
 
-[![Understanding HTML tags.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_HTML_tags..svg)](https://dev.to/jindalkeshav82/understanding-html-tags-3ck5)
-[![ZenStack: Start with Why](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/ZenStack__Start_with_Why.svg)](https://dev.to/zenstack/zenstack-start-with-why-2c2m)
-[![Authentication in React Applications using Firebase and its services. Part 3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Authentication_in_React_Applications_using_Firebase_and_its_services._Part_3.svg)](https://dev.to/dev_cody/authentication-in-react-applications-using-firebase-and-its-services-part-3-1j7o)
-[![How to use Local Storage in Next.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_Local_Storage_in_Next.js.svg)](https://dev.to/collegewap/how-to-use-local-storage-in-nextjs-2l2j)
-[![Dockerize Your Nextjs App Like a Pro: Advanced Tips for Next-Level Optimization](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dockerize_Your_Nextjs_App_Like_a_Pro__Advanced_Tips_for_Next-Level_Optimization.svg)](https://dev.to/nitinfab/dockerize-your-nextjs-app-like-a-pro-advanced-tips-for-next-level-optimization-nb2)
+[![21 Programming Memes Refresh Your Mind](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/21_Programming_Memes_Refresh_Your_Mind.svg)](https://dev.to/jon_snow789/21-programming-memes-refresh-your-mind-1fa0)
+[![Excelize 2.7.1 Released - Powerful open-source library for spreadsheet (Excel) document](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Excelize_2.7.1_Released_-_Powerful_open-source_library_for_spreadsheet_(Excel)_document.svg)](https://dev.to/xuri/excelize-271-released-powerful-open-source-library-for-spreadsheet-excel-document-4l29)
+[![Becoming a Frontend Developer in 100 Days: A Step-by-Step Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Becoming_a_Frontend_Developer_in_100_Days__A_Step-by-Step_Guide.svg)](https://dev.to/abhixsh/becoming-a-frontend-developer-in-100-days-a-step-by-step-guide-28jp)
+[![Must do pattern questions : Part-1 [ Javascript]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Must_do_pattern_questions___Part-1_[_Javascript].svg)](https://dev.to/jagroop2000/must-do-pattern-questions-part-1-javascript-32oj)
+[![How to Use Electron.js for Building Desktop Applications with JavaScript, HTML, and CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Use_Electron.js_for_Building_Desktop_Applications_with_JavaScript__HTML__and_CSS.svg)](https://dev.to/bellatrick/how-to-use-electronjs-for-building-desktop-applications-with-javascript-html-and-css-4kpn)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, April 9, 2023 at 6:13:58 AM
+> Last updated: Sunday, April 9, 2023 at 12:09:31 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, April 9, 2023 at 6:14:00 AM
+> Last updated: Sunday, April 9, 2023 at 12:09:33 PM
 
 > Showing 5 of 30 posts.
 
+[![Leveraging Passport JS for Authentication in Node JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Leveraging_Passport_JS_for_Authentication_in_Node_JS.svg)](https://dskcode.com/leveraging-passport-js-for-authentication-in-node-js)
 [![Is Lingoda the Best Language Learning Platform For You? | Lingoda Review 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Is_Lingoda_the_Best_Language_Learning_Platform_For_You____Lingoda_Review_2023.svg)](https://dskview.com/lingoda-review)
 [![Configuring maxBodyLength in Axios](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Configuring_maxBodyLength_in_Axios.svg)](
 https://masteringjs.io/tutorials/axios/maxbodylength
@@ -57,7 +58,6 @@ I made simpler Blitz Download Page with astrojs, It's damn fast
 https://theblitz.app
 )
 [![TechRealm](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/TechRealm.svg)](https://github.com/Tech-Realm)
-[![React forwardRef(): How to Pass Refs to Child Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_forwardRef()__How_to_Pass_Refs_to_Child_Components.svg)](https://dmitripavlutin.com/react-forwardref/)
 
 
 <!-- post-list:end -->
