@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, April 8, 2023 at 6:44:17 PM
+> Last updated: Sunday, April 9, 2023 at 12:09:50 AM
 
 > Showing 5 of 12 posts.
 
+[![Creating a Progressive Web App in React A Beginners Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_a_Progressive_Web_App_in_React_A_Beginners_Guide.svg)](https://dev.to/varshithvhegde/creating-a-progressive-web-app-in-react-a-beginners-guide-3l9g)
+[![6 Frontend Award Websites For Developers To Get Inspired or Recognized](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/6_Frontend_Award_Websites_For_Developers_To_Get_Inspired_or_Recognized.svg)](https://dev.to/snowiewdev/6-frontend-award-websites-for-developers-to-get-inspired-or-recognized-47pa)
+[![datadelivery: Providing public datasets to explore in AWS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/datadelivery__Providing_public_datasets_to_explore_in_AWS.svg)](https://dev.to/aws-builders/datadelivery-providing-public-datasets-to-explore-in-aws-2029)
 [![Building a Notes App with Next.js 13](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_Notes_App_with_Next.js_13.svg)](https://dev.to/bujai/building-a-notes-app-with-nextjs-13-5gcd)
 [![Testing Applications In Laravel.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Testing_Applications_In_Laravel..svg)](https://dev.to/rebelnii/testing-applications-in-laravel-1899)
-[!["Secret Weapons: 10 VS Code Extensions You Didn't Know You Needed"](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_Secret_Weapons__10_VS_Code_Extensions_You_Didn't_Know_You_Needed_.svg)](https://dev.to/mojodev/secret-weapons-10-vs-code-extensions-you-didnt-know-you-needed-2k02)
-[![Text-Based Entity Relationship Diagrams with Mermaid.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Text-Based_Entity_Relationship_Diagrams_with_Mermaid.js.svg)](https://dev.to/integerman/text-based-entity-relationship-diagrams-with-mermaidjs-36md)
-[![The Productivity apps I use in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Productivity_apps_I_use_in_2023.svg)](https://dev.to/cassidoo/the-productivity-apps-i-use-in-2023-3m8l)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, April 8, 2023 at 6:44:19 PM
+> Last updated: Sunday, April 9, 2023 at 12:09:53 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, April 8, 2023 at 6:44:21 PM
+> Last updated: Sunday, April 9, 2023 at 12:09:55 AM
 
 > Showing 5 of 30 posts.
 
