@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, April 10, 2023 at 12:11:05 AM
+> Last updated: Monday, April 10, 2023 at 6:15:23 AM
 
 > Showing 5 of 12 posts.
 
-[![A step-by-step guide on Excel Add-in development using React.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_step-by-step_guide_on_Excel_Add-in_development_using_React.js.svg)](https://dev.to/ifourtechnolab/a-step-by-step-guide-on-excel-add-in-development-using-reactjs-d64)
-[![Ensuring Serverless Success: A Guide to Service Level Agreement (SLA) Definitions and Guidelines](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ensuring_Serverless_Success__A_Guide_to_Service_Level_Agreement_(SLA)_Definitions_and_Guidelines.svg)](https://dev.to/aws-builders/ensuring-serverless-success-a-guide-to-service-level-agreement-sla-definitions-and-guidelines-3ckm)
-[![Building Real-time Web Applications with Blazor Server](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_Real-time_Web_Applications_with_Blazor_Server.svg)](https://dev.to/bhavin9920/building-real-time-web-applications-with-blazor-server-4odo)
-[![How to Secure the Web: A Comprehensive Guide to Authentication Strategies for Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Secure_the_Web__A_Comprehensive_Guide_to_Authentication_Strategies_for_Developers.svg)](https://dev.to/ma7moud3bas/how-to-secure-the-web-a-comprehensive-guide-to-authentication-strategies-for-developers-48od)
-[![5 Books and Courses to Learn Object Oriented Programming in Depth](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Books_and_Courses_to_Learn_Object_Oriented_Programming_in_Depth.svg)](https://dev.to/javinpaul/5-books-and-courses-to-learn-object-oriented-programming-in-depth-4kff)
+[![Building Pagination in React with React Paginate](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_Pagination_in_React_with_React_Paginate.svg)](https://dev.to/documatic/building-pagination-in-react-with-react-paginate-4nol)
+[![Full-Text Search: Implementando com Postgres e Django](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Full-Text_Search__Implementando_com_Postgres_e_Django.svg)](https://dev.to/eduardojm/full-text-search-implementando-com-postgres-e-django-kmf)
+[![Scraping Webpage Using BeautifulSoup In Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Scraping_Webpage_Using_BeautifulSoup_In_Python.svg)](https://dev.to/sachingeek/scraping-webpage-using-beautifulsoup-in-python-550c)
+[![Prompt (Proompt) Engineering in ChatGPT.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Prompt_(Proompt)_Engineering_in_ChatGPT..svg)](https://dev.to/itskunal/prompt-proompt-engineering-in-chatgpt-5gp8)
+[![Migrating Service Fabric apps to .NET 6](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Migrating_Service_Fabric_apps_to_.NET_6.svg)](https://dev.to/kosalanuwan/migrating-service-fabric-apps-to-net-6-2bee)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, April 10, 2023 at 12:11:09 AM
+> Last updated: Monday, April 10, 2023 at 6:15:27 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, April 10, 2023 at 12:11:12 AM
+> Last updated: Monday, April 10, 2023 at 6:15:30 AM
 
 > Showing 5 of 30 posts.
 
+[![What is Software Quality Assurance?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_is_Software_Quality_Assurance_.svg)](https://en.everybodywiki.com/What_is_Software_Quality_Assurance%3F)
 [![Leveraging Passport JS for Authentication in Node JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Leveraging_Passport_JS_for_Authentication_in_Node_JS.svg)](https://dskcode.com/leveraging-passport-js-for-authentication-in-node-js)
 [![Is Lingoda the Best Language Learning Platform For You? | Lingoda Review 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Is_Lingoda_the_Best_Language_Learning_Platform_For_You____Lingoda_Review_2023.svg)](https://dskview.com/lingoda-review)
 [![Configuring maxBodyLength in Axios](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Configuring_maxBodyLength_in_Axios.svg)](
@@ -57,7 +58,6 @@ I made simpler Blitz Download Page with astrojs, It's damn fast
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_I_made_simpler_Blitz_Download_Page_with_astrojs__It's_damn_fast_.svg)](
 https://theblitz.app
 )
-[![TechRealm](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/TechRealm.svg)](https://github.com/Tech-Realm)
 
 
 <!-- post-list:end -->
