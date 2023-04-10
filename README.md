@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, April 9, 2023 at 12:09:27 PM
+> Last updated: Sunday, April 9, 2023 at 6:42:38 PM
 
 > Showing 5 of 12 posts.
 
-[![21 Programming Memes Refresh Your Mind](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/21_Programming_Memes_Refresh_Your_Mind.svg)](https://dev.to/jon_snow789/21-programming-memes-refresh-your-mind-1fa0)
-[![Excelize 2.7.1 Released - Powerful open-source library for spreadsheet (Excel) document](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Excelize_2.7.1_Released_-_Powerful_open-source_library_for_spreadsheet_(Excel)_document.svg)](https://dev.to/xuri/excelize-271-released-powerful-open-source-library-for-spreadsheet-excel-document-4l29)
-[![Becoming a Frontend Developer in 100 Days: A Step-by-Step Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Becoming_a_Frontend_Developer_in_100_Days__A_Step-by-Step_Guide.svg)](https://dev.to/abhixsh/becoming-a-frontend-developer-in-100-days-a-step-by-step-guide-28jp)
-[![Must do pattern questions : Part-1 [ Javascript]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Must_do_pattern_questions___Part-1_[_Javascript].svg)](https://dev.to/jagroop2000/must-do-pattern-questions-part-1-javascript-32oj)
-[![How to Use Electron.js for Building Desktop Applications with JavaScript, HTML, and CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Use_Electron.js_for_Building_Desktop_Applications_with_JavaScript__HTML__and_CSS.svg)](https://dev.to/bellatrick/how-to-use-electronjs-for-building-desktop-applications-with-javascript-html-and-css-4kpn)
+[![User Authentication with JWT tokens in node js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/User_Authentication_with_JWT_tokens_in_node_js.svg)](https://dev.to/amann5153/user-authentication-with-jwt-tokens-in-node-js-1952)
+[![Supabase AI Hackathon](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Supabase_AI_Hackathon.svg)](https://dev.to/supabase/supabase-ai-hackathon-30ah)
+[![Become a Traffic Wizard: A Beginner's Guide to Routing Traffic with Apache AGE](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Become_a_Traffic_Wizard__A_Beginner's_Guide_to_Routing_Traffic_with_Apache_AGE.svg)](https://dev.to/xk_woon/become-a-traffic-wizard-a-beginners-guide-to-routing-traffic-with-apache-age-1kg6)
+[![Making a Speedrun Timer: Chapter 3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Making_a_Speedrun_Timer__Chapter_3.svg)](https://dev.to/kevthedev/making-a-speedrun-timer-chapter-3-f8k)
+[![Node.js Roadmap: A Comprehensive Learning Template for Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Node.js_Roadmap__A_Comprehensive_Learning_Template_for_Developers.svg)](https://dev.to/shreyvijayvargiya/nodejs-roadmap-a-comprehensive-learning-template-for-developers-132b)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, April 9, 2023 at 12:09:31 PM
+> Last updated: Sunday, April 9, 2023 at 6:42:41 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, April 9, 2023 at 12:09:33 PM
+> Last updated: Sunday, April 9, 2023 at 6:42:42 PM
 
 > Showing 5 of 30 posts.
 
