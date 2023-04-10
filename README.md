@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, April 9, 2023 at 6:42:38 PM
+> Last updated: Monday, April 10, 2023 at 12:11:05 AM
 
 > Showing 5 of 12 posts.
 
-[![User Authentication with JWT tokens in node js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/User_Authentication_with_JWT_tokens_in_node_js.svg)](https://dev.to/amann5153/user-authentication-with-jwt-tokens-in-node-js-1952)
-[![Supabase AI Hackathon](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Supabase_AI_Hackathon.svg)](https://dev.to/supabase/supabase-ai-hackathon-30ah)
-[![Become a Traffic Wizard: A Beginner's Guide to Routing Traffic with Apache AGE](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Become_a_Traffic_Wizard__A_Beginner's_Guide_to_Routing_Traffic_with_Apache_AGE.svg)](https://dev.to/xk_woon/become-a-traffic-wizard-a-beginners-guide-to-routing-traffic-with-apache-age-1kg6)
-[![Making a Speedrun Timer: Chapter 3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Making_a_Speedrun_Timer__Chapter_3.svg)](https://dev.to/kevthedev/making-a-speedrun-timer-chapter-3-f8k)
-[![Node.js Roadmap: A Comprehensive Learning Template for Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Node.js_Roadmap__A_Comprehensive_Learning_Template_for_Developers.svg)](https://dev.to/shreyvijayvargiya/nodejs-roadmap-a-comprehensive-learning-template-for-developers-132b)
+[![A step-by-step guide on Excel Add-in development using React.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_step-by-step_guide_on_Excel_Add-in_development_using_React.js.svg)](https://dev.to/ifourtechnolab/a-step-by-step-guide-on-excel-add-in-development-using-reactjs-d64)
+[![Ensuring Serverless Success: A Guide to Service Level Agreement (SLA) Definitions and Guidelines](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ensuring_Serverless_Success__A_Guide_to_Service_Level_Agreement_(SLA)_Definitions_and_Guidelines.svg)](https://dev.to/aws-builders/ensuring-serverless-success-a-guide-to-service-level-agreement-sla-definitions-and-guidelines-3ckm)
+[![Building Real-time Web Applications with Blazor Server](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_Real-time_Web_Applications_with_Blazor_Server.svg)](https://dev.to/bhavin9920/building-real-time-web-applications-with-blazor-server-4odo)
+[![How to Secure the Web: A Comprehensive Guide to Authentication Strategies for Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Secure_the_Web__A_Comprehensive_Guide_to_Authentication_Strategies_for_Developers.svg)](https://dev.to/ma7moud3bas/how-to-secure-the-web-a-comprehensive-guide-to-authentication-strategies-for-developers-48od)
+[![5 Books and Courses to Learn Object Oriented Programming in Depth](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Books_and_Courses_to_Learn_Object_Oriented_Programming_in_Depth.svg)](https://dev.to/javinpaul/5-books-and-courses-to-learn-object-oriented-programming-in-depth-4kff)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, April 9, 2023 at 6:42:41 PM
+> Last updated: Monday, April 10, 2023 at 12:11:09 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, April 9, 2023 at 6:42:42 PM
+> Last updated: Monday, April 10, 2023 at 12:11:12 AM
 
 > Showing 5 of 30 posts.
 
