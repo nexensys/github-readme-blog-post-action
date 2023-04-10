@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, April 10, 2023 at 6:15:23 AM
+> Last updated: Monday, April 10, 2023 at 12:10:08 PM
 
 > Showing 5 of 12 posts.
 
-[![Building Pagination in React with React Paginate](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_Pagination_in_React_with_React_Paginate.svg)](https://dev.to/documatic/building-pagination-in-react-with-react-paginate-4nol)
-[![Full-Text Search: Implementando com Postgres e Django](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Full-Text_Search__Implementando_com_Postgres_e_Django.svg)](https://dev.to/eduardojm/full-text-search-implementando-com-postgres-e-django-kmf)
-[![Scraping Webpage Using BeautifulSoup In Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Scraping_Webpage_Using_BeautifulSoup_In_Python.svg)](https://dev.to/sachingeek/scraping-webpage-using-beautifulsoup-in-python-550c)
-[![Prompt (Proompt) Engineering in ChatGPT.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Prompt_(Proompt)_Engineering_in_ChatGPT..svg)](https://dev.to/itskunal/prompt-proompt-engineering-in-chatgpt-5gp8)
-[![Migrating Service Fabric apps to .NET 6](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Migrating_Service_Fabric_apps_to_.NET_6.svg)](https://dev.to/kosalanuwan/migrating-service-fabric-apps-to-net-6-2bee)
+[![How to create a scroll to top btn in react js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_a_scroll_to_top_btn_in_react_js.svg)](https://dev.to/jon_snow789/how-to-create-a-scroll-to-top-btn-in-react-js-2jo8)
+[![Robotic Arm: Message Controller Software](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Robotic_Arm__Message_Controller_Software.svg)](https://dev.to/admantium/robotic-arm-message-controller-software-3la8)
+[![JavaScript for loop](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_for_loop.svg)](https://dev.to/max24816/javascript-for-loop-380f)
+[![Is There an Equivalent of Spring Boot for Kotlin?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Is_There_an_Equivalent_of_Spring_Boot_for_Kotlin_.svg)](https://dev.to/jmfayard/is-there-an-equivalent-of-spring-boot-for-kotlin-hfg)
+[![Queuing Rest Apis using JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Queuing_Rest_Apis_using_JavaScript.svg)](https://dev.to/soorajsnblaze333/queuing-api-25oa)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, April 10, 2023 at 6:15:27 AM
+> Last updated: Monday, April 10, 2023 at 12:10:11 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,20 +43,16 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, April 10, 2023 at 6:15:30 AM
+> Last updated: Monday, April 10, 2023 at 12:10:16 PM
 
 > Showing 5 of 30 posts.
 
-[![What is Software Quality Assurance?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_is_Software_Quality_Assurance_.svg)](https://en.everybodywiki.com/What_is_Software_Quality_Assurance%3F)
+[![Python Snake Game Coding from Scratch](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Python_Snake_Game_Coding_from_Scratch.svg)](https://dskcode.com/python-snake-game-coding-from-scratch)
+[![GitHub - steelydylan/next-typed-connect: Typed API Roots for Next.js using zod](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_steelydylan_next-typed-connect__Typed_API_Roots_for_Next.js_using_zod.svg)](https://github.com/steelydylan/next-typed-connect)
+[![API with NestJS #103. Integration tests with Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__103._Integration_tests_with_Prisma.svg)](https://wanago.io/2023/04/10/api-nestjs-prisma-integration-tests/)
 [![Leveraging Passport JS for Authentication in Node JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Leveraging_Passport_JS_for_Authentication_in_Node_JS.svg)](https://dskcode.com/leveraging-passport-js-for-authentication-in-node-js)
-[![Is Lingoda the Best Language Learning Platform For You? | Lingoda Review 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Is_Lingoda_the_Best_Language_Learning_Platform_For_You____Lingoda_Review_2023.svg)](https://dskview.com/lingoda-review)
 [![Configuring maxBodyLength in Axios](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Configuring_maxBodyLength_in_Axios.svg)](
 https://masteringjs.io/tutorials/axios/maxbodylength
-)
-[![
-I made simpler Blitz Download Page with astrojs, It's damn fast
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_I_made_simpler_Blitz_Download_Page_with_astrojs__It's_damn_fast_.svg)](
-https://theblitz.app
 )
 
 
