@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, April 11, 2023 at 12:11:04 AM
+> Last updated: Tuesday, April 11, 2023 at 6:15:37 AM
 
 > Showing 5 of 12 posts.
 
-[![The Power of Automating Your Development Workflow](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Power_of_Automating_Your_Development_Workflow.svg)](https://dev.to/bhavin9920/the-power-of-automating-your-development-workflow-3g9g)
-[![How to make Responsive Web designs in CSS: Tips and Tricks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_make_Responsive_Web_designs_in_CSS__Tips_and_Tricks.svg)](https://dev.to/hy_piyush/how-to-make-responsive-web-designs-in-css-tips-and-tricks-22m9)
-[![Dockerize React app for dev and prod](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dockerize_React_app_for_dev_and_prod.svg)](https://dev.to/pvishnuprasaath/dockerize-react-app-for-dev-and-prod-3c84)
-[![How to Exclude Specific File Types from Being Formatted on Save in VS Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Exclude_Specific_File_Types_from_Being_Formatted_on_Save_in_VS_Code.svg)](https://dev.to/codexam/how-to-exclude-specific-file-types-from-being-formatted-on-save-in-vs-code-3f8a)
-[![Javascript Object #6](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Javascript_Object__6.svg)](https://dev.to/samr/javascript-object-6-2a71)
+[![My First JavaScript Practice: Building a Drum Kit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_First_JavaScript_Practice__Building_a_Drum_Kit.svg)](https://dev.to/adremy/my-first-javascript-practice-building-a-drum-kit-2kk5)
+[![Mastering Web Accessibility: A Guide for Frontend Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_Web_Accessibility__A_Guide_for_Frontend_Developers.svg)](https://dev.to/bellatrick/mastering-web-accessibility-a-guide-for-frontend-developers-48ad)
+[![Understanding ID Token vs. Access Token in AWS Amplify](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_ID_Token_vs._Access_Token_in_AWS_Amplify.svg)](https://dev.to/zirkelc/understanding-id-token-vs-access-token-in-aws-amplify-2oen)
+[![Zero to Serverless Car Insurance - Part 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Zero_to_Serverless_Car_Insurance_-_Part_2.svg)](https://dev.to/aws-builders/zero-to-serverless-car-insurance-part-2-3ba)
+[![Theme toggle using Tailwind CSS in just 3 steps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Theme_toggle_using_Tailwind_CSS_in_just_3_steps.svg)](https://dev.to/shreyvijayvargiya/theme-toggle-using-tailwind-css-in-just-3-steps-1eij)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, April 11, 2023 at 12:11:06 AM
+> Last updated: Tuesday, April 11, 2023 at 6:15:40 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, April 11, 2023 at 12:11:11 AM
+> Last updated: Tuesday, April 11, 2023 at 6:15:46 AM
 
 > Showing 5 of 30 posts.
 
+[![
+PixelQA - Software Quality Assurance Company (WorldWide)
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_PixelQA_-_Software_Quality_Assurance_Company_(WorldWide)_.svg)](
+https://www.topclassifieds.com/ads/767/posts/16-Services/236-Internet-Services/4759901-PixelQA-Software-Quality-Assurance-Company.html
+)
 [![Python Snake Game Coding from Scratch](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Python_Snake_Game_Coding_from_Scratch.svg)](https://dskcode.com/python-snake-game-coding-from-scratch)
 [![GitHub - steelydylan/next-typed-connect: Typed API Roots for Next.js using zod](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_steelydylan_next-typed-connect__Typed_API_Roots_for_Next.js_using_zod.svg)](https://github.com/steelydylan/next-typed-connect)
 [![API with NestJS #103. Integration tests with Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__103._Integration_tests_with_Prisma.svg)](https://wanago.io/2023/04/10/api-nestjs-prisma-integration-tests/)
 [![Leveraging Passport JS for Authentication in Node JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Leveraging_Passport_JS_for_Authentication_in_Node_JS.svg)](https://dskcode.com/leveraging-passport-js-for-authentication-in-node-js)
-[![Configuring maxBodyLength in Axios](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Configuring_maxBodyLength_in_Axios.svg)](
-https://masteringjs.io/tutorials/axios/maxbodylength
-)
 
 
 <!-- post-list:end -->
