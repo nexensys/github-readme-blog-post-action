@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, April 10, 2023 at 6:43:58 PM
+> Last updated: Tuesday, April 11, 2023 at 12:11:04 AM
 
 > Showing 5 of 12 posts.
 
-[![Supporting Fediverse developer communities](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Supporting_Fediverse_developer_communities.svg)](https://dev.to/andypiper/thoughts-around-fediverse-developer-communities-cb6)
-[![Next.js Weekly Recap #2: App Router, Background Functions, YakGPT, Vercel KV](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Next.js_Weekly_Recap__2__App_Router__Background_Functions__YakGPT__Vercel_KV.svg)](https://dev.to/erfanebrahimnia/nextjs-weekly-recap-2-app-router-background-functions-yakgpt-vercel-kv-3m3n)
-[![Best Practices for Working with Strapi Cron Jobs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_Practices_for_Working_with_Strapi_Cron_Jobs.svg)](https://dev.to/strapi/best-practices-for-working-with-strapi-cron-jobs-4cm2)
-[![USA Sales Tax CLI App in Node.js and Sqlite](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/USA_Sales_Tax_CLI_App_in_Node.js_and_Sqlite.svg)](https://dev.to/bekbrace/usa-sales-tax-cli-app-in-nodejs-and-sqlite-2963)
-[![The Great Prime Number Challenge: Which Programming Language is the Fastest?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Great_Prime_Number_Challenge__Which_Programming_Language_is_the_Fastest_.svg)](https://dev.to/kschneider0/the-great-prime-number-challenge-which-programming-language-is-the-fastest-2hdo)
+[![The Power of Automating Your Development Workflow](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Power_of_Automating_Your_Development_Workflow.svg)](https://dev.to/bhavin9920/the-power-of-automating-your-development-workflow-3g9g)
+[![How to make Responsive Web designs in CSS: Tips and Tricks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_make_Responsive_Web_designs_in_CSS__Tips_and_Tricks.svg)](https://dev.to/hy_piyush/how-to-make-responsive-web-designs-in-css-tips-and-tricks-22m9)
+[![Dockerize React app for dev and prod](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dockerize_React_app_for_dev_and_prod.svg)](https://dev.to/pvishnuprasaath/dockerize-react-app-for-dev-and-prod-3c84)
+[![How to Exclude Specific File Types from Being Formatted on Save in VS Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Exclude_Specific_File_Types_from_Being_Formatted_on_Save_in_VS_Code.svg)](https://dev.to/codexam/how-to-exclude-specific-file-types-from-being-formatted-on-save-in-vs-code-3f8a)
+[![Javascript Object #6](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Javascript_Object__6.svg)](https://dev.to/samr/javascript-object-6-2a71)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, April 10, 2023 at 6:44:02 PM
+> Last updated: Tuesday, April 11, 2023 at 12:11:06 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, April 10, 2023 at 6:44:06 PM
+> Last updated: Tuesday, April 11, 2023 at 12:11:11 AM
 
 > Showing 5 of 30 posts.
 
