@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, April 10, 2023 at 12:10:08 PM
+> Last updated: Monday, April 10, 2023 at 6:43:58 PM
 
 > Showing 5 of 12 posts.
 
-[![How to create a scroll to top btn in react js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_a_scroll_to_top_btn_in_react_js.svg)](https://dev.to/jon_snow789/how-to-create-a-scroll-to-top-btn-in-react-js-2jo8)
-[![Robotic Arm: Message Controller Software](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Robotic_Arm__Message_Controller_Software.svg)](https://dev.to/admantium/robotic-arm-message-controller-software-3la8)
-[![JavaScript for loop](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_for_loop.svg)](https://dev.to/max24816/javascript-for-loop-380f)
-[![Is There an Equivalent of Spring Boot for Kotlin?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Is_There_an_Equivalent_of_Spring_Boot_for_Kotlin_.svg)](https://dev.to/jmfayard/is-there-an-equivalent-of-spring-boot-for-kotlin-hfg)
-[![Queuing Rest Apis using JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Queuing_Rest_Apis_using_JavaScript.svg)](https://dev.to/soorajsnblaze333/queuing-api-25oa)
+[![Supporting Fediverse developer communities](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Supporting_Fediverse_developer_communities.svg)](https://dev.to/andypiper/thoughts-around-fediverse-developer-communities-cb6)
+[![Next.js Weekly Recap #2: App Router, Background Functions, YakGPT, Vercel KV](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Next.js_Weekly_Recap__2__App_Router__Background_Functions__YakGPT__Vercel_KV.svg)](https://dev.to/erfanebrahimnia/nextjs-weekly-recap-2-app-router-background-functions-yakgpt-vercel-kv-3m3n)
+[![Best Practices for Working with Strapi Cron Jobs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_Practices_for_Working_with_Strapi_Cron_Jobs.svg)](https://dev.to/strapi/best-practices-for-working-with-strapi-cron-jobs-4cm2)
+[![USA Sales Tax CLI App in Node.js and Sqlite](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/USA_Sales_Tax_CLI_App_in_Node.js_and_Sqlite.svg)](https://dev.to/bekbrace/usa-sales-tax-cli-app-in-nodejs-and-sqlite-2963)
+[![The Great Prime Number Challenge: Which Programming Language is the Fastest?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Great_Prime_Number_Challenge__Which_Programming_Language_is_the_Fastest_.svg)](https://dev.to/kschneider0/the-great-prime-number-challenge-which-programming-language-is-the-fastest-2hdo)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, April 10, 2023 at 12:10:11 PM
+> Last updated: Monday, April 10, 2023 at 6:44:02 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, April 10, 2023 at 12:10:16 PM
+> Last updated: Monday, April 10, 2023 at 6:44:06 PM
 
 > Showing 5 of 30 posts.
 
