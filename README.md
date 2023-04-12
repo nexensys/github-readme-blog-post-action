@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, April 11, 2023 at 12:09:19 PM
+> Last updated: Tuesday, April 11, 2023 at 6:42:14 PM
 
 > Showing 5 of 12 posts.
 
-[![5 useful JSON tools to improve your productivity](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_useful_JSON_tools_to_improve_your_productivity.svg)](https://dev.to/logrocket/5-useful-json-tools-to-improve-your-productivity-18h5)
-[![How and why did you start contributing to Open Source?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_and_why_did_you_start_contributing_to_Open_Source_.svg)](https://dev.to/szabgab/how-and-why-did-you-start-contributing-to-open-source-46j2)
-[![Relearning Java Thread Primitives](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Relearning_Java_Thread_Primitives.svg)](https://dev.to/codenameone/relearning-java-thread-primitives-2hep)
-[![Top 7 Featured DEV Posts from the Past Week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_7_Featured_DEV_Posts_from_the_Past_Week.svg)](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-316h)
-[![Spring update: Integrations, Improving UX, and Ease of Provisioning](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Spring_update__Integrations__Improving_UX__and_Ease_of_Provisioning.svg)](https://dev.to/kubeshop/spring-update-integrations-improving-ux-and-ease-of-provisioning-5fm9)
+[![Linting Python in VS Code [Video]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Linting_Python_in_VS_Code_[Video].svg)](https://dev.to/dawnwages/linting-python-in-vs-code-video-23ce)
+[![Building Your First Static Web App on Azure: A Step-by-Step Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_Your_First_Static_Web_App_on_Azure__A_Step-by-Step_Guide.svg)](https://dev.to/ivy_j/building-your-first-static-web-app-on-azure-a-step-by-step-guide-35d3)
+[![Prevent API overload with rate limiting in AWS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Prevent_API_overload_with_rate_limiting_in_AWS.svg)](https://dev.to/aws-builders/prevent-api-overload-with-rate-limiting-in-aws-1dgb)
+[![The Joy of Sharing: Why Developers Should Geek Out More](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Joy_of_Sharing__Why_Developers_Should_Geek_Out_More.svg)](https://dev.to/louiseann93/the-joy-of-sharing-why-developers-should-geek-out-more-1568)
+[![BEGINNER-FRIENDLY STEP BY STEP GUIDE ON HOW TO CREATE AWS VIRTUAL MACHINE USING WINDOWS 10](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/BEGINNER-FRIENDLY_STEP_BY_STEP_GUIDE_ON_HOW_TO_CREATE_AWS_VIRTUAL_MACHINE_USING_WINDOWS_10.svg)](https://dev.to/arbythecoder/beginner-friendly-step-by-step-guide-on-how-to-create-aws-virtual-machine-using-windows-10-5h06)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, April 11, 2023 at 12:09:22 PM
+> Last updated: Tuesday, April 11, 2023 at 6:42:18 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, April 11, 2023 at 12:09:27 PM
+> Last updated: Tuesday, April 11, 2023 at 6:42:25 PM
 
 > Showing 5 of 30 posts.
 
 [![Stream File Uploads to S3 Object Storage and Reduce Costs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Stream_File_Uploads_to_S3_Object_Storage_and_Reduce_Costs.svg)](https://austingil.com/upload-to-s3/)
-[![
-PixelQA - Software Quality Assurance Company (WorldWide)
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_PixelQA_-_Software_Quality_Assurance_Company_(WorldWide)_.svg)](
-https://www.topclassifieds.com/ads/767/posts/16-Services/236-Internet-Services/4759901-PixelQA-Software-Quality-Assurance-Company.html
-)
-[![Python Snake Game Coding from Scratch](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Python_Snake_Game_Coding_from_Scratch.svg)](https://dskcode.com/python-snake-game-coding-from-scratch)
 [![GitHub - steelydylan/next-typed-connect: Typed API Roots for Next.js using zod](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_steelydylan_next-typed-connect__Typed_API_Roots_for_Next.js_using_zod.svg)](https://github.com/steelydylan/next-typed-connect)
 [![API with NestJS #103. Integration tests with Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__103._Integration_tests_with_Prisma.svg)](https://wanago.io/2023/04/10/api-nestjs-prisma-integration-tests/)
+[![Leveraging Passport JS for Authentication in Node JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Leveraging_Passport_JS_for_Authentication_in_Node_JS.svg)](https://dskcode.com/leveraging-passport-js-for-authentication-in-node-js)
+[![Configuring maxBodyLength in Axios](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Configuring_maxBodyLength_in_Axios.svg)](
+https://masteringjs.io/tutorials/axios/maxbodylength
+)
 
 
 <!-- post-list:end -->
