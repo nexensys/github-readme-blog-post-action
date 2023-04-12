@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, April 11, 2023 at 6:42:14 PM
+> Last updated: Wednesday, April 12, 2023 at 12:11:09 AM
 
 > Showing 5 of 12 posts.
 
-[![Linting Python in VS Code [Video]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Linting_Python_in_VS_Code_[Video].svg)](https://dev.to/dawnwages/linting-python-in-vs-code-video-23ce)
-[![Building Your First Static Web App on Azure: A Step-by-Step Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_Your_First_Static_Web_App_on_Azure__A_Step-by-Step_Guide.svg)](https://dev.to/ivy_j/building-your-first-static-web-app-on-azure-a-step-by-step-guide-35d3)
-[![Prevent API overload with rate limiting in AWS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Prevent_API_overload_with_rate_limiting_in_AWS.svg)](https://dev.to/aws-builders/prevent-api-overload-with-rate-limiting-in-aws-1dgb)
-[![The Joy of Sharing: Why Developers Should Geek Out More](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Joy_of_Sharing__Why_Developers_Should_Geek_Out_More.svg)](https://dev.to/louiseann93/the-joy-of-sharing-why-developers-should-geek-out-more-1568)
-[![BEGINNER-FRIENDLY STEP BY STEP GUIDE ON HOW TO CREATE AWS VIRTUAL MACHINE USING WINDOWS 10](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/BEGINNER-FRIENDLY_STEP_BY_STEP_GUIDE_ON_HOW_TO_CREATE_AWS_VIRTUAL_MACHINE_USING_WINDOWS_10.svg)](https://dev.to/arbythecoder/beginner-friendly-step-by-step-guide-on-how-to-create-aws-virtual-machine-using-windows-10-5h06)
+[![The Rear-Vue Mirror: My Open-Source Origin Story](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Rear-Vue_Mirror__My_Open-Source_Origin_Story.svg)](https://dev.to/jutanium/the-rear-vue-mirror-my-open-source-origin-story-2i3j)
+[![Launch of The Most Requested Youtube Channel Related To Web Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Launch_of_The_Most_Requested_Youtube_Channel_Related_To_Web_Development.svg)](https://dev.to/myogeshchavan97/launch-of-the-most-requested-youtube-channel-related-to-web-development-4n6c)
+[![The history of HTTP in under 5 minutes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_history_of_HTTP_in_under_5_minutes.svg)](https://dev.to/andreasbergstrom/the-history-of-http-in-under-5-minutes-4b7p)
+[![Javascript Object #7](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Javascript_Object__7.svg)](https://dev.to/samr/javascript-object-7-9ie)
+[![GitHub Actions CI/CD for React app hosted in GitHub Pages](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/GitHub_Actions_CI_CD_for_React_app_hosted_in_GitHub_Pages.svg)](https://dev.to/pvishnuprasaath/github-actions-cicd-for-react-app-hosted-in-github-pages-3ah3)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, April 11, 2023 at 6:42:18 PM
+> Last updated: Wednesday, April 12, 2023 at 12:11:13 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, April 11, 2023 at 6:42:25 PM
+> Last updated: Wednesday, April 12, 2023 at 12:11:19 AM
 
 > Showing 5 of 30 posts.
 
