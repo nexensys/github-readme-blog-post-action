@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, April 12, 2023 at 6:15:50 AM
+> Last updated: Wednesday, April 12, 2023 at 12:10:17 PM
 
 > Showing 5 of 12 posts.
 
-[![Struct vs Class in C#: Choosing the Right Data Type](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Struct_vs_Class_in_C___Choosing_the_Right_Data_Type.svg)](https://dev.to/bytehide/struct-vs-class-in-c-choosing-the-right-data-type-62p)
-[![Simplify Your Data Management With Relationships](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Simplify_Your_Data_Management_With_Relationships.svg)](https://dev.to/appwrite/simplify-your-data-management-with-relationships-11ma)
-[![Javascript Object #8](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Javascript_Object__8.svg)](https://dev.to/samr/javascript-object-8-3k6m)
-[![Introducing Password Dictionary In Appwrite: A New Layer Of Security](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_Password_Dictionary_In_Appwrite__A_New_Layer_Of_Security.svg)](https://dev.to/appwrite/introducing-password-dictionary-in-appwrite-a-new-layer-of-security-2356)
-[![Synking all the things with CRDTs: Local first development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Synking_all_the_things_with_CRDTs__Local_first_development.svg)](https://dev.to/charlietap/synking-all-the-things-with-crdts-local-first-development-3241)
+[![You Can Help Junior Developers Succeed](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/You_Can_Help_Junior_Developers_Succeed.svg)](https://dev.to/mikehtmlallthethings/you-can-help-junior-developers-succeed-178m)
+[![Credential Stuffing: How PRC almost hacked my Steam](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Credential_Stuffing__How_PRC_almost_hacked_my_Steam.svg)](https://dev.to/prove/credential-stuffing-how-prc-almost-hacked-my-steam-414m)
+[![[TS] I made Ultimate Random Generator which can make Everything](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/[TS]_I_made_Ultimate_Random_Generator_which_can_make_Everything.svg)](https://dev.to/samchon/i-made-ultimate-random-generator-which-can-make-everything-5a65)
+[![Best ways to use Extract utility type in Typescript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_ways_to_use_Extract_utility_type_in_Typescript.svg)](https://dev.to/arafat4693/best-ways-to-use-extract-in-typescript-jc2)
+[![Welcome Thread - v220](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Welcome_Thread_-_v220.svg)](https://dev.to/thepracticaldev/welcome-thread-v220-2j91)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, April 12, 2023 at 6:15:53 AM
+> Last updated: Wednesday, April 12, 2023 at 12:10:22 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, April 12, 2023 at 6:16:01 AM
+> Last updated: Wednesday, April 12, 2023 at 12:10:37 PM
 
 > Showing 5 of 30 posts.
 
