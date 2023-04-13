@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, April 13, 2023 at 6:15:56 AM
+> Last updated: Thursday, April 13, 2023 at 12:10:27 PM
 
 > Showing 5 of 12 posts.
 
-[![Fix Apple Bugs using a "Secret" Linux Browser](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Fix_Apple_Bugs_using_a__Secret__Linux_Browser.svg)](https://dev.to/ingosteinke/fixing-apple-bugs-with-a-secret-linux-browser-4cp3)
-[![Top 9 Commercial Distributed Tracing Tools](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_9_Commercial_Distributed_Tracing_Tools.svg)](https://dev.to/kubeshop/top-9-commercial-distributed-tracing-tools-4ino)
-[![Optional function in swift Protocol](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Optional_function_in_swift_Protocol.svg)](https://dev.to/nalineer/optional-function-in-swift-protocol-442j)
-[![The importance of rel=canonical for content writers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_importance_of_rel=canonical_for_content_writers.svg)](https://dev.to/nfrankel/the-importance-of-relcanonical-for-content-writers-4o8f)
-[![Free 3D Illustrations library for your project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Free_3D_Illustrations_library_for_your_project.svg)](https://dev.to/jon_snow789/free-3d-illustrations-library-for-your-project-l22)
+[![Take It Slow & Say Hello: A Sloth’s Guide to Making Friends Online](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Take_It_Slow___Say_Hello__A_Sloth’s_Guide_to_Making_Friends_Online.svg)](https://dev.to/codenewbieteam/take-it-slow-say-hello-a-sloths-guide-to-making-friends-online-a61)
+[![VMClarity: Virtual Machine Security](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/VMClarity__Virtual_Machine_Security.svg)](https://dev.to/ciscoemerge/vmclarity-virtual-machine-security-5e8g)
+[![6 CSS Games to help you Learn CSS Easily](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/6_CSS_Games_to_help_you_Learn_CSS_Easily.svg)](https://dev.to/jon_snow789/6-css-games-to-help-you-learn-css-easily-4m3i)
+[![GetBlock Launches Affiliate Program: How to Benefit from It](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/GetBlock_Launches_Affiliate_Program__How_to_Benefit_from_It.svg)](https://dev.to/getblockapi/getblock-launches-affiliate-program-how-to-benefit-from-it-4b7b)
+[![GitHub CLI: gives wings to terminal](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/GitHub_CLI__gives_wings_to_terminal.svg)](https://dev.to/pvishnuprasaath/github-cli-gives-wings-to-terminal-1ic)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, April 13, 2023 at 6:16:01 AM
+> Last updated: Thursday, April 13, 2023 at 12:10:36 PM
 
 > Showing 4 of 4 posts.
 
+[![The return of ECMAScript 2023 (and Angular)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/The_return_of_ECMAScript_2023_(and_Angular).svg)](https://javascriptweekly.com/issues/634)
 [![JavaScript on your schedule](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/JavaScript_on_your_schedule.svg)](https://javascriptweekly.com/issues/633)
 [![Import maps go universal](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Import_maps_go_universal.svg)](https://javascriptweekly.com/issues/632)
 [![Playwright now offers a UI mode](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Playwright_now_offers_a_UI_mode.svg)](https://javascriptweekly.com/issues/631)
-[![Transformers: JavaScript in Disguise](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Transformers__JavaScript_in_Disguise.svg)](https://javascriptweekly.com/issues/630)
 
 
 ## Echo JS
@@ -43,19 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, April 13, 2023 at 6:16:04 AM
+> Last updated: Thursday, April 13, 2023 at 12:10:39 PM
 
 > Showing 5 of 30 posts.
 
+[![How to Authenticate with Next.js and Auth0: A Guide for Every Deployment Model](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Authenticate_with_Next.js_and_Auth0__A_Guide_for_Every_Deployment_Model.svg)](https://auth0.com/blog/ultimate-guide-nextjs-authentication-auth0/)
+[![Obsidian 8.0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Obsidian_8.0.svg)](https://medium.com/@davidmnorman/obsidian-8-0-8b45a3b84668)
 [![billboard.js 3.8 release: inverted x axis!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/billboard.js_3.8_release__inverted_x_axis!.svg)](https://netil.medium.com/billboard-js-3-8-release-inverted-x-axis-9454e35df875)
-[![Siddharth Mehta has seen tremendous effect of FinTech pushing finance sectors upwards](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Siddharth_Mehta_has_seen_tremendous_effect_of_FinTech_pushing_finance_sectors_upwards.svg)](https://www.business-standard.com/content/specials/siddharth-mehta-has-seen-tremendous-effect-of-fintech-pushing-finance-sectors-upwards-123041000501_1.html)
 [![
 Using SWR for Efficient Data Fetching in Next.js Applications
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Using_SWR_for_Efficient_Data_Fetching_in_Next.js_Applications_.svg)](
 https://goo.su/ZnUNv
 )
 [![Stream File Uploads to S3 Object Storage and Reduce Costs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Stream_File_Uploads_to_S3_Object_Storage_and_Reduce_Costs.svg)](https://austingil.com/upload-to-s3/)
-[![GitHub - steelydylan/next-typed-connect: Typed API Roots for Next.js using zod](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_steelydylan_next-typed-connect__Typed_API_Roots_for_Next.js_using_zod.svg)](https://github.com/steelydylan/next-typed-connect)
 
 
 <!-- post-list:end -->
