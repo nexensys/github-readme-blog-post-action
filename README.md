@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, April 12, 2023 at 12:10:17 PM
+> Last updated: Wednesday, April 12, 2023 at 6:41:34 PM
 
 > Showing 5 of 12 posts.
 
-[![You Can Help Junior Developers Succeed](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/You_Can_Help_Junior_Developers_Succeed.svg)](https://dev.to/mikehtmlallthethings/you-can-help-junior-developers-succeed-178m)
-[![Credential Stuffing: How PRC almost hacked my Steam](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Credential_Stuffing__How_PRC_almost_hacked_my_Steam.svg)](https://dev.to/prove/credential-stuffing-how-prc-almost-hacked-my-steam-414m)
-[![[TS] I made Ultimate Random Generator which can make Everything](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/[TS]_I_made_Ultimate_Random_Generator_which_can_make_Everything.svg)](https://dev.to/samchon/i-made-ultimate-random-generator-which-can-make-everything-5a65)
-[![Best ways to use Extract utility type in Typescript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_ways_to_use_Extract_utility_type_in_Typescript.svg)](https://dev.to/arafat4693/best-ways-to-use-extract-in-typescript-jc2)
-[![Welcome Thread - v220](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Welcome_Thread_-_v220.svg)](https://dev.to/thepracticaldev/welcome-thread-v220-2j91)
+[![CodeNewbie Podcast, S23:E8— "Empowering the Next Generation of Black Tech Talent"](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CodeNewbie_Podcast__S23_E8—__Empowering_the_Next_Generation_of_Black_Tech_Talent_.svg)](https://dev.to/codenewbieteam/codenewbie-podcast-s23e8-empowering-the-next-generation-of-black-tech-talent-50a)
+[![10 reasons why you should use Flutter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_reasons_why_you_should_use_Flutter.svg)](https://dev.to/khantanveer7/10-reasons-why-you-should-use-flutter-49pd)
+[![Best practices for refactoring legacy code to make it more maintainable and easier to work with](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_practices_for_refactoring_legacy_code_to_make_it_more_maintainable_and_easier_to_work_with.svg)](https://dev.to/estermabel/best-practices-for-refactoring-legacy-code-to-make-it-more-maintainable-and-easier-to-work-with-5cem)
+[![Design Patterns: Write modular and Concise Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Design_Patterns__Write_modular_and_Concise_Code.svg)](https://dev.to/lovepreetsingh/design-patterns-write-modular-and-concise-code-fj2)
+[![5 Cool Chat GPT Project Ideas Any Developer Can Build!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Cool_Chat_GPT_Project_Ideas_Any_Developer_Can_Build!.svg)](https://dev.to/hackertab/5-cool-chat-gpt-project-ideas-any-developer-can-build-5f3k)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, April 12, 2023 at 12:10:22 PM
+> Last updated: Wednesday, April 12, 2023 at 6:41:38 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, April 12, 2023 at 12:10:37 PM
+> Last updated: Wednesday, April 12, 2023 at 6:41:44 PM
 
 > Showing 5 of 30 posts.
 
