@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, April 12, 2023 at 6:41:34 PM
+> Last updated: Thursday, April 13, 2023 at 12:11:07 AM
 
 > Showing 5 of 12 posts.
 
-[![CodeNewbie Podcast, S23:E8— "Empowering the Next Generation of Black Tech Talent"](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CodeNewbie_Podcast__S23_E8—__Empowering_the_Next_Generation_of_Black_Tech_Talent_.svg)](https://dev.to/codenewbieteam/codenewbie-podcast-s23e8-empowering-the-next-generation-of-black-tech-talent-50a)
-[![10 reasons why you should use Flutter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_reasons_why_you_should_use_Flutter.svg)](https://dev.to/khantanveer7/10-reasons-why-you-should-use-flutter-49pd)
-[![Best practices for refactoring legacy code to make it more maintainable and easier to work with](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_practices_for_refactoring_legacy_code_to_make_it_more_maintainable_and_easier_to_work_with.svg)](https://dev.to/estermabel/best-practices-for-refactoring-legacy-code-to-make-it-more-maintainable-and-easier-to-work-with-5cem)
-[![Design Patterns: Write modular and Concise Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Design_Patterns__Write_modular_and_Concise_Code.svg)](https://dev.to/lovepreetsingh/design-patterns-write-modular-and-concise-code-fj2)
-[![5 Cool Chat GPT Project Ideas Any Developer Can Build!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Cool_Chat_GPT_Project_Ideas_Any_Developer_Can_Build!.svg)](https://dev.to/hackertab/5-cool-chat-gpt-project-ideas-any-developer-can-build-5f3k)
+[![Exploring the Benefits of Using .NET Core for Microservices Architecture](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exploring_the_Benefits_of_Using_.NET_Core_for_Microservices_Architecture.svg)](https://dev.to/bhavin9920/exploring-the-benefits-of-using-net-core-for-microservices-architecture-1585)
+[![Serverless testing is not complicated. It just requires some effort](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Serverless_testing_is_not_complicated._It_just_requires_some_effort.svg)](https://dev.to/aws-builders/serverless-testing-is-not-complicated-it-just-requires-some-effort-1h6c)
+[![Costly CSS Properties and How to Optimize Them](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Costly_CSS_Properties_and_How_to_Optimize_Them.svg)](https://dev.to/leduc1901/costly-css-properties-and-how-to-optimize-them-3bmd)
+[![Create a ChatGPT Plugin to retrieve NASA images](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_a_ChatGPT_Plugin_to_retrieve_NASA_images.svg)](https://dev.to/360macky/create-a-chatgpt-plugin-to-retrieve-nasa-images-45pk)
+[![Aprenda Linux de graça em 2023 com a LINUXtips: com certificado!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Aprenda_Linux_de_graça_em_2023_com_a_LINUXtips__com_certificado!.svg)](https://dev.to/guiadeti/aprenda-linux-de-graca-em-2023-com-a-linuxtips-com-certificado-207o)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, April 12, 2023 at 6:41:38 PM
+> Last updated: Thursday, April 13, 2023 at 12:11:10 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, April 12, 2023 at 6:41:44 PM
+> Last updated: Thursday, April 13, 2023 at 12:11:17 AM
 
 > Showing 5 of 30 posts.
 
