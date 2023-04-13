@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, April 13, 2023 at 12:11:07 AM
+> Last updated: Thursday, April 13, 2023 at 6:15:56 AM
 
 > Showing 5 of 12 posts.
 
-[![Exploring the Benefits of Using .NET Core for Microservices Architecture](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exploring_the_Benefits_of_Using_.NET_Core_for_Microservices_Architecture.svg)](https://dev.to/bhavin9920/exploring-the-benefits-of-using-net-core-for-microservices-architecture-1585)
-[![Serverless testing is not complicated. It just requires some effort](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Serverless_testing_is_not_complicated._It_just_requires_some_effort.svg)](https://dev.to/aws-builders/serverless-testing-is-not-complicated-it-just-requires-some-effort-1h6c)
-[![Costly CSS Properties and How to Optimize Them](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Costly_CSS_Properties_and_How_to_Optimize_Them.svg)](https://dev.to/leduc1901/costly-css-properties-and-how-to-optimize-them-3bmd)
-[![Create a ChatGPT Plugin to retrieve NASA images](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_a_ChatGPT_Plugin_to_retrieve_NASA_images.svg)](https://dev.to/360macky/create-a-chatgpt-plugin-to-retrieve-nasa-images-45pk)
-[![Aprenda Linux de graça em 2023 com a LINUXtips: com certificado!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Aprenda_Linux_de_graça_em_2023_com_a_LINUXtips__com_certificado!.svg)](https://dev.to/guiadeti/aprenda-linux-de-graca-em-2023-com-a-linuxtips-com-certificado-207o)
+[![Fix Apple Bugs using a "Secret" Linux Browser](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Fix_Apple_Bugs_using_a__Secret__Linux_Browser.svg)](https://dev.to/ingosteinke/fixing-apple-bugs-with-a-secret-linux-browser-4cp3)
+[![Top 9 Commercial Distributed Tracing Tools](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_9_Commercial_Distributed_Tracing_Tools.svg)](https://dev.to/kubeshop/top-9-commercial-distributed-tracing-tools-4ino)
+[![Optional function in swift Protocol](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Optional_function_in_swift_Protocol.svg)](https://dev.to/nalineer/optional-function-in-swift-protocol-442j)
+[![The importance of rel=canonical for content writers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_importance_of_rel=canonical_for_content_writers.svg)](https://dev.to/nfrankel/the-importance-of-relcanonical-for-content-writers-4o8f)
+[![Free 3D Illustrations library for your project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Free_3D_Illustrations_library_for_your_project.svg)](https://dev.to/jon_snow789/free-3d-illustrations-library-for-your-project-l22)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, April 13, 2023 at 12:11:10 AM
+> Last updated: Thursday, April 13, 2023 at 6:16:01 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, April 13, 2023 at 12:11:17 AM
+> Last updated: Thursday, April 13, 2023 at 6:16:04 AM
 
 > Showing 5 of 30 posts.
 
+[![billboard.js 3.8 release: inverted x axis!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/billboard.js_3.8_release__inverted_x_axis!.svg)](https://netil.medium.com/billboard-js-3-8-release-inverted-x-axis-9454e35df875)
 [![Siddharth Mehta has seen tremendous effect of FinTech pushing finance sectors upwards](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Siddharth_Mehta_has_seen_tremendous_effect_of_FinTech_pushing_finance_sectors_upwards.svg)](https://www.business-standard.com/content/specials/siddharth-mehta-has-seen-tremendous-effect-of-fintech-pushing-finance-sectors-upwards-123041000501_1.html)
 [![
 Using SWR for Efficient Data Fetching in Next.js Applications
@@ -55,7 +56,6 @@ https://goo.su/ZnUNv
 )
 [![Stream File Uploads to S3 Object Storage and Reduce Costs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Stream_File_Uploads_to_S3_Object_Storage_and_Reduce_Costs.svg)](https://austingil.com/upload-to-s3/)
 [![GitHub - steelydylan/next-typed-connect: Typed API Roots for Next.js using zod](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_steelydylan_next-typed-connect__Typed_API_Roots_for_Next.js_using_zod.svg)](https://github.com/steelydylan/next-typed-connect)
-[![API with NestJS #103. Integration tests with Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__103._Integration_tests_with_Prisma.svg)](https://wanago.io/2023/04/10/api-nestjs-prisma-integration-tests/)
 
 
 <!-- post-list:end -->
