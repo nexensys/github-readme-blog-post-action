@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, April 13, 2023 at 12:10:27 PM
+> Last updated: Thursday, April 13, 2023 at 6:41:31 PM
 
 > Showing 5 of 12 posts.
 
-[![Take It Slow & Say Hello: A Sloth’s Guide to Making Friends Online](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Take_It_Slow___Say_Hello__A_Sloth’s_Guide_to_Making_Friends_Online.svg)](https://dev.to/codenewbieteam/take-it-slow-say-hello-a-sloths-guide-to-making-friends-online-a61)
-[![VMClarity: Virtual Machine Security](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/VMClarity__Virtual_Machine_Security.svg)](https://dev.to/ciscoemerge/vmclarity-virtual-machine-security-5e8g)
-[![6 CSS Games to help you Learn CSS Easily](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/6_CSS_Games_to_help_you_Learn_CSS_Easily.svg)](https://dev.to/jon_snow789/6-css-games-to-help-you-learn-css-easily-4m3i)
-[![GetBlock Launches Affiliate Program: How to Benefit from It](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/GetBlock_Launches_Affiliate_Program__How_to_Benefit_from_It.svg)](https://dev.to/getblockapi/getblock-launches-affiliate-program-how-to-benefit-from-it-4b7b)
-[![GitHub CLI: gives wings to terminal](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/GitHub_CLI__gives_wings_to_terminal.svg)](https://dev.to/pvishnuprasaath/github-cli-gives-wings-to-terminal-1ic)
+[![What Kept Me Motivated to Keep Learning This Week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_Kept_Me_Motivated_to_Keep_Learning_This_Week.svg)](https://dev.to/codenewbieteam/what-kept-me-motivated-to-keep-learning-this-week-12fn)
+[![3 Scalable Next.js Architecture Boilerplate](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/3_Scalable_Next.js_Architecture_Boilerplate.svg)](https://dev.to/imamdev_/3-scalable-nextjs-architecture-boilerplate-4na1)
+[![Data validation with Fluent Validation for ASP NET Core](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Data_validation_with_Fluent_Validation_for_ASP_NET_Core.svg)](https://dev.to/osempu/data-validation-with-fluent-validation-for-asp-net-core-92c)
+[![AWS Amplify and ChatGPT: one way to generate html mock files for our demos 🤖](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_Amplify_and_ChatGPT__one_way_to_generate_html_mock_files_for_our_demos_🤖.svg)](https://dev.to/aws-builders/aws-amplify-and-chatgpt-one-way-to-generate-html-mock-files-for-our-demos-2dhk)
+[![We put ChatGPT on your website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/We_put_ChatGPT_on_your_website.svg)](https://dev.to/polterguy/we-put-chatgpt-on-your-website-2p7k)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, April 13, 2023 at 12:10:36 PM
+> Last updated: Thursday, April 13, 2023 at 6:41:35 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, April 13, 2023 at 12:10:39 PM
+> Last updated: Thursday, April 13, 2023 at 6:41:38 PM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - Exact-Realty/routemate](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Exact-Realty_routemate.svg)](https://github.com/Exact-Realty/routemate)
 [![How to Authenticate with Next.js and Auth0: A Guide for Every Deployment Model](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Authenticate_with_Next.js_and_Auth0__A_Guide_for_Every_Deployment_Model.svg)](https://auth0.com/blog/ultimate-guide-nextjs-authentication-auth0/)
 [![Obsidian 8.0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Obsidian_8.0.svg)](https://medium.com/@davidmnorman/obsidian-8-0-8b45a3b84668)
 [![billboard.js 3.8 release: inverted x axis!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/billboard.js_3.8_release__inverted_x_axis!.svg)](https://netil.medium.com/billboard-js-3-8-release-inverted-x-axis-9454e35df875)
@@ -55,7 +56,6 @@ Using SWR for Efficient Data Fetching in Next.js Applications
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Using_SWR_for_Efficient_Data_Fetching_in_Next.js_Applications_.svg)](
 https://goo.su/ZnUNv
 )
-[![Stream File Uploads to S3 Object Storage and Reduce Costs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Stream_File_Uploads_to_S3_Object_Storage_and_Reduce_Costs.svg)](https://austingil.com/upload-to-s3/)
 
 
 <!-- post-list:end -->
