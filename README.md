@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, April 13, 2023 at 6:41:31 PM
+> Last updated: Friday, April 14, 2023 at 12:11:16 AM
 
 > Showing 5 of 12 posts.
 
-[![What Kept Me Motivated to Keep Learning This Week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_Kept_Me_Motivated_to_Keep_Learning_This_Week.svg)](https://dev.to/codenewbieteam/what-kept-me-motivated-to-keep-learning-this-week-12fn)
-[![3 Scalable Next.js Architecture Boilerplate](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/3_Scalable_Next.js_Architecture_Boilerplate.svg)](https://dev.to/imamdev_/3-scalable-nextjs-architecture-boilerplate-4na1)
-[![Data validation with Fluent Validation for ASP NET Core](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Data_validation_with_Fluent_Validation_for_ASP_NET_Core.svg)](https://dev.to/osempu/data-validation-with-fluent-validation-for-asp-net-core-92c)
-[![AWS Amplify and ChatGPT: one way to generate html mock files for our demos 🤖](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_Amplify_and_ChatGPT__one_way_to_generate_html_mock_files_for_our_demos_🤖.svg)](https://dev.to/aws-builders/aws-amplify-and-chatgpt-one-way-to-generate-html-mock-files-for-our-demos-2dhk)
-[![We put ChatGPT on your website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/We_put_ChatGPT_on_your_website.svg)](https://dev.to/polterguy/we-put-chatgpt-on-your-website-2p7k)
+[![Laravel Best Practices](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Laravel_Best_Practices.svg)](https://dev.to/msnmongare/laravel-best-practices-d37)
+[![My Favorite Python Books and Courses for Beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_Favorite_Python_Books_and_Courses_for_Beginners.svg)](https://dev.to/javinpaul/my-favorite-python-books-and-courses-for-beginners-7gb)
+[![What We Learned About Starting a New Career and Supporting Diversity in the Workplace (CN Podcast S23:E8)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_We_Learned_About_Starting_a_New_Career_and_Supporting_Diversity_in_the_Workplace_(CN_Podcast_S23_E8).svg)](https://dev.to/codenewbieteam/what-we-learned-about-starting-a-new-career-and-supporting-diversity-in-the-workplace-cn-podcast-s23e8-4eje)
+[![😊 Listen to Your Customers Via Feedback to Avoid Churn 🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/😊_Listen_to_Your_Customers_Via_Feedback_to_Avoid_Churn_🔥.svg)](https://dev.to/shbz/listen-to-your-customersvia-feedback-to-avoid-churn-29pd)
+[![Figma to Flutter: Parabeac 4.0 Updates to Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Figma_to_Flutter__Parabeac_4.0_Updates_to_Components.svg)](https://dev.to/parabeac/figma-to-flutter-parabeac-40-updates-to-components-10o3)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, April 13, 2023 at 6:41:35 PM
+> Last updated: Friday, April 14, 2023 at 12:11:20 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, April 13, 2023 at 6:41:38 PM
+> Last updated: Friday, April 14, 2023 at 12:11:23 AM
 
 > Showing 5 of 30 posts.
 
