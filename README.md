@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, April 14, 2023 at 12:11:16 AM
+> Last updated: Friday, April 14, 2023 at 6:15:36 AM
 
 > Showing 5 of 12 posts.
 
-[![Laravel Best Practices](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Laravel_Best_Practices.svg)](https://dev.to/msnmongare/laravel-best-practices-d37)
-[![My Favorite Python Books and Courses for Beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_Favorite_Python_Books_and_Courses_for_Beginners.svg)](https://dev.to/javinpaul/my-favorite-python-books-and-courses-for-beginners-7gb)
-[![What We Learned About Starting a New Career and Supporting Diversity in the Workplace (CN Podcast S23:E8)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_We_Learned_About_Starting_a_New_Career_and_Supporting_Diversity_in_the_Workplace_(CN_Podcast_S23_E8).svg)](https://dev.to/codenewbieteam/what-we-learned-about-starting-a-new-career-and-supporting-diversity-in-the-workplace-cn-podcast-s23e8-4eje)
-[![😊 Listen to Your Customers Via Feedback to Avoid Churn 🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/😊_Listen_to_Your_Customers_Via_Feedback_to_Avoid_Churn_🔥.svg)](https://dev.to/shbz/listen-to-your-customersvia-feedback-to-avoid-churn-29pd)
-[![Figma to Flutter: Parabeac 4.0 Updates to Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Figma_to_Flutter__Parabeac_4.0_Updates_to_Components.svg)](https://dev.to/parabeac/figma-to-flutter-parabeac-40-updates-to-components-10o3)
+[![Liman MYS-Domain Eklentisi-Kaptan Kurulumu](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Liman_MYS-Domain_Eklentisi-Kaptan_Kurulumu.svg)](https://dev.to/aciklab/liman-mys-domain-eklentisi-kaptan-kurulumu-4lad)
+[![35 Knowledge base tools for developers in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/35_Knowledge_base_tools_for_developers_in_2023.svg)](https://dev.to/promyze/35-knowledge-base-tools-for-developers-in-2023-3pij)
+[![How we built a 1% website in 3 days for €7](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_we_built_a_1__website_in_3_days_for_€7.svg)](https://dev.to/polterguy/how-we-built-a-1-website-in-3-days-for-eu7-27e)
+[![Understanding Assembly in .NET: An In-Depth Guide from A to Z](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_Assembly_in_.NET__An_In-Depth_Guide_from_A_to_Z.svg)](https://dev.to/bytehide/understanding-assembly-in-net-an-in-depth-guide-from-a-to-z-2c9g)
+[![Kubernetes-101: Services](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Kubernetes-101__Services.svg)](https://dev.to/mattiasfjellstrom/kubernetes-101-services-191d)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, April 14, 2023 at 12:11:20 AM
+> Last updated: Friday, April 14, 2023 at 6:15:39 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,11 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, April 14, 2023 at 12:11:23 AM
+> Last updated: Friday, April 14, 2023 at 6:15:41 AM
 
 > Showing 5 of 30 posts.
 
-[![GitHub - Exact-Realty/routemate](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Exact-Realty_routemate.svg)](https://github.com/Exact-Realty/routemate)
+[![GitHub - Exact-Realty/routemate: Simple Multi-Runtime JS Router](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Exact-Realty_routemate__Simple_Multi-Runtime_JS_Router.svg)](https://github.com/Exact-Realty/routemate)
 [![How to Authenticate with Next.js and Auth0: A Guide for Every Deployment Model](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Authenticate_with_Next.js_and_Auth0__A_Guide_for_Every_Deployment_Model.svg)](https://auth0.com/blog/ultimate-guide-nextjs-authentication-auth0/)
 [![Obsidian 8.0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Obsidian_8.0.svg)](https://medium.com/@davidmnorman/obsidian-8-0-8b45a3b84668)
 [![billboard.js 3.8 release: inverted x axis!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/billboard.js_3.8_release__inverted_x_axis!.svg)](https://netil.medium.com/billboard-js-3-8-release-inverted-x-axis-9454e35df875)
