@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, April 14, 2023 at 6:15:36 AM
+> Last updated: Friday, April 14, 2023 at 12:10:07 PM
 
 > Showing 5 of 12 posts.
 
-[![Liman MYS-Domain Eklentisi-Kaptan Kurulumu](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Liman_MYS-Domain_Eklentisi-Kaptan_Kurulumu.svg)](https://dev.to/aciklab/liman-mys-domain-eklentisi-kaptan-kurulumu-4lad)
-[![35 Knowledge base tools for developers in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/35_Knowledge_base_tools_for_developers_in_2023.svg)](https://dev.to/promyze/35-knowledge-base-tools-for-developers-in-2023-3pij)
-[![How we built a 1% website in 3 days for €7](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_we_built_a_1__website_in_3_days_for_€7.svg)](https://dev.to/polterguy/how-we-built-a-1-website-in-3-days-for-eu7-27e)
-[![Understanding Assembly in .NET: An In-Depth Guide from A to Z](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_Assembly_in_.NET__An_In-Depth_Guide_from_A_to_Z.svg)](https://dev.to/bytehide/understanding-assembly-in-net-an-in-depth-guide-from-a-to-z-2c9g)
-[![Kubernetes-101: Services](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Kubernetes-101__Services.svg)](https://dev.to/mattiasfjellstrom/kubernetes-101-services-191d)
+[![How to Create a Good Pull Request Template (and Why You Should Add Gifs)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Create_a_Good_Pull_Request_Template_(and_Why_You_Should_Add_Gifs).svg)](https://dev.to/opensauced/how-to-create-a-good-pull-request-template-and-why-you-should-add-gifs-4i0l)
+[![Stripe Connect onboarding with Ruby on Rails](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Stripe_Connect_onboarding_with_Ruby_on_Rails.svg)](https://dev.to/stripe/stripe-connect-onboarding-with-ruby-on-rails-32i4)
+[![Deploying Prometheus and Grafana using Helm in EKS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deploying_Prometheus_and_Grafana_using_Helm_in_EKS.svg)](https://dev.to/arunbingari/deploying-prometheus-and-grafana-using-helm-in-eks-11h2)
+[![Containerizing A NextJs Application For Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Containerizing_A_NextJs_Application_For_Development.svg)](https://dev.to/scaabel/containerizing-a-nextjs-application-for-development-204d)
+[![NoSQL Databases vs Graph Databases: Which one should you use?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/NoSQL_Databases_vs_Graph_Databases__Which_one_should_you_use_.svg)](https://dev.to/documatic/nosql-databases-vs-graph-databases-which-one-should-you-use-4jpg)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, April 14, 2023 at 6:15:39 AM
+> Last updated: Friday, April 14, 2023 at 12:10:10 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, April 14, 2023 at 6:15:41 AM
+> Last updated: Friday, April 14, 2023 at 12:10:12 PM
 
 > Showing 5 of 30 posts.
 
+[![Chat Limitations, Rise of LLM’s, Generative UIs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Chat_Limitations__Rise_of_LLM’s__Generative_UIs.svg)](https://microfrontends.substack.com/p/chat-limitations-rise-of-llms-generative)
 [![GitHub - Exact-Realty/routemate: Simple Multi-Runtime JS Router](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Exact-Realty_routemate__Simple_Multi-Runtime_JS_Router.svg)](https://github.com/Exact-Realty/routemate)
 [![How to Authenticate with Next.js and Auth0: A Guide for Every Deployment Model](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Authenticate_with_Next.js_and_Auth0__A_Guide_for_Every_Deployment_Model.svg)](https://auth0.com/blog/ultimate-guide-nextjs-authentication-auth0/)
 [![Obsidian 8.0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Obsidian_8.0.svg)](https://medium.com/@davidmnorman/obsidian-8-0-8b45a3b84668)
 [![billboard.js 3.8 release: inverted x axis!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/billboard.js_3.8_release__inverted_x_axis!.svg)](https://netil.medium.com/billboard-js-3-8-release-inverted-x-axis-9454e35df875)
-[![
-Using SWR for Efficient Data Fetching in Next.js Applications
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Using_SWR_for_Efficient_Data_Fetching_in_Next.js_Applications_.svg)](
-https://goo.su/ZnUNv
-)
 
 
 <!-- post-list:end -->
