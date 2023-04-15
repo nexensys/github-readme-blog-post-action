@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, April 14, 2023 at 12:10:07 PM
+> Last updated: Friday, April 14, 2023 at 6:45:08 PM
 
 > Showing 5 of 12 posts.
 
-[![How to Create a Good Pull Request Template (and Why You Should Add Gifs)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Create_a_Good_Pull_Request_Template_(and_Why_You_Should_Add_Gifs).svg)](https://dev.to/opensauced/how-to-create-a-good-pull-request-template-and-why-you-should-add-gifs-4i0l)
-[![Stripe Connect onboarding with Ruby on Rails](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Stripe_Connect_onboarding_with_Ruby_on_Rails.svg)](https://dev.to/stripe/stripe-connect-onboarding-with-ruby-on-rails-32i4)
-[![Deploying Prometheus and Grafana using Helm in EKS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deploying_Prometheus_and_Grafana_using_Helm_in_EKS.svg)](https://dev.to/arunbingari/deploying-prometheus-and-grafana-using-helm-in-eks-11h2)
-[![Containerizing A NextJs Application For Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Containerizing_A_NextJs_Application_For_Development.svg)](https://dev.to/scaabel/containerizing-a-nextjs-application-for-development-204d)
-[![NoSQL Databases vs Graph Databases: Which one should you use?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/NoSQL_Databases_vs_Graph_Databases__Which_one_should_you_use_.svg)](https://dev.to/documatic/nosql-databases-vs-graph-databases-which-one-should-you-use-4jpg)
+[![Making a custom Guard in Actix Web](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Making_a_custom_Guard_in_Actix_Web.svg)](https://dev.to/roque/making-a-custom-guard-in-actix-web-924)
+[![API Rate Limiting Cheat Sheet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/API_Rate_Limiting_Cheat_Sheet.svg)](https://dev.to/colinmcdermott/api-rate-limiting-cheat-sheet-409f)
+[![How Kyte's Head of Product & Engineering Survived SVB's Collapse & Outsmarted Uber](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_Kyte's_Head_of_Product___Engineering_Survived_SVB's_Collapse___Outsmarted_Uber.svg)](https://dev.to/linearb/how-kytes-head-of-product-engineering-survived-svbs-collapse-outsmarted-uber-21bl)
+[![Creating a Data Validator in PHP: Step-by-Step Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_a_Data_Validator_in_PHP__Step-by-Step_Guide.svg)](https://dev.to/fadymr/creating-a-data-validator-in-php-step-by-step-guide-44mk)
+[![Create and Manage Cryptographically Strong Tokens with Python for Better Web Application Security](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_and_Manage_Cryptographically_Strong_Tokens_with_Python_for_Better_Web_Application_Security.svg)](https://dev.to/devvspaces/create-and-manage-cryptographically-strong-tokens-with-python-for-better-web-application-security-f5i)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, April 14, 2023 at 12:10:10 PM
+> Last updated: Friday, April 14, 2023 at 6:45:12 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, April 14, 2023 at 12:10:12 PM
+> Last updated: Friday, April 14, 2023 at 6:45:15 PM
 
 > Showing 5 of 30 posts.
 
