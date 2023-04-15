@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, April 15, 2023 at 6:14:10 AM
+> Last updated: Saturday, April 15, 2023 at 12:09:39 PM
 
 > Showing 5 of 12 posts.
 
-[![The 10 biggest benefits of blogging to start a blog today](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_10_biggest_benefits_of_blogging_to_start_a_blog_today.svg)](https://dev.to/khalifa_azeez_e726bee7e15/the-10-biggest-benefits-of-blogging-to-start-a-blog-today-1ekj)
-[![Best Game Engines for Beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_Game_Engines_for_Beginners.svg)](https://dev.to/albyabraham/best-game-engines-for-beginners-cfh)
-[![Create Portfolio Website for Beginner 2 Hour](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_Portfolio_Website_for_Beginner_2_Hour.svg)](https://dev.to/kewcoder/create-portfolio-website-for-beginner-4n87)
-[![Supercharge Your JS/TS Project with ClojureScript REPL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Supercharge_Your_JS_TS_Project_with_ClojureScript_REPL.svg)](https://dev.to/reedho/supercharge-your-jsts-project-with-clojurescript-repl-44oa)
-[![Why is UI/UX Design Important?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_is_UI_UX_Design_Important_.svg)](https://dev.to/imsampro/why-is-uiux-design-important-2ag2)
+[![What is django?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_django_.svg)](https://dev.to/yashpatel_py/what-is-django-3i6b)
+[![Campus Party BSB 5 - I went! [EN]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Campus_Party_BSB_5_-_I_went!_[EN].svg)](https://dev.to/noriller/campus-party-bsb-5-i-went-en-37ab)
+[![Campus Party BSB 5 - Eu fui! [PT-BR]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Campus_Party_BSB_5_-_Eu_fui!_[PT-BR].svg)](https://dev.to/noriller/campus-party-bsb-5-eu-fui-pt-br-4dfd)
+[![What happens when you type https://www.google.com in your browser and press Enter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_happens_when_you_type_https___www.google.com_in_your_browser_and_press_Enter.svg)](https://dev.to/brymo/what-happens-when-you-type-httpswwwgooglecom-in-your-browser-and-press-enter-5ehh)
+[![30 Free CSS Loading Animation for your website in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/30_Free_CSS_Loading_Animation_for_your_website_in_2023.svg)](https://dev.to/jon_snow789/30-free-css-loading-animation-for-your-website-in-2023-1j1a)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, April 15, 2023 at 6:14:12 AM
+> Last updated: Saturday, April 15, 2023 at 12:09:43 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, April 15, 2023 at 6:14:14 AM
+> Last updated: Saturday, April 15, 2023 at 12:09:46 PM
 
 > Showing 5 of 30 posts.
 
