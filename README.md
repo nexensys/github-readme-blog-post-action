@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, April 15, 2023 at 12:10:27 AM
+> Last updated: Saturday, April 15, 2023 at 6:14:10 AM
 
 > Showing 5 of 12 posts.
 
-[![Blazor WebAssembly vs. Blazor Server: Which One Should You Choose?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Blazor_WebAssembly_vs._Blazor_Server__Which_One_Should_You_Choose_.svg)](https://dev.to/bhavin9920/blazor-webassembly-vs-blazor-server-which-one-should-you-choose-350d)
-[![How to Optimize Costs in AWS: Best Practices and Strategies](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Optimize_Costs_in_AWS__Best_Practices_and_Strategies.svg)](https://dev.to/prasadkpd/how-to-optimize-costs-in-aws-best-practices-and-strategies-1apn)
-[![AWS for Data Engineering Projects](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_for_Data_Engineering_Projects.svg)](https://dev.to/imsampro/aws-for-data-engineering-projects-c6a)
-[![Building a Static Web Application on Microsoft Azure](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_Static_Web_Application_on_Microsoft_Azure.svg)](https://dev.to/shima/building-a-static-web-application-on-microsoft-azure-9o5)
-[![Probability for Data Science](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Probability_for_Data_Science.svg)](https://dev.to/es404020/probability-for-data-science-244e)
+[![The 10 biggest benefits of blogging to start a blog today](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_10_biggest_benefits_of_blogging_to_start_a_blog_today.svg)](https://dev.to/khalifa_azeez_e726bee7e15/the-10-biggest-benefits-of-blogging-to-start-a-blog-today-1ekj)
+[![Best Game Engines for Beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_Game_Engines_for_Beginners.svg)](https://dev.to/albyabraham/best-game-engines-for-beginners-cfh)
+[![Create Portfolio Website for Beginner 2 Hour](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_Portfolio_Website_for_Beginner_2_Hour.svg)](https://dev.to/kewcoder/create-portfolio-website-for-beginner-4n87)
+[![Supercharge Your JS/TS Project with ClojureScript REPL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Supercharge_Your_JS_TS_Project_with_ClojureScript_REPL.svg)](https://dev.to/reedho/supercharge-your-jsts-project-with-clojurescript-repl-44oa)
+[![Why is UI/UX Design Important?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_is_UI_UX_Design_Important_.svg)](https://dev.to/imsampro/why-is-uiux-design-important-2ag2)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, April 15, 2023 at 12:10:32 AM
+> Last updated: Saturday, April 15, 2023 at 6:14:12 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, April 15, 2023 at 12:10:35 AM
+> Last updated: Saturday, April 15, 2023 at 6:14:14 AM
 
 > Showing 5 of 30 posts.
 
