@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, April 14, 2023 at 6:45:08 PM
+> Last updated: Saturday, April 15, 2023 at 12:10:27 AM
 
 > Showing 5 of 12 posts.
 
-[![Making a custom Guard in Actix Web](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Making_a_custom_Guard_in_Actix_Web.svg)](https://dev.to/roque/making-a-custom-guard-in-actix-web-924)
-[![API Rate Limiting Cheat Sheet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/API_Rate_Limiting_Cheat_Sheet.svg)](https://dev.to/colinmcdermott/api-rate-limiting-cheat-sheet-409f)
-[![How Kyte's Head of Product & Engineering Survived SVB's Collapse & Outsmarted Uber](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_Kyte's_Head_of_Product___Engineering_Survived_SVB's_Collapse___Outsmarted_Uber.svg)](https://dev.to/linearb/how-kytes-head-of-product-engineering-survived-svbs-collapse-outsmarted-uber-21bl)
-[![Creating a Data Validator in PHP: Step-by-Step Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_a_Data_Validator_in_PHP__Step-by-Step_Guide.svg)](https://dev.to/fadymr/creating-a-data-validator-in-php-step-by-step-guide-44mk)
-[![Create and Manage Cryptographically Strong Tokens with Python for Better Web Application Security](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_and_Manage_Cryptographically_Strong_Tokens_with_Python_for_Better_Web_Application_Security.svg)](https://dev.to/devvspaces/create-and-manage-cryptographically-strong-tokens-with-python-for-better-web-application-security-f5i)
+[![Blazor WebAssembly vs. Blazor Server: Which One Should You Choose?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Blazor_WebAssembly_vs._Blazor_Server__Which_One_Should_You_Choose_.svg)](https://dev.to/bhavin9920/blazor-webassembly-vs-blazor-server-which-one-should-you-choose-350d)
+[![How to Optimize Costs in AWS: Best Practices and Strategies](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Optimize_Costs_in_AWS__Best_Practices_and_Strategies.svg)](https://dev.to/prasadkpd/how-to-optimize-costs-in-aws-best-practices-and-strategies-1apn)
+[![AWS for Data Engineering Projects](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_for_Data_Engineering_Projects.svg)](https://dev.to/imsampro/aws-for-data-engineering-projects-c6a)
+[![Building a Static Web Application on Microsoft Azure](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_Static_Web_Application_on_Microsoft_Azure.svg)](https://dev.to/shima/building-a-static-web-application-on-microsoft-azure-9o5)
+[![Probability for Data Science](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Probability_for_Data_Science.svg)](https://dev.to/es404020/probability-for-data-science-244e)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, April 14, 2023 at 6:45:12 PM
+> Last updated: Saturday, April 15, 2023 at 12:10:32 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, April 14, 2023 at 6:45:15 PM
+> Last updated: Saturday, April 15, 2023 at 12:10:35 AM
 
 > Showing 5 of 30 posts.
 
