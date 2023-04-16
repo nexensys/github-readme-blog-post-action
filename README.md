@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, April 16, 2023 at 6:14:14 AM
+> Last updated: Sunday, April 16, 2023 at 12:09:45 PM
 
 > Showing 5 of 12 posts.
 
-[![5 Amazing Project Ideas To Get Hired As A Full-Stack Developer 🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Amazing_Project_Ideas_To_Get_Hired_As_A_Full-Stack_Developer_🔥.svg)](https://dev.to/rammcodes/5-amazing-project-ideas-to-get-hired-as-a-full-stack-developer-5lg)
-[![Code Comparison: React vs Angular](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Code_Comparison__React_vs_Angular.svg)](https://dev.to/shriram27/code-comparison-react-vs-angular-3j3k)
-[![JS - Map & Symbol object](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JS_-_Map___Symbol_object.svg)](https://dev.to/jiiincho/js-map-symbol-object-5b5d)
-[![How to Build a Fully Functional ToDo SaaS Using Next.js and ZenStack's Access Control Policy](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Build_a_Fully_Functional_ToDo_SaaS_Using_Next.js_and_ZenStack's_Access_Control_Policy.svg)](https://dev.to/zenstack/how-to-build-a-fully-functional-todo-saas-using-nextjs-and-zenstacks-access-control-policy-408p)
-[![How to add Github Gist in React Js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_add_Github_Gist_in_React_Js.svg)](https://dev.to/jon_snow789/how-to-add-github-gist-in-react-js-4937)
+[![Por qual linguagem de programação devo começar?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Por_qual_linguagem_de_programação_devo_começar_.svg)](https://dev.to/feministech/por-qual-linguagem-de-programacao-devo-comecar-40fj)
+[![How To Use MVVM in React Using Hooks and TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Use_MVVM_in_React_Using_Hooks_and_TypeScript.svg)](https://dev.to/perssondennis/how-to-use-mvvm-in-react-using-hooks-and-typescript-3o4m)
+[![CSS Text Transform: You Don't Need JavaScript to Capitalize Your Text](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CSS_Text_Transform__You_Don't_Need_JavaScript_to_Capitalize_Your_Text.svg)](https://dev.to/nialljoemaher/css-text-transform-you-dont-need-javascript-to-capitalize-your-text-49io)
+[![Yet Another Newsletter LOL: Groundhog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Yet_Another_Newsletter_LOL__Groundhog.svg)](https://dev.to/nickytonline/yet-another-newsletter-lol-groundhog-11ii)
+[![CSS, The Old](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CSS__The_Old.svg)](https://dev.to/scriptjayt/css-the-old-6dh)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, April 16, 2023 at 6:14:17 AM
+> Last updated: Sunday, April 16, 2023 at 12:09:49 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, April 16, 2023 at 6:14:21 AM
+> Last updated: Sunday, April 16, 2023 at 12:09:52 PM
 
 > Showing 5 of 30 posts.
 
