@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, April 15, 2023 at 12:09:39 PM
+> Last updated: Saturday, April 15, 2023 at 6:45:39 PM
 
 > Showing 5 of 12 posts.
 
-[![What is django?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_django_.svg)](https://dev.to/yashpatel_py/what-is-django-3i6b)
-[![Campus Party BSB 5 - I went! [EN]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Campus_Party_BSB_5_-_I_went!_[EN].svg)](https://dev.to/noriller/campus-party-bsb-5-i-went-en-37ab)
-[![Campus Party BSB 5 - Eu fui! [PT-BR]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Campus_Party_BSB_5_-_Eu_fui!_[PT-BR].svg)](https://dev.to/noriller/campus-party-bsb-5-eu-fui-pt-br-4dfd)
-[![What happens when you type https://www.google.com in your browser and press Enter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_happens_when_you_type_https___www.google.com_in_your_browser_and_press_Enter.svg)](https://dev.to/brymo/what-happens-when-you-type-httpswwwgooglecom-in-your-browser-and-press-enter-5ehh)
-[![30 Free CSS Loading Animation for your website in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/30_Free_CSS_Loading_Animation_for_your_website_in_2023.svg)](https://dev.to/jon_snow789/30-free-css-loading-animation-for-your-website-in-2023-1j1a)
+[![Create a Modern Application with Django and Vue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_a_Modern_Application_with_Django_and_Vue.svg)](https://dev.to/ericnanhu/create-a-modern-application-with-django-and-vue-242j)
+[![API Keys and Beyond: How to Connect Your Laravel Applications with Many Different APIs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/API_Keys_and_Beyond__How_to_Connect_Your_Laravel_Applications_with_Many_Different_APIs.svg)](https://dev.to/sendbiggs2/api-keys-and-beyond-how-to-connect-your-laravel-applications-with-many-different-apis-k1o)
+[![Introducing APIrank.dev algorithm update - a better benchmark of 7000+ Public APIs on the internet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_APIrank.dev_algorithm_update_-_a_better_benchmark_of_7000+_Public_APIs_on_the_internet.svg)](https://dev.to/tristankalos/introducing-apirankdev-algorithm-update-a-better-benchmark-of-7000-public-apis-on-the-internet-3ij6)
+[!["Swipe Left on Looks: Meet Meld - The Dating App that Cares about Your Personality"](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_Swipe_Left_on_Looks__Meet_Meld_-_The_Dating_App_that_Cares_about_Your_Personality_.svg)](https://dev.to/adii9/swipe-left-on-looks-meet-meld-the-dating-app-that-cares-about-your-personality-3n65)
+[![Global CSS Art: Community](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Global_CSS_Art__Community.svg)](https://dev.to/vulcanwm/global-css-art-community-3ajh)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, April 15, 2023 at 12:09:43 PM
+> Last updated: Saturday, April 15, 2023 at 6:45:43 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, April 15, 2023 at 12:09:46 PM
+> Last updated: Saturday, April 15, 2023 at 6:45:46 PM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - ColonelParrot/jscanify: Open-source Javascript mobile document scanner.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ColonelParrot_jscanify__Open-source_Javascript_mobile_document_scanner..svg)](https://github.com/ColonelParrot/jscanify)
 [![Chat Limitations, Rise of LLM’s, Generative UIs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Chat_Limitations__Rise_of_LLM’s__Generative_UIs.svg)](https://microfrontends.substack.com/p/chat-limitations-rise-of-llms-generative)
 [![GitHub - Exact-Realty/routemate: Simple Multi-Runtime JS Router](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Exact-Realty_routemate__Simple_Multi-Runtime_JS_Router.svg)](https://github.com/Exact-Realty/routemate)
 [![How to Authenticate with Next.js and Auth0: A Guide for Every Deployment Model](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Authenticate_with_Next.js_and_Auth0__A_Guide_for_Every_Deployment_Model.svg)](https://auth0.com/blog/ultimate-guide-nextjs-authentication-auth0/)
 [![Obsidian 8.0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Obsidian_8.0.svg)](https://medium.com/@davidmnorman/obsidian-8-0-8b45a3b84668)
-[![billboard.js 3.8 release: inverted x axis!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/billboard.js_3.8_release__inverted_x_axis!.svg)](https://netil.medium.com/billboard-js-3-8-release-inverted-x-axis-9454e35df875)
 
 
 <!-- post-list:end -->
