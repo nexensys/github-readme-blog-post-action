@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, April 15, 2023 at 6:45:39 PM
+> Last updated: Sunday, April 16, 2023 at 12:10:20 AM
 
 > Showing 5 of 12 posts.
 
-[![Create a Modern Application with Django and Vue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_a_Modern_Application_with_Django_and_Vue.svg)](https://dev.to/ericnanhu/create-a-modern-application-with-django-and-vue-242j)
-[![API Keys and Beyond: How to Connect Your Laravel Applications with Many Different APIs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/API_Keys_and_Beyond__How_to_Connect_Your_Laravel_Applications_with_Many_Different_APIs.svg)](https://dev.to/sendbiggs2/api-keys-and-beyond-how-to-connect-your-laravel-applications-with-many-different-apis-k1o)
-[![Introducing APIrank.dev algorithm update - a better benchmark of 7000+ Public APIs on the internet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_APIrank.dev_algorithm_update_-_a_better_benchmark_of_7000+_Public_APIs_on_the_internet.svg)](https://dev.to/tristankalos/introducing-apirankdev-algorithm-update-a-better-benchmark-of-7000-public-apis-on-the-internet-3ij6)
-[!["Swipe Left on Looks: Meet Meld - The Dating App that Cares about Your Personality"](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_Swipe_Left_on_Looks__Meet_Meld_-_The_Dating_App_that_Cares_about_Your_Personality_.svg)](https://dev.to/adii9/swipe-left-on-looks-meet-meld-the-dating-app-that-cares-about-your-personality-3n65)
-[![Global CSS Art: Community](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Global_CSS_Art__Community.svg)](https://dev.to/vulcanwm/global-css-art-community-3ajh)
+[![How does ChatGPT work?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_does_ChatGPT_work_.svg)](https://dev.to/polterguy/how-does-chatgpt-work-3aao)
+[![Add Geo-search to your website/app in just 9 lines of code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Add_Geo-search_to_your_website_app_in_just_9_lines_of_code.svg)](https://dev.to/ruppysuppy/add-geo-search-to-your-websiteapp-in-just-9-lines-of-code-4kp4)
+[![While loop](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/While_loop.svg)](https://dev.to/shoxjaxon2008/while-loop-43pf)
+[![Web Development Beginner's Learning Roadmap- API Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Web_Development_Beginner's_Learning_Roadmap-_API_Development.svg)](https://dev.to/nikkbh/web-development-beginners-learning-roadmap-api-development-2o83)
+[![How to Make Flowcharts with Mermaid.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Make_Flowcharts_with_Mermaid.js.svg)](https://dev.to/integerman/how-to-make-flowcharts-with-mermaidjs-1ooo)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, April 15, 2023 at 6:45:43 PM
+> Last updated: Sunday, April 16, 2023 at 12:10:23 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, April 15, 2023 at 6:45:46 PM
+> Last updated: Sunday, April 16, 2023 at 12:10:25 AM
 
 > Showing 5 of 30 posts.
 
