@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, April 17, 2023 at 6:16:49 AM
+> Last updated: Monday, April 17, 2023 at 12:10:35 PM
 
 > Showing 5 of 12 posts.
 
-[![Getting mwaa-local-runner up on AWS Cloud9](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_mwaa-local-runner_up_on_AWS_Cloud9.svg)](https://dev.to/aws/getting-mwaa-local-runner-up-on-aws-cloud9-1nhd)
-[![Best Practices to protect an RDS MySQL Database ✅](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_Practices_to_protect_an_RDS_MySQL_Database_✅.svg)](https://dev.to/aws-builders/best-practices-to-protect-an-rds-mysql-database-2f95)
-[![C# 12 is Coming! 3 Features that will Blow your Mind](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/C__12_is_Coming!_3_Features_that_will_Blow_your_Mind.svg)](https://dev.to/bytehide/c-12-is-coming-3-features-that-will-blow-your-mind-2o0c)
-[![Fully On-Chain Applications: The Future of Decentralized Computing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Fully_On-Chain_Applications__The_Future_of_Decentralized_Computing.svg)](https://dev.to/galaxiastudios/fully-on-chain-applications-the-future-of-decentralized-computing-e24)
-[![Domain Driven Design using a Monorepo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Domain_Driven_Design_using_a_Monorepo.svg)](https://dev.to/woovi/domain-driven-design-using-a-monorepo-afg)
+[![Advice for Those Learning How to Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Advice_for_Those_Learning_How_to_Code.svg)](https://dev.to/jsquared/advice-for-those-learning-how-to-code-4he5)
+[![Sloan's Top 4 Newbie Memes of the Week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Sloan's_Top_4_Newbie_Memes_of_the_Week.svg)](https://dev.to/codenewbieteam/sloans-top-4-newbie-memes-of-the-week-40ih)
+[![Protecting against Prompt Injection in GPT](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Protecting_against_Prompt_Injection_in_GPT.svg)](https://dev.to/jasny/protecting-against-prompt-injection-in-gpt-1gf8)
+[![🔥 7 Free Resources to Ignite Your Coding Journey!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🔥_7_Free_Resources_to_Ignite_Your_Coding_Journey!.svg)](https://dev.to/jd2r/7-free-resources-to-ignite-your-coding-journey-31di)
+[![Writing Your First Pull Request: Tips, Best Practices, and AI-Powered Tools for Success](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Writing_Your_First_Pull_Request__Tips__Best_Practices__and_AI-Powered_Tools_for_Success.svg)](https://dev.to/opensauced/writing-your-first-pull-request-tips-best-practices-and-ai-powered-tools-for-success-3bg9)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, April 17, 2023 at 6:16:52 AM
+> Last updated: Monday, April 17, 2023 at 12:10:38 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, April 17, 2023 at 6:16:59 AM
+> Last updated: Monday, April 17, 2023 at 12:10:42 PM
 
 > Showing 5 of 30 posts.
 
+[![Introducing the TERN stack and how to migrate from MERN to TERN | Tigris](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Introducing_the_TERN_stack_and_how_to_migrate_from_MERN_to_TERN___Tigris.svg)](https://www.tigrisdata.com/blog/tern-stack/)
 [![4 Ways to Create an Enum in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/4_Ways_to_Create_an_Enum_in_JavaScript.svg)](https://dmitripavlutin.com/javascript-enum/)
 [![How to migrate from Windi utility-first CSS framework to Stylify CSS | Stylify CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_migrate_from_Windi_utility-first_CSS_framework_to_Stylify_CSS___Stylify_CSS.svg)](https://stylifycss.com/docs/migration/windi)
-[![
-Top 200 open-source web3 projects to contribute
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Top_200_open-source_web3_projects_to_contribute_.svg)](
-https://contribute3.com/top-web3-open-source-projects
-)
 [![GitHub - ColonelParrot/jscanify: Open-source Javascript mobile document scanner.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ColonelParrot_jscanify__Open-source_Javascript_mobile_document_scanner..svg)](https://github.com/ColonelParrot/jscanify)
-[![Chat Limitations, Rise of LLM’s, Generative UIs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Chat_Limitations__Rise_of_LLM’s__Generative_UIs.svg)](https://microfrontends.substack.com/p/chat-limitations-rise-of-llms-generative)
+[![GitHub - Exact-Realty/routemate: Simple Multi-Runtime JS Router](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Exact-Realty_routemate__Simple_Multi-Runtime_JS_Router.svg)](https://github.com/Exact-Realty/routemate)
 
 
 <!-- post-list:end -->
