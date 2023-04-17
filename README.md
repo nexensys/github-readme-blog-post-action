@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, April 16, 2023 at 6:44:10 PM
+> Last updated: Monday, April 17, 2023 at 12:11:41 AM
 
 > Showing 5 of 12 posts.
 
-[![gitStream vs Code Owners vs GitHub Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/gitStream_vs_Code_Owners_vs_GitHub_Actions.svg)](https://dev.to/linearb/gitstream-vs-code-owners-vs-github-actions-2j32)
-[![Colaboración Efectiva FrontEnd/BackEnd: Flujo de Trabajo Adecuado y Responsabilidades en el Desarrollo de Aplicaciones Web](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Colaboración_Efectiva_FrontEnd_BackEnd__Flujo_de_Trabajo_Adecuado_y_Responsabilidades_en_el_Desarrollo_de_Aplicaciones_Web.svg)](https://dev.to/dennysjmarquez/colaboracion-efectiva-frontendbackend-flujo-de-trabajo-adecuado-y-responsabilidades-en-el-desarrollo-de-aplicaciones-web-3aeo)
-[![SOAP com TypeScript em pleno 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/SOAP_com_TypeScript_em_pleno_2023.svg)](https://dev.to/marcopollivier/soap-com-typescript-em-pleno-2023-5ako)
-[![Creating Timeline Charts with Mermaid.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_Timeline_Charts_with_Mermaid.js.svg)](https://dev.to/integerman/creating-timeline-charts-with-mermaidjs-2118)
-[![Generating Images from Text with C# and Open AI DALL-E](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Generating_Images_from_Text_with_C__and_Open_AI_DALL-E.svg)](https://dev.to/rmaurodev/generating-images-from-text-with-c-and-open-ai-dall-e-2o7n)
+[![Password Cracking: What is a Rainbow Table Attack and how do I prevent it?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Password_Cracking__What_is_a_Rainbow_Table_Attack_and_how_do_I_prevent_it_.svg)](https://dev.to/jsquared/password-cracking-what-is-a-rainbow-table-attack-and-how-do-i-prevent-it-2676)
+[![Build a Real-time Chat Application with Socket.io and Node.js [With Automated Testing]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_a_Real-time_Chat_Application_with_Socket.io_and_Node.js_[With_Automated_Testing].svg)](https://dev.to/pavanbelagatti/build-a-real-time-chat-application-with-socketio-and-nodejs-with-automated-testing-38h8)
+[![Create A Custom Audio Player Component Using React/Next.js, Tailwind & Howler](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_A_Custom_Audio_Player_Component_Using_React_Next.js__Tailwind___Howler.svg)](https://dev.to/designly/create-a-custom-audio-player-component-using-reactnextjs-tailwind-howler-pgd)
+[![Python Tutorial: Introduction to Python Programming](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Python_Tutorial__Introduction_to_Python_Programming.svg)](https://dev.to/techwithdavid/python-tutorial-introduction-to-python-programming-1i4l)
+[![What is the `new` keyword in JavaScript?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_the_`new`_keyword_in_JavaScript_.svg)](https://dev.to/muhtoyyib/what-is-the-new-keyword-in-javascript-5dn7)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, April 16, 2023 at 6:44:13 PM
+> Last updated: Monday, April 17, 2023 at 12:11:43 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, April 16, 2023 at 6:44:15 PM
+> Last updated: Monday, April 17, 2023 at 12:11:46 AM
 
 > Showing 5 of 30 posts.
 
