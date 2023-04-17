@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, April 17, 2023 at 12:11:41 AM
+> Last updated: Monday, April 17, 2023 at 6:16:49 AM
 
 > Showing 5 of 12 posts.
 
-[![Password Cracking: What is a Rainbow Table Attack and how do I prevent it?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Password_Cracking__What_is_a_Rainbow_Table_Attack_and_how_do_I_prevent_it_.svg)](https://dev.to/jsquared/password-cracking-what-is-a-rainbow-table-attack-and-how-do-i-prevent-it-2676)
-[![Build a Real-time Chat Application with Socket.io and Node.js [With Automated Testing]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_a_Real-time_Chat_Application_with_Socket.io_and_Node.js_[With_Automated_Testing].svg)](https://dev.to/pavanbelagatti/build-a-real-time-chat-application-with-socketio-and-nodejs-with-automated-testing-38h8)
-[![Create A Custom Audio Player Component Using React/Next.js, Tailwind & Howler](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_A_Custom_Audio_Player_Component_Using_React_Next.js__Tailwind___Howler.svg)](https://dev.to/designly/create-a-custom-audio-player-component-using-reactnextjs-tailwind-howler-pgd)
-[![Python Tutorial: Introduction to Python Programming](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Python_Tutorial__Introduction_to_Python_Programming.svg)](https://dev.to/techwithdavid/python-tutorial-introduction-to-python-programming-1i4l)
-[![What is the `new` keyword in JavaScript?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_the_`new`_keyword_in_JavaScript_.svg)](https://dev.to/muhtoyyib/what-is-the-new-keyword-in-javascript-5dn7)
+[![Getting mwaa-local-runner up on AWS Cloud9](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_mwaa-local-runner_up_on_AWS_Cloud9.svg)](https://dev.to/aws/getting-mwaa-local-runner-up-on-aws-cloud9-1nhd)
+[![Best Practices to protect an RDS MySQL Database ✅](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_Practices_to_protect_an_RDS_MySQL_Database_✅.svg)](https://dev.to/aws-builders/best-practices-to-protect-an-rds-mysql-database-2f95)
+[![C# 12 is Coming! 3 Features that will Blow your Mind](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/C__12_is_Coming!_3_Features_that_will_Blow_your_Mind.svg)](https://dev.to/bytehide/c-12-is-coming-3-features-that-will-blow-your-mind-2o0c)
+[![Fully On-Chain Applications: The Future of Decentralized Computing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Fully_On-Chain_Applications__The_Future_of_Decentralized_Computing.svg)](https://dev.to/galaxiastudios/fully-on-chain-applications-the-future-of-decentralized-computing-e24)
+[![Domain Driven Design using a Monorepo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Domain_Driven_Design_using_a_Monorepo.svg)](https://dev.to/woovi/domain-driven-design-using-a-monorepo-afg)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, April 17, 2023 at 12:11:43 AM
+> Last updated: Monday, April 17, 2023 at 6:16:52 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,12 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, April 17, 2023 at 12:11:46 AM
+> Last updated: Monday, April 17, 2023 at 6:16:59 AM
 
 > Showing 5 of 30 posts.
 
+[![4 Ways to Create an Enum in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/4_Ways_to_Create_an_Enum_in_JavaScript.svg)](https://dmitripavlutin.com/javascript-enum/)
+[![How to migrate from Windi utility-first CSS framework to Stylify CSS | Stylify CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_migrate_from_Windi_utility-first_CSS_framework_to_Stylify_CSS___Stylify_CSS.svg)](https://stylifycss.com/docs/migration/windi)
 [![
 Top 200 open-source web3 projects to contribute
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Top_200_open-source_web3_projects_to_contribute_.svg)](
@@ -54,8 +56,6 @@ https://contribute3.com/top-web3-open-source-projects
 )
 [![GitHub - ColonelParrot/jscanify: Open-source Javascript mobile document scanner.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ColonelParrot_jscanify__Open-source_Javascript_mobile_document_scanner..svg)](https://github.com/ColonelParrot/jscanify)
 [![Chat Limitations, Rise of LLM’s, Generative UIs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Chat_Limitations__Rise_of_LLM’s__Generative_UIs.svg)](https://microfrontends.substack.com/p/chat-limitations-rise-of-llms-generative)
-[![GitHub - Exact-Realty/routemate: Simple Multi-Runtime JS Router](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Exact-Realty_routemate__Simple_Multi-Runtime_JS_Router.svg)](https://github.com/Exact-Realty/routemate)
-[![How to Authenticate with Next.js and Auth0: A Guide for Every Deployment Model](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Authenticate_with_Next.js_and_Auth0__A_Guide_for_Every_Deployment_Model.svg)](https://auth0.com/blog/ultimate-guide-nextjs-authentication-auth0/)
 
 
 <!-- post-list:end -->
