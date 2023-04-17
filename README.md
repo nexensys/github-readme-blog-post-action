@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, April 16, 2023 at 12:09:45 PM
+> Last updated: Sunday, April 16, 2023 at 6:44:10 PM
 
 > Showing 5 of 12 posts.
 
-[![Por qual linguagem de programação devo começar?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Por_qual_linguagem_de_programação_devo_começar_.svg)](https://dev.to/feministech/por-qual-linguagem-de-programacao-devo-comecar-40fj)
-[![How To Use MVVM in React Using Hooks and TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Use_MVVM_in_React_Using_Hooks_and_TypeScript.svg)](https://dev.to/perssondennis/how-to-use-mvvm-in-react-using-hooks-and-typescript-3o4m)
-[![CSS Text Transform: You Don't Need JavaScript to Capitalize Your Text](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CSS_Text_Transform__You_Don't_Need_JavaScript_to_Capitalize_Your_Text.svg)](https://dev.to/nialljoemaher/css-text-transform-you-dont-need-javascript-to-capitalize-your-text-49io)
-[![Yet Another Newsletter LOL: Groundhog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Yet_Another_Newsletter_LOL__Groundhog.svg)](https://dev.to/nickytonline/yet-another-newsletter-lol-groundhog-11ii)
-[![CSS, The Old](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CSS__The_Old.svg)](https://dev.to/scriptjayt/css-the-old-6dh)
+[![gitStream vs Code Owners vs GitHub Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/gitStream_vs_Code_Owners_vs_GitHub_Actions.svg)](https://dev.to/linearb/gitstream-vs-code-owners-vs-github-actions-2j32)
+[![Colaboración Efectiva FrontEnd/BackEnd: Flujo de Trabajo Adecuado y Responsabilidades en el Desarrollo de Aplicaciones Web](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Colaboración_Efectiva_FrontEnd_BackEnd__Flujo_de_Trabajo_Adecuado_y_Responsabilidades_en_el_Desarrollo_de_Aplicaciones_Web.svg)](https://dev.to/dennysjmarquez/colaboracion-efectiva-frontendbackend-flujo-de-trabajo-adecuado-y-responsabilidades-en-el-desarrollo-de-aplicaciones-web-3aeo)
+[![SOAP com TypeScript em pleno 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/SOAP_com_TypeScript_em_pleno_2023.svg)](https://dev.to/marcopollivier/soap-com-typescript-em-pleno-2023-5ako)
+[![Creating Timeline Charts with Mermaid.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_Timeline_Charts_with_Mermaid.js.svg)](https://dev.to/integerman/creating-timeline-charts-with-mermaidjs-2118)
+[![Generating Images from Text with C# and Open AI DALL-E](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Generating_Images_from_Text_with_C__and_Open_AI_DALL-E.svg)](https://dev.to/rmaurodev/generating-images-from-text-with-c-and-open-ai-dall-e-2o7n)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, April 16, 2023 at 12:09:49 PM
+> Last updated: Sunday, April 16, 2023 at 6:44:13 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, April 16, 2023 at 12:09:52 PM
+> Last updated: Sunday, April 16, 2023 at 6:44:15 PM
 
 > Showing 5 of 30 posts.
 
+[![
+Top 200 open-source web3 projects to contribute
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Top_200_open-source_web3_projects_to_contribute_.svg)](
+https://contribute3.com/top-web3-open-source-projects
+)
 [![GitHub - ColonelParrot/jscanify: Open-source Javascript mobile document scanner.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ColonelParrot_jscanify__Open-source_Javascript_mobile_document_scanner..svg)](https://github.com/ColonelParrot/jscanify)
 [![Chat Limitations, Rise of LLM’s, Generative UIs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Chat_Limitations__Rise_of_LLM’s__Generative_UIs.svg)](https://microfrontends.substack.com/p/chat-limitations-rise-of-llms-generative)
 [![GitHub - Exact-Realty/routemate: Simple Multi-Runtime JS Router](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Exact-Realty_routemate__Simple_Multi-Runtime_JS_Router.svg)](https://github.com/Exact-Realty/routemate)
 [![How to Authenticate with Next.js and Auth0: A Guide for Every Deployment Model](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Authenticate_with_Next.js_and_Auth0__A_Guide_for_Every_Deployment_Model.svg)](https://auth0.com/blog/ultimate-guide-nextjs-authentication-auth0/)
-[![Obsidian 8.0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Obsidian_8.0.svg)](https://medium.com/@davidmnorman/obsidian-8-0-8b45a3b84668)
 
 
 <!-- post-list:end -->
