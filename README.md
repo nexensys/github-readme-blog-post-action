@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, April 17, 2023 at 6:42:05 PM
+> Last updated: Tuesday, April 18, 2023 at 12:11:29 AM
 
 > Showing 5 of 12 posts.
 
-[![Implementing JWT Authentication and User Profile with Django Rest API Part 3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Implementing_JWT_Authentication_and_User_Profile_with_Django_Rest_API_Part_3.svg)](https://dev.to/ki3ani/implementing-jwt-authentication-and-user-profile-with-django-rest-api-part-3-3dh9)
-[![Sematic + Ray: The Best of Orchestration and Distributed Compute at your Fingertips](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Sematic_+_Ray__The_Best_of_Orchestration_and_Distributed_Compute_at_your_Fingertips.svg)](https://dev.to/sematic/sematic-ray-the-best-of-orchestration-and-distributed-compute-at-your-fingertips-328m)
-[![Best Practices for Writing on DEV: Formatting](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_Practices_for_Writing_on_DEV__Formatting.svg)](https://dev.to/devteam/best-practices-for-writing-on-dev-formatting-5fnc)
-[![Best Practices for Writing on DEV: Creating a Series](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_Practices_for_Writing_on_DEV__Creating_a_Series.svg)](https://dev.to/devteam/best-practices-for-writing-on-dev-creating-a-series-2bgj)
-[![Business Logic Inside Database - How Evil Is It?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Business_Logic_Inside_Database_-_How_Evil_Is_It_.svg)](https://dev.to/zenstack/business-logic-inside-database-how-evil-is-it-1f1f)
+[![Love Mongodb ? Try Tigris db once.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Love_Mongodb___Try_Tigris_db_once..svg)](https://dev.to/raviagheda/love-mongodb-try-tigris-db-once-52pn)
+[![Master the Art of Kubernetes Deployment with AWS and DevOps!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Master_the_Art_of_Kubernetes_Deployment_with_AWS_and_DevOps!.svg)](https://dev.to/imsampro/master-the-art-of-kubernetes-deployment-with-aws-and-devops-2ogo)
+[![Javascript Object #12](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Javascript_Object__12.svg)](https://dev.to/samr/javascript-object-11-2fhj)
+[![Why are relational databases useful🤷🏻‍♂️](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_are_relational_databases_useful🤷🏻‍♂️.svg)](https://dev.to/documatic/why-are-relational-databases-useful-307p)
+[![7 Free Courses to Learn Microsoft Azure Cloud Platform](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/7_Free_Courses_to_Learn_Microsoft_Azure_Cloud_Platform.svg)](https://dev.to/javinpaul/7-free-courses-to-learn-microsoft-azure-cloud-platform-bg4)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, April 17, 2023 at 6:42:08 PM
+> Last updated: Tuesday, April 18, 2023 at 12:11:32 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, April 17, 2023 at 6:42:12 PM
+> Last updated: Tuesday, April 18, 2023 at 12:11:39 AM
 
 > Showing 5 of 30 posts.
 
