@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, April 18, 2023 at 12:11:29 AM
+> Last updated: Tuesday, April 18, 2023 at 6:15:57 AM
 
 > Showing 5 of 12 posts.
 
-[![Love Mongodb ? Try Tigris db once.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Love_Mongodb___Try_Tigris_db_once..svg)](https://dev.to/raviagheda/love-mongodb-try-tigris-db-once-52pn)
-[![Master the Art of Kubernetes Deployment with AWS and DevOps!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Master_the_Art_of_Kubernetes_Deployment_with_AWS_and_DevOps!.svg)](https://dev.to/imsampro/master-the-art-of-kubernetes-deployment-with-aws-and-devops-2ogo)
-[![Javascript Object #12](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Javascript_Object__12.svg)](https://dev.to/samr/javascript-object-11-2fhj)
-[![Why are relational databases useful🤷🏻‍♂️](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_are_relational_databases_useful🤷🏻‍♂️.svg)](https://dev.to/documatic/why-are-relational-databases-useful-307p)
-[![7 Free Courses to Learn Microsoft Azure Cloud Platform](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/7_Free_Courses_to_Learn_Microsoft_Azure_Cloud_Platform.svg)](https://dev.to/javinpaul/7-free-courses-to-learn-microsoft-azure-cloud-platform-bg4)
+[![Supercharge your geolocalized DynamoDB Queries with Z-Order Indexing 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Supercharge_your_geolocalized_DynamoDB_Queries_with_Z-Order_Indexing_🚀.svg)](https://dev.to/kumo/supercharge-your-geolocalized-dynamodb-queries-with-z-order-indexing-2oo8)
+[![Javascript Object #13](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Javascript_Object__13.svg)](https://dev.to/samr/javascript-object-13-1ai9)
+[![Introducing Boost](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_Boost.svg)](https://dev.to/krud/introducing-boost-5om)
+[![Introducing Deepgram Starter Apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_Deepgram_Starter_Apps.svg)](https://dev.to/deepgram/introducing-deepgram-starter-apps-33m5)
+[![How to Bridge the Gap between DevOps and DevRel in Your Organization](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Bridge_the_Gap_between_DevOps_and_DevRel_in_Your_Organization.svg)](https://dev.to/imsampro/how-to-bridge-the-gap-between-devops-and-devrel-in-your-organization-54hf)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, April 18, 2023 at 12:11:32 AM
+> Last updated: Tuesday, April 18, 2023 at 6:16:00 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, April 18, 2023 at 12:11:39 AM
+> Last updated: Tuesday, April 18, 2023 at 6:16:06 AM
 
 > Showing 5 of 30 posts.
 
