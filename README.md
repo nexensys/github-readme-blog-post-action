@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, April 17, 2023 at 12:10:35 PM
+> Last updated: Monday, April 17, 2023 at 6:42:05 PM
 
 > Showing 5 of 12 posts.
 
-[![Advice for Those Learning How to Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Advice_for_Those_Learning_How_to_Code.svg)](https://dev.to/jsquared/advice-for-those-learning-how-to-code-4he5)
-[![Sloan's Top 4 Newbie Memes of the Week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Sloan's_Top_4_Newbie_Memes_of_the_Week.svg)](https://dev.to/codenewbieteam/sloans-top-4-newbie-memes-of-the-week-40ih)
-[![Protecting against Prompt Injection in GPT](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Protecting_against_Prompt_Injection_in_GPT.svg)](https://dev.to/jasny/protecting-against-prompt-injection-in-gpt-1gf8)
-[![🔥 7 Free Resources to Ignite Your Coding Journey!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🔥_7_Free_Resources_to_Ignite_Your_Coding_Journey!.svg)](https://dev.to/jd2r/7-free-resources-to-ignite-your-coding-journey-31di)
-[![Writing Your First Pull Request: Tips, Best Practices, and AI-Powered Tools for Success](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Writing_Your_First_Pull_Request__Tips__Best_Practices__and_AI-Powered_Tools_for_Success.svg)](https://dev.to/opensauced/writing-your-first-pull-request-tips-best-practices-and-ai-powered-tools-for-success-3bg9)
+[![Implementing JWT Authentication and User Profile with Django Rest API Part 3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Implementing_JWT_Authentication_and_User_Profile_with_Django_Rest_API_Part_3.svg)](https://dev.to/ki3ani/implementing-jwt-authentication-and-user-profile-with-django-rest-api-part-3-3dh9)
+[![Sematic + Ray: The Best of Orchestration and Distributed Compute at your Fingertips](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Sematic_+_Ray__The_Best_of_Orchestration_and_Distributed_Compute_at_your_Fingertips.svg)](https://dev.to/sematic/sematic-ray-the-best-of-orchestration-and-distributed-compute-at-your-fingertips-328m)
+[![Best Practices for Writing on DEV: Formatting](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_Practices_for_Writing_on_DEV__Formatting.svg)](https://dev.to/devteam/best-practices-for-writing-on-dev-formatting-5fnc)
+[![Best Practices for Writing on DEV: Creating a Series](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_Practices_for_Writing_on_DEV__Creating_a_Series.svg)](https://dev.to/devteam/best-practices-for-writing-on-dev-creating-a-series-2bgj)
+[![Business Logic Inside Database - How Evil Is It?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Business_Logic_Inside_Database_-_How_Evil_Is_It_.svg)](https://dev.to/zenstack/business-logic-inside-database-how-evil-is-it-1f1f)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, April 17, 2023 at 12:10:38 PM
+> Last updated: Monday, April 17, 2023 at 6:42:08 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, April 17, 2023 at 12:10:42 PM
+> Last updated: Monday, April 17, 2023 at 6:42:12 PM
 
 > Showing 5 of 30 posts.
 
+[![API with NestJS #104. Writing transactions with Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__104._Writing_transactions_with_Prisma.svg)](https://wanago.io/2023/04/17/api-nestjs-prisma-transactions/)
 [![Introducing the TERN stack and how to migrate from MERN to TERN | Tigris](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Introducing_the_TERN_stack_and_how_to_migrate_from_MERN_to_TERN___Tigris.svg)](https://www.tigrisdata.com/blog/tern-stack/)
 [![4 Ways to Create an Enum in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/4_Ways_to_Create_an_Enum_in_JavaScript.svg)](https://dmitripavlutin.com/javascript-enum/)
 [![How to migrate from Windi utility-first CSS framework to Stylify CSS | Stylify CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_migrate_from_Windi_utility-first_CSS_framework_to_Stylify_CSS___Stylify_CSS.svg)](https://stylifycss.com/docs/migration/windi)
 [![GitHub - ColonelParrot/jscanify: Open-source Javascript mobile document scanner.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ColonelParrot_jscanify__Open-source_Javascript_mobile_document_scanner..svg)](https://github.com/ColonelParrot/jscanify)
-[![GitHub - Exact-Realty/routemate: Simple Multi-Runtime JS Router](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Exact-Realty_routemate__Simple_Multi-Runtime_JS_Router.svg)](https://github.com/Exact-Realty/routemate)
 
 
 <!-- post-list:end -->
