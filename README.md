@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, April 18, 2023 at 12:10:28 PM
+> Last updated: Tuesday, April 18, 2023 at 6:45:45 PM
 
 > Showing 5 of 12 posts.
 
-[!["Undefined" in javascript: Amazing Cases.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_Undefined__in_javascript__Amazing_Cases..svg)](https://dev.to/sachink07/undefined-in-javascript-amazing-cases-4gk9)
-[![11 Free Tools to Ignite Your Coding Journey](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/11_Free_Tools_to_Ignite_Your_Coding_Journey.svg)](https://dev.to/jon_snow789/11-free-tools-to-ignite-your-coding-journey-4p4p)
-[![How to visualize timeline of a Wiki article?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_visualize_timeline_of_a_Wiki_article_.svg)](https://dev.to/winkjs/how-to-visualize-timeline-of-a-wiki-article-39jm)
-[![Building a production ready LLM application with BerriAI, PropelAuth, and Next.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_production_ready_LLM_application_with_BerriAI__PropelAuth__and_Next.js.svg)](https://dev.to/propelauth/building-a-production-ready-llm-application-with-berriai-propelauth-and-nextjs-22an)
-[![Challenge: Counting Numbers with 7s](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Challenge__Counting_Numbers_with_7s.svg)](https://dev.to/devteam/challenge-counting-numbers-with-7s-33c7)
+[![How to Dockerize a Spring Boot App with PostgreSQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Dockerize_a_Spring_Boot_App_with_PostgreSQL.svg)](https://dev.to/gassaihamza/how-to-dockerize-a-spring-boot-app-with-postgresql-4ea4)
+[![How to Make a Great Pull Request and Some Other Things I Learned This Week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Make_a_Great_Pull_Request_and_Some_Other_Things_I_Learned_This_Week.svg)](https://dev.to/codenewbieteam/how-to-make-a-great-pull-request-and-some-other-things-i-learned-this-week-50m)
+[![I built an AI-powered code explainer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_built_an_AI-powered_code_explainer.svg)](https://dev.to/tanzirulhuda/i-built-an-ai-powered-code-explainer-3n0o)
+[![Creating a True/False Toggle in React with useState Hook for Beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_a_True_False_Toggle_in_React_with_useState_Hook_for_Beginners.svg)](https://dev.to/michaellarocca/creating-a-truefalse-toggle-in-react-with-usestate-hook-for-beginners-aff)
+[![Why should you learn Crystal?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_should_you_learn_Crystal_.svg)](https://dev.to/guto/why-should-you-learn-crystal-5b77)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, April 18, 2023 at 12:10:31 PM
+> Last updated: Tuesday, April 18, 2023 at 6:45:48 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, April 18, 2023 at 12:10:36 PM
+> Last updated: Tuesday, April 18, 2023 at 6:45:55 PM
 
 > Showing 5 of 30 posts.
 
