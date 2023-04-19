@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, April 18, 2023 at 6:45:45 PM
+> Last updated: Wednesday, April 19, 2023 at 12:12:18 AM
 
 > Showing 5 of 12 posts.
 
-[![How to Dockerize a Spring Boot App with PostgreSQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Dockerize_a_Spring_Boot_App_with_PostgreSQL.svg)](https://dev.to/gassaihamza/how-to-dockerize-a-spring-boot-app-with-postgresql-4ea4)
-[![How to Make a Great Pull Request and Some Other Things I Learned This Week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Make_a_Great_Pull_Request_and_Some_Other_Things_I_Learned_This_Week.svg)](https://dev.to/codenewbieteam/how-to-make-a-great-pull-request-and-some-other-things-i-learned-this-week-50m)
-[![I built an AI-powered code explainer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_built_an_AI-powered_code_explainer.svg)](https://dev.to/tanzirulhuda/i-built-an-ai-powered-code-explainer-3n0o)
-[![Creating a True/False Toggle in React with useState Hook for Beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_a_True_False_Toggle_in_React_with_useState_Hook_for_Beginners.svg)](https://dev.to/michaellarocca/creating-a-truefalse-toggle-in-react-with-usestate-hook-for-beginners-aff)
-[![Why should you learn Crystal?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_should_you_learn_Crystal_.svg)](https://dev.to/guto/why-should-you-learn-crystal-5b77)
+[![Mastering Graph Algorithms for Competitive Programming: From Basics to Advanced Techniques](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_Graph_Algorithms_for_Competitive_Programming__From_Basics_to_Advanced_Techniques.svg)](https://dev.to/rishitashaw/mastering-graph-algorithms-for-competitive-programming-from-basics-to-advanced-techniques-1njn)
+[![The Advantages of Medusa's Composable Architecture for Enterprise E-commerce Solutions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Advantages_of_Medusa's_Composable_Architecture_for_Enterprise_E-commerce_Solutions.svg)](https://dev.to/menard_codes/the-advantages-of-medusas-composable-architecture-for-enterprise-e-commerce-solutions-271n)
+[![Diagramming Finite State Machines with Mermaid.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Diagramming_Finite_State_Machines_with_Mermaid.js.svg)](https://dev.to/integerman/diagramming-finite-state-machines-with-mermaidjs-eab)
+[![GIT Commands Cheat Sheet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/GIT_Commands_Cheat_Sheet.svg)](https://dev.to/pragyanatvade/git-commands-cheat-sheet-5h4i)
+[![Simple Curl & Shell Notebook for AI Image Editing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Simple_Curl___Shell_Notebook_for_AI_Image_Editing.svg)](https://dev.to/sourishkrout/simple-curl-shell-for-ai-image-editing-40pa)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, April 18, 2023 at 6:45:48 PM
+> Last updated: Wednesday, April 19, 2023 at 12:12:22 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, April 18, 2023 at 6:45:55 PM
+> Last updated: Wednesday, April 19, 2023 at 12:12:28 AM
 
 > Showing 5 of 30 posts.
 
