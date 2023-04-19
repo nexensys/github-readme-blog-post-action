@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, April 19, 2023 at 12:12:18 AM
+> Last updated: Wednesday, April 19, 2023 at 6:15:45 AM
 
 > Showing 5 of 12 posts.
 
-[![Mastering Graph Algorithms for Competitive Programming: From Basics to Advanced Techniques](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_Graph_Algorithms_for_Competitive_Programming__From_Basics_to_Advanced_Techniques.svg)](https://dev.to/rishitashaw/mastering-graph-algorithms-for-competitive-programming-from-basics-to-advanced-techniques-1njn)
-[![The Advantages of Medusa's Composable Architecture for Enterprise E-commerce Solutions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Advantages_of_Medusa's_Composable_Architecture_for_Enterprise_E-commerce_Solutions.svg)](https://dev.to/menard_codes/the-advantages-of-medusas-composable-architecture-for-enterprise-e-commerce-solutions-271n)
-[![Diagramming Finite State Machines with Mermaid.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Diagramming_Finite_State_Machines_with_Mermaid.js.svg)](https://dev.to/integerman/diagramming-finite-state-machines-with-mermaidjs-eab)
-[![GIT Commands Cheat Sheet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/GIT_Commands_Cheat_Sheet.svg)](https://dev.to/pragyanatvade/git-commands-cheat-sheet-5h4i)
-[![Simple Curl & Shell Notebook for AI Image Editing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Simple_Curl___Shell_Notebook_for_AI_Image_Editing.svg)](https://dev.to/sourishkrout/simple-curl-shell-for-ai-image-editing-40pa)
+[![Object VS Data Structure : The Fight !](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Object_VS_Data_Structure___The_Fight_!.svg)](https://dev.to/codeoz/object-vs-data-structure-the-fight--k0h)
+[![Top 5 Best Javascript Icons Libraries 🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_5_Best_Javascript_Icons_Libraries_🔥.svg)](https://dev.to/rammcodes/top-5-best-javascript-icons-libraries-6c7)
+[![5 Code Refactoring Techniques to Improve Your Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Code_Refactoring_Techniques_to_Improve_Your_Code.svg)](https://dev.to/documatic/5-code-refactoring-techniques-to-improve-your-code-2lia)
+[![Investing in Developer Experience Could Be The Best Growth Hack for Your Business](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Investing_in_Developer_Experience_Could_Be_The_Best_Growth_Hack_for_Your_Business.svg)](https://dev.to/vue-storefront/investing-in-developer-experience-could-be-the-best-growth-hack-for-your-business-fnn)
+[![TypeScript Type Negation: How to Forbid Certain Properties](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/TypeScript_Type_Negation__How_to_Forbid_Certain_Properties.svg)](https://dev.to/zirkelc/typescript-type-negation-how-to-forbid-certain-properties-42d9)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, April 19, 2023 at 12:12:22 AM
+> Last updated: Wednesday, April 19, 2023 at 6:15:49 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, April 19, 2023 at 12:12:28 AM
+> Last updated: Wednesday, April 19, 2023 at 6:15:54 AM
 
 > Showing 5 of 30 posts.
 
