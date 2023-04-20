@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, April 20, 2023 at 12:11:07 AM
+> Last updated: Thursday, April 20, 2023 at 6:15:48 AM
 
 > Showing 5 of 12 posts.
 
-[![Como criar um Servidor Web Java Sem Framework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Como_criar_um_Servidor_Web_Java_Sem_Framework.svg)](https://dev.to/diogoizele/como-criar-um-servidor-web-java-sem-framework-21d6)
-[![CodeNewbies! Help Us Create Your Community](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CodeNewbies!_Help_Us_Create_Your_Community.svg)](https://dev.to/codenewbieteam/how-can-we-create-the-best-community-for-codenewbies-4l3i)
-[![How to set up routing in Angular to create single-page applications](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_set_up_routing_in_Angular_to_create_single-page_applications.svg)](https://dev.to/codev206/how-to-set-up-routing-in-angular-to-create-single-page-applications-4ch2)
-[![Service Objects in Ruby on Rails: Best Practices for Clean and Maintainable Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Service_Objects_in_Ruby_on_Rails__Best_Practices_for_Clean_and_Maintainable_Code.svg)](https://dev.to/paulmarclay/service-objects-in-ruby-on-rails-best-practices-for-clean-and-maintainable-code-2odk)
-[![DROP IF EXISTS & CREATE IF NOT EXISTS in Oracle, MySQL, MariaDB, PostgreSQL, YugabyteDB](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/DROP_IF_EXISTS___CREATE_IF_NOT_EXISTS_in_Oracle__MySQL__MariaDB__PostgreSQL__YugabyteDB.svg)](https://dev.to/aws-heroes/drop-if-exists-create-if-not-exists-in-oracle-mysql-mariadb-postgresql-yugabytedb-pb1)
+[![The key things you need to successfully break into tech.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_key_things_you_need_to_successfully_break_into_tech..svg)](https://dev.to/chidiebereomasi/the-key-things-you-need-to-successfully-break-into-tech-5gjp)
+[![Pipeline strategies for a mono-repo – experiences with our Football Match Center projects in CodeCatalyst](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Pipeline_strategies_for_a_mono-repo_–_experiences_with_our_Football_Match_Center_projects_in_CodeCatalyst.svg)](https://dev.to/aws-builders/pipeline-strategies-for-a-mono-repo-experiences-with-our-football-match-center-projects-in-codecatalyst-4ain)
+[![Fetching Data Made Easy with RTK Query: A Comprehensive Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Fetching_Data_Made_Easy_with_RTK_Query__A_Comprehensive_Guide.svg)](https://dev.to/haszankauna/fetching-data-made-easy-with-rtk-query-a-comprehensive-guide-3k1k)
+[!['useEffect' in depth](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/'useEffect'_in_depth.svg)](https://dev.to/lausuarez02/useeffect-in-depth-30hp)
+[![5 topics you should touch on during the recruitment process](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_topics_you_should_touch_on_during_the_recruitment_process.svg)](https://dev.to/emphie/5-topics-you-should-touch-on-during-the-recruitment-process-3hgh)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, April 20, 2023 at 12:11:11 AM
+> Last updated: Thursday, April 20, 2023 at 6:15:50 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, April 20, 2023 at 12:11:17 AM
+> Last updated: Thursday, April 20, 2023 at 6:15:55 AM
 
 > Showing 5 of 30 posts.
 
