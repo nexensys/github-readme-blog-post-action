@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, April 20, 2023 at 6:15:48 AM
+> Last updated: Thursday, April 20, 2023 at 12:10:02 PM
 
 > Showing 5 of 12 posts.
 
-[![The key things you need to successfully break into tech.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_key_things_you_need_to_successfully_break_into_tech..svg)](https://dev.to/chidiebereomasi/the-key-things-you-need-to-successfully-break-into-tech-5gjp)
-[![Pipeline strategies for a mono-repo – experiences with our Football Match Center projects in CodeCatalyst](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Pipeline_strategies_for_a_mono-repo_–_experiences_with_our_Football_Match_Center_projects_in_CodeCatalyst.svg)](https://dev.to/aws-builders/pipeline-strategies-for-a-mono-repo-experiences-with-our-football-match-center-projects-in-codecatalyst-4ain)
-[![Fetching Data Made Easy with RTK Query: A Comprehensive Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Fetching_Data_Made_Easy_with_RTK_Query__A_Comprehensive_Guide.svg)](https://dev.to/haszankauna/fetching-data-made-easy-with-rtk-query-a-comprehensive-guide-3k1k)
-[!['useEffect' in depth](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/'useEffect'_in_depth.svg)](https://dev.to/lausuarez02/useeffect-in-depth-30hp)
-[![5 topics you should touch on during the recruitment process](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_topics_you_should_touch_on_during_the_recruitment_process.svg)](https://dev.to/emphie/5-topics-you-should-touch-on-during-the-recruitment-process-3hgh)
+[![Tags Input with Autocomplete using jQuery and PHP](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tags_Input_with_Autocomplete_using_jQuery_and_PHP.svg)](https://dev.to/mrcrystal/tags-input-with-autocomplete-using-jquery-and-php-cch)
+[![Is AI Friend or Foe? Shocking Statistics Reveal that Impact on Jobs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Is_AI_Friend_or_Foe__Shocking_Statistics_Reveal_that_Impact_on_Jobs.svg)](https://dev.to/scofieldidehen/is-ai-friend-or-foe-shocking-statistics-reveal-that-impact-on-jobs-14pd)
+[![Maximize your Angular code reusability using <NgTemplateOutlet>](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Maximize_your_Angular_code_reusability_using__NgTemplateOutlet_.svg)](https://dev.to/this-is-angular/maximize-your-angular-code-reusability-using-1hf0)
+[![Scrum Master Start?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Scrum_Master_Start_.svg)](https://dev.to/devarzia/scrum-master-start-1b5b)
+[![Intro To ElectronJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Intro_To_ElectronJS.svg)](https://dev.to/itsbrotherdan/intro-to-electronjs-nne)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, April 20, 2023 at 6:15:50 AM
+> Last updated: Thursday, April 20, 2023 at 12:10:05 PM
 
 > Showing 4 of 4 posts.
 
+[![On the origin of packages](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/On_the_origin_of_packages.svg)](https://javascriptweekly.com/issues/635)
 [![The return of ECMAScript 2023 (and Angular)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/The_return_of_ECMAScript_2023_(and_Angular).svg)](https://javascriptweekly.com/issues/634)
 [![JavaScript on your schedule](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/JavaScript_on_your_schedule.svg)](https://javascriptweekly.com/issues/633)
 [![Import maps go universal](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Import_maps_go_universal.svg)](https://javascriptweekly.com/issues/632)
-[![Playwright now offers a UI mode](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Playwright_now_offers_a_UI_mode.svg)](https://javascriptweekly.com/issues/631)
 
 
 ## Echo JS
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, April 20, 2023 at 6:15:55 AM
+> Last updated: Thursday, April 20, 2023 at 12:12:21 PM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - oslabs-beta/CloudShift: A tool for securely migrating object storage data between cloud providers.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_oslabs-beta_CloudShift__A_tool_for_securely_migrating_object_storage_data_between_cloud_providers..svg)](https://github.com/oslabs-beta/CloudShift)
 [![npm Registry Code Signing - Socket](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/npm_Registry_Code_Signing_-_Socket.svg)](https://socket.dev/blog/npm-provenance)
 [![Using Sandpack for React Libraries Documentation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_Sandpack_for_React_Libraries_Documentation.svg)](https://codesandbox.io/blog/using-sandpack-for-react-libraries-documentation)
 [![
@@ -55,7 +56,6 @@ How to Upload Images and Videos to Cloudinary in Your Node.js Application: Step-
 https://urlis.net/6870rex4
 )
 [![API with NestJS #104. Writing transactions with Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__104._Writing_transactions_with_Prisma.svg)](https://wanago.io/2023/04/17/api-nestjs-prisma-transactions/)
-[![Introducing the TERN stack and how to migrate from MERN to TERN | Tigris](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Introducing_the_TERN_stack_and_how_to_migrate_from_MERN_to_TERN___Tigris.svg)](https://www.tigrisdata.com/blog/tern-stack/)
 
 
 <!-- post-list:end -->
