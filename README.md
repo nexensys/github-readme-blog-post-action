@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, April 19, 2023 at 12:10:37 PM
+> Last updated: Wednesday, April 19, 2023 at 6:42:26 PM
 
 > Showing 5 of 12 posts.
 
-[![Welcome Thread - v221](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Welcome_Thread_-_v221.svg)](https://dev.to/sloan/welcome-thread-v221-2bol)
-[![HelloNewbie - v1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/HelloNewbie_-_v1.svg)](https://dev.to/codenewbieteam/hellonewbie-v1-1bol)
-[![REST vs. gRPC - What’s the Difference?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/REST_vs._gRPC_-_What’s_the_Difference_.svg)](https://dev.to/amplication/rest-vs-grpc-whats-the-difference-3no0)
-[![Essential Senior Front End Developer Skills](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Essential_Senior_Front_End_Developer_Skills.svg)](https://dev.to/makemychance/essential-senior-front-end-developer-skills-3be7)
-[![AI Generated Images of rich as poor](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AI_Generated_Images_of_rich_as_poor.svg)](https://dev.to/jon_snow789/ai-generated-images-of-rich-as-poor-1i32)
+[![CodeNewbies! Help Us Create Your Community](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CodeNewbies!_Help_Us_Create_Your_Community.svg)](https://dev.to/codenewbieteam/how-can-we-create-the-best-community-for-codenewbies-4l3i)
+[![Test-Driven Daydreams](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Test-Driven_Daydreams.svg)](https://dev.to/bytebodger/test-driven-daydreams-297g)
+[![Introduction to Web Animations with GSAP](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_to_Web_Animations_with_GSAP.svg)](https://dev.to/topboyasante/introduction-to-web-animations-with-gsap-645)
+[![I moved to indieweb.social 👋🏻](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_moved_to_indieweb.social_👋🏻.svg)](https://dev.to/erinposting/i-moved-to-indiewebsocial-36io)
+[![The Core Pillars of a Digital Creators Community](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Core_Pillars_of_a_Digital_Creators_Community.svg)](https://dev.to/ytskk/the-core-pillars-of-a-digital-creators-community-4doh)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, April 19, 2023 at 12:10:40 PM
+> Last updated: Wednesday, April 19, 2023 at 6:42:29 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, April 19, 2023 at 12:10:44 PM
+> Last updated: Wednesday, April 19, 2023 at 6:42:34 PM
 
 > Showing 5 of 30 posts.
 
