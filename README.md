@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, April 21, 2023 at 6:15:08 AM
+> Last updated: Friday, April 21, 2023 at 12:10:15 PM
 
 > Showing 5 of 12 posts.
 
-[![Build a Web3 Ticketing System with NFTs and Disrupt Ticketmaster](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_a_Web3_Ticketing_System_with_NFTs_and_Disrupt_Ticketmaster.svg)](https://dev.to/mbogan/build-a-web3-ticketing-system-with-nfts-and-disrupt-ticketmaster-4g90)
-[![Exploring Next.js Routing: Updates in v13.0.0"](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exploring_Next.js_Routing__Updates_in_v13.0.0_.svg)](https://dev.to/haszankauna/exploring-nextjs-routing-updates-in-v1300-29jm)
-[![Setup MongoDB replica set locally in docker or with Atlas for Prisma ORM](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Setup_MongoDB_replica_set_locally_in_docker_or_with_Atlas_for_Prisma_ORM.svg)](https://dev.to/renzhamin/setup-mongodb-replica-set-locally-in-docker-or-with-atlas-for-prisma-orm-54gp)
-[![Hoppscotch Releases: SemVer to CalVer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Hoppscotch_Releases__SemVer_to_CalVer.svg)](https://dev.to/liyasthomas/hoppscotch-releases-semver-to-calver-1ajm)
-[![Next.js fundamentals](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Next.js_fundamentals.svg)](https://dev.to/hassanhabibtahir/nextjs-fundamentals-19ho)
+[![Staying Hydrated with JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Staying_Hydrated_with_JavaScript.svg)](https://dev.to/mstelz/staying-hydrated-with-javascript-30gm)
+[![How We Converted a GitHub Tool Into a General Purpose Webhook Proxy to Supercharge Our Integration Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_We_Converted_a_GitHub_Tool_Into_a_General_Purpose_Webhook_Proxy_to_Supercharge_Our_Integration_Development.svg)](https://dev.to/arnica/how-we-converted-a-github-tool-into-a-general-purpose-webhook-proxy-to-supercharge-our-integration-development-3ic)
+[![Who's looking for open source contributors? (week 38)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Who's_looking_for_open_source_contributors__(week_38).svg)](https://dev.to/opensauced/whos-looking-for-open-source-contributors-week-38-16e9)
+[![Connect Modbus Serial Sensor XY-MD02 to n3uron IIoT platform with balena](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Connect_Modbus_Serial_Sensor_XY-MD02_to_n3uron_IIoT_platform_with_balena.svg)](https://dev.to/mpous/connect-modbus-serial-sensor-xy-md02-to-n3uron-iiot-platform-with-balena-40e4)
+[![💡Imagine Svelte with Virtual DOM: A Vision for the Future of Web Frameworks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/💡Imagine_Svelte_with_Virtual_DOM__A_Vision_for_the_Future_of_Web_Frameworks.svg)](https://dev.to/rajaniraiyn/imagine-svelte-with-virtual-dom-a-vision-for-the-future-of-web-frameworks-247h)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, April 21, 2023 at 6:15:11 AM
+> Last updated: Friday, April 21, 2023 at 12:10:17 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, April 21, 2023 at 6:15:15 AM
+> Last updated: Friday, April 21, 2023 at 12:10:21 PM
 
 > Showing 5 of 30 posts.
 
+[![How to Write Comments in React: The Good, the Bad and the Ugly](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Write_Comments_in_React__The_Good__the_Bad_and_the_Ugly.svg)](https://dmitripavlutin.com/react-comments/)
 [![
 Introducing React Server: A New Framework for Component-Driven Backend Development
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Introducing_React_Server__A_New_Framework_for_Component-Driven_Backend_Development_.svg)](
@@ -55,7 +56,6 @@ https://state-less.cloud
 [![Building Resilient React Apps - eddywashere.com](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_Resilient_React_Apps_-_eddywashere.com.svg)](https://eddywashere.com/blog/building-resilient-react-apps/)
 [![GitHub - oslabs-beta/CloudShift: A tool for securely migrating object storage data between cloud providers.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_oslabs-beta_CloudShift__A_tool_for_securely_migrating_object_storage_data_between_cloud_providers..svg)](https://github.com/oslabs-beta/CloudShift)
 [![npm Registry Code Signing - Socket](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/npm_Registry_Code_Signing_-_Socket.svg)](https://socket.dev/blog/npm-provenance)
-[![Using Sandpack for React Libraries Documentation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_Sandpack_for_React_Libraries_Documentation.svg)](https://codesandbox.io/blog/using-sandpack-for-react-libraries-documentation)
 
 
 <!-- post-list:end -->
