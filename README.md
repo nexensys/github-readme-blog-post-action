@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, April 20, 2023 at 6:42:42 PM
+> Last updated: Friday, April 21, 2023 at 12:11:36 AM
 
 > Showing 5 of 12 posts.
 
-[![Introduction to JavaScript classes: basics, syntax and example usage](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_to_JavaScript_classes__basics__syntax_and_example_usage.svg)](https://dev.to/bolajibolajoko51/introduction-to-javascript-classes-basics-syntax-and-example-usage-1734)
-[![Link headers pagination in Flutter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Link_headers_pagination_in_Flutter.svg)](https://dev.to/frezyx/link-headers-pagination-in-flutter-kcd)
-[![4 Engineering Leadership Screw-Ups by the Best in the Business (And What We Learned From Them)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/4_Engineering_Leadership_Screw-Ups_by_the_Best_in_the_Business_(And_What_We_Learned_From_Them).svg)](https://dev.to/linearb/4-engineering-leadership-screw-ups-by-the-best-in-the-business-and-what-we-learned-from-them-3fo0)
-[![Saving Instagram images automatically every hour with Node.js or PHP](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Saving_Instagram_images_automatically_every_hour_with_Node.js_or_PHP.svg)](https://dev.to/orsifrancesco/saving-instagram-images-automatically-every-hour-with-nodejs-or-php-3ppe)
-[![Weekly Challenge #7 - To-do App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Weekly_Challenge__7_-_To-do_App.svg)](https://dev.to/codenewbieteam/weekly-challenge-7-to-do-app-1hni)
+[![Streamline Your TODOs with TODO Notifier for Python projects](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Streamline_Your_TODOs_with_TODO_Notifier_for_Python_projects.svg)](https://dev.to/atkumar/streamline-your-todos-with-todo-notifier-for-python-projects-5fpe)
+[![Mafia 1: User Authentication](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mafia_1__User_Authentication.svg)](https://dev.to/jacksonb/mafia-1-user-authentication-2m5d)
+[![How to Lazy and Dynamically Load a Component in Angular](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Lazy_and_Dynamically_Load_a_Component_in_Angular.svg)](https://dev.to/debug_mode/how-to-lazy-and-dynamically-load-a-component-in-angular-18ke)
+[![My Favorite Free Courses to Learn Docker and Containers in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_Favorite_Free_Courses_to_Learn_Docker_and_Containers_in_2023.svg)](https://dev.to/javinpaul/my-favorite-free-courses-to-learn-docker-and-containers-in-2023-1ldo)
+[![A flexible Node.js multifunctional crawler library —— x-crawl](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_flexible_Node.js_multifunctional_crawler_library_——_x-crawl.svg)](https://dev.to/coderhxl/a-flexible-nodejs-multifunctional-crawler-library-x-crawl-3ja7)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, April 20, 2023 at 6:42:46 PM
+> Last updated: Friday, April 21, 2023 at 12:11:40 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, April 20, 2023 at 6:42:53 PM
+> Last updated: Friday, April 21, 2023 at 12:11:44 AM
 
 > Showing 5 of 30 posts.
 
+[![Building Resilient React Apps - eddywashere.com](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_Resilient_React_Apps_-_eddywashere.com.svg)](https://eddywashere.com/blog/building-resilient-react-apps/)
 [![GitHub - oslabs-beta/CloudShift: A tool for securely migrating object storage data between cloud providers.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_oslabs-beta_CloudShift__A_tool_for_securely_migrating_object_storage_data_between_cloud_providers..svg)](https://github.com/oslabs-beta/CloudShift)
 [![npm Registry Code Signing - Socket](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/npm_Registry_Code_Signing_-_Socket.svg)](https://socket.dev/blog/npm-provenance)
 [![Using Sandpack for React Libraries Documentation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_Sandpack_for_React_Libraries_Documentation.svg)](https://codesandbox.io/blog/using-sandpack-for-react-libraries-documentation)
@@ -55,7 +56,6 @@ How to Upload Images and Videos to Cloudinary in Your Node.js Application: Step-
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_How_to_Upload_Images_and_Videos_to_Cloudinary_in_Your_Node.js_Application__Step-by-Step_Tutorial_.svg)](
 https://urlis.net/6870rex4
 )
-[![API with NestJS #104. Writing transactions with Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__104._Writing_transactions_with_Prisma.svg)](https://wanago.io/2023/04/17/api-nestjs-prisma-transactions/)
 
 
 <!-- post-list:end -->
