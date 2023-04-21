@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, April 20, 2023 at 12:10:02 PM
+> Last updated: Thursday, April 20, 2023 at 6:42:42 PM
 
 > Showing 5 of 12 posts.
 
-[![Tags Input with Autocomplete using jQuery and PHP](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tags_Input_with_Autocomplete_using_jQuery_and_PHP.svg)](https://dev.to/mrcrystal/tags-input-with-autocomplete-using-jquery-and-php-cch)
-[![Is AI Friend or Foe? Shocking Statistics Reveal that Impact on Jobs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Is_AI_Friend_or_Foe__Shocking_Statistics_Reveal_that_Impact_on_Jobs.svg)](https://dev.to/scofieldidehen/is-ai-friend-or-foe-shocking-statistics-reveal-that-impact-on-jobs-14pd)
-[![Maximize your Angular code reusability using <NgTemplateOutlet>](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Maximize_your_Angular_code_reusability_using__NgTemplateOutlet_.svg)](https://dev.to/this-is-angular/maximize-your-angular-code-reusability-using-1hf0)
-[![Scrum Master Start?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Scrum_Master_Start_.svg)](https://dev.to/devarzia/scrum-master-start-1b5b)
-[![Intro To ElectronJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Intro_To_ElectronJS.svg)](https://dev.to/itsbrotherdan/intro-to-electronjs-nne)
+[![Introduction to JavaScript classes: basics, syntax and example usage](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_to_JavaScript_classes__basics__syntax_and_example_usage.svg)](https://dev.to/bolajibolajoko51/introduction-to-javascript-classes-basics-syntax-and-example-usage-1734)
+[![Link headers pagination in Flutter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Link_headers_pagination_in_Flutter.svg)](https://dev.to/frezyx/link-headers-pagination-in-flutter-kcd)
+[![4 Engineering Leadership Screw-Ups by the Best in the Business (And What We Learned From Them)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/4_Engineering_Leadership_Screw-Ups_by_the_Best_in_the_Business_(And_What_We_Learned_From_Them).svg)](https://dev.to/linearb/4-engineering-leadership-screw-ups-by-the-best-in-the-business-and-what-we-learned-from-them-3fo0)
+[![Saving Instagram images automatically every hour with Node.js or PHP](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Saving_Instagram_images_automatically_every_hour_with_Node.js_or_PHP.svg)](https://dev.to/orsifrancesco/saving-instagram-images-automatically-every-hour-with-nodejs-or-php-3ppe)
+[![Weekly Challenge #7 - To-do App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Weekly_Challenge__7_-_To-do_App.svg)](https://dev.to/codenewbieteam/weekly-challenge-7-to-do-app-1hni)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, April 20, 2023 at 12:10:05 PM
+> Last updated: Thursday, April 20, 2023 at 6:42:46 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, April 20, 2023 at 12:12:21 PM
+> Last updated: Thursday, April 20, 2023 at 6:42:53 PM
 
 > Showing 5 of 30 posts.
 
