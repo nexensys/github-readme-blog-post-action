@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, April 21, 2023 at 12:10:15 PM
+> Last updated: Friday, April 21, 2023 at 6:42:35 PM
 
 > Showing 5 of 12 posts.
 
-[![Staying Hydrated with JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Staying_Hydrated_with_JavaScript.svg)](https://dev.to/mstelz/staying-hydrated-with-javascript-30gm)
-[![How We Converted a GitHub Tool Into a General Purpose Webhook Proxy to Supercharge Our Integration Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_We_Converted_a_GitHub_Tool_Into_a_General_Purpose_Webhook_Proxy_to_Supercharge_Our_Integration_Development.svg)](https://dev.to/arnica/how-we-converted-a-github-tool-into-a-general-purpose-webhook-proxy-to-supercharge-our-integration-development-3ic)
-[![Who's looking for open source contributors? (week 38)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Who's_looking_for_open_source_contributors__(week_38).svg)](https://dev.to/opensauced/whos-looking-for-open-source-contributors-week-38-16e9)
-[![Connect Modbus Serial Sensor XY-MD02 to n3uron IIoT platform with balena](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Connect_Modbus_Serial_Sensor_XY-MD02_to_n3uron_IIoT_platform_with_balena.svg)](https://dev.to/mpous/connect-modbus-serial-sensor-xy-md02-to-n3uron-iiot-platform-with-balena-40e4)
-[![💡Imagine Svelte with Virtual DOM: A Vision for the Future of Web Frameworks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/💡Imagine_Svelte_with_Virtual_DOM__A_Vision_for_the_Future_of_Web_Frameworks.svg)](https://dev.to/rajaniraiyn/imagine-svelte-with-virtual-dom-a-vision-for-the-future-of-web-frameworks-247h)
+[![How to save money on AWS Transfer Family(SFTP) Server- Non-Production use](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_save_money_on_AWS_Transfer_Family(SFTP)_Server-_Non-Production_use.svg)](https://dev.to/awsmantra/how-to-save-money-on-aws-transfer-familysftp-server-non-production-use-1laf)
+[![Operadores básicos en RXJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Operadores_básicos_en_RXJS.svg)](https://dev.to/alexcordobainc/operadores-basicos-en-rxjs-170k)
+[![REST API Key Concepts and Requirements](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/REST_API_Key_Concepts_and_Requirements.svg)](https://dev.to/colinmcdermott/rest-api-key-concepts-and-requirements-j99)
+[![Coding Your Dreams into Reality: Lessons from an Engineer turned Entrepreneur](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Coding_Your_Dreams_into_Reality__Lessons_from_an_Engineer_turned_Entrepreneur.svg)](https://dev.to/linearb/coding-your-dreams-into-reality-lessons-from-an-engineer-turned-entrepreneur-30i3)
+[![The Complete Guide to Grokking the API Design Interview](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Complete_Guide_to_Grokking_the_API_Design_Interview.svg)](https://dev.to/educative/the-complete-guide-to-grokking-the-api-design-interview-5h66)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, April 21, 2023 at 12:10:17 PM
+> Last updated: Friday, April 21, 2023 at 6:42:37 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,13 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, April 21, 2023 at 12:10:21 PM
+> Last updated: Friday, April 21, 2023 at 6:42:40 PM
 
 > Showing 5 of 30 posts.
 
+[![The callsFake() Function in Sinon](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_callsFake()_Function_in_Sinon.svg)](
+https://masteringjs.io/tutorials/sinon/callsfake
+)
 [![How to Write Comments in React: The Good, the Bad and the Ugly](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Write_Comments_in_React__The_Good__the_Bad_and_the_Ugly.svg)](https://dmitripavlutin.com/react-comments/)
 [![
 Introducing React Server: A New Framework for Component-Driven Backend Development
@@ -55,7 +58,6 @@ https://state-less.cloud
 )
 [![Building Resilient React Apps - eddywashere.com](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_Resilient_React_Apps_-_eddywashere.com.svg)](https://eddywashere.com/blog/building-resilient-react-apps/)
 [![GitHub - oslabs-beta/CloudShift: A tool for securely migrating object storage data between cloud providers.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_oslabs-beta_CloudShift__A_tool_for_securely_migrating_object_storage_data_between_cloud_providers..svg)](https://github.com/oslabs-beta/CloudShift)
-[![npm Registry Code Signing - Socket](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/npm_Registry_Code_Signing_-_Socket.svg)](https://socket.dev/blog/npm-provenance)
 
 
 <!-- post-list:end -->
