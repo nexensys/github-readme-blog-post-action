@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, April 21, 2023 at 6:42:35 PM
+> Last updated: Saturday, April 22, 2023 at 12:10:20 AM
 
 > Showing 5 of 12 posts.
 
-[![How to save money on AWS Transfer Family(SFTP) Server- Non-Production use](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_save_money_on_AWS_Transfer_Family(SFTP)_Server-_Non-Production_use.svg)](https://dev.to/awsmantra/how-to-save-money-on-aws-transfer-familysftp-server-non-production-use-1laf)
-[![Operadores básicos en RXJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Operadores_básicos_en_RXJS.svg)](https://dev.to/alexcordobainc/operadores-basicos-en-rxjs-170k)
-[![REST API Key Concepts and Requirements](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/REST_API_Key_Concepts_and_Requirements.svg)](https://dev.to/colinmcdermott/rest-api-key-concepts-and-requirements-j99)
-[![Coding Your Dreams into Reality: Lessons from an Engineer turned Entrepreneur](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Coding_Your_Dreams_into_Reality__Lessons_from_an_Engineer_turned_Entrepreneur.svg)](https://dev.to/linearb/coding-your-dreams-into-reality-lessons-from-an-engineer-turned-entrepreneur-30i3)
-[![The Complete Guide to Grokking the API Design Interview](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Complete_Guide_to_Grokking_the_API_Design_Interview.svg)](https://dev.to/educative/the-complete-guide-to-grokking-the-api-design-interview-5h66)
+[![How to slugify a string in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_slugify_a_string_in_JavaScript.svg)](https://dev.to/bybydev/how-to-slugify-a-string-in-javascript-4o9n)
+[![607. Sales Person leetcode solution](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/607._Sales_Person_leetcode_solution.svg)](https://dev.to/realnamehidden1_61/607-sales-person-leetcode-solution-49pn)
+[![I made a VSCode extension: "markdown-table-rainbow"](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_made_a_VSCode_extension___markdown-table-rainbow_.svg)](https://dev.to/yoshi389111/i-made-a-vscode-extension-markdown-table-rainbow-4l27)
+[![Python V.S. Javascript: Which is Better for Webscraping?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Python_V.S._Javascript__Which_is_Better_for_Webscraping_.svg)](https://dev.to/jsquared/python-vs-javascript-which-is-better-for-webscraping-1dh0)
+[![Spice Up Your Website with These Color-Related Functions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Spice_Up_Your_Website_with_These_Color-Related_Functions.svg)](https://dev.to/streetcommunityprogrammer/spice-up-your-website-with-these-color-related-functions-2e6j)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, April 21, 2023 at 6:42:37 PM
+> Last updated: Saturday, April 22, 2023 at 12:10:22 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, April 21, 2023 at 6:42:40 PM
+> Last updated: Saturday, April 22, 2023 at 12:10:25 AM
 
 > Showing 5 of 30 posts.
 
+[![The 5 Easiest to Learn Programming Languages to Learn in 2023 - FrontNet Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_5_Easiest_to_Learn_Programming_Languages_to_Learn_in_2023_-_FrontNet_Blog.svg)](https://frontnet.eu/the-5-easiest-to-learn-programming-languages-to-learn-in-2023/)
 [![The callsFake() Function in Sinon](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_callsFake()_Function_in_Sinon.svg)](
 https://masteringjs.io/tutorials/sinon/callsfake
 )
@@ -57,7 +58,6 @@ Introducing React Server: A New Framework for Component-Driven Backend Developme
 https://state-less.cloud
 )
 [![Building Resilient React Apps - eddywashere.com](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_Resilient_React_Apps_-_eddywashere.com.svg)](https://eddywashere.com/blog/building-resilient-react-apps/)
-[![GitHub - oslabs-beta/CloudShift: A tool for securely migrating object storage data between cloud providers.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_oslabs-beta_CloudShift__A_tool_for_securely_migrating_object_storage_data_between_cloud_providers..svg)](https://github.com/oslabs-beta/CloudShift)
 
 
 <!-- post-list:end -->
