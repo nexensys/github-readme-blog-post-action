@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, April 22, 2023 at 12:10:20 AM
+> Last updated: Saturday, April 22, 2023 at 6:14:12 AM
 
 > Showing 5 of 12 posts.
 
-[![How to slugify a string in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_slugify_a_string_in_JavaScript.svg)](https://dev.to/bybydev/how-to-slugify-a-string-in-javascript-4o9n)
-[![607. Sales Person leetcode solution](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/607._Sales_Person_leetcode_solution.svg)](https://dev.to/realnamehidden1_61/607-sales-person-leetcode-solution-49pn)
-[![I made a VSCode extension: "markdown-table-rainbow"](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_made_a_VSCode_extension___markdown-table-rainbow_.svg)](https://dev.to/yoshi389111/i-made-a-vscode-extension-markdown-table-rainbow-4l27)
-[![Python V.S. Javascript: Which is Better for Webscraping?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Python_V.S._Javascript__Which_is_Better_for_Webscraping_.svg)](https://dev.to/jsquared/python-vs-javascript-which-is-better-for-webscraping-1dh0)
-[![Spice Up Your Website with These Color-Related Functions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Spice_Up_Your_Website_with_These_Color-Related_Functions.svg)](https://dev.to/streetcommunityprogrammer/spice-up-your-website-with-these-color-related-functions-2e6j)
+[![Unlock the Power of Node.js Testing with the New Node Test Runner Feature](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unlock_the_Power_of_Node.js_Testing_with_the_New_Node_Test_Runner_Feature.svg)](https://dev.to/hi_iam_chris/unlock-the-power-of-nodejs-testing-with-the-new-node-test-runner-feature-1o96)
+[![How to use Sidekiq in Rails 7: Background Jobs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_Sidekiq_in_Rails_7__Background_Jobs.svg)](https://dev.to/ahmadraza/how-to-use-sidekiq-in-rails-7-background-jobs-1dmb)
+[![Unleashing the Power of JavaScript Proxy: A Comprehensive Introduction for Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unleashing_the_Power_of_JavaScript_Proxy__A_Comprehensive_Introduction_for_Developers.svg)](https://dev.to/wizdomtek/unleashing-the-power-of-javascript-proxy-a-comprehensive-introduction-for-developers-3f4j)
+[![From Spotify to YouTube: How I Built a Python Script to Convert Playlists](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/From_Spotify_to_YouTube__How_I_Built_a_Python_Script_to_Convert_Playlists.svg)](https://dev.to/yogeshwaran01/from-spotify-to-youtube-how-i-built-a-python-script-to-convert-playlists-2h89)
+[![Setting Up Dynamic Links in Flutter: A Quick Detailed Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Setting_Up_Dynamic_Links_in_Flutter__A_Quick_Detailed_Guide.svg)](https://dev.to/ahmaddarwesh/setting-up-dynamic-links-in-flutter-a-quick-detailed-guide-49c0)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, April 22, 2023 at 12:10:22 AM
+> Last updated: Saturday, April 22, 2023 at 6:14:14 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, April 22, 2023 at 12:10:25 AM
+> Last updated: Saturday, April 22, 2023 at 6:14:16 AM
 
 > Showing 5 of 30 posts.
 
