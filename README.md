@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, April 23, 2023 at 6:14:47 AM
+> Last updated: Sunday, April 23, 2023 at 12:09:29 PM
 
 > Showing 5 of 12 posts.
 
-[![Best 3 Bootstrap Alternatives](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_3_Bootstrap_Alternatives.svg)](https://dev.to/badbatunde/best-3-bootstrap-alternatives-4mgm)
-[![Manage IAM Access Key Of AWS Service Connection In Azure DevOps Pipeline](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Manage_IAM_Access_Key_Of_AWS_Service_Connection_In_Azure_DevOps_Pipeline.svg)](https://dev.to/aws-builders/manage-iam-access-key-of-aws-service-connection-in-azure-devops-pipeline-481k)
-[![Where did Microservices go](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Where_did_Microservices_go.svg)](https://dev.to/zenstack/where-did-microservices-go-8m)
-[![10 Eye opening pictures that will change the way you think](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_Eye_opening_pictures_that_will_change_the_way_you_think.svg)](https://dev.to/jon_snow789/10-eye-opening-pictures-that-will-change-the-way-you-think-4hc5)
-[![13 Rules I Follow When Writing CSS To Make It Concise and Readable🚀💡](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/13_Rules_I_Follow_When_Writing_CSS_To_Make_It_Concise_and_Readable🚀💡.svg)](https://dev.to/margishpatel/13-rules-i-follow-when-writing-css-to-make-it-concise-and-readable-2jkn)
+[![Installing MongoDB on latest MacOS Intel and M1 base processors with Homebrew](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Installing_MongoDB_on_latest_MacOS_Intel_and_M1_base_processors_with_Homebrew.svg)](https://dev.to/fotiecodes/installing-mongodb-on-latest-macos-intel-and-m1-base-processors-with-homebrew-1ima)
+[![Simplifying state management with useReducer hook](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Simplifying_state_management_with_useReducer_hook.svg)](https://dev.to/vivekalhat/simplifying-state-management-with-usereducer-hook-50e4)
+[![How to create an SSH RSA Key Pair and Connect to a Remote Host](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_an_SSH_RSA_Key_Pair_and_Connect_to_a_Remote_Host.svg)](https://dev.to/mundianderi/how-to-create-an-ssh-rsa-key-pair-and-connect-to-a-remote-host-23bp)
+[![LeetCode - Divide Two Integers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/LeetCode_-_Divide_Two_Integers.svg)](https://dev.to/_alkesh26/leetcode-divide-two-integers-6gl)
+[![Create simple UI UX personal portfolio using figma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_simple_UI_UX_personal_portfolio_using_figma.svg)](https://dev.to/hojjatbandani/create-simple-ui-ux-personal-portfolio-using-figma-4ea0)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, April 23, 2023 at 6:14:49 AM
+> Last updated: Sunday, April 23, 2023 at 12:09:32 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, April 23, 2023 at 6:14:52 AM
+> Last updated: Sunday, April 23, 2023 at 12:09:35 PM
 
 > Showing 5 of 30 posts.
 
