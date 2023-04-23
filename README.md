@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, April 22, 2023 at 6:48:49 PM
+> Last updated: Sunday, April 23, 2023 at 12:10:32 AM
 
 > Showing 5 of 12 posts.
 
-[![Real-Time Data Visualization with D3.js and Vue.js.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Real-Time_Data_Visualization_with_D3.js_and_Vue.js..svg)](https://dev.to/callezenwaka/real-time-data-visualization-with-d3js-and-vuejs-4og3)
-[![10 EXTENSÕES INCRÍVEIS PARA BOMBAR O GOOGLE CHROME!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_EXTENSÕES_INCRÍVEIS_PARA_BOMBAR_O_GOOGLE_CHROME!.svg)](https://dev.to/lidiagoncalves/10-extensoes-incriveis-para-bombar-o-google-chrome-908)
-[![Could AI take my job?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Could_AI_take_my_job_.svg)](https://dev.to/alexs1305/could-ai-take-my-job-20ho)
-[![The Power of Product Roadmaps: Aligning Teams for Success](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Power_of_Product_Roadmaps__Aligning_Teams_for_Success.svg)](https://dev.to/alexr/the-power-of-product-roadmaps-aligning-teams-for-success-5dab)
-[![Run ChatGPT-Style Questions Over Your Own Files Using the OpenAI API and LangChain!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Run_ChatGPT-Style_Questions_Over_Your_Own_Files_Using_the_OpenAI_API_and_LangChain!.svg)](https://dev.to/reaminated/run-chatgpt-style-questions-over-your-own-files-using-the-openai-api-and-langchain-1ii7)
+[![PHP CRUD Rest API with Docker](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/PHP_CRUD_Rest_API_with_Docker.svg)](https://dev.to/francescoxx/php-crud-rest-api-with-docker-2c3f)
+[![Resources to learn pl/sql for free](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Resources_to_learn_pl_sql_for_free.svg)](https://dev.to/realnamehidden1_61/resources-to-learn-plsql-for-free-l9c)
+[![620. Not Boring Movies leetcode solution](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/620._Not_Boring_Movies_leetcode_solution.svg)](https://dev.to/realnamehidden1_61/620-not-boring-moviesleetcode-solution-4mg7)
+[![610. Triangle Judgement](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/610._Triangle_Judgement.svg)](https://dev.to/realnamehidden1_61/610-triangle-judgement-8cf)
+[![UseEffect in Brief !](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/UseEffect_in_Brief_!.svg)](https://dev.to/ttpunch/useeffect-in-brief--7lf)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, April 22, 2023 at 6:48:51 PM
+> Last updated: Sunday, April 23, 2023 at 12:10:35 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, April 22, 2023 at 6:48:53 PM
+> Last updated: Sunday, April 23, 2023 at 12:10:37 AM
 
 > Showing 5 of 30 posts.
 
