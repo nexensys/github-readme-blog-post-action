@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, April 22, 2023 at 12:09:33 PM
+> Last updated: Saturday, April 22, 2023 at 6:48:49 PM
 
 > Showing 5 of 12 posts.
 
-[![How To Get Land Web Development Clients! 💰💰💰](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Get_Land_Web_Development_Clients!_💰💰💰.svg)](https://dev.to/chetanam/how-to-get-land-web-development-clients-he1)
-[![Three JS Examples : 8. Three JS SPACE GLOBE Animation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Three_JS_Examples___8._Three_JS_SPACE_GLOBE_Animation.svg)](https://dev.to/jon_snow789/three-js-examples-8-three-js-space-globe-animation-mcp)
-[![How to Integrate Tailwind CSS in Your Angular Project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Integrate_Tailwind_CSS_in_Your_Angular_Project.svg)](https://dev.to/ayushdev_24/how-to-integrate-tailwind-css-in-your-angular-project-3c15)
-[![Peruse of Customized Network Load Balancer Parameters Deployed through CloudFormation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Peruse_of_Customized_Network_Load_Balancer_Parameters_Deployed_through_CloudFormation.svg)](https://dev.to/aws-builders/peruse-of-customized-network-load-balancer-parameters-deployed-through-cloudformation-1olc)
-[![Getting arty with a Pi](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_arty_with_a_Pi.svg)](https://dev.to/andypiper/getting-arty-with-a-pi-3dk9)
+[![Real-Time Data Visualization with D3.js and Vue.js.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Real-Time_Data_Visualization_with_D3.js_and_Vue.js..svg)](https://dev.to/callezenwaka/real-time-data-visualization-with-d3js-and-vuejs-4og3)
+[![10 EXTENSÕES INCRÍVEIS PARA BOMBAR O GOOGLE CHROME!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_EXTENSÕES_INCRÍVEIS_PARA_BOMBAR_O_GOOGLE_CHROME!.svg)](https://dev.to/lidiagoncalves/10-extensoes-incriveis-para-bombar-o-google-chrome-908)
+[![Could AI take my job?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Could_AI_take_my_job_.svg)](https://dev.to/alexs1305/could-ai-take-my-job-20ho)
+[![The Power of Product Roadmaps: Aligning Teams for Success](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Power_of_Product_Roadmaps__Aligning_Teams_for_Success.svg)](https://dev.to/alexr/the-power-of-product-roadmaps-aligning-teams-for-success-5dab)
+[![Run ChatGPT-Style Questions Over Your Own Files Using the OpenAI API and LangChain!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Run_ChatGPT-Style_Questions_Over_Your_Own_Files_Using_the_OpenAI_API_and_LangChain!.svg)](https://dev.to/reaminated/run-chatgpt-style-questions-over-your-own-files-using-the-openai-api-and-langchain-1ii7)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, April 22, 2023 at 12:09:37 PM
+> Last updated: Saturday, April 22, 2023 at 6:48:51 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,11 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, April 22, 2023 at 12:09:41 PM
+> Last updated: Saturday, April 22, 2023 at 6:48:53 PM
 
 > Showing 5 of 30 posts.
 
-[![The 5 Easiest to Learn Programming Languages to Learn in 2023 - FrontNet Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_5_Easiest_to_Learn_Programming_Languages_to_Learn_in_2023_-_FrontNet_Blog.svg)](https://frontnet.eu/the-5-easiest-to-learn-programming-languages-to-learn-in-2023/)
+[![
+The 5 Easiest to Learn Programming Languages to Learn in 2023
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_The_5_Easiest_to_Learn_Programming_Languages_to_Learn_in_2023_.svg)](
+https://frontnet.eu/the-5-easiest-to-learn-programming-languages-to-learn-in-2023/
+)
 [![The callsFake() Function in Sinon](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_callsFake()_Function_in_Sinon.svg)](
 https://masteringjs.io/tutorials/sinon/callsfake
 )
