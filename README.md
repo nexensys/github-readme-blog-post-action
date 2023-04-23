@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, April 23, 2023 at 12:10:32 AM
+> Last updated: Sunday, April 23, 2023 at 6:14:47 AM
 
 > Showing 5 of 12 posts.
 
-[![PHP CRUD Rest API with Docker](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/PHP_CRUD_Rest_API_with_Docker.svg)](https://dev.to/francescoxx/php-crud-rest-api-with-docker-2c3f)
-[![Resources to learn pl/sql for free](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Resources_to_learn_pl_sql_for_free.svg)](https://dev.to/realnamehidden1_61/resources-to-learn-plsql-for-free-l9c)
-[![620. Not Boring Movies leetcode solution](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/620._Not_Boring_Movies_leetcode_solution.svg)](https://dev.to/realnamehidden1_61/620-not-boring-moviesleetcode-solution-4mg7)
-[![610. Triangle Judgement](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/610._Triangle_Judgement.svg)](https://dev.to/realnamehidden1_61/610-triangle-judgement-8cf)
-[![UseEffect in Brief !](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/UseEffect_in_Brief_!.svg)](https://dev.to/ttpunch/useeffect-in-brief--7lf)
+[![Best 3 Bootstrap Alternatives](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_3_Bootstrap_Alternatives.svg)](https://dev.to/badbatunde/best-3-bootstrap-alternatives-4mgm)
+[![Manage IAM Access Key Of AWS Service Connection In Azure DevOps Pipeline](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Manage_IAM_Access_Key_Of_AWS_Service_Connection_In_Azure_DevOps_Pipeline.svg)](https://dev.to/aws-builders/manage-iam-access-key-of-aws-service-connection-in-azure-devops-pipeline-481k)
+[![Where did Microservices go](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Where_did_Microservices_go.svg)](https://dev.to/zenstack/where-did-microservices-go-8m)
+[![10 Eye opening pictures that will change the way you think](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_Eye_opening_pictures_that_will_change_the_way_you_think.svg)](https://dev.to/jon_snow789/10-eye-opening-pictures-that-will-change-the-way-you-think-4hc5)
+[![13 Rules I Follow When Writing CSS To Make It Concise and Readable🚀💡](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/13_Rules_I_Follow_When_Writing_CSS_To_Make_It_Concise_and_Readable🚀💡.svg)](https://dev.to/margishpatel/13-rules-i-follow-when-writing-css-to-make-it-concise-and-readable-2jkn)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, April 23, 2023 at 12:10:35 AM
+> Last updated: Sunday, April 23, 2023 at 6:14:49 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, April 23, 2023 at 12:10:37 AM
+> Last updated: Sunday, April 23, 2023 at 6:14:52 AM
 
 > Showing 5 of 30 posts.
 
