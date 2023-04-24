@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, April 23, 2023 at 6:44:05 PM
+> Last updated: Monday, April 24, 2023 at 12:11:42 AM
 
 > Showing 5 of 12 posts.
 
-[![Margin trading vs. Futures: What are the differences?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Margin_trading_vs._Futures__What_are_the_differences_.svg)](https://dev.to/bullishgopher/margin-trading-vs-futures-what-are-the-differences-3f5c)
-[![Web-Essentials Reminder](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Web-Essentials_Reminder.svg)](https://dev.to/cherypick/web-essentials-reminder-3fn5)
-[![Construye una arquitectura en AWS que se autodestruye sola](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Construye_una_arquitectura_en_AWS_que_se_autodestruye_sola.svg)](https://dev.to/aws-builders/construye-una-arquitectura-en-aws-que-se-autodestruye-sola-2m44)
-[![Automatically Document Your Database in Markdown](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Automatically_Document_Your_Database_in_Markdown.svg)](https://dev.to/sualeh/automatically-document-your-database-in-markdown-elf)
-[![Deep dive into React: State Management Types and its Importance](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deep_dive_into_React__State_Management_Types_and_its_Importance.svg)](https://dev.to/fortune42/deep-dive-into-react-state-management-types-and-its-importance-2nn)
+[![Database Designs for Multilingual Apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Database_Designs_for_Multilingual_Apps.svg)](https://dev.to/dwarvesf/database-designs-for-multilingual-apps-4jb6)
+[![Save the cost of a load balancer with route53-update](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Save_the_cost_of_a_load_balancer_with_route53-update.svg)](https://dev.to/aws-builders/save-the-cost-of-a-load-balancer-with-route53-update-5e0d)
+[![Resetting RDS retention period using Step Functions & Lambda](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Resetting_RDS_retention_period_using_Step_Functions___Lambda.svg)](https://dev.to/aws-builders/resetting-rds-retention-period-using-step-functions-lambda-45g3)
+[![New Android banking trojan called "Sharkbot", its way of attack and how to defend](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/New_Android_banking_trojan_called__Sharkbot___its_way_of_attack_and_how_to_defend.svg)](https://dev.to/teamliapp/new-android-banking-trojan-called-sharkbot-its-way-of-attack-and-how-to-defend-1p0h)
+[![Why Web Apps?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_Web_Apps_.svg)](https://dev.to/xanderlambert/why-web-apps-1j3p)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, April 23, 2023 at 6:44:08 PM
+> Last updated: Monday, April 24, 2023 at 12:11:45 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,10 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, April 23, 2023 at 6:44:11 PM
+> Last updated: Monday, April 24, 2023 at 12:11:47 AM
 
 > Showing 5 of 30 posts.
 
-[![
-The 5 Easiest to Learn Programming Languages to Learn in 2023
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_The_5_Easiest_to_Learn_Programming_Languages_to_Learn_in_2023_.svg)](
-https://frontnet.eu/the-5-easiest-to-learn-programming-languages-to-learn-in-2023/
-)
 [![The callsFake() Function in Sinon](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_callsFake()_Function_in_Sinon.svg)](
 https://masteringjs.io/tutorials/sinon/callsfake
 )
@@ -62,6 +57,7 @@ Introducing React Server: A New Framework for Component-Driven Backend Developme
 https://state-less.cloud
 )
 [![Building Resilient React Apps - eddywashere.com](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_Resilient_React_Apps_-_eddywashere.com.svg)](https://eddywashere.com/blog/building-resilient-react-apps/)
+[![GitHub - oslabs-beta/CloudShift: A tool for securely migrating object storage data between cloud providers.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_oslabs-beta_CloudShift__A_tool_for_securely_migrating_object_storage_data_between_cloud_providers..svg)](https://github.com/oslabs-beta/CloudShift)
 
 
 <!-- post-list:end -->
