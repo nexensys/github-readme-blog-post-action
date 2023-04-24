@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, April 24, 2023 at 12:11:42 AM
+> Last updated: Monday, April 24, 2023 at 6:15:53 AM
 
 > Showing 5 of 12 posts.
 
-[![Database Designs for Multilingual Apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Database_Designs_for_Multilingual_Apps.svg)](https://dev.to/dwarvesf/database-designs-for-multilingual-apps-4jb6)
-[![Save the cost of a load balancer with route53-update](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Save_the_cost_of_a_load_balancer_with_route53-update.svg)](https://dev.to/aws-builders/save-the-cost-of-a-load-balancer-with-route53-update-5e0d)
-[![Resetting RDS retention period using Step Functions & Lambda](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Resetting_RDS_retention_period_using_Step_Functions___Lambda.svg)](https://dev.to/aws-builders/resetting-rds-retention-period-using-step-functions-lambda-45g3)
-[![New Android banking trojan called "Sharkbot", its way of attack and how to defend](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/New_Android_banking_trojan_called__Sharkbot___its_way_of_attack_and_how_to_defend.svg)](https://dev.to/teamliapp/new-android-banking-trojan-called-sharkbot-its-way-of-attack-and-how-to-defend-1p0h)
-[![Why Web Apps?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_Web_Apps_.svg)](https://dev.to/xanderlambert/why-web-apps-1j3p)
+[![10 more Javascript Challenges!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_more_Javascript_Challenges!.svg)](https://dev.to/this-is-learning/10-more-javascript-challenges-3812)
+[![Who do I Want to Work With? A Simple Framework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Who_do_I_Want_to_Work_With__A_Simple_Framework.svg)](https://dev.to/jmfayard/who-do-i-want-to-work-with-a-simple-framework-3hnl)
+[![How to get ChatGPT on your website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_get_ChatGPT_on_your_website.svg)](https://dev.to/polterguy/how-to-get-chatgpt-on-your-website-6m7)
+[![Different possible ways to create objects in JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Different_possible_ways_to_create_objects_in_JS.svg)](https://dev.to/shishsingh/different-possible-ways-to-create-objects-in-js-1h74)
+[![Scaling Identity Access Management: From Startups to Enterprises with AWS Solutions - Part 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Scaling_Identity_Access_Management__From_Startups_to_Enterprises_with_AWS_Solutions_-_Part_2.svg)](https://dev.to/aws-builders/scaling-identity-access-management-from-startups-to-enterprises-with-aws-solutions-part-2-52m9)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, April 24, 2023 at 12:11:45 AM
+> Last updated: Monday, April 24, 2023 at 6:15:56 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,21 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, April 24, 2023 at 12:11:47 AM
+> Last updated: Monday, April 24, 2023 at 6:16:03 AM
 
 > Showing 5 of 30 posts.
 
+[![Exploring the Power of JavaScript Proxies and Reflect API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Exploring_the_Power_of_JavaScript_Proxies_and_Reflect_API.svg)](https://soshace.com/exploring-the-power-of-javascript-proxies-and-reflect-api/)
+[![Cardano NFT Marketplace Development Company - Plurance](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Cardano_NFT_Marketplace_Development_Company_-_Plurance.svg)](https://www.plurance.com/cardano-nft-marketplace-development)
+[![Can GPT Outshine Human Developers? A Gesture Handling Adventure in the React Native Echarts Project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Can_GPT_Outshine_Human_Developers__A_Gesture_Handling_Adventure_in_the_React_Native_Echarts_Project.svg)](https://medium.com/@chenzhiqing/can-gpt-outshine-human-developers-a-gesture-handling-adventure-in-the-react-native-echarts-project-805b969b5b12)
+[![Did You say .npmrc?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Did_You_say_.npmrc_.svg)](https://adropincalm.com/blog/did-you-say-npmrc/)
 [![The callsFake() Function in Sinon](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_callsFake()_Function_in_Sinon.svg)](
 https://masteringjs.io/tutorials/sinon/callsfake
 )
-[![How to Write Comments in React: The Good, the Bad and the Ugly](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Write_Comments_in_React__The_Good__the_Bad_and_the_Ugly.svg)](https://dmitripavlutin.com/react-comments/)
-[![
-Introducing React Server: A New Framework for Component-Driven Backend Development
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Introducing_React_Server__A_New_Framework_for_Component-Driven_Backend_Development_.svg)](
-https://state-less.cloud
-)
-[![Building Resilient React Apps - eddywashere.com](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_Resilient_React_Apps_-_eddywashere.com.svg)](https://eddywashere.com/blog/building-resilient-react-apps/)
-[![GitHub - oslabs-beta/CloudShift: A tool for securely migrating object storage data between cloud providers.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_oslabs-beta_CloudShift__A_tool_for_securely_migrating_object_storage_data_between_cloud_providers..svg)](https://github.com/oslabs-beta/CloudShift)
 
 
 <!-- post-list:end -->
