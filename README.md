@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, April 24, 2023 at 6:15:53 AM
+> Last updated: Monday, April 24, 2023 at 12:10:27 PM
 
 > Showing 5 of 12 posts.
 
-[![10 more Javascript Challenges!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_more_Javascript_Challenges!.svg)](https://dev.to/this-is-learning/10-more-javascript-challenges-3812)
-[![Who do I Want to Work With? A Simple Framework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Who_do_I_Want_to_Work_With__A_Simple_Framework.svg)](https://dev.to/jmfayard/who-do-i-want-to-work-with-a-simple-framework-3hnl)
-[![How to get ChatGPT on your website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_get_ChatGPT_on_your_website.svg)](https://dev.to/polterguy/how-to-get-chatgpt-on-your-website-6m7)
-[![Different possible ways to create objects in JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Different_possible_ways_to_create_objects_in_JS.svg)](https://dev.to/shishsingh/different-possible-ways-to-create-objects-in-js-1h74)
-[![Scaling Identity Access Management: From Startups to Enterprises with AWS Solutions - Part 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Scaling_Identity_Access_Management__From_Startups_to_Enterprises_with_AWS_Solutions_-_Part_2.svg)](https://dev.to/aws-builders/scaling-identity-access-management-from-startups-to-enterprises-with-aws-solutions-part-2-52m9)
+[![Sloan's Top 4 Newbie Memes of the Week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Sloan's_Top_4_Newbie_Memes_of_the_Week.svg)](https://dev.to/codenewbieteam/sloans-top-4-newbie-memes-of-the-week-3cip)
+[![What Does Identity Provider Actually Mean?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_Does_Identity_Provider_Actually_Mean_.svg)](https://dev.to/propelauth/what-does-identity-provider-actually-mean-348i)
+[![Managing Community Health Files and Templates with a .github Repository](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Managing_Community_Health_Files_and_Templates_with_a_.github_Repository.svg)](https://dev.to/opensauced/managing-community-health-files-and-templates-with-a-github-repository-l8f)
+[![Automatic translation of i18n files](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Automatic_translation_of_i18n_files.svg)](https://dev.to/woovi/automatic-translation-of-i18n-files-4ip9)
+[![How to show google map in Spring Boot Application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_show_google_map_in_Spring_Boot_Application.svg)](https://dev.to/realnamehidden1_61/how-to-show-google-map-in-spring-boot-application-4h28)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, April 24, 2023 at 6:15:56 AM
+> Last updated: Monday, April 24, 2023 at 12:10:31 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, April 24, 2023 at 6:16:03 AM
+> Last updated: Monday, April 24, 2023 at 12:10:37 PM
 
 > Showing 5 of 30 posts.
 
