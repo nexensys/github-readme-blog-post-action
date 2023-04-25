@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, April 25, 2023 at 6:15:45 AM
+> Last updated: Tuesday, April 25, 2023 at 12:10:23 PM
 
 > Showing 5 of 12 posts.
 
-[![Why Graph Databases are Essential in Today's Data-Driven World](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_Graph_Databases_are_Essential_in_Today's_Data-Driven_World.svg)](https://dev.to/abdulsamad4068/why-graph-databases-are-essential-in-todays-data-driven-world-2ik)
-[![🚀Discover the Top ERC Tokens for Creating Powerful Smart Contracts!💪🏽💡📈](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🚀Discover_the_Top_ERC_Tokens_for_Creating_Powerful_Smart_Contracts!💪🏽💡📈.svg)](https://dev.to/akshaykurhekar/discover-the-top-erc-tokens-for-creating-powerful-smart-contracts-56gn)
-[![Implementing Drag and Drop Upload in React using Supabase](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Implementing_Drag_and_Drop_Upload_in_React_using_Supabase.svg)](https://dev.to/surajondev/implementing-drag-and-drop-upload-in-react-using-supabase-49pb)
-[![Angular Debugging Made Simple: Building a Custom Logging Service](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Angular_Debugging_Made_Simple__Building_a_Custom_Logging_Service.svg)](https://dev.to/aru-ku/angular-debugging-made-simple-building-a-custom-logging-service-1084)
-[![What Do Cloud Services and Jam Have in Common?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_Do_Cloud_Services_and_Jam_Have_in_Common_.svg)](https://dev.to/aws-heroes/what-do-cloud-services-and-jam-have-in-common-1d7e)
+[![Cicada: Write CI/CD pipelines in TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cicada__Write_CI_CD_pipelines_in_TypeScript.svg)](https://dev.to/brendan/launching-cicada-write-cicd-pipelines-in-typescript-3i31)
+[![Trying out a new terminal: Warp](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Trying_out_a_new_terminal__Warp.svg)](https://dev.to/this-is-learning/trying-out-a-new-terminal-warp-3pnh)
+[![50 ChatGPT Prompts to Debug ReactJS Issues](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/50_ChatGPT_Prompts_to_Debug_ReactJS_Issues.svg)](https://dev.to/nilanth/50-chatgpt-prompts-to-debug-reactjs-issues-481g)
+[![Python 101 tutorial: Write your first real program](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Python_101_tutorial__Write_your_first_real_program.svg)](https://dev.to/educative/python-101-tutorial-write-your-first-real-program-593j)
+[![Announcing the GitHub + DEV 2023 Hackathon!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Announcing_the_GitHub_+_DEV_2023_Hackathon!.svg)](https://dev.to/devteam/announcing-the-github-dev-2023-hackathon-4ocn)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, April 25, 2023 at 6:15:48 AM
+> Last updated: Tuesday, April 25, 2023 at 12:10:26 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, April 25, 2023 at 6:15:56 AM
+> Last updated: Tuesday, April 25, 2023 at 12:10:33 PM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - bitair-org/concurrent.js: Non-blocking Computation for JavaScript RTEs (Web Browsers, Node.js & Deno)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_bitair-org_concurrent.js__Non-blocking_Computation_for_JavaScript_RTEs_(Web_Browsers__Node.js___Deno).svg)](https://github.com/bitair-org/concurrent.js)
 [![API with NestJS #105. Implementing soft deletes with Prisma and middleware](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__105._Implementing_soft_deletes_with_Prisma_and_middleware.svg)](https://wanago.io/2023/04/24/api-nestjs-prisma-soft-deletes/)
 [![Exploring the Power of JavaScript Proxies and Reflect API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Exploring_the_Power_of_JavaScript_Proxies_and_Reflect_API.svg)](https://soshace.com/exploring-the-power-of-javascript-proxies-and-reflect-api/)
 [![Can GPT Outshine Human Developers? A Gesture Handling Adventure in the React Native Echarts Project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Can_GPT_Outshine_Human_Developers__A_Gesture_Handling_Adventure_in_the_React_Native_Echarts_Project.svg)](https://medium.com/@chenzhiqing/can-gpt-outshine-human-developers-a-gesture-handling-adventure-in-the-react-native-echarts-project-805b969b5b12)
 [![Did You say .npmrc?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Did_You_say_.npmrc_.svg)](https://adropincalm.com/blog/did-you-say-npmrc/)
-[![The callsFake() Function in Sinon](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_callsFake()_Function_in_Sinon.svg)](
-https://masteringjs.io/tutorials/sinon/callsfake
-)
 
 
 <!-- post-list:end -->
