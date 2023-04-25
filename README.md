@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, April 24, 2023 at 12:10:27 PM
+> Last updated: Monday, April 24, 2023 at 6:43:35 PM
 
 > Showing 5 of 12 posts.
 
-[![Sloan's Top 4 Newbie Memes of the Week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Sloan's_Top_4_Newbie_Memes_of_the_Week.svg)](https://dev.to/codenewbieteam/sloans-top-4-newbie-memes-of-the-week-3cip)
-[![What Does Identity Provider Actually Mean?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_Does_Identity_Provider_Actually_Mean_.svg)](https://dev.to/propelauth/what-does-identity-provider-actually-mean-348i)
-[![Managing Community Health Files and Templates with a .github Repository](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Managing_Community_Health_Files_and_Templates_with_a_.github_Repository.svg)](https://dev.to/opensauced/managing-community-health-files-and-templates-with-a-github-repository-l8f)
-[![Automatic translation of i18n files](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Automatic_translation_of_i18n_files.svg)](https://dev.to/woovi/automatic-translation-of-i18n-files-4ip9)
-[![How to show google map in Spring Boot Application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_show_google_map_in_Spring_Boot_Application.svg)](https://dev.to/realnamehidden1_61/how-to-show-google-map-in-spring-boot-application-4h28)
+[![Specialization vs. Generalization: Which Is Better for Programmers?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Specialization_vs._Generalization__Which_Is_Better_for_Programmers_.svg)](https://dev.to/codenewbieteam/specialization-vs-generalization-which-is-better-for-programmers-4884)
+[![Comparing Material Design, Tailwind CSS, Chakra UI, and AWS Amplify UI: Which one is right for your project?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Comparing_Material_Design__Tailwind_CSS__Chakra_UI__and_AWS_Amplify_UI__Which_one_is_right_for_your_project_.svg)](https://dev.to/abdalshafiealmajdoup/comparing-material-design-tailwind-css-chakra-ui-and-aws-amplify-ui-which-one-is-right-for-your-project-3en5)
+[![Operadores no tan comunes de Rxjs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Operadores_no_tan_comunes_de_Rxjs.svg)](https://dev.to/alexcordobainc/operadores-no-tan-comunes-de-rxjs-221o)
+[![Comparing Next.js, Astro, and Remix: Which is the Best?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Comparing_Next.js__Astro__and_Remix__Which_is_the_Best_.svg)](https://dev.to/strapi/comparing-nextjs-astro-and-remix-which-is-the-best-1mka)
+[![Updating React State Inside Loops](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Updating_React_State_Inside_Loops.svg)](https://dev.to/bytebodger/updating-react-state-inside-loops-2dbf)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, April 24, 2023 at 12:10:31 PM
+> Last updated: Monday, April 24, 2023 at 6:43:38 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,12 +43,12 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, April 24, 2023 at 12:10:37 PM
+> Last updated: Monday, April 24, 2023 at 6:43:43 PM
 
 > Showing 5 of 30 posts.
 
+[![API with NestJS #105. Implementing soft deletes with Prisma and middleware](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__105._Implementing_soft_deletes_with_Prisma_and_middleware.svg)](https://wanago.io/2023/04/24/api-nestjs-prisma-soft-deletes/)
 [![Exploring the Power of JavaScript Proxies and Reflect API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Exploring_the_Power_of_JavaScript_Proxies_and_Reflect_API.svg)](https://soshace.com/exploring-the-power-of-javascript-proxies-and-reflect-api/)
-[![Cardano NFT Marketplace Development Company - Plurance](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Cardano_NFT_Marketplace_Development_Company_-_Plurance.svg)](https://www.plurance.com/cardano-nft-marketplace-development)
 [![Can GPT Outshine Human Developers? A Gesture Handling Adventure in the React Native Echarts Project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Can_GPT_Outshine_Human_Developers__A_Gesture_Handling_Adventure_in_the_React_Native_Echarts_Project.svg)](https://medium.com/@chenzhiqing/can-gpt-outshine-human-developers-a-gesture-handling-adventure-in-the-react-native-echarts-project-805b969b5b12)
 [![Did You say .npmrc?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Did_You_say_.npmrc_.svg)](https://adropincalm.com/blog/did-you-say-npmrc/)
 [![The callsFake() Function in Sinon](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_callsFake()_Function_in_Sinon.svg)](
