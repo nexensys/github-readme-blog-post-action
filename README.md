@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, April 24, 2023 at 6:43:35 PM
+> Last updated: Tuesday, April 25, 2023 at 12:11:04 AM
 
 > Showing 5 of 12 posts.
 
-[![Specialization vs. Generalization: Which Is Better for Programmers?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Specialization_vs._Generalization__Which_Is_Better_for_Programmers_.svg)](https://dev.to/codenewbieteam/specialization-vs-generalization-which-is-better-for-programmers-4884)
-[![Comparing Material Design, Tailwind CSS, Chakra UI, and AWS Amplify UI: Which one is right for your project?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Comparing_Material_Design__Tailwind_CSS__Chakra_UI__and_AWS_Amplify_UI__Which_one_is_right_for_your_project_.svg)](https://dev.to/abdalshafiealmajdoup/comparing-material-design-tailwind-css-chakra-ui-and-aws-amplify-ui-which-one-is-right-for-your-project-3en5)
-[![Operadores no tan comunes de Rxjs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Operadores_no_tan_comunes_de_Rxjs.svg)](https://dev.to/alexcordobainc/operadores-no-tan-comunes-de-rxjs-221o)
-[![Comparing Next.js, Astro, and Remix: Which is the Best?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Comparing_Next.js__Astro__and_Remix__Which_is_the_Best_.svg)](https://dev.to/strapi/comparing-nextjs-astro-and-remix-which-is-the-best-1mka)
-[![Updating React State Inside Loops](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Updating_React_State_Inside_Loops.svg)](https://dev.to/bytebodger/updating-react-state-inside-loops-2dbf)
+[![Essential Command-Line Tricks for Developers 💻🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Essential_Command-Line_Tricks_for_Developers_💻🚀.svg)](https://dev.to/madhusudan/essential-command-line-tricks-for-developers-79)
+[![Validating Request Parameters and Body in Amazon API Gateway with AWS CDK](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Validating_Request_Parameters_and_Body_in_Amazon_API_Gateway_with_AWS_CDK.svg)](https://dev.to/aws-builders/validating-request-parameters-and-body-in-amazon-api-gateway-with-aws-cdk-1h1g)
+[![Top 5 Design Practices of a RESTFUL API using Express.JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_5_Design_Practices_of_a_RESTFUL_API_using_Express.JS.svg)](https://dev.to/qbentil/top-5-design-practices-of-a-restful-api-using-expressjs-2i6o)
+[![404 Page with React Router V6.4](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/404_Page_with_React_Router_V6.4.svg)](https://dev.to/salehmubashar/404-page-with-react-router-v64-35hl)
+[![Seguridad en Golang](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Seguridad_en_Golang.svg)](https://dev.to/tomaslingotti/seguridad-en-golang-4f29)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, April 24, 2023 at 6:43:38 PM
+> Last updated: Tuesday, April 25, 2023 at 12:11:07 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, April 24, 2023 at 6:43:43 PM
+> Last updated: Tuesday, April 25, 2023 at 12:11:13 AM
 
 > Showing 5 of 30 posts.
 
