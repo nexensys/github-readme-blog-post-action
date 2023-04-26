@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, April 25, 2023 at 6:43:24 PM
+> Last updated: Wednesday, April 26, 2023 at 12:11:12 AM
 
 > Showing 5 of 12 posts.
 
-[![SPVM::MIME::Base64 - Base64 Encoding/Decoding](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/SPVM__MIME__Base64_-_Base64_Encoding_Decoding.svg)](https://dev.to/yukikimoto/spvmmimebase64-base64-encodingdecoding-mf6)
-[![What are your biggest tips for beginners to open-source and/or Github?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_are_your_biggest_tips_for_beginners_to_open-source_and_or_Github_.svg)](https://dev.to/codenewbieteam/what-are-your-biggest-tips-for-beginners-to-open-source-andor-github-2ffg)
-[![SPVM::Math - Mathematical Functions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/SPVM__Math_-_Mathematical_Functions.svg)](https://dev.to/yukikimoto/spvmmath-mathematical-functions-2kbf)
-[![React Essentials: What I Wish I Knew When Starting Out](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Essentials__What_I_Wish_I_Knew_When_Starting_Out.svg)](https://dev.to/heliosalesjr/react-essentials-what-i-wish-i-knew-when-starting-out-4lec)
-[![Easiest way to build the fastest REST API in C# and .NET 7 using CQRS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Easiest_way_to_build_the_fastest_REST_API_in_C__and_.NET_7_using_CQRS.svg)](https://dev.to/kedzior_io/easiest-way-to-build-the-fastest-rest-api-in-c-and-net-7-using-cqrs-2bk8)
+[![TextGPT: A Profitable Weekend Project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/TextGPT__A_Profitable_Weekend_Project.svg)](https://dev.to/fvaldes33/textgpt-a-profitable-weekend-project-1e01)
+[![Mastering TypeScript 5.0 Decorators: The Ultimate Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_TypeScript_5.0_Decorators__The_Ultimate_Guide.svg)](https://dev.to/pipaliyachirag/mastering-typescript-50-decorators-the-ultimate-guide-26f0)
+[![How to Write Clean Code: Tips and Strategies for Software Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Write_Clean_Code__Tips_and_Strategies_for_Software_Developers.svg)](https://dev.to/sunalii/how-to-write-clean-code-tips-and-strategies-for-software-developers-22l4)
+[![ChatGPT with Langchain: An Overview](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/ChatGPT_with_Langchain__An_Overview.svg)](https://dev.to/royrebello/chatgpt-with-langchain-an-overview-3ppg)
+[![C# Extension Methods: the basics you need to know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/C__Extension_Methods__the_basics_you_need_to_know.svg)](https://dev.to/katerinamykhailyk/c-extension-methods-the-basics-you-need-to-know-164i)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, April 25, 2023 at 6:43:28 PM
+> Last updated: Wednesday, April 26, 2023 at 12:11:15 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, April 25, 2023 at 6:43:41 PM
+> Last updated: Wednesday, April 26, 2023 at 12:11:21 AM
 
 > Showing 5 of 30 posts.
 
+[![nodejs-clean-architecture/README.md at main · Z3r0J/nodejs-clean-architecture](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/nodejs-clean-architecture_README.md_at_main_·_Z3r0J_nodejs-clean-architecture.svg)](https://github.com/Z3r0J/nodejs-clean-architecture)
+[![The Art of Effortless Programming](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Art_of_Effortless_Programming.svg)](https://medium.com/javascript-scene/the-art-of-effortless-programming-3e1860abe1d3)
 [![Anime.js to MP4 and GIF with Node.js and FFMPEG](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Anime.js_to_MP4_and_GIF_with_Node.js_and_FFMPEG.svg)](https://soshace.com/anime-js-to-mp4-and-gif-with-node-js-and-ffmpeg/)
 [![GitHub - bitair-org/concurrent.js: Non-blocking Computation for JavaScript RTEs (Web Browsers, Node.js & Deno)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_bitair-org_concurrent.js__Non-blocking_Computation_for_JavaScript_RTEs_(Web_Browsers__Node.js___Deno).svg)](https://github.com/bitair-org/concurrent.js)
 [![API with NestJS #105. Implementing soft deletes with Prisma and middleware](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__105._Implementing_soft_deletes_with_Prisma_and_middleware.svg)](https://wanago.io/2023/04/24/api-nestjs-prisma-soft-deletes/)
-[![Exploring the Power of JavaScript Proxies and Reflect API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Exploring_the_Power_of_JavaScript_Proxies_and_Reflect_API.svg)](https://soshace.com/exploring-the-power-of-javascript-proxies-and-reflect-api/)
-[![Can GPT Outshine Human Developers? A Gesture Handling Adventure in the React Native Echarts Project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Can_GPT_Outshine_Human_Developers__A_Gesture_Handling_Adventure_in_the_React_Native_Echarts_Project.svg)](https://medium.com/@chenzhiqing/can-gpt-outshine-human-developers-a-gesture-handling-adventure-in-the-react-native-echarts-project-805b969b5b12)
 
 
 <!-- post-list:end -->
