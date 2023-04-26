@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, April 26, 2023 at 6:15:41 AM
+> Last updated: Wednesday, April 26, 2023 at 12:10:13 PM
 
 > Showing 5 of 12 posts.
 
-[![HOW TO CREATE KEY VAULT IN AZURE AND STORE SECRET PASSWORD WITHIN THE KEY VAULT](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/HOW_TO_CREATE_KEY_VAULT_IN_AZURE_AND_STORE_SECRET_PASSWORD_WITHIN_THE_KEY_VAULT.svg)](https://dev.to/mojeed-88/how-to-create-key-vault-in-azure-and-store-secret-password-within-the-key-vault-33o8)
-[![Introducing Medusa’s Plugins Library for Payments, CMS, Notifications, and more.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_Medusa’s_Plugins_Library_for_Payments__CMS__Notifications__and_more..svg)](https://dev.to/medusajs/introducing-medusas-plugins-library-for-payments-cms-notifications-and-more-glk)
-[![Learning Javascript as a Python Developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Learning_Javascript_as_a_Python_Developer.svg)](https://dev.to/kachiic/learning-javascript-as-a-python-developer-126g)
-[![Introduction Metaphore Stories](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_Metaphore_Stories.svg)](https://dev.to/darkterminal/introduction-metaphore-stories-12el)
-[![How to Build A GraphQL API with Node.js, Apollo-Server, and MongoDB Atlas](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Build_A_GraphQL_API_with_Node.js__Apollo-Server__and_MongoDB_Atlas.svg)](https://dev.to/onlyoneerin/how-to-build-a-graphql-api-with-nodejs-apollo-server-and-mongodb-atlas-12fm)
+[![Deep Link Nighmare 💀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deep_Link_Nighmare_💀.svg)](https://dev.to/bhumit070/deep-link-nighmare-49ig)
+[![Let’s play a Javascript Frontend Game](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Let’s_play_a_Javascript_Frontend_Game.svg)](https://dev.to/shreyvijayvargiya/lets-play-a-javascript-frontend-game-3i7o)
+[![Control a 3D Model with Your Phone: A React, Three.js, and Socket.io Project 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Control_a_3D_Model_with_Your_Phone__A_React__Three.js__and_Socket.io_Project_🚀.svg)](https://dev.to/namanvyas/control-a-3d-model-with-your-phone-a-react-threejs-and-socketio-project-356c)
+[![You should stop using Spring @Autowired](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/You_should_stop_using_Spring_@Autowired.svg)](https://dev.to/felixcoutinho/you-should-stop-using-spring-autowired-p8i)
+[![Okta's auth0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Okta's_auth0.svg)](https://dev.to/yellowgem/oktas-auth0-28om)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, April 26, 2023 at 6:15:45 AM
+> Last updated: Wednesday, April 26, 2023 at 12:10:18 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, April 26, 2023 at 6:15:54 AM
+> Last updated: Wednesday, April 26, 2023 at 12:10:26 PM
 
 > Showing 5 of 30 posts.
 
