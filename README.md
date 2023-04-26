@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, April 26, 2023 at 12:11:12 AM
+> Last updated: Wednesday, April 26, 2023 at 6:15:41 AM
 
 > Showing 5 of 12 posts.
 
-[![TextGPT: A Profitable Weekend Project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/TextGPT__A_Profitable_Weekend_Project.svg)](https://dev.to/fvaldes33/textgpt-a-profitable-weekend-project-1e01)
-[![Mastering TypeScript 5.0 Decorators: The Ultimate Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_TypeScript_5.0_Decorators__The_Ultimate_Guide.svg)](https://dev.to/pipaliyachirag/mastering-typescript-50-decorators-the-ultimate-guide-26f0)
-[![How to Write Clean Code: Tips and Strategies for Software Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Write_Clean_Code__Tips_and_Strategies_for_Software_Developers.svg)](https://dev.to/sunalii/how-to-write-clean-code-tips-and-strategies-for-software-developers-22l4)
-[![ChatGPT with Langchain: An Overview](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/ChatGPT_with_Langchain__An_Overview.svg)](https://dev.to/royrebello/chatgpt-with-langchain-an-overview-3ppg)
-[![C# Extension Methods: the basics you need to know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/C__Extension_Methods__the_basics_you_need_to_know.svg)](https://dev.to/katerinamykhailyk/c-extension-methods-the-basics-you-need-to-know-164i)
+[![HOW TO CREATE KEY VAULT IN AZURE AND STORE SECRET PASSWORD WITHIN THE KEY VAULT](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/HOW_TO_CREATE_KEY_VAULT_IN_AZURE_AND_STORE_SECRET_PASSWORD_WITHIN_THE_KEY_VAULT.svg)](https://dev.to/mojeed-88/how-to-create-key-vault-in-azure-and-store-secret-password-within-the-key-vault-33o8)
+[![Introducing Medusa’s Plugins Library for Payments, CMS, Notifications, and more.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_Medusa’s_Plugins_Library_for_Payments__CMS__Notifications__and_more..svg)](https://dev.to/medusajs/introducing-medusas-plugins-library-for-payments-cms-notifications-and-more-glk)
+[![Learning Javascript as a Python Developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Learning_Javascript_as_a_Python_Developer.svg)](https://dev.to/kachiic/learning-javascript-as-a-python-developer-126g)
+[![Introduction Metaphore Stories](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_Metaphore_Stories.svg)](https://dev.to/darkterminal/introduction-metaphore-stories-12el)
+[![How to Build A GraphQL API with Node.js, Apollo-Server, and MongoDB Atlas](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Build_A_GraphQL_API_with_Node.js__Apollo-Server__and_MongoDB_Atlas.svg)](https://dev.to/onlyoneerin/how-to-build-a-graphql-api-with-nodejs-apollo-server-and-mongodb-atlas-12fm)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, April 26, 2023 at 12:11:15 AM
+> Last updated: Wednesday, April 26, 2023 at 6:15:45 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, April 26, 2023 at 12:11:21 AM
+> Last updated: Wednesday, April 26, 2023 at 6:15:54 AM
 
 > Showing 5 of 30 posts.
 
