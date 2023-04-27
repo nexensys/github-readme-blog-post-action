@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, April 26, 2023 at 12:10:13 PM
+> Last updated: Wednesday, April 26, 2023 at 6:46:58 PM
 
 > Showing 5 of 12 posts.
 
-[![Deep Link Nighmare 💀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deep_Link_Nighmare_💀.svg)](https://dev.to/bhumit070/deep-link-nighmare-49ig)
-[![Let’s play a Javascript Frontend Game](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Let’s_play_a_Javascript_Frontend_Game.svg)](https://dev.to/shreyvijayvargiya/lets-play-a-javascript-frontend-game-3i7o)
-[![Control a 3D Model with Your Phone: A React, Three.js, and Socket.io Project 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Control_a_3D_Model_with_Your_Phone__A_React__Three.js__and_Socket.io_Project_🚀.svg)](https://dev.to/namanvyas/control-a-3d-model-with-your-phone-a-react-threejs-and-socketio-project-356c)
-[![You should stop using Spring @Autowired](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/You_should_stop_using_Spring_@Autowired.svg)](https://dev.to/felixcoutinho/you-should-stop-using-spring-autowired-p8i)
-[![Okta's auth0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Okta's_auth0.svg)](https://dev.to/yellowgem/oktas-auth0-28om)
+[![Choose the Right Architecture for your Startup on AWS as a CTO 🏗️☁️](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Choose_the_Right_Architecture_for_your_Startup_on_AWS_as_a_CTO_🏗️☁️.svg)](https://dev.to/aws-builders/choose-the-right-architecture-for-your-startup-on-aws-as-a-cto-26i3)
+[![Building Golang Lambda Functions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_Golang_Lambda_Functions.svg)](https://dev.to/aws-builders/building-golang-lambda-functions-46mj)
+[![Separate a multi-digit integer into a single-digit array.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Separate_a_multi-digit_integer_into_a_single-digit_array..svg)](https://dev.to/laladiaz/separate-a-multi-digit-integer-into-a-single-digit-array-1ll2)
+[![Welcome Thread - v222](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Welcome_Thread_-_v222.svg)](https://dev.to/sloan/welcome-thread-v222-13eo)
+[![HelloNewbie - v2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/HelloNewbie_-_v2.svg)](https://dev.to/codenewbieteam/hellonewbie-v2-p52)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, April 26, 2023 at 12:10:18 PM
+> Last updated: Wednesday, April 26, 2023 at 6:47:01 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, April 26, 2023 at 12:10:26 PM
+> Last updated: Wednesday, April 26, 2023 at 6:47:09 PM
 
 > Showing 5 of 30 posts.
 
