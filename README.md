@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, April 27, 2023 at 12:11:13 AM
+> Last updated: Thursday, April 27, 2023 at 6:15:07 AM
 
 > Showing 5 of 12 posts.
 
-[![The Top VS Code Extensions Every Frontend Developer Needs in Their Toolkit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Top_VS_Code_Extensions_Every_Frontend_Developer_Needs_in_Their_Toolkit.svg)](https://dev.to/israelmitolu/the-top-vs-code-extensions-every-frontend-developer-needs-in-their-toolkit-1nkm)
-[![Breaking Down Success: What Separates Top Developers from the Rest](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Breaking_Down_Success__What_Separates_Top_Developers_from_the_Rest.svg)](https://dev.to/dhruvindev/breaking-down-success-what-separates-top-developers-from-the-rest-210j)
-[![How we built the Fastest ChatGPT Website Chatbot](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_we_built_the_Fastest_ChatGPT_Website_Chatbot.svg)](https://dev.to/polterguy/how-we-built-the-fastest-chatgpt-website-chatbot-2gkk)
-[![[JS/TS] Cookie Muncher - Effortless cookie management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/[JS_TS]_Cookie_Muncher_-_Effortless_cookie_management.svg)](https://dev.to/bluzzi/jsts-cookie-muncher-effortless-cookie-management-1nfn)
-[![remove duplicate words from string in java](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/remove_duplicate_words_from_string_in_java.svg)](https://dev.to/realnamehidden1_61/remove-duplicate-words-from-string-in-java-29e0)
+[![Building a Successful Junior Software Engineering Career: A Path to Success](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_Successful_Junior_Software_Engineering_Career__A_Path_to_Success.svg)](https://dev.to/bolshchikov/building-a-successful-junior-software-engineering-career-a-path-to-success-3n81)
+[![Global CSS Art](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Global_CSS_Art.svg)](https://dev.to/vulcanwm/global-css-art-27lg)
+[!["Unleashing Innovation: The Intersection of Product Development and Cloud Computing"](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_Unleashing_Innovation__The_Intersection_of_Product_Development_and_Cloud_Computing_.svg)](https://dev.to/toluwani_oluwaloseyi/unleashing-innovation-the-intersection-of-product-development-and-cloud-computing-jg7)
+[![Meta Skills of a Software Engineer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Meta_Skills_of_a_Software_Engineer.svg)](https://dev.to/solidi/meta-skills-of-a-software-engineer-1fa6)
+[![Show dev: Flowbite Svelte - Open-source UI component library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Show_dev__Flowbite_Svelte_-_Open-source_UI_component_library.svg)](https://dev.to/themesberg/show-dev-flowbite-svelte-open-source-ui-component-library-4ff2)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, April 27, 2023 at 12:11:16 AM
+> Last updated: Thursday, April 27, 2023 at 6:15:11 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, April 27, 2023 at 12:11:19 AM
+> Last updated: Thursday, April 27, 2023 at 6:15:18 AM
 
 > Showing 5 of 30 posts.
 
+[![Flowbite Svelte - UI Component Library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Flowbite_Svelte_-_UI_Component_Library.svg)](https://flowbite-svelte.com/)
 [![GitHub - simonguo/docsify-docx-converter: A tool for building docx based on your docsify project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_simonguo_docsify-docx-converter__A_tool_for_building_docx_based_on_your_docsify_project.svg)](https://github.com/simonguo/docsify-docx-converter)
 [![nodejs-clean-architecture/README.md at main · Z3r0J/nodejs-clean-architecture](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/nodejs-clean-architecture_README.md_at_main_·_Z3r0J_nodejs-clean-architecture.svg)](https://github.com/Z3r0J/nodejs-clean-architecture)
 [![The Art of Effortless Programming](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Art_of_Effortless_Programming.svg)](https://medium.com/javascript-scene/the-art-of-effortless-programming-3e1860abe1d3)
 [![Anime.js to MP4 and GIF with Node.js and FFMPEG](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Anime.js_to_MP4_and_GIF_with_Node.js_and_FFMPEG.svg)](https://soshace.com/anime-js-to-mp4-and-gif-with-node-js-and-ffmpeg/)
-[![GitHub - bitair-org/concurrent.js: Non-blocking Computation for JavaScript RTEs (Web Browsers, Node.js & Deno)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_bitair-org_concurrent.js__Non-blocking_Computation_for_JavaScript_RTEs_(Web_Browsers__Node.js___Deno).svg)](https://github.com/bitair-org/concurrent.js)
 
 
 <!-- post-list:end -->
