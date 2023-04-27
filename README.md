@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, April 27, 2023 at 6:15:07 AM
+> Last updated: Thursday, April 27, 2023 at 12:10:18 PM
 
 > Showing 5 of 12 posts.
 
-[![Building a Successful Junior Software Engineering Career: A Path to Success](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_Successful_Junior_Software_Engineering_Career__A_Path_to_Success.svg)](https://dev.to/bolshchikov/building-a-successful-junior-software-engineering-career-a-path-to-success-3n81)
-[![Global CSS Art](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Global_CSS_Art.svg)](https://dev.to/vulcanwm/global-css-art-27lg)
-[!["Unleashing Innovation: The Intersection of Product Development and Cloud Computing"](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_Unleashing_Innovation__The_Intersection_of_Product_Development_and_Cloud_Computing_.svg)](https://dev.to/toluwani_oluwaloseyi/unleashing-innovation-the-intersection-of-product-development-and-cloud-computing-jg7)
-[![Meta Skills of a Software Engineer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Meta_Skills_of_a_Software_Engineer.svg)](https://dev.to/solidi/meta-skills-of-a-software-engineer-1fa6)
-[![Show dev: Flowbite Svelte - Open-source UI component library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Show_dev__Flowbite_Svelte_-_Open-source_UI_component_library.svg)](https://dev.to/themesberg/show-dev-flowbite-svelte-open-source-ui-component-library-4ff2)
+[![The Challenges Marketers and Developers Face in the Era of Headless CMS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Challenges_Marketers_and_Developers_Face_in_the_Era_of_Headless_CMS.svg)](https://dev.to/stackbit/the-challenges-marketers-and-developers-face-in-the-era-of-headless-cms-l30)
+[![Semantic Versioning](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Semantic_Versioning.svg)](https://dev.to/wadizaatour/semantic-versioning-53ni)
+[![The Internet is Like a Convention: Why You Should Grab the Mic and Start Talking](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Internet_is_Like_a_Convention__Why_You_Should_Grab_the_Mic_and_Start_Talking.svg)](https://dev.to/lakincoder/the-internet-is-like-a-convention-why-you-should-grab-the-mic-and-start-talking-1l1i)
+[![KubeCon + CloudNativeCon Europe 2023: Highlights from Amsterdam](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/KubeCon_+_CloudNativeCon_Europe_2023__Highlights_from_Amsterdam.svg)](https://dev.to/kubeshop/kubecon-cloudnativecon-europe-2023-highlights-from-amsterdam-3c35)
+[![Musings on C & C++ Declarations](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Musings_on_C___C++_Declarations.svg)](https://dev.to/pauljlucas/musings-on-c-c-declarations-169o)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, April 27, 2023 at 6:15:11 AM
+> Last updated: Thursday, April 27, 2023 at 12:10:22 PM
 
 > Showing 4 of 4 posts.
 
+[![Did you know JavaScript is trademarked?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Did_you_know_JavaScript_is_trademarked_.svg)](https://javascriptweekly.com/issues/636)
 [![On the origin of packages](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/On_the_origin_of_packages.svg)](https://javascriptweekly.com/issues/635)
 [![The return of ECMAScript 2023 (and Angular)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/The_return_of_ECMAScript_2023_(and_Angular).svg)](https://javascriptweekly.com/issues/634)
 [![JavaScript on your schedule](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/JavaScript_on_your_schedule.svg)](https://javascriptweekly.com/issues/633)
-[![Import maps go universal](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Import_maps_go_universal.svg)](https://javascriptweekly.com/issues/632)
 
 
 ## Echo JS
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, April 27, 2023 at 6:15:18 AM
+> Last updated: Thursday, April 27, 2023 at 12:10:29 PM
 
 > Showing 5 of 30 posts.
 
