@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, April 26, 2023 at 6:46:58 PM
+> Last updated: Thursday, April 27, 2023 at 12:11:13 AM
 
 > Showing 5 of 12 posts.
 
-[![Choose the Right Architecture for your Startup on AWS as a CTO 🏗️☁️](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Choose_the_Right_Architecture_for_your_Startup_on_AWS_as_a_CTO_🏗️☁️.svg)](https://dev.to/aws-builders/choose-the-right-architecture-for-your-startup-on-aws-as-a-cto-26i3)
-[![Building Golang Lambda Functions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_Golang_Lambda_Functions.svg)](https://dev.to/aws-builders/building-golang-lambda-functions-46mj)
-[![Separate a multi-digit integer into a single-digit array.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Separate_a_multi-digit_integer_into_a_single-digit_array..svg)](https://dev.to/laladiaz/separate-a-multi-digit-integer-into-a-single-digit-array-1ll2)
-[![Welcome Thread - v222](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Welcome_Thread_-_v222.svg)](https://dev.to/sloan/welcome-thread-v222-13eo)
-[![HelloNewbie - v2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/HelloNewbie_-_v2.svg)](https://dev.to/codenewbieteam/hellonewbie-v2-p52)
+[![The Top VS Code Extensions Every Frontend Developer Needs in Their Toolkit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Top_VS_Code_Extensions_Every_Frontend_Developer_Needs_in_Their_Toolkit.svg)](https://dev.to/israelmitolu/the-top-vs-code-extensions-every-frontend-developer-needs-in-their-toolkit-1nkm)
+[![Breaking Down Success: What Separates Top Developers from the Rest](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Breaking_Down_Success__What_Separates_Top_Developers_from_the_Rest.svg)](https://dev.to/dhruvindev/breaking-down-success-what-separates-top-developers-from-the-rest-210j)
+[![How we built the Fastest ChatGPT Website Chatbot](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_we_built_the_Fastest_ChatGPT_Website_Chatbot.svg)](https://dev.to/polterguy/how-we-built-the-fastest-chatgpt-website-chatbot-2gkk)
+[![[JS/TS] Cookie Muncher - Effortless cookie management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/[JS_TS]_Cookie_Muncher_-_Effortless_cookie_management.svg)](https://dev.to/bluzzi/jsts-cookie-muncher-effortless-cookie-management-1nfn)
+[![remove duplicate words from string in java](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/remove_duplicate_words_from_string_in_java.svg)](https://dev.to/realnamehidden1_61/remove-duplicate-words-from-string-in-java-29e0)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, April 26, 2023 at 6:47:01 PM
+> Last updated: Thursday, April 27, 2023 at 12:11:16 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, April 26, 2023 at 6:47:09 PM
+> Last updated: Thursday, April 27, 2023 at 12:11:19 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - simonguo/docsify-docx-converter: A tool for building docx based on your docsify project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_simonguo_docsify-docx-converter__A_tool_for_building_docx_based_on_your_docsify_project.svg)](https://github.com/simonguo/docsify-docx-converter)
 [![nodejs-clean-architecture/README.md at main · Z3r0J/nodejs-clean-architecture](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/nodejs-clean-architecture_README.md_at_main_·_Z3r0J_nodejs-clean-architecture.svg)](https://github.com/Z3r0J/nodejs-clean-architecture)
 [![The Art of Effortless Programming](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Art_of_Effortless_Programming.svg)](https://medium.com/javascript-scene/the-art-of-effortless-programming-3e1860abe1d3)
 [![Anime.js to MP4 and GIF with Node.js and FFMPEG](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Anime.js_to_MP4_and_GIF_with_Node.js_and_FFMPEG.svg)](https://soshace.com/anime-js-to-mp4-and-gif-with-node-js-and-ffmpeg/)
 [![GitHub - bitair-org/concurrent.js: Non-blocking Computation for JavaScript RTEs (Web Browsers, Node.js & Deno)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_bitair-org_concurrent.js__Non-blocking_Computation_for_JavaScript_RTEs_(Web_Browsers__Node.js___Deno).svg)](https://github.com/bitair-org/concurrent.js)
-[![API with NestJS #105. Implementing soft deletes with Prisma and middleware](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__105._Implementing_soft_deletes_with_Prisma_and_middleware.svg)](https://wanago.io/2023/04/24/api-nestjs-prisma-soft-deletes/)
 
 
 <!-- post-list:end -->
