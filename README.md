@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, April 27, 2023 at 6:44:52 PM
+> Last updated: Friday, April 28, 2023 at 12:11:09 AM
 
 > Showing 5 of 12 posts.
 
-[![Beyond Senior - The Vista Problem](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Beyond_Senior_-_The_Vista_Problem.svg)](https://dev.to/baweaver/beyond-senior-the-vista-problem-507k)
-[![The Hidden Cost of Social Media for Developers Community](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Hidden_Cost_of_Social_Media_for_Developers_Community.svg)](https://dev.to/smmd/the-hidden-cost-of-social-media-for-developers-community-3p4l)
-[![What is JavaScript?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_JavaScript_.svg)](https://dev.to/philipjohnbasile/what-is-javascript-50pc)
-[![Why upgrade to Yarn Berry?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_upgrade_to_Yarn_Berry_.svg)](https://dev.to/raxraj/why-upgrade-to-yarn-berry-2pdk)
-[![Extension to directly run code blocks from your markdown editor](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Extension_to_directly_run_code_blocks_from_your_markdown_editor.svg)](https://dev.to/sourishkrout/extension-to-directly-run-code-blocks-from-your-markdown-editor-31oc)
+[![Introduction to GEE, CLIMATE Engine, and Satellite Data](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_to_GEE__CLIMATE_Engine__and_Satellite_Data.svg)](https://dev.to/geedevs-nairobi/introduction-to-gee-climate-engine-and-satellite-data-2l7c)
+[![Assessing Cloud Risks with CCSP: A Framework for Risk Management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Assessing_Cloud_Risks_with_CCSP__A_Framework_for_Risk_Management.svg)](https://dev.to/edenwheeler/assessing-cloud-risks-with-ccsp-a-framework-for-risk-management-146o)
+[![Getting Started with Google Earth Engine](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_Started_with_Google_Earth_Engine.svg)](https://dev.to/geedevs-nairobi/getting-started-with-google-earth-engine-5ei)
+[![Building Real-Time Web Applications with Blazor SignalR](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_Real-Time_Web_Applications_with_Blazor_SignalR.svg)](https://dev.to/bhavin9920/building-real-time-web-applications-with-blazor-signalr-4ikl)
+[![What's new in Node.js 18: A comprehensive guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What's_new_in_Node.js_18__A_comprehensive_guide.svg)](https://dev.to/ifourtechnolab/whats-new-in-nodejs-18-a-comprehensive-guide-41m9)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, April 27, 2023 at 6:44:55 PM
+> Last updated: Friday, April 28, 2023 at 12:11:13 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, April 27, 2023 at 6:44:59 PM
+> Last updated: Friday, April 28, 2023 at 12:11:15 AM
 
 > Showing 5 of 30 posts.
 
