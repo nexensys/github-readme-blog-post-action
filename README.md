@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, April 28, 2023 at 6:14:48 AM
+> Last updated: Friday, April 28, 2023 at 12:10:04 PM
 
 > Showing 5 of 12 posts.
 
-[![Everything you need to know about Webpack's Bundle-Analyzer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Everything_you_need_to_know_about_Webpack's_Bundle-Analyzer.svg)](https://dev.to/mbarzeev/everything-you-need-to-know-about-webpacks-bundle-analyzer-g0l)
-[![How to configure Typescript in your project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_configure_Typescript_in_your_project.svg)](https://dev.to/wadizaatour/how-to-configutre-typscript-in-your-project-484h)
-[![TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/TypeScript.svg)](https://dev.to/wadizaatour/typescript-4jol)
-[![What's New in Novu 0.14.0?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What's_New_in_Novu_0.14.0_.svg)](https://dev.to/novu/whats-new-in-novu-0140-4p5c)
-[![Building Scalable Applications with AWS Serverless Application Model](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_Scalable_Applications_with_AWS_Serverless_Application_Model.svg)](https://dev.to/imsampro/building-scalable-applications-with-aws-serverless-application-model-11ai)
+[![Change your logo for dark mode in MJML](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Change_your_logo_for_dark_mode_in_MJML.svg)](https://dev.to/sidhant_suvagiya/change-your-logo-for-dark-mode-in-mjml-104j)
+[![Who's looking for open source contributors? (week 39)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Who's_looking_for_open_source_contributors__(week_39).svg)](https://dev.to/opensauced/whos-looking-for-open-source-contributors-week-39-41jf)
+[![We're on Bluesky ☁️](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/We're_on_Bluesky_☁️.svg)](https://dev.to/devteam/were-on-bluesky-4k44)
+[![What was your win this week?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_was_your_win_this_week_.svg)](https://dev.to/devteam/what-was-your-win-this-week-33e6)
+[![Domain-Driven Design: Simple Explanation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Domain-Driven_Design__Simple_Explanation.svg)](https://dev.to/alexhyettdev/domain-driven-design-simple-explanation-23b0)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, April 28, 2023 at 6:14:52 AM
+> Last updated: Friday, April 28, 2023 at 12:10:07 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, April 28, 2023 at 6:14:55 AM
+> Last updated: Friday, April 28, 2023 at 12:10:11 PM
 
 > Showing 5 of 30 posts.
 
+[![Template Literals in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Template_Literals_in_JavaScript.svg)](https://www.ma-no.org/en/programming/javascript/template-literals-in-javascript)
+[![What's New in Mongoose 7.1: BigInt Support and createCollections()](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What's_New_in_Mongoose_7.1__BigInt_Support_and_createCollections().svg)](http://www.thecodebarbarian.com/whats-new-in-mongoose-7-1-bigint-support-createcollections)
+[![Techstack Experience in Angular vs React: What to Choose for Your Application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Techstack_Experience_in_Angular_vs_React__What_to_Choose_for_Your_Application.svg)](https://tech-stack.com/blog/techstack-experience-in-angular-vs-react-what-to-choose-for-your-application/)
 [![GitHub - shoaib-jamal/rebornxp: JavaScript based modern Windows XPerience right in your browser!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_shoaib-jamal_rebornxp__JavaScript_based_modern_Windows_XPerience_right_in_your_browser!.svg)](https://github.com/shoaib-jamal/rebornxp)
 [![How to get started with the TERN stack](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_get_started_with_the_TERN_stack.svg)](https://dev.to/tigrisdata/how-to-get-started-with-the-tern-stack-4k1i)
-[![Flowbite Svelte - UI Component Library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Flowbite_Svelte_-_UI_Component_Library.svg)](https://flowbite-svelte.com/)
-[![GitHub - simonguo/docsify-docx-converter: A tool for building docx based on your docsify project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_simonguo_docsify-docx-converter__A_tool_for_building_docx_based_on_your_docsify_project.svg)](https://github.com/simonguo/docsify-docx-converter)
-[![nodejs-clean-architecture/README.md at main · Z3r0J/nodejs-clean-architecture](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/nodejs-clean-architecture_README.md_at_main_·_Z3r0J_nodejs-clean-architecture.svg)](https://github.com/Z3r0J/nodejs-clean-architecture)
 
 
 <!-- post-list:end -->
