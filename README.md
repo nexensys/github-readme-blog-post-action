@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, April 27, 2023 at 12:10:18 PM
+> Last updated: Thursday, April 27, 2023 at 6:44:52 PM
 
 > Showing 5 of 12 posts.
 
-[![The Challenges Marketers and Developers Face in the Era of Headless CMS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Challenges_Marketers_and_Developers_Face_in_the_Era_of_Headless_CMS.svg)](https://dev.to/stackbit/the-challenges-marketers-and-developers-face-in-the-era-of-headless-cms-l30)
-[![Semantic Versioning](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Semantic_Versioning.svg)](https://dev.to/wadizaatour/semantic-versioning-53ni)
-[![The Internet is Like a Convention: Why You Should Grab the Mic and Start Talking](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Internet_is_Like_a_Convention__Why_You_Should_Grab_the_Mic_and_Start_Talking.svg)](https://dev.to/lakincoder/the-internet-is-like-a-convention-why-you-should-grab-the-mic-and-start-talking-1l1i)
-[![KubeCon + CloudNativeCon Europe 2023: Highlights from Amsterdam](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/KubeCon_+_CloudNativeCon_Europe_2023__Highlights_from_Amsterdam.svg)](https://dev.to/kubeshop/kubecon-cloudnativecon-europe-2023-highlights-from-amsterdam-3c35)
-[![Musings on C & C++ Declarations](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Musings_on_C___C++_Declarations.svg)](https://dev.to/pauljlucas/musings-on-c-c-declarations-169o)
+[![Beyond Senior - The Vista Problem](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Beyond_Senior_-_The_Vista_Problem.svg)](https://dev.to/baweaver/beyond-senior-the-vista-problem-507k)
+[![The Hidden Cost of Social Media for Developers Community](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Hidden_Cost_of_Social_Media_for_Developers_Community.svg)](https://dev.to/smmd/the-hidden-cost-of-social-media-for-developers-community-3p4l)
+[![What is JavaScript?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_JavaScript_.svg)](https://dev.to/philipjohnbasile/what-is-javascript-50pc)
+[![Why upgrade to Yarn Berry?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_upgrade_to_Yarn_Berry_.svg)](https://dev.to/raxraj/why-upgrade-to-yarn-berry-2pdk)
+[![Extension to directly run code blocks from your markdown editor](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Extension_to_directly_run_code_blocks_from_your_markdown_editor.svg)](https://dev.to/sourishkrout/extension-to-directly-run-code-blocks-from-your-markdown-editor-31oc)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, April 27, 2023 at 12:10:22 PM
+> Last updated: Thursday, April 27, 2023 at 6:44:55 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, April 27, 2023 at 12:10:29 PM
+> Last updated: Thursday, April 27, 2023 at 6:44:59 PM
 
 > Showing 5 of 30 posts.
 
+[![How to get started with the TERN stack](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_get_started_with_the_TERN_stack.svg)](https://dev.to/tigrisdata/how-to-get-started-with-the-tern-stack-4k1i)
 [![Flowbite Svelte - UI Component Library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Flowbite_Svelte_-_UI_Component_Library.svg)](https://flowbite-svelte.com/)
 [![GitHub - simonguo/docsify-docx-converter: A tool for building docx based on your docsify project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_simonguo_docsify-docx-converter__A_tool_for_building_docx_based_on_your_docsify_project.svg)](https://github.com/simonguo/docsify-docx-converter)
 [![nodejs-clean-architecture/README.md at main · Z3r0J/nodejs-clean-architecture](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/nodejs-clean-architecture_README.md_at_main_·_Z3r0J_nodejs-clean-architecture.svg)](https://github.com/Z3r0J/nodejs-clean-architecture)
 [![The Art of Effortless Programming](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Art_of_Effortless_Programming.svg)](https://medium.com/javascript-scene/the-art-of-effortless-programming-3e1860abe1d3)
-[![Anime.js to MP4 and GIF with Node.js and FFMPEG](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Anime.js_to_MP4_and_GIF_with_Node.js_and_FFMPEG.svg)](https://soshace.com/anime-js-to-mp4-and-gif-with-node-js-and-ffmpeg/)
 
 
 <!-- post-list:end -->
