@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, April 28, 2023 at 12:11:09 AM
+> Last updated: Friday, April 28, 2023 at 6:14:48 AM
 
 > Showing 5 of 12 posts.
 
-[![Introduction to GEE, CLIMATE Engine, and Satellite Data](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_to_GEE__CLIMATE_Engine__and_Satellite_Data.svg)](https://dev.to/geedevs-nairobi/introduction-to-gee-climate-engine-and-satellite-data-2l7c)
-[![Assessing Cloud Risks with CCSP: A Framework for Risk Management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Assessing_Cloud_Risks_with_CCSP__A_Framework_for_Risk_Management.svg)](https://dev.to/edenwheeler/assessing-cloud-risks-with-ccsp-a-framework-for-risk-management-146o)
-[![Getting Started with Google Earth Engine](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_Started_with_Google_Earth_Engine.svg)](https://dev.to/geedevs-nairobi/getting-started-with-google-earth-engine-5ei)
-[![Building Real-Time Web Applications with Blazor SignalR](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_Real-Time_Web_Applications_with_Blazor_SignalR.svg)](https://dev.to/bhavin9920/building-real-time-web-applications-with-blazor-signalr-4ikl)
-[![What's new in Node.js 18: A comprehensive guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What's_new_in_Node.js_18__A_comprehensive_guide.svg)](https://dev.to/ifourtechnolab/whats-new-in-nodejs-18-a-comprehensive-guide-41m9)
+[![Everything you need to know about Webpack's Bundle-Analyzer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Everything_you_need_to_know_about_Webpack's_Bundle-Analyzer.svg)](https://dev.to/mbarzeev/everything-you-need-to-know-about-webpacks-bundle-analyzer-g0l)
+[![How to configure Typescript in your project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_configure_Typescript_in_your_project.svg)](https://dev.to/wadizaatour/how-to-configutre-typscript-in-your-project-484h)
+[![TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/TypeScript.svg)](https://dev.to/wadizaatour/typescript-4jol)
+[![What's New in Novu 0.14.0?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What's_New_in_Novu_0.14.0_.svg)](https://dev.to/novu/whats-new-in-novu-0140-4p5c)
+[![Building Scalable Applications with AWS Serverless Application Model](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_Scalable_Applications_with_AWS_Serverless_Application_Model.svg)](https://dev.to/imsampro/building-scalable-applications-with-aws-serverless-application-model-11ai)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, April 28, 2023 at 12:11:13 AM
+> Last updated: Friday, April 28, 2023 at 6:14:52 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, April 28, 2023 at 12:11:15 AM
+> Last updated: Friday, April 28, 2023 at 6:14:55 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - shoaib-jamal/rebornxp: JavaScript based modern Windows XPerience right in your browser!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_shoaib-jamal_rebornxp__JavaScript_based_modern_Windows_XPerience_right_in_your_browser!.svg)](https://github.com/shoaib-jamal/rebornxp)
 [![How to get started with the TERN stack](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_get_started_with_the_TERN_stack.svg)](https://dev.to/tigrisdata/how-to-get-started-with-the-tern-stack-4k1i)
 [![Flowbite Svelte - UI Component Library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Flowbite_Svelte_-_UI_Component_Library.svg)](https://flowbite-svelte.com/)
 [![GitHub - simonguo/docsify-docx-converter: A tool for building docx based on your docsify project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_simonguo_docsify-docx-converter__A_tool_for_building_docx_based_on_your_docsify_project.svg)](https://github.com/simonguo/docsify-docx-converter)
 [![nodejs-clean-architecture/README.md at main · Z3r0J/nodejs-clean-architecture](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/nodejs-clean-architecture_README.md_at_main_·_Z3r0J_nodejs-clean-architecture.svg)](https://github.com/Z3r0J/nodejs-clean-architecture)
-[![The Art of Effortless Programming](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Art_of_Effortless_Programming.svg)](https://medium.com/javascript-scene/the-art-of-effortless-programming-3e1860abe1d3)
 
 
 <!-- post-list:end -->
