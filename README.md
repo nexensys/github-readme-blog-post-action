@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, April 28, 2023 at 12:10:04 PM
+> Last updated: Saturday, April 29, 2023 at 6:13:41 AM
 
 > Showing 5 of 12 posts.
 
-[![Change your logo for dark mode in MJML](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Change_your_logo_for_dark_mode_in_MJML.svg)](https://dev.to/sidhant_suvagiya/change-your-logo-for-dark-mode-in-mjml-104j)
-[![Who's looking for open source contributors? (week 39)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Who's_looking_for_open_source_contributors__(week_39).svg)](https://dev.to/opensauced/whos-looking-for-open-source-contributors-week-39-41jf)
-[![We're on Bluesky ☁️](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/We're_on_Bluesky_☁️.svg)](https://dev.to/devteam/were-on-bluesky-4k44)
-[![What was your win this week?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_was_your_win_this_week_.svg)](https://dev.to/devteam/what-was-your-win-this-week-33e6)
-[![Domain-Driven Design: Simple Explanation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Domain-Driven_Design__Simple_Explanation.svg)](https://dev.to/alexhyettdev/domain-driven-design-simple-explanation-23b0)
+[![Dockerizing a Node.js Application from Scratch](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dockerizing_a_Node.js_Application_from_Scratch.svg)](https://dev.to/hossainchisty/dockerizing-a-nodejs-application-from-scratch-adp)
+[![Adding timeout and multiple abort signals to fetch() (TypeScript/React)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Adding_timeout_and_multiple_abort_signals_to_fetch()_(TypeScript_React).svg)](https://dev.to/rashidshamloo/adding-timeout-and-multiple-abort-signals-to-fetch-typescriptreact-33bb)
+[![React State ManageMent](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_State_ManageMent.svg)](https://dev.to/abirahmed/react-state-management-327m)
+[![Python for Newbies: Your Ultimate Guide to Learning Python and Best Practices](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Python_for_Newbies__Your_Ultimate_Guide_to_Learning_Python_and_Best_Practices.svg)](https://dev.to/aradwan20/python-for-newbies-your-ultimate-guide-to-learning-python-and-best-practices-h2k)
+[![📝🤔💻 REST vs GraphQL: Which One Should You Use? 🌐📊](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/📝🤔💻_REST_vs_GraphQL__Which_One_Should_You_Use__🌐📊.svg)](https://dev.to/arunbingari/rest-vs-graphql-which-one-should-you-use-5ggb)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, April 28, 2023 at 12:10:07 PM
+> Last updated: Saturday, April 29, 2023 at 6:13:45 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, April 28, 2023 at 12:10:11 PM
+> Last updated: Saturday, April 29, 2023 at 6:13:49 AM
 
 > Showing 5 of 30 posts.
 
+[![set-interval-manager](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/set-interval-manager.svg)](https://www.npmjs.com/package/set-interval-manager)
 [![Template Literals in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Template_Literals_in_JavaScript.svg)](https://www.ma-no.org/en/programming/javascript/template-literals-in-javascript)
 [![What's New in Mongoose 7.1: BigInt Support and createCollections()](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What's_New_in_Mongoose_7.1__BigInt_Support_and_createCollections().svg)](http://www.thecodebarbarian.com/whats-new-in-mongoose-7-1-bigint-support-createcollections)
 [![Techstack Experience in Angular vs React: What to Choose for Your Application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Techstack_Experience_in_Angular_vs_React__What_to_Choose_for_Your_Application.svg)](https://tech-stack.com/blog/techstack-experience-in-angular-vs-react-what-to-choose-for-your-application/)
 [![GitHub - shoaib-jamal/rebornxp: JavaScript based modern Windows XPerience right in your browser!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_shoaib-jamal_rebornxp__JavaScript_based_modern_Windows_XPerience_right_in_your_browser!.svg)](https://github.com/shoaib-jamal/rebornxp)
-[![How to get started with the TERN stack](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_get_started_with_the_TERN_stack.svg)](https://dev.to/tigrisdata/how-to-get-started-with-the-tern-stack-4k1i)
 
 
 <!-- post-list:end -->
