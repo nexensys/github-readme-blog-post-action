@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, April 29, 2023 at 6:13:41 AM
+> Last updated: Saturday, April 29, 2023 at 12:09:27 PM
 
 > Showing 5 of 12 posts.
 
-[![Dockerizing a Node.js Application from Scratch](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dockerizing_a_Node.js_Application_from_Scratch.svg)](https://dev.to/hossainchisty/dockerizing-a-nodejs-application-from-scratch-adp)
-[![Adding timeout and multiple abort signals to fetch() (TypeScript/React)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Adding_timeout_and_multiple_abort_signals_to_fetch()_(TypeScript_React).svg)](https://dev.to/rashidshamloo/adding-timeout-and-multiple-abort-signals-to-fetch-typescriptreact-33bb)
-[![React State ManageMent](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_State_ManageMent.svg)](https://dev.to/abirahmed/react-state-management-327m)
-[![Python for Newbies: Your Ultimate Guide to Learning Python and Best Practices](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Python_for_Newbies__Your_Ultimate_Guide_to_Learning_Python_and_Best_Practices.svg)](https://dev.to/aradwan20/python-for-newbies-your-ultimate-guide-to-learning-python-and-best-practices-h2k)
-[![📝🤔💻 REST vs GraphQL: Which One Should You Use? 🌐📊](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/📝🤔💻_REST_vs_GraphQL__Which_One_Should_You_Use__🌐📊.svg)](https://dev.to/arunbingari/rest-vs-graphql-which-one-should-you-use-5ggb)
+[![Animated Handwriting Text in React with Vara.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Animated_Handwriting_Text_in_React_with_Vara.js.svg)](https://dev.to/dminhvu/animated-handwriting-text-in-react-with-varajs-40p)
+[![Dynamic Volume Provisioning in Kubernetes with AWS and Terraform](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dynamic_Volume_Provisioning_in_Kubernetes_with_AWS_and_Terraform.svg)](https://dev.to/monarene/dynamic-volume-provisioning-in-kubernetes-with-aws-and-terraform-3m6h)
+[![Best Post of the Month - April 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_Post_of_the_Month_-_April_2023.svg)](https://dev.to/jon_snow789/best-post-of-the-month-april-2023-3j90)
+[![Custom API Gateway Authorizer with Golang](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Custom_API_Gateway_Authorizer_with_Golang.svg)](https://dev.to/aws-builders/custom-api-gateway-authorizer-with-golang-3l25)
+[![Terraform, Lambda, and Event Bridge: The perfect trio for AWS cost optimization](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Terraform__Lambda__and_Event_Bridge__The_perfect_trio_for_AWS_cost_optimization.svg)](https://dev.to/aws-builders/terraform-lambda-and-event-bridge-the-perfect-trio-for-aws-cost-optimization-4ig0)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, April 29, 2023 at 6:13:45 AM
+> Last updated: Saturday, April 29, 2023 at 12:09:30 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, April 29, 2023 at 6:13:49 AM
+> Last updated: Saturday, April 29, 2023 at 12:09:36 PM
 
 > Showing 5 of 30 posts.
 
