@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, April 30, 2023 at 12:10:35 AM
+> Last updated: Sunday, April 30, 2023 at 12:09:04 PM
 
 > Showing 5 of 12 posts.
 
-[![My Favorite Free Courses to Learn JavaScript in depth](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_Favorite_Free_Courses_to_Learn_JavaScript_in_depth.svg)](https://dev.to/javinpaul/my-favorite-free-courses-to-learn-javascript-in-depth-3oe9)
-[![What I learned from 2 years of freelancing 🤫💰](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_I_learned_from_2_years_of_freelancing_🤫💰.svg)](https://dev.to/ruppysuppy/what-i-learned-from-2-years-of-freelancing-44h8)
-[![C# file/folder helpers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/C__file_folder_helpers.svg)](https://dev.to/karenpayneoregon/c-filefolder-helpers-4phl)
-[![The Evolution of Social Media and its Impact on Society](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Evolution_of_Social_Media_and_its_Impact_on_Society.svg)](https://dev.to/aliahmed/the-evolution-of-social-media-and-its-impact-on-society-2aal)
-[![Create a Keyword Generator Chrome Extension🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_a_Keyword_Generator_Chrome_Extension🔥.svg)](https://dev.to/devlopersabbir/create-a-keyword-generator-chrome-extension-1gfh)
+[![Recursive GPT and multiple AI-Powered Prompters - Check out these creative projects! 🤖🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Recursive_GPT_and_multiple_AI-Powered_Prompters_-_Check_out_these_creative_projects!_🤖🔥.svg)](https://dev.to/synthetixartifacts/recursive-gpt-and-multiple-ai-powered-prompters-check-out-these-creative-projects-2npm)
+[![FLaNK Stack Weekly for 30 April 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/FLaNK_Stack_Weekly_for_30_April_2023.svg)](https://dev.to/tspannhw/flank-stack-weekly-for-30-april-2023-754)
+[![K8s and AKS Interviewer Questions : ChatGPT Answers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/K8s_and_AKS_Interviewer_Questions___ChatGPT_Answers.svg)](https://dev.to/manmohan/k8s-and-aks-interviewer-questions-chatgpt-answers-2pg6)
+[![Além das unidades CSS - intrinsic sizing e responsividade](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Além_das_unidades_CSS_-_intrinsic_sizing_e_responsividade.svg)](https://dev.to/lixeletto/alem-das-unidades-css-intrinsic-sizing-e-responsividade-gl)
+[![AI tools to try](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AI_tools_to_try.svg)](https://dev.to/misobelica/ai-tools-to-try-a4o)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, April 30, 2023 at 12:10:38 AM
+> Last updated: Sunday, April 30, 2023 at 12:09:07 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, April 30, 2023 at 12:10:41 AM
+> Last updated: Sunday, April 30, 2023 at 12:09:09 PM
 
 > Showing 5 of 30 posts.
 
+[![Simplify GPT API Usage with Tailored Pre-Formatted Queries :: G-Prompter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Simplify_GPT_API_Usage_with_Tailored_Pre-Formatted_Queries____G-Prompter.svg)](https://www.g-prompter.com/en)
+[![Why I Like Using Maps (and WeakMaps) for Handling DOM Nodes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Why_I_Like_Using_Maps_(and_WeakMaps)_for_Handling_DOM_Nodes.svg)](https://macarthur.me/posts/maps-for-dom-nodes/)
+[![GitHub - bitair-org/linker.js: Access C, C++, Rust, Go & Python libraries from Node.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_bitair-org_linker.js__Access_C__C++__Rust__Go___Python_libraries_from_Node.js.svg)](https://github.com/bitair-org/linker.js)
+[![Creating Scalable and Reusable React Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Creating_Scalable_and_Reusable_React_Components.svg)](https://dev.to/aralroca/creating-scalable-and-reusable-react-components-5h08)
 [![set-interval-manager](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/set-interval-manager.svg)](https://www.npmjs.com/package/set-interval-manager)
-[![Template Literals in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Template_Literals_in_JavaScript.svg)](https://www.ma-no.org/en/programming/javascript/template-literals-in-javascript)
-[![What's New in Mongoose 7.1: BigInt Support and createCollections()](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What's_New_in_Mongoose_7.1__BigInt_Support_and_createCollections().svg)](http://www.thecodebarbarian.com/whats-new-in-mongoose-7-1-bigint-support-createcollections)
-[![Techstack Experience in Angular vs React: What to Choose for Your Application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Techstack_Experience_in_Angular_vs_React__What_to_Choose_for_Your_Application.svg)](https://tech-stack.com/blog/techstack-experience-in-angular-vs-react-what-to-choose-for-your-application/)
-[![GitHub - shoaib-jamal/rebornxp: JavaScript based modern Windows XPerience right in your browser!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_shoaib-jamal_rebornxp__JavaScript_based_modern_Windows_XPerience_right_in_your_browser!.svg)](https://github.com/shoaib-jamal/rebornxp)
 
 
 <!-- post-list:end -->
