@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, April 29, 2023 at 12:09:27 PM
+> Last updated: Saturday, April 29, 2023 at 6:47:22 PM
 
 > Showing 5 of 12 posts.
 
-[![Animated Handwriting Text in React with Vara.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Animated_Handwriting_Text_in_React_with_Vara.js.svg)](https://dev.to/dminhvu/animated-handwriting-text-in-react-with-varajs-40p)
-[![Dynamic Volume Provisioning in Kubernetes with AWS and Terraform](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dynamic_Volume_Provisioning_in_Kubernetes_with_AWS_and_Terraform.svg)](https://dev.to/monarene/dynamic-volume-provisioning-in-kubernetes-with-aws-and-terraform-3m6h)
-[![Best Post of the Month - April 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_Post_of_the_Month_-_April_2023.svg)](https://dev.to/jon_snow789/best-post-of-the-month-april-2023-3j90)
-[![Custom API Gateway Authorizer with Golang](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Custom_API_Gateway_Authorizer_with_Golang.svg)](https://dev.to/aws-builders/custom-api-gateway-authorizer-with-golang-3l25)
-[![Terraform, Lambda, and Event Bridge: The perfect trio for AWS cost optimization](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Terraform__Lambda__and_Event_Bridge__The_perfect_trio_for_AWS_cost_optimization.svg)](https://dev.to/aws-builders/terraform-lambda-and-event-bridge-the-perfect-trio-for-aws-cost-optimization-4ig0)
+[![Top 10 Open-Source AI Trends for 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_10_Open-Source_AI_Trends_for_2023.svg)](https://dev.to/hr21don/top-10-open-source-ai-trends-for-2023-p2p)
+[![Git cheat sheet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Git_cheat_sheet.svg)](https://dev.to/zamuhajji/git-cheat-sheet-4lce)
+[![Unleash the Power of GPT-3: Create a Telegram Chat Bot that Engages Like a Human](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unleash_the_Power_of_GPT-3__Create_a_Telegram_Chat_Bot_that_Engages_Like_a_Human.svg)](https://dev.to/akash2819/unleash-the-power-of-gpt-3-create-a-telegram-chat-bot-that-engages-like-a-human-2aag)
+[![Simple IT: Set Up and Ongoing Maintenance of Zero Assumptions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Simple_IT__Set_Up_and_Ongoing_Maintenance_of_Zero_Assumptions.svg)](https://dev.to/zeroassumptions/simple-it-set-up-and-ongoing-maintenance-of-zero-assumptions-5381)
+[![Top 14 VSCode Extensions imo!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_14_VSCode_Extensions_imo!.svg)](https://dev.to/bekbrace/top-14-vscode-extensions-imo-1j4n)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, April 29, 2023 at 12:09:30 PM
+> Last updated: Saturday, April 29, 2023 at 6:47:26 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, April 29, 2023 at 12:09:36 PM
+> Last updated: Saturday, April 29, 2023 at 6:47:30 PM
 
 > Showing 5 of 30 posts.
 
