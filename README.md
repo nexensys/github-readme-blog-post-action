@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, April 29, 2023 at 6:47:22 PM
+> Last updated: Sunday, April 30, 2023 at 12:10:35 AM
 
 > Showing 5 of 12 posts.
 
-[![Top 10 Open-Source AI Trends for 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_10_Open-Source_AI_Trends_for_2023.svg)](https://dev.to/hr21don/top-10-open-source-ai-trends-for-2023-p2p)
-[![Git cheat sheet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Git_cheat_sheet.svg)](https://dev.to/zamuhajji/git-cheat-sheet-4lce)
-[![Unleash the Power of GPT-3: Create a Telegram Chat Bot that Engages Like a Human](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unleash_the_Power_of_GPT-3__Create_a_Telegram_Chat_Bot_that_Engages_Like_a_Human.svg)](https://dev.to/akash2819/unleash-the-power-of-gpt-3-create-a-telegram-chat-bot-that-engages-like-a-human-2aag)
-[![Simple IT: Set Up and Ongoing Maintenance of Zero Assumptions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Simple_IT__Set_Up_and_Ongoing_Maintenance_of_Zero_Assumptions.svg)](https://dev.to/zeroassumptions/simple-it-set-up-and-ongoing-maintenance-of-zero-assumptions-5381)
-[![Top 14 VSCode Extensions imo!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_14_VSCode_Extensions_imo!.svg)](https://dev.to/bekbrace/top-14-vscode-extensions-imo-1j4n)
+[![My Favorite Free Courses to Learn JavaScript in depth](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_Favorite_Free_Courses_to_Learn_JavaScript_in_depth.svg)](https://dev.to/javinpaul/my-favorite-free-courses-to-learn-javascript-in-depth-3oe9)
+[![What I learned from 2 years of freelancing 🤫💰](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_I_learned_from_2_years_of_freelancing_🤫💰.svg)](https://dev.to/ruppysuppy/what-i-learned-from-2-years-of-freelancing-44h8)
+[![C# file/folder helpers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/C__file_folder_helpers.svg)](https://dev.to/karenpayneoregon/c-filefolder-helpers-4phl)
+[![The Evolution of Social Media and its Impact on Society](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Evolution_of_Social_Media_and_its_Impact_on_Society.svg)](https://dev.to/aliahmed/the-evolution-of-social-media-and-its-impact-on-society-2aal)
+[![Create a Keyword Generator Chrome Extension🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_a_Keyword_Generator_Chrome_Extension🔥.svg)](https://dev.to/devlopersabbir/create-a-keyword-generator-chrome-extension-1gfh)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, April 29, 2023 at 6:47:26 PM
+> Last updated: Sunday, April 30, 2023 at 12:10:38 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, April 29, 2023 at 6:47:30 PM
+> Last updated: Sunday, April 30, 2023 at 12:10:41 AM
 
 > Showing 5 of 30 posts.
 
