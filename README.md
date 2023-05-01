@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, April 30, 2023 at 12:09:04 PM
+> Last updated: Sunday, April 30, 2023 at 6:45:37 PM
 
 > Showing 5 of 12 posts.
 
-[![Recursive GPT and multiple AI-Powered Prompters - Check out these creative projects! 🤖🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Recursive_GPT_and_multiple_AI-Powered_Prompters_-_Check_out_these_creative_projects!_🤖🔥.svg)](https://dev.to/synthetixartifacts/recursive-gpt-and-multiple-ai-powered-prompters-check-out-these-creative-projects-2npm)
-[![FLaNK Stack Weekly for 30 April 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/FLaNK_Stack_Weekly_for_30_April_2023.svg)](https://dev.to/tspannhw/flank-stack-weekly-for-30-april-2023-754)
-[![K8s and AKS Interviewer Questions : ChatGPT Answers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/K8s_and_AKS_Interviewer_Questions___ChatGPT_Answers.svg)](https://dev.to/manmohan/k8s-and-aks-interviewer-questions-chatgpt-answers-2pg6)
-[![Além das unidades CSS - intrinsic sizing e responsividade](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Além_das_unidades_CSS_-_intrinsic_sizing_e_responsividade.svg)](https://dev.to/lixeletto/alem-das-unidades-css-intrinsic-sizing-e-responsividade-gl)
-[![AI tools to try](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AI_tools_to_try.svg)](https://dev.to/misobelica/ai-tools-to-try-a4o)
+[![EquipAny with KlinterAI - Creative Art Published through the Hackathon](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/EquipAny_with_KlinterAI_-_Creative_Art_Published_through_the_Hackathon.svg)](https://dev.to/aswinvk28/equipany-with-klinterai-creative-art-published-through-the-hackathon-2pg2)
+[![Getting Started with Flutter: A Practical Guide to Creating and Running Your First App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_Started_with_Flutter__A_Practical_Guide_to_Creating_and_Running_Your_First_App.svg)](https://dev.to/bigdexter/getting-started-with-flutter-a-practical-guide-to-creating-and-running-your-first-app-5bmp)
+[![BigQuery deduplication strategies](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/BigQuery_deduplication_strategies.svg)](https://dev.to/sagnikbanerjeesb/bigquery-deduplication-strategies-230)
+[![Download a file with react hook](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Download_a_file_with_react_hook.svg)](https://dev.to/orkhanjafarovr/download-a-file-with-react-hook-13pp)
+[![Create Stunning Videos with These 7 AI-Powered Editing Tools](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_Stunning_Videos_with_These_7_AI-Powered_Editing_Tools.svg)](https://dev.to/anmolbaranwal/create-stunning-videos-with-these-7-ai-powered-editing-tools-2k9d)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, April 30, 2023 at 12:09:07 PM
+> Last updated: Sunday, April 30, 2023 at 6:45:39 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, April 30, 2023 at 12:09:09 PM
+> Last updated: Sunday, April 30, 2023 at 6:45:42 PM
 
 > Showing 5 of 30 posts.
 
