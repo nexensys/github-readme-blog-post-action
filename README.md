@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, April 30, 2023 at 6:45:37 PM
+> Last updated: Monday, May 1, 2023 at 12:11:31 AM
 
 > Showing 5 of 12 posts.
 
-[![EquipAny with KlinterAI - Creative Art Published through the Hackathon](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/EquipAny_with_KlinterAI_-_Creative_Art_Published_through_the_Hackathon.svg)](https://dev.to/aswinvk28/equipany-with-klinterai-creative-art-published-through-the-hackathon-2pg2)
-[![Getting Started with Flutter: A Practical Guide to Creating and Running Your First App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_Started_with_Flutter__A_Practical_Guide_to_Creating_and_Running_Your_First_App.svg)](https://dev.to/bigdexter/getting-started-with-flutter-a-practical-guide-to-creating-and-running-your-first-app-5bmp)
-[![BigQuery deduplication strategies](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/BigQuery_deduplication_strategies.svg)](https://dev.to/sagnikbanerjeesb/bigquery-deduplication-strategies-230)
-[![Download a file with react hook](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Download_a_file_with_react_hook.svg)](https://dev.to/orkhanjafarovr/download-a-file-with-react-hook-13pp)
-[![Create Stunning Videos with These 7 AI-Powered Editing Tools](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_Stunning_Videos_with_These_7_AI-Powered_Editing_Tools.svg)](https://dev.to/anmolbaranwal/create-stunning-videos-with-these-7-ai-powered-editing-tools-2k9d)
+[![Next.js 13: New Features and Updates](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Next.js_13__New_Features_and_Updates.svg)](https://dev.to/abdulkareemtpm/nextjs-13-new-features-and-updates-10c)
+[![How To Host Websites on GitHub Pages](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Host_Websites_on_GitHub_Pages.svg)](https://dev.to/badbatunde/how-to-host-websites-on-github-pages-4113)
+[![The Rise of AI: Is Your CEO Position at Risk?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Rise_of_AI__Is_Your_CEO_Position_at_Risk_.svg)](https://dev.to/christiankesslers/the-rise-of-ai-is-your-ceo-position-at-risk-36gf)
+[![Exploring Vite.js: The Lightning-Fast Build Tool for Modern Web Apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exploring_Vite.js__The_Lightning-Fast_Build_Tool_for_Modern_Web_Apps.svg)](https://dev.to/nitinfab/exploring-vitejs-the-lightning-fast-build-tool-for-modern-web-apps-5h0p)
+[![Git Commit Like A Pro](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Git_Commit_Like_A_Pro.svg)](https://dev.to/stephikebudu/git-commit-like-a-pro-56d8)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, April 30, 2023 at 6:45:39 PM
+> Last updated: Monday, May 1, 2023 at 12:11:35 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, April 30, 2023 at 6:45:42 PM
+> Last updated: Monday, May 1, 2023 at 12:11:38 AM
 
 > Showing 5 of 30 posts.
 
