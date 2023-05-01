@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, May 1, 2023 at 12:11:31 AM
+> Last updated: Monday, May 1, 2023 at 6:15:14 AM
 
 > Showing 5 of 12 posts.
 
-[![Next.js 13: New Features and Updates](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Next.js_13__New_Features_and_Updates.svg)](https://dev.to/abdulkareemtpm/nextjs-13-new-features-and-updates-10c)
-[![How To Host Websites on GitHub Pages](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Host_Websites_on_GitHub_Pages.svg)](https://dev.to/badbatunde/how-to-host-websites-on-github-pages-4113)
-[![The Rise of AI: Is Your CEO Position at Risk?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Rise_of_AI__Is_Your_CEO_Position_at_Risk_.svg)](https://dev.to/christiankesslers/the-rise-of-ai-is-your-ceo-position-at-risk-36gf)
-[![Exploring Vite.js: The Lightning-Fast Build Tool for Modern Web Apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exploring_Vite.js__The_Lightning-Fast_Build_Tool_for_Modern_Web_Apps.svg)](https://dev.to/nitinfab/exploring-vitejs-the-lightning-fast-build-tool-for-modern-web-apps-5h0p)
-[![Git Commit Like A Pro](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Git_Commit_Like_A_Pro.svg)](https://dev.to/stephikebudu/git-commit-like-a-pro-56d8)
+[![Episode 23/17: Twitter Space on the Future of Angular, Tiny Conf](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Episode_23_17__Twitter_Space_on_the_Future_of_Angular__Tiny_Conf.svg)](https://dev.to/ng_news/episode-2317-twitter-space-on-the-future-of-angular-tiny-conf-2okh)
+[![Redis Performance Tuning: How to Optimize Redis for High-Traffic Applications](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Redis_Performance_Tuning__How_to_Optimize_Redis_for_High-Traffic_Applications.svg)](https://dev.to/documatic/redis-performance-tuning-how-to-optimize-redis-for-high-traffic-applications-51km)
+[![Building a tints and shades colour generator with React and Values.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_tints_and_shades_colour_generator_with_React_and_Values.js.svg)](https://dev.to/arshadayvid/building-a-tints-and-shades-colour-generator-with-react-and-valuesjs-4n64)
+[![Comand Line Tools to Export SQL Server Query to CSV](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Comand_Line_Tools_to_Export_SQL_Server_Query_to_CSV.svg)](https://dev.to/jfraziz/comand-line-tools-to-export-sql-server-query-to-csv-1jf3)
+[![Transactions in .NET: From Basics to Best Practices](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Transactions_in_.NET__From_Basics_to_Best_Practices.svg)](https://dev.to/bytehide/transactions-in-net-from-basics-to-best-practices-130o)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, May 1, 2023 at 12:11:35 AM
+> Last updated: Monday, May 1, 2023 at 6:15:17 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, May 1, 2023 at 12:11:38 AM
+> Last updated: Monday, May 1, 2023 at 6:15:23 AM
 
 > Showing 5 of 30 posts.
 
+[![API with NestJS #106. Improving performance through indexes with Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__106._Improving_performance_through_indexes_with_Prisma.svg)](https://wanago.io/2023/05/01/api-nestjs-prisma-indexes/)
 [![Simplify GPT API Usage with Tailored Pre-Formatted Queries :: G-Prompter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Simplify_GPT_API_Usage_with_Tailored_Pre-Formatted_Queries____G-Prompter.svg)](https://www.g-prompter.com/en)
 [![Why I Like Using Maps (and WeakMaps) for Handling DOM Nodes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Why_I_Like_Using_Maps_(and_WeakMaps)_for_Handling_DOM_Nodes.svg)](https://macarthur.me/posts/maps-for-dom-nodes/)
 [![GitHub - bitair-org/linker.js: Access C, C++, Rust, Go & Python libraries from Node.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_bitair-org_linker.js__Access_C__C++__Rust__Go___Python_libraries_from_Node.js.svg)](https://github.com/bitair-org/linker.js)
 [![Creating Scalable and Reusable React Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Creating_Scalable_and_Reusable_React_Components.svg)](https://dev.to/aralroca/creating-scalable-and-reusable-react-components-5h08)
-[![set-interval-manager](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/set-interval-manager.svg)](https://www.npmjs.com/package/set-interval-manager)
 
 
 <!-- post-list:end -->
