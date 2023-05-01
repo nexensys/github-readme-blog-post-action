@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, May 1, 2023 at 6:15:14 AM
+> Last updated: Monday, May 1, 2023 at 12:10:17 PM
 
 > Showing 5 of 12 posts.
 
-[![Episode 23/17: Twitter Space on the Future of Angular, Tiny Conf](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Episode_23_17__Twitter_Space_on_the_Future_of_Angular__Tiny_Conf.svg)](https://dev.to/ng_news/episode-2317-twitter-space-on-the-future-of-angular-tiny-conf-2okh)
-[![Redis Performance Tuning: How to Optimize Redis for High-Traffic Applications](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Redis_Performance_Tuning__How_to_Optimize_Redis_for_High-Traffic_Applications.svg)](https://dev.to/documatic/redis-performance-tuning-how-to-optimize-redis-for-high-traffic-applications-51km)
-[![Building a tints and shades colour generator with React and Values.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_tints_and_shades_colour_generator_with_React_and_Values.js.svg)](https://dev.to/arshadayvid/building-a-tints-and-shades-colour-generator-with-react-and-valuesjs-4n64)
-[![Comand Line Tools to Export SQL Server Query to CSV](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Comand_Line_Tools_to_Export_SQL_Server_Query_to_CSV.svg)](https://dev.to/jfraziz/comand-line-tools-to-export-sql-server-query-to-csv-1jf3)
-[![Transactions in .NET: From Basics to Best Practices](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Transactions_in_.NET__From_Basics_to_Best_Practices.svg)](https://dev.to/bytehide/transactions-in-net-from-basics-to-best-practices-130o)
+[![Compile a single executable from your Node app with Node.js 20 and ESBuild](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Compile_a_single_executable_from_your_Node_app_with_Node.js_20_and_ESBuild.svg)](https://dev.to/chad_r_stewart/compile-a-single-executable-from-your-node-app-with-nodejs-20-and-esbuild-210j)
+[![Getting AWS Certified 100% Free!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_AWS_Certified_100__Free!.svg)](https://dev.to/aws-builders/getting-aws-certified-100-free-8od)
+[![My Programming journey](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_Programming_journey.svg)](https://dev.to/tejasgk/my-programming-journey-1ne0)
+[![Beyond Content Creation: How Open Source Contributions Can Help You Get Noticed](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Beyond_Content_Creation__How_Open_Source_Contributions_Can_Help_You_Get_Noticed.svg)](https://dev.to/opensauced/beyond-content-creation-how-open-source-contributions-can-help-you-get-noticed-4l5n)
+[![Mutable or Immutable: Understanding JavaScript's Yin and Yang](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mutable_or_Immutable__Understanding_JavaScript's_Yin_and_Yang.svg)](https://dev.to/akramsmahmoud/mutable-or-immutable-understanding-javascripts-yin-and-yang-4ce4)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, May 1, 2023 at 6:15:17 AM
+> Last updated: Monday, May 1, 2023 at 12:10:20 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, May 1, 2023 at 6:15:23 AM
+> Last updated: Monday, May 1, 2023 at 12:10:25 PM
 
 > Showing 5 of 30 posts.
 
