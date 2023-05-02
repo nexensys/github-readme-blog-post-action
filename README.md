@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, May 2, 2023 at 6:16:05 AM
+> Last updated: Tuesday, May 2, 2023 at 12:10:12 PM
 
 > Showing 5 of 12 posts.
 
-[![AWS VPC Explained with Terraform](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_VPC_Explained_with_Terraform.svg)](https://dev.to/jhooq/aws-vpc-explained-with-terraform-362a)
-[![Using Webpack with Spring Boot](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_Webpack_with_Spring_Boot.svg)](https://dev.to/tleipzig/using-webpack-with-spring-boot-b24)
-[![Introduction to Traceo with NodeJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_to_Traceo_with_NodeJS.svg)](https://dev.to/satorugojo/introduction-to-traceo-40d)
-[![How to integrate Unispend to enable Users spend crypto on everyday items](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_integrate_Unispend_to_enable_Users_spend_crypto_on_everyday_items.svg)](https://dev.to/uu/how-to-integrate-unispend-to-enable-users-spend-crypto-on-everyday-items-c49)
-[![Crush Your React and Redux Interview: 20+ Top Questions and Strategies](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Crush_Your_React_and_Redux_Interview__20+_Top_Questions_and_Strategies.svg)](https://dev.to/jeffsalive/crush-your-react-and-redux-interview-20-top-questions-and-strategies-5226)
+[![How do you debug a Python script that crashes Python itself?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_do_you_debug_a_Python_script_that_crashes_Python_itself_.svg)](https://dev.to/clpsplug/how-do-you-debug-a-python-script-that-crashes-python-itself-4hpc)
+[![Top 7 Featured DEV Posts from the Past Week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_7_Featured_DEV_Posts_from_the_Past_Week.svg)](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4o85)
+[![AdaGPT: AI support for Issues and Pull Requests right at your fingertips!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AdaGPT__AI_support_for_Issues_and_Pull_Requests_right_at_your_fingertips!.svg)](https://dev.to/zirkelc/adagpt-ai-support-for-issues-and-pull-requests-right-at-your-fingertips-3016)
+[![Using modern decorators in TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_modern_decorators_in_TypeScript.svg)](https://dev.to/logrocket/using-modern-decorators-in-typescript-8nd)
+[![Gestión de producto: como planificar incrementos junto con los usuarios](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Gestión_de_producto__como_planificar_incrementos_junto_con_los_usuarios.svg)](https://dev.to/alelazcano/gestion-de-producto-como-planificar-incrementos-junto-con-los-usuarios-5bp3)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, May 2, 2023 at 6:16:09 AM
+> Last updated: Tuesday, May 2, 2023 at 12:10:15 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, May 2, 2023 at 6:16:20 AM
+> Last updated: Tuesday, May 2, 2023 at 12:10:26 PM
 
 > Showing 5 of 30 posts.
 
