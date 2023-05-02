@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, May 1, 2023 at 12:10:17 PM
+> Last updated: Monday, May 1, 2023 at 6:44:46 PM
 
 > Showing 5 of 12 posts.
 
-[![Compile a single executable from your Node app with Node.js 20 and ESBuild](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Compile_a_single_executable_from_your_Node_app_with_Node.js_20_and_ESBuild.svg)](https://dev.to/chad_r_stewart/compile-a-single-executable-from-your-node-app-with-nodejs-20-and-esbuild-210j)
-[![Getting AWS Certified 100% Free!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_AWS_Certified_100__Free!.svg)](https://dev.to/aws-builders/getting-aws-certified-100-free-8od)
-[![My Programming journey](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_Programming_journey.svg)](https://dev.to/tejasgk/my-programming-journey-1ne0)
-[![Beyond Content Creation: How Open Source Contributions Can Help You Get Noticed](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Beyond_Content_Creation__How_Open_Source_Contributions_Can_Help_You_Get_Noticed.svg)](https://dev.to/opensauced/beyond-content-creation-how-open-source-contributions-can-help-you-get-noticed-4l5n)
-[![Mutable or Immutable: Understanding JavaScript's Yin and Yang](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mutable_or_Immutable__Understanding_JavaScript's_Yin_and_Yang.svg)](https://dev.to/akramsmahmoud/mutable-or-immutable-understanding-javascripts-yin-and-yang-4ce4)
+[![Why is it so hard to create PWA with Next.js?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_is_it_so_hard_to_create_PWA_with_Next.js_.svg)](https://dev.to/imamdev_/why-is-it-so-hard-to-create-pwa-with-nextjs-2g71)
+[![A new approach to caching in continuous integration (CI)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_new_approach_to_caching_in_continuous_integration_(CI).svg)](https://dev.to/nofar/a-new-approach-to-caching-in-continuous-integration-ci-18ac)
+[![How to Generate Income from Your Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Generate_Income_from_Your_Blog.svg)](https://dev.to/canburaks/how-to-generate-income-from-your-blog-26cl)
+[![My First Month in the SCA Cloud School: A journey of Learning and growth.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_First_Month_in_the_SCA_Cloud_School__A_journey_of_Learning_and_growth..svg)](https://dev.to/jeptoo/my-first-month-in-the-sca-cloud-school-a-journey-of-learning-and-growth-1a5g)
+[![Understanding Primary Keys, Foreign Keys, and Constraints in SQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_Primary_Keys__Foreign_Keys__and_Constraints_in_SQL.svg)](https://dev.to/jolamemushaj/understanding-primary-keys-foreign-keys-and-constraints-in-sql-22co)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, May 1, 2023 at 12:10:20 PM
+> Last updated: Monday, May 1, 2023 at 6:44:49 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, May 1, 2023 at 12:10:25 PM
+> Last updated: Monday, May 1, 2023 at 6:44:53 PM
 
 > Showing 5 of 30 posts.
 
+[![Precision in Imperfection: Mastering Fuzzy Search](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Precision_in_Imperfection__Mastering_Fuzzy_Search.svg)](https://creotip.io/posts/precision-in-imperfection-mastering-fuzzy-search)
+[![Virtual DOM: Back in Block | Million.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Virtual_DOM__Back_in_Block___Million.js.svg)](https://millionjs.org/blog/virtual-dom)
+[![set-timeout-manager](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/set-timeout-manager.svg)](https://www.npmjs.com/package/set-timeout-manager)
 [![API with NestJS #106. Improving performance through indexes with Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__106._Improving_performance_through_indexes_with_Prisma.svg)](https://wanago.io/2023/05/01/api-nestjs-prisma-indexes/)
 [![Simplify GPT API Usage with Tailored Pre-Formatted Queries :: G-Prompter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Simplify_GPT_API_Usage_with_Tailored_Pre-Formatted_Queries____G-Prompter.svg)](https://www.g-prompter.com/en)
-[![Why I Like Using Maps (and WeakMaps) for Handling DOM Nodes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Why_I_Like_Using_Maps_(and_WeakMaps)_for_Handling_DOM_Nodes.svg)](https://macarthur.me/posts/maps-for-dom-nodes/)
-[![GitHub - bitair-org/linker.js: Access C, C++, Rust, Go & Python libraries from Node.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_bitair-org_linker.js__Access_C__C++__Rust__Go___Python_libraries_from_Node.js.svg)](https://github.com/bitair-org/linker.js)
-[![Creating Scalable and Reusable React Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Creating_Scalable_and_Reusable_React_Components.svg)](https://dev.to/aralroca/creating-scalable-and-reusable-react-components-5h08)
 
 
 <!-- post-list:end -->
