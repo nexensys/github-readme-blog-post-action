@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, May 1, 2023 at 6:44:46 PM
+> Last updated: Tuesday, May 2, 2023 at 12:11:10 AM
 
 > Showing 5 of 12 posts.
 
-[![Why is it so hard to create PWA with Next.js?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_is_it_so_hard_to_create_PWA_with_Next.js_.svg)](https://dev.to/imamdev_/why-is-it-so-hard-to-create-pwa-with-nextjs-2g71)
-[![A new approach to caching in continuous integration (CI)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_new_approach_to_caching_in_continuous_integration_(CI).svg)](https://dev.to/nofar/a-new-approach-to-caching-in-continuous-integration-ci-18ac)
-[![How to Generate Income from Your Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Generate_Income_from_Your_Blog.svg)](https://dev.to/canburaks/how-to-generate-income-from-your-blog-26cl)
-[![My First Month in the SCA Cloud School: A journey of Learning and growth.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_First_Month_in_the_SCA_Cloud_School__A_journey_of_Learning_and_growth..svg)](https://dev.to/jeptoo/my-first-month-in-the-sca-cloud-school-a-journey-of-learning-and-growth-1a5g)
-[![Understanding Primary Keys, Foreign Keys, and Constraints in SQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_Primary_Keys__Foreign_Keys__and_Constraints_in_SQL.svg)](https://dev.to/jolamemushaj/understanding-primary-keys-foreign-keys-and-constraints-in-sql-22co)
+[![How to integrate line chart in card [React]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_integrate_line_chart_in_card_[React].svg)](https://dev.to/whoismaruf/how-to-integrate-line-chart-in-card-react-28do)
+[![Win amazing prizes with ConnectNovu Hackathon 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Win_amazing_prizes_with_ConnectNovu_Hackathon_🚀.svg)](https://dev.to/novu/win-amazing-prizes-with-connectnovu-hackathon-10pf)
+[![High level guide for developing IBM QRadar Apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/High_level_guide_for_developing_IBM_QRadar_Apps.svg)](https://dev.to/sbs2001/high-level-guide-for-developing-ibm-qradar-apps-49cm)
+[![Garbage collection](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Garbage_collection.svg)](https://dev.to/muhmmadawd/garbage-collection-10n9)
+[![Optimize your Angular app's user experience with preloading strategies](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Optimize_your_Angular_app's_user_experience_with_preloading_strategies.svg)](https://dev.to/this-is-angular/optimize-your-angular-apps-user-experience-with-preloading-strategies-3ie7)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, May 1, 2023 at 6:44:49 PM
+> Last updated: Tuesday, May 2, 2023 at 12:11:13 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, May 1, 2023 at 6:44:53 PM
+> Last updated: Tuesday, May 2, 2023 at 12:11:17 AM
 
 > Showing 5 of 30 posts.
 
