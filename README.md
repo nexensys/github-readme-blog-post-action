@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, May 2, 2023 at 12:11:10 AM
+> Last updated: Tuesday, May 2, 2023 at 6:16:05 AM
 
 > Showing 5 of 12 posts.
 
-[![How to integrate line chart in card [React]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_integrate_line_chart_in_card_[React].svg)](https://dev.to/whoismaruf/how-to-integrate-line-chart-in-card-react-28do)
-[![Win amazing prizes with ConnectNovu Hackathon 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Win_amazing_prizes_with_ConnectNovu_Hackathon_🚀.svg)](https://dev.to/novu/win-amazing-prizes-with-connectnovu-hackathon-10pf)
-[![High level guide for developing IBM QRadar Apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/High_level_guide_for_developing_IBM_QRadar_Apps.svg)](https://dev.to/sbs2001/high-level-guide-for-developing-ibm-qradar-apps-49cm)
-[![Garbage collection](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Garbage_collection.svg)](https://dev.to/muhmmadawd/garbage-collection-10n9)
-[![Optimize your Angular app's user experience with preloading strategies](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Optimize_your_Angular_app's_user_experience_with_preloading_strategies.svg)](https://dev.to/this-is-angular/optimize-your-angular-apps-user-experience-with-preloading-strategies-3ie7)
+[![AWS VPC Explained with Terraform](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_VPC_Explained_with_Terraform.svg)](https://dev.to/jhooq/aws-vpc-explained-with-terraform-362a)
+[![Using Webpack with Spring Boot](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_Webpack_with_Spring_Boot.svg)](https://dev.to/tleipzig/using-webpack-with-spring-boot-b24)
+[![Introduction to Traceo with NodeJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_to_Traceo_with_NodeJS.svg)](https://dev.to/satorugojo/introduction-to-traceo-40d)
+[![How to integrate Unispend to enable Users spend crypto on everyday items](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_integrate_Unispend_to_enable_Users_spend_crypto_on_everyday_items.svg)](https://dev.to/uu/how-to-integrate-unispend-to-enable-users-spend-crypto-on-everyday-items-c49)
+[![Crush Your React and Redux Interview: 20+ Top Questions and Strategies](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Crush_Your_React_and_Redux_Interview__20+_Top_Questions_and_Strategies.svg)](https://dev.to/jeffsalive/crush-your-react-and-redux-interview-20-top-questions-and-strategies-5226)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, May 2, 2023 at 12:11:13 AM
+> Last updated: Tuesday, May 2, 2023 at 6:16:09 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, May 2, 2023 at 12:11:17 AM
+> Last updated: Tuesday, May 2, 2023 at 6:16:20 AM
 
 > Showing 5 of 30 posts.
 
