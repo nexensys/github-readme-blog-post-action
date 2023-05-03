@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, May 3, 2023 at 12:10:49 AM
+> Last updated: Wednesday, May 3, 2023 at 6:15:45 AM
 
 > Showing 5 of 12 posts.
 
-[![I Created A Web App That Went Viral On Linkedin 🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_Created_A_Web_App_That_Went_Viral_On_Linkedin_🔥.svg)](https://dev.to/rammcodes/i-created-a-web-app-that-went-viral-on-linkedin-e8c)
-[![Server-Side Rendering in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Server-Side_Rendering_in_React.svg)](https://dev.to/munavvar/server-side-rendering-in-react-3ngo)
-[!["Everyone Should Learn to Code" is Bullshit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_Everyone_Should_Learn_to_Code__is_Bullshit.svg)](https://dev.to/jmfayard/everyone-should-learn-to-code-is-bullshit-2mgk)
-[![A Quick Tutorial for GitKraken - A Comprehensive Guide for Beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Quick_Tutorial_for_GitKraken_-_A_Comprehensive_Guide_for_Beginners.svg)](https://dev.to/abhixsh/a-quick-tutorial-for-gitkraken-a-comprehensive-guide-for-beginners-1323)
-[![Intro to React, Components and Props](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Intro_to_React__Components_and_Props.svg)](https://dev.to/familymanjosh/intro-to-react-components-and-props-2492)
+[![5 Ways to Use Bootstrap Alerts, Warning, Error, Success Messages](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Ways_to_Use_Bootstrap_Alerts__Warning__Error__Success_Messages.svg)](https://dev.to/scofieldidehen/5-ways-to-use-bootstrap-alerts-warning-error-success-messages-del)
+[![Learn Golang By Building A 2D Snake Game: A Complete Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Learn_Golang_By_Building_A_2D_Snake_Game__A_Complete_Guide.svg)](https://dev.to/mavensingh/learn-golang-by-building-a-2d-snake-game-a-complete-guide-4mpf)
+[![Streamlining Sign-Ups: How to Build a High-Performing Form with Tailwind React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Streamlining_Sign-Ups__How_to_Build_a_High-Performing_Form_with_Tailwind_React.svg)](https://dev.to/haszankauna/streamlining-sign-ups-how-to-build-a-high-performing-form-with-tailwind-react-5fp2)
+[![:root isn't global](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_root_isn't_global.svg)](https://dev.to/kilianvalkhof/root-isnt-global-2km8)
+[![Native AOT: The Future of .NET App Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Native_AOT__The_Future_of_.NET_App_Development.svg)](https://dev.to/bytehide/native-aot-the-future-of-net-app-development-47ha)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, May 3, 2023 at 12:10:53 AM
+> Last updated: Wednesday, May 3, 2023 at 6:15:47 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, May 3, 2023 at 12:11:04 AM
+> Last updated: Wednesday, May 3, 2023 at 6:16:00 AM
 
 > Showing 5 of 30 posts.
 
+[![Securing Node.js Applications with JWT and Passport.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Securing_Node.js_Applications_with_JWT_and_Passport.js.svg)](https://soshace.com/securing-node-js-applications-with-jwt-and-passport-js/)
 [![Precision in Imperfection: Mastering Fuzzy Search](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Precision_in_Imperfection__Mastering_Fuzzy_Search.svg)](https://creotip.io/posts/precision-in-imperfection-mastering-fuzzy-search)
 [![Virtual DOM: Back in Block | Million.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Virtual_DOM__Back_in_Block___Million.js.svg)](https://millionjs.org/blog/virtual-dom)
 [![set-timeout-manager](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/set-timeout-manager.svg)](https://www.npmjs.com/package/set-timeout-manager)
 [![API with NestJS #106. Improving performance through indexes with Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__106._Improving_performance_through_indexes_with_Prisma.svg)](https://wanago.io/2023/05/01/api-nestjs-prisma-indexes/)
-[![Why I Like Using Maps (and WeakMaps) for Handling DOM Nodes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Why_I_Like_Using_Maps_(and_WeakMaps)_for_Handling_DOM_Nodes.svg)](https://macarthur.me/posts/maps-for-dom-nodes/)
 
 
 <!-- post-list:end -->
