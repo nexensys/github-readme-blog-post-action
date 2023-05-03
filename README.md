@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, May 2, 2023 at 6:43:03 PM
+> Last updated: Wednesday, May 3, 2023 at 12:10:49 AM
 
 > Showing 5 of 12 posts.
 
-[![Tinker like a 10x: Mastering Artisan Tinker REPL for Laravel Part 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tinker_like_a_10x__Mastering_Artisan_Tinker_REPL_for_Laravel_Part_2.svg)](https://dev.to/alphaolomi/tinker-like-a-10x-mastering-artisan-tinker-repl-for-laravel-part-2-1c8f)
-[![An Ode to Technical Writing, Non-Linear Careers, and Other Things I Learned This Week...](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/An_Ode_to_Technical_Writing__Non-Linear_Careers__and_Other_Things_I_Learned_This_Week....svg)](https://dev.to/codenewbieteam/an-ode-to-technical-writing-non-linear-careers-and-other-things-i-learned-this-week-2474)
-[![Javascript Password Generator.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Javascript_Password_Generator..svg)](https://dev.to/thekalderon/javascript-password-generator-5gg)
-[![Setting up TailwindCSS + SASS with EmberJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Setting_up_TailwindCSS_+_SASS_with_EmberJS.svg)](https://dev.to/cathzchen/setting-up-tailwindcss-sass-with-emberjs-4p42)
-[![SET UP 2FA IN NODE.JS WITH SPEAKEASY](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/SET_UP_2FA_IN_NODE.JS_WITH_SPEAKEASY.svg)](https://dev.to/candie_code/set-up-2fa-in-nodejs-with-speakeasy-3389)
+[![I Created A Web App That Went Viral On Linkedin 🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_Created_A_Web_App_That_Went_Viral_On_Linkedin_🔥.svg)](https://dev.to/rammcodes/i-created-a-web-app-that-went-viral-on-linkedin-e8c)
+[![Server-Side Rendering in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Server-Side_Rendering_in_React.svg)](https://dev.to/munavvar/server-side-rendering-in-react-3ngo)
+[!["Everyone Should Learn to Code" is Bullshit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_Everyone_Should_Learn_to_Code__is_Bullshit.svg)](https://dev.to/jmfayard/everyone-should-learn-to-code-is-bullshit-2mgk)
+[![A Quick Tutorial for GitKraken - A Comprehensive Guide for Beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Quick_Tutorial_for_GitKraken_-_A_Comprehensive_Guide_for_Beginners.svg)](https://dev.to/abhixsh/a-quick-tutorial-for-gitkraken-a-comprehensive-guide-for-beginners-1323)
+[![Intro to React, Components and Props](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Intro_to_React__Components_and_Props.svg)](https://dev.to/familymanjosh/intro-to-react-components-and-props-2492)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, May 2, 2023 at 6:43:06 PM
+> Last updated: Wednesday, May 3, 2023 at 12:10:53 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, May 2, 2023 at 6:43:16 PM
+> Last updated: Wednesday, May 3, 2023 at 12:11:04 AM
 
 > Showing 5 of 30 posts.
 
