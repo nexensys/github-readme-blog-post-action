@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, May 4, 2023 at 12:11:09 AM
+> Last updated: Thursday, May 4, 2023 at 6:15:15 AM
 
 > Showing 5 of 12 posts.
 
-[![How to Generate an SSRS Report as a Password-Protected PDF Using the Bold Reports Report Writer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Generate_an_SSRS_Report_as_a_Password-Protected_PDF_Using_the_Bold_Reports_Report_Writer.svg)](https://dev.to/boldreports/how-to-generate-an-ssrs-report-as-a-password-protected-pdf-using-the-bold-reports-report-writer-m8l)
-[![🚀 Getting Started with EC2 Instances: A Beginner's Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🚀_Getting_Started_with_EC2_Instances__A_Beginner's_Guide.svg)](https://dev.to/brandonbawe/getting-started-with-ec2-instances-a-beginners-guide-jlc)
-[![The Psychology of Success in Tech is a Complex Beast. What does it Take to Succeed in the Tech Industry?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Psychology_of_Success_in_Tech_is_a_Complex_Beast._What_does_it_Take_to_Succeed_in_the_Tech_Industry_.svg)](https://dev.to/jeffsalive/the-psychology-of-success-in-tech-is-a-complex-beast-what-does-it-take-to-succeed-in-the-tech-industry-gn0)
-[![10 Cool CodePen Demos (April 23)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_Cool_CodePen_Demos_(April_23).svg)](https://dev.to/alvaromontoro/10-cool-codepen-demos-april-23-1p0m)
-[![React Testing Library & Accessibility](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Testing_Library___Accessibility.svg)](https://dev.to/steady5063/react-testing-library-accessibility-4fom)
+[![5 Repositories to Boost Your Knowledge](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Repositories_to_Boost_Your_Knowledge.svg)](https://dev.to/surajondev/5-repositories-to-boost-your-knowledge-2787)
+[![Pre-built Website Templates: A Time-Saving Solution or a Limiting Factor?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Pre-built_Website_Templates__A_Time-Saving_Solution_or_a_Limiting_Factor_.svg)](https://dev.to/ugbabeog/pre-built-website-templates-a-time-saving-solution-or-a-limiting-factor-g7g)
+[![CSS vs. CSS-in-JS: Which is the better approach for web design in 2023?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CSS_vs._CSS-in-JS__Which_is_the_better_approach_for_web_design_in_2023_.svg)](https://dev.to/ugbabeog/css-vs-css-in-js-which-is-the-better-approach-for-web-design-in-2023-47im)
+[![CI/CD pipeline setup: Building and pushing Docker images to Docker Hub using GitHub Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CI_CD_pipeline_setup__Building_and_pushing_Docker_images_to_Docker_Hub_using_GitHub_Actions.svg)](https://dev.to/hossainchisty/cicd-pipeline-setup-building-and-pushing-docker-images-to-docker-hub-using-github-actions-4g1i)
+[![The Benefits of Strategic Information Architecture for Your Company's Intranet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Benefits_of_Strategic_Information_Architecture_for_Your_Company's_Intranet.svg)](https://dev.to/jaloplo/the-benefits-of-strategic-information-architecture-for-your-companys-intranet-421l)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, May 4, 2023 at 12:11:13 AM
+> Last updated: Thursday, May 4, 2023 at 6:15:19 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, May 4, 2023 at 12:11:27 AM
+> Last updated: Thursday, May 4, 2023 at 6:15:34 AM
 
 > Showing 5 of 30 posts.
 
