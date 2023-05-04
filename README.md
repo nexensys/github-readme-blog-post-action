@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, May 4, 2023 at 6:15:15 AM
+> Last updated: Thursday, May 4, 2023 at 12:10:13 PM
 
 > Showing 5 of 12 posts.
 
-[![5 Repositories to Boost Your Knowledge](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Repositories_to_Boost_Your_Knowledge.svg)](https://dev.to/surajondev/5-repositories-to-boost-your-knowledge-2787)
-[![Pre-built Website Templates: A Time-Saving Solution or a Limiting Factor?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Pre-built_Website_Templates__A_Time-Saving_Solution_or_a_Limiting_Factor_.svg)](https://dev.to/ugbabeog/pre-built-website-templates-a-time-saving-solution-or-a-limiting-factor-g7g)
-[![CSS vs. CSS-in-JS: Which is the better approach for web design in 2023?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CSS_vs._CSS-in-JS__Which_is_the_better_approach_for_web_design_in_2023_.svg)](https://dev.to/ugbabeog/css-vs-css-in-js-which-is-the-better-approach-for-web-design-in-2023-47im)
-[![CI/CD pipeline setup: Building and pushing Docker images to Docker Hub using GitHub Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CI_CD_pipeline_setup__Building_and_pushing_Docker_images_to_Docker_Hub_using_GitHub_Actions.svg)](https://dev.to/hossainchisty/cicd-pipeline-setup-building-and-pushing-docker-images-to-docker-hub-using-github-actions-4g1i)
-[![The Benefits of Strategic Information Architecture for Your Company's Intranet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Benefits_of_Strategic_Information_Architecture_for_Your_Company's_Intranet.svg)](https://dev.to/jaloplo/the-benefits-of-strategic-information-architecture-for-your-companys-intranet-421l)
+[![Dynamic NFTs 101: An Introduction to the Future of Non-Fungible Tokens](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dynamic_NFTs_101__An_Introduction_to_the_Future_of_Non-Fungible_Tokens.svg)](https://dev.to/galaxiastudios/dynamic-nfts-101-an-introduction-to-the-future-of-non-fungible-tokens-2olp)
+[![How to convert Figma components to Next.js with Tailwind CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_convert_Figma_components_to_Next.js_with_Tailwind_CSS.svg)](https://dev.to/logrocket/how-to-convert-figma-components-to-nextjs-with-tailwind-css-2hd0)
+[![Fleet Provisioning for Embedded Linux Devices with AWS IoT Greengrass](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Fleet_Provisioning_for_Embedded_Linux_Devices_with_AWS_IoT_Greengrass.svg)](https://dev.to/iotbuilders/fleet-provisioning-for-embedded-linux-devices-with-aws-iot-greengrass-4h8b)
+[![A New Beginning: My First Steps into the World of Software Engineering](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_New_Beginning__My_First_Steps_into_the_World_of_Software_Engineering.svg)](https://dev.to/aggsdp/a-new-beginning-my-first-steps-into-the-world-of-software-engineering-3n7o)
+[![create html , css and js - without code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/create_html___css_and_js_-_without_code.svg)](https://dev.to/aieeeo/create-html-css-and-js-without-code-d8h)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, May 4, 2023 at 6:15:19 AM
+> Last updated: Thursday, May 4, 2023 at 12:10:16 PM
 
 > Showing 4 of 4 posts.
 
+[!['It's a miracle anything about this ecosystem works at all.'](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/'It's_a_miracle_anything_about_this_ecosystem_works_at_all.'.svg)](https://javascriptweekly.com/issues/637)
 [![Did you know JavaScript is trademarked?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Did_you_know_JavaScript_is_trademarked_.svg)](https://javascriptweekly.com/issues/636)
 [![On the origin of packages](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/On_the_origin_of_packages.svg)](https://javascriptweekly.com/issues/635)
 [![The return of ECMAScript 2023 (and Angular)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/The_return_of_ECMAScript_2023_(and_Angular).svg)](https://javascriptweekly.com/issues/634)
-[![JavaScript on your schedule](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/JavaScript_on_your_schedule.svg)](https://javascriptweekly.com/issues/633)
 
 
 ## Echo JS
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, May 4, 2023 at 6:15:34 AM
+> Last updated: Thursday, May 4, 2023 at 12:10:28 PM
 
 > Showing 5 of 30 posts.
 
