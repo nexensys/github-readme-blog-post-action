@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, May 5, 2023 at 12:10:52 AM
+> Last updated: Friday, May 5, 2023 at 6:14:50 AM
 
 > Showing 5 of 12 posts.
 
-[![The best TRAIT of RUST 🔥 (no pun intended)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_best_TRAIT_of_RUST_🔥_(no_pun_intended).svg)](https://dev.to/cleggacus/the-best-trait-of-rust-no-pun-intended-2516)
-[![La relevancia de la astronomía en la innovación tecnológica para la educación](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/La_relevancia_de_la_astronomía_en_la_innovación_tecnológica_para_la_educación.svg)](https://dev.to/microsoftucuenca/la-relevancia-de-la-astronomia-en-la-innovacion-tecnologica-para-la-educacion-2bkf)
-[![LibreSSL: openssl エラー - v3_ca エクステンションが存在しない](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/LibreSSL__openssl_エラー_-_v3_ca_エクステンションが存在しない.svg)](https://dev.to/nabbisen/libressl-openssl-era-v3ca-ekusutensiyongacun-zai-sinai-1i74)
-[![6 Skills Programming teaches you](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/6_Skills_Programming_teaches_you.svg)](https://dev.to/pragyanatvade/6-skills-programming-teaches-you-3jji)
-[![Managing Outdated Composer Dependencies](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Managing_Outdated_Composer_Dependencies.svg)](https://dev.to/snowlabs/managing-outdated-composer-dependencies-5988)
+[![Free Design Resources 🤩🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Free_Design_Resources_🤩🚀.svg)](https://dev.to/margishpatel/free-design-resources-4oj5)
+[![How to deploy Next.js to Firebase](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_deploy_Next.js_to_Firebase.svg)](https://dev.to/glennviroux/how-to-deploy-nextjs-to-firebase-18bb)
+[![Provisioning AWS Infrastructure using Terraform and Jenkins CI/CD](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Provisioning_AWS_Infrastructure_using_Terraform_and_Jenkins_CI_CD.svg)](https://dev.to/aws-builders/provisioning-aws-infrastructure-using-terraform-and-jenkins-cicd-pgj)
+[![What If We Could CTRL-Z Reality](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_If_We_Could_CTRL-Z_Reality.svg)](https://dev.to/scofieldidehen/what-if-we-could-ctrl-z-reality-2gkk)
+[![HTTP/1 vs HTTP/2 vs HTTP/3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/HTTP_1_vs_HTTP_2_vs_HTTP_3.svg)](https://dev.to/accreditly/http1-vs-http2-vs-http3-2k1c)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, May 5, 2023 at 12:10:55 AM
+> Last updated: Friday, May 5, 2023 at 6:14:53 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, May 5, 2023 at 12:11:07 AM
+> Last updated: Friday, May 5, 2023 at 6:15:06 AM
 
 > Showing 5 of 30 posts.
 
