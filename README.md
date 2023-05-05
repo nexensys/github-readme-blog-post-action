@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, May 4, 2023 at 6:40:08 PM
+> Last updated: Friday, May 5, 2023 at 12:10:52 AM
 
 > Showing 5 of 12 posts.
 
-[![Data sources episode 2: AWS S3 to Postgres Data Sync using Singer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Data_sources_episode_2__AWS_S3_to_Postgres_Data_Sync_using_Singer.svg)](https://dev.to/mage_ai/data-sources-episode-2-aws-s3-to-postgres-data-sync-using-singer-532l)
-[![What I have done with AgensGraph](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_I_have_done_with_AgensGraph.svg)](https://dev.to/nightbird07/what-i-have-done-with-agensgraph-1gip)
-[![How to Generate API Documentation with Insomnia](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Generate_API_Documentation_with_Insomnia.svg)](https://dev.to/joselatines/how-to-generate-api-documentation-with-insomnia-18fg)
-[![Low-Code and No-Code Development Platforms, their Rick in Software Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Low-Code_and_No-Code_Development_Platforms__their_Rick_in_Software_Development.svg)](https://dev.to/bensonarafat/low-code-and-no-code-development-platforms-their-rick-in-software-development-39ng)
-[![Want to be able to drag files into a web app? Got ya covered.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Want_to_be_able_to_drag_files_into_a_web_app__Got_ya_covered..svg)](https://dev.to/krofdrakula/want-to-be-able-to-drag-files-into-a-web-app-got-ya-covered-jh3)
+[![The best TRAIT of RUST 🔥 (no pun intended)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_best_TRAIT_of_RUST_🔥_(no_pun_intended).svg)](https://dev.to/cleggacus/the-best-trait-of-rust-no-pun-intended-2516)
+[![La relevancia de la astronomía en la innovación tecnológica para la educación](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/La_relevancia_de_la_astronomía_en_la_innovación_tecnológica_para_la_educación.svg)](https://dev.to/microsoftucuenca/la-relevancia-de-la-astronomia-en-la-innovacion-tecnologica-para-la-educacion-2bkf)
+[![LibreSSL: openssl エラー - v3_ca エクステンションが存在しない](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/LibreSSL__openssl_エラー_-_v3_ca_エクステンションが存在しない.svg)](https://dev.to/nabbisen/libressl-openssl-era-v3ca-ekusutensiyongacun-zai-sinai-1i74)
+[![6 Skills Programming teaches you](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/6_Skills_Programming_teaches_you.svg)](https://dev.to/pragyanatvade/6-skills-programming-teaches-you-3jji)
+[![Managing Outdated Composer Dependencies](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Managing_Outdated_Composer_Dependencies.svg)](https://dev.to/snowlabs/managing-outdated-composer-dependencies-5988)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, May 4, 2023 at 6:40:11 PM
+> Last updated: Friday, May 5, 2023 at 12:10:55 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, May 4, 2023 at 6:40:27 PM
+> Last updated: Friday, May 5, 2023 at 12:11:07 AM
 
 > Showing 5 of 30 posts.
 
