@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, May 5, 2023 at 6:14:50 AM
+> Last updated: Friday, May 5, 2023 at 12:09:53 PM
 
 > Showing 5 of 12 posts.
 
-[![Free Design Resources 🤩🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Free_Design_Resources_🤩🚀.svg)](https://dev.to/margishpatel/free-design-resources-4oj5)
-[![How to deploy Next.js to Firebase](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_deploy_Next.js_to_Firebase.svg)](https://dev.to/glennviroux/how-to-deploy-nextjs-to-firebase-18bb)
-[![Provisioning AWS Infrastructure using Terraform and Jenkins CI/CD](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Provisioning_AWS_Infrastructure_using_Terraform_and_Jenkins_CI_CD.svg)](https://dev.to/aws-builders/provisioning-aws-infrastructure-using-terraform-and-jenkins-cicd-pgj)
-[![What If We Could CTRL-Z Reality](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_If_We_Could_CTRL-Z_Reality.svg)](https://dev.to/scofieldidehen/what-if-we-could-ctrl-z-reality-2gkk)
-[![HTTP/1 vs HTTP/2 vs HTTP/3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/HTTP_1_vs_HTTP_2_vs_HTTP_3.svg)](https://dev.to/accreditly/http1-vs-http2-vs-http3-2k1c)
+[![Who's looking for open source contributors? (week 40)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Who's_looking_for_open_source_contributors__(week_40).svg)](https://dev.to/opensauced/whos-looking-for-open-source-contributors-week-40-e48)
+[![Conversion Functions: converting between binary, hexadecimal, decimal, & ASCII](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Conversion_Functions__converting_between_binary__hexadecimal__decimal____ASCII.svg)](https://dev.to/tatianabowman/conversion-functions-converting-between-binary-hexadecimal-decimal-ascii-f13)
+[![How to set up an Nginx Web Server in Ubuntu Virtual Machine Using Vagrant](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_set_up_an_Nginx_Web_Server_in_Ubuntu_Virtual_Machine_Using_Vagrant.svg)](https://dev.to/roselinebassey/how-to-set-up-an-nginx-web-server-in-ubuntu-virtual-machine-using-vagrant-25gm)
+[![Scribe: The Ultimate Tool for Creating Professional Step-by-Step Solutions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Scribe__The_Ultimate_Tool_for_Creating_Professional_Step-by-Step_Solutions.svg)](https://dev.to/arjuncodess/scribe-the-ultimate-tool-for-creating-professional-step-by-step-solutions-16b9)
+[![React story: useRef vs useState](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_story__useRef_vs_useState.svg)](https://dev.to/shishsingh/react-story-useref-vs-usestate-3a6n)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, May 5, 2023 at 6:14:53 AM
+> Last updated: Friday, May 5, 2023 at 12:09:57 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, May 5, 2023 at 6:15:06 AM
+> Last updated: Friday, May 5, 2023 at 12:10:13 PM
 
 > Showing 5 of 30 posts.
 
