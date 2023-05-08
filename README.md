@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, May 5, 2023 at 12:09:53 PM
+> Last updated: Monday, May 8, 2023 at 12:10:17 PM
 
 > Showing 5 of 12 posts.
 
-[![Who's looking for open source contributors? (week 40)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Who's_looking_for_open_source_contributors__(week_40).svg)](https://dev.to/opensauced/whos-looking-for-open-source-contributors-week-40-e48)
-[![Conversion Functions: converting between binary, hexadecimal, decimal, & ASCII](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Conversion_Functions__converting_between_binary__hexadecimal__decimal____ASCII.svg)](https://dev.to/tatianabowman/conversion-functions-converting-between-binary-hexadecimal-decimal-ascii-f13)
-[![How to set up an Nginx Web Server in Ubuntu Virtual Machine Using Vagrant](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_set_up_an_Nginx_Web_Server_in_Ubuntu_Virtual_Machine_Using_Vagrant.svg)](https://dev.to/roselinebassey/how-to-set-up-an-nginx-web-server-in-ubuntu-virtual-machine-using-vagrant-25gm)
-[![Scribe: The Ultimate Tool for Creating Professional Step-by-Step Solutions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Scribe__The_Ultimate_Tool_for_Creating_Professional_Step-by-Step_Solutions.svg)](https://dev.to/arjuncodess/scribe-the-ultimate-tool-for-creating-professional-step-by-step-solutions-16b9)
-[![React story: useRef vs useState](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_story__useRef_vs_useState.svg)](https://dev.to/shishsingh/react-story-useref-vs-usestate-3a6n)
+[![Database 101: How social media “likes” are stored in a database](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Database_101__How_social_media_“likes”_are_stored_in_a_database.svg)](https://dev.to/danielhe4rt/database-101-how-social-media-likes-are-stored-in-a-database-3oii)
+[![Streamline Your Development Workflow with AWS Amplify's Deployment Environment](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Streamline_Your_Development_Workflow_with_AWS_Amplify's_Deployment_Environment.svg)](https://dev.to/inrange/streamline-your-development-workflow-with-aws-amplifys-deployment-environment-4lg2)
+[![Exploding Kittens Card Game - React, Nodejs and Redis](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exploding_Kittens_Card_Game_-_React__Nodejs_and_Redis.svg)](https://dev.to/nabajits21/exploding-kittens-card-game-react-nodejs-and-redis-4ci8)
+[![Open Source Terminology 101: A Primer for New Contributors](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Open_Source_Terminology_101__A_Primer_for_New_Contributors.svg)](https://dev.to/opensauced/open-source-terminology-101-a-primer-for-new-contributors-k46)
+[![Top-10 Posts for FE (Week 1, May 2023)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top-10_Posts_for_FE_(Week_1__May_2023).svg)](https://dev.to/fruntend/top-10-posts-for-fe-week-1-may-2023-29jb)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, May 5, 2023 at 12:09:57 PM
+> Last updated: Monday, May 8, 2023 at 12:10:21 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, May 5, 2023 at 12:10:13 PM
+> Last updated: Monday, May 8, 2023 at 12:10:30 PM
 
 > Showing 5 of 30 posts.
 
-[![Securing Node.js Applications with JWT and Passport.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Securing_Node.js_Applications_with_JWT_and_Passport.js.svg)](https://soshace.com/securing-node-js-applications-with-jwt-and-passport-js/)
-[![Precision in Imperfection: Mastering Fuzzy Search](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Precision_in_Imperfection__Mastering_Fuzzy_Search.svg)](https://creotip.io/posts/precision-in-imperfection-mastering-fuzzy-search)
-[![Virtual DOM: Back in Block | Million.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Virtual_DOM__Back_in_Block___Million.js.svg)](https://millionjs.org/blog/virtual-dom)
-[![set-timeout-manager](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/set-timeout-manager.svg)](https://www.npmjs.com/package/set-timeout-manager)
-[![API with NestJS #106. Improving performance through indexes with Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__106._Improving_performance_through_indexes_with_Prisma.svg)](https://wanago.io/2023/05/01/api-nestjs-prisma-indexes/)
+[![Mastering JavaScript Proxies: Practical Use Cases and Real-World Applications](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Mastering_JavaScript_Proxies__Practical_Use_Cases_and_Real-World_Applications.svg)](https://soshace.com/mastering-javascript-proxies-practical-use-cases-and-real-world-applications/)
+[![API with NestJS #107. Offset and keyset pagination with Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__107._Offset_and_keyset_pagination_with_Prisma.svg)](https://wanago.io/2023/05/08/api-nestjs-pagination-prisma/)
+[![GitHub - osamaaftab/Flow: A Circular image loading and caching library for Android with circular Progressbar](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_osamaaftab_Flow__A_Circular_image_loading_and_caching_library_for_Android_with_circular_Progressbar.svg)](https://github.com/osamaaftab/Flow)
+[![Higher Order Components in React: Examples with Common Use-case Patterns](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Higher_Order_Components_in_React__Examples_with_Common_Use-case_Patterns.svg)](https://medium.com/@jamesbordane57/higher-order-components-in-react-examples-with-common-use-case-patterns-e47e3f400347)
+[![rekwest](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/rekwest.svg)](https://www.npmjs.com/package/rekwest)
 
 
 <!-- post-list:end -->
