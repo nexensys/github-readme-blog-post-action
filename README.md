@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, May 8, 2023 at 6:44:20 PM
+> Last updated: Tuesday, May 9, 2023 at 12:11:16 AM
 
 > Showing 5 of 12 posts.
 
-[![Kubernetes Services Evolution](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Kubernetes_Services_Evolution.svg)](https://dev.to/haydenrear/kubernetes-services-evolution-414k)
-[![Auth.Tesla.com's Vulnerability Leads To Account Takeover of Internal Tesla Accounts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Auth.Tesla.com's_Vulnerability_Leads_To_Account_Takeover_of_Internal_Tesla_Accounts.svg)](https://dev.to/tutorialboy/authteslacoms-vulnerability-leads-to-account-takeover-of-internal-tesla-accounts-1fci)
-[![React Suspense for Data Fetching with Axios in React 18](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Suspense_for_Data_Fetching_with_Axios_in_React_18.svg)](https://dev.to/alakkadshaw/react-suspense-for-data-fetching-with-axios-in-react-18-5c29)
-[![Guide to Hosting a Static Website on AWS Using S3, CloudFront, and Route53, with just 7 Steps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Guide_to_Hosting_a_Static_Website_on_AWS_Using_S3__CloudFront__and_Route53__with_just_7_Steps.svg)](https://dev.to/aws-builders/guide-to-hosting-a-static-website-on-aws-using-s3-cloudfront-and-route53-with-just-7-steps-220b)
-[![You need to learn docker... security!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/You_need_to_learn_docker..._security!.svg)](https://dev.to/jmau111/you-need-to-learn-docker-security-4dmj)
+[![How to use Snowflake Time Travel to Recover Deleted Data?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_Snowflake_Time_Travel_to_Recover_Deleted_Data_.svg)](https://dev.to/chaos-genius/how-to-use-snowflake-time-travel-to-recover-deleted-data-2hdd)
+[![How Machine-Assisted Code Generation is Revolutionizing the Development Process](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_Machine-Assisted_Code_Generation_is_Revolutionizing_the_Development_Process.svg)](https://dev.to/amplication/how-machine-assisted-code-generation-is-revolutionizing-the-development-process-h85)
+[![Most Managers Have No Clue What Programmers Actually Do](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Most_Managers_Have_No_Clue_What_Programmers_Actually_Do.svg)](https://dev.to/bytebodger/most-managers-have-no-clue-what-we-actually-do-k07)
+[![Why AI will never take your job](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_AI_will_never_take_your_job.svg)](https://dev.to/polterguy/why-ai-will-never-take-your-job-5eg8)
+[![Ecommerce Website Using HTML, CSS, and JavaScript (Source Code)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ecommerce_Website_Using_HTML__CSS__and_JavaScript_(Source_Code).svg)](https://dev.to/cwrcode/ecommerce-website-using-html-css-and-javascript-source-code-1c8c)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, May 8, 2023 at 6:44:23 PM
+> Last updated: Tuesday, May 9, 2023 at 12:11:19 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, May 8, 2023 at 6:44:34 PM
+> Last updated: Tuesday, May 9, 2023 at 12:11:28 AM
 
 > Showing 5 of 30 posts.
 
+[![Policybazaar.com IPO in 12-15 months; parent firm gets capital boost from Bay Capital](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Policybazaar.com_IPO_in_12-15_months;_parent_firm_gets_capital_boost_from_Bay_Capital.svg)](https://www.moneycontrol.com/news/business/companies/policybazaar-com-ipo-in-12-15-months-parent-firm-gets-capital-boost-from-bay-capital-6600971.html)
 [![Mastering JavaScript Proxies: Practical Use Cases and Real-World Applications](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Mastering_JavaScript_Proxies__Practical_Use_Cases_and_Real-World_Applications.svg)](https://soshace.com/mastering-javascript-proxies-practical-use-cases-and-real-world-applications/)
 [![API with NestJS #107. Offset and keyset pagination with Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__107._Offset_and_keyset_pagination_with_Prisma.svg)](https://wanago.io/2023/05/08/api-nestjs-pagination-prisma/)
 [![GitHub - osamaaftab/Flow: A Circular image loading and caching library for Android with circular Progressbar](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_osamaaftab_Flow__A_Circular_image_loading_and_caching_library_for_Android_with_circular_Progressbar.svg)](https://github.com/osamaaftab/Flow)
 [![Higher Order Components in React: Examples with Common Use-case Patterns](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Higher_Order_Components_in_React__Examples_with_Common_Use-case_Patterns.svg)](https://medium.com/@jamesbordane57/higher-order-components-in-react-examples-with-common-use-case-patterns-e47e3f400347)
-[![rekwest](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/rekwest.svg)](https://www.npmjs.com/package/rekwest)
 
 
 <!-- post-list:end -->
