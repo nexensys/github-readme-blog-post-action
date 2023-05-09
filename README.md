@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, May 9, 2023 at 6:53:53 AM
+> Last updated: Tuesday, May 9, 2023 at 12:10:16 PM
 
 > Showing 5 of 12 posts.
 
-[![Chrome Extension with React + CRXJS + Vite + Docker](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Chrome_Extension_with_React_+_CRXJS_+_Vite_+_Docker.svg)](https://dev.to/mk668a/chrome-extension-with-react-crxjs-vite-docker-3pm8)
-[![How Can Developers and Testers Work Better Together?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_Can_Developers_and_Testers_Work_Better_Together_.svg)](https://dev.to/mathilde_llg/how-can-developers-and-testers-work-better-together-379g)
-[![Smart Cities? Smart Villages? Can we have them both? Is there a quick way to this?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Smart_Cities__Smart_Villages__Can_we_have_them_both__Is_there_a_quick_way_to_this_.svg)](https://dev.to/stephenkgitahi/smart-cities-smart-villages-can-we-have-them-both-is-there-a-quick-way-to-this-21c)
-[![Moonly weekly progress update #48 - Optimizing our Discord Bot](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Moonly_weekly_progress_update__48_-_Optimizing_our_Discord_Bot.svg)](https://dev.to/moonly/moonly-weekly-progress-update-48-optimizing-our-discord-bot-410m)
-[![How we implemented the card animation in Appwrite Cloud Public Beta](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_we_implemented_the_card_animation_in_Appwrite_Cloud_Public_Beta.svg)](https://dev.to/appwrite/how-we-implemented-the-card-animation-in-appwrite-cloud-public-beta-4npb)
+[![How to build machine learning regression models with Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_build_machine_learning_regression_models_with_Python.svg)](https://dev.to/educative/how-to-build-machine-learning-regression-models-with-python-54a4)
+[![Announcing NgRx v16: Integration with Angular Signals, Functional Effects, Standalone Schematics, and more!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Announcing_NgRx_v16__Integration_with_Angular_Signals__Functional_Effects__Standalone_Schematics__and_more!.svg)](https://dev.to/ngrx/announcing-ngrx-v16-integration-with-angular-signals-functional-effects-standalone-schematics-and-more-5gk6)
+[![Java String Templates Today](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Java_String_Templates_Today.svg)](https://dev.to/codenameone/java-string-templates-today-p4j)
+[![Exploding Kittens Card Game - React, Nodejs and Redis (Part 2)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exploding_Kittens_Card_Game_-_React__Nodejs_and_Redis_(Part_2).svg)](https://dev.to/nabajits21/exploding-kittens-card-game-react-nodejs-and-redis-part-2-4ohf)
+[![How to Become a Certified Web3 Developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Become_a_Certified_Web3_Developer.svg)](https://dev.to/kudoser/how-to-become-a-certified-web3-developer-iph)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, May 9, 2023 at 6:53:56 AM
+> Last updated: Tuesday, May 9, 2023 at 12:10:19 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, May 9, 2023 at 6:54:04 AM
+> Last updated: Tuesday, May 9, 2023 at 12:10:28 PM
 
 > Showing 5 of 30 posts.
 
