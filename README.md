@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, May 8, 2023 at 12:10:17 PM
+> Last updated: Monday, May 8, 2023 at 6:44:20 PM
 
 > Showing 5 of 12 posts.
 
-[![Database 101: How social media “likes” are stored in a database](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Database_101__How_social_media_“likes”_are_stored_in_a_database.svg)](https://dev.to/danielhe4rt/database-101-how-social-media-likes-are-stored-in-a-database-3oii)
-[![Streamline Your Development Workflow with AWS Amplify's Deployment Environment](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Streamline_Your_Development_Workflow_with_AWS_Amplify's_Deployment_Environment.svg)](https://dev.to/inrange/streamline-your-development-workflow-with-aws-amplifys-deployment-environment-4lg2)
-[![Exploding Kittens Card Game - React, Nodejs and Redis](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exploding_Kittens_Card_Game_-_React__Nodejs_and_Redis.svg)](https://dev.to/nabajits21/exploding-kittens-card-game-react-nodejs-and-redis-4ci8)
-[![Open Source Terminology 101: A Primer for New Contributors](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Open_Source_Terminology_101__A_Primer_for_New_Contributors.svg)](https://dev.to/opensauced/open-source-terminology-101-a-primer-for-new-contributors-k46)
-[![Top-10 Posts for FE (Week 1, May 2023)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top-10_Posts_for_FE_(Week_1__May_2023).svg)](https://dev.to/fruntend/top-10-posts-for-fe-week-1-may-2023-29jb)
+[![Kubernetes Services Evolution](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Kubernetes_Services_Evolution.svg)](https://dev.to/haydenrear/kubernetes-services-evolution-414k)
+[![Auth.Tesla.com's Vulnerability Leads To Account Takeover of Internal Tesla Accounts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Auth.Tesla.com's_Vulnerability_Leads_To_Account_Takeover_of_Internal_Tesla_Accounts.svg)](https://dev.to/tutorialboy/authteslacoms-vulnerability-leads-to-account-takeover-of-internal-tesla-accounts-1fci)
+[![React Suspense for Data Fetching with Axios in React 18](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Suspense_for_Data_Fetching_with_Axios_in_React_18.svg)](https://dev.to/alakkadshaw/react-suspense-for-data-fetching-with-axios-in-react-18-5c29)
+[![Guide to Hosting a Static Website on AWS Using S3, CloudFront, and Route53, with just 7 Steps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Guide_to_Hosting_a_Static_Website_on_AWS_Using_S3__CloudFront__and_Route53__with_just_7_Steps.svg)](https://dev.to/aws-builders/guide-to-hosting-a-static-website-on-aws-using-s3-cloudfront-and-route53-with-just-7-steps-220b)
+[![You need to learn docker... security!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/You_need_to_learn_docker..._security!.svg)](https://dev.to/jmau111/you-need-to-learn-docker-security-4dmj)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, May 8, 2023 at 12:10:21 PM
+> Last updated: Monday, May 8, 2023 at 6:44:23 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, May 8, 2023 at 12:10:30 PM
+> Last updated: Monday, May 8, 2023 at 6:44:34 PM
 
 > Showing 5 of 30 posts.
 
