@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, May 9, 2023 at 12:11:16 AM
+> Last updated: Tuesday, May 9, 2023 at 6:53:53 AM
 
 > Showing 5 of 12 posts.
 
-[![How to use Snowflake Time Travel to Recover Deleted Data?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_Snowflake_Time_Travel_to_Recover_Deleted_Data_.svg)](https://dev.to/chaos-genius/how-to-use-snowflake-time-travel-to-recover-deleted-data-2hdd)
-[![How Machine-Assisted Code Generation is Revolutionizing the Development Process](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_Machine-Assisted_Code_Generation_is_Revolutionizing_the_Development_Process.svg)](https://dev.to/amplication/how-machine-assisted-code-generation-is-revolutionizing-the-development-process-h85)
-[![Most Managers Have No Clue What Programmers Actually Do](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Most_Managers_Have_No_Clue_What_Programmers_Actually_Do.svg)](https://dev.to/bytebodger/most-managers-have-no-clue-what-we-actually-do-k07)
-[![Why AI will never take your job](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_AI_will_never_take_your_job.svg)](https://dev.to/polterguy/why-ai-will-never-take-your-job-5eg8)
-[![Ecommerce Website Using HTML, CSS, and JavaScript (Source Code)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ecommerce_Website_Using_HTML__CSS__and_JavaScript_(Source_Code).svg)](https://dev.to/cwrcode/ecommerce-website-using-html-css-and-javascript-source-code-1c8c)
+[![Chrome Extension with React + CRXJS + Vite + Docker](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Chrome_Extension_with_React_+_CRXJS_+_Vite_+_Docker.svg)](https://dev.to/mk668a/chrome-extension-with-react-crxjs-vite-docker-3pm8)
+[![How Can Developers and Testers Work Better Together?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_Can_Developers_and_Testers_Work_Better_Together_.svg)](https://dev.to/mathilde_llg/how-can-developers-and-testers-work-better-together-379g)
+[![Smart Cities? Smart Villages? Can we have them both? Is there a quick way to this?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Smart_Cities__Smart_Villages__Can_we_have_them_both__Is_there_a_quick_way_to_this_.svg)](https://dev.to/stephenkgitahi/smart-cities-smart-villages-can-we-have-them-both-is-there-a-quick-way-to-this-21c)
+[![Moonly weekly progress update #48 - Optimizing our Discord Bot](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Moonly_weekly_progress_update__48_-_Optimizing_our_Discord_Bot.svg)](https://dev.to/moonly/moonly-weekly-progress-update-48-optimizing-our-discord-bot-410m)
+[![How we implemented the card animation in Appwrite Cloud Public Beta](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_we_implemented_the_card_animation_in_Appwrite_Cloud_Public_Beta.svg)](https://dev.to/appwrite/how-we-implemented-the-card-animation-in-appwrite-cloud-public-beta-4npb)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, May 9, 2023 at 12:11:19 AM
+> Last updated: Tuesday, May 9, 2023 at 6:53:56 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, May 9, 2023 at 12:11:28 AM
+> Last updated: Tuesday, May 9, 2023 at 6:54:04 AM
 
 > Showing 5 of 30 posts.
 
