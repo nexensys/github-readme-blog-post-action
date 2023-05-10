@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, May 9, 2023 at 12:10:16 PM
+> Last updated: Tuesday, May 9, 2023 at 6:43:27 PM
 
 > Showing 5 of 12 posts.
 
-[![How to build machine learning regression models with Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_build_machine_learning_regression_models_with_Python.svg)](https://dev.to/educative/how-to-build-machine-learning-regression-models-with-python-54a4)
-[![Announcing NgRx v16: Integration with Angular Signals, Functional Effects, Standalone Schematics, and more!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Announcing_NgRx_v16__Integration_with_Angular_Signals__Functional_Effects__Standalone_Schematics__and_more!.svg)](https://dev.to/ngrx/announcing-ngrx-v16-integration-with-angular-signals-functional-effects-standalone-schematics-and-more-5gk6)
-[![Java String Templates Today](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Java_String_Templates_Today.svg)](https://dev.to/codenameone/java-string-templates-today-p4j)
-[![Exploding Kittens Card Game - React, Nodejs and Redis (Part 2)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exploding_Kittens_Card_Game_-_React__Nodejs_and_Redis_(Part_2).svg)](https://dev.to/nabajits21/exploding-kittens-card-game-react-nodejs-and-redis-part-2-4ohf)
-[![How to Become a Certified Web3 Developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Become_a_Certified_Web3_Developer.svg)](https://dev.to/kudoser/how-to-become-a-certified-web3-developer-iph)
+[![Improve Nmap Performance with These Brilliant Scripts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Improve_Nmap_Performance_with_These_Brilliant_Scripts.svg)](https://dev.to/williambaptist/improve-nmap-performance-with-these-brilliant-scripts-2kc0)
+[![A comprehensive guide to pinia](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_comprehensive_guide_to_pinia.svg)](https://dev.to/miracool/a-comprehensive-guide-to-pinia-3bd1)
+[![Observabilidade 101 - Entendendo o que acontece no seu sistema](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Observabilidade_101_-_Entendendo_o_que_acontece_no_seu_sistema.svg)](https://dev.to/pedropms/observabilidade-101-entendendo-o-que-acontece-no-seu-sistema-23hg)
+[![Best Practices for Writing on DEV: Listicles](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_Practices_for_Writing_on_DEV__Listicles.svg)](https://dev.to/devteam/best-practices-for-writing-on-dev-listicles-16e5)
+[![#DEVDiscuss: HTMX](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_DEVDiscuss__HTMX.svg)](https://dev.to/devteam/devdiscuss-htmx-415g)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, May 9, 2023 at 12:10:19 PM
+> Last updated: Tuesday, May 9, 2023 at 6:43:29 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, May 9, 2023 at 12:10:28 PM
+> Last updated: Tuesday, May 9, 2023 at 6:43:38 PM
 
 > Showing 5 of 30 posts.
 
