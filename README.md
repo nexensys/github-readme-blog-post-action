@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, May 9, 2023 at 6:43:27 PM
+> Last updated: Wednesday, May 10, 2023 at 12:10:50 AM
 
 > Showing 5 of 12 posts.
 
-[![Improve Nmap Performance with These Brilliant Scripts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Improve_Nmap_Performance_with_These_Brilliant_Scripts.svg)](https://dev.to/williambaptist/improve-nmap-performance-with-these-brilliant-scripts-2kc0)
-[![A comprehensive guide to pinia](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_comprehensive_guide_to_pinia.svg)](https://dev.to/miracool/a-comprehensive-guide-to-pinia-3bd1)
-[![Observabilidade 101 - Entendendo o que acontece no seu sistema](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Observabilidade_101_-_Entendendo_o_que_acontece_no_seu_sistema.svg)](https://dev.to/pedropms/observabilidade-101-entendendo-o-que-acontece-no-seu-sistema-23hg)
-[![Best Practices for Writing on DEV: Listicles](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_Practices_for_Writing_on_DEV__Listicles.svg)](https://dev.to/devteam/best-practices-for-writing-on-dev-listicles-16e5)
-[![#DEVDiscuss: HTMX](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_DEVDiscuss__HTMX.svg)](https://dev.to/devteam/devdiscuss-htmx-415g)
+[![How to Judo Mansplaining](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Judo_Mansplaining.svg)](https://dev.to/jmfayard/how-do-judo-mansplaining-471g)
+[![The Evolving Journey of a Lifelong Coder: What's Next?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Evolving_Journey_of_a_Lifelong_Coder__What's_Next_.svg)](https://dev.to/philipjohnbasile/the-evolving-journey-of-a-lifelong-coder-whats-next-1p0g)
+[![Introducing Polyglot Notebooks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_Polyglot_Notebooks.svg)](https://dev.to/integerman/introducing-polyglot-notebooks-3e6c)
+[![Comprehensive Kubernetes CheatSheet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Comprehensive_Kubernetes_CheatSheet.svg)](https://dev.to/pragyanatvade/comprehensive-kubernetes-cheatsheet-34gm)
+[![How to Succeed in Open Source Without Really Trying (Really)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Succeed_in_Open_Source_Without_Really_Trying_(Really).svg)](https://dev.to/tigt/how-to-succeed-in-open-source-without-really-trying-really-55pj)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, May 9, 2023 at 6:43:29 PM
+> Last updated: Wednesday, May 10, 2023 at 12:10:53 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, May 9, 2023 at 6:43:38 PM
+> Last updated: Wednesday, May 10, 2023 at 12:10:59 AM
 
 > Showing 5 of 30 posts.
 
