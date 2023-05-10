@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, May 10, 2023 at 6:15:54 AM
+> Last updated: Wednesday, May 10, 2023 at 12:15:37 PM
 
 > Showing 5 of 12 posts.
 
-[![How to use Material UI Modal](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_Material_UI_Modal.svg)](https://dev.to/refine/how-to-use-material-ui-modal-21dh)
-[![How to create a Function App with a Webhook, add HTTP triggered function(a hello message with your name) and test it.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_a_Function_App_with_a_Webhook__add_HTTP_triggered_function(a_hello_message_with_your_name)_and_test_it..svg)](https://dev.to/toluwani_oluwaloseyi/how-to-create-a-function-app-with-a-webhook-add-http-triggered-functiona-hello-message-with-your-name-and-test-it-3k65)
-[![Effortless User Story Creation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Effortless_User_Story_Creation.svg)](https://dev.to/balagmadhu/effortless-user-story-creation-15hn)
-[![Android: Automate Instrumented and Unit Tests With CircleCI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Android__Automate_Instrumented_and_Unit_Tests_With_CircleCI.svg)](https://dev.to/roselinebassey/android-automate-instrumented-and-unit-tests-with-circleci-1igo)
-[![Scatter chart + Ellipse chart with LightningChart JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Scatter_chart_+_Ellipse_chart_with_LightningChart_JS.svg)](https://dev.to/lightningchart/scatter-chart-ellipse-chart-with-lightningchart-js-36cl)
+[![Diff form Two Arrays](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Diff_form_Two_Arrays.svg)](https://dev.to/muhmmadawd/diff-form-two-arrays-4je3)
+[![Typescript: Interface](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Typescript__Interface.svg)](https://dev.to/j471n/typescript-interface-3748)
+[![How to Write a Good Issue: Tips for Effective Communication in Open Source](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Write_a_Good_Issue__Tips_for_Effective_Communication_in_Open_Source.svg)](https://dev.to/opensauced/how-to-write-a-good-issue-tips-for-effective-communication-in-open-source-5443)
+[![Sloan's Inbox: How do badges work on DEV?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Sloan's_Inbox__How_do_badges_work_on_DEV_.svg)](https://dev.to/devteam/sloans-inbox-how-do-badges-work-on-dev-5e1k)
+[![How to create a virtual machine scales set with load balancer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_a_virtual_machine_scales_set_with_load_balancer.svg)](https://dev.to/toluwani_oluwaloseyi/how-to-create-a-virtual-machine-scales-set-with-load-balancer-1jlg)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, May 10, 2023 at 6:15:56 AM
+> Last updated: Wednesday, May 10, 2023 at 12:15:40 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, May 10, 2023 at 6:16:03 AM
+> Last updated: Wednesday, May 10, 2023 at 12:15:47 PM
 
 > Showing 5 of 30 posts.
 
