@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, May 10, 2023 at 12:10:50 AM
+> Last updated: Wednesday, May 10, 2023 at 6:15:54 AM
 
 > Showing 5 of 12 posts.
 
-[![How to Judo Mansplaining](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Judo_Mansplaining.svg)](https://dev.to/jmfayard/how-do-judo-mansplaining-471g)
-[![The Evolving Journey of a Lifelong Coder: What's Next?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Evolving_Journey_of_a_Lifelong_Coder__What's_Next_.svg)](https://dev.to/philipjohnbasile/the-evolving-journey-of-a-lifelong-coder-whats-next-1p0g)
-[![Introducing Polyglot Notebooks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_Polyglot_Notebooks.svg)](https://dev.to/integerman/introducing-polyglot-notebooks-3e6c)
-[![Comprehensive Kubernetes CheatSheet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Comprehensive_Kubernetes_CheatSheet.svg)](https://dev.to/pragyanatvade/comprehensive-kubernetes-cheatsheet-34gm)
-[![How to Succeed in Open Source Without Really Trying (Really)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Succeed_in_Open_Source_Without_Really_Trying_(Really).svg)](https://dev.to/tigt/how-to-succeed-in-open-source-without-really-trying-really-55pj)
+[![How to use Material UI Modal](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_Material_UI_Modal.svg)](https://dev.to/refine/how-to-use-material-ui-modal-21dh)
+[![How to create a Function App with a Webhook, add HTTP triggered function(a hello message with your name) and test it.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_a_Function_App_with_a_Webhook__add_HTTP_triggered_function(a_hello_message_with_your_name)_and_test_it..svg)](https://dev.to/toluwani_oluwaloseyi/how-to-create-a-function-app-with-a-webhook-add-http-triggered-functiona-hello-message-with-your-name-and-test-it-3k65)
+[![Effortless User Story Creation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Effortless_User_Story_Creation.svg)](https://dev.to/balagmadhu/effortless-user-story-creation-15hn)
+[![Android: Automate Instrumented and Unit Tests With CircleCI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Android__Automate_Instrumented_and_Unit_Tests_With_CircleCI.svg)](https://dev.to/roselinebassey/android-automate-instrumented-and-unit-tests-with-circleci-1igo)
+[![Scatter chart + Ellipse chart with LightningChart JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Scatter_chart_+_Ellipse_chart_with_LightningChart_JS.svg)](https://dev.to/lightningchart/scatter-chart-ellipse-chart-with-lightningchart-js-36cl)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, May 10, 2023 at 12:10:53 AM
+> Last updated: Wednesday, May 10, 2023 at 6:15:56 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, May 10, 2023 at 12:10:59 AM
+> Last updated: Wednesday, May 10, 2023 at 6:16:03 AM
 
 > Showing 5 of 30 posts.
 
+[![What is a JWT token and how does it work?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_is_a_JWT_token_and_how_does_it_work_.svg)](https://www.ma-no.org/en/programming/what-is-a-jwt-token-and-how-does-it-work)
 [![Policybazaar.com IPO in 12-15 months; parent firm gets capital boost from Bay Capital](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Policybazaar.com_IPO_in_12-15_months;_parent_firm_gets_capital_boost_from_Bay_Capital.svg)](https://www.moneycontrol.com/news/business/companies/policybazaar-com-ipo-in-12-15-months-parent-firm-gets-capital-boost-from-bay-capital-6600971.html)
 [![Mastering JavaScript Proxies: Practical Use Cases and Real-World Applications](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Mastering_JavaScript_Proxies__Practical_Use_Cases_and_Real-World_Applications.svg)](https://soshace.com/mastering-javascript-proxies-practical-use-cases-and-real-world-applications/)
 [![API with NestJS #107. Offset and keyset pagination with Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__107._Offset_and_keyset_pagination_with_Prisma.svg)](https://wanago.io/2023/05/08/api-nestjs-pagination-prisma/)
 [![GitHub - osamaaftab/Flow: A Circular image loading and caching library for Android with circular Progressbar](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_osamaaftab_Flow__A_Circular_image_loading_and_caching_library_for_Android_with_circular_Progressbar.svg)](https://github.com/osamaaftab/Flow)
-[![Higher Order Components in React: Examples with Common Use-case Patterns](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Higher_Order_Components_in_React__Examples_with_Common_Use-case_Patterns.svg)](https://medium.com/@jamesbordane57/higher-order-components-in-react-examples-with-common-use-case-patterns-e47e3f400347)
 
 
 <!-- post-list:end -->
