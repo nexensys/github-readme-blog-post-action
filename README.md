@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, May 11, 2023 at 6:15:57 AM
+> Last updated: Thursday, May 11, 2023 at 12:10:11 PM
 
 > Showing 5 of 12 posts.
 
-[![HOW TO CREATE AN AZURE COMPUTE GALLERY, CAPTURE THE IMAGE OF A VM AND STORE IT IN A COMPUTE GALLERY.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/HOW_TO_CREATE_AN_AZURE_COMPUTE_GALLERY__CAPTURE_THE_IMAGE_OF_A_VM_AND_STORE_IT_IN_A_COMPUTE_GALLERY..svg)](https://dev.to/toluwani_oluwaloseyi/how-to-create-an-azure-compute-gallery-capture-the-image-of-a-vm-and-store-it-in-a-compute-gallery-2ab8)
-[![Best Practices for all developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_Practices_for_all_developers.svg)](https://dev.to/codepapi/best-practices-for-all-developers-1ak0)
-[![💻 JavaScript for Beginners: Objects](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/💻_JavaScript_for_Beginners__Objects.svg)](https://dev.to/catherineisonline/javascript-for-beginners-objects-4khn)
-[![Getting started with SpecFlow](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_started_with_SpecFlow.svg)](https://dev.to/shishsingh/getting-started-with-specflow-3e67)
-[![Learn Node.js for Cheap: My Course is Available for $9.99!!!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Learn_Node.js_for_Cheap__My_Course_is_Available_for_$9.99!!!.svg)](https://dev.to/ayka_code/learn-nodejs-for-cheap-my-course-is-available-for-999-36p9)
+[![The Roadmap to Becoming a Successful Private Contractor as a Software Engineer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Roadmap_to_Becoming_a_Successful_Private_Contractor_as_a_Software_Engineer.svg)](https://dev.to/nite_dev/the-roadmap-to-becoming-a-successful-private-contractor-as-a-software-engineer-3m09)
+[!["Single Digit" Spotlight v1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_Single_Digit__Spotlight_v1.svg)](https://dev.to/devteam/single-digit-spotlight-v1-63)
+[![☁️ API Maker Cloud Quick Introduction](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/☁️_API_Maker_Cloud_Quick_Introduction.svg)](https://dev.to/apimaker/api-maker-cloud-quick-introduction-kd6)
+[![Understanding Malware: A Python-based Approach](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_Malware__A_Python-based_Approach.svg)](https://dev.to/nite_dev/understanding-malware-a-python-based-approach-5c4c)
+[![Writing future-proof UnoCSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Writing_future-proof_UnoCSS.svg)](https://dev.to/owlnai/writing-future-proof-unocss-5b68)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, May 11, 2023 at 6:16:01 AM
+> Last updated: Thursday, May 11, 2023 at 12:10:15 PM
 
 > Showing 4 of 4 posts.
 
+[![Why Svelte is converting TypeScript to JSDoc](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Why_Svelte_is_converting_TypeScript_to_JSDoc.svg)](https://javascriptweekly.com/issues/638)
 [!['It's a miracle anything about this ecosystem works at all.'](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/'It's_a_miracle_anything_about_this_ecosystem_works_at_all.'.svg)](https://javascriptweekly.com/issues/637)
 [![Did you know JavaScript is trademarked?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Did_you_know_JavaScript_is_trademarked_.svg)](https://javascriptweekly.com/issues/636)
 [![On the origin of packages](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/On_the_origin_of_packages.svg)](https://javascriptweekly.com/issues/635)
-[![The return of ECMAScript 2023 (and Angular)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/The_return_of_ECMAScript_2023_(and_Angular).svg)](https://javascriptweekly.com/issues/634)
 
 
 ## Echo JS
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, May 11, 2023 at 6:16:11 AM
+> Last updated: Thursday, May 11, 2023 at 12:10:23 PM
 
 > Showing 5 of 30 posts.
 
+[![A Quick Intro to Record Type in TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/A_Quick_Intro_to_Record_Type_in_TypeScript.svg)](https://dmitripavlutin.com/typescript-record/)
 [![Nine Easy Steps to Start your Ecommerce Business](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Nine_Easy_Steps_to_Start_your_Ecommerce_Business.svg)](https://www.estatic-infotech.com/blog/post/nine-easy-steps-to-start-your-ecommerce-business)
 [![What is a JWT token and how does it work?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_is_a_JWT_token_and_how_does_it_work_.svg)](https://www.ma-no.org/en/programming/what-is-a-jwt-token-and-how-does-it-work)
 [![Policybazaar.com IPO in 12-15 months; parent firm gets capital boost from Bay Capital](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Policybazaar.com_IPO_in_12-15_months;_parent_firm_gets_capital_boost_from_Bay_Capital.svg)](https://www.moneycontrol.com/news/business/companies/policybazaar-com-ipo-in-12-15-months-parent-firm-gets-capital-boost-from-bay-capital-6600971.html)
 [![Mastering JavaScript Proxies: Practical Use Cases and Real-World Applications](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Mastering_JavaScript_Proxies__Practical_Use_Cases_and_Real-World_Applications.svg)](https://soshace.com/mastering-javascript-proxies-practical-use-cases-and-real-world-applications/)
-[![API with NestJS #107. Offset and keyset pagination with Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__107._Offset_and_keyset_pagination_with_Prisma.svg)](https://wanago.io/2023/05/08/api-nestjs-pagination-prisma/)
 
 
 <!-- post-list:end -->
