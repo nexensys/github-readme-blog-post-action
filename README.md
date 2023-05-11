@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, May 11, 2023 at 12:11:13 AM
+> Last updated: Thursday, May 11, 2023 at 6:15:57 AM
 
 > Showing 5 of 12 posts.
 
-[![AISTA versus AINIRO](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AISTA_versus_AINIRO.svg)](https://dev.to/polterguy/aista-versus-ainiro-568m)
-[![Liman MYS Sertifikasının Güncellenmesi](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Liman_MYS_Sertifikasının_Güncellenmesi.svg)](https://dev.to/aciklab/liman-mys-sertifikasinin-guncellenmesi-1dad)
-[![Deploy Kubernetes Helm Charts in Minutes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deploy_Kubernetes_Helm_Charts_in_Minutes.svg)](https://dev.to/pavanbelagatti/deploy-kubernetes-helm-charts-in-minutes-19eo)
-[![Interviewing in Software Development Made Easy with Interview Bibles for Ruby, Python, JavaScript, and ReactJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Interviewing_in_Software_Development_Made_Easy_with_Interview_Bibles_for_Ruby__Python__JavaScript__and_ReactJS.svg)](https://dev.to/nezirzahirovic/interviewing-in-software-development-made-easy-with-interview-bibles-for-ruby-python-javascript-and-reactjs-4al3)
-[![My Favorite Books for Coding Interviews](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_Favorite_Books_for_Coding_Interviews.svg)](https://dev.to/javinpaul/my-favorite-books-for-coding-interviews-106j)
+[![HOW TO CREATE AN AZURE COMPUTE GALLERY, CAPTURE THE IMAGE OF A VM AND STORE IT IN A COMPUTE GALLERY.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/HOW_TO_CREATE_AN_AZURE_COMPUTE_GALLERY__CAPTURE_THE_IMAGE_OF_A_VM_AND_STORE_IT_IN_A_COMPUTE_GALLERY..svg)](https://dev.to/toluwani_oluwaloseyi/how-to-create-an-azure-compute-gallery-capture-the-image-of-a-vm-and-store-it-in-a-compute-gallery-2ab8)
+[![Best Practices for all developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_Practices_for_all_developers.svg)](https://dev.to/codepapi/best-practices-for-all-developers-1ak0)
+[![💻 JavaScript for Beginners: Objects](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/💻_JavaScript_for_Beginners__Objects.svg)](https://dev.to/catherineisonline/javascript-for-beginners-objects-4khn)
+[![Getting started with SpecFlow](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_started_with_SpecFlow.svg)](https://dev.to/shishsingh/getting-started-with-specflow-3e67)
+[![Learn Node.js for Cheap: My Course is Available for $9.99!!!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Learn_Node.js_for_Cheap__My_Course_is_Available_for_$9.99!!!.svg)](https://dev.to/ayka_code/learn-nodejs-for-cheap-my-course-is-available-for-999-36p9)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, May 11, 2023 at 12:11:18 AM
+> Last updated: Thursday, May 11, 2023 at 6:16:01 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, May 11, 2023 at 12:11:28 AM
+> Last updated: Thursday, May 11, 2023 at 6:16:11 AM
 
 > Showing 5 of 30 posts.
 
+[![Nine Easy Steps to Start your Ecommerce Business](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Nine_Easy_Steps_to_Start_your_Ecommerce_Business.svg)](https://www.estatic-infotech.com/blog/post/nine-easy-steps-to-start-your-ecommerce-business)
 [![What is a JWT token and how does it work?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_is_a_JWT_token_and_how_does_it_work_.svg)](https://www.ma-no.org/en/programming/what-is-a-jwt-token-and-how-does-it-work)
 [![Policybazaar.com IPO in 12-15 months; parent firm gets capital boost from Bay Capital](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Policybazaar.com_IPO_in_12-15_months;_parent_firm_gets_capital_boost_from_Bay_Capital.svg)](https://www.moneycontrol.com/news/business/companies/policybazaar-com-ipo-in-12-15-months-parent-firm-gets-capital-boost-from-bay-capital-6600971.html)
 [![Mastering JavaScript Proxies: Practical Use Cases and Real-World Applications](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Mastering_JavaScript_Proxies__Practical_Use_Cases_and_Real-World_Applications.svg)](https://soshace.com/mastering-javascript-proxies-practical-use-cases-and-real-world-applications/)
 [![API with NestJS #107. Offset and keyset pagination with Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__107._Offset_and_keyset_pagination_with_Prisma.svg)](https://wanago.io/2023/05/08/api-nestjs-pagination-prisma/)
-[![GitHub - osamaaftab/Flow: A Circular image loading and caching library for Android with circular Progressbar](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_osamaaftab_Flow__A_Circular_image_loading_and_caching_library_for_Android_with_circular_Progressbar.svg)](https://github.com/osamaaftab/Flow)
 
 
 <!-- post-list:end -->
