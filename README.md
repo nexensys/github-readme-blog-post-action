@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, May 10, 2023 at 12:15:37 PM
+> Last updated: Wednesday, May 10, 2023 at 6:43:01 PM
 
 > Showing 5 of 12 posts.
 
-[![Diff form Two Arrays](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Diff_form_Two_Arrays.svg)](https://dev.to/muhmmadawd/diff-form-two-arrays-4je3)
-[![Typescript: Interface](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Typescript__Interface.svg)](https://dev.to/j471n/typescript-interface-3748)
-[![How to Write a Good Issue: Tips for Effective Communication in Open Source](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Write_a_Good_Issue__Tips_for_Effective_Communication_in_Open_Source.svg)](https://dev.to/opensauced/how-to-write-a-good-issue-tips-for-effective-communication-in-open-source-5443)
-[![Sloan's Inbox: How do badges work on DEV?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Sloan's_Inbox__How_do_badges_work_on_DEV_.svg)](https://dev.to/devteam/sloans-inbox-how-do-badges-work-on-dev-5e1k)
-[![How to create a virtual machine scales set with load balancer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_a_virtual_machine_scales_set_with_load_balancer.svg)](https://dev.to/toluwani_oluwaloseyi/how-to-create-a-virtual-machine-scales-set-with-load-balancer-1jlg)
+[![ChatGPT: Explicando complexidade de algoritmos](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/ChatGPT__Explicando_complexidade_de_algoritmos.svg)](https://dev.to/juuh42dias/chatgpt-explicando-complexidade-de-algoritmos-2fb7)
+[![CSR and SSR: A must known software development methodology for developers and website owners.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CSR_and_SSR__A_must_known_software_development_methodology_for_developers_and_website_owners..svg)](https://dev.to/miracool/csr-and-ssr-a-must-known-software-development-methodology-for-developers-and-website-owners-13pc)
+[![Participe do do Hackathon GitHub + DEV 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Participe_do_do_Hackathon_GitHub_+_DEV_2023.svg)](https://dev.to/github/participe-do-do-hackathon-github-dev-2023-jk6)
+[![What is Cloud Native](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_Cloud_Native.svg)](https://dev.to/ewenikeemmanue4/what-is-cloud-native-13bo)
+[![Understanding Asynchronous Programming in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_Asynchronous_Programming_in_JavaScript.svg)](https://dev.to/yisakt/understanding-asynchronous-programming-in-javascript-32j6)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, May 10, 2023 at 12:15:40 PM
+> Last updated: Wednesday, May 10, 2023 at 6:43:04 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, May 10, 2023 at 12:15:47 PM
+> Last updated: Wednesday, May 10, 2023 at 6:43:12 PM
 
 > Showing 5 of 30 posts.
 
