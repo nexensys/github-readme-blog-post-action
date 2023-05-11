@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, May 10, 2023 at 6:43:01 PM
+> Last updated: Thursday, May 11, 2023 at 12:11:13 AM
 
 > Showing 5 of 12 posts.
 
-[![ChatGPT: Explicando complexidade de algoritmos](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/ChatGPT__Explicando_complexidade_de_algoritmos.svg)](https://dev.to/juuh42dias/chatgpt-explicando-complexidade-de-algoritmos-2fb7)
-[![CSR and SSR: A must known software development methodology for developers and website owners.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CSR_and_SSR__A_must_known_software_development_methodology_for_developers_and_website_owners..svg)](https://dev.to/miracool/csr-and-ssr-a-must-known-software-development-methodology-for-developers-and-website-owners-13pc)
-[![Participe do do Hackathon GitHub + DEV 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Participe_do_do_Hackathon_GitHub_+_DEV_2023.svg)](https://dev.to/github/participe-do-do-hackathon-github-dev-2023-jk6)
-[![What is Cloud Native](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_Cloud_Native.svg)](https://dev.to/ewenikeemmanue4/what-is-cloud-native-13bo)
-[![Understanding Asynchronous Programming in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_Asynchronous_Programming_in_JavaScript.svg)](https://dev.to/yisakt/understanding-asynchronous-programming-in-javascript-32j6)
+[![AISTA versus AINIRO](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AISTA_versus_AINIRO.svg)](https://dev.to/polterguy/aista-versus-ainiro-568m)
+[![Liman MYS Sertifikasının Güncellenmesi](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Liman_MYS_Sertifikasının_Güncellenmesi.svg)](https://dev.to/aciklab/liman-mys-sertifikasinin-guncellenmesi-1dad)
+[![Deploy Kubernetes Helm Charts in Minutes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deploy_Kubernetes_Helm_Charts_in_Minutes.svg)](https://dev.to/pavanbelagatti/deploy-kubernetes-helm-charts-in-minutes-19eo)
+[![Interviewing in Software Development Made Easy with Interview Bibles for Ruby, Python, JavaScript, and ReactJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Interviewing_in_Software_Development_Made_Easy_with_Interview_Bibles_for_Ruby__Python__JavaScript__and_ReactJS.svg)](https://dev.to/nezirzahirovic/interviewing-in-software-development-made-easy-with-interview-bibles-for-ruby-python-javascript-and-reactjs-4al3)
+[![My Favorite Books for Coding Interviews](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_Favorite_Books_for_Coding_Interviews.svg)](https://dev.to/javinpaul/my-favorite-books-for-coding-interviews-106j)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, May 10, 2023 at 6:43:04 PM
+> Last updated: Thursday, May 11, 2023 at 12:11:18 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, May 10, 2023 at 6:43:12 PM
+> Last updated: Thursday, May 11, 2023 at 12:11:28 AM
 
 > Showing 5 of 30 posts.
 
