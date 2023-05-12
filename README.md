@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, May 12, 2023 at 6:15:02 AM
+> Last updated: Friday, May 12, 2023 at 12:09:58 PM
 
 > Showing 5 of 12 posts.
 
-[![Improve Code Quality with These Tips and Best Practices](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Improve_Code_Quality_with_These_Tips_and_Best_Practices.svg)](https://dev.to/documatic/improve-code-quality-with-these-tips-and-best-practices-2mh2)
-[![งานเปิดตัว AWS Local Zone ประเทศไทย](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/งานเปิดตัว_AWS_Local_Zone_ประเทศไทย.svg)](https://dev.to/aws-builders/ngaanepidtaw-aws-local-zone-praethsaithy-41kj)
-[![Cross-Translation Programming Language: We are unlucky not the future](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cross-Translation_Programming_Language__We_are_unlucky_not_the_future.svg)](https://dev.to/shreyvijayvargiya/cross-translation-programming-language-we-are-unlucky-not-the-future-1053)
-[![Why do we need User Acceptance Testing (UAT)?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_do_we_need_User_Acceptance_Testing_(UAT)_.svg)](https://dev.to/rohitbhandari102/why-do-we-need-user-acceptance-testing-uat-1jja)
-[![A Realistic 3D Card hover effect using only CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Realistic_3D_Card_hover_effect_using_only_CSS.svg)](https://dev.to/jon_snow789/a-realistic-3d-card-hover-effect-using-only-css-200j)
+[![pyaction 4.19.0 Released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/pyaction_4.19.0_Released.svg)](https://dev.to/cicirello/pyaction-4190-released-2b55)
+[![Who's looking for open source contributors? (week 41)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Who's_looking_for_open_source_contributors__(week_41).svg)](https://dev.to/opensauced/whos-looking-for-open-source-contributors-week-41-35ja)
+[![Maximizing Your Influence as a Software Engineer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Maximizing_Your_Influence_as_a_Software_Engineer.svg)](https://dev.to/snowman647/maximizing-your-influence-as-a-software-engineer-3okd)
+[![The Challenges of Blockchain Technology](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Challenges_of_Blockchain_Technology.svg)](https://dev.to/shashank_dev/the-challenges-of-blockchain-technology-3nj)
+[![The Great Operating System Battle: Why WSL2 is Winning](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Great_Operating_System_Battle__Why_WSL2_is_Winning.svg)](https://dev.to/glennviroux/the-great-operating-system-battle-why-wsl2-is-winning-2e89)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, May 12, 2023 at 6:15:05 AM
+> Last updated: Friday, May 12, 2023 at 12:10:00 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, May 12, 2023 at 6:15:08 AM
+> Last updated: Friday, May 12, 2023 at 12:10:03 PM
 
 > Showing 5 of 30 posts.
 
