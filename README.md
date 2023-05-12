@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, May 12, 2023 at 12:10:41 AM
+> Last updated: Friday, May 12, 2023 at 6:15:02 AM
 
 > Showing 5 of 12 posts.
 
-[![lists in python hackerrank solution](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/lists_in_python_hackerrank_solution.svg)](https://dev.to/realnamehidden1_61/lists-in-python-hackerrank-solution-2h51)
-[![Seek and Destroy Algorithm](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Seek_and_Destroy_Algorithm.svg)](https://dev.to/muhmmadawd/seek-and-destroy-algorithm-ehc)
-[![Weird Follower Spike on Dev.to](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Weird_Follower_Spike_on_Dev.to.svg)](https://dev.to/codenameone/weird-follower-spike-on-devto-41jm)
-[![Automating EC2 Instance Start/Stop using Serverless Code and CloudWatch Rule](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Automating_EC2_Instance_Start_Stop_using_Serverless_Code_and_CloudWatch_Rule.svg)](https://dev.to/kerisnarendra/automating-ec2-instance-startstop-using-serverless-code-and-cloudwatch-rule-429p)
-[![Stored Procedures and Django: A Match Made in Performance Heaven](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Stored_Procedures_and_Django__A_Match_Made_in_Performance_Heaven.svg)](https://dev.to/adii9/stored-procedures-and-django-a-match-made-in-performance-heaven-1fi9)
+[![Improve Code Quality with These Tips and Best Practices](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Improve_Code_Quality_with_These_Tips_and_Best_Practices.svg)](https://dev.to/documatic/improve-code-quality-with-these-tips-and-best-practices-2mh2)
+[![งานเปิดตัว AWS Local Zone ประเทศไทย](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/งานเปิดตัว_AWS_Local_Zone_ประเทศไทย.svg)](https://dev.to/aws-builders/ngaanepidtaw-aws-local-zone-praethsaithy-41kj)
+[![Cross-Translation Programming Language: We are unlucky not the future](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cross-Translation_Programming_Language__We_are_unlucky_not_the_future.svg)](https://dev.to/shreyvijayvargiya/cross-translation-programming-language-we-are-unlucky-not-the-future-1053)
+[![Why do we need User Acceptance Testing (UAT)?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_do_we_need_User_Acceptance_Testing_(UAT)_.svg)](https://dev.to/rohitbhandari102/why-do-we-need-user-acceptance-testing-uat-1jja)
+[![A Realistic 3D Card hover effect using only CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Realistic_3D_Card_hover_effect_using_only_CSS.svg)](https://dev.to/jon_snow789/a-realistic-3d-card-hover-effect-using-only-css-200j)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, May 12, 2023 at 12:10:44 AM
+> Last updated: Friday, May 12, 2023 at 6:15:05 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, May 12, 2023 at 12:10:49 AM
+> Last updated: Friday, May 12, 2023 at 6:15:08 AM
 
 > Showing 5 of 30 posts.
 
-[![A Quick Intro to Record Type in TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/A_Quick_Intro_to_Record_Type_in_TypeScript.svg)](https://dmitripavlutin.com/typescript-record/)
+[![Choose Fonts for Your Website (With Examples)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Choose_Fonts_for_Your_Website_(With_Examples).svg)](https://www.codica.com/blog/how-to-choose-fonts-for-your-website-guide/)
+[![3 Types of Web Development Services for Successful Online Business](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/3_Types_of_Web_Development_Services_for_Successful_Online_Business.svg)](https://www.estatic-infotech.com/blog/post/three-types-of-web-development-services-for-successful-online-business)
+[![Record Type in TypeScript: A Quick Intro](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Record_Type_in_TypeScript__A_Quick_Intro.svg)](https://dmitripavlutin.com/typescript-record/)
 [![Nine Easy Steps to Start your Ecommerce Business](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Nine_Easy_Steps_to_Start_your_Ecommerce_Business.svg)](https://www.estatic-infotech.com/blog/post/nine-easy-steps-to-start-your-ecommerce-business)
 [![What is a JWT token and how does it work?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_is_a_JWT_token_and_how_does_it_work_.svg)](https://www.ma-no.org/en/programming/what-is-a-jwt-token-and-how-does-it-work)
-[![Policybazaar.com IPO in 12-15 months; parent firm gets capital boost from Bay Capital](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Policybazaar.com_IPO_in_12-15_months;_parent_firm_gets_capital_boost_from_Bay_Capital.svg)](https://www.moneycontrol.com/news/business/companies/policybazaar-com-ipo-in-12-15-months-parent-firm-gets-capital-boost-from-bay-capital-6600971.html)
-[![Mastering JavaScript Proxies: Practical Use Cases and Real-World Applications](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Mastering_JavaScript_Proxies__Practical_Use_Cases_and_Real-World_Applications.svg)](https://soshace.com/mastering-javascript-proxies-practical-use-cases-and-real-world-applications/)
 
 
 <!-- post-list:end -->
