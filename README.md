@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, May 11, 2023 at 12:10:11 PM
+> Last updated: Thursday, May 11, 2023 at 6:43:36 PM
 
 > Showing 5 of 12 posts.
 
-[![The Roadmap to Becoming a Successful Private Contractor as a Software Engineer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Roadmap_to_Becoming_a_Successful_Private_Contractor_as_a_Software_Engineer.svg)](https://dev.to/nite_dev/the-roadmap-to-becoming-a-successful-private-contractor-as-a-software-engineer-3m09)
-[!["Single Digit" Spotlight v1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_Single_Digit__Spotlight_v1.svg)](https://dev.to/devteam/single-digit-spotlight-v1-63)
-[![☁️ API Maker Cloud Quick Introduction](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/☁️_API_Maker_Cloud_Quick_Introduction.svg)](https://dev.to/apimaker/api-maker-cloud-quick-introduction-kd6)
-[![Understanding Malware: A Python-based Approach](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_Malware__A_Python-based_Approach.svg)](https://dev.to/nite_dev/understanding-malware-a-python-based-approach-5c4c)
-[![Writing future-proof UnoCSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Writing_future-proof_UnoCSS.svg)](https://dev.to/owlnai/writing-future-proof-unocss-5b68)
+[![JavaScript Closures: Understanding Private Variables, Callbacks, and Memoization for Efficient Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_Closures__Understanding_Private_Variables__Callbacks__and_Memoization_for_Efficient_Code.svg)](https://dev.to/husayn01/javascript-closures-understanding-private-variables-callbacks-and-memoization-for-efficient-code-2ph4)
+[![What is SaaS-based voice?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_SaaS-based_voice_.svg)](https://dev.to/workarise/what-is-saas-based-voice-iin)
+[![Web3 and User Privacy: Risks and Solutions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Web3_and_User_Privacy__Risks_and_Solutions.svg)](https://dev.to/george_k/web3-and-user-privacy-risks-and-solutions-1i12)
+[![How we reduced our review time by 90%](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_we_reduced_our_review_time_by_90_.svg)](https://dev.to/useapolloapi/how-we-reduced-our-review-time-by-90-3hnc)
+[![API Design Interview vs. System Design Interview: 5-minute guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/API_Design_Interview_vs._System_Design_Interview__5-minute_guide.svg)](https://dev.to/educative/api-design-interview-vs-system-design-interview-5-minute-guide-3j32)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, May 11, 2023 at 12:10:15 PM
+> Last updated: Thursday, May 11, 2023 at 6:43:39 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, May 11, 2023 at 12:10:23 PM
+> Last updated: Thursday, May 11, 2023 at 6:43:44 PM
 
 > Showing 5 of 30 posts.
 
