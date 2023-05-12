@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, May 11, 2023 at 6:43:36 PM
+> Last updated: Friday, May 12, 2023 at 12:10:41 AM
 
 > Showing 5 of 12 posts.
 
-[![JavaScript Closures: Understanding Private Variables, Callbacks, and Memoization for Efficient Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_Closures__Understanding_Private_Variables__Callbacks__and_Memoization_for_Efficient_Code.svg)](https://dev.to/husayn01/javascript-closures-understanding-private-variables-callbacks-and-memoization-for-efficient-code-2ph4)
-[![What is SaaS-based voice?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_SaaS-based_voice_.svg)](https://dev.to/workarise/what-is-saas-based-voice-iin)
-[![Web3 and User Privacy: Risks and Solutions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Web3_and_User_Privacy__Risks_and_Solutions.svg)](https://dev.to/george_k/web3-and-user-privacy-risks-and-solutions-1i12)
-[![How we reduced our review time by 90%](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_we_reduced_our_review_time_by_90_.svg)](https://dev.to/useapolloapi/how-we-reduced-our-review-time-by-90-3hnc)
-[![API Design Interview vs. System Design Interview: 5-minute guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/API_Design_Interview_vs._System_Design_Interview__5-minute_guide.svg)](https://dev.to/educative/api-design-interview-vs-system-design-interview-5-minute-guide-3j32)
+[![lists in python hackerrank solution](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/lists_in_python_hackerrank_solution.svg)](https://dev.to/realnamehidden1_61/lists-in-python-hackerrank-solution-2h51)
+[![Seek and Destroy Algorithm](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Seek_and_Destroy_Algorithm.svg)](https://dev.to/muhmmadawd/seek-and-destroy-algorithm-ehc)
+[![Weird Follower Spike on Dev.to](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Weird_Follower_Spike_on_Dev.to.svg)](https://dev.to/codenameone/weird-follower-spike-on-devto-41jm)
+[![Automating EC2 Instance Start/Stop using Serverless Code and CloudWatch Rule](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Automating_EC2_Instance_Start_Stop_using_Serverless_Code_and_CloudWatch_Rule.svg)](https://dev.to/kerisnarendra/automating-ec2-instance-startstop-using-serverless-code-and-cloudwatch-rule-429p)
+[![Stored Procedures and Django: A Match Made in Performance Heaven](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Stored_Procedures_and_Django__A_Match_Made_in_Performance_Heaven.svg)](https://dev.to/adii9/stored-procedures-and-django-a-match-made-in-performance-heaven-1fi9)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, May 11, 2023 at 6:43:39 PM
+> Last updated: Friday, May 12, 2023 at 12:10:44 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, May 11, 2023 at 6:43:44 PM
+> Last updated: Friday, May 12, 2023 at 12:10:49 AM
 
 > Showing 5 of 30 posts.
 
