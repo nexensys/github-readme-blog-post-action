@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, May 13, 2023 at 6:13:52 AM
+> Last updated: Saturday, May 13, 2023 at 12:09:46 PM
 
 > Showing 5 of 12 posts.
 
-[![Python for All Ages: An Accessible Guide for Beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Python_for_All_Ages__An_Accessible_Guide_for_Beginners.svg)](https://dev.to/aradwan20/python-for-all-ages-an-accessible-guide-for-beginners-3bl9)
-[![What inspired you to become a web developer?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_inspired_you_to_become_a_web_developer_.svg)](https://dev.to/ugbabeog/what-inspired-you-to-become-a-web-developer-1m44)
-[![Best Websites For Animated Icons😍](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_Websites_For_Animated_Icons😍.svg)](https://dev.to/arafat4693/best-websites-for-animated-icons-2m5e)
-[![Golang: The Future of Programming - Introduction, Scope, and Real-World Applications](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Golang__The_Future_of_Programming_-_Introduction__Scope__and_Real-World_Applications.svg)](https://dev.to/sahil_4555/golang-the-future-of-programming-introduction-scope-and-real-world-applications-2imn)
-[![⚡️ Speed up development? The handy library of most used snippets for Go apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/⚡️_Speed_up_development__The_handy_library_of_most_used_snippets_for_Go_apps.svg)](https://dev.to/koddr/speed-up-development-the-handy-library-of-most-used-snippets-for-go-apps-1c1h)
+[![25 Clean Code Tips That You Should Be Familiar](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/25_Clean_Code_Tips_That_You_Should_Be_Familiar.svg)](https://dev.to/sardarmudassaralikhan/25-clean-code-tips-that-you-should-be-familiar-53ek)
+[![What’s The Difference Between REM, EM, And PX?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What’s_The_Difference_Between_REM__EM__And_PX_.svg)](https://dev.to/saurabhkumar/whats-the-difference-between-rem-em-and-px-59lb)
+[![Makefiles: a standard for project tasks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Makefiles__a_standard_for_project_tasks.svg)](https://dev.to/joeljuca/makefiles-a-standard-for-project-tasks-31b)
+[![Cypress Workshop Part 3: Test structure and test execution](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cypress_Workshop_Part_3__Test_structure_and_test_execution.svg)](https://dev.to/viktorijafilipov/cypress-workshop-part-3-test-structure-and-test-execution-1llf)
+[![Use Notion as a database for your Next.JS Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Use_Notion_as_a_database_for_your_Next.JS_Blog.svg)](https://dev.to/martinp/use-notion-as-a-database-for-your-nextjs-blog-195p)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, May 13, 2023 at 6:13:56 AM
+> Last updated: Saturday, May 13, 2023 at 12:09:48 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, May 13, 2023 at 6:14:00 AM
+> Last updated: Saturday, May 13, 2023 at 12:09:52 PM
 
 > Showing 5 of 30 posts.
 
