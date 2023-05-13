@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, May 12, 2023 at 6:41:52 PM
+> Last updated: Saturday, May 13, 2023 at 12:09:54 AM
 
 > Showing 5 of 12 posts.
 
+[![10 Rules I Follow When Writing HTML To Make It Concise and Readable🚀💡](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_Rules_I_Follow_When_Writing_HTML_To_Make_It_Concise_and_Readable🚀💡.svg)](https://dev.to/margishpatel/10-rules-i-follow-when-writing-html-to-make-it-concise-and-readable-309k)
+[![Cohort Retention Analysis from A-Z in Tableau](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cohort_Retention_Analysis_from_A-Z_in_Tableau.svg)](https://dev.to/alumassy/cohort-retention-analysis-from-a-z-in-tableau-4l0a)
+[![Simplest way to Downgrade Node Version on Windows](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Simplest_way_to_Downgrade_Node_Version_on_Windows.svg)](https://dev.to/raielly/simplest-way-to-downgrade-node-version-on-windows-3oi7)
+[![Kubernetes 101, part VIII, networking fundamentals](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Kubernetes_101__part_VIII__networking_fundamentals.svg)](https://dev.to/leandronsp/kubernetes-101-part-viii-networking-fundamentals-mo7)
 [![Node Test Runner: Assertion Cheat Sheet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Node_Test_Runner__Assertion_Cheat_Sheet.svg)](https://dev.to/hi_iam_chris/node-test-runner-assertion-cheat-sheet-98o)
-[![Swingland: Recreating Java Swing for Wayland](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Swingland__Recreating_Java_Swing_for_Wayland.svg)](https://dev.to/phlash/swingland-recreating-java-swing-for-wayland-2ah6)
-[![How to deploy thin jars for better Docker caching](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_deploy_thin_jars_for_better_Docker_caching.svg)](https://dev.to/robertmjohnson/how-to-deploy-thin-jars-for-better-docker-caching-4i44)
-[![A simple Todo list app with React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_simple_Todo_list_app_with_React.svg)](https://dev.to/zamuhajji/a-simple-todo-list-app-with-react-1bj3)
-[![How Rompt Helped Me Optimize My GPT-Powered Product Through Massive A/B Testing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_Rompt_Helped_Me_Optimize_My_GPT-Powered_Product_Through_Massive_A_B_Testing.svg)](https://dev.to/d1020/how-rompt-helped-me-optimize-my-gpt-powered-product-through-massive-ab-testing-3o69)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, May 12, 2023 at 6:41:56 PM
+> Last updated: Saturday, May 13, 2023 at 12:09:57 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, May 12, 2023 at 6:42:01 PM
+> Last updated: Saturday, May 13, 2023 at 12:10:00 AM
 
 > Showing 5 of 30 posts.
 
