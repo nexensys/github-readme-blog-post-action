@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, May 12, 2023 at 12:09:58 PM
+> Last updated: Friday, May 12, 2023 at 6:41:52 PM
 
 > Showing 5 of 12 posts.
 
-[![pyaction 4.19.0 Released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/pyaction_4.19.0_Released.svg)](https://dev.to/cicirello/pyaction-4190-released-2b55)
-[![Who's looking for open source contributors? (week 41)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Who's_looking_for_open_source_contributors__(week_41).svg)](https://dev.to/opensauced/whos-looking-for-open-source-contributors-week-41-35ja)
-[![Maximizing Your Influence as a Software Engineer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Maximizing_Your_Influence_as_a_Software_Engineer.svg)](https://dev.to/snowman647/maximizing-your-influence-as-a-software-engineer-3okd)
-[![The Challenges of Blockchain Technology](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Challenges_of_Blockchain_Technology.svg)](https://dev.to/shashank_dev/the-challenges-of-blockchain-technology-3nj)
-[![The Great Operating System Battle: Why WSL2 is Winning](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Great_Operating_System_Battle__Why_WSL2_is_Winning.svg)](https://dev.to/glennviroux/the-great-operating-system-battle-why-wsl2-is-winning-2e89)
+[![Node Test Runner: Assertion Cheat Sheet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Node_Test_Runner__Assertion_Cheat_Sheet.svg)](https://dev.to/hi_iam_chris/node-test-runner-assertion-cheat-sheet-98o)
+[![Swingland: Recreating Java Swing for Wayland](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Swingland__Recreating_Java_Swing_for_Wayland.svg)](https://dev.to/phlash/swingland-recreating-java-swing-for-wayland-2ah6)
+[![How to deploy thin jars for better Docker caching](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_deploy_thin_jars_for_better_Docker_caching.svg)](https://dev.to/robertmjohnson/how-to-deploy-thin-jars-for-better-docker-caching-4i44)
+[![A simple Todo list app with React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_simple_Todo_list_app_with_React.svg)](https://dev.to/zamuhajji/a-simple-todo-list-app-with-react-1bj3)
+[![How Rompt Helped Me Optimize My GPT-Powered Product Through Massive A/B Testing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_Rompt_Helped_Me_Optimize_My_GPT-Powered_Product_Through_Massive_A_B_Testing.svg)](https://dev.to/d1020/how-rompt-helped-me-optimize-my-gpt-powered-product-through-massive-ab-testing-3o69)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, May 12, 2023 at 12:10:00 PM
+> Last updated: Friday, May 12, 2023 at 6:41:56 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, May 12, 2023 at 12:10:03 PM
+> Last updated: Friday, May 12, 2023 at 6:42:01 PM
 
 > Showing 5 of 30 posts.
 
+[![Microsoft Graph Developer Proxy | bitExpert](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Microsoft_Graph_Developer_Proxy___bitExpert.svg)](https://blog.bitexpert.de/blog/ms_graph_developer_proxy)
 [![Choose Fonts for Your Website (With Examples)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Choose_Fonts_for_Your_Website_(With_Examples).svg)](https://www.codica.com/blog/how-to-choose-fonts-for-your-website-guide/)
 [![3 Types of Web Development Services for Successful Online Business](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/3_Types_of_Web_Development_Services_for_Successful_Online_Business.svg)](https://www.estatic-infotech.com/blog/post/three-types-of-web-development-services-for-successful-online-business)
 [![Record Type in TypeScript: A Quick Intro](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Record_Type_in_TypeScript__A_Quick_Intro.svg)](https://dmitripavlutin.com/typescript-record/)
 [![Nine Easy Steps to Start your Ecommerce Business](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Nine_Easy_Steps_to_Start_your_Ecommerce_Business.svg)](https://www.estatic-infotech.com/blog/post/nine-easy-steps-to-start-your-ecommerce-business)
-[![What is a JWT token and how does it work?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/What_is_a_JWT_token_and_how_does_it_work_.svg)](https://www.ma-no.org/en/programming/what-is-a-jwt-token-and-how-does-it-work)
 
 
 <!-- post-list:end -->
