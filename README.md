@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, May 13, 2023 at 12:09:46 PM
+> Last updated: Saturday, May 13, 2023 at 6:46:40 PM
 
 > Showing 5 of 12 posts.
 
-[![25 Clean Code Tips That You Should Be Familiar](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/25_Clean_Code_Tips_That_You_Should_Be_Familiar.svg)](https://dev.to/sardarmudassaralikhan/25-clean-code-tips-that-you-should-be-familiar-53ek)
-[![What’s The Difference Between REM, EM, And PX?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What’s_The_Difference_Between_REM__EM__And_PX_.svg)](https://dev.to/saurabhkumar/whats-the-difference-between-rem-em-and-px-59lb)
-[![Makefiles: a standard for project tasks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Makefiles__a_standard_for_project_tasks.svg)](https://dev.to/joeljuca/makefiles-a-standard-for-project-tasks-31b)
-[![Cypress Workshop Part 3: Test structure and test execution](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cypress_Workshop_Part_3__Test_structure_and_test_execution.svg)](https://dev.to/viktorijafilipov/cypress-workshop-part-3-test-structure-and-test-execution-1llf)
-[![Use Notion as a database for your Next.JS Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Use_Notion_as_a_database_for_your_Next.JS_Blog.svg)](https://dev.to/martinp/use-notion-as-a-database-for-your-nextjs-blog-195p)
+[![Building a RESTful API with Node.js and MongoDB](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_RESTful_API_with_Node.js_and_MongoDB.svg)](https://dev.to/himanshuagg12/building-a-restful-api-with-nodejs-and-mongodb-20b6)
+[![Two ways to add text over images](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Two_ways_to_add_text_over_images.svg)](https://dev.to/lensco825/two-ways-to-add-text-over-images-399h)
+[![Using `git bisect` to find the faulty commit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_`git_bisect`_to_find_the_faulty_commit.svg)](https://dev.to/alvesjessica/using-git-bisect-to-find-the-faulty-commit-25gf)
+[![How I Sold My Project for <!-- post-list:end -->0!!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_I_Sold_My_Project_for_<!-- post-list:end -->0!!.svg)](https://dev.to/merudra754/how-i-sold-my-project-for-30-9l0)
+[![📡 Type Casting in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/📡_Type_Casting_in_JavaScript.svg)](https://dev.to/catherineisonline/type-casting-in-javascript-10la)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, May 13, 2023 at 12:09:48 PM
+> Last updated: Saturday, May 13, 2023 at 6:46:43 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, May 13, 2023 at 12:09:52 PM
+> Last updated: Saturday, May 13, 2023 at 6:46:48 PM
 
 > Showing 5 of 30 posts.
 
