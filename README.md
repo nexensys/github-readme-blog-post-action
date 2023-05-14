@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, May 14, 2023 at 12:10:07 AM
+> Last updated: Sunday, May 14, 2023 at 6:14:09 AM
 
 > Showing 5 of 12 posts.
 
-[![First PokeAPI Project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/First_PokeAPI_Project.svg)](https://dev.to/nozumaz/first-pokeapi-project-32he)
-[![Apache Maven: Um Guia Básico](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Apache_Maven__Um_Guia_Básico.svg)](https://dev.to/pedropietro/apache-maven-um-guia-basico-jcn)
-[![Data Analysis with Redshift Serverless and Quicksight - Part 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Data_Analysis_with_Redshift_Serverless_and_Quicksight_-_Part_2.svg)](https://dev.to/aws-builders/data-analysis-with-redshift-serverless-and-quicksight-part-2-5c9o)
-[![Data Analysis with Redshift Serverless and Quicksight - Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Data_Analysis_with_Redshift_Serverless_and_Quicksight_-_Part_1.svg)](https://dev.to/aws-builders/data-analysis-with-redshift-serverless-and-quicksight-part-1-1lg8)
-[![Building a RESTful API with Node.js and MongoDB](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_RESTful_API_with_Node.js_and_MongoDB.svg)](https://dev.to/himanshuagg12/building-a-restful-api-with-nodejs-and-mongodb-20b6)
+[![Motivational Quote Generator: An App to Help You Stay Inspired](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Motivational_Quote_Generator__An_App_to_Help_You_Stay_Inspired.svg)](https://dev.to/abhixsh/motivational-quote-generator-an-app-to-help-you-stay-inspired-5h2h)
+[![You'll never have to deal with outdated TODO comments again](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/You'll_never_have_to_deal_with_outdated_TODO_comments_again.svg)](https://dev.to/maxprilutskiy/youll-never-have-to-deal-with-outdated-todo-comments-again-288o)
+[![My Python Project Development Guide ver.202305](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_Python_Project_Development_Guide_ver.202305.svg)](https://dev.to/fukubaka0825/my-python-project-development-guide-ver202305-2ge5)
+[![Spice Up Your NextJS skills the Pro Way](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Spice_Up_Your_NextJS_skills_the_Pro_Way.svg)](https://dev.to/ashutoshbhadauriya/spice-up-your-nextjs-skills-the-pro-way-16gn)
+[![How to lazy-load routes and import standalone components in Angular](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_lazy-load_routes_and_import_standalone_components_in_Angular.svg)](https://dev.to/railsstudent/how-to-lazy-load-routes-and-import-standalone-components-in-angular-4b1a)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, May 14, 2023 at 12:10:10 AM
+> Last updated: Sunday, May 14, 2023 at 6:14:12 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, May 14, 2023 at 12:10:16 AM
+> Last updated: Sunday, May 14, 2023 at 6:14:16 AM
 
 > Showing 5 of 30 posts.
 
