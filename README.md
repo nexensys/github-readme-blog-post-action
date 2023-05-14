@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, May 13, 2023 at 6:46:40 PM
+> Last updated: Sunday, May 14, 2023 at 12:10:07 AM
 
 > Showing 5 of 12 posts.
 
+[![First PokeAPI Project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/First_PokeAPI_Project.svg)](https://dev.to/nozumaz/first-pokeapi-project-32he)
+[![Apache Maven: Um Guia Básico](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Apache_Maven__Um_Guia_Básico.svg)](https://dev.to/pedropietro/apache-maven-um-guia-basico-jcn)
+[![Data Analysis with Redshift Serverless and Quicksight - Part 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Data_Analysis_with_Redshift_Serverless_and_Quicksight_-_Part_2.svg)](https://dev.to/aws-builders/data-analysis-with-redshift-serverless-and-quicksight-part-2-5c9o)
+[![Data Analysis with Redshift Serverless and Quicksight - Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Data_Analysis_with_Redshift_Serverless_and_Quicksight_-_Part_1.svg)](https://dev.to/aws-builders/data-analysis-with-redshift-serverless-and-quicksight-part-1-1lg8)
 [![Building a RESTful API with Node.js and MongoDB](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_RESTful_API_with_Node.js_and_MongoDB.svg)](https://dev.to/himanshuagg12/building-a-restful-api-with-nodejs-and-mongodb-20b6)
-[![Two ways to add text over images](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Two_ways_to_add_text_over_images.svg)](https://dev.to/lensco825/two-ways-to-add-text-over-images-399h)
-[![Using `git bisect` to find the faulty commit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_`git_bisect`_to_find_the_faulty_commit.svg)](https://dev.to/alvesjessica/using-git-bisect-to-find-the-faulty-commit-25gf)
-[![How I Sold My Project for <!-- post-list:end -->0!!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_I_Sold_My_Project_for_<!-- post-list:end -->0!!.svg)](https://dev.to/merudra754/how-i-sold-my-project-for-30-9l0)
-[![📡 Type Casting in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/📡_Type_Casting_in_JavaScript.svg)](https://dev.to/catherineisonline/type-casting-in-javascript-10la)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, May 13, 2023 at 6:46:43 PM
+> Last updated: Sunday, May 14, 2023 at 12:10:10 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, May 13, 2023 at 6:46:48 PM
+> Last updated: Sunday, May 14, 2023 at 12:10:16 AM
 
 > Showing 5 of 30 posts.
 
