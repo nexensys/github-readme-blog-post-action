@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, May 14, 2023 at 6:14:09 AM
+> Last updated: Sunday, May 14, 2023 at 12:09:06 PM
 
 > Showing 5 of 12 posts.
 
-[![Motivational Quote Generator: An App to Help You Stay Inspired](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Motivational_Quote_Generator__An_App_to_Help_You_Stay_Inspired.svg)](https://dev.to/abhixsh/motivational-quote-generator-an-app-to-help-you-stay-inspired-5h2h)
-[![You'll never have to deal with outdated TODO comments again](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/You'll_never_have_to_deal_with_outdated_TODO_comments_again.svg)](https://dev.to/maxprilutskiy/youll-never-have-to-deal-with-outdated-todo-comments-again-288o)
-[![My Python Project Development Guide ver.202305](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_Python_Project_Development_Guide_ver.202305.svg)](https://dev.to/fukubaka0825/my-python-project-development-guide-ver202305-2ge5)
-[![Spice Up Your NextJS skills the Pro Way](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Spice_Up_Your_NextJS_skills_the_Pro_Way.svg)](https://dev.to/ashutoshbhadauriya/spice-up-your-nextjs-skills-the-pro-way-16gn)
-[![How to lazy-load routes and import standalone components in Angular](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_lazy-load_routes_and_import_standalone_components_in_Angular.svg)](https://dev.to/railsstudent/how-to-lazy-load-routes-and-import-standalone-components-in-angular-4b1a)
+[![10 Visuals That Will Boost Your Mindset](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_Visuals_That_Will_Boost_Your_Mindset.svg)](https://dev.to/jon_snow789/10-visuals-that-will-boost-your-mindset-4pge)
+[![What is Atomic State Management - Create One Yourself](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_Atomic_State_Management_-_Create_One_Yourself.svg)](https://dev.to/mohdahmad1/atomic-state-management-in-react-1nbc)
+[![I Tried Blogging as a Developer for 7 Days 🧑‍💻](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_Tried_Blogging_as_a_Developer_for_7_Days_🧑‍💻.svg)](https://dev.to/fabiancdng/i-tried-blogging-as-a-developer-for-7-days-25gl)
+[![GitHub Issues Management with AI 🦾](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/GitHub_Issues_Management_with_AI_🦾.svg)](https://dev.to/maurerkrisztian/building-an-innovative-ai-tool-to-revolutionize-github-issues-management-14bb)
+[![How to implement Countries List API in your project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_implement_Countries_List_API_in_your_project.svg)](https://dev.to/karim_abdallah/how-to-implement-countries-list-in-your-project-2fi)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, May 14, 2023 at 6:14:12 AM
+> Last updated: Sunday, May 14, 2023 at 12:09:10 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, May 14, 2023 at 6:14:16 AM
+> Last updated: Sunday, May 14, 2023 at 12:09:15 PM
 
 > Showing 5 of 30 posts.
 
