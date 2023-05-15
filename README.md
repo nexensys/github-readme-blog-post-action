@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, May 15, 2023 at 12:11:11 AM
+> Last updated: Monday, May 15, 2023 at 6:16:36 AM
 
 > Showing 5 of 12 posts.
 
-[![Javascript : 12 méthodes essentielles pour les chaînes de caractères](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Javascript___12_méthodes_essentielles_pour_les_chaînes_de_caractères.svg)](https://dev.to/kureru/javascript-12-methodes-essentielles-pour-les-chaines-de-caracteres-5b6)
-[![Using Docker Buildx to Create Cross-Platform Docker Images for Seamless Compatibility](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_Docker_Buildx_to_Create_Cross-Platform_Docker_Images_for_Seamless_Compatibility.svg)](https://dev.to/aws-builders/using-docker-buildx-to-create-cross-platform-docker-images-for-seamless-compatibility-4k8b)
-[![Kubernetes CRUD Operation using Go on Docker Desktop](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Kubernetes_CRUD_Operation_using_Go_on_Docker_Desktop.svg)](https://dev.to/docker/kubernetes-crud-operation-using-go-on-docker-desktop-3l6a)
-[![Part 1: Naming Conventions - The Foundation of Clean Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Part_1__Naming_Conventions_-_The_Foundation_of_Clean_Code.svg)](https://dev.to/sathishskdev/part-1-naming-conventions-the-foundation-of-clean-code-51ng)
-[![10 Books to Improve Coding Skill in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_Books_to_Improve_Coding_Skill_in_2023.svg)](https://dev.to/javinpaul/10-books-to-improve-coding-skill-in-2023-3475)
+[![Logging Best Practices Revisited](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Logging_Best_Practices_Revisited.svg)](https://dev.to/codenameone/logging-best-practices-revisited-eaa)
+[![Meme Monday](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Meme_Monday.svg)](https://dev.to/ben/meme-monday-2af4)
+[![Spring Boot + Electron, a case study](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Spring_Boot_+_Electron__a_case_study.svg)](https://dev.to/krud/spring-boot-electron-a-case-study-2p75)
+[![Medusa Community Highlights: Strapi Integration, SES Plugin, and More!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Medusa_Community_Highlights__Strapi_Integration__SES_Plugin__and_More!.svg)](https://dev.to/medusajs/medusa-community-highlights-strapi-integration-ses-plugin-and-more-3mim)
+[![Move Your Cursor](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Move_Your_Cursor.svg)](https://dev.to/myballs73/move-your-cursor-245g)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, May 15, 2023 at 12:11:14 AM
+> Last updated: Monday, May 15, 2023 at 6:16:39 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, May 15, 2023 at 12:11:17 AM
+> Last updated: Monday, May 15, 2023 at 6:16:44 AM
 
 > Showing 5 of 30 posts.
 
+[![Sorting elements with SortableJS and storing them in localStorage](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Sorting_elements_with_SortableJS_and_storing_them_in_localStorage.svg)](https://www.ma-no.org/en/programming/javascript/sorting-elements-with-sortablejs-and-storing-them-in-localstorage)
+[![Pure Functions in JavaScript: A Beginner's Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Pure_Functions_in_JavaScript__A_Beginner's_Guide.svg)](https://dmitripavlutin.com/javascript-pure-function/)
+[![Native vs Cross-Platform App Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Native_vs_Cross-Platform_App_Development.svg)](https://www.codica.com/blog/native-vs-cross-platform-app-development/)
+[![How to Create a Successful Android App as an Entrepreneur in 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Create_a_Successful_Android_App_as_an_Entrepreneur_in_2022.svg)](https://www.estatic-infotech.com/blog/post/how-to-create-a-successful-android-app-as-an-entrepreneur-in-2022)
 [![Microsoft Graph Developer Proxy | bitExpert](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Microsoft_Graph_Developer_Proxy___bitExpert.svg)](https://blog.bitexpert.de/blog/ms_graph_developer_proxy)
-[![Choose Fonts for Your Website (With Examples)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Choose_Fonts_for_Your_Website_(With_Examples).svg)](https://www.codica.com/blog/how-to-choose-fonts-for-your-website-guide/)
-[![3 Types of Web Development Services for Successful Online Business](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/3_Types_of_Web_Development_Services_for_Successful_Online_Business.svg)](https://www.estatic-infotech.com/blog/post/three-types-of-web-development-services-for-successful-online-business)
-[![Record Type in TypeScript: A Quick Intro](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Record_Type_in_TypeScript__A_Quick_Intro.svg)](https://dmitripavlutin.com/typescript-record/)
-[![Nine Easy Steps to Start your Ecommerce Business](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Nine_Easy_Steps_to_Start_your_Ecommerce_Business.svg)](https://www.estatic-infotech.com/blog/post/nine-easy-steps-to-start-your-ecommerce-business)
 
 
 <!-- post-list:end -->
