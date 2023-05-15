@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, May 14, 2023 at 6:45:01 PM
+> Last updated: Monday, May 15, 2023 at 12:11:11 AM
 
 > Showing 5 of 12 posts.
 
-[![Introduction to SQL set operators](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_to_SQL_set_operators.svg)](https://dev.to/aviatorifeanyi/introduction-to-sql-set-operators-52m6)
-[![The actual usage of Python versions May 2023 by Mr. Bard](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_actual_usage_of_Python_versions_May_2023_by_Mr._Bard.svg)](https://dev.to/nezirzahirovic/the-actual-usage-of-python-versions-may-2023-by-mr-bard-5ehb)
-[![Lessons while building a static website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Lessons_while_building_a_static_website.svg)](https://dev.to/vidyasagarmsc/lessons-while-building-a-static-website-8g3)
-[![Quick Progress in Software Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Quick_Progress_in_Software_Development.svg)](https://dev.to/snowman647/quick-progress-in-software-development-2fb2)
-[![Let's create notification reminder app in Jetpack Compose.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Let's_create_notification_reminder_app_in_Jetpack_Compose..svg)](https://dev.to/rocqjones/lets-create-notification-reminder-app-in-jetpack-compose-2iae)
+[![Javascript : 12 méthodes essentielles pour les chaînes de caractères](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Javascript___12_méthodes_essentielles_pour_les_chaînes_de_caractères.svg)](https://dev.to/kureru/javascript-12-methodes-essentielles-pour-les-chaines-de-caracteres-5b6)
+[![Using Docker Buildx to Create Cross-Platform Docker Images for Seamless Compatibility](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_Docker_Buildx_to_Create_Cross-Platform_Docker_Images_for_Seamless_Compatibility.svg)](https://dev.to/aws-builders/using-docker-buildx-to-create-cross-platform-docker-images-for-seamless-compatibility-4k8b)
+[![Kubernetes CRUD Operation using Go on Docker Desktop](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Kubernetes_CRUD_Operation_using_Go_on_Docker_Desktop.svg)](https://dev.to/docker/kubernetes-crud-operation-using-go-on-docker-desktop-3l6a)
+[![Part 1: Naming Conventions - The Foundation of Clean Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Part_1__Naming_Conventions_-_The_Foundation_of_Clean_Code.svg)](https://dev.to/sathishskdev/part-1-naming-conventions-the-foundation-of-clean-code-51ng)
+[![10 Books to Improve Coding Skill in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_Books_to_Improve_Coding_Skill_in_2023.svg)](https://dev.to/javinpaul/10-books-to-improve-coding-skill-in-2023-3475)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, May 14, 2023 at 6:45:05 PM
+> Last updated: Monday, May 15, 2023 at 12:11:14 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, May 14, 2023 at 6:45:10 PM
+> Last updated: Monday, May 15, 2023 at 12:11:17 AM
 
 > Showing 5 of 30 posts.
 
