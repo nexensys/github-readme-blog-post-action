@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, May 14, 2023 at 12:09:06 PM
+> Last updated: Sunday, May 14, 2023 at 6:45:01 PM
 
 > Showing 5 of 12 posts.
 
-[![10 Visuals That Will Boost Your Mindset](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_Visuals_That_Will_Boost_Your_Mindset.svg)](https://dev.to/jon_snow789/10-visuals-that-will-boost-your-mindset-4pge)
-[![What is Atomic State Management - Create One Yourself](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_Atomic_State_Management_-_Create_One_Yourself.svg)](https://dev.to/mohdahmad1/atomic-state-management-in-react-1nbc)
-[![I Tried Blogging as a Developer for 7 Days 🧑‍💻](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_Tried_Blogging_as_a_Developer_for_7_Days_🧑‍💻.svg)](https://dev.to/fabiancdng/i-tried-blogging-as-a-developer-for-7-days-25gl)
-[![GitHub Issues Management with AI 🦾](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/GitHub_Issues_Management_with_AI_🦾.svg)](https://dev.to/maurerkrisztian/building-an-innovative-ai-tool-to-revolutionize-github-issues-management-14bb)
-[![How to implement Countries List API in your project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_implement_Countries_List_API_in_your_project.svg)](https://dev.to/karim_abdallah/how-to-implement-countries-list-in-your-project-2fi)
+[![Introduction to SQL set operators](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_to_SQL_set_operators.svg)](https://dev.to/aviatorifeanyi/introduction-to-sql-set-operators-52m6)
+[![The actual usage of Python versions May 2023 by Mr. Bard](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_actual_usage_of_Python_versions_May_2023_by_Mr._Bard.svg)](https://dev.to/nezirzahirovic/the-actual-usage-of-python-versions-may-2023-by-mr-bard-5ehb)
+[![Lessons while building a static website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Lessons_while_building_a_static_website.svg)](https://dev.to/vidyasagarmsc/lessons-while-building-a-static-website-8g3)
+[![Quick Progress in Software Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Quick_Progress_in_Software_Development.svg)](https://dev.to/snowman647/quick-progress-in-software-development-2fb2)
+[![Let's create notification reminder app in Jetpack Compose.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Let's_create_notification_reminder_app_in_Jetpack_Compose..svg)](https://dev.to/rocqjones/lets-create-notification-reminder-app-in-jetpack-compose-2iae)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, May 14, 2023 at 12:09:10 PM
+> Last updated: Sunday, May 14, 2023 at 6:45:05 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, May 14, 2023 at 12:09:15 PM
+> Last updated: Sunday, May 14, 2023 at 6:45:10 PM
 
 > Showing 5 of 30 posts.
 
