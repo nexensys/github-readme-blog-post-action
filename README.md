@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, May 15, 2023 at 6:16:36 AM
+> Last updated: Monday, May 15, 2023 at 12:10:25 PM
 
 > Showing 5 of 12 posts.
 
-[![Logging Best Practices Revisited](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Logging_Best_Practices_Revisited.svg)](https://dev.to/codenameone/logging-best-practices-revisited-eaa)
-[![Meme Monday](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Meme_Monday.svg)](https://dev.to/ben/meme-monday-2af4)
-[![Spring Boot + Electron, a case study](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Spring_Boot_+_Electron__a_case_study.svg)](https://dev.to/krud/spring-boot-electron-a-case-study-2p75)
-[![Medusa Community Highlights: Strapi Integration, SES Plugin, and More!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Medusa_Community_Highlights__Strapi_Integration__SES_Plugin__and_More!.svg)](https://dev.to/medusajs/medusa-community-highlights-strapi-integration-ses-plugin-and-more-3mim)
-[![Move Your Cursor](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Move_Your_Cursor.svg)](https://dev.to/myballs73/move-your-cursor-245g)
+[![Sloan's Top 4 Newbie Memes of the Week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Sloan's_Top_4_Newbie_Memes_of_the_Week.svg)](https://dev.to/codenewbieteam/sloans-top-4-newbie-memes-of-the-week-92a)
+[![Amazon CodeWhisperer Demo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Amazon_CodeWhisperer_Demo.svg)](https://dev.to/jslow421/amazon-codewhisperer-demo-315b)
+[![BranchGPT: The AI-Powered Solution to Personalized Branch Names](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/BranchGPT__The_AI-Powered_Solution_to_Personalized_Branch_Names.svg)](https://dev.to/sourishkrout/branchgpt-the-ai-powered-solution-to-personalized-branch-names-5dmf)
+[![How to track you coding time](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_track_you_coding_time.svg)](https://dev.to/vleov/how-to-track-you-coding-time-3dbl)
+[![Weekly Roundup (May 8): 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Weekly_Roundup_(May_8)__🔥Hot_Topics🔥_in__workplace___sharepoint__and__powerplatform.svg)](https://dev.to/jaloplo/weekly-roundup-may-8-hot-topics-in-workplace-sharepoint-and-powerplatform-36a3)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, May 15, 2023 at 6:16:39 AM
+> Last updated: Monday, May 15, 2023 at 12:10:28 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, May 15, 2023 at 6:16:44 AM
+> Last updated: Monday, May 15, 2023 at 12:10:32 PM
 
 > Showing 5 of 30 posts.
 
+[![API with NestJS #108. Date and time with Prisma and PostgreSQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__108._Date_and_time_with_Prisma_and_PostgreSQL.svg)](https://wanago.io/2023/05/15/api-nestjs-prisma-date-timezones-postgresql/)
+[![GitHub - shubhampathak/akamai-config-checker: A command line tool to validate configuration on Akamai staging or production networks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_shubhampathak_akamai-config-checker__A_command_line_tool_to_validate_configuration_on_Akamai_staging_or_production_networks.svg)](https://github.com/shubhampathak/akamai-config-checker)
+[![Dev Station Extension](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Dev_Station_Extension.svg)](https://dev-station.lowleveltech.com)
 [![Sorting elements with SortableJS and storing them in localStorage](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Sorting_elements_with_SortableJS_and_storing_them_in_localStorage.svg)](https://www.ma-no.org/en/programming/javascript/sorting-elements-with-sortablejs-and-storing-them-in-localstorage)
 [![Pure Functions in JavaScript: A Beginner's Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Pure_Functions_in_JavaScript__A_Beginner's_Guide.svg)](https://dmitripavlutin.com/javascript-pure-function/)
-[![Native vs Cross-Platform App Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Native_vs_Cross-Platform_App_Development.svg)](https://www.codica.com/blog/native-vs-cross-platform-app-development/)
-[![How to Create a Successful Android App as an Entrepreneur in 2022](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Create_a_Successful_Android_App_as_an_Entrepreneur_in_2022.svg)](https://www.estatic-infotech.com/blog/post/how-to-create-a-successful-android-app-as-an-entrepreneur-in-2022)
-[![Microsoft Graph Developer Proxy | bitExpert](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Microsoft_Graph_Developer_Proxy___bitExpert.svg)](https://blog.bitexpert.de/blog/ms_graph_developer_proxy)
 
 
 <!-- post-list:end -->
