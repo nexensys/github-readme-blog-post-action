@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, May 15, 2023 at 12:10:25 PM
+> Last updated: Monday, May 15, 2023 at 6:44:02 PM
 
 > Showing 5 of 12 posts.
 
-[![Sloan's Top 4 Newbie Memes of the Week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Sloan's_Top_4_Newbie_Memes_of_the_Week.svg)](https://dev.to/codenewbieteam/sloans-top-4-newbie-memes-of-the-week-92a)
-[![Amazon CodeWhisperer Demo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Amazon_CodeWhisperer_Demo.svg)](https://dev.to/jslow421/amazon-codewhisperer-demo-315b)
-[![BranchGPT: The AI-Powered Solution to Personalized Branch Names](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/BranchGPT__The_AI-Powered_Solution_to_Personalized_Branch_Names.svg)](https://dev.to/sourishkrout/branchgpt-the-ai-powered-solution-to-personalized-branch-names-5dmf)
-[![How to track you coding time](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_track_you_coding_time.svg)](https://dev.to/vleov/how-to-track-you-coding-time-3dbl)
-[![Weekly Roundup (May 8): 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Weekly_Roundup_(May_8)__🔥Hot_Topics🔥_in__workplace___sharepoint__and__powerplatform.svg)](https://dev.to/jaloplo/weekly-roundup-may-8-hot-topics-in-workplace-sharepoint-and-powerplatform-36a3)
+[![Beyond Programming: The Game-Changing Benefits of Business Management for Programmers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Beyond_Programming__The_Game-Changing_Benefits_of_Business_Management_for_Programmers.svg)](https://dev.to/dev_zamudio/beyond-programming-the-game-changing-benefits-of-business-management-for-programmers-1kf8)
+[![Getting started with Apache Flink: A guide to stream processing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_started_with_Apache_Flink__A_guide_to_stream_processing.svg)](https://dev.to/mage_ai/getting-started-with-apache-flink-a-guide-to-stream-processing-e19)
+[![This Job Market Sucks - 2023 Edition](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/This_Job_Market_Sucks_-_2023_Edition.svg)](https://dev.to/philipjohnbasile/the-job-market-sucks-4lfa)
+[![I created a my first CRUD web application with React and Supabase!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_created_a_my_first_CRUD_web_application_with_React_and_Supabase!.svg)](https://dev.to/yuya0114/i-created-a-my-first-crud-web-application-with-react-and-supabase-3f2g)
+[![Mental Health Awareness Week UK](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mental_Health_Awareness_Week_UK.svg)](https://dev.to/louiseann93/mental-health-awareness-week-uk-18de)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, May 15, 2023 at 12:10:28 PM
+> Last updated: Monday, May 15, 2023 at 6:44:05 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, May 15, 2023 at 12:10:32 PM
+> Last updated: Monday, May 15, 2023 at 6:44:11 PM
 
 > Showing 5 of 30 posts.
 
