@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, May 15, 2023 at 6:44:02 PM
+> Last updated: Tuesday, May 16, 2023 at 12:10:45 AM
 
 > Showing 5 of 12 posts.
 
+[![To apply security on APP I developed 1 - Analyze APP](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/To_apply_security_on_APP_I_developed_1_-_Analyze_APP.svg)](https://dev.to/teamliapp/to-apply-security-on-app-i-developed-1-analyze-app-1a3n)
+[![Importing Code in Polyglot Notebooks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Importing_Code_in_Polyglot_Notebooks.svg)](https://dev.to/integerman/importing-code-in-polyglot-notebooks-1598)
+[![I "did my own research" and "AI" is not taking my job any time soon.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I__did_my_own_research__and__AI__is_not_taking_my_job_any_time_soon..svg)](https://dev.to/jarrodhroberson/i-did-my-own-research-and-ai-is-not-taking-my-job-any-time-soon-3pgj)
+[![How to build a developer community: a step-by-step guide‍](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_build_a_developer_community__a_step-by-step_guide‍.svg)](https://dev.to/crowddotdev/how-to-build-a-developer-community-a-step-by-step-guide-1e2d)
 [![Beyond Programming: The Game-Changing Benefits of Business Management for Programmers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Beyond_Programming__The_Game-Changing_Benefits_of_Business_Management_for_Programmers.svg)](https://dev.to/dev_zamudio/beyond-programming-the-game-changing-benefits-of-business-management-for-programmers-1kf8)
-[![Getting started with Apache Flink: A guide to stream processing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_started_with_Apache_Flink__A_guide_to_stream_processing.svg)](https://dev.to/mage_ai/getting-started-with-apache-flink-a-guide-to-stream-processing-e19)
-[![This Job Market Sucks - 2023 Edition](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/This_Job_Market_Sucks_-_2023_Edition.svg)](https://dev.to/philipjohnbasile/the-job-market-sucks-4lfa)
-[![I created a my first CRUD web application with React and Supabase!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_created_a_my_first_CRUD_web_application_with_React_and_Supabase!.svg)](https://dev.to/yuya0114/i-created-a-my-first-crud-web-application-with-react-and-supabase-3f2g)
-[![Mental Health Awareness Week UK](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mental_Health_Awareness_Week_UK.svg)](https://dev.to/louiseann93/mental-health-awareness-week-uk-18de)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, May 15, 2023 at 6:44:05 PM
+> Last updated: Tuesday, May 16, 2023 at 12:10:48 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, May 15, 2023 at 6:44:11 PM
+> Last updated: Tuesday, May 16, 2023 at 12:10:52 AM
 
 > Showing 5 of 30 posts.
 
