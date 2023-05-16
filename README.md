@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, May 16, 2023 at 6:16:49 AM
+> Last updated: Tuesday, May 16, 2023 at 12:10:07 PM
 
 > Showing 5 of 12 posts.
 
-[![How Next.js Redirects Work](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_Next.js_Redirects_Work.svg)](https://dev.to/refine/how-nextjs-redirects-work-3j9p)
-[![404 Page with React Router V6.4](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/404_Page_with_React_Router_V6.4.svg)](https://dev.to/salehmubashar/404-page-with-react-router-v64-145j)
-[![Bee](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Bee.svg)](https://dev.to/ruthmoog/bee-2op1)
-[![34 Web Development Trends In 2023: Embracing The Future](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/34_Web_Development_Trends_In_2023__Embracing_The_Future.svg)](https://dev.to/mythiliraju/34-web-development-trends-in-2023-embracing-the-future-8mk)
-[![Create an Interactive AI Chatbot in Slack using Python and OpenAI API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_an_Interactive_AI_Chatbot_in_Slack_using_Python_and_OpenAI_API.svg)](https://dev.to/alex_bobes/creating-an-interactive-ai-chatbot-in-slack-using-python-and-openai-api-37o)
+[![What My Cousin Vinny can teach us about debugging](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_My_Cousin_Vinny_can_teach_us_about_debugging.svg)](https://dev.to/propelauthblog/what-my-cousin-vinny-can-teach-us-about-debugging-293j)
+[![ChatGPT, Copilot and Programmers: Collaboration or Substitution?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/ChatGPT__Copilot_and_Programmers__Collaboration_or_Substitution_.svg)](https://dev.to/mpotapov/chatgpt-copilot-and-programmers-collaboration-or-substitution-47a2)
+[![Testing in software development: A practical guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Testing_in_software_development__A_practical_guide.svg)](https://dev.to/educative/testing-in-software-development-a-practical-guide-52k)
+[![How to Demonstrate Achievements in Software Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Demonstrate_Achievements_in_Software_Development.svg)](https://dev.to/snowman647/how-to-demonstrate-achievements-in-software-development-3jbk)
+[![19 VS Code Extensions To Boost Your Productivity 🚀🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/19_VS_Code_Extensions_To_Boost_Your_Productivity_🚀🔥.svg)](https://dev.to/madza/19-vs-code-extensions-to-boost-your-productivity-4npo)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, May 16, 2023 at 6:16:53 AM
+> Last updated: Tuesday, May 16, 2023 at 12:10:11 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, May 16, 2023 at 6:17:02 AM
+> Last updated: Tuesday, May 16, 2023 at 12:10:19 PM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - f3rno64/track-time-cli: CLI utility for tracking your time in time sheets](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_f3rno64_track-time-cli__CLI_utility_for_tracking_your_time_in_time_sheets.svg)](https://github.com/f3rno64/track-time-cli)
 [![Infinite scrolling with native JavaScript using the Fetch API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Infinite_scrolling_with_native_JavaScript_using_the_Fetch_API.svg)](https://www.ma-no.org/en/programming/javascript/infinite-scrolling-with-native-javascript-using-the-fetch-api)
 [![How And When To Debounce And Throttle In React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_And_When_To_Debounce_And_Throttle_In_React.svg)](https://soshace.com/how-and-when-to-debounce-and-throttle-in-react/)
 [![
 Build a directory app with search filters using Remix and Tigris Data
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Build_a_directory_app_with_search_filters_using_Remix_and_Tigris_Data_.svg)](https://www.learnwithjason.dev/blog/tigris-data-remix-custom-search/)
 [![API with NestJS #108. Date and time with Prisma and PostgreSQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__108._Date_and_time_with_Prisma_and_PostgreSQL.svg)](https://wanago.io/2023/05/15/api-nestjs-prisma-date-timezones-postgresql/)
-[![GitHub - shubhampathak/akamai-config-checker: A command line tool to validate configuration on Akamai staging or production networks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_shubhampathak_akamai-config-checker__A_command_line_tool_to_validate_configuration_on_Akamai_staging_or_production_networks.svg)](https://github.com/shubhampathak/akamai-config-checker)
 
 
 <!-- post-list:end -->
