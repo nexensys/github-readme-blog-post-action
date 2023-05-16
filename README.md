@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, May 16, 2023 at 12:10:45 AM
+> Last updated: Tuesday, May 16, 2023 at 6:16:49 AM
 
 > Showing 5 of 12 posts.
 
-[![To apply security on APP I developed 1 - Analyze APP](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/To_apply_security_on_APP_I_developed_1_-_Analyze_APP.svg)](https://dev.to/teamliapp/to-apply-security-on-app-i-developed-1-analyze-app-1a3n)
-[![Importing Code in Polyglot Notebooks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Importing_Code_in_Polyglot_Notebooks.svg)](https://dev.to/integerman/importing-code-in-polyglot-notebooks-1598)
-[![I "did my own research" and "AI" is not taking my job any time soon.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I__did_my_own_research__and__AI__is_not_taking_my_job_any_time_soon..svg)](https://dev.to/jarrodhroberson/i-did-my-own-research-and-ai-is-not-taking-my-job-any-time-soon-3pgj)
-[![How to build a developer community: a step-by-step guide‍](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_build_a_developer_community__a_step-by-step_guide‍.svg)](https://dev.to/crowddotdev/how-to-build-a-developer-community-a-step-by-step-guide-1e2d)
-[![Beyond Programming: The Game-Changing Benefits of Business Management for Programmers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Beyond_Programming__The_Game-Changing_Benefits_of_Business_Management_for_Programmers.svg)](https://dev.to/dev_zamudio/beyond-programming-the-game-changing-benefits-of-business-management-for-programmers-1kf8)
+[![How Next.js Redirects Work](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_Next.js_Redirects_Work.svg)](https://dev.to/refine/how-nextjs-redirects-work-3j9p)
+[![404 Page with React Router V6.4](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/404_Page_with_React_Router_V6.4.svg)](https://dev.to/salehmubashar/404-page-with-react-router-v64-145j)
+[![Bee](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Bee.svg)](https://dev.to/ruthmoog/bee-2op1)
+[![34 Web Development Trends In 2023: Embracing The Future](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/34_Web_Development_Trends_In_2023__Embracing_The_Future.svg)](https://dev.to/mythiliraju/34-web-development-trends-in-2023-embracing-the-future-8mk)
+[![Create an Interactive AI Chatbot in Slack using Python and OpenAI API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_an_Interactive_AI_Chatbot_in_Slack_using_Python_and_OpenAI_API.svg)](https://dev.to/alex_bobes/creating-an-interactive-ai-chatbot-in-slack-using-python-and-openai-api-37o)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, May 16, 2023 at 12:10:48 AM
+> Last updated: Tuesday, May 16, 2023 at 6:16:53 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, May 16, 2023 at 12:10:52 AM
+> Last updated: Tuesday, May 16, 2023 at 6:17:02 AM
 
 > Showing 5 of 30 posts.
 
+[![Infinite scrolling with native JavaScript using the Fetch API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Infinite_scrolling_with_native_JavaScript_using_the_Fetch_API.svg)](https://www.ma-no.org/en/programming/javascript/infinite-scrolling-with-native-javascript-using-the-fetch-api)
+[![How And When To Debounce And Throttle In React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_And_When_To_Debounce_And_Throttle_In_React.svg)](https://soshace.com/how-and-when-to-debounce-and-throttle-in-react/)
+[![
+Build a directory app with search filters using Remix and Tigris Data
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Build_a_directory_app_with_search_filters_using_Remix_and_Tigris_Data_.svg)](https://www.learnwithjason.dev/blog/tigris-data-remix-custom-search/)
 [![API with NestJS #108. Date and time with Prisma and PostgreSQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__108._Date_and_time_with_Prisma_and_PostgreSQL.svg)](https://wanago.io/2023/05/15/api-nestjs-prisma-date-timezones-postgresql/)
 [![GitHub - shubhampathak/akamai-config-checker: A command line tool to validate configuration on Akamai staging or production networks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_shubhampathak_akamai-config-checker__A_command_line_tool_to_validate_configuration_on_Akamai_staging_or_production_networks.svg)](https://github.com/shubhampathak/akamai-config-checker)
-[![Dev Station Extension](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Dev_Station_Extension.svg)](https://dev-station.lowleveltech.com)
-[![Sorting elements with SortableJS and storing them in localStorage](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Sorting_elements_with_SortableJS_and_storing_them_in_localStorage.svg)](https://www.ma-no.org/en/programming/javascript/sorting-elements-with-sortablejs-and-storing-them-in-localstorage)
-[![Pure Functions in JavaScript: A Beginner's Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Pure_Functions_in_JavaScript__A_Beginner's_Guide.svg)](https://dmitripavlutin.com/javascript-pure-function/)
 
 
 <!-- post-list:end -->
