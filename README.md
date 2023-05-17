@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, May 16, 2023 at 12:10:07 PM
+> Last updated: Tuesday, May 16, 2023 at 6:46:38 PM
 
 > Showing 5 of 12 posts.
 
-[![What My Cousin Vinny can teach us about debugging](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_My_Cousin_Vinny_can_teach_us_about_debugging.svg)](https://dev.to/propelauthblog/what-my-cousin-vinny-can-teach-us-about-debugging-293j)
-[![ChatGPT, Copilot and Programmers: Collaboration or Substitution?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/ChatGPT__Copilot_and_Programmers__Collaboration_or_Substitution_.svg)](https://dev.to/mpotapov/chatgpt-copilot-and-programmers-collaboration-or-substitution-47a2)
-[![Testing in software development: A practical guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Testing_in_software_development__A_practical_guide.svg)](https://dev.to/educative/testing-in-software-development-a-practical-guide-52k)
-[![How to Demonstrate Achievements in Software Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Demonstrate_Achievements_in_Software_Development.svg)](https://dev.to/snowman647/how-to-demonstrate-achievements-in-software-development-3jbk)
-[![19 VS Code Extensions To Boost Your Productivity 🚀🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/19_VS_Code_Extensions_To_Boost_Your_Productivity_🚀🔥.svg)](https://dev.to/madza/19-vs-code-extensions-to-boost-your-productivity-4npo)
+[![Node.js Crypto Trading For Beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Node.js_Crypto_Trading_For_Beginners.svg)](https://dev.to/vasile_peste/nodejs-crypto-trading-for-beginners-2pn1)
+[![The Next Language Evolution](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Next_Language_Evolution.svg)](https://dev.to/btfranklin/the-next-language-evolution-3afo)
+[![Mastering the 5 SOLID Principles in Software Engineering.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_the_5_SOLID_Principles_in_Software_Engineering..svg)](https://dev.to/iflames_1/mastering-the-5-solid-principles-in-software-engineering-2fn8)
+[![WSL Error: Failed to Execute Process and Get User ID](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/WSL_Error__Failed_to_Execute_Process_and_Get_User_ID.svg)](https://dev.to/ezzahirtaha/wsl-error-failed-to-execute-process-and-get-user-id-2fld)
+[![After 20 years in tech, here’s what I wish I had all along (and how I’m building it)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/After_20_years_in_tech__here’s_what_I_wish_I_had_all_along_(and_how_I’m_building_it).svg)](https://dev.to/opencontextinc/after-20-years-in-tech-heres-what-i-wish-i-had-all-along-and-how-im-building-it-4f1f)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, May 16, 2023 at 12:10:11 PM
+> Last updated: Tuesday, May 16, 2023 at 6:46:41 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, May 16, 2023 at 12:10:19 PM
+> Last updated: Tuesday, May 16, 2023 at 6:46:50 PM
 
 > Showing 5 of 30 posts.
 
