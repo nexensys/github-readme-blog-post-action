@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, May 16, 2023 at 6:46:38 PM
+> Last updated: Wednesday, May 17, 2023 at 12:10:47 AM
 
 > Showing 5 of 12 posts.
 
+[![Regex Replacements Unleashed: A Hilarious Twist!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Regex_Replacements_Unleashed__A_Hilarious_Twist!.svg)](https://dev.to/muhmmadawd/regex-replacements-unleashed-a-hilarious-twist-2n5a)
+[![The Key to Completing Projects: Mastering the Art of Planning 🗝️](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Key_to_Completing_Projects__Mastering_the_Art_of_Planning_🗝️.svg)](https://dev.to/jimmymcbride/the-key-to-completing-projects-mastering-the-art-of-planning-541l)
+[![Exploring Big O Notation in Polyglot Notebooks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exploring_Big_O_Notation_in_Polyglot_Notebooks.svg)](https://dev.to/integerman/exploring-big-o-notation-in-polyglot-notebooks-2d26)
+[![Learning Vue as a React dev](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Learning_Vue_as_a_React_dev.svg)](https://dev.to/tresorama/learning-vue-as-a-react-dev-1m8g)
 [![Node.js Crypto Trading For Beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Node.js_Crypto_Trading_For_Beginners.svg)](https://dev.to/vasile_peste/nodejs-crypto-trading-for-beginners-2pn1)
-[![The Next Language Evolution](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Next_Language_Evolution.svg)](https://dev.to/btfranklin/the-next-language-evolution-3afo)
-[![Mastering the 5 SOLID Principles in Software Engineering.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_the_5_SOLID_Principles_in_Software_Engineering..svg)](https://dev.to/iflames_1/mastering-the-5-solid-principles-in-software-engineering-2fn8)
-[![WSL Error: Failed to Execute Process and Get User ID](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/WSL_Error__Failed_to_Execute_Process_and_Get_User_ID.svg)](https://dev.to/ezzahirtaha/wsl-error-failed-to-execute-process-and-get-user-id-2fld)
-[![After 20 years in tech, here’s what I wish I had all along (and how I’m building it)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/After_20_years_in_tech__here’s_what_I_wish_I_had_all_along_(and_how_I’m_building_it).svg)](https://dev.to/opencontextinc/after-20-years-in-tech-heres-what-i-wish-i-had-all-along-and-how-im-building-it-4f1f)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, May 16, 2023 at 6:46:41 PM
+> Last updated: Wednesday, May 17, 2023 at 12:10:50 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, May 16, 2023 at 6:46:50 PM
+> Last updated: Wednesday, May 17, 2023 at 12:10:55 AM
 
 > Showing 5 of 30 posts.
 
+[![How to check file changes in a commit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_check_file_changes_in_a_commit.svg)](https://frontendroom.com/check-file-changes-in-a-commit/)
 [![GitHub - f3rno64/track-time-cli: CLI utility for tracking your time in time sheets](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_f3rno64_track-time-cli__CLI_utility_for_tracking_your_time_in_time_sheets.svg)](https://github.com/f3rno64/track-time-cli)
 [![Infinite scrolling with native JavaScript using the Fetch API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Infinite_scrolling_with_native_JavaScript_using_the_Fetch_API.svg)](https://www.ma-no.org/en/programming/javascript/infinite-scrolling-with-native-javascript-using-the-fetch-api)
 [![How And When To Debounce And Throttle In React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_And_When_To_Debounce_And_Throttle_In_React.svg)](https://soshace.com/how-and-when-to-debounce-and-throttle-in-react/)
 [![
 Build a directory app with search filters using Remix and Tigris Data
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Build_a_directory_app_with_search_filters_using_Remix_and_Tigris_Data_.svg)](https://www.learnwithjason.dev/blog/tigris-data-remix-custom-search/)
-[![API with NestJS #108. Date and time with Prisma and PostgreSQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__108._Date_and_time_with_Prisma_and_PostgreSQL.svg)](https://wanago.io/2023/05/15/api-nestjs-prisma-date-timezones-postgresql/)
 
 
 <!-- post-list:end -->
