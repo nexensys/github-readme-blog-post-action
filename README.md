@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, May 17, 2023 at 12:09:57 PM
+> Last updated: Wednesday, May 17, 2023 at 6:43:09 PM
 
 > Showing 5 of 12 posts.
 
-[![Welcome Thread - v225](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Welcome_Thread_-_v225.svg)](https://dev.to/devteam/welcome-thread-v225-4aa3)
-[![🔥 Naming Interfaces in TypeScript: IUser vs User](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🔥_Naming_Interfaces_in_TypeScript__IUser_vs_User.svg)](https://dev.to/mpotapov/naming-interfaces-in-typescript-iuser-vs-user-2cpn)
-[![Who's looking for open source contributors? (week 42)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Who's_looking_for_open_source_contributors__(week_42).svg)](https://dev.to/opensauced/whos-looking-for-open-source-contributors-week-42-p12)
-[![🌍🚀🎯 From Localhost to Cloud ☁️: Next.js, Django, SSL 🔒, GitHub Actions 🚀, DNS| Ultimate Website Deployment Tutorial🌟🔥✨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🌍🚀🎯_From_Localhost_to_Cloud_☁️__Next.js__Django__SSL_🔒__GitHub_Actions_🚀__DNS__Ultimate_Website_Deployment_Tutorial🌟🔥✨.svg)](https://dev.to/chetanam/from-localhost-to-cloud-nextjs-django-ssl-github-actions-dns-ultimate-website-deployment-tutorial-34hp)
-[![[Pion/WebRTC][TypeScript] Use specific video codec](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/[Pion_WebRTC][TypeScript]_Use_specific_video_codec.svg)](https://dev.to/masanori_msl/pionwebrtctypescript-use-specific-video-codec-4bp3)
+[![Introducing Pull Request Tracker - A GitHub Action](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_Pull_Request_Tracker_-_A_GitHub_Action.svg)](https://dev.to/mateusabelli/introducing-pull-request-tracker-a-github-action-3ijh)
+[![A Rounded Solution to Image Handling on the OpenSauced Dashboard](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Rounded_Solution_to_Image_Handling_on_the_OpenSauced_Dashboard.svg)](https://dev.to/opensauced/a-rounded-solution-to-image-handling-on-the-opensauced-dashboard-4n34)
+[![CORS in ASP.NET Core](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CORS_in_ASP.NET_Core.svg)](https://dev.to/fabriziobagala/cors-in-aspnet-core-4hl2)
+[![How do you achieve High Availability in Azure](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_do_you_achieve_High_Availability_in_Azure.svg)](https://dev.to/mojeed-88/how-do-you-achieve-high-availability-in-azure-1851)
+[![Calendar Control from scratch on .NET MAUI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Calendar_Control_from_scratch_on_.NET_MAUI.svg)](https://dev.to/serhii_korol_ab7776c50dba/calendar-control-from-scratch-on-net-maui-5dh6)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, May 17, 2023 at 12:10:00 PM
+> Last updated: Wednesday, May 17, 2023 at 6:43:11 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, May 17, 2023 at 12:10:09 PM
+> Last updated: Wednesday, May 17, 2023 at 6:43:16 PM
 
 > Showing 5 of 30 posts.
 
