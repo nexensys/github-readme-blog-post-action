@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, May 18, 2023 at 6:15:05 AM
+> Last updated: Thursday, May 18, 2023 at 12:09:57 PM
 
 > Showing 5 of 12 posts.
 
-[![How Medium, LinkedIn and Twitter show link cards just from a URL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_Medium__LinkedIn_and_Twitter_show_link_cards_just_from_a_URL.svg)](https://dev.to/shreyvijayvargiya/how-medium-linkedin-and-twitter-show-link-cards-just-from-a-url-2do1)
-[![Vue.js Reactivity System: Ref, reactive, shallowRef, & shallowReactive](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Vue.js_Reactivity_System__Ref__reactive__shallowRef____shallowReactive.svg)](https://dev.to/bitovi/vuejs-reactivity-system-ref-reactive-shallowref-shallowreactive-oe7)
-[![Spring JDBC 6 CRUD Operations](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Spring_JDBC_6_CRUD_Operations.svg)](https://dev.to/realnamehidden1_61/spring-jdbc-6-crud-operations-2925)
-[![.NET 8 is on the way! +10 Features that will blow your mind 🤯](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/.NET_8_is_on_the_way!_+10_Features_that_will_blow_your_mind_🤯.svg)](https://dev.to/bytehide/net-8-is-on-the-way-10-features-that-will-blow-your-mind-26op)
-[![GitHub Security Best Practices – 15 Tips To Keep In Mind](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/GitHub_Security_Best_Practices_–_15_Tips_To_Keep_In_Mind.svg)](https://dev.to/gitprotect/github-security-best-practices-15-tips-to-keep-in-mind-2914)
+[![Free Next.js Boilerplate for ⚡️High-Performance⚡️ Enterprise Apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Free_Next.js_Boilerplate_for_⚡️High-Performance⚡️_Enterprise_Apps.svg)](https://dev.to/jjablonskiit/free-nextjs-boilerplate-for-high-performance-enterprise-apps-14f7)
+[![What is Narrow AI: A beginners guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_Narrow_AI__A_beginners_guide.svg)](https://dev.to/devtripath94447/what-is-narrow-ai-a-beginners-guide-2mcf)
+[![Employees Earning More Than Their Managers | LeetCode | MSSQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Employees_Earning_More_Than_Their_Managers___LeetCode___MSSQL.svg)](https://dev.to/ranggakd/employees-earning-more-than-their-managers-leetcode-mssql-2f16)
+[![Demystifying the useEffect Hook in React: A Beginner's Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Demystifying_the_useEffect_Hook_in_React__A_Beginner's_Guide.svg)](https://dev.to/alais29/demystifying-the-useeffect-hook-in-react-a-beginners-guide-1mlo)
+[![Large Projects, Bigger Lessons: The Undeniable Value of Big Applications in Software Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Large_Projects__Bigger_Lessons__The_Undeniable_Value_of_Big_Applications_in_Software_Development.svg)](https://dev.to/snowman647/large-projects-bigger-lessons-the-undeniable-value-of-big-applications-in-software-development-23h0)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, May 18, 2023 at 6:15:09 AM
+> Last updated: Thursday, May 18, 2023 at 12:10:02 PM
 
 > Showing 4 of 4 posts.
 
+[![jQuery lives on; major changes teased](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/jQuery_lives_on;_major_changes_teased.svg)](https://javascriptweekly.com/issues/639)
 [![Why Svelte is converting TypeScript to JSDoc](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Why_Svelte_is_converting_TypeScript_to_JSDoc.svg)](https://javascriptweekly.com/issues/638)
 [!['It's a miracle anything about this ecosystem works at all.'](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/'It's_a_miracle_anything_about_this_ecosystem_works_at_all.'.svg)](https://javascriptweekly.com/issues/637)
 [![Did you know JavaScript is trademarked?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Did_you_know_JavaScript_is_trademarked_.svg)](https://javascriptweekly.com/issues/636)
-[![On the origin of packages](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/On_the_origin_of_packages.svg)](https://javascriptweekly.com/issues/635)
 
 
 ## Echo JS
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, May 18, 2023 at 6:15:13 AM
+> Last updated: Thursday, May 18, 2023 at 12:10:05 PM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - bitair-org/parser.js: Language recognition tool for JavaScript RTEs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_bitair-org_parser.js__Language_recognition_tool_for_JavaScript_RTEs.svg)](https://github.com/bitair-org/parser.js)
 [![
 New Materialize Project based of the popular UI Library from Googles Material Design
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_New_Materialize_Project_based_of_the_popular_UI_Library_from_Googles_Material_Design_.svg)](
@@ -55,7 +56,6 @@ https://materializeweb.com
 [![GitHub - lromeraj/isbd-emu: A simple emulator for Iridium SBD 9602/9603 transceivers and GSS written in TypeScript (Node JS)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_lromeraj_isbd-emu__A_simple_emulator_for_Iridium_SBD_9602_9603_transceivers_and_GSS_written_in_TypeScript_(Node_JS).svg)](https://github.com/lromeraj/isbd-emu)
 [!["React from Another Dimension" by Dan Abramov at #RemixConf 2023 💿](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_React_from_Another_Dimension__by_Dan_Abramov_at__RemixConf_2023_💿.svg)](https://www.youtube.com/watch?v=zMf_xeGPn6s)
 [![GitHub - f3rno64/track-time-cli: CLI utility for tracking your time in time sheets](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_f3rno64_track-time-cli__CLI_utility_for_tracking_your_time_in_time_sheets.svg)](https://github.com/f3rno64/track-time-cli)
-[![Infinite scrolling with native JavaScript using the Fetch API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Infinite_scrolling_with_native_JavaScript_using_the_Fetch_API.svg)](https://www.ma-no.org/en/programming/javascript/infinite-scrolling-with-native-javascript-using-the-fetch-api)
 
 
 <!-- post-list:end -->
