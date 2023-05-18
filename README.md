@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, May 18, 2023 at 12:11:34 AM
+> Last updated: Thursday, May 18, 2023 at 6:15:05 AM
 
 > Showing 5 of 12 posts.
 
-[![Cache with a Time Limit: Boosting Performance and Data Freshness](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cache_with_a_Time_Limit__Boosting_Performance_and_Data_Freshness.svg)](https://dev.to/danities316/cache-with-a-time-limit-boosting-performance-and-data-freshness-3ahk)
-[![Ace the "What are your salary expectations" question in your next interview.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ace_the__What_are_your_salary_expectations__question_in_your_next_interview..svg)](https://dev.to/martinkr/ace-the-what-are-your-salary-expectations-question-in-your-next-interview-27aa)
-[![Exploring API Protocols: From Conceptualization to Implementation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exploring_API_Protocols__From_Conceptualization_to_Implementation.svg)](https://dev.to/kyleknapp/exploring-api-protocols-from-conceptualization-to-implementation-l34)
-[![Working With Appwrite Databases, Vue, Ionic & Capacitor](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Working_With_Appwrite_Databases__Vue__Ionic___Capacitor.svg)](https://dev.to/aaronksaunders/working-with-appwrite-databases-vue-ionic-capacitor-5df1)
-[![The inspiring extension systems design overview (Chrome & VSCode)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_inspiring_extension_systems_design_overview_(Chrome___VSCode).svg)](https://dev.to/jennieji/the-inspiring-extension-systems-design-overview-chrome-vscode-4bco)
+[![How Medium, LinkedIn and Twitter show link cards just from a URL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_Medium__LinkedIn_and_Twitter_show_link_cards_just_from_a_URL.svg)](https://dev.to/shreyvijayvargiya/how-medium-linkedin-and-twitter-show-link-cards-just-from-a-url-2do1)
+[![Vue.js Reactivity System: Ref, reactive, shallowRef, & shallowReactive](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Vue.js_Reactivity_System__Ref__reactive__shallowRef____shallowReactive.svg)](https://dev.to/bitovi/vuejs-reactivity-system-ref-reactive-shallowref-shallowreactive-oe7)
+[![Spring JDBC 6 CRUD Operations](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Spring_JDBC_6_CRUD_Operations.svg)](https://dev.to/realnamehidden1_61/spring-jdbc-6-crud-operations-2925)
+[![.NET 8 is on the way! +10 Features that will blow your mind 🤯](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/.NET_8_is_on_the_way!_+10_Features_that_will_blow_your_mind_🤯.svg)](https://dev.to/bytehide/net-8-is-on-the-way-10-features-that-will-blow-your-mind-26op)
+[![GitHub Security Best Practices – 15 Tips To Keep In Mind](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/GitHub_Security_Best_Practices_–_15_Tips_To_Keep_In_Mind.svg)](https://dev.to/gitprotect/github-security-best-practices-15-tips-to-keep-in-mind-2914)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, May 18, 2023 at 12:11:38 AM
+> Last updated: Thursday, May 18, 2023 at 6:15:09 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, May 18, 2023 at 12:11:45 AM
+> Last updated: Thursday, May 18, 2023 at 6:15:13 AM
 
 > Showing 5 of 30 posts.
 
+[![
+New Materialize Project based of the popular UI Library from Googles Material Design
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_New_Materialize_Project_based_of_the_popular_UI_Library_from_Googles_Material_Design_.svg)](
+https://materializeweb.com
+)
 [![GitHub - lromeraj/isbd-emu: A simple emulator for Iridium SBD 9602/9603 transceivers and GSS written in TypeScript (Node JS)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_lromeraj_isbd-emu__A_simple_emulator_for_Iridium_SBD_9602_9603_transceivers_and_GSS_written_in_TypeScript_(Node_JS).svg)](https://github.com/lromeraj/isbd-emu)
 [!["React from Another Dimension" by Dan Abramov at #RemixConf 2023 💿](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_React_from_Another_Dimension__by_Dan_Abramov_at__RemixConf_2023_💿.svg)](https://www.youtube.com/watch?v=zMf_xeGPn6s)
 [![GitHub - f3rno64/track-time-cli: CLI utility for tracking your time in time sheets](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_f3rno64_track-time-cli__CLI_utility_for_tracking_your_time_in_time_sheets.svg)](https://github.com/f3rno64/track-time-cli)
 [![Infinite scrolling with native JavaScript using the Fetch API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Infinite_scrolling_with_native_JavaScript_using_the_Fetch_API.svg)](https://www.ma-no.org/en/programming/javascript/infinite-scrolling-with-native-javascript-using-the-fetch-api)
-[![How And When To Debounce And Throttle In React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_And_When_To_Debounce_And_Throttle_In_React.svg)](https://soshace.com/how-and-when-to-debounce-and-throttle-in-react/)
 
 
 <!-- post-list:end -->
