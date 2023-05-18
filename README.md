@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, May 17, 2023 at 6:43:09 PM
+> Last updated: Thursday, May 18, 2023 at 12:11:34 AM
 
 > Showing 5 of 12 posts.
 
-[![Introducing Pull Request Tracker - A GitHub Action](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_Pull_Request_Tracker_-_A_GitHub_Action.svg)](https://dev.to/mateusabelli/introducing-pull-request-tracker-a-github-action-3ijh)
-[![A Rounded Solution to Image Handling on the OpenSauced Dashboard](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Rounded_Solution_to_Image_Handling_on_the_OpenSauced_Dashboard.svg)](https://dev.to/opensauced/a-rounded-solution-to-image-handling-on-the-opensauced-dashboard-4n34)
-[![CORS in ASP.NET Core](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CORS_in_ASP.NET_Core.svg)](https://dev.to/fabriziobagala/cors-in-aspnet-core-4hl2)
-[![How do you achieve High Availability in Azure](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_do_you_achieve_High_Availability_in_Azure.svg)](https://dev.to/mojeed-88/how-do-you-achieve-high-availability-in-azure-1851)
-[![Calendar Control from scratch on .NET MAUI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Calendar_Control_from_scratch_on_.NET_MAUI.svg)](https://dev.to/serhii_korol_ab7776c50dba/calendar-control-from-scratch-on-net-maui-5dh6)
+[![Cache with a Time Limit: Boosting Performance and Data Freshness](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cache_with_a_Time_Limit__Boosting_Performance_and_Data_Freshness.svg)](https://dev.to/danities316/cache-with-a-time-limit-boosting-performance-and-data-freshness-3ahk)
+[![Ace the "What are your salary expectations" question in your next interview.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ace_the__What_are_your_salary_expectations__question_in_your_next_interview..svg)](https://dev.to/martinkr/ace-the-what-are-your-salary-expectations-question-in-your-next-interview-27aa)
+[![Exploring API Protocols: From Conceptualization to Implementation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exploring_API_Protocols__From_Conceptualization_to_Implementation.svg)](https://dev.to/kyleknapp/exploring-api-protocols-from-conceptualization-to-implementation-l34)
+[![Working With Appwrite Databases, Vue, Ionic & Capacitor](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Working_With_Appwrite_Databases__Vue__Ionic___Capacitor.svg)](https://dev.to/aaronksaunders/working-with-appwrite-databases-vue-ionic-capacitor-5df1)
+[![The inspiring extension systems design overview (Chrome & VSCode)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_inspiring_extension_systems_design_overview_(Chrome___VSCode).svg)](https://dev.to/jennieji/the-inspiring-extension-systems-design-overview-chrome-vscode-4bco)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, May 17, 2023 at 6:43:11 PM
+> Last updated: Thursday, May 18, 2023 at 12:11:38 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, May 17, 2023 at 6:43:16 PM
+> Last updated: Thursday, May 18, 2023 at 12:11:45 AM
 
 > Showing 5 of 30 posts.
 
