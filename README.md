@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, May 18, 2023 at 6:44:06 PM
+> Last updated: Friday, May 19, 2023 at 12:10:54 AM
 
 > Showing 5 of 12 posts.
 
-[![Remove background from Image using CSS only](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Remove_background_from_Image_using_CSS_only.svg)](https://dev.to/jeetvora331/remove-background-from-image-using-css-only-fdi)
-[!["Single Digit" Spotlight v2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_Single_Digit__Spotlight_v2.svg)](https://dev.to/devteam/single-digit-spotlight-v2-4n2b)
-[![ISSUE-LABELER: Automated Issue Labeling for GitHub](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/ISSUE-LABELER__Automated_Issue_Labeling_for_GitHub.svg)](https://dev.to/dhhruv/issue-labeler-1epe)
-[![Como atrair mais contribuições para seu projeto Open Source](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Como_atrair_mais_contribuições_para_seu_projeto_Open_Source.svg)](https://dev.to/github/como-atrair-mais-contribuicoes-para-seu-projeto-open-source-5bp6)
-[![What are workplace accommodations and how can I help my employees feel supported? (CN Podcast S24:E2 Discussion)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_are_workplace_accommodations_and_how_can_I_help_my_employees_feel_supported__(CN_Podcast_S24_E2_Discussion).svg)](https://dev.to/codenewbieteam/what-are-workplace-accommodations-and-how-can-i-help-my-employees-feel-supported-cn-podcast-s24e2-discussion-599b)
+[![Key points to summarize what Computer Science is ✨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Key_points_to_summarize_what_Computer_Science_is_✨.svg)](https://dev.to/developedbyjk/key-points-to-summarize-what-computer-science-is-38c3)
+[![My Favorite Free Courses to Learn Data Science in Depth](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_Favorite_Free_Courses_to_Learn_Data_Science_in_Depth.svg)](https://dev.to/javinpaul/my-favorite-free-courses-to-learn-data-science-in-depth-pmo)
+[![Blazor: A Safe and Secure Web Development Framework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Blazor__A_Safe_and_Secure_Web_Development_Framework.svg)](https://dev.to/bhavin9920/blazor-a-safe-and-secure-web-development-framework-1lo3)
+[![Javascript ( ES14 ): toSorted()](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Javascript_(_ES14_)__toSorted().svg)](https://dev.to/jazurite/javascript-es14-tosorted-22e0)
+[![Click & Launch a Meteor Blaze App Environment at Github Codespaces (& Actions test)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Click___Launch_a_Meteor_Blaze_App_Environment_at_Github_Codespaces_(__Actions_test).svg)](https://dev.to/kafechew/click-launch-a-meteor-blaze-app-environment-at-github-codespaces-actions-test-4ek7)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, May 18, 2023 at 6:44:09 PM
+> Last updated: Friday, May 19, 2023 at 12:10:57 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, May 18, 2023 at 6:44:11 PM
+> Last updated: Friday, May 19, 2023 at 12:11:00 AM
 
 > Showing 5 of 30 posts.
 
