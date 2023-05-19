@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, May 18, 2023 at 12:09:57 PM
+> Last updated: Thursday, May 18, 2023 at 6:44:06 PM
 
 > Showing 5 of 12 posts.
 
-[![Free Next.js Boilerplate for ⚡️High-Performance⚡️ Enterprise Apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Free_Next.js_Boilerplate_for_⚡️High-Performance⚡️_Enterprise_Apps.svg)](https://dev.to/jjablonskiit/free-nextjs-boilerplate-for-high-performance-enterprise-apps-14f7)
-[![What is Narrow AI: A beginners guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_Narrow_AI__A_beginners_guide.svg)](https://dev.to/devtripath94447/what-is-narrow-ai-a-beginners-guide-2mcf)
-[![Employees Earning More Than Their Managers | LeetCode | MSSQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Employees_Earning_More_Than_Their_Managers___LeetCode___MSSQL.svg)](https://dev.to/ranggakd/employees-earning-more-than-their-managers-leetcode-mssql-2f16)
-[![Demystifying the useEffect Hook in React: A Beginner's Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Demystifying_the_useEffect_Hook_in_React__A_Beginner's_Guide.svg)](https://dev.to/alais29/demystifying-the-useeffect-hook-in-react-a-beginners-guide-1mlo)
-[![Large Projects, Bigger Lessons: The Undeniable Value of Big Applications in Software Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Large_Projects__Bigger_Lessons__The_Undeniable_Value_of_Big_Applications_in_Software_Development.svg)](https://dev.to/snowman647/large-projects-bigger-lessons-the-undeniable-value-of-big-applications-in-software-development-23h0)
+[![Remove background from Image using CSS only](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Remove_background_from_Image_using_CSS_only.svg)](https://dev.to/jeetvora331/remove-background-from-image-using-css-only-fdi)
+[!["Single Digit" Spotlight v2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_Single_Digit__Spotlight_v2.svg)](https://dev.to/devteam/single-digit-spotlight-v2-4n2b)
+[![ISSUE-LABELER: Automated Issue Labeling for GitHub](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/ISSUE-LABELER__Automated_Issue_Labeling_for_GitHub.svg)](https://dev.to/dhhruv/issue-labeler-1epe)
+[![Como atrair mais contribuições para seu projeto Open Source](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Como_atrair_mais_contribuições_para_seu_projeto_Open_Source.svg)](https://dev.to/github/como-atrair-mais-contribuicoes-para-seu-projeto-open-source-5bp6)
+[![What are workplace accommodations and how can I help my employees feel supported? (CN Podcast S24:E2 Discussion)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_are_workplace_accommodations_and_how_can_I_help_my_employees_feel_supported__(CN_Podcast_S24_E2_Discussion).svg)](https://dev.to/codenewbieteam/what-are-workplace-accommodations-and-how-can-i-help-my-employees-feel-supported-cn-podcast-s24e2-discussion-599b)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, May 18, 2023 at 12:10:02 PM
+> Last updated: Thursday, May 18, 2023 at 6:44:09 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, May 18, 2023 at 12:10:05 PM
+> Last updated: Thursday, May 18, 2023 at 6:44:11 PM
 
 > Showing 5 of 30 posts.
 
