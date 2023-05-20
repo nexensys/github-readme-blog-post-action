@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, May 19, 2023 at 6:41:35 PM
+> Last updated: Saturday, May 20, 2023 at 12:10:06 AM
 
 > Showing 5 of 12 posts.
 
+[![Plant Diseases Detection using Deep Learning](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Plant_Diseases_Detection_using_Deep_Learning.svg)](https://dev.to/anurag629/plant-diseases-detection-using-deep-learning-44o4)
+[![Top 10 Best Practices for Coding That Every Developer Should Follow](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_10_Best_Practices_for_Coding_That_Every_Developer_Should_Follow.svg)](https://dev.to/thealphamerc/top-10-best-practices-for-coding-that-every-developer-should-follow-3ab5)
+[![3 Lightweight CSS Frameworks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/3_Lightweight_CSS_Frameworks.svg)](https://dev.to/cgwebdev2003/3-lightweight-css-frameworks-280e)
 [![Sloan's Inbox: What's Your Advice on Where to Start and How to Study in the World of Coding?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Sloan's_Inbox__What's_Your_Advice_on_Where_to_Start_and_How_to_Study_in_the_World_of_Coding_.svg)](https://dev.to/devteam/sloans-inbox-whats-your-advice-on-where-to-start-and-how-to-study-in-the-world-of-coding-45jh)
-[![How on earth can you balance it all?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_on_earth_can_you_balance_it_all_.svg)](https://dev.to/codenewbieteam/how-on-earth-can-you-balance-it-all-24f6)
-[![Streamline AWS Development with CI/CD, SAM, and GitHub Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Streamline_AWS_Development_with_CI_CD__SAM__and_GitHub_Actions.svg)](https://dev.to/aws-builders/streamline-aws-development-with-cicd-sam-and-github-actions-2n23)
-[![#DEVDiscuss: How will new leadership affect Twitter (and the broader tech industry)?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_DEVDiscuss__How_will_new_leadership_affect_Twitter_(and_the_broader_tech_industry)_.svg)](https://dev.to/devteam/devdiscuss-how-will-new-leadership-affect-twitter-and-the-broader-tech-industry-2kon)
-[![The Rise of Selling Digital Gigs: Unlocking Opportunities in the Online Marketplace](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Rise_of_Selling_Digital_Gigs__Unlocking_Opportunities_in_the_Online_Marketplace.svg)](https://dev.to/freelaweb/the-rise-of-selling-digital-gigs-unlocking-opportunities-in-the-online-marketplace-4i6l)
+[![Building a Fauna and GPT-3.5 turbo Powered Chatbot: A Step-by-Step Tutorial](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_Fauna_and_GPT-3.5_turbo_Powered_Chatbot__A_Step-by-Step_Tutorial.svg)](https://dev.to/feranmiodugbemi/building-a-fauna-and-gpt-35-turbo-powered-chatbot-a-step-by-step-tutorial-14ea)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, May 19, 2023 at 6:41:37 PM
+> Last updated: Saturday, May 20, 2023 at 12:10:09 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, May 19, 2023 at 6:41:41 PM
+> Last updated: Saturday, May 20, 2023 at 12:10:12 AM
 
 > Showing 5 of 30 posts.
 
