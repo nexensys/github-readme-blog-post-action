@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, May 20, 2023 at 12:10:06 AM
+> Last updated: Saturday, May 20, 2023 at 6:13:45 AM
 
 > Showing 5 of 12 posts.
 
-[![Plant Diseases Detection using Deep Learning](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Plant_Diseases_Detection_using_Deep_Learning.svg)](https://dev.to/anurag629/plant-diseases-detection-using-deep-learning-44o4)
-[![Top 10 Best Practices for Coding That Every Developer Should Follow](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_10_Best_Practices_for_Coding_That_Every_Developer_Should_Follow.svg)](https://dev.to/thealphamerc/top-10-best-practices-for-coding-that-every-developer-should-follow-3ab5)
-[![3 Lightweight CSS Frameworks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/3_Lightweight_CSS_Frameworks.svg)](https://dev.to/cgwebdev2003/3-lightweight-css-frameworks-280e)
-[![Sloan's Inbox: What's Your Advice on Where to Start and How to Study in the World of Coding?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Sloan's_Inbox__What's_Your_Advice_on_Where_to_Start_and_How_to_Study_in_the_World_of_Coding_.svg)](https://dev.to/devteam/sloans-inbox-whats-your-advice-on-where-to-start-and-how-to-study-in-the-world-of-coding-45jh)
-[![Building a Fauna and GPT-3.5 turbo Powered Chatbot: A Step-by-Step Tutorial](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_Fauna_and_GPT-3.5_turbo_Powered_Chatbot__A_Step-by-Step_Tutorial.svg)](https://dev.to/feranmiodugbemi/building-a-fauna-and-gpt-35-turbo-powered-chatbot-a-step-by-step-tutorial-14ea)
+[![5 Code Refactoring Tools to Boost Development Efficiency](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Code_Refactoring_Tools_to_Boost_Development_Efficiency.svg)](https://dev.to/surajondev/5-code-refactoring-tools-to-boost-development-efficiency-1nf6)
+[![Real-time data analytics with Apache Superset, Redpanda, and RisingWave](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Real-time_data_analytics_with_Apache_Superset__Redpanda__and_RisingWave.svg)](https://dev.to/bobur/real-time-data-analytics-with-apache-superset-redpanda-and-risingwave-96f)
+[![Does Your Application Work Without a Mouse](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Does_Your_Application_Work_Without_a_Mouse.svg)](https://dev.to/zenstack/does-your-application-work-without-a-mouse-5jb)
+[![The Career Path of an Innovative Software Engineer: Embracing Risk and Failure](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Career_Path_of_an_Innovative_Software_Engineer__Embracing_Risk_and_Failure.svg)](https://dev.to/snowman647/the-career-path-of-an-innovative-software-engineer-embracing-risk-and-failure-2i3j)
+[![Solving Palindrome Check with JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Solving_Palindrome_Check_with_JavaScript.svg)](https://dev.to/muhmmadawd/solving-palindrome-check-with-javascript-462n)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, May 20, 2023 at 12:10:09 AM
+> Last updated: Saturday, May 20, 2023 at 6:13:47 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,12 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, May 20, 2023 at 12:10:12 AM
+> Last updated: Saturday, May 20, 2023 at 6:13:49 AM
 
 > Showing 5 of 30 posts.
 
+[![visibility-listener](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/visibility-listener.svg)](https://www.npmjs.com/package/visibility-listener)
+[![GitHub - ptrumpis/snap-camera-server: Snap Camera self hosted server gives access to all Snap Lenses after the shutdown on January 25, 2023.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ptrumpis_snap-camera-server__Snap_Camera_self_hosted_server_gives_access_to_all_Snap_Lenses_after_the_shutdown_on_January_25__2023..svg)](https://github.com/ptrumpis/snap-camera-server)
 [![Better blogging on Dev.to with Vrite - headless CMS for technical content](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Better_blogging_on_Dev.to_with_Vrite_-_headless_CMS_for_technical_content.svg)](https://vrite.io/blog/better-blogging-on-dev-to-with-vrite-headless-cms-for-technical-content/)
 [![GitHub - bitair-org/parser.js: Language recognition tool for JavaScript RTEs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_bitair-org_parser.js__Language_recognition_tool_for_JavaScript_RTEs.svg)](https://github.com/bitair-org/parser.js)
 [![
@@ -54,8 +56,6 @@ New Materialize Project based of the popular UI Library from Googles Material De
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_New_Materialize_Project_based_of_the_popular_UI_Library_from_Googles_Material_Design_.svg)](
 https://materializeweb.com
 )
-[![GitHub - lromeraj/isbd-emu: A simple emulator for Iridium SBD 9602/9603 transceivers and GSS written in TypeScript (Node JS)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_lromeraj_isbd-emu__A_simple_emulator_for_Iridium_SBD_9602_9603_transceivers_and_GSS_written_in_TypeScript_(Node_JS).svg)](https://github.com/lromeraj/isbd-emu)
-[!["React from Another Dimension" by Dan Abramov at #RemixConf 2023 💿](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_React_from_Another_Dimension__by_Dan_Abramov_at__RemixConf_2023_💿.svg)](https://www.youtube.com/watch?v=zMf_xeGPn6s)
 
 
 <!-- post-list:end -->
