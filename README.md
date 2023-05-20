@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, May 19, 2023 at 12:10:03 PM
+> Last updated: Friday, May 19, 2023 at 6:41:35 PM
 
 > Showing 5 of 12 posts.
 
-[![Intermediate Cypher Query Techniques: Optimizing Graph Data Exploration](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Intermediate_Cypher_Query_Techniques__Optimizing_Graph_Data_Exploration.svg)](https://dev.to/abdulsamad4068/intermediate-cypher-query-techniques-optimizing-graph-data-exploration-2bai)
-[![Better blogging on Dev.to with Vrite - headless CMS for technical content](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Better_blogging_on_Dev.to_with_Vrite_-_headless_CMS_for_technical_content.svg)](https://dev.to/areknawo/better-blogging-on-devto-with-vrite-headless-cms-for-technical-content-4i05)
-[![Cypress Workshop Part 4: Elements, Locators, Assertions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cypress_Workshop_Part_4__Elements__Locators__Assertions.svg)](https://dev.to/viktorijafilipov/cypress-workshop-part-4-elements-locators-assertions-34ln)
-[![Unleash The Power of Go in CodeSandbox](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unleash_The_Power_of_Go_in_CodeSandbox.svg)](https://dev.to/codesandboxio/unleash-the-power-of-go-in-codesandbox-4a5o)
-[![DEV Office Tour: Show Us Where the Magic Happens! 💻🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/DEV_Office_Tour__Show_Us_Where_the_Magic_Happens!_💻🔥.svg)](https://dev.to/codenewbieteam/dev-office-tour-show-us-where-the-magic-happens-5e02)
+[![Sloan's Inbox: What's Your Advice on Where to Start and How to Study in the World of Coding?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Sloan's_Inbox__What's_Your_Advice_on_Where_to_Start_and_How_to_Study_in_the_World_of_Coding_.svg)](https://dev.to/devteam/sloans-inbox-whats-your-advice-on-where-to-start-and-how-to-study-in-the-world-of-coding-45jh)
+[![How on earth can you balance it all?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_on_earth_can_you_balance_it_all_.svg)](https://dev.to/codenewbieteam/how-on-earth-can-you-balance-it-all-24f6)
+[![Streamline AWS Development with CI/CD, SAM, and GitHub Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Streamline_AWS_Development_with_CI_CD__SAM__and_GitHub_Actions.svg)](https://dev.to/aws-builders/streamline-aws-development-with-cicd-sam-and-github-actions-2n23)
+[![#DEVDiscuss: How will new leadership affect Twitter (and the broader tech industry)?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_DEVDiscuss__How_will_new_leadership_affect_Twitter_(and_the_broader_tech_industry)_.svg)](https://dev.to/devteam/devdiscuss-how-will-new-leadership-affect-twitter-and-the-broader-tech-industry-2kon)
+[![The Rise of Selling Digital Gigs: Unlocking Opportunities in the Online Marketplace](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Rise_of_Selling_Digital_Gigs__Unlocking_Opportunities_in_the_Online_Marketplace.svg)](https://dev.to/freelaweb/the-rise-of-selling-digital-gigs-unlocking-opportunities-in-the-online-marketplace-4i6l)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, May 19, 2023 at 12:10:07 PM
+> Last updated: Friday, May 19, 2023 at 6:41:37 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, May 19, 2023 at 12:10:12 PM
+> Last updated: Friday, May 19, 2023 at 6:41:41 PM
 
 > Showing 5 of 30 posts.
 
