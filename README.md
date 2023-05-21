@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, May 20, 2023 at 6:48:02 PM
+> Last updated: Sunday, May 21, 2023 at 12:10:02 AM
 
 > Showing 5 of 12 posts.
 
-[![What Google Is Doing About AI, Deep Fakes, and Impersonation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_Google_Is_Doing_About_AI__Deep_Fakes__and_Impersonation.svg)](https://dev.to/lemonboy/what-google-is-doing-about-ai-deep-fakes-and-impersonation-3844)
-[![AI 🤖 vs Us 🧒: The War Begun | Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AI_🤖_vs_Us_🧒__The_War_Begun___Part_1.svg)](https://dev.to/rajaniraiyn/ai-vs-us-the-war-begun-part-1-1jca)
-[![Which are the biggest IT events in Latin America?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Which_are_the_biggest_IT_events_in_Latin_America_.svg)](https://dev.to/krlz/which-are-the-biggest-it-events-in-latin-america-480k)
-[![NestJS tip: type safety on parameter decorators](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/NestJS_tip__type_safety_on_parameter_decorators.svg)](https://dev.to/micalevisk/nestjs-tip-type-safety-on-parameter-decorators-24mn)
-[![Cypress Workshop Part 6: Elements manipulation - Lists, Date picker](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cypress_Workshop_Part_6__Elements_manipulation_-_Lists__Date_picker.svg)](https://dev.to/viktorijafilipov/cypress-workshop-part-6-elements-manipulation-lists-date-picker-3okj)
+[![Start your own AI Website Chatbot Company](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Start_your_own_AI_Website_Chatbot_Company.svg)](https://dev.to/polterguy/start-your-own-ai-website-chatbot-company-1482)
+[![Step Functions Distributed Map and Athena, a match made in cloud heaven](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Step_Functions_Distributed_Map_and_Athena__a_match_made_in_cloud_heaven.svg)](https://dev.to/aws-builders/step-functions-distributed-map-and-athena-a-match-made-in-cloud-heaven-5g27)
+[![How to develop a svelte component and publish it as a package in NPM](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_develop_a_svelte_component_and_publish_it_as_a_package_in_NPM.svg)](https://dev.to/ernanej/how-to-develop-a-svelte-component-and-publish-it-as-a-package-in-npm-40pc)
+[![Configuring Linux terminal to show current branch in versioned directories](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Configuring_Linux_terminal_to_show_current_branch_in_versioned_directories.svg)](https://dev.to/ernanej/configuring-linux-terminal-to-show-current-branch-in-versioned-directories-hgb)
+[![How to embed Google Map without API Key?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_embed_Google_Map_without_API_Key_.svg)](https://dev.to/hardiquedasore/how-to-embed-google-map-without-api-key-1ii7)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, May 20, 2023 at 6:48:06 PM
+> Last updated: Sunday, May 21, 2023 at 12:10:05 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, May 20, 2023 at 6:48:09 PM
+> Last updated: Sunday, May 21, 2023 at 12:10:09 AM
 
 > Showing 5 of 30 posts.
 
