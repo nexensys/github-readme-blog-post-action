@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, May 20, 2023 at 12:09:24 PM
+> Last updated: Saturday, May 20, 2023 at 6:48:02 PM
 
 > Showing 5 of 12 posts.
 
-[![⭐🤖🔑 9 Ninja Tips to prevent Bot from getting Detected like Grey Ninja 🕵️‍♂️🔍🛡️](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/⭐🤖🔑_9_Ninja_Tips_to_prevent_Bot_from_getting_Detected_like_Grey_Ninja_🕵️‍♂️🔍🛡️.svg)](https://dev.to/chetanam/9-ninja-tips-to-prevent-bot-from-getting-detected-like-grey-ninja-koc)
-[![Caching with Momento and Golang](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Caching_with_Momento_and_Golang.svg)](https://dev.to/aws-builders/caching-with-momento-and-golang-5a85)
-[![I wrote a book on CSS Grid - Here's how! 📖💡](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_wrote_a_book_on_CSS_Grid_-_Here's_how!_📖💡.svg)](https://dev.to/thormeier/i-wrote-a-book-on-css-grid-heres-how-1ak8)
-[![The 3 best tools I use to validate the meta tags present on my websites](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_3_best_tools_I_use_to_validate_the_meta_tags_present_on_my_websites.svg)](https://dev.to/ernanej/the-3-best-tools-i-use-to-validate-the-meta-tags-present-on-my-websites-1nb3)
-[![hibernate 6 crud operations](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/hibernate_6_crud_operations.svg)](https://dev.to/realnamehidden1_61/hibernate-6-crud-operations-32o0)
+[![What Google Is Doing About AI, Deep Fakes, and Impersonation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_Google_Is_Doing_About_AI__Deep_Fakes__and_Impersonation.svg)](https://dev.to/lemonboy/what-google-is-doing-about-ai-deep-fakes-and-impersonation-3844)
+[![AI 🤖 vs Us 🧒: The War Begun | Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AI_🤖_vs_Us_🧒__The_War_Begun___Part_1.svg)](https://dev.to/rajaniraiyn/ai-vs-us-the-war-begun-part-1-1jca)
+[![Which are the biggest IT events in Latin America?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Which_are_the_biggest_IT_events_in_Latin_America_.svg)](https://dev.to/krlz/which-are-the-biggest-it-events-in-latin-america-480k)
+[![NestJS tip: type safety on parameter decorators](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/NestJS_tip__type_safety_on_parameter_decorators.svg)](https://dev.to/micalevisk/nestjs-tip-type-safety-on-parameter-decorators-24mn)
+[![Cypress Workshop Part 6: Elements manipulation - Lists, Date picker](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cypress_Workshop_Part_6__Elements_manipulation_-_Lists__Date_picker.svg)](https://dev.to/viktorijafilipov/cypress-workshop-part-6-elements-manipulation-lists-date-picker-3okj)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, May 20, 2023 at 12:09:28 PM
+> Last updated: Saturday, May 20, 2023 at 6:48:06 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, May 20, 2023 at 12:09:30 PM
+> Last updated: Saturday, May 20, 2023 at 6:48:09 PM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - dextrop/nlp2fn: nlp2fn is a pioneering Python library that enables you to use simple NLP commands to execute Python code.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_dextrop_nlp2fn__nlp2fn_is_a_pioneering_Python_library_that_enables_you_to_use_simple_NLP_commands_to_execute_Python_code..svg)](https://github.com/dextrop/nlp2fn)
+[![GitHub - kheshav/cron-launcher: Cron Launcher for Linux](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_kheshav_cron-launcher__Cron_Launcher_for_Linux.svg)](https://github.com/kheshav/cron-launcher)
 [![visibility-listener](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/visibility-listener.svg)](https://www.npmjs.com/package/visibility-listener)
 [![GitHub - ptrumpis/snap-camera-server: Snap Camera self hosted server gives access to all Snap Lenses after the shutdown on January 25, 2023.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_ptrumpis_snap-camera-server__Snap_Camera_self_hosted_server_gives_access_to_all_Snap_Lenses_after_the_shutdown_on_January_25__2023..svg)](https://github.com/ptrumpis/snap-camera-server)
 [![Better blogging on Dev.to with Vrite - headless CMS for technical content](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Better_blogging_on_Dev.to_with_Vrite_-_headless_CMS_for_technical_content.svg)](https://vrite.io/blog/better-blogging-on-dev-to-with-vrite-headless-cms-for-technical-content/)
-[![GitHub - bitair-org/parser.js: Language recognition tool for JavaScript RTEs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_bitair-org_parser.js__Language_recognition_tool_for_JavaScript_RTEs.svg)](https://github.com/bitair-org/parser.js)
-[![
-New Materialize Project based of the popular UI Library from Googles Material Design
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_New_Materialize_Project_based_of_the_popular_UI_Library_from_Googles_Material_Design_.svg)](
-https://materializeweb.com
-)
 
 
 <!-- post-list:end -->
