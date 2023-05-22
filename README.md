@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, May 21, 2023 at 6:47:07 PM
+> Last updated: Monday, May 22, 2023 at 12:11:32 AM
 
 > Showing 5 of 12 posts.
 
-[![The Real Imposter is The Inner Judge - On Imposter Symdrome](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Real_Imposter_is_The_Inner_Judge_-_On_Imposter_Symdrome.svg)](https://dev.to/jmfayard/the-real-imposter-is-the-inner-judge-3e01)
-[![SOLID explicado com TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/SOLID_explicado_com_TypeScript.svg)](https://dev.to/guiseek/solid-27jn)
-[![JSDoc 101](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JSDoc_101.svg)](https://dev.to/noriller/jsdoc-101-218c)
-[![Integrating Payment Gateways in MERN Applications](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Integrating_Payment_Gateways_in_MERN_Applications.svg)](https://dev.to/alimalim77/integrating-payment-gateways-in-mern-applications-482k)
-[![How to A/B Test in Nest.js with ConfigCat and Amplitude](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_A_B_Test_in_Nest.js_with_ConfigCat_and_Amplitude.svg)](https://dev.to/zms/how-to-ab-test-in-nestjs-with-configcat-and-amplitude-584j)
+[![Liman Cihaz Yönetim ile Parola Ayarları](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Liman_Cihaz_Yönetim_ile_Parola_Ayarları.svg)](https://dev.to/aciklab/liman-cihaz-yonetim-ile-parola-ayarlari-3o4j)
+[![My Favorite Books for DevOps Engineering](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_Favorite_Books_for_DevOps_Engineering.svg)](https://dev.to/javinpaul/my-favorite-books-for-devops-engineering-591o)
+[![Getting started with SQL View](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_started_with_SQL_View.svg)](https://dev.to/aviatorifeanyi/getting-started-with-sql-view-9dh)
+[![ChatGPT Unplugged: Empowering Developer for documentation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/ChatGPT_Unplugged__Empowering_Developer_for_documentation.svg)](https://dev.to/balagmadhu/chatgpt-unplugged-empowering-developer-for-documentation-2a6o)
+[![Predicate functions and user defined functions in Apache age](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Predicate_functions_and_user_defined_functions_in_Apache_age.svg)](https://dev.to/talhahahae/predicate-functions-and-user-defined-functions-in-apache-age-2hhj)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, May 21, 2023 at 6:47:11 PM
+> Last updated: Monday, May 22, 2023 at 12:11:35 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, May 21, 2023 at 6:47:14 PM
+> Last updated: Monday, May 22, 2023 at 12:11:39 AM
 
 > Showing 5 of 30 posts.
 
