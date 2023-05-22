@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, May 21, 2023 at 6:14:00 AM
+> Last updated: Sunday, May 21, 2023 at 6:47:07 PM
 
 > Showing 5 of 12 posts.
 
-[![OpenCommit: GitHub Action to improve commits with meaningful messages on every `git push` 🤯🔫](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/OpenCommit__GitHub_Action_to_improve_commits_with_meaningful_messages_on_every_`git_push`_🤯🔫.svg)](https://dev.to/disukharev/opencommit-github-action-to-improve-commits-with-meaningful-messages-on-every-git-push-1i3a)
-[![How to use the Pulumi Operator to build Docker Images](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_the_Pulumi_Operator_to_build_Docker_Images.svg)](https://dev.to/martinp/how-to-use-the-pulumi-operator-to-build-docker-images-17oe)
-[![Integration Tests for N + 1 problem in Java](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Integration_Tests_for_N_+_1_problem_in_Java.svg)](https://dev.to/kirekov/integration-tests-for-n-1-problem-in-java-3b2i)
-[![Build a LinkedIn Bio Generator in Laravel using the REST API of OpenAI, Livewire and Tailwind CSS.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_a_LinkedIn_Bio_Generator_in_Laravel_using_the_REST_API_of_OpenAI__Livewire_and_Tailwind_CSS..svg)](https://dev.to/nxvv/build-a-linkedin-bio-generator-in-laravel-using-the-rest-api-of-openai-livewire-and-tailwind-css-1253)
-[![Deploy pygames to GitHub Pages with WebAssembly - PWA ready!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deploy_pygames_to_GitHub_Pages_with_WebAssembly_-_PWA_ready!.svg)](https://dev.to/sandy_codes_py/deploy-pygames-to-github-pages-with-webassembly-56po)
+[![The Real Imposter is The Inner Judge - On Imposter Symdrome](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Real_Imposter_is_The_Inner_Judge_-_On_Imposter_Symdrome.svg)](https://dev.to/jmfayard/the-real-imposter-is-the-inner-judge-3e01)
+[![SOLID explicado com TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/SOLID_explicado_com_TypeScript.svg)](https://dev.to/guiseek/solid-27jn)
+[![JSDoc 101](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JSDoc_101.svg)](https://dev.to/noriller/jsdoc-101-218c)
+[![Integrating Payment Gateways in MERN Applications](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Integrating_Payment_Gateways_in_MERN_Applications.svg)](https://dev.to/alimalim77/integrating-payment-gateways-in-mern-applications-482k)
+[![How to A/B Test in Nest.js with ConfigCat and Amplitude](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_A_B_Test_in_Nest.js_with_ConfigCat_and_Amplitude.svg)](https://dev.to/zms/how-to-ab-test-in-nestjs-with-configcat-and-amplitude-584j)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, May 21, 2023 at 6:14:04 AM
+> Last updated: Sunday, May 21, 2023 at 6:47:11 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, May 21, 2023 at 6:14:08 AM
+> Last updated: Sunday, May 21, 2023 at 6:47:14 PM
 
 > Showing 5 of 30 posts.
 
