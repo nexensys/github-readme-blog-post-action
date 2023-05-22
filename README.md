@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, May 22, 2023 at 6:15:44 AM
+> Last updated: Monday, May 22, 2023 at 12:10:07 PM
 
 > Showing 5 of 12 posts.
 
-[![FLaNK Stack Weekly for 22 May 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/FLaNK_Stack_Weekly_for_22_May_2023.svg)](https://dev.to/tspannhw/flank-stack-weekly-for-22-may-2023-1fgc)
-[![🔥💥🚀 10 Missing Selenium Methods!😱💥🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🔥💥🚀_10_Missing_Selenium_Methods!😱💥🔥.svg)](https://dev.to/chetanam/10-missing-selenium-methods-4ic0)
-[![ASP.NET Core in .NET 8 is on The Way! Discover the NEW Features](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/ASP.NET_Core_in_.NET_8_is_on_The_Way!_Discover_the_NEW_Features.svg)](https://dev.to/bytehide/aspnet-core-in-net-8-is-on-the-way-discover-the-new-features-3k86)
-[![How To Write Maintainable and Clean Firebase Cloud Functions?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Write_Maintainable_and_Clean_Firebase_Cloud_Functions_.svg)](https://dev.to/ozanhonamlioglu/how-to-write-maintainable-and-clean-firebase-cloud-functions-212g)
-[![Journey to Mastery: Completing the FreeCodeCamp JavaScript Algorithms and Data Structures Certification](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Journey_to_Mastery__Completing_the_FreeCodeCamp_JavaScript_Algorithms_and_Data_Structures_Certification.svg)](https://dev.to/muhmmadawd/journey-to-mastery-completing-the-freecodecamp-javascript-algorithms-and-data-structures-certification-8jj)
+[![Dask - Collaborative Task Manager Application for GitHub + DEV Hackathon](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dask_-_Collaborative_Task_Manager_Application_for_GitHub_+_DEV_Hackathon.svg)](https://dev.to/dilane3/dask-collaborative-task-manager-application-for-github-dev-hackathon-446p)
+[![How To write a Smart Contract Wallet with Ownership change](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_write_a_Smart_Contract_Wallet_with_Ownership_change.svg)](https://dev.to/crudeboy/how-to-write-a-smart-contract-wallet-with-ownership-change-1mhj)
+[![Quickly learn how new-to-you code works using sequence diagrams](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Quickly_learn_how_new-to-you_code_works_using_sequence_diagrams.svg)](https://dev.to/appmap/quickly-learn-how-new-to-you-code-works-using-sequence-diagrams-h9g)
+[![Introducing QRInked - Create and Manage QR Codes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_QRInked_-_Create_and_Manage_QR_Codes.svg)](https://dev.to/dhairyashah/introducing-qrinked-create-and-manage-qr-codes-2hlg)
+[![🌈 A One Person Startup Tech Stack - Next.js, Django, Kubernetes, and GCP 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🌈_A_One_Person_Startup_Tech_Stack_-_Next.js__Django__Kubernetes__and_GCP_🚀.svg)](https://dev.to/chetanam/a-one-person-startup-tech-stack-nextjs-django-kubernetes-and-gcp-k62)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, May 22, 2023 at 6:15:47 AM
+> Last updated: Monday, May 22, 2023 at 12:10:11 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, May 22, 2023 at 6:15:51 AM
+> Last updated: Monday, May 22, 2023 at 12:10:17 PM
 
 > Showing 5 of 30 posts.
 
