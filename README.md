@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, May 22, 2023 at 12:11:32 AM
+> Last updated: Monday, May 22, 2023 at 6:15:44 AM
 
 > Showing 5 of 12 posts.
 
-[![Liman Cihaz Yönetim ile Parola Ayarları](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Liman_Cihaz_Yönetim_ile_Parola_Ayarları.svg)](https://dev.to/aciklab/liman-cihaz-yonetim-ile-parola-ayarlari-3o4j)
-[![My Favorite Books for DevOps Engineering](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_Favorite_Books_for_DevOps_Engineering.svg)](https://dev.to/javinpaul/my-favorite-books-for-devops-engineering-591o)
-[![Getting started with SQL View](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_started_with_SQL_View.svg)](https://dev.to/aviatorifeanyi/getting-started-with-sql-view-9dh)
-[![ChatGPT Unplugged: Empowering Developer for documentation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/ChatGPT_Unplugged__Empowering_Developer_for_documentation.svg)](https://dev.to/balagmadhu/chatgpt-unplugged-empowering-developer-for-documentation-2a6o)
-[![Predicate functions and user defined functions in Apache age](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Predicate_functions_and_user_defined_functions_in_Apache_age.svg)](https://dev.to/talhahahae/predicate-functions-and-user-defined-functions-in-apache-age-2hhj)
+[![FLaNK Stack Weekly for 22 May 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/FLaNK_Stack_Weekly_for_22_May_2023.svg)](https://dev.to/tspannhw/flank-stack-weekly-for-22-may-2023-1fgc)
+[![🔥💥🚀 10 Missing Selenium Methods!😱💥🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🔥💥🚀_10_Missing_Selenium_Methods!😱💥🔥.svg)](https://dev.to/chetanam/10-missing-selenium-methods-4ic0)
+[![ASP.NET Core in .NET 8 is on The Way! Discover the NEW Features](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/ASP.NET_Core_in_.NET_8_is_on_The_Way!_Discover_the_NEW_Features.svg)](https://dev.to/bytehide/aspnet-core-in-net-8-is-on-the-way-discover-the-new-features-3k86)
+[![How To Write Maintainable and Clean Firebase Cloud Functions?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Write_Maintainable_and_Clean_Firebase_Cloud_Functions_.svg)](https://dev.to/ozanhonamlioglu/how-to-write-maintainable-and-clean-firebase-cloud-functions-212g)
+[![Journey to Mastery: Completing the FreeCodeCamp JavaScript Algorithms and Data Structures Certification](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Journey_to_Mastery__Completing_the_FreeCodeCamp_JavaScript_Algorithms_and_Data_Structures_Certification.svg)](https://dev.to/muhmmadawd/journey-to-mastery-completing-the-freecodecamp-javascript-algorithms-and-data-structures-certification-8jj)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, May 22, 2023 at 12:11:35 AM
+> Last updated: Monday, May 22, 2023 at 6:15:47 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, May 22, 2023 at 12:11:39 AM
+> Last updated: Monday, May 22, 2023 at 6:15:51 AM
 
 > Showing 5 of 30 posts.
 
+[![API with NestJS #109. Arrays with PostgreSQL and Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__109._Arrays_with_PostgreSQL_and_Prisma.svg)](https://wanago.io/2023/05/22/api-nestjs-prisma-arrays/)
 [![Million.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Million.js.svg)](https://million.dev/)
 [![How to check file changes in a commit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_check_file_changes_in_a_commit.svg)](https://frontendroom.com/check-file-changes-in-a-commit/)
 [![GitHub - dextrop/nlp2fn: nlp2fn is a pioneering Python library that enables you to use simple NLP commands to execute Python code.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_dextrop_nlp2fn__nlp2fn_is_a_pioneering_Python_library_that_enables_you_to_use_simple_NLP_commands_to_execute_Python_code..svg)](https://github.com/dextrop/nlp2fn)
 [![GitHub - kheshav/cron-launcher: Cron Launcher for Linux](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_kheshav_cron-launcher__Cron_Launcher_for_Linux.svg)](https://github.com/kheshav/cron-launcher)
-[![visibility-listener](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/visibility-listener.svg)](https://www.npmjs.com/package/visibility-listener)
 
 
 <!-- post-list:end -->
