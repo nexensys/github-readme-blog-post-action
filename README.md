@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, May 23, 2023 at 6:15:23 AM
+> Last updated: Tuesday, May 23, 2023 at 12:09:57 PM
 
 > Showing 5 of 12 posts.
 
-[![Converting Jupyter Notebooks to Markdown Made Easy with nbconvert](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Converting_Jupyter_Notebooks_to_Markdown_Made_Easy_with_nbconvert.svg)](https://dev.to/coderatul/converting-jupyter-notebooks-to-markdown-made-easy-with-nbconvert-8dl)
-[![Building a bidding system with NextJS 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_bidding_system_with_NextJS_🚀.svg)](https://dev.to/novu/building-a-bidding-system-with-nextjs-cg1)
-[![Open Source Voice Changing Software](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Open_Source_Voice_Changing_Software.svg)](https://dev.to/amyliumaiyi/open-source-voice-changing-software-3k7n)
-[![I created 100+ unique CSS patterns | The best collection 🤩](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_created_100+_unique_CSS_patterns___The_best_collection_🤩.svg)](https://dev.to/afif/i-created-100-unique-css-patterns-the-best-collection-31cl)
-[![Moonly weekly progress update #50 - Getting closer to a Sniper tool](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Moonly_weekly_progress_update__50_-_Getting_closer_to_a_Sniper_tool.svg)](https://dev.to/moonly/moonly-weekly-progress-update-50-getting-closer-to-a-sniper-tool-8m9)
+[![Why Your Cloud Assets Need A Time Machine](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_Your_Cloud_Assets_Need_A_Time_Machine.svg)](https://dev.to/gofirefly/why-your-cloud-assets-need-a-time-machine-409o)
+[![Top 7 Featured DEV Posts from the Past Week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_7_Featured_DEV_Posts_from_the_Past_Week.svg)](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-jod)
+[![#GithubHack23 : Pomotimer App using Vanilla JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_GithubHack23___Pomotimer_App_using_Vanilla_JavaScript.svg)](https://dev.to/abiyyu03/githubhack23-pomotimer-app-using-vanilla-javascript-31n6)
+[![Generative AI with Azure OpenAI (GPT-4 Overview)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Generative_AI_with_Azure_OpenAI_(GPT-4_Overview).svg)](https://dev.to/esdanielgomez/generative-ai-with-azure-openai-gpt-4-overview-5el5)
+[![What Tools Do You Use To Make Your Products More Accessible?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_Tools_Do_You_Use_To_Make_Your_Products_More_Accessible_.svg)](https://dev.to/codenewbieteam/what-tools-do-you-use-to-make-your-products-more-accessible-3f9d)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, May 23, 2023 at 6:15:25 AM
+> Last updated: Tuesday, May 23, 2023 at 12:10:01 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, May 23, 2023 at 6:15:32 AM
+> Last updated: Tuesday, May 23, 2023 at 12:10:09 PM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - bitair-org/parser.js: Language recognition tool for JavaScript RTEs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_bitair-org_parser.js__Language_recognition_tool_for_JavaScript_RTEs.svg)](https://github.com/bitair-org/parser.js)
 [![Religare Enterprises to raise <!-- post-list:start -->42 mn from Bay Capital, others](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Religare_Enterprises_to_raise_<!-- post-list:start -->42_mn_from_Bay_Capital__others.svg)](https://www.vccircle.com/religare-enterprises-to-raise-142-mn-from-bay-capital-others)
 [![API with NestJS #109. Arrays with PostgreSQL and Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__109._Arrays_with_PostgreSQL_and_Prisma.svg)](https://wanago.io/2023/05/22/api-nestjs-prisma-arrays/)
 [![Million.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Million.js.svg)](https://million.dev/)
 [![How to check file changes in a commit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_check_file_changes_in_a_commit.svg)](https://frontendroom.com/check-file-changes-in-a-commit/)
-[![GitHub - dextrop/nlp2fn: nlp2fn is a pioneering Python library that enables you to use simple NLP commands to execute Python code.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_dextrop_nlp2fn__nlp2fn_is_a_pioneering_Python_library_that_enables_you_to_use_simple_NLP_commands_to_execute_Python_code..svg)](https://github.com/dextrop/nlp2fn)
 
 
 <!-- post-list:end -->
