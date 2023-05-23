@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, May 22, 2023 at 6:45:04 PM
+> Last updated: Tuesday, May 23, 2023 at 12:11:12 AM
 
 > Showing 5 of 12 posts.
 
-[![Githubhack23: Vegaration or Visualising continuous integration using Github actions and vega-lite](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Githubhack23__Vegaration_or_Visualising_continuous_integration_using_Github_actions_and_vega-lite.svg)](https://dev.to/preciouschicken/githubhack23-vegaration-or-visualising-continuous-integration-using-github-actions-and-vega-lite-48c9)
-[![Ace the "What was your greatest professional achievement" question in your next interview.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ace_the__What_was_your_greatest_professional_achievement__question_in_your_next_interview..svg)](https://dev.to/martinkr/ace-the-what-was-your-greatest-professional-achievement-question-in-your-next-interview-igp)
-[![Subqueries Unraveled: Exploring SQL’s Hidden Power](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Subqueries_Unraveled__Exploring_SQL’s_Hidden_Power.svg)](https://dev.to/john-maina/subqueries-unraveled-exploring-sqls-hidden-power-cbn)
-[![Demystifying CI/CD: A Beginner's Guide to Continuous Integration and Continuous Delivery](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Demystifying_CI_CD__A_Beginner's_Guide_to_Continuous_Integration_and_Continuous_Delivery.svg)](https://dev.to/bellasouzas/demystifying-cicd-a-beginners-guide-to-continuous-integration-and-continuous-delivery-1h5o)
-[![What is it like to be a software developer?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_it_like_to_be_a_software_developer_.svg)](https://dev.to/maurerkrisztian/what-is-it-like-to-be-a-software-developer-2ihg)
+[![Optimizing Angular Applications: Removing NgRx DevTools in Production 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Optimizing_Angular_Applications__Removing_NgRx_DevTools_in_Production_🚀.svg)](https://dev.to/mpotapov/optimizing-angular-applications-removing-ngrx-devtools-in-production-3i23)
+[![Creating keyboard shortcuts for web apps with JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_keyboard_shortcuts_for_web_apps_with_JavaScript.svg)](https://dev.to/michaelburrows/creating-keyboard-shortcuts-for-web-apps-with-javascript-15j6)
+[![Introduction to React JS: A Beginner's Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_to_React_JS__A_Beginner's_Guide.svg)](https://dev.to/dotarjun/introduction-to-react-js-a-beginners-guide-14hl)
+[![Enhance Your Productivity with 5 VS Code Extensions 🚀🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Enhance_Your_Productivity_with_5_VS_Code_Extensions_🚀🔥.svg)](https://dev.to/arjuncodess/enhance-your-productivity-with-5-vs-code-extensions-4adl)
+[![How to Create an Attractive File Upload Widget With React/Next.js and Tailwind CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Create_an_Attractive_File_Upload_Widget_With_React_Next.js_and_Tailwind_CSS.svg)](https://dev.to/designly/how-to-create-an-attractive-file-upload-widget-with-reactnextjs-and-tailwind-css-5c7o)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, May 22, 2023 at 6:45:07 PM
+> Last updated: Tuesday, May 23, 2023 at 12:11:16 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, May 22, 2023 at 6:45:14 PM
+> Last updated: Tuesday, May 23, 2023 at 12:11:23 AM
 
 > Showing 5 of 30 posts.
 
