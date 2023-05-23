@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, May 22, 2023 at 12:10:07 PM
+> Last updated: Monday, May 22, 2023 at 6:45:04 PM
 
 > Showing 5 of 12 posts.
 
-[![Dask - Collaborative Task Manager Application for GitHub + DEV Hackathon](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dask_-_Collaborative_Task_Manager_Application_for_GitHub_+_DEV_Hackathon.svg)](https://dev.to/dilane3/dask-collaborative-task-manager-application-for-github-dev-hackathon-446p)
-[![How To write a Smart Contract Wallet with Ownership change](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_write_a_Smart_Contract_Wallet_with_Ownership_change.svg)](https://dev.to/crudeboy/how-to-write-a-smart-contract-wallet-with-ownership-change-1mhj)
-[![Quickly learn how new-to-you code works using sequence diagrams](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Quickly_learn_how_new-to-you_code_works_using_sequence_diagrams.svg)](https://dev.to/appmap/quickly-learn-how-new-to-you-code-works-using-sequence-diagrams-h9g)
-[![Introducing QRInked - Create and Manage QR Codes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_QRInked_-_Create_and_Manage_QR_Codes.svg)](https://dev.to/dhairyashah/introducing-qrinked-create-and-manage-qr-codes-2hlg)
-[![🌈 A One Person Startup Tech Stack - Next.js, Django, Kubernetes, and GCP 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🌈_A_One_Person_Startup_Tech_Stack_-_Next.js__Django__Kubernetes__and_GCP_🚀.svg)](https://dev.to/chetanam/a-one-person-startup-tech-stack-nextjs-django-kubernetes-and-gcp-k62)
+[![Githubhack23: Vegaration or Visualising continuous integration using Github actions and vega-lite](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Githubhack23__Vegaration_or_Visualising_continuous_integration_using_Github_actions_and_vega-lite.svg)](https://dev.to/preciouschicken/githubhack23-vegaration-or-visualising-continuous-integration-using-github-actions-and-vega-lite-48c9)
+[![Ace the "What was your greatest professional achievement" question in your next interview.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ace_the__What_was_your_greatest_professional_achievement__question_in_your_next_interview..svg)](https://dev.to/martinkr/ace-the-what-was-your-greatest-professional-achievement-question-in-your-next-interview-igp)
+[![Subqueries Unraveled: Exploring SQL’s Hidden Power](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Subqueries_Unraveled__Exploring_SQL’s_Hidden_Power.svg)](https://dev.to/john-maina/subqueries-unraveled-exploring-sqls-hidden-power-cbn)
+[![Demystifying CI/CD: A Beginner's Guide to Continuous Integration and Continuous Delivery](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Demystifying_CI_CD__A_Beginner's_Guide_to_Continuous_Integration_and_Continuous_Delivery.svg)](https://dev.to/bellasouzas/demystifying-cicd-a-beginners-guide-to-continuous-integration-and-continuous-delivery-1h5o)
+[![What is it like to be a software developer?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_it_like_to_be_a_software_developer_.svg)](https://dev.to/maurerkrisztian/what-is-it-like-to-be-a-software-developer-2ihg)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, May 22, 2023 at 12:10:11 PM
+> Last updated: Monday, May 22, 2023 at 6:45:07 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, May 22, 2023 at 12:10:17 PM
+> Last updated: Monday, May 22, 2023 at 6:45:14 PM
 
 > Showing 5 of 30 posts.
 
