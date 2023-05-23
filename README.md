@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, May 23, 2023 at 12:11:12 AM
+> Last updated: Tuesday, May 23, 2023 at 6:15:23 AM
 
 > Showing 5 of 12 posts.
 
-[![Optimizing Angular Applications: Removing NgRx DevTools in Production 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Optimizing_Angular_Applications__Removing_NgRx_DevTools_in_Production_🚀.svg)](https://dev.to/mpotapov/optimizing-angular-applications-removing-ngrx-devtools-in-production-3i23)
-[![Creating keyboard shortcuts for web apps with JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_keyboard_shortcuts_for_web_apps_with_JavaScript.svg)](https://dev.to/michaelburrows/creating-keyboard-shortcuts-for-web-apps-with-javascript-15j6)
-[![Introduction to React JS: A Beginner's Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_to_React_JS__A_Beginner's_Guide.svg)](https://dev.to/dotarjun/introduction-to-react-js-a-beginners-guide-14hl)
-[![Enhance Your Productivity with 5 VS Code Extensions 🚀🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Enhance_Your_Productivity_with_5_VS_Code_Extensions_🚀🔥.svg)](https://dev.to/arjuncodess/enhance-your-productivity-with-5-vs-code-extensions-4adl)
-[![How to Create an Attractive File Upload Widget With React/Next.js and Tailwind CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Create_an_Attractive_File_Upload_Widget_With_React_Next.js_and_Tailwind_CSS.svg)](https://dev.to/designly/how-to-create-an-attractive-file-upload-widget-with-reactnextjs-and-tailwind-css-5c7o)
+[![Converting Jupyter Notebooks to Markdown Made Easy with nbconvert](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Converting_Jupyter_Notebooks_to_Markdown_Made_Easy_with_nbconvert.svg)](https://dev.to/coderatul/converting-jupyter-notebooks-to-markdown-made-easy-with-nbconvert-8dl)
+[![Building a bidding system with NextJS 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_bidding_system_with_NextJS_🚀.svg)](https://dev.to/novu/building-a-bidding-system-with-nextjs-cg1)
+[![Open Source Voice Changing Software](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Open_Source_Voice_Changing_Software.svg)](https://dev.to/amyliumaiyi/open-source-voice-changing-software-3k7n)
+[![I created 100+ unique CSS patterns | The best collection 🤩](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_created_100+_unique_CSS_patterns___The_best_collection_🤩.svg)](https://dev.to/afif/i-created-100-unique-css-patterns-the-best-collection-31cl)
+[![Moonly weekly progress update #50 - Getting closer to a Sniper tool](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Moonly_weekly_progress_update__50_-_Getting_closer_to_a_Sniper_tool.svg)](https://dev.to/moonly/moonly-weekly-progress-update-50-getting-closer-to-a-sniper-tool-8m9)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, May 23, 2023 at 12:11:16 AM
+> Last updated: Tuesday, May 23, 2023 at 6:15:25 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, May 23, 2023 at 12:11:23 AM
+> Last updated: Tuesday, May 23, 2023 at 6:15:32 AM
 
 > Showing 5 of 30 posts.
 
+[![Religare Enterprises to raise <!-- post-list:start -->42 mn from Bay Capital, others](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Religare_Enterprises_to_raise_<!-- post-list:start -->42_mn_from_Bay_Capital__others.svg)](https://www.vccircle.com/religare-enterprises-to-raise-142-mn-from-bay-capital-others)
 [![API with NestJS #109. Arrays with PostgreSQL and Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__109._Arrays_with_PostgreSQL_and_Prisma.svg)](https://wanago.io/2023/05/22/api-nestjs-prisma-arrays/)
 [![Million.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Million.js.svg)](https://million.dev/)
 [![How to check file changes in a commit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_check_file_changes_in_a_commit.svg)](https://frontendroom.com/check-file-changes-in-a-commit/)
 [![GitHub - dextrop/nlp2fn: nlp2fn is a pioneering Python library that enables you to use simple NLP commands to execute Python code.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_dextrop_nlp2fn__nlp2fn_is_a_pioneering_Python_library_that_enables_you_to_use_simple_NLP_commands_to_execute_Python_code..svg)](https://github.com/dextrop/nlp2fn)
-[![GitHub - kheshav/cron-launcher: Cron Launcher for Linux](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_kheshav_cron-launcher__Cron_Launcher_for_Linux.svg)](https://github.com/kheshav/cron-launcher)
 
 
 <!-- post-list:end -->
