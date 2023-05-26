@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, May 23, 2023 at 12:09:57 PM
+> Last updated: Friday, May 26, 2023 at 12:09:58 PM
 
 > Showing 5 of 12 posts.
 
-[![Why Your Cloud Assets Need A Time Machine](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_Your_Cloud_Assets_Need_A_Time_Machine.svg)](https://dev.to/gofirefly/why-your-cloud-assets-need-a-time-machine-409o)
-[![Top 7 Featured DEV Posts from the Past Week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_7_Featured_DEV_Posts_from_the_Past_Week.svg)](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-jod)
-[![#GithubHack23 : Pomotimer App using Vanilla JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_GithubHack23___Pomotimer_App_using_Vanilla_JavaScript.svg)](https://dev.to/abiyyu03/githubhack23-pomotimer-app-using-vanilla-javascript-31n6)
-[![Generative AI with Azure OpenAI (GPT-4 Overview)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Generative_AI_with_Azure_OpenAI_(GPT-4_Overview).svg)](https://dev.to/esdanielgomez/generative-ai-with-azure-openai-gpt-4-overview-5el5)
-[![What Tools Do You Use To Make Your Products More Accessible?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_Tools_Do_You_Use_To_Make_Your_Products_More_Accessible_.svg)](https://dev.to/codenewbieteam/what-tools-do-you-use-to-make-your-products-more-accessible-3f9d)
+[![TypeScript Tuple Types: The What, Why, and How](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/TypeScript_Tuple_Types__The_What__Why__and_How.svg)](https://dev.to/sachinchaurasiya/typescript-tuple-types-the-what-why-and-how-1ngm)
+[![Promesas en JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Promesas_en_JavaScript.svg)](https://dev.to/ulisesserranop/promesas-en-javascript-8oe)
+[![Who's looking for open source contributors? (week 43)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Who's_looking_for_open_source_contributors__(week_43).svg)](https://dev.to/opensauced/whos-looking-for-open-source-contributors-week-42-o88)
+[![2667. LeetCode's Create Hello World Function - Extremely Simple One line JS Solution Beats 99% in Runtime](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/2667._LeetCode's_Create_Hello_World_Function_-_Extremely_Simple_One_line_JS_Solution_Beats_99__in_Runtime.svg)](https://dev.to/verisimilitudex/2667-leetcodes-create-hello-world-function-extremely-simple-one-line-js-solution-beats-99-in-runtime-3gf6)
+[![Demystifying JavaScript Functions: A Guide to Function Types](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Demystifying_JavaScript_Functions__A_Guide_to_Function_Types.svg)](https://dev.to/abomisr/demystifying-javascript-functions-a-guide-to-function-types-5b4e)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, May 23, 2023 at 12:10:01 PM
+> Last updated: Friday, May 26, 2023 at 12:10:01 PM
 
 > Showing 4 of 4 posts.
 
+[![Microsoft shrunk the TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Microsoft_shrunk_the_TypeScript.svg)](https://javascriptweekly.com/issues/640)
 [![jQuery lives on; major changes teased](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/jQuery_lives_on;_major_changes_teased.svg)](https://javascriptweekly.com/issues/639)
 [![Why Svelte is converting TypeScript to JSDoc](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Why_Svelte_is_converting_TypeScript_to_JSDoc.svg)](https://javascriptweekly.com/issues/638)
 [!['It's a miracle anything about this ecosystem works at all.'](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/'It's_a_miracle_anything_about_this_ecosystem_works_at_all.'.svg)](https://javascriptweekly.com/issues/637)
-[![Did you know JavaScript is trademarked?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Did_you_know_JavaScript_is_trademarked_.svg)](https://javascriptweekly.com/issues/636)
 
 
 ## Echo JS
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, May 23, 2023 at 12:10:09 PM
+> Last updated: Friday, May 26, 2023 at 12:10:04 PM
 
 > Showing 5 of 30 posts.
 
-[![GitHub - bitair-org/parser.js: Language recognition tool for JavaScript RTEs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_bitair-org_parser.js__Language_recognition_tool_for_JavaScript_RTEs.svg)](https://github.com/bitair-org/parser.js)
-[![Religare Enterprises to raise <!-- post-list:start -->42 mn from Bay Capital, others](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Religare_Enterprises_to_raise_<!-- post-list:start -->42_mn_from_Bay_Capital__others.svg)](https://www.vccircle.com/religare-enterprises-to-raise-142-mn-from-bay-capital-others)
-[![API with NestJS #109. Arrays with PostgreSQL and Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__109._Arrays_with_PostgreSQL_and_Prisma.svg)](https://wanago.io/2023/05/22/api-nestjs-prisma-arrays/)
-[![Million.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Million.js.svg)](https://million.dev/)
-[![How to check file changes in a commit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_check_file_changes_in_a_commit.svg)](https://frontendroom.com/check-file-changes-in-a-commit/)
+[![File Upload Security and Malware Protection](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/File_Upload_Security_and_Malware_Protection.svg)](https://austingil.com/file-upload-security-and-malware-protection/)
+[![GitHub - vanjs-org/van: 🍦VanJS (Vanilla JavaScript): World's smallest reactive UI framework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_vanjs-org_van__🍦VanJS_(Vanilla_JavaScript)__World's_smallest_reactive_UI_framework.svg)](https://github.com/vanjs-org/van)
+[![Introducing Private Preview for Stargate-Mongoose Astra Support](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Introducing_Private_Preview_for_Stargate-Mongoose_Astra_Support.svg)](http://www.thecodebarbarian.com/introducing-private-preview-for-stargate-mongoose-astra)
+[![Metaphore (SCP)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Metaphore_(SCP).svg)](https://metaphore.vercel.app)
+[![Start programming blog in minutes with Astro and Vrite](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Start_programming_blog_in_minutes_with_Astro_and_Vrite.svg)](https://vrite.io/blog/start-programming-blog-in-minutes-with-astro-and-vrite/)
 
 
 <!-- post-list:end -->
