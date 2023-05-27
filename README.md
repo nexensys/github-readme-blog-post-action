@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, May 27, 2023 at 6:14:03 AM
+> Last updated: Saturday, May 27, 2023 at 12:09:20 PM
 
 > Showing 5 of 12 posts.
 
-[![🚀 GraphQL: Revolutionizing Data Communication! 💻🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🚀_GraphQL__Revolutionizing_Data_Communication!_💻🔥.svg)](https://dev.to/tsarthur/graphql-revolutionizing-data-communication-4gof)
-[![5 free website hosting platforms for your next project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_free_website_hosting_platforms_for_your_next_project.svg)](https://dev.to/vishnusatheesh/5-static-website-hosting-platforms-for-your-next-project-2ahf)
-[![Simplify Your Documentation Workflow with MkDocs: A Markdown-based Alternative to Sphinx](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Simplify_Your_Documentation_Workflow_with_MkDocs__A_Markdown-based_Alternative_to_Sphinx.svg)](https://dev.to/coderatul/simplify-your-documentation-workflow-with-mkdocs-a-markdown-based-alternative-to-sphinx-365j)
-[![Coding Companions: Which Animal Is Your Perfect Coding Mascot?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Coding_Companions__Which_Animal_Is_Your_Perfect_Coding_Mascot_.svg)](https://dev.to/codenewbieteam/coding-companions-which-animal-is-your-perfect-coding-mascot-17ib)
-[![Is It Burnout or Job Dissatisfaction?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Is_It_Burnout_or_Job_Dissatisfaction_.svg)](https://dev.to/devteam/is-it-burnout-or-job-dissatisfaction-3l4b)
+[![Sorting complex objects with custom criteria in Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Sorting_complex_objects_with_custom_criteria_in_Python.svg)](https://dev.to/renzhamin/sorting-complex-objects-with-custom-criteria-in-python-i89)
+[![Infrastructure as Code is about more than frameworks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Infrastructure_as_Code_is_about_more_than_frameworks.svg)](https://dev.to/aws-builders/infrastructure-as-code-is-about-more-than-frameworks-ipd)
+[![Easy React data fetching with the new `use()` hook](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Easy_React_data_fetching_with_the_new_`use()`_hook.svg)](https://dev.to/chiubaca/easy-react-data-fetching-with-use-16jg)
+[![PrivateGPT - Running "ChatGPT" offline on local documents](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/PrivateGPT_-_Running__ChatGPT__offline_on_local_documents.svg)](https://dev.to/codepo8/privategpt-running-chatgpt-offline-on-local-documents-5b17)
+[![Mobile App ideas](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mobile_App_ideas.svg)](https://dev.to/ytskk/open-project-ideas-27nh)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, May 27, 2023 at 6:14:06 AM
+> Last updated: Saturday, May 27, 2023 at 12:09:24 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,11 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, May 27, 2023 at 6:14:09 AM
+> Last updated: Saturday, May 27, 2023 at 12:09:27 PM
 
 > Showing 5 of 30 posts.
 
-[![GitHub - aralroca/default-composer: A JavaScript library that allows you to set default values for nested objects](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_aralroca_default-composer__A_JavaScript_library_that_allows_you_to_set_default_values_for_nested_objects.svg)](https://github.com/aralroca/default-composer)
+[![GitHub - aralroca/default-composer: A tiny (300B) JavaScript library that allows you to set default values for nested objects](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_aralroca_default-composer__A_tiny_(300B)_JavaScript_library_that_allows_you_to_set_default_values_for_nested_objects.svg)](https://github.com/aralroca/default-composer)
 [![File Upload Security and Malware Protection](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/File_Upload_Security_and_Malware_Protection.svg)](https://austingil.com/file-upload-security-and-malware-protection/)
 [![GitHub - vanjs-org/van: 🍦VanJS: World's smallest reactive UI framework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_vanjs-org_van__🍦VanJS__World's_smallest_reactive_UI_framework.svg)](https://github.com/vanjs-org/van)
 [![Introducing Private Preview for Stargate-Mongoose Astra Support](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Introducing_Private_Preview_for_Stargate-Mongoose_Astra_Support.svg)](http://www.thecodebarbarian.com/introducing-private-preview-for-stargate-mongoose-astra)
