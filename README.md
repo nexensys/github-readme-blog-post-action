@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, May 27, 2023 at 12:10:09 AM
+> Last updated: Saturday, May 27, 2023 at 6:14:03 AM
 
 > Showing 5 of 12 posts.
 
-[![How to FIND the QUESTIONS that will be in an interview](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_FIND_the_QUESTIONS_that_will_be_in_an_interview.svg)](https://dev.to/kgcodes/how-to-find-the-questions-that-will-be-in-an-interview-1g1n)
-[![Comprehending Closure in JavaScript: A Frequently Asked Interview Question 🚀🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Comprehending_Closure_in_JavaScript__A_Frequently_Asked_Interview_Question_🚀🔥.svg)](https://dev.to/arjuncodess/comprehending-closure-in-javascript-a-frequently-asked-interview-question-43n3)
-[![Sharing my Story: From Public School to the Largest Technology Company in the World](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Sharing_my_Story__From_Public_School_to_the_Largest_Technology_Company_in_the_World.svg)](https://dev.to/glaucia86/sharing-my-story-from-public-school-to-the-largest-technology-company-in-the-world-1m2g)
-[![On starting a new dev blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/On_starting_a_new_dev_blog.svg)](https://dev.to/armantark/on-starting-a-new-dev-blog-1739)
-[![Create nice-looking GUI applications in Common Lisp](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_nice-looking_GUI_applications_in_Common_Lisp.svg)](https://dev.to/vindarel/create-nice-looking-gui-applications-in-common-lisp-22p6)
+[![🚀 GraphQL: Revolutionizing Data Communication! 💻🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🚀_GraphQL__Revolutionizing_Data_Communication!_💻🔥.svg)](https://dev.to/tsarthur/graphql-revolutionizing-data-communication-4gof)
+[![5 free website hosting platforms for your next project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_free_website_hosting_platforms_for_your_next_project.svg)](https://dev.to/vishnusatheesh/5-static-website-hosting-platforms-for-your-next-project-2ahf)
+[![Simplify Your Documentation Workflow with MkDocs: A Markdown-based Alternative to Sphinx](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Simplify_Your_Documentation_Workflow_with_MkDocs__A_Markdown-based_Alternative_to_Sphinx.svg)](https://dev.to/coderatul/simplify-your-documentation-workflow-with-mkdocs-a-markdown-based-alternative-to-sphinx-365j)
+[![Coding Companions: Which Animal Is Your Perfect Coding Mascot?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Coding_Companions__Which_Animal_Is_Your_Perfect_Coding_Mascot_.svg)](https://dev.to/codenewbieteam/coding-companions-which-animal-is-your-perfect-coding-mascot-17ib)
+[![Is It Burnout or Job Dissatisfaction?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Is_It_Burnout_or_Job_Dissatisfaction_.svg)](https://dev.to/devteam/is-it-burnout-or-job-dissatisfaction-3l4b)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, May 27, 2023 at 12:10:12 AM
+> Last updated: Saturday, May 27, 2023 at 6:14:06 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, May 27, 2023 at 12:10:14 AM
+> Last updated: Saturday, May 27, 2023 at 6:14:09 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - aralroca/default-composer: A JavaScript library that allows you to set default values for nested objects](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_aralroca_default-composer__A_JavaScript_library_that_allows_you_to_set_default_values_for_nested_objects.svg)](https://github.com/aralroca/default-composer)
 [![File Upload Security and Malware Protection](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/File_Upload_Security_and_Malware_Protection.svg)](https://austingil.com/file-upload-security-and-malware-protection/)
-[![GitHub - vanjs-org/van: 🍦VanJS (Vanilla JavaScript): World's smallest reactive UI framework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_vanjs-org_van__🍦VanJS_(Vanilla_JavaScript)__World's_smallest_reactive_UI_framework.svg)](https://github.com/vanjs-org/van)
+[![GitHub - vanjs-org/van: 🍦VanJS: World's smallest reactive UI framework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_vanjs-org_van__🍦VanJS__World's_smallest_reactive_UI_framework.svg)](https://github.com/vanjs-org/van)
 [![Introducing Private Preview for Stargate-Mongoose Astra Support](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Introducing_Private_Preview_for_Stargate-Mongoose_Astra_Support.svg)](http://www.thecodebarbarian.com/introducing-private-preview-for-stargate-mongoose-astra)
 [![Metaphore (SCP)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Metaphore_(SCP).svg)](https://metaphore.vercel.app)
-[![Start programming blog in minutes with Astro and Vrite](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Start_programming_blog_in_minutes_with_Astro_and_Vrite.svg)](https://vrite.io/blog/start-programming-blog-in-minutes-with-astro-and-vrite/)
 
 
 <!-- post-list:end -->
