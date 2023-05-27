@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, May 26, 2023 at 12:09:58 PM
+> Last updated: Saturday, May 27, 2023 at 12:10:09 AM
 
 > Showing 5 of 12 posts.
 
-[![TypeScript Tuple Types: The What, Why, and How](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/TypeScript_Tuple_Types__The_What__Why__and_How.svg)](https://dev.to/sachinchaurasiya/typescript-tuple-types-the-what-why-and-how-1ngm)
-[![Promesas en JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Promesas_en_JavaScript.svg)](https://dev.to/ulisesserranop/promesas-en-javascript-8oe)
-[![Who's looking for open source contributors? (week 43)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Who's_looking_for_open_source_contributors__(week_43).svg)](https://dev.to/opensauced/whos-looking-for-open-source-contributors-week-42-o88)
-[![2667. LeetCode's Create Hello World Function - Extremely Simple One line JS Solution Beats 99% in Runtime](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/2667._LeetCode's_Create_Hello_World_Function_-_Extremely_Simple_One_line_JS_Solution_Beats_99__in_Runtime.svg)](https://dev.to/verisimilitudex/2667-leetcodes-create-hello-world-function-extremely-simple-one-line-js-solution-beats-99-in-runtime-3gf6)
-[![Demystifying JavaScript Functions: A Guide to Function Types](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Demystifying_JavaScript_Functions__A_Guide_to_Function_Types.svg)](https://dev.to/abomisr/demystifying-javascript-functions-a-guide-to-function-types-5b4e)
+[![How to FIND the QUESTIONS that will be in an interview](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_FIND_the_QUESTIONS_that_will_be_in_an_interview.svg)](https://dev.to/kgcodes/how-to-find-the-questions-that-will-be-in-an-interview-1g1n)
+[![Comprehending Closure in JavaScript: A Frequently Asked Interview Question 🚀🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Comprehending_Closure_in_JavaScript__A_Frequently_Asked_Interview_Question_🚀🔥.svg)](https://dev.to/arjuncodess/comprehending-closure-in-javascript-a-frequently-asked-interview-question-43n3)
+[![Sharing my Story: From Public School to the Largest Technology Company in the World](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Sharing_my_Story__From_Public_School_to_the_Largest_Technology_Company_in_the_World.svg)](https://dev.to/glaucia86/sharing-my-story-from-public-school-to-the-largest-technology-company-in-the-world-1m2g)
+[![On starting a new dev blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/On_starting_a_new_dev_blog.svg)](https://dev.to/armantark/on-starting-a-new-dev-blog-1739)
+[![Create nice-looking GUI applications in Common Lisp](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_nice-looking_GUI_applications_in_Common_Lisp.svg)](https://dev.to/vindarel/create-nice-looking-gui-applications-in-common-lisp-22p6)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, May 26, 2023 at 12:10:01 PM
+> Last updated: Saturday, May 27, 2023 at 12:10:12 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, May 26, 2023 at 12:10:04 PM
+> Last updated: Saturday, May 27, 2023 at 12:10:14 AM
 
 > Showing 5 of 30 posts.
 
