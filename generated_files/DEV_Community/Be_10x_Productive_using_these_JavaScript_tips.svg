@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 610 110" width="600" height="100" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <style>
+      .title {
+        font-size: 1.5em;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        white-space: nowrap;
+      }
+      .description {
+        font-size: 0.75em;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+      }
+      .text {
+        text-align: start;
+        padding: 10px;
+        height: calc(100% - 20px);
+        margin-left: 100px;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+        color: black;
+      }
+           .date {
+        font-size: 0.5em;
+        opacity: 0.5;
+        text-align: end;
+        position: absolute;
+        bottom: 0;
+        right: 10px;
+        color: black;
+      }
+      .image {
+        height: 100px;
+        width: 100px;
+        background-image: url("data:image/png;base64,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");
+        background-size: cover;
+        position: absolute;
+        top: 0;
+        left: 0;
+        border-radius: 10px;
+        background-position: center;
+      }
+      .main {
+        fill: white;
+      }
+      .data {
+        opacity: 0.75;
+        text-align: start;
+        position: absolute;
+        bottom: 0;
+        padding-bottom: 5px;
+        left: 110px;
+        color: black;
+        max-width: 400px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+      }
+      .author {
+        opacity: 0.75;
+        font-size: 0.5em;
+      }
+      .category {
+        background-color: rgba(0, 0, 0, 0.25);
+        border-radius: 0.25em;
+        padding: 0.125em 0.25em;
+        font-size: 0.75em;
+        color: rgba(0, 0, 0, 0.8);
+      }
+    </style>
+  </defs>
+  <g class="main">
+    <rect class="content" width="600" height="100" stroke="rgba(0, 0, 0, 0.5)" x="5" y="5" rx="10" />
+    <foreignObject width="600" height="100" x="5" y="5">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
+        <div class="image" />
+<div class="text">
+          <div class="title">Be&#0032;10x&#0032;Productive&#0032;using&#0032;these&#0032;JavaScript&#0032;tips</div>
+          <div class="description">🚀&#0032;We&#0039;ll&#0032;see&#0032;extensions&#0044;&#0032;debugging&#0032;techniques&#0044;&#0032;coding&#0032;style&#0044;&#0032;directory&#0032;structure&#0032;and&#0032;much&#0032;more&#0032;to&#0046;&#0046;&#0046;</div>
+          <div class="date">5&#0047;28&#0047;23</div>
+          <div class="data">
+            <span class="author">Lovepreet&#0032;Singh</span> <span class="category">javascript</span> <span class="category">tutorial</span> <span class="category">programming</span> <span class="category">webdev</span>
+          </div>
+        </div>
+      </div>
+    </foreignObject>
+  </g>
+</svg>

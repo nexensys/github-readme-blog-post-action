@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, May 28, 2023 at 12:10:12 AM
+> Last updated: Sunday, May 28, 2023 at 6:13:56 AM
 
 > Showing 5 of 12 posts.
 
-[![How AI is Revolutionizing Blogging and Programming??](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_AI_is_Revolutionizing_Blogging_and_Programming__.svg)](https://dev.to/devxvaibhav/how-ai-is-revolutionizing-blogging-and-programming-1a2p)
-[![10 Useful Ruby One-Liners: Examples and Descriptions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_Useful_Ruby_One-Liners__Examples_and_Descriptions.svg)](https://dev.to/nezirzahirovic/10-useful-ruby-one-liners-examples-and-descriptions-5a9c)
-[![How to show/hide Modal in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_show_hide_Modal_in_React.svg)](https://dev.to/cathleys/how-to-showhide-modal-in-react-46fg)
-[![How to write clean and readable code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_write_clean_and_readable_code.svg)](https://dev.to/ajebodev/how-to-write-clean-and-readable-code-48no)
-[![Binary Search in Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Binary_Search_in_Python.svg)](https://dev.to/happer64bit/binary-search-in-python-3998)
+[![File Uploads Made Easy with Multer package in nodeJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/File_Uploads_Made_Easy_with_Multer_package_in_nodeJS.svg)](https://dev.to/itsvinayak/file-uploads-made-easy-with-multer-package-in-nodejs-3mo0)
+[![Getting Started: Monitoring a FastAPI App with Grafana and Prometheus - A Step-by-Step Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_Started__Monitoring_a_FastAPI_App_with_Grafana_and_Prometheus_-_A_Step-by-Step_Guide.svg)](https://dev.to/ken_mwaura1/getting-started-monitoring-a-fastapi-app-with-grafana-and-prometheus-a-step-by-step-guide-3fbn)
+[![Demystifying MVP: The Foundation of Successful Software Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Demystifying_MVP__The_Foundation_of_Successful_Software_Development.svg)](https://dev.to/piouskenny/demystifying-mvp-the-foundation-of-successful-software-development-2h8e)
+[![Must-Have CSS Tools for Effortless Styling 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Must-Have_CSS_Tools_for_Effortless_Styling_🚀.svg)](https://dev.to/ahmadraza/must-have-css-tools-for-effortless-styling-1adi)
+[![Be 10x Productive using these JavaScript tips](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Be_10x_Productive_using_these_JavaScript_tips.svg)](https://dev.to/lovepreetsingh/be-10x-productive-using-these-javascript-tips-2n7n)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, May 28, 2023 at 12:10:15 AM
+> Last updated: Sunday, May 28, 2023 at 6:13:59 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, May 28, 2023 at 12:10:18 AM
+> Last updated: Sunday, May 28, 2023 at 6:14:01 AM
 
 > Showing 5 of 30 posts.
 
