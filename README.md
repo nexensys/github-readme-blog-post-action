@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, May 27, 2023 at 12:09:20 PM
+> Last updated: Saturday, May 27, 2023 at 6:50:03 PM
 
 > Showing 5 of 12 posts.
 
-[![Sorting complex objects with custom criteria in Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Sorting_complex_objects_with_custom_criteria_in_Python.svg)](https://dev.to/renzhamin/sorting-complex-objects-with-custom-criteria-in-python-i89)
-[![Infrastructure as Code is about more than frameworks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Infrastructure_as_Code_is_about_more_than_frameworks.svg)](https://dev.to/aws-builders/infrastructure-as-code-is-about-more-than-frameworks-ipd)
-[![Easy React data fetching with the new `use()` hook](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Easy_React_data_fetching_with_the_new_`use()`_hook.svg)](https://dev.to/chiubaca/easy-react-data-fetching-with-use-16jg)
-[![PrivateGPT - Running "ChatGPT" offline on local documents](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/PrivateGPT_-_Running__ChatGPT__offline_on_local_documents.svg)](https://dev.to/codepo8/privategpt-running-chatgpt-offline-on-local-documents-5b17)
-[![Mobile App ideas](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mobile_App_ideas.svg)](https://dev.to/ytskk/open-project-ideas-27nh)
+[![CSS code refactoring](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CSS_code_refactoring.svg)](https://dev.to/kelechikizito/css-code-refactoring-16mj)
+[![How to use Firebase Authentication in Next.js 13, Server Side with Admin SDK](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_Firebase_Authentication_in_Next.js_13__Server_Side_with_Admin_SDK.svg)](https://dev.to/geiel/how-to-use-firebase-authentication-in-nextjs-13-client-and-server-side-1bbn)
+[![State Of CSS, May 2023 : Newest Additions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/State_Of_CSS__May_2023___Newest_Additions.svg)](https://dev.to/basheerdotdev/state-of-css-may-2023-newest-additions-1p3o)
+[![Reset/Forgot password on a rest api with jsonwebtoken (jwt) in express](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Reset_Forgot_password_on_a_rest_api_with_jsonwebtoken_(jwt)_in_express.svg)](https://dev.to/renzhamin/resetforgot-password-on-a-rest-api-with-jsonwebtoken-jwt-in-express-6i9)
+[![Deep Neural Network from Scratch in Rust 🦀- Part 5- Training and Inference](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deep_Neural_Network_from_Scratch_in_Rust_🦀-_Part_5-_Training_and_Inference.svg)](https://dev.to/akshayballal/deep-neural-network-from-scratch-in-rust-part-5-training-and-inference-20k7)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, May 27, 2023 at 12:09:24 PM
+> Last updated: Saturday, May 27, 2023 at 6:50:05 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, May 27, 2023 at 12:09:27 PM
+> Last updated: Saturday, May 27, 2023 at 6:50:08 PM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - finom/use-0: Type-safe React application state library with zero setup](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_finom_use-0__Type-safe_React_application_state_library_with_zero_setup.svg)](https://github.com/finom/use-0)
 [![GitHub - aralroca/default-composer: A tiny (300B) JavaScript library that allows you to set default values for nested objects](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_aralroca_default-composer__A_tiny_(300B)_JavaScript_library_that_allows_you_to_set_default_values_for_nested_objects.svg)](https://github.com/aralroca/default-composer)
 [![File Upload Security and Malware Protection](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/File_Upload_Security_and_Malware_Protection.svg)](https://austingil.com/file-upload-security-and-malware-protection/)
 [![GitHub - vanjs-org/van: 🍦VanJS: World's smallest reactive UI framework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_vanjs-org_van__🍦VanJS__World's_smallest_reactive_UI_framework.svg)](https://github.com/vanjs-org/van)
 [![Introducing Private Preview for Stargate-Mongoose Astra Support](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Introducing_Private_Preview_for_Stargate-Mongoose_Astra_Support.svg)](http://www.thecodebarbarian.com/introducing-private-preview-for-stargate-mongoose-astra)
-[![Metaphore (SCP)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Metaphore_(SCP).svg)](https://metaphore.vercel.app)
 
 
 <!-- post-list:end -->
