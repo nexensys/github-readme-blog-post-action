@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, May 28, 2023 at 6:13:56 AM
+> Last updated: Sunday, May 28, 2023 at 12:09:06 PM
 
 > Showing 5 of 12 posts.
 
-[![File Uploads Made Easy with Multer package in nodeJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/File_Uploads_Made_Easy_with_Multer_package_in_nodeJS.svg)](https://dev.to/itsvinayak/file-uploads-made-easy-with-multer-package-in-nodejs-3mo0)
-[![Getting Started: Monitoring a FastAPI App with Grafana and Prometheus - A Step-by-Step Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_Started__Monitoring_a_FastAPI_App_with_Grafana_and_Prometheus_-_A_Step-by-Step_Guide.svg)](https://dev.to/ken_mwaura1/getting-started-monitoring-a-fastapi-app-with-grafana-and-prometheus-a-step-by-step-guide-3fbn)
-[![Demystifying MVP: The Foundation of Successful Software Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Demystifying_MVP__The_Foundation_of_Successful_Software_Development.svg)](https://dev.to/piouskenny/demystifying-mvp-the-foundation-of-successful-software-development-2h8e)
-[![Must-Have CSS Tools for Effortless Styling 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Must-Have_CSS_Tools_for_Effortless_Styling_🚀.svg)](https://dev.to/ahmadraza/must-have-css-tools-for-effortless-styling-1adi)
-[![Be 10x Productive using these JavaScript tips](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Be_10x_Productive_using_these_JavaScript_tips.svg)](https://dev.to/lovepreetsingh/be-10x-productive-using-these-javascript-tips-2n7n)
+[![Cities Tracker App with Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cities_Tracker_App_with_Python.svg)](https://dev.to/bekbrace/cities-tracker-app-with-python-c5n)
+[![How to Choose the Right Web Development Framework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Choose_the_Right_Web_Development_Framework.svg)](https://dev.to/ishanbagchi/how-to-choose-the-right-web-development-framework-388i)
+[![Don't miss out on the new features in SQL Server 2022 (16.x)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Don't_miss_out_on_the_new_features_in_SQL_Server_2022_(16.x).svg)](https://dev.to/notte/dont-miss-new-sql-server-16x-functions-59ji)
+[![Yet Another Newsletter LOL: Images, AI & Labelling](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Yet_Another_Newsletter_LOL__Images__AI___Labelling.svg)](https://dev.to/nickytonline/yet-another-newsletter-lol-images-ai-labelling-4j60)
+[![What Is The Best CRUD UI Design](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_Is_The_Best_CRUD_UI_Design.svg)](https://dev.to/makemychance/what-is-the-best-crud-ui-design-4db)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, May 28, 2023 at 6:13:59 AM
+> Last updated: Sunday, May 28, 2023 at 12:09:10 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, May 28, 2023 at 6:14:01 AM
+> Last updated: Sunday, May 28, 2023 at 12:09:13 PM
 
 > Showing 5 of 30 posts.
 
