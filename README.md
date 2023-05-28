@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, May 27, 2023 at 6:50:03 PM
+> Last updated: Sunday, May 28, 2023 at 12:10:12 AM
 
 > Showing 5 of 12 posts.
 
-[![CSS code refactoring](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CSS_code_refactoring.svg)](https://dev.to/kelechikizito/css-code-refactoring-16mj)
-[![How to use Firebase Authentication in Next.js 13, Server Side with Admin SDK](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_Firebase_Authentication_in_Next.js_13__Server_Side_with_Admin_SDK.svg)](https://dev.to/geiel/how-to-use-firebase-authentication-in-nextjs-13-client-and-server-side-1bbn)
-[![State Of CSS, May 2023 : Newest Additions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/State_Of_CSS__May_2023___Newest_Additions.svg)](https://dev.to/basheerdotdev/state-of-css-may-2023-newest-additions-1p3o)
-[![Reset/Forgot password on a rest api with jsonwebtoken (jwt) in express](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Reset_Forgot_password_on_a_rest_api_with_jsonwebtoken_(jwt)_in_express.svg)](https://dev.to/renzhamin/resetforgot-password-on-a-rest-api-with-jsonwebtoken-jwt-in-express-6i9)
-[![Deep Neural Network from Scratch in Rust 🦀- Part 5- Training and Inference](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deep_Neural_Network_from_Scratch_in_Rust_🦀-_Part_5-_Training_and_Inference.svg)](https://dev.to/akshayballal/deep-neural-network-from-scratch-in-rust-part-5-training-and-inference-20k7)
+[![How AI is Revolutionizing Blogging and Programming??](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_AI_is_Revolutionizing_Blogging_and_Programming__.svg)](https://dev.to/devxvaibhav/how-ai-is-revolutionizing-blogging-and-programming-1a2p)
+[![10 Useful Ruby One-Liners: Examples and Descriptions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_Useful_Ruby_One-Liners__Examples_and_Descriptions.svg)](https://dev.to/nezirzahirovic/10-useful-ruby-one-liners-examples-and-descriptions-5a9c)
+[![How to show/hide Modal in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_show_hide_Modal_in_React.svg)](https://dev.to/cathleys/how-to-showhide-modal-in-react-46fg)
+[![How to write clean and readable code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_write_clean_and_readable_code.svg)](https://dev.to/ajebodev/how-to-write-clean-and-readable-code-48no)
+[![Binary Search in Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Binary_Search_in_Python.svg)](https://dev.to/happer64bit/binary-search-in-python-3998)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, May 27, 2023 at 6:50:05 PM
+> Last updated: Sunday, May 28, 2023 at 12:10:15 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, May 27, 2023 at 6:50:08 PM
+> Last updated: Sunday, May 28, 2023 at 12:10:18 AM
 
 > Showing 5 of 30 posts.
 
