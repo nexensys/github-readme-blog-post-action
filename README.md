@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, May 28, 2023 at 12:09:06 PM
+> Last updated: Sunday, May 28, 2023 at 6:47:02 PM
 
 > Showing 5 of 12 posts.
 
-[![Cities Tracker App with Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cities_Tracker_App_with_Python.svg)](https://dev.to/bekbrace/cities-tracker-app-with-python-c5n)
-[![How to Choose the Right Web Development Framework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Choose_the_Right_Web_Development_Framework.svg)](https://dev.to/ishanbagchi/how-to-choose-the-right-web-development-framework-388i)
-[![Don't miss out on the new features in SQL Server 2022 (16.x)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Don't_miss_out_on_the_new_features_in_SQL_Server_2022_(16.x).svg)](https://dev.to/notte/dont-miss-new-sql-server-16x-functions-59ji)
-[![Yet Another Newsletter LOL: Images, AI & Labelling](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Yet_Another_Newsletter_LOL__Images__AI___Labelling.svg)](https://dev.to/nickytonline/yet-another-newsletter-lol-images-ai-labelling-4j60)
-[![What Is The Best CRUD UI Design](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_Is_The_Best_CRUD_UI_Design.svg)](https://dev.to/makemychance/what-is-the-best-crud-ui-design-4db)
+[![Introduction to React.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_to_React.js.svg)](https://dev.to/haszankauna/introduction-to-reactjs-2ae1)
+[![Build a Quick Game using Amazon GameLift service](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_a_Quick_Game_using_Amazon_GameLift_service.svg)](https://dev.to/aws-builders/build-a-quick-game-using-amazon-gamelift-service-58a0)
+[![How I Used Github API to Generate a Dynamic Name Updating Every Minute!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_I_Used_Github_API_to_Generate_a_Dynamic_Name_Updating_Every_Minute!.svg)](https://dev.to/abomisr/how-i-used-github-api-to-generate-a-dynamic-name-updating-every-minute-2790)
+[![Time-Traveling with Github: How I Created A Dynamic Name That Changes Every Minute Using the Github API!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Time-Traveling_with_Github__How_I_Created_A_Dynamic_Name_That_Changes_Every_Minute_Using_the_Github_API!.svg)](https://dev.to/abomisr/time-traveling-with-github-how-i-created-a-dynamic-name-that-changes-every-minute-using-the-github-api-7ec)
+[![Create a Responsive Nav Menu with Tailwind and Alpinejs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_a_Responsive_Nav_Menu_with_Tailwind_and_Alpinejs.svg)](https://dev.to/andrewzach/create-a-responsive-nav-menu-with-tailwind-and-alpinejs-2ij1)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, May 28, 2023 at 12:09:10 PM
+> Last updated: Sunday, May 28, 2023 at 6:47:06 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, May 28, 2023 at 12:09:13 PM
+> Last updated: Sunday, May 28, 2023 at 6:47:10 PM
 
 > Showing 5 of 30 posts.
 
+[![3 Patterns to Merge Arrays in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/3_Patterns_to_Merge_Arrays_in_JavaScript.svg)](
+https://masteringjs.io/tutorials/fundamentals/merge-arrays
+)
 [![GitHub - finom/use-0: Type-safe React application state library with zero setup](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_finom_use-0__Type-safe_React_application_state_library_with_zero_setup.svg)](https://github.com/finom/use-0)
 [![GitHub - aralroca/default-composer: A tiny (300B) JavaScript library that allows you to set default values for nested objects](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_aralroca_default-composer__A_tiny_(300B)_JavaScript_library_that_allows_you_to_set_default_values_for_nested_objects.svg)](https://github.com/aralroca/default-composer)
 [![File Upload Security and Malware Protection](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/File_Upload_Security_and_Malware_Protection.svg)](https://austingil.com/file-upload-security-and-malware-protection/)
 [![GitHub - vanjs-org/van: 🍦VanJS: World's smallest reactive UI framework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_vanjs-org_van__🍦VanJS__World's_smallest_reactive_UI_framework.svg)](https://github.com/vanjs-org/van)
-[![Introducing Private Preview for Stargate-Mongoose Astra Support](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Introducing_Private_Preview_for_Stargate-Mongoose_Astra_Support.svg)](http://www.thecodebarbarian.com/introducing-private-preview-for-stargate-mongoose-astra)
 
 
 <!-- post-list:end -->
