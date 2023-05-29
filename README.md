@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, May 29, 2023 at 12:11:24 AM
+> Last updated: Monday, May 29, 2023 at 6:15:02 AM
 
 > Showing 5 of 12 posts.
 
-[![Rewriting My Personal Website with Markdown: Prioritizing Performance and Meaningful Content](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Rewriting_My_Personal_Website_with_Markdown__Prioritizing_Performance_and_Meaningful_Content.svg)](https://dev.to/nivandosoares/rewriting-my-personal-website-with-markdown-prioritizing-performance-and-meaningful-content-3c8m)
-[![A guide on writing clear and meaningful Commit messages: And how I write them](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_guide_on_writing_clear_and_meaningful_Commit_messages__And_how_I_write_them.svg)](https://dev.to/jangirritik/a-guide-on-writing-clear-and-meaningful-commit-messages-and-how-i-write-them-56ld)
-[![Revolutionizing Data with React Native ECharts 1.1: Now More Interactive!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Revolutionizing_Data_with_React_Native_ECharts_1.1__Now_More_Interactive!.svg)](https://dev.to/zhiqingchen/revolutionizing-data-with-react-native-echarts-11-now-more-interactive-38lb)
-[![Rise of Progressive Web Apps in Web Development 🚀🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Rise_of_Progressive_Web_Apps_in_Web_Development_🚀🔥.svg)](https://dev.to/arjuncodess/rise-of-progressive-web-apps-in-web-development-45ob)
-[![The Philosophy of OOP and FP with JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Philosophy_of_OOP_and_FP_with_JavaScript.svg)](https://dev.to/ocodista/the-philosophy-of-oop-and-fp-with-javascript-58c7)
+[![The Best Python IDE For Mac Users - Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Best_Python_IDE_For_Mac_Users_-_Part_1.svg)](https://dev.to/theme_selection/the-best-python-ide-for-mac-4l63)
+[![DevOps Toolchain and Technologies](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/DevOps_Toolchain_and_Technologies.svg)](https://dev.to/rainleander/devops-toolchain-and-technologies-3n0k)
+[![How to create REST API using Django REST framework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_REST_API_using_Django_REST_framework.svg)](https://dev.to/akashrchandran/how-to-create-rest-api-using-django-rest-framework-f4o)
+[![Gaslighting ai into 2+2=5](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Gaslighting_ai_into_2+2=5.svg)](https://dev.to/virejdasani/gaslighting-ai-into-225-2n9i)
+[![C# Regex: From Zero To Hero Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/C__Regex__From_Zero_To_Hero_Guide.svg)](https://dev.to/bytehide/c-regex-from-zero-to-hero-guide-50e9)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, May 29, 2023 at 12:11:28 AM
+> Last updated: Monday, May 29, 2023 at 6:15:06 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, May 29, 2023 at 12:11:31 AM
+> Last updated: Monday, May 29, 2023 at 6:15:10 AM
 
 > Showing 5 of 30 posts.
 
+[![Mastering array sorting in JavaScript: a guide to the sort() function](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Mastering_array_sorting_in_JavaScript__a_guide_to_the_sort()_function.svg)](https://www.ma-no.org/en/programming/javascript/mastering-array-sorting-in-javascript-a-guide-to-the-sort-function)
 [![Boosting Data Insights: The New React Native ECharts 1.1 Update](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Boosting_Data_Insights__The_New_React_Native_ECharts_1.1_Update.svg)](https://medium.com/@chenzhiqing/boosting-data-insights-the-new-react-native-echarts-1-1-update-c125ee8d40e6)
 [![3 Patterns to Merge Arrays in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/3_Patterns_to_Merge_Arrays_in_JavaScript.svg)](
 https://masteringjs.io/tutorials/fundamentals/merge-arrays
 )
 [![GitHub - finom/use-0: Type-safe React application state library with zero setup](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_finom_use-0__Type-safe_React_application_state_library_with_zero_setup.svg)](https://github.com/finom/use-0)
 [![GitHub - aralroca/default-composer: A tiny (300B) JavaScript library that allows you to set default values for nested objects](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_aralroca_default-composer__A_tiny_(300B)_JavaScript_library_that_allows_you_to_set_default_values_for_nested_objects.svg)](https://github.com/aralroca/default-composer)
-[![File Upload Security and Malware Protection](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/File_Upload_Security_and_Malware_Protection.svg)](https://austingil.com/file-upload-security-and-malware-protection/)
 
 
 <!-- post-list:end -->
