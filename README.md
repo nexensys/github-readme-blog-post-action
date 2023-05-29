@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, May 28, 2023 at 6:47:02 PM
+> Last updated: Monday, May 29, 2023 at 12:11:24 AM
 
 > Showing 5 of 12 posts.
 
-[![Introduction to React.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_to_React.js.svg)](https://dev.to/haszankauna/introduction-to-reactjs-2ae1)
-[![Build a Quick Game using Amazon GameLift service](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_a_Quick_Game_using_Amazon_GameLift_service.svg)](https://dev.to/aws-builders/build-a-quick-game-using-amazon-gamelift-service-58a0)
-[![How I Used Github API to Generate a Dynamic Name Updating Every Minute!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_I_Used_Github_API_to_Generate_a_Dynamic_Name_Updating_Every_Minute!.svg)](https://dev.to/abomisr/how-i-used-github-api-to-generate-a-dynamic-name-updating-every-minute-2790)
-[![Time-Traveling with Github: How I Created A Dynamic Name That Changes Every Minute Using the Github API!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Time-Traveling_with_Github__How_I_Created_A_Dynamic_Name_That_Changes_Every_Minute_Using_the_Github_API!.svg)](https://dev.to/abomisr/time-traveling-with-github-how-i-created-a-dynamic-name-that-changes-every-minute-using-the-github-api-7ec)
-[![Create a Responsive Nav Menu with Tailwind and Alpinejs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_a_Responsive_Nav_Menu_with_Tailwind_and_Alpinejs.svg)](https://dev.to/andrewzach/create-a-responsive-nav-menu-with-tailwind-and-alpinejs-2ij1)
+[![Rewriting My Personal Website with Markdown: Prioritizing Performance and Meaningful Content](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Rewriting_My_Personal_Website_with_Markdown__Prioritizing_Performance_and_Meaningful_Content.svg)](https://dev.to/nivandosoares/rewriting-my-personal-website-with-markdown-prioritizing-performance-and-meaningful-content-3c8m)
+[![A guide on writing clear and meaningful Commit messages: And how I write them](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_guide_on_writing_clear_and_meaningful_Commit_messages__And_how_I_write_them.svg)](https://dev.to/jangirritik/a-guide-on-writing-clear-and-meaningful-commit-messages-and-how-i-write-them-56ld)
+[![Revolutionizing Data with React Native ECharts 1.1: Now More Interactive!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Revolutionizing_Data_with_React_Native_ECharts_1.1__Now_More_Interactive!.svg)](https://dev.to/zhiqingchen/revolutionizing-data-with-react-native-echarts-11-now-more-interactive-38lb)
+[![Rise of Progressive Web Apps in Web Development 🚀🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Rise_of_Progressive_Web_Apps_in_Web_Development_🚀🔥.svg)](https://dev.to/arjuncodess/rise-of-progressive-web-apps-in-web-development-45ob)
+[![The Philosophy of OOP and FP with JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Philosophy_of_OOP_and_FP_with_JavaScript.svg)](https://dev.to/ocodista/the-philosophy-of-oop-and-fp-with-javascript-58c7)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, May 28, 2023 at 6:47:06 PM
+> Last updated: Monday, May 29, 2023 at 12:11:28 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, May 28, 2023 at 6:47:10 PM
+> Last updated: Monday, May 29, 2023 at 12:11:31 AM
 
 > Showing 5 of 30 posts.
 
+[![Boosting Data Insights: The New React Native ECharts 1.1 Update](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Boosting_Data_Insights__The_New_React_Native_ECharts_1.1_Update.svg)](https://medium.com/@chenzhiqing/boosting-data-insights-the-new-react-native-echarts-1-1-update-c125ee8d40e6)
 [![3 Patterns to Merge Arrays in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/3_Patterns_to_Merge_Arrays_in_JavaScript.svg)](
 https://masteringjs.io/tutorials/fundamentals/merge-arrays
 )
 [![GitHub - finom/use-0: Type-safe React application state library with zero setup](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_finom_use-0__Type-safe_React_application_state_library_with_zero_setup.svg)](https://github.com/finom/use-0)
 [![GitHub - aralroca/default-composer: A tiny (300B) JavaScript library that allows you to set default values for nested objects](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_aralroca_default-composer__A_tiny_(300B)_JavaScript_library_that_allows_you_to_set_default_values_for_nested_objects.svg)](https://github.com/aralroca/default-composer)
 [![File Upload Security and Malware Protection](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/File_Upload_Security_and_Malware_Protection.svg)](https://austingil.com/file-upload-security-and-malware-protection/)
-[![GitHub - vanjs-org/van: 🍦VanJS: World's smallest reactive UI framework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_vanjs-org_van__🍦VanJS__World's_smallest_reactive_UI_framework.svg)](https://github.com/vanjs-org/van)
 
 
 <!-- post-list:end -->
