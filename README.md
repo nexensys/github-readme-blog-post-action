@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, May 29, 2023 at 12:09:51 PM
+> Last updated: Monday, May 29, 2023 at 6:46:00 PM
 
 > Showing 5 of 12 posts.
 
-[![Setting up an Alias for a Directory in Apache2 Server](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Setting_up_an_Alias_for_a_Directory_in_Apache2_Server.svg)](https://dev.to/sajidurshajib/setting-up-an-alias-for-a-directory-in-apache2-server-1636)
-[![Hackers Tools: Must-Have Tools for Every Ethical Hacker](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Hackers_Tools__Must-Have_Tools_for_Every_Ethical_Hacker.svg)](https://dev.to/scofieldidehen/hackers-tools-must-have-tools-for-every-ethical-hacker-34k4)
-[![33 Inspiring Female Founders To Follow On Linkedin](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/33_Inspiring_Female_Founders_To_Follow_On_Linkedin.svg)](https://dev.to/jon_snow789/33-inspiring-female-founders-to-follow-on-linkedin-2plj)
-[![ElectronJs How to minimize/close window to system tray or in the background](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/ElectronJs_How_to_minimize_close_window_to_system_tray_or_in_the_background.svg)](https://dev.to/brojenuel/electronjs-how-to-minimizeclose-window-to-system-tray-or-in-the-background-11c6)
-[![self-introduction](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/self-introduction.svg)](https://dev.to/reikaji/self-introduction-1lpo)
+[![From HR to Tech: Klesta's Inspiring Journey with the Web Dev Path Project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/From_HR_to_Tech__Klesta's_Inspiring_Journey_with_the_Web_Dev_Path_Project.svg)](https://dev.to/wdp/from-hr-to-tech-klestas-inspiring-journey-with-the-web-dev-path-project-n4c)
+[![Unidades de medida no CSS: escolhendo a melhor opção para cada caso](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unidades_de_medida_no_CSS__escolhendo_a_melhor_opção_para_cada_caso.svg)](https://dev.to/loresgarcia/unidades-de-medida-no-css-escolhendo-a-melhor-opcao-para-cada-caso-3jh9)
+[![How to become an AWS Community Builder?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_become_an_AWS_Community_Builder_.svg)](https://dev.to/aws-builders/how-to-become-an-aws-community-builder-17ca)
+[![ECMAScript ES6+: A Comprehensive Guide to Modern JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/ECMAScript_ES6+__A_Comprehensive_Guide_to_Modern_JavaScript.svg)](https://dev.to/aradwan20/ecmascript-es6-a-comprehensive-guide-to-modern-javascript-1e68)
+[![Kubernetes Installation with kubeadm](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Kubernetes_Installation_with_kubeadm.svg)](https://dev.to/dpuig/kubernetes-installation-with-kubeadm-448p)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, May 29, 2023 at 12:09:54 PM
+> Last updated: Monday, May 29, 2023 at 6:46:04 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,20 +43,18 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, May 29, 2023 at 12:09:57 PM
+> Last updated: Monday, May 29, 2023 at 6:46:10 PM
 
 > Showing 5 of 30 posts.
 
+[![API with NestJS #110. Managing JSON data with PostgreSQL and Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__110._Managing_JSON_data_with_PostgreSQL_and_Prisma.svg)](https://wanago.io/2023/05/29/api-nestjs-prisma-json/)
+[![Instagram Report (2023)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Instagram_Report_(2023).svg)](
+https://t.me/reportbysniperspy
+)
 [![Mastering array sorting in JavaScript: a guide to the sort() function](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Mastering_array_sorting_in_JavaScript__a_guide_to_the_sort()_function.svg)](https://www.ma-no.org/en/programming/javascript/mastering-array-sorting-in-javascript-a-guide-to-the-sort-function)
 [![Boosting Data Insights: The New React Native ECharts 1.1 Update](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Boosting_Data_Insights__The_New_React_Native_ECharts_1.1_Update.svg)](https://medium.com/@chenzhiqing/boosting-data-insights-the-new-react-native-echarts-1-1-update-c125ee8d40e6)
 [![3 Patterns to Merge Arrays in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/3_Patterns_to_Merge_Arrays_in_JavaScript.svg)](
 https://masteringjs.io/tutorials/fundamentals/merge-arrays
-)
-[![GitHub - finom/use-0: Type-safe React application state library with zero setup](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_finom_use-0__Type-safe_React_application_state_library_with_zero_setup.svg)](https://github.com/finom/use-0)
-[![
-Stop using spread operator for nested defaults, now you can use default-composer
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Stop_using_spread_operator_for_nested_defaults__now_you_can_use_default-composer_.svg)](
-https://github.com/aralroca/default-composer
 )
 
 
