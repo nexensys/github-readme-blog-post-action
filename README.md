@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, May 30, 2023 at 6:16:13 AM
+> Last updated: Tuesday, May 30, 2023 at 12:10:11 PM
 
 > Showing 5 of 12 posts.
 
-[![Facebook Open-Sources Its Horizon AI Platform](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Facebook_Open-Sources_Its_Horizon_AI_Platform.svg)](https://dev.to/thenomadevel/facebook-open-sources-its-horizon-ai-platform-am5)
-[![How To Level Up Your Business With Waves Tokens? - A Worthy Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Level_Up_Your_Business_With_Waves_Tokens__-_A_Worthy_Guide.svg)](https://dev.to/jessietomaz/how-to-level-up-your-business-with-waves-tokens-a-worthy-guide-2k61)
-[![Implement OTP Verification using Redis and Node.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Implement_OTP_Verification_using_Redis_and_Node.js.svg)](https://dev.to/desmondsanctity/implement-otp-verification-using-redis-and-nodejs-572c)
-[![Announcing Support For Playwright Testing On Real Android Devices 🎭📱](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Announcing_Support_For_Playwright_Testing_On_Real_Android_Devices_🎭📱.svg)](https://dev.to/lambdatest/announcing-support-for-playwright-testing-on-real-android-devices-5dn4)
-[![Top 6 PHP code quality tools 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_6_PHP_code_quality_tools_2023.svg)](https://dev.to/documatic/top-6-php-code-quality-tools-2023-2kb1)
+[![Part 2: Understanding Vuex: A State Management Library.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Part_2__Understanding_Vuex__A_State_Management_Library..svg)](https://dev.to/miracool/part-2-understanding-vuex-a-state-management-library-5fop)
+[![6 Websites You’ll Love As A Developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/6_Websites_You’ll_Love_As_A_Developer.svg)](https://dev.to/med_code/12-websites-youll-love-as-a-developer-m0n)
+[![Generative AI with Azure OpenAI (DALL-E Overview)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Generative_AI_with_Azure_OpenAI_(DALL-E_Overview).svg)](https://dev.to/esdanielgomez/generative-ai-with-azure-openai-dall-e-overview-2pji)
+[![Joins in DBMS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Joins_in_DBMS.svg)](https://dev.to/aryan_shourie/joins-in-dbms-4cf1)
+[![Top 7 Featured DEV Posts from the Past Week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_7_Featured_DEV_Posts_from_the_Past_Week.svg)](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1cb6)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, May 30, 2023 at 6:16:16 AM
+> Last updated: Tuesday, May 30, 2023 at 12:10:14 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, May 30, 2023 at 6:16:21 AM
+> Last updated: Tuesday, May 30, 2023 at 12:10:18 PM
 
 > Showing 5 of 30 posts.
 
