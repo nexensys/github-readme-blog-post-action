@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, May 30, 2023 at 12:10:56 AM
+> Last updated: Tuesday, May 30, 2023 at 6:16:13 AM
 
 > Showing 5 of 12 posts.
 
-[![Creating a Low-Latency Cache with Dozer and PostgreSQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_a_Low-Latency_Cache_with_Dozer_and_PostgreSQL.svg)](https://dev.to/getdozer/creating-a-low-latency-cache-with-dozer-and-postgresql-i18)
-[![Installing React with Vite](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Installing_React_with_Vite.svg)](https://dev.to/rabibsust/installing-react-with-vite-801)
-[![How BYOC MQTT Service Ensures IoT Data Security and Compliance for Your Business](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_BYOC_MQTT_Service_Ensures_IoT_Data_Security_and_Compliance_for_Your_Business.svg)](https://dev.to/emqtech/how-byoc-mqtt-service-ensures-iot-data-security-and-compliance-for-your-business-4o91)
-[![What is Renderer2? How to use it in Angular Project?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_Renderer2__How_to_use_it_in_Angular_Project_.svg)](https://dev.to/manthanank/what-is-renderer2-how-to-use-it-in-angular-project-5l1)
-[![JavaScript Concepts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_Concepts.svg)](https://dev.to/sanket_de_6138f99797915d6/javascript-concept-4ec4)
+[![Facebook Open-Sources Its Horizon AI Platform](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Facebook_Open-Sources_Its_Horizon_AI_Platform.svg)](https://dev.to/thenomadevel/facebook-open-sources-its-horizon-ai-platform-am5)
+[![How To Level Up Your Business With Waves Tokens? - A Worthy Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Level_Up_Your_Business_With_Waves_Tokens__-_A_Worthy_Guide.svg)](https://dev.to/jessietomaz/how-to-level-up-your-business-with-waves-tokens-a-worthy-guide-2k61)
+[![Implement OTP Verification using Redis and Node.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Implement_OTP_Verification_using_Redis_and_Node.js.svg)](https://dev.to/desmondsanctity/implement-otp-verification-using-redis-and-nodejs-572c)
+[![Announcing Support For Playwright Testing On Real Android Devices 🎭📱](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Announcing_Support_For_Playwright_Testing_On_Real_Android_Devices_🎭📱.svg)](https://dev.to/lambdatest/announcing-support-for-playwright-testing-on-real-android-devices-5dn4)
+[![Top 6 PHP code quality tools 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_6_PHP_code_quality_tools_2023.svg)](https://dev.to/documatic/top-6-php-code-quality-tools-2023-2kb1)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, May 30, 2023 at 12:11:00 AM
+> Last updated: Tuesday, May 30, 2023 at 6:16:16 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,21 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, May 30, 2023 at 12:11:06 AM
+> Last updated: Tuesday, May 30, 2023 at 6:16:21 AM
 
 > Showing 5 of 30 posts.
 
+[![ SaaS Business Model: Complete Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_SaaS_Business_Model__Complete_Guide.svg)](https://www.codica.com/blog/saas-business-model/)
+[![
+supplier management solutions
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_supplier_management_solutions_.svg)](
+http://www.echojs.com/news/41783
+)
+[![GitHub - TransformerOptimus/SuperAGI: Build and run useful autonomous agents](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_TransformerOptimus_SuperAGI__Build_and_run_useful_autonomous_agents.svg)](https://github.com/TransformerOptimus/SuperAGI)
+[![Hiber3D HDK](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Hiber3D_HDK.svg)](
+https://developer.hiber3d.com/docs
+)
 [![API with NestJS #110. Managing JSON data with PostgreSQL and Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__110._Managing_JSON_data_with_PostgreSQL_and_Prisma.svg)](https://wanago.io/2023/05/29/api-nestjs-prisma-json/)
-[![Instagram Report (2023)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Instagram_Report_(2023).svg)](
-https://t.me/reportbysniperspy
-)
-[![Mastering array sorting in JavaScript: a guide to the sort() function](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Mastering_array_sorting_in_JavaScript__a_guide_to_the_sort()_function.svg)](https://www.ma-no.org/en/programming/javascript/mastering-array-sorting-in-javascript-a-guide-to-the-sort-function)
-[![Boosting Data Insights: The New React Native ECharts 1.1 Update](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Boosting_Data_Insights__The_New_React_Native_ECharts_1.1_Update.svg)](https://medium.com/@chenzhiqing/boosting-data-insights-the-new-react-native-echarts-1-1-update-c125ee8d40e6)
-[![3 Patterns to Merge Arrays in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/3_Patterns_to_Merge_Arrays_in_JavaScript.svg)](
-https://masteringjs.io/tutorials/fundamentals/merge-arrays
-)
 
 
 <!-- post-list:end -->
