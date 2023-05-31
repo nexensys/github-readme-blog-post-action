@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, May 30, 2023 at 6:51:57 PM
+> Last updated: Wednesday, May 31, 2023 at 12:11:03 AM
 
 > Showing 5 of 12 posts.
 
+[![Getting started with Tailwind](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_started_with_Tailwind.svg)](https://dev.to/arindam_1729/getting-started-with-tailwind-1aa5)
+[![How to Welcome First-Time Contributors to Your Repository Using Github Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Welcome_First-Time_Contributors_to_Your_Repository_Using_Github_Actions.svg)](https://dev.to/programequity/how-to-welcome-first-time-contributors-to-your-repository-using-github-actions-390p)
+[![6 coding best practices to take you to the next level](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/6_coding_best_practices_to_take_you_to_the_next_level.svg)](https://dev.to/wolfflucas/6-coding-best-practices-to-take-you-to-the-next-level-3750)
+[![INSTALL SLACK ON LINUX MINT 21.1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/INSTALL_SLACK_ON_LINUX_MINT_21.1.svg)](https://dev.to/thekalderon/install-slack-on-linux-mint-211-59di)
 [![What is TCP/IP and why is it important? 🤔](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_TCP_IP_and_why_is_it_important__🤔.svg)](https://dev.to/codexam/what-is-tcpip-and-why-is-it-important-cm2)
-[![How MIME and SMTP work together to send emails over the internet 📧](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_MIME_and_SMTP_work_together_to_send_emails_over_the_internet_📧.svg)](https://dev.to/codexam/how-mime-and-smtp-work-together-to-send-emails-over-the-internet-3jgh)
-[![Hyrum's law in modern frontend](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Hyrum's_law_in_modern_frontend.svg)](https://dev.to/mihneasim/hyrums-law-in-modern-frontend-1ma5)
-[![Demystifying PGP Keys: Understanding the Inner Workings of Public-Key Cryptography](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Demystifying_PGP_Keys__Understanding_the_Inner_Workings_of_Public-Key_Cryptography.svg)](https://dev.to/jsquared/demystifying-pgp-keys-understanding-the-inner-workings-of-public-key-cryptography-57aj)
-[![React CheatSheet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_CheatSheet.svg)](https://dev.to/zinox9/react-cheatsheet-3eao)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, May 30, 2023 at 6:52:00 PM
+> Last updated: Wednesday, May 31, 2023 at 12:11:07 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, May 30, 2023 at 6:52:06 PM
+> Last updated: Wednesday, May 31, 2023 at 12:11:13 AM
 
 > Showing 5 of 30 posts.
 
