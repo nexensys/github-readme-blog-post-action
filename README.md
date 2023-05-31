@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, May 31, 2023 at 6:16:29 AM
+> Last updated: Wednesday, May 31, 2023 at 12:10:28 PM
 
 > Showing 5 of 12 posts.
 
-[![Reply All Considered Harmful](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Reply_All_Considered_Harmful.svg)](https://dev.to/solidi/reply-all-considered-harmful-45aj)
-[![Create Chrome Extension Using Vue The Easiest Way](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_Chrome_Extension_Using_Vue_The_Easiest_Way.svg)](https://dev.to/brojenuel/create-chrome-extension-using-vue-the-easiest-way-24ah)
-[![Managing Complexity: The Role of the Engineer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Managing_Complexity__The_Role_of_the_Engineer.svg)](https://dev.to/snowman647/managing-complexity-the-role-of-the-engineer-4lcc)
-[![Programmers, beware! Designers attack!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Programmers__beware!_Designers_attack!.svg)](https://dev.to/emphie/programmers-beware-designers-attack-33oa)
-[![How to migrate AASM to ENUM while keeping users in mind](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_migrate_AASM_to_ENUM_while_keeping_users_in_mind.svg)](https://dev.to/saoma1/how-to-migrate-aasm-to-enum-while-keeping-users-in-mind-2390)
+[![Exploring Website Scroll Effects: Locomotive Scroll vs React Scroll Parallax](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exploring_Website_Scroll_Effects__Locomotive_Scroll_vs_React_Scroll_Parallax.svg)](https://dev.to/munavvar/exploring-website-scroll-effects-locomotive-scroll-vs-react-scroll-parallax-1938)
+[![1476. LeetCode's Subrectangle Queries - 🔥Simple LOGICAL Java Solution - Beats 66%](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/1476._LeetCode's_Subrectangle_Queries_-_🔥Simple_LOGICAL_Java_Solution_-_Beats_66_.svg)](https://dev.to/verisimilitudex/1476-leetcodes-subrectangle-queries-simple-logical-java-solution-beats-66-ohb)
+[![Route 53 Unveiled: A Comprehensive Guide to Amazon’s DNS service.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Route_53_Unveiled__A_Comprehensive_Guide_to_Amazon’s_DNS_service..svg)](https://dev.to/brandondamue/route-53-unveiled-a-comprehensive-guide-to-amazons-dns-service-2lln)
+[![What’s the difference between Terraform Plan and Overmind Blast Radius?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What’s_the_difference_between_Terraform_Plan_and_Overmind_Blast_Radius_.svg)](https://dev.to/jameslaneovermind/whats-the-difference-between-terraform-plan-and-overmind-blast-radius-2f46)
+[![Single-Sign-On By Vouch Proxy And AWS Cognito](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Single-Sign-On_By_Vouch_Proxy_And_AWS_Cognito.svg)](https://dev.to/aws-builders/single-sign-on-by-vouch-proxy-and-aws-cognito-427g)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, May 31, 2023 at 6:16:32 AM
+> Last updated: Wednesday, May 31, 2023 at 12:10:32 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, May 31, 2023 at 6:16:37 AM
+> Last updated: Wednesday, May 31, 2023 at 12:10:39 PM
 
 > Showing 5 of 30 posts.
 
+[![From monolithic app to Micro Frontends](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/From_monolithic_app_to_Micro_Frontends.svg)](https://www.youtube.com/watch?v=zBuBlExo3xA)
 [![Build a Beautiful CRUD App with Spring Boot and Angular](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_a_Beautiful_CRUD_App_with_Spring_Boot_and_Angular.svg)](https://auth0.com/blog/spring-boot-angular-crud/)
-[![ SaaS Business Model: Complete Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_SaaS_Business_Model__Complete_Guide.svg)](https://www.codica.com/blog/saas-business-model/)
-[![GitHub - TransformerOptimus/SuperAGI: Build and run useful autonomous agents](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_TransformerOptimus_SuperAGI__Build_and_run_useful_autonomous_agents.svg)](https://github.com/TransformerOptimus/SuperAGI)
 [![Hiber3D HDK](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Hiber3D_HDK.svg)](
 https://developer.hiber3d.com/docs
 )
 [![API with NestJS #110. Managing JSON data with PostgreSQL and Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__110._Managing_JSON_data_with_PostgreSQL_and_Prisma.svg)](https://wanago.io/2023/05/29/api-nestjs-prisma-json/)
+[![Mastering array sorting in JavaScript: a guide to the sort() function](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Mastering_array_sorting_in_JavaScript__a_guide_to_the_sort()_function.svg)](https://www.ma-no.org/en/programming/javascript/mastering-array-sorting-in-javascript-a-guide-to-the-sort-function)
 
 
 <!-- post-list:end -->
