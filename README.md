@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, May 31, 2023 at 12:11:03 AM
+> Last updated: Wednesday, May 31, 2023 at 6:16:29 AM
 
 > Showing 5 of 12 posts.
 
-[![Getting started with Tailwind](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_started_with_Tailwind.svg)](https://dev.to/arindam_1729/getting-started-with-tailwind-1aa5)
-[![How to Welcome First-Time Contributors to Your Repository Using Github Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Welcome_First-Time_Contributors_to_Your_Repository_Using_Github_Actions.svg)](https://dev.to/programequity/how-to-welcome-first-time-contributors-to-your-repository-using-github-actions-390p)
-[![6 coding best practices to take you to the next level](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/6_coding_best_practices_to_take_you_to_the_next_level.svg)](https://dev.to/wolfflucas/6-coding-best-practices-to-take-you-to-the-next-level-3750)
-[![INSTALL SLACK ON LINUX MINT 21.1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/INSTALL_SLACK_ON_LINUX_MINT_21.1.svg)](https://dev.to/thekalderon/install-slack-on-linux-mint-211-59di)
-[![What is TCP/IP and why is it important? 🤔](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_TCP_IP_and_why_is_it_important__🤔.svg)](https://dev.to/codexam/what-is-tcpip-and-why-is-it-important-cm2)
+[![Reply All Considered Harmful](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Reply_All_Considered_Harmful.svg)](https://dev.to/solidi/reply-all-considered-harmful-45aj)
+[![Create Chrome Extension Using Vue The Easiest Way](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_Chrome_Extension_Using_Vue_The_Easiest_Way.svg)](https://dev.to/brojenuel/create-chrome-extension-using-vue-the-easiest-way-24ah)
+[![Managing Complexity: The Role of the Engineer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Managing_Complexity__The_Role_of_the_Engineer.svg)](https://dev.to/snowman647/managing-complexity-the-role-of-the-engineer-4lcc)
+[![Programmers, beware! Designers attack!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Programmers__beware!_Designers_attack!.svg)](https://dev.to/emphie/programmers-beware-designers-attack-33oa)
+[![How to migrate AASM to ENUM while keeping users in mind](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_migrate_AASM_to_ENUM_while_keeping_users_in_mind.svg)](https://dev.to/saoma1/how-to-migrate-aasm-to-enum-while-keeping-users-in-mind-2390)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, May 31, 2023 at 12:11:07 AM
+> Last updated: Wednesday, May 31, 2023 at 6:16:32 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, May 31, 2023 at 12:11:13 AM
+> Last updated: Wednesday, May 31, 2023 at 6:16:37 AM
 
 > Showing 5 of 30 posts.
 
