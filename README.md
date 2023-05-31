@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, May 30, 2023 at 12:10:11 PM
+> Last updated: Tuesday, May 30, 2023 at 6:51:57 PM
 
 > Showing 5 of 12 posts.
 
-[![Part 2: Understanding Vuex: A State Management Library.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Part_2__Understanding_Vuex__A_State_Management_Library..svg)](https://dev.to/miracool/part-2-understanding-vuex-a-state-management-library-5fop)
-[![6 Websites You’ll Love As A Developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/6_Websites_You’ll_Love_As_A_Developer.svg)](https://dev.to/med_code/12-websites-youll-love-as-a-developer-m0n)
-[![Generative AI with Azure OpenAI (DALL-E Overview)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Generative_AI_with_Azure_OpenAI_(DALL-E_Overview).svg)](https://dev.to/esdanielgomez/generative-ai-with-azure-openai-dall-e-overview-2pji)
-[![Joins in DBMS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Joins_in_DBMS.svg)](https://dev.to/aryan_shourie/joins-in-dbms-4cf1)
-[![Top 7 Featured DEV Posts from the Past Week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_7_Featured_DEV_Posts_from_the_Past_Week.svg)](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1cb6)
+[![What is TCP/IP and why is it important? 🤔](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_TCP_IP_and_why_is_it_important__🤔.svg)](https://dev.to/codexam/what-is-tcpip-and-why-is-it-important-cm2)
+[![How MIME and SMTP work together to send emails over the internet 📧](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_MIME_and_SMTP_work_together_to_send_emails_over_the_internet_📧.svg)](https://dev.to/codexam/how-mime-and-smtp-work-together-to-send-emails-over-the-internet-3jgh)
+[![Hyrum's law in modern frontend](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Hyrum's_law_in_modern_frontend.svg)](https://dev.to/mihneasim/hyrums-law-in-modern-frontend-1ma5)
+[![Demystifying PGP Keys: Understanding the Inner Workings of Public-Key Cryptography](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Demystifying_PGP_Keys__Understanding_the_Inner_Workings_of_Public-Key_Cryptography.svg)](https://dev.to/jsquared/demystifying-pgp-keys-understanding-the-inner-workings-of-public-key-cryptography-57aj)
+[![React CheatSheet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_CheatSheet.svg)](https://dev.to/zinox9/react-cheatsheet-3eao)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, May 30, 2023 at 12:10:14 PM
+> Last updated: Tuesday, May 30, 2023 at 6:52:00 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,16 +43,12 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, May 30, 2023 at 12:10:18 PM
+> Last updated: Tuesday, May 30, 2023 at 6:52:06 PM
 
 > Showing 5 of 30 posts.
 
+[![Build a Beautiful CRUD App with Spring Boot and Angular](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_a_Beautiful_CRUD_App_with_Spring_Boot_and_Angular.svg)](https://auth0.com/blog/spring-boot-angular-crud/)
 [![ SaaS Business Model: Complete Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_SaaS_Business_Model__Complete_Guide.svg)](https://www.codica.com/blog/saas-business-model/)
-[![
-supplier management solutions
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_supplier_management_solutions_.svg)](
-http://www.echojs.com/news/41783
-)
 [![GitHub - TransformerOptimus/SuperAGI: Build and run useful autonomous agents](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_TransformerOptimus_SuperAGI__Build_and_run_useful_autonomous_agents.svg)](https://github.com/TransformerOptimus/SuperAGI)
 [![Hiber3D HDK](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Hiber3D_HDK.svg)](
 https://developer.hiber3d.com/docs
