@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, May 31, 2023 at 7:01:42 PM
+> Last updated: Thursday, June 1, 2023 at 12:11:24 AM
 
 > Showing 5 of 12 posts.
 
-[![How many coding projects do I need on my resume?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_many_coding_projects_do_I_need_on_my_resume_.svg)](https://dev.to/coachmatt_io/how-many-coding-projects-do-i-need-on-my-resume-4bol)
-[![Introduction to Cloud Computing and Deployment Strategies](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_to_Cloud_Computing_and_Deployment_Strategies.svg)](https://dev.to/ishanbagchi/introduction-to-cloud-computing-and-deployment-strategies-d12)
-[![Build a Basketball SMS Chatbot with LangChain Prompt Templates in Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_a_Basketball_SMS_Chatbot_with_LangChain_Prompt_Templates_in_Python.svg)](https://dev.to/twilio/build-a-basketball-sms-chatbot-with-langchain-prompt-templates-in-python-5dld)
-[![Purity in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Purity_in_React.svg)](https://dev.to/dougyoshii/purity-in-react-3dk8)
-[![Exploring ES6 JavaScript Array Methods](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exploring_ES6_JavaScript_Array_Methods.svg)](https://dev.to/bobbyhalljr/exploring-es6-javascript-array-methods-1886)
+[![Intro to Recursion: A Beginner's Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Intro_to_Recursion__A_Beginner's_Guide.svg)](https://dev.to/sunday/intro-to-recursion-a-beginners-guide-403k)
+[![New coder here!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/New_coder_here!.svg)](https://dev.to/andrewdstave/new-coder-here-51pp)
+[![10 Essential Tools Every Developer Should Know About](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_Essential_Tools_Every_Developer_Should_Know_About.svg)](https://dev.to/rubanginosingh/10-essential-tools-every-developer-should-know-about-1f4f)
+[![Measure performance using 'performance.now()' in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Measure_performance_using_'performance.now()'_in_JavaScript.svg)](https://dev.to/maafaishal/measure-performance-using-performancenow-in-javascript-88f)
+[![Do You Need the Latest Computer / Software to Learn Programming?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Do_You_Need_the_Latest_Computer___Software_to_Learn_Programming_.svg)](https://dev.to/montyharper/do-you-need-the-latest-computer-software-to-learn-programming-1cdf)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, May 31, 2023 at 7:01:45 PM
+> Last updated: Thursday, June 1, 2023 at 12:11:26 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, May 31, 2023 at 7:01:51 PM
+> Last updated: Thursday, June 1, 2023 at 12:11:31 AM
 
 > Showing 5 of 30 posts.
 
