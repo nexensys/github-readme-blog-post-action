@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, June 1, 2023 at 12:11:24 AM
+> Last updated: Thursday, June 1, 2023 at 6:16:10 AM
 
 > Showing 5 of 12 posts.
 
-[![Intro to Recursion: A Beginner's Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Intro_to_Recursion__A_Beginner's_Guide.svg)](https://dev.to/sunday/intro-to-recursion-a-beginners-guide-403k)
-[![New coder here!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/New_coder_here!.svg)](https://dev.to/andrewdstave/new-coder-here-51pp)
-[![10 Essential Tools Every Developer Should Know About](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_Essential_Tools_Every_Developer_Should_Know_About.svg)](https://dev.to/rubanginosingh/10-essential-tools-every-developer-should-know-about-1f4f)
-[![Measure performance using 'performance.now()' in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Measure_performance_using_'performance.now()'_in_JavaScript.svg)](https://dev.to/maafaishal/measure-performance-using-performancenow-in-javascript-88f)
-[![Do You Need the Latest Computer / Software to Learn Programming?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Do_You_Need_the_Latest_Computer___Software_to_Learn_Programming_.svg)](https://dev.to/montyharper/do-you-need-the-latest-computer-software-to-learn-programming-1cdf)
+[![Deploying a React App on DigitalOcean App Platform Using GitHub Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deploying_a_React_App_on_DigitalOcean_App_Platform_Using_GitHub_Actions.svg)](https://dev.to/_itsglover/deploying-a-react-app-on-digitalocean-app-platform-using-github-actions-38jj)
+[![Machine Learning 🤖 Concepts Every Developer Should Know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Machine_Learning_🤖_Concepts_Every_Developer_Should_Know.svg)](https://dev.to/elliot_brenya/machine-learning-concepts-every-developer-should-know-3ck9)
+[![How to make a GPA Calculator as a beginner in HTML & JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_make_a_GPA_Calculator_as_a_beginner_in_HTML___JavaScript.svg)](https://dev.to/analyze0/how-to-make-a-gpa-calculator-as-a-beginner-in-html-javascript-1o9c)
+[![Databases simplified](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Databases_simplified.svg)](https://dev.to/kelechikizito/databases-simplified-297j)
+[![Terraform - Understanding the Lifecycle Block](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Terraform_-_Understanding_the_Lifecycle_Block.svg)](https://dev.to/pwd9000/terraform-understanding-the-lifecycle-block-4f6e)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, June 1, 2023 at 12:11:26 AM
+> Last updated: Thursday, June 1, 2023 at 6:16:13 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, June 1, 2023 at 12:11:31 AM
+> Last updated: Thursday, June 1, 2023 at 6:16:17 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - mateogianolio/vectorious: Linear algebra in TypeScript.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_mateogianolio_vectorious__Linear_algebra_in_TypeScript..svg)](https://github.com/mateogianolio/vectorious)
 [![How do you stop JavaScript execution for a while: sleep()](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_do_you_stop_JavaScript_execution_for_a_while__sleep().svg)](https://www.ma-no.org/en/programming/javascript/how-do-you-stop-javascript-execution-for-a-while-sleep)
 [![From monolithic app to Micro Frontends](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/From_monolithic_app_to_Micro_Frontends.svg)](https://www.youtube.com/watch?v=zBuBlExo3xA)
 [![Build a Beautiful CRUD App with Spring Boot and Angular](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_a_Beautiful_CRUD_App_with_Spring_Boot_and_Angular.svg)](https://auth0.com/blog/spring-boot-angular-crud/)
 [![Hiber3D HDK](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Hiber3D_HDK.svg)](
 https://developer.hiber3d.com/docs
 )
-[![API with NestJS #110. Managing JSON data with PostgreSQL and Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__110._Managing_JSON_data_with_PostgreSQL_and_Prisma.svg)](https://wanago.io/2023/05/29/api-nestjs-prisma-json/)
 
 
 <!-- post-list:end -->
