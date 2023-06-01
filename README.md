@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, June 1, 2023 at 6:16:10 AM
+> Last updated: Thursday, June 1, 2023 at 12:11:29 PM
 
 > Showing 5 of 12 posts.
 
-[![Deploying a React App on DigitalOcean App Platform Using GitHub Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deploying_a_React_App_on_DigitalOcean_App_Platform_Using_GitHub_Actions.svg)](https://dev.to/_itsglover/deploying-a-react-app-on-digitalocean-app-platform-using-github-actions-38jj)
-[![Machine Learning 🤖 Concepts Every Developer Should Know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Machine_Learning_🤖_Concepts_Every_Developer_Should_Know.svg)](https://dev.to/elliot_brenya/machine-learning-concepts-every-developer-should-know-3ck9)
-[![How to make a GPA Calculator as a beginner in HTML & JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_make_a_GPA_Calculator_as_a_beginner_in_HTML___JavaScript.svg)](https://dev.to/analyze0/how-to-make-a-gpa-calculator-as-a-beginner-in-html-javascript-1o9c)
-[![Databases simplified](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Databases_simplified.svg)](https://dev.to/kelechikizito/databases-simplified-297j)
-[![Terraform - Understanding the Lifecycle Block](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Terraform_-_Understanding_the_Lifecycle_Block.svg)](https://dev.to/pwd9000/terraform-understanding-the-lifecycle-block-4f6e)
+[![Move your mouse pointer with hand gestures](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Move_your_mouse_pointer_with_hand_gestures.svg)](https://dev.to/orthymarjan/move-your-mouse-pointer-with-hand-gestures-1gp1)
+[![Understanding Relational Database Management Systems (RDBMS)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_Relational_Database_Management_Systems_(RDBMS).svg)](https://dev.to/moaz178/understanding-relational-database-management-systems-rdbms-5fna)
+[![Coding Game: Quick Code Reading](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Coding_Game__Quick_Code_Reading.svg)](https://dev.to/snowman647/coding-game-quick-code-reading-47id)
+[![Boosting Performance: Exploring the Capabilities of Amazon CloudFront and AWS Global Accelerator](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Boosting_Performance__Exploring_the_Capabilities_of_Amazon_CloudFront_and_AWS_Global_Accelerator.svg)](https://dev.to/brandondamue/boosting-performance-exploring-the-capabilities-of-amazon-cloudfront-and-aws-global-accelerator-41fe)
+[![Apresentando GitHubBrasil.com](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Apresentando_GitHubBrasil.com.svg)](https://dev.to/github/apresentando-githubbrasilcom-d32)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, June 1, 2023 at 6:16:13 AM
+> Last updated: Thursday, June 1, 2023 at 12:11:33 PM
 
 > Showing 4 of 4 posts.
 
+[![Bundle-time macros with Bun](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Bundle-time_macros_with_Bun.svg)](https://javascriptweekly.com/issues/641)
 [![Microsoft shrunk the TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Microsoft_shrunk_the_TypeScript.svg)](https://javascriptweekly.com/issues/640)
 [![jQuery lives on; major changes teased](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/jQuery_lives_on;_major_changes_teased.svg)](https://javascriptweekly.com/issues/639)
 [![Why Svelte is converting TypeScript to JSDoc](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Why_Svelte_is_converting_TypeScript_to_JSDoc.svg)](https://javascriptweekly.com/issues/638)
-[!['It's a miracle anything about this ecosystem works at all.'](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/'It's_a_miracle_anything_about_this_ecosystem_works_at_all.'.svg)](https://javascriptweekly.com/issues/637)
 
 
 ## Echo JS
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, June 1, 2023 at 6:16:17 AM
+> Last updated: Thursday, June 1, 2023 at 12:11:38 PM
 
 > Showing 5 of 30 posts.
 
