@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, May 31, 2023 at 12:10:28 PM
+> Last updated: Wednesday, May 31, 2023 at 7:01:42 PM
 
 > Showing 5 of 12 posts.
 
-[![Exploring Website Scroll Effects: Locomotive Scroll vs React Scroll Parallax](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exploring_Website_Scroll_Effects__Locomotive_Scroll_vs_React_Scroll_Parallax.svg)](https://dev.to/munavvar/exploring-website-scroll-effects-locomotive-scroll-vs-react-scroll-parallax-1938)
-[![1476. LeetCode's Subrectangle Queries - 🔥Simple LOGICAL Java Solution - Beats 66%](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/1476._LeetCode's_Subrectangle_Queries_-_🔥Simple_LOGICAL_Java_Solution_-_Beats_66_.svg)](https://dev.to/verisimilitudex/1476-leetcodes-subrectangle-queries-simple-logical-java-solution-beats-66-ohb)
-[![Route 53 Unveiled: A Comprehensive Guide to Amazon’s DNS service.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Route_53_Unveiled__A_Comprehensive_Guide_to_Amazon’s_DNS_service..svg)](https://dev.to/brandondamue/route-53-unveiled-a-comprehensive-guide-to-amazons-dns-service-2lln)
-[![What’s the difference between Terraform Plan and Overmind Blast Radius?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What’s_the_difference_between_Terraform_Plan_and_Overmind_Blast_Radius_.svg)](https://dev.to/jameslaneovermind/whats-the-difference-between-terraform-plan-and-overmind-blast-radius-2f46)
-[![Single-Sign-On By Vouch Proxy And AWS Cognito](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Single-Sign-On_By_Vouch_Proxy_And_AWS_Cognito.svg)](https://dev.to/aws-builders/single-sign-on-by-vouch-proxy-and-aws-cognito-427g)
+[![How many coding projects do I need on my resume?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_many_coding_projects_do_I_need_on_my_resume_.svg)](https://dev.to/coachmatt_io/how-many-coding-projects-do-i-need-on-my-resume-4bol)
+[![Introduction to Cloud Computing and Deployment Strategies](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_to_Cloud_Computing_and_Deployment_Strategies.svg)](https://dev.to/ishanbagchi/introduction-to-cloud-computing-and-deployment-strategies-d12)
+[![Build a Basketball SMS Chatbot with LangChain Prompt Templates in Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_a_Basketball_SMS_Chatbot_with_LangChain_Prompt_Templates_in_Python.svg)](https://dev.to/twilio/build-a-basketball-sms-chatbot-with-langchain-prompt-templates-in-python-5dld)
+[![Purity in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Purity_in_React.svg)](https://dev.to/dougyoshii/purity-in-react-3dk8)
+[![Exploring ES6 JavaScript Array Methods](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exploring_ES6_JavaScript_Array_Methods.svg)](https://dev.to/bobbyhalljr/exploring-es6-javascript-array-methods-1886)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, May 31, 2023 at 12:10:32 PM
+> Last updated: Wednesday, May 31, 2023 at 7:01:45 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, May 31, 2023 at 12:10:39 PM
+> Last updated: Wednesday, May 31, 2023 at 7:01:51 PM
 
 > Showing 5 of 30 posts.
 
+[![How do you stop JavaScript execution for a while: sleep()](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_do_you_stop_JavaScript_execution_for_a_while__sleep().svg)](https://www.ma-no.org/en/programming/javascript/how-do-you-stop-javascript-execution-for-a-while-sleep)
 [![From monolithic app to Micro Frontends](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/From_monolithic_app_to_Micro_Frontends.svg)](https://www.youtube.com/watch?v=zBuBlExo3xA)
 [![Build a Beautiful CRUD App with Spring Boot and Angular](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_a_Beautiful_CRUD_App_with_Spring_Boot_and_Angular.svg)](https://auth0.com/blog/spring-boot-angular-crud/)
 [![Hiber3D HDK](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Hiber3D_HDK.svg)](
 https://developer.hiber3d.com/docs
 )
 [![API with NestJS #110. Managing JSON data with PostgreSQL and Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__110._Managing_JSON_data_with_PostgreSQL_and_Prisma.svg)](https://wanago.io/2023/05/29/api-nestjs-prisma-json/)
-[![Mastering array sorting in JavaScript: a guide to the sort() function](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Mastering_array_sorting_in_JavaScript__a_guide_to_the_sort()_function.svg)](https://www.ma-no.org/en/programming/javascript/mastering-array-sorting-in-javascript-a-guide-to-the-sort-function)
 
 
 <!-- post-list:end -->
