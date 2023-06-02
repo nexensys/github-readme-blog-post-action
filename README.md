@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, June 1, 2023 at 12:11:29 PM
+> Last updated: Thursday, June 1, 2023 at 6:52:23 PM
 
 > Showing 5 of 12 posts.
 
-[![Move your mouse pointer with hand gestures](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Move_your_mouse_pointer_with_hand_gestures.svg)](https://dev.to/orthymarjan/move-your-mouse-pointer-with-hand-gestures-1gp1)
-[![Understanding Relational Database Management Systems (RDBMS)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_Relational_Database_Management_Systems_(RDBMS).svg)](https://dev.to/moaz178/understanding-relational-database-management-systems-rdbms-5fna)
-[![Coding Game: Quick Code Reading](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Coding_Game__Quick_Code_Reading.svg)](https://dev.to/snowman647/coding-game-quick-code-reading-47id)
-[![Boosting Performance: Exploring the Capabilities of Amazon CloudFront and AWS Global Accelerator](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Boosting_Performance__Exploring_the_Capabilities_of_Amazon_CloudFront_and_AWS_Global_Accelerator.svg)](https://dev.to/brandondamue/boosting-performance-exploring-the-capabilities-of-amazon-cloudfront-and-aws-global-accelerator-41fe)
-[![Apresentando GitHubBrasil.com](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Apresentando_GitHubBrasil.com.svg)](https://dev.to/github/apresentando-githubbrasilcom-d32)
+[![Abra-QR-dabra: Watch Passwordless Mobile Auth Magically Appear](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Abra-QR-dabra__Watch_Passwordless_Mobile_Auth_Magically_Appear.svg)](https://dev.to/propelauth/abra-qr-dabra-watch-passwordless-mobile-auth-magically-appear-e9e)
+[![May Stripe Developer Digest](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/May_Stripe_Developer_Digest.svg)](https://dev.to/stripe/may-stripe-developer-digest-21o3)
+[![Beginning my Journey into Open Source with Outreachy](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Beginning_my_Journey_into_Open_Source_with_Outreachy.svg)](https://dev.to/hellennamulinda/beginning-my-journey-into-open-source-with-outreachy-3nln)
+[![Join the 1Password Hackathon hosted by Hashnode and compete for <!-- post-list:start -->0,000 in prizes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Join_the_1Password_Hackathon_hosted_by_Hashnode_and_compete_for_<!-- post-list:start -->0_000_in_prizes.svg)](https://dev.to/1password/join-the-1password-hackathon-hosted-by-hashnode-and-compete-for-10000-in-prizes-4lpo)
+[!["Overcoming Recruiter Silence: Insights from Industry Connections and Building a Supportive Network for Job Seekers"](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_Overcoming_Recruiter_Silence__Insights_from_Industry_Connections_and_Building_a_Supportive_Network_for_Job_Seekers_.svg)](https://dev.to/yufa/overcoming-recruiter-silence-insights-from-industry-connections-and-building-a-supportive-network-for-job-seekers-28mg)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, June 1, 2023 at 12:11:33 PM
+> Last updated: Thursday, June 1, 2023 at 6:52:26 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, June 1, 2023 at 12:11:38 PM
+> Last updated: Thursday, June 1, 2023 at 6:52:28 PM
 
 > Showing 5 of 30 posts.
 
