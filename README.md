@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, June 2, 2023 at 6:49:59 PM
+> Last updated: Saturday, June 3, 2023 at 6:14:24 AM
 
 > Showing 5 of 12 posts.
 
-[![10 tools and resources you need to level up your programming career ( All free ) :](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_tools_and_resources_you_need_to_level_up_your_programming_career_(_All_free_)__.svg)](https://dev.to/durgesh4993/10-tools-and-resources-you-need-to-level-up-your-programming-career-all-free--3pmo)
-[![Building a Thread-Based Web Server without using any third-party libraries or frameworks with Ruby](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_Thread-Based_Web_Server_without_using_any_third-party_libraries_or_frameworks_with_Ruby.svg)](https://dev.to/ariasdiniz/building-a-thread-based-web-server-without-using-any-third-party-libraries-or-frameworks-with-ruby-2plp)
-[![3 Reasons Why Security is Key When Writing AWS Lambda Functions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/3_Reasons_Why_Security_is_Key_When_Writing_AWS_Lambda_Functions.svg)](https://dev.to/ciscoemerge/3-reasons-why-security-is-key-when-writing-aws-lambda-functions-5kk)
-[![Unleashing the Power of GPT Prompt Engineering: A Deep Dive into the Awesome GPT Prompt Engineering Project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unleashing_the_Power_of_GPT_Prompt_Engineering__A_Deep_Dive_into_the_Awesome_GPT_Prompt_Engineering_Project.svg)](https://dev.to/snwfdhmp/unleashing-the-power-of-gpt-prompt-engineering-a-deep-dive-into-the-awesome-gpt-prompt-engineering-project-1gme)
-[![Mastering API Fetch: How to Build a Movie Website with Real-Time Data Updates](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_API_Fetch__How_to_Build_a_Movie_Website_with_Real-Time_Data_Updates.svg)](https://dev.to/tracy4code/mastering-api-fetch-how-to-build-a-movie-website-with-real-time-data-updates-30ob)
+[![🚀 Unleashing the Power of AWS Quicksight: Harnessing BI Tools for Data-driven Insights! 🌐](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🚀_Unleashing_the_Power_of_AWS_Quicksight__Harnessing_BI_Tools_for_Data-driven_Insights!_🌐.svg)](https://dev.to/rafaellevissa/unleashing-the-power-of-aws-quicksight-harnessing-bi-tools-for-data-driven-insights-2ea)
+[![Earn Money by Sharing Our Articles](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Earn_Money_by_Sharing_Our_Articles.svg)](https://dev.to/polterguy/earn-money-by-sharing-our-articles-14k5)
+[![How to solve waiting for another flutter command to release the startup lock](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_solve_waiting_for_another_flutter_command_to_release_the_startup_lock.svg)](https://dev.to/realnamehidden1_61/how-to-solve-waiting-for-another-flutter-command-to-release-the-startup-lock-1e1e)
+[![TypeScript - 5.1 is here! -What's new ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/TypeScript_-_5.1_is_here!_-What's_new__.svg)](https://dev.to/kristiyan_velkov/typescript-51-is-here-whats-new--3k1g)
+[![Setup FastAPI Debugger in PyCharm With Docker](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Setup_FastAPI_Debugger_in_PyCharm_With_Docker.svg)](https://dev.to/whchi/setup-fastapi-debugger-in-pycharm-with-docker-4m10)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, June 2, 2023 at 6:50:03 PM
+> Last updated: Saturday, June 3, 2023 at 6:14:27 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, June 2, 2023 at 6:50:23 PM
+> Last updated: Saturday, June 3, 2023 at 6:14:30 AM
 
 > Showing 5 of 30 posts.
 
