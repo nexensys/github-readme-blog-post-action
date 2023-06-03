@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, June 2, 2023 at 12:09:53 PM
+> Last updated: Friday, June 2, 2023 at 6:49:59 PM
 
 > Showing 5 of 12 posts.
 
-[![Building an Extension System on the Web](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_an_Extension_System_on_the_Web.svg)](https://dev.to/areknawo/building-an-extension-system-on-the-web-5a51)
-[![AskGpt: Ask Questions with Context to ChatGPT in your Ruby project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AskGpt__Ask_Questions_with_Context_to_ChatGPT_in_your_Ruby_project.svg)](https://dev.to/red46/askgpt-ask-questions-with-context-to-chatgpt-in-your-ruby-project-4h8l)
-[![Crossposting Hashnode to DEV](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Crossposting_Hashnode_to_DEV.svg)](https://dev.to/jd2r/crossposting-hashnode-to-dev-nd6)
-[![Spotify API for creating 'Listening now' card](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Spotify_API_for_creating_'Listening_now'_card.svg)](https://dev.to/basskibo/spotify-api-for-creating-listening-now-card-12e1)
-[![Authentication system using Golang and Sveltekit - Initialization and setup](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Authentication_system_using_Golang_and_Sveltekit_-_Initialization_and_setup.svg)](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-initialization-and-setup-4oc9)
+[![10 tools and resources you need to level up your programming career ( All free ) :](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_tools_and_resources_you_need_to_level_up_your_programming_career_(_All_free_)__.svg)](https://dev.to/durgesh4993/10-tools-and-resources-you-need-to-level-up-your-programming-career-all-free--3pmo)
+[![Building a Thread-Based Web Server without using any third-party libraries or frameworks with Ruby](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_Thread-Based_Web_Server_without_using_any_third-party_libraries_or_frameworks_with_Ruby.svg)](https://dev.to/ariasdiniz/building-a-thread-based-web-server-without-using-any-third-party-libraries-or-frameworks-with-ruby-2plp)
+[![3 Reasons Why Security is Key When Writing AWS Lambda Functions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/3_Reasons_Why_Security_is_Key_When_Writing_AWS_Lambda_Functions.svg)](https://dev.to/ciscoemerge/3-reasons-why-security-is-key-when-writing-aws-lambda-functions-5kk)
+[![Unleashing the Power of GPT Prompt Engineering: A Deep Dive into the Awesome GPT Prompt Engineering Project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unleashing_the_Power_of_GPT_Prompt_Engineering__A_Deep_Dive_into_the_Awesome_GPT_Prompt_Engineering_Project.svg)](https://dev.to/snwfdhmp/unleashing-the-power-of-gpt-prompt-engineering-a-deep-dive-into-the-awesome-gpt-prompt-engineering-project-1gme)
+[![Mastering API Fetch: How to Build a Movie Website with Real-Time Data Updates](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_API_Fetch__How_to_Build_a_Movie_Website_with_Real-Time_Data_Updates.svg)](https://dev.to/tracy4code/mastering-api-fetch-how-to-build-a-movie-website-with-real-time-data-updates-30ob)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, June 2, 2023 at 12:09:56 PM
+> Last updated: Friday, June 2, 2023 at 6:50:03 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, June 2, 2023 at 12:09:59 PM
+> Last updated: Friday, June 2, 2023 at 6:50:23 PM
 
 > Showing 5 of 30 posts.
 
