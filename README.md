@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, June 3, 2023 at 12:09:21 PM
+> Last updated: Saturday, June 3, 2023 at 6:58:55 PM
 
 > Showing 5 of 12 posts.
 
-[![Newsletters on Portfolio](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Newsletters_on_Portfolio.svg)](https://dev.to/vulcanwm/newsletters-on-portfolio-2db8)
-[![tsParticles 2.10.0 Released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/tsParticles_2.10.0_Released.svg)](https://dev.to/tsparticles/tsparticles-2100-released-4e96)
-[![How to Set Up a Home Recording Studio?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Set_Up_a_Home_Recording_Studio_.svg)](https://dev.to/kraftobench/how-to-set-up-a-home-recording-studio-1be6)
-[![Introducing 'firebaseauth' Spring Boot Library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_'firebaseauth'_Spring_Boot_Library.svg)](https://dev.to/devtony101/introducing-firebaseauth-spring-boot-library-1ini)
-[![SVG to CSS Data URL converter with maybe the smallest possible output.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/SVG_to_CSS_Data_URL_converter_with_maybe_the_smallest_possible_output..svg)](https://dev.to/shadowfaxrodeo/svg-to-css-data-url-converter-with-maybe-the-smallest-possible-output-25h)
+[![Authentication system using Golang and Sveltekit - User registration](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Authentication_system_using_Golang_and_Sveltekit_-_User_registration.svg)](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-user-registration-5981)
+[![CSS Grid: A Comprehensive Guide to Flexible and Responsive Layouts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CSS_Grid__A_Comprehensive_Guide_to_Flexible_and_Responsive_Layouts.svg)](https://dev.to/uzafar90/a-comprehensive-guide-to-using-css-grid-for-creating-flexible-and-responsive-layouts-m4b)
+[![How to Create an Evil Twin Access Point; Step-by-Step Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Create_an_Evil_Twin_Access_Point;_Step-by-Step_Guide.svg)](https://dev.to/thescott12/how-to-create-an-evil-twin-access-point-step-by-step-guide-2chn)
+[![How to Speed up the WPA/WPA2 Password Cracking Process using Cowpatty](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Speed_up_the_WPA_WPA2_Password_Cracking_Process_using_Cowpatty.svg)](https://dev.to/thescott12/how-to-speed-up-the-wpawpa2-password-cracking-process-using-cowpatty-52b3)
+[![Atomic Design: A Methodology for Building Design Systems](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Atomic_Design__A_Methodology_for_Building_Design_Systems.svg)](https://dev.to/moh2dar/atomic-design-a-methodology-for-building-design-systems-12b7)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, June 3, 2023 at 12:09:24 PM
+> Last updated: Saturday, June 3, 2023 at 6:58:59 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, June 3, 2023 at 12:09:29 PM
+> Last updated: Saturday, June 3, 2023 at 6:59:03 PM
 
 > Showing 5 of 30 posts.
 
