@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, June 4, 2023 at 6:14:30 AM
+> Last updated: Sunday, June 4, 2023 at 12:09:41 PM
 
 > Showing 5 of 12 posts.
 
-[![Subscribing new records with Reduct C++ SDK](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Subscribing_new_records_with_Reduct_C++_SDK.svg)](https://dev.to/reductstore/subscribing-new-record-with-reduct-c-sdk-48en)
-[![Get Mentored from Ninja Developer for Career Success/Emotional Support](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Get_Mentored_from_Ninja_Developer_for_Career_Success_Emotional_Support.svg)](https://dev.to/chetanan/get-mentored-from-ninja-developer-2cmj)
-[![NO need to search for AI anymore.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/NO_need_to_search_for_AI_anymore..svg)](https://dev.to/aiformewiki/no-need-to-search-for-ai-anymore-27fo)
-[![React Native is Multi Threaded](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Native_is_Multi_Threaded.svg)](https://dev.to/ponikar/react-native-is-multi-threaded-44aj)
-[![A SIMPLE PYTHON USER INTERACTION GAME](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_SIMPLE_PYTHON_USER_INTERACTION_GAME.svg)](https://dev.to/jayywestty/a-simple-python-user-interaction-game-2mb1)
+[![World Wide Web Wars](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/World_Wide_Web_Wars.svg)](https://dev.to/andychiare/world-wide-web-wars-1h9p)
+[![Java 01 - Jasypt: Protecting sensitive data with encryption.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Java_01_-_Jasypt__Protecting_sensitive_data_with_encryption..svg)](https://dev.to/davijonck/java-01-jasypt-protecting-sensitive-data-with-encryption-4bo5)
+[![Speeding Up Page Load and Reducing the Amount of Time it Takes Using Responsive Images](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Speeding_Up_Page_Load_and_Reducing_the_Amount_of_Time_it_Takes_Using_Responsive_Images.svg)](https://dev.to/fpaghar/speeding-up-page-load-and-reducing-the-amount-of-time-it-takes-using-responsive-images-3ec9)
+[![Exploring AWS DeepRacer: I Spent the Money So You Didn't Have To - Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exploring_AWS_DeepRacer__I_Spent_the_Money_So_You_Didn't_Have_To_-_Part_1.svg)](https://dev.to/aws-builders/exploring-aws-deepracer-i-spent-the-money-so-you-didnt-have-to-part-1-g69)
+[![Beyond OpenAI: Harnessing Open Source Models to Create Your Personalized AI Companion](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Beyond_OpenAI__Harnessing_Open_Source_Models_to_Create_Your_Personalized_AI_Companion.svg)](https://dev.to/akshayballal/beyond-openai-harnessing-open-source-models-to-create-your-personalized-ai-companion-1npb)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, June 4, 2023 at 6:14:33 AM
+> Last updated: Sunday, June 4, 2023 at 12:09:45 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, June 4, 2023 at 6:14:38 AM
+> Last updated: Sunday, June 4, 2023 at 12:09:49 PM
 
 > Showing 5 of 30 posts.
 
