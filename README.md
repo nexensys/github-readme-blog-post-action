@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, June 3, 2023 at 6:58:55 PM
+> Last updated: Sunday, June 4, 2023 at 6:14:30 AM
 
 > Showing 5 of 12 posts.
 
-[![Authentication system using Golang and Sveltekit - User registration](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Authentication_system_using_Golang_and_Sveltekit_-_User_registration.svg)](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-user-registration-5981)
-[![CSS Grid: A Comprehensive Guide to Flexible and Responsive Layouts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CSS_Grid__A_Comprehensive_Guide_to_Flexible_and_Responsive_Layouts.svg)](https://dev.to/uzafar90/a-comprehensive-guide-to-using-css-grid-for-creating-flexible-and-responsive-layouts-m4b)
-[![How to Create an Evil Twin Access Point; Step-by-Step Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Create_an_Evil_Twin_Access_Point;_Step-by-Step_Guide.svg)](https://dev.to/thescott12/how-to-create-an-evil-twin-access-point-step-by-step-guide-2chn)
-[![How to Speed up the WPA/WPA2 Password Cracking Process using Cowpatty](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Speed_up_the_WPA_WPA2_Password_Cracking_Process_using_Cowpatty.svg)](https://dev.to/thescott12/how-to-speed-up-the-wpawpa2-password-cracking-process-using-cowpatty-52b3)
-[![Atomic Design: A Methodology for Building Design Systems](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Atomic_Design__A_Methodology_for_Building_Design_Systems.svg)](https://dev.to/moh2dar/atomic-design-a-methodology-for-building-design-systems-12b7)
+[![Subscribing new records with Reduct C++ SDK](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Subscribing_new_records_with_Reduct_C++_SDK.svg)](https://dev.to/reductstore/subscribing-new-record-with-reduct-c-sdk-48en)
+[![Get Mentored from Ninja Developer for Career Success/Emotional Support](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Get_Mentored_from_Ninja_Developer_for_Career_Success_Emotional_Support.svg)](https://dev.to/chetanan/get-mentored-from-ninja-developer-2cmj)
+[![NO need to search for AI anymore.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/NO_need_to_search_for_AI_anymore..svg)](https://dev.to/aiformewiki/no-need-to-search-for-ai-anymore-27fo)
+[![React Native is Multi Threaded](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Native_is_Multi_Threaded.svg)](https://dev.to/ponikar/react-native-is-multi-threaded-44aj)
+[![A SIMPLE PYTHON USER INTERACTION GAME](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_SIMPLE_PYTHON_USER_INTERACTION_GAME.svg)](https://dev.to/jayywestty/a-simple-python-user-interaction-game-2mb1)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, June 3, 2023 at 6:58:59 PM
+> Last updated: Sunday, June 4, 2023 at 6:14:33 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, June 3, 2023 at 6:59:03 PM
+> Last updated: Sunday, June 4, 2023 at 6:14:38 AM
 
 > Showing 5 of 30 posts.
 
+[![The Payment Request API: Revolutionizing Online Payments (Part 1)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Payment_Request_API__Revolutionizing_Online_Payments_(Part_1).svg)](https://www.ma-no.org/en/programming/javascript/the-payment-request-api-revolutionizing-online-payments-part-1)
 [![Building an Extension System on the Web](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_an_Extension_System_on_the_Web.svg)](https://vrite.io/blog/building-an-extension-system-on-the-web/)
 [![GitHub - mateogianolio/vectorious: Linear algebra in TypeScript.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_mateogianolio_vectorious__Linear_algebra_in_TypeScript..svg)](https://github.com/mateogianolio/vectorious)
 [![How do you stop JavaScript execution for a while: sleep()](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_do_you_stop_JavaScript_execution_for_a_while__sleep().svg)](https://www.ma-no.org/en/programming/javascript/how-do-you-stop-javascript-execution-for-a-while-sleep)
 [![From monolithic app to Micro Frontends](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/From_monolithic_app_to_Micro_Frontends.svg)](https://www.youtube.com/watch?v=zBuBlExo3xA)
-[![Build a Beautiful CRUD App with Spring Boot and Angular](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Build_a_Beautiful_CRUD_App_with_Spring_Boot_and_Angular.svg)](https://auth0.com/blog/spring-boot-angular-crud/)
 
 
 <!-- post-list:end -->
