@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, June 5, 2023 at 6:16:48 AM
+> Last updated: Monday, June 5, 2023 at 12:10:03 PM
 
 > Showing 5 of 12 posts.
 
-[![Howto turn a x86 binary executable back into C source code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Howto_turn_a_x86_binary_executable_back_into_C_source_code.svg)](https://dev.to/torbenfeldthusen/howto-turn-a-x86-binary-executable-back-into-c-source-code-45nd)
-[![Astro Coding Session: "Series" feature on my blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Astro_Coding_Session___Series__feature_on_my_blog.svg)](https://dev.to/this-is-learning/astro-coding-session-series-feature-on-my-blog-4e0p)
-[![Top GitHub repositories to learn modern React development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_GitHub_repositories_to_learn_modern_React_development.svg)](https://dev.to/livecycle/top-github-repositories-to-learn-modern-react-development-5d3h)
-[![Fear and the Future: AI's Threat to job security - An interview with AI professor Alejandro Piad Morffis](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Fear_and_the_Future__AI's_Threat_to_job_security_-_An_interview_with_AI_professor_Alejandro_Piad_Morffis.svg)](https://dev.to/edemgold/fear-and-the-future-ais-threat-to-job-security-an-interview-with-ai-professor-alejandro-piad-morffis-meb)
-[![Site Reliability Engineering (SRE) and DevOps: A Comparative Study for Beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Site_Reliability_Engineering_(SRE)_and_DevOps__A_Comparative_Study_for_Beginners.svg)](https://dev.to/jeptoo/site-reliability-engineering-sre-and-devops-a-comparative-study-for-beginners-35pd)
+[![Deploy an ERC-721 Contract on Linea using Infura and Truffle Introduction](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deploy_an_ERC-721_Contract_on_Linea_using_Infura_and_Truffle_Introduction.svg)](https://dev.to/mbogan/deploy-an-erc-721-contract-on-linea-using-infura-and-truffle-introduction-c0j)
+[![Interactive E-Com UI: Animated Free Shipping Bar](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Interactive_E-Com_UI__Animated_Free_Shipping_Bar.svg)](https://dev.to/codesphere/interactive-e-com-ui-animated-free-shipping-bar-156o)
+[![100 DAYS- DAY 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/100_DAYS-_DAY_2.svg)](https://dev.to/pahujanayan/100-days-day-2-11g)
+[![Lookup disk properties on linux](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Lookup_disk_properties_on_linux.svg)](https://dev.to/yugabyte/lookup-disk-properties-on-linux-12p0)
+[![Dicas para criar projetos front-end melhores e mais rápido - Parte 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dicas_para_criar_projetos_front-end_melhores_e_mais_rápido_-_Parte_1.svg)](https://dev.to/marcelluscaio/dicas-para-criar-projetos-front-end-melhores-e-mais-rapido-parte-1-5213)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, June 5, 2023 at 6:16:50 AM
+> Last updated: Monday, June 5, 2023 at 12:10:07 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, June 5, 2023 at 6:16:54 AM
+> Last updated: Monday, June 5, 2023 at 12:10:10 PM
 
 > Showing 5 of 30 posts.
 
+[![👋 Say Goodbye to Spread Operator: Use Default Composer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/👋_Say_Goodbye_to_Spread_Operator__Use_Default_Composer.svg)](https://dev.to/aralroca/say-goodbye-to-spread-operator-use-default-composer-3c2j)
 [![Enabling awesome search experiences with Tigris Standalone Search | Tigris](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Enabling_awesome_search_experiences_with_Tigris_Standalone_Search___Tigris.svg)](https://www.tigrisdata.com/blog/tigris-standalone-search/)
 [![The Payment Request API: Revolutionizing Online Payments (Part 1)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Payment_Request_API__Revolutionizing_Online_Payments_(Part_1).svg)](https://www.ma-no.org/en/programming/javascript/the-payment-request-api-revolutionizing-online-payments-part-1)
 [![Building an Extension System on the Web](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_an_Extension_System_on_the_Web.svg)](https://vrite.io/blog/building-an-extension-system-on-the-web/)
 [![GitHub - mateogianolio/vectorious: Linear algebra in TypeScript.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_mateogianolio_vectorious__Linear_algebra_in_TypeScript..svg)](https://github.com/mateogianolio/vectorious)
-[![How do you stop JavaScript execution for a while: sleep()](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_do_you_stop_JavaScript_execution_for_a_while__sleep().svg)](https://www.ma-no.org/en/programming/javascript/how-do-you-stop-javascript-execution-for-a-while-sleep)
 
 
 <!-- post-list:end -->
