@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, June 6, 2023 at 6:15:41 AM
+> Last updated: Tuesday, June 6, 2023 at 12:10:05 PM
 
 > Showing 5 of 12 posts.
 
-[![Building an efficient email marketing application with ChatGPT, ToolJet, and PostgreSQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_an_efficient_email_marketing_application_with_ChatGPT__ToolJet__and_PostgreSQL.svg)](https://dev.to/tooljet/building-an-efficient-email-marketing-application-with-chatgpt-tooljet-and-postgresql-25g8)
-[![A Complete Guide to Listing Docker Containers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Complete_Guide_to_Listing_Docker_Containers.svg)](https://dev.to/refine/a-complete-guide-to-listing-docker-containers-e9a)
-[![How Can You Make Money by Doing Event Blogging?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_Can_You_Make_Money_by_Doing_Event_Blogging_.svg)](https://dev.to/rinkalsingh7989/how-can-you-make-money-by-doing-event-blogging-5ad6)
-[![Power up your serverless application with AWS Lambda extensions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Power_up_your_serverless_application_with_AWS_Lambda_extensions.svg)](https://dev.to/kumo/power-up-your-serverless-application-with-aws-lambda-extensions-3a31)
-[![MLOps 101: A Beginner's Guide to Understanding Machine Learning Model Operations](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/MLOps_101__A_Beginner's_Guide_to_Understanding_Machine_Learning_Model_Operations.svg)](https://dev.to/phylis/mlops-101-a-beginners-guide-to-understanding-machine-learning-model-operations-2dko)
+[![How To Secure Your AWS API Gateway Using Cognito Authorizer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Secure_Your_AWS_API_Gateway_Using_Cognito_Authorizer.svg)](https://dev.to/kelvinskell/how-to-secure-your-aws-api-gateway-using-cognito-authorizer-4kep)
+[![20 Awesome FlutterFlow templates for bootstrap mobile app development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/20_Awesome_FlutterFlow_templates_for_bootstrap_mobile_app_development.svg)](https://dev.to/pablonax/20-awesome-flutterflow-templates-for-bootstrap-mobile-app-development-1ige)
+[![Mastering Promises in JavaScript: A Comprehensive Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_Promises_in_JavaScript__A_Comprehensive_Guide.svg)](https://dev.to/bobbyhalljr/mastering-promises-in-javascript-a-comprehensive-guide-614)
+[![The Power of Promises with Next.js: Building a Pizza Delivery App 🍕](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Power_of_Promises_with_Next.js__Building_a_Pizza_Delivery_App_🍕.svg)](https://dev.to/bobbyhalljr/the-power-of-promises-with-nextjs-building-a-pizza-delivery-app-427d)
+[![A Summary of WWDC 2023's New Developer APIs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Summary_of_WWDC_2023's_New_Developer_APIs.svg)](https://dev.to/svprdga/a-summary-of-wwdc-2023s-new-developer-apis-1fj7)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, June 6, 2023 at 6:15:44 AM
+> Last updated: Tuesday, June 6, 2023 at 12:10:10 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, June 6, 2023 at 6:15:48 AM
+> Last updated: Tuesday, June 6, 2023 at 12:10:17 PM
 
 > Showing 5 of 30 posts.
 
