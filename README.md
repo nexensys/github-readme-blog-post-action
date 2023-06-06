@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, June 6, 2023 at 12:10:47 AM
+> Last updated: Tuesday, June 6, 2023 at 6:15:41 AM
 
 > Showing 5 of 12 posts.
 
-[![Create a Read More Button using HTML And CSS Only](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_a_Read_More_Button_using_HTML_And_CSS_Only.svg)](https://dev.to/cwrcode/create-a-read-more-button-using-html-and-css-only-5d64)
-[![BRC20 Token - Trending and Booming Token Creation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/BRC20_Token_-_Trending_and_Booming_Token_Creation.svg)](https://dev.to/jessietomaz/brc20-token-trending-and-booming-token-creation-33a7)
-[![Pure CSS flask animation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Pure_CSS_flask_animation.svg)](https://dev.to/melnik909/pure-css-flask-animation-4nga)
-[![Flutter vs. React Native: Which is the best choice for your next mobile project?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Flutter_vs._React_Native__Which_is_the_best_choice_for_your_next_mobile_project_.svg)](https://dev.to/yatendra2001/flutter-vs-react-native-which-is-the-best-choice-for-your-next-mobile-project-45c3)
-[![13 Powerful Python Snippets To Automate Tasks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/13_Powerful_Python_Snippets_To_Automate_Tasks.svg)](https://dev.to/scofieldidehen/13-powerful-python-snippets-to-automate-tasks-10c1)
+[![Building an efficient email marketing application with ChatGPT, ToolJet, and PostgreSQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_an_efficient_email_marketing_application_with_ChatGPT__ToolJet__and_PostgreSQL.svg)](https://dev.to/tooljet/building-an-efficient-email-marketing-application-with-chatgpt-tooljet-and-postgresql-25g8)
+[![A Complete Guide to Listing Docker Containers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Complete_Guide_to_Listing_Docker_Containers.svg)](https://dev.to/refine/a-complete-guide-to-listing-docker-containers-e9a)
+[![How Can You Make Money by Doing Event Blogging?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_Can_You_Make_Money_by_Doing_Event_Blogging_.svg)](https://dev.to/rinkalsingh7989/how-can-you-make-money-by-doing-event-blogging-5ad6)
+[![Power up your serverless application with AWS Lambda extensions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Power_up_your_serverless_application_with_AWS_Lambda_extensions.svg)](https://dev.to/kumo/power-up-your-serverless-application-with-aws-lambda-extensions-3a31)
+[![MLOps 101: A Beginner's Guide to Understanding Machine Learning Model Operations](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/MLOps_101__A_Beginner's_Guide_to_Understanding_Machine_Learning_Model_Operations.svg)](https://dev.to/phylis/mlops-101-a-beginners-guide-to-understanding-machine-learning-model-operations-2dko)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, June 6, 2023 at 12:10:51 AM
+> Last updated: Tuesday, June 6, 2023 at 6:15:44 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, June 6, 2023 at 12:10:57 AM
+> Last updated: Tuesday, June 6, 2023 at 6:15:48 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - scssyworks/rollup-scripts: A utility to simplify rollup configuration](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_scssyworks_rollup-scripts__A_utility_to_simplify_rollup_configuration.svg)](https://github.com/scssyworks/rollup-scripts)
 [![API with NestJS #111. Constraints with PostgreSQL and Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__111._Constraints_with_PostgreSQL_and_Prisma.svg)](https://wanago.io/2023/06/05/api-nestjs-prisma-postgresql-constraints/)
 [![👋 Say Goodbye to Spread Operator: Use Default Composer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/👋_Say_Goodbye_to_Spread_Operator__Use_Default_Composer.svg)](https://dev.to/aralroca/say-goodbye-to-spread-operator-use-default-composer-3c2j)
 [![Enabling awesome search experiences with Tigris Standalone Search | Tigris](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Enabling_awesome_search_experiences_with_Tigris_Standalone_Search___Tigris.svg)](https://www.tigrisdata.com/blog/tigris-standalone-search/)
 [![The Payment Request API: Revolutionizing Online Payments (Part 1)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Payment_Request_API__Revolutionizing_Online_Payments_(Part_1).svg)](https://www.ma-no.org/en/programming/javascript/the-payment-request-api-revolutionizing-online-payments-part-1)
-[![Building an Extension System on the Web](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_an_Extension_System_on_the_Web.svg)](https://vrite.io/blog/building-an-extension-system-on-the-web/)
 
 
 <!-- post-list:end -->
