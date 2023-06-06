@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, June 5, 2023 at 6:53:25 PM
+> Last updated: Tuesday, June 6, 2023 at 12:10:47 AM
 
 > Showing 5 of 12 posts.
 
-[![Caption This! 🤔💭](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Caption_This!_🤔💭.svg)](https://dev.to/devteam/caption-this-2jcf)
-[![Authentication system using Golang and Sveltekit - Regenerate token & Password change](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Authentication_system_using_Golang_and_Sveltekit_-_Regenerate_token___Password_change.svg)](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-regenerate-token-password-change-5g4p)
-[![Apple's Vision Pro: Stepping Into the Future of Spatial Computing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Apple's_Vision_Pro__Stepping_Into_the_Future_of_Spatial_Computing.svg)](https://dev.to/yatendra2001/apples-vision-pro-stepping-into-the-future-of-spatial-computing-2575)
-[![Sentiment Analysis with Finetuned Models](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Sentiment_Analysis_with_Finetuned_Models.svg)](https://dev.to/scofieldidehen/sentiment-analysis-with-finetuned-models-27b)
-[![Let Keyword in javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Let_Keyword_in_javascript.svg)](https://dev.to/gaurbprajapati/let-keyword-in-javascript-mdm)
+[![Create a Read More Button using HTML And CSS Only](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_a_Read_More_Button_using_HTML_And_CSS_Only.svg)](https://dev.to/cwrcode/create-a-read-more-button-using-html-and-css-only-5d64)
+[![BRC20 Token - Trending and Booming Token Creation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/BRC20_Token_-_Trending_and_Booming_Token_Creation.svg)](https://dev.to/jessietomaz/brc20-token-trending-and-booming-token-creation-33a7)
+[![Pure CSS flask animation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Pure_CSS_flask_animation.svg)](https://dev.to/melnik909/pure-css-flask-animation-4nga)
+[![Flutter vs. React Native: Which is the best choice for your next mobile project?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Flutter_vs._React_Native__Which_is_the_best_choice_for_your_next_mobile_project_.svg)](https://dev.to/yatendra2001/flutter-vs-react-native-which-is-the-best-choice-for-your-next-mobile-project-45c3)
+[![13 Powerful Python Snippets To Automate Tasks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/13_Powerful_Python_Snippets_To_Automate_Tasks.svg)](https://dev.to/scofieldidehen/13-powerful-python-snippets-to-automate-tasks-10c1)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, June 5, 2023 at 6:53:29 PM
+> Last updated: Tuesday, June 6, 2023 at 12:10:51 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, June 5, 2023 at 6:53:34 PM
+> Last updated: Tuesday, June 6, 2023 at 12:10:57 AM
 
 > Showing 5 of 30 posts.
 
