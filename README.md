@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, June 7, 2023 at 12:10:51 AM
+> Last updated: Wednesday, June 7, 2023 at 6:16:35 AM
 
 > Showing 5 of 12 posts.
 
-[![🎉 Surpassing 1000 Followers on Dev Community! 🎉😊🌺](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🎉_Surpassing_1000_Followers_on_Dev_Community!_🎉😊🌺.svg)](https://dev.to/phylis/surpassing-1000-followers-on-dev-community-5dfg)
-[![How to install Shopify CLI 3.0 for themes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_install_Shopify_CLI_3.0_for_themes.svg)](https://dev.to/jazurite/how-to-install-shopify-cli-30-for-themes-295f)
-[![The holy grail of note-taking: Private data, efficient methodology and P2P encrypted sync across all your devices](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_holy_grail_of_note-taking__Private_data__efficient_methodology_and_P2P_encrypted_sync_across_all_your_devices.svg)](https://dev.to/maxime1992/the-holy-grail-of-note-taking-private-data-efficient-methodology-and-p2p-encrypted-sync-across-all-your-devices-1ih3)
-[![Running Cypress tests in Docker containers using different Docker images](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Running_Cypress_tests_in_Docker_containers_using_different_Docker_images.svg)](https://dev.to/sanzhanov/running-cypress-tests-in-docker-containers-using-different-docker-images-4lp0)
-[![I built the same app 6 times! Which JS Framework is best?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_built_the_same_app_6_times!_Which_JS_Framework_is_best_.svg)](https://dev.to/johnrushx/i-built-the-same-app-6-times-which-js-framework-is-best-2iff)
+[![10 Django Packages to Every Developer Must Install](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_Django_Packages_to_Every_Developer_Must_Install.svg)](https://dev.to/scofieldidehen/10-django-packages-to-every-developer-must-install-1opj)
+[![How to Use Sinatra to Build a Ruby Application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Use_Sinatra_to_Build_a_Ruby_Application.svg)](https://dev.to/appsignal/how-to-use-sinatra-to-build-a-ruby-application-3me)
+[![Difference between package.json and package-lock.json](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Difference_between_package.json_and_package-lock.json.svg)](https://dev.to/mitchiemt11/difference-between-packagejson-and-package-lockjson-22ip)
+[![Genesis of Tokenization in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Genesis_of_Tokenization_in_JavaScript.svg)](https://dev.to/elliot_brenya/genesis-of-tokenization-in-javascript-3p0j)
+[![Part : (3) Conditionals and Loops in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Part___(3)_Conditionals_and_Loops_in_JavaScript.svg)](https://dev.to/cliff123tech/part-3-conditionals-and-loops-in-javascript-12j4)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, June 7, 2023 at 12:10:54 AM
+> Last updated: Wednesday, June 7, 2023 at 6:16:39 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, June 7, 2023 at 12:10:58 AM
+> Last updated: Wednesday, June 7, 2023 at 6:16:46 AM
 
 > Showing 5 of 30 posts.
 
