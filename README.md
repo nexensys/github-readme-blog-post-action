@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, June 6, 2023 at 6:54:13 PM
+> Last updated: Wednesday, June 7, 2023 at 12:10:51 AM
 
 > Showing 5 of 12 posts.
 
+[![🎉 Surpassing 1000 Followers on Dev Community! 🎉😊🌺](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🎉_Surpassing_1000_Followers_on_Dev_Community!_🎉😊🌺.svg)](https://dev.to/phylis/surpassing-1000-followers-on-dev-community-5dfg)
+[![How to install Shopify CLI 3.0 for themes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_install_Shopify_CLI_3.0_for_themes.svg)](https://dev.to/jazurite/how-to-install-shopify-cli-30-for-themes-295f)
+[![The holy grail of note-taking: Private data, efficient methodology and P2P encrypted sync across all your devices](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_holy_grail_of_note-taking__Private_data__efficient_methodology_and_P2P_encrypted_sync_across_all_your_devices.svg)](https://dev.to/maxime1992/the-holy-grail-of-note-taking-private-data-efficient-methodology-and-p2p-encrypted-sync-across-all-your-devices-1ih3)
+[![Running Cypress tests in Docker containers using different Docker images](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Running_Cypress_tests_in_Docker_containers_using_different_Docker_images.svg)](https://dev.to/sanzhanov/running-cypress-tests-in-docker-containers-using-different-docker-images-4lp0)
 [![I built the same app 6 times! Which JS Framework is best?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_built_the_same_app_6_times!_Which_JS_Framework_is_best_.svg)](https://dev.to/johnrushx/i-built-the-same-app-6-times-which-js-framework-is-best-2iff)
-[![DevOps vs DevSecOps: The Debate](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/DevOps_vs_DevSecOps__The_Debate.svg)](https://dev.to/clickit_devops/devops-vs-devsecops-the-debate-2d0n)
-[![Secure Authentication in Next.js with Email Magic Links](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Secure_Authentication_in_Next.js_with_Email_Magic_Links.svg)](https://dev.to/clerk/secure-authentication-in-nextjs-with-email-magic-links-29cc)
-[![Node.js Error Handling.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Node.js_Error_Handling..svg)](https://dev.to/gaurbprajapati/nodejs-error-handling-137f)
-[![The Ultimate Guide to Writing Technical Blog Posts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Ultimate_Guide_to_Writing_Technical_Blog_Posts.svg)](https://dev.to/blackgirlbytes/the-ultimate-guide-to-writing-technical-blog-posts-5464)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, June 6, 2023 at 6:54:17 PM
+> Last updated: Wednesday, June 7, 2023 at 12:10:54 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, June 6, 2023 at 6:54:22 PM
+> Last updated: Wednesday, June 7, 2023 at 12:10:58 AM
 
 > Showing 5 of 30 posts.
 
