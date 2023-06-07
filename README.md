@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, June 7, 2023 at 6:16:35 AM
+> Last updated: Wednesday, June 7, 2023 at 12:10:46 PM
 
 > Showing 5 of 12 posts.
 
-[![10 Django Packages to Every Developer Must Install](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_Django_Packages_to_Every_Developer_Must_Install.svg)](https://dev.to/scofieldidehen/10-django-packages-to-every-developer-must-install-1opj)
-[![How to Use Sinatra to Build a Ruby Application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Use_Sinatra_to_Build_a_Ruby_Application.svg)](https://dev.to/appsignal/how-to-use-sinatra-to-build-a-ruby-application-3me)
-[![Difference between package.json and package-lock.json](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Difference_between_package.json_and_package-lock.json.svg)](https://dev.to/mitchiemt11/difference-between-packagejson-and-package-lockjson-22ip)
-[![Genesis of Tokenization in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Genesis_of_Tokenization_in_JavaScript.svg)](https://dev.to/elliot_brenya/genesis-of-tokenization-in-javascript-3p0j)
-[![Part : (3) Conditionals and Loops in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Part___(3)_Conditionals_and_Loops_in_JavaScript.svg)](https://dev.to/cliff123tech/part-3-conditionals-and-loops-in-javascript-12j4)
+[![Using Performance API to Measure Front-End Interaction Times](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_Performance_API_to_Measure_Front-End_Interaction_Times.svg)](https://dev.to/ondrejsevcik/using-performance-api-to-measure-front-end-interaction-times-4f0a)
+[![10 Most-Important Resume Writing Tools 🎯](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_Most-Important_Resume_Writing_Tools_🎯.svg)](https://dev.to/iarchitsharma/please-dont-create-your-resume-in-ms-word-instead-use-these-tools-184e)
+[![Where To Find And Hire Web3 Software Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Where_To_Find_And_Hire_Web3_Software_Developers.svg)](https://dev.to/kudoser/where-to-find-and-hire-web3-software-developers-4lg)
+[![Community Spotlight: Out in Tech](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Community_Spotlight__Out_in_Tech.svg)](https://dev.to/devteam/community-spotlight-out-in-tech-3c78)
+[![Improve Your Prompts for LLMs: Simple and Effective Techniques](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Improve_Your_Prompts_for_LLMs__Simple_and_Effective_Techniques.svg)](https://dev.to/ganderzz/improve-your-prompts-for-llms-simple-and-effective-techniques-20j9)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, June 7, 2023 at 6:16:39 AM
+> Last updated: Wednesday, June 7, 2023 at 12:10:50 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, June 7, 2023 at 6:16:46 AM
+> Last updated: Wednesday, June 7, 2023 at 12:10:56 PM
 
 > Showing 5 of 30 posts.
 
