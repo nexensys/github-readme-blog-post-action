@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, June 7, 2023 at 6:54:09 PM
+> Last updated: Thursday, June 8, 2023 at 12:11:03 AM
 
 > Showing 5 of 12 posts.
 
-[![Tokenization in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tokenization_in_JavaScript.svg)](https://dev.to/scofieldidehen/tokenization-in-javascript-4d63)
-[![React useCallback](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_useCallback.svg)](https://dev.to/alakkadshaw/react-usecallback-2pm0)
-[![All 7 ways to deal with CSS most never tried](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/All_7_ways_to_deal_with_CSS_most_never_tried.svg)](https://dev.to/johnrushx/all-7-ways-to-deal-with-css-most-never-tried-27go)
-[![Setting up continuous integration with CircleCI and GitLab](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Setting_up_continuous_integration_with_CircleCI_and_GitLab.svg)](https://dev.to/circleci/setting-up-continuous-integration-with-circleci-and-gitlab-1mdp)
-[![Tutorial How To Exit Vim](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tutorial_How_To_Exit_Vim.svg)](https://dev.to/amorino/tutorial-how-to-exit-vim-51el)
+[![Number Systems. Network Layer. IPv4 subnetting. ICMP](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Number_Systems._Network_Layer._IPv4_subnetting._ICMP.svg)](https://dev.to/mutasim77/number-systems-network-layer-ipv4-subnetting-icmp-400d)
+[![Chinese miniapp architecture](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Chinese_miniapp_architecture.svg)](https://dev.to/132/chinese-miniapp-architecture-3mg)
+[![How to Create Contact Form using HTML and CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Create_Contact_Form_using_HTML_and_CSS.svg)](https://dev.to/cwrcode/how-to-create-contact-form-using-html-and-css-3jn2)
+[![Web Development Unleashed: A Hilarious Odyssey into the Future!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Web_Development_Unleashed__A_Hilarious_Odyssey_into_the_Future!.svg)](https://dev.to/bhavin9920/web-development-unleashed-a-hilarious-odyssey-into-the-future-1b93)
+[![Bridging the Gap: Leveraging Secret Store CSI Drivers to Access Secrets from Google Secret Manager in GKE Cluster](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Bridging_the_Gap__Leveraging_Secret_Store_CSI_Drivers_to_Access_Secrets_from_Google_Secret_Manager_in_GKE_Cluster.svg)](https://dev.to/sunnybhambhani/bridging-the-gap-leveraging-secret-store-csi-drivers-to-access-secrets-from-google-secret-manager-in-gke-cluster-po7)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, June 7, 2023 at 6:54:13 PM
+> Last updated: Thursday, June 8, 2023 at 12:11:06 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, June 7, 2023 at 6:54:23 PM
+> Last updated: Thursday, June 8, 2023 at 12:11:12 AM
 
 > Showing 5 of 30 posts.
 
