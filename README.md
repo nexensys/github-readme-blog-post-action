@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, June 8, 2023 at 6:15:24 AM
+> Last updated: Thursday, June 8, 2023 at 12:09:56 PM
 
 > Showing 5 of 12 posts.
 
-[![4 JavaScript Email Frameworks : Nodemailer, SendGrid, SMTP.js, and Mailgun](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/4_JavaScript_Email_Frameworks___Nodemailer__SendGrid__SMTP.js__and_Mailgun.svg)](https://dev.to/scofieldidehen/4-javascript-email-frameworks-nodemailer-sendgrid-smtpjs-and-mailgun-3eal)
-[![Terraforming AWS RDS : A practical guide with Postgres](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Terraforming_AWS_RDS___A_practical_guide_with_Postgres.svg)](https://dev.to/yet_anotherdev/terraforming-aws-rds-a-practical-guide-with-postgres-42ka)
-[![3 Engineering Mistakes That Kill Startups](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/3_Engineering_Mistakes_That_Kill_Startups.svg)](https://dev.to/_michaellin/3-engineering-mistakes-that-kill-startups-3fm3)
-[![C# Async/Await Interview Questions And Answers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/C__Async_Await_Interview_Questions_And_Answers.svg)](https://dev.to/bytehide/c-asyncawait-interview-questions-and-answers-f7l)
-[![10 Free Image Tools Every Frontend Developer Needs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_Free_Image_Tools_Every_Frontend_Developer_Needs.svg)](https://dev.to/joywinter90/10-free-image-tools-every-frontend-developer-needs-1j20)
+[![Finding Harmony in Marketing and UX](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Finding_Harmony_in_Marketing_and_UX.svg)](https://dev.to/contenda/finding-harmony-in-marketing-and-ux-4em7)
+[![Learning Rust 🦀: 03- The basics: Functions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Learning_Rust_🦀__03-_The_basics__Functions.svg)](https://dev.to/fadygrab/learning-rust-03-the-basics-functions-4d92)
+[![BatFetch](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/BatFetch.svg)](https://dev.to/ashishkus/batfetch-23de)
+[![How to create 700+ SEO optimised pages for website in 1 h using Next.JS, OpenAI, Postgres](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_700+_SEO_optimised_pages_for_website_in_1_h_using_Next.JS__OpenAI__Postgres.svg)](https://dev.to/shnai0/how-to-create-700-seo-optimised-pages-for-website-in-1-h-using-nextjs-openai-postgres-2108)
+[![Tripping Over Code: An Amusing Exploration of Beginner JavaScript Blunders](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tripping_Over_Code__An_Amusing_Exploration_of_Beginner_JavaScript_Blunders.svg)](https://dev.to/codetobug/tripping-over-code-an-amusing-exploration-of-beginner-javascript-blunders-3413)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, June 8, 2023 at 6:15:26 AM
+> Last updated: Thursday, June 8, 2023 at 12:10:00 PM
 
 > Showing 4 of 4 posts.
 
+[![Douglas Crockford calls JavaScript 'smelly.'](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Douglas_Crockford_calls_JavaScript_'smelly.'.svg)](https://javascriptweekly.com/issues/642)
 [![Bundle-time macros with Bun](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Bundle-time_macros_with_Bun.svg)](https://javascriptweekly.com/issues/641)
 [![Microsoft shrunk the TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Microsoft_shrunk_the_TypeScript.svg)](https://javascriptweekly.com/issues/640)
 [![jQuery lives on; major changes teased](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/jQuery_lives_on;_major_changes_teased.svg)](https://javascriptweekly.com/issues/639)
-[![Why Svelte is converting TypeScript to JSDoc](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Why_Svelte_is_converting_TypeScript_to_JSDoc.svg)](https://javascriptweekly.com/issues/638)
 
 
 ## Echo JS
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, June 8, 2023 at 6:15:31 AM
+> Last updated: Thursday, June 8, 2023 at 12:10:07 PM
 
 > Showing 5 of 30 posts.
 
+[![MS Graph API + Microsoft Authentication Library | bitExpert](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/MS_Graph_API_+_Microsoft_Authentication_Library___bitExpert.svg)](https://blog.bitexpert.de/blog/msgraph_with_msal_auth)
 [![GitHub - scssyworks/rollup-scripts: A utility to simplify rollup configuration](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_scssyworks_rollup-scripts__A_utility_to_simplify_rollup_configuration.svg)](https://github.com/scssyworks/rollup-scripts)
 [![API with NestJS #111. Constraints with PostgreSQL and Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__111._Constraints_with_PostgreSQL_and_Prisma.svg)](https://wanago.io/2023/06/05/api-nestjs-prisma-postgresql-constraints/)
 [![Enabling awesome search experiences with Tigris Standalone Search | Tigris](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Enabling_awesome_search_experiences_with_Tigris_Standalone_Search___Tigris.svg)](https://www.tigrisdata.com/blog/tigris-standalone-search/)
 [![The Payment Request API: Revolutionizing Online Payments (Part 1)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Payment_Request_API__Revolutionizing_Online_Payments_(Part_1).svg)](https://www.ma-no.org/en/programming/javascript/the-payment-request-api-revolutionizing-online-payments-part-1)
-[![Building an Extension System on the Web](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_an_Extension_System_on_the_Web.svg)](https://vrite.io/blog/building-an-extension-system-on-the-web/)
 
 
 <!-- post-list:end -->
