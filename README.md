@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, June 7, 2023 at 12:10:46 PM
+> Last updated: Wednesday, June 7, 2023 at 6:54:09 PM
 
 > Showing 5 of 12 posts.
 
-[![Using Performance API to Measure Front-End Interaction Times](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_Performance_API_to_Measure_Front-End_Interaction_Times.svg)](https://dev.to/ondrejsevcik/using-performance-api-to-measure-front-end-interaction-times-4f0a)
-[![10 Most-Important Resume Writing Tools 🎯](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_Most-Important_Resume_Writing_Tools_🎯.svg)](https://dev.to/iarchitsharma/please-dont-create-your-resume-in-ms-word-instead-use-these-tools-184e)
-[![Where To Find And Hire Web3 Software Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Where_To_Find_And_Hire_Web3_Software_Developers.svg)](https://dev.to/kudoser/where-to-find-and-hire-web3-software-developers-4lg)
-[![Community Spotlight: Out in Tech](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Community_Spotlight__Out_in_Tech.svg)](https://dev.to/devteam/community-spotlight-out-in-tech-3c78)
-[![Improve Your Prompts for LLMs: Simple and Effective Techniques](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Improve_Your_Prompts_for_LLMs__Simple_and_Effective_Techniques.svg)](https://dev.to/ganderzz/improve-your-prompts-for-llms-simple-and-effective-techniques-20j9)
+[![Tokenization in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tokenization_in_JavaScript.svg)](https://dev.to/scofieldidehen/tokenization-in-javascript-4d63)
+[![React useCallback](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_useCallback.svg)](https://dev.to/alakkadshaw/react-usecallback-2pm0)
+[![All 7 ways to deal with CSS most never tried](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/All_7_ways_to_deal_with_CSS_most_never_tried.svg)](https://dev.to/johnrushx/all-7-ways-to-deal-with-css-most-never-tried-27go)
+[![Setting up continuous integration with CircleCI and GitLab](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Setting_up_continuous_integration_with_CircleCI_and_GitLab.svg)](https://dev.to/circleci/setting-up-continuous-integration-with-circleci-and-gitlab-1mdp)
+[![Tutorial How To Exit Vim](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tutorial_How_To_Exit_Vim.svg)](https://dev.to/amorino/tutorial-how-to-exit-vim-51el)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, June 7, 2023 at 12:10:50 PM
+> Last updated: Wednesday, June 7, 2023 at 6:54:13 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, June 7, 2023 at 12:10:56 PM
+> Last updated: Wednesday, June 7, 2023 at 6:54:23 PM
 
 > Showing 5 of 30 posts.
 
 [![GitHub - scssyworks/rollup-scripts: A utility to simplify rollup configuration](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_scssyworks_rollup-scripts__A_utility_to_simplify_rollup_configuration.svg)](https://github.com/scssyworks/rollup-scripts)
 [![API with NestJS #111. Constraints with PostgreSQL and Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__111._Constraints_with_PostgreSQL_and_Prisma.svg)](https://wanago.io/2023/06/05/api-nestjs-prisma-postgresql-constraints/)
-[![👋 Say Goodbye to Spread Operator: Use Default Composer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/👋_Say_Goodbye_to_Spread_Operator__Use_Default_Composer.svg)](https://dev.to/aralroca/say-goodbye-to-spread-operator-use-default-composer-3c2j)
 [![Enabling awesome search experiences with Tigris Standalone Search | Tigris](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Enabling_awesome_search_experiences_with_Tigris_Standalone_Search___Tigris.svg)](https://www.tigrisdata.com/blog/tigris-standalone-search/)
 [![The Payment Request API: Revolutionizing Online Payments (Part 1)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Payment_Request_API__Revolutionizing_Online_Payments_(Part_1).svg)](https://www.ma-no.org/en/programming/javascript/the-payment-request-api-revolutionizing-online-payments-part-1)
+[![Building an Extension System on the Web](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_an_Extension_System_on_the_Web.svg)](https://vrite.io/blog/building-an-extension-system-on-the-web/)
 
 
 <!-- post-list:end -->
