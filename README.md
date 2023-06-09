@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, June 8, 2023 at 12:09:56 PM
+> Last updated: Thursday, June 8, 2023 at 6:54:08 PM
 
 > Showing 5 of 12 posts.
 
-[![Finding Harmony in Marketing and UX](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Finding_Harmony_in_Marketing_and_UX.svg)](https://dev.to/contenda/finding-harmony-in-marketing-and-ux-4em7)
-[![Learning Rust 🦀: 03- The basics: Functions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Learning_Rust_🦀__03-_The_basics__Functions.svg)](https://dev.to/fadygrab/learning-rust-03-the-basics-functions-4d92)
-[![BatFetch](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/BatFetch.svg)](https://dev.to/ashishkus/batfetch-23de)
-[![How to create 700+ SEO optimised pages for website in 1 h using Next.JS, OpenAI, Postgres](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_700+_SEO_optimised_pages_for_website_in_1_h_using_Next.JS__OpenAI__Postgres.svg)](https://dev.to/shnai0/how-to-create-700-seo-optimised-pages-for-website-in-1-h-using-nextjs-openai-postgres-2108)
-[![Tripping Over Code: An Amusing Exploration of Beginner JavaScript Blunders](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tripping_Over_Code__An_Amusing_Exploration_of_Beginner_JavaScript_Blunders.svg)](https://dev.to/codetobug/tripping-over-code-an-amusing-exploration-of-beginner-javascript-blunders-3413)
+[![Sharing Interaction Tests Between Vitest and Storybook](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Sharing_Interaction_Tests_Between_Vitest_and_Storybook.svg)](https://dev.to/scottnath/sharing-interaction-tests-between-vitest-and-storybook-2pj2)
+[![Understanding Docker Architecture: A Beginner's Guide to How Docker Works](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_Docker_Architecture__A_Beginner's_Guide_to_How_Docker_Works.svg)](https://dev.to/everythingdevops/understanding-docker-architecture-a-beginners-guide-to-how-docker-works-37a9)
+[![Moonly weekly progress update #52 - New Moonly Collection](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Moonly_weekly_progress_update__52_-_New_Moonly_Collection.svg)](https://dev.to/moonly/moonly-weekly-progress-update-52-new-moonly-collection-3mim)
+[![Leave Redux for a few moment and Try GX 😍😍](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Leave_Redux_for_a_few_moment_and_Try_GX_😍😍.svg)](https://dev.to/dilane3/leave-redux-for-a-few-moment-and-try-gx-oo7)
+[![Testing with Maven - Organizing unit and integration tests](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Testing_with_Maven_-_Organizing_unit_and_integration_tests.svg)](https://dev.to/rodnan-sol/testing-with-maven-organizing-unit-and-integration-tests-35oh)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, June 8, 2023 at 12:10:00 PM
+> Last updated: Thursday, June 8, 2023 at 6:54:12 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, June 8, 2023 at 12:10:07 PM
+> Last updated: Thursday, June 8, 2023 at 6:54:20 PM
 
 > Showing 5 of 30 posts.
 
