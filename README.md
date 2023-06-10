@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, June 9, 2023 at 6:48:12 PM
+> Last updated: Saturday, June 10, 2023 at 12:10:11 AM
 
 > Showing 5 of 12 posts.
 
+[![How to used Component in Laravel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_used_Component_in_Laravel.svg)](https://dev.to/hareom284/how-to-used-component-in-laravel-1pmn)
+[![Getting Started with Building and Publishing a React Component as a Package](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_Started_with_Building_and_Publishing_a_React_Component_as_a_Package.svg)](https://dev.to/scofieldidehen/getting-started-with-building-and-publishing-a-react-component-as-a-package-3fga)
+[![Modern Recipe URL to 🍬 Sugar Level Estimation Web App From Scratch](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Modern_Recipe_URL_to_🍬_Sugar_Level_Estimation_Web_App_From_Scratch.svg)](https://dev.to/ziqinyeow/modern-recipe-url-to-sugar-level-estimation-web-app-from-scratch-4jed)
+[![Create Video Programmatically](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_Video_Programmatically.svg)](https://dev.to/shreyvijayvargiya/create-video-programmatically-3n2d)
 [![Easy React Infinite Scroll👌](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Easy_React_Infinite_Scroll👌.svg)](https://dev.to/apestein/easy-react-infinite-scroll-367h)
-[![Why cross-platform apps looking to scale should use RPC (over plain old IPC and instead of REST)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_cross-platform_apps_looking_to_scale_should_use_RPC_(over_plain_old_IPC_and_instead_of_REST).svg)](https://dev.to/cleancodestudio/ipc-inter-process-communication-vs-rpc-remote-procedure-call-44k0)
-[![Database cluster, Databases and Tables](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Database_cluster__Databases_and_Tables.svg)](https://dev.to/aadilbashir489/database-cluster-databases-and-tables-1l1l)
-[![Every once in a while, I'll find a solution to a problem, and think to myself...](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Every_once_in_a_while__I'll_find_a_solution_to_a_problem__and_think_to_myself....svg)](https://dev.to/ben/every-once-in-a-while-ill-find-a-solution-to-a-problem-and-think-to-myself-4d1h)
-[![How to Fix Connection Errors While Connecting to RDS (Postgres) Database Remotely on AWS Using 3 Effective Methods.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Fix_Connection_Errors_While_Connecting_to_RDS_(Postgres)_Database_Remotely_on_AWS_Using_3_Effective_Methods..svg)](https://dev.to/alicxc/how-to-fix-connection-errors-while-connecting-to-rds-postgres-database-remotely-on-aws-using-3-effective-methods-2epn)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, June 9, 2023 at 6:48:15 PM
+> Last updated: Saturday, June 10, 2023 at 12:10:14 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, June 9, 2023 at 6:48:22 PM
+> Last updated: Saturday, June 10, 2023 at 12:10:18 AM
 
 > Showing 5 of 30 posts.
 
