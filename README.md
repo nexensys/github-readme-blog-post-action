@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, June 10, 2023 at 12:10:11 AM
+> Last updated: Saturday, June 10, 2023 at 6:13:42 AM
 
 > Showing 5 of 12 posts.
 
-[![How to used Component in Laravel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_used_Component_in_Laravel.svg)](https://dev.to/hareom284/how-to-used-component-in-laravel-1pmn)
-[![Getting Started with Building and Publishing a React Component as a Package](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_Started_with_Building_and_Publishing_a_React_Component_as_a_Package.svg)](https://dev.to/scofieldidehen/getting-started-with-building-and-publishing-a-react-component-as-a-package-3fga)
-[![Modern Recipe URL to 🍬 Sugar Level Estimation Web App From Scratch](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Modern_Recipe_URL_to_🍬_Sugar_Level_Estimation_Web_App_From_Scratch.svg)](https://dev.to/ziqinyeow/modern-recipe-url-to-sugar-level-estimation-web-app-from-scratch-4jed)
-[![Create Video Programmatically](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_Video_Programmatically.svg)](https://dev.to/shreyvijayvargiya/create-video-programmatically-3n2d)
-[![Easy React Infinite Scroll👌](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Easy_React_Infinite_Scroll👌.svg)](https://dev.to/apestein/easy-react-infinite-scroll-367h)
+[![Chat GPT vs Google Bard. Which is Best for Developers?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Chat_GPT_vs_Google_Bard._Which_is_Best_for_Developers_.svg)](https://dev.to/dhruvjoshi9/chat-gpt-vs-google-bard-which-is-best-for-developers-389m)
+[![Manipulating Children dynamically in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Manipulating_Children_dynamically_in_React.svg)](https://dev.to/srishtikprasad/manipulating-children-dynamically-in-react-15l4)
+[![Streamline Your Development Environment Setup on ChromeOS and Linux](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Streamline_Your_Development_Environment_Setup_on_ChromeOS_and_Linux.svg)](https://dev.to/tsirysndr/streamline-your-development-environment-setup-on-chromeos-and-linux-1jdl)
+[![Creating Multilingual Chatbots with Power Virtual Agents: 3 Workarounds to Get Started](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_Multilingual_Chatbots_with_Power_Virtual_Agents__3_Workarounds_to_Get_Started.svg)](https://dev.to/thecognitiveservicesninja/creating-multilingual-chatbots-with-power-virtual-agents-3-workarounds-to-get-started-4fap)
+[![Restaurant-Responsive-Website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Restaurant-Responsive-Website.svg)](https://dev.to/gururaj-math/restaurant-responsive-website-1bd)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, June 10, 2023 at 12:10:14 AM
+> Last updated: Saturday, June 10, 2023 at 6:13:45 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, June 10, 2023 at 12:10:18 AM
+> Last updated: Saturday, June 10, 2023 at 6:13:52 AM
 
 > Showing 5 of 30 posts.
 
