@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, June 9, 2023 at 12:10:11 PM
+> Last updated: Friday, June 9, 2023 at 6:48:12 PM
 
 > Showing 5 of 12 posts.
 
-[![ReductStore v1.4.0 in Rust has been released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/ReductStore_v1.4.0_in_Rust_has_been_released.svg)](https://dev.to/reductstore/reductstore-v140-in-rust-has-been-released-3133)
-[![Simple FriendList App In Pyhton Tkinter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Simple_FriendList_App_In_Pyhton_Tkinter.svg)](https://dev.to/geeksvegeta/simple-friendlist-app-in-pyhton-tkinter-6k5)
-[![The DynamoDB-Toolbox v1 beta is here 🙌 All you need to know!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_DynamoDB-Toolbox_v1_beta_is_here_🙌_All_you_need_to_know!.svg)](https://dev.to/kumo/the-dynamodb-toolbox-v1-beta-is-here-all-you-need-to-know-22op)
-[![Yet Another Newsletter LOL: RenderATL, RenderATL, RenderATL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Yet_Another_Newsletter_LOL__RenderATL__RenderATL__RenderATL.svg)](https://dev.to/nickytonline/yet-another-newsletter-lol-renderatl-renderatl-renderatl-2nh3)
-[![How to ensure your web APIs are safe](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_ensure_your_web_APIs_are_safe.svg)](https://dev.to/appmap/how-to-ensure-your-web-apis-are-safe-3lk1)
+[![Easy React Infinite Scroll👌](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Easy_React_Infinite_Scroll👌.svg)](https://dev.to/apestein/easy-react-infinite-scroll-367h)
+[![Why cross-platform apps looking to scale should use RPC (over plain old IPC and instead of REST)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_cross-platform_apps_looking_to_scale_should_use_RPC_(over_plain_old_IPC_and_instead_of_REST).svg)](https://dev.to/cleancodestudio/ipc-inter-process-communication-vs-rpc-remote-procedure-call-44k0)
+[![Database cluster, Databases and Tables](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Database_cluster__Databases_and_Tables.svg)](https://dev.to/aadilbashir489/database-cluster-databases-and-tables-1l1l)
+[![Every once in a while, I'll find a solution to a problem, and think to myself...](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Every_once_in_a_while__I'll_find_a_solution_to_a_problem__and_think_to_myself....svg)](https://dev.to/ben/every-once-in-a-while-ill-find-a-solution-to-a-problem-and-think-to-myself-4d1h)
+[![How to Fix Connection Errors While Connecting to RDS (Postgres) Database Remotely on AWS Using 3 Effective Methods.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Fix_Connection_Errors_While_Connecting_to_RDS_(Postgres)_Database_Remotely_on_AWS_Using_3_Effective_Methods..svg)](https://dev.to/alicxc/how-to-fix-connection-errors-while-connecting-to-rds-postgres-database-remotely-on-aws-using-3-effective-methods-2epn)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, June 9, 2023 at 12:10:16 PM
+> Last updated: Friday, June 9, 2023 at 6:48:15 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, June 9, 2023 at 12:10:22 PM
+> Last updated: Friday, June 9, 2023 at 6:48:22 PM
 
 > Showing 5 of 30 posts.
 
