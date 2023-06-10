@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, June 10, 2023 at 6:13:42 AM
+> Last updated: Saturday, June 10, 2023 at 12:09:22 PM
 
 > Showing 5 of 12 posts.
 
-[![Chat GPT vs Google Bard. Which is Best for Developers?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Chat_GPT_vs_Google_Bard._Which_is_Best_for_Developers_.svg)](https://dev.to/dhruvjoshi9/chat-gpt-vs-google-bard-which-is-best-for-developers-389m)
-[![Manipulating Children dynamically in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Manipulating_Children_dynamically_in_React.svg)](https://dev.to/srishtikprasad/manipulating-children-dynamically-in-react-15l4)
-[![Streamline Your Development Environment Setup on ChromeOS and Linux](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Streamline_Your_Development_Environment_Setup_on_ChromeOS_and_Linux.svg)](https://dev.to/tsirysndr/streamline-your-development-environment-setup-on-chromeos-and-linux-1jdl)
-[![Creating Multilingual Chatbots with Power Virtual Agents: 3 Workarounds to Get Started](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_Multilingual_Chatbots_with_Power_Virtual_Agents__3_Workarounds_to_Get_Started.svg)](https://dev.to/thecognitiveservicesninja/creating-multilingual-chatbots-with-power-virtual-agents-3-workarounds-to-get-started-4fap)
-[![Restaurant-Responsive-Website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Restaurant-Responsive-Website.svg)](https://dev.to/gururaj-math/restaurant-responsive-website-1bd)
+[![Classes in TypeScript: With Challenges](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Classes_in_TypeScript__With_Challenges.svg)](https://dev.to/bobbyhalljr/classes-in-typescript-with-challenges-35jh)
+[![6 Must-Try Coding Problem Websites 💻](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/6_Must-Try_Coding_Problem_Websites_💻.svg)](https://dev.to/jd2r/6-must-try-coding-problem-websites-53c0)
+[![Understanding Functions in TypeScript: With Challenges](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_Functions_in_TypeScript__With_Challenges.svg)](https://dev.to/bobbyhalljr/understanding-functions-in-typescript-with-challenges-64k)
+[![TypeScript Decorators: A complete guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/TypeScript_Decorators__A_complete_guide.svg)](https://dev.to/alakkadshaw/typescript-decorators-a-complete-guide-4jgg)
+[![How did you get interested in software development?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_did_you_get_interested_in_software_development_.svg)](https://dev.to/dinerdas/how-did-you-get-interested-in-software-development-402g)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, June 10, 2023 at 6:13:45 AM
+> Last updated: Saturday, June 10, 2023 at 12:09:27 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, June 10, 2023 at 6:13:52 AM
+> Last updated: Saturday, June 10, 2023 at 12:09:34 PM
 
 > Showing 5 of 30 posts.
 
