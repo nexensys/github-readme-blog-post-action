@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, June 11, 2023 at 12:09:55 AM
+> Last updated: Sunday, June 11, 2023 at 6:14:41 AM
 
 > Showing 5 of 12 posts.
 
-[![SEO Bruce Lee Style](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/SEO_Bruce_Lee_Style.svg)](https://dev.to/polterguy/seo-bruce-lee-style-4beb)
-[![How to Understand What Builds the Website You're Seeing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Understand_What_Builds_the_Website_You're_Seeing.svg)](https://dev.to/yuya0114/how-to-understand-what-builds-the-website-youre-seeing-52pn)
-[![2733. LeetCode's Neither Minimum nor Maximum - JAVA SOLUTION BEATS 100% OF SOLUTIONS IN BOTH RUNTIME AND MEMORY](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/2733._LeetCode's_Neither_Minimum_nor_Maximum_-_JAVA_SOLUTION_BEATS_100__OF_SOLUTIONS_IN_BOTH_RUNTIME_AND_MEMORY.svg)](https://dev.to/verisimilitudex/2733-leetcodes-neither-minimum-nor-maximum-java-solution-beats-100-of-solutions-in-both-runtime-and-memory-23ga)
-[![How to Publish to NPM the Right Way](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Publish_to_NPM_the_Right_Way.svg)](https://dev.to/apestein/how-to-publish-to-npm-the-right-way-2pd7)
-[![Building Web Applications We Can Trust - The Imperative of SRE](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_Web_Applications_We_Can_Trust_-_The_Imperative_of_SRE.svg)](https://dev.to/blove/building-web-applications-we-can-trust-the-imperative-of-sre-3ohk)
+[![Explain Dynamic Programming and Other Techniques with Examples](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Explain_Dynamic_Programming_and_Other_Techniques_with_Examples.svg)](https://dev.to/aradwan20/explain-dynamic-programming-and-other-techniques-with-examples-505p)
+[![I built 3 Apps using Spotify API and Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_built_3_Apps_using_Spotify_API_and_Python.svg)](https://dev.to/yogeshwaran01/i-built-3-apps-using-spotify-api-and-python-49k8)
+[![Generating a GPG key to your GitHub](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Generating_a_GPG_key_to_your_GitHub.svg)](https://dev.to/spiffyeight77/generating-a-gpg-key-to-your-github-43nn)
+[![Introducing React Server Model (RSM) - The Design Philosophy](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_React_Server_Model_(RSM)_-_The_Design_Philosophy.svg)](https://dev.to/jason89521/introducing-react-server-model-rsm-the-design-philosophy-18o3)
+[![How to test your app using Docker Containers and Postman](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_test_your_app_using_Docker_Containers_and_Postman.svg)](https://dev.to/francescoxx/how-to-test-your-app-using-docker-containers-and-postman-3j04)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, June 11, 2023 at 12:09:58 AM
+> Last updated: Sunday, June 11, 2023 at 6:14:44 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, June 11, 2023 at 12:10:05 AM
+> Last updated: Sunday, June 11, 2023 at 6:14:52 AM
 
 > Showing 5 of 30 posts.
 
