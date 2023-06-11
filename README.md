@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, June 10, 2023 at 12:09:22 PM
+> Last updated: Saturday, June 10, 2023 at 6:56:24 PM
 
 > Showing 5 of 12 posts.
 
-[![Classes in TypeScript: With Challenges](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Classes_in_TypeScript__With_Challenges.svg)](https://dev.to/bobbyhalljr/classes-in-typescript-with-challenges-35jh)
-[![6 Must-Try Coding Problem Websites 💻](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/6_Must-Try_Coding_Problem_Websites_💻.svg)](https://dev.to/jd2r/6-must-try-coding-problem-websites-53c0)
-[![Understanding Functions in TypeScript: With Challenges](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_Functions_in_TypeScript__With_Challenges.svg)](https://dev.to/bobbyhalljr/understanding-functions-in-typescript-with-challenges-64k)
-[![TypeScript Decorators: A complete guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/TypeScript_Decorators__A_complete_guide.svg)](https://dev.to/alakkadshaw/typescript-decorators-a-complete-guide-4jgg)
-[![How did you get interested in software development?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_did_you_get_interested_in_software_development_.svg)](https://dev.to/dinerdas/how-did-you-get-interested-in-software-development-402g)
+[![Step by step to Pest PHP testing framework in Laravel 10](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Step_by_step_to_Pest_PHP_testing_framework_in_Laravel_10.svg)](https://dev.to/alphaolomi/step-by-step-to-pest-php-testing-framework-in-laravel-10-6e1)
+[![Top open source security devtools you need to know about](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_open_source_security_devtools_you_need_to_know_about.svg)](https://dev.to/mv-turtle/top-open-source-security-devtools-you-need-to-know-about-2p4a)
+[![All 20 JavaScript concept you'll ever need](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/All_20_JavaScript_concept_you'll_ever_need.svg)](https://dev.to/johnrushx/all-20-javascript-concept-youll-ever-need-2i2o)
+[![Creating and Using Custom Helper Functions in Laravel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_and_Using_Custom_Helper_Functions_in_Laravel.svg)](https://dev.to/alphaolomi/creating-and-using-custom-helper-functions-in-laravel-ndf)
+[![EXTREMELY SIMPLE & LOGICAL JAVA SOLUTION BEATS 85% IN RUNTIME](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/EXTREMELY_SIMPLE___LOGICAL_JAVA_SOLUTION_BEATS_85__IN_RUNTIME.svg)](https://dev.to/verisimilitudex/extremely-simple-logical-java-solution-beats-85-in-runtime-23ba)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, June 10, 2023 at 12:09:27 PM
+> Last updated: Saturday, June 10, 2023 at 6:56:27 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, June 10, 2023 at 12:09:34 PM
+> Last updated: Saturday, June 10, 2023 at 6:56:35 PM
 
 > Showing 5 of 30 posts.
 
