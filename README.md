@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, June 11, 2023 at 6:14:41 AM
+> Last updated: Sunday, June 11, 2023 at 12:09:32 PM
 
 > Showing 5 of 12 posts.
 
-[![Explain Dynamic Programming and Other Techniques with Examples](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Explain_Dynamic_Programming_and_Other_Techniques_with_Examples.svg)](https://dev.to/aradwan20/explain-dynamic-programming-and-other-techniques-with-examples-505p)
-[![I built 3 Apps using Spotify API and Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_built_3_Apps_using_Spotify_API_and_Python.svg)](https://dev.to/yogeshwaran01/i-built-3-apps-using-spotify-api-and-python-49k8)
-[![Generating a GPG key to your GitHub](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Generating_a_GPG_key_to_your_GitHub.svg)](https://dev.to/spiffyeight77/generating-a-gpg-key-to-your-github-43nn)
-[![Introducing React Server Model (RSM) - The Design Philosophy](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_React_Server_Model_(RSM)_-_The_Design_Philosophy.svg)](https://dev.to/jason89521/introducing-react-server-model-rsm-the-design-philosophy-18o3)
-[![How to test your app using Docker Containers and Postman](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_test_your_app_using_Docker_Containers_and_Postman.svg)](https://dev.to/francescoxx/how-to-test-your-app-using-docker-containers-and-postman-3j04)
+[![User Defined Functions in Apache AGE](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/User_Defined_Functions_in_Apache_AGE.svg)](https://dev.to/abdullahzia6464/user-defined-functions-in-apache-age-goo)
+[![Don't tell me how, tell me why!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Don't_tell_me_how__tell_me_why!.svg)](https://dev.to/noriller/dont-tell-me-how-tell-me-why-5a4i)
+[![Forcing a device to disconnect from WiFi using a deauthentication attack](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Forcing_a_device_to_disconnect_from_WiFi_using_a_deauthentication_attack.svg)](https://dev.to/brandonskerritt/forcing-a-device-to-disconnect-from-wifi-using-a-deauthentication-attack-4h11)
+[![Do anything with Arrays](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Do_anything_with_Arrays.svg)](https://dev.to/bmnidhin/all-about-arrays-2l48)
+[![JavaScript Unit Test Debugging with VSCode](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_Unit_Test_Debugging_with_VSCode.svg)](https://dev.to/scofieldidehen/javascript-unit-test-debugging-with-vscode-1g2o)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, June 11, 2023 at 6:14:44 AM
+> Last updated: Sunday, June 11, 2023 at 12:09:36 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, June 11, 2023 at 6:14:52 AM
+> Last updated: Sunday, June 11, 2023 at 12:09:42 PM
 
 > Showing 5 of 30 posts.
 
