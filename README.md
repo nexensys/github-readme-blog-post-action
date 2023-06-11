@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, June 10, 2023 at 6:56:24 PM
+> Last updated: Sunday, June 11, 2023 at 12:09:55 AM
 
 > Showing 5 of 12 posts.
 
-[![Step by step to Pest PHP testing framework in Laravel 10](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Step_by_step_to_Pest_PHP_testing_framework_in_Laravel_10.svg)](https://dev.to/alphaolomi/step-by-step-to-pest-php-testing-framework-in-laravel-10-6e1)
-[![Top open source security devtools you need to know about](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_open_source_security_devtools_you_need_to_know_about.svg)](https://dev.to/mv-turtle/top-open-source-security-devtools-you-need-to-know-about-2p4a)
-[![All 20 JavaScript concept you'll ever need](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/All_20_JavaScript_concept_you'll_ever_need.svg)](https://dev.to/johnrushx/all-20-javascript-concept-youll-ever-need-2i2o)
-[![Creating and Using Custom Helper Functions in Laravel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_and_Using_Custom_Helper_Functions_in_Laravel.svg)](https://dev.to/alphaolomi/creating-and-using-custom-helper-functions-in-laravel-ndf)
-[![EXTREMELY SIMPLE & LOGICAL JAVA SOLUTION BEATS 85% IN RUNTIME](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/EXTREMELY_SIMPLE___LOGICAL_JAVA_SOLUTION_BEATS_85__IN_RUNTIME.svg)](https://dev.to/verisimilitudex/extremely-simple-logical-java-solution-beats-85-in-runtime-23ba)
+[![SEO Bruce Lee Style](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/SEO_Bruce_Lee_Style.svg)](https://dev.to/polterguy/seo-bruce-lee-style-4beb)
+[![How to Understand What Builds the Website You're Seeing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Understand_What_Builds_the_Website_You're_Seeing.svg)](https://dev.to/yuya0114/how-to-understand-what-builds-the-website-youre-seeing-52pn)
+[![2733. LeetCode's Neither Minimum nor Maximum - JAVA SOLUTION BEATS 100% OF SOLUTIONS IN BOTH RUNTIME AND MEMORY](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/2733._LeetCode's_Neither_Minimum_nor_Maximum_-_JAVA_SOLUTION_BEATS_100__OF_SOLUTIONS_IN_BOTH_RUNTIME_AND_MEMORY.svg)](https://dev.to/verisimilitudex/2733-leetcodes-neither-minimum-nor-maximum-java-solution-beats-100-of-solutions-in-both-runtime-and-memory-23ga)
+[![How to Publish to NPM the Right Way](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Publish_to_NPM_the_Right_Way.svg)](https://dev.to/apestein/how-to-publish-to-npm-the-right-way-2pd7)
+[![Building Web Applications We Can Trust - The Imperative of SRE](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_Web_Applications_We_Can_Trust_-_The_Imperative_of_SRE.svg)](https://dev.to/blove/building-web-applications-we-can-trust-the-imperative-of-sre-3ohk)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, June 10, 2023 at 6:56:27 PM
+> Last updated: Sunday, June 11, 2023 at 12:09:58 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, June 10, 2023 at 6:56:35 PM
+> Last updated: Sunday, June 11, 2023 at 12:10:05 AM
 
 > Showing 5 of 30 posts.
 
