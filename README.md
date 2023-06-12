@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, June 11, 2023 at 12:09:32 PM
+> Last updated: Sunday, June 11, 2023 at 6:54:06 PM
 
 > Showing 5 of 12 posts.
 
-[![User Defined Functions in Apache AGE](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/User_Defined_Functions_in_Apache_AGE.svg)](https://dev.to/abdullahzia6464/user-defined-functions-in-apache-age-goo)
-[![Don't tell me how, tell me why!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Don't_tell_me_how__tell_me_why!.svg)](https://dev.to/noriller/dont-tell-me-how-tell-me-why-5a4i)
-[![Forcing a device to disconnect from WiFi using a deauthentication attack](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Forcing_a_device_to_disconnect_from_WiFi_using_a_deauthentication_attack.svg)](https://dev.to/brandonskerritt/forcing-a-device-to-disconnect-from-wifi-using-a-deauthentication-attack-4h11)
-[![Do anything with Arrays](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Do_anything_with_Arrays.svg)](https://dev.to/bmnidhin/all-about-arrays-2l48)
-[![JavaScript Unit Test Debugging with VSCode](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_Unit_Test_Debugging_with_VSCode.svg)](https://dev.to/scofieldidehen/javascript-unit-test-debugging-with-vscode-1g2o)
+[![Comece hoje a estudar web development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Comece_hoje_a_estudar_web_development.svg)](https://dev.to/oderco/comece-hoje-a-estudar-688)
+[![Graph Data Modeling Best Practices: A Comprehensive Guide for Apache AgeDB](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Graph_Data_Modeling_Best_Practices__A_Comprehensive_Guide_for_Apache_AgeDB.svg)](https://dev.to/abdulsamad4068/graph-data-modeling-best-practices-a-comprehensive-guide-for-apache-agedb-7hm)
+[![Learning Next.js Layout Creation: A Step-by-Step Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Learning_Next.js_Layout_Creation__A_Step-by-Step_Guide.svg)](https://dev.to/lordsage/learning-nextjs-layout-creation-a-step-by-step-guide-579m)
+[![4 Rules for Leading Dev Teams in Tough Economic Times](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/4_Rules_for_Leading_Dev_Teams_in_Tough_Economic_Times.svg)](https://dev.to/linearb/4-rules-for-leading-dev-teams-in-tough-economic-times-fd9)
+[![React States & Virtual DOM](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_States___Virtual_DOM.svg)](https://dev.to/cyborglaksh/react-states-virtual-dom-28j1)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, June 11, 2023 at 12:09:36 PM
+> Last updated: Sunday, June 11, 2023 at 6:54:10 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, June 11, 2023 at 12:09:42 PM
+> Last updated: Sunday, June 11, 2023 at 6:54:18 PM
 
 > Showing 5 of 30 posts.
 
