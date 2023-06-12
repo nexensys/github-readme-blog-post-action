@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, June 11, 2023 at 6:54:06 PM
+> Last updated: Monday, June 12, 2023 at 12:11:13 AM
 
 > Showing 5 of 12 posts.
 
-[![Comece hoje a estudar web development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Comece_hoje_a_estudar_web_development.svg)](https://dev.to/oderco/comece-hoje-a-estudar-688)
-[![Graph Data Modeling Best Practices: A Comprehensive Guide for Apache AgeDB](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Graph_Data_Modeling_Best_Practices__A_Comprehensive_Guide_for_Apache_AgeDB.svg)](https://dev.to/abdulsamad4068/graph-data-modeling-best-practices-a-comprehensive-guide-for-apache-agedb-7hm)
-[![Learning Next.js Layout Creation: A Step-by-Step Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Learning_Next.js_Layout_Creation__A_Step-by-Step_Guide.svg)](https://dev.to/lordsage/learning-nextjs-layout-creation-a-step-by-step-guide-579m)
-[![4 Rules for Leading Dev Teams in Tough Economic Times](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/4_Rules_for_Leading_Dev_Teams_in_Tough_Economic_Times.svg)](https://dev.to/linearb/4-rules-for-leading-dev-teams-in-tough-economic-times-fd9)
-[![React States & Virtual DOM](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_States___Virtual_DOM.svg)](https://dev.to/cyborglaksh/react-states-virtual-dom-28j1)
+[![Top 10 Open Source ERP / CRM](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_10_Open_Source_ERP___CRM.svg)](https://dev.to/lalami/top-10-open-source-erp-crm-30nh)
+[![random quote generator using flutter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/random_quote_generator_using_flutter.svg)](https://dev.to/realnamehidden1_61/random-quote-generator-using-flutter-3e6c)
+[![Developers vs ChatGPT: How Developers Win the Game All the Time?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Developers_vs_ChatGPT__How_Developers_Win_the_Game_All_the_Time_.svg)](https://dev.to/dhruvjoshi9/developers-vs-chatgpt-how-developers-win-the-game-all-the-time-17in)
+[![Create Bubble Notify Head in React Native](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_Bubble_Notify_Head_in_React_Native.svg)](https://dev.to/harrydoan/create-bubble-notify-head-in-react-native-nap)
+[![How To Install TLS/SSL on Docker Nginx Container With Let’s Encrypt](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Install_TLS_SSL_on_Docker_Nginx_Container_With_Let’s_Encrypt.svg)](https://dev.to/macelux/how-to-install-tlsssl-on-docker-nginx-container-with-lets-encrypt-34c5)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, June 11, 2023 at 6:54:10 PM
+> Last updated: Monday, June 12, 2023 at 12:11:16 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, June 11, 2023 at 6:54:18 PM
+> Last updated: Monday, June 12, 2023 at 12:11:21 AM
 
 > Showing 5 of 30 posts.
 
