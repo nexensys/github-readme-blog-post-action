@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, June 13, 2023 at 12:11:12 AM
+> Last updated: Tuesday, June 13, 2023 at 6:16:04 AM
 
 > Showing 5 of 12 posts.
 
-[![Playing a full song, almost](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Playing_a_full_song__almost.svg)](https://dev.to/atornblad/playing-a-full-song-almost-48k)
-[![Begin Your Open Source Journey](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Begin_Your_Open_Source_Journey.svg)](https://dev.to/murtazajoo/begin-your-open-source-journey-5fm7)
-[![Promising Future of Freelancing: Embracing Independence in the Digital Age](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Promising_Future_of_Freelancing__Embracing_Independence_in_the_Digital_Age.svg)](https://dev.to/bhavin9920/promising-future-of-freelancing-embracing-independence-in-the-digital-age-30e6)
-[![FInd The Bug Challenge](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/FInd_The_Bug_Challenge.svg)](https://dev.to/scofieldidehen/find-the-bug-challenge-351f)
-[![Demystifying the Technical Design Document: A Guide for Software Engineers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Demystifying_the_Technical_Design_Document__A_Guide_for_Software_Engineers.svg)](https://dev.to/siddharth_g/demystifying-the-technical-design-document-a-guide-for-software-engineers-1fk1)
+[![Deploying a project to fly.io with GitHub Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deploying_a_project_to_fly.io_with_GitHub_Actions.svg)](https://dev.to/ruthmoog/deploying-a-project-to-flyio-with-github-actions-2c7e)
+[![🔦 Community Spotlight - Building VogueEco, a Sustainable Fashion App🔦](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🔦_Community_Spotlight_-_Building_VogueEco__a_Sustainable_Fashion_App🔦.svg)](https://dev.to/appwrite/community-spotlight-building-vogueeco-a-sustainable-fashion-app-7c8)
+[![Effortlessly Build a Captivating Website with AI: A Comprehensive Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Effortlessly_Build_a_Captivating_Website_with_AI__A_Comprehensive_Guide.svg)](https://dev.to/unicornsblog/effortlessly-build-a-captivating-website-with-ai-a-comprehensive-guide-48jm)
+[![PyScript vs JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/PyScript_vs_JavaScript.svg)](https://dev.to/kristiyan_velkov/pyscript-vs-javascript-1pph)
+[![A Deep Dive into EDB Postgres Advanced Server: Features and Benefits](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Deep_Dive_into_EDB_Postgres_Advanced_Server__Features_and_Benefits.svg)](https://dev.to/nightbird07/a-deep-dive-into-edb-postgres-advanced-server-features-and-benefits-3ff)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, June 13, 2023 at 12:11:15 AM
+> Last updated: Tuesday, June 13, 2023 at 6:16:07 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, June 13, 2023 at 12:11:19 AM
+> Last updated: Tuesday, June 13, 2023 at 6:16:10 AM
 
 > Showing 5 of 30 posts.
 
