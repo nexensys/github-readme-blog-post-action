@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, June 12, 2023 at 6:51:15 PM
+> Last updated: Tuesday, June 13, 2023 at 12:11:12 AM
 
 > Showing 5 of 12 posts.
 
-[![38 programming languages. Tried them all!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/38_programming_languages._Tried_them_all!.svg)](https://dev.to/johnrushx/38-programming-languages-which-is-best-584f)
-[![Functional Programming with Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Functional_Programming_with_Javascript.svg)](https://dev.to/gustavogomesdev/functional-programming-with-javascript-4jk7)
-[![A mage on the Hero’s Journey: a fantasy epic on how a startup rose from the ashes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_mage_on_the_Hero’s_Journey__a_fantasy_epic_on_how_a_startup_rose_from_the_ashes.svg)](https://dev.to/mage_ai/a-mage-on-the-heros-journey-a-fantasy-epic-on-how-a-startup-rose-from-the-ashes-3od6)
-[![My First Full-Stack App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_First_Full-Stack_App.svg)](https://dev.to/hillswor/my-first-full-stack-app-41jo)
-[![Data roles in data teams and your skill set. Using math](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Data_roles_in_data_teams_and_your_skill_set._Using_math.svg)](https://dev.to/pedrohgoncalves/data-roles-in-data-teams-and-your-skill-set-using-math-1332)
+[![Playing a full song, almost](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Playing_a_full_song__almost.svg)](https://dev.to/atornblad/playing-a-full-song-almost-48k)
+[![Begin Your Open Source Journey](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Begin_Your_Open_Source_Journey.svg)](https://dev.to/murtazajoo/begin-your-open-source-journey-5fm7)
+[![Promising Future of Freelancing: Embracing Independence in the Digital Age](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Promising_Future_of_Freelancing__Embracing_Independence_in_the_Digital_Age.svg)](https://dev.to/bhavin9920/promising-future-of-freelancing-embracing-independence-in-the-digital-age-30e6)
+[![FInd The Bug Challenge](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/FInd_The_Bug_Challenge.svg)](https://dev.to/scofieldidehen/find-the-bug-challenge-351f)
+[![Demystifying the Technical Design Document: A Guide for Software Engineers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Demystifying_the_Technical_Design_Document__A_Guide_for_Software_Engineers.svg)](https://dev.to/siddharth_g/demystifying-the-technical-design-document-a-guide-for-software-engineers-1fk1)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, June 12, 2023 at 6:51:18 PM
+> Last updated: Tuesday, June 13, 2023 at 12:11:15 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, June 12, 2023 at 6:51:21 PM
+> Last updated: Tuesday, June 13, 2023 at 12:11:19 AM
 
 > Showing 5 of 30 posts.
 
