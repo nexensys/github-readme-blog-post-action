@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, June 12, 2023 at 12:10:13 PM
+> Last updated: Monday, June 12, 2023 at 6:51:15 PM
 
 > Showing 5 of 12 posts.
 
-[![How I build my first Open Source project with ChatGPT and Next.js. 10k users in 24 hours 🤯](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_I_build_my_first_Open_Source_project_with_ChatGPT_and_Next.js._10k_users_in_24_hours_🤯.svg)](https://dev.to/shnai0/how-i-build-my-first-open-source-project-with-chatgpt-and-nextjs-10k-users-in-24-hours-2m7n)
-[![Building a Photography site in Angular](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_Photography_site_in_Angular.svg)](https://dev.to/jesserules/building-a-photography-site-in-angular-oel)
-[![Harness the Power of Professional Web Development Services with React.js, Next.js, Nest.js, Express.js, and PostgreSQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Harness_the_Power_of_Professional_Web_Development_Services_with_React.js__Next.js__Nest.js__Express.js__and_PostgreSQL.svg)](https://dev.to/ozair0/harness-the-power-of-professional-web-development-services-with-reactjs-nextjs-nestjs-expressjs-and-postgresql-5amk)
-[![Using CDK to deploy AWS managed Active Directory](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_CDK_to_deploy_AWS_managed_Active_Directory.svg)](https://dev.to/aws/using-cdk-to-deploy-aws-managed-active-directory-35ci)
-[![Meet Omkar DevTools: 🚀 Your Swiss Army Knife as a Ninja Developer ✨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Meet_Omkar_DevTools__🚀_Your_Swiss_Army_Knife_as_a_Ninja_Developer_✨.svg)](https://dev.to/rajesh_singh_1989/meet-omkar-devtools-your-swiss-army-knife-as-a-ninja-developer-2ekb)
+[![38 programming languages. Tried them all!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/38_programming_languages._Tried_them_all!.svg)](https://dev.to/johnrushx/38-programming-languages-which-is-best-584f)
+[![Functional Programming with Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Functional_Programming_with_Javascript.svg)](https://dev.to/gustavogomesdev/functional-programming-with-javascript-4jk7)
+[![A mage on the Hero’s Journey: a fantasy epic on how a startup rose from the ashes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_mage_on_the_Hero’s_Journey__a_fantasy_epic_on_how_a_startup_rose_from_the_ashes.svg)](https://dev.to/mage_ai/a-mage-on-the-heros-journey-a-fantasy-epic-on-how-a-startup-rose-from-the-ashes-3od6)
+[![My First Full-Stack App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_First_Full-Stack_App.svg)](https://dev.to/hillswor/my-first-full-stack-app-41jo)
+[![Data roles in data teams and your skill set. Using math](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Data_roles_in_data_teams_and_your_skill_set._Using_math.svg)](https://dev.to/pedrohgoncalves/data-roles-in-data-teams-and-your-skill-set-using-math-1332)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, June 12, 2023 at 12:10:17 PM
+> Last updated: Monday, June 12, 2023 at 6:51:18 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, June 12, 2023 at 12:10:19 PM
+> Last updated: Monday, June 12, 2023 at 6:51:21 PM
 
 > Showing 5 of 30 posts.
 
+[![API with NestJS #112. Serializing the response with Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__112._Serializing_the_response_with_Prisma.svg)](https://wanago.io/2023/06/12/api-nestjs-prisma-serializing/)
 [![GitHub - azat-io/eslint-plugin-perfectionist: 🦄 ESLint plugin for sorting various data such as objects, imports, types, enums, JSX props, etc.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_azat-io_eslint-plugin-perfectionist__🦄_ESLint_plugin_for_sorting_various_data_such_as_objects__imports__types__enums__JSX_props__etc..svg)](https://github.com/azat-io/eslint-plugin-perfectionist)
 [![React Native ECharts, Victory Native, or React Native Chart Kit: Deciphering the Ideal Charting…](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_Native_ECharts__Victory_Native__or_React_Native_Chart_Kit__Deciphering_the_Ideal_Charting….svg)](https://medium.com/@chenzhiqing/react-native-echarts-victory-native-or-react-native-chart-kit-deciphering-the-ideal-charting-90cbd22b0da3)
 [![Framework | Neutralinojs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Framework___Neutralinojs.svg)](https://neutralino.js.org/docs/release-notes/framework)
@@ -55,7 +56,6 @@ Experience VS Code on the Web, where you can bundle your source code and referen
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Experience_VS_Code_on_the_Web__where_you_can_bundle_your_source_code_and_reference_the_types._.svg)](
 https://monaco-browser-bundler.vercel.app
 )
-[![GitHub - Rohith-JN/type-frontend: A minimalistic typing test site to improve your typing skills and track your progress](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Rohith-JN_type-frontend__A_minimalistic_typing_test_site_to_improve_your_typing_skills_and_track_your_progress.svg)](https://github.com/Rohith-JN/type-frontend)
 
 
 <!-- post-list:end -->
