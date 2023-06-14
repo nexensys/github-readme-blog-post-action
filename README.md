@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, June 14, 2023 at 6:15:48 AM
+> Last updated: Wednesday, June 14, 2023 at 12:10:08 PM
 
 > Showing 5 of 12 posts.
 
-[![AWS re:Inforce 2023 keynote highlights](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_re_Inforce_2023_keynote_highlights.svg)](https://dev.to/aws-builders/aws-reinforce-2023-keynote-highlights-550g)
-[![Implementing Open-Source Monitoring and Observability In Kubernetes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Implementing_Open-Source_Monitoring_and_Observability_In_Kubernetes.svg)](https://dev.to/thenjdevopsguy/implementing-open-source-monitoring-and-observability-in-kubernetes-1bgn)
-[![How To Secure Your JavaScript Applications](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Secure_Your_JavaScript_Applications.svg)](https://dev.to/devland/how-to-secure-your-javascript-applications-1pfg)
-[![Custom Plugin Development For APISIX With Lua And ChatGPT](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Custom_Plugin_Development_For_APISIX_With_Lua_And_ChatGPT.svg)](https://dev.to/apisix/custom-plugin-development-for-apisix-with-lua-and-chatgpt-nkd)
-[![Guide des méthodes JS [chaînes de caractères]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Guide_des_méthodes_JS_[chaînes_de_caractères].svg)](https://dev.to/kureru/guide-des-methodes-js-chaines-de-caracteres-522c)
+[![Angular Code Structuring and Best Practices](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Angular_Code_Structuring_and_Best_Practices.svg)](https://dev.to/codecraftjs/angular-code-structuring-and-best-practices-nkd)
+[![10 Common Ways Engineers Use Webhook Gateways](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_Common_Ways_Engineers_Use_Webhook_Gateways.svg)](https://dev.to/convoy/10-common-ways-engineers-use-webhook-gateways-45oj)
+[![Memory in Rust](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Memory_in_Rust.svg)](https://dev.to/aneshodza/memory-in-rust-5g7e)
+[![GetBlock RPC Node Provider Launches Affiliate Program with Cash Bonuses](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/GetBlock_RPC_Node_Provider_Launches_Affiliate_Program_with_Cash_Bonuses.svg)](https://dev.to/getblockapi/getblock-rpc-node-provider-launches-affiliate-program-with-cash-bonuses-334b)
+[![Catch DEV Co-Founder Ben Halpern’s Keynote at RubyConf TH 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Catch_DEV_Co-Founder_Ben_Halpern’s_Keynote_at_RubyConf_TH_2023.svg)](https://dev.to/devteam/catch-dev-co-founder-ben-halperns-keynote-at-rubyconf-th-2023-3keo)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, June 14, 2023 at 6:15:51 AM
+> Last updated: Wednesday, June 14, 2023 at 12:10:12 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, June 14, 2023 at 6:15:53 AM
+> Last updated: Wednesday, June 14, 2023 at 12:10:15 PM
 
 > Showing 5 of 30 posts.
 
