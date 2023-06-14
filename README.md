@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, June 13, 2023 at 12:10:03 PM
+> Last updated: Tuesday, June 13, 2023 at 6:50:03 PM
 
 > Showing 5 of 12 posts.
 
-[![From Concept to Code: How Rive Supercharged My Design Implementation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/From_Concept_to_Code__How_Rive_Supercharged_My_Design_Implementation.svg)](https://dev.to/contenda/from-concept-to-code-how-rive-supercharged-my-design-implementation-3l4n)
-[![Everything Bad in Java is Good for You](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Everything_Bad_in_Java_is_Good_for_You.svg)](https://dev.to/codenameone/everything-bad-in-java-is-good-for-you-3fhd)
-[![What Developers Can Learn from Taylor Swift's Re-recording Strategy](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_Developers_Can_Learn_from_Taylor_Swift's_Re-recording_Strategy.svg)](https://dev.to/arnica/what-developers-can-learn-from-taylor-swifts-re-recording-strategy-24en)
-[![Improve your dev experience with Gitlens!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Improve_your_dev_experience_with_Gitlens!.svg)](https://dev.to/thezal/improve-your-dev-experience-with-gitlens-53ld)
-[![Top 7 Featured DEV Posts from the Past Week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_7_Featured_DEV_Posts_from_the_Past_Week.svg)](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-10ni)
+[![10 Best Ways To Use ChatGPT (With Examples)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_Best_Ways_To_Use_ChatGPT_(With_Examples).svg)](https://dev.to/durgesh4993/10-best-ways-to-use-chatgpt-with-examples-1e42)
+[![Simple Repository Pattern for Ruby on Rails](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Simple_Repository_Pattern_for_Ruby_on_Rails.svg)](https://dev.to/cherryramatis/simple-repository-pattern-for-ruby-on-rails-2lje)
+[![Observer pattern in the context of a Game App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Observer_pattern_in_the_context_of_a_Game_App.svg)](https://dev.to/walosha/observer-pattern-in-the-context-of-a-game-app-5gck)
+[![GitHub + DEV 2023 Hackathon Winners, Announced!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/GitHub_+_DEV_2023_Hackathon_Winners__Announced!.svg)](https://dev.to/devteam/github-dev-2023-hackathon-winners-announced-236o)
+[![Optimistic UI: Enhancing User Experience in React with React Query](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Optimistic_UI__Enhancing_User_Experience_in_React_with_React_Query.svg)](https://dev.to/wolfflucas/optimistic-ui-enhancing-user-experience-in-react-with-react-query-3033)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, June 13, 2023 at 12:10:05 PM
+> Last updated: Tuesday, June 13, 2023 at 6:50:05 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,23 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, June 13, 2023 at 12:10:09 PM
+> Last updated: Tuesday, June 13, 2023 at 6:50:09 PM
 
 > Showing 5 of 30 posts.
 
+[![Next-Level Technical Blogging with Dev.to API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Next-Level_Technical_Blogging_with_Dev.to_API.svg)](https://vrite.io/blog/next-level-technical-blogging-with-dev-to-api/)
+[![Managed WordPress Hosting Pricing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Managed_WordPress_Hosting_Pricing.svg)](https://kinsta.com/wordpress-hosting/pricing/)
 [![API with NestJS #112. Serializing the response with Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__112._Serializing_the_response_with_Prisma.svg)](https://wanago.io/2023/06/12/api-nestjs-prisma-serializing/)
 [![GitHub - azat-io/eslint-plugin-perfectionist: 🦄 ESLint plugin for sorting various data such as objects, imports, types, enums, JSX props, etc.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_azat-io_eslint-plugin-perfectionist__🦄_ESLint_plugin_for_sorting_various_data_such_as_objects__imports__types__enums__JSX_props__etc..svg)](https://github.com/azat-io/eslint-plugin-perfectionist)
-[![
-React Native ECharts, Victory Native, or React Native Chart Kit: Deciphering the Ideal Charting Solution for React Native in 2023
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_React_Native_ECharts__Victory_Native__or_React_Native_Chart_Kit__Deciphering_the_Ideal_Charting_Solution_for_React_Native_in_2023_.svg)](
-https://medium.com/@chenzhiqing/react-native-echarts-victory-native-or-react-native-chart-kit-deciphering-the-ideal-charting-90cbd22b0da3
-)
-[![Framework | Neutralinojs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Framework___Neutralinojs.svg)](https://neutralino.js.org/docs/release-notes/framework)
-[![
-Experience VS Code on the Web, where you can bundle your source code and reference the types.
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Experience_VS_Code_on_the_Web__where_you_can_bundle_your_source_code_and_reference_the_types._.svg)](
-https://monaco-browser-bundler.vercel.app
-)
+[![React Native ECharts, Victory Native, or React Native Chart Kit: Deciphering the Ideal Charting…](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_Native_ECharts__Victory_Native__or_React_Native_Chart_Kit__Deciphering_the_Ideal_Charting….svg)](https://medium.com/@chenzhiqing/react-native-echarts-victory-native-or-react-native-chart-kit-deciphering-the-ideal-charting-90cbd22b0da3)
 
 
 <!-- post-list:end -->
