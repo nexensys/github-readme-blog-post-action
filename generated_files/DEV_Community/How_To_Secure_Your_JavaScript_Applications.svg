@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 610 110" width="600" height="100" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <style>
+      .title {
+        font-size: 1.5em;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        white-space: nowrap;
+      }
+      .description {
+        font-size: 0.75em;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+      }
+      .text {
+        text-align: start;
+        padding: 10px;
+        height: calc(100% - 20px);
+        margin-left: 100px;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+        color: black;
+      }
+           .date {
+        font-size: 0.5em;
+        opacity: 0.5;
+        text-align: end;
+        position: absolute;
+        bottom: 0;
+        right: 10px;
+        color: black;
+      }
+      .image {
+        height: 100px;
+        width: 100px;
+        background-image: url("data:image/png;base64,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");
+        background-size: cover;
+        position: absolute;
+        top: 0;
+        left: 0;
+        border-radius: 10px;
+        background-position: center;
+      }
+      .main {
+        fill: white;
+      }
+      .data {
+        opacity: 0.75;
+        text-align: start;
+        position: absolute;
+        bottom: 0;
+        padding-bottom: 5px;
+        left: 110px;
+        color: black;
+        max-width: 400px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+      }
+      .author {
+        opacity: 0.75;
+        font-size: 0.5em;
+      }
+      .category {
+        background-color: rgba(0, 0, 0, 0.25);
+        border-radius: 0.25em;
+        padding: 0.125em 0.25em;
+        font-size: 0.75em;
+        color: rgba(0, 0, 0, 0.8);
+      }
+    </style>
+  </defs>
+  <g class="main">
+    <rect class="content" width="600" height="100" stroke="rgba(0, 0, 0, 0.5)" x="5" y="5" rx="10" />
+    <foreignObject width="600" height="100" x="5" y="5">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
+        <div class="image" />
+<div class="text">
+          <div class="title">How&#0032;To&#0032;Secure&#0032;Your&#0032;JavaScript&#0032;Applications</div>
+          <div class="description">In&#0032;one&#0032;of&#0032;my&#0032;previous&#0032;articles&#0044;&#0032;we&#0032;explored&#0032;the&#0032;critical&#0032;topic&#0032;of&#0032;avoiding&#0032;security&#0032;mistakes&#0032;as&#0032;a&#0032;web&#0046;&#0046;&#0046;</div>
+          <div class="date">6&#0047;14&#0047;23</div>
+          <div class="data">
+            <span class="author">Thomas&#0032;Sentre</span> <span class="category">webdev</span> <span class="category">javascript</span> <span class="category">beginners</span> <span class="category">programming</span>
+          </div>
+        </div>
+      </div>
+    </foreignObject>
+  </g>
+</svg>

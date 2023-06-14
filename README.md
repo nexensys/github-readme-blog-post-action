@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, June 14, 2023 at 12:11:02 AM
+> Last updated: Wednesday, June 14, 2023 at 6:15:48 AM
 
 > Showing 5 of 12 posts.
 
-[![Weekly web development resources #153](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Weekly_web_development_resources__153.svg)](https://dev.to/vincenius/weekly-web-development-resources-153-38jg)
-[![Master C# with an Interactive Learning Template - Limited Time Offer!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Master_C__with_an_Interactive_Learning_Template_-_Limited_Time_Offer!.svg)](https://dev.to/atienoobwanda/master-c-with-an-interactive-learning-template-limited-time-offer-4ian)
-[![I'm approaching 1000 followers!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I'm_approaching_1000_followers!.svg)](https://dev.to/verisimilitudex/im-approaching-1000-followers-11kj)
-[![A Comprehensive Guide to React Hooks: Simplifying State and Side Effects](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Comprehensive_Guide_to_React_Hooks__Simplifying_State_and_Side_Effects.svg)](https://dev.to/kingsley/a-comprehensive-guide-to-react-hooks-simplifying-state-and-side-effects-39f3)
-[![It's time to replace your axios](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/It's_time_to_replace_your_axios.svg)](https://dev.to/coderhu/its-time-to-replace-your-axios-143p)
+[![AWS re:Inforce 2023 keynote highlights](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_re_Inforce_2023_keynote_highlights.svg)](https://dev.to/aws-builders/aws-reinforce-2023-keynote-highlights-550g)
+[![Implementing Open-Source Monitoring and Observability In Kubernetes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Implementing_Open-Source_Monitoring_and_Observability_In_Kubernetes.svg)](https://dev.to/thenjdevopsguy/implementing-open-source-monitoring-and-observability-in-kubernetes-1bgn)
+[![How To Secure Your JavaScript Applications](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Secure_Your_JavaScript_Applications.svg)](https://dev.to/devland/how-to-secure-your-javascript-applications-1pfg)
+[![Custom Plugin Development For APISIX With Lua And ChatGPT](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Custom_Plugin_Development_For_APISIX_With_Lua_And_ChatGPT.svg)](https://dev.to/apisix/custom-plugin-development-for-apisix-with-lua-and-chatgpt-nkd)
+[![Guide des méthodes JS [chaînes de caractères]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Guide_des_méthodes_JS_[chaînes_de_caractères].svg)](https://dev.to/kureru/guide-des-methodes-js-chaines-de-caracteres-522c)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, June 14, 2023 at 12:11:06 AM
+> Last updated: Wednesday, June 14, 2023 at 6:15:51 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, June 14, 2023 at 12:11:11 AM
+> Last updated: Wednesday, June 14, 2023 at 6:15:53 AM
 
 > Showing 5 of 30 posts.
 
+[![How to upload files to the server using JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_upload_files_to_the_server_using_JavaScript.svg)](https://www.ma-no.org/en/programming/javascript/how-to-upload-files-to-the-server-using-javascript)
+[![GitHub - smridhgupta/alpha-wpes: Windows Privilege Escalation Tool](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_smridhgupta_alpha-wpes__Windows_Privilege_Escalation_Tool.svg)](https://github.com/smridhgupta/alpha-wpes)
+[![Step-by-Step Tutorial: Creating a Live Streaming App with React and Video SDK](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Step-by-Step_Tutorial__Creating_a_Live_Streaming_App_with_React_and_Video_SDK.svg)](https://dev.to/video-sdk/react-live-streaming-32bl)
 [![Next-Level Technical Blogging with Dev.to API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Next-Level_Technical_Blogging_with_Dev.to_API.svg)](https://vrite.io/blog/next-level-technical-blogging-with-dev-to-api/)
 [![Managed WordPress Hosting Pricing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Managed_WordPress_Hosting_Pricing.svg)](https://kinsta.com/wordpress-hosting/pricing/)
-[![API with NestJS #112. Serializing the response with Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__112._Serializing_the_response_with_Prisma.svg)](https://wanago.io/2023/06/12/api-nestjs-prisma-serializing/)
-[![GitHub - azat-io/eslint-plugin-perfectionist: 🦄 ESLint plugin for sorting various data such as objects, imports, types, enums, JSX props, etc.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_azat-io_eslint-plugin-perfectionist__🦄_ESLint_plugin_for_sorting_various_data_such_as_objects__imports__types__enums__JSX_props__etc..svg)](https://github.com/azat-io/eslint-plugin-perfectionist)
-[![React Native ECharts, Victory Native, or React Native Chart Kit: Deciphering the Ideal Charting…](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_Native_ECharts__Victory_Native__or_React_Native_Chart_Kit__Deciphering_the_Ideal_Charting….svg)](https://medium.com/@chenzhiqing/react-native-echarts-victory-native-or-react-native-chart-kit-deciphering-the-ideal-charting-90cbd22b0da3)
 
 
 <!-- post-list:end -->
