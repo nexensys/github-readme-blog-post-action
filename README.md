@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, June 14, 2023 at 6:50:58 PM
+> Last updated: Thursday, June 15, 2023 at 12:11:15 AM
 
 > Showing 5 of 12 posts.
 
-[![[PT-BR] - Entenda CORS e saiba lidar com os erros!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/[PT-BR]_-_Entenda_CORS_e_saiba_lidar_com_os_erros!.svg)](https://dev.to/carinebatista/entenda-cors-de-uma-vez-por-todas-4ef6)
-[![Considered Harmful - Domain Driven Design](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Considered_Harmful_-_Domain_Driven_Design.svg)](https://dev.to/jarrodhroberson/considered-harmful-domain-driven-design-5508)
-[![AWS Redshift: Robust and Scalable Data Warehousing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_Redshift__Robust_and_Scalable_Data_Warehousing.svg)](https://dev.to/mage_ai/aws-redshift-robust-and-scalable-data-warehousing-26ep)
-[![Introduction to Amazon Detective](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_to_Amazon_Detective.svg)](https://dev.to/jay_sheth/introduction-to-amazon-detective-289j)
-[![Good logging library for node.js?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Good_logging_library_for_node.js_.svg)](https://dev.to/malezjaa/good-logging-library-for-nodejs-47kb)
+[!["Unlock the Power of AEM: How Custom Coding Can Transform Your Digital Experiences" | Emmanuel Katto Uganda.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_Unlock_the_Power_of_AEM__How_Custom_Coding_Can_Transform_Your_Digital_Experiences____Emmanuel_Katto_Uganda..svg)](https://dev.to/emmanuelkatto/unlock-the-power-of-aem-how-custom-coding-can-transform-your-digital-experiences-emmanuel-katto-uganda-fgi)
+[![What is Web Application Security?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_Web_Application_Security_.svg)](https://dev.to/kristiyan_velkov/what-is-web-application-security-4p4i)
+[![What is the PL-100 Exam? All You Need to Know.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_the_PL-100_Exam__All_You_Need_to_Know..svg)](https://dev.to/citizendevacad/what-is-the-pl-100-exam-all-you-need-to-know-1im6)
+[![Removing trailing space underlines from groups of anchor tags](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Removing_trailing_space_underlines_from_groups_of_anchor_tags.svg)](https://dev.to/cassidoo/removing-trailing-space-underlines-from-groups-of-anchor-tags-54ib)
+[![Let's Post to Bluesky Social easily with Dart and Flutter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Let's_Post_to_Bluesky_Social_easily_with_Dart_and_Flutter.svg)](https://dev.to/shinyakato/lets-post-to-bluesky-social-easily-with-dart-and-flutter-dj5)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, June 14, 2023 at 6:51:01 PM
+> Last updated: Thursday, June 15, 2023 at 12:11:17 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,14 +43,14 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, June 14, 2023 at 6:51:04 PM
+> Last updated: Thursday, June 15, 2023 at 12:11:20 AM
 
 > Showing 5 of 30 posts.
 
 [![Do your part to secure the open source supply chain](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Do_your_part_to_secure_the_open_source_supply_chain.svg)](https://github.com/readme/guides/dependency-risk)
 [![How to upload files to the server using JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_upload_files_to_the_server_using_JavaScript.svg)](https://www.ma-no.org/en/programming/javascript/how-to-upload-files-to-the-server-using-javascript)
 [![GitHub - smridhgupta/alpha-wpes: Windows Privilege Escalation Tool](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_smridhgupta_alpha-wpes__Windows_Privilege_Escalation_Tool.svg)](https://github.com/smridhgupta/alpha-wpes)
-[![Step-by-Step Tutorial: Creating a Live Streaming App with React and Video SDK](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Step-by-Step_Tutorial__Creating_a_Live_Streaming_App_with_React_and_Video_SDK.svg)](https://dev.to/video-sdk/react-live-streaming-32bl)
+[![Building a Live Streaming App with React and Video SDK](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_a_Live_Streaming_App_with_React_and_Video_SDK.svg)](https://dev.to/video-sdk/react-live-streaming-32bl)
 [![Next-Level Technical Blogging with Dev.to API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Next-Level_Technical_Blogging_with_Dev.to_API.svg)](https://vrite.io/blog/next-level-technical-blogging-with-dev-to-api/)
 
 
