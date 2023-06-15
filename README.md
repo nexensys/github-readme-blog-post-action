@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, June 15, 2023 at 6:16:06 AM
+> Last updated: Thursday, June 15, 2023 at 12:09:53 PM
 
 > Showing 5 of 12 posts.
 
-[![Moonly weekly progress update #53 - Upgraded Holder Verification Bot](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Moonly_weekly_progress_update__53_-_Upgraded_Holder_Verification_Bot.svg)](https://dev.to/moonly/moonly-weekly-progress-update-53-upgraded-holder-verification-bot-3db8)
-[![Stepping into Vue - Enhancing the User Experience in JHipster Lite](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Stepping_into_Vue_-_Enhancing_the_User_Experience_in_JHipster_Lite.svg)](https://dev.to/renanfranca/stepping-into-vue-enhancing-the-user-experience-in-jhipster-lite-31an)
-[![10 Best Practices for Implementing Agile in Software Engineering](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_Best_Practices_for_Implementing_Agile_in_Software_Engineering.svg)](https://dev.to/josematoswork/10-best-practices-for-implementing-agile-in-software-engineering-4b3f)
-[![DevOpsDays 2023 Prague](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/DevOpsDays_2023_Prague.svg)](https://dev.to/bogomil/devopsdays-2023-prague-4od1)
-[![Why I like the "Built-In Control Flow" idea](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_I_like_the__Built-In_Control_Flow__idea.svg)](https://dev.to/oz/why-i-like-the-built-in-control-flow-idea-2o69)
+[![A Guide to Coding Standards to Improve Code Quality](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Guide_to_Coding_Standards_to_Improve_Code_Quality.svg)](https://dev.to/documatic/a-guide-to-coding-standards-to-improve-code-quality-68n)
+[![Comparing Lightly IDE vs AWS Cloud9: Which is your choice?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Comparing_Lightly_IDE_vs_AWS_Cloud9__Which_is_your_choice_.svg)](https://dev.to/emilossola/comparing-lightly-ide-vs-aws-cloud9-which-is-your-choice-cc2)
+[![Celebrating 1000 Followers on dev.to - A Journey of Learning and Growth!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Celebrating_1000_Followers_on_dev.to_-_A_Journey_of_Learning_and_Growth!.svg)](https://dev.to/muhmmadawd/celebrating-1000-followers-on-devto-a-journey-of-learning-and-growth-1a0o)
+[![Handle Multiple Queries & Mutations in React Form using Apollo Client](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Handle_Multiple_Queries___Mutations_in_React_Form_using_Apollo_Client.svg)](https://dev.to/ashishkmishra36/handle-multiple-queries-mutations-in-react-form-using-apollo-client-4o41)
+[![6 AI tool that you should use as a developer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/6_AI_tool_that_you_should_use_as_a_developer.svg)](https://dev.to/hiader/6-ai-tool-that-you-should-use-as-a-developer-30k2)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, June 15, 2023 at 6:16:10 AM
+> Last updated: Thursday, June 15, 2023 at 12:09:57 PM
 
 > Showing 4 of 4 posts.
 
+[![11 years of JavaScript on top](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/11_years_of_JavaScript_on_top.svg)](https://javascriptweekly.com/issues/643)
 [![Douglas Crockford calls JavaScript 'smelly.'](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Douglas_Crockford_calls_JavaScript_'smelly.'.svg)](https://javascriptweekly.com/issues/642)
 [![Bundle-time macros with Bun](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Bundle-time_macros_with_Bun.svg)](https://javascriptweekly.com/issues/641)
 [![Microsoft shrunk the TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Microsoft_shrunk_the_TypeScript.svg)](https://javascriptweekly.com/issues/640)
-[![jQuery lives on; major changes teased](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/jQuery_lives_on;_major_changes_teased.svg)](https://javascriptweekly.com/issues/639)
 
 
 ## Echo JS
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, June 15, 2023 at 6:16:14 AM
+> Last updated: Thursday, June 15, 2023 at 12:09:59 PM
 
 > Showing 5 of 30 posts.
 
