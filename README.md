@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, June 14, 2023 at 12:10:08 PM
+> Last updated: Wednesday, June 14, 2023 at 6:50:58 PM
 
 > Showing 5 of 12 posts.
 
-[![Angular Code Structuring and Best Practices](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Angular_Code_Structuring_and_Best_Practices.svg)](https://dev.to/codecraftjs/angular-code-structuring-and-best-practices-nkd)
-[![10 Common Ways Engineers Use Webhook Gateways](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_Common_Ways_Engineers_Use_Webhook_Gateways.svg)](https://dev.to/convoy/10-common-ways-engineers-use-webhook-gateways-45oj)
-[![Memory in Rust](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Memory_in_Rust.svg)](https://dev.to/aneshodza/memory-in-rust-5g7e)
-[![GetBlock RPC Node Provider Launches Affiliate Program with Cash Bonuses](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/GetBlock_RPC_Node_Provider_Launches_Affiliate_Program_with_Cash_Bonuses.svg)](https://dev.to/getblockapi/getblock-rpc-node-provider-launches-affiliate-program-with-cash-bonuses-334b)
-[![Catch DEV Co-Founder Ben Halpern’s Keynote at RubyConf TH 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Catch_DEV_Co-Founder_Ben_Halpern’s_Keynote_at_RubyConf_TH_2023.svg)](https://dev.to/devteam/catch-dev-co-founder-ben-halperns-keynote-at-rubyconf-th-2023-3keo)
+[![[PT-BR] - Entenda CORS e saiba lidar com os erros!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/[PT-BR]_-_Entenda_CORS_e_saiba_lidar_com_os_erros!.svg)](https://dev.to/carinebatista/entenda-cors-de-uma-vez-por-todas-4ef6)
+[![Considered Harmful - Domain Driven Design](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Considered_Harmful_-_Domain_Driven_Design.svg)](https://dev.to/jarrodhroberson/considered-harmful-domain-driven-design-5508)
+[![AWS Redshift: Robust and Scalable Data Warehousing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_Redshift__Robust_and_Scalable_Data_Warehousing.svg)](https://dev.to/mage_ai/aws-redshift-robust-and-scalable-data-warehousing-26ep)
+[![Introduction to Amazon Detective](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_to_Amazon_Detective.svg)](https://dev.to/jay_sheth/introduction-to-amazon-detective-289j)
+[![Good logging library for node.js?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Good_logging_library_for_node.js_.svg)](https://dev.to/malezjaa/good-logging-library-for-nodejs-47kb)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, June 14, 2023 at 12:10:12 PM
+> Last updated: Wednesday, June 14, 2023 at 6:51:01 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, June 14, 2023 at 12:10:15 PM
+> Last updated: Wednesday, June 14, 2023 at 6:51:04 PM
 
 > Showing 5 of 30 posts.
 
+[![Do your part to secure the open source supply chain](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Do_your_part_to_secure_the_open_source_supply_chain.svg)](https://github.com/readme/guides/dependency-risk)
 [![How to upload files to the server using JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_upload_files_to_the_server_using_JavaScript.svg)](https://www.ma-no.org/en/programming/javascript/how-to-upload-files-to-the-server-using-javascript)
 [![GitHub - smridhgupta/alpha-wpes: Windows Privilege Escalation Tool](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_smridhgupta_alpha-wpes__Windows_Privilege_Escalation_Tool.svg)](https://github.com/smridhgupta/alpha-wpes)
 [![Step-by-Step Tutorial: Creating a Live Streaming App with React and Video SDK](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Step-by-Step_Tutorial__Creating_a_Live_Streaming_App_with_React_and_Video_SDK.svg)](https://dev.to/video-sdk/react-live-streaming-32bl)
 [![Next-Level Technical Blogging with Dev.to API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Next-Level_Technical_Blogging_with_Dev.to_API.svg)](https://vrite.io/blog/next-level-technical-blogging-with-dev-to-api/)
-[![Managed WordPress Hosting Pricing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Managed_WordPress_Hosting_Pricing.svg)](https://kinsta.com/wordpress-hosting/pricing/)
 
 
 <!-- post-list:end -->
