@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, June 15, 2023 at 6:50:41 PM
+> Last updated: Friday, June 16, 2023 at 12:11:10 AM
 
 > Showing 5 of 12 posts.
 
-[![Por que você não deve desistir de se tornar um desenvolvedor(a): uma jornada de 💻código,☕café e 😁memes.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Por_que_você_não_deve_desistir_de_se_tornar_um_desenvolvedor(a)__uma_jornada_de_💻código_☕café_e_😁memes..svg)](https://dev.to/diegoreports/por-que-voce-nao-deve-desistir-de-se-tornar-um-desenvolvedora-uma-jornada-de-codigocafe-e-memes-2k7p)
-[![Healthcare’s Digital Accessibility Problem](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Healthcare’s_Digital_Accessibility_Problem.svg)](https://dev.to/linearb/healthcares-digital-accessibility-problem-a46)
-[![What are facades and how to use it on ruby](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_are_facades_and_how_to_use_it_on_ruby.svg)](https://dev.to/cherryramatis/what-are-facades-and-how-to-use-it-on-ruby-5h3h)
-[![JavaScript localStorage: The complete guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_localStorage__The_complete_guide.svg)](https://dev.to/alakkadshaw/javascript-localstorage-the-complete-guide-5a9a)
-[![Ace the "Tell me about a time you made a mistake" question in your next interview.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ace_the__Tell_me_about_a_time_you_made_a_mistake__question_in_your_next_interview..svg)](https://dev.to/martinkr/ace-the-tell-me-about-a-time-you-made-a-mistake-question-in-your-next-interview-2c7)
+[![Top 10 VS Code Extensions for React Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_10_VS_Code_Extensions_for_React_Developers.svg)](https://dev.to/kristiyan_velkov/top-10-vs-code-extensions-for-react-developers-5ggh)
+[![Learning Firebase and React-Native: Private Message App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Learning_Firebase_and_React-Native__Private_Message_App.svg)](https://dev.to/colinah/learning-firebase-and-react-native-private-message-app-3n06)
+[![Stay Ahead: Exploring the Latest Web Development Trends 🚀🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Stay_Ahead__Exploring_the_Latest_Web_Development_Trends_🚀🔥.svg)](https://dev.to/arjuncodess/stay-ahead-exploring-the-latest-web-development-trends-mb0)
+[![Password isn't dying](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Password_isn't_dying.svg)](https://dev.to/logto/password-isnt-dying-2hh1)
+[![How I created my first ever web application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_I_created_my_first_ever_web_application.svg)](https://dev.to/mishmishel/how-i-created-my-first-ever-web-application-5048)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, June 15, 2023 at 6:50:44 PM
+> Last updated: Friday, June 16, 2023 at 12:11:13 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, June 15, 2023 at 6:50:46 PM
+> Last updated: Friday, June 16, 2023 at 12:11:22 AM
 
 > Showing 5 of 30 posts.
 
-[![Flutter Live Streaming: A Complete Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Flutter_Live_Streaming__A_Complete_Guide.svg)](https://dev.to/usp/flutter-live-streaming-a-complete-guide-2634)
-[![Do your part to secure the open source supply chain](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Do_your_part_to_secure_the_open_source_supply_chain.svg)](https://github.com/readme/guides/dependency-risk)
 [![How to upload files to the server using JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_upload_files_to_the_server_using_JavaScript.svg)](https://www.ma-no.org/en/programming/javascript/how-to-upload-files-to-the-server-using-javascript)
-[![GitHub - smridhgupta/alpha-wpes: Windows Privilege Escalation Tool](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_smridhgupta_alpha-wpes__Windows_Privilege_Escalation_Tool.svg)](https://github.com/smridhgupta/alpha-wpes)
 [![Building a Live Streaming App with React and Video SDK](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_a_Live_Streaming_App_with_React_and_Video_SDK.svg)](https://dev.to/video-sdk/react-live-streaming-32bl)
+[![API with NestJS #112. Serializing the response with Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__112._Serializing_the_response_with_Prisma.svg)](https://wanago.io/2023/06/12/api-nestjs-prisma-serializing/)
+[![GitHub - azat-io/eslint-plugin-perfectionist: 🦄 ESLint plugin for sorting various data such as objects, imports, types, enums, JSX props, etc.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_azat-io_eslint-plugin-perfectionist__🦄_ESLint_plugin_for_sorting_various_data_such_as_objects__imports__types__enums__JSX_props__etc..svg)](https://github.com/azat-io/eslint-plugin-perfectionist)
+[![React Native ECharts, Victory Native, or React Native Chart Kit: Deciphering the Ideal Charting…](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_Native_ECharts__Victory_Native__or_React_Native_Chart_Kit__Deciphering_the_Ideal_Charting….svg)](https://itnext.io/react-native-echarts-victory-native-or-react-native-chart-kit-deciphering-the-ideal-charting-90cbd22b0da3)
 
 
 <!-- post-list:end -->
