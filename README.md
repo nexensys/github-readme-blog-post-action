@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, June 16, 2023 at 12:11:10 AM
+> Last updated: Friday, June 16, 2023 at 6:15:20 AM
 
 > Showing 5 of 12 posts.
 
-[![Top 10 VS Code Extensions for React Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_10_VS_Code_Extensions_for_React_Developers.svg)](https://dev.to/kristiyan_velkov/top-10-vs-code-extensions-for-react-developers-5ggh)
-[![Learning Firebase and React-Native: Private Message App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Learning_Firebase_and_React-Native__Private_Message_App.svg)](https://dev.to/colinah/learning-firebase-and-react-native-private-message-app-3n06)
-[![Stay Ahead: Exploring the Latest Web Development Trends 🚀🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Stay_Ahead__Exploring_the_Latest_Web_Development_Trends_🚀🔥.svg)](https://dev.to/arjuncodess/stay-ahead-exploring-the-latest-web-development-trends-mb0)
-[![Password isn't dying](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Password_isn't_dying.svg)](https://dev.to/logto/password-isnt-dying-2hh1)
-[![How I created my first ever web application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_I_created_my_first_ever_web_application.svg)](https://dev.to/mishmishel/how-i-created-my-first-ever-web-application-5048)
+[![Writing JSON to a file](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Writing_JSON_to_a_file.svg)](https://dev.to/vincenttommi/writing-json-to-a-file-3hf4)
+[![Build an AI MicroSaaS App using a Low-Code Template Integrated with Stripe](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_an_AI_MicroSaaS_App_using_a_Low-Code_Template_Integrated_with_Stripe.svg)](https://dev.to/rowy/build-an-ai-microsaas-app-using-a-low-code-template-integrated-with-stripe-2m3f)
+[![creating own RANDOM module](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/creating_own_RANDOM_module.svg)](https://dev.to/coderatul/creating-own-random-module-42m1)
+[![5 Reasons Engineers do not use Webhook Gateways Yet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Reasons_Engineers_do_not_use_Webhook_Gateways_Yet.svg)](https://dev.to/convoy/5-reasons-engineers-do-not-use-webhook-gateways-yet-3m53)
+[![Google's Gemini: The Next Big Thing in AI Revolution](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Google's_Gemini__The_Next_Big_Thing_in_AI_Revolution.svg)](https://dev.to/thenomadevel/googles-gemini-the-next-big-thing-in-ai-revolution-17a4)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, June 16, 2023 at 12:11:13 AM
+> Last updated: Friday, June 16, 2023 at 6:15:24 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, June 16, 2023 at 12:11:22 AM
+> Last updated: Friday, June 16, 2023 at 6:15:30 AM
 
 > Showing 5 of 30 posts.
 
