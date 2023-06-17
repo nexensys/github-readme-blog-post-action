@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, June 17, 2023 at 12:10:24 AM
+> Last updated: Saturday, June 17, 2023 at 6:13:59 AM
 
 > Showing 5 of 12 posts.
 
-[![How to Break from forEach in JavaScript?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Break_from_forEach_in_JavaScript_.svg)](https://dev.to/mayallo/how-to-break-from-foreach-in-javascript-24mm)
-[![Create s3 Bucket with Terraform](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_s3_Bucket_with_Terraform.svg)](https://dev.to/ashraf-minhaj/create-s3-bucket-with-terraform-1o7h)
-[![Mastering Semantic HTML: A Guide to Improve Web Development and SEO](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_Semantic_HTML__A_Guide_to_Improve_Web_Development_and_SEO.svg)](https://dev.to/meetmarvelous/mastering-semantic-html-a-guide-to-improve-web-development-and-seo-4jma)
-[![Float UI: The Tailwind UI Alternative for Building Beautiful Web Interfaces](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Float_UI__The_Tailwind_UI_Alternative_for_Building_Beautiful_Web_Interfaces.svg)](https://dev.to/sididev/float-ui-the-tailwind-ui-alternative-for-building-beautiful-web-interfaces-4ml0)
-[![Dear Friends, Followers, and Readers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dear_Friends__Followers__and_Readers.svg)](https://dev.to/ota200/dear-friends-followers-and-readers-242b)
+[![Top 10 Backend Development Mistakes to Avoid](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_10_Backend_Development_Mistakes_to_Avoid.svg)](https://dev.to/dhruvjoshi9/top-10-backend-development-mistakes-to-avoid-4p86)
+[![Can you answer these Javascript questions ?(Part 1)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Can_you_answer_these_Javascript_questions__(Part_1).svg)](https://dev.to/codecraftjs/can-you-answer-these-javascript-questions-part-1-35f6)
+[![Rubyday 2023 - A great come back!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Rubyday_2023_-_A_great_come_back!.svg)](https://dev.to/coorasse/rubyday-2023-a-great-come-back-15am)
+[![Let's Learn Django #4 Using templates & static files](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Let's_Learn_Django__4_Using_templates___static_files.svg)](https://dev.to/dilutewater/lets-learn-django-4-using-templates-static-files-15c9)
+[![Leveling Up Your Git Skills: Game-Inspired Guide to Git Commands](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Leveling_Up_Your_Git_Skills__Game-Inspired_Guide_to_Git_Commands.svg)](https://dev.to/uttarasriya/leveling-up-your-git-skills-game-inspired-guide-to-git-commands-36gl)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, June 17, 2023 at 12:10:28 AM
+> Last updated: Saturday, June 17, 2023 at 6:14:03 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, June 17, 2023 at 12:10:37 AM
+> Last updated: Saturday, June 17, 2023 at 6:14:10 AM
 
 > Showing 5 of 30 posts.
 
