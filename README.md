@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, June 16, 2023 at 6:47:20 PM
+> Last updated: Saturday, June 17, 2023 at 12:10:24 AM
 
 > Showing 5 of 12 posts.
 
+[![How to Break from forEach in JavaScript?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Break_from_forEach_in_JavaScript_.svg)](https://dev.to/mayallo/how-to-break-from-foreach-in-javascript-24mm)
+[![Create s3 Bucket with Terraform](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_s3_Bucket_with_Terraform.svg)](https://dev.to/ashraf-minhaj/create-s3-bucket-with-terraform-1o7h)
+[![Mastering Semantic HTML: A Guide to Improve Web Development and SEO](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_Semantic_HTML__A_Guide_to_Improve_Web_Development_and_SEO.svg)](https://dev.to/meetmarvelous/mastering-semantic-html-a-guide-to-improve-web-development-and-seo-4jma)
 [![Float UI: The Tailwind UI Alternative for Building Beautiful Web Interfaces](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Float_UI__The_Tailwind_UI_Alternative_for_Building_Beautiful_Web_Interfaces.svg)](https://dev.to/sididev/float-ui-the-tailwind-ui-alternative-for-building-beautiful-web-interfaces-4ml0)
 [![Dear Friends, Followers, and Readers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dear_Friends__Followers__and_Readers.svg)](https://dev.to/ota200/dear-friends-followers-and-readers-242b)
-[![Technical Writing 101: Technical Ultimate Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Technical_Writing_101__Technical_Ultimate_Guide.svg)](https://dev.to/njenga98/technical-writing-101-technical-ultimate-guide-54c3)
-[![ReturnType in TypeScript: Enhancing Readability and Maintainability](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/ReturnType_in_TypeScript__Enhancing_Readability_and_Maintainability.svg)](https://dev.to/ruben_alapont/returntype-in-typescript-enhancing-readability-and-maintainability-2ki5)
-[![How AppMap's runtime analysis finds performance and security flaws](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_AppMap's_runtime_analysis_finds_performance_and_security_flaws.svg)](https://dev.to/appmap/how-appmaps-runtime-analysis-finds-performance-and-security-flaws-4p0k)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, June 16, 2023 at 6:47:23 PM
+> Last updated: Saturday, June 17, 2023 at 12:10:28 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, June 16, 2023 at 6:47:29 PM
+> Last updated: Saturday, June 17, 2023 at 12:10:37 AM
 
 > Showing 5 of 30 posts.
 
