@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, June 16, 2023 at 12:10:02 PM
+> Last updated: Friday, June 16, 2023 at 6:47:20 PM
 
 > Showing 5 of 12 posts.
 
-[![Solve: objects are not valid as a react child](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Solve__objects_are_not_valid_as_a_react_child.svg)](https://dev.to/reactjsguru/solve-objects-are-not-valid-as-a-react-child-2336)
-[![Map Or Object with Computed Properties](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Map_Or_Object_with_Computed_Properties.svg)](https://dev.to/muhmmadawd/map-or-object-with-computed-properties-57nh)
-[![What the heck is Computed Properties in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_the_heck_is_Computed_Properties_in_JavaScript.svg)](https://dev.to/muhmmadawd/what-the-heck-is-computed-properties-in-javascript-3aca)
-[![Clustering Algorithms Demystified](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Clustering_Algorithms_Demystified.svg)](https://dev.to/rajaniraiyn/clustering-algorithms-demystified-1ggi)
-[![FLaNK - LLM with Hyper](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/FLaNK_-_LLM_with_Hyper.svg)](https://dev.to/tspannhw/flank-llm-with-hyper-5h11)
+[![Float UI: The Tailwind UI Alternative for Building Beautiful Web Interfaces](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Float_UI__The_Tailwind_UI_Alternative_for_Building_Beautiful_Web_Interfaces.svg)](https://dev.to/sididev/float-ui-the-tailwind-ui-alternative-for-building-beautiful-web-interfaces-4ml0)
+[![Dear Friends, Followers, and Readers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dear_Friends__Followers__and_Readers.svg)](https://dev.to/ota200/dear-friends-followers-and-readers-242b)
+[![Technical Writing 101: Technical Ultimate Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Technical_Writing_101__Technical_Ultimate_Guide.svg)](https://dev.to/njenga98/technical-writing-101-technical-ultimate-guide-54c3)
+[![ReturnType in TypeScript: Enhancing Readability and Maintainability](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/ReturnType_in_TypeScript__Enhancing_Readability_and_Maintainability.svg)](https://dev.to/ruben_alapont/returntype-in-typescript-enhancing-readability-and-maintainability-2ki5)
+[![How AppMap's runtime analysis finds performance and security flaws](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_AppMap's_runtime_analysis_finds_performance_and_security_flaws.svg)](https://dev.to/appmap/how-appmaps-runtime-analysis-finds-performance-and-security-flaws-4p0k)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, June 16, 2023 at 12:10:05 PM
+> Last updated: Friday, June 16, 2023 at 6:47:23 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, June 16, 2023 at 12:10:12 PM
+> Last updated: Friday, June 16, 2023 at 6:47:29 PM
 
 > Showing 5 of 30 posts.
 
