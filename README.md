@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, June 17, 2023 at 6:13:59 AM
+> Last updated: Saturday, June 17, 2023 at 12:09:10 PM
 
 > Showing 5 of 12 posts.
 
-[![Top 10 Backend Development Mistakes to Avoid](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_10_Backend_Development_Mistakes_to_Avoid.svg)](https://dev.to/dhruvjoshi9/top-10-backend-development-mistakes-to-avoid-4p86)
-[![Can you answer these Javascript questions ?(Part 1)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Can_you_answer_these_Javascript_questions__(Part_1).svg)](https://dev.to/codecraftjs/can-you-answer-these-javascript-questions-part-1-35f6)
-[![Rubyday 2023 - A great come back!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Rubyday_2023_-_A_great_come_back!.svg)](https://dev.to/coorasse/rubyday-2023-a-great-come-back-15am)
-[![Let's Learn Django #4 Using templates & static files](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Let's_Learn_Django__4_Using_templates___static_files.svg)](https://dev.to/dilutewater/lets-learn-django-4-using-templates-static-files-15c9)
-[![Leveling Up Your Git Skills: Game-Inspired Guide to Git Commands](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Leveling_Up_Your_Git_Skills__Game-Inspired_Guide_to_Git_Commands.svg)](https://dev.to/uttarasriya/leveling-up-your-git-skills-game-inspired-guide-to-git-commands-36gl)
+[![Answer: Multiple Passport LocalStrategies](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Answer__Multiple_Passport_LocalStrategies.svg)](https://dev.to/mustafacam/answer-multiple-passport-localstrategies-42da)
+[![What if I had to learn web development again? What would be my journey?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_if_I_had_to_learn_web_development_again__What_would_be_my_journey_.svg)](https://dev.to/davidofug/what-if-i-had-to-learn-web-development-again-what-would-be-my-journey-hcm)
+[![The What, Why, and How of an Agile Sprint Planning](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_What__Why__and_How_of_an_Agile_Sprint_Planning.svg)](https://dev.to/hatica/the-what-why-and-how-of-an-agile-sprint-planning-53e0)
+[![Encrypt your Local Storage data!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Encrypt_your_Local_Storage_data!.svg)](https://dev.to/codecraftjs/encrypt-your-local-storage-data-5ag8)
+[![DEV Showcase v5](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/DEV_Showcase_v5.svg)](https://dev.to/codenewbieteam/dev-showcase-v5-4id4)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, June 17, 2023 at 6:14:03 AM
+> Last updated: Saturday, June 17, 2023 at 12:09:13 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, June 17, 2023 at 6:14:10 AM
+> Last updated: Saturday, June 17, 2023 at 12:09:21 PM
 
 > Showing 5 of 30 posts.
 
+[![Customizing Docusaurus components | bitExpert](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Customizing_Docusaurus_components___bitExpert.svg)](https://blog.bitexpert.de/blog/customizing_docusaurus_components)
 [![How to upload files to the server using JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_upload_files_to_the_server_using_JavaScript.svg)](https://www.ma-no.org/en/programming/javascript/how-to-upload-files-to-the-server-using-javascript)
 [![Building a Live Streaming App with React and Video SDK](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_a_Live_Streaming_App_with_React_and_Video_SDK.svg)](https://dev.to/video-sdk/react-live-streaming-32bl)
 [![API with NestJS #112. Serializing the response with Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__112._Serializing_the_response_with_Prisma.svg)](https://wanago.io/2023/06/12/api-nestjs-prisma-serializing/)
 [![GitHub - azat-io/eslint-plugin-perfectionist: 🦄 ESLint plugin for sorting various data such as objects, imports, types, enums, JSX props, etc.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_azat-io_eslint-plugin-perfectionist__🦄_ESLint_plugin_for_sorting_various_data_such_as_objects__imports__types__enums__JSX_props__etc..svg)](https://github.com/azat-io/eslint-plugin-perfectionist)
-[![React Native ECharts, Victory Native, or React Native Chart Kit: Deciphering the Ideal Charting…](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_Native_ECharts__Victory_Native__or_React_Native_Chart_Kit__Deciphering_the_Ideal_Charting….svg)](https://itnext.io/react-native-echarts-victory-native-or-react-native-chart-kit-deciphering-the-ideal-charting-90cbd22b0da3)
 
 
 <!-- post-list:end -->
