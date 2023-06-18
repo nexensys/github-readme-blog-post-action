@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, June 17, 2023 at 12:09:10 PM
+> Last updated: Saturday, June 17, 2023 at 6:56:33 PM
 
 > Showing 5 of 12 posts.
 
-[![Answer: Multiple Passport LocalStrategies](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Answer__Multiple_Passport_LocalStrategies.svg)](https://dev.to/mustafacam/answer-multiple-passport-localstrategies-42da)
-[![What if I had to learn web development again? What would be my journey?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_if_I_had_to_learn_web_development_again__What_would_be_my_journey_.svg)](https://dev.to/davidofug/what-if-i-had-to-learn-web-development-again-what-would-be-my-journey-hcm)
-[![The What, Why, and How of an Agile Sprint Planning](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_What__Why__and_How_of_an_Agile_Sprint_Planning.svg)](https://dev.to/hatica/the-what-why-and-how-of-an-agile-sprint-planning-53e0)
-[![Encrypt your Local Storage data!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Encrypt_your_Local_Storage_data!.svg)](https://dev.to/codecraftjs/encrypt-your-local-storage-data-5ag8)
-[![DEV Showcase v5](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/DEV_Showcase_v5.svg)](https://dev.to/codenewbieteam/dev-showcase-v5-4id4)
+[![Exploring Caching with NestJS and Redis](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exploring_Caching_with_NestJS_and_Redis.svg)](https://dev.to/fikkyman1/exploring-caching-with-nestjs-and-redis-56aj)
+[![Dynamic SVG images using Next.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dynamic_SVG_images_using_Next.js.svg)](https://dev.to/nbouvrette/dynamic-svg-images-using-nextjs-1b3f)
+[![Exploring the Creative Potential of Large Language Models](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exploring_the_Creative_Potential_of_Large_Language_Models.svg)](https://dev.to/nneka_onochie/exploring-the-creative-potential-of-large-language-models-26en)
+[![Add ConfigCat to Next.js App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Add_ConfigCat_to_Next.js_App.svg)](https://dev.to/mmcclure11/add-configcat-to-nextjs-app-1kk1)
+[![Dynamically Allocating 2D Arrays Efficiently (and Correctly!) in C](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dynamically_Allocating_2D_Arrays_Efficiently_(and_Correctly!)_in_C.svg)](https://dev.to/pauljlucas/dynamically-allocating-2d-arrays-efficiently-and-correctly-in-c-23d0)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, June 17, 2023 at 12:09:13 PM
+> Last updated: Saturday, June 17, 2023 at 6:56:37 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, June 17, 2023 at 12:09:21 PM
+> Last updated: Saturday, June 17, 2023 at 6:56:41 PM
 
 > Showing 5 of 30 posts.
 
+[![How to Break from forEach in JavaScript? | Mayallo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Break_from_forEach_in_JavaScript____Mayallo.svg)](https://mayallo.com/break-foreach-javascript/)
+[![
+RxDB as a Database in an Angular Application
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_RxDB_as_a_Database_in_an_Angular_Application_.svg)](
+https://rxdb.info/articles/angular-database.html
+)
 [![Customizing Docusaurus components | bitExpert](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Customizing_Docusaurus_components___bitExpert.svg)](https://blog.bitexpert.de/blog/customizing_docusaurus_components)
 [![How to upload files to the server using JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_upload_files_to_the_server_using_JavaScript.svg)](https://www.ma-no.org/en/programming/javascript/how-to-upload-files-to-the-server-using-javascript)
 [![Building a Live Streaming App with React and Video SDK](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_a_Live_Streaming_App_with_React_and_Video_SDK.svg)](https://dev.to/video-sdk/react-live-streaming-32bl)
-[![API with NestJS #112. Serializing the response with Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__112._Serializing_the_response_with_Prisma.svg)](https://wanago.io/2023/06/12/api-nestjs-prisma-serializing/)
-[![GitHub - azat-io/eslint-plugin-perfectionist: 🦄 ESLint plugin for sorting various data such as objects, imports, types, enums, JSX props, etc.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_azat-io_eslint-plugin-perfectionist__🦄_ESLint_plugin_for_sorting_various_data_such_as_objects__imports__types__enums__JSX_props__etc..svg)](https://github.com/azat-io/eslint-plugin-perfectionist)
 
 
 <!-- post-list:end -->
