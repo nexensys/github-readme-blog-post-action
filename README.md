@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, June 17, 2023 at 6:56:33 PM
+> Last updated: Sunday, June 18, 2023 at 12:10:16 AM
 
 > Showing 5 of 12 posts.
 
+[![React JS - Naming convention](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_JS_-_Naming_convention.svg)](https://dev.to/kristiyan_velkov/react-js-naming-convention-lcg)
+[![Dockerizing Spring Boot 3 Application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dockerizing_Spring_Boot_3_Application.svg)](https://dev.to/realnamehidden1_61/dockerizing-spring-boot-3-application-4eng)
 [![Exploring Caching with NestJS and Redis](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exploring_Caching_with_NestJS_and_Redis.svg)](https://dev.to/fikkyman1/exploring-caching-with-nestjs-and-redis-56aj)
 [![Dynamic SVG images using Next.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dynamic_SVG_images_using_Next.js.svg)](https://dev.to/nbouvrette/dynamic-svg-images-using-nextjs-1b3f)
 [![Exploring the Creative Potential of Large Language Models](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exploring_the_Creative_Potential_of_Large_Language_Models.svg)](https://dev.to/nneka_onochie/exploring-the-creative-potential-of-large-language-models-26en)
-[![Add ConfigCat to Next.js App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Add_ConfigCat_to_Next.js_App.svg)](https://dev.to/mmcclure11/add-configcat-to-nextjs-app-1kk1)
-[![Dynamically Allocating 2D Arrays Efficiently (and Correctly!) in C](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dynamically_Allocating_2D_Arrays_Efficiently_(and_Correctly!)_in_C.svg)](https://dev.to/pauljlucas/dynamically-allocating-2d-arrays-efficiently-and-correctly-in-c-23d0)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, June 17, 2023 at 6:56:37 PM
+> Last updated: Sunday, June 18, 2023 at 12:10:19 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, June 17, 2023 at 6:56:41 PM
+> Last updated: Sunday, June 18, 2023 at 12:10:23 AM
 
 > Showing 5 of 30 posts.
 
