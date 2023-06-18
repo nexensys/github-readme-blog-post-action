@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, June 18, 2023 at 12:10:16 AM
+> Last updated: Sunday, June 18, 2023 at 6:14:43 AM
 
 > Showing 5 of 12 posts.
 
-[![React JS - Naming convention](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_JS_-_Naming_convention.svg)](https://dev.to/kristiyan_velkov/react-js-naming-convention-lcg)
-[![Dockerizing Spring Boot 3 Application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dockerizing_Spring_Boot_3_Application.svg)](https://dev.to/realnamehidden1_61/dockerizing-spring-boot-3-application-4eng)
-[![Exploring Caching with NestJS and Redis](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exploring_Caching_with_NestJS_and_Redis.svg)](https://dev.to/fikkyman1/exploring-caching-with-nestjs-and-redis-56aj)
-[![Dynamic SVG images using Next.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dynamic_SVG_images_using_Next.js.svg)](https://dev.to/nbouvrette/dynamic-svg-images-using-nextjs-1b3f)
-[![Exploring the Creative Potential of Large Language Models](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exploring_the_Creative_Potential_of_Large_Language_Models.svg)](https://dev.to/nneka_onochie/exploring-the-creative-potential-of-large-language-models-26en)
+[![Mindmapping: The Underrated Skill for Success in Life and Software Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mindmapping__The_Underrated_Skill_for_Success_in_Life_and_Software_Development.svg)](https://dev.to/jagroop2000/mindmapping-the-underrated-skill-for-success-in-life-and-software-development-4npi)
+[![Mastering the Art of CSS: Unveiling 5 Advanced Techniques for Web Design Wizards](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_the_Art_of_CSS__Unveiling_5_Advanced_Techniques_for_Web_Design_Wizards.svg)](https://dev.to/gloscode/mastering-the-art-of-css-unveiling-5-advanced-techniques-for-web-design-wizards-33le)
+[![The Long Road from Tester to Test Architect: A Journey of Continuous Learning](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Long_Road_from_Tester_to_Test_Architect__A_Journey_of_Continuous_Learning.svg)](https://dev.to/petermilovcik/the-long-road-from-tester-to-test-architect-a-journey-of-continuous-learning-dh3)
+[![Open Source or Personal Focus: What's the Best Path for Developers?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Open_Source_or_Personal_Focus__What's_the_Best_Path_for_Developers_.svg)](https://dev.to/devteam/open-source-or-personal-focus-whats-the-best-path-for-developers-7n1)
+[![Is Traditional Coding Worthwhile in the Era of Low-Code and No-Code Platforms?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Is_Traditional_Coding_Worthwhile_in_the_Era_of_Low-Code_and_No-Code_Platforms_.svg)](https://dev.to/codenewbieteam/is-traditional-coding-worthwhile-in-the-era-of-low-code-and-no-code-platforms-41gd)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, June 18, 2023 at 12:10:19 AM
+> Last updated: Sunday, June 18, 2023 at 6:14:46 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, June 18, 2023 at 12:10:23 AM
+> Last updated: Sunday, June 18, 2023 at 6:14:49 AM
 
 > Showing 5 of 30 posts.
 
