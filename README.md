@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, June 18, 2023 at 6:14:43 AM
+> Last updated: Sunday, June 18, 2023 at 12:09:25 PM
 
 > Showing 5 of 12 posts.
 
-[![Mindmapping: The Underrated Skill for Success in Life and Software Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mindmapping__The_Underrated_Skill_for_Success_in_Life_and_Software_Development.svg)](https://dev.to/jagroop2000/mindmapping-the-underrated-skill-for-success-in-life-and-software-development-4npi)
-[![Mastering the Art of CSS: Unveiling 5 Advanced Techniques for Web Design Wizards](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_the_Art_of_CSS__Unveiling_5_Advanced_Techniques_for_Web_Design_Wizards.svg)](https://dev.to/gloscode/mastering-the-art-of-css-unveiling-5-advanced-techniques-for-web-design-wizards-33le)
-[![The Long Road from Tester to Test Architect: A Journey of Continuous Learning](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Long_Road_from_Tester_to_Test_Architect__A_Journey_of_Continuous_Learning.svg)](https://dev.to/petermilovcik/the-long-road-from-tester-to-test-architect-a-journey-of-continuous-learning-dh3)
-[![Open Source or Personal Focus: What's the Best Path for Developers?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Open_Source_or_Personal_Focus__What's_the_Best_Path_for_Developers_.svg)](https://dev.to/devteam/open-source-or-personal-focus-whats-the-best-path-for-developers-7n1)
-[![Is Traditional Coding Worthwhile in the Era of Low-Code and No-Code Platforms?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Is_Traditional_Coding_Worthwhile_in_the_Era_of_Low-Code_and_No-Code_Platforms_.svg)](https://dev.to/codenewbieteam/is-traditional-coding-worthwhile-in-the-era-of-low-code-and-no-code-platforms-41gd)
+[![Create, Push, and Present Any View Controller in 1 LOC using Metaprogramming](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create__Push__and_Present_Any_View_Controller_in_1_LOC_using_Metaprogramming.svg)](https://dev.to/ivangoremykin/create-push-and-present-any-view-controller-in-1-loc-using-metaprogramming-4o8d)
+[![Mastering MultiIndexes in Pandas: A Powerful Tool for Complex Data Analysis](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_MultiIndexes_in_Pandas__A_Powerful_Tool_for_Complex_Data_Analysis.svg)](https://dev.to/glennviroux/mastering-multiindexes-in-pandas-a-powerful-tool-for-complex-data-analysis-4lkf)
+[![Integrate Nodemailer with React.js ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Integrate_Nodemailer_with_React.js_.svg)](https://dev.to/scofieldidehen/integrate-nodemailer-with-reactjs-4ioi)
+[![💻ES6 tutorial: template literal in javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/💻ES6_tutorial__template_literal_in_javascript.svg)](https://dev.to/rafikadir/es6-tutorial-template-literal-in-javascript-84p)
+[![React Server Model (RSM) v0.3.0 is released!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Server_Model_(RSM)_v0.3.0_is_released!.svg)](https://dev.to/jason89521/react-server-model-rsm-v030-is-released-4pk8)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, June 18, 2023 at 6:14:46 AM
+> Last updated: Sunday, June 18, 2023 at 12:09:27 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, June 18, 2023 at 6:14:49 AM
+> Last updated: Sunday, June 18, 2023 at 12:09:31 PM
 
 > Showing 5 of 30 posts.
 
