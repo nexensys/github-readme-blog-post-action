@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, June 19, 2023 at 12:11:42 AM
+> Last updated: Monday, June 19, 2023 at 6:17:28 AM
 
 > Showing 5 of 12 posts.
 
-[![Mastering CSS Shorthand Properties: Tips and Tricks for Streamlining Your Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_CSS_Shorthand_Properties__Tips_and_Tricks_for_Streamlining_Your_Code.svg)](https://dev.to/roktim32/mastering-css-shorthand-properties-tips-and-tricks-for-streamlining-your-code-ld4)
-[![celebrating over 1000 followers on dev](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/celebrating_over_1000_followers_on_dev.svg)](https://dev.to/coderatul/celebrating-over-1000-followers-on-dev-276a)
-[![Emojies - for your next post 😍](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Emojies_-_for_your_next_post_😍.svg)](https://dev.to/kristiyan_velkov/emojies-for-your-next-article-290a)
-[![Exploring the Capabilities of Amazon API Gateway: A Complete Overview](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exploring_the_Capabilities_of_Amazon_API_Gateway__A_Complete_Overview.svg)](https://dev.to/brandondamue/exploring-the-capabilities-of-amazon-api-gateway-a-complete-overview-178f)
-[![DevHunt, Best way to promote your Dev Tool or Open Source project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/DevHunt__Best_way_to_promote_your_Dev_Tool_or_Open_Source_project.svg)](https://dev.to/johnrushx/devhunt-best-way-to-promote-your-dev-tool-or-open-source-project-11l4)
+[![We can use :has, finally!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/We_can_use__has__finally!.svg)](https://dev.to/tomquinonero/we-can-use-has-finally-2f91)
+[![files](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/files.svg)](https://dev.to/eslee99/files-480c)
+[![Continuous Testing: Streamlining Your Testing Process in Web Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Continuous_Testing__Streamlining_Your_Testing_Process_in_Web_Development.svg)](https://dev.to/agilitest/continuous-testing-streamlining-your-testing-process-in-web-development-1321)
+[![VIM setup](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/VIM_setup.svg)](https://dev.to/pvivo/vim-setup-13fc)
+[![Create your HTML forms without server for free! 💪🤑](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_your_HTML_forms_without_server_for_free!_💪🤑.svg)](https://dev.to/clement_grosieux/create-your-html-forms-without-server-for-free-7k5)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, June 19, 2023 at 12:11:47 AM
+> Last updated: Monday, June 19, 2023 at 6:17:31 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, June 19, 2023 at 12:11:52 AM
+> Last updated: Monday, June 19, 2023 at 6:17:37 AM
 
 > Showing 5 of 30 posts.
 
