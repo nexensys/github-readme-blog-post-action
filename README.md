@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, June 18, 2023 at 12:09:25 PM
+> Last updated: Sunday, June 18, 2023 at 6:50:05 PM
 
 > Showing 5 of 12 posts.
 
-[![Create, Push, and Present Any View Controller in 1 LOC using Metaprogramming](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create__Push__and_Present_Any_View_Controller_in_1_LOC_using_Metaprogramming.svg)](https://dev.to/ivangoremykin/create-push-and-present-any-view-controller-in-1-loc-using-metaprogramming-4o8d)
-[![Mastering MultiIndexes in Pandas: A Powerful Tool for Complex Data Analysis](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_MultiIndexes_in_Pandas__A_Powerful_Tool_for_Complex_Data_Analysis.svg)](https://dev.to/glennviroux/mastering-multiindexes-in-pandas-a-powerful-tool-for-complex-data-analysis-4lkf)
-[![Integrate Nodemailer with React.js ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Integrate_Nodemailer_with_React.js_.svg)](https://dev.to/scofieldidehen/integrate-nodemailer-with-reactjs-4ioi)
-[![💻ES6 tutorial: template literal in javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/💻ES6_tutorial__template_literal_in_javascript.svg)](https://dev.to/rafikadir/es6-tutorial-template-literal-in-javascript-84p)
-[![React Server Model (RSM) v0.3.0 is released!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Server_Model_(RSM)_v0.3.0_is_released!.svg)](https://dev.to/jason89521/react-server-model-rsm-v030-is-released-4pk8)
+[![Streamlining Frontend Testing: A Comprehensive Guide to the Best Tools](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Streamlining_Frontend_Testing__A_Comprehensive_Guide_to_the_Best_Tools.svg)](https://dev.to/josematoswork/streamlining-frontend-testing-a-comprehensive-guide-to-the-best-tools-ic)
+[![Is Your Community Accessible?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Is_Your_Community_Accessible_.svg)](https://dev.to/colabottles/is-your-community-accessible-464b)
+[![If more than half of your commits are “feat” ones, you're doing something wrong](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/If_more_than_half_of_your_commits_are_“feat”_ones__you're_doing_something_wrong.svg)](https://dev.to/noriller/if-more-than-half-of-your-commits-are-feat-ones-youre-doing-something-wrong-m7j)
+[![Creating an "Install to Home Screen" Prompt in a Next.js Progressive Web App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_an__Install_to_Home_Screen__Prompt_in_a_Next.js_Progressive_Web_App.svg)](https://dev.to/designly/creating-an-install-to-home-screen-prompt-in-a-nextjs-progressive-web-app-2o1)
+[![React Modal: A Step-by-Step Tutorial Even Your Grandma Can Follow! ;)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Modal__A_Step-by-Step_Tutorial_Even_Your_Grandma_Can_Follow!_;).svg)](https://dev.to/jitskedh/react-modal-a-step-by-step-tutorial-even-your-grandma-can-follow--20nm)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, June 18, 2023 at 12:09:27 PM
+> Last updated: Sunday, June 18, 2023 at 6:50:08 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, June 18, 2023 at 12:09:31 PM
+> Last updated: Sunday, June 18, 2023 at 6:50:12 PM
 
 > Showing 5 of 30 posts.
 
