@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, June 18, 2023 at 6:50:05 PM
+> Last updated: Monday, June 19, 2023 at 12:11:42 AM
 
 > Showing 5 of 12 posts.
 
-[![Streamlining Frontend Testing: A Comprehensive Guide to the Best Tools](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Streamlining_Frontend_Testing__A_Comprehensive_Guide_to_the_Best_Tools.svg)](https://dev.to/josematoswork/streamlining-frontend-testing-a-comprehensive-guide-to-the-best-tools-ic)
-[![Is Your Community Accessible?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Is_Your_Community_Accessible_.svg)](https://dev.to/colabottles/is-your-community-accessible-464b)
-[![If more than half of your commits are “feat” ones, you're doing something wrong](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/If_more_than_half_of_your_commits_are_“feat”_ones__you're_doing_something_wrong.svg)](https://dev.to/noriller/if-more-than-half-of-your-commits-are-feat-ones-youre-doing-something-wrong-m7j)
-[![Creating an "Install to Home Screen" Prompt in a Next.js Progressive Web App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_an__Install_to_Home_Screen__Prompt_in_a_Next.js_Progressive_Web_App.svg)](https://dev.to/designly/creating-an-install-to-home-screen-prompt-in-a-nextjs-progressive-web-app-2o1)
-[![React Modal: A Step-by-Step Tutorial Even Your Grandma Can Follow! ;)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Modal__A_Step-by-Step_Tutorial_Even_Your_Grandma_Can_Follow!_;).svg)](https://dev.to/jitskedh/react-modal-a-step-by-step-tutorial-even-your-grandma-can-follow--20nm)
+[![Mastering CSS Shorthand Properties: Tips and Tricks for Streamlining Your Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_CSS_Shorthand_Properties__Tips_and_Tricks_for_Streamlining_Your_Code.svg)](https://dev.to/roktim32/mastering-css-shorthand-properties-tips-and-tricks-for-streamlining-your-code-ld4)
+[![celebrating over 1000 followers on dev](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/celebrating_over_1000_followers_on_dev.svg)](https://dev.to/coderatul/celebrating-over-1000-followers-on-dev-276a)
+[![Emojies - for your next post 😍](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Emojies_-_for_your_next_post_😍.svg)](https://dev.to/kristiyan_velkov/emojies-for-your-next-article-290a)
+[![Exploring the Capabilities of Amazon API Gateway: A Complete Overview](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exploring_the_Capabilities_of_Amazon_API_Gateway__A_Complete_Overview.svg)](https://dev.to/brandondamue/exploring-the-capabilities-of-amazon-api-gateway-a-complete-overview-178f)
+[![DevHunt, Best way to promote your Dev Tool or Open Source project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/DevHunt__Best_way_to_promote_your_Dev_Tool_or_Open_Source_project.svg)](https://dev.to/johnrushx/devhunt-best-way-to-promote-your-dev-tool-or-open-source-project-11l4)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, June 18, 2023 at 6:50:08 PM
+> Last updated: Monday, June 19, 2023 at 12:11:47 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, June 18, 2023 at 6:50:12 PM
+> Last updated: Monday, June 19, 2023 at 12:11:52 AM
 
 > Showing 5 of 30 posts.
 
+[![Iterating over a JavaScript Object](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Iterating_over_a_JavaScript_Object.svg)](https://www.js-tutorials.com/javascript-tutorial/iterating-over-a-javascript-object/)
 [![How to Break from forEach in JavaScript? | Mayallo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Break_from_forEach_in_JavaScript____Mayallo.svg)](https://mayallo.com/break-foreach-javascript/)
 [![
 RxDB as a Database in an Angular Application
@@ -55,7 +56,6 @@ https://rxdb.info/articles/angular-database.html
 )
 [![Customizing Docusaurus components | bitExpert](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Customizing_Docusaurus_components___bitExpert.svg)](https://blog.bitexpert.de/blog/customizing_docusaurus_components)
 [![How to upload files to the server using JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_upload_files_to_the_server_using_JavaScript.svg)](https://www.ma-no.org/en/programming/javascript/how-to-upload-files-to-the-server-using-javascript)
-[![Building a Live Streaming App with React and Video SDK](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_a_Live_Streaming_App_with_React_and_Video_SDK.svg)](https://dev.to/video-sdk/react-live-streaming-32bl)
 
 
 <!-- post-list:end -->
