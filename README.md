@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, June 19, 2023 at 6:17:28 AM
+> Last updated: Monday, June 19, 2023 at 12:10:45 PM
 
 > Showing 5 of 12 posts.
 
-[![We can use :has, finally!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/We_can_use__has__finally!.svg)](https://dev.to/tomquinonero/we-can-use-has-finally-2f91)
-[![files](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/files.svg)](https://dev.to/eslee99/files-480c)
-[![Continuous Testing: Streamlining Your Testing Process in Web Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Continuous_Testing__Streamlining_Your_Testing_Process_in_Web_Development.svg)](https://dev.to/agilitest/continuous-testing-streamlining-your-testing-process-in-web-development-1321)
-[![VIM setup](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/VIM_setup.svg)](https://dev.to/pvivo/vim-setup-13fc)
-[![Create your HTML forms without server for free! 💪🤑](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_your_HTML_forms_without_server_for_free!_💪🤑.svg)](https://dev.to/clement_grosieux/create-your-html-forms-without-server-for-free-7k5)
+[![The Power of Blockchain for Smart Contracts: A Comprehensive Guide to Web3 Security](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Power_of_Blockchain_for_Smart_Contracts__A_Comprehensive_Guide_to_Web3_Security.svg)](https://dev.to/securedappseo/the-power-of-blockchain-for-smart-contracts-a-comprehensive-guide-to-web3-security-2935)
+[![Building a Real-Time Search Filter in React: A Step-by-Step Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_Real-Time_Search_Filter_in_React__A_Step-by-Step_Guide.svg)](https://dev.to/alais29/building-a-real-time-search-filter-in-react-a-step-by-step-guide-3lmm)
+[![Explorando el GPT3.5-Turbo-16K: Una nueva frontera en la IA conversacional](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Explorando_el_GPT3.5-Turbo-16K__Una_nueva_frontera_en_la_IA_conversacional.svg)](https://dev.to/makiai/explorando-el-gpt35-turbo-16k-una-nueva-frontera-en-la-ia-conversacional-3po2)
+[![7 tools to code your first project in a week.🚨 Alert: this story from newbie to newbies 😂](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/7_tools_to_code_your_first_project_in_a_week.🚨_Alert__this_story_from_newbie_to_newbies_😂.svg)](https://dev.to/shnai0/7-tools-to-code-your-first-project-in-a-week-alert-this-story-from-newbie-to-newbies-1a66)
+[![What are your Goals for the week of June 19th?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_are_your_Goals_for_the_week_of_June_19th_.svg)](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-of-june-19th-42b7)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, June 19, 2023 at 6:17:31 AM
+> Last updated: Monday, June 19, 2023 at 12:10:48 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, June 19, 2023 at 6:17:37 AM
+> Last updated: Monday, June 19, 2023 at 12:10:55 PM
 
 > Showing 5 of 30 posts.
 
+[![API with NestJS #113. Logging with Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__113._Logging_with_Prisma.svg)](https://wanago.io/2023/06/19/api-nestjs-prisma-logging/)
+[![
+Dallas white granite countertop ideas
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Dallas_white_granite_countertop_ideas_.svg)](
+http://www.echojs.com/news/41818
+)
+[![GitHub - iDev-Games/Trig-JS: The easy way to create CSS scroll animations that react to the position of your HTML element on screen. Animate on scroll (AOS) your CSS.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_iDev-Games_Trig-JS__The_easy_way_to_create_CSS_scroll_animations_that_react_to_the_position_of_your_HTML_element_on_screen._Animate_on_scroll_(AOS)_your_CSS..svg)](https://github.com/iDev-Games/Trig-JS)
 [![Iterating over a JavaScript Object](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Iterating_over_a_JavaScript_Object.svg)](https://www.js-tutorials.com/javascript-tutorial/iterating-over-a-javascript-object/)
 [![How to Break from forEach in JavaScript? | Mayallo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Break_from_forEach_in_JavaScript____Mayallo.svg)](https://mayallo.com/break-foreach-javascript/)
-[![
-RxDB as a Database in an Angular Application
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_RxDB_as_a_Database_in_an_Angular_Application_.svg)](
-https://rxdb.info/articles/angular-database.html
-)
-[![Customizing Docusaurus components | bitExpert](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Customizing_Docusaurus_components___bitExpert.svg)](https://blog.bitexpert.de/blog/customizing_docusaurus_components)
-[![How to upload files to the server using JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_upload_files_to_the_server_using_JavaScript.svg)](https://www.ma-no.org/en/programming/javascript/how-to-upload-files-to-the-server-using-javascript)
 
 
 <!-- post-list:end -->
