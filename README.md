@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, June 20, 2023 at 6:16:17 AM
+> Last updated: Tuesday, June 20, 2023 at 12:09:12 PM
 
 > Showing 5 of 12 posts.
 
-[![Using GitHub & GitLab at the same Time](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_GitHub___GitLab_at_the_same_Time.svg)](https://dev.to/coderiem/using-github-gitlab-at-the-same-time-1klf)
-[![The best light/dark mode theme toggle in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_best_light_dark_mode_theme_toggle_in_JavaScript.svg)](https://dev.to/whitep4nth3r/the-best-lightdark-mode-theme-toggle-in-javascript-368f)
-[![Number::Phone is now 64-bit only](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Number__Phone_is_now_64-bit_only.svg)](https://dev.to/drhyde/numberphone-is-now-64-bit-only-eje)
-[![Promise.all() vs Promise.race()](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Promise.all()_vs_Promise.race().svg)](https://dev.to/codecraftjs/promiseall-vs-promiserace-n9k)
-[![3 Reasons Why Developers Fail (And How To Fix Them)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/3_Reasons_Why_Developers_Fail_(And_How_To_Fix_Them).svg)](https://dev.to/dragosnedelcu/3-reasons-why-developers-fail-13bl)
+[![List of apps I use every day - Version 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/List_of_apps_I_use_every_day_-_Version_2023.svg)](https://dev.to/eduardohitek/list-of-apps-i-use-every-day-version-2023-a88)
+[![How we set up GPG keys as Environment variables](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_we_set_up_GPG_keys_as_Environment_variables.svg)](https://dev.to/epam_india_python/how-we-set-up-gpg-keys-as-environment-variables-2f26)
+[![Medusa Recap: Product Module, Admin Extensibility, Omnichannel features and more](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Medusa_Recap__Product_Module__Admin_Extensibility__Omnichannel_features_and_more.svg)](https://dev.to/medusajs/medusa-recap-product-module-admin-extensibility-omnichannel-features-and-more-ko7)
+[![Install NGINX in Ubuntu 22.04 LTS Server](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Install_NGINX_in_Ubuntu_22.04_LTS_Server.svg)](https://dev.to/aspsptyd/install-nginx-in-ubuntu-2204-lts-server-55m7)
+[![Azure AD intro with Terraform examples](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Azure_AD_intro_with_Terraform_examples.svg)](https://dev.to/vchiranjeeviak/azure-ad-intro-with-terraform-examples-13dl)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, June 20, 2023 at 6:16:21 AM
+> Last updated: Tuesday, June 20, 2023 at 12:09:14 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, June 20, 2023 at 6:16:27 AM
+> Last updated: Tuesday, June 20, 2023 at 12:09:16 PM
 
 > Showing 5 of 30 posts.
 
+[![Fine - Build better software, faster](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Fine_-_Build_better_software__faster.svg)](
+https://www.fine.dev
+)
 [![Expert React Native App Development Services in Australia!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Expert_React_Native_App_Development_Services_in_Australia!.svg)](https://www.hybridappbuilders.com/react-native-app-development-australia/)
 [![AI Development Company | Artificial Intelligence Development - Sofster](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/AI_Development_Company___Artificial_Intelligence_Development_-_Sofster.svg)](https://sofster.com/ai-application-development-company/)
 [![GitHub - xflipperkast/Flappy-Bird: Flappy Bird in javascript. With shop coins and easy to edit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_xflipperkast_Flappy-Bird__Flappy_Bird_in_javascript._With_shop_coins_and_easy_to_edit.svg)](https://github.com/xflipperkast/Flappy-Bird)
 [![How I put ChatGPT into a WYSIWYG editor](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_I_put_ChatGPT_into_a_WYSIWYG_editor.svg)](https://vrite.io/blog/how-i-put-chat-gpt-into-a-wysiwyg-editor/)
-[![API with NestJS #113. Logging with Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__113._Logging_with_Prisma.svg)](https://wanago.io/2023/06/19/api-nestjs-prisma-logging/)
 
 
 <!-- post-list:end -->
