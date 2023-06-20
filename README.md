@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, June 19, 2023 at 6:47:47 PM
+> Last updated: Tuesday, June 20, 2023 at 12:11:47 AM
 
 > Showing 5 of 12 posts.
 
+[![Google Login in Rails 7 with devise](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Google_Login_in_Rails_7_with_devise.svg)](https://dev.to/ahmadraza/google-login-in-rails-7-with-devise-2gpo)
+[![creating own RANDOM number generator](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/creating_own_RANDOM_number_generator.svg)](https://dev.to/coderatul/creating-own-random-number-generator-51dk)
+[![Style Position Fixed in a better way](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Style_Position_Fixed_in_a_better_way.svg)](https://dev.to/integridsolutions/style-position-fixed-in-a-better-way-169g)
+[![Generate Allure reports in Cypress Framework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Generate_Allure_reports_in_Cypress_Framework.svg)](https://dev.to/raghwendrasonu/generate-allure-reports-in-cypress-framework-1odb)
 [![The Definitive Guide to Make API Calls in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Definitive_Guide_to_Make_API_Calls_in_React.svg)](https://dev.to/wolfflucas/the-definitive-guide-to-make-api-calls-in-react-2c1i)
-[![Ace the " Where do you see yourself in five years" question in your next interview.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ace_the___Where_do_you_see_yourself_in_five_years__question_in_your_next_interview..svg)](https://dev.to/martinkr/ace-the-where-do-you-see-yourself-in-five-years-question-in-your-next-interview-33g7)
-[![Node.js and TypeScript Tutorial: Build a rest API with Typescript, NodeJS, and a file-based storage system.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Node.js_and_TypeScript_Tutorial__Build_a_rest_API_with_Typescript__NodeJS__and_a_file-based_storage_system..svg)](https://dev.to/realsteveig/nodejs-and-typescript-tutorial-build-a-rest-api-with-typescript-nodejs-and-a-file-based-storage-system-2l61)
-[![How I put ChatGPT into a WYSIWYG editor](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_I_put_ChatGPT_into_a_WYSIWYG_editor.svg)](https://dev.to/areknawo/how-i-put-chatgpt-into-a-wysiwyg-editor-ndf)
-[![Introducing Westernal: A social media based on songs (part 2)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_Westernal__A_social_media_based_on_songs_(part_2).svg)](https://dev.to/westernal/introducing-westernal-a-social-media-based-on-songs-part-2-ejl)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, June 19, 2023 at 6:47:50 PM
+> Last updated: Tuesday, June 20, 2023 at 12:11:50 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, June 19, 2023 at 6:47:54 PM
+> Last updated: Tuesday, June 20, 2023 at 12:11:54 AM
 
 > Showing 5 of 30 posts.
 
+[![Expert React Native App Development Services in Australia!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Expert_React_Native_App_Development_Services_in_Australia!.svg)](https://www.hybridappbuilders.com/react-native-app-development-australia/)
+[![AI Development Company | Artificial Intelligence Development - Sofster](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/AI_Development_Company___Artificial_Intelligence_Development_-_Sofster.svg)](https://sofster.com/ai-application-development-company/)
 [![GitHub - xflipperkast/Flappy-Bird: Flappy Bird in javascript. With shop coins and easy to edit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_xflipperkast_Flappy-Bird__Flappy_Bird_in_javascript._With_shop_coins_and_easy_to_edit.svg)](https://github.com/xflipperkast/Flappy-Bird)
 [![How I put ChatGPT into a WYSIWYG editor](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_I_put_ChatGPT_into_a_WYSIWYG_editor.svg)](https://vrite.io/blog/how-i-put-chat-gpt-into-a-wysiwyg-editor/)
 [![API with NestJS #113. Logging with Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__113._Logging_with_Prisma.svg)](https://wanago.io/2023/06/19/api-nestjs-prisma-logging/)
-[![
-Dallas white granite countertop ideas
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Dallas_white_granite_countertop_ideas_.svg)](
-http://www.echojs.com/news/41818
-)
-[![GitHub - iDev-Games/Trig-JS: The easy way to create CSS scroll animations that react to the position of your HTML element on screen. Animate on scroll (AOS) your CSS.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_iDev-Games_Trig-JS__The_easy_way_to_create_CSS_scroll_animations_that_react_to_the_position_of_your_HTML_element_on_screen._Animate_on_scroll_(AOS)_your_CSS..svg)](https://github.com/iDev-Games/Trig-JS)
 
 
 <!-- post-list:end -->
