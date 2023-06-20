@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, June 19, 2023 at 12:10:45 PM
+> Last updated: Monday, June 19, 2023 at 6:47:47 PM
 
 > Showing 5 of 12 posts.
 
-[![The Power of Blockchain for Smart Contracts: A Comprehensive Guide to Web3 Security](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Power_of_Blockchain_for_Smart_Contracts__A_Comprehensive_Guide_to_Web3_Security.svg)](https://dev.to/securedappseo/the-power-of-blockchain-for-smart-contracts-a-comprehensive-guide-to-web3-security-2935)
-[![Building a Real-Time Search Filter in React: A Step-by-Step Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_Real-Time_Search_Filter_in_React__A_Step-by-Step_Guide.svg)](https://dev.to/alais29/building-a-real-time-search-filter-in-react-a-step-by-step-guide-3lmm)
-[![Explorando el GPT3.5-Turbo-16K: Una nueva frontera en la IA conversacional](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Explorando_el_GPT3.5-Turbo-16K__Una_nueva_frontera_en_la_IA_conversacional.svg)](https://dev.to/makiai/explorando-el-gpt35-turbo-16k-una-nueva-frontera-en-la-ia-conversacional-3po2)
-[![7 tools to code your first project in a week.🚨 Alert: this story from newbie to newbies 😂](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/7_tools_to_code_your_first_project_in_a_week.🚨_Alert__this_story_from_newbie_to_newbies_😂.svg)](https://dev.to/shnai0/7-tools-to-code-your-first-project-in-a-week-alert-this-story-from-newbie-to-newbies-1a66)
-[![What are your Goals for the week of June 19th?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_are_your_Goals_for_the_week_of_June_19th_.svg)](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-of-june-19th-42b7)
+[![The Definitive Guide to Make API Calls in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Definitive_Guide_to_Make_API_Calls_in_React.svg)](https://dev.to/wolfflucas/the-definitive-guide-to-make-api-calls-in-react-2c1i)
+[![Ace the " Where do you see yourself in five years" question in your next interview.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ace_the___Where_do_you_see_yourself_in_five_years__question_in_your_next_interview..svg)](https://dev.to/martinkr/ace-the-where-do-you-see-yourself-in-five-years-question-in-your-next-interview-33g7)
+[![Node.js and TypeScript Tutorial: Build a rest API with Typescript, NodeJS, and a file-based storage system.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Node.js_and_TypeScript_Tutorial__Build_a_rest_API_with_Typescript__NodeJS__and_a_file-based_storage_system..svg)](https://dev.to/realsteveig/nodejs-and-typescript-tutorial-build-a-rest-api-with-typescript-nodejs-and-a-file-based-storage-system-2l61)
+[![How I put ChatGPT into a WYSIWYG editor](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_I_put_ChatGPT_into_a_WYSIWYG_editor.svg)](https://dev.to/areknawo/how-i-put-chatgpt-into-a-wysiwyg-editor-ndf)
+[![Introducing Westernal: A social media based on songs (part 2)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_Westernal__A_social_media_based_on_songs_(part_2).svg)](https://dev.to/westernal/introducing-westernal-a-social-media-based-on-songs-part-2-ejl)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, June 19, 2023 at 12:10:48 PM
+> Last updated: Monday, June 19, 2023 at 6:47:50 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,12 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, June 19, 2023 at 12:10:55 PM
+> Last updated: Monday, June 19, 2023 at 6:47:54 PM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - xflipperkast/Flappy-Bird: Flappy Bird in javascript. With shop coins and easy to edit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_xflipperkast_Flappy-Bird__Flappy_Bird_in_javascript._With_shop_coins_and_easy_to_edit.svg)](https://github.com/xflipperkast/Flappy-Bird)
+[![How I put ChatGPT into a WYSIWYG editor](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_I_put_ChatGPT_into_a_WYSIWYG_editor.svg)](https://vrite.io/blog/how-i-put-chat-gpt-into-a-wysiwyg-editor/)
 [![API with NestJS #113. Logging with Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__113._Logging_with_Prisma.svg)](https://wanago.io/2023/06/19/api-nestjs-prisma-logging/)
 [![
 Dallas white granite countertop ideas
@@ -54,8 +56,6 @@ Dallas white granite countertop ideas
 http://www.echojs.com/news/41818
 )
 [![GitHub - iDev-Games/Trig-JS: The easy way to create CSS scroll animations that react to the position of your HTML element on screen. Animate on scroll (AOS) your CSS.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_iDev-Games_Trig-JS__The_easy_way_to_create_CSS_scroll_animations_that_react_to_the_position_of_your_HTML_element_on_screen._Animate_on_scroll_(AOS)_your_CSS..svg)](https://github.com/iDev-Games/Trig-JS)
-[![Iterating over a JavaScript Object](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Iterating_over_a_JavaScript_Object.svg)](https://www.js-tutorials.com/javascript-tutorial/iterating-over-a-javascript-object/)
-[![How to Break from forEach in JavaScript? | Mayallo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Break_from_forEach_in_JavaScript____Mayallo.svg)](https://mayallo.com/break-foreach-javascript/)
 
 
 <!-- post-list:end -->
