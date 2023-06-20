@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, June 20, 2023 at 12:11:47 AM
+> Last updated: Tuesday, June 20, 2023 at 6:16:17 AM
 
 > Showing 5 of 12 posts.
 
-[![Google Login in Rails 7 with devise](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Google_Login_in_Rails_7_with_devise.svg)](https://dev.to/ahmadraza/google-login-in-rails-7-with-devise-2gpo)
-[![creating own RANDOM number generator](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/creating_own_RANDOM_number_generator.svg)](https://dev.to/coderatul/creating-own-random-number-generator-51dk)
-[![Style Position Fixed in a better way](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Style_Position_Fixed_in_a_better_way.svg)](https://dev.to/integridsolutions/style-position-fixed-in-a-better-way-169g)
-[![Generate Allure reports in Cypress Framework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Generate_Allure_reports_in_Cypress_Framework.svg)](https://dev.to/raghwendrasonu/generate-allure-reports-in-cypress-framework-1odb)
-[![The Definitive Guide to Make API Calls in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Definitive_Guide_to_Make_API_Calls_in_React.svg)](https://dev.to/wolfflucas/the-definitive-guide-to-make-api-calls-in-react-2c1i)
+[![Using GitHub & GitLab at the same Time](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_GitHub___GitLab_at_the_same_Time.svg)](https://dev.to/coderiem/using-github-gitlab-at-the-same-time-1klf)
+[![The best light/dark mode theme toggle in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_best_light_dark_mode_theme_toggle_in_JavaScript.svg)](https://dev.to/whitep4nth3r/the-best-lightdark-mode-theme-toggle-in-javascript-368f)
+[![Number::Phone is now 64-bit only](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Number__Phone_is_now_64-bit_only.svg)](https://dev.to/drhyde/numberphone-is-now-64-bit-only-eje)
+[![Promise.all() vs Promise.race()](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Promise.all()_vs_Promise.race().svg)](https://dev.to/codecraftjs/promiseall-vs-promiserace-n9k)
+[![3 Reasons Why Developers Fail (And How To Fix Them)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/3_Reasons_Why_Developers_Fail_(And_How_To_Fix_Them).svg)](https://dev.to/dragosnedelcu/3-reasons-why-developers-fail-13bl)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, June 20, 2023 at 12:11:50 AM
+> Last updated: Tuesday, June 20, 2023 at 6:16:21 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, June 20, 2023 at 12:11:54 AM
+> Last updated: Tuesday, June 20, 2023 at 6:16:27 AM
 
 > Showing 5 of 30 posts.
 
