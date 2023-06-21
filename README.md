@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, June 21, 2023 at 12:11:12 AM
+> Last updated: Wednesday, June 21, 2023 at 6:16:09 AM
 
 > Showing 5 of 12 posts.
 
-[![Our experience adding Edge Runtime to Next.js SDK](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Our_experience_adding_Edge_Runtime_to_Next.js_SDK.svg)](https://dev.to/wangsijie/our-experience-adding-edge-runtime-to-nextjs-sdk-32mg)
-[![I made a trendy open-source ChatGPT AI Admin Template! Use it for free! 🧠](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_made_a_trendy_open-source_ChatGPT_AI_Admin_Template!_Use_it_for_free!_🧠.svg)](https://dev.to/fredy/i-made-a-trendy-open-source-chatgpt-ai-admin-template-use-it-for-free-2388)
-[![Embracing the Journey: Tips and Resources for Self-Taught Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Embracing_the_Journey__Tips_and_Resources_for_Self-Taught_Developers.svg)](https://dev.to/rhythmusbyte/embracing-the-journey-tips-and-resources-for-self-taught-developers-2epm)
-[![Python Syntax: The Lazy Guide for Beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Python_Syntax__The_Lazy_Guide_for_Beginners.svg)](https://dev.to/scofieldidehen/python-syntax-the-lazy-guide-for-beginners-3f3n)
-[![From Overspending to Smart Savings: Unleashing the Power of Cost Optimization on AWS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/From_Overspending_to_Smart_Savings__Unleashing_the_Power_of_Cost_Optimization_on_AWS.svg)](https://dev.to/brandondamue/from-overspending-to-smart-savings-unleashing-the-power-of-cost-optimization-on-aws-152a)
+[![5 Benefits of Outsourcing Your Testing Services](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Benefits_of_Outsourcing_Your_Testing_Services.svg)](https://dev.to/enis-azemi/5-benefits-of-outsourcing-your-testing-services-263c)
+[![Turning the screw with AI - ways for developer advocates to debunk the "AI can replace developers" myth](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Turning_the_screw_with_AI_-_ways_for_developer_advocates_to_debunk_the__AI_can_replace_developers__myth.svg)](https://dev.to/codepo8/turning-the-screw-with-ai-ways-for-developer-advocates-to-debunk-the-ai-can-replace-developers-myth-50p2)
+[![Converting from a Developer to a Product Founder in 10 years](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Converting_from_a_Developer_to_a_Product_Founder_in_10_years.svg)](https://dev.to/igorboky/converting-from-a-developer-to-a-product-founder-in-10-years-55gh)
+[![6 Fun Craft Ideas For Kids Using Recycled Color Cards](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/6_Fun_Craft_Ideas_For_Kids_Using_Recycled_Color_Cards.svg)](https://dev.to/enis-azemi/6-fun-craft-ideas-for-kids-using-recycled-color-cards-17fa)
+[![Reset your ErrorBoundary](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Reset_your_ErrorBoundary.svg)](https://dev.to/skathuria29/reset-your-errorboundary-2pgm)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, June 21, 2023 at 12:11:16 AM
+> Last updated: Wednesday, June 21, 2023 at 6:16:12 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, June 21, 2023 at 12:11:19 AM
+> Last updated: Wednesday, June 21, 2023 at 6:16:15 AM
 
 > Showing 5 of 30 posts.
 
+[![WordPress Theme Builder](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/WordPress_Theme_Builder.svg)](https://templatetoaster.com/wordpress-theme-builder)
 [![PR Agency in Dubai | Public Relations Agency & PR Firms UAE | Katch](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/PR_Agency_in_Dubai___Public_Relations_Agency___PR_Firms_UAE___Katch.svg)](https://katchinternational.com/public-relations-communication/)
 [![Fine - Build better software, faster](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Fine_-_Build_better_software__faster.svg)](
 https://www.fine.dev
 )
 [![Expert React Native App Development Services in Australia!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Expert_React_Native_App_Development_Services_in_Australia!.svg)](https://www.hybridappbuilders.com/react-native-app-development-australia/)
 [![AI Development Company | Artificial Intelligence Development - Sofster](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/AI_Development_Company___Artificial_Intelligence_Development_-_Sofster.svg)](https://sofster.com/ai-application-development-company/)
-[![GitHub - xflipperkast/Flappy-Bird: Flappy Bird in javascript. With shop coins and easy to edit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_xflipperkast_Flappy-Bird__Flappy_Bird_in_javascript._With_shop_coins_and_easy_to_edit.svg)](https://github.com/xflipperkast/Flappy-Bird)
 
 
 <!-- post-list:end -->
