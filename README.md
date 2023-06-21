@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, June 21, 2023 at 6:16:09 AM
+> Last updated: Wednesday, June 21, 2023 at 12:10:14 PM
 
 > Showing 5 of 12 posts.
 
-[![5 Benefits of Outsourcing Your Testing Services](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Benefits_of_Outsourcing_Your_Testing_Services.svg)](https://dev.to/enis-azemi/5-benefits-of-outsourcing-your-testing-services-263c)
-[![Turning the screw with AI - ways for developer advocates to debunk the "AI can replace developers" myth](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Turning_the_screw_with_AI_-_ways_for_developer_advocates_to_debunk_the__AI_can_replace_developers__myth.svg)](https://dev.to/codepo8/turning-the-screw-with-ai-ways-for-developer-advocates-to-debunk-the-ai-can-replace-developers-myth-50p2)
-[![Converting from a Developer to a Product Founder in 10 years](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Converting_from_a_Developer_to_a_Product_Founder_in_10_years.svg)](https://dev.to/igorboky/converting-from-a-developer-to-a-product-founder-in-10-years-55gh)
-[![6 Fun Craft Ideas For Kids Using Recycled Color Cards](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/6_Fun_Craft_Ideas_For_Kids_Using_Recycled_Color_Cards.svg)](https://dev.to/enis-azemi/6-fun-craft-ideas-for-kids-using-recycled-color-cards-17fa)
-[![Reset your ErrorBoundary](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Reset_your_ErrorBoundary.svg)](https://dev.to/skathuria29/reset-your-errorboundary-2pgm)
+[![Kubernetes with NodeJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Kubernetes_with_NodeJS.svg)](https://dev.to/mohammadfaisal/kubernetes-with-nodejs-3ekf)
+[![WiFi Hacking: A Comprehensive Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/WiFi_Hacking__A_Comprehensive_Guide.svg)](https://dev.to/scofieldidehen/wifi-hacking-a-comprehensive-guide-38hb)
+[![The double not operator (!!)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_double_not_operator_(!!).svg)](https://dev.to/accreditly/the-double-not-operator--5a4l)
+[![Clarifying the Java-JavaScript Conundrum: A Letter to Recruiters and Hiring Managers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Clarifying_the_Java-JavaScript_Conundrum__A_Letter_to_Recruiters_and_Hiring_Managers.svg)](https://dev.to/philipjohnbasile/clarifying-the-java-javascript-conundrum-a-letter-to-recruiters-and-hiring-managers-4bhj)
+[![Open standards, trust, and Google](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Open_standards__trust__and_Google.svg)](https://dev.to/cassidoo/open-standards-trust-and-google-4e22)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, June 21, 2023 at 6:16:12 AM
+> Last updated: Wednesday, June 21, 2023 at 12:10:18 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, June 21, 2023 at 6:16:15 AM
+> Last updated: Wednesday, June 21, 2023 at 12:10:26 PM
 
 > Showing 5 of 30 posts.
 
+[![How Service Workers Sped Up Our Website by 97.5%? - Yonatan Kra](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_Service_Workers_Sped_Up_Our_Website_by_97.5___-_Yonatan_Kra.svg)](https://yonatankra.com/how-service-workers-sped-up-our-website-by-97-5/)
 [![WordPress Theme Builder](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/WordPress_Theme_Builder.svg)](https://templatetoaster.com/wordpress-theme-builder)
-[![PR Agency in Dubai | Public Relations Agency & PR Firms UAE | Katch](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/PR_Agency_in_Dubai___Public_Relations_Agency___PR_Firms_UAE___Katch.svg)](https://katchinternational.com/public-relations-communication/)
-[![Fine - Build better software, faster](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Fine_-_Build_better_software__faster.svg)](
-https://www.fine.dev
-)
-[![Expert React Native App Development Services in Australia!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Expert_React_Native_App_Development_Services_in_Australia!.svg)](https://www.hybridappbuilders.com/react-native-app-development-australia/)
-[![AI Development Company | Artificial Intelligence Development - Sofster](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/AI_Development_Company___Artificial_Intelligence_Development_-_Sofster.svg)](https://sofster.com/ai-application-development-company/)
+[![GitHub - xflipperkast/Flappy-Bird: Flappy Bird in javascript. With shop coins and easy to edit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_xflipperkast_Flappy-Bird__Flappy_Bird_in_javascript._With_shop_coins_and_easy_to_edit.svg)](https://github.com/xflipperkast/Flappy-Bird)
+[![API with NestJS #113. Logging with Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__113._Logging_with_Prisma.svg)](https://wanago.io/2023/06/19/api-nestjs-prisma-logging/)
+[![GitHub - iDev-Games/Trig-JS: The easy way to create CSS scroll animations that react to the position of your HTML element on screen. Animate on scroll (AOS) your CSS.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_iDev-Games_Trig-JS__The_easy_way_to_create_CSS_scroll_animations_that_react_to_the_position_of_your_HTML_element_on_screen._Animate_on_scroll_(AOS)_your_CSS..svg)](https://github.com/iDev-Games/Trig-JS)
 
 
 <!-- post-list:end -->
