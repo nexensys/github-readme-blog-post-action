@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, June 20, 2023 at 6:52:00 PM
+> Last updated: Wednesday, June 21, 2023 at 12:11:12 AM
 
 > Showing 5 of 12 posts.
 
-[![9 Ways to Implement Vertical Alignment in CSS with Examples](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/9_Ways_to_Implement_Vertical_Alignment_in_CSS_with_Examples.svg)](https://dev.to/alakkadshaw/9-ways-to-implement-vertical-alignment-in-css-with-examples-53ig)
-[![Pulling your dev.to posts down locally](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Pulling_your_dev.to_posts_down_locally.svg)](https://dev.to/konnorrogers/pulling-your-devto-posts-down-locally-565g)
-[![Does anyone else have mixed feelings with remote work?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Does_anyone_else_have_mixed_feelings_with_remote_work_.svg)](https://dev.to/theaccordance/does-anyone-else-have-mixed-feelings-with-remote-work-22k4)
-[![#DEVDiscuss: Reddit's API Changes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_DEVDiscuss__Reddit's_API_Changes.svg)](https://dev.to/devteam/devdiscuss-reddits-api-changes-40dc)
-[![Technical Writing 101: Technical Ultimate Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Technical_Writing_101__Technical_Ultimate_Guide.svg)](https://dev.to/amandasuzzanne/technical-writing-101-technical-ultimate-guide-171i)
+[![Our experience adding Edge Runtime to Next.js SDK](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Our_experience_adding_Edge_Runtime_to_Next.js_SDK.svg)](https://dev.to/wangsijie/our-experience-adding-edge-runtime-to-nextjs-sdk-32mg)
+[![I made a trendy open-source ChatGPT AI Admin Template! Use it for free! 🧠](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_made_a_trendy_open-source_ChatGPT_AI_Admin_Template!_Use_it_for_free!_🧠.svg)](https://dev.to/fredy/i-made-a-trendy-open-source-chatgpt-ai-admin-template-use-it-for-free-2388)
+[![Embracing the Journey: Tips and Resources for Self-Taught Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Embracing_the_Journey__Tips_and_Resources_for_Self-Taught_Developers.svg)](https://dev.to/rhythmusbyte/embracing-the-journey-tips-and-resources-for-self-taught-developers-2epm)
+[![Python Syntax: The Lazy Guide for Beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Python_Syntax__The_Lazy_Guide_for_Beginners.svg)](https://dev.to/scofieldidehen/python-syntax-the-lazy-guide-for-beginners-3f3n)
+[![From Overspending to Smart Savings: Unleashing the Power of Cost Optimization on AWS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/From_Overspending_to_Smart_Savings__Unleashing_the_Power_of_Cost_Optimization_on_AWS.svg)](https://dev.to/brandondamue/from-overspending-to-smart-savings-unleashing-the-power-of-cost-optimization-on-aws-152a)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, June 20, 2023 at 6:52:04 PM
+> Last updated: Wednesday, June 21, 2023 at 12:11:16 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, June 20, 2023 at 6:52:07 PM
+> Last updated: Wednesday, June 21, 2023 at 12:11:19 AM
 
 > Showing 5 of 30 posts.
 
+[![PR Agency in Dubai | Public Relations Agency & PR Firms UAE | Katch](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/PR_Agency_in_Dubai___Public_Relations_Agency___PR_Firms_UAE___Katch.svg)](https://katchinternational.com/public-relations-communication/)
 [![Fine - Build better software, faster](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Fine_-_Build_better_software__faster.svg)](
 https://www.fine.dev
 )
 [![Expert React Native App Development Services in Australia!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Expert_React_Native_App_Development_Services_in_Australia!.svg)](https://www.hybridappbuilders.com/react-native-app-development-australia/)
 [![AI Development Company | Artificial Intelligence Development - Sofster](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/AI_Development_Company___Artificial_Intelligence_Development_-_Sofster.svg)](https://sofster.com/ai-application-development-company/)
 [![GitHub - xflipperkast/Flappy-Bird: Flappy Bird in javascript. With shop coins and easy to edit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_xflipperkast_Flappy-Bird__Flappy_Bird_in_javascript._With_shop_coins_and_easy_to_edit.svg)](https://github.com/xflipperkast/Flappy-Bird)
-[![How I put ChatGPT into a WYSIWYG editor](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_I_put_ChatGPT_into_a_WYSIWYG_editor.svg)](https://vrite.io/blog/how-i-put-chat-gpt-into-a-wysiwyg-editor/)
 
 
 <!-- post-list:end -->
