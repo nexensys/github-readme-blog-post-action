@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, June 20, 2023 at 12:09:12 PM
+> Last updated: Tuesday, June 20, 2023 at 6:52:00 PM
 
 > Showing 5 of 12 posts.
 
-[![List of apps I use every day - Version 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/List_of_apps_I_use_every_day_-_Version_2023.svg)](https://dev.to/eduardohitek/list-of-apps-i-use-every-day-version-2023-a88)
-[![How we set up GPG keys as Environment variables](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_we_set_up_GPG_keys_as_Environment_variables.svg)](https://dev.to/epam_india_python/how-we-set-up-gpg-keys-as-environment-variables-2f26)
-[![Medusa Recap: Product Module, Admin Extensibility, Omnichannel features and more](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Medusa_Recap__Product_Module__Admin_Extensibility__Omnichannel_features_and_more.svg)](https://dev.to/medusajs/medusa-recap-product-module-admin-extensibility-omnichannel-features-and-more-ko7)
-[![Install NGINX in Ubuntu 22.04 LTS Server](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Install_NGINX_in_Ubuntu_22.04_LTS_Server.svg)](https://dev.to/aspsptyd/install-nginx-in-ubuntu-2204-lts-server-55m7)
-[![Azure AD intro with Terraform examples](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Azure_AD_intro_with_Terraform_examples.svg)](https://dev.to/vchiranjeeviak/azure-ad-intro-with-terraform-examples-13dl)
+[![9 Ways to Implement Vertical Alignment in CSS with Examples](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/9_Ways_to_Implement_Vertical_Alignment_in_CSS_with_Examples.svg)](https://dev.to/alakkadshaw/9-ways-to-implement-vertical-alignment-in-css-with-examples-53ig)
+[![Pulling your dev.to posts down locally](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Pulling_your_dev.to_posts_down_locally.svg)](https://dev.to/konnorrogers/pulling-your-devto-posts-down-locally-565g)
+[![Does anyone else have mixed feelings with remote work?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Does_anyone_else_have_mixed_feelings_with_remote_work_.svg)](https://dev.to/theaccordance/does-anyone-else-have-mixed-feelings-with-remote-work-22k4)
+[![#DEVDiscuss: Reddit's API Changes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_DEVDiscuss__Reddit's_API_Changes.svg)](https://dev.to/devteam/devdiscuss-reddits-api-changes-40dc)
+[![Technical Writing 101: Technical Ultimate Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Technical_Writing_101__Technical_Ultimate_Guide.svg)](https://dev.to/amandasuzzanne/technical-writing-101-technical-ultimate-guide-171i)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, June 20, 2023 at 12:09:14 PM
+> Last updated: Tuesday, June 20, 2023 at 6:52:04 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, June 20, 2023 at 12:09:16 PM
+> Last updated: Tuesday, June 20, 2023 at 6:52:07 PM
 
 > Showing 5 of 30 posts.
 
