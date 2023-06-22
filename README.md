@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, June 21, 2023 at 6:50:58 PM
+> Last updated: Thursday, June 22, 2023 at 12:11:07 AM
 
 > Showing 5 of 12 posts.
 
-[![Develop Your First DApp: A Beginner's Walkthrough](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Develop_Your_First_DApp__A_Beginner's_Walkthrough.svg)](https://dev.to/bengreenberg/develop-your-first-dapp-a-beginners-walkthrough-24nk)
-[![The 5 pillars of every HTTP request](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_5_pillars_of_every_HTTP_request.svg)](https://dev.to/aminnairi/the-5-pillars-of-every-http-request-18ld)
-[![Ace the "How would your boss and coworkers describe you" question in your next interview.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ace_the__How_would_your_boss_and_coworkers_describe_you__question_in_your_next_interview..svg)](https://dev.to/martinkr/ace-the-how-would-your-boss-and-coworkers-describe-you-question-in-your-next-interview-3fnm)
-[![Vue and Input File - Clear File or Select same file](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Vue_and_Input_File_-_Clear_File_or_Select_same_file.svg)](https://dev.to/schirrel/vue-and-input-file-clear-file-or-select-same-file-24do)
-[![Controlling Cloud Costs: Strategies for keeping on top of your AWS cloud spend](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Controlling_Cloud_Costs__Strategies_for_keeping_on_top_of_your_AWS_cloud_spend.svg)](https://dev.to/aws-builders/controlling-cloud-costs-strategies-for-keeping-on-top-of-your-aws-cloud-spend-2a8i)
+[![Cargo Cult Agile](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cargo_Cult_Agile.svg)](https://dev.to/cheetah100/cargo-cult-agile-34ge)
+[![[ Remote] Reco is hiring Python Flask Techlead](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/[_Remote]_Reco_is_hiring_Python_Flask_Techlead.svg)](https://dev.to/nga3011/-remote-reco-is-hiring-python-flask-techlead-4fd7)
+[![Top resources for Tailwind CSS for 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_resources_for_Tailwind_CSS_for_2023.svg)](https://dev.to/roktim32/top-resources-for-tailwind-css-for-2023-22hn)
+[![An introduction to Jenkins - the CI/CD tool](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/An_introduction_to_Jenkins_-_the_CI_CD_tool.svg)](https://dev.to/farisdurrani/an-introduction-to-jenkins-the-cicd-tool-44k4)
+[![How popular are libraries in each technology](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_popular_are_libraries_in_each_technology.svg)](https://dev.to/chaituknag/how-popular-are-libraries-in-each-technology-128h)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, June 21, 2023 at 6:51:01 PM
+> Last updated: Thursday, June 22, 2023 at 12:11:10 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, June 21, 2023 at 6:51:04 PM
+> Last updated: Thursday, June 22, 2023 at 12:11:15 AM
 
 > Showing 5 of 30 posts.
 
+[![How To Add multiple rows using Sequelize bulkCreate() method](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_To_Add_multiple_rows_using_Sequelize_bulkCreate()_method.svg)](https://www.js-tutorials.com/javascript-tutorial/sequelize-bulk-create-example/)
 [![Ripple | Ripple](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Ripple___Ripple.svg)](https://ripple.m-c2.dev/)
 [![GitHub - Barqawiz/IntelliNode: Unified access to various AI models, such as ChatGPT, Diffusion, Cohere, and others, using a few Javascript lines.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Barqawiz_IntelliNode__Unified_access_to_various_AI_models__such_as_ChatGPT__Diffusion__Cohere__and_others__using_a_few_Javascript_lines..svg)](https://github.com/Barqawiz/IntelliNode)
 [![JavaScript Add Days to Date](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Add_Days_to_Date.svg)](
 https://masteringjs.io/tutorials/fundamentals/date-add-days
 )
 [![Auth0 | Angular Handbook: Identity and State Management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Auth0___Angular_Handbook__Identity_and_State_Management.svg)](https://auth0.com/resources/ebooks/angular-handbook-identity-and-state-management)
-[![How Service Workers Sped Up Our Website by 97.5%? - Yonatan Kra](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_Service_Workers_Sped_Up_Our_Website_by_97.5___-_Yonatan_Kra.svg)](https://yonatankra.com/how-service-workers-sped-up-our-website-by-97-5/)
 
 
 <!-- post-list:end -->
