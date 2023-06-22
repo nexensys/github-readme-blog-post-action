@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, June 21, 2023 at 12:10:14 PM
+> Last updated: Wednesday, June 21, 2023 at 6:50:58 PM
 
 > Showing 5 of 12 posts.
 
-[![Kubernetes with NodeJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Kubernetes_with_NodeJS.svg)](https://dev.to/mohammadfaisal/kubernetes-with-nodejs-3ekf)
-[![WiFi Hacking: A Comprehensive Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/WiFi_Hacking__A_Comprehensive_Guide.svg)](https://dev.to/scofieldidehen/wifi-hacking-a-comprehensive-guide-38hb)
-[![The double not operator (!!)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_double_not_operator_(!!).svg)](https://dev.to/accreditly/the-double-not-operator--5a4l)
-[![Clarifying the Java-JavaScript Conundrum: A Letter to Recruiters and Hiring Managers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Clarifying_the_Java-JavaScript_Conundrum__A_Letter_to_Recruiters_and_Hiring_Managers.svg)](https://dev.to/philipjohnbasile/clarifying-the-java-javascript-conundrum-a-letter-to-recruiters-and-hiring-managers-4bhj)
-[![Open standards, trust, and Google](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Open_standards__trust__and_Google.svg)](https://dev.to/cassidoo/open-standards-trust-and-google-4e22)
+[![Develop Your First DApp: A Beginner's Walkthrough](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Develop_Your_First_DApp__A_Beginner's_Walkthrough.svg)](https://dev.to/bengreenberg/develop-your-first-dapp-a-beginners-walkthrough-24nk)
+[![The 5 pillars of every HTTP request](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_5_pillars_of_every_HTTP_request.svg)](https://dev.to/aminnairi/the-5-pillars-of-every-http-request-18ld)
+[![Ace the "How would your boss and coworkers describe you" question in your next interview.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ace_the__How_would_your_boss_and_coworkers_describe_you__question_in_your_next_interview..svg)](https://dev.to/martinkr/ace-the-how-would-your-boss-and-coworkers-describe-you-question-in-your-next-interview-3fnm)
+[![Vue and Input File - Clear File or Select same file](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Vue_and_Input_File_-_Clear_File_or_Select_same_file.svg)](https://dev.to/schirrel/vue-and-input-file-clear-file-or-select-same-file-24do)
+[![Controlling Cloud Costs: Strategies for keeping on top of your AWS cloud spend](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Controlling_Cloud_Costs__Strategies_for_keeping_on_top_of_your_AWS_cloud_spend.svg)](https://dev.to/aws-builders/controlling-cloud-costs-strategies-for-keeping-on-top-of-your-aws-cloud-spend-2a8i)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, June 21, 2023 at 12:10:18 PM
+> Last updated: Wednesday, June 21, 2023 at 6:51:01 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, June 21, 2023 at 12:10:26 PM
+> Last updated: Wednesday, June 21, 2023 at 6:51:04 PM
 
 > Showing 5 of 30 posts.
 
+[![Ripple | Ripple](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Ripple___Ripple.svg)](https://ripple.m-c2.dev/)
+[![GitHub - Barqawiz/IntelliNode: Unified access to various AI models, such as ChatGPT, Diffusion, Cohere, and others, using a few Javascript lines.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Barqawiz_IntelliNode__Unified_access_to_various_AI_models__such_as_ChatGPT__Diffusion__Cohere__and_others__using_a_few_Javascript_lines..svg)](https://github.com/Barqawiz/IntelliNode)
+[![JavaScript Add Days to Date](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Add_Days_to_Date.svg)](
+https://masteringjs.io/tutorials/fundamentals/date-add-days
+)
+[![Auth0 | Angular Handbook: Identity and State Management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Auth0___Angular_Handbook__Identity_and_State_Management.svg)](https://auth0.com/resources/ebooks/angular-handbook-identity-and-state-management)
 [![How Service Workers Sped Up Our Website by 97.5%? - Yonatan Kra](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_Service_Workers_Sped_Up_Our_Website_by_97.5___-_Yonatan_Kra.svg)](https://yonatankra.com/how-service-workers-sped-up-our-website-by-97-5/)
-[![WordPress Theme Builder](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/WordPress_Theme_Builder.svg)](https://templatetoaster.com/wordpress-theme-builder)
-[![GitHub - xflipperkast/Flappy-Bird: Flappy Bird in javascript. With shop coins and easy to edit](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_xflipperkast_Flappy-Bird__Flappy_Bird_in_javascript._With_shop_coins_and_easy_to_edit.svg)](https://github.com/xflipperkast/Flappy-Bird)
-[![API with NestJS #113. Logging with Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__113._Logging_with_Prisma.svg)](https://wanago.io/2023/06/19/api-nestjs-prisma-logging/)
-[![GitHub - iDev-Games/Trig-JS: The easy way to create CSS scroll animations that react to the position of your HTML element on screen. Animate on scroll (AOS) your CSS.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_iDev-Games_Trig-JS__The_easy_way_to_create_CSS_scroll_animations_that_react_to_the_position_of_your_HTML_element_on_screen._Animate_on_scroll_(AOS)_your_CSS..svg)](https://github.com/iDev-Games/Trig-JS)
 
 
 <!-- post-list:end -->
