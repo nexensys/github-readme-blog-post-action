@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, June 22, 2023 at 6:16:15 AM
+> Last updated: Thursday, June 22, 2023 at 12:10:00 PM
 
 > Showing 5 of 12 posts.
 
-[![5 AI development tools you should know about](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_AI_development_tools_you_should_know_about.svg)](https://dev.to/livecycle/5-ai-development-tools-you-should-know-about-59ld)
-[![How does Elasticsearch works?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_does_Elasticsearch_works_.svg)](https://dev.to/documatic/how-does-elasticsearch-works-2ffl)
-[![Liman Cihaz Yönetim ile Zaman Sunucusu Ayarları (Debian 12)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Liman_Cihaz_Yönetim_ile_Zaman_Sunucusu_Ayarları_(Debian_12).svg)](https://dev.to/aciklab/liman-cihaz-yonetim-ile-zaman-sunucusu-ayarlari-debian-12-4gk6)
-[![Highest paying Programming Languages in 2023💸](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Highest_paying_Programming_Languages_in_2023💸.svg)](https://dev.to/acode123/highest-paying-programming-languages-in-2023-4nj8)
-[![What's new in Novu 0.16.0?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What's_new_in_Novu_0.16.0_.svg)](https://dev.to/novu/whats-new-in-novu-0160-l5d)
+[![From Being A Little Farmer Kid to Being a Software Engineer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/From_Being_A_Little_Farmer_Kid_to_Being_a_Software_Engineer.svg)](https://dev.to/blarzhernandez/from-being-a-little-farmer-kid-to-being-a-software-engineer-3ebl)
+[![A Framework Laptop Hacking Story](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Framework_Laptop_Hacking_Story.svg)](https://dev.to/knutaf/a-framework-laptop-hacking-story-39lf)
+[![Demystifying Data Pipelines: A Guide for Developers on AWS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Demystifying_Data_Pipelines__A_Guide_for_Developers_on_AWS.svg)](https://dev.to/aditmodi/demystifying-data-pipelines-a-guide-for-developers-on-aws-3ok7)
+[![Creating JavaScript Routes for WordPress Website with Stream CSS Progress Bar](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_JavaScript_Routes_for_WordPress_Website_with_Stream_CSS_Progress_Bar.svg)](https://dev.to/faridteymouri/creating-javascript-routes-for-wordpress-website-with-stream-css-progress-bar-1cba)
+[![How Do You Get Yourself Back Up After Layoffs?: CodeNewbie Podcast](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_Do_You_Get_Yourself_Back_Up_After_Layoffs___CodeNewbie_Podcast.svg)](https://dev.to/codenewbieteam/how-do-you-get-yourself-back-up-after-layoffs-codenewbie-podcast-off)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, June 22, 2023 at 6:16:18 AM
+> Last updated: Thursday, June 22, 2023 at 12:10:05 PM
 
 > Showing 4 of 4 posts.
 
+[![Svelte 4 released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Svelte_4_released.svg)](https://javascriptweekly.com/issues/644)
 [![11 years of JavaScript on top](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/11_years_of_JavaScript_on_top.svg)](https://javascriptweekly.com/issues/643)
 [![Douglas Crockford calls JavaScript 'smelly.'](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Douglas_Crockford_calls_JavaScript_'smelly.'.svg)](https://javascriptweekly.com/issues/642)
 [![Bundle-time macros with Bun](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Bundle-time_macros_with_Bun.svg)](https://javascriptweekly.com/issues/641)
-[![Microsoft shrunk the TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Microsoft_shrunk_the_TypeScript.svg)](https://javascriptweekly.com/issues/640)
 
 
 ## Echo JS
@@ -43,17 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, June 22, 2023 at 6:16:24 AM
+> Last updated: Thursday, June 22, 2023 at 12:10:09 PM
 
 > Showing 5 of 30 posts.
 
-[![Sensex falls 8%, sharpest  in a day since 2008; Dow opens with another crash](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Sensex_falls_8___sharpest__in_a_day_since_2008;_Dow_opens_with_another_crash.svg)](https://indianexpress.com/article/business/market/bse-sensex-fall-stock-market-coronavirus-6311646/)
+[![Exponentiation in JavaScript: A Beginner’s Guide | Mayallo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Exponentiation_in_JavaScript__A_Beginner’s_Guide___Mayallo.svg)](https://mayallo.com/exponentiation-in-javascript/)
+[![GitHub - open-source-labs/reactime: Developer tool for time travel debugging and performance monitoring in React applications.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_open-source-labs_reactime__Developer_tool_for_time_travel_debugging_and_performance_monitoring_in_React_applications..svg)](https://github.com/open-source-labs/reactime)
+[![GitHub - oslabs-beta/indiK8or: Kubernetes Visualization Tool](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_oslabs-beta_indiK8or__Kubernetes_Visualization_Tool.svg)](https://github.com/oslabs-beta/indiK8or)
+[![GitHub - beshan/lambda-parser: Language recognition tool for JavaScript RTEs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_beshan_lambda-parser__Language_recognition_tool_for_JavaScript_RTEs.svg)](https://github.com/beshan/lambda-parser)
 [![How To Add multiple rows using Sequelize bulkCreate() method](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_To_Add_multiple_rows_using_Sequelize_bulkCreate()_method.svg)](https://www.js-tutorials.com/javascript-tutorial/sequelize-bulk-create-example/)
-[![Ripple | Ripple](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Ripple___Ripple.svg)](https://ripple.m-c2.dev/)
-[![GitHub - Barqawiz/IntelliNode: Unified access to various AI models, such as ChatGPT, Diffusion, Cohere, and others, using a few Javascript lines.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Barqawiz_IntelliNode__Unified_access_to_various_AI_models__such_as_ChatGPT__Diffusion__Cohere__and_others__using_a_few_Javascript_lines..svg)](https://github.com/Barqawiz/IntelliNode)
-[![JavaScript Add Days to Date](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Add_Days_to_Date.svg)](
-https://masteringjs.io/tutorials/fundamentals/date-add-days
-)
 
 
 <!-- post-list:end -->
