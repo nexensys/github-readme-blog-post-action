@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, June 22, 2023 at 12:11:07 AM
+> Last updated: Thursday, June 22, 2023 at 6:16:15 AM
 
 > Showing 5 of 12 posts.
 
-[![Cargo Cult Agile](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cargo_Cult_Agile.svg)](https://dev.to/cheetah100/cargo-cult-agile-34ge)
-[![[ Remote] Reco is hiring Python Flask Techlead](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/[_Remote]_Reco_is_hiring_Python_Flask_Techlead.svg)](https://dev.to/nga3011/-remote-reco-is-hiring-python-flask-techlead-4fd7)
-[![Top resources for Tailwind CSS for 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_resources_for_Tailwind_CSS_for_2023.svg)](https://dev.to/roktim32/top-resources-for-tailwind-css-for-2023-22hn)
-[![An introduction to Jenkins - the CI/CD tool](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/An_introduction_to_Jenkins_-_the_CI_CD_tool.svg)](https://dev.to/farisdurrani/an-introduction-to-jenkins-the-cicd-tool-44k4)
-[![How popular are libraries in each technology](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_popular_are_libraries_in_each_technology.svg)](https://dev.to/chaituknag/how-popular-are-libraries-in-each-technology-128h)
+[![5 AI development tools you should know about](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_AI_development_tools_you_should_know_about.svg)](https://dev.to/livecycle/5-ai-development-tools-you-should-know-about-59ld)
+[![How does Elasticsearch works?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_does_Elasticsearch_works_.svg)](https://dev.to/documatic/how-does-elasticsearch-works-2ffl)
+[![Liman Cihaz Yönetim ile Zaman Sunucusu Ayarları (Debian 12)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Liman_Cihaz_Yönetim_ile_Zaman_Sunucusu_Ayarları_(Debian_12).svg)](https://dev.to/aciklab/liman-cihaz-yonetim-ile-zaman-sunucusu-ayarlari-debian-12-4gk6)
+[![Highest paying Programming Languages in 2023💸](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Highest_paying_Programming_Languages_in_2023💸.svg)](https://dev.to/acode123/highest-paying-programming-languages-in-2023-4nj8)
+[![What's new in Novu 0.16.0?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What's_new_in_Novu_0.16.0_.svg)](https://dev.to/novu/whats-new-in-novu-0160-l5d)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, June 22, 2023 at 12:11:10 AM
+> Last updated: Thursday, June 22, 2023 at 6:16:18 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, June 22, 2023 at 12:11:15 AM
+> Last updated: Thursday, June 22, 2023 at 6:16:24 AM
 
 > Showing 5 of 30 posts.
 
+[![Sensex falls 8%, sharpest  in a day since 2008; Dow opens with another crash](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Sensex_falls_8___sharpest__in_a_day_since_2008;_Dow_opens_with_another_crash.svg)](https://indianexpress.com/article/business/market/bse-sensex-fall-stock-market-coronavirus-6311646/)
 [![How To Add multiple rows using Sequelize bulkCreate() method](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_To_Add_multiple_rows_using_Sequelize_bulkCreate()_method.svg)](https://www.js-tutorials.com/javascript-tutorial/sequelize-bulk-create-example/)
 [![Ripple | Ripple](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Ripple___Ripple.svg)](https://ripple.m-c2.dev/)
 [![GitHub - Barqawiz/IntelliNode: Unified access to various AI models, such as ChatGPT, Diffusion, Cohere, and others, using a few Javascript lines.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Barqawiz_IntelliNode__Unified_access_to_various_AI_models__such_as_ChatGPT__Diffusion__Cohere__and_others__using_a_few_Javascript_lines..svg)](https://github.com/Barqawiz/IntelliNode)
 [![JavaScript Add Days to Date](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Add_Days_to_Date.svg)](
 https://masteringjs.io/tutorials/fundamentals/date-add-days
 )
-[![Auth0 | Angular Handbook: Identity and State Management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Auth0___Angular_Handbook__Identity_and_State_Management.svg)](https://auth0.com/resources/ebooks/angular-handbook-identity-and-state-management)
 
 
 <!-- post-list:end -->
