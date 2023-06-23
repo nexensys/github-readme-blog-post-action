@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, June 23, 2023 at 6:17:47 AM
+> Last updated: Friday, June 23, 2023 at 12:11:33 PM
 
 > Showing 5 of 12 posts.
 
-[![Kafka Connect Watcher - actively monitor your clusters](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Kafka_Connect_Watcher_-_actively_monitor_your_clusters.svg)](https://dev.to/aws-builders/kafka-connect-watcher-actively-monitor-your-clusters-35ib)
-[![Converting JavaScript codebase to TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Converting_JavaScript_codebase_to_TypeScript.svg)](https://dev.to/documatic/converting-javascript-codebase-to-typescript-1852)
-[![How to create an Dapp on solana blockchain](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_an_Dapp_on_solana_blockchain.svg)](https://dev.to/mgaaron/how-to-create-an-dapp-on-solana-blockchain-4e5j)
-[![A cache decorator in Angular](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_cache_decorator_in_Angular.svg)](https://dev.to/ayyash/a-cache-decorator-in-angular-3cp2)
-[![What was your win this week?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_was_your_win_this_week_.svg)](https://dev.to/devteam/what-was-your-win-this-week-4p1o)
+[![Replace Employee ID With The Unique Identifier | LeetCode | MSSQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Replace_Employee_ID_With_The_Unique_Identifier___LeetCode___MSSQL.svg)](https://dev.to/ranggakd/replace-employee-id-with-the-unique-identifier-leetcode-mssql-27a7)
+[![Draft-js text alignment in less than 5 minutes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Draft-js_text_alignment_in_less_than_5_minutes.svg)](https://dev.to/hpouyanmehr/draft-js-text-alignment-in-less-than-5-minutes-134g)
+[![Beyond 200, 404, and 500: Exploring Lesser-Known HTTP Status Codes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Beyond_200__404__and_500__Exploring_Lesser-Known_HTTP_Status_Codes.svg)](https://dev.to/philip-ainberger/beyond-200-404-and-500-exploring-lesser-known-http-status-codes-2hfd)
+[![Difference Among Casings: Snake Case VS Camel Case VS Pascal Case VS Kebab Case](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Difference_Among_Casings__Snake_Case_VS_Camel_Case_VS_Pascal_Case_VS_Kebab_Case.svg)](https://dev.to/ankitmalikg/difference-among-casings-snake-case-vs-camel-case-vs-pascal-case-vs-kebab-case-2m8b)
+[![Demystifying the Internals of PostgreSQL - Chapter 3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Demystifying_the_Internals_of_PostgreSQL_-_Chapter_3.svg)](https://dev.to/nilelazarus/demystifying-the-internals-of-postgresql-chapter-3-part-1-fc4)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, June 23, 2023 at 6:17:51 AM
+> Last updated: Friday, June 23, 2023 at 12:11:36 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, June 23, 2023 at 6:17:57 AM
+> Last updated: Friday, June 23, 2023 at 12:11:41 PM
 
 > Showing 5 of 30 posts.
 
+[![Building Beautiful Login Pages with Auth0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_Beautiful_Login_Pages_with_Auth0.svg)](https://auth0.com/blog/building-beautiful-login-pages-with-auth0/)
 [![Exponentiation in JavaScript: A Beginner’s Guide | Mayallo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Exponentiation_in_JavaScript__A_Beginner’s_Guide___Mayallo.svg)](https://mayallo.com/exponentiation-in-javascript/)
 [![GitHub - open-source-labs/reactime: Developer tool for time travel debugging and performance monitoring in React applications.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_open-source-labs_reactime__Developer_tool_for_time_travel_debugging_and_performance_monitoring_in_React_applications..svg)](https://github.com/open-source-labs/reactime)
 [![GitHub - oslabs-beta/indiK8or: Kubernetes Visualization Tool](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_oslabs-beta_indiK8or__Kubernetes_Visualization_Tool.svg)](https://github.com/oslabs-beta/indiK8or)
 [![GitHub - beshan/lambda-parser: Language recognition tool for JavaScript RTEs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_beshan_lambda-parser__Language_recognition_tool_for_JavaScript_RTEs.svg)](https://github.com/beshan/lambda-parser)
-[![How To Add multiple rows using Sequelize bulkCreate() method](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_To_Add_multiple_rows_using_Sequelize_bulkCreate()_method.svg)](https://www.js-tutorials.com/javascript-tutorial/sequelize-bulk-create-example/)
 
 
 <!-- post-list:end -->
