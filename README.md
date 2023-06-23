@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, June 23, 2023 at 12:13:16 AM
+> Last updated: Friday, June 23, 2023 at 6:17:47 AM
 
 > Showing 5 of 12 posts.
 
-[![Javascript 【tricky】💡interview output questions (Part 2)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Javascript_【tricky】💡interview_output_questions_(Part_2).svg)](https://dev.to/codecraftjs/javascript-tricky-interview-output-questions-part-2-4ogh)
-[![“GitDevSecOps”](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/“GitDevSecOps”.svg)](https://dev.to/mrgoonie/gitdevsecops-49gp)
-[![Vercel forms](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Vercel_forms.svg)](https://dev.to/irishgeoff11/vercel-forms-48j9)
-[![Staff Engineer Interview: Navigating the Path to Technical Leadership](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Staff_Engineer_Interview__Navigating_the_Path_to_Technical_Leadership.svg)](https://dev.to/victorhazbun/staff-engineer-interview-navigating-the-path-to-technical-leadership-3a9j)
-[![Don't use `innerHTML`](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Don't_use_`innerHTML`.svg)](https://dev.to/brojenuel/dont-use-innerhtml-4p26)
+[![Kafka Connect Watcher - actively monitor your clusters](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Kafka_Connect_Watcher_-_actively_monitor_your_clusters.svg)](https://dev.to/aws-builders/kafka-connect-watcher-actively-monitor-your-clusters-35ib)
+[![Converting JavaScript codebase to TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Converting_JavaScript_codebase_to_TypeScript.svg)](https://dev.to/documatic/converting-javascript-codebase-to-typescript-1852)
+[![How to create an Dapp on solana blockchain](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_an_Dapp_on_solana_blockchain.svg)](https://dev.to/mgaaron/how-to-create-an-dapp-on-solana-blockchain-4e5j)
+[![A cache decorator in Angular](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_cache_decorator_in_Angular.svg)](https://dev.to/ayyash/a-cache-decorator-in-angular-3cp2)
+[![What was your win this week?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_was_your_win_this_week_.svg)](https://dev.to/devteam/what-was-your-win-this-week-4p1o)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, June 23, 2023 at 12:13:18 AM
+> Last updated: Friday, June 23, 2023 at 6:17:51 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, June 23, 2023 at 12:13:24 AM
+> Last updated: Friday, June 23, 2023 at 6:17:57 AM
 
 > Showing 5 of 30 posts.
 
