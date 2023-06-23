@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, June 22, 2023 at 6:56:34 PM
+> Last updated: Friday, June 23, 2023 at 12:13:16 AM
 
 > Showing 5 of 12 posts.
 
+[![Javascript 【tricky】💡interview output questions (Part 2)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Javascript_【tricky】💡interview_output_questions_(Part_2).svg)](https://dev.to/codecraftjs/javascript-tricky-interview-output-questions-part-2-4ogh)
+[![“GitDevSecOps”](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/“GitDevSecOps”.svg)](https://dev.to/mrgoonie/gitdevsecops-49gp)
+[![Vercel forms](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Vercel_forms.svg)](https://dev.to/irishgeoff11/vercel-forms-48j9)
+[![Staff Engineer Interview: Navigating the Path to Technical Leadership](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Staff_Engineer_Interview__Navigating_the_Path_to_Technical_Leadership.svg)](https://dev.to/victorhazbun/staff-engineer-interview-navigating-the-path-to-technical-leadership-3a9j)
 [![Don't use `innerHTML`](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Don't_use_`innerHTML`.svg)](https://dev.to/brojenuel/dont-use-innerhtml-4p26)
-[![Demystifying Docker Containers: Unleashing the Magic of Self-Contained Application Packages](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Demystifying_Docker_Containers__Unleashing_the_Magic_of_Self-Contained_Application_Packages.svg)](https://dev.to/tylerasa/demystifying-docker-containers-unleashing-the-magic-of-self-contained-application-packages-1ap)
-[![From Zero to Hero: How to Create a Profitable Product Without Spending a Dime on Marketing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/From_Zero_to_Hero__How_to_Create_a_Profitable_Product_Without_Spending_a_Dime_on_Marketing.svg)](https://dev.to/johnrushx/from-zero-to-hero-how-to-create-a-profitable-product-without-spending-a-dime-on-marketing-3na1)
-[![Push the Green Button: Creating Event Gadgets with IoT and Serverless Architecture](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Push_the_Green_Button__Creating_Event_Gadgets_with_IoT_and_Serverless_Architecture.svg)](https://dev.to/aws-builders/push-the-green-button-creating-event-gadgets-with-iot-and-serverless-architecture-3dlk)
-[![Project Management Terms You Need to Know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Project_Management_Terms_You_Need_to_Know.svg)](https://dev.to/yesiamrocks/project-management-terms-you-need-to-know-dc6)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, June 22, 2023 at 6:56:38 PM
+> Last updated: Friday, June 23, 2023 at 12:13:18 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, June 22, 2023 at 6:56:43 PM
+> Last updated: Friday, June 23, 2023 at 12:13:24 AM
 
 > Showing 5 of 30 posts.
 
