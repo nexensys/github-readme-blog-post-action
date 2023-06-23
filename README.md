@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, June 22, 2023 at 12:10:00 PM
+> Last updated: Thursday, June 22, 2023 at 6:56:34 PM
 
 > Showing 5 of 12 posts.
 
-[![From Being A Little Farmer Kid to Being a Software Engineer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/From_Being_A_Little_Farmer_Kid_to_Being_a_Software_Engineer.svg)](https://dev.to/blarzhernandez/from-being-a-little-farmer-kid-to-being-a-software-engineer-3ebl)
-[![A Framework Laptop Hacking Story](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Framework_Laptop_Hacking_Story.svg)](https://dev.to/knutaf/a-framework-laptop-hacking-story-39lf)
-[![Demystifying Data Pipelines: A Guide for Developers on AWS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Demystifying_Data_Pipelines__A_Guide_for_Developers_on_AWS.svg)](https://dev.to/aditmodi/demystifying-data-pipelines-a-guide-for-developers-on-aws-3ok7)
-[![Creating JavaScript Routes for WordPress Website with Stream CSS Progress Bar](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_JavaScript_Routes_for_WordPress_Website_with_Stream_CSS_Progress_Bar.svg)](https://dev.to/faridteymouri/creating-javascript-routes-for-wordpress-website-with-stream-css-progress-bar-1cba)
-[![How Do You Get Yourself Back Up After Layoffs?: CodeNewbie Podcast](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_Do_You_Get_Yourself_Back_Up_After_Layoffs___CodeNewbie_Podcast.svg)](https://dev.to/codenewbieteam/how-do-you-get-yourself-back-up-after-layoffs-codenewbie-podcast-off)
+[![Don't use `innerHTML`](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Don't_use_`innerHTML`.svg)](https://dev.to/brojenuel/dont-use-innerhtml-4p26)
+[![Demystifying Docker Containers: Unleashing the Magic of Self-Contained Application Packages](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Demystifying_Docker_Containers__Unleashing_the_Magic_of_Self-Contained_Application_Packages.svg)](https://dev.to/tylerasa/demystifying-docker-containers-unleashing-the-magic-of-self-contained-application-packages-1ap)
+[![From Zero to Hero: How to Create a Profitable Product Without Spending a Dime on Marketing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/From_Zero_to_Hero__How_to_Create_a_Profitable_Product_Without_Spending_a_Dime_on_Marketing.svg)](https://dev.to/johnrushx/from-zero-to-hero-how-to-create-a-profitable-product-without-spending-a-dime-on-marketing-3na1)
+[![Push the Green Button: Creating Event Gadgets with IoT and Serverless Architecture](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Push_the_Green_Button__Creating_Event_Gadgets_with_IoT_and_Serverless_Architecture.svg)](https://dev.to/aws-builders/push-the-green-button-creating-event-gadgets-with-iot-and-serverless-architecture-3dlk)
+[![Project Management Terms You Need to Know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Project_Management_Terms_You_Need_to_Know.svg)](https://dev.to/yesiamrocks/project-management-terms-you-need-to-know-dc6)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, June 22, 2023 at 12:10:05 PM
+> Last updated: Thursday, June 22, 2023 at 6:56:38 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, June 22, 2023 at 12:10:09 PM
+> Last updated: Thursday, June 22, 2023 at 6:56:43 PM
 
 > Showing 5 of 30 posts.
 
