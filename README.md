@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, June 23, 2023 at 12:11:33 PM
+> Last updated: Friday, June 23, 2023 at 6:55:45 PM
 
 > Showing 5 of 12 posts.
 
-[![Replace Employee ID With The Unique Identifier | LeetCode | MSSQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Replace_Employee_ID_With_The_Unique_Identifier___LeetCode___MSSQL.svg)](https://dev.to/ranggakd/replace-employee-id-with-the-unique-identifier-leetcode-mssql-27a7)
-[![Draft-js text alignment in less than 5 minutes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Draft-js_text_alignment_in_less_than_5_minutes.svg)](https://dev.to/hpouyanmehr/draft-js-text-alignment-in-less-than-5-minutes-134g)
-[![Beyond 200, 404, and 500: Exploring Lesser-Known HTTP Status Codes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Beyond_200__404__and_500__Exploring_Lesser-Known_HTTP_Status_Codes.svg)](https://dev.to/philip-ainberger/beyond-200-404-and-500-exploring-lesser-known-http-status-codes-2hfd)
-[![Difference Among Casings: Snake Case VS Camel Case VS Pascal Case VS Kebab Case](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Difference_Among_Casings__Snake_Case_VS_Camel_Case_VS_Pascal_Case_VS_Kebab_Case.svg)](https://dev.to/ankitmalikg/difference-among-casings-snake-case-vs-camel-case-vs-pascal-case-vs-kebab-case-2m8b)
-[![Demystifying the Internals of PostgreSQL - Chapter 3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Demystifying_the_Internals_of_PostgreSQL_-_Chapter_3.svg)](https://dev.to/nilelazarus/demystifying-the-internals-of-postgresql-chapter-3-part-1-fc4)
+[![The Yummy DevOps Burger: Making a Tech Sandwich, Step by Step!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Yummy_DevOps_Burger__Making_a_Tech_Sandwich__Step_by_Step!.svg)](https://dev.to/softwaresennin/the-yummy-devops-burger-making-a-tech-sandwich-step-by-step-5gba)
+[![Entendendo fundamentos de recursão](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Entendendo_fundamentos_de_recursão.svg)](https://dev.to/leandronsp/entendendo-fundamentos-de-recursao-2ap4)
+[![Serverless Application Model 101](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Serverless_Application_Model_101.svg)](https://dev.to/aws-builders/serverless-application-model-101-47jj)
+[![5 GitHub Projects to Help You Become a Better DevOps Engineer ⚡](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_GitHub_Projects_to_Help_You_Become_a_Better_DevOps_Engineer_⚡.svg)](https://dev.to/softwaresennin/5-github-projects-to-help-you-become-a-better-devops-engineer-1pfb)
+[![Creating a Sunburst Chart in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_a_Sunburst_Chart_in_JavaScript.svg)](https://dev.to/guest-blogger/creating-a-sunburst-chart-in-javascript-amh)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, June 23, 2023 at 12:11:36 PM
+> Last updated: Friday, June 23, 2023 at 6:55:48 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, June 23, 2023 at 12:11:41 PM
+> Last updated: Friday, June 23, 2023 at 6:55:53 PM
 
 > Showing 5 of 30 posts.
 
