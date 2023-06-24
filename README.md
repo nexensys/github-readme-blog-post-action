@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, June 24, 2023 at 6:16:18 AM
+> Last updated: Saturday, June 24, 2023 at 12:10:58 PM
 
 > Showing 5 of 12 posts.
 
-[![Memory Management using PYTORCH_CUDA_ALLOC_CONF](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Memory_Management_using_PYTORCH_CUDA_ALLOC_CONF.svg)](https://dev.to/shittu_olumide_/memory-management-using-pytorchcudaallocconf-5afh)
-[![🚀 Why Code Review is Crucial in Software Development 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🚀_Why_Code_Review_is_Crucial_in_Software_Development_🚀.svg)](https://dev.to/jagroop2000/why-code-review-is-crucial-in-software-development-28kp)
-[![LeetCode 956 (Hard). Solution of the day. Tallest Billboard. Swift. DP. O(n).](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/LeetCode_956_(Hard)._Solution_of_the_day._Tallest_Billboard._Swift._DP._O(n)..svg)](https://dev.to/sergeyleschev/leetcode-956-hard-tallest-billboard-swift-dp-on-16bg)
-[![Objects in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Objects_in_JavaScript.svg)](https://dev.to/indracit/objects-in-javascript-607)
-[![Creating contract package using Typescript and Github Packages](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_contract_package_using_Typescript_and_Github_Packages.svg)](https://dev.to/goskan93/creating-contract-package-using-typescript-and-github-packages-2nii)
+[![How to Give Code Review as a Junior Developer?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Give_Code_Review_as_a_Junior_Developer_.svg)](https://dev.to/scastiel/how-to-give-code-review-as-a-junior-developer-31gb)
+[![The Complete Guide to Becoming a Web Developer: Part 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Complete_Guide_to_Becoming_a_Web_Developer__Part_2.svg)](https://dev.to/nerdleveltech/the-complete-guide-to-becoming-a-web-developer-part-2-41kb)
+[![setting up next auth with the new app directory](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/setting_up_next_auth_with_the_new_app_directory.svg)](https://dev.to/nelsonchege13/setting-up-next-auth-with-the-new-app-directory-318b)
+[![I’m stoopid! So I code in “easy mode”.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I’m_stoopid!_So_I_code_in_“easy_mode”..svg)](https://dev.to/noriller/im-stoopid-so-i-code-in-easy-mode-48dg)
+[![Secure your Nodejs REST API By using Rate Limiting](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Secure_your_Nodejs_REST_API_By_using_Rate_Limiting.svg)](https://dev.to/treasuredev_/rate-limiting-in-nodejs-and-express-56pj)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, June 24, 2023 at 6:16:20 AM
+> Last updated: Saturday, June 24, 2023 at 12:11:00 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, June 24, 2023 at 6:16:25 AM
+> Last updated: Saturday, June 24, 2023 at 12:11:05 PM
 
 > Showing 5 of 30 posts.
 
