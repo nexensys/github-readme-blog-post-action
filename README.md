@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, June 24, 2023 at 12:11:49 AM
+> Last updated: Saturday, June 24, 2023 at 6:16:18 AM
 
 > Showing 5 of 12 posts.
 
-[![10 Sites to Host Your Backend Code for Free](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_Sites_to_Host_Your_Backend_Code_for_Free.svg)](https://dev.to/durgesh4993/10-sites-to-host-your-backend-code-for-free-gpk)
-[![Whatever It Takes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Whatever_It_Takes.svg)](https://dev.to/bealecs/whatever-it-takes-2mb9)
-[![The Yummy DevOps Burger: Making a Tech Sandwich, Step by Step!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Yummy_DevOps_Burger__Making_a_Tech_Sandwich__Step_by_Step!.svg)](https://dev.to/softwaresennin/the-yummy-devops-burger-making-a-tech-sandwich-step-by-step-5gba)
-[![64-bit RISC-V with Apache NuttX Real-Time Operating System](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/64-bit_RISC-V_with_Apache_NuttX_Real-Time_Operating_System.svg)](https://dev.to/lupyuen/64-bit-risc-v-with-apache-nuttx-real-time-operating-system-15bf)
-[![Entendendo fundamentos de recursão](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Entendendo_fundamentos_de_recursão.svg)](https://dev.to/leandronsp/entendendo-fundamentos-de-recursao-2ap4)
+[![Memory Management using PYTORCH_CUDA_ALLOC_CONF](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Memory_Management_using_PYTORCH_CUDA_ALLOC_CONF.svg)](https://dev.to/shittu_olumide_/memory-management-using-pytorchcudaallocconf-5afh)
+[![🚀 Why Code Review is Crucial in Software Development 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🚀_Why_Code_Review_is_Crucial_in_Software_Development_🚀.svg)](https://dev.to/jagroop2000/why-code-review-is-crucial-in-software-development-28kp)
+[![LeetCode 956 (Hard). Solution of the day. Tallest Billboard. Swift. DP. O(n).](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/LeetCode_956_(Hard)._Solution_of_the_day._Tallest_Billboard._Swift._DP._O(n)..svg)](https://dev.to/sergeyleschev/leetcode-956-hard-tallest-billboard-swift-dp-on-16bg)
+[![Objects in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Objects_in_JavaScript.svg)](https://dev.to/indracit/objects-in-javascript-607)
+[![Creating contract package using Typescript and Github Packages](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_contract_package_using_Typescript_and_Github_Packages.svg)](https://dev.to/goskan93/creating-contract-package-using-typescript-and-github-packages-2nii)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, June 24, 2023 at 12:11:51 AM
+> Last updated: Saturday, June 24, 2023 at 6:16:20 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, June 24, 2023 at 12:11:57 AM
+> Last updated: Saturday, June 24, 2023 at 6:16:25 AM
 
 > Showing 5 of 30 posts.
 
