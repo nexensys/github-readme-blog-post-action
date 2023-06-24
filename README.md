@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, June 23, 2023 at 6:55:45 PM
+> Last updated: Saturday, June 24, 2023 at 12:11:49 AM
 
 > Showing 5 of 12 posts.
 
+[![10 Sites to Host Your Backend Code for Free](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_Sites_to_Host_Your_Backend_Code_for_Free.svg)](https://dev.to/durgesh4993/10-sites-to-host-your-backend-code-for-free-gpk)
+[![Whatever It Takes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Whatever_It_Takes.svg)](https://dev.to/bealecs/whatever-it-takes-2mb9)
 [![The Yummy DevOps Burger: Making a Tech Sandwich, Step by Step!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Yummy_DevOps_Burger__Making_a_Tech_Sandwich__Step_by_Step!.svg)](https://dev.to/softwaresennin/the-yummy-devops-burger-making-a-tech-sandwich-step-by-step-5gba)
+[![64-bit RISC-V with Apache NuttX Real-Time Operating System](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/64-bit_RISC-V_with_Apache_NuttX_Real-Time_Operating_System.svg)](https://dev.to/lupyuen/64-bit-risc-v-with-apache-nuttx-real-time-operating-system-15bf)
 [![Entendendo fundamentos de recursão](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Entendendo_fundamentos_de_recursão.svg)](https://dev.to/leandronsp/entendendo-fundamentos-de-recursao-2ap4)
-[![Serverless Application Model 101](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Serverless_Application_Model_101.svg)](https://dev.to/aws-builders/serverless-application-model-101-47jj)
-[![5 GitHub Projects to Help You Become a Better DevOps Engineer ⚡](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_GitHub_Projects_to_Help_You_Become_a_Better_DevOps_Engineer_⚡.svg)](https://dev.to/softwaresennin/5-github-projects-to-help-you-become-a-better-devops-engineer-1pfb)
-[![Creating a Sunburst Chart in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_a_Sunburst_Chart_in_JavaScript.svg)](https://dev.to/guest-blogger/creating-a-sunburst-chart-in-javascript-amh)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, June 23, 2023 at 6:55:48 PM
+> Last updated: Saturday, June 24, 2023 at 12:11:51 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, June 23, 2023 at 6:55:53 PM
+> Last updated: Saturday, June 24, 2023 at 12:11:57 AM
 
 > Showing 5 of 30 posts.
 
+[![Free PDF Viewer: Exploring the Best Options](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Free_PDF_Viewer__Exploring_the_Best_Options.svg)](https://www.js-tutorials.com/misc/free-pdf-viewer-exploring-the-best-options/)
 [![Building Beautiful Login Pages with Auth0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_Beautiful_Login_Pages_with_Auth0.svg)](https://auth0.com/blog/building-beautiful-login-pages-with-auth0/)
 [![Exponentiation in JavaScript: A Beginner’s Guide | Mayallo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Exponentiation_in_JavaScript__A_Beginner’s_Guide___Mayallo.svg)](https://mayallo.com/exponentiation-in-javascript/)
 [![GitHub - open-source-labs/reactime: Developer tool for time travel debugging and performance monitoring in React applications.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_open-source-labs_reactime__Developer_tool_for_time_travel_debugging_and_performance_monitoring_in_React_applications..svg)](https://github.com/open-source-labs/reactime)
 [![GitHub - oslabs-beta/indiK8or: Kubernetes Visualization Tool](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_oslabs-beta_indiK8or__Kubernetes_Visualization_Tool.svg)](https://github.com/oslabs-beta/indiK8or)
-[![GitHub - beshan/lambda-parser: Language recognition tool for JavaScript RTEs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_beshan_lambda-parser__Language_recognition_tool_for_JavaScript_RTEs.svg)](https://github.com/beshan/lambda-parser)
 
 
 <!-- post-list:end -->
