@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, June 24, 2023 at 7:02:10 PM
+> Last updated: Sunday, June 25, 2023 at 12:12:08 AM
 
 > Showing 5 of 12 posts.
 
-[![Transforme a segurança do seu ambiente com CrowdSec](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Transforme_a_segurança_do_seu_ambiente_com_CrowdSec.svg)](https://dev.to/_rsantos/transforme-a-seguranca-do-seu-ambiente-com-crowdsec-5f52)
-[![How to turn images into prompts with the Img2Prompt AI Model: A Step-by-step guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_turn_images_into_prompts_with_the_Img2Prompt_AI_Model__A_Step-by-step_guide.svg)](https://dev.to/mikeyoung44/how-to-turn-images-into-prompts-with-the-img2prompt-ai-model-a-step-by-step-guide-2jio)
-[![A Complete Guide to Turning Text into Audio with Audio-LDM](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Complete_Guide_to_Turning_Text_into_Audio_with_Audio-LDM.svg)](https://dev.to/mikeyoung44/a-complete-guide-to-turning-text-into-audio-with-audio-ldm-4nlp)
-[![Tailwind CSS vs Float UI: which one is the best in 2023?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tailwind_CSS_vs_Float_UI__which_one_is_the_best_in_2023_.svg)](https://dev.to/sididev/tailwind-css-vs-float-ui-which-one-is-the-best-in-2023-5ghp)
-[![Exponentiation in JavaScript: A Beginner’s Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exponentiation_in_JavaScript__A_Beginner’s_Guide.svg)](https://dev.to/mayallo/exponentiation-in-javascript-a-beginners-guide-5gdj)
+[![Greatest Advice I’ve Heard in a Long Time](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Greatest_Advice_I’ve_Heard_in_a_Long_Time.svg)](https://dev.to/philipjohnbasile/greatest-advice-ive-heard-in-a-long-time-glj)
+[![NodeJs: Another Dumb Framework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/NodeJs__Another_Dumb_Framework.svg)](https://dev.to/scofieldidehen/nodejs-another-dumb-framework-46bb)
+[![How to Implement CSS in Micro Front-End](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Implement_CSS_in_Micro_Front-End.svg)](https://dev.to/scofieldidehen/how-to-implement-css-in-micro-front-end-3hea)
+[![gRPC - Microservicios en Lenguajes Diferentes [JS y PY]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/gRPC_-_Microservicios_en_Lenguajes_Diferentes_[JS_y_PY].svg)](https://dev.to/bryanherreradev/grpc-microservicios-en-lenguajes-diferentes-js-y-py-9aj)
+[![Introducing Ecsact](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_Ecsact.svg)](https://dev.to/seaube/introducing-ecsact-13h6)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, June 24, 2023 at 7:02:15 PM
+> Last updated: Sunday, June 25, 2023 at 12:12:11 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, June 24, 2023 at 7:02:19 PM
+> Last updated: Sunday, June 25, 2023 at 12:12:16 AM
 
 > Showing 5 of 30 posts.
 
