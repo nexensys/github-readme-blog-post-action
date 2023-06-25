@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, June 24, 2023 at 12:10:58 PM
+> Last updated: Saturday, June 24, 2023 at 7:02:10 PM
 
 > Showing 5 of 12 posts.
 
-[![How to Give Code Review as a Junior Developer?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Give_Code_Review_as_a_Junior_Developer_.svg)](https://dev.to/scastiel/how-to-give-code-review-as-a-junior-developer-31gb)
-[![The Complete Guide to Becoming a Web Developer: Part 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Complete_Guide_to_Becoming_a_Web_Developer__Part_2.svg)](https://dev.to/nerdleveltech/the-complete-guide-to-becoming-a-web-developer-part-2-41kb)
-[![setting up next auth with the new app directory](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/setting_up_next_auth_with_the_new_app_directory.svg)](https://dev.to/nelsonchege13/setting-up-next-auth-with-the-new-app-directory-318b)
-[![I’m stoopid! So I code in “easy mode”.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I’m_stoopid!_So_I_code_in_“easy_mode”..svg)](https://dev.to/noriller/im-stoopid-so-i-code-in-easy-mode-48dg)
-[![Secure your Nodejs REST API By using Rate Limiting](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Secure_your_Nodejs_REST_API_By_using_Rate_Limiting.svg)](https://dev.to/treasuredev_/rate-limiting-in-nodejs-and-express-56pj)
+[![Transforme a segurança do seu ambiente com CrowdSec](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Transforme_a_segurança_do_seu_ambiente_com_CrowdSec.svg)](https://dev.to/_rsantos/transforme-a-seguranca-do-seu-ambiente-com-crowdsec-5f52)
+[![How to turn images into prompts with the Img2Prompt AI Model: A Step-by-step guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_turn_images_into_prompts_with_the_Img2Prompt_AI_Model__A_Step-by-step_guide.svg)](https://dev.to/mikeyoung44/how-to-turn-images-into-prompts-with-the-img2prompt-ai-model-a-step-by-step-guide-2jio)
+[![A Complete Guide to Turning Text into Audio with Audio-LDM](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Complete_Guide_to_Turning_Text_into_Audio_with_Audio-LDM.svg)](https://dev.to/mikeyoung44/a-complete-guide-to-turning-text-into-audio-with-audio-ldm-4nlp)
+[![Tailwind CSS vs Float UI: which one is the best in 2023?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tailwind_CSS_vs_Float_UI__which_one_is_the_best_in_2023_.svg)](https://dev.to/sididev/tailwind-css-vs-float-ui-which-one-is-the-best-in-2023-5ghp)
+[![Exponentiation in JavaScript: A Beginner’s Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exponentiation_in_JavaScript__A_Beginner’s_Guide.svg)](https://dev.to/mayallo/exponentiation-in-javascript-a-beginners-guide-5gdj)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, June 24, 2023 at 12:11:00 PM
+> Last updated: Saturday, June 24, 2023 at 7:02:15 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, June 24, 2023 at 12:11:05 PM
+> Last updated: Saturday, June 24, 2023 at 7:02:19 PM
 
 > Showing 5 of 30 posts.
 
-[![Free PDF Viewer: Exploring the Best Options](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Free_PDF_Viewer__Exploring_the_Best_Options.svg)](https://www.js-tutorials.com/misc/free-pdf-viewer-exploring-the-best-options/)
 [![Building Beautiful Login Pages with Auth0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_Beautiful_Login_Pages_with_Auth0.svg)](https://auth0.com/blog/building-beautiful-login-pages-with-auth0/)
 [![Exponentiation in JavaScript: A Beginner’s Guide | Mayallo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Exponentiation_in_JavaScript__A_Beginner’s_Guide___Mayallo.svg)](https://mayallo.com/exponentiation-in-javascript/)
 [![GitHub - open-source-labs/reactime: Developer tool for time travel debugging and performance monitoring in React applications.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_open-source-labs_reactime__Developer_tool_for_time_travel_debugging_and_performance_monitoring_in_React_applications..svg)](https://github.com/open-source-labs/reactime)
 [![GitHub - oslabs-beta/indiK8or: Kubernetes Visualization Tool](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_oslabs-beta_indiK8or__Kubernetes_Visualization_Tool.svg)](https://github.com/oslabs-beta/indiK8or)
+[![GitHub - beshan/lambda-parser: Language recognition tool for JavaScript RTEs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_beshan_lambda-parser__Language_recognition_tool_for_JavaScript_RTEs.svg)](https://github.com/beshan/lambda-parser)
 
 
 <!-- post-list:end -->
