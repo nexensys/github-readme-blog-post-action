@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, June 25, 2023 at 12:12:08 AM
+> Last updated: Sunday, June 25, 2023 at 6:16:50 AM
 
 > Showing 5 of 12 posts.
 
-[![Greatest Advice I’ve Heard in a Long Time](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Greatest_Advice_I’ve_Heard_in_a_Long_Time.svg)](https://dev.to/philipjohnbasile/greatest-advice-ive-heard-in-a-long-time-glj)
-[![NodeJs: Another Dumb Framework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/NodeJs__Another_Dumb_Framework.svg)](https://dev.to/scofieldidehen/nodejs-another-dumb-framework-46bb)
-[![How to Implement CSS in Micro Front-End](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Implement_CSS_in_Micro_Front-End.svg)](https://dev.to/scofieldidehen/how-to-implement-css-in-micro-front-end-3hea)
-[![gRPC - Microservicios en Lenguajes Diferentes [JS y PY]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/gRPC_-_Microservicios_en_Lenguajes_Diferentes_[JS_y_PY].svg)](https://dev.to/bryanherreradev/grpc-microservicios-en-lenguajes-diferentes-js-y-py-9aj)
-[![Introducing Ecsact](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_Ecsact.svg)](https://dev.to/seaube/introducing-ecsact-13h6)
+[![Unlocking Performance: A Guide to Async Support in Django](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unlocking_Performance__A_Guide_to_Async_Support_in_Django.svg)](https://dev.to/pragativerma18/unlocking-performance-a-guide-to-async-support-in-django-2jdj)
+[![Who moved my error codes? Adding error types to your GoLang GraphQL Server](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Who_moved_my_error_codes__Adding_error_types_to_your_GoLang_GraphQL_Server.svg)](https://dev.to/otterize/who-moved-my-error-codes-adding-error-types-to-your-golang-graphql-server-50p9)
+[![Docker vs Virtual Machine Analogy](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Docker_vs_Virtual_Machine_Analogy.svg)](https://dev.to/coderatul/docker-vs-virtual-machine-analogy-5382)
+[![Top 5 Websites You'll Love as a Developer👨‍💻](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_5_Websites_You'll_Love_as_a_Developer👨‍💻.svg)](https://dev.to/acode123/top-5-websites-youll-love-as-a-developer-5m5)
+[![CSS Mask Div with Another Div- Complete Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CSS_Mask_Div_with_Another_Div-_Complete_Guide.svg)](https://dev.to/arsalanmee/css-mask-div-with-another-div-complete-guide-141l)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, June 25, 2023 at 12:12:11 AM
+> Last updated: Sunday, June 25, 2023 at 6:16:54 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, June 25, 2023 at 12:12:16 AM
+> Last updated: Sunday, June 25, 2023 at 6:17:00 AM
 
 > Showing 5 of 30 posts.
 
