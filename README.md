@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, June 25, 2023 at 6:58:08 PM
+> Last updated: Monday, June 26, 2023 at 12:13:25 AM
 
 > Showing 5 of 12 posts.
 
-[![5 Free AI Tools for Everyone and Anyone : Part 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Free_AI_Tools_for_Everyone_and_Anyone___Part_2.svg)](https://dev.to/varshithvhegde/5-free-ai-tools-for-everyone-and-anyone-part-2-7f9)
-[![How to create your own completion for vim](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_your_own_completion_for_vim.svg)](https://dev.to/cherryramatis/how-to-create-your-own-completion-for-vim-20h2)
-[![Streamlining Database Connectivity and Oracle Compatibility with EDB Postgres Advanced Server](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Streamlining_Database_Connectivity_and_Oracle_Compatibility_with_EDB_Postgres_Advanced_Server.svg)](https://dev.to/abdulsamad4068/streamlining-database-connectivity-and-oracle-compatibility-with-edb-postgres-advanced-server-5b89)
-[![Exploring the Power of EDB Postgres Advanced Server for Enterprise Database Solutions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exploring_the_Power_of_EDB_Postgres_Advanced_Server_for_Enterprise_Database_Solutions.svg)](https://dev.to/abdulsamad4068/exploring-the-power-of-edb-postgres-advanced-server-for-enterprise-database-solutions-3gl7)
-[![Guide to Becoming a Senior Software Engineer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Guide_to_Becoming_a_Senior_Software_Engineer.svg)](https://dev.to/snowman647/guide-to-becoming-a-senior-software-engineer-3oj7)
+[![Tricks to make Responsive in CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tricks_to_make_Responsive_in_CSS.svg)](https://dev.to/mohan077/tricks-to-make-responsive-in-css-gj)
+[![Make your Text responsive using CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Make_your_Text_responsive_using_CSS.svg)](https://dev.to/mohan077/make-your-text-responsive-using-css-lgk)
+[![How To Avoid Breaking Your React Application On Production](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Avoid_Breaking_Your_React_Application_On_Production.svg)](https://dev.to/myogeshchavan97/how-to-avoid-breaking-your-react-application-on-production-6c5)
+[![Understanding CSS Logical Properties](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_CSS_Logical_Properties.svg)](https://dev.to/azam4code/understanding-css-logical-properties-192n)
+[![Unsupervised Clustering with K-Means](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unsupervised_Clustering_with_K-Means.svg)](https://dev.to/pedrohgoncalves/unsupervised-clustering-with-k-means-5h26)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, June 25, 2023 at 6:58:12 PM
+> Last updated: Monday, June 26, 2023 at 12:13:27 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, June 25, 2023 at 6:58:16 PM
+> Last updated: Monday, June 26, 2023 at 12:13:30 AM
 
 > Showing 5 of 30 posts.
 
+[![How to use EventTarget as a web-native event emitter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_use_EventTarget_as_a_web-native_event_emitter.svg)](/today-i-learned/how-to-use-eventtarget-as-a-web-native-event-emitter/)
 [![Wake Word Detection with React.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Wake_Word_Detection_with_React.js.svg)](https://picovoice.ai/blog/wake-word-detection-with-reactjs/)
 [![The Ultimate Web Framework is a DSL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Ultimate_Web_Framework_is_a_DSL.svg)](https://cfe.dev/events/the-ultimate-web-framework-is-a-dsl/)
 [![Building Beautiful Login Pages with Auth0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_Beautiful_Login_Pages_with_Auth0.svg)](https://auth0.com/blog/building-beautiful-login-pages-with-auth0/)
 [![Exponentiation in JavaScript: A Beginner’s Guide | Mayallo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Exponentiation_in_JavaScript__A_Beginner’s_Guide___Mayallo.svg)](https://mayallo.com/exponentiation-in-javascript/)
-[![GitHub - open-source-labs/reactime: Developer tool for time travel debugging and performance monitoring in React applications.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_open-source-labs_reactime__Developer_tool_for_time_travel_debugging_and_performance_monitoring_in_React_applications..svg)](https://github.com/open-source-labs/reactime)
 
 
 <!-- post-list:end -->
