@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, June 26, 2023 at 6:18:21 AM
+> Last updated: Monday, June 26, 2023 at 12:12:04 PM
 
 > Showing 5 of 12 posts.
 
-[![Building a Customer Support Desk App with ToolJet and PostgreSQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_Customer_Support_Desk_App_with_ToolJet_and_PostgreSQL.svg)](https://dev.to/tooljet/building-a-customer-support-desk-app-with-tooljet-and-postgresql-2lnl)
-[![Your Guide to Implementing Vue Placeholder Loading](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Your_Guide_to_Implementing_Vue_Placeholder_Loading.svg)](https://dev.to/renanfranca/your-guide-to-implementing-vue-placeholder-loading-11df)
-[![Group by Year, Month, or Day in PostgreSQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Group_by_Year__Month__or_Day_in_PostgreSQL.svg)](https://dev.to/mayallo/group-by-year-month-or-day-in-postgresql-1p82)
-[![7 Secret Websites Every Developer Should Know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/7_Secret_Websites_Every_Developer_Should_Know.svg)](https://dev.to/akashpattnaik/7-secret-websites-every-developer-should-know-36f4)
-[![Become a Pro MERN Stack Developer! (Complete Roadmap)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Become_a_Pro_MERN_Stack_Developer!_(Complete_Roadmap).svg)](https://dev.to/codewithmasood/become-a-pro-mern-stack-developer-complete-roadmap-19io)
+[![Building Your DevRel Resume with Open Source](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_Your_DevRel_Resume_with_Open_Source.svg)](https://dev.to/opensauced/building-your-devrel-resume-with-open-source-4km3)
+[![Effortlessly Juggling Multiple Concurrent Requests in AWS Lambda](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Effortlessly_Juggling_Multiple_Concurrent_Requests_in_AWS_Lambda.svg)](https://dev.to/aws-builders/effortlessly-juggling-multiple-concurrent-requests-in-aws-lambda-2agj)
+[![Understanding AWS Instance Connect End-Point](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_AWS_Instance_Connect_End-Point.svg)](https://dev.to/prosperagada/understanding-aws-instant-connect-end-point-30g5)
+[![What are your goals for the week of June 25?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_are_your_goals_for_the_week_of_June_25_.svg)](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-of-june-25-552b)
+[![#TestCulture 🦅 Episode 36 – Milestones are evaluated objectively](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_TestCulture_🦅_Episode_36_–_Milestones_are_evaluated_objectively.svg)](https://dev.to/mathilde_llg/testculture-episode-36-milestones-are-evaluated-objectively-4m08)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, June 26, 2023 at 6:18:24 AM
+> Last updated: Monday, June 26, 2023 at 12:12:08 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, June 26, 2023 at 6:18:27 AM
+> Last updated: Monday, June 26, 2023 at 12:12:13 PM
 
 > Showing 5 of 30 posts.
 
@@ -51,7 +51,7 @@ http://www.echojs.com
 [![How to use EventTarget as a web-native event emitter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_use_EventTarget_as_a_web-native_event_emitter.svg)](/today-i-learned/how-to-use-eventtarget-as-a-web-native-event-emitter/)
 [![Wake Word Detection with React.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Wake_Word_Detection_with_React.js.svg)](https://picovoice.ai/blog/wake-word-detection-with-reactjs/)
 [![The Ultimate Web Framework is a DSL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Ultimate_Web_Framework_is_a_DSL.svg)](https://cfe.dev/events/the-ultimate-web-framework-is-a-dsl/)
-[![Building Beautiful Login Pages with Auth0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_Beautiful_Login_Pages_with_Auth0.svg)](https://auth0.com/blog/building-beautiful-login-pages-with-auth0/)
+[![Exponentiation in JavaScript: A Beginner’s Guide | Mayallo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Exponentiation_in_JavaScript__A_Beginner’s_Guide___Mayallo.svg)](https://mayallo.com/exponentiation-in-javascript/)
 
 
 <!-- post-list:end -->
