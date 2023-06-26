@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, June 26, 2023 at 12:13:25 AM
+> Last updated: Monday, June 26, 2023 at 6:18:21 AM
 
 > Showing 5 of 12 posts.
 
-[![Tricks to make Responsive in CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tricks_to_make_Responsive_in_CSS.svg)](https://dev.to/mohan077/tricks-to-make-responsive-in-css-gj)
-[![Make your Text responsive using CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Make_your_Text_responsive_using_CSS.svg)](https://dev.to/mohan077/make-your-text-responsive-using-css-lgk)
-[![How To Avoid Breaking Your React Application On Production](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Avoid_Breaking_Your_React_Application_On_Production.svg)](https://dev.to/myogeshchavan97/how-to-avoid-breaking-your-react-application-on-production-6c5)
-[![Understanding CSS Logical Properties](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_CSS_Logical_Properties.svg)](https://dev.to/azam4code/understanding-css-logical-properties-192n)
-[![Unsupervised Clustering with K-Means](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unsupervised_Clustering_with_K-Means.svg)](https://dev.to/pedrohgoncalves/unsupervised-clustering-with-k-means-5h26)
+[![Building a Customer Support Desk App with ToolJet and PostgreSQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_Customer_Support_Desk_App_with_ToolJet_and_PostgreSQL.svg)](https://dev.to/tooljet/building-a-customer-support-desk-app-with-tooljet-and-postgresql-2lnl)
+[![Your Guide to Implementing Vue Placeholder Loading](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Your_Guide_to_Implementing_Vue_Placeholder_Loading.svg)](https://dev.to/renanfranca/your-guide-to-implementing-vue-placeholder-loading-11df)
+[![Group by Year, Month, or Day in PostgreSQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Group_by_Year__Month__or_Day_in_PostgreSQL.svg)](https://dev.to/mayallo/group-by-year-month-or-day-in-postgresql-1p82)
+[![7 Secret Websites Every Developer Should Know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/7_Secret_Websites_Every_Developer_Should_Know.svg)](https://dev.to/akashpattnaik/7-secret-websites-every-developer-should-know-36f4)
+[![Become a Pro MERN Stack Developer! (Complete Roadmap)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Become_a_Pro_MERN_Stack_Developer!_(Complete_Roadmap).svg)](https://dev.to/codewithmasood/become-a-pro-mern-stack-developer-complete-roadmap-19io)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, June 26, 2023 at 12:13:27 AM
+> Last updated: Monday, June 26, 2023 at 6:18:24 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, June 26, 2023 at 12:13:30 AM
+> Last updated: Monday, June 26, 2023 at 6:18:27 AM
 
 > Showing 5 of 30 posts.
 
+[![Component-Driven Development and Composable Applications: a Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Component-Driven_Development_and_Composable_Applications__a_Guide.svg)](https://blog.bitsrc.io/component-driven-development-and-composable-applications-a-guide-7a0934e60936)
 [![How to use EventTarget as a web-native event emitter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_use_EventTarget_as_a_web-native_event_emitter.svg)](/today-i-learned/how-to-use-eventtarget-as-a-web-native-event-emitter/)
 [![Wake Word Detection with React.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Wake_Word_Detection_with_React.js.svg)](https://picovoice.ai/blog/wake-word-detection-with-reactjs/)
 [![The Ultimate Web Framework is a DSL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Ultimate_Web_Framework_is_a_DSL.svg)](https://cfe.dev/events/the-ultimate-web-framework-is-a-dsl/)
 [![Building Beautiful Login Pages with Auth0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_Beautiful_Login_Pages_with_Auth0.svg)](https://auth0.com/blog/building-beautiful-login-pages-with-auth0/)
-[![Exponentiation in JavaScript: A Beginner’s Guide | Mayallo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Exponentiation_in_JavaScript__A_Beginner’s_Guide___Mayallo.svg)](https://mayallo.com/exponentiation-in-javascript/)
 
 
 <!-- post-list:end -->
