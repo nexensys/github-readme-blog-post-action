@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, June 25, 2023 at 12:10:52 PM
+> Last updated: Sunday, June 25, 2023 at 6:58:08 PM
 
 > Showing 5 of 12 posts.
 
-[![A Game-Changer for SEO: Harnessing the Power of Google Rich Content results](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Game-Changer_for_SEO__Harnessing_the_Power_of_Google_Rich_Content_results.svg)](https://dev.to/thanasismpalatsoukas/a-game-changer-for-seo-harnessing-the-power-of-google-rich-content-results-1ak2)
-[![Learn regression model](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Learn_regression_model.svg)](https://dev.to/mugendii_/learn-regression-model-495d)
-[![Sites you should know: Part One](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Sites_you_should_know__Part_One.svg)](https://dev.to/roshdiraed/sites-you-should-know-part-one-5c1m)
-[![How to Build a Cinema Ticket Booking Dapp with React, Solidity, and CometChat](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Build_a_Cinema_Ticket_Booking_Dapp_with_React__Solidity__and_CometChat.svg)](https://dev.to/daltonic/how-to-build-a-cinema-ticket-booking-dapp-with-react-solidity-and-cometchat-404k)
-[![Debunking Common Programming Myths and Misconceptions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Debunking_Common_Programming_Myths_and_Misconceptions.svg)](https://dev.to/husayn01/debunking-common-programming-myths-and-misconceptions-4306)
+[![5 Free AI Tools for Everyone and Anyone : Part 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Free_AI_Tools_for_Everyone_and_Anyone___Part_2.svg)](https://dev.to/varshithvhegde/5-free-ai-tools-for-everyone-and-anyone-part-2-7f9)
+[![How to create your own completion for vim](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_your_own_completion_for_vim.svg)](https://dev.to/cherryramatis/how-to-create-your-own-completion-for-vim-20h2)
+[![Streamlining Database Connectivity and Oracle Compatibility with EDB Postgres Advanced Server](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Streamlining_Database_Connectivity_and_Oracle_Compatibility_with_EDB_Postgres_Advanced_Server.svg)](https://dev.to/abdulsamad4068/streamlining-database-connectivity-and-oracle-compatibility-with-edb-postgres-advanced-server-5b89)
+[![Exploring the Power of EDB Postgres Advanced Server for Enterprise Database Solutions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exploring_the_Power_of_EDB_Postgres_Advanced_Server_for_Enterprise_Database_Solutions.svg)](https://dev.to/abdulsamad4068/exploring-the-power-of-edb-postgres-advanced-server-for-enterprise-database-solutions-3gl7)
+[![Guide to Becoming a Senior Software Engineer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Guide_to_Becoming_a_Senior_Software_Engineer.svg)](https://dev.to/snowman647/guide-to-becoming-a-senior-software-engineer-3oj7)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, June 25, 2023 at 12:10:55 PM
+> Last updated: Sunday, June 25, 2023 at 6:58:12 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, June 25, 2023 at 12:10:58 PM
+> Last updated: Sunday, June 25, 2023 at 6:58:16 PM
 
 > Showing 5 of 30 posts.
 
+[![Wake Word Detection with React.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Wake_Word_Detection_with_React.js.svg)](https://picovoice.ai/blog/wake-word-detection-with-reactjs/)
+[![The Ultimate Web Framework is a DSL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Ultimate_Web_Framework_is_a_DSL.svg)](https://cfe.dev/events/the-ultimate-web-framework-is-a-dsl/)
 [![Building Beautiful Login Pages with Auth0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_Beautiful_Login_Pages_with_Auth0.svg)](https://auth0.com/blog/building-beautiful-login-pages-with-auth0/)
 [![Exponentiation in JavaScript: A Beginner’s Guide | Mayallo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Exponentiation_in_JavaScript__A_Beginner’s_Guide___Mayallo.svg)](https://mayallo.com/exponentiation-in-javascript/)
 [![GitHub - open-source-labs/reactime: Developer tool for time travel debugging and performance monitoring in React applications.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_open-source-labs_reactime__Developer_tool_for_time_travel_debugging_and_performance_monitoring_in_React_applications..svg)](https://github.com/open-source-labs/reactime)
-[![GitHub - oslabs-beta/indiK8or: Kubernetes Visualization Tool](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_oslabs-beta_indiK8or__Kubernetes_Visualization_Tool.svg)](https://github.com/oslabs-beta/indiK8or)
-[![GitHub - beshan/lambda-parser: Language recognition tool for JavaScript RTEs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_beshan_lambda-parser__Language_recognition_tool_for_JavaScript_RTEs.svg)](https://github.com/beshan/lambda-parser)
 
 
 <!-- post-list:end -->
