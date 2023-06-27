@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, June 27, 2023 at 6:18:19 AM
+> Last updated: Tuesday, June 27, 2023 at 12:11:35 PM
 
 > Showing 5 of 12 posts.
 
-[![Comparing Promises and Async/Await in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Comparing_Promises_and_Async_Await_in_JavaScript.svg)](https://dev.to/getsmartwebsite/comparing-promises-and-asyncawait-in-javascript-7c6)
-[![JavaScript DOM Explained: A Practical Beginner’s Tutorial](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_DOM_Explained__A_Practical_Beginner’s_Tutorial.svg)](https://dev.to/max88git/javascript-dom-explained-a-practical-beginners-tutorial-3679)
-[![20 (Intermediate-Level) C# Interview Questions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/20_(Intermediate-Level)_C__Interview_Questions.svg)](https://dev.to/bytehide/20-intermediate-level-c-interview-questions-4ff0)
-[![Is Code Generation a Bad Idea? 🤔](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Is_Code_Generation_a_Bad_Idea__🤔.svg)](https://dev.to/zenstack/is-code-generation-a-bad-idea-2gk9)
-[![How News API Can Assist in Sales](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_News_API_Can_Assist_in_Sales.svg)](https://dev.to/newsdataio/how-news-api-can-assist-in-sales-42ba)
+[![Does your company already use low-code?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Does_your_company_already_use_low-code_.svg)](https://dev.to/r3-fabian/does-your-company-still-use-low-code-4cpp)
+[![How to build microservices with Docker - The Orchestration](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_build_microservices_with_Docker_-_The_Orchestration.svg)](https://dev.to/sainig/how-to-build-microservices-with-docker-the-orchestration-5d0f)
+[![Unpopular opinion: Volar is a buggy mess.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unpopular_opinion__Volar_is_a_buggy_mess..svg)](https://dev.to/thuragan/unpopular-opinion-volar-is-a-buggy-mess-1feb)
+[![So You Want to Speak at a (Technical) Conference: Responding to a CfP](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/So_You_Want_to_Speak_at_a_(Technical)_Conference__Responding_to_a_CfP.svg)](https://dev.to/thedanicafine/so-you-want-to-speak-at-a-technical-conference-responding-to-a-cfp-54m6)
+[![This is the best app for coding on a phone!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/This_is_the_best_app_for_coding_on_a_phone!.svg)](https://dev.to/savvasstephnds/this-is-the-best-app-for-coding-on-a-phone-5430)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, June 27, 2023 at 6:18:24 AM
+> Last updated: Tuesday, June 27, 2023 at 12:11:38 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, June 27, 2023 at 6:18:31 AM
+> Last updated: Tuesday, June 27, 2023 at 12:11:45 PM
 
 > Showing 5 of 30 posts.
 
-[![
-Top 10 Web Development Companies to Hire In 2023
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Top_10_Web_Development_Companies_to_Hire_In_2023_.svg)](
-http://www.echojs.com/news/41846
-)
+[![GitHub - redpangilinan/gridtap-turbo: Tap fast and climb the leaderboards in Gridtap Turbo, a fast-paced grid-tapping challenge.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_redpangilinan_gridtap-turbo__Tap_fast_and_climb_the_leaderboards_in_Gridtap_Turbo__a_fast-paced_grid-tapping_challenge..svg)](https://github.com/redpangilinan/gridtap-turbo)
 [![How to consume a paginated API using JavaScript async generators](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_consume_a_paginated_API_using_JavaScript_async_generators.svg)](https://jrsinclair.com/articles/2023/how-to-consume-a-paginated-api-using-javascript-async-generators)
 [![API with NestJS #114. Modifying data using PUT and PATCH methods with Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__114._Modifying_data_using_PUT_and_PATCH_methods_with_Prisma.svg)](https://wanago.io/2023/06/26/api-nestjs-put-patch-prisma/)
 [![Composable Applications and Component-Driven Development: a Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Composable_Applications_and_Component-Driven_Development__a_Guide.svg)](https://blog.bitsrc.io/component-driven-development-and-composable-applications-a-guide-7a0934e60936)
