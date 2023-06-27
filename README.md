@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, June 26, 2023 at 6:57:07 PM
+> Last updated: Tuesday, June 27, 2023 at 12:13:09 AM
 
 > Showing 5 of 12 posts.
 
-[![Happy 111th Birthday, Alan Turing!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Happy_111th_Birthday__Alan_Turing!.svg)](https://dev.to/devteam/happy-111th-birthday-alan-turing-5271)
-[![How Newsletter Marketing Works](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_Newsletter_Marketing_Works.svg)](https://dev.to/mstfydmr/-how-newsletter-marketing-works-2416)
-[![Server Actions, databases, and the future of data handling](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Server_Actions__databases__and_the_future_of_data_handling.svg)](https://dev.to/xata/server-actions-databases-and-the-future-of-data-handling-10nn)
-[![What's One Thing You'd Change about Coding Education?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What's_One_Thing_You'd_Change_about_Coding_Education_.svg)](https://dev.to/devteam/whats-one-thing-youd-change-about-coding-education-nd6)
-[![Live Regions in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Live_Regions_in_React.svg)](https://dev.to/abbeyperini/live-regions-in-react-4dmd)
+[![JavaScript based Excel Office Add-in in Visual Studio](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_based_Excel_Office_Add-in_in_Visual_Studio.svg)](https://dev.to/ifourtechnolab/javascript-based-excel-office-add-in-in-visual-studio-2gno)
+[![Top 14 Game-Changing Websites Every Developer Should Know About 🚀🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_14_Game-Changing_Websites_Every_Developer_Should_Know_About_🚀🔥.svg)](https://dev.to/arjuncodess/top-14-game-changing-websites-every-developer-should-know-about-4dlc)
+[![Bridging the Gap: Exploring AWS Direct Connect & AWS Site-to-Site VPN for Seamless Cloud-to-On-Premises Connectivity](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Bridging_the_Gap__Exploring_AWS_Direct_Connect___AWS_Site-to-Site_VPN_for_Seamless_Cloud-to-On-Premises_Connectivity.svg)](https://dev.to/brandondamue/bridging-the-gap-exploring-aws-direct-connect-aws-site-to-site-vpn-for-seamless-cloud-to-on-premises-connectivity-3nkm)
+[![VScode vs Others: the War on Code Editors](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/VScode_vs_Others__the_War_on_Code_Editors.svg)](https://dev.to/scofieldidehen/vscode-vs-others-the-war-on-code-editors-51k6)
+[![How does JWT work?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_does_JWT_work_.svg)](https://dev.to/automata/how-does-jwt-work-1ndm)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, June 26, 2023 at 6:57:10 PM
+> Last updated: Tuesday, June 27, 2023 at 12:13:13 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, June 26, 2023 at 6:57:16 PM
+> Last updated: Tuesday, June 27, 2023 at 12:13:20 AM
 
 > Showing 5 of 30 posts.
 
