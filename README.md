@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, June 26, 2023 at 12:12:04 PM
+> Last updated: Monday, June 26, 2023 at 6:57:07 PM
 
 > Showing 5 of 12 posts.
 
-[![Building Your DevRel Resume with Open Source](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_Your_DevRel_Resume_with_Open_Source.svg)](https://dev.to/opensauced/building-your-devrel-resume-with-open-source-4km3)
-[![Effortlessly Juggling Multiple Concurrent Requests in AWS Lambda](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Effortlessly_Juggling_Multiple_Concurrent_Requests_in_AWS_Lambda.svg)](https://dev.to/aws-builders/effortlessly-juggling-multiple-concurrent-requests-in-aws-lambda-2agj)
-[![Understanding AWS Instance Connect End-Point](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_AWS_Instance_Connect_End-Point.svg)](https://dev.to/prosperagada/understanding-aws-instant-connect-end-point-30g5)
-[![What are your goals for the week of June 25?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_are_your_goals_for_the_week_of_June_25_.svg)](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-of-june-25-552b)
-[![#TestCulture 🦅 Episode 36 – Milestones are evaluated objectively](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_TestCulture_🦅_Episode_36_–_Milestones_are_evaluated_objectively.svg)](https://dev.to/mathilde_llg/testculture-episode-36-milestones-are-evaluated-objectively-4m08)
+[![Happy 111th Birthday, Alan Turing!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Happy_111th_Birthday__Alan_Turing!.svg)](https://dev.to/devteam/happy-111th-birthday-alan-turing-5271)
+[![How Newsletter Marketing Works](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_Newsletter_Marketing_Works.svg)](https://dev.to/mstfydmr/-how-newsletter-marketing-works-2416)
+[![Server Actions, databases, and the future of data handling](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Server_Actions__databases__and_the_future_of_data_handling.svg)](https://dev.to/xata/server-actions-databases-and-the-future-of-data-handling-10nn)
+[![What's One Thing You'd Change about Coding Education?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What's_One_Thing_You'd_Change_about_Coding_Education_.svg)](https://dev.to/devteam/whats-one-thing-youd-change-about-coding-education-nd6)
+[![Live Regions in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Live_Regions_in_React.svg)](https://dev.to/abbeyperini/live-regions-in-react-4dmd)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, June 26, 2023 at 12:12:08 PM
+> Last updated: Monday, June 26, 2023 at 6:57:10 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, June 26, 2023 at 12:12:13 PM
+> Last updated: Monday, June 26, 2023 at 6:57:16 PM
 
 > Showing 5 of 30 posts.
 
+[![How to consume a paginated API using JavaScript async generators](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_consume_a_paginated_API_using_JavaScript_async_generators.svg)](https://jrsinclair.com/articles/2023/how-to-consume-a-paginated-api-using-javascript-async-generators)
+[![API with NestJS #114. Modifying data using PUT and PATCH methods with Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__114._Modifying_data_using_PUT_and_PATCH_methods_with_Prisma.svg)](https://wanago.io/2023/06/26/api-nestjs-put-patch-prisma/)
 [![Component-Driven Development and Composable Applications: a Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Component-Driven_Development_and_Composable_Applications__a_Guide.svg)](https://blog.bitsrc.io/component-driven-development-and-composable-applications-a-guide-7a0934e60936)
 [![How to use EventTarget as a web-native event emitter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_use_EventTarget_as_a_web-native_event_emitter.svg)](/today-i-learned/how-to-use-eventtarget-as-a-web-native-event-emitter/)
 [![Wake Word Detection with React.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Wake_Word_Detection_with_React.js.svg)](https://picovoice.ai/blog/wake-word-detection-with-reactjs/)
-[![The Ultimate Web Framework is a DSL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_Ultimate_Web_Framework_is_a_DSL.svg)](https://cfe.dev/events/the-ultimate-web-framework-is-a-dsl/)
-[![Exponentiation in JavaScript: A Beginner’s Guide | Mayallo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Exponentiation_in_JavaScript__A_Beginner’s_Guide___Mayallo.svg)](https://mayallo.com/exponentiation-in-javascript/)
 
 
 <!-- post-list:end -->
