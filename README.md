@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, June 27, 2023 at 12:13:09 AM
+> Last updated: Tuesday, June 27, 2023 at 6:18:19 AM
 
 > Showing 5 of 12 posts.
 
-[![JavaScript based Excel Office Add-in in Visual Studio](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_based_Excel_Office_Add-in_in_Visual_Studio.svg)](https://dev.to/ifourtechnolab/javascript-based-excel-office-add-in-in-visual-studio-2gno)
-[![Top 14 Game-Changing Websites Every Developer Should Know About 🚀🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_14_Game-Changing_Websites_Every_Developer_Should_Know_About_🚀🔥.svg)](https://dev.to/arjuncodess/top-14-game-changing-websites-every-developer-should-know-about-4dlc)
-[![Bridging the Gap: Exploring AWS Direct Connect & AWS Site-to-Site VPN for Seamless Cloud-to-On-Premises Connectivity](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Bridging_the_Gap__Exploring_AWS_Direct_Connect___AWS_Site-to-Site_VPN_for_Seamless_Cloud-to-On-Premises_Connectivity.svg)](https://dev.to/brandondamue/bridging-the-gap-exploring-aws-direct-connect-aws-site-to-site-vpn-for-seamless-cloud-to-on-premises-connectivity-3nkm)
-[![VScode vs Others: the War on Code Editors](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/VScode_vs_Others__the_War_on_Code_Editors.svg)](https://dev.to/scofieldidehen/vscode-vs-others-the-war-on-code-editors-51k6)
-[![How does JWT work?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_does_JWT_work_.svg)](https://dev.to/automata/how-does-jwt-work-1ndm)
+[![Comparing Promises and Async/Await in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Comparing_Promises_and_Async_Await_in_JavaScript.svg)](https://dev.to/getsmartwebsite/comparing-promises-and-asyncawait-in-javascript-7c6)
+[![JavaScript DOM Explained: A Practical Beginner’s Tutorial](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_DOM_Explained__A_Practical_Beginner’s_Tutorial.svg)](https://dev.to/max88git/javascript-dom-explained-a-practical-beginners-tutorial-3679)
+[![20 (Intermediate-Level) C# Interview Questions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/20_(Intermediate-Level)_C__Interview_Questions.svg)](https://dev.to/bytehide/20-intermediate-level-c-interview-questions-4ff0)
+[![Is Code Generation a Bad Idea? 🤔](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Is_Code_Generation_a_Bad_Idea__🤔.svg)](https://dev.to/zenstack/is-code-generation-a-bad-idea-2gk9)
+[![How News API Can Assist in Sales](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_News_API_Can_Assist_in_Sales.svg)](https://dev.to/newsdataio/how-news-api-can-assist-in-sales-42ba)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, June 27, 2023 at 12:13:13 AM
+> Last updated: Tuesday, June 27, 2023 at 6:18:24 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, June 27, 2023 at 12:13:20 AM
+> Last updated: Tuesday, June 27, 2023 at 6:18:31 AM
 
 > Showing 5 of 30 posts.
 
+[![
+Top 10 Web Development Companies to Hire In 2023
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Top_10_Web_Development_Companies_to_Hire_In_2023_.svg)](
+http://www.echojs.com/news/41846
+)
 [![How to consume a paginated API using JavaScript async generators](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_consume_a_paginated_API_using_JavaScript_async_generators.svg)](https://jrsinclair.com/articles/2023/how-to-consume-a-paginated-api-using-javascript-async-generators)
 [![API with NestJS #114. Modifying data using PUT and PATCH methods with Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__114._Modifying_data_using_PUT_and_PATCH_methods_with_Prisma.svg)](https://wanago.io/2023/06/26/api-nestjs-put-patch-prisma/)
-[![Component-Driven Development and Composable Applications: a Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Component-Driven_Development_and_Composable_Applications__a_Guide.svg)](https://blog.bitsrc.io/component-driven-development-and-composable-applications-a-guide-7a0934e60936)
+[![Composable Applications and Component-Driven Development: a Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Composable_Applications_and_Component-Driven_Development__a_Guide.svg)](https://blog.bitsrc.io/component-driven-development-and-composable-applications-a-guide-7a0934e60936)
 [![How to use EventTarget as a web-native event emitter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_use_EventTarget_as_a_web-native_event_emitter.svg)](/today-i-learned/how-to-use-eventtarget-as-a-web-native-event-emitter/)
-[![Wake Word Detection with React.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Wake_Word_Detection_with_React.js.svg)](https://picovoice.ai/blog/wake-word-detection-with-reactjs/)
 
 
 <!-- post-list:end -->
