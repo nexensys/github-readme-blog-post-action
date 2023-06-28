@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, June 27, 2023 at 12:11:35 PM
+> Last updated: Tuesday, June 27, 2023 at 6:57:59 PM
 
 > Showing 5 of 12 posts.
 
-[![Does your company already use low-code?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Does_your_company_already_use_low-code_.svg)](https://dev.to/r3-fabian/does-your-company-still-use-low-code-4cpp)
-[![How to build microservices with Docker - The Orchestration](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_build_microservices_with_Docker_-_The_Orchestration.svg)](https://dev.to/sainig/how-to-build-microservices-with-docker-the-orchestration-5d0f)
-[![Unpopular opinion: Volar is a buggy mess.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unpopular_opinion__Volar_is_a_buggy_mess..svg)](https://dev.to/thuragan/unpopular-opinion-volar-is-a-buggy-mess-1feb)
-[![So You Want to Speak at a (Technical) Conference: Responding to a CfP](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/So_You_Want_to_Speak_at_a_(Technical)_Conference__Responding_to_a_CfP.svg)](https://dev.to/thedanicafine/so-you-want-to-speak-at-a-technical-conference-responding-to-a-cfp-54m6)
-[![This is the best app for coding on a phone!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/This_is_the_best_app_for_coding_on_a_phone!.svg)](https://dev.to/savvasstephnds/this-is-the-best-app-for-coding-on-a-phone-5430)
+[![Using nerd font symbols and emoji with any (unpatched) font in Linux](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_nerd_font_symbols_and_emoji_with_any_(unpatched)_font_in_Linux.svg)](https://dev.to/moniquelive/using-nerd-font-symbols-and-emoji-with-any-unpatched-font-in-linux-3kdo)
+[![كل عام وانتم بخير - eid adha mubarak](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/كل_عام_وانتم_بخير_-_eid_adha_mubarak.svg)](https://dev.to/muhmmadawd/kl-m-wntm-bkhyr-eid-adha-mubarak-p30)
+[![The Unfair Game - When VC Funding Turns into an Evil Empire](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Unfair_Game_-_When_VC_Funding_Turns_into_an_Evil_Empire.svg)](https://dev.to/johnrushx/the-unfair-game-when-vc-funding-turns-into-an-evil-empire-1fb4)
+[![Rendering tasks (Writing TUI with Ratatouille)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Rendering_tasks_(Writing_TUI_with_Ratatouille).svg)](https://dev.to/katafrakt/rendering-tasks-writing-tui-in-ratatouille-518b)
+[![Ruby Method of the Day: Array.new with Block](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ruby_Method_of_the_Day__Array.new_with_Block.svg)](https://dev.to/burdettelamar/ruby-method-of-the-day-arraynew-with-block-3mj5)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, June 27, 2023 at 12:11:38 PM
+> Last updated: Tuesday, June 27, 2023 at 6:58:03 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, June 27, 2023 at 12:11:45 PM
+> Last updated: Tuesday, June 27, 2023 at 6:58:09 PM
 
 > Showing 5 of 30 posts.
 
+[![NPM registry vulnerable to 'manifest confusion' abuse](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/NPM_registry_vulnerable_to_'manifest_confusion'_abuse.svg)](https://www.theregister.com/2023/06/27/javascript_registry_npm_vulnerable/)
+[![GitHub - kaangiray26/endless: Unifying the social media experience](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_kaangiray26_endless__Unifying_the_social_media_experience.svg)](https://github.com/kaangiray26/endless)
 [![GitHub - redpangilinan/gridtap-turbo: Tap fast and climb the leaderboards in Gridtap Turbo, a fast-paced grid-tapping challenge.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_redpangilinan_gridtap-turbo__Tap_fast_and_climb_the_leaderboards_in_Gridtap_Turbo__a_fast-paced_grid-tapping_challenge..svg)](https://github.com/redpangilinan/gridtap-turbo)
 [![How to consume a paginated API using JavaScript async generators](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_consume_a_paginated_API_using_JavaScript_async_generators.svg)](https://jrsinclair.com/articles/2023/how-to-consume-a-paginated-api-using-javascript-async-generators)
 [![API with NestJS #114. Modifying data using PUT and PATCH methods with Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__114._Modifying_data_using_PUT_and_PATCH_methods_with_Prisma.svg)](https://wanago.io/2023/06/26/api-nestjs-put-patch-prisma/)
-[![Composable Applications and Component-Driven Development: a Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Composable_Applications_and_Component-Driven_Development__a_Guide.svg)](https://blog.bitsrc.io/component-driven-development-and-composable-applications-a-guide-7a0934e60936)
-[![How to use EventTarget as a web-native event emitter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_use_EventTarget_as_a_web-native_event_emitter.svg)](/today-i-learned/how-to-use-eventtarget-as-a-web-native-event-emitter/)
 
 
 <!-- post-list:end -->
