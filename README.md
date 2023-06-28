@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, June 27, 2023 at 6:57:59 PM
+> Last updated: Wednesday, June 28, 2023 at 12:12:46 AM
 
 > Showing 5 of 12 posts.
 
-[![Using nerd font symbols and emoji with any (unpatched) font in Linux](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_nerd_font_symbols_and_emoji_with_any_(unpatched)_font_in_Linux.svg)](https://dev.to/moniquelive/using-nerd-font-symbols-and-emoji-with-any-unpatched-font-in-linux-3kdo)
-[![كل عام وانتم بخير - eid adha mubarak](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/كل_عام_وانتم_بخير_-_eid_adha_mubarak.svg)](https://dev.to/muhmmadawd/kl-m-wntm-bkhyr-eid-adha-mubarak-p30)
-[![The Unfair Game - When VC Funding Turns into an Evil Empire](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Unfair_Game_-_When_VC_Funding_Turns_into_an_Evil_Empire.svg)](https://dev.to/johnrushx/the-unfair-game-when-vc-funding-turns-into-an-evil-empire-1fb4)
-[![Rendering tasks (Writing TUI with Ratatouille)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Rendering_tasks_(Writing_TUI_with_Ratatouille).svg)](https://dev.to/katafrakt/rendering-tasks-writing-tui-in-ratatouille-518b)
-[![Ruby Method of the Day: Array.new with Block](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ruby_Method_of_the_Day__Array.new_with_Block.svg)](https://dev.to/burdettelamar/ruby-method-of-the-day-arraynew-with-block-3mj5)
+[![Skills Shortages in Hiring? Try Staff Augmentation to Bridge the Gap](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Skills_Shortages_in_Hiring__Try_Staff_Augmentation_to_Bridge_the_Gap.svg)](https://dev.to/saklle_rohit/skills-shortages-in-hiring-try-staff-augmentation-to-bridge-the-gap-3m13)
+[![Nx + NextJS + Docker - The Nx way: Creating the NextJS application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Nx_+_NextJS_+_Docker_-_The_Nx_way__Creating_the_NextJS_application.svg)](https://dev.to/sebastiandg7/nx-nextjs-docker-the-nx-way-creating-the-nextjs-application-1efl)
+[![Configure based on the following images](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Configure_based_on_the_following_images.svg)](https://dev.to/josueparra2892/configure-based-on-the-following-images-1i6)
+[![AWS Elastic Load Balancer and Auto Scaling Groups](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_Elastic_Load_Balancer_and_Auto_Scaling_Groups.svg)](https://dev.to/josueparra2892/aws-elastic-load-balancer-and-auto-scaling-groups-3hkm)
+[![Golang context](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Golang_context.svg)](https://dev.to/josueparra2892/golang-context-4n8g)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, June 27, 2023 at 6:58:03 PM
+> Last updated: Wednesday, June 28, 2023 at 12:12:50 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, June 27, 2023 at 6:58:09 PM
+> Last updated: Wednesday, June 28, 2023 at 12:12:53 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - FeatureProbe/FeatureProbe: FeatureProbe is an open source feature management service. 开源的高效可视化『特性』管理平台，提供特性开关、灰度发布、AB实验全功能。](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_FeatureProbe_FeatureProbe__FeatureProbe_is_an_open_source_feature_management_service._开源的高效可视化『特性』管理平台，提供特性开关、灰度发布、AB实验全功能。.svg)](https://github.com/FeatureProbe/FeatureProbe)
 [![NPM registry vulnerable to 'manifest confusion' abuse](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/NPM_registry_vulnerable_to_'manifest_confusion'_abuse.svg)](https://www.theregister.com/2023/06/27/javascript_registry_npm_vulnerable/)
 [![GitHub - kaangiray26/endless: Unifying the social media experience](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_kaangiray26_endless__Unifying_the_social_media_experience.svg)](https://github.com/kaangiray26/endless)
 [![GitHub - redpangilinan/gridtap-turbo: Tap fast and climb the leaderboards in Gridtap Turbo, a fast-paced grid-tapping challenge.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_redpangilinan_gridtap-turbo__Tap_fast_and_climb_the_leaderboards_in_Gridtap_Turbo__a_fast-paced_grid-tapping_challenge..svg)](https://github.com/redpangilinan/gridtap-turbo)
 [![How to consume a paginated API using JavaScript async generators](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_consume_a_paginated_API_using_JavaScript_async_generators.svg)](https://jrsinclair.com/articles/2023/how-to-consume-a-paginated-api-using-javascript-async-generators)
-[![API with NestJS #114. Modifying data using PUT and PATCH methods with Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__114._Modifying_data_using_PUT_and_PATCH_methods_with_Prisma.svg)](https://wanago.io/2023/06/26/api-nestjs-put-patch-prisma/)
 
 
 <!-- post-list:end -->
