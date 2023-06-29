@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, June 29, 2023 at 12:12:44 AM
+> Last updated: Thursday, June 29, 2023 at 6:17:26 AM
 
 > Showing 5 of 12 posts.
 
-[![Ace the "How do you prioritize your work" question in your next interview.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ace_the__How_do_you_prioritize_your_work__question_in_your_next_interview..svg)](https://dev.to/martinkr/ace-the-how-do-you-prioritize-your-work-question-in-your-next-interview-15j3)
-[![Guide for Foreigners to Find Software Developer Jobs in Japan](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Guide_for_Foreigners_to_Find_Software_Developer_Jobs_in_Japan.svg)](https://dev.to/naokotakahashi/guide-for-foreigners-to-find-software-developer-jobs-in-japan-jh6)
-[![Building a Serverless AI Content Detector](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_Serverless_AI_Content_Detector.svg)](https://dev.to/ssennettau/building-a-serverless-ai-content-detector-65d)
-[![All Open Source Internship Programs at One Place](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/All_Open_Source_Internship_Programs_at_One_Place.svg)](https://dev.to/durgesh4993/all-open-source-internship-programs-at-one-place-87e)
-[![a practical guide to understanding iam policies](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/a_practical_guide_to_understanding_iam_policies.svg)](https://dev.to/khemsok/a-practical-guide-to-understanding-iam-policies-2h17)
+[![A real project with CodeCatalyst - Our hackathon gave us a good insight into what works and what doesn't](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_real_project_with_CodeCatalyst_-_Our_hackathon_gave_us_a_good_insight_into_what_works_and_what_doesn't.svg)](https://dev.to/aws-builders/a-real-project-with-codecatalyst-our-hackathon-gave-us-a-good-insight-into-what-works-and-what-doesnt-1e79)
+[![Amplify SDK for Flutter - Developer experience and challenges in a hackathon](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Amplify_SDK_for_Flutter_-_Developer_experience_and_challenges_in_a_hackathon.svg)](https://dev.to/aws-builders/amplify-sdk-for-flutter-developer-experience-and-challenges-in-a-hackathon-2e15)
+[![I Hosted My First Ever Website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_Hosted_My_First_Ever_Website.svg)](https://dev.to/blessing0024/i-hosted-my-first-ever-website-4l31)
+[![Take Advantage of AWS Amplify’s Push Notification Feature in a React Native App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Take_Advantage_of_AWS_Amplify’s_Push_Notification_Feature_in_a_React_Native_App.svg)](https://dev.to/codebeast/take-advantage-of-aws-amplifys-push-notification-feature-in-a-react-native-app-2cd2)
+[![Deploying a serverless web analytics solution for your websites](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deploying_a_serverless_web_analytics_solution_for_your_websites.svg)](https://dev.to/aws/deploying-a-serverless-web-analytics-solution-for-your-websites-5coh)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, June 29, 2023 at 12:12:47 AM
+> Last updated: Thursday, June 29, 2023 at 6:17:30 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, June 29, 2023 at 12:12:49 AM
+> Last updated: Thursday, June 29, 2023 at 6:17:33 AM
 
 > Showing 5 of 30 posts.
 
