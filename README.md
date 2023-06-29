@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, June 28, 2023 at 6:55:32 PM
+> Last updated: Thursday, June 29, 2023 at 12:12:44 AM
 
 > Showing 5 of 12 posts.
 
-[![Attended Config 23 Virtually and Loved the New Updates to Figma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Attended_Config_23_Virtually_and_Loved_the_New_Updates_to_Figma.svg)](https://dev.to/peaceoloruntoba/attended-config-23-virtually-and-loved-the-new-updates-to-figma-2ej6)
-[![Balancing Exams and Coding: How I Stay Productive](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Balancing_Exams_and_Coding__How_I_Stay_Productive.svg)](https://dev.to/peaceoloruntoba/balancing-exams-and-coding-how-i-stay-productive-57dl)
-[![Why Google Zanzibar Shines at Building Authorization](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_Google_Zanzibar_Shines_at_Building_Authorization.svg)](https://dev.to/warrant/why-google-zanzibar-shines-at-building-authorization-47do)
-[![Introducing The Spatial Cypher Cheat Sheet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_The_Spatial_Cypher_Cheat_Sheet.svg)](https://dev.to/lyonwj/introducing-the-spatial-cypher-cheat-sheet-3bph)
-[![This Week In React #150: Next.js, Skew Protection, Portals, Remix Dev Server, AI, React-Aria, visionOS, MiniSim, MMKV...](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/This_Week_In_React__150__Next.js__Skew_Protection__Portals__Remix_Dev_Server__AI__React-Aria__visionOS__MiniSim__MMKV....svg)](https://dev.to/sebastienlorber/this-week-in-react-150-nextjs-skew-protection-portals-remix-dev-server-ai-react-aria-visionos-minisim-mmkv-22i5)
+[![Ace the "How do you prioritize your work" question in your next interview.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ace_the__How_do_you_prioritize_your_work__question_in_your_next_interview..svg)](https://dev.to/martinkr/ace-the-how-do-you-prioritize-your-work-question-in-your-next-interview-15j3)
+[![Guide for Foreigners to Find Software Developer Jobs in Japan](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Guide_for_Foreigners_to_Find_Software_Developer_Jobs_in_Japan.svg)](https://dev.to/naokotakahashi/guide-for-foreigners-to-find-software-developer-jobs-in-japan-jh6)
+[![Building a Serverless AI Content Detector](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_Serverless_AI_Content_Detector.svg)](https://dev.to/ssennettau/building-a-serverless-ai-content-detector-65d)
+[![All Open Source Internship Programs at One Place](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/All_Open_Source_Internship_Programs_at_One_Place.svg)](https://dev.to/durgesh4993/all-open-source-internship-programs-at-one-place-87e)
+[![a practical guide to understanding iam policies](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/a_practical_guide_to_understanding_iam_policies.svg)](https://dev.to/khemsok/a-practical-guide-to-understanding-iam-policies-2h17)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, June 28, 2023 at 6:55:36 PM
+> Last updated: Thursday, June 29, 2023 at 12:12:47 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, June 28, 2023 at 6:55:39 PM
+> Last updated: Thursday, June 29, 2023 at 12:12:49 AM
 
 > Showing 5 of 30 posts.
 
