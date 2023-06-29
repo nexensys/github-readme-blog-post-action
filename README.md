@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, June 29, 2023 at 6:17:26 AM
+> Last updated: Thursday, June 29, 2023 at 12:14:20 PM
 
 > Showing 5 of 12 posts.
 
-[![A real project with CodeCatalyst - Our hackathon gave us a good insight into what works and what doesn't](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_real_project_with_CodeCatalyst_-_Our_hackathon_gave_us_a_good_insight_into_what_works_and_what_doesn't.svg)](https://dev.to/aws-builders/a-real-project-with-codecatalyst-our-hackathon-gave-us-a-good-insight-into-what-works-and-what-doesnt-1e79)
-[![Amplify SDK for Flutter - Developer experience and challenges in a hackathon](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Amplify_SDK_for_Flutter_-_Developer_experience_and_challenges_in_a_hackathon.svg)](https://dev.to/aws-builders/amplify-sdk-for-flutter-developer-experience-and-challenges-in-a-hackathon-2e15)
-[![I Hosted My First Ever Website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_Hosted_My_First_Ever_Website.svg)](https://dev.to/blessing0024/i-hosted-my-first-ever-website-4l31)
-[![Take Advantage of AWS Amplify’s Push Notification Feature in a React Native App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Take_Advantage_of_AWS_Amplify’s_Push_Notification_Feature_in_a_React_Native_App.svg)](https://dev.to/codebeast/take-advantage-of-aws-amplifys-push-notification-feature-in-a-react-native-app-2cd2)
-[![Deploying a serverless web analytics solution for your websites](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deploying_a_serverless_web_analytics_solution_for_your_websites.svg)](https://dev.to/aws/deploying-a-serverless-web-analytics-solution-for-your-websites-5coh)
+[![With GitHub apparently down right now...](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/With_GitHub_apparently_down_right_now....svg)](https://dev.to/ben/with-github-apparently-down-right-now-on2)
+[![Configuration v/s Composition - Design Reusable Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Configuration_v_s_Composition_-_Design_Reusable_Components.svg)](https://dev.to/anuradha9712/configuration-vs-composition-design-reusable-components-5h1f)
+[![Understanding Selection sort in Java](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_Selection_sort_in_Java.svg)](https://dev.to/suresh02/understanding-selection-sort-in-java-44ic)
+[![Single-Digit Spotlight v4](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Single-Digit_Spotlight_v4.svg)](https://dev.to/codenewbieteam/single-digit-spotlight-v4-4i16)
+[![Moog Acquired by inMusic](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Moog_Acquired_by_inMusic.svg)](https://dev.to/music-discussions/moog-acquired-by-inmusic-3omk)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, June 29, 2023 at 6:17:30 AM
+> Last updated: Thursday, June 29, 2023 at 12:14:24 PM
 
 > Showing 4 of 4 posts.
 
+[![This is a doozy of an issue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/This_is_a_doozy_of_an_issue.svg)](https://javascriptweekly.com/issues/645)
 [![Svelte 4 released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Svelte_4_released.svg)](https://javascriptweekly.com/issues/644)
 [![11 years of JavaScript on top](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/11_years_of_JavaScript_on_top.svg)](https://javascriptweekly.com/issues/643)
 [![Douglas Crockford calls JavaScript 'smelly.'](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Douglas_Crockford_calls_JavaScript_'smelly.'.svg)](https://javascriptweekly.com/issues/642)
-[![Bundle-time macros with Bun](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Bundle-time_macros_with_Bun.svg)](https://javascriptweekly.com/issues/641)
 
 
 ## Echo JS
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, June 29, 2023 at 6:17:33 AM
+> Last updated: Thursday, June 29, 2023 at 12:14:28 PM
 
 > Showing 5 of 30 posts.
 
