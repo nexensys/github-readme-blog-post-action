@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, June 28, 2023 at 12:11:39 PM
+> Last updated: Wednesday, June 28, 2023 at 6:55:32 PM
 
 > Showing 5 of 12 posts.
 
-[![10 Secret Tips That Make You a Better Python Programmer 😎💻](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_Secret_Tips_That_Make_You_a_Better_Python_Programmer_😎💻.svg)](https://dev.to/akashpattnaik/10-secret-tips-that-make-you-a-better-python-programmer-1gn)
-[!["Survival Guide for the All-in-One Developer: Conquering the New Job”](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_Survival_Guide_for_the_All-in-One_Developer__Conquering_the_New_Job”.svg)](https://dev.to/martinloerae/survival-guide-for-the-all-in-one-developer-conquering-the-new-job-m10)
-[![HATEOAS Principle - Generating Full Paths for Objects in Django Rest Framework.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/HATEOAS_Principle_-_Generating_Full_Paths_for_Objects_in_Django_Rest_Framework..svg)](https://dev.to/sten/hateoas-principle-generating-full-paths-for-objects-in-django-rest-framework-366j)
-[![Boneless: a CLI to create your apps with Go](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Boneless__a_CLI_to_create_your_apps_with_Go.svg)](https://dev.to/renanbastos93/boneless-a-cli-to-create-your-apps-with-go-31kh)
-[![Build a Serverless Application for Audio to Text conversion](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_a_Serverless_Application_for_Audio_to_Text_conversion.svg)](https://dev.to/abhirockzz/use-go-with-aws-lambda-and-amazon-transcribe-to-build-a-speech-to-text-converter-1j36)
+[![Attended Config 23 Virtually and Loved the New Updates to Figma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Attended_Config_23_Virtually_and_Loved_the_New_Updates_to_Figma.svg)](https://dev.to/peaceoloruntoba/attended-config-23-virtually-and-loved-the-new-updates-to-figma-2ej6)
+[![Balancing Exams and Coding: How I Stay Productive](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Balancing_Exams_and_Coding__How_I_Stay_Productive.svg)](https://dev.to/peaceoloruntoba/balancing-exams-and-coding-how-i-stay-productive-57dl)
+[![Why Google Zanzibar Shines at Building Authorization](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_Google_Zanzibar_Shines_at_Building_Authorization.svg)](https://dev.to/warrant/why-google-zanzibar-shines-at-building-authorization-47do)
+[![Introducing The Spatial Cypher Cheat Sheet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_The_Spatial_Cypher_Cheat_Sheet.svg)](https://dev.to/lyonwj/introducing-the-spatial-cypher-cheat-sheet-3bph)
+[![This Week In React #150: Next.js, Skew Protection, Portals, Remix Dev Server, AI, React-Aria, visionOS, MiniSim, MMKV...](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/This_Week_In_React__150__Next.js__Skew_Protection__Portals__Remix_Dev_Server__AI__React-Aria__visionOS__MiniSim__MMKV....svg)](https://dev.to/sebastienlorber/this-week-in-react-150-nextjs-skew-protection-portals-remix-dev-server-ai-react-aria-visionos-minisim-mmkv-22i5)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, June 28, 2023 at 12:11:43 PM
+> Last updated: Wednesday, June 28, 2023 at 6:55:36 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, June 28, 2023 at 12:11:46 PM
+> Last updated: Wednesday, June 28, 2023 at 6:55:39 PM
 
 > Showing 5 of 30 posts.
 
+[![Type is the ultimate. Type eclipses everything.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Type_is_the_ultimate._Type_eclipses_everything..svg)](https://adropincalm.com/blog/type-is-the-ultimate-type-eclipses-everything/)
+[![Permit or Deny Login Requests Using Auth0 Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Permit_or_Deny_Login_Requests_Using_Auth0_Actions.svg)](https://auth0.com/blog/permit-or-deny-login-requests-using-auth0-actions/)
 [![GitHub - FeatureProbe/FeatureProbe: FeatureProbe is an open source feature management service. 开源的高效可视化『特性』管理平台，提供特性开关、灰度发布、AB实验全功能。](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_FeatureProbe_FeatureProbe__FeatureProbe_is_an_open_source_feature_management_service._开源的高效可视化『特性』管理平台，提供特性开关、灰度发布、AB实验全功能。.svg)](https://github.com/FeatureProbe/FeatureProbe)
 [![NPM registry vulnerable to 'manifest confusion' abuse](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/NPM_registry_vulnerable_to_'manifest_confusion'_abuse.svg)](https://www.theregister.com/2023/06/27/javascript_registry_npm_vulnerable/)
 [![GitHub - kaangiray26/endless: Unifying the social media experience](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_kaangiray26_endless__Unifying_the_social_media_experience.svg)](https://github.com/kaangiray26/endless)
-[![GitHub - redpangilinan/gridtap-turbo: Tap fast and climb the leaderboards in Gridtap Turbo, a fast-paced grid-tapping challenge.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_redpangilinan_gridtap-turbo__Tap_fast_and_climb_the_leaderboards_in_Gridtap_Turbo__a_fast-paced_grid-tapping_challenge..svg)](https://github.com/redpangilinan/gridtap-turbo)
-[![How to consume a paginated API using JavaScript async generators](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_consume_a_paginated_API_using_JavaScript_async_generators.svg)](https://jrsinclair.com/articles/2023/how-to-consume-a-paginated-api-using-javascript-async-generators)
 
 
 <!-- post-list:end -->
