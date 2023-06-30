@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, June 29, 2023 at 12:14:20 PM
+> Last updated: Thursday, June 29, 2023 at 6:53:32 PM
 
 > Showing 5 of 12 posts.
 
-[![With GitHub apparently down right now...](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/With_GitHub_apparently_down_right_now....svg)](https://dev.to/ben/with-github-apparently-down-right-now-on2)
-[![Configuration v/s Composition - Design Reusable Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Configuration_v_s_Composition_-_Design_Reusable_Components.svg)](https://dev.to/anuradha9712/configuration-vs-composition-design-reusable-components-5h1f)
-[![Understanding Selection sort in Java](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_Selection_sort_in_Java.svg)](https://dev.to/suresh02/understanding-selection-sort-in-java-44ic)
-[![Single-Digit Spotlight v4](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Single-Digit_Spotlight_v4.svg)](https://dev.to/codenewbieteam/single-digit-spotlight-v4-4i16)
-[![Moog Acquired by inMusic](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Moog_Acquired_by_inMusic.svg)](https://dev.to/music-discussions/moog-acquired-by-inmusic-3omk)
+[![Electron.js Tutorial](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Electron.js_Tutorial.svg)](https://dev.to/kiraaziz/electronjs-tutorial-1cb3)
+[![Demystifying React useState Hook: Simplifying State Management in Functional Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Demystifying_React_useState_Hook__Simplifying_State_Management_in_Functional_Components.svg)](https://dev.to/bouquet/demystifying-react-usestate-hook-simplifying-state-management-in-functional-components-4n83)
+[![My experience deploying a Next.js application on Netlify (using Next App Router)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_experience_deploying_a_Next.js_application_on_Netlify_(using_Next_App_Router).svg)](https://dev.to/alvesjessica/my-experience-deploying-a-nextjs-application-on-netlify-using-next-app-router-3k1b)
+[![GitHub’s Best Practices(Streamlining Collaboration and Maximizing Efficiency)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/GitHub’s_Best_Practices(Streamlining_Collaboration_and_Maximizing_Efficiency).svg)](https://dev.to/kelechikizito/githubs-best-practicesstreamlining-collaboration-and-maximizing-efficiency-kk3)
+[![Filtering TypeScript value types](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Filtering_TypeScript_value_types.svg)](https://dev.to/logrocket/filtering-typescript-value-types-4adh)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, June 29, 2023 at 12:14:24 PM
+> Last updated: Thursday, June 29, 2023 at 6:53:36 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, June 29, 2023 at 12:14:28 PM
+> Last updated: Thursday, June 29, 2023 at 6:53:38 PM
 
 > Showing 5 of 30 posts.
 
