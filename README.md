@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, June 30, 2023 at 6:17:04 AM
+> Last updated: Friday, June 30, 2023 at 12:11:11 PM
 
 > Showing 5 of 12 posts.
 
-[![The Complete Guide to Becoming a Web Developer: Part 3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Complete_Guide_to_Becoming_a_Web_Developer__Part_3.svg)](https://dev.to/aradwan20/the-complete-guide-to-becoming-a-web-developer-part-3-401k)
-[![Building an Async Interview Platform With React and Dyte](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_an_Async_Interview_Platform_With_React_and_Dyte.svg)](https://dev.to/dyte/building-an-async-interview-platform-with-react-and-dyte-2n25)
-[![Learn how to build responsive navigation bar with HTML, CSS, and JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Learn_how_to_build_responsive_navigation_bar_with_HTML__CSS__and_JavaScript.svg)](https://dev.to/david_bilsonn/learn-how-to-build-responsive-navigation-bar-with-html-css-javascript-4g5)
-[![Top 5 Frontend and Backend Technologies Used by Developers in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_5_Frontend_and_Backend_Technologies_Used_by_Developers_in_2023.svg)](https://dev.to/dhruvjoshi9/top-5-frontend-and-backend-technologies-used-by-developers-in-2023-4e2p)
-[![What was your win this week?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_was_your_win_this_week_.svg)](https://dev.to/devteam/what-was-your-win-this-week-10gb)
+[![AI-MediSphere™ - The Cardiovascular Prognosticator](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AI-MediSphere™_-_The_Cardiovascular_Prognosticator.svg)](https://dev.to/aws-builders/ai-medisphere-the-cardiovascular-prognosticator-4118)
+[![Bank Account Summary II | LeetCode | MSSQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Bank_Account_Summary_II___LeetCode___MSSQL.svg)](https://dev.to/ranggakd/bank-account-summary-ii-leetcode-mssql-1ema)
+[![AI Hackathon: Sentiment Analysis with Python Flask and Transformer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AI_Hackathon__Sentiment_Analysis_with_Python_Flask_and_Transformer.svg)](https://dev.to/afshan/ai-hackathon-sentiment-analysis-with-python-flask-and-transformer-2nfi)
+[![The Journey to My Capstone: A Glimpse Into My Time at Flatiron School](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Journey_to_My_Capstone__A_Glimpse_Into_My_Time_at_Flatiron_School.svg)](https://dev.to/caseyconlan/the-journey-to-my-capstone-a-glimpse-into-my-time-at-flatiron-school-1mn8)
+[![Wasp Tutorial Jam #1 -- Teach Others, Win Prizes 😎](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Wasp_Tutorial_Jam__1_--_Teach_Others__Win_Prizes_😎.svg)](https://dev.to/wasp/wasp-tutorial-jam-1-teach-others-win-prizes-30i4)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, June 30, 2023 at 6:17:09 AM
+> Last updated: Friday, June 30, 2023 at 12:11:13 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, June 30, 2023 at 6:17:26 AM
+> Last updated: Friday, June 30, 2023 at 12:11:30 PM
 
 > Showing 5 of 30 posts.
 
