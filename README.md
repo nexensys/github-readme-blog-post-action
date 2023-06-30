@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, June 30, 2023 at 12:12:09 AM
+> Last updated: Friday, June 30, 2023 at 6:17:04 AM
 
 > Showing 5 of 12 posts.
 
-[![Language Whisperer - AI/ML Transformer Tools Hackathon](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Language_Whisperer_-_AI_ML_Transformer_Tools_Hackathon.svg)](https://dev.to/aws-builders/language-whisperer-aiml-transformer-tools-hackathon-i9a)
-[![Understanding Hashing in Java: Exploring HashMap and HashSet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_Hashing_in_Java__Exploring_HashMap_and_HashSet.svg)](https://dev.to/aswin2001barath/understanding-hashing-in-java-exploring-hashmap-and-hashset-ea)
-[![Travel Mobile App using flutter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Travel_Mobile_App_using_flutter.svg)](https://dev.to/realnamehidden1_61/travel-mobile-app-using-flutter-2p68)
-[![Build Your Own Machine Learning Models without writing a single line of code 🤯](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_Your_Own_Machine_Learning_Models_without_writing_a_single_line_of_code_🤯.svg)](https://dev.to/elliot_brenya/build-your-own-machine-learning-models-without-writing-a-single-line-of-code-189c)
-[![The importance of verifying webhook signatures](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_importance_of_verifying_webhook_signatures.svg)](https://dev.to/snyk/the-importance-of-verifying-webhook-signatures-3kan)
+[![The Complete Guide to Becoming a Web Developer: Part 3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Complete_Guide_to_Becoming_a_Web_Developer__Part_3.svg)](https://dev.to/aradwan20/the-complete-guide-to-becoming-a-web-developer-part-3-401k)
+[![Building an Async Interview Platform With React and Dyte](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_an_Async_Interview_Platform_With_React_and_Dyte.svg)](https://dev.to/dyte/building-an-async-interview-platform-with-react-and-dyte-2n25)
+[![Learn how to build responsive navigation bar with HTML, CSS, and JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Learn_how_to_build_responsive_navigation_bar_with_HTML__CSS__and_JavaScript.svg)](https://dev.to/david_bilsonn/learn-how-to-build-responsive-navigation-bar-with-html-css-javascript-4g5)
+[![Top 5 Frontend and Backend Technologies Used by Developers in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_5_Frontend_and_Backend_Technologies_Used_by_Developers_in_2023.svg)](https://dev.to/dhruvjoshi9/top-5-frontend-and-backend-technologies-used-by-developers-in-2023-4e2p)
+[![What was your win this week?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_was_your_win_this_week_.svg)](https://dev.to/devteam/what-was-your-win-this-week-10gb)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, June 30, 2023 at 12:12:12 AM
+> Last updated: Friday, June 30, 2023 at 6:17:09 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, June 30, 2023 at 12:12:22 AM
+> Last updated: Friday, June 30, 2023 at 6:17:26 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - DeXoHigh/dexocdn: DeXoCDN allows developers to easily distribute and serve static assets to improve performance and reduce server load.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_DeXoHigh_dexocdn__DeXoCDN_allows_developers_to_easily_distribute_and_serve_static_assets_to_improve_performance_and_reduce_server_load..svg)](https://github.com/DeXoHigh/dexocdn)
 [![Type is the ultimate. Type eclipses everything.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Type_is_the_ultimate._Type_eclipses_everything..svg)](https://adropincalm.com/blog/type-is-the-ultimate-type-eclipses-everything/)
 [![Permit or Deny Login Requests Using Auth0 Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Permit_or_Deny_Login_Requests_Using_Auth0_Actions.svg)](https://auth0.com/blog/permit-or-deny-login-requests-using-auth0-actions/)
 [![GitHub - FeatureProbe/FeatureProbe: FeatureProbe is an open source feature management service. 开源的高效可视化『特性』管理平台，提供特性开关、灰度发布、AB实验全功能。](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_FeatureProbe_FeatureProbe__FeatureProbe_is_an_open_source_feature_management_service._开源的高效可视化『特性』管理平台，提供特性开关、灰度发布、AB实验全功能。.svg)](https://github.com/FeatureProbe/FeatureProbe)
 [![NPM registry vulnerable to 'manifest confusion' abuse](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/NPM_registry_vulnerable_to_'manifest_confusion'_abuse.svg)](https://www.theregister.com/2023/06/27/javascript_registry_npm_vulnerable/)
-[![GitHub - kaangiray26/endless: Unifying the social media experience](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_kaangiray26_endless__Unifying_the_social_media_experience.svg)](https://github.com/kaangiray26/endless)
 
 
 <!-- post-list:end -->
