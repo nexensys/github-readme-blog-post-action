@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, June 30, 2023 at 7:01:36 PM
+> Last updated: Saturday, July 1, 2023 at 12:11:34 AM
 
 > Showing 5 of 12 posts.
 
-[![Dockerize your Next.js application on Spheron Compute](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dockerize_your_Next.js_application_on_Spheron_Compute.svg)](https://dev.to/davidsalexande3/dockerize-your-nextjs-application-on-spheron-compute-2l48)
-[![Unveiling the Power of AI in Software Security at DevSecCon](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unveiling_the_Power_of_AI_in_Software_Security_at_DevSecCon.svg)](https://dev.to/nikitakoselev/unveiling-the-power-of-ai-in-software-security-at-devseccon-37f)
-[![All your ssh and database servers accessible directly from your Browser](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/All_your_ssh_and_database_servers_accessible_directly_from_your_Browser.svg)](https://dev.to/aws-builders/all-your-ssh-and-database-servers-accessible-directly-from-your-browser-580p)
-[![How to create a temporary token for your GitHub Actions pipeline to deploy into AWS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_a_temporary_token_for_your_GitHub_Actions_pipeline_to_deploy_into_AWS.svg)](https://dev.to/aws-builders/how-to-create-a-temporary-token-for-your-github-actions-pipeline-to-deploy-into-aws-3h51)
-[![Creating our First Complete Jenkins CI/CD Pipeline](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_our_First_Complete_Jenkins_CI_CD_Pipeline.svg)](https://dev.to/softwaresennin/creating-our-first-complete-jenkins-cicd-pipeline-34a1)
+[![Top 10 Android Projects For Beginners To Do and Boost Your Resume](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_10_Android_Projects_For_Beginners_To_Do_and_Boost_Your_Resume.svg)](https://dev.to/dhruvjoshi9/top-10-android-projects-for-beginners-to-do-and-boost-your-resume-2me3)
+[![CreatiGenius: Empowering Your Creative Universe](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CreatiGenius__Empowering_Your_Creative_Universe.svg)](https://dev.to/sohagmahamud/creatigenius-empowering-your-creative-universe-364n)
+[![Let's Talk About Node Packages](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Let's_Talk_About_Node_Packages.svg)](https://dev.to/lukeshiru/lets-talk-about-node-packages-21bh)
+[![📦 Stay Organized and Efficient with Auto-Label-Pulls Github Action](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/📦_Stay_Organized_and_Efficient_with_Auto-Label-Pulls_Github_Action.svg)](https://dev.to/shiftescape/stay-organized-and-efficient-with-auto-label-pulls-github-action-29pi)
+[![Discovering PySeKT: Your Next Favorite Tech Stack](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Discovering_PySeKT__Your_Next_Favorite_Tech_Stack.svg)](https://dev.to/developerbishwas/discovering-pysekt-your-next-favorite-tech-stack-575k)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, June 30, 2023 at 7:01:39 PM
+> Last updated: Saturday, July 1, 2023 at 12:11:37 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, June 30, 2023 at 7:01:59 PM
+> Last updated: Saturday, July 1, 2023 at 12:11:53 AM
 
 > Showing 5 of 30 posts.
 
