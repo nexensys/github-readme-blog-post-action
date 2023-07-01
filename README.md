@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, July 1, 2023 at 12:11:34 AM
+> Last updated: Saturday, July 1, 2023 at 6:16:20 AM
 
 > Showing 5 of 12 posts.
 
-[![Top 10 Android Projects For Beginners To Do and Boost Your Resume](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_10_Android_Projects_For_Beginners_To_Do_and_Boost_Your_Resume.svg)](https://dev.to/dhruvjoshi9/top-10-android-projects-for-beginners-to-do-and-boost-your-resume-2me3)
-[![CreatiGenius: Empowering Your Creative Universe](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CreatiGenius__Empowering_Your_Creative_Universe.svg)](https://dev.to/sohagmahamud/creatigenius-empowering-your-creative-universe-364n)
-[![Let's Talk About Node Packages](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Let's_Talk_About_Node_Packages.svg)](https://dev.to/lukeshiru/lets-talk-about-node-packages-21bh)
-[![📦 Stay Organized and Efficient with Auto-Label-Pulls Github Action](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/📦_Stay_Organized_and_Efficient_with_Auto-Label-Pulls_Github_Action.svg)](https://dev.to/shiftescape/stay-organized-and-efficient-with-auto-label-pulls-github-action-29pi)
-[![Discovering PySeKT: Your Next Favorite Tech Stack](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Discovering_PySeKT__Your_Next_Favorite_Tech_Stack.svg)](https://dev.to/developerbishwas/discovering-pysekt-your-next-favorite-tech-stack-575k)
+[![Copy Text to Clipboard on Click React Component](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Copy_Text_to_Clipboard_on_Click_React_Component.svg)](https://dev.to/rodionchachura/copy-text-to-clipboard-on-click-react-component-2fk1)
+[![Top 10 Best Web Optimization Services and Tools for an Efficient Online Presence](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_10_Best_Web_Optimization_Services_and_Tools_for_an_Efficient_Online_Presence.svg)](https://dev.to/vishnusatheesh/top-10-best-web-optimization-services-and-tools-for-an-efficient-online-presence-91n)
+[![How To Remove The Filter In CSS?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Remove_The_Filter_In_CSS_.svg)](https://dev.to/arsalanmee/how-to-remove-the-filter-in-css-3fd5)
+[![Rotate Image - LeetCode](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Rotate_Image_-_LeetCode.svg)](https://dev.to/kathanvakharia/rotate-image-leetcode-59a6)
+[![Exploring the Limitations of Postgres Partitioning: Lessons Learned and Best Practices](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exploring_the_Limitations_of_Postgres_Partitioning__Lessons_Learned_and_Best_Practices.svg)](https://dev.to/nightbird07/exploring-the-limitations-of-postgres-partitioning-lessons-learned-and-best-practices-5cj9)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, July 1, 2023 at 12:11:37 AM
+> Last updated: Saturday, July 1, 2023 at 6:16:23 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, July 1, 2023 at 12:11:53 AM
+> Last updated: Saturday, July 1, 2023 at 6:16:25 AM
 
 > Showing 5 of 30 posts.
 
