@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, June 30, 2023 at 12:11:11 PM
+> Last updated: Friday, June 30, 2023 at 7:01:36 PM
 
 > Showing 5 of 12 posts.
 
-[![AI-MediSphere™ - The Cardiovascular Prognosticator](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AI-MediSphere™_-_The_Cardiovascular_Prognosticator.svg)](https://dev.to/aws-builders/ai-medisphere-the-cardiovascular-prognosticator-4118)
-[![Bank Account Summary II | LeetCode | MSSQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Bank_Account_Summary_II___LeetCode___MSSQL.svg)](https://dev.to/ranggakd/bank-account-summary-ii-leetcode-mssql-1ema)
-[![AI Hackathon: Sentiment Analysis with Python Flask and Transformer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AI_Hackathon__Sentiment_Analysis_with_Python_Flask_and_Transformer.svg)](https://dev.to/afshan/ai-hackathon-sentiment-analysis-with-python-flask-and-transformer-2nfi)
-[![The Journey to My Capstone: A Glimpse Into My Time at Flatiron School](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Journey_to_My_Capstone__A_Glimpse_Into_My_Time_at_Flatiron_School.svg)](https://dev.to/caseyconlan/the-journey-to-my-capstone-a-glimpse-into-my-time-at-flatiron-school-1mn8)
-[![Wasp Tutorial Jam #1 -- Teach Others, Win Prizes 😎](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Wasp_Tutorial_Jam__1_--_Teach_Others__Win_Prizes_😎.svg)](https://dev.to/wasp/wasp-tutorial-jam-1-teach-others-win-prizes-30i4)
+[![Dockerize your Next.js application on Spheron Compute](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dockerize_your_Next.js_application_on_Spheron_Compute.svg)](https://dev.to/davidsalexande3/dockerize-your-nextjs-application-on-spheron-compute-2l48)
+[![Unveiling the Power of AI in Software Security at DevSecCon](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unveiling_the_Power_of_AI_in_Software_Security_at_DevSecCon.svg)](https://dev.to/nikitakoselev/unveiling-the-power-of-ai-in-software-security-at-devseccon-37f)
+[![All your ssh and database servers accessible directly from your Browser](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/All_your_ssh_and_database_servers_accessible_directly_from_your_Browser.svg)](https://dev.to/aws-builders/all-your-ssh-and-database-servers-accessible-directly-from-your-browser-580p)
+[![How to create a temporary token for your GitHub Actions pipeline to deploy into AWS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_a_temporary_token_for_your_GitHub_Actions_pipeline_to_deploy_into_AWS.svg)](https://dev.to/aws-builders/how-to-create-a-temporary-token-for-your-github-actions-pipeline-to-deploy-into-aws-3h51)
+[![Creating our First Complete Jenkins CI/CD Pipeline](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_our_First_Complete_Jenkins_CI_CD_Pipeline.svg)](https://dev.to/softwaresennin/creating-our-first-complete-jenkins-cicd-pipeline-34a1)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, June 30, 2023 at 12:11:13 PM
+> Last updated: Friday, June 30, 2023 at 7:01:39 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, June 30, 2023 at 12:11:30 PM
+> Last updated: Friday, June 30, 2023 at 7:01:59 PM
 
 > Showing 5 of 30 posts.
 
