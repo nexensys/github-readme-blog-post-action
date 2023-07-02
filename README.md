@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, July 2, 2023 at 12:11:09 AM
+> Last updated: Sunday, July 2, 2023 at 6:16:12 AM
 
 > Showing 5 of 12 posts.
 
-[![Developer Mid Term Report Cards](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Developer_Mid_Term_Report_Cards.svg)](https://dev.to/philipjohnbasile/developer-mid-term-report-cards-2oek)
-[![Mastering Django CI/CD using GitHub Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_Django_CI_CD_using_GitHub_Actions.svg)](https://dev.to/devvspaces/mastering-django-cicd-using-github-actions-2912)
-[![Guide for starting out C and C++ Programming in Visual Studio Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Guide_for_starting_out_C_and_C++_Programming_in_Visual_Studio_Code.svg)](https://dev.to/android-jester/guideline-for-starting-out-c-and-c-programming-in-visual-studio-code-19aj)
-[![BIG surprise! aspx files in .NET Core](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/BIG_surprise!_aspx_files_in_.NET_Core.svg)](https://dev.to/elanatframework/big-surprise-aspx-files-in-net-core-1jj2)
-[![Next.js and GraphQL: The Perfect Combination for Full Stack Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Next.js_and_GraphQL__The_Perfect_Combination_for_Full_Stack_Development.svg)](https://dev.to/franciscomendes10866/nextjs-and-graphql-the-perfect-combination-for-full-stack-development-18l7)
+[![Restaurant Mobile App using flutter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Restaurant_Mobile_App_using_flutter.svg)](https://dev.to/realnamehidden1_61/restaurant-mobile-app-ui-design-5gg7)
+[![Top Cloud Base Tricks Every DevOps Must Know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_Cloud_Base_Tricks_Every_DevOps_Must_Know.svg)](https://dev.to/scofieldidehen/top-cloud-base-tricks-every-devops-must-know-1b01)
+[![Use OPA for Application-Level Authorization, from RBAC to ABAC in Scale](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Use_OPA_for_Application-Level_Authorization__from_RBAC_to_ABAC_in_Scale.svg)](https://dev.to/permit_io/use-opa-for-application-level-authorization-from-rbac-to-abac-in-scale-36d7)
+[![Static hosting free](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Static_hosting_free.svg)](https://dev.to/irishgeoff11/static-hosting-free-ia2)
+[![Sites you should know: Part Two](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Sites_you_should_know__Part_Two.svg)](https://dev.to/roshdiraed/sites-you-should-know-part-two-48m7)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, July 2, 2023 at 12:11:11 AM
+> Last updated: Sunday, July 2, 2023 at 6:16:15 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, July 2, 2023 at 12:11:13 AM
+> Last updated: Sunday, July 2, 2023 at 6:16:17 AM
 
 > Showing 5 of 30 posts.
 
