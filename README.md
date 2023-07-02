@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, July 2, 2023 at 6:16:12 AM
+> Last updated: Sunday, July 2, 2023 at 12:10:10 PM
 
 > Showing 5 of 12 posts.
 
-[![Restaurant Mobile App using flutter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Restaurant_Mobile_App_using_flutter.svg)](https://dev.to/realnamehidden1_61/restaurant-mobile-app-ui-design-5gg7)
-[![Top Cloud Base Tricks Every DevOps Must Know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_Cloud_Base_Tricks_Every_DevOps_Must_Know.svg)](https://dev.to/scofieldidehen/top-cloud-base-tricks-every-devops-must-know-1b01)
-[![Use OPA for Application-Level Authorization, from RBAC to ABAC in Scale](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Use_OPA_for_Application-Level_Authorization__from_RBAC_to_ABAC_in_Scale.svg)](https://dev.to/permit_io/use-opa-for-application-level-authorization-from-rbac-to-abac-in-scale-36d7)
-[![Static hosting free](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Static_hosting_free.svg)](https://dev.to/irishgeoff11/static-hosting-free-ia2)
-[![Sites you should know: Part Two](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Sites_you_should_know__Part_Two.svg)](https://dev.to/roshdiraed/sites-you-should-know-part-two-48m7)
+[![How to build a serverless cron job using AWS EventBridge with AWS CDK](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_build_a_serverless_cron_job_using_AWS_EventBridge_with_AWS_CDK.svg)](https://dev.to/pmca/how-to-build-a-serverless-cron-job-using-aws-eventbridge-with-aws-cdk-25hd)
+[![Creating a Dynamic Table in React Using react-table (v7.8.0).](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_a_Dynamic_Table_in_React_Using_react-table_(v7.8.0)..svg)](https://dev.to/hcoco1/creating-a-dynamic-table-in-react-using-react-table-v780-3823)
+[![Yet Another Newsletter LOL: Making and Learning](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Yet_Another_Newsletter_LOL__Making_and_Learning.svg)](https://dev.to/nickytonline/yet-another-newsletter-lol-making-and-learning-3c5o)
+[![Dhiwise and Locofy: The Best AI Design To Code Converters](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dhiwise_and_Locofy__The_Best_AI_Design_To_Code_Converters.svg)](https://dev.to/scofieldidehen/dhiwise-and-locofy-the-best-ai-design-to-code-converters-4i46)
+[![Git the Future of Open Source](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Git_the_Future_of_Open_Source.svg)](https://dev.to/scofieldidehen/git-the-future-of-open-source-219p)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, July 2, 2023 at 6:16:15 AM
+> Last updated: Sunday, July 2, 2023 at 12:10:14 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, July 2, 2023 at 6:16:17 AM
+> Last updated: Sunday, July 2, 2023 at 12:10:16 PM
 
 > Showing 5 of 30 posts.
 
