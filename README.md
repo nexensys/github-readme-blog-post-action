@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, July 1, 2023 at 6:58:20 PM
+> Last updated: Sunday, July 2, 2023 at 12:11:09 AM
 
 > Showing 5 of 12 posts.
 
+[![Developer Mid Term Report Cards](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Developer_Mid_Term_Report_Cards.svg)](https://dev.to/philipjohnbasile/developer-mid-term-report-cards-2oek)
+[![Mastering Django CI/CD using GitHub Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_Django_CI_CD_using_GitHub_Actions.svg)](https://dev.to/devvspaces/mastering-django-cicd-using-github-actions-2912)
+[![Guide for starting out C and C++ Programming in Visual Studio Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Guide_for_starting_out_C_and_C++_Programming_in_Visual_Studio_Code.svg)](https://dev.to/android-jester/guideline-for-starting-out-c-and-c-programming-in-visual-studio-code-19aj)
 [![BIG surprise! aspx files in .NET Core](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/BIG_surprise!_aspx_files_in_.NET_Core.svg)](https://dev.to/elanatframework/big-surprise-aspx-files-in-net-core-1jj2)
 [![Next.js and GraphQL: The Perfect Combination for Full Stack Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Next.js_and_GraphQL__The_Perfect_Combination_for_Full_Stack_Development.svg)](https://dev.to/franciscomendes10866/nextjs-and-graphql-the-perfect-combination-for-full-stack-development-18l7)
-[![Boost Your JavaScript Skills with These 5 Must-Know Shorthands and Tricks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Boost_Your_JavaScript_Skills_with_These_5_Must-Know_Shorthands_and_Tricks.svg)](https://dev.to/itsvinayak/boost-your-javascript-skills-with-these-5-must-know-shorthands-and-tricks-52af)
-[![5 Steps to Publish Your App on Google Play Store](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Steps_to_Publish_Your_App_on_Google_Play_Store.svg)](https://dev.to/arnoldwafula/5-steps-to-publish-your-app-on-google-play-store-4ml7)
-[![CSS Flexbox: The Ultimate Guide to Creating Responsive Web Layouts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CSS_Flexbox__The_Ultimate_Guide_to_Creating_Responsive_Web_Layouts.svg)](https://dev.to/joanayebola/css-flexbox-the-ultimate-guide-to-creating-responsive-web-layouts-m4e)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, July 1, 2023 at 6:58:24 PM
+> Last updated: Sunday, July 2, 2023 at 12:11:11 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, July 1, 2023 at 6:58:27 PM
+> Last updated: Sunday, July 2, 2023 at 12:11:13 AM
 
 > Showing 5 of 30 posts.
 
