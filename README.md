@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, July 3, 2023 at 6:19:20 AM
+> Last updated: Monday, July 3, 2023 at 12:11:17 PM
 
 > Showing 5 of 12 posts.
 
-[![Have ChatGPT Browse the Web](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Have_ChatGPT_Browse_the_Web.svg)](https://dev.to/polterguy/have-chatgpt-browse-the-web-2gl7)
-[![Pure CSS parallax perspective beyond landscape images](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Pure_CSS_parallax_perspective_beyond_landscape_images.svg)](https://dev.to/ingosteinke/pure-css-parallax-perspective-beyond-landscape-images-24g2)
-[![How Does SSL/TLS Certificate Works?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_Does_SSL_TLS_Certificate_Works_.svg)](https://dev.to/j_p_mehta/how-does-ssltls-certificate-works-5h04)
-[![Complete HTML 🤯](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Complete_HTML_🤯.svg)](https://dev.to/ankur0904/complete-html-4m32)
-[![Secrets and Environment Variables in your GitHub Action](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Secrets_and_Environment_Variables_in_your_GitHub_Action.svg)](https://dev.to/this-is-learning/secrets-and-environment-variables-in-your-github-action-1pfn)
+[![Who Writes Helm Charts?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Who_Writes_Helm_Charts_.svg)](https://dev.to/thorstenhirsch/who-writes-helm-charts-27lc)
+[![Cloud Computing 101 for Beginners (Part 1)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cloud_Computing_101_for_Beginners_(Part_1).svg)](https://dev.to/1grace/cloud-computing-101-for-beginners-6hd)
+[![How to Configure Apache web server on Linux using Ansible](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Configure_Apache_web_server_on_Linux_using_Ansible.svg)](https://dev.to/paschalogu/how-to-configure-apache-web-server-on-linux-using-ansible-2mcd)
+[![Every language is like a god](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Every_language_is_like_a_god.svg)](https://dev.to/dimitrim/every-language-is-like-a-god-1m8g)
+[![Encapsulamiento en JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Encapsulamiento_en_JavaScript.svg)](https://dev.to/ulisesserranop/encapsulamiento-en-javascript-1291)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, July 3, 2023 at 6:19:24 AM
+> Last updated: Monday, July 3, 2023 at 12:11:20 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, July 3, 2023 at 6:19:26 AM
+> Last updated: Monday, July 3, 2023 at 12:11:21 PM
 
 > Showing 5 of 30 posts.
 
