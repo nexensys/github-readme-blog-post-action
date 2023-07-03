@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, July 2, 2023 at 12:10:10 PM
+> Last updated: Sunday, July 2, 2023 at 6:56:58 PM
 
 > Showing 5 of 12 posts.
 
-[![How to build a serverless cron job using AWS EventBridge with AWS CDK](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_build_a_serverless_cron_job_using_AWS_EventBridge_with_AWS_CDK.svg)](https://dev.to/pmca/how-to-build-a-serverless-cron-job-using-aws-eventbridge-with-aws-cdk-25hd)
-[![Creating a Dynamic Table in React Using react-table (v7.8.0).](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_a_Dynamic_Table_in_React_Using_react-table_(v7.8.0)..svg)](https://dev.to/hcoco1/creating-a-dynamic-table-in-react-using-react-table-v780-3823)
-[![Yet Another Newsletter LOL: Making and Learning](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Yet_Another_Newsletter_LOL__Making_and_Learning.svg)](https://dev.to/nickytonline/yet-another-newsletter-lol-making-and-learning-3c5o)
-[![Dhiwise and Locofy: The Best AI Design To Code Converters](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dhiwise_and_Locofy__The_Best_AI_Design_To_Code_Converters.svg)](https://dev.to/scofieldidehen/dhiwise-and-locofy-the-best-ai-design-to-code-converters-4i46)
-[![Git the Future of Open Source](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Git_the_Future_of_Open_Source.svg)](https://dev.to/scofieldidehen/git-the-future-of-open-source-219p)
+[![Exploring Amazon Elasticache to Accelerate Application Speed and Scalability](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exploring_Amazon_Elasticache_to_Accelerate_Application_Speed_and_Scalability.svg)](https://dev.to/brandondamue/exploring-amazon-elasticache-to-accelerate-application-speed-and-scalability-1m6g)
+[![Junior need rules, senior guidelines](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Junior_need_rules__senior_guidelines.svg)](https://dev.to/noriller/junior-need-rules-senior-guidelines-55ma)
+[![ReductStore v1.5.0 has been released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/ReductStore_v1.5.0_has_been_released.svg)](https://dev.to/reductstore/reductstore-v150-has-been-released-hkj)
+[![Cypress Workshop Part 11: Reporting - Qase, Github Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cypress_Workshop_Part_11__Reporting_-_Qase__Github_Actions.svg)](https://dev.to/viktorijafilipov/cypress-workshop-part-11-reporting-qase-github-actions-dbi)
+[![Cypress Workshop Part 10: API, Working on different environments](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cypress_Workshop_Part_10__API__Working_on_different_environments.svg)](https://dev.to/viktorijafilipov/cypress-workshop-part-10-api-working-on-different-environments-1k7f)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, July 2, 2023 at 12:10:14 PM
+> Last updated: Sunday, July 2, 2023 at 6:57:01 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, July 2, 2023 at 12:10:16 PM
+> Last updated: Sunday, July 2, 2023 at 6:57:03 PM
 
 > Showing 5 of 30 posts.
 
