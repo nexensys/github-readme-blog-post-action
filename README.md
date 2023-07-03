@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, July 3, 2023 at 12:12:50 AM
+> Last updated: Monday, July 3, 2023 at 6:19:20 AM
 
 > Showing 5 of 12 posts.
 
-[![Perl Weekly #623 - perl v5.38.0 was released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Perl_Weekly__623_-_perl_v5.38.0_was_released.svg)](https://dev.to/szabgab/perl-weekly-623-perl-v5380-was-released-2l50)
-[![ChatGPT with Real Time Information](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/ChatGPT_with_Real_Time_Information.svg)](https://dev.to/polterguy/chatgpt-with-real-time-information-2718)
-[![All about python functions !](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/All_about_python_functions_!.svg)](https://dev.to/coderatul/all-about-functions-in-python--28ih)
-[![Full-Stack Developer Roadmap: Step-by-Step Guide 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Full-Stack_Developer_Roadmap__Step-by-Step_Guide_2023.svg)](https://dev.to/scofieldidehen/full-stack-developer-roadmap-step-by-step-guide-2023-5anf)
-[![🏆 Contest - Kintone Customization Contest 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🏆_Contest_-_Kintone_Customization_Contest_2023.svg)](https://dev.to/kintonedevprogram/contest-kintone-customization-contest-2023-3bkl)
+[![Have ChatGPT Browse the Web](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Have_ChatGPT_Browse_the_Web.svg)](https://dev.to/polterguy/have-chatgpt-browse-the-web-2gl7)
+[![Pure CSS parallax perspective beyond landscape images](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Pure_CSS_parallax_perspective_beyond_landscape_images.svg)](https://dev.to/ingosteinke/pure-css-parallax-perspective-beyond-landscape-images-24g2)
+[![How Does SSL/TLS Certificate Works?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_Does_SSL_TLS_Certificate_Works_.svg)](https://dev.to/j_p_mehta/how-does-ssltls-certificate-works-5h04)
+[![Complete HTML 🤯](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Complete_HTML_🤯.svg)](https://dev.to/ankur0904/complete-html-4m32)
+[![Secrets and Environment Variables in your GitHub Action](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Secrets_and_Environment_Variables_in_your_GitHub_Action.svg)](https://dev.to/this-is-learning/secrets-and-environment-variables-in-your-github-action-1pfn)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, July 3, 2023 at 12:12:53 AM
+> Last updated: Monday, July 3, 2023 at 6:19:24 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, July 3, 2023 at 12:12:56 AM
+> Last updated: Monday, July 3, 2023 at 6:19:26 AM
 
 > Showing 5 of 30 posts.
 
+[![q2m - a library for translating URL params to MongoDB query](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/q2m_-_a_library_for_translating_URL_params_to_MongoDB_query.svg)](https://krasimirtsonev.com/blog/article/url-query-string-to-mongodb-query)
+[![billboard.js 3.9 release: arc.needle, dark theme 🌘 & more!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/billboard.js_3.9_release__arc.needle__dark_theme_🌘___more!.svg)](https://netil.medium.com/billboard-js-3-9-release-arc-needle-dark-theme-more-752c96c167c)
 [![Efficient Techniques to Remove Duplicates from Arrays in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Efficient_Techniques_to_Remove_Duplicates_from_Arrays_in_JavaScript.svg)](https://www.js-tutorials.com/javascript-tutorial/efficient-techniques-to-remove-duplicates-from-arrays-in-javascript/)
 [![GitHub - DeXoHigh/dexocdn: DeXoCDN allows developers to easily distribute and serve static assets to improve performance and reduce server load.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_DeXoHigh_dexocdn__DeXoCDN_allows_developers_to_easily_distribute_and_serve_static_assets_to_improve_performance_and_reduce_server_load..svg)](https://github.com/DeXoHigh/dexocdn)
 [![Type is the ultimate. Type eclipses everything.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Type_is_the_ultimate._Type_eclipses_everything..svg)](https://adropincalm.com/blog/type-is-the-ultimate-type-eclipses-everything/)
-[![Permit or Deny Login Requests Using Auth0 Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Permit_or_Deny_Login_Requests_Using_Auth0_Actions.svg)](https://auth0.com/blog/permit-or-deny-login-requests-using-auth0-actions/)
-[![GitHub - FeatureProbe/FeatureProbe: FeatureProbe is an open source feature management service. 开源的高效可视化『特性』管理平台，提供特性开关、灰度发布、AB实验全功能。](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_FeatureProbe_FeatureProbe__FeatureProbe_is_an_open_source_feature_management_service._开源的高效可视化『特性』管理平台，提供特性开关、灰度发布、AB实验全功能。.svg)](https://github.com/FeatureProbe/FeatureProbe)
 
 
 <!-- post-list:end -->
