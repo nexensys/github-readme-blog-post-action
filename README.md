@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, July 2, 2023 at 6:56:58 PM
+> Last updated: Monday, July 3, 2023 at 12:12:50 AM
 
 > Showing 5 of 12 posts.
 
-[![Exploring Amazon Elasticache to Accelerate Application Speed and Scalability](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exploring_Amazon_Elasticache_to_Accelerate_Application_Speed_and_Scalability.svg)](https://dev.to/brandondamue/exploring-amazon-elasticache-to-accelerate-application-speed-and-scalability-1m6g)
-[![Junior need rules, senior guidelines](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Junior_need_rules__senior_guidelines.svg)](https://dev.to/noriller/junior-need-rules-senior-guidelines-55ma)
-[![ReductStore v1.5.0 has been released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/ReductStore_v1.5.0_has_been_released.svg)](https://dev.to/reductstore/reductstore-v150-has-been-released-hkj)
-[![Cypress Workshop Part 11: Reporting - Qase, Github Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cypress_Workshop_Part_11__Reporting_-_Qase__Github_Actions.svg)](https://dev.to/viktorijafilipov/cypress-workshop-part-11-reporting-qase-github-actions-dbi)
-[![Cypress Workshop Part 10: API, Working on different environments](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cypress_Workshop_Part_10__API__Working_on_different_environments.svg)](https://dev.to/viktorijafilipov/cypress-workshop-part-10-api-working-on-different-environments-1k7f)
+[![Perl Weekly #623 - perl v5.38.0 was released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Perl_Weekly__623_-_perl_v5.38.0_was_released.svg)](https://dev.to/szabgab/perl-weekly-623-perl-v5380-was-released-2l50)
+[![ChatGPT with Real Time Information](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/ChatGPT_with_Real_Time_Information.svg)](https://dev.to/polterguy/chatgpt-with-real-time-information-2718)
+[![All about python functions !](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/All_about_python_functions_!.svg)](https://dev.to/coderatul/all-about-functions-in-python--28ih)
+[![Full-Stack Developer Roadmap: Step-by-Step Guide 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Full-Stack_Developer_Roadmap__Step-by-Step_Guide_2023.svg)](https://dev.to/scofieldidehen/full-stack-developer-roadmap-step-by-step-guide-2023-5anf)
+[![🏆 Contest - Kintone Customization Contest 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🏆_Contest_-_Kintone_Customization_Contest_2023.svg)](https://dev.to/kintonedevprogram/contest-kintone-customization-contest-2023-3bkl)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, July 2, 2023 at 6:57:01 PM
+> Last updated: Monday, July 3, 2023 at 12:12:53 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, July 2, 2023 at 6:57:03 PM
+> Last updated: Monday, July 3, 2023 at 12:12:56 AM
 
 > Showing 5 of 30 posts.
 
