@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, July 4, 2023 at 6:18:24 AM
+> Last updated: Tuesday, July 4, 2023 at 12:11:51 PM
 
 > Showing 5 of 12 posts.
 
-[![Integrating ChatGPT with DuckDuckGo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Integrating_ChatGPT_with_DuckDuckGo.svg)](https://dev.to/polterguy/integrating-chatgpt-with-duckduckgo-90o)
-[![Efficiency at its Best: Unveiling the Benefits of Approvals in Microsoft Teams - A Case Study](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Efficiency_at_its_Best__Unveiling_the_Benefits_of_Approvals_in_Microsoft_Teams_-_A_Case_Study.svg)](https://dev.to/jaloplo/efficiency-at-its-best-unveiling-the-benefits-of-approvals-in-microsoft-teams-a-case-study-37ap)
-[![Introducing Operator-Caska: The Perfect Blend of CaskaydiaCove and Operator Mono](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_Operator-Caska__The_Perfect_Blend_of_CaskaydiaCove_and_Operator_Mono.svg)](https://dev.to/anantmishra1729/introducing-operator-caska-the-perfect-blend-of-caskaydiacove-and-operator-mono-4o0b)
-[![🦄 Building a pricing page with NextJS 🤯 🤯](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🦄_Building_a_pricing_page_with_NextJS_🤯_🤯.svg)](https://dev.to/github20k/building-a-pricing-page-with-nextjs-1b1f)
-[![You can NOT and should NOT stop procrastinating](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/You_can_NOT_and_should_NOT_stop_procrastinating.svg)](https://dev.to/jmfayard/you-can-not-and-should-not-stop-procrasting-2ooh)
+[![💼 Marking One Year in Singapore: My Life as an Expat Software Engineer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/💼_Marking_One_Year_in_Singapore__My_Life_as_an_Expat_Software_Engineer.svg)](https://dev.to/shiftescape/marking-one-year-in-singapore-my-life-as-an-expat-software-engineer-10h6)
+[![#2.Introduction to discord.py](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_2.Introduction_to_discord.py.svg)](https://dev.to/mannu/2introduction-to-discordpy-4iei)
+[![Top 7 Featured DEV Posts from the Past Week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_7_Featured_DEV_Posts_from_the_Past_Week.svg)](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1n4l)
+[![Road-Map for Python Developers ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Road-Map_for_Python_Developers_.svg)](https://dev.to/scofieldidehen/road-map-for-python-developers-of2)
+[![GraphQL, JavaScript, Preprocessor, SQL and more in Manifold](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/GraphQL__JavaScript__Preprocessor__SQL_and_more_in_Manifold.svg)](https://dev.to/codenameone/graphql-javascript-preprocessor-sql-and-more-in-manifold-1p3h)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, July 4, 2023 at 6:18:28 AM
+> Last updated: Tuesday, July 4, 2023 at 12:11:55 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, July 4, 2023 at 6:18:33 AM
+> Last updated: Tuesday, July 4, 2023 at 12:12:00 PM
 
 > Showing 5 of 30 posts.
 
