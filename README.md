@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, July 3, 2023 at 6:57:30 PM
+> Last updated: Tuesday, July 4, 2023 at 12:12:59 AM
 
 > Showing 5 of 12 posts.
 
-[![JavaScript Promises](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_Promises.svg)](https://dev.to/bolajibolajoko51/javascript-promises-2e8b)
-[![Structured Query Language (SQL)| Full Explanation (Definition, usage, structure and example with MySQL)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Structured_Query_Language_(SQL)__Full_Explanation_(Definition__usage__structure_and_example_with_MySQL).svg)](https://dev.to/danielabarazarte/structured-query-language-sql-full-explanation-definition-usage-structure-and-example-with-mysql-59g2)
-[![Linguagem de consulta estruturada (SQL) | Explicação Completa (Definição, uso, estrutura e exemplo com MySQL)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Linguagem_de_consulta_estruturada_(SQL)___Explicação_Completa_(Definição__uso__estrutura_e_exemplo_com_MySQL).svg)](https://dev.to/danielabarazarte/linguagem-de-consulta-estruturada-sql-explicacao-completa-definicao-uso-estrutura-e-exemplo-com-mysql-3io9)
-[![Structured Query Language (SQL)| Explicación Completa (Definición, uso, estructura y ejemplo con MySQL)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Structured_Query_Language_(SQL)__Explicación_Completa_(Definición__uso__estructura_y_ejemplo_con_MySQL).svg)](https://dev.to/danielabarazarte/structured-query-language-sql-explicacion-completa-definicion-uso-estructura-y-ejemplo-con-mysql-d44)
-[![AWS Spot Instances - Reducing EC2 Costs up to 90%](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_Spot_Instances_-_Reducing_EC2_Costs_up_to_90_.svg)](https://dev.to/aws-builders/aws-spot-instances-reducing-ec2-costs-up-to-90-2gip)
+[![Git Fundamentals for Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Git_Fundamentals_for_Developers.svg)](https://dev.to/scofieldidehen/git-fundamentals-for-developers-2m7f)
+[![Best Practices in Testing GraphQL APIs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_Practices_in_Testing_GraphQL_APIs.svg)](https://dev.to/amplication/best-practices-in-testing-graphql-apis-499n)
+[![CodeWP: Website Creation with AI WordPress Code Generator](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CodeWP__Website_Creation_with_AI_WordPress_Code_Generator.svg)](https://dev.to/cmoaiforme/codewp-website-creation-with-ai-wordpress-code-generator-194p)
+[![Overcoming the Challenges of Using BuildContext in an Asynchronous Environment in Dart and Flutter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Overcoming_the_Challenges_of_Using_BuildContext_in_an_Asynchronous_Environment_in_Dart_and_Flutter.svg)](https://dev.to/mochafreddo/overcoming-the-challenges-of-using-buildcontext-in-an-asynchronous-environment-in-dart-and-flutter-3kmj)
+[![Create Hugo form shortcodes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_Hugo_form_shortcodes.svg)](https://dev.to/irishgeoff11/create-a-hugo-form-shortcode-244d)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, July 3, 2023 at 6:57:33 PM
+> Last updated: Tuesday, July 4, 2023 at 12:13:02 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, July 3, 2023 at 6:57:39 PM
+> Last updated: Tuesday, July 4, 2023 at 12:13:06 AM
 
 > Showing 5 of 30 posts.
 
