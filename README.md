@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, July 3, 2023 at 12:11:17 PM
+> Last updated: Monday, July 3, 2023 at 6:57:30 PM
 
 > Showing 5 of 12 posts.
 
-[![Who Writes Helm Charts?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Who_Writes_Helm_Charts_.svg)](https://dev.to/thorstenhirsch/who-writes-helm-charts-27lc)
-[![Cloud Computing 101 for Beginners (Part 1)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cloud_Computing_101_for_Beginners_(Part_1).svg)](https://dev.to/1grace/cloud-computing-101-for-beginners-6hd)
-[![How to Configure Apache web server on Linux using Ansible](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Configure_Apache_web_server_on_Linux_using_Ansible.svg)](https://dev.to/paschalogu/how-to-configure-apache-web-server-on-linux-using-ansible-2mcd)
-[![Every language is like a god](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Every_language_is_like_a_god.svg)](https://dev.to/dimitrim/every-language-is-like-a-god-1m8g)
-[![Encapsulamiento en JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Encapsulamiento_en_JavaScript.svg)](https://dev.to/ulisesserranop/encapsulamiento-en-javascript-1291)
+[![JavaScript Promises](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_Promises.svg)](https://dev.to/bolajibolajoko51/javascript-promises-2e8b)
+[![Structured Query Language (SQL)| Full Explanation (Definition, usage, structure and example with MySQL)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Structured_Query_Language_(SQL)__Full_Explanation_(Definition__usage__structure_and_example_with_MySQL).svg)](https://dev.to/danielabarazarte/structured-query-language-sql-full-explanation-definition-usage-structure-and-example-with-mysql-59g2)
+[![Linguagem de consulta estruturada (SQL) | Explicação Completa (Definição, uso, estrutura e exemplo com MySQL)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Linguagem_de_consulta_estruturada_(SQL)___Explicação_Completa_(Definição__uso__estrutura_e_exemplo_com_MySQL).svg)](https://dev.to/danielabarazarte/linguagem-de-consulta-estruturada-sql-explicacao-completa-definicao-uso-estrutura-e-exemplo-com-mysql-3io9)
+[![Structured Query Language (SQL)| Explicación Completa (Definición, uso, estructura y ejemplo con MySQL)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Structured_Query_Language_(SQL)__Explicación_Completa_(Definición__uso__estructura_y_ejemplo_con_MySQL).svg)](https://dev.to/danielabarazarte/structured-query-language-sql-explicacion-completa-definicion-uso-estructura-y-ejemplo-con-mysql-d44)
+[![AWS Spot Instances - Reducing EC2 Costs up to 90%](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_Spot_Instances_-_Reducing_EC2_Costs_up_to_90_.svg)](https://dev.to/aws-builders/aws-spot-instances-reducing-ec2-costs-up-to-90-2gip)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, July 3, 2023 at 12:11:20 PM
+> Last updated: Monday, July 3, 2023 at 6:57:33 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, July 3, 2023 at 12:11:21 PM
+> Last updated: Monday, July 3, 2023 at 6:57:39 PM
 
 > Showing 5 of 30 posts.
 
+[![API with NestJS #115. Database migrations with Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__115._Database_migrations_with_Prisma.svg)](https://wanago.io/2023/07/03/api-nestjs-prisma-migrations/)
 [![q2m - a library for translating URL params to MongoDB query](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/q2m_-_a_library_for_translating_URL_params_to_MongoDB_query.svg)](https://krasimirtsonev.com/blog/article/url-query-string-to-mongodb-query)
 [![billboard.js 3.9 release: arc.needle, dark theme 🌘 & more!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/billboard.js_3.9_release__arc.needle__dark_theme_🌘___more!.svg)](https://netil.medium.com/billboard-js-3-9-release-arc-needle-dark-theme-more-752c96c167c)
 [![Efficient Techniques to Remove Duplicates from Arrays in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Efficient_Techniques_to_Remove_Duplicates_from_Arrays_in_JavaScript.svg)](https://www.js-tutorials.com/javascript-tutorial/efficient-techniques-to-remove-duplicates-from-arrays-in-javascript/)
 [![GitHub - DeXoHigh/dexocdn: DeXoCDN allows developers to easily distribute and serve static assets to improve performance and reduce server load.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_DeXoHigh_dexocdn__DeXoCDN_allows_developers_to_easily_distribute_and_serve_static_assets_to_improve_performance_and_reduce_server_load..svg)](https://github.com/DeXoHigh/dexocdn)
-[![Type is the ultimate. Type eclipses everything.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Type_is_the_ultimate._Type_eclipses_everything..svg)](https://adropincalm.com/blog/type-is-the-ultimate-type-eclipses-everything/)
 
 
 <!-- post-list:end -->
