@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, July 5, 2023 at 6:20:41 AM
+> Last updated: Wednesday, July 5, 2023 at 12:12:01 PM
 
 > Showing 5 of 12 posts.
 
-[![Database regions and why they matter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Database_regions_and_why_they_matter.svg)](https://dev.to/xata/database-regions-and-why-they-matter-5eb2)
-[![Managing Platform-Specific Features in Rails: The Right Way to Customize App Behavior](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Managing_Platform-Specific_Features_in_Rails__The_Right_Way_to_Customize_App_Behavior.svg)](https://dev.to/vladhilko/managing-platform-specific-features-in-rails-the-right-way-to-customize-app-behavior-1nc9)
-[![Git Cheat Sheet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Git_Cheat_Sheet.svg)](https://dev.to/codaholic/git-cheat-sheet-3gig)
-[![Welcome to the New Era of App Development: Introducing Avalonia v11](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Welcome_to_the_New_Era_of_App_Development__Introducing_Avalonia_v11.svg)](https://dev.to/avalonia/welcome-to-the-new-era-of-app-development-introducing-avalonia-v11-4na7)
-[![Launching 1gpt 🤖](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Launching_1gpt_🤖.svg)](https://dev.to/parammittal16/launching-1gpt-17lm)
+[![A Guide to AWS VPC](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Guide_to_AWS_VPC.svg)](https://dev.to/shreya111111/a-guide-to-aws-vpc-4lf9)
+[![10 "Must" Watch Movies For Programmers In 2023 🎬](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10__Must__Watch_Movies_For_Programmers_In_2023_🎬.svg)](https://dev.to/soumyadeepdey/top-10-best-hacking-movies-for-programmers-in-2023-4948)
+[![Understanding JavaScript's Single-Threaded Nature](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_JavaScript's_Single-Threaded_Nature.svg)](https://dev.to/roktim32/understanding-javascripts-single-threaded-nature-5cd6)
+[![CSS's :root Variables. Use it!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CSS's__root_Variables._Use_it!.svg)](https://dev.to/ranaivo_rova/root-variables-in-css-use-it-3ik5)
+[![How I Got Hired Contributing to open source projects](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_I_Got_Hired_Contributing_to_open_source_projects.svg)](https://dev.to/opensauced/how-i-got-hired-contributing-to-open-source-projects-546i)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, July 5, 2023 at 6:20:45 AM
+> Last updated: Wednesday, July 5, 2023 at 12:12:06 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, July 5, 2023 at 6:20:51 AM
+> Last updated: Wednesday, July 5, 2023 at 12:12:20 PM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - configu/configu: a simple, modern, and generic standard for managing and collaborating software configurations ⚙️✨.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_configu_configu__a_simple__modern__and_generic_standard_for_managing_and_collaborating_software_configurations_⚙️✨..svg)](https://github.com/configu/configu)
 [![API with NestJS #115. Database migrations with Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__115._Database_migrations_with_Prisma.svg)](https://wanago.io/2023/07/03/api-nestjs-prisma-migrations/)
 [![q2m - a library for translating URL params to MongoDB query](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/q2m_-_a_library_for_translating_URL_params_to_MongoDB_query.svg)](https://krasimirtsonev.com/blog/article/url-query-string-to-mongodb-query)
 [![billboard.js 3.9 release: arc.needle, dark theme 🌘 & more!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/billboard.js_3.9_release__arc.needle__dark_theme_🌘___more!.svg)](https://netil.medium.com/billboard-js-3-9-release-arc-needle-dark-theme-more-752c96c167c)
 [![Efficient Techniques to Remove Duplicates from Arrays in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Efficient_Techniques_to_Remove_Duplicates_from_Arrays_in_JavaScript.svg)](https://www.js-tutorials.com/javascript-tutorial/efficient-techniques-to-remove-duplicates-from-arrays-in-javascript/)
-[![GitHub - DeXoHigh/dexocdn: DeXoCDN allows developers to easily distribute and serve static assets to improve performance and reduce server load.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_DeXoHigh_dexocdn__DeXoCDN_allows_developers_to_easily_distribute_and_serve_static_assets_to_improve_performance_and_reduce_server_load..svg)](https://github.com/DeXoHigh/dexocdn)
 
 
 <!-- post-list:end -->
