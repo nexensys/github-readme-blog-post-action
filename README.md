@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, July 4, 2023 at 12:11:51 PM
+> Last updated: Tuesday, July 4, 2023 at 6:58:15 PM
 
 > Showing 5 of 12 posts.
 
-[![💼 Marking One Year in Singapore: My Life as an Expat Software Engineer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/💼_Marking_One_Year_in_Singapore__My_Life_as_an_Expat_Software_Engineer.svg)](https://dev.to/shiftescape/marking-one-year-in-singapore-my-life-as-an-expat-software-engineer-10h6)
-[![#2.Introduction to discord.py](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_2.Introduction_to_discord.py.svg)](https://dev.to/mannu/2introduction-to-discordpy-4iei)
-[![Top 7 Featured DEV Posts from the Past Week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_7_Featured_DEV_Posts_from_the_Past_Week.svg)](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1n4l)
-[![Road-Map for Python Developers ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Road-Map_for_Python_Developers_.svg)](https://dev.to/scofieldidehen/road-map-for-python-developers-of2)
-[![GraphQL, JavaScript, Preprocessor, SQL and more in Manifold](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/GraphQL__JavaScript__Preprocessor__SQL_and_more_in_Manifold.svg)](https://dev.to/codenameone/graphql-javascript-preprocessor-sql-and-more-in-manifold-1p3h)
+[![How the Internet Works: A Hilarious Guide for Non-Geeks 🤪](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_the_Internet_Works__A_Hilarious_Guide_for_Non-Geeks_🤪.svg)](https://dev.to/louisryoung/how-the-internet-works-a-hilarious-guide-for-non-geeks-1g81)
+[![Automating the Shutdown and Restart of Clever Cloud Environments with GitLab CI/CD](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Automating_the_Shutdown_and_Restart_of_Clever_Cloud_Environments_with_GitLab_CI_CD.svg)](https://dev.to/lenybernard_4/automating-the-shutdown-and-restart-of-clever-cloud-environments-with-gitlab-cicd-moo)
+[![How to build a website without frameworks and tons of libraries](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_build_a_website_without_frameworks_and_tons_of_libraries.svg)](https://dev.to/irishgeoff11/how-to-build-a-website-without-frameworks-and-tons-of-libraries-4678)
+[![Why we built Unkey](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_we_built_Unkey.svg)](https://dev.to/perkinsjr/why-we-built-unkey-4b2l)
+[![Navigating Google Chrome: A Step-by-Step Guide for Mobile Users](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Navigating_Google_Chrome__A_Step-by-Step_Guide_for_Mobile_Users.svg)](https://dev.to/uzoma01/navigating-google-chrome-a-step-by-step-guide-for-mobile-users-5706)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, July 4, 2023 at 12:11:55 PM
+> Last updated: Tuesday, July 4, 2023 at 6:58:19 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, July 4, 2023 at 12:12:00 PM
+> Last updated: Tuesday, July 4, 2023 at 6:58:29 PM
 
 > Showing 5 of 30 posts.
 
