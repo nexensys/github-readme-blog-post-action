@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, July 4, 2023 at 6:58:15 PM
+> Last updated: Wednesday, July 5, 2023 at 12:13:26 AM
 
 > Showing 5 of 12 posts.
 
-[![How the Internet Works: A Hilarious Guide for Non-Geeks 🤪](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_the_Internet_Works__A_Hilarious_Guide_for_Non-Geeks_🤪.svg)](https://dev.to/louisryoung/how-the-internet-works-a-hilarious-guide-for-non-geeks-1g81)
-[![Automating the Shutdown and Restart of Clever Cloud Environments with GitLab CI/CD](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Automating_the_Shutdown_and_Restart_of_Clever_Cloud_Environments_with_GitLab_CI_CD.svg)](https://dev.to/lenybernard_4/automating-the-shutdown-and-restart-of-clever-cloud-environments-with-gitlab-cicd-moo)
-[![How to build a website without frameworks and tons of libraries](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_build_a_website_without_frameworks_and_tons_of_libraries.svg)](https://dev.to/irishgeoff11/how-to-build-a-website-without-frameworks-and-tons-of-libraries-4678)
-[![Why we built Unkey](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_we_built_Unkey.svg)](https://dev.to/perkinsjr/why-we-built-unkey-4b2l)
-[![Navigating Google Chrome: A Step-by-Step Guide for Mobile Users](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Navigating_Google_Chrome__A_Step-by-Step_Guide_for_Mobile_Users.svg)](https://dev.to/uzoma01/navigating-google-chrome-a-step-by-step-guide-for-mobile-users-5706)
+[![Exploring the List Of Staff Augmentation Companies: Revolutionizing Workforce Solutions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exploring_the_List_Of_Staff_Augmentation_Companies__Revolutionizing_Workforce_Solutions.svg)](https://dev.to/saklle_rohit/exploring-the-list-of-staff-augmentation-companies-revolutionizing-workforce-solutions-21ij)
+[!["Big O" haqida gaplashamiz](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_Big_O__haqida_gaplashamiz.svg)](https://dev.to/udilbar/big-o-haqida-gaplashamiz-4ni9)
+[![Leveraging the Power of TypeScript and Vue.js A Combination for Web Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Leveraging_the_Power_of_TypeScript_and_Vue.js_A_Combination_for_Web_Development.svg)](https://dev.to/syedmuhammadaliraza/leveraging-the-power-of-typescript-and-vuejs-a-combination-for-web-development-2nj6)
+[![How to create good looking card component?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_good_looking_card_component_.svg)](https://dev.to/keshavkumarhembram/how-to-create-good-looking-card-component-9p4)
+[![Timestamp SQL Files for Consistent Laravel Migration](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Timestamp_SQL_Files_for_Consistent_Laravel_Migration.svg)](https://dev.to/kushalraj/timestamp-sql-files-for-consistent-laravel-migration-2mn3)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, July 4, 2023 at 6:58:19 PM
+> Last updated: Wednesday, July 5, 2023 at 12:13:29 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,13 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, July 4, 2023 at 6:58:29 PM
+> Last updated: Wednesday, July 5, 2023 at 12:13:41 AM
 
 > Showing 5 of 30 posts.
 
 [![API with NestJS #115. Database migrations with Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__115._Database_migrations_with_Prisma.svg)](https://wanago.io/2023/07/03/api-nestjs-prisma-migrations/)
 [![q2m - a library for translating URL params to MongoDB query](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/q2m_-_a_library_for_translating_URL_params_to_MongoDB_query.svg)](https://krasimirtsonev.com/blog/article/url-query-string-to-mongodb-query)
-[![billboard.js 3.9 release: arc.needle, dark theme 🌘 & more!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/billboard.js_3.9_release__arc.needle__dark_theme_🌘___more!.svg)](https://netil.medium.com/billboard-js-3-9-release-arc-needle-dark-theme-more-752c96c167c)
+[![
+billboard.js 3.9 release: arc.needle, dark theme 🌘 & more!
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_billboard.js_3.9_release__arc.needle__dark_theme_🌘___more!_.svg)](
+https://netil.medium.com/billboard-js-3-9-release-arc-needle-dark-theme-more-752c96c167c
+)
 [![Efficient Techniques to Remove Duplicates from Arrays in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Efficient_Techniques_to_Remove_Duplicates_from_Arrays_in_JavaScript.svg)](https://www.js-tutorials.com/javascript-tutorial/efficient-techniques-to-remove-duplicates-from-arrays-in-javascript/)
 [![GitHub - DeXoHigh/dexocdn: DeXoCDN allows developers to easily distribute and serve static assets to improve performance and reduce server load.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_DeXoHigh_dexocdn__DeXoCDN_allows_developers_to_easily_distribute_and_serve_static_assets_to_improve_performance_and_reduce_server_load..svg)](https://github.com/DeXoHigh/dexocdn)
 
