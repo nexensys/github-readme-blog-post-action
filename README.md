@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, July 6, 2023 at 12:13:11 AM
+> Last updated: Thursday, July 6, 2023 at 6:19:10 AM
 
 > Showing 5 of 12 posts.
 
-[![Improving kubernetes development experience with Docker Telepresence](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Improving_kubernetes_development_experience_with_Docker_Telepresence.svg)](https://dev.to/shehanster/improving-kubernetes-development-experience-with-docker-telepresence-4dn6)
-[![Daxus is published](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Daxus_is_published.svg)](https://dev.to/jason89521/daxus-is-published-3acd)
-[![Scraping the unscrapable in Python using Playwright](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Scraping_the_unscrapable_in_Python_using_Playwright.svg)](https://dev.to/terieyenike/scraping-the-unscrapable-in-python-using-playwright-30l)
-[![Análise de Requisitos: Desvendando o Caminho para o Sucesso do Desenvolvimento de Software](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Análise_de_Requisitos__Desvendando_o_Caminho_para_o_Sucesso_do_Desenvolvimento_de_Software.svg)](https://dev.to/indiamaraenes/analise-de-requisitos-desvendando-o-caminho-para-o-sucesso-do-desenvolvimento-de-software-7bk)
-[![Web scraping using a headless browser in NodeJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Web_scraping_using_a_headless_browser_in_NodeJS.svg)](https://dev.to/terieyenike/web-scraping-using-a-headless-browser-in-nodejs-381l)
+[![Renaming Git Commit Messages: A Quick and Easy Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Renaming_Git_Commit_Messages__A_Quick_and_Easy_Guide.svg)](https://dev.to/pradumnasaraf/renaming-git-commit-messages-a-quick-and-easy-guide-1an8)
+[![CI/CD Pipeline with github actions & AWS EC2 instance](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CI_CD_Pipeline_with_github_actions___AWS_EC2_instance.svg)](https://dev.to/mutuwa99/cicd-pipeline-with-github-actions-aws-ec2-instance-1f1h)
+[![Exploring AWS Security Hub: Overview and Benefits for SOC Analysts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exploring_AWS_Security_Hub__Overview_and_Benefits_for_SOC_Analysts.svg)](https://dev.to/aws-builders/exploring-aws-security-hub-overview-and-benefits-for-soc-analysts-5d6o)
+[![Ruby is a Multi-paradigm programming language](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ruby_is_a_Multi-paradigm_programming_language.svg)](https://dev.to/rubycademy/ruby-is-a-multi-paradigm-programming-language-2690)
+[![The Final Mile](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Final_Mile.svg)](https://dev.to/crabnebula/the-final-mile-2i52)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, July 6, 2023 at 12:13:14 AM
+> Last updated: Thursday, July 6, 2023 at 6:19:13 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, July 6, 2023 at 12:13:20 AM
+> Last updated: Thursday, July 6, 2023 at 6:19:20 AM
 
 > Showing 5 of 30 posts.
 
