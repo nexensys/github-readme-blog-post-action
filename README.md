@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, July 5, 2023 at 12:12:01 PM
+> Last updated: Wednesday, July 5, 2023 at 6:58:34 PM
 
 > Showing 5 of 12 posts.
 
-[![A Guide to AWS VPC](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Guide_to_AWS_VPC.svg)](https://dev.to/shreya111111/a-guide-to-aws-vpc-4lf9)
-[![10 "Must" Watch Movies For Programmers In 2023 🎬](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10__Must__Watch_Movies_For_Programmers_In_2023_🎬.svg)](https://dev.to/soumyadeepdey/top-10-best-hacking-movies-for-programmers-in-2023-4948)
-[![Understanding JavaScript's Single-Threaded Nature](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_JavaScript's_Single-Threaded_Nature.svg)](https://dev.to/roktim32/understanding-javascripts-single-threaded-nature-5cd6)
-[![CSS's :root Variables. Use it!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CSS's__root_Variables._Use_it!.svg)](https://dev.to/ranaivo_rova/root-variables-in-css-use-it-3ik5)
-[![How I Got Hired Contributing to open source projects](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_I_Got_Hired_Contributing_to_open_source_projects.svg)](https://dev.to/opensauced/how-i-got-hired-contributing-to-open-source-projects-546i)
+[![XIAOMI MI WIFI MINI R1C IÇIN OPENWRT KURULUM REHBERI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/XIAOMI_MI_WIFI_MINI_R1C_IÇIN_OPENWRT_KURULUM_REHBERI.svg)](https://dev.to/openwrt-turkiye/xiaomi-mi-wifi-mini-r1c-icin-openwrt-kurulum-rehberi-4ch4)
+[![Container Security - Strengthening the Heart of your Operations](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Container_Security_-_Strengthening_the_Heart_of_your_Operations.svg)](https://dev.to/nikitakoselev/container-security-strengthening-the-heart-of-your-operations-3h0o)
+[![Validando requests no Symfony Framework](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Validando_requests_no_Symfony_Framework.svg)](https://dev.to/joubertredrat/validando-requests-no-symfony-framework-4fi7)
+[![Episode 23/26: New Control Flow, Angular 17, AnalogJS, "Developer Preview"](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Episode_23_26__New_Control_Flow__Angular_17__AnalogJS___Developer_Preview_.svg)](https://dev.to/this-is-angular/episode-2326-new-control-flow-angular-17-analogjs-developer-preview-5e5d)
+[![iloc function in python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/iloc_function_in_python.svg)](https://dev.to/mustafacam/iloc-function-in-python-3agb)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, July 5, 2023 at 12:12:06 PM
+> Last updated: Wednesday, July 5, 2023 at 6:58:36 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, July 5, 2023 at 12:12:20 PM
+> Last updated: Wednesday, July 5, 2023 at 6:58:41 PM
 
 > Showing 5 of 30 posts.
 
