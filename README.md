@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, July 6, 2023 at 6:19:10 AM
+> Last updated: Thursday, July 6, 2023 at 6:59:00 PM
 
 > Showing 5 of 12 posts.
 
-[![Renaming Git Commit Messages: A Quick and Easy Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Renaming_Git_Commit_Messages__A_Quick_and_Easy_Guide.svg)](https://dev.to/pradumnasaraf/renaming-git-commit-messages-a-quick-and-easy-guide-1an8)
-[![CI/CD Pipeline with github actions & AWS EC2 instance](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CI_CD_Pipeline_with_github_actions___AWS_EC2_instance.svg)](https://dev.to/mutuwa99/cicd-pipeline-with-github-actions-aws-ec2-instance-1f1h)
-[![Exploring AWS Security Hub: Overview and Benefits for SOC Analysts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exploring_AWS_Security_Hub__Overview_and_Benefits_for_SOC_Analysts.svg)](https://dev.to/aws-builders/exploring-aws-security-hub-overview-and-benefits-for-soc-analysts-5d6o)
-[![Ruby is a Multi-paradigm programming language](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ruby_is_a_Multi-paradigm_programming_language.svg)](https://dev.to/rubycademy/ruby-is-a-multi-paradigm-programming-language-2690)
-[![The Final Mile](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Final_Mile.svg)](https://dev.to/crabnebula/the-final-mile-2i52)
+[![The Art of Landing a DevRel Role with daily.dev](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Art_of_Landing_a_DevRel_Role_with_daily.dev.svg)](https://dev.to/linearb/the-art-of-landing-a-devrel-role-with-dailydev-215b)
+[![Importance of Practice in Learning Programming: Tips for Building a Strong Coding Skillset](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Importance_of_Practice_in_Learning_Programming__Tips_for_Building_a_Strong_Coding_Skillset.svg)](https://dev.to/abdrzqsalihu/importance-of-practice-in-learning-programming-tips-for-building-a-strong-coding-skillset-4hc0)
+[![Building a Real-Time Analytics Dashboard with Next.js, Tinybird, and Tremor: A Comprehensive Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_Real-Time_Analytics_Dashboard_with_Next.js__Tinybird__and_Tremor__A_Comprehensive_Guide.svg)](https://dev.to/mfts/building-a-real-time-analytics-dashboard-with-nextjs-tinybird-and-tremor-a-comprehensive-guide-15k0)
+[![The Difference Between Using Node.js Alone in Building an Application and Using it with Angular](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Difference_Between_Using_Node.js_Alone_in_Building_an_Application_and_Using_it_with_Angular.svg)](https://dev.to/roshdiraed/the-difference-between-using-nodejs-alone-in-building-an-application-and-using-it-with-angular-27ap)
+[![Building Robust Angular Applications with TypeScript Interfaces: Best Practices and Examples](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_Robust_Angular_Applications_with_TypeScript_Interfaces__Best_Practices_and_Examples.svg)](https://dev.to/ayushdev_24/building-robust-angular-applications-with-typescript-interfaces-best-practices-and-examples-chm)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, July 6, 2023 at 6:19:13 AM
+> Last updated: Thursday, July 6, 2023 at 6:59:04 PM
 
 > Showing 4 of 4 posts.
 
+[![CommonJS, we love you, we love you not..](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/CommonJS__we_love_you__we_love_you_not...svg)](https://javascriptweekly.com/issues/646)
 [![This is a doozy of an issue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/This_is_a_doozy_of_an_issue.svg)](https://javascriptweekly.com/issues/645)
 [![Svelte 4 released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Svelte_4_released.svg)](https://javascriptweekly.com/issues/644)
 [![11 years of JavaScript on top](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/11_years_of_JavaScript_on_top.svg)](https://javascriptweekly.com/issues/643)
-[![Douglas Crockford calls JavaScript 'smelly.'](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Douglas_Crockford_calls_JavaScript_'smelly.'.svg)](https://javascriptweekly.com/issues/642)
 
 
 ## Echo JS
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, July 6, 2023 at 6:19:20 AM
+> Last updated: Thursday, July 6, 2023 at 6:59:19 PM
 
 > Showing 5 of 30 posts.
 
