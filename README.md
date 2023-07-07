@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, July 7, 2023 at 6:18:51 AM
+> Last updated: Friday, July 7, 2023 at 12:11:22 PM
 
 > Showing 5 of 12 posts.
 
-[![Providing in Angular - how to share data](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Providing_in_Angular_-_how_to_share_data.svg)](https://dev.to/tomwebwalker/providing-in-angular-how-to-share-data-2ad2)
-[![Demystifying Public Key Cryptography: Exploring Ethereum, Digital Signatures, and Wallet Management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Demystifying_Public_Key_Cryptography__Exploring_Ethereum__Digital_Signatures__and_Wallet_Management.svg)](https://dev.to/sahil_4555/demystifying-public-key-cryptography-exploring-ethereum-digital-signatures-and-wallet-management-l00)
-[![Worker Threads Nodejs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Worker_Threads_Nodejs.svg)](https://dev.to/williamsgqdev/worker-threads-nodejs-2na2)
-[![React-Redux](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React-Redux.svg)](https://dev.to/sidddharthamishra/react-redux-181)
-[![Is Lighthouse a misleading performance tool?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Is_Lighthouse_a_misleading_performance_tool_.svg)](https://dev.to/robole/is-lighthouse-a-misleading-performance-tool-4b14)
+[![What is Doom Scrolling ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_Doom_Scrolling__.svg)](https://dev.to/parammittal16/what-is-doom-scrolling--4jd3)
+[![How To Start Your Programming Journey 💻](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Start_Your_Programming_Journey_💻.svg)](https://dev.to/akashpattnaik/how-to-start-your-programming-journey-4fhn)
+[![Develop .NET Core 3.1 Inside a Container](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Develop_.NET_Core_3.1_Inside_a_Container.svg)](https://dev.to/blueskyson/develop-net-core-31-in-a-container-2428)
+[![How to add Concern in Ruby on Rails?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_add_Concern_in_Ruby_on_Rails_.svg)](https://dev.to/vladhilko/how-to-add-concern-in-ruby-on-rails-3en9)
+[![Critter Corner v4](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Critter_Corner_v4.svg)](https://dev.to/codenewbieteam/critter-corner-v4-8ia)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, July 7, 2023 at 6:18:55 AM
+> Last updated: Friday, July 7, 2023 at 12:11:25 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, July 7, 2023 at 6:19:02 AM
+> Last updated: Friday, July 7, 2023 at 12:11:35 PM
 
 > Showing 5 of 30 posts.
 
+[![JavaScript Add Month to Date](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Add_Month_to_Date.svg)](
+https://masteringjs.io/tutorials/fundamentals/add-month-to-date
+)
 [![Automated Digital Healthcare Solutions and Consulting Services – JK Tech](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Automated_Digital_Healthcare_Solutions_and_Consulting_Services_–_JK_Tech.svg)](https://jktech.com/healthcare/)
 [![GitHub - configu/configu: a simple, modern, and generic standard for managing and collaborating software configurations ⚙️✨.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_configu_configu__a_simple__modern__and_generic_standard_for_managing_and_collaborating_software_configurations_⚙️✨..svg)](https://github.com/configu/configu)
 [![API with NestJS #115. Database migrations with Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__115._Database_migrations_with_Prisma.svg)](https://wanago.io/2023/07/03/api-nestjs-prisma-migrations/)
 [![q2m - a library for translating URL params to MongoDB query](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/q2m_-_a_library_for_translating_URL_params_to_MongoDB_query.svg)](https://krasimirtsonev.com/blog/article/url-query-string-to-mongodb-query)
-[![billboard.js 3.9 release: arc.needle, dark theme 🌘 & more!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/billboard.js_3.9_release__arc.needle__dark_theme_🌘___more!.svg)](https://netil.medium.com/billboard-js-3-9-release-arc-needle-dark-theme-more-752c96c167c)
 
 
 <!-- post-list:end -->
