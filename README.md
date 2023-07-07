@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, July 6, 2023 at 6:59:00 PM
+> Last updated: Friday, July 7, 2023 at 6:18:51 AM
 
 > Showing 5 of 12 posts.
 
-[![The Art of Landing a DevRel Role with daily.dev](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Art_of_Landing_a_DevRel_Role_with_daily.dev.svg)](https://dev.to/linearb/the-art-of-landing-a-devrel-role-with-dailydev-215b)
-[![Importance of Practice in Learning Programming: Tips for Building a Strong Coding Skillset](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Importance_of_Practice_in_Learning_Programming__Tips_for_Building_a_Strong_Coding_Skillset.svg)](https://dev.to/abdrzqsalihu/importance-of-practice-in-learning-programming-tips-for-building-a-strong-coding-skillset-4hc0)
-[![Building a Real-Time Analytics Dashboard with Next.js, Tinybird, and Tremor: A Comprehensive Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_Real-Time_Analytics_Dashboard_with_Next.js__Tinybird__and_Tremor__A_Comprehensive_Guide.svg)](https://dev.to/mfts/building-a-real-time-analytics-dashboard-with-nextjs-tinybird-and-tremor-a-comprehensive-guide-15k0)
-[![The Difference Between Using Node.js Alone in Building an Application and Using it with Angular](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Difference_Between_Using_Node.js_Alone_in_Building_an_Application_and_Using_it_with_Angular.svg)](https://dev.to/roshdiraed/the-difference-between-using-nodejs-alone-in-building-an-application-and-using-it-with-angular-27ap)
-[![Building Robust Angular Applications with TypeScript Interfaces: Best Practices and Examples](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_Robust_Angular_Applications_with_TypeScript_Interfaces__Best_Practices_and_Examples.svg)](https://dev.to/ayushdev_24/building-robust-angular-applications-with-typescript-interfaces-best-practices-and-examples-chm)
+[![Providing in Angular - how to share data](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Providing_in_Angular_-_how_to_share_data.svg)](https://dev.to/tomwebwalker/providing-in-angular-how-to-share-data-2ad2)
+[![Demystifying Public Key Cryptography: Exploring Ethereum, Digital Signatures, and Wallet Management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Demystifying_Public_Key_Cryptography__Exploring_Ethereum__Digital_Signatures__and_Wallet_Management.svg)](https://dev.to/sahil_4555/demystifying-public-key-cryptography-exploring-ethereum-digital-signatures-and-wallet-management-l00)
+[![Worker Threads Nodejs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Worker_Threads_Nodejs.svg)](https://dev.to/williamsgqdev/worker-threads-nodejs-2na2)
+[![React-Redux](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React-Redux.svg)](https://dev.to/sidddharthamishra/react-redux-181)
+[![Is Lighthouse a misleading performance tool?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Is_Lighthouse_a_misleading_performance_tool_.svg)](https://dev.to/robole/is-lighthouse-a-misleading-performance-tool-4b14)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, July 6, 2023 at 6:59:04 PM
+> Last updated: Friday, July 7, 2023 at 6:18:55 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, July 6, 2023 at 6:59:19 PM
+> Last updated: Friday, July 7, 2023 at 6:19:02 AM
 
 > Showing 5 of 30 posts.
 
+[![Automated Digital Healthcare Solutions and Consulting Services – JK Tech](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Automated_Digital_Healthcare_Solutions_and_Consulting_Services_–_JK_Tech.svg)](https://jktech.com/healthcare/)
 [![GitHub - configu/configu: a simple, modern, and generic standard for managing and collaborating software configurations ⚙️✨.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_configu_configu__a_simple__modern__and_generic_standard_for_managing_and_collaborating_software_configurations_⚙️✨..svg)](https://github.com/configu/configu)
 [![API with NestJS #115. Database migrations with Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__115._Database_migrations_with_Prisma.svg)](https://wanago.io/2023/07/03/api-nestjs-prisma-migrations/)
 [![q2m - a library for translating URL params to MongoDB query](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/q2m_-_a_library_for_translating_URL_params_to_MongoDB_query.svg)](https://krasimirtsonev.com/blog/article/url-query-string-to-mongodb-query)
 [![billboard.js 3.9 release: arc.needle, dark theme 🌘 & more!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/billboard.js_3.9_release__arc.needle__dark_theme_🌘___more!.svg)](https://netil.medium.com/billboard-js-3-9-release-arc-needle-dark-theme-more-752c96c167c)
-[![Efficient Techniques to Remove Duplicates from Arrays in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Efficient_Techniques_to_Remove_Duplicates_from_Arrays_in_JavaScript.svg)](https://www.js-tutorials.com/javascript-tutorial/efficient-techniques-to-remove-duplicates-from-arrays-in-javascript/)
 
 
 <!-- post-list:end -->
