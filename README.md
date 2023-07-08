@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, July 7, 2023 at 12:11:22 PM
+> Last updated: Friday, July 7, 2023 at 6:57:10 PM
 
 > Showing 5 of 12 posts.
 
-[![What is Doom Scrolling ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_Doom_Scrolling__.svg)](https://dev.to/parammittal16/what-is-doom-scrolling--4jd3)
-[![How To Start Your Programming Journey 💻](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Start_Your_Programming_Journey_💻.svg)](https://dev.to/akashpattnaik/how-to-start-your-programming-journey-4fhn)
-[![Develop .NET Core 3.1 Inside a Container](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Develop_.NET_Core_3.1_Inside_a_Container.svg)](https://dev.to/blueskyson/develop-net-core-31-in-a-container-2428)
-[![How to add Concern in Ruby on Rails?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_add_Concern_in_Ruby_on_Rails_.svg)](https://dev.to/vladhilko/how-to-add-concern-in-ruby-on-rails-3en9)
-[![Critter Corner v4](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Critter_Corner_v4.svg)](https://dev.to/codenewbieteam/critter-corner-v4-8ia)
+[![AWS CloudFormation Explained](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_CloudFormation_Explained.svg)](https://dev.to/aws-builders/aws-cloudformation-explained-fhk)
+[![Being Productive with my summer 2023 ⛱️](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Being_Productive_with_my_summer_2023_⛱️.svg)](https://dev.to/yunhaozz/being-productive-with-my-summer-2023-38md)
+[![💡 TypeScript - Template Literal Types](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/💡_TypeScript_-_Template_Literal_Types.svg)](https://dev.to/thayto/typescript-template-literal-types-2679)
+[![The 28th Day of the 100 Days of Code challenge](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_28th_Day_of_the_100_Days_of_Code_challenge.svg)](https://dev.to/ethan_/the-28th-day-of-the-100-days-of-code-challenge-35ib)
+[![Career Reflections](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Career_Reflections.svg)](https://dev.to/deeheber/career-reflections-1joh)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, July 7, 2023 at 12:11:25 PM
+> Last updated: Friday, July 7, 2023 at 6:57:14 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, July 7, 2023 at 12:11:35 PM
+> Last updated: Friday, July 7, 2023 at 6:57:27 PM
 
 > Showing 5 of 30 posts.
 
