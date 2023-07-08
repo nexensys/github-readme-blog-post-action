@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, July 8, 2023 at 6:16:20 AM
+> Last updated: Saturday, July 8, 2023 at 12:10:40 PM
 
 > Showing 5 of 12 posts.
 
-[![Supercharge Your React Projects with Custom Hooks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Supercharge_Your_React_Projects_with_Custom_Hooks.svg)](https://dev.to/sergeyleschev/supercharge-your-react-projects-with-custom-hooks-pl4)
-[![Mobile-first approach with HTML and CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mobile-first_approach_with_HTML_and_CSS.svg)](https://dev.to/farhadi/mobile-first-approach-with-html-and-css-3e88)
-[![How to integrate data import functionality into your app](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_integrate_data_import_functionality_into_your_app.svg)](https://dev.to/bobur/how-to-integrate-data-import-functionality-into-your-app-bmc)
-[![Why Software Development is Hard?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_Software_Development_is_Hard_.svg)](https://dev.to/snowman647/why-software-development-is-hard-4abg)
-[![How To Create an EC2 Instance on AWS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Create_an_EC2_Instance_on_AWS.svg)](https://dev.to/oyohedmond/how-to-create-an-ec2-instance-on-aws-28e8)
+[![Pull Request Validation for AWS CodeCommit using Lambda and CodeBuild](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Pull_Request_Validation_for_AWS_CodeCommit_using_Lambda_and_CodeBuild.svg)](https://dev.to/harisharavindan/pull-request-validation-for-aws-codecommit-using-lambda-and-codebuild-4dcg)
+[![Social Media Marketing Agency in Pakistan: Boosting Your Online Presence](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Social_Media_Marketing_Agency_in_Pakistan__Boosting_Your_Online_Presence.svg)](https://dev.to/smithmark12/social-media-marketing-agency-in-pakistan-boosting-your-online-presence-2l83)
+[![Top AWS CloudFormation Anti-Patterns & Best Practices](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_AWS_CloudFormation_Anti-Patterns___Best_Practices.svg)](https://dev.to/indika_wimalasuriya/top-aws-cloudformation-anti-patterns-best-practices-4npb)
+[![Shopy — Best eCommerce Bootstrap 5 Template 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Shopy_—_Best_eCommerce_Bootstrap_5_Template_2023.svg)](https://dev.to/uiocean/shopy-best-ecommerce-bootstrap-5-template-2023-25ml)
+[![Beginners Guide To Building a Serverless Website with AWS Lambda and API Gateway](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Beginners_Guide_To_Building_a_Serverless_Website_with_AWS_Lambda_and_API_Gateway.svg)](https://dev.to/arbythecoder/beginners-guide-to-building-a-serverless-website-with-aws-lambda-and-api-gateway-1o6n)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, July 8, 2023 at 6:16:24 AM
+> Last updated: Saturday, July 8, 2023 at 12:10:44 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, July 8, 2023 at 6:16:31 AM
+> Last updated: Saturday, July 8, 2023 at 12:10:50 PM
 
 > Showing 5 of 30 posts.
 
