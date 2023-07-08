@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, July 7, 2023 at 6:57:10 PM
+> Last updated: Saturday, July 8, 2023 at 12:11:04 AM
 
 > Showing 5 of 12 posts.
 
-[![AWS CloudFormation Explained](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_CloudFormation_Explained.svg)](https://dev.to/aws-builders/aws-cloudformation-explained-fhk)
-[![Being Productive with my summer 2023 ⛱️](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Being_Productive_with_my_summer_2023_⛱️.svg)](https://dev.to/yunhaozz/being-productive-with-my-summer-2023-38md)
-[![💡 TypeScript - Template Literal Types](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/💡_TypeScript_-_Template_Literal_Types.svg)](https://dev.to/thayto/typescript-template-literal-types-2679)
-[![The 28th Day of the 100 Days of Code challenge](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_28th_Day_of_the_100_Days_of_Code_challenge.svg)](https://dev.to/ethan_/the-28th-day-of-the-100-days-of-code-challenge-35ib)
-[![Career Reflections](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Career_Reflections.svg)](https://dev.to/deeheber/career-reflections-1joh)
+[![Create A Random Quote Generator with HTML, CSS, and JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_A_Random_Quote_Generator_with_HTML__CSS__and_JavaScript.svg)](https://dev.to/official_fire/create-a-random-quote-generator-with-html-css-and-javascript-4n66)
+[![Dead simple Access Control with iamjs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dead_simple_Access_Control_with_iamjs.svg)](https://dev.to/triyanox/dead-simple-access-control-with-iamjs-10le)
+[![Top "6 Awesome Tools" That Will Turn Your Code Snippets Into Beautiful Images](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top__6_Awesome_Tools__That_Will_Turn_Your_Code_Snippets_Into_Beautiful_Images.svg)](https://dev.to/soumyadeepdey/6-tools-to-create-beautiful-images-of-your-code-snippets-115a)
+[![How to set up a development env to Rails app with Docker and PostgreSQL on WSL2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_set_up_a_development_env_to_Rails_app_with_Docker_and_PostgreSQL_on_WSL2.svg)](https://dev.to/cleverjunior/how-to-set-up-a-development-env-to-rails-app-with-docker-and-postgresql-on-wsl2-4j1g)
+[![AWS Certified SAA Study Guide: Services & DevTools To Know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_Certified_SAA_Study_Guide__Services___DevTools_To_Know.svg)](https://dev.to/aws-builders/aws-certified-saa-study-guide-services-tools-you-must-absolutely-understand-1f43)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, July 7, 2023 at 6:57:14 PM
+> Last updated: Saturday, July 8, 2023 at 12:11:07 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, July 7, 2023 at 6:57:27 PM
+> Last updated: Saturday, July 8, 2023 at 12:11:22 AM
 
 > Showing 5 of 30 posts.
 
