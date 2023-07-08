@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, July 8, 2023 at 12:11:04 AM
+> Last updated: Saturday, July 8, 2023 at 6:16:20 AM
 
 > Showing 5 of 12 posts.
 
-[![Create A Random Quote Generator with HTML, CSS, and JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_A_Random_Quote_Generator_with_HTML__CSS__and_JavaScript.svg)](https://dev.to/official_fire/create-a-random-quote-generator-with-html-css-and-javascript-4n66)
-[![Dead simple Access Control with iamjs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dead_simple_Access_Control_with_iamjs.svg)](https://dev.to/triyanox/dead-simple-access-control-with-iamjs-10le)
-[![Top "6 Awesome Tools" That Will Turn Your Code Snippets Into Beautiful Images](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top__6_Awesome_Tools__That_Will_Turn_Your_Code_Snippets_Into_Beautiful_Images.svg)](https://dev.to/soumyadeepdey/6-tools-to-create-beautiful-images-of-your-code-snippets-115a)
-[![How to set up a development env to Rails app with Docker and PostgreSQL on WSL2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_set_up_a_development_env_to_Rails_app_with_Docker_and_PostgreSQL_on_WSL2.svg)](https://dev.to/cleverjunior/how-to-set-up-a-development-env-to-rails-app-with-docker-and-postgresql-on-wsl2-4j1g)
-[![AWS Certified SAA Study Guide: Services & DevTools To Know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_Certified_SAA_Study_Guide__Services___DevTools_To_Know.svg)](https://dev.to/aws-builders/aws-certified-saa-study-guide-services-tools-you-must-absolutely-understand-1f43)
+[![Supercharge Your React Projects with Custom Hooks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Supercharge_Your_React_Projects_with_Custom_Hooks.svg)](https://dev.to/sergeyleschev/supercharge-your-react-projects-with-custom-hooks-pl4)
+[![Mobile-first approach with HTML and CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mobile-first_approach_with_HTML_and_CSS.svg)](https://dev.to/farhadi/mobile-first-approach-with-html-and-css-3e88)
+[![How to integrate data import functionality into your app](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_integrate_data_import_functionality_into_your_app.svg)](https://dev.to/bobur/how-to-integrate-data-import-functionality-into-your-app-bmc)
+[![Why Software Development is Hard?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_Software_Development_is_Hard_.svg)](https://dev.to/snowman647/why-software-development-is-hard-4abg)
+[![How To Create an EC2 Instance on AWS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Create_an_EC2_Instance_on_AWS.svg)](https://dev.to/oyohedmond/how-to-create-an-ec2-instance-on-aws-28e8)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, July 8, 2023 at 12:11:07 AM
+> Last updated: Saturday, July 8, 2023 at 6:16:24 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, July 8, 2023 at 12:11:22 AM
+> Last updated: Saturday, July 8, 2023 at 6:16:31 AM
 
 > Showing 5 of 30 posts.
 
