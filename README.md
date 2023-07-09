@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, July 8, 2023 at 7:00:33 PM
+> Last updated: Sunday, July 9, 2023 at 12:11:33 AM
 
 > Showing 5 of 12 posts.
 
-[![How to deploy a React application to AWS using AWS S3 & AWS CloudFront](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_deploy_a_React_application_to_AWS_using_AWS_S3___AWS_CloudFront.svg)](https://dev.to/alizgheib/how-to-deploy-a-react-application-to-aws-using-aws-s3-aws-cloudfront-42km)
-[![Postgres schema changes are still a PITA](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Postgres_schema_changes_are_still_a_PITA.svg)](https://dev.to/xata/postgres-schema-changes-are-still-a-pita-46bf)
-[![Unraveling the Economics of Staking: A Closer Look at the XRPL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unraveling_the_Economics_of_Staking__A_Closer_Look_at_the_XRPL.svg)](https://dev.to/enchstyle/unraveling-the-economics-of-staking-a-closer-look-at-the-xrpl-4bg0)
-[![Unlock the Power of OAuth: A Journey to Secure and Reliable Applications](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unlock_the_Power_of_OAuth__A_Journey_to_Secure_and_Reliable_Applications.svg)](https://dev.to/aradwan20/unlock-the-power-of-oauth-a-journey-to-secure-and-reliable-applications-4cg0)
-[![Efficient Infrastructure Management with AWS CloudFormation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Efficient_Infrastructure_Management_with_AWS_CloudFormation.svg)](https://dev.to/brandondamue/efficient-infrastructure-management-with-aws-cloudformation-2l1k)
+[![Todo List with Next.js Beginner's Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Todo_List_with_Next.js_Beginner's_Guide.svg)](https://dev.to/syedmuhammadaliraza/todo-list-with-nextjs-beginners-guide-18c8)
+[![Dominando Laravel 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dominando_Laravel_2023.svg)](https://dev.to/vittor/dominando-laravel-2023-529f)
+[![How to Learn Python For Data Science?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Learn_Python_For_Data_Science_.svg)](https://dev.to/aqsa81/how-to-learn-python-for-data-science-2dpf)
+[![Helix editor: Make HTTP requests and insert JSON](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Helix_editor__Make_HTTP_requests_and_insert_JSON.svg)](https://dev.to/rajasegar/helix-editor-make-http-requests-and-insert-json-3agf)
+[![How to Connect a Postgres Database to Express: A Step-by-Step Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Connect_a_Postgres_Database_to_Express__A_Step-by-Step_Guide.svg)](https://dev.to/pyies/how-to-connect-a-postgres-database-to-express-a-step-by-step-guide-4hm3)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, July 8, 2023 at 7:00:36 PM
+> Last updated: Sunday, July 9, 2023 at 12:11:37 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, July 8, 2023 at 7:00:41 PM
+> Last updated: Sunday, July 9, 2023 at 12:11:42 AM
 
 > Showing 5 of 30 posts.
 
