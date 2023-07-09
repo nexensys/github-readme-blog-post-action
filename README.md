@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, July 8, 2023 at 12:10:40 PM
+> Last updated: Saturday, July 8, 2023 at 7:00:33 PM
 
 > Showing 5 of 12 posts.
 
-[![Pull Request Validation for AWS CodeCommit using Lambda and CodeBuild](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Pull_Request_Validation_for_AWS_CodeCommit_using_Lambda_and_CodeBuild.svg)](https://dev.to/harisharavindan/pull-request-validation-for-aws-codecommit-using-lambda-and-codebuild-4dcg)
-[![Social Media Marketing Agency in Pakistan: Boosting Your Online Presence](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Social_Media_Marketing_Agency_in_Pakistan__Boosting_Your_Online_Presence.svg)](https://dev.to/smithmark12/social-media-marketing-agency-in-pakistan-boosting-your-online-presence-2l83)
-[![Top AWS CloudFormation Anti-Patterns & Best Practices](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_AWS_CloudFormation_Anti-Patterns___Best_Practices.svg)](https://dev.to/indika_wimalasuriya/top-aws-cloudformation-anti-patterns-best-practices-4npb)
-[![Shopy — Best eCommerce Bootstrap 5 Template 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Shopy_—_Best_eCommerce_Bootstrap_5_Template_2023.svg)](https://dev.to/uiocean/shopy-best-ecommerce-bootstrap-5-template-2023-25ml)
-[![Beginners Guide To Building a Serverless Website with AWS Lambda and API Gateway](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Beginners_Guide_To_Building_a_Serverless_Website_with_AWS_Lambda_and_API_Gateway.svg)](https://dev.to/arbythecoder/beginners-guide-to-building-a-serverless-website-with-aws-lambda-and-api-gateway-1o6n)
+[![How to deploy a React application to AWS using AWS S3 & AWS CloudFront](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_deploy_a_React_application_to_AWS_using_AWS_S3___AWS_CloudFront.svg)](https://dev.to/alizgheib/how-to-deploy-a-react-application-to-aws-using-aws-s3-aws-cloudfront-42km)
+[![Postgres schema changes are still a PITA](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Postgres_schema_changes_are_still_a_PITA.svg)](https://dev.to/xata/postgres-schema-changes-are-still-a-pita-46bf)
+[![Unraveling the Economics of Staking: A Closer Look at the XRPL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unraveling_the_Economics_of_Staking__A_Closer_Look_at_the_XRPL.svg)](https://dev.to/enchstyle/unraveling-the-economics-of-staking-a-closer-look-at-the-xrpl-4bg0)
+[![Unlock the Power of OAuth: A Journey to Secure and Reliable Applications](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unlock_the_Power_of_OAuth__A_Journey_to_Secure_and_Reliable_Applications.svg)](https://dev.to/aradwan20/unlock-the-power-of-oauth-a-journey-to-secure-and-reliable-applications-4cg0)
+[![Efficient Infrastructure Management with AWS CloudFormation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Efficient_Infrastructure_Management_with_AWS_CloudFormation.svg)](https://dev.to/brandondamue/efficient-infrastructure-management-with-aws-cloudformation-2l1k)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, July 8, 2023 at 12:10:44 PM
+> Last updated: Saturday, July 8, 2023 at 7:00:36 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, July 8, 2023 at 12:10:50 PM
+> Last updated: Saturday, July 8, 2023 at 7:00:41 PM
 
 > Showing 5 of 30 posts.
 
