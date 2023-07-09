@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, July 9, 2023 at 12:11:33 AM
+> Last updated: Sunday, July 9, 2023 at 6:16:33 AM
 
 > Showing 5 of 12 posts.
 
-[![Todo List with Next.js Beginner's Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Todo_List_with_Next.js_Beginner's_Guide.svg)](https://dev.to/syedmuhammadaliraza/todo-list-with-nextjs-beginners-guide-18c8)
-[![Dominando Laravel 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dominando_Laravel_2023.svg)](https://dev.to/vittor/dominando-laravel-2023-529f)
-[![How to Learn Python For Data Science?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Learn_Python_For_Data_Science_.svg)](https://dev.to/aqsa81/how-to-learn-python-for-data-science-2dpf)
-[![Helix editor: Make HTTP requests and insert JSON](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Helix_editor__Make_HTTP_requests_and_insert_JSON.svg)](https://dev.to/rajasegar/helix-editor-make-http-requests-and-insert-json-3agf)
-[![How to Connect a Postgres Database to Express: A Step-by-Step Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Connect_a_Postgres_Database_to_Express__A_Step-by-Step_Guide.svg)](https://dev.to/pyies/how-to-connect-a-postgres-database-to-express-a-step-by-step-guide-4hm3)
+[![Why You should Start Contributing to OpenSource](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_You_should_Start_Contributing_to_OpenSource.svg)](https://dev.to/nightbird07/why-you-should-start-contributing-to-opensource-52e1)
+[![Security: "Over 83% of Developers Commit this Critical Mistake when storing User's Password. Are You One of Them?"](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Security___Over_83__of_Developers_Commit_this_Critical_Mistake_when_storing_User's_Password._Are_You_One_of_Them__.svg)](https://dev.to/danielasaboro/security-over-83-of-developers-commit-this-critical-mistake-when-storing-users-password-are-you-one-of-them-57g6)
+[![Why Choose PGSQL as the Database for Resource Storage](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_Choose_PGSQL_as_the_Database_for_Resource_Storage.svg)](https://dev.to/bineshsamal/why-choose-pgsql-as-the-database-for-resource-storage-1nk)
+[![How To Track Mouse and Touch Move In Pressed State With React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Track_Mouse_and_Touch_Move_In_Pressed_State_With_React.svg)](https://dev.to/rodionchachura/how-to-track-mouse-and-touch-move-in-pressed-state-with-react-47np)
+[![Indexing in PostgreSQL: Boost Your Database Queries](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Indexing_in_PostgreSQL__Boost_Your_Database_Queries.svg)](https://dev.to/omarsaad/indexing-in-postgresql-boost-your-database-queries-hlo)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, July 9, 2023 at 12:11:37 AM
+> Last updated: Sunday, July 9, 2023 at 6:16:37 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, July 9, 2023 at 12:11:42 AM
+> Last updated: Sunday, July 9, 2023 at 6:16:44 AM
 
 > Showing 5 of 30 posts.
 
