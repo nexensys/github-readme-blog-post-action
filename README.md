@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, July 10, 2023 at 6:18:32 AM
+> Last updated: Monday, July 10, 2023 at 12:11:28 PM
 
 > Showing 5 of 12 posts.
 
-[![Raku Blog Posts 2023.28](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Raku_Blog_Posts_2023.28.svg)](https://dev.to/lizmat/raku-blog-posts-202328-4068)
-[![An Ultimate Guide to Migrating On-Premises Applications to AWS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/An_Ultimate_Guide_to_Migrating_On-Premises_Applications_to_AWS.svg)](https://dev.to/csoftweb/an-ultimate-guide-to-migrating-on-premises-applications-to-aws-5dd2)
-[![Perfboard Designer in Html Canvas](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Perfboard_Designer_in_Html_Canvas.svg)](https://dev.to/maurerkrisztian/perfboard-designer-in-html-canvas-mng)
-[![Simple way to make i18n support with FastAPI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Simple_way_to_make_i18n_support_with_FastAPI.svg)](https://dev.to/whchi/simple-way-to-make-i18n-support-in-fastapi-27kd)
-[![Top LinkedIn .NET Content Creators you must Follow📘](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_LinkedIn_.NET_Content_Creators_you_must_Follow📘.svg)](https://dev.to/bytehide/top-linkedin-net-content-creators-you-must-follow-1mpo)
+[![How to build a Telegram Bot with ChatGPT integration.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_build_a_Telegram_Bot_with_ChatGPT_integration..svg)](https://dev.to/xamhans/how-to-build-a-telegram-bot-with-chatgpt-integration-5elp)
+[![In the Footsteps of Poul Gernes — Making an Interactive Art Poster](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/In_the_Footsteps_of_Poul_Gernes_—_Making_an_Interactive_Art_Poster.svg)](https://dev.to/madsstoumann/in-the-footsteps-of-poul-gernes-making-an-interactive-art-poster-5580)
+[![JavaScript Debounce, Easiest explanation !(with Code)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_Debounce__Easiest_explanation_!(with_Code).svg)](https://dev.to/jeetvora331/javascript-debounce-easiest-explanation--29hc)
+[![What is IIFE in Javascript ? (important interview question)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_IIFE_in_Javascript___(important_interview_question).svg)](https://dev.to/diwakarkashyap/what-is-iife-in-javascript-important-interview-question-519l)
+[![How to create gradient borders with tailwindcss](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_gradient_borders_with_tailwindcss.svg)](https://dev.to/tailus/how-to-create-gradient-borders-with-tailwindcss-4gk2)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, July 10, 2023 at 6:18:36 AM
+> Last updated: Monday, July 10, 2023 at 12:11:32 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,21 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, July 10, 2023 at 6:18:42 AM
+> Last updated: Monday, July 10, 2023 at 12:11:36 PM
 
 > Showing 5 of 30 posts.
 
+[![Getting Started with Vector Databases in Node.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Getting_Started_with_Vector_Databases_in_Node.js.svg)](http://www.thecodebarbarian.com/getting-started-with-vector-databases-in-node-js)
+[![
+Submit a new story - Echo JS
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Submit_a_new_story_-_Echo_JS_.svg)](
+https://www.echojs.com/submit
+)
 [![GitHub - st3b1t/SatoshiTop: Bitcoin full node monitoring dashboard for terminal](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_st3b1t_SatoshiTop__Bitcoin_full_node_monitoring_dashboard_for_terminal.svg)](https://github.com/st3b1t/SatoshiTop)
 [![JavaScript Add Month to Date](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Add_Month_to_Date.svg)](
 https://masteringjs.io/tutorials/fundamentals/add-month-to-date
 )
 [![Automated Digital Healthcare Solutions and Consulting Services – JK Tech](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Automated_Digital_Healthcare_Solutions_and_Consulting_Services_–_JK_Tech.svg)](https://jktech.com/healthcare/)
-[![GitHub - configu/configu: a simple, modern, and generic standard for managing and collaborating software configurations ⚙️✨.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_configu_configu__a_simple__modern__and_generic_standard_for_managing_and_collaborating_software_configurations_⚙️✨..svg)](https://github.com/configu/configu)
-[![API with NestJS #115. Database migrations with Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__115._Database_migrations_with_Prisma.svg)](https://wanago.io/2023/07/03/api-nestjs-prisma-migrations/)
 
 
 <!-- post-list:end -->
