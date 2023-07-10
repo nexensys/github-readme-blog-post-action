@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, July 9, 2023 at 6:56:54 PM
+> Last updated: Monday, July 10, 2023 at 12:13:18 AM
 
 > Showing 5 of 12 posts.
 
-[![NestJS tip: how to inject multiple versions of the same provider into one module (e.g.: many Axios instances)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/NestJS_tip__how_to_inject_multiple_versions_of_the_same_provider_into_one_module_(e.g.__many_Axios_instances).svg)](https://dev.to/micalevisk/nestjs-tip-how-to-inject-multiple-versions-of-the-same-provider-into-one-module-eg-many-axios-instances-5agc)
-[![Introducing Starter-Repos.com](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_Starter-Repos.com.svg)](https://dev.to/char_greenman/introducing-starter-reposcom-2gg4)
-[![Phase 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Phase_1.svg)](https://dev.to/aosorio10/phase-1-54nn)
-[![Heading 4: Project Administration](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Heading_4__Project_Administration.svg)](https://dev.to/githubcoder/heading-4-project-administration-1n1n)
-[![LangChain Arbitrary Command Execution - CVE-2023-34541](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/LangChain_Arbitrary_Command_Execution_-_CVE-2023-34541.svg)](https://dev.to/tutorialboy/langchain-arbitrary-command-execution-cve-2023-34541-38kf)
+[![How to copy style from any website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_copy_style_from_any_website.svg)](https://dev.to/brianh/how-to-copy-style-from-any-website-3ooi)
+[![Tips and techniques for technical writing.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tips_and_techniques_for_technical_writing..svg)](https://dev.to/rashtech/tips-and-techniques-for-technical-writing-39cl)
+[![Music Monday — What are you listening to? (Pets Edition)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Music_Monday_—_What_are_you_listening_to__(Pets_Edition).svg)](https://dev.to/devteam/music-monday-what-are-you-listening-to-pets-edition-5hk6)
+[![5 Overpowered VSCODE Extensions! 🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Overpowered_VSCODE_Extensions!_🔥.svg)](https://dev.to/official_fire/5-overpowered-vscode-extensions-3dj0)
+[![JavaScript - copyWithin() Method](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_-_copyWithin()_Method.svg)](https://dev.to/kristiyan_velkov/javascript-copywithin-method-59ej)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, July 9, 2023 at 6:56:58 PM
+> Last updated: Monday, July 10, 2023 at 12:13:22 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, July 9, 2023 at 6:57:05 PM
+> Last updated: Monday, July 10, 2023 at 12:13:28 AM
 
 > Showing 5 of 30 posts.
 
@@ -52,7 +52,11 @@ http://www.echojs.com
 https://masteringjs.io/tutorials/fundamentals/add-month-to-date
 )
 [![Automated Digital Healthcare Solutions and Consulting Services – JK Tech](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Automated_Digital_Healthcare_Solutions_and_Consulting_Services_–_JK_Tech.svg)](https://jktech.com/healthcare/)
-[![GitHub - configu/configu: a simple, modern, and generic standard for managing and collaborating software configurations ⚙️✨.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_configu_configu__a_simple__modern__and_generic_standard_for_managing_and_collaborating_software_configurations_⚙️✨..svg)](https://github.com/configu/configu)
+[![
+Configu - a simple, modern, and generic standard for managing and collaborating software configurations ⚙️✨
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Configu_-_a_simple__modern__and_generic_standard_for_managing_and_collaborating_software_configurations_⚙️✨_.svg)](
+https://github.com/configu/configu
+)
 [![API with NestJS #115. Database migrations with Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__115._Database_migrations_with_Prisma.svg)](https://wanago.io/2023/07/03/api-nestjs-prisma-migrations/)
 
 
