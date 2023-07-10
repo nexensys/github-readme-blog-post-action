@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, July 10, 2023 at 12:13:18 AM
+> Last updated: Monday, July 10, 2023 at 6:18:32 AM
 
 > Showing 5 of 12 posts.
 
-[![How to copy style from any website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_copy_style_from_any_website.svg)](https://dev.to/brianh/how-to-copy-style-from-any-website-3ooi)
-[![Tips and techniques for technical writing.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tips_and_techniques_for_technical_writing..svg)](https://dev.to/rashtech/tips-and-techniques-for-technical-writing-39cl)
-[![Music Monday — What are you listening to? (Pets Edition)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Music_Monday_—_What_are_you_listening_to__(Pets_Edition).svg)](https://dev.to/devteam/music-monday-what-are-you-listening-to-pets-edition-5hk6)
-[![5 Overpowered VSCODE Extensions! 🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Overpowered_VSCODE_Extensions!_🔥.svg)](https://dev.to/official_fire/5-overpowered-vscode-extensions-3dj0)
-[![JavaScript - copyWithin() Method](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_-_copyWithin()_Method.svg)](https://dev.to/kristiyan_velkov/javascript-copywithin-method-59ej)
+[![Raku Blog Posts 2023.28](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Raku_Blog_Posts_2023.28.svg)](https://dev.to/lizmat/raku-blog-posts-202328-4068)
+[![An Ultimate Guide to Migrating On-Premises Applications to AWS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/An_Ultimate_Guide_to_Migrating_On-Premises_Applications_to_AWS.svg)](https://dev.to/csoftweb/an-ultimate-guide-to-migrating-on-premises-applications-to-aws-5dd2)
+[![Perfboard Designer in Html Canvas](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Perfboard_Designer_in_Html_Canvas.svg)](https://dev.to/maurerkrisztian/perfboard-designer-in-html-canvas-mng)
+[![Simple way to make i18n support with FastAPI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Simple_way_to_make_i18n_support_with_FastAPI.svg)](https://dev.to/whchi/simple-way-to-make-i18n-support-in-fastapi-27kd)
+[![Top LinkedIn .NET Content Creators you must Follow📘](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_LinkedIn_.NET_Content_Creators_you_must_Follow📘.svg)](https://dev.to/bytehide/top-linkedin-net-content-creators-you-must-follow-1mpo)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, July 10, 2023 at 12:13:22 AM
+> Last updated: Monday, July 10, 2023 at 6:18:36 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, July 10, 2023 at 12:13:28 AM
+> Last updated: Monday, July 10, 2023 at 6:18:42 AM
 
 > Showing 5 of 30 posts.
 
@@ -52,11 +52,7 @@ http://www.echojs.com
 https://masteringjs.io/tutorials/fundamentals/add-month-to-date
 )
 [![Automated Digital Healthcare Solutions and Consulting Services – JK Tech](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Automated_Digital_Healthcare_Solutions_and_Consulting_Services_–_JK_Tech.svg)](https://jktech.com/healthcare/)
-[![
-Configu - a simple, modern, and generic standard for managing and collaborating software configurations ⚙️✨
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Configu_-_a_simple__modern__and_generic_standard_for_managing_and_collaborating_software_configurations_⚙️✨_.svg)](
-https://github.com/configu/configu
-)
+[![GitHub - configu/configu: a simple, modern, and generic standard for managing and collaborating software configurations ⚙️✨.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_configu_configu__a_simple__modern__and_generic_standard_for_managing_and_collaborating_software_configurations_⚙️✨..svg)](https://github.com/configu/configu)
 [![API with NestJS #115. Database migrations with Prisma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__115._Database_migrations_with_Prisma.svg)](https://wanago.io/2023/07/03/api-nestjs-prisma-migrations/)
 
 
