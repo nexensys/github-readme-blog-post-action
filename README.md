@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, July 10, 2023 at 12:11:28 PM
+> Last updated: Monday, July 10, 2023 at 6:51:12 PM
 
 > Showing 5 of 12 posts.
 
-[![How to build a Telegram Bot with ChatGPT integration.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_build_a_Telegram_Bot_with_ChatGPT_integration..svg)](https://dev.to/xamhans/how-to-build-a-telegram-bot-with-chatgpt-integration-5elp)
-[![In the Footsteps of Poul Gernes — Making an Interactive Art Poster](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/In_the_Footsteps_of_Poul_Gernes_—_Making_an_Interactive_Art_Poster.svg)](https://dev.to/madsstoumann/in-the-footsteps-of-poul-gernes-making-an-interactive-art-poster-5580)
-[![JavaScript Debounce, Easiest explanation !(with Code)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_Debounce__Easiest_explanation_!(with_Code).svg)](https://dev.to/jeetvora331/javascript-debounce-easiest-explanation--29hc)
-[![What is IIFE in Javascript ? (important interview question)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_IIFE_in_Javascript___(important_interview_question).svg)](https://dev.to/diwakarkashyap/what-is-iife-in-javascript-important-interview-question-519l)
-[![How to create gradient borders with tailwindcss](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_gradient_borders_with_tailwindcss.svg)](https://dev.to/tailus/how-to-create-gradient-borders-with-tailwindcss-4gk2)
+[![Why not to have meetings](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_not_to_have_meetings.svg)](https://dev.to/sigcoding/why-not-to-have-meetings-4ikc)
+[![O arco-íris da cybersegurança](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/O_arco-íris_da_cybersegurança.svg)](https://dev.to/juligaioso/o-arco-iris-da-cyberseguranca-fje)
+[![Routing in Rails](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Routing_in_Rails.svg)](https://dev.to/sjamescarter/routing-in-rails-670)
+[![reCAPTCHA v3 package for Laravel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/reCAPTCHA_v3_package_for_Laravel.svg)](https://dev.to/larstw98/laravel-with-recaptcha-v3-4fi4)
+[![🤯 ridet-nc-api : service mesh API on top of heterogeneous Open Data](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🤯_ridet-nc-api___service_mesh_API_on_top_of_heterogeneous_Open_Data.svg)](https://dev.to/optnc/ridet-nc-api-service-mesh-api-on-top-of-heterogeneous-open-data-4c3b)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, July 10, 2023 at 12:11:32 PM
+> Last updated: Monday, July 10, 2023 at 6:51:14 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, July 10, 2023 at 12:11:36 PM
+> Last updated: Monday, July 10, 2023 at 6:51:18 PM
 
 > Showing 5 of 30 posts.
 
+[![API with NestJS #116. REST API versioning](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__116._REST_API_versioning.svg)](https://wanago.io/2023/07/10/api-nestjs-rest-versioning/)
 [![Getting Started with Vector Databases in Node.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Getting_Started_with_Vector_Databases_in_Node.js.svg)](http://www.thecodebarbarian.com/getting-started-with-vector-databases-in-node-js)
 [![
 Submit a new story - Echo JS
@@ -57,7 +58,6 @@ https://www.echojs.com/submit
 [![JavaScript Add Month to Date](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Add_Month_to_Date.svg)](
 https://masteringjs.io/tutorials/fundamentals/add-month-to-date
 )
-[![Automated Digital Healthcare Solutions and Consulting Services – JK Tech](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Automated_Digital_Healthcare_Solutions_and_Consulting_Services_–_JK_Tech.svg)](https://jktech.com/healthcare/)
 
 
 <!-- post-list:end -->
