@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, July 11, 2023 at 12:12:38 AM
+> Last updated: Tuesday, July 11, 2023 at 6:18:56 AM
 
 > Showing 5 of 12 posts.
 
-[![How to Use Dependency Injection with Node.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Use_Dependency_Injection_with_Node.js.svg)](https://dev.to/amplication/how-to-use-dependency-injection-with-nodejs-4ajh)
-[![PostgreSQL : Prepared statement](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/PostgreSQL___Prepared_statement.svg)](https://dev.to/yet_anotherdev/postgresql-prepared-statement-3k6p)
-[![Short Ruby Newsletter - edition 50](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Short_Ruby_Newsletter_-_edition_50.svg)](https://dev.to/lucianghinda/short-ruby-newsletter-edition-50-p68)
-[![What is HTTPS and how does it work?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_HTTPS_and_how_does_it_work_.svg)](https://dev.to/junedang/what-is-https-and-how-does-it-work-3fko)
-[![Reading and Writing Files In Node.Js Using Modules.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Reading_and_Writing_Files_In_Node.Js_Using_Modules..svg)](https://dev.to/dotjos/reading-and-writing-files-in-nodejs-using-modules-i5b)
+[![🫰Clickvote: Open-source upvotes, likes, and reviews to any context 🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🫰Clickvote__Open-source_upvotes__likes__and_reviews_to_any_context_🔥.svg)](https://dev.to/github20k/clickvote-open-source-upvotes-likes-and-reviews-to-any-context-3ef9)
+[![Deploy Preview Environments to Any Kubernetes Cluster with Preevy](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deploy_Preview_Environments_to_Any_Kubernetes_Cluster_with_Preevy.svg)](https://dev.to/livecycle/deploy-preview-environments-to-any-kubernetes-cluster-with-preevy-34k5)
+[![Vector storage is coming to Meilisearch to empower search through AI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Vector_storage_is_coming_to_Meilisearch_to_empower_search_through_AI.svg)](https://dev.to/meilisearch/vector-storage-is-coming-to-meilisearch-to-empower-search-through-ai-3i1f)
+[![From Bits to Blockchain: The Inner Workings of Ethereum Transactions Explained](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/From_Bits_to_Blockchain__The_Inner_Workings_of_Ethereum_Transactions_Explained.svg)](https://dev.to/sahil_4555/from-bits-to-blockchain-the-inner-workings-of-ethereum-transactions-explained-2ghn)
+[![Moonly weekly progress update #56 - Moonly Holders benefit within the Karamendos ecosystem](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Moonly_weekly_progress_update__56_-_Moonly_Holders_benefit_within_the_Karamendos_ecosystem.svg)](https://dev.to/moonly/moonly-weekly-progress-update-56-moonly-holders-benefit-within-the-karamendos-ecosystem-2plj)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, July 11, 2023 at 12:12:42 AM
+> Last updated: Tuesday, July 11, 2023 at 6:18:59 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,20 +43,18 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, July 11, 2023 at 12:12:47 AM
+> Last updated: Tuesday, July 11, 2023 at 6:19:07 AM
 
 > Showing 5 of 30 posts.
 
+[![Building a Design System with React Web Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_a_Design_System_with_React_Web_Components.svg)](https://www.voorhoede.nl/en/blog/building-design-system-react-web-components/)
+[![GitHub - muke1908/chat-e2ee: Create end-to-end encrypted disposable chat sessions. You don't need to identify yourself on the internet and can chat anonymously. The end-users are not traceable and data is not owned by anyone.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_muke1908_chat-e2ee__Create_end-to-end_encrypted_disposable_chat_sessions._You_don't_need_to_identify_yourself_on_the_internet_and_can_chat_anonymously._The_end-users_are_not_traceable_and_data_is_not_owned_by_anyone..svg)](https://github.com/muke1908/chat-e2ee)
 [![API with NestJS #116. REST API versioning](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__116._REST_API_versioning.svg)](https://wanago.io/2023/07/10/api-nestjs-rest-versioning/)
 [![Getting Started with Vector Databases in Node.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Getting_Started_with_Vector_Databases_in_Node.js.svg)](http://www.thecodebarbarian.com/getting-started-with-vector-databases-in-node-js)
 [![
 Submit a new story - Echo JS
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Submit_a_new_story_-_Echo_JS_.svg)](
 https://www.echojs.com/submit
-)
-[![GitHub - st3b1t/SatoshiTop: Bitcoin full node monitoring dashboard for terminal](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_st3b1t_SatoshiTop__Bitcoin_full_node_monitoring_dashboard_for_terminal.svg)](https://github.com/st3b1t/SatoshiTop)
-[![JavaScript Add Month to Date](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/JavaScript_Add_Month_to_Date.svg)](
-https://masteringjs.io/tutorials/fundamentals/add-month-to-date
 )
 
 
