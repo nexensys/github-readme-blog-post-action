@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, July 10, 2023 at 6:51:12 PM
+> Last updated: Tuesday, July 11, 2023 at 12:12:38 AM
 
 > Showing 5 of 12 posts.
 
-[![Why not to have meetings](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_not_to_have_meetings.svg)](https://dev.to/sigcoding/why-not-to-have-meetings-4ikc)
-[![O arco-íris da cybersegurança](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/O_arco-íris_da_cybersegurança.svg)](https://dev.to/juligaioso/o-arco-iris-da-cyberseguranca-fje)
-[![Routing in Rails](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Routing_in_Rails.svg)](https://dev.to/sjamescarter/routing-in-rails-670)
-[![reCAPTCHA v3 package for Laravel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/reCAPTCHA_v3_package_for_Laravel.svg)](https://dev.to/larstw98/laravel-with-recaptcha-v3-4fi4)
-[![🤯 ridet-nc-api : service mesh API on top of heterogeneous Open Data](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🤯_ridet-nc-api___service_mesh_API_on_top_of_heterogeneous_Open_Data.svg)](https://dev.to/optnc/ridet-nc-api-service-mesh-api-on-top-of-heterogeneous-open-data-4c3b)
+[![How to Use Dependency Injection with Node.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Use_Dependency_Injection_with_Node.js.svg)](https://dev.to/amplication/how-to-use-dependency-injection-with-nodejs-4ajh)
+[![PostgreSQL : Prepared statement](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/PostgreSQL___Prepared_statement.svg)](https://dev.to/yet_anotherdev/postgresql-prepared-statement-3k6p)
+[![Short Ruby Newsletter - edition 50](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Short_Ruby_Newsletter_-_edition_50.svg)](https://dev.to/lucianghinda/short-ruby-newsletter-edition-50-p68)
+[![What is HTTPS and how does it work?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_HTTPS_and_how_does_it_work_.svg)](https://dev.to/junedang/what-is-https-and-how-does-it-work-3fko)
+[![Reading and Writing Files In Node.Js Using Modules.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Reading_and_Writing_Files_In_Node.Js_Using_Modules..svg)](https://dev.to/dotjos/reading-and-writing-files-in-nodejs-using-modules-i5b)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, July 10, 2023 at 6:51:14 PM
+> Last updated: Tuesday, July 11, 2023 at 12:12:42 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, July 10, 2023 at 6:51:18 PM
+> Last updated: Tuesday, July 11, 2023 at 12:12:47 AM
 
 > Showing 5 of 30 posts.
 
