@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, July 11, 2023 at 6:18:56 AM
+> Last updated: Tuesday, July 11, 2023 at 12:11:25 PM
 
 > Showing 5 of 12 posts.
 
-[![🫰Clickvote: Open-source upvotes, likes, and reviews to any context 🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🫰Clickvote__Open-source_upvotes__likes__and_reviews_to_any_context_🔥.svg)](https://dev.to/github20k/clickvote-open-source-upvotes-likes-and-reviews-to-any-context-3ef9)
-[![Deploy Preview Environments to Any Kubernetes Cluster with Preevy](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Deploy_Preview_Environments_to_Any_Kubernetes_Cluster_with_Preevy.svg)](https://dev.to/livecycle/deploy-preview-environments-to-any-kubernetes-cluster-with-preevy-34k5)
-[![Vector storage is coming to Meilisearch to empower search through AI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Vector_storage_is_coming_to_Meilisearch_to_empower_search_through_AI.svg)](https://dev.to/meilisearch/vector-storage-is-coming-to-meilisearch-to-empower-search-through-ai-3i1f)
-[![From Bits to Blockchain: The Inner Workings of Ethereum Transactions Explained](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/From_Bits_to_Blockchain__The_Inner_Workings_of_Ethereum_Transactions_Explained.svg)](https://dev.to/sahil_4555/from-bits-to-blockchain-the-inner-workings-of-ethereum-transactions-explained-2ghn)
-[![Moonly weekly progress update #56 - Moonly Holders benefit within the Karamendos ecosystem](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Moonly_weekly_progress_update__56_-_Moonly_Holders_benefit_within_the_Karamendos_ecosystem.svg)](https://dev.to/moonly/moonly-weekly-progress-update-56-moonly-holders-benefit-within-the-karamendos-ecosystem-2plj)
+[![Web Fundamentals: HTML Forms](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Web_Fundamentals__HTML_Forms.svg)](https://dev.to/hasanhaja/web-fundamentals-html-forms-3i5c)
+[![Building for Failure - Best Practices for Easy Production Debugging](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_for_Failure_-_Best_Practices_for_Easy_Production_Debugging.svg)](https://dev.to/codenameone/building-for-failure-best-practices-for-easy-production-debugging-1mim)
+[![Top 7 Featured DEV Posts from the Past Week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_7_Featured_DEV_Posts_from_the_Past_Week.svg)](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-40ll)
+[![How Developers Can Leverage ChatGPT](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_Developers_Can_Leverage_ChatGPT.svg)](https://dev.to/devland/how-developers-can-leverage-chatgpt-4a89)
+[![Open Source Flask-based web applications](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Open_Source_Flask-based_web_applications.svg)](https://dev.to/szabgab/open-source-flask-based-web-applications-427n)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, July 11, 2023 at 6:18:59 AM
+> Last updated: Tuesday, July 11, 2023 at 12:11:28 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, July 11, 2023 at 6:19:07 AM
+> Last updated: Tuesday, July 11, 2023 at 12:11:35 PM
 
 > Showing 5 of 30 posts.
 
