@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, July 12, 2023 at 6:18:46 AM
+> Last updated: Wednesday, July 12, 2023 at 12:11:36 PM
 
 > Showing 5 of 12 posts.
 
-[![Juniors Should be Seniors Someday!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Juniors_Should_be_Seniors_Someday!.svg)](https://dev.to/westernal/juniors-should-be-seniors-someday-35g0)
-[![Transition between pages smoothly with a single line of code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Transition_between_pages_smoothly_with_a_single_line_of_code.svg)](https://dev.to/starbist/transition-between-pages-smoothly-with-a-single-line-of-code-3cea)
-[![How to fix Laravel 10 + Inertia + ReactJS getting 404 error page on browser refresh](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_fix_Laravel_10_+_Inertia_+_ReactJS_getting_404_error_page_on_browser_refresh.svg)](https://dev.to/donbuddhi/how-to-fix-laravel-10-inertia-reactjs-getting-404-page-on-browser-refresh-45hc)
-[![CSS Colors: Understanding RGB, HEX, HSL, and Alpha Values](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CSS_Colors__Understanding_RGB__HEX__HSL__and_Alpha_Values.svg)](https://dev.to/wolfflucas/css-colors-understanding-rgb-hex-hsl-and-alpha-values-1gch)
-[![📈 More Statistics 📉 for Stack Overflow 2023 survey](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/📈_More_Statistics_📉_for_Stack_Overflow_2023_survey.svg)](https://dev.to/pazu/better-statistics-for-stack-overflow-2023-survey-2o3h)
+[![Air Quality App with Enhance](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Air_Quality_App_with_Enhance.svg)](https://dev.to/begin/air-quality-app-with-enhance-1c8d)
+[![API’s role in digital government: 10 national best practices](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/API’s_role_in_digital_government__10_national_best_practices.svg)](https://dev.to/apisix/apis-role-in-digital-government-10-national-best-practices-1plf)
+[![How to Install pnpm with npm on Windows 11](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Install_pnpm_with_npm_on_Windows_11.svg)](https://dev.to/adiatiayu/how-to-install-pnpm-with-npm-on-windows-11-5gbn)
+[![Différentes façons de déployer une application front faites en JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Différentes_façons_de_déployer_une_application_front_faites_en_JS.svg)](https://dev.to/singebob/differentes-facons-de-deployer-une-application-front-faites-en-js-13of)
+[![Best headless CMS platforms for Astro](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_headless_CMS_platforms_for_Astro.svg)](https://dev.to/logrocket/best-headless-cms-platforms-for-astro-75a)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, July 12, 2023 at 6:18:50 AM
+> Last updated: Wednesday, July 12, 2023 at 12:11:39 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,11 +43,10 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, July 12, 2023 at 6:18:54 AM
+> Last updated: Wednesday, July 12, 2023 at 12:11:46 PM
 
 > Showing 5 of 30 posts.
 
-[![GitHub - Sumitthakurtech/ecom-single](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Sumitthakurtech_ecom-single.svg)](https://github.com/Sumitthakurtech/ecom-single)
 [![GitHub - sumn2u/learn-javascript: A book that teaches JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_sumn2u_learn-javascript__A_book_that_teaches_JavaScript.svg)](https://github.com/sumn2u/learn-javascript)
 [![
 Useful functions for a Deno HTTP server
@@ -56,6 +55,7 @@ https://jollytoad.deno.dev/blog/http_fns
 )
 [![Building a Design System with React Web Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_a_Design_System_with_React_Web_Components.svg)](https://www.voorhoede.nl/en/blog/building-design-system-react-web-components/)
 [![GitHub - muke1908/chat-e2ee: End-to-end encrypted disposable chat sessions, exchange sensitive information with peer safely and securely.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_muke1908_chat-e2ee__End-to-end_encrypted_disposable_chat_sessions__exchange_sensitive_information_with_peer_safely_and_securely..svg)](https://github.com/muke1908/chat-e2ee)
+[![API with NestJS #116. REST API versioning](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__116._REST_API_versioning.svg)](https://wanago.io/2023/07/10/api-nestjs-rest-versioning/)
 
 
 <!-- post-list:end -->
