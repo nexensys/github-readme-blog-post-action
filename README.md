@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, July 12, 2023 at 12:12:24 AM
+> Last updated: Wednesday, July 12, 2023 at 6:18:46 AM
 
 > Showing 5 of 12 posts.
 
-[![Building a TODO app in React Native with Supabase](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_TODO_app_in_React_Native_with_Supabase.svg)](https://dev.to/mrcflorian/building-a-todo-app-in-react-native-with-supabase-h2i)
-[![Top 10 Useful Repositories for Web Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_10_Useful_Repositories_for_Web_Developers.svg)](https://dev.to/soumyadeepdey/top-10-must-have-repositories-for-web-developers-45d4)
-[![HugoConf 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/HugoConf_2023.svg)](https://dev.to/cloudcannon/hugoconf-2023-5dgo)
-[![Bandit Level 2 Level 3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Bandit_Level_2_Level_3.svg)](https://dev.to/christianpaez/bandit-level-2-level-3-2joi)
-[![Introduction to Cross-Platform Mobile Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_to_Cross-Platform_Mobile_Development.svg)](https://dev.to/kemifrank/introduction-to-cross-platform-mobile-development-5g27)
+[![Juniors Should be Seniors Someday!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Juniors_Should_be_Seniors_Someday!.svg)](https://dev.to/westernal/juniors-should-be-seniors-someday-35g0)
+[![Transition between pages smoothly with a single line of code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Transition_between_pages_smoothly_with_a_single_line_of_code.svg)](https://dev.to/starbist/transition-between-pages-smoothly-with-a-single-line-of-code-3cea)
+[![How to fix Laravel 10 + Inertia + ReactJS getting 404 error page on browser refresh](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_fix_Laravel_10_+_Inertia_+_ReactJS_getting_404_error_page_on_browser_refresh.svg)](https://dev.to/donbuddhi/how-to-fix-laravel-10-inertia-reactjs-getting-404-page-on-browser-refresh-45hc)
+[![CSS Colors: Understanding RGB, HEX, HSL, and Alpha Values](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CSS_Colors__Understanding_RGB__HEX__HSL__and_Alpha_Values.svg)](https://dev.to/wolfflucas/css-colors-understanding-rgb-hex-hsl-and-alpha-values-1gch)
+[![📈 More Statistics 📉 for Stack Overflow 2023 survey](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/📈_More_Statistics_📉_for_Stack_Overflow_2023_survey.svg)](https://dev.to/pazu/better-statistics-for-stack-overflow-2023-survey-2o3h)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, July 12, 2023 at 12:12:28 AM
+> Last updated: Wednesday, July 12, 2023 at 6:18:50 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, July 12, 2023 at 12:12:31 AM
+> Last updated: Wednesday, July 12, 2023 at 6:18:54 AM
 
 > Showing 5 of 30 posts.
 
@@ -55,7 +55,7 @@ Useful functions for a Deno HTTP server
 https://jollytoad.deno.dev/blog/http_fns
 )
 [![Building a Design System with React Web Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_a_Design_System_with_React_Web_Components.svg)](https://www.voorhoede.nl/en/blog/building-design-system-react-web-components/)
-[![GitHub - muke1908/chat-e2ee: Create end-to-end encrypted disposable chat sessions. You don't need to identify yourself on the internet and can chat anonymously. The end-users are not traceable and data is not owned by anyone.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_muke1908_chat-e2ee__Create_end-to-end_encrypted_disposable_chat_sessions._You_don't_need_to_identify_yourself_on_the_internet_and_can_chat_anonymously._The_end-users_are_not_traceable_and_data_is_not_owned_by_anyone..svg)](https://github.com/muke1908/chat-e2ee)
+[![GitHub - muke1908/chat-e2ee: End-to-end encrypted disposable chat sessions, exchange sensitive information with peer safely and securely.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_muke1908_chat-e2ee__End-to-end_encrypted_disposable_chat_sessions__exchange_sensitive_information_with_peer_safely_and_securely..svg)](https://github.com/muke1908/chat-e2ee)
 
 
 <!-- post-list:end -->
