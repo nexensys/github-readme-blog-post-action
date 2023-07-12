@@ -67,7 +67,7 @@
     <foreignObject width="600" height="100" x="5" y="5">
       <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
         <div class="text">
-          <div class="title">&#0010;Submit&#0032;a&#0032;new&#0032;story&#0032;&#0045;&#0032;Echo&#0032;JS&#0010;</div>
+          <div class="title">&#0010;Useful&#0032;functions&#0032;for&#0032;a&#0032;Deno&#0032;HTTP&#0032;server&#0010;</div>
           <div class="description">Comments</div>
           <div class="date"></div>
           <div class="data">

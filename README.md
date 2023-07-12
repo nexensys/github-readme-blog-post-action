@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, July 11, 2023 at 12:11:25 PM
+> Last updated: Tuesday, July 11, 2023 at 6:56:38 PM
 
 > Showing 5 of 12 posts.
 
-[![Web Fundamentals: HTML Forms](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Web_Fundamentals__HTML_Forms.svg)](https://dev.to/hasanhaja/web-fundamentals-html-forms-3i5c)
-[![Building for Failure - Best Practices for Easy Production Debugging](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_for_Failure_-_Best_Practices_for_Easy_Production_Debugging.svg)](https://dev.to/codenameone/building-for-failure-best-practices-for-easy-production-debugging-1mim)
-[![Top 7 Featured DEV Posts from the Past Week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_7_Featured_DEV_Posts_from_the_Past_Week.svg)](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-40ll)
-[![How Developers Can Leverage ChatGPT](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_Developers_Can_Leverage_ChatGPT.svg)](https://dev.to/devland/how-developers-can-leverage-chatgpt-4a89)
-[![Open Source Flask-based web applications](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Open_Source_Flask-based_web_applications.svg)](https://dev.to/szabgab/open-source-flask-based-web-applications-427n)
+[![Merging old repos into a monolithic git repo archive](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Merging_old_repos_into_a_monolithic_git_repo_archive.svg)](https://dev.to/ctooley/merging-old-repos-into-a-monolithic-git-repo-archive-4c7h)
+[![Vue.js Setup for beginner](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Vue.js_Setup_for_beginner.svg)](https://dev.to/bhuvaneshwa/vuejs-setup-for-beginner-18n0)
+[![Strategies for Optimizing Costs in AWS: Maximizing Cost-efficiency for Cloud Resource Management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Strategies_for_Optimizing_Costs_in_AWS__Maximizing_Cost-efficiency_for_Cloud_Resource_Management.svg)](https://dev.to/jito/strategies-for-optimizing-costs-in-aws-maximizing-cost-efficiency-for-cloud-resource-management-4031)
+[![Setting Up Pre-Commit Hooks in GitHub: Ensuring Code Quality and Consistency](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Setting_Up_Pre-Commit_Hooks_in_GitHub__Ensuring_Code_Quality_and_Consistency.svg)](https://dev.to/angu10/setting-up-pre-commit-hooks-in-github-ensuring-code-quality-and-consistency-289n)
+[![ARIA: Saving the World, One Accessible Web App at a Time!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/ARIA__Saving_the_World__One_Accessible_Web_App_at_a_Time!.svg)](https://dev.to/tharapearlly/aria-saving-the-world-one-accessible-web-app-at-a-time-4daj)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, July 11, 2023 at 12:11:28 PM
+> Last updated: Tuesday, July 11, 2023 at 6:56:42 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, July 11, 2023 at 12:11:35 PM
+> Last updated: Tuesday, July 11, 2023 at 6:56:47 PM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - sumn2u/learn-javascript: A book that teaches JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_sumn2u_learn-javascript__A_book_that_teaches_JavaScript.svg)](https://github.com/sumn2u/learn-javascript)
+[![
+Useful functions for a Deno HTTP server
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Useful_functions_for_a_Deno_HTTP_server_.svg)](
+https://jollytoad.deno.dev/blog/http_fns
+)
 [![Building a Design System with React Web Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_a_Design_System_with_React_Web_Components.svg)](https://www.voorhoede.nl/en/blog/building-design-system-react-web-components/)
 [![GitHub - muke1908/chat-e2ee: Create end-to-end encrypted disposable chat sessions. You don't need to identify yourself on the internet and can chat anonymously. The end-users are not traceable and data is not owned by anyone.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_muke1908_chat-e2ee__Create_end-to-end_encrypted_disposable_chat_sessions._You_don't_need_to_identify_yourself_on_the_internet_and_can_chat_anonymously._The_end-users_are_not_traceable_and_data_is_not_owned_by_anyone..svg)](https://github.com/muke1908/chat-e2ee)
 [![API with NestJS #116. REST API versioning](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__116._REST_API_versioning.svg)](https://wanago.io/2023/07/10/api-nestjs-rest-versioning/)
-[![Getting Started with Vector Databases in Node.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Getting_Started_with_Vector_Databases_in_Node.js.svg)](http://www.thecodebarbarian.com/getting-started-with-vector-databases-in-node-js)
-[![
-Submit a new story - Echo JS
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Submit_a_new_story_-_Echo_JS_.svg)](
-https://www.echojs.com/submit
-)
 
 
 <!-- post-list:end -->
