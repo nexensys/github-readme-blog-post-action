@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, July 11, 2023 at 6:56:38 PM
+> Last updated: Wednesday, July 12, 2023 at 12:12:24 AM
 
 > Showing 5 of 12 posts.
 
-[![Merging old repos into a monolithic git repo archive](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Merging_old_repos_into_a_monolithic_git_repo_archive.svg)](https://dev.to/ctooley/merging-old-repos-into-a-monolithic-git-repo-archive-4c7h)
-[![Vue.js Setup for beginner](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Vue.js_Setup_for_beginner.svg)](https://dev.to/bhuvaneshwa/vuejs-setup-for-beginner-18n0)
-[![Strategies for Optimizing Costs in AWS: Maximizing Cost-efficiency for Cloud Resource Management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Strategies_for_Optimizing_Costs_in_AWS__Maximizing_Cost-efficiency_for_Cloud_Resource_Management.svg)](https://dev.to/jito/strategies-for-optimizing-costs-in-aws-maximizing-cost-efficiency-for-cloud-resource-management-4031)
-[![Setting Up Pre-Commit Hooks in GitHub: Ensuring Code Quality and Consistency](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Setting_Up_Pre-Commit_Hooks_in_GitHub__Ensuring_Code_Quality_and_Consistency.svg)](https://dev.to/angu10/setting-up-pre-commit-hooks-in-github-ensuring-code-quality-and-consistency-289n)
-[![ARIA: Saving the World, One Accessible Web App at a Time!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/ARIA__Saving_the_World__One_Accessible_Web_App_at_a_Time!.svg)](https://dev.to/tharapearlly/aria-saving-the-world-one-accessible-web-app-at-a-time-4daj)
+[![Building a TODO app in React Native with Supabase](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_TODO_app_in_React_Native_with_Supabase.svg)](https://dev.to/mrcflorian/building-a-todo-app-in-react-native-with-supabase-h2i)
+[![Top 10 Useful Repositories for Web Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_10_Useful_Repositories_for_Web_Developers.svg)](https://dev.to/soumyadeepdey/top-10-must-have-repositories-for-web-developers-45d4)
+[![HugoConf 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/HugoConf_2023.svg)](https://dev.to/cloudcannon/hugoconf-2023-5dgo)
+[![Bandit Level 2 Level 3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Bandit_Level_2_Level_3.svg)](https://dev.to/christianpaez/bandit-level-2-level-3-2joi)
+[![Introduction to Cross-Platform Mobile Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_to_Cross-Platform_Mobile_Development.svg)](https://dev.to/kemifrank/introduction-to-cross-platform-mobile-development-5g27)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, July 11, 2023 at 6:56:42 PM
+> Last updated: Wednesday, July 12, 2023 at 12:12:28 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, July 11, 2023 at 6:56:47 PM
+> Last updated: Wednesday, July 12, 2023 at 12:12:31 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - Sumitthakurtech/ecom-single](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Sumitthakurtech_ecom-single.svg)](https://github.com/Sumitthakurtech/ecom-single)
 [![GitHub - sumn2u/learn-javascript: A book that teaches JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_sumn2u_learn-javascript__A_book_that_teaches_JavaScript.svg)](https://github.com/sumn2u/learn-javascript)
 [![
 Useful functions for a Deno HTTP server
@@ -55,7 +56,6 @@ https://jollytoad.deno.dev/blog/http_fns
 )
 [![Building a Design System with React Web Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_a_Design_System_with_React_Web_Components.svg)](https://www.voorhoede.nl/en/blog/building-design-system-react-web-components/)
 [![GitHub - muke1908/chat-e2ee: Create end-to-end encrypted disposable chat sessions. You don't need to identify yourself on the internet and can chat anonymously. The end-users are not traceable and data is not owned by anyone.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_muke1908_chat-e2ee__Create_end-to-end_encrypted_disposable_chat_sessions._You_don't_need_to_identify_yourself_on_the_internet_and_can_chat_anonymously._The_end-users_are_not_traceable_and_data_is_not_owned_by_anyone..svg)](https://github.com/muke1908/chat-e2ee)
-[![API with NestJS #116. REST API versioning](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__116._REST_API_versioning.svg)](https://wanago.io/2023/07/10/api-nestjs-rest-versioning/)
 
 
 <!-- post-list:end -->
