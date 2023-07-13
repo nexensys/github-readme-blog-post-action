@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, July 13, 2023 at 12:12:35 AM
+> Last updated: Thursday, July 13, 2023 at 6:18:34 AM
 
 > Showing 5 of 12 posts.
 
-[![New storage utility methods added to the toolkit-use npm package](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/New_storage_utility_methods_added_to_the_toolkit-use_npm_package.svg)](https://dev.to/toolkituse/new-storage-utility-methods-added-to-the-toolkit-use-npm-package-8ha)
-[![Enhancing Python Code Quality: A Comprehensive Guide to Linting with Ruff](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Enhancing_Python_Code_Quality__A_Comprehensive_Guide_to_Linting_with_Ruff.svg)](https://dev.to/ken_mwaura1/enhancing-python-code-quality-a-comprehensive-guide-to-linting-with-ruff-3d6g)
-[![How to Use Arduino IDE with Raspberry Pi Pico W](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Use_Arduino_IDE_with_Raspberry_Pi_Pico_W.svg)](https://dev.to/shilleh/how-to-use-arduino-ide-with-raspberry-pi-pico-w-5c95)
-[![Let's dive in to Cross-Origin](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Let's_dive_in_to_Cross-Origin.svg)](https://dev.to/gimnathperera/lets-dive-in-to-cross-origin-4bmj)
-[![7 Best Websites Every Developer Should Bookmark in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/7_Best_Websites_Every_Developer_Should_Bookmark_in_2023.svg)](https://dev.to/durgesh4993/7-best-websites-every-developer-should-bookmark-in-2023-31mg)
+[![GraphQL - ReactJS Fetch Data](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/GraphQL_-_ReactJS_Fetch_Data.svg)](https://dev.to/shubhamtiwari909/graphql-reactjs-fetch-data-19g6)
+[![Invoking OpenAI's ChatGPT from 6 different programming languages](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Invoking_OpenAI's_ChatGPT_from_6_different_programming_languages.svg)](https://dev.to/polterguy/invoking-openais-chatgpt-from-6-different-programming-languages-191f)
+[![How to Optimize Your Magento Store for Better Performance](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Optimize_Your_Magento_Store_for_Better_Performance.svg)](https://dev.to/samuleduke/how-to-optimize-your-magento-store-for-better-performance-1f68)
+[![Ethereum's Oracles: Unleashing Trustless Wisdom from Beyond the Blockchain](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ethereum's_Oracles__Unleashing_Trustless_Wisdom_from_Beyond_the_Blockchain.svg)](https://dev.to/sahil_4555/ethereums-oracles-unleashing-trustless-wisdom-from-beyond-the-blockchain-4nj6)
+[![Announcing Next.js Starter with App Router support](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Announcing_Next.js_Starter_with_App_Router_support.svg)](https://dev.to/medusajs/announcing-nextjs-starter-with-app-router-support-39o3)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, July 13, 2023 at 12:12:39 AM
+> Last updated: Thursday, July 13, 2023 at 6:18:38 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, July 13, 2023 at 12:12:43 AM
+> Last updated: Thursday, July 13, 2023 at 6:18:41 AM
 
 > Showing 5 of 30 posts.
 
