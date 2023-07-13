@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, July 13, 2023 at 6:18:34 AM
+> Last updated: Thursday, July 13, 2023 at 12:11:44 PM
 
 > Showing 5 of 12 posts.
 
-[![GraphQL - ReactJS Fetch Data](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/GraphQL_-_ReactJS_Fetch_Data.svg)](https://dev.to/shubhamtiwari909/graphql-reactjs-fetch-data-19g6)
-[![Invoking OpenAI's ChatGPT from 6 different programming languages](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Invoking_OpenAI's_ChatGPT_from_6_different_programming_languages.svg)](https://dev.to/polterguy/invoking-openais-chatgpt-from-6-different-programming-languages-191f)
-[![How to Optimize Your Magento Store for Better Performance](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Optimize_Your_Magento_Store_for_Better_Performance.svg)](https://dev.to/samuleduke/how-to-optimize-your-magento-store-for-better-performance-1f68)
-[![Ethereum's Oracles: Unleashing Trustless Wisdom from Beyond the Blockchain](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ethereum's_Oracles__Unleashing_Trustless_Wisdom_from_Beyond_the_Blockchain.svg)](https://dev.to/sahil_4555/ethereums-oracles-unleashing-trustless-wisdom-from-beyond-the-blockchain-4nj6)
-[![Announcing Next.js Starter with App Router support](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Announcing_Next.js_Starter_with_App_Router_support.svg)](https://dev.to/medusajs/announcing-nextjs-starter-with-app-router-support-39o3)
+[!["The Best Programming Languages" to Learn in "2023"](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_The_Best_Programming_Languages__to_Learn_in__2023_.svg)](https://dev.to/soumyadeepdey/the-best-programming-languages-to-learn-in-2023-2n5l)
+[![Adding Daily Developer Joke to GitHub README](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Adding_Daily_Developer_Joke_to_GitHub_README.svg)](https://dev.to/vulcanwm/adding-daily-developer-joke-to-github-readme-ap9)
+[![Dockerizing Your Node.js Application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dockerizing_Your_Node.js_Application.svg)](https://dev.to/aagamezl/dockerizing-your-nodejs-application-2p02)
+[![Sloan's Inbox: What's it take to go from 0 dev skills to successful game developer?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Sloan's_Inbox__What's_it_take_to_go_from_0_dev_skills_to_successful_game_developer_.svg)](https://dev.to/devteam/sloans-inbox-whats-it-take-to-go-from-0-dev-skills-to-successful-game-developer-60h)
+[![O Objetivo é a Mochila](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/O_Objetivo_é_a_Mochila.svg)](https://dev.to/pedronandi/o-objetivo-e-a-mochila-4a7i)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, July 13, 2023 at 6:18:38 AM
+> Last updated: Thursday, July 13, 2023 at 12:11:49 PM
 
 > Showing 4 of 4 posts.
 
+[![htmx in 100 seconds](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/htmx_in_100_seconds.svg)](https://javascriptweekly.com/issues/647)
 [![CommonJS, we love you, we love you not..](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/CommonJS__we_love_you__we_love_you_not...svg)](https://javascriptweekly.com/issues/646)
 [![This is a doozy of an issue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/This_is_a_doozy_of_an_issue.svg)](https://javascriptweekly.com/issues/645)
 [![Svelte 4 released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Svelte_4_released.svg)](https://javascriptweekly.com/issues/644)
-[![11 years of JavaScript on top](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/11_years_of_JavaScript_on_top.svg)](https://javascriptweekly.com/issues/643)
 
 
 ## Echo JS
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, July 13, 2023 at 6:18:41 AM
+> Last updated: Thursday, July 13, 2023 at 12:11:53 PM
 
 > Showing 5 of 30 posts.
 
