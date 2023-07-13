@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, July 12, 2023 at 12:11:36 PM
+> Last updated: Wednesday, July 12, 2023 at 6:57:57 PM
 
 > Showing 5 of 12 posts.
 
-[![Air Quality App with Enhance](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Air_Quality_App_with_Enhance.svg)](https://dev.to/begin/air-quality-app-with-enhance-1c8d)
-[![API’s role in digital government: 10 national best practices](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/API’s_role_in_digital_government__10_national_best_practices.svg)](https://dev.to/apisix/apis-role-in-digital-government-10-national-best-practices-1plf)
-[![How to Install pnpm with npm on Windows 11](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Install_pnpm_with_npm_on_Windows_11.svg)](https://dev.to/adiatiayu/how-to-install-pnpm-with-npm-on-windows-11-5gbn)
-[![Différentes façons de déployer une application front faites en JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Différentes_façons_de_déployer_une_application_front_faites_en_JS.svg)](https://dev.to/singebob/differentes-facons-de-deployer-une-application-front-faites-en-js-13of)
-[![Best headless CMS platforms for Astro](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_headless_CMS_platforms_for_Astro.svg)](https://dev.to/logrocket/best-headless-cms-platforms-for-astro-75a)
+[![tsParticles 2.11.0 Released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/tsParticles_2.11.0_Released.svg)](https://dev.to/tsparticles/tsparticles-2110-released-3mhj)
+[![Api Docs v2.0-beta prototype for NestJS 😻 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Api_Docs_v2.0-beta_prototype_for_NestJS_😻_🚀.svg)](https://dev.to/tony133/api-docs-v20-beta-prototype-for-nestjs-3jdj)
+[![Calculating the Average Execution Price of MARKET Orders on the Binance API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Calculating_the_Average_Execution_Price_of_MARKET_Orders_on_the_Binance_API.svg)](https://dev.to/oler/calculating-the-average-execution-price-of-market-orders-on-the-binance-api-36f8)
+[![Calculando o preço médio de execução de ordens MARKET na Binance API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Calculando_o_preço_médio_de_execução_de_ordens_MARKET_na_Binance_API.svg)](https://dev.to/oler/calculando-o-preco-medio-de-execucao-de-ordens-market-na-binance-api-3c39)
+[![How to use mongoDB change streams as a powerful event-driven engine](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_mongoDB_change_streams_as_a_powerful_event-driven_engine.svg)](https://dev.to/woovi/how-to-use-mongodb-change-streams-as-a-powerful-event-driven-engine-4d9c)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, July 12, 2023 at 12:11:39 PM
+> Last updated: Wednesday, July 12, 2023 at 6:58:00 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,13 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, July 12, 2023 at 12:11:46 PM
+> Last updated: Wednesday, July 12, 2023 at 6:58:02 PM
 
 > Showing 5 of 30 posts.
 
+[![How To Fix ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_To_Fix_.svg)](
+https://masteringjs.io/tutorials/node/__dirname-is-not-defined
+)
 [![GitHub - sumn2u/learn-javascript: A book that teaches JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_sumn2u_learn-javascript__A_book_that_teaches_JavaScript.svg)](https://github.com/sumn2u/learn-javascript)
 [![
 Useful functions for a Deno HTTP server
@@ -55,7 +58,6 @@ https://jollytoad.deno.dev/blog/http_fns
 )
 [![Building a Design System with React Web Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_a_Design_System_with_React_Web_Components.svg)](https://www.voorhoede.nl/en/blog/building-design-system-react-web-components/)
 [![GitHub - muke1908/chat-e2ee: End-to-end encrypted disposable chat sessions, exchange sensitive information with peer safely and securely.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_muke1908_chat-e2ee__End-to-end_encrypted_disposable_chat_sessions__exchange_sensitive_information_with_peer_safely_and_securely..svg)](https://github.com/muke1908/chat-e2ee)
-[![API with NestJS #116. REST API versioning](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__116._REST_API_versioning.svg)](https://wanago.io/2023/07/10/api-nestjs-rest-versioning/)
 
 
 <!-- post-list:end -->
