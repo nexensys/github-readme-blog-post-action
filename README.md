@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, July 12, 2023 at 6:57:57 PM
+> Last updated: Thursday, July 13, 2023 at 12:12:35 AM
 
 > Showing 5 of 12 posts.
 
-[![tsParticles 2.11.0 Released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/tsParticles_2.11.0_Released.svg)](https://dev.to/tsparticles/tsparticles-2110-released-3mhj)
-[![Api Docs v2.0-beta prototype for NestJS 😻 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Api_Docs_v2.0-beta_prototype_for_NestJS_😻_🚀.svg)](https://dev.to/tony133/api-docs-v20-beta-prototype-for-nestjs-3jdj)
-[![Calculating the Average Execution Price of MARKET Orders on the Binance API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Calculating_the_Average_Execution_Price_of_MARKET_Orders_on_the_Binance_API.svg)](https://dev.to/oler/calculating-the-average-execution-price-of-market-orders-on-the-binance-api-36f8)
-[![Calculando o preço médio de execução de ordens MARKET na Binance API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Calculando_o_preço_médio_de_execução_de_ordens_MARKET_na_Binance_API.svg)](https://dev.to/oler/calculando-o-preco-medio-de-execucao-de-ordens-market-na-binance-api-3c39)
-[![How to use mongoDB change streams as a powerful event-driven engine](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_mongoDB_change_streams_as_a_powerful_event-driven_engine.svg)](https://dev.to/woovi/how-to-use-mongodb-change-streams-as-a-powerful-event-driven-engine-4d9c)
+[![New storage utility methods added to the toolkit-use npm package](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/New_storage_utility_methods_added_to_the_toolkit-use_npm_package.svg)](https://dev.to/toolkituse/new-storage-utility-methods-added-to-the-toolkit-use-npm-package-8ha)
+[![Enhancing Python Code Quality: A Comprehensive Guide to Linting with Ruff](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Enhancing_Python_Code_Quality__A_Comprehensive_Guide_to_Linting_with_Ruff.svg)](https://dev.to/ken_mwaura1/enhancing-python-code-quality-a-comprehensive-guide-to-linting-with-ruff-3d6g)
+[![How to Use Arduino IDE with Raspberry Pi Pico W](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Use_Arduino_IDE_with_Raspberry_Pi_Pico_W.svg)](https://dev.to/shilleh/how-to-use-arduino-ide-with-raspberry-pi-pico-w-5c95)
+[![Let's dive in to Cross-Origin](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Let's_dive_in_to_Cross-Origin.svg)](https://dev.to/gimnathperera/lets-dive-in-to-cross-origin-4bmj)
+[![7 Best Websites Every Developer Should Bookmark in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/7_Best_Websites_Every_Developer_Should_Bookmark_in_2023.svg)](https://dev.to/durgesh4993/7-best-websites-every-developer-should-bookmark-in-2023-31mg)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, July 12, 2023 at 6:58:00 PM
+> Last updated: Thursday, July 13, 2023 at 12:12:39 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, July 12, 2023 at 6:58:02 PM
+> Last updated: Thursday, July 13, 2023 at 12:12:43 AM
 
 > Showing 5 of 30 posts.
 
