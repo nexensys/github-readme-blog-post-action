@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, July 13, 2023 at 12:11:44 PM
+> Last updated: Thursday, July 13, 2023 at 6:57:58 PM
 
 > Showing 5 of 12 posts.
 
-[!["The Best Programming Languages" to Learn in "2023"](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_The_Best_Programming_Languages__to_Learn_in__2023_.svg)](https://dev.to/soumyadeepdey/the-best-programming-languages-to-learn-in-2023-2n5l)
-[![Adding Daily Developer Joke to GitHub README](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Adding_Daily_Developer_Joke_to_GitHub_README.svg)](https://dev.to/vulcanwm/adding-daily-developer-joke-to-github-readme-ap9)
-[![Dockerizing Your Node.js Application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dockerizing_Your_Node.js_Application.svg)](https://dev.to/aagamezl/dockerizing-your-nodejs-application-2p02)
-[![Sloan's Inbox: What's it take to go from 0 dev skills to successful game developer?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Sloan's_Inbox__What's_it_take_to_go_from_0_dev_skills_to_successful_game_developer_.svg)](https://dev.to/devteam/sloans-inbox-whats-it-take-to-go-from-0-dev-skills-to-successful-game-developer-60h)
-[![O Objetivo é a Mochila](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/O_Objetivo_é_a_Mochila.svg)](https://dev.to/pedronandi/o-objetivo-e-a-mochila-4a7i)
+[![toolkit-use npm package have added some functions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/toolkit-use_npm_package_have_added_some_functions.svg)](https://dev.to/toolkituse/toolkit-use-npm-package-have-added-some-functions-5gp6)
+[![Becoming an Exceptional Git Contributor: A Guide to Effective Collaboration](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Becoming_an_Exceptional_Git_Contributor__A_Guide_to_Effective_Collaboration.svg)](https://dev.to/stackcodify/becoming-an-exceptional-git-contributor-a-guide-to-effective-collaboration-465i)
+[![O que é HTTP- Internet 2/5](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/O_que_é_HTTP-_Internet_2_5.svg)](https://dev.to/eduardoopv/o-que-e-http-internet-25-5bd3)
+[![NestJs: DDD implementation - EN](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/NestJs__DDD_implementation_-_EN.svg)](https://dev.to/nilaxann65/nestjs-ddd-implementation-en-278g)
+[![NestJs: Implementación de DDD - ES](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/NestJs__Implementación_de_DDD_-_ES.svg)](https://dev.to/nilaxann65/nestjs-implementacion-de-ddd-es-242k)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, July 13, 2023 at 12:11:49 PM
+> Last updated: Thursday, July 13, 2023 at 6:58:02 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, July 13, 2023 at 12:11:53 PM
+> Last updated: Thursday, July 13, 2023 at 6:58:06 PM
 
 > Showing 5 of 30 posts.
 
