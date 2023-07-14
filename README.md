@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, July 13, 2023 at 6:57:58 PM
+> Last updated: Friday, July 14, 2023 at 12:12:28 AM
 
 > Showing 5 of 12 posts.
 
-[![toolkit-use npm package have added some functions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/toolkit-use_npm_package_have_added_some_functions.svg)](https://dev.to/toolkituse/toolkit-use-npm-package-have-added-some-functions-5gp6)
-[![Becoming an Exceptional Git Contributor: A Guide to Effective Collaboration](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Becoming_an_Exceptional_Git_Contributor__A_Guide_to_Effective_Collaboration.svg)](https://dev.to/stackcodify/becoming-an-exceptional-git-contributor-a-guide-to-effective-collaboration-465i)
-[![O que é HTTP- Internet 2/5](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/O_que_é_HTTP-_Internet_2_5.svg)](https://dev.to/eduardoopv/o-que-e-http-internet-25-5bd3)
-[![NestJs: DDD implementation - EN](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/NestJs__DDD_implementation_-_EN.svg)](https://dev.to/nilaxann65/nestjs-ddd-implementation-en-278g)
-[![NestJs: Implementación de DDD - ES](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/NestJs__Implementación_de_DDD_-_ES.svg)](https://dev.to/nilaxann65/nestjs-implementacion-de-ddd-es-242k)
+[![15 Advanced TypeScript Tips for Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/15_Advanced_TypeScript_Tips_for_Development.svg)](https://dev.to/lakshmananarumugam/15-advanced-typescript-tips-for-development-5ddj)
+[![Command Line Application: Bank Loan Tracker [Node]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Command_Line_Application__Bank_Loan_Tracker_[Node].svg)](https://dev.to/bekbrace/command-line-application-bank-loan-tracker-node-56ni)
+[![Ingesting Data into OpenSearch using Apache Kafka and Go](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ingesting_Data_into_OpenSearch_using_Apache_Kafka_and_Go.svg)](https://dev.to/abhirockzz/ingesting-data-into-opensearch-using-apache-kafka-and-go-4j7f)
+[![A Comprehensive Beginner's Guide to NPM: Simplifying Package Management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Comprehensive_Beginner's_Guide_to_NPM__Simplifying_Package_Management.svg)](https://dev.to/abhixsh/a-comprehensive-beginners-guide-to-npm-simplifying-package-management-57l5)
+[![20 Essential Tips for Beginner Software Engineers to Achieve Success](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/20_Essential_Tips_for_Beginner_Software_Engineers_to_Achieve_Success.svg)](https://dev.to/jvertt/20-essential-tips-for-beginner-software-engineers-to-achieve-success-19ai)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, July 13, 2023 at 6:58:02 PM
+> Last updated: Friday, July 14, 2023 at 12:12:31 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, July 13, 2023 at 6:58:06 PM
+> Last updated: Friday, July 14, 2023 at 12:12:33 AM
 
 > Showing 5 of 30 posts.
 
