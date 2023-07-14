@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, July 14, 2023 at 12:12:28 AM
+> Last updated: Friday, July 14, 2023 at 6:18:12 AM
 
 > Showing 5 of 12 posts.
 
-[![15 Advanced TypeScript Tips for Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/15_Advanced_TypeScript_Tips_for_Development.svg)](https://dev.to/lakshmananarumugam/15-advanced-typescript-tips-for-development-5ddj)
-[![Command Line Application: Bank Loan Tracker [Node]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Command_Line_Application__Bank_Loan_Tracker_[Node].svg)](https://dev.to/bekbrace/command-line-application-bank-loan-tracker-node-56ni)
-[![Ingesting Data into OpenSearch using Apache Kafka and Go](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ingesting_Data_into_OpenSearch_using_Apache_Kafka_and_Go.svg)](https://dev.to/abhirockzz/ingesting-data-into-opensearch-using-apache-kafka-and-go-4j7f)
-[![A Comprehensive Beginner's Guide to NPM: Simplifying Package Management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Comprehensive_Beginner's_Guide_to_NPM__Simplifying_Package_Management.svg)](https://dev.to/abhixsh/a-comprehensive-beginners-guide-to-npm-simplifying-package-management-57l5)
-[![20 Essential Tips for Beginner Software Engineers to Achieve Success](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/20_Essential_Tips_for_Beginner_Software_Engineers_to_Achieve_Success.svg)](https://dev.to/jvertt/20-essential-tips-for-beginner-software-engineers-to-achieve-success-19ai)
+[![HTML IS JUST LIKE WRITING A WORD DOCUMENT](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/HTML_IS_JUST_LIKE_WRITING_A_WORD_DOCUMENT.svg)](https://dev.to/csituma/html-is-just-like-writing-a-word-document-2m46)
+[![Mobile Development Best Practices: Strategies for Building Successful Apps for Android and iOS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mobile_Development_Best_Practices__Strategies_for_Building_Successful_Apps_for_Android_and_iOS.svg)](https://dev.to/chkon/mobile-development-best-practices-strategies-for-building-successful-apps-for-android-and-ios-bgc)
+[![Understanding Streaming Replication in PostgreSQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_Streaming_Replication_in_PostgreSQL.svg)](https://dev.to/hassanrehan/understanding-streaming-replication-in-postgresql-7jm)
+[![The Future Unleashed: Fully On-Chain Gaming and Its Implications for the Gaming Industry](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Future_Unleashed__Fully_On-Chain_Gaming_and_Its_Implications_for_the_Gaming_Industry.svg)](https://dev.to/galaxiastudios/the-future-unleashed-fully-on-chain-gaming-and-its-implications-for-the-gaming-industry-1no0)
+[![Miço Eklentisi - "mico" ile Başlayan Makineleri Dinamik Koleksiyona Ekleme](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Miço_Eklentisi_-__mico__ile_Başlayan_Makineleri_Dinamik_Koleksiyona_Ekleme.svg)](https://dev.to/aciklab/mico-eklentisi-mico-ile-baslayan-makineleri-dinamik-koleksiyona-ekleme-3dla)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, July 14, 2023 at 12:12:31 AM
+> Last updated: Friday, July 14, 2023 at 6:18:16 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, July 14, 2023 at 12:12:33 AM
+> Last updated: Friday, July 14, 2023 at 6:18:19 AM
 
 > Showing 5 of 30 posts.
 
+[![List of Best Automation Consulting Companies | Taste The Automation With Us](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/List_of_Best_Automation_Consulting_Companies___Taste_The_Automation_With_Us.svg)](https://www.automationqa.co)
 [![How To Fix ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_To_Fix_.svg)](
 https://masteringjs.io/tutorials/node/__dirname-is-not-defined
 )
@@ -57,7 +58,6 @@ Useful functions for a Deno HTTP server
 https://jollytoad.deno.dev/blog/http_fns
 )
 [![Building a Design System with React Web Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_a_Design_System_with_React_Web_Components.svg)](https://www.voorhoede.nl/en/blog/building-design-system-react-web-components/)
-[![GitHub - muke1908/chat-e2ee: End-to-end encrypted disposable chat sessions, exchange sensitive information with peer safely and securely.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_muke1908_chat-e2ee__End-to-end_encrypted_disposable_chat_sessions__exchange_sensitive_information_with_peer_safely_and_securely..svg)](https://github.com/muke1908/chat-e2ee)
 
 
 <!-- post-list:end -->
