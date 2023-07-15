@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, July 15, 2023 at 6:16:04 AM
+> Last updated: Saturday, July 15, 2023 at 12:10:49 PM
 
 > Showing 5 of 12 posts.
 
-[![Mastering JavaScript Interviews: Top Programming Interview Questions You Should Know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_JavaScript_Interviews__Top_Programming_Interview_Questions_You_Should_Know.svg)](https://dev.to/abidullah786/mastering-javascript-interviews-top-programming-interview-questions-you-should-know-433e)
-[![How to develop a Wox Plugin using Python?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_develop_a_Wox_Plugin_using_Python_.svg)](https://dev.to/atkumar/how-to-develop-a-wox-plugin-using-python-1omc)
-[![GetBlock Service Update for Q2 2023: Improved Notifications, Streamlined Payments, and Account Enhancements](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/GetBlock_Service_Update_for_Q2_2023__Improved_Notifications__Streamlined_Payments__and_Account_Enhancements.svg)](https://dev.to/getblockapi/getblock-service-update-for-q2-2023-improved-notifications-streamlined-payments-and-account-enhancements-4eh7)
-[![What is Session ? Session in JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_Session___Session_in_JS.svg)](https://dev.to/diwakarkashyap/what-is-session-session-in-js-4pg1)
-[![OpenSource impact on Economy. The truth beyond GDA.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/OpenSource_impact_on_Economy._The_truth_beyond_GDA..svg)](https://dev.to/nikitakoselev/opensource-impact-on-economy-the-truth-beyond-gda-1okg)
+[![Multi stage builds in OCI images](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Multi_stage_builds_in_OCI_images.svg)](https://dev.to/heymde/multi-stage-builds-in-oci-images-478k)
+[![The origin of App Router - A Next.Js Rewind](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_origin_of_App_Router_-_A_Next.Js_Rewind.svg)](https://dev.to/sigcoding/the-origin-of-app-router-a-nextjs-rewind-564m)
+[![DEV Showcase v8](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/DEV_Showcase_v8.svg)](https://dev.to/codenewbieteam/dev-showcase-v8-19og)
+[![Credit Card Fraud Detection With Autoencoders](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Credit_Card_Fraud_Detection_With_Autoencoders.svg)](https://dev.to/anmorgan2414/credit-card-fraud-detection-with-autoencoders-448o)
+[![Destructuring and Spread Operators: Why and When to Use?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Destructuring_and_Spread_Operators__Why_and_When_to_Use_.svg)](https://dev.to/ashwani3011/destructuring-and-spread-operators-why-and-when-to-use-2h4g)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, July 15, 2023 at 6:16:08 AM
+> Last updated: Saturday, July 15, 2023 at 12:10:52 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, July 15, 2023 at 6:16:13 AM
+> Last updated: Saturday, July 15, 2023 at 12:10:56 PM
 
 > Showing 5 of 30 posts.
 
