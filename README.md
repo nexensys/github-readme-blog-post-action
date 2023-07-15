@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, July 14, 2023 at 6:18:12 AM
+> Last updated: Friday, July 14, 2023 at 6:56:31 PM
 
 > Showing 5 of 12 posts.
 
-[![HTML IS JUST LIKE WRITING A WORD DOCUMENT](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/HTML_IS_JUST_LIKE_WRITING_A_WORD_DOCUMENT.svg)](https://dev.to/csituma/html-is-just-like-writing-a-word-document-2m46)
-[![Mobile Development Best Practices: Strategies for Building Successful Apps for Android and iOS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mobile_Development_Best_Practices__Strategies_for_Building_Successful_Apps_for_Android_and_iOS.svg)](https://dev.to/chkon/mobile-development-best-practices-strategies-for-building-successful-apps-for-android-and-ios-bgc)
-[![Understanding Streaming Replication in PostgreSQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_Streaming_Replication_in_PostgreSQL.svg)](https://dev.to/hassanrehan/understanding-streaming-replication-in-postgresql-7jm)
-[![The Future Unleashed: Fully On-Chain Gaming and Its Implications for the Gaming Industry](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Future_Unleashed__Fully_On-Chain_Gaming_and_Its_Implications_for_the_Gaming_Industry.svg)](https://dev.to/galaxiastudios/the-future-unleashed-fully-on-chain-gaming-and-its-implications-for-the-gaming-industry-1no0)
-[![Miço Eklentisi - "mico" ile Başlayan Makineleri Dinamik Koleksiyona Ekleme](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Miço_Eklentisi_-__mico__ile_Başlayan_Makineleri_Dinamik_Koleksiyona_Ekleme.svg)](https://dev.to/aciklab/mico-eklentisi-mico-ile-baslayan-makineleri-dinamik-koleksiyona-ekleme-3dla)
+[![Uncharted Depths: The Mysterious Demise of the Titan Submersible](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Uncharted_Depths__The_Mysterious_Demise_of_the_Titan_Submersible.svg)](https://dev.to/samy/uncharted-depths-the-mysterious-demise-of-the-titan-submersible-47md)
+[![Reimagining DORA Metrics & Leveraging Feature Flags with Split](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Reimagining_DORA_Metrics___Leveraging_Feature_Flags_with_Split.svg)](https://dev.to/linearb/reimagining-dora-metrics-leveraging-feature-flags-with-split-2o89)
+[![From Paper to AWS: Documenting my Cloud Resume Challenge journey](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/From_Paper_to_AWS__Documenting_my_Cloud_Resume_Challenge_journey.svg)](https://dev.to/brandondamue/from-paper-to-aws-documenting-my-cloud-resume-challenge-journey-4l9g)
+[![Test-Driven Development (TDD) with React/Nextjs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Test-Driven_Development_(TDD)_with_React_Nextjs.svg)](https://dev.to/axsh/test-driven-development-tdd-with-reactnextjs-pb9)
+[![Matching simply](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Matching_simply.svg)](https://dev.to/tobyink/matching-simply-2c8k)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, July 14, 2023 at 6:18:16 AM
+> Last updated: Friday, July 14, 2023 at 6:56:34 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,21 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, July 14, 2023 at 6:18:19 AM
+> Last updated: Friday, July 14, 2023 at 6:56:37 PM
 
 > Showing 5 of 30 posts.
 
+[![From npm to yarn to pnpm - the why, what and how | bitExpert](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/From_npm_to_yarn_to_pnpm_-_the_why__what_and_how___bitExpert.svg)](https://blog.bitexpert.de/blog/from-npm-to-yarn-to-pnpm)
+[![Alon Valadji @ ReactNext '23 | React new Era, AKA Here we go Server Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Alon_Valadji_@_ReactNext_'23___React_new_Era__AKA_Here_we_go_Server_Components.svg)](https://www.youtube.com/watch?v=FiM0NJLVJoY)
 [![List of Best Automation Consulting Companies | Taste The Automation With Us](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/List_of_Best_Automation_Consulting_Companies___Taste_The_Automation_With_Us.svg)](https://www.automationqa.co)
 [![How To Fix ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_To_Fix_.svg)](
 https://masteringjs.io/tutorials/node/__dirname-is-not-defined
 )
 [![GitHub - sumn2u/learn-javascript: A book that teaches JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_sumn2u_learn-javascript__A_book_that_teaches_JavaScript.svg)](https://github.com/sumn2u/learn-javascript)
-[![
-Useful functions for a Deno HTTP server
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Useful_functions_for_a_Deno_HTTP_server_.svg)](
-https://jollytoad.deno.dev/blog/http_fns
-)
-[![Building a Design System with React Web Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_a_Design_System_with_React_Web_Components.svg)](https://www.voorhoede.nl/en/blog/building-design-system-react-web-components/)
 
 
 <!-- post-list:end -->
