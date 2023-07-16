@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, July 15, 2023 at 12:10:49 PM
+> Last updated: Saturday, July 15, 2023 at 7:03:02 PM
 
 > Showing 5 of 12 posts.
 
-[![Multi stage builds in OCI images](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Multi_stage_builds_in_OCI_images.svg)](https://dev.to/heymde/multi-stage-builds-in-oci-images-478k)
-[![The origin of App Router - A Next.Js Rewind](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_origin_of_App_Router_-_A_Next.Js_Rewind.svg)](https://dev.to/sigcoding/the-origin-of-app-router-a-nextjs-rewind-564m)
-[![DEV Showcase v8](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/DEV_Showcase_v8.svg)](https://dev.to/codenewbieteam/dev-showcase-v8-19og)
-[![Credit Card Fraud Detection With Autoencoders](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Credit_Card_Fraud_Detection_With_Autoencoders.svg)](https://dev.to/anmorgan2414/credit-card-fraud-detection-with-autoencoders-448o)
-[![Destructuring and Spread Operators: Why and When to Use?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Destructuring_and_Spread_Operators__Why_and_When_to_Use_.svg)](https://dev.to/ashwani3011/destructuring-and-spread-operators-why-and-when-to-use-2h4g)
+[![Building a Progressive Web App with React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_Progressive_Web_App_with_React.svg)](https://dev.to/elliot_brenya/building-a-progressive-web-app-with-react-ifd)
+[![Exploring the AWS CI/CD Landscape: A Comprehensive Overview of Tools and Services](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exploring_the_AWS_CI_CD_Landscape__A_Comprehensive_Overview_of_Tools_and_Services.svg)](https://dev.to/brandondamue/exploring-the-aws-cicd-landscape-a-comprehensive-overview-of-tools-and-services-57mn)
+[![60+ No-Code Automation Tools To Spark Your Curiosity](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/60+_No-Code_Automation_Tools_To_Spark_Your_Curiosity.svg)](https://dev.to/ajtatumdigital/60-no-code-automation-tools-to-spark-your-curiosity-219b)
+[![Demystifying Array Methods](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Demystifying_Array_Methods.svg)](https://dev.to/noriller/demystifying-array-methods-2bml)
+[![A Comprehensive Guide to Writing NFC Tags Using Unique Keys](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Comprehensive_Guide_to_Writing_NFC_Tags_Using_Unique_Keys.svg)](https://dev.to/kasirocswell/a-comprehensive-guide-to-writing-nfc-tags-using-unique-keys-olm)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, July 15, 2023 at 12:10:52 PM
+> Last updated: Saturday, July 15, 2023 at 7:03:05 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, July 15, 2023 at 12:10:56 PM
+> Last updated: Saturday, July 15, 2023 at 7:03:08 PM
 
 > Showing 5 of 30 posts.
 
