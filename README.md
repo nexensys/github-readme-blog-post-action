@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, July 16, 2023 at 6:16:11 AM
+> Last updated: Sunday, July 16, 2023 at 12:10:26 PM
 
 > Showing 5 of 12 posts.
 
-[![Leading RPC Node Provider GetBlock attends the Ethereum Community Conference (EthCC) 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Leading_RPC_Node_Provider_GetBlock_attends_the_Ethereum_Community_Conference_(EthCC)_2023.svg)](https://dev.to/getblockapi/leading-rpc-node-provider-getblock-attends-the-ethereum-community-conference-ethcc-2023-m6h)
-[![How to Handle Dynamic Form fields in Reactive forms in Angular](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Handle_Dynamic_Form_fields_in_Reactive_forms_in_Angular.svg)](https://dev.to/mana95/how-to-handle-dynamic-form-fields-in-reactive-forms-in-angular-3c0f)
-[![Git and GitHub for Beginners - The Basics](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Git_and_GitHub_for_Beginners_-_The_Basics.svg)](https://dev.to/devshetty/git-and-github-for-beginners-the-basics-d3n)
-[![Greek Argumentation: The Ancient Art Applied to Modern Software Testing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Greek_Argumentation__The_Ancient_Art_Applied_to_Modern_Software_Testing.svg)](https://dev.to/petermilovcik/greek-argumentation-the-ancient-art-applied-to-modern-software-testing-36aj)
-[![Trailblazing Language or Legendary Software?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Trailblazing_Language_or_Legendary_Software_.svg)](https://dev.to/devteam/trailblazing-language-or-legendary-software-1lf2)
+[![Tapshare : Making file/code sharing simple and easy](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tapshare___Making_file_code_sharing_simple_and_easy.svg)](https://dev.to/maheshbasnet089/tapshare-making-filecode-sharing-simple-and-easy-23f0)
+[![VSCode Profiles: Optimize Your Coding Environment](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/VSCode_Profiles__Optimize_Your_Coding_Environment.svg)](https://dev.to/joshuamyers/vscode-profiles-optimize-your-coding-environment-m2a)
+[![Configure "Point to Site VPN" connection Step by Step: Azure portal - Azure VPN Gateway](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Configure__Point_to_Site_VPN__connection_Step_by_Step__Azure_portal_-_Azure_VPN_Gateway.svg)](https://dev.to/payelsingha/configure-point-to-site-vpn-connection-step-by-step-azure-portal-azure-vpn-gateway-23b7)
+[![What is Event in JS (Javascript) ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_Event_in_JS_(Javascript)__.svg)](https://dev.to/diwakarkashyap/what-is-event-in-js-javascript--3302)
+[![Is ChatGPT Secretly Decreasing Potential of Developers? 💻🤖](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Is_ChatGPT_Secretly_Decreasing_Potential_of_Developers__💻🤖.svg)](https://dev.to/akashpattnaik/is-chatgpt-secretly-decreasing-potential-of-developers-6ib)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, July 16, 2023 at 6:16:14 AM
+> Last updated: Sunday, July 16, 2023 at 12:10:29 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, July 16, 2023 at 6:16:19 AM
+> Last updated: Sunday, July 16, 2023 at 12:10:34 PM
 
 > Showing 5 of 30 posts.
 
