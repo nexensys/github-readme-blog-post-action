@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, July 15, 2023 at 7:03:02 PM
+> Last updated: Sunday, July 16, 2023 at 12:11:39 AM
 
 > Showing 5 of 12 posts.
 
+[![Building Trust in a Trustless World: Decentralized Applications Unveiled](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_Trust_in_a_Trustless_World__Decentralized_Applications_Unveiled.svg)](https://dev.to/sahil_4555/building-trust-in-a-trustless-world-decentralized-applications-unveiled-52nk)
+[![How to merge Tailwind class in Elixir Phoenix](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_merge_Tailwind_class_in_Elixir_Phoenix.svg)](https://dev.to/bluzky/how-to-merge-tailwind-class-in-elixir-phoenix-2nkp)
+[![RSVQuick: Online Invitation App Made Using Refine](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/RSVQuick__Online_Invitation_App_Made_Using_Refine.svg)](https://dev.to/ansellmaximilian/rsvquick-online-invitation-app-made-using-refine-148e)
+[![Make JSON file validator in just 5 lines 👀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Make_JSON_file_validator_in_just_5_lines_👀.svg)](https://dev.to/noble7/a-json-file-validator-web-app-in-just-5-lines-4lk7)
 [![Building a Progressive Web App with React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_Progressive_Web_App_with_React.svg)](https://dev.to/elliot_brenya/building-a-progressive-web-app-with-react-ifd)
-[![Exploring the AWS CI/CD Landscape: A Comprehensive Overview of Tools and Services](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exploring_the_AWS_CI_CD_Landscape__A_Comprehensive_Overview_of_Tools_and_Services.svg)](https://dev.to/brandondamue/exploring-the-aws-cicd-landscape-a-comprehensive-overview-of-tools-and-services-57mn)
-[![60+ No-Code Automation Tools To Spark Your Curiosity](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/60+_No-Code_Automation_Tools_To_Spark_Your_Curiosity.svg)](https://dev.to/ajtatumdigital/60-no-code-automation-tools-to-spark-your-curiosity-219b)
-[![Demystifying Array Methods](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Demystifying_Array_Methods.svg)](https://dev.to/noriller/demystifying-array-methods-2bml)
-[![A Comprehensive Guide to Writing NFC Tags Using Unique Keys](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Comprehensive_Guide_to_Writing_NFC_Tags_Using_Unique_Keys.svg)](https://dev.to/kasirocswell/a-comprehensive-guide-to-writing-nfc-tags-using-unique-keys-olm)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, July 15, 2023 at 7:03:05 PM
+> Last updated: Sunday, July 16, 2023 at 12:11:43 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, July 15, 2023 at 7:03:08 PM
+> Last updated: Sunday, July 16, 2023 at 12:11:48 AM
 
 > Showing 5 of 30 posts.
 
