@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, July 16, 2023 at 12:11:39 AM
+> Last updated: Sunday, July 16, 2023 at 6:16:11 AM
 
 > Showing 5 of 12 posts.
 
-[![Building Trust in a Trustless World: Decentralized Applications Unveiled](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_Trust_in_a_Trustless_World__Decentralized_Applications_Unveiled.svg)](https://dev.to/sahil_4555/building-trust-in-a-trustless-world-decentralized-applications-unveiled-52nk)
-[![How to merge Tailwind class in Elixir Phoenix](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_merge_Tailwind_class_in_Elixir_Phoenix.svg)](https://dev.to/bluzky/how-to-merge-tailwind-class-in-elixir-phoenix-2nkp)
-[![RSVQuick: Online Invitation App Made Using Refine](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/RSVQuick__Online_Invitation_App_Made_Using_Refine.svg)](https://dev.to/ansellmaximilian/rsvquick-online-invitation-app-made-using-refine-148e)
-[![Make JSON file validator in just 5 lines 👀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Make_JSON_file_validator_in_just_5_lines_👀.svg)](https://dev.to/noble7/a-json-file-validator-web-app-in-just-5-lines-4lk7)
-[![Building a Progressive Web App with React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_Progressive_Web_App_with_React.svg)](https://dev.to/elliot_brenya/building-a-progressive-web-app-with-react-ifd)
+[![Leading RPC Node Provider GetBlock attends the Ethereum Community Conference (EthCC) 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Leading_RPC_Node_Provider_GetBlock_attends_the_Ethereum_Community_Conference_(EthCC)_2023.svg)](https://dev.to/getblockapi/leading-rpc-node-provider-getblock-attends-the-ethereum-community-conference-ethcc-2023-m6h)
+[![How to Handle Dynamic Form fields in Reactive forms in Angular](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Handle_Dynamic_Form_fields_in_Reactive_forms_in_Angular.svg)](https://dev.to/mana95/how-to-handle-dynamic-form-fields-in-reactive-forms-in-angular-3c0f)
+[![Git and GitHub for Beginners - The Basics](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Git_and_GitHub_for_Beginners_-_The_Basics.svg)](https://dev.to/devshetty/git-and-github-for-beginners-the-basics-d3n)
+[![Greek Argumentation: The Ancient Art Applied to Modern Software Testing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Greek_Argumentation__The_Ancient_Art_Applied_to_Modern_Software_Testing.svg)](https://dev.to/petermilovcik/greek-argumentation-the-ancient-art-applied-to-modern-software-testing-36aj)
+[![Trailblazing Language or Legendary Software?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Trailblazing_Language_or_Legendary_Software_.svg)](https://dev.to/devteam/trailblazing-language-or-legendary-software-1lf2)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, July 16, 2023 at 12:11:43 AM
+> Last updated: Sunday, July 16, 2023 at 6:16:14 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, July 16, 2023 at 12:11:48 AM
+> Last updated: Sunday, July 16, 2023 at 6:16:19 AM
 
 > Showing 5 of 30 posts.
 
