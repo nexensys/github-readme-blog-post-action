@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, July 17, 2023 at 6:19:56 AM
+> Last updated: Monday, July 17, 2023 at 12:11:48 PM
 
 > Showing 5 of 12 posts.
 
-[![ASP.NET Core in .NET 8 continues to Reveal New Features! Too many features released?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/ASP.NET_Core_in_.NET_8_continues_to_Reveal_New_Features!_Too_many_features_released_.svg)](https://dev.to/bytehide/aspnet-core-in-net-8-continues-to-reveal-new-features-too-many-features-released-4cgm)
-[![🍽️ Enhanicing a Restaurant with Microservices Architecture! 🍽️](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🍽️_Enhanicing_a_Restaurant_with_Microservices_Architecture!_🍽️.svg)](https://dev.to/safvan_8/enhanicing-a-restaurant-with-microservices-architecture-2df9)
-[![A message from an Impostor](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_message_from_an_Impostor.svg)](https://dev.to/this-is-learning/a-message-from-an-impostor-231)
-[![CSS: The Good Parts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CSS__The_Good_Parts.svg)](https://dev.to/builderio/css-the-good-parts-5eoo)
-[![RLS of Supabase(PostgreSQL) Is Good, But …🤔](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/RLS_of_Supabase(PostgreSQL)_Is_Good__But_…🤔.svg)](https://dev.to/zenstack/rls-of-supabasepostgresql-is-good-but--1394)
+[![The Power of Git: A Guide to Collaborative Version Control](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Power_of_Git__A_Guide_to_Collaborative_Version_Control.svg)](https://dev.to/opensauced/the-power-of-git-a-guide-to-collaborative-version-control-dl6)
+[![How to use loops in dart programming language.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_loops_in_dart_programming_language..svg)](https://dev.to/rashtech/how-to-use-loops-in-dart-programming-language-407g)
+[![How to use mergeMap and forkJoin to handle multiple API requests in Angular 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_mergeMap_and_forkJoin_to_handle_multiple_API_requests_in_Angular_🚀.svg)](https://dev.to/mana95/how-to-use-mergemap-and-forkjoin-to-handle-multiple-api-requests-in-angular-412p)
+[![Beginner's Journey into React's Context API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Beginner's_Journey_into_React's_Context_API.svg)](https://dev.to/mr_emma/beginners-journey-into-reacts-context-api-35h9)
+[![The web has been waiting for HTMX](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_web_has_been_waiting_for_HTMX.svg)](https://dev.to/bl42/the-web-has-been-waiting-for-htmx-aim)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, July 17, 2023 at 6:19:59 AM
+> Last updated: Monday, July 17, 2023 at 12:11:52 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,20 +43,20 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, July 17, 2023 at 6:20:03 AM
+> Last updated: Monday, July 17, 2023 at 12:11:57 PM
 
 > Showing 5 of 30 posts.
 
-[![
-Unveil the Secrets of the Latest Games - Tips, Trophies, and Thrilling Game Insights!
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Unveil_the_Secrets_of_the_Latest_Games_-_Tips__Trophies__and_Thrilling_Game_Insights!_.svg)](
-https://playstationcouch.com
-)
 [![From npm to yarn to pnpm - the why, what and how | bitExpert](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/From_npm_to_yarn_to_pnpm_-_the_why__what_and_how___bitExpert.svg)](https://blog.bitexpert.de/blog/from-npm-to-yarn-to-pnpm)
 [![Alon Valadji @ ReactNext '23 | React new Era, AKA Here we go Server Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Alon_Valadji_@_ReactNext_'23___React_new_Era__AKA_Here_we_go_Server_Components.svg)](https://www.youtube.com/watch?v=FiM0NJLVJoY)
-[![List of Best Automation Consulting Companies | Taste The Automation With Us](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/List_of_Best_Automation_Consulting_Companies___Taste_The_Automation_With_Us.svg)](https://www.automationqa.co)
 [![How To Fix ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_To_Fix_.svg)](
 https://masteringjs.io/tutorials/node/__dirname-is-not-defined
+)
+[![GitHub - sumn2u/learn-javascript: A book that teaches JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_sumn2u_learn-javascript__A_book_that_teaches_JavaScript.svg)](https://github.com/sumn2u/learn-javascript)
+[![
+Useful functions for a Deno HTTP server
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Useful_functions_for_a_Deno_HTTP_server_.svg)](
+https://jollytoad.deno.dev/blog/http_fns
 )
 
 
