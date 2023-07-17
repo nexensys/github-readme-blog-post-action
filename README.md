@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, July 16, 2023 at 12:10:26 PM
+> Last updated: Sunday, July 16, 2023 at 6:58:55 PM
 
 > Showing 5 of 12 posts.
 
-[![Tapshare : Making file/code sharing simple and easy](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tapshare___Making_file_code_sharing_simple_and_easy.svg)](https://dev.to/maheshbasnet089/tapshare-making-filecode-sharing-simple-and-easy-23f0)
-[![VSCode Profiles: Optimize Your Coding Environment](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/VSCode_Profiles__Optimize_Your_Coding_Environment.svg)](https://dev.to/joshuamyers/vscode-profiles-optimize-your-coding-environment-m2a)
-[![Configure "Point to Site VPN" connection Step by Step: Azure portal - Azure VPN Gateway](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Configure__Point_to_Site_VPN__connection_Step_by_Step__Azure_portal_-_Azure_VPN_Gateway.svg)](https://dev.to/payelsingha/configure-point-to-site-vpn-connection-step-by-step-azure-portal-azure-vpn-gateway-23b7)
-[![What is Event in JS (Javascript) ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_Event_in_JS_(Javascript)__.svg)](https://dev.to/diwakarkashyap/what-is-event-in-js-javascript--3302)
-[![Is ChatGPT Secretly Decreasing Potential of Developers? 💻🤖](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Is_ChatGPT_Secretly_Decreasing_Potential_of_Developers__💻🤖.svg)](https://dev.to/akashpattnaik/is-chatgpt-secretly-decreasing-potential-of-developers-6ib)
+[![The Art of Clean Code: Mastering the Betty Style 🧑🏾‍💻](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Art_of_Clean_Code__Mastering_the_Betty_Style_🧑🏾‍💻.svg)](https://dev.to/angelotheman/the-art-of-clean-code-mastering-the-betty-style-30mo)
+[![Configurando Neovim para Java](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Configurando_Neovim_para_Java.svg)](https://dev.to/eronalves1996/configurando-neovim-para-java-7c4)
+[![Get Geolocation By IP Address API In 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Get_Geolocation_By_IP_Address_API_In_2023.svg)](https://dev.to/gabriela_avi/get-geolocation-by-ip-address-api-in-2023-1e0g)
+[![Building Serverless Applications with AWS – Compute](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_Serverless_Applications_with_AWS_–_Compute.svg)](https://dev.to/aws-builders/building-serverless-applications-with-aws-compute-2704)
+[![Two Weeks of Coding](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Two_Weeks_of_Coding.svg)](https://dev.to/hetarth02/two-weeks-of-coding-4ijm)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, July 16, 2023 at 12:10:29 PM
+> Last updated: Sunday, July 16, 2023 at 6:58:57 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,21 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, July 16, 2023 at 12:10:34 PM
+> Last updated: Sunday, July 16, 2023 at 6:58:59 PM
 
 > Showing 5 of 30 posts.
 
+[![
+Unveil the Secrets of the Latest Games - Tips, Trophies, and Thrilling Game Insights!
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Unveil_the_Secrets_of_the_Latest_Games_-_Tips__Trophies__and_Thrilling_Game_Insights!_.svg)](
+https://playstationcouch.com
+)
 [![From npm to yarn to pnpm - the why, what and how | bitExpert](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/From_npm_to_yarn_to_pnpm_-_the_why__what_and_how___bitExpert.svg)](https://blog.bitexpert.de/blog/from-npm-to-yarn-to-pnpm)
 [![Alon Valadji @ ReactNext '23 | React new Era, AKA Here we go Server Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Alon_Valadji_@_ReactNext_'23___React_new_Era__AKA_Here_we_go_Server_Components.svg)](https://www.youtube.com/watch?v=FiM0NJLVJoY)
 [![List of Best Automation Consulting Companies | Taste The Automation With Us](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/List_of_Best_Automation_Consulting_Companies___Taste_The_Automation_With_Us.svg)](https://www.automationqa.co)
 [![How To Fix ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_To_Fix_.svg)](
 https://masteringjs.io/tutorials/node/__dirname-is-not-defined
 )
-[![GitHub - sumn2u/learn-javascript: A book that teaches JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_sumn2u_learn-javascript__A_book_that_teaches_JavaScript.svg)](https://github.com/sumn2u/learn-javascript)
 
 
 <!-- post-list:end -->
