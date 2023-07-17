@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, July 16, 2023 at 6:58:55 PM
+> Last updated: Monday, July 17, 2023 at 12:13:01 AM
 
 > Showing 5 of 12 posts.
 
-[![The Art of Clean Code: Mastering the Betty Style 🧑🏾‍💻](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Art_of_Clean_Code__Mastering_the_Betty_Style_🧑🏾‍💻.svg)](https://dev.to/angelotheman/the-art-of-clean-code-mastering-the-betty-style-30mo)
-[![Configurando Neovim para Java](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Configurando_Neovim_para_Java.svg)](https://dev.to/eronalves1996/configurando-neovim-para-java-7c4)
-[![Get Geolocation By IP Address API In 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Get_Geolocation_By_IP_Address_API_In_2023.svg)](https://dev.to/gabriela_avi/get-geolocation-by-ip-address-api-in-2023-1e0g)
-[![Building Serverless Applications with AWS – Compute](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_Serverless_Applications_with_AWS_–_Compute.svg)](https://dev.to/aws-builders/building-serverless-applications-with-aws-compute-2704)
-[![Two Weeks of Coding](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Two_Weeks_of_Coding.svg)](https://dev.to/hetarth02/two-weeks-of-coding-4ijm)
+[![Miço - Kapsamlı Rapor Nasıl Hazırlanır?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Miço_-_Kapsamlı_Rapor_Nasıl_Hazırlanır_.svg)](https://dev.to/aciklab/mico-kapsamli-rapor-nasil-hazirlanir-2moj)
+[![Music Monday — What are you listening to? (Soundtrack Edition)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Music_Monday_—_What_are_you_listening_to__(Soundtrack_Edition).svg)](https://dev.to/devteam/music-monday-what-are-you-listening-to-soundtrack-edition-49e1)
+[![Bandit Level 3 Level 4](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Bandit_Level_3_Level_4.svg)](https://dev.to/christianpaez/bandit-level-3-level-4-23kc)
+[![What is the Future of a Web Developer?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_the_Future_of_a_Web_Developer_.svg)](https://dev.to/blackhorse0101/what-is-the-future-of-a-web-developer-nc8)
+[![Micro-Filosofia: A arte da fragmentação](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Micro-Filosofia__A_arte_da_fragmentação.svg)](https://dev.to/ocodista/o-poder-da-micro-filosofia-2i6i)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, July 16, 2023 at 6:58:57 PM
+> Last updated: Monday, July 17, 2023 at 12:13:05 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, July 16, 2023 at 6:58:59 PM
+> Last updated: Monday, July 17, 2023 at 12:13:08 AM
 
 > Showing 5 of 30 posts.
 
