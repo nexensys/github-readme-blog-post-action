@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, July 17, 2023 at 12:13:01 AM
+> Last updated: Monday, July 17, 2023 at 6:19:56 AM
 
 > Showing 5 of 12 posts.
 
-[![Miço - Kapsamlı Rapor Nasıl Hazırlanır?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Miço_-_Kapsamlı_Rapor_Nasıl_Hazırlanır_.svg)](https://dev.to/aciklab/mico-kapsamli-rapor-nasil-hazirlanir-2moj)
-[![Music Monday — What are you listening to? (Soundtrack Edition)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Music_Monday_—_What_are_you_listening_to__(Soundtrack_Edition).svg)](https://dev.to/devteam/music-monday-what-are-you-listening-to-soundtrack-edition-49e1)
-[![Bandit Level 3 Level 4](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Bandit_Level_3_Level_4.svg)](https://dev.to/christianpaez/bandit-level-3-level-4-23kc)
-[![What is the Future of a Web Developer?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_the_Future_of_a_Web_Developer_.svg)](https://dev.to/blackhorse0101/what-is-the-future-of-a-web-developer-nc8)
-[![Micro-Filosofia: A arte da fragmentação](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Micro-Filosofia__A_arte_da_fragmentação.svg)](https://dev.to/ocodista/o-poder-da-micro-filosofia-2i6i)
+[![ASP.NET Core in .NET 8 continues to Reveal New Features! Too many features released?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/ASP.NET_Core_in_.NET_8_continues_to_Reveal_New_Features!_Too_many_features_released_.svg)](https://dev.to/bytehide/aspnet-core-in-net-8-continues-to-reveal-new-features-too-many-features-released-4cgm)
+[![🍽️ Enhanicing a Restaurant with Microservices Architecture! 🍽️](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🍽️_Enhanicing_a_Restaurant_with_Microservices_Architecture!_🍽️.svg)](https://dev.to/safvan_8/enhanicing-a-restaurant-with-microservices-architecture-2df9)
+[![A message from an Impostor](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_message_from_an_Impostor.svg)](https://dev.to/this-is-learning/a-message-from-an-impostor-231)
+[![CSS: The Good Parts](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CSS__The_Good_Parts.svg)](https://dev.to/builderio/css-the-good-parts-5eoo)
+[![RLS of Supabase(PostgreSQL) Is Good, But …🤔](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/RLS_of_Supabase(PostgreSQL)_Is_Good__But_…🤔.svg)](https://dev.to/zenstack/rls-of-supabasepostgresql-is-good-but--1394)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, July 17, 2023 at 12:13:05 AM
+> Last updated: Monday, July 17, 2023 at 6:19:59 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, July 17, 2023 at 12:13:08 AM
+> Last updated: Monday, July 17, 2023 at 6:20:03 AM
 
 > Showing 5 of 30 posts.
 
