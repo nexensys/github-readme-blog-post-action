@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, July 18, 2023 at 12:11:49 AM
+> Last updated: Tuesday, July 18, 2023 at 6:17:08 AM
 
 > Showing 5 of 12 posts.
 
-[![Natural Language Processing (NLP) in JavaScript (series)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Natural_Language_Processing_(NLP)_in_JavaScript_(series).svg)](https://dev.to/scofieldidehen/natural-language-processing-nlp-in-javascript-series-132f)
-[![How to Accelerate Flutter Development: Tips for Beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Accelerate_Flutter_Development__Tips_for_Beginners.svg)](https://dev.to/kargatharaaakash/how-to-accelerate-flutter-development-tips-for-beginners-3205)
-[![How to use ASP.NET Core Web APIs for Web Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_ASP.NET_Core_Web_APIs_for_Web_Development.svg)](https://dev.to/ifourtechnolab/how-to-use-aspnet-core-web-apis-for-web-development-155d)
-[![Stop using npm or yarn to install node_modules](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Stop_using_npm_or_yarn_to_install_node_modules.svg)](https://dev.to/kristiyan_velkov/stop-using-npm-or-yarn-to-install-nodemodules-o5p)
-[![Entendendo e usando vertical-align: middle no CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Entendendo_e_usando_vertical-align__middle_no_CSS.svg)](https://dev.to/oler/entendendo-e-usando-vertical-align-middle-no-css-3acg)
+[![What Is AWS AppConfig?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_Is_AWS_AppConfig_.svg)](https://dev.to/kelvinskell/what-is-aws-appconfig-3194)
+[![Android Developers and Accessibility - Challenges and Proposed Solutions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Android_Developers_and_Accessibility_-_Challenges_and_Proposed_Solutions.svg)](https://dev.to/eevajonnapanula/android-developers-and-accessibility-challenges-and-proposed-solutions-36on)
+[![Roles in Software Development:](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Roles_in_Software_Development_.svg)](https://dev.to/geetechlab/roles-in-software-development-3koo)
+[![Cocaptain the next free Copilot](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cocaptain_the_next_free_Copilot.svg)](https://dev.to/ayyoubessadeq/cocaptain-the-next-free-copilot-4785)
+[![Web Development for Beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Web_Development_for_Beginners.svg)](https://dev.to/geetechlab/web-development-in-general-1975)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, July 18, 2023 at 12:11:52 AM
+> Last updated: Tuesday, July 18, 2023 at 6:17:12 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, July 18, 2023 at 12:11:57 AM
+> Last updated: Tuesday, July 18, 2023 at 6:17:19 AM
 
 > Showing 5 of 30 posts.
 
