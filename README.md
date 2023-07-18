@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, July 17, 2023 at 7:13:13 PM
+> Last updated: Tuesday, July 18, 2023 at 12:11:49 AM
 
 > Showing 5 of 12 posts.
 
-[![The New Vercel AI SDK: Your Own Chatbot in a Flash](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_New_Vercel_AI_SDK__Your_Own_Chatbot_in_a_Flash.svg)](https://dev.to/stonediggity/the-new-vercel-ai-sdk-your-own-chatbot-in-a-flash-499g)
-[![Python Orientado a Objetos 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Python_Orientado_a_Objetos_1.svg)](https://dev.to/dntfindmel_/python-orientado-a-objetos-1-4cen)
-[![Creating Fullchain Self Signed SSL | Root & Intermediate CA](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_Fullchain_Self_Signed_SSL___Root___Intermediate_CA.svg)](https://dev.to/berk/creating-fullchain-self-signed-ssl-root-intermediate-ca-3cb8)
-[![Secrets of Styling Forms (Using AWS Amplify Studio)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Secrets_of_Styling_Forms_(Using_AWS_Amplify_Studio).svg)](https://dev.to/aws/secrets-of-styling-forms-using-aws-amplify-studio-49f0)
-[![Why you should use emoji in github commit 🐛 ✨ 💄](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_you_should_use_emoji_in_github_commit_🐛_✨_💄.svg)](https://dev.to/idurar/why-you-should-use-emoji-in-github-commit-2a5k)
+[![Natural Language Processing (NLP) in JavaScript (series)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Natural_Language_Processing_(NLP)_in_JavaScript_(series).svg)](https://dev.to/scofieldidehen/natural-language-processing-nlp-in-javascript-series-132f)
+[![How to Accelerate Flutter Development: Tips for Beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Accelerate_Flutter_Development__Tips_for_Beginners.svg)](https://dev.to/kargatharaaakash/how-to-accelerate-flutter-development-tips-for-beginners-3205)
+[![How to use ASP.NET Core Web APIs for Web Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_ASP.NET_Core_Web_APIs_for_Web_Development.svg)](https://dev.to/ifourtechnolab/how-to-use-aspnet-core-web-apis-for-web-development-155d)
+[![Stop using npm or yarn to install node_modules](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Stop_using_npm_or_yarn_to_install_node_modules.svg)](https://dev.to/kristiyan_velkov/stop-using-npm-or-yarn-to-install-nodemodules-o5p)
+[![Entendendo e usando vertical-align: middle no CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Entendendo_e_usando_vertical-align__middle_no_CSS.svg)](https://dev.to/oler/entendendo-e-usando-vertical-align-middle-no-css-3acg)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, July 17, 2023 at 7:13:16 PM
+> Last updated: Tuesday, July 18, 2023 at 12:11:52 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,21 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, July 17, 2023 at 7:13:23 PM
+> Last updated: Tuesday, July 18, 2023 at 12:11:57 AM
 
 > Showing 5 of 30 posts.
 
+[![
+An insight into the fall of the stock market after the pandemic by Siddharth Mehta, Bay Capital Founder and CIO
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_An_insight_into_the_fall_of_the_stock_market_after_the_pandemic_by_Siddharth_Mehta__Bay_Capital_Founder_and_CIO_.svg)](
+https://www.financialexpress.com/market/sensex-recorded-its-worst-fall-this-week-as-bears-took-over-heres-what-aided-the-fall-on-d-street/1897964/
+)
 [![API with NestJS #117. CORS - Cross-Origin Resource Sharing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__117._CORS_-_Cross-Origin_Resource_Sharing.svg)](https://wanago.io/2023/07/17/api-nestjs-cors-cross-origin-resource-sharing/)
 [![From npm to yarn to pnpm - the why, what and how | bitExpert](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/From_npm_to_yarn_to_pnpm_-_the_why__what_and_how___bitExpert.svg)](https://blog.bitexpert.de/blog/from-npm-to-yarn-to-pnpm)
 [![Alon Valadji @ ReactNext '23 | React new Era, AKA Here we go Server Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Alon_Valadji_@_ReactNext_'23___React_new_Era__AKA_Here_we_go_Server_Components.svg)](https://www.youtube.com/watch?v=FiM0NJLVJoY)
 [![How To Fix ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_To_Fix_.svg)](
 https://masteringjs.io/tutorials/node/__dirname-is-not-defined
 )
-[![GitHub - sumn2u/learn-javascript: A book that teaches JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_sumn2u_learn-javascript__A_book_that_teaches_JavaScript.svg)](https://github.com/sumn2u/learn-javascript)
 
 
 <!-- post-list:end -->
