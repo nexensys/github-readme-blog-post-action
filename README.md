@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, July 19, 2023 at 6:16:24 AM
+> Last updated: Wednesday, July 19, 2023 at 12:10:30 PM
 
 > Showing 5 of 12 posts.
 
-[![Solving hCaptcha with Puppeteer and Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Solving_hCaptcha_with_Puppeteer_and_Python.svg)](https://dev.to/baransel/solving-hcaptcha-with-puppeteer-and-python-3bkc)
-[![Understanding PHP-FPM: A Comprehensive Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_PHP-FPM__A_Comprehensive_Guide.svg)](https://dev.to/arsalanmee/understanding-php-fpm-a-comprehensive-guide-3ng8)
-[![Introducing Fuzzing with Alexandre](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_Fuzzing_with_Alexandre.svg)](https://dev.to/crabnebula/introducing-fuzzing-with-alexandre-4aid)
-[![Unstyled PrimeVue Meets Bulma CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unstyled_PrimeVue_Meets_Bulma_CSS.svg)](https://dev.to/cagataycivici/unstyled-primevue-meets-bulma-css-2epn)
-[![How to Set Up an Azure Kubernetes Service Cluster with Terraform](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Set_Up_an_Azure_Kubernetes_Service_Cluster_with_Terraform.svg)](https://dev.to/bravinsimiyu/how-to-set-up-an-azure-kubernetes-service-cluster-with-terraform-3og9)
+[![DRP Windows Server with AWS DRS (Elastic Disaster Recovery)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/DRP_Windows_Server_with_AWS_DRS_(Elastic_Disaster_Recovery).svg)](https://dev.to/acijum81/drp-windows-server-with-aws-drs-elastic-disaster-recovery-502c)
+[![Introducing Open Video Game Data: A new approach to evaluating games.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_Open_Video_Game_Data__A_new_approach_to_evaluating_games..svg)](https://dev.to/andredarcie/introducing-open-video-game-data-a-new-approach-to-evaluating-games-1ak5)
+[![Streamlining the User Experience: Enhancing the Admin Panel for Seamless Management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Streamlining_the_User_Experience__Enhancing_the_Admin_Panel_for_Seamless_Management.svg)](https://dev.to/abhixsh/streamlining-the-user-experience-enhancing-the-admin-panel-for-seamless-management-2djl)
+[![Próximos passos com Atlantis](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Próximos_passos_com_Atlantis.svg)](https://dev.to/brunopadz/proximos-passos-com-atlantis-8b8)
+[![From Coder to Entrepreneur: Are You Exploring New Horizons?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/From_Coder_to_Entrepreneur__Are_You_Exploring_New_Horizons_.svg)](https://dev.to/devteam/from-coder-to-entrepreneur-are-you-exploring-new-horizons-2pcm)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, July 19, 2023 at 6:16:26 AM
+> Last updated: Wednesday, July 19, 2023 at 12:10:34 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, July 19, 2023 at 6:16:33 AM
+> Last updated: Wednesday, July 19, 2023 at 12:10:42 PM
 
 > Showing 5 of 30 posts.
 
