@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, July 19, 2023 at 12:11:09 AM
+> Last updated: Wednesday, July 19, 2023 at 6:16:24 AM
 
 > Showing 5 of 12 posts.
 
-[![Natural Language Processing (NLP) in JavaScript (series 2)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Natural_Language_Processing_(NLP)_in_JavaScript_(series_2).svg)](https://dev.to/scofieldidehen/natural-language-processing-nlp-in-javascript-series-2-1h8f)
-[![Real-time Data Processing Pipeline With MongoDB, Kafka, Debezium And RisingWave](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Real-time_Data_Processing_Pipeline_With_MongoDB__Kafka__Debezium_And_RisingWave.svg)](https://dev.to/bobur/real-time-data-processing-pipeline-with-mongodb-kafka-debezium-and-risingwave-58kk)
-[![Understanding TypeScript Types: Primitives, Objects, and Type Manipulations](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_TypeScript_Types__Primitives__Objects__and_Type_Manipulations.svg)](https://dev.to/rajrathod/understanding-typescript-types-primitives-objects-and-type-manipulations-bjj)
-[![A Comprehensive Guide to TypeScript: Introduction, Installation, and Running Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Comprehensive_Guide_to_TypeScript__Introduction__Installation__and_Running_Code.svg)](https://dev.to/rajrathod/a-comprehensive-guide-to-typescript-introduction-installation-and-running-code-1olo)
-[![Creating an EKS Cluster Using Terraform: A Step-by-Step Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_an_EKS_Cluster_Using_Terraform__A_Step-by-Step_Guide.svg)](https://dev.to/orishadevops/creating-an-eks-cluster-using-terraform-a-step-by-step-guide-2nak)
+[![Solving hCaptcha with Puppeteer and Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Solving_hCaptcha_with_Puppeteer_and_Python.svg)](https://dev.to/baransel/solving-hcaptcha-with-puppeteer-and-python-3bkc)
+[![Understanding PHP-FPM: A Comprehensive Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_PHP-FPM__A_Comprehensive_Guide.svg)](https://dev.to/arsalanmee/understanding-php-fpm-a-comprehensive-guide-3ng8)
+[![Introducing Fuzzing with Alexandre](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_Fuzzing_with_Alexandre.svg)](https://dev.to/crabnebula/introducing-fuzzing-with-alexandre-4aid)
+[![Unstyled PrimeVue Meets Bulma CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unstyled_PrimeVue_Meets_Bulma_CSS.svg)](https://dev.to/cagataycivici/unstyled-primevue-meets-bulma-css-2epn)
+[![How to Set Up an Azure Kubernetes Service Cluster with Terraform](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Set_Up_an_Azure_Kubernetes_Service_Cluster_with_Terraform.svg)](https://dev.to/bravinsimiyu/how-to-set-up-an-azure-kubernetes-service-cluster-with-terraform-3og9)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, July 19, 2023 at 12:11:13 AM
+> Last updated: Wednesday, July 19, 2023 at 6:16:26 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, July 19, 2023 at 12:11:23 AM
+> Last updated: Wednesday, July 19, 2023 at 6:16:33 AM
 
 > Showing 5 of 30 posts.
 
