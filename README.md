@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, July 18, 2023 at 7:27:43 PM
+> Last updated: Wednesday, July 19, 2023 at 12:11:09 AM
 
 > Showing 5 of 12 posts.
 
-[![TypeScript's type inference. A readonly array of specific string values.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/TypeScript's_type_inference._A_readonly_array_of_specific_string_values..svg)](https://dev.to/mavludin/typescripts-type-inference-a-readonly-array-of-specific-string-values-3moi)
-[![Unmasking Ghost Parameters, or How to Save Time and Money](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unmasking_Ghost_Parameters__or_How_to_Save_Time_and_Money.svg)](https://dev.to/pelegpor/unmasking-ghost-parameters-or-how-to-save-time-and-money-2gbo)
-[![Creating Accessible Custom Components with React Aria: A Practical Example with Forms](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_Accessible_Custom_Components_with_React_Aria__A_Practical_Example_with_Forms.svg)](https://dev.to/colinah/creating-accessible-custom-components-with-react-aria-a-practical-example-with-forms-1cp9)
-[![Signals make Angular MUCH easier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Signals_make_Angular_MUCH_easier.svg)](https://dev.to/mfp22/signals-make-angular-much-easier-3k9)
-[![Introducing the Employee Onboarding Portal](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_the_Employee_Onboarding_Portal.svg)](https://dev.to/jaloplo/introducing-the-employee-onboarding-portal-mph)
+[![Natural Language Processing (NLP) in JavaScript (series 2)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Natural_Language_Processing_(NLP)_in_JavaScript_(series_2).svg)](https://dev.to/scofieldidehen/natural-language-processing-nlp-in-javascript-series-2-1h8f)
+[![Real-time Data Processing Pipeline With MongoDB, Kafka, Debezium And RisingWave](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Real-time_Data_Processing_Pipeline_With_MongoDB__Kafka__Debezium_And_RisingWave.svg)](https://dev.to/bobur/real-time-data-processing-pipeline-with-mongodb-kafka-debezium-and-risingwave-58kk)
+[![Understanding TypeScript Types: Primitives, Objects, and Type Manipulations](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_TypeScript_Types__Primitives__Objects__and_Type_Manipulations.svg)](https://dev.to/rajrathod/understanding-typescript-types-primitives-objects-and-type-manipulations-bjj)
+[![A Comprehensive Guide to TypeScript: Introduction, Installation, and Running Code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Comprehensive_Guide_to_TypeScript__Introduction__Installation__and_Running_Code.svg)](https://dev.to/rajrathod/a-comprehensive-guide-to-typescript-introduction-installation-and-running-code-1olo)
+[![Creating an EKS Cluster Using Terraform: A Step-by-Step Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_an_EKS_Cluster_Using_Terraform__A_Step-by-Step_Guide.svg)](https://dev.to/orishadevops/creating-an-eks-cluster-using-terraform-a-step-by-step-guide-2nak)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, July 18, 2023 at 7:27:47 PM
+> Last updated: Wednesday, July 19, 2023 at 12:11:13 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, July 18, 2023 at 7:27:54 PM
+> Last updated: Wednesday, July 19, 2023 at 12:11:23 AM
 
 > Showing 5 of 30 posts.
 
