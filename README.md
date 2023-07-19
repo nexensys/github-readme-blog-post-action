@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, July 18, 2023 at 6:17:08 AM
+> Last updated: Tuesday, July 18, 2023 at 7:27:43 PM
 
 > Showing 5 of 12 posts.
 
-[![What Is AWS AppConfig?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_Is_AWS_AppConfig_.svg)](https://dev.to/kelvinskell/what-is-aws-appconfig-3194)
-[![Android Developers and Accessibility - Challenges and Proposed Solutions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Android_Developers_and_Accessibility_-_Challenges_and_Proposed_Solutions.svg)](https://dev.to/eevajonnapanula/android-developers-and-accessibility-challenges-and-proposed-solutions-36on)
-[![Roles in Software Development:](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Roles_in_Software_Development_.svg)](https://dev.to/geetechlab/roles-in-software-development-3koo)
-[![Cocaptain the next free Copilot](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cocaptain_the_next_free_Copilot.svg)](https://dev.to/ayyoubessadeq/cocaptain-the-next-free-copilot-4785)
-[![Web Development for Beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Web_Development_for_Beginners.svg)](https://dev.to/geetechlab/web-development-in-general-1975)
+[![TypeScript's type inference. A readonly array of specific string values.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/TypeScript's_type_inference._A_readonly_array_of_specific_string_values..svg)](https://dev.to/mavludin/typescripts-type-inference-a-readonly-array-of-specific-string-values-3moi)
+[![Unmasking Ghost Parameters, or How to Save Time and Money](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unmasking_Ghost_Parameters__or_How_to_Save_Time_and_Money.svg)](https://dev.to/pelegpor/unmasking-ghost-parameters-or-how-to-save-time-and-money-2gbo)
+[![Creating Accessible Custom Components with React Aria: A Practical Example with Forms](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_Accessible_Custom_Components_with_React_Aria__A_Practical_Example_with_Forms.svg)](https://dev.to/colinah/creating-accessible-custom-components-with-react-aria-a-practical-example-with-forms-1cp9)
+[![Signals make Angular MUCH easier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Signals_make_Angular_MUCH_easier.svg)](https://dev.to/mfp22/signals-make-angular-much-easier-3k9)
+[![Introducing the Employee Onboarding Portal](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_the_Employee_Onboarding_Portal.svg)](https://dev.to/jaloplo/introducing-the-employee-onboarding-portal-mph)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, July 18, 2023 at 6:17:12 AM
+> Last updated: Tuesday, July 18, 2023 at 7:27:47 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,21 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, July 18, 2023 at 6:17:19 AM
+> Last updated: Tuesday, July 18, 2023 at 7:27:54 PM
 
 > Showing 5 of 30 posts.
 
-[![
-An insight into the fall of the stock market after the pandemic by Siddharth Mehta, Bay Capital Founder and CIO
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_An_insight_into_the_fall_of_the_stock_market_after_the_pandemic_by_Siddharth_Mehta__Bay_Capital_Founder_and_CIO_.svg)](
-https://www.financialexpress.com/market/sensex-recorded-its-worst-fall-this-week-as-bears-took-over-heres-what-aided-the-fall-on-d-street/1897964/
+[![Vrite Editor: Open-Source WYSIWYG Markdown Editor](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Vrite_Editor__Open-Source_WYSIWYG_Markdown_Editor.svg)](https://vrite.io/blog/vrite-editor-open-source-wysiwyg-markdown-editor/)
+[![Top Frontend Interview Questions And Answers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Top_Frontend_Interview_Questions_And_Answers.svg)](
+https://www.frontendinterviewquestions.com/interview-questions/javascript-developer-interview-questions-for-5-years-experience
 )
 [![API with NestJS #117. CORS - Cross-Origin Resource Sharing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__117._CORS_-_Cross-Origin_Resource_Sharing.svg)](https://wanago.io/2023/07/17/api-nestjs-cors-cross-origin-resource-sharing/)
 [![From npm to yarn to pnpm - the why, what and how | bitExpert](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/From_npm_to_yarn_to_pnpm_-_the_why__what_and_how___bitExpert.svg)](https://blog.bitexpert.de/blog/from-npm-to-yarn-to-pnpm)
 [![Alon Valadji @ ReactNext '23 | React new Era, AKA Here we go Server Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Alon_Valadji_@_ReactNext_'23___React_new_Era__AKA_Here_we_go_Server_Components.svg)](https://www.youtube.com/watch?v=FiM0NJLVJoY)
-[![How To Fix ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_To_Fix_.svg)](
-https://masteringjs.io/tutorials/node/__dirname-is-not-defined
-)
 
 
 <!-- post-list:end -->
