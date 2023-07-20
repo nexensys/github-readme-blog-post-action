@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, July 19, 2023 at 6:49:05 PM
+> Last updated: Thursday, July 20, 2023 at 12:11:19 AM
 
 > Showing 5 of 12 posts.
 
+[![Setting Up a Local WAX Development Environment](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Setting_Up_a_Local_WAX_Development_Environment.svg)](https://dev.to/idmontie/setting-up-a-local-wax-development-environment-1cik)
+[![Exploring the Power of TypeScript Decorators: Extending and Modifying Code with Ease](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exploring_the_Power_of_TypeScript_Decorators__Extending_and_Modifying_Code_with_Ease.svg)](https://dev.to/rajrathod/exploring-the-power-of-typescript-decorators-extending-and-modifying-code-with-ease-424l)
 [![How to create a Currency Converter app using ExchangeRate REST API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_a_Currency_Converter_app_using_ExchangeRate_REST_API.svg)](https://dev.to/gbadeboife/how-to-create-a-currency-converter-app-using-exchangerate-rest-api-23bo)
+[![Expense Tracker App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Expense_Tracker_App.svg)](https://dev.to/lizardkinglk/expense-tracker-app-4pdc)
 [![Do you remember the first "Usable" project you developed?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Do_you_remember_the_first__Usable__project_you_developed_.svg)](https://dev.to/rzin/do-you-remember-the-first-usable-project-you-developed-1f64)
-[![Publishing Electron apps to GitHub with Electron Forge](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Publishing_Electron_apps_to_GitHub_with_Electron_Forge.svg)](https://dev.to/zsevic/publishing-electron-apps-to-github-with-electron-forge-2bp3)
-[![Understand what you run before publishing your (silly) benchmark results](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understand_what_you_run_before_publishing_your_(silly)_benchmark_results.svg)](https://dev.to/yugabyte/understand-what-you-run-before-publishing-your-silly-benchmark-results-48bb)
-[![Supercharge Your Node.js Development with This Starter Configuration](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Supercharge_Your_Node.js_Development_with_This_Starter_Configuration.svg)](https://dev.to/aagamezl/supercharge-your-nodejs-development-with-this-starter-configuration-4c78)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, July 19, 2023 at 6:49:08 PM
+> Last updated: Thursday, July 20, 2023 at 12:11:23 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, July 19, 2023 at 6:49:15 PM
+> Last updated: Thursday, July 20, 2023 at 12:11:30 AM
 
 > Showing 5 of 30 posts.
 
