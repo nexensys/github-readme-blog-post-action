@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, July 20, 2023 at 6:17:15 AM
+> Last updated: Thursday, July 20, 2023 at 12:10:20 PM
 
 > Showing 5 of 12 posts.
 
-[![What is Event loop in JS (javascript)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_Event_loop_in_JS_(javascript).svg)](https://dev.to/diwakarkashyap/what-is-event-loop-in-js-javascript-57kh)
-[![Design Patterns in PHP 8: Flyweight](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Design_Patterns_in_PHP_8__Flyweight.svg)](https://dev.to/zhukmax/design-patterns-in-php-8-flyweight-5e0h)
-[![Refine Native](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Refine_Native.svg)](https://dev.to/abdellah711/refine-native-2p1d)
-[![How to migrate a live website without losing data](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_migrate_a_live_website_without_losing_data.svg)](https://dev.to/accreditly/how-to-migrate-a-live-website-without-losing-data-53g4)
-[![Designing APIs with Swagger and OpenAPI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Designing_APIs_with_Swagger_and_OpenAPI.svg)](https://dev.to/nfrankel/designing-apis-with-swagger-and-openapi-43e6)
+[![React-ing to accessibility: Building accessible e-commerce forms that everyone can use](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React-ing_to_accessibility__Building_accessible_e-commerce_forms_that_everyone_can_use.svg)](https://dev.to/martabento/react-ing-to-accessibility-building-accessible-e-commerce-forms-that-everyone-can-use-5d8o)
+[![Calling for 100 builders](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Calling_for_100_builders.svg)](https://dev.to/rapha/calling-for-100-builders-48ld)
+[![Do telemarketing pro mundo dev 📞](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Do_telemarketing_pro_mundo_dev_📞.svg)](https://dev.to/anabergerr/do-telemarketing-pro-mundo-dev-498h)
+[![Using Replit with Node.js to build and deploy apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_Replit_with_Node.js_to_build_and_deploy_apps.svg)](https://dev.to/logrocket/using-replit-with-nodejs-to-build-and-deploy-apps-54gi)
+[![How to accelerate your code reviews?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_accelerate_your_code_reviews_.svg)](https://dev.to/reviewpad/how-to-accelerate-your-code-reviews-4p0m)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, July 20, 2023 at 6:17:19 AM
+> Last updated: Thursday, July 20, 2023 at 12:10:23 PM
 
 > Showing 4 of 4 posts.
 
+[![The tale of how static typing came to JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/The_tale_of_how_static_typing_came_to_JavaScript.svg)](https://javascriptweekly.com/issues/648)
 [![htmx in 100 seconds](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/htmx_in_100_seconds.svg)](https://javascriptweekly.com/issues/647)
 [![CommonJS, we love you, we love you not..](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/CommonJS__we_love_you__we_love_you_not...svg)](https://javascriptweekly.com/issues/646)
 [![This is a doozy of an issue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/This_is_a_doozy_of_an_issue.svg)](https://javascriptweekly.com/issues/645)
-[![Svelte 4 released](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Svelte_4_released.svg)](https://javascriptweekly.com/issues/644)
 
 
 ## Echo JS
@@ -43,23 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, July 20, 2023 at 6:17:22 AM
+> Last updated: Thursday, July 20, 2023 at 12:10:27 PM
 
 > Showing 5 of 30 posts.
 
 [![Simple React State Management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Simple_React_State_Management.svg)](https://daniel-payne-keldan-systems.medium.com/is-this-all-i-need-for-great-react-state-management-bd27d390e5a6)
-[![
-React Native App Developers
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_React_Native_App_Developers_.svg)](
-https://www.instaittech.com/services/react-native-app-development
-)
 [![The `beforeEach()` Hook in Mocha](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_`beforeEach()`_Hook_in_Mocha.svg)](
 https://masteringjs.io/tutorials/mocha/beforeeach
 )
-[![Top Frontend Interview Questions And Answers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Top_Frontend_Interview_Questions_And_Answers.svg)](
-https://www.frontendinterviewquestions.com/interview-questions/frontend-developer-interview-questions-for-freshers
-)
 [![Vrite Editor: Open-Source WYSIWYG Markdown Editor](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Vrite_Editor__Open-Source_WYSIWYG_Markdown_Editor.svg)](https://vrite.io/blog/vrite-editor-open-source-wysiwyg-markdown-editor/)
+[![Top Frontend Interview Questions And Answers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Top_Frontend_Interview_Questions_And_Answers.svg)](
+https://www.frontendinterviewquestions.com/interview-questions/javascript-developer-interview-questions-for-5-years-experience
+)
+[![API with NestJS #117. CORS - Cross-Origin Resource Sharing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__117._CORS_-_Cross-Origin_Resource_Sharing.svg)](https://wanago.io/2023/07/17/api-nestjs-cors-cross-origin-resource-sharing/)
 
 
 <!-- post-list:end -->
