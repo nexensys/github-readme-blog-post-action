@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, July 19, 2023 at 12:10:30 PM
+> Last updated: Wednesday, July 19, 2023 at 6:49:05 PM
 
 > Showing 5 of 12 posts.
 
-[![DRP Windows Server with AWS DRS (Elastic Disaster Recovery)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/DRP_Windows_Server_with_AWS_DRS_(Elastic_Disaster_Recovery).svg)](https://dev.to/acijum81/drp-windows-server-with-aws-drs-elastic-disaster-recovery-502c)
-[![Introducing Open Video Game Data: A new approach to evaluating games.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_Open_Video_Game_Data__A_new_approach_to_evaluating_games..svg)](https://dev.to/andredarcie/introducing-open-video-game-data-a-new-approach-to-evaluating-games-1ak5)
-[![Streamlining the User Experience: Enhancing the Admin Panel for Seamless Management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Streamlining_the_User_Experience__Enhancing_the_Admin_Panel_for_Seamless_Management.svg)](https://dev.to/abhixsh/streamlining-the-user-experience-enhancing-the-admin-panel-for-seamless-management-2djl)
-[![Próximos passos com Atlantis](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Próximos_passos_com_Atlantis.svg)](https://dev.to/brunopadz/proximos-passos-com-atlantis-8b8)
-[![From Coder to Entrepreneur: Are You Exploring New Horizons?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/From_Coder_to_Entrepreneur__Are_You_Exploring_New_Horizons_.svg)](https://dev.to/devteam/from-coder-to-entrepreneur-are-you-exploring-new-horizons-2pcm)
+[![How to create a Currency Converter app using ExchangeRate REST API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_a_Currency_Converter_app_using_ExchangeRate_REST_API.svg)](https://dev.to/gbadeboife/how-to-create-a-currency-converter-app-using-exchangerate-rest-api-23bo)
+[![Do you remember the first "Usable" project you developed?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Do_you_remember_the_first__Usable__project_you_developed_.svg)](https://dev.to/rzin/do-you-remember-the-first-usable-project-you-developed-1f64)
+[![Publishing Electron apps to GitHub with Electron Forge](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Publishing_Electron_apps_to_GitHub_with_Electron_Forge.svg)](https://dev.to/zsevic/publishing-electron-apps-to-github-with-electron-forge-2bp3)
+[![Understand what you run before publishing your (silly) benchmark results](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understand_what_you_run_before_publishing_your_(silly)_benchmark_results.svg)](https://dev.to/yugabyte/understand-what-you-run-before-publishing-your-silly-benchmark-results-48bb)
+[![Supercharge Your Node.js Development with This Starter Configuration](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Supercharge_Your_Node.js_Development_with_This_Starter_Configuration.svg)](https://dev.to/aagamezl/supercharge-your-nodejs-development-with-this-starter-configuration-4c78)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, July 19, 2023 at 12:10:34 PM
+> Last updated: Wednesday, July 19, 2023 at 6:49:08 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,21 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, July 19, 2023 at 12:10:42 PM
+> Last updated: Wednesday, July 19, 2023 at 6:49:15 PM
 
 > Showing 5 of 30 posts.
 
+[![The `beforeEach()` Hook in Mocha](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_`beforeEach()`_Hook_in_Mocha.svg)](
+https://masteringjs.io/tutorials/mocha/beforeeach
+)
+[![Top Frontend Interview Questions And Answers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Top_Frontend_Interview_Questions_And_Answers.svg)](
+https://www.frontendinterviewquestions.com/interview-questions/frontend-developer-interview-questions-for-freshers
+)
 [![Vrite Editor: Open-Source WYSIWYG Markdown Editor](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Vrite_Editor__Open-Source_WYSIWYG_Markdown_Editor.svg)](https://vrite.io/blog/vrite-editor-open-source-wysiwyg-markdown-editor/)
 [![Top Frontend Interview Questions And Answers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Top_Frontend_Interview_Questions_And_Answers.svg)](
 https://www.frontendinterviewquestions.com/interview-questions/javascript-developer-interview-questions-for-5-years-experience
 )
 [![API with NestJS #117. CORS - Cross-Origin Resource Sharing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__117._CORS_-_Cross-Origin_Resource_Sharing.svg)](https://wanago.io/2023/07/17/api-nestjs-cors-cross-origin-resource-sharing/)
-[![From npm to yarn to pnpm - the why, what and how | bitExpert](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/From_npm_to_yarn_to_pnpm_-_the_why__what_and_how___bitExpert.svg)](https://blog.bitexpert.de/blog/from-npm-to-yarn-to-pnpm)
-[![Alon Valadji @ ReactNext '23 | React new Era, AKA Here we go Server Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Alon_Valadji_@_ReactNext_'23___React_new_Era__AKA_Here_we_go_Server_Components.svg)](https://www.youtube.com/watch?v=FiM0NJLVJoY)
 
 
 <!-- post-list:end -->
