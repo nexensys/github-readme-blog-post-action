@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, July 20, 2023 at 12:11:19 AM
+> Last updated: Thursday, July 20, 2023 at 6:17:15 AM
 
 > Showing 5 of 12 posts.
 
-[![Setting Up a Local WAX Development Environment](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Setting_Up_a_Local_WAX_Development_Environment.svg)](https://dev.to/idmontie/setting-up-a-local-wax-development-environment-1cik)
-[![Exploring the Power of TypeScript Decorators: Extending and Modifying Code with Ease](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exploring_the_Power_of_TypeScript_Decorators__Extending_and_Modifying_Code_with_Ease.svg)](https://dev.to/rajrathod/exploring-the-power-of-typescript-decorators-extending-and-modifying-code-with-ease-424l)
-[![How to create a Currency Converter app using ExchangeRate REST API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_a_Currency_Converter_app_using_ExchangeRate_REST_API.svg)](https://dev.to/gbadeboife/how-to-create-a-currency-converter-app-using-exchangerate-rest-api-23bo)
-[![Expense Tracker App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Expense_Tracker_App.svg)](https://dev.to/lizardkinglk/expense-tracker-app-4pdc)
-[![Do you remember the first "Usable" project you developed?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Do_you_remember_the_first__Usable__project_you_developed_.svg)](https://dev.to/rzin/do-you-remember-the-first-usable-project-you-developed-1f64)
+[![What is Event loop in JS (javascript)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_Event_loop_in_JS_(javascript).svg)](https://dev.to/diwakarkashyap/what-is-event-loop-in-js-javascript-57kh)
+[![Design Patterns in PHP 8: Flyweight](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Design_Patterns_in_PHP_8__Flyweight.svg)](https://dev.to/zhukmax/design-patterns-in-php-8-flyweight-5e0h)
+[![Refine Native](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Refine_Native.svg)](https://dev.to/abdellah711/refine-native-2p1d)
+[![How to migrate a live website without losing data](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_migrate_a_live_website_without_losing_data.svg)](https://dev.to/accreditly/how-to-migrate-a-live-website-without-losing-data-53g4)
+[![Designing APIs with Swagger and OpenAPI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Designing_APIs_with_Swagger_and_OpenAPI.svg)](https://dev.to/nfrankel/designing-apis-with-swagger-and-openapi-43e6)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, July 20, 2023 at 12:11:23 AM
+> Last updated: Thursday, July 20, 2023 at 6:17:19 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,16 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, July 20, 2023 at 12:11:30 AM
+> Last updated: Thursday, July 20, 2023 at 6:17:22 AM
 
 > Showing 5 of 30 posts.
 
+[![Simple React State Management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Simple_React_State_Management.svg)](https://daniel-payne-keldan-systems.medium.com/is-this-all-i-need-for-great-react-state-management-bd27d390e5a6)
+[![
+React Native App Developers
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_React_Native_App_Developers_.svg)](
+https://www.instaittech.com/services/react-native-app-development
+)
 [![The `beforeEach()` Hook in Mocha](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_`beforeEach()`_Hook_in_Mocha.svg)](
 https://masteringjs.io/tutorials/mocha/beforeeach
 )
@@ -54,10 +60,6 @@ https://masteringjs.io/tutorials/mocha/beforeeach
 https://www.frontendinterviewquestions.com/interview-questions/frontend-developer-interview-questions-for-freshers
 )
 [![Vrite Editor: Open-Source WYSIWYG Markdown Editor](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Vrite_Editor__Open-Source_WYSIWYG_Markdown_Editor.svg)](https://vrite.io/blog/vrite-editor-open-source-wysiwyg-markdown-editor/)
-[![Top Frontend Interview Questions And Answers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Top_Frontend_Interview_Questions_And_Answers.svg)](
-https://www.frontendinterviewquestions.com/interview-questions/javascript-developer-interview-questions-for-5-years-experience
-)
-[![API with NestJS #117. CORS - Cross-Origin Resource Sharing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__117._CORS_-_Cross-Origin_Resource_Sharing.svg)](https://wanago.io/2023/07/17/api-nestjs-cors-cross-origin-resource-sharing/)
 
 
 <!-- post-list:end -->
