@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, July 20, 2023 at 12:10:20 PM
+> Last updated: Thursday, July 20, 2023 at 6:48:21 PM
 
 > Showing 5 of 12 posts.
 
-[![React-ing to accessibility: Building accessible e-commerce forms that everyone can use](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React-ing_to_accessibility__Building_accessible_e-commerce_forms_that_everyone_can_use.svg)](https://dev.to/martabento/react-ing-to-accessibility-building-accessible-e-commerce-forms-that-everyone-can-use-5d8o)
-[![Calling for 100 builders](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Calling_for_100_builders.svg)](https://dev.to/rapha/calling-for-100-builders-48ld)
-[![Do telemarketing pro mundo dev 📞](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Do_telemarketing_pro_mundo_dev_📞.svg)](https://dev.to/anabergerr/do-telemarketing-pro-mundo-dev-498h)
-[![Using Replit with Node.js to build and deploy apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_Replit_with_Node.js_to_build_and_deploy_apps.svg)](https://dev.to/logrocket/using-replit-with-nodejs-to-build-and-deploy-apps-54gi)
-[![How to accelerate your code reviews?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_accelerate_your_code_reviews_.svg)](https://dev.to/reviewpad/how-to-accelerate-your-code-reviews-4p0m)
+[![Bulk Object Detection and Cropping with DETR](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Bulk_Object_Detection_and_Cropping_with_DETR.svg)](https://dev.to/sbang/object-detection-and-cropping-with-detr-2j2l)
+[![Building Portfolio with Next.js: Add Navbar, Footer, and Metadata](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_Portfolio_with_Next.js__Add_Navbar__Footer__and_Metadata.svg)](https://dev.to/adiatiayu/building-portfolio-with-nextjs-add-navbar-footer-and-metadata-3e3p)
+[![Competee: An online competition platform to unleash hidden talents 🏆](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Competee__An_online_competition_platform_to_unleash_hidden_talents_🏆.svg)](https://dev.to/alexcode4ever/competee-an-online-competition-platform-to-unleash-hidden-talents-nci)
+[![Managify: Manage Your Teams Easily](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Managify__Manage_Your_Teams_Easily.svg)](https://dev.to/rasitcolakel/manage-your-team-easily-with-managify-5gbp)
+[![Understanding useCallback() vs. useMemo() in React.js 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_useCallback()_vs._useMemo()_in_React.js_🚀.svg)](https://dev.to/kshaikreshma/understanding-usecallback-vs-usememo-in-reactjs-5bc7)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, July 20, 2023 at 12:10:23 PM
+> Last updated: Thursday, July 20, 2023 at 6:48:25 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, July 20, 2023 at 12:10:27 PM
+> Last updated: Thursday, July 20, 2023 at 6:48:27 PM
 
 > Showing 5 of 30 posts.
 
+[![Top Frontend Interview Questions And Answers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Top_Frontend_Interview_Questions_And_Answers.svg)](
+https://www.frontendinterviewquestions.com/interview-questions/typescript-interview-questions-and-answers
+)
+[![GitHub - Codium-ai/pr-agent: 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Codium-ai_pr-agent__🚀CodiumAI_PR-Agent__An_AI-Powered_🤖_Tool_for_Automated_Pull_Request_Analysis__Feedback__Suggestions_and_More!_💻🔍.svg)](https://github.com/Codium-ai/pr-agent)
 [![Simple React State Management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Simple_React_State_Management.svg)](https://daniel-payne-keldan-systems.medium.com/is-this-all-i-need-for-great-react-state-management-bd27d390e5a6)
 [![The `beforeEach()` Hook in Mocha](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_`beforeEach()`_Hook_in_Mocha.svg)](
 https://masteringjs.io/tutorials/mocha/beforeeach
 )
 [![Vrite Editor: Open-Source WYSIWYG Markdown Editor](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Vrite_Editor__Open-Source_WYSIWYG_Markdown_Editor.svg)](https://vrite.io/blog/vrite-editor-open-source-wysiwyg-markdown-editor/)
-[![Top Frontend Interview Questions And Answers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Top_Frontend_Interview_Questions_And_Answers.svg)](
-https://www.frontendinterviewquestions.com/interview-questions/javascript-developer-interview-questions-for-5-years-experience
-)
-[![API with NestJS #117. CORS - Cross-Origin Resource Sharing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__117._CORS_-_Cross-Origin_Resource_Sharing.svg)](https://wanago.io/2023/07/17/api-nestjs-cors-cross-origin-resource-sharing/)
 
 
 <!-- post-list:end -->
