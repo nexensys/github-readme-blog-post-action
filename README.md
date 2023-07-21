@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, July 21, 2023 at 6:15:48 AM
+> Last updated: Friday, July 21, 2023 at 12:10:54 PM
 
 > Showing 5 of 12 posts.
 
-[![🔒 Improve data integrity in your Node.js apps with Joi! 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🔒_Improve_data_integrity_in_your_Node.js_apps_with_Joi!_🚀.svg)](https://dev.to/iarchitsharma/improve-data-integrity-in-your-nodejs-apps-with-joi-52lj)
-[![This is How Generative AI Will Look in the Next 10–15 Years 🚀🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/This_is_How_Generative_AI_Will_Look_in_the_Next_10–15_Years_🚀🔥.svg)](https://dev.to/arjuncodess/this-is-how-generative-ai-will-look-in-the-next-10-15-years-3cl)
-[![Chrome Extensions of the Month - July 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Chrome_Extensions_of_the_Month_-_July_2023.svg)](https://dev.to/j471n/chrome-extensions-of-the-month-july-2023-2ea3)
-[![Level Up Your AWS CDK Development: Demystifying integ-runner and integ-test](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Level_Up_Your_AWS_CDK_Development__Demystifying_integ-runner_and_integ-test.svg)](https://dev.to/kumo/level-up-your-aws-cdk-development-demystifying-integ-runner-and-integ-test-542j)
-[![Composable Commerce - or: MACH Architectures in E-Commerce](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Composable_Commerce_-_or__MACH_Architectures_in_E-Commerce.svg)](https://dev.to/run_as_root/composable-commerce-or-mach-architectures-in-e-commerce-48j7)
+[![How to run LLAMA 2 on your local computer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_run_LLAMA_2_on_your_local_computer.svg)](https://dev.to/nithinibhandari1999/how-to-run-llama-2-on-your-local-computer-42g1)
+[![Card-Game-Utils, NPM package for card-games.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Card-Game-Utils__NPM_package_for_card-games..svg)](https://dev.to/mazimez/card-game-utils-npm-package-for-card-games-2be5)
+[![Hiding HTML elements](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Hiding_HTML_elements.svg)](https://dev.to/fleal/hiding-html-elements-2fn1)
+[![Commit with a Past Date and Time in Git](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Commit_with_a_Past_Date_and_Time_in_Git.svg)](https://dev.to/pradumnasaraf/commit-with-a-past-date-and-time-in-git-1j2f)
+[![Mastering Object-Oriented Programming with TypeScript: Encapsulation, Abstraction, Inheritance, and Polymorphism Explained](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_Object-Oriented_Programming_with_TypeScript__Encapsulation__Abstraction__Inheritance__and_Polymorphism_Explained.svg)](https://dev.to/rajrathod/mastering-object-oriented-programming-with-typescript-encapsulation-abstraction-inheritance-and-polymorphism-explained-c6p)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, July 21, 2023 at 6:15:52 AM
+> Last updated: Friday, July 21, 2023 at 12:10:56 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, July 21, 2023 at 6:15:55 AM
+> Last updated: Friday, July 21, 2023 at 12:10:59 PM
 
 > Showing 5 of 30 posts.
 
