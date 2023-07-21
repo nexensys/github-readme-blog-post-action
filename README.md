@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, July 20, 2023 at 6:48:21 PM
+> Last updated: Friday, July 21, 2023 at 12:11:23 AM
 
 > Showing 5 of 12 posts.
 
-[![Bulk Object Detection and Cropping with DETR](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Bulk_Object_Detection_and_Cropping_with_DETR.svg)](https://dev.to/sbang/object-detection-and-cropping-with-detr-2j2l)
-[![Building Portfolio with Next.js: Add Navbar, Footer, and Metadata](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_Portfolio_with_Next.js__Add_Navbar__Footer__and_Metadata.svg)](https://dev.to/adiatiayu/building-portfolio-with-nextjs-add-navbar-footer-and-metadata-3e3p)
-[![Competee: An online competition platform to unleash hidden talents 🏆](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Competee__An_online_competition_platform_to_unleash_hidden_talents_🏆.svg)](https://dev.to/alexcode4ever/competee-an-online-competition-platform-to-unleash-hidden-talents-nci)
-[![Managify: Manage Your Teams Easily](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Managify__Manage_Your_Teams_Easily.svg)](https://dev.to/rasitcolakel/manage-your-team-easily-with-managify-5gbp)
-[![Understanding useCallback() vs. useMemo() in React.js 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_useCallback()_vs._useMemo()_in_React.js_🚀.svg)](https://dev.to/kshaikreshma/understanding-usecallback-vs-usememo-in-reactjs-5bc7)
+[![The Power of React Dom For Front-End Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Power_of_React_Dom_For_Front-End_Development.svg)](https://dev.to/scofieldidehen/the-power-of-react-dom-for-front-end-development-47f9)
+[![Introduction to Common Programming Concepts in Rust](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_to_Common_Programming_Concepts_in_Rust.svg)](https://dev.to/charles_lukes/introduction-to-common-programming-concepts-in-rust-1c10)
+[![Beyond Tradition: Innovating with Component-Driven Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Beyond_Tradition__Innovating_with_Component-Driven_Development.svg)](https://dev.to/lakshmananarumugam/beyond-tradition-innovating-with-component-driven-development-2ed5)
+[![How to Build an E-commerce App in SwiftUI using Firebase](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Build_an_E-commerce_App_in_SwiftUI_using_Firebase.svg)](https://dev.to/mrcflorian/how-to-build-an-e-commerce-app-in-swiftui-using-firebase-55cd)
+[![Speed up you app by returning multi-dimensional data in Postgres with Supabase](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Speed_up_you_app_by_returning_multi-dimensional_data_in_Postgres_with_Supabase.svg)](https://dev.to/tholder/speed-up-you-app-by-returning-multi-dimensional-data-in-postgres-with-supabase-2520)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, July 20, 2023 at 6:48:25 PM
+> Last updated: Friday, July 21, 2023 at 12:11:27 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, July 20, 2023 at 6:48:27 PM
+> Last updated: Friday, July 21, 2023 at 12:11:32 AM
 
 > Showing 5 of 30 posts.
 
