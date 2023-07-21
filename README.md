@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, July 21, 2023 at 12:11:23 AM
+> Last updated: Friday, July 21, 2023 at 6:15:48 AM
 
 > Showing 5 of 12 posts.
 
-[![The Power of React Dom For Front-End Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Power_of_React_Dom_For_Front-End_Development.svg)](https://dev.to/scofieldidehen/the-power-of-react-dom-for-front-end-development-47f9)
-[![Introduction to Common Programming Concepts in Rust](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_to_Common_Programming_Concepts_in_Rust.svg)](https://dev.to/charles_lukes/introduction-to-common-programming-concepts-in-rust-1c10)
-[![Beyond Tradition: Innovating with Component-Driven Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Beyond_Tradition__Innovating_with_Component-Driven_Development.svg)](https://dev.to/lakshmananarumugam/beyond-tradition-innovating-with-component-driven-development-2ed5)
-[![How to Build an E-commerce App in SwiftUI using Firebase](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Build_an_E-commerce_App_in_SwiftUI_using_Firebase.svg)](https://dev.to/mrcflorian/how-to-build-an-e-commerce-app-in-swiftui-using-firebase-55cd)
-[![Speed up you app by returning multi-dimensional data in Postgres with Supabase](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Speed_up_you_app_by_returning_multi-dimensional_data_in_Postgres_with_Supabase.svg)](https://dev.to/tholder/speed-up-you-app-by-returning-multi-dimensional-data-in-postgres-with-supabase-2520)
+[![🔒 Improve data integrity in your Node.js apps with Joi! 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🔒_Improve_data_integrity_in_your_Node.js_apps_with_Joi!_🚀.svg)](https://dev.to/iarchitsharma/improve-data-integrity-in-your-nodejs-apps-with-joi-52lj)
+[![This is How Generative AI Will Look in the Next 10–15 Years 🚀🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/This_is_How_Generative_AI_Will_Look_in_the_Next_10–15_Years_🚀🔥.svg)](https://dev.to/arjuncodess/this-is-how-generative-ai-will-look-in-the-next-10-15-years-3cl)
+[![Chrome Extensions of the Month - July 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Chrome_Extensions_of_the_Month_-_July_2023.svg)](https://dev.to/j471n/chrome-extensions-of-the-month-july-2023-2ea3)
+[![Level Up Your AWS CDK Development: Demystifying integ-runner and integ-test](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Level_Up_Your_AWS_CDK_Development__Demystifying_integ-runner_and_integ-test.svg)](https://dev.to/kumo/level-up-your-aws-cdk-development-demystifying-integ-runner-and-integ-test-542j)
+[![Composable Commerce - or: MACH Architectures in E-Commerce](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Composable_Commerce_-_or__MACH_Architectures_in_E-Commerce.svg)](https://dev.to/run_as_root/composable-commerce-or-mach-architectures-in-e-commerce-48j7)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, July 21, 2023 at 12:11:27 AM
+> Last updated: Friday, July 21, 2023 at 6:15:52 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, July 21, 2023 at 12:11:32 AM
+> Last updated: Friday, July 21, 2023 at 6:15:55 AM
 
 > Showing 5 of 30 posts.
 
+[![How to select a Framework for Design System Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_select_a_Framework_for_Design_System_Components.svg)](https://www.voorhoede.nl/en/blog/how-to-select-framework-design-system-components/)
 [![Top Frontend Interview Questions And Answers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Top_Frontend_Interview_Questions_And_Answers.svg)](
 https://www.frontendinterviewquestions.com/interview-questions/typescript-interview-questions-and-answers
 )
@@ -55,7 +56,6 @@ https://www.frontendinterviewquestions.com/interview-questions/typescript-interv
 [![The `beforeEach()` Hook in Mocha](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_`beforeEach()`_Hook_in_Mocha.svg)](
 https://masteringjs.io/tutorials/mocha/beforeeach
 )
-[![Vrite Editor: Open-Source WYSIWYG Markdown Editor](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Vrite_Editor__Open-Source_WYSIWYG_Markdown_Editor.svg)](https://vrite.io/blog/vrite-editor-open-source-wysiwyg-markdown-editor/)
 
 
 <!-- post-list:end -->
