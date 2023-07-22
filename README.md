@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, July 21, 2023 at 6:48:31 PM
+> Last updated: Saturday, July 22, 2023 at 12:09:54 AM
 
 > Showing 5 of 12 posts.
 
+[![Python Beginner Courses: Top 10 Best Online Python Courses for Aspiring Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Python_Beginner_Courses__Top_10_Best_Online_Python_Courses_for_Aspiring_Developers.svg)](https://dev.to/max24816/python-beginner-courses-top-10-best-online-python-courses-for-aspiring-developers-623)
+[![useEffect() Hook in React: A Comprehensive Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/useEffect()_Hook_in_React__A_Comprehensive_Guide.svg)](https://dev.to/abidullah786/useeffect-hook-in-react-a-comprehensive-guide-1367)
+[![Array Strengths, Weaknesses, and Big-O Complexity Analysis](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Array_Strengths__Weaknesses__and_Big-O_Complexity_Analysis.svg)](https://dev.to/ggorantala/array-strengths-weaknesses-and-big-o-complexity-analysis-4aho)
+[![Resolving viewport duplication in Next.js 13.4](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Resolving_viewport_duplication_in_Next.js_13.4.svg)](https://dev.to/oler/resolving-viewport-duplication-in-nextjs-134-51lm)
 [![Resolvendo a duplicidade do viewport no Next.js 13.4](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Resolvendo_a_duplicidade_do_viewport_no_Next.js_13.4.svg)](https://dev.to/oler/resolvendo-a-duplicidade-do-viewport-no-nextjs-134-3hki)
-[![Have Engineering Leaders Become Too Hands-off?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Have_Engineering_Leaders_Become_Too_Hands-off_.svg)](https://dev.to/linearb/have-engineering-leaders-become-too-hands-off-12ci)
-[![My first day writing code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_first_day_writing_code.svg)](https://dev.to/biancacorreia/my-first-day-writing-code-2368)
-[![Instalar xampp en ChromeOS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Instalar_xampp_en_ChromeOS.svg)](https://dev.to/pacmankabh/instalar-xampp-en-chromeos-3h5d)
-[![AWS IAM: Creating an IAM User for Access Management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_IAM__Creating_an_IAM_User_for_Access_Management.svg)](https://dev.to/arbythecoder/aws-iam-creating-an-iam-user-for-access-management-53be)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, July 21, 2023 at 6:48:35 PM
+> Last updated: Saturday, July 22, 2023 at 12:09:57 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, July 21, 2023 at 6:48:38 PM
+> Last updated: Saturday, July 22, 2023 at 12:10:01 AM
 
 > Showing 5 of 30 posts.
 
