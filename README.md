@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, July 21, 2023 at 12:10:54 PM
+> Last updated: Friday, July 21, 2023 at 6:48:31 PM
 
 > Showing 5 of 12 posts.
 
-[![How to run LLAMA 2 on your local computer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_run_LLAMA_2_on_your_local_computer.svg)](https://dev.to/nithinibhandari1999/how-to-run-llama-2-on-your-local-computer-42g1)
-[![Card-Game-Utils, NPM package for card-games.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Card-Game-Utils__NPM_package_for_card-games..svg)](https://dev.to/mazimez/card-game-utils-npm-package-for-card-games-2be5)
-[![Hiding HTML elements](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Hiding_HTML_elements.svg)](https://dev.to/fleal/hiding-html-elements-2fn1)
-[![Commit with a Past Date and Time in Git](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Commit_with_a_Past_Date_and_Time_in_Git.svg)](https://dev.to/pradumnasaraf/commit-with-a-past-date-and-time-in-git-1j2f)
-[![Mastering Object-Oriented Programming with TypeScript: Encapsulation, Abstraction, Inheritance, and Polymorphism Explained](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_Object-Oriented_Programming_with_TypeScript__Encapsulation__Abstraction__Inheritance__and_Polymorphism_Explained.svg)](https://dev.to/rajrathod/mastering-object-oriented-programming-with-typescript-encapsulation-abstraction-inheritance-and-polymorphism-explained-c6p)
+[![Resolvendo a duplicidade do viewport no Next.js 13.4](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Resolvendo_a_duplicidade_do_viewport_no_Next.js_13.4.svg)](https://dev.to/oler/resolvendo-a-duplicidade-do-viewport-no-nextjs-134-3hki)
+[![Have Engineering Leaders Become Too Hands-off?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Have_Engineering_Leaders_Become_Too_Hands-off_.svg)](https://dev.to/linearb/have-engineering-leaders-become-too-hands-off-12ci)
+[![My first day writing code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_first_day_writing_code.svg)](https://dev.to/biancacorreia/my-first-day-writing-code-2368)
+[![Instalar xampp en ChromeOS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Instalar_xampp_en_ChromeOS.svg)](https://dev.to/pacmankabh/instalar-xampp-en-chromeos-3h5d)
+[![AWS IAM: Creating an IAM User for Access Management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_IAM__Creating_an_IAM_User_for_Access_Management.svg)](https://dev.to/arbythecoder/aws-iam-creating-an-iam-user-for-access-management-53be)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, July 21, 2023 at 12:10:56 PM
+> Last updated: Friday, July 21, 2023 at 6:48:35 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, July 21, 2023 at 12:10:59 PM
+> Last updated: Friday, July 21, 2023 at 6:48:38 PM
 
 > Showing 5 of 30 posts.
 
+[![Top Frontend Interview Questions And Answers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Top_Frontend_Interview_Questions_And_Answers.svg)](
+https://www.frontendinterviewquestions.com/interview-questions/top-20%2B-css3-interview-questions-and-answers
+)
 [![How to select a Framework for Design System Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_select_a_Framework_for_Design_System_Components.svg)](https://www.voorhoede.nl/en/blog/how-to-select-framework-design-system-components/)
 [![Top Frontend Interview Questions And Answers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Top_Frontend_Interview_Questions_And_Answers.svg)](
 https://www.frontendinterviewquestions.com/interview-questions/typescript-interview-questions-and-answers
 )
 [![GitHub - Codium-ai/pr-agent: 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Codium-ai_pr-agent__🚀CodiumAI_PR-Agent__An_AI-Powered_🤖_Tool_for_Automated_Pull_Request_Analysis__Feedback__Suggestions_and_More!_💻🔍.svg)](https://github.com/Codium-ai/pr-agent)
 [![Simple React State Management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Simple_React_State_Management.svg)](https://daniel-payne-keldan-systems.medium.com/is-this-all-i-need-for-great-react-state-management-bd27d390e5a6)
-[![The `beforeEach()` Hook in Mocha](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/The_`beforeEach()`_Hook_in_Mocha.svg)](
-https://masteringjs.io/tutorials/mocha/beforeeach
-)
 
 
 <!-- post-list:end -->
