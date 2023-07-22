@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, July 22, 2023 at 6:14:38 AM
+> Last updated: Saturday, July 22, 2023 at 12:09:24 PM
 
 > Showing 5 of 12 posts.
 
-[![Code and Chill Guide 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Code_and_Chill_Guide_2023.svg)](https://dev.to/parmcoder/code-and-chill-guide-2023-aek)
-[![WhatsApp Web Scraper - Find and Export Contacts!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/WhatsApp_Web_Scraper_-_Find_and_Export_Contacts!.svg)](https://dev.to/mrmjt/whatsapp-web-scraper-find-and-export-contacts-1i1g)
-[![Understanding Lists in Python: An In-Depth Overview](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_Lists_in_Python__An_In-Depth_Overview.svg)](https://dev.to/srbhr/understanding-lists-in-python-an-in-depth-overview-3aak)
-[![Creativity & Innovation: Game-changers in Coding?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creativity___Innovation__Game-changers_in_Coding_.svg)](https://dev.to/codenewbieteam/top-notch-coding-qualities-creativity-innovation-1p9o)
-[![Mastering TypeScript Modules: Organize, Reuse, and Collaborate with Ease](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_TypeScript_Modules__Organize__Reuse__and_Collaborate_with_Ease.svg)](https://dev.to/rajrathod/mastering-typescript-modules-organize-reuse-and-collaborate-with-ease-5334)
+[![Understanding Line Break Types: CR LF, LF, and CR](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_Line_Break_Types__CR_LF__LF__and_CR.svg)](https://dev.to/pranjal-barnwal/understanding-line-break-types-cr-lf-lf-and-cr-3lg2)
+[![PHP - Create your own Data Validator in PHP: Step-by-Step](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/PHP_-_Create_your_own_Data_Validator_in_PHP__Step-by-Step.svg)](https://dev.to/fadymr/php-create-your-own-data-validator-in-php-step-by-step-3pbi)
+[![Automate Python Linting and Code Style Enforcement with Ruff and GitHub Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Automate_Python_Linting_and_Code_Style_Enforcement_with_Ruff_and_GitHub_Actions.svg)](https://dev.to/ken_mwaura1/automate-python-linting-and-code-style-enforcement-with-ruff-and-github-actions-2kk1)
+[![Language Models For Dummies #2 - Popular Language Models 🤖](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Language_Models_For_Dummies__2_-_Popular_Language_Models_🤖.svg)](https://dev.to/layanyashoda/language-models-for-dummies-2-popular-language-models-6cp)
+[![Data Migration Strategies in Ruby on Rails: The Right Way to Manage Missing Data](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Data_Migration_Strategies_in_Ruby_on_Rails__The_Right_Way_to_Manage_Missing_Data.svg)](https://dev.to/vladhilko/data-migration-strategies-in-ruby-on-rails-the-right-way-to-manage-missing-data-3dbe)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, July 22, 2023 at 6:14:42 AM
+> Last updated: Saturday, July 22, 2023 at 12:09:28 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, July 22, 2023 at 6:14:45 AM
+> Last updated: Saturday, July 22, 2023 at 12:09:31 PM
 
 > Showing 5 of 30 posts.
 
+[![Framework | Neutralinojs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Framework___Neutralinojs.svg)](https://neutralino.js.org/docs/release-notes/framework)
 [![GitHub - underpig1/octos: HTML live wallpaper engine :rocket:](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_underpig1_octos__HTML_live_wallpaper_engine__rocket_.svg)](https://github.com/underpig1/octos)
 [![Top Frontend Interview Questions And Answers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Top_Frontend_Interview_Questions_And_Answers.svg)](
 https://www.frontendinterviewquestions.com/interview-questions/top-20%2B-css3-interview-questions-and-answers
@@ -55,7 +56,6 @@ https://www.frontendinterviewquestions.com/interview-questions/top-20%2B-css3-in
 [![Top Frontend Interview Questions And Answers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Top_Frontend_Interview_Questions_And_Answers.svg)](
 https://www.frontendinterviewquestions.com/interview-questions/typescript-interview-questions-and-answers
 )
-[![GitHub - Codium-ai/pr-agent: 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Codium-ai_pr-agent__🚀CodiumAI_PR-Agent__An_AI-Powered_🤖_Tool_for_Automated_Pull_Request_Analysis__Feedback__Suggestions_and_More!_💻🔍.svg)](https://github.com/Codium-ai/pr-agent)
 
 
 <!-- post-list:end -->
