@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, July 22, 2023 at 6:52:40 PM
+> Last updated: Sunday, July 23, 2023 at 12:10:30 AM
 
 > Showing 5 of 12 posts.
 
-[![📦~Flexbox~📦 {"Java","HTML","CSS"}](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/📦~Flexbox~📦_{_Java___HTML___CSS_}.svg)](https://dev.to/vikran7_pa7el_/flexbox-javahtmlcss-4hfm)
+[![🎯 Top 10 Documentations Every Flutter Developer Should Know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🎯_Top_10_Documentations_Every_Flutter_Developer_Should_Know.svg)](https://dev.to/yatendra2001/top-10-documentations-every-flutter-developer-should-know-1g7)
+[![AI Utopia is Hell](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AI_Utopia_is_Hell.svg)](https://dev.to/cheetah100/ai-utopia-is-hell-2c45)
+[![Bandit Level 4 Level 5](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Bandit_Level_4_Level_5.svg)](https://dev.to/christianpaez/bandit-level-4-level-5-1mmf)
+[![How to Add "Install App" Option to Your Website: Progressive Web Apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Add__Install_App__Option_to_Your_Website__Progressive_Web_Apps.svg)](https://dev.to/sh20raj/how-to-add-install-app-option-to-your-website-progressive-web-apps-4ff3)
 [![How To Learn Programming](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Learn_Programming.svg)](https://dev.to/delightfulengineering/how-to-learn-programming-1nnl)
-[![Rust Me Baby All Night Long](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Rust_Me_Baby_All_Night_Long.svg)](https://dev.to/philipjohnbasile/rust-me-baby-all-night-long-4a06)
-[![All you need to know about AWS Solutions Architect Associate Certificate](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/All_you_need_to_know_about_AWS_Solutions_Architect_Associate_Certificate.svg)](https://dev.to/ujjwalkhatri/all-you-need-to-know-about-aws-solutions-architect-associate-certificate-36ja)
-[![Understanding Line Break Types: CR LF, LF, and CR](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_Line_Break_Types__CR_LF__LF__and_CR.svg)](https://dev.to/pranjal-barnwal/understanding-line-break-types-cr-lf-lf-and-cr-3lg2)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, July 22, 2023 at 6:52:42 PM
+> Last updated: Sunday, July 23, 2023 at 12:10:34 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, July 22, 2023 at 6:52:45 PM
+> Last updated: Sunday, July 23, 2023 at 12:10:37 AM
 
 > Showing 5 of 30 posts.
 
+[![Top Frontend Interview Questions And Answers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Top_Frontend_Interview_Questions_And_Answers.svg)](
+https://www.frontendinterviewquestions.com/interview-questions/javascript-coding-interview-questions-and-answers
+)
 [![Framework | Neutralinojs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Framework___Neutralinojs.svg)](https://neutralino.js.org/docs/release-notes/framework)
 [![GitHub - underpig1/octos: HTML live wallpaper engine :rocket:](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_underpig1_octos__HTML_live_wallpaper_engine__rocket_.svg)](https://github.com/underpig1/octos)
 [![Top Frontend Interview Questions And Answers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Top_Frontend_Interview_Questions_And_Answers.svg)](
 https://www.frontendinterviewquestions.com/interview-questions/top-20%2B-css3-interview-questions-and-answers
 )
 [![How to select a Framework for Design System Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_select_a_Framework_for_Design_System_Components.svg)](https://www.voorhoede.nl/en/blog/how-to-select-framework-design-system-components/)
-[![Top Frontend Interview Questions And Answers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Top_Frontend_Interview_Questions_And_Answers.svg)](
-https://www.frontendinterviewquestions.com/interview-questions/typescript-interview-questions-and-answers
-)
 
 
 <!-- post-list:end -->
