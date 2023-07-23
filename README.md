@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, July 23, 2023 at 6:13:56 AM
+> Last updated: Sunday, July 23, 2023 at 12:09:22 PM
 
 > Showing 5 of 12 posts.
 
-[![Open-Source Website Builder - Simpllo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Open-Source_Website_Builder_-_Simpllo.svg)](https://dev.to/sm0ke/free-open-source-website-builder-42bc)
-[![Object-Oriented Programming (OOP) in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Object-Oriented_Programming_(OOP)_in_JavaScript.svg)](https://dev.to/diwakarkashyap/object-oriented-programming-oop-in-javascript-cfm)
-[![How to Choose the Right MQTT Data Storage for Your Next Project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Choose_the_Right_MQTT_Data_Storage_for_Your_Next_Project.svg)](https://dev.to/reductstore/how-to-choose-the-right-mqtt-data-storage-for-your-next-project-1031)
-[![Django Caching 101: Understanding the Basics and Beyond](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Django_Caching_101__Understanding_the_Basics_and_Beyond.svg)](https://dev.to/pragativerma18/django-caching-101-understanding-the-basics-and-beyond-49p)
-[![AWS VPC: Private Subnets Increase Risk](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_VPC__Private_Subnets_Increase_Risk.svg)](https://dev.to/wparad/aws-vpc-private-subnets-increase-risk-4147)
+[![Best Practices for Naming Classes in HTML and CSS Files](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_Practices_for_Naming_Classes_in_HTML_and_CSS_Files.svg)](https://dev.to/stakedesigner/best-practices-for-naming-classes-in-html-and-css-files-2kb5)
+[![Would anyone be interested in a simple Lists App?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Would_anyone_be_interested_in_a_simple_Lists_App_.svg)](https://dev.to/c5h8nnao4/would-anyone-be-interested-in-a-simple-lists-app-16d3)
+[![Unleashing the Power of WordPress: Transforming Your Blogging Experience](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unleashing_the_Power_of_WordPress__Transforming_Your_Blogging_Experience.svg)](https://dev.to/getsmartwebsite/unleashing-the-power-of-wordpress-transforming-your-blogging-experience-3c40)
+[![SOLID principles in Dart(Flutter)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/SOLID_principles_in_Dart(Flutter).svg)](https://dev.to/lionnelt/solid-principles-in-dartflutter-2g21)
+[![ASP.net mvc de kodundaki değişiklik tarayıcıda da uygulansın istiyorsan](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/ASP.net_mvc_de_kodundaki_değişiklik_tarayıcıda_da_uygulansın_istiyorsan.svg)](https://dev.to/mustafacam/aspnet-mvc-de-kodundaki-degisiklik-tarayicida-da-uygulansin-istiyorsan-3hkp)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, July 23, 2023 at 6:13:59 AM
+> Last updated: Sunday, July 23, 2023 at 12:09:25 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, July 23, 2023 at 6:14:02 AM
+> Last updated: Sunday, July 23, 2023 at 12:09:28 PM
 
 > Showing 5 of 30 posts.
 
