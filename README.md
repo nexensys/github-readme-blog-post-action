@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, July 23, 2023 at 12:10:30 AM
+> Last updated: Sunday, July 23, 2023 at 6:13:56 AM
 
 > Showing 5 of 12 posts.
 
-[![🎯 Top 10 Documentations Every Flutter Developer Should Know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🎯_Top_10_Documentations_Every_Flutter_Developer_Should_Know.svg)](https://dev.to/yatendra2001/top-10-documentations-every-flutter-developer-should-know-1g7)
-[![AI Utopia is Hell](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AI_Utopia_is_Hell.svg)](https://dev.to/cheetah100/ai-utopia-is-hell-2c45)
-[![Bandit Level 4 Level 5](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Bandit_Level_4_Level_5.svg)](https://dev.to/christianpaez/bandit-level-4-level-5-1mmf)
-[![How to Add "Install App" Option to Your Website: Progressive Web Apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Add__Install_App__Option_to_Your_Website__Progressive_Web_Apps.svg)](https://dev.to/sh20raj/how-to-add-install-app-option-to-your-website-progressive-web-apps-4ff3)
-[![How To Learn Programming](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Learn_Programming.svg)](https://dev.to/delightfulengineering/how-to-learn-programming-1nnl)
+[![Open-Source Website Builder - Simpllo](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Open-Source_Website_Builder_-_Simpllo.svg)](https://dev.to/sm0ke/free-open-source-website-builder-42bc)
+[![Object-Oriented Programming (OOP) in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Object-Oriented_Programming_(OOP)_in_JavaScript.svg)](https://dev.to/diwakarkashyap/object-oriented-programming-oop-in-javascript-cfm)
+[![How to Choose the Right MQTT Data Storage for Your Next Project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Choose_the_Right_MQTT_Data_Storage_for_Your_Next_Project.svg)](https://dev.to/reductstore/how-to-choose-the-right-mqtt-data-storage-for-your-next-project-1031)
+[![Django Caching 101: Understanding the Basics and Beyond](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Django_Caching_101__Understanding_the_Basics_and_Beyond.svg)](https://dev.to/pragativerma18/django-caching-101-understanding-the-basics-and-beyond-49p)
+[![AWS VPC: Private Subnets Increase Risk](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_VPC__Private_Subnets_Increase_Risk.svg)](https://dev.to/wparad/aws-vpc-private-subnets-increase-risk-4147)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, July 23, 2023 at 12:10:34 AM
+> Last updated: Sunday, July 23, 2023 at 6:13:59 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, July 23, 2023 at 12:10:37 AM
+> Last updated: Sunday, July 23, 2023 at 6:14:02 AM
 
 > Showing 5 of 30 posts.
 
