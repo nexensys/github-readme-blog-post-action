@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, July 22, 2023 at 12:09:24 PM
+> Last updated: Saturday, July 22, 2023 at 6:52:40 PM
 
 > Showing 5 of 12 posts.
 
+[![📦~Flexbox~📦 {"Java","HTML","CSS"}](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/📦~Flexbox~📦_{_Java___HTML___CSS_}.svg)](https://dev.to/vikran7_pa7el_/flexbox-javahtmlcss-4hfm)
+[![How To Learn Programming](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Learn_Programming.svg)](https://dev.to/delightfulengineering/how-to-learn-programming-1nnl)
+[![Rust Me Baby All Night Long](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Rust_Me_Baby_All_Night_Long.svg)](https://dev.to/philipjohnbasile/rust-me-baby-all-night-long-4a06)
+[![All you need to know about AWS Solutions Architect Associate Certificate](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/All_you_need_to_know_about_AWS_Solutions_Architect_Associate_Certificate.svg)](https://dev.to/ujjwalkhatri/all-you-need-to-know-about-aws-solutions-architect-associate-certificate-36ja)
 [![Understanding Line Break Types: CR LF, LF, and CR](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_Line_Break_Types__CR_LF__LF__and_CR.svg)](https://dev.to/pranjal-barnwal/understanding-line-break-types-cr-lf-lf-and-cr-3lg2)
-[![PHP - Create your own Data Validator in PHP: Step-by-Step](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/PHP_-_Create_your_own_Data_Validator_in_PHP__Step-by-Step.svg)](https://dev.to/fadymr/php-create-your-own-data-validator-in-php-step-by-step-3pbi)
-[![Automate Python Linting and Code Style Enforcement with Ruff and GitHub Actions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Automate_Python_Linting_and_Code_Style_Enforcement_with_Ruff_and_GitHub_Actions.svg)](https://dev.to/ken_mwaura1/automate-python-linting-and-code-style-enforcement-with-ruff-and-github-actions-2kk1)
-[![Language Models For Dummies #2 - Popular Language Models 🤖](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Language_Models_For_Dummies__2_-_Popular_Language_Models_🤖.svg)](https://dev.to/layanyashoda/language-models-for-dummies-2-popular-language-models-6cp)
-[![Data Migration Strategies in Ruby on Rails: The Right Way to Manage Missing Data](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Data_Migration_Strategies_in_Ruby_on_Rails__The_Right_Way_to_Manage_Missing_Data.svg)](https://dev.to/vladhilko/data-migration-strategies-in-ruby-on-rails-the-right-way-to-manage-missing-data-3dbe)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, July 22, 2023 at 12:09:28 PM
+> Last updated: Saturday, July 22, 2023 at 6:52:42 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, July 22, 2023 at 12:09:31 PM
+> Last updated: Saturday, July 22, 2023 at 6:52:45 PM
 
 > Showing 5 of 30 posts.
 
