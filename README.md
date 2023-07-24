@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, July 23, 2023 at 12:09:22 PM
+> Last updated: Sunday, July 23, 2023 at 6:50:24 PM
 
 > Showing 5 of 12 posts.
 
-[![Best Practices for Naming Classes in HTML and CSS Files](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_Practices_for_Naming_Classes_in_HTML_and_CSS_Files.svg)](https://dev.to/stakedesigner/best-practices-for-naming-classes-in-html-and-css-files-2kb5)
-[![Would anyone be interested in a simple Lists App?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Would_anyone_be_interested_in_a_simple_Lists_App_.svg)](https://dev.to/c5h8nnao4/would-anyone-be-interested-in-a-simple-lists-app-16d3)
-[![Unleashing the Power of WordPress: Transforming Your Blogging Experience](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unleashing_the_Power_of_WordPress__Transforming_Your_Blogging_Experience.svg)](https://dev.to/getsmartwebsite/unleashing-the-power-of-wordpress-transforming-your-blogging-experience-3c40)
-[![SOLID principles in Dart(Flutter)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/SOLID_principles_in_Dart(Flutter).svg)](https://dev.to/lionnelt/solid-principles-in-dartflutter-2g21)
-[![ASP.net mvc de kodundaki değişiklik tarayıcıda da uygulansın istiyorsan](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/ASP.net_mvc_de_kodundaki_değişiklik_tarayıcıda_da_uygulansın_istiyorsan.svg)](https://dev.to/mustafacam/aspnet-mvc-de-kodundaki-degisiklik-tarayicida-da-uygulansin-istiyorsan-3hkp)
+[![Python Networking: Servers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Python_Networking__Servers.svg)](https://dev.to/cwprogram/python-networking-servers-4jm1)
+[![Clean Code 101: Variable Naming Conventions - Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Clean_Code_101__Variable_Naming_Conventions_-_Part_1.svg)](https://dev.to/mohitsinghchauhan/clean-code-101-variable-naming-conventions-part-1-1c1a)
+[![Embarking on the Frontend Development Journey in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Embarking_on_the_Frontend_Development_Journey_in_2023.svg)](https://dev.to/wizarddeveloper/embarking-on-the-frontend-development-journey-in-2023-39am)
+[![Using Postgresql pg_vector for AI: Part 2, Using vectors For Natural Language Processing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_Postgresql_pg_vector_for_AI__Part_2__Using_vectors_For_Natural_Language_Processing.svg)](https://dev.to/jjn1056/using-postgresql-pgvector-for-ai-part-2-using-vectors-for-natural-language-processing-b40)
+[![Docker: Simplifying Application Deployment and Management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Docker__Simplifying_Application_Deployment_and_Management.svg)](https://dev.to/ankitrival618/docker-simplifying-application-deployment-and-management-3n1n)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, July 23, 2023 at 12:09:25 PM
+> Last updated: Sunday, July 23, 2023 at 6:50:26 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, July 23, 2023 at 12:09:28 PM
+> Last updated: Sunday, July 23, 2023 at 6:50:29 PM
 
 > Showing 5 of 30 posts.
 
