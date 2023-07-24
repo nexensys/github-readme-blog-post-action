@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, July 24, 2023 at 6:16:30 AM
+> Last updated: Monday, July 24, 2023 at 12:12:14 PM
 
 > Showing 5 of 12 posts.
 
-[![GitHub Actions in Automation: Display Latest Blog Posts and Badges on your GitHub Profile](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/GitHub_Actions_in_Automation__Display_Latest_Blog_Posts_and_Badges_on_your_GitHub_Profile.svg)](https://dev.to/paschalogu/github-actions-in-automation-display-latest-blog-posts-and-badges-on-your-github-profile-46fa)
-[![Custom scaffolding with Copilot - July Update](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Custom_scaffolding_with_Copilot_-_July_Update.svg)](https://dev.to/this-is-learning/custom-scaffolding-with-copilot-july-update-473m)
-[![Top 10 Best Web Application Security Best Practices for Developers to Follow](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_10_Best_Web_Application_Security_Best_Practices_for_Developers_to_Follow.svg)](https://dev.to/dhruvjoshi9/top-10-best-web-application-security-best-practices-for-developers-to-follow-239e)
-[![Yes! OpenTelemetry is a Critical Part of Securing Your Systems](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Yes!_OpenTelemetry_is_a_Critical_Part_of_Securing_Your_Systems.svg)](https://dev.to/mbogan/yes-opentelemetry-is-a-critical-part-of-securing-your-systems-f6g)
-[![Building a coffee delivery chatbot with React, ChatGPT and TypeChat 🤖](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_coffee_delivery_chatbot_with_React__ChatGPT_and_TypeChat_🤖.svg)](https://dev.to/dev_bre/building-a-coffe-delivery-chatbot-with-react-chatgpt-and-typechat-1go0)
+[![Bandit Level 5 Level 6](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Bandit_Level_5_Level_6.svg)](https://dev.to/christianpaez/bandit-level-5-level-6-1o65)
+[![Ponteiros 🤮](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ponteiros_🤮.svg)](https://dev.to/leviackr/ponteiros-2e9c)
+[![Caption This! 🤔💭](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Caption_This!_🤔💭.svg)](https://dev.to/thepracticaldev/caption-this-m6p)
+[![Writing a NES game day 12, The Aqualate!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Writing_a_NES_game_day_12__The_Aqualate!.svg)](https://dev.to/pablosoifer1/writing-a-nes-game-day-12-the-aqualate-j6j)
+[![The Latest Updates on Next.js in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Latest_Updates_on_Next.js_in_2023.svg)](https://dev.to/wizarddeveloper/the-latest-updates-on-nextjs-in-2023-410e)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, July 24, 2023 at 6:16:32 AM
+> Last updated: Monday, July 24, 2023 at 12:12:16 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, July 24, 2023 at 6:16:35 AM
+> Last updated: Monday, July 24, 2023 at 12:12:19 PM
 
 > Showing 5 of 30 posts.
 
+[![Top Frontend Interview Questions And Answers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Top_Frontend_Interview_Questions_And_Answers.svg)](
+https://frontendinterviewquestions.com/interview-questions/how-do-you-ensure-type-safety-while-working-with-third-party-libraries-that-don't-have-typescript-support
+)
 [![GitHub - srbhr/Resume-Matcher: Open Source Free ATS Tool to compare Resumes with Job Descriptions and create a score to rank them.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_srbhr_Resume-Matcher__Open_Source_Free_ATS_Tool_to_compare_Resumes_with_Job_Descriptions_and_create_a_score_to_rank_them..svg)](https://github.com/srbhr/Resume-Matcher)
 [![Top Frontend Interview Questions And Answers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Top_Frontend_Interview_Questions_And_Answers.svg)](
 https://www.frontendinterviewquestions.com/interview-questions/javascript-coding-interview-questions-and-answers
 )
 [![Framework | Neutralinojs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Framework___Neutralinojs.svg)](https://neutralino.js.org/docs/release-notes/framework)
 [![GitHub - underpig1/octos: HTML live wallpaper engine :rocket:](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_underpig1_octos__HTML_live_wallpaper_engine__rocket_.svg)](https://github.com/underpig1/octos)
-[![Top Frontend Interview Questions And Answers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Top_Frontend_Interview_Questions_And_Answers.svg)](
-https://www.frontendinterviewquestions.com/interview-questions/top-20%2B-css3-interview-questions-and-answers
-)
 
 
 <!-- post-list:end -->
