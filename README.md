@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, July 23, 2023 at 6:50:24 PM
+> Last updated: Monday, July 24, 2023 at 12:12:01 AM
 
 > Showing 5 of 12 posts.
 
-[![Python Networking: Servers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Python_Networking__Servers.svg)](https://dev.to/cwprogram/python-networking-servers-4jm1)
-[![Clean Code 101: Variable Naming Conventions - Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Clean_Code_101__Variable_Naming_Conventions_-_Part_1.svg)](https://dev.to/mohitsinghchauhan/clean-code-101-variable-naming-conventions-part-1-1c1a)
-[![Embarking on the Frontend Development Journey in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Embarking_on_the_Frontend_Development_Journey_in_2023.svg)](https://dev.to/wizarddeveloper/embarking-on-the-frontend-development-journey-in-2023-39am)
-[![Using Postgresql pg_vector for AI: Part 2, Using vectors For Natural Language Processing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_Postgresql_pg_vector_for_AI__Part_2__Using_vectors_For_Natural_Language_Processing.svg)](https://dev.to/jjn1056/using-postgresql-pgvector-for-ai-part-2-using-vectors-for-natural-language-processing-b40)
-[![Docker: Simplifying Application Deployment and Management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Docker__Simplifying_Application_Deployment_and_Management.svg)](https://dev.to/ankitrival618/docker-simplifying-application-deployment-and-management-3n1n)
+[![What is SGPA?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_SGPA_.svg)](https://dev.to/oliviasmit12427/what-is-sgpa-4dlj)
+[![How I Learned To Code In 6 Months & Got a Job Offer (self-taught)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_I_Learned_To_Code_In_6_Months___Got_a_Job_Offer_(self-taught).svg)](https://dev.to/scofieldidehen/how-i-learned-to-code-in-6-months-got-a-job-offer-self-taught-18pm)
+[![Asynchronous JavaScript: Everything you need to know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Asynchronous_JavaScript__Everything_you_need_to_know.svg)](https://dev.to/scofieldidehen/asynchronous-javascript-everything-you-need-to-know-cec)
+[![Configure SSH Keys for Your GitHub Account](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Configure_SSH_Keys_for_Your_GitHub_Account.svg)](https://dev.to/builditdeploy/configure-ssh-keys-for-your-github-account-3ll1)
+[![My Experience At AWS Community Day Malaysia 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_Experience_At_AWS_Community_Day_Malaysia_2023.svg)](https://dev.to/dheeraj3choudhary/my-experience-at-aws-community-day-malaysia-2023-1je6)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, July 23, 2023 at 6:50:26 PM
+> Last updated: Monday, July 24, 2023 at 12:12:05 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, July 23, 2023 at 6:50:29 PM
+> Last updated: Monday, July 24, 2023 at 12:12:09 AM
 
 > Showing 5 of 30 posts.
 
