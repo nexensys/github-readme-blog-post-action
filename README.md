@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, July 24, 2023 at 12:12:14 PM
+> Last updated: Monday, July 24, 2023 at 6:53:10 PM
 
 > Showing 5 of 12 posts.
 
-[![Bandit Level 5 Level 6](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Bandit_Level_5_Level_6.svg)](https://dev.to/christianpaez/bandit-level-5-level-6-1o65)
-[![Ponteiros 🤮](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ponteiros_🤮.svg)](https://dev.to/leviackr/ponteiros-2e9c)
-[![Caption This! 🤔💭](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Caption_This!_🤔💭.svg)](https://dev.to/thepracticaldev/caption-this-m6p)
-[![Writing a NES game day 12, The Aqualate!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Writing_a_NES_game_day_12__The_Aqualate!.svg)](https://dev.to/pablosoifer1/writing-a-nes-game-day-12-the-aqualate-j6j)
-[![The Latest Updates on Next.js in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Latest_Updates_on_Next.js_in_2023.svg)](https://dev.to/wizarddeveloper/the-latest-updates-on-nextjs-in-2023-410e)
+[![🪂 How to Secure React.js App Auth with Redux and Node.js 🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🪂_How_to_Secure_React.js_App_Auth_with_Redux_and_Node.js_🔥.svg)](https://dev.to/idurar/how-to-secure-reactjs-app-auth-with-redux-and-nodejs-4ma3)
+[![Update myFiles to ALPHA 1.3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Update_myFiles_to_ALPHA_1.3.svg)](https://dev.to/blueberry077/update-myfiles-to-alpha-13-1m13)
+[![i puzzle game i made](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/i_puzzle_game_i_made.svg)](https://dev.to/jossse69/i-puzzle-game-i-made-4mob)
+[![Guide to Generating SSL Certificates Using OpenSSL for Web Applications](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Guide_to_Generating_SSL_Certificates_Using_OpenSSL_for_Web_Applications.svg)](https://dev.to/intikhabalam/guide-to-generating-ssl-certificates-using-openssl-for-web-applications-i6n)
+[![How to Save the Data in IPFS Using the Pinata(2023)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Save_the_Data_in_IPFS_Using_the_Pinata(2023).svg)](https://dev.to/cryptoninja0617/how-to-save-the-data-in-ipfs-using-the-pinata2023-1p0g)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, July 24, 2023 at 12:12:16 PM
+> Last updated: Monday, July 24, 2023 at 6:53:12 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, July 24, 2023 at 12:12:19 PM
+> Last updated: Monday, July 24, 2023 at 6:53:16 PM
 
 > Showing 5 of 30 posts.
 
-[![Top Frontend Interview Questions And Answers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Top_Frontend_Interview_Questions_And_Answers.svg)](
-https://frontendinterviewquestions.com/interview-questions/how-do-you-ensure-type-safety-while-working-with-third-party-libraries-that-don't-have-typescript-support
-)
-[![GitHub - srbhr/Resume-Matcher: Open Source Free ATS Tool to compare Resumes with Job Descriptions and create a score to rank them.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_srbhr_Resume-Matcher__Open_Source_Free_ATS_Tool_to_compare_Resumes_with_Job_Descriptions_and_create_a_score_to_rank_them..svg)](https://github.com/srbhr/Resume-Matcher)
-[![Top Frontend Interview Questions And Answers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Top_Frontend_Interview_Questions_And_Answers.svg)](
-https://www.frontendinterviewquestions.com/interview-questions/javascript-coding-interview-questions-and-answers
-)
+[![Introduction to managing a private NPM registry with Verdaccio](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Introduction_to_managing_a_private_NPM_registry_with_Verdaccio.svg)](https://wanago.io/2023/07/24/verdaccio-private-npm-registry/)
 [![Framework | Neutralinojs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Framework___Neutralinojs.svg)](https://neutralino.js.org/docs/release-notes/framework)
 [![GitHub - underpig1/octos: HTML live wallpaper engine :rocket:](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_underpig1_octos__HTML_live_wallpaper_engine__rocket_.svg)](https://github.com/underpig1/octos)
+[![How to select a Framework for Design System Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_select_a_Framework_for_Design_System_Components.svg)](https://www.voorhoede.nl/en/blog/how-to-select-framework-design-system-components/)
+[![GitHub - Codium-ai/pr-agent: 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Codium-ai_pr-agent__🚀CodiumAI_PR-Agent__An_AI-Powered_🤖_Tool_for_Automated_Pull_Request_Analysis__Feedback__Suggestions_and_More!_💻🔍.svg)](https://github.com/Codium-ai/pr-agent)
 
 
 <!-- post-list:end -->
