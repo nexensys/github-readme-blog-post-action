@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, July 25, 2023 at 12:11:06 AM
+> Last updated: Tuesday, July 25, 2023 at 6:17:02 AM
 
 > Showing 5 of 12 posts.
 
-[![10 Best DevOps Strategies for Accelerating Software Delivery](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_Best_DevOps_Strategies_for_Accelerating_Software_Delivery.svg)](https://dev.to/edenwheeler/10-best-devops-strategies-for-accelerating-software-delivery-4e3d)
-[![Ubuntu 22.04 NEXUS OSS Kurulumu](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ubuntu_22.04_NEXUS_OSS_Kurulumu.svg)](https://dev.to/aciklab/ubuntu-2204-nexus-oss-kurulumu-6gk)
-[![What Are SOLID Design Principles](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_Are_SOLID_Design_Principles.svg)](https://dev.to/ggorantala/what-are-solid-design-principles-1n22)
-[![Exploring Genetic Algorithms with Ruby](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exploring_Genetic_Algorithms_with_Ruby.svg)](https://dev.to/rpaweb/exploring-genetic-algorithms-with-ruby-4lae)
-[![How To Construct An Array-Like Data Structure?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Construct_An_Array-Like_Data_Structure_.svg)](https://dev.to/ggorantala/how-to-construct-an-array-like-data-structure-255k)
+[![Open Source ABCs: Android](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Open_Source_ABCs__Android.svg)](https://dev.to/opensauced/open-source-abcs-android-3akb)
+[![The Force Awakens: A Jedi's Guide to Developing Postgres Extensions in C](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Force_Awakens__A_Jedi's_Guide_to_Developing_Postgres_Extensions_in_C.svg)](https://dev.to/4bdul4ziz/the-force-awakens-a-jedis-guide-to-developing-postgres-extensions-in-c-17le)
+[![Manager Handbook for Distributed AntDB-T - P1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Manager_Handbook_for_Distributed_AntDB-T_-_P1.svg)](https://dev.to/antdbanhui/antdb-t-distributed-managers-handbook-p1-13ah)
+[![Tokenization in Blockchain 🚀🌐](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tokenization_in_Blockchain_🚀🌐.svg)](https://dev.to/akshaykurhekar/tokenization-in-blockchain-4c1)
+[![Getting Started with TypeScript: Benefits and Best Practices for JavaScript Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_Started_with_TypeScript__Benefits_and_Best_Practices_for_JavaScript_Developers.svg)](https://dev.to/sajeeb_me/getting-started-with-typescript-benefits-and-best-practices-for-javascript-developers-3p8g)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, July 25, 2023 at 12:11:09 AM
+> Last updated: Tuesday, July 25, 2023 at 6:17:05 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, July 25, 2023 at 12:11:14 AM
+> Last updated: Tuesday, July 25, 2023 at 6:17:11 AM
 
 > Showing 5 of 30 posts.
 
+[![Emmanuel Katto's "Emka Foundation" to Make a Continuous Positive Impact in the Life of Unprivileged Children - PR.com](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Emmanuel_Katto's__Emka_Foundation__to_Make_a_Continuous_Positive_Impact_in_the_Life_of_Unprivileged_Children_-_PR.com.svg)](https://www.pr.com/press-release/891507)
 [![GitHub - MarketingPipeline/OnThisDay.js: A JavaScript library to find out what events happened today or any provided day in history.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_MarketingPipeline_OnThisDay.js__A_JavaScript_library_to_find_out_what_events_happened_today_or_any_provided_day_in_history..svg)](https://github.com/MarketingPipeline/OnThisDay.js)
 [![Introduction to managing a private NPM registry with Verdaccio](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Introduction_to_managing_a_private_NPM_registry_with_Verdaccio.svg)](https://wanago.io/2023/07/24/verdaccio-private-npm-registry/)
 [![Framework | Neutralinojs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Framework___Neutralinojs.svg)](https://neutralino.js.org/docs/release-notes/framework)
 [![GitHub - underpig1/octos: HTML live wallpaper engine :rocket:](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_underpig1_octos__HTML_live_wallpaper_engine__rocket_.svg)](https://github.com/underpig1/octos)
-[![How to select a Framework for Design System Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_select_a_Framework_for_Design_System_Components.svg)](https://www.voorhoede.nl/en/blog/how-to-select-framework-design-system-components/)
 
 
 <!-- post-list:end -->
