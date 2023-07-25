@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, July 24, 2023 at 6:53:10 PM
+> Last updated: Tuesday, July 25, 2023 at 12:11:06 AM
 
 > Showing 5 of 12 posts.
 
-[![🪂 How to Secure React.js App Auth with Redux and Node.js 🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🪂_How_to_Secure_React.js_App_Auth_with_Redux_and_Node.js_🔥.svg)](https://dev.to/idurar/how-to-secure-reactjs-app-auth-with-redux-and-nodejs-4ma3)
-[![Update myFiles to ALPHA 1.3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Update_myFiles_to_ALPHA_1.3.svg)](https://dev.to/blueberry077/update-myfiles-to-alpha-13-1m13)
-[![i puzzle game i made](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/i_puzzle_game_i_made.svg)](https://dev.to/jossse69/i-puzzle-game-i-made-4mob)
-[![Guide to Generating SSL Certificates Using OpenSSL for Web Applications](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Guide_to_Generating_SSL_Certificates_Using_OpenSSL_for_Web_Applications.svg)](https://dev.to/intikhabalam/guide-to-generating-ssl-certificates-using-openssl-for-web-applications-i6n)
-[![How to Save the Data in IPFS Using the Pinata(2023)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Save_the_Data_in_IPFS_Using_the_Pinata(2023).svg)](https://dev.to/cryptoninja0617/how-to-save-the-data-in-ipfs-using-the-pinata2023-1p0g)
+[![10 Best DevOps Strategies for Accelerating Software Delivery](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_Best_DevOps_Strategies_for_Accelerating_Software_Delivery.svg)](https://dev.to/edenwheeler/10-best-devops-strategies-for-accelerating-software-delivery-4e3d)
+[![Ubuntu 22.04 NEXUS OSS Kurulumu](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ubuntu_22.04_NEXUS_OSS_Kurulumu.svg)](https://dev.to/aciklab/ubuntu-2204-nexus-oss-kurulumu-6gk)
+[![What Are SOLID Design Principles](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_Are_SOLID_Design_Principles.svg)](https://dev.to/ggorantala/what-are-solid-design-principles-1n22)
+[![Exploring Genetic Algorithms with Ruby](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exploring_Genetic_Algorithms_with_Ruby.svg)](https://dev.to/rpaweb/exploring-genetic-algorithms-with-ruby-4lae)
+[![How To Construct An Array-Like Data Structure?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_To_Construct_An_Array-Like_Data_Structure_.svg)](https://dev.to/ggorantala/how-to-construct-an-array-like-data-structure-255k)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, July 24, 2023 at 6:53:12 PM
+> Last updated: Tuesday, July 25, 2023 at 12:11:09 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, July 24, 2023 at 6:53:16 PM
+> Last updated: Tuesday, July 25, 2023 at 12:11:14 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - MarketingPipeline/OnThisDay.js: A JavaScript library to find out what events happened today or any provided day in history.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_MarketingPipeline_OnThisDay.js__A_JavaScript_library_to_find_out_what_events_happened_today_or_any_provided_day_in_history..svg)](https://github.com/MarketingPipeline/OnThisDay.js)
 [![Introduction to managing a private NPM registry with Verdaccio](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Introduction_to_managing_a_private_NPM_registry_with_Verdaccio.svg)](https://wanago.io/2023/07/24/verdaccio-private-npm-registry/)
 [![Framework | Neutralinojs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Framework___Neutralinojs.svg)](https://neutralino.js.org/docs/release-notes/framework)
 [![GitHub - underpig1/octos: HTML live wallpaper engine :rocket:](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_underpig1_octos__HTML_live_wallpaper_engine__rocket_.svg)](https://github.com/underpig1/octos)
 [![How to select a Framework for Design System Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_select_a_Framework_for_Design_System_Components.svg)](https://www.voorhoede.nl/en/blog/how-to-select-framework-design-system-components/)
-[![GitHub - Codium-ai/pr-agent: 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_Codium-ai_pr-agent__🚀CodiumAI_PR-Agent__An_AI-Powered_🤖_Tool_for_Automated_Pull_Request_Analysis__Feedback__Suggestions_and_More!_💻🔍.svg)](https://github.com/Codium-ai/pr-agent)
 
 
 <!-- post-list:end -->
