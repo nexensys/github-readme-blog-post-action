@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, July 25, 2023 at 6:17:02 AM
+> Last updated: Tuesday, July 25, 2023 at 12:10:00 PM
 
 > Showing 5 of 12 posts.
 
-[![Open Source ABCs: Android](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Open_Source_ABCs__Android.svg)](https://dev.to/opensauced/open-source-abcs-android-3akb)
-[![The Force Awakens: A Jedi's Guide to Developing Postgres Extensions in C](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Force_Awakens__A_Jedi's_Guide_to_Developing_Postgres_Extensions_in_C.svg)](https://dev.to/4bdul4ziz/the-force-awakens-a-jedis-guide-to-developing-postgres-extensions-in-c-17le)
-[![Manager Handbook for Distributed AntDB-T - P1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Manager_Handbook_for_Distributed_AntDB-T_-_P1.svg)](https://dev.to/antdbanhui/antdb-t-distributed-managers-handbook-p1-13ah)
-[![Tokenization in Blockchain 🚀🌐](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tokenization_in_Blockchain_🚀🌐.svg)](https://dev.to/akshaykurhekar/tokenization-in-blockchain-4c1)
-[![Getting Started with TypeScript: Benefits and Best Practices for JavaScript Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_Started_with_TypeScript__Benefits_and_Best_Practices_for_JavaScript_Developers.svg)](https://dev.to/sajeeb_me/getting-started-with-typescript-benefits-and-best-practices-for-javascript-developers-3p8g)
+[![Mastering AJAX for Sports Data: A Comprehensive Guide to Seamless Web Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_AJAX_for_Sports_Data__A_Comprehensive_Guide_to_Seamless_Web_Development.svg)](https://dev.to/jacknorman235/mastering-ajax-for-sports-data-a-comprehensive-guide-to-seamless-web-development-31h1)
+[![Fix VS Code Explorer for Content Projects](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Fix_VS_Code_Explorer_for_Content_Projects.svg)](https://dev.to/chantastic/fix-vs-code-explorer-for-content-projects-21p0)
+[![A Motivational Guide for Software Developers 💪](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Motivational_Guide_for_Software_Developers_💪.svg)](https://dev.to/evansifyke/a-motivational-guide-for-software-developers-3bml)
+[![The Art Of Messy Code - Chapter 0 : Unconventional Solutions for Challenging Scenarios](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Art_Of_Messy_Code_-_Chapter_0___Unconventional_Solutions_for_Challenging_Scenarios.svg)](https://dev.to/darkterminal/unconventional-solutions-for-challenging-scenarios-285b)
+[![More Accessible Graphs with Jetpack Compose Part 1: Adding Content Description](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/More_Accessible_Graphs_with_Jetpack_Compose_Part_1__Adding_Content_Description.svg)](https://dev.to/eevajonnapanula/more-accessible-graphs-with-jetpack-compose-part-1-adding-content-description-43be)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, July 25, 2023 at 6:17:05 AM
+> Last updated: Tuesday, July 25, 2023 at 12:10:03 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, July 25, 2023 at 6:17:11 AM
+> Last updated: Tuesday, July 25, 2023 at 12:10:07 PM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - shpingalet007/element-selector: Simple web element selector inspired by Chrome DevTools](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_shpingalet007_element-selector__Simple_web_element_selector_inspired_by_Chrome_DevTools.svg)](https://github.com/shpingalet007/element-selector)
 [![Emmanuel Katto's "Emka Foundation" to Make a Continuous Positive Impact in the Life of Unprivileged Children - PR.com](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Emmanuel_Katto's__Emka_Foundation__to_Make_a_Continuous_Positive_Impact_in_the_Life_of_Unprivileged_Children_-_PR.com.svg)](https://www.pr.com/press-release/891507)
 [![GitHub - MarketingPipeline/OnThisDay.js: A JavaScript library to find out what events happened today or any provided day in history.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_MarketingPipeline_OnThisDay.js__A_JavaScript_library_to_find_out_what_events_happened_today_or_any_provided_day_in_history..svg)](https://github.com/MarketingPipeline/OnThisDay.js)
 [![Introduction to managing a private NPM registry with Verdaccio](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Introduction_to_managing_a_private_NPM_registry_with_Verdaccio.svg)](https://wanago.io/2023/07/24/verdaccio-private-npm-registry/)
 [![Framework | Neutralinojs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Framework___Neutralinojs.svg)](https://neutralino.js.org/docs/release-notes/framework)
-[![GitHub - underpig1/octos: HTML live wallpaper engine :rocket:](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_underpig1_octos__HTML_live_wallpaper_engine__rocket_.svg)](https://github.com/underpig1/octos)
 
 
 <!-- post-list:end -->
