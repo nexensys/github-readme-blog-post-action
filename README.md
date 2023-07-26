@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, July 26, 2023 at 12:10:46 AM
+> Last updated: Wednesday, July 26, 2023 at 6:15:42 AM
 
 > Showing 5 of 12 posts.
 
-[![LeetBuddies: Follow friends on Leetcode](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/LeetBuddies__Follow_friends_on_Leetcode.svg)](https://dev.to/mohitsinghchauhan/leetbuddies-follow-friends-on-leetcode-575a)
-[![How to Integrate ChatGPT API in React Native](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Integrate_ChatGPT_API_in_React_Native.svg)](https://dev.to/mrcflorian/how-to-integrate-chatgpt-api-in-react-native-3k1j)
-[![📃 😎 DocKing: manage document templates & render PDFs microservice](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/📃_😎_DocKing__manage_document_templates___render_PDFs_microservice.svg)](https://dev.to/sethsandaru/docking-manage-document-templates-render-pdfs-microservice-1apc)
-[![Mastering Web Navigation: How to Save Time and Effort with Text-Fragments](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_Web_Navigation__How_to_Save_Time_and_Effort_with_Text-Fragments.svg)](https://dev.to/ankitbrijwasi/mastering-web-navigation-how-to-save-time-and-effort-with-text-fragments-4plb)
-[![Enum in javascript 🤯](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Enum_in_javascript_🤯.svg)](https://dev.to/lakshmananarumugam/enum-in-javascript-4980)
+[![Soft Delete: Dealing With Unique Constraint in Real-World Case](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Soft_Delete__Dealing_With_Unique_Constraint_in_Real-World_Case.svg)](https://dev.to/zenstack/soft-delete-dealing-with-unique-constraint-in-real-world-case-4p4n)
+[![Logto Cloud is officially launched!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Logto_Cloud_is_officially_launched!.svg)](https://dev.to/logto/logto-cloud-is-officially-launched-506c)
+[![Mastering CSS Margins, Padding, and the Box Model](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_CSS_Margins__Padding__and_the_Box_Model.svg)](https://dev.to/devshefali/mastering-css-margins-padding-and-the-box-model-52fc)
+[![Realtime Applications: React.js && Websockets, processing real-time data!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Realtime_Applications__React.js____Websockets__processing_real-time_data!.svg)](https://dev.to/sfundomhlungu/realtime-applications-reactjs-websockets-processing-real-time-data-54b9)
+[![💉 Test-Driven Development and Dependency Injection are the way](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/💉_Test-Driven_Development_and_Dependency_Injection_are_the_way.svg)](https://dev.to/antoinecoulon/test-driven-development-and-dependency-injection-are-the-way-cib)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, July 26, 2023 at 12:10:50 AM
+> Last updated: Wednesday, July 26, 2023 at 6:15:45 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, July 26, 2023 at 12:10:56 AM
+> Last updated: Wednesday, July 26, 2023 at 6:15:49 AM
 
 > Showing 5 of 30 posts.
 
