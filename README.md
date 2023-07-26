@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, July 25, 2023 at 12:10:00 PM
+> Last updated: Tuesday, July 25, 2023 at 6:47:37 PM
 
 > Showing 5 of 12 posts.
 
-[![Mastering AJAX for Sports Data: A Comprehensive Guide to Seamless Web Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_AJAX_for_Sports_Data__A_Comprehensive_Guide_to_Seamless_Web_Development.svg)](https://dev.to/jacknorman235/mastering-ajax-for-sports-data-a-comprehensive-guide-to-seamless-web-development-31h1)
-[![Fix VS Code Explorer for Content Projects](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Fix_VS_Code_Explorer_for_Content_Projects.svg)](https://dev.to/chantastic/fix-vs-code-explorer-for-content-projects-21p0)
-[![A Motivational Guide for Software Developers 💪](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Motivational_Guide_for_Software_Developers_💪.svg)](https://dev.to/evansifyke/a-motivational-guide-for-software-developers-3bml)
-[![The Art Of Messy Code - Chapter 0 : Unconventional Solutions for Challenging Scenarios](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Art_Of_Messy_Code_-_Chapter_0___Unconventional_Solutions_for_Challenging_Scenarios.svg)](https://dev.to/darkterminal/unconventional-solutions-for-challenging-scenarios-285b)
-[![More Accessible Graphs with Jetpack Compose Part 1: Adding Content Description](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/More_Accessible_Graphs_with_Jetpack_Compose_Part_1__Adding_Content_Description.svg)](https://dev.to/eevajonnapanula/more-accessible-graphs-with-jetpack-compose-part-1-adding-content-description-43be)
+[![Begineer: Synchronous vs Asynchronous Programming](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Begineer__Synchronous_vs_Asynchronous_Programming.svg)](https://dev.to/maxwiggedal/begineer-synchronous-vs-asynchronous-programming-4k96)
+[![Resetting MySQL Root Password in Ubuntu: A Step-by-Step Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Resetting_MySQL_Root_Password_in_Ubuntu__A_Step-by-Step_Guide.svg)](https://dev.to/asifzcpe/resetting-mysql-root-password-in-ubuntu-a-step-by-step-guide-3gnd)
+[![Setting up SSL Certificate with Nginx](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Setting_up_SSL_Certificate_with_Nginx.svg)](https://dev.to/ajipelumi/setting-up-ssl-certificate-with-nginx-48gn)
+[![Why Is PostgreSQL Getting So Popular](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_Is_PostgreSQL_Getting_So_Popular.svg)](https://dev.to/maimoonaabid/why-is-postgresql-getting-so-popular-4o7m)
+[![Introduction to Kubernetes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_to_Kubernetes.svg)](https://dev.to/mesut-oezdil/introduction-to-kubernetes-30ki)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, July 25, 2023 at 12:10:03 PM
+> Last updated: Tuesday, July 25, 2023 at 6:47:40 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, July 25, 2023 at 12:10:07 PM
+> Last updated: Tuesday, July 25, 2023 at 6:47:45 PM
 
 > Showing 5 of 30 posts.
 
