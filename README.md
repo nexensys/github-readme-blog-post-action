@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, July 26, 2023 at 6:15:42 AM
+> Last updated: Wednesday, July 26, 2023 at 12:09:59 PM
 
 > Showing 5 of 12 posts.
 
-[![Soft Delete: Dealing With Unique Constraint in Real-World Case](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Soft_Delete__Dealing_With_Unique_Constraint_in_Real-World_Case.svg)](https://dev.to/zenstack/soft-delete-dealing-with-unique-constraint-in-real-world-case-4p4n)
-[![Logto Cloud is officially launched!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Logto_Cloud_is_officially_launched!.svg)](https://dev.to/logto/logto-cloud-is-officially-launched-506c)
-[![Mastering CSS Margins, Padding, and the Box Model](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_CSS_Margins__Padding__and_the_Box_Model.svg)](https://dev.to/devshefali/mastering-css-margins-padding-and-the-box-model-52fc)
-[![Realtime Applications: React.js && Websockets, processing real-time data!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Realtime_Applications__React.js____Websockets__processing_real-time_data!.svg)](https://dev.to/sfundomhlungu/realtime-applications-reactjs-websockets-processing-real-time-data-54b9)
-[![💉 Test-Driven Development and Dependency Injection are the way](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/💉_Test-Driven_Development_and_Dependency_Injection_are_the_way.svg)](https://dev.to/antoinecoulon/test-driven-development-and-dependency-injection-are-the-way-cib)
+[![Building a Document Viewer with react-pdf](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_Document_Viewer_with_react-pdf.svg)](https://dev.to/mfts/building-a-beautiful-document-viewer-with-react-pdf-666)
+[![AWS Elemental MediaConvert Service](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_Elemental_MediaConvert_Service.svg)](https://dev.to/aws-builders/aws-elemental-mediaconvert-service-27el)
+[![Dynamic Arrays vs Traditional Arrays, With Illustrations and Examples](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dynamic_Arrays_vs_Traditional_Arrays__With_Illustrations_and_Examples.svg)](https://dev.to/ggorantala/dynamic-arrays-vs-traditional-arrays-with-code-examples-5dch)
+[![Roadmap for ReactJS Developers in 2023 | Zero to Hero](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Roadmap_for_ReactJS_Developers_in_2023___Zero_to_Hero.svg)](https://dev.to/blackhorse0101/roadmap-for-reactjs-developers-in-2023-zero-to-hero-nhb)
+[![Unveiling AI-Logger: The Future of Debugging in Node.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unveiling_AI-Logger__The_Future_of_Debugging_in_Node.js.svg)](https://dev.to/victorforissier/unveiling-ai-logger-the-future-of-debugging-in-nodejs-41l8)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, July 26, 2023 at 6:15:45 AM
+> Last updated: Wednesday, July 26, 2023 at 12:10:04 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, July 26, 2023 at 6:15:49 AM
+> Last updated: Wednesday, July 26, 2023 at 12:10:10 PM
 
 > Showing 5 of 30 posts.
 
+[![Building a Hot Dog/Not Hot Dog Image Classifier in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_a_Hot_Dog_Not_Hot_Dog_Image_Classifier_in_JavaScript.svg)](https://masteringjs.substack.com/p/building-a-hot-dognot-hot-dog-image)
 [![GitHub - shpingalet007/element-selector: Simple web element selector inspired by Chrome DevTools](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_shpingalet007_element-selector__Simple_web_element_selector_inspired_by_Chrome_DevTools.svg)](https://github.com/shpingalet007/element-selector)
 [![Emmanuel Katto's "Emka Foundation" to Make a Continuous Positive Impact in the Life of Unprivileged Children - PR.com](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Emmanuel_Katto's__Emka_Foundation__to_Make_a_Continuous_Positive_Impact_in_the_Life_of_Unprivileged_Children_-_PR.com.svg)](https://www.pr.com/press-release/891507)
 [![GitHub - MarketingPipeline/OnThisDay.js: A JavaScript library to find out what events happened today or any provided day in history.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_MarketingPipeline_OnThisDay.js__A_JavaScript_library_to_find_out_what_events_happened_today_or_any_provided_day_in_history..svg)](https://github.com/MarketingPipeline/OnThisDay.js)
 [![Introduction to managing a private NPM registry with Verdaccio](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Introduction_to_managing_a_private_NPM_registry_with_Verdaccio.svg)](https://wanago.io/2023/07/24/verdaccio-private-npm-registry/)
-[![Framework | Neutralinojs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Framework___Neutralinojs.svg)](https://neutralino.js.org/docs/release-notes/framework)
 
 
 <!-- post-list:end -->
