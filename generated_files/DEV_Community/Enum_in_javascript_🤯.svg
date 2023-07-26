@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 610 110" width="600" height="100" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <style>
+      .title {
+        font-size: 1.5em;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        white-space: nowrap;
+      }
+      .description {
+        font-size: 0.75em;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+      }
+      .text {
+        text-align: start;
+        padding: 10px;
+        height: calc(100% - 20px);
+        margin-left: 100px;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+        color: black;
+      }
+           .date {
+        font-size: 0.5em;
+        opacity: 0.5;
+        text-align: end;
+        position: absolute;
+        bottom: 0;
+        right: 10px;
+        color: black;
+      }
+      .image {
+        height: 100px;
+        width: 100px;
+        background-image: url("data:image/png;base64,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");
+        background-size: cover;
+        position: absolute;
+        top: 0;
+        left: 0;
+        border-radius: 10px;
+        background-position: center;
+      }
+      .main {
+        fill: white;
+      }
+      .data {
+        opacity: 0.75;
+        text-align: start;
+        position: absolute;
+        bottom: 0;
+        padding-bottom: 5px;
+        left: 110px;
+        color: black;
+        max-width: 400px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+      }
+      .author {
+        opacity: 0.75;
+        font-size: 0.5em;
+      }
+      .category {
+        background-color: rgba(0, 0, 0, 0.25);
+        border-radius: 0.25em;
+        padding: 0.125em 0.25em;
+        font-size: 0.75em;
+        color: rgba(0, 0, 0, 0.8);
+      }
+    </style>
+  </defs>
+  <g class="main">
+    <rect class="content" width="600" height="100" stroke="rgba(0, 0, 0, 0.5)" x="5" y="5" rx="10" />
+    <foreignObject width="600" height="100" x="5" y="5">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
+        <div class="image" />
+<div class="text">
+          <div class="title">Enum&#0032;in&#0032;javascript&#0032;🤯</div>
+          <div class="description">In&#0032;JavaScript&#0044;&#0032;there&#0032;is&#0032;no&#0032;built&#0045;in&#0032;enum&#0032;type&#0032;like&#0032;in&#0032;some&#0032;other&#0032;programming&#0032;languages&#0032;&#0040;e&#0046;g&#0046;&#0044;&#0032;Java&#0032;or&#0046;&#0046;&#0046;</div>
+          <div class="date">7&#0047;26&#0047;23</div>
+          <div class="data">
+            <span class="author">Lakshmanan&#0032;Arumugam</span> <span class="category">webdev</span> <span class="category">javascript</span> <span class="category">beginners</span> <span class="category">typescript</span>
+          </div>
+        </div>
+      </div>
+    </foreignObject>
+  </g>
+</svg>

@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, July 25, 2023 at 6:47:37 PM
+> Last updated: Wednesday, July 26, 2023 at 12:10:46 AM
 
 > Showing 5 of 12 posts.
 
-[![Begineer: Synchronous vs Asynchronous Programming](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Begineer__Synchronous_vs_Asynchronous_Programming.svg)](https://dev.to/maxwiggedal/begineer-synchronous-vs-asynchronous-programming-4k96)
-[![Resetting MySQL Root Password in Ubuntu: A Step-by-Step Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Resetting_MySQL_Root_Password_in_Ubuntu__A_Step-by-Step_Guide.svg)](https://dev.to/asifzcpe/resetting-mysql-root-password-in-ubuntu-a-step-by-step-guide-3gnd)
-[![Setting up SSL Certificate with Nginx](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Setting_up_SSL_Certificate_with_Nginx.svg)](https://dev.to/ajipelumi/setting-up-ssl-certificate-with-nginx-48gn)
-[![Why Is PostgreSQL Getting So Popular](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_Is_PostgreSQL_Getting_So_Popular.svg)](https://dev.to/maimoonaabid/why-is-postgresql-getting-so-popular-4o7m)
-[![Introduction to Kubernetes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_to_Kubernetes.svg)](https://dev.to/mesut-oezdil/introduction-to-kubernetes-30ki)
+[![LeetBuddies: Follow friends on Leetcode](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/LeetBuddies__Follow_friends_on_Leetcode.svg)](https://dev.to/mohitsinghchauhan/leetbuddies-follow-friends-on-leetcode-575a)
+[![How to Integrate ChatGPT API in React Native](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Integrate_ChatGPT_API_in_React_Native.svg)](https://dev.to/mrcflorian/how-to-integrate-chatgpt-api-in-react-native-3k1j)
+[![📃 😎 DocKing: manage document templates & render PDFs microservice](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/📃_😎_DocKing__manage_document_templates___render_PDFs_microservice.svg)](https://dev.to/sethsandaru/docking-manage-document-templates-render-pdfs-microservice-1apc)
+[![Mastering Web Navigation: How to Save Time and Effort with Text-Fragments](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_Web_Navigation__How_to_Save_Time_and_Effort_with_Text-Fragments.svg)](https://dev.to/ankitbrijwasi/mastering-web-navigation-how-to-save-time-and-effort-with-text-fragments-4plb)
+[![Enum in javascript 🤯](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Enum_in_javascript_🤯.svg)](https://dev.to/lakshmananarumugam/enum-in-javascript-4980)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, July 25, 2023 at 6:47:40 PM
+> Last updated: Wednesday, July 26, 2023 at 12:10:50 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, July 25, 2023 at 6:47:45 PM
+> Last updated: Wednesday, July 26, 2023 at 12:10:56 AM
 
 > Showing 5 of 30 posts.
 
