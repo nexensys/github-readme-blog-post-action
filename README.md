@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, July 27, 2023 at 12:11:04 AM
+> Last updated: Thursday, July 27, 2023 at 12:10:08 PM
 
 > Showing 5 of 12 posts.
 
-[![How to add pg_embedding extension to PostgreSQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_add_pg_embedding_extension_to_PostgreSQL.svg)](https://dev.to/bkmalan/how-to-add-pgembedding-extension-to-postgresql-2ii6)
-[![Add "Add to Home Screen" Functionality to Your Progressive Web App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Add__Add_to_Home_Screen__Functionality_to_Your_Progressive_Web_App.svg)](https://dev.to/sh20raj/add-add-to-home-screen-functionality-to-your-progressive-web-app-2h0n)
-[![JavaScript Arrays Methods In Detail Part 3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_Arrays_Methods_In_Detail_Part_3.svg)](https://dev.to/abidullah786/javascript-arrays-methods-in-detail-part-3-3phl)
-[![Front end practice: CSS and SCSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Front_end_practice__CSS_and_SCSS.svg)](https://dev.to/lakshmananarumugam/front-end-practice-css-and-scss-5eea)
-[![How to prevent dark mode effect on HTML form elements](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_prevent_dark_mode_effect_on_HTML_form_elements.svg)](https://dev.to/tawhiduldev/how-to-prevent-dark-mode-effect-on-html-form-elements-1ml5)
+[![Getting Started with React.js: A Beginner's Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_Started_with_React.js__A_Beginner's_Guide.svg)](https://dev.to/wizarddeveloper/getting-started-with-reactjs-a-beginners-guide-30p1)
+[![Making a 3D Parallax Effect with CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Making_a_3D_Parallax_Effect_with_CSS.svg)](https://dev.to/rashidshamloo/making-a-3d-parallax-effect-with-css-2kpp)
+[![Using Sveltris to build interoperable React and Svelte apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_Sveltris_to_build_interoperable_React_and_Svelte_apps.svg)](https://dev.to/logrocket/using-sveltris-to-build-interoperable-react-and-svelte-apps-1j76)
+[![📸 Gallery-Flex:Hover](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/📸_Gallery-Flex_Hover.svg)](https://dev.to/gjosueo/gallery-flexhover-1ilf)
+[![Commit Changes to a New Branch with Git](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Commit_Changes_to_a_New_Branch_with_Git.svg)](https://dev.to/chenz/commit-changes-to-a-new-branch-with-git-d4d)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, July 27, 2023 at 12:11:08 AM
+> Last updated: Thursday, July 27, 2023 at 12:10:11 PM
 
 > Showing 4 of 4 posts.
 
+[![Name mangling](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Name_mangling.svg)](https://javascriptweekly.com/issues/649)
 [![The tale of how static typing came to JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/The_tale_of_how_static_typing_came_to_JavaScript.svg)](https://javascriptweekly.com/issues/648)
 [![htmx in 100 seconds](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/htmx_in_100_seconds.svg)](https://javascriptweekly.com/issues/647)
 [![CommonJS, we love you, we love you not..](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/CommonJS__we_love_you__we_love_you_not...svg)](https://javascriptweekly.com/issues/646)
-[![This is a doozy of an issue](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/This_is_a_doozy_of_an_issue.svg)](https://javascriptweekly.com/issues/645)
 
 
 ## Echo JS
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, July 27, 2023 at 12:11:13 AM
+> Last updated: Thursday, July 27, 2023 at 12:10:16 PM
 
 > Showing 5 of 30 posts.
 
-[![Building a Hot Dog/Not Hot Dog Image Classifier in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_a_Hot_Dog_Not_Hot_Dog_Image_Classifier_in_JavaScript.svg)](https://masteringjs.substack.com/p/building-a-hot-dognot-hot-dog-image)
+[![Modularizing Your Frontend: From Simple Monolith](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Modularizing_Your_Frontend__From_Simple_Monolith.svg)](https://okhivrych.io/my-talk-at-the-cityjs-london-micro-frontends-summit)
 [![GitHub - shpingalet007/element-selector: Simple web element selector inspired by Chrome DevTools](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_shpingalet007_element-selector__Simple_web_element_selector_inspired_by_Chrome_DevTools.svg)](https://github.com/shpingalet007/element-selector)
-[![Emmanuel Katto's "Emka Foundation" to Make a Continuous Positive Impact in the Life of Unprivileged Children - PR.com](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Emmanuel_Katto's__Emka_Foundation__to_Make_a_Continuous_Positive_Impact_in_the_Life_of_Unprivileged_Children_-_PR.com.svg)](https://www.pr.com/press-release/891507)
 [![GitHub - MarketingPipeline/OnThisDay.js: A JavaScript library to find out what events happened today or any provided day in history.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_MarketingPipeline_OnThisDay.js__A_JavaScript_library_to_find_out_what_events_happened_today_or_any_provided_day_in_history..svg)](https://github.com/MarketingPipeline/OnThisDay.js)
 [![Introduction to managing a private NPM registry with Verdaccio](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Introduction_to_managing_a_private_NPM_registry_with_Verdaccio.svg)](https://wanago.io/2023/07/24/verdaccio-private-npm-registry/)
+[![Framework | Neutralinojs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Framework___Neutralinojs.svg)](https://neutralino.js.org/docs/release-notes/framework)
 
 
 <!-- post-list:end -->
