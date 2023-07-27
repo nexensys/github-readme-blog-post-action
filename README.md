@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, July 26, 2023 at 6:43:07 PM
+> Last updated: Thursday, July 27, 2023 at 12:11:04 AM
 
 > Showing 5 of 12 posts.
 
-[![Introducing Enhance Movies](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_Enhance_Movies.svg)](https://dev.to/begin/introducing-enhance-movies-23d9)
-[![Use ChatGPT to Explore Your Database Schema - Part 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Use_ChatGPT_to_Explore_Your_Database_Schema_-_Part_2.svg)](https://dev.to/sualeh/use-chatgpt-to-explore-your-database-schema-part-2-2429)
-[![From useState to useReducer: Level Up Your State Management in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/From_useState_to_useReducer__Level_Up_Your_State_Management_in_React.svg)](https://dev.to/ibrahzizo360/from-usestate-to-usereducer-level-up-your-state-management-in-react-bc1)
-[![React Routing: Practical Steps in Creating Navigation Bar that Renders Dynamic Content with React.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Routing__Practical_Steps_in_Creating_Navigation_Bar_that_Renders_Dynamic_Content_with_React..svg)](https://dev.to/meganad60/react-routing-practical-steps-in-creating-navigation-bar-that-renders-dynamic-content-with-react-2jon)
-[![Mastering JavaScript Shorthands](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_JavaScript_Shorthands.svg)](https://dev.to/leandro_nnz/mastering-javascript-shorthands-33mg)
+[![How to add pg_embedding extension to PostgreSQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_add_pg_embedding_extension_to_PostgreSQL.svg)](https://dev.to/bkmalan/how-to-add-pgembedding-extension-to-postgresql-2ii6)
+[![Add "Add to Home Screen" Functionality to Your Progressive Web App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Add__Add_to_Home_Screen__Functionality_to_Your_Progressive_Web_App.svg)](https://dev.to/sh20raj/add-add-to-home-screen-functionality-to-your-progressive-web-app-2h0n)
+[![JavaScript Arrays Methods In Detail Part 3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_Arrays_Methods_In_Detail_Part_3.svg)](https://dev.to/abidullah786/javascript-arrays-methods-in-detail-part-3-3phl)
+[![Front end practice: CSS and SCSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Front_end_practice__CSS_and_SCSS.svg)](https://dev.to/lakshmananarumugam/front-end-practice-css-and-scss-5eea)
+[![How to prevent dark mode effect on HTML form elements](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_prevent_dark_mode_effect_on_HTML_form_elements.svg)](https://dev.to/tawhiduldev/how-to-prevent-dark-mode-effect-on-html-form-elements-1ml5)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, July 26, 2023 at 6:43:10 PM
+> Last updated: Thursday, July 27, 2023 at 12:11:08 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, July 26, 2023 at 6:43:17 PM
+> Last updated: Thursday, July 27, 2023 at 12:11:13 AM
 
 > Showing 5 of 30 posts.
 
