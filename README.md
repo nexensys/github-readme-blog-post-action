@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, July 28, 2023 at 12:10:59 AM
+> Last updated: Friday, July 28, 2023 at 6:15:50 AM
 
 > Showing 5 of 12 posts.
 
-[![7 Rules to Write Highly Scalable Code with Practical Examples 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/7_Rules_to_Write_Highly_Scalable_Code_with_Practical_Examples_🚀.svg)](https://dev.to/yatendra2001/7-rules-to-write-highly-scalable-code-with-practical-examples-573e)
-[![Control your role! Kubernetes RBAC explored](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Control_your_role!_Kubernetes_RBAC_explored.svg)](https://dev.to/snyk/control-your-role-kubernetes-rbac-explored-2d83)
-[![5 Ways To Create Responsive HTML Tables](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Ways_To_Create_Responsive_HTML_Tables.svg)](https://dev.to/codeboxx/5-ways-to-create-responsive-html-table-3ol8)
-[![JavaScript Arrays Methods In Detail Part 4](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_Arrays_Methods_In_Detail_Part_4.svg)](https://dev.to/abidullah786/javascript-arrays-methods-in-detail-part-4-7d7)
-[![How to Build Progressive Web Apps (PWAs) with Node.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Build_Progressive_Web_Apps_(PWAs)_with_Node.js.svg)](https://dev.to/saint_vandora/how-to-build-progressive-web-apps-pwas-with-nodejs-5blm)
+[![5 Reasons why you should choose PostgreSQL for your next Project!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Reasons_why_you_should_choose_PostgreSQL_for_your_next_Project!.svg)](https://dev.to/saifalyy/5-reasons-why-you-should-choose-postgresql-for-your-next-project-1kl2)
+[![NFTs, Blockchains, and Standards Explained without BS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/NFTs__Blockchains__and_Standards_Explained_without_BS.svg)](https://dev.to/rytis/nfts-blockchains-and-standards-explained-without-bs-3nm0)
+[![Master Generics in TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Master_Generics_in_TypeScript.svg)](https://dev.to/cliff123tech/master-generics-in-typescript-3kf3)
+[![finally() method in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/finally()_method_in_JavaScript.svg)](https://dev.to/diwakarkashyap/finally-method-in-javascript-1dfl)
+[![NEXUS OSS Repository APT Repository Proxy oluşturma](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/NEXUS_OSS_Repository_APT_Repository_Proxy_oluşturma.svg)](https://dev.to/aciklab/nexus-oss-repository-apt-repository-proxy-olusturma-4mj1)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, July 28, 2023 at 12:11:03 AM
+> Last updated: Friday, July 28, 2023 at 6:15:53 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, July 28, 2023 at 12:11:09 AM
+> Last updated: Friday, July 28, 2023 at 6:16:00 AM
 
 > Showing 5 of 30 posts.
 
+[![
+Ready for a trip to Goa?
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Ready_for_a_trip_to_Goa__.svg)](
+https://travelsurity.com/
+)
 [![Modularizing Your Frontend: From Simple Monolith](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Modularizing_Your_Frontend__From_Simple_Monolith.svg)](https://okhivrych.io/my-talk-at-the-cityjs-london-micro-frontends-summit)
 [![GitHub - shpingalet007/element-selector: Simple web element selector inspired by Chrome DevTools](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_shpingalet007_element-selector__Simple_web_element_selector_inspired_by_Chrome_DevTools.svg)](https://github.com/shpingalet007/element-selector)
 [![GitHub - MarketingPipeline/OnThisDay.js: A JavaScript library to find out what events happened today or any provided day in history.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_MarketingPipeline_OnThisDay.js__A_JavaScript_library_to_find_out_what_events_happened_today_or_any_provided_day_in_history..svg)](https://github.com/MarketingPipeline/OnThisDay.js)
 [![Introduction to managing a private NPM registry with Verdaccio](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Introduction_to_managing_a_private_NPM_registry_with_Verdaccio.svg)](https://wanago.io/2023/07/24/verdaccio-private-npm-registry/)
-[![Framework | Neutralinojs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Framework___Neutralinojs.svg)](https://neutralino.js.org/docs/release-notes/framework)
 
 
 <!-- post-list:end -->
