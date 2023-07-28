@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, July 27, 2023 at 6:43:09 PM
+> Last updated: Friday, July 28, 2023 at 12:10:59 AM
 
 > Showing 5 of 12 posts.
 
-[![This Week's Undiscovered](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/This_Week's_Undiscovered.svg)](https://dev.to/devteam/this-weeks-undiscovered-186p)
-[![AI Tooling For Your Dev Team: To Adopt or Not to Adopt?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AI_Tooling_For_Your_Dev_Team__To_Adopt_or_Not_to_Adopt_.svg)](https://dev.to/linearb/ai-tooling-for-your-dev-team-to-adopt-or-not-to-adopt-82o)
-[![True Secrets Auto Rotation with ESO and Vault](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/True_Secrets_Auto_Rotation_with_ESO_and_Vault.svg)](https://dev.to/canelasevero/true-secrets-auto-rotation-with-eso-and-vault-1g4o)
-[![How to Write Impeccably Clean Code That Will Save Your Sanity](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Write_Impeccably_Clean_Code_That_Will_Save_Your_Sanity.svg)](https://dev.to/atkumar/how-to-write-impeccably-clean-code-that-will-save-your-sanity-4np9)
-[![Using Protobuf with TypeScript for data serialization](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_Protobuf_with_TypeScript_for_data_serialization.svg)](https://dev.to/logrocket/using-protobuf-with-typescript-for-data-serialization-mf3)
+[![7 Rules to Write Highly Scalable Code with Practical Examples 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/7_Rules_to_Write_Highly_Scalable_Code_with_Practical_Examples_🚀.svg)](https://dev.to/yatendra2001/7-rules-to-write-highly-scalable-code-with-practical-examples-573e)
+[![Control your role! Kubernetes RBAC explored](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Control_your_role!_Kubernetes_RBAC_explored.svg)](https://dev.to/snyk/control-your-role-kubernetes-rbac-explored-2d83)
+[![5 Ways To Create Responsive HTML Tables](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Ways_To_Create_Responsive_HTML_Tables.svg)](https://dev.to/codeboxx/5-ways-to-create-responsive-html-table-3ol8)
+[![JavaScript Arrays Methods In Detail Part 4](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_Arrays_Methods_In_Detail_Part_4.svg)](https://dev.to/abidullah786/javascript-arrays-methods-in-detail-part-4-7d7)
+[![How to Build Progressive Web Apps (PWAs) with Node.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Build_Progressive_Web_Apps_(PWAs)_with_Node.js.svg)](https://dev.to/saint_vandora/how-to-build-progressive-web-apps-pwas-with-nodejs-5blm)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, July 27, 2023 at 6:43:12 PM
+> Last updated: Friday, July 28, 2023 at 12:11:03 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, July 27, 2023 at 6:43:19 PM
+> Last updated: Friday, July 28, 2023 at 12:11:09 AM
 
 > Showing 5 of 30 posts.
 
