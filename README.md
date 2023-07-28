@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, July 27, 2023 at 12:10:08 PM
+> Last updated: Thursday, July 27, 2023 at 6:43:09 PM
 
 > Showing 5 of 12 posts.
 
-[![Getting Started with React.js: A Beginner's Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_Started_with_React.js__A_Beginner's_Guide.svg)](https://dev.to/wizarddeveloper/getting-started-with-reactjs-a-beginners-guide-30p1)
-[![Making a 3D Parallax Effect with CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Making_a_3D_Parallax_Effect_with_CSS.svg)](https://dev.to/rashidshamloo/making-a-3d-parallax-effect-with-css-2kpp)
-[![Using Sveltris to build interoperable React and Svelte apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_Sveltris_to_build_interoperable_React_and_Svelte_apps.svg)](https://dev.to/logrocket/using-sveltris-to-build-interoperable-react-and-svelte-apps-1j76)
-[![📸 Gallery-Flex:Hover](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/📸_Gallery-Flex_Hover.svg)](https://dev.to/gjosueo/gallery-flexhover-1ilf)
-[![Commit Changes to a New Branch with Git](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Commit_Changes_to_a_New_Branch_with_Git.svg)](https://dev.to/chenz/commit-changes-to-a-new-branch-with-git-d4d)
+[![This Week's Undiscovered](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/This_Week's_Undiscovered.svg)](https://dev.to/devteam/this-weeks-undiscovered-186p)
+[![AI Tooling For Your Dev Team: To Adopt or Not to Adopt?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AI_Tooling_For_Your_Dev_Team__To_Adopt_or_Not_to_Adopt_.svg)](https://dev.to/linearb/ai-tooling-for-your-dev-team-to-adopt-or-not-to-adopt-82o)
+[![True Secrets Auto Rotation with ESO and Vault](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/True_Secrets_Auto_Rotation_with_ESO_and_Vault.svg)](https://dev.to/canelasevero/true-secrets-auto-rotation-with-eso-and-vault-1g4o)
+[![How to Write Impeccably Clean Code That Will Save Your Sanity](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Write_Impeccably_Clean_Code_That_Will_Save_Your_Sanity.svg)](https://dev.to/atkumar/how-to-write-impeccably-clean-code-that-will-save-your-sanity-4np9)
+[![Using Protobuf with TypeScript for data serialization](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_Protobuf_with_TypeScript_for_data_serialization.svg)](https://dev.to/logrocket/using-protobuf-with-typescript-for-data-serialization-mf3)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, July 27, 2023 at 12:10:11 PM
+> Last updated: Thursday, July 27, 2023 at 6:43:12 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, July 27, 2023 at 12:10:16 PM
+> Last updated: Thursday, July 27, 2023 at 6:43:19 PM
 
 > Showing 5 of 30 posts.
 
