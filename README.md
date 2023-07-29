@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, July 29, 2023 at 6:14:22 AM
+> Last updated: Saturday, July 29, 2023 at 12:09:05 PM
 
 > Showing 5 of 12 posts.
 
-[![Enhancing User Experience with Daxus](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Enhancing_User_Experience_with_Daxus.svg)](https://dev.to/jason89521/enhancing-user-experience-with-daxus-1f2f)
-[![[Typia] Hidden Class Optimization of v8 Engine](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/[Typia]_Hidden_Class_Optimization_of_v8_Engine.svg)](https://dev.to/samchon/secret-of-typia-how-it-could-be-20000x-faster-validator-hidden-class-optimization-in-v8-engine-1mfb)
-[![Still confused on how to get started in open source?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Still_confused_on_how_to_get_started_in_open_source_.svg)](https://dev.to/wonuola_w/still-confused-on-how-to-get-started-in-open-source-28de)
-[![Choosing Between Comparable and Comparator Interfaces in Java: When to Use What for Object Sorting](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Choosing_Between_Comparable_and_Comparator_Interfaces_in_Java__When_to_Use_What_for_Object_Sorting.svg)](https://dev.to/ronrash/choosing-between-comparable-and-comparator-interfaces-in-java-when-to-use-what-for-object-sorting-5fj2)
-[![Quick guide to Rust's From/Into and TryFrom/TryInto Traits](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Quick_guide_to_Rust's_From_Into_and_TryFrom_TryInto_Traits.svg)](https://dev.to/peterblockman/quick-guide-to-rusts-frominto-and-tryfromtryinto-traits-3gf1)
+[![📁 Manage your Files with myFiles ALPHA 2.0 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/📁_Manage_your_Files_with_myFiles_ALPHA_2.0_🚀.svg)](https://dev.to/blueberry077/manage-your-files-in-20-1jef)
+[![Work Types.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Work_Types..svg)](https://dev.to/hasanelsherbiny/work-types-1564)
+[![Comenzar en el desarrollo web](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Comenzar_en_el_desarrollo_web.svg)](https://dev.to/santyramirez/comenzar-en-el-desarrollo-web-2f9m)
+[![WebAssembly: Unraveling the Future of Web Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/WebAssembly__Unraveling_the_Future_of_Web_Development.svg)](https://dev.to/akashpattnaik/webassembly-unraveling-the-future-of-web-development-593)
+[![Checking Internet Status in Basic4Android](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Checking_Internet_Status_in_Basic4Android.svg)](https://dev.to/alikarbasicom/checking-internet-status-in-basic4android-2kmo)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, July 29, 2023 at 6:14:25 AM
+> Last updated: Saturday, July 29, 2023 at 12:09:09 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, July 29, 2023 at 6:14:37 AM
+> Last updated: Saturday, July 29, 2023 at 12:09:16 PM
 
 > Showing 5 of 30 posts.
 
