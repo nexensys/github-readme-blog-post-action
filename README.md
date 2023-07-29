@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, July 28, 2023 at 12:09:37 PM
+> Last updated: Friday, July 28, 2023 at 6:44:33 PM
 
 > Showing 5 of 12 posts.
 
-[![Stop using Swagger-UI and MSW, but SDK instead](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Stop_using_Swagger-UI_and_MSW__but_SDK_instead.svg)](https://dev.to/samchon/stop-using-swagger-ui-and-msw-but-sdk-instead-412b)
-[![Building Resilient Systems with Idempotent APIs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_Resilient_Systems_with_Idempotent_APIs.svg)](https://dev.to/karishmashukla/building-resilient-systems-with-idempotent-apis-5e5p)
-[![C# Tuples: An Introductory Guide on Tuples in C# With Examples](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/C__Tuples__An_Introductory_Guide_on_Tuples_in_C__With_Examples.svg)](https://dev.to/rasheedmozaffar/c-tuples-an-introductory-guide-on-tuples-in-c-with-examples-c46)
-[![Quick Guide To Set Up Your React App Ready For Development.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Quick_Guide_To_Set_Up_Your_React_App_Ready_For_Development..svg)](https://dev.to/meganad60/quick-guide-to-set-up-your-react-app-ready-for-development-1hm9)
-[![It's Follow Friday! Who's Lighting up Your dev.to World? ✨💫](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/It's_Follow_Friday!_Who's_Lighting_up_Your_dev.to_World__✨💫.svg)](https://dev.to/devteam/follow-friday-whos-lighting-up-your-devto-world-587k)
+[![Tailoring tasks and software requirements: Addressing the Needs of Junior, Mid, and Senior Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tailoring_tasks_and_software_requirements__Addressing_the_Needs_of_Junior__Mid__and_Senior_Developers.svg)](https://dev.to/ivangavlik/tailoring-tasks-and-software-requirements-addressing-the-needs-of-junior-mid-and-senior-developers-bhj)
+[![Why Not to Store images in Database?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_Not_to_Store_images_in_Database_.svg)](https://dev.to/hasanelsherbiny/why-not-to-store-images-in-database-386)
+[![What is API?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_API_.svg)](https://dev.to/hasanelsherbiny/what-is-api-21bc)
+[![Day 14: This is lost](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Day_14__This_is_lost.svg)](https://dev.to/dhrn/day-14-situation-this-is-lost-4k3g)
+[![How to add comments to a static site using GitHub Pull Requests and Netlify Functions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_add_comments_to_a_static_site_using_GitHub_Pull_Requests_and_Netlify_Functions.svg)](https://dev.to/neagle/how-to-add-comments-to-a-static-site-using-github-pull-requests-and-netlify-functions-560l)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, July 28, 2023 at 12:09:41 PM
+> Last updated: Friday, July 28, 2023 at 6:44:36 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,16 +43,16 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, July 28, 2023 at 12:09:49 PM
+> Last updated: Friday, July 28, 2023 at 6:44:42 PM
 
 > Showing 5 of 30 posts.
 
-[![Creating Our Own Chat GPT](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Creating_Our_Own_Chat_GPT.svg)](https://soshace.com/creating-our-own-chat-gpt/)
 [![
-Ready for a trip to Goa?
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Ready_for_a_trip_to_Goa__.svg)](
-https://travelsurity.com/
+Your entrance point to open-source contribution IRRESPECTIVE OF YOUR TECH
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Your_entrance_point_to_open-source_contribution_IRRESPECTIVE_OF_YOUR_TECH_.svg)](
+https://devoss.tech
 )
+[![Creating Our Own Chat GPT](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Creating_Our_Own_Chat_GPT.svg)](https://soshace.com/creating-our-own-chat-gpt/)
 [![Modularizing Your Frontend: From Simple Monolith](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Modularizing_Your_Frontend__From_Simple_Monolith.svg)](https://okhivrych.io/my-talk-at-the-cityjs-london-micro-frontends-summit)
 [![GitHub - shpingalet007/element-selector: Simple web element selector inspired by Chrome DevTools](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_shpingalet007_element-selector__Simple_web_element_selector_inspired_by_Chrome_DevTools.svg)](https://github.com/shpingalet007/element-selector)
 [![GitHub - MarketingPipeline/OnThisDay.js: A JavaScript library to find out what events happened today or any provided day in history.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_MarketingPipeline_OnThisDay.js__A_JavaScript_library_to_find_out_what_events_happened_today_or_any_provided_day_in_history..svg)](https://github.com/MarketingPipeline/OnThisDay.js)
