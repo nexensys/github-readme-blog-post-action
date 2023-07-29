@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, July 29, 2023 at 12:09:38 AM
+> Last updated: Saturday, July 29, 2023 at 6:14:22 AM
 
 > Showing 5 of 12 posts.
 
-[![Enabling local project collaboration with Gitea](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Enabling_local_project_collaboration_with_Gitea.svg)](https://dev.to/donaldsebleung/enabling-local-project-collaboration-with-gitea-nog)
-[![How secure is WebAssembly? 5 security concerns unique to WebAssembly](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_secure_is_WebAssembly__5_security_concerns_unique_to_WebAssembly.svg)](https://dev.to/snyk/how-secure-is-webassembly-5-security-concerns-unique-to-webassembly-48gl)
-[![Creating a virtual environment in Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_a_virtual_environment_in_Python.svg)](https://dev.to/techwriterjohn/creating-a-virtual-environment-in-python-j3)
-[![Building a Slack Bot in Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_Slack_Bot_in_Python.svg)](https://dev.to/haszankauna/building-a-slack-bot-in-python-146d)
-[![Turing Machine Simulator](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Turing_Machine_Simulator.svg)](https://dev.to/waynechoidev/turing-machine-simulator-5in)
+[![Enhancing User Experience with Daxus](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Enhancing_User_Experience_with_Daxus.svg)](https://dev.to/jason89521/enhancing-user-experience-with-daxus-1f2f)
+[![[Typia] Hidden Class Optimization of v8 Engine](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/[Typia]_Hidden_Class_Optimization_of_v8_Engine.svg)](https://dev.to/samchon/secret-of-typia-how-it-could-be-20000x-faster-validator-hidden-class-optimization-in-v8-engine-1mfb)
+[![Still confused on how to get started in open source?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Still_confused_on_how_to_get_started_in_open_source_.svg)](https://dev.to/wonuola_w/still-confused-on-how-to-get-started-in-open-source-28de)
+[![Choosing Between Comparable and Comparator Interfaces in Java: When to Use What for Object Sorting](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Choosing_Between_Comparable_and_Comparator_Interfaces_in_Java__When_to_Use_What_for_Object_Sorting.svg)](https://dev.to/ronrash/choosing-between-comparable-and-comparator-interfaces-in-java-when-to-use-what-for-object-sorting-5fj2)
+[![Quick guide to Rust's From/Into and TryFrom/TryInto Traits](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Quick_guide_to_Rust's_From_Into_and_TryFrom_TryInto_Traits.svg)](https://dev.to/peterblockman/quick-guide-to-rusts-frominto-and-tryfromtryinto-traits-3gf1)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, July 29, 2023 at 12:09:41 AM
+> Last updated: Saturday, July 29, 2023 at 6:14:25 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,11 +43,12 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, July 29, 2023 at 12:09:49 AM
+> Last updated: Saturday, July 29, 2023 at 6:14:37 AM
 
 > Showing 5 of 30 posts.
 
-[![Difference between ng add and npm install ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Difference_between_ng_add_and_npm_install__.svg)](https://frontendinterviewquestions.medium.com/difference-between-ng-add-and-npm-install-1c49a187ad2)
+[![Toyota Celica ST165: The Emka car that took the breath away](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Toyota_Celica_ST165__The_Emka_car_that_took_the_breath_away.svg)](https://www.monitor.co.ug/uganda/sports/motor-sport/toyota-celica-st165-the-emka-car-that-took-the-breath-away-1711386)
+[![How to segregate 0s and 1s in an array in Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_segregate_0s_and_1s_in_an_array_in_Javascript.svg)](https://frontendinterviewquestions.medium.com/how-to-segregate-0s-and-1s-in-an-array-in-javascript-bf4c1af63977)
 [![
 Your entrance point to open-source contribution IRRESPECTIVE OF YOUR TECH
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Your_entrance_point_to_open-source_contribution_IRRESPECTIVE_OF_YOUR_TECH_.svg)](
@@ -55,7 +56,6 @@ https://devoss.tech
 )
 [![Creating Our Own Chat GPT](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Creating_Our_Own_Chat_GPT.svg)](https://soshace.com/creating-our-own-chat-gpt/)
 [![Modularizing Your Frontend: From Simple Monolith](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Modularizing_Your_Frontend__From_Simple_Monolith.svg)](https://okhivrych.io/my-talk-at-the-cityjs-london-micro-frontends-summit)
-[![GitHub - shpingalet007/element-selector: Simple web element selector inspired by Chrome DevTools](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_shpingalet007_element-selector__Simple_web_element_selector_inspired_by_Chrome_DevTools.svg)](https://github.com/shpingalet007/element-selector)
 
 
 <!-- post-list:end -->
