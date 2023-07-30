@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, July 30, 2023 at 6:14:26 AM
+> Last updated: Sunday, July 30, 2023 at 12:09:08 PM
 
 > Showing 5 of 12 posts.
 
-[![Simplifying State Management: A Practical Guide to Using Redux with React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Simplifying_State_Management__A_Practical_Guide_to_Using_Redux_with_React.svg)](https://dev.to/bilal1718/simplifying-state-management-a-practical-guide-to-using-redux-with-react-poa)
-[![PNMP Package Manager: What is it and Why You Should Be Using it - A Comprehensive Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/PNMP_Package_Manager__What_is_it_and_Why_You_Should_Be_Using_it_-_A_Comprehensive_Guide.svg)](https://dev.to/sergioholgado/pnmp-package-manager-what-is-it-and-why-you-should-be-using-it-a-comprehensive-guide-4c66)
-[![5 Mistakes Junior Developers Make When Programming 🙀🤯](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Mistakes_Junior_Developers_Make_When_Programming_🙀🤯.svg)](https://dev.to/hectorthedev/5-mistakes-junior-developers-make-when-programming-b76)
-[![A Beginner's Guide to Creating Pagination in React.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Beginner's_Guide_to_Creating_Pagination_in_React.js.svg)](https://dev.to/sadeedpv/a-beginners-guide-to-creating-pagination-in-reactjs-2a35)
-[![One Year of Dev YouTube](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/One_Year_of_Dev_YouTube.svg)](https://dev.to/this-is-learning/one-year-of-dev-youtube-2f5l)
+[![Unlocking the Power of GraphQL: How AWS AppSync Simplifies API Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unlocking_the_Power_of_GraphQL__How_AWS_AppSync_Simplifies_API_Development.svg)](https://dev.to/brandondamue/unlocking-the-power-of-graphql-how-aws-appsync-simplifies-api-development-3gae)
+[![Do Contexts in Next.js 13 Make the Whole App Render on the Client?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Do_Contexts_in_Next.js_13_Make_the_Whole_App_Render_on_the_Client_.svg)](https://dev.to/perssondennis/do-contexts-in-nextjs-13-make-the-whole-app-render-on-the-client-55bb)
+[![Create a table of contents with highlighting in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_a_table_of_contents_with_highlighting_in_React.svg)](https://dev.to/christianah5/create-a-table-of-contents-with-highlighting-in-react-5efl)
+[![I care more about Code than about People](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_care_more_about_Code_than_about_People.svg)](https://dev.to/noriller/i-care-more-about-code-than-about-people-2lc1)
+[![🇵🇹 GitHub Portugal: the Portuguese development community on GitHub 🇵🇹](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🇵🇹_GitHub_Portugal__the_Portuguese_development_community_on_GitHub_🇵🇹.svg)](https://dev.to/mmroch4/github-portugal-the-portuguese-development-community-on-github-355b)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, July 30, 2023 at 6:14:29 AM
+> Last updated: Sunday, July 30, 2023 at 12:09:11 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, July 30, 2023 at 6:14:32 AM
+> Last updated: Sunday, July 30, 2023 at 12:09:12 PM
 
 > Showing 5 of 30 posts.
 
+[![Automatic width and height of local MDX images with Next.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Automatic_width_and_height_of_local_MDX_images_with_Next.js.svg)](https://mmazzarolo.com/blog/2023-07-29-nextjs-mdx-image-size)
 [![Run Just a Single Test in Mocha](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Run_Just_a_Single_Test_in_Mocha.svg)](
 https://masteringjs.io/tutorials/mocha/run-single-test
 )
@@ -57,7 +58,6 @@ Your entrance point to open-source contribution IRRESPECTIVE OF YOUR TECH
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Your_entrance_point_to_open-source_contribution_IRRESPECTIVE_OF_YOUR_TECH_.svg)](
 https://devoss.tech
 )
-[![Creating Our Own Chat GPT](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Creating_Our_Own_Chat_GPT.svg)](https://soshace.com/creating-our-own-chat-gpt/)
 
 
 <!-- post-list:end -->
