@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 610 110" width="600" height="100" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <style>
+      .title {
+        font-size: 1.5em;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        white-space: nowrap;
+      }
+      .description {
+        font-size: 0.75em;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+      }
+      .text {
+        text-align: start;
+        padding: 10px;
+        height: calc(100% - 20px);
+        margin-left: 100px;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+        color: black;
+      }
+           .date {
+        font-size: 0.5em;
+        opacity: 0.5;
+        text-align: end;
+        position: absolute;
+        bottom: 0;
+        right: 10px;
+        color: black;
+      }
+      .image {
+        height: 100px;
+        width: 100px;
+        background-image: url("data:image/png;base64,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");
+        background-size: cover;
+        position: absolute;
+        top: 0;
+        left: 0;
+        border-radius: 10px;
+        background-position: center;
+      }
+      .main {
+        fill: white;
+      }
+      .data {
+        opacity: 0.75;
+        text-align: start;
+        position: absolute;
+        bottom: 0;
+        padding-bottom: 5px;
+        left: 110px;
+        color: black;
+        max-width: 400px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+      }
+      .author {
+        opacity: 0.75;
+        font-size: 0.5em;
+      }
+      .category {
+        background-color: rgba(0, 0, 0, 0.25);
+        border-radius: 0.25em;
+        padding: 0.125em 0.25em;
+        font-size: 0.75em;
+        color: rgba(0, 0, 0, 0.8);
+      }
+    </style>
+  </defs>
+  <g class="main">
+    <rect class="content" width="600" height="100" stroke="rgba(0, 0, 0, 0.5)" x="5" y="5" rx="10" />
+    <foreignObject width="600" height="100" x="5" y="5">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
+        <div class="image" />
+<div class="text">
+          <div class="title">PNMP&#0032;Package&#0032;Manager&#0058;&#0032;What&#0032;is&#0032;it&#0032;and&#0032;Why&#0032;You&#0032;Should&#0032;Be&#0032;Using&#0032;it &#0045; A&#0032;Comprehensive&#0032;Guide</div>
+          <div class="description">Everything&#0032;about&#0032;the&#0032;new&#0032;Fast&#0044;&#0032;disk&#0032;space&#0032;efficient&#0032;package&#0032;manager&#0032;that&#0039;s&#0032;taking&#0032;over&#0032;npm&#0046;&#0032;&#0032;&#0183;&#0032;PNPM&#0058;&#0046;&#0046;&#0046;</div>
+          <div class="date">7&#0047;30&#0047;23</div>
+          <div class="data">
+            <span class="author">Sergio&#0032;Holgado</span> <span class="category">webdev</span> <span class="category">node</span> <span class="category">npm</span> <span class="category">coding</span>
+          </div>
+        </div>
+      </div>
+    </foreignObject>
+  </g>
+</svg>

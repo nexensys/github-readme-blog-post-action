@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, July 30, 2023 at 12:09:43 AM
+> Last updated: Sunday, July 30, 2023 at 6:14:26 AM
 
 > Showing 5 of 12 posts.
 
-[![PCIe Passthrough with Cloud-Init in Proxmox VE](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/PCIe_Passthrough_with_Cloud-Init_in_Proxmox_VE.svg)](https://dev.to/johnbwoodruff/pcie-passthrough-with-cloud-init-in-proxmox-ve-250i)
-[![🚀 Check out the 3 Best Full-Stack JS Frameworks of 2023! 🌟 Which one suits your next project? 🤔](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🚀_Check_out_the_3_Best_Full-Stack_JS_Frameworks_of_2023!_🌟_Which_one_suits_your_next_project__🤔.svg)](https://dev.to/arjuncodess/check-out-the-3-best-full-stack-js-frameworks-of-2023-which-one-suits-your-next-project-4073)
-[![Host a static website in AWS using CloudFront, S3 and Terraform](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Host_a_static_website_in_AWS_using_CloudFront__S3_and_Terraform.svg)](https://dev.to/krishanthisera/host-a-static-website-in-aws-using-cloudfront-s3-and-terraform-hgg)
-[![Building a React/Express Stripe Donation Form](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_React_Express_Stripe_Donation_Form.svg)](https://dev.to/wra-sol/building-a-reactexpress-stripe-donation-form-2pek)
-[![Packer.nvim: how to recover from a bad plugin update](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Packer.nvim__how_to_recover_from_a_bad_plugin_update.svg)](https://dev.to/vonheikemen/packernvim-how-to-recover-from-a-bad-plugin-update-2813)
+[![Simplifying State Management: A Practical Guide to Using Redux with React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Simplifying_State_Management__A_Practical_Guide_to_Using_Redux_with_React.svg)](https://dev.to/bilal1718/simplifying-state-management-a-practical-guide-to-using-redux-with-react-poa)
+[![PNMP Package Manager: What is it and Why You Should Be Using it - A Comprehensive Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/PNMP_Package_Manager__What_is_it_and_Why_You_Should_Be_Using_it_-_A_Comprehensive_Guide.svg)](https://dev.to/sergioholgado/pnmp-package-manager-what-is-it-and-why-you-should-be-using-it-a-comprehensive-guide-4c66)
+[![5 Mistakes Junior Developers Make When Programming 🙀🤯](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Mistakes_Junior_Developers_Make_When_Programming_🙀🤯.svg)](https://dev.to/hectorthedev/5-mistakes-junior-developers-make-when-programming-b76)
+[![A Beginner's Guide to Creating Pagination in React.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Beginner's_Guide_to_Creating_Pagination_in_React.js.svg)](https://dev.to/sadeedpv/a-beginners-guide-to-creating-pagination-in-reactjs-2a35)
+[![One Year of Dev YouTube](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/One_Year_of_Dev_YouTube.svg)](https://dev.to/this-is-learning/one-year-of-dev-youtube-2f5l)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, July 30, 2023 at 12:09:46 AM
+> Last updated: Sunday, July 30, 2023 at 6:14:29 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, July 30, 2023 at 12:09:50 AM
+> Last updated: Sunday, July 30, 2023 at 6:14:32 AM
 
 > Showing 5 of 30 posts.
 
