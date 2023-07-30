@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, July 29, 2023 at 12:09:05 PM
+> Last updated: Saturday, July 29, 2023 at 6:47:33 PM
 
 > Showing 5 of 12 posts.
 
-[![📁 Manage your Files with myFiles ALPHA 2.0 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/📁_Manage_your_Files_with_myFiles_ALPHA_2.0_🚀.svg)](https://dev.to/blueberry077/manage-your-files-in-20-1jef)
-[![Work Types.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Work_Types..svg)](https://dev.to/hasanelsherbiny/work-types-1564)
-[![Comenzar en el desarrollo web](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Comenzar_en_el_desarrollo_web.svg)](https://dev.to/santyramirez/comenzar-en-el-desarrollo-web-2f9m)
-[![WebAssembly: Unraveling the Future of Web Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/WebAssembly__Unraveling_the_Future_of_Web_Development.svg)](https://dev.to/akashpattnaik/webassembly-unraveling-the-future-of-web-development-593)
-[![Checking Internet Status in Basic4Android](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Checking_Internet_Status_in_Basic4Android.svg)](https://dev.to/alikarbasicom/checking-internet-status-in-basic4android-2kmo)
+[![Bandit Level 7 Level 8](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Bandit_Level_7_Level_8.svg)](https://dev.to/christianpaez/bandit-level-7-level-8-5am4)
+[![A Beginner's Guide: Essentials of React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Beginner's_Guide__Essentials_of_React.svg)](https://dev.to/meganad60/a-beginners-guide-essentials-of-react-3lb0)
+[![Ubie: A Revolutionary Health Quiz Tool for Diagnosing Symptoms](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ubie__A_Revolutionary_Health_Quiz_Tool_for_Diagnosing_Symptoms.svg)](https://dev.to/mitchiemt11/ubie-a-revolutionary-health-quiz-tool-for-diagnosing-symptoms-2l5j)
+[![How Utility-first CSS with TailwindCSS Improved My Website's Performance by 40%](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_Utility-first_CSS_with_TailwindCSS_Improved_My_Website's_Performance_by_40_.svg)](https://dev.to/josematoswork/how-utility-first-css-with-tailwindcss-improved-my-websites-performance-by-40-2mme)
+[![Design Patterns in PHP 8: Simple factory](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Design_Patterns_in_PHP_8__Simple_factory.svg)](https://dev.to/zhukmax/design-patterns-in-php-8-simple-factory-o0l)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, July 29, 2023 at 12:09:09 PM
+> Last updated: Saturday, July 29, 2023 at 6:47:35 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,13 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, July 29, 2023 at 12:09:16 PM
+> Last updated: Saturday, July 29, 2023 at 6:47:38 PM
 
 > Showing 5 of 30 posts.
 
+[![Run Just a Single Test in Mocha](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Run_Just_a_Single_Test_in_Mocha.svg)](
+https://masteringjs.io/tutorials/mocha/run-single-test
+)
 [![Toyota Celica ST165: The Emka car that took the breath away](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Toyota_Celica_ST165__The_Emka_car_that_took_the_breath_away.svg)](https://www.monitor.co.ug/uganda/sports/motor-sport/toyota-celica-st165-the-emka-car-that-took-the-breath-away-1711386)
 [![How to segregate 0s and 1s in an array in Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_segregate_0s_and_1s_in_an_array_in_Javascript.svg)](https://frontendinterviewquestions.medium.com/how-to-segregate-0s-and-1s-in-an-array-in-javascript-bf4c1af63977)
 [![
@@ -55,7 +58,6 @@ Your entrance point to open-source contribution IRRESPECTIVE OF YOUR TECH
 https://devoss.tech
 )
 [![Creating Our Own Chat GPT](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Creating_Our_Own_Chat_GPT.svg)](https://soshace.com/creating-our-own-chat-gpt/)
-[![Modularizing Your Frontend: From Simple Monolith](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Modularizing_Your_Frontend__From_Simple_Monolith.svg)](https://okhivrych.io/my-talk-at-the-cityjs-london-micro-frontends-summit)
 
 
 <!-- post-list:end -->
