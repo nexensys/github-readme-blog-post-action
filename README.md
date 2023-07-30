@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, July 29, 2023 at 6:47:33 PM
+> Last updated: Sunday, July 30, 2023 at 12:09:43 AM
 
 > Showing 5 of 12 posts.
 
-[![Bandit Level 7 Level 8](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Bandit_Level_7_Level_8.svg)](https://dev.to/christianpaez/bandit-level-7-level-8-5am4)
-[![A Beginner's Guide: Essentials of React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Beginner's_Guide__Essentials_of_React.svg)](https://dev.to/meganad60/a-beginners-guide-essentials-of-react-3lb0)
-[![Ubie: A Revolutionary Health Quiz Tool for Diagnosing Symptoms](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ubie__A_Revolutionary_Health_Quiz_Tool_for_Diagnosing_Symptoms.svg)](https://dev.to/mitchiemt11/ubie-a-revolutionary-health-quiz-tool-for-diagnosing-symptoms-2l5j)
-[![How Utility-first CSS with TailwindCSS Improved My Website's Performance by 40%](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_Utility-first_CSS_with_TailwindCSS_Improved_My_Website's_Performance_by_40_.svg)](https://dev.to/josematoswork/how-utility-first-css-with-tailwindcss-improved-my-websites-performance-by-40-2mme)
-[![Design Patterns in PHP 8: Simple factory](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Design_Patterns_in_PHP_8__Simple_factory.svg)](https://dev.to/zhukmax/design-patterns-in-php-8-simple-factory-o0l)
+[![PCIe Passthrough with Cloud-Init in Proxmox VE](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/PCIe_Passthrough_with_Cloud-Init_in_Proxmox_VE.svg)](https://dev.to/johnbwoodruff/pcie-passthrough-with-cloud-init-in-proxmox-ve-250i)
+[![🚀 Check out the 3 Best Full-Stack JS Frameworks of 2023! 🌟 Which one suits your next project? 🤔](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🚀_Check_out_the_3_Best_Full-Stack_JS_Frameworks_of_2023!_🌟_Which_one_suits_your_next_project__🤔.svg)](https://dev.to/arjuncodess/check-out-the-3-best-full-stack-js-frameworks-of-2023-which-one-suits-your-next-project-4073)
+[![Host a static website in AWS using CloudFront, S3 and Terraform](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Host_a_static_website_in_AWS_using_CloudFront__S3_and_Terraform.svg)](https://dev.to/krishanthisera/host-a-static-website-in-aws-using-cloudfront-s3-and-terraform-hgg)
+[![Building a React/Express Stripe Donation Form](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_React_Express_Stripe_Donation_Form.svg)](https://dev.to/wra-sol/building-a-reactexpress-stripe-donation-form-2pek)
+[![Packer.nvim: how to recover from a bad plugin update](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Packer.nvim__how_to_recover_from_a_bad_plugin_update.svg)](https://dev.to/vonheikemen/packernvim-how-to-recover-from-a-bad-plugin-update-2813)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, July 29, 2023 at 6:47:35 PM
+> Last updated: Sunday, July 30, 2023 at 12:09:46 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, July 29, 2023 at 6:47:38 PM
+> Last updated: Sunday, July 30, 2023 at 12:09:50 AM
 
 > Showing 5 of 30 posts.
 
