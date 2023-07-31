@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, July 31, 2023 at 12:11:03 AM
+> Last updated: Monday, July 31, 2023 at 12:10:19 PM
 
 > Showing 5 of 12 posts.
 
-[![Unlock Innovation: How to Rewire Your Brain for Out-of-the-Box Thinking](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unlock_Innovation__How_to_Rewire_Your_Brain_for_Out-of-the-Box_Thinking.svg)](https://dev.to/seeratawan01/unlock-innovation-how-to-rewire-your-brain-for-out-of-the-box-thinking-172b)
-[![Why I Move from Pixels (px) to Relative Units (rem) in CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_I_Move_from_Pixels_(px)_to_Relative_Units_(rem)_in_CSS.svg)](https://dev.to/seeratawan01/why-i-move-from-pixels-px-to-relative-units-rem-in-css-1jhb)
-[![Front end practice: Top 25+ Javascript code best practices for development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Front_end_practice__Top_25+_Javascript_code_best_practices_for_development.svg)](https://dev.to/lakshmananarumugam/front-end-practice-top-25-javascript-code-best-practices-for-development-4c1d)
-[![Observability Anti-Patterns and How AWS Can Help Overcome Them](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Observability_Anti-Patterns_and_How_AWS_Can_Help_Overcome_Them.svg)](https://dev.to/indika_wimalasuriya/observability-anti-patterns-and-how-aws-can-help-overcome-them-4566)
-[![Introduction to Foundation models in Azure - Part1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_to_Foundation_models_in_Azure_-_Part1.svg)](https://dev.to/keonabut/introduction-to-foundation-models-in-azure-part1-1n3k)
+[![Integrating React with Django](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Integrating_React_with_Django.svg)](https://dev.to/shreya111111/integrating-react-with-django-13lb)
+[![How to Protect Next.js 13 App Routes with Authentication](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Protect_Next.js_13_App_Routes_with_Authentication.svg)](https://dev.to/codebeast/how-to-protect-nextjs-13-app-routes-with-authentication-1bjh)
+[![Applying the Open-Closed Principle To Write Clean React Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Applying_the_Open-Closed_Principle_To_Write_Clean_React_Components.svg)](https://dev.to/mohammadfaisal/applying-the-open-closed-principle-to-write-clean-react-components-400o)
+[![Narrow profile LLM](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Narrow_profile_LLM.svg)](https://dev.to/aigerim_zhunisbekova_ae0a/narrow-profile-llm-19dl)
+[![Meme Monday](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Meme_Monday.svg)](https://dev.to/ben/meme-monday-51j1)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, July 31, 2023 at 12:11:06 AM
+> Last updated: Monday, July 31, 2023 at 12:10:22 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,19 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, July 31, 2023 at 12:11:14 AM
+> Last updated: Monday, July 31, 2023 at 12:10:29 PM
 
 > Showing 5 of 30 posts.
 
+[![Lume, the static site generator for Deno](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Lume__the_static_site_generator_for_Deno.svg)](https://lume.land/)
+[![
+VanJS (World's smallest reactive UI framework) 1.0.0 released
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_VanJS_(World's_smallest_reactive_UI_framework)_1.0.0_released_.svg)](
+https://vanjs.org/
+)
 [![Automatic width and height of local MDX images with Next.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Automatic_width_and_height_of_local_MDX_images_with_Next.js.svg)](https://mmazzarolo.com/blog/2023-07-29-nextjs-mdx-image-size)
 [![Run Just a Single Test in Mocha](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Run_Just_a_Single_Test_in_Mocha.svg)](
 https://masteringjs.io/tutorials/mocha/run-single-test
-)
-[![How to segregate 0s and 1s in an array in Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_segregate_0s_and_1s_in_an_array_in_Javascript.svg)](https://frontendinterviewquestions.medium.com/how-to-segregate-0s-and-1s-in-an-array-in-javascript-bf4c1af63977)
-[![
-Your entrance point to open-source contribution IRRESPECTIVE OF YOUR TECH
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Your_entrance_point_to_open-source_contribution_IRRESPECTIVE_OF_YOUR_TECH_.svg)](
-https://devoss.tech
 )
 [![Creating Our Own Chat GPT](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Creating_Our_Own_Chat_GPT.svg)](https://soshace.com/creating-our-own-chat-gpt/)
 
