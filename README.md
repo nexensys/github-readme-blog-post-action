@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, July 30, 2023 at 12:09:08 PM
+> Last updated: Sunday, July 30, 2023 at 6:48:41 PM
 
 > Showing 5 of 12 posts.
 
-[![Unlocking the Power of GraphQL: How AWS AppSync Simplifies API Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unlocking_the_Power_of_GraphQL__How_AWS_AppSync_Simplifies_API_Development.svg)](https://dev.to/brandondamue/unlocking-the-power-of-graphql-how-aws-appsync-simplifies-api-development-3gae)
-[![Do Contexts in Next.js 13 Make the Whole App Render on the Client?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Do_Contexts_in_Next.js_13_Make_the_Whole_App_Render_on_the_Client_.svg)](https://dev.to/perssondennis/do-contexts-in-nextjs-13-make-the-whole-app-render-on-the-client-55bb)
-[![Create a table of contents with highlighting in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_a_table_of_contents_with_highlighting_in_React.svg)](https://dev.to/christianah5/create-a-table-of-contents-with-highlighting-in-react-5efl)
-[![I care more about Code than about People](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_care_more_about_Code_than_about_People.svg)](https://dev.to/noriller/i-care-more-about-code-than-about-people-2lc1)
-[![🇵🇹 GitHub Portugal: the Portuguese development community on GitHub 🇵🇹](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🇵🇹_GitHub_Portugal__the_Portuguese_development_community_on_GitHub_🇵🇹.svg)](https://dev.to/mmroch4/github-portugal-the-portuguese-development-community-on-github-355b)
+[![Cocaptain new Features](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cocaptain_new_Features.svg)](https://dev.to/ayyoubessadeq/cocaptain-new-features-1fbj)
+[![Forum Import rev MySQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Forum_Import_rev_MySQL.svg)](https://dev.to/leviackr/forum-import-rev-mysql-agh)
+[![6 Proven Strategies For Being A Great Platform Engineer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/6_Proven_Strategies_For_Being_A_Great_Platform_Engineer.svg)](https://dev.to/linearb/6-proven-strategies-for-being-a-great-platform-engineer-1jk2)
+[![Control rc car using raspberry pi (Part 2 : The web server)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Control_rc_car_using_raspberry_pi_(Part_2___The_web_server).svg)](https://dev.to/medmor_65/control-rc-car-using-raspberry-pi-part-2-the-web-server-129k)
+[![Setup a Local Database](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Setup_a_Local_Database.svg)](https://dev.to/sean_kegel/setup-a-local-database-136p)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, July 30, 2023 at 12:09:11 PM
+> Last updated: Sunday, July 30, 2023 at 6:48:44 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, July 30, 2023 at 12:09:12 PM
+> Last updated: Sunday, July 30, 2023 at 6:48:52 PM
 
 > Showing 5 of 30 posts.
 
@@ -51,13 +51,13 @@ http://www.echojs.com
 [![Run Just a Single Test in Mocha](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Run_Just_a_Single_Test_in_Mocha.svg)](
 https://masteringjs.io/tutorials/mocha/run-single-test
 )
-[![Toyota Celica ST165: The Emka car that took the breath away](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Toyota_Celica_ST165__The_Emka_car_that_took_the_breath_away.svg)](https://www.monitor.co.ug/uganda/sports/motor-sport/toyota-celica-st165-the-emka-car-that-took-the-breath-away-1711386)
 [![How to segregate 0s and 1s in an array in Javascript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_segregate_0s_and_1s_in_an_array_in_Javascript.svg)](https://frontendinterviewquestions.medium.com/how-to-segregate-0s-and-1s-in-an-array-in-javascript-bf4c1af63977)
 [![
 Your entrance point to open-source contribution IRRESPECTIVE OF YOUR TECH
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Your_entrance_point_to_open-source_contribution_IRRESPECTIVE_OF_YOUR_TECH_.svg)](
 https://devoss.tech
 )
+[![Creating Our Own Chat GPT](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Creating_Our_Own_Chat_GPT.svg)](https://soshace.com/creating-our-own-chat-gpt/)
 
 
 <!-- post-list:end -->
