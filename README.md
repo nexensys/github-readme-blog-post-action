@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, July 30, 2023 at 6:48:41 PM
+> Last updated: Monday, July 31, 2023 at 12:11:03 AM
 
 > Showing 5 of 12 posts.
 
-[![Cocaptain new Features](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cocaptain_new_Features.svg)](https://dev.to/ayyoubessadeq/cocaptain-new-features-1fbj)
-[![Forum Import rev MySQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Forum_Import_rev_MySQL.svg)](https://dev.to/leviackr/forum-import-rev-mysql-agh)
-[![6 Proven Strategies For Being A Great Platform Engineer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/6_Proven_Strategies_For_Being_A_Great_Platform_Engineer.svg)](https://dev.to/linearb/6-proven-strategies-for-being-a-great-platform-engineer-1jk2)
-[![Control rc car using raspberry pi (Part 2 : The web server)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Control_rc_car_using_raspberry_pi_(Part_2___The_web_server).svg)](https://dev.to/medmor_65/control-rc-car-using-raspberry-pi-part-2-the-web-server-129k)
-[![Setup a Local Database](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Setup_a_Local_Database.svg)](https://dev.to/sean_kegel/setup-a-local-database-136p)
+[![Unlock Innovation: How to Rewire Your Brain for Out-of-the-Box Thinking](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unlock_Innovation__How_to_Rewire_Your_Brain_for_Out-of-the-Box_Thinking.svg)](https://dev.to/seeratawan01/unlock-innovation-how-to-rewire-your-brain-for-out-of-the-box-thinking-172b)
+[![Why I Move from Pixels (px) to Relative Units (rem) in CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_I_Move_from_Pixels_(px)_to_Relative_Units_(rem)_in_CSS.svg)](https://dev.to/seeratawan01/why-i-move-from-pixels-px-to-relative-units-rem-in-css-1jhb)
+[![Front end practice: Top 25+ Javascript code best practices for development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Front_end_practice__Top_25+_Javascript_code_best_practices_for_development.svg)](https://dev.to/lakshmananarumugam/front-end-practice-top-25-javascript-code-best-practices-for-development-4c1d)
+[![Observability Anti-Patterns and How AWS Can Help Overcome Them](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Observability_Anti-Patterns_and_How_AWS_Can_Help_Overcome_Them.svg)](https://dev.to/indika_wimalasuriya/observability-anti-patterns-and-how-aws-can-help-overcome-them-4566)
+[![Introduction to Foundation models in Azure - Part1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_to_Foundation_models_in_Azure_-_Part1.svg)](https://dev.to/keonabut/introduction-to-foundation-models-in-azure-part1-1n3k)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, July 30, 2023 at 6:48:44 PM
+> Last updated: Monday, July 31, 2023 at 12:11:06 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, July 30, 2023 at 6:48:52 PM
+> Last updated: Monday, July 31, 2023 at 12:11:14 AM
 
 > Showing 5 of 30 posts.
 
