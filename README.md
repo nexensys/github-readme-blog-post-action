@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, July 31, 2023 at 6:51:03 PM
+> Last updated: Tuesday, August 1, 2023 at 12:11:34 AM
 
 > Showing 5 of 12 posts.
 
-[![#ThisMonthInSWA - Jul 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_ThisMonthInSWA_-_Jul_2023.svg)](https://dev.to/azure/thismonthinswa-jul-2023-348h)
-[![📁myFiles 2.0 First Week On Sale🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/📁myFiles_2.0_First_Week_On_Sale🚀.svg)](https://dev.to/blueberry077/myfiles-20-first-week-on-sale-ma)
-[![How long would it take you to learn something new](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_long_would_it_take_you_to_learn_something_new.svg)](https://dev.to/juanfrank77/how-long-would-it-take-you-to-learn-something-new-3go6)
-[![From Novice to Sensei: An Exciting Adventure in Software Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/From_Novice_to_Sensei__An_Exciting_Adventure_in_Software_Development.svg)](https://dev.to/avwerosuoghene/from-novice-to-sensei-an-exciting-adventure-in-software-development-1nfk)
-[![Bonzai and how to create a personal CLI to rule them all](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Bonzai_and_how_to_create_a_personal_CLI_to_rule_them_all.svg)](https://dev.to/cherryramatis/bonzai-and-how-to-create-a-personal-cli-to-rule-them-all-1bnl)
+[![🦊 GitLab Pages preview : the no-compromise hack to serve per-branch pages](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🦊_GitLab_Pages_preview___the_no-compromise_hack_to_serve_per-branch_pages.svg)](https://dev.to/zenika/gitlab-pages-preview-the-no-compromise-hack-to-serve-per-branch-pages-5599)
+[![Understanding Node.js Streams](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_Node.js_Streams.svg)](https://dev.to/amplication/understanding-nodejs-streams-534o)
+[![Yet another rant in favor of Kubernetes secrets](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Yet_another_rant_in_favor_of_Kubernetes_secrets.svg)](https://dev.to/canelasevero/yet-another-rant-in-favor-of-kubernetes-secrets-432k)
+[![How to Use RXJS Debounce Time With Angular](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Use_RXJS_Debounce_Time_With_Angular.svg)](https://dev.to/mana95/how-to-use-rxjs-debounce-time-with-angular-4aj5)
+[![Introduction to Responsive Web Design (RWD)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_to_Responsive_Web_Design_(RWD).svg)](https://dev.to/kelechikizito/introduction-to-responsive-web-design-rwd-2gim)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, July 31, 2023 at 6:51:07 PM
+> Last updated: Tuesday, August 1, 2023 at 12:11:38 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, July 31, 2023 at 6:51:15 PM
+> Last updated: Tuesday, August 1, 2023 at 12:11:46 AM
 
 > Showing 5 of 30 posts.
 
+[![Announcing the Socket Web Extension - Socket](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Announcing_the_Socket_Web_Extension_-_Socket.svg)](https://socket.dev/blog/socket-web-extension)
 [![API with NestJS #118. Uploading and streaming videos](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__118._Uploading_and_streaming_videos.svg)](https://wanago.io/2023/07/31/api-nestjs-streaming-videos/)
 [![Lume, the static site generator for Deno](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Lume__the_static_site_generator_for_Deno.svg)](https://lume.land/)
 [![
@@ -55,9 +56,6 @@ VanJS (World's smallest reactive UI framework) 1.0.0 released
 https://vanjs.org/
 )
 [![Automatic width and height of local MDX images with Next.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Automatic_width_and_height_of_local_MDX_images_with_Next.js.svg)](https://mmazzarolo.com/blog/2023-07-29-nextjs-mdx-image-size)
-[![Run Just a Single Test in Mocha](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Run_Just_a_Single_Test_in_Mocha.svg)](
-https://masteringjs.io/tutorials/mocha/run-single-test
-)
 
 
 <!-- post-list:end -->
