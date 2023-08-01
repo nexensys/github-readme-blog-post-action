@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, August 1, 2023 at 6:16:27 AM
+> Last updated: Tuesday, August 1, 2023 at 12:10:08 PM
 
 > Showing 5 of 12 posts.
 
-[![Smol AI 🐣 vs Wasp AI 🐝- Which is the Better AI Junior Developer?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Smol_AI_🐣_vs_Wasp_AI_🐝-_Which_is_the_Better_AI_Junior_Developer_.svg)](https://dev.to/wasp/smol-ai-vs-wasp-ai-which-is-the-better-ai-junior-developer-4fcb)
-[![Henry Fayol’s 14 Principles of Management: A Guide for Students](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Henry_Fayol’s_14_Principles_of_Management__A_Guide_for_Students.svg)](https://dev.to/kuldipsir/henry-fayols-14-principles-of-management-a-guide-for-students-38e4)
-[![Building a RESTful API with Node.js: A Step-by-Step Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_RESTful_API_with_Node.js__A_Step-by-Step_Guide.svg)](https://dev.to/abidullah786/building-a-restful-api-with-nodejs-a-step-by-step-guide-27op)
-[![Powerful Resources Arsenal](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Powerful_Resources_Arsenal.svg)](https://dev.to/jaloplo/powerful-resources-arsenal-14gg)
-[![Share / ShareReplay / RefCount](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Share___ShareReplay___RefCount.svg)](https://dev.to/this-is-angular/share-sharereplay-refcount-331j)
+[![Top 10 Beginner-Friendly Django Project Ideas: Jumpstart Your Web Development Journey](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_10_Beginner-Friendly_Django_Project_Ideas__Jumpstart_Your_Web_Development_Journey.svg)](https://dev.to/max24816/top-10-beginner-friendly-django-project-ideas-jumpstart-your-web-development-journey-5e72)
+[![WordPress VS Elanat](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/WordPress_VS_Elanat.svg)](https://dev.to/elanatframework/wordpress-vs-elanat-36m1)
+[![Impact of AJAX-Loaded Content on SEO and Search Engines - Google Search Console insights](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Impact_of_AJAX-Loaded_Content_on_SEO_and_Search_Engines_-_Google_Search_Console_insights.svg)](https://dev.to/sh20raj/impact-of-ajax-loaded-content-on-seo-and-search-engines-google-search-console-insights-330j)
+[![Top 7 Featured DEV Posts from the Past Week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_7_Featured_DEV_Posts_from_the_Past_Week.svg)](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-5b4g)
+[![Bandit Level 8 Level 9](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Bandit_Level_8_Level_9.svg)](https://dev.to/christianpaez/bandit-level-8-level-9-5bp4)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, August 1, 2023 at 6:16:29 AM
+> Last updated: Tuesday, August 1, 2023 at 12:10:11 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, August 1, 2023 at 6:16:33 AM
+> Last updated: Tuesday, August 1, 2023 at 12:10:20 PM
 
 > Showing 5 of 30 posts.
 
+[![Use relative paths in markdown and MDX images with Next.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Use_relative_paths_in_markdown_and_MDX_images_with_Next.js.svg)](https://mmazzarolo.com/blog/2023-07-30-nextjs-mdx-image-source)
+[![better-sqlite3 is not better, it’s just a sqlite3-sync](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/better-sqlite3_is_not_better__it’s_just_a_sqlite3-sync.svg)](https://medium.com/@paleoparoi/better-sqlite3-is-not-better-its-just-a-sqlite3-sync-37b8b79fc4be)
 [![GitHub - FeatureProbe/FeatureProbe: FeatureProbe is an open source feature management service. 开源的高效可视化『特性』管理平台，提供特性开关、灰度发布、AB实验全功能。](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_FeatureProbe_FeatureProbe__FeatureProbe_is_an_open_source_feature_management_service._开源的高效可视化『特性』管理平台，提供特性开关、灰度发布、AB实验全功能。.svg)](https://github.com/FeatureProbe/FeatureProbe)
-[![Announcing the Socket Web Extension - Socket](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Announcing_the_Socket_Web_Extension_-_Socket.svg)](https://socket.dev/blog/socket-web-extension?utm_medium=feed)
+[![Announcing the Socket Web Extension - Socket](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Announcing_the_Socket_Web_Extension_-_Socket.svg)](https://socket.dev/blog/socket-web-extension)
 [![API with NestJS #118. Uploading and streaming videos](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__118._Uploading_and_streaming_videos.svg)](https://wanago.io/2023/07/31/api-nestjs-streaming-videos/)
-[![Lume, the static site generator for Deno](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Lume__the_static_site_generator_for_Deno.svg)](https://lume.land/)
-[![
-VanJS (World's smallest reactive UI framework) 1.0.0 released
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_VanJS_(World's_smallest_reactive_UI_framework)_1.0.0_released_.svg)](
-https://vanjs.org/
-)
 
 
 <!-- post-list:end -->
