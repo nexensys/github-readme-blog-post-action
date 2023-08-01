@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, July 31, 2023 at 12:10:19 PM
+> Last updated: Monday, July 31, 2023 at 6:51:03 PM
 
 > Showing 5 of 12 posts.
 
-[![Integrating React with Django](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Integrating_React_with_Django.svg)](https://dev.to/shreya111111/integrating-react-with-django-13lb)
-[![How to Protect Next.js 13 App Routes with Authentication](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Protect_Next.js_13_App_Routes_with_Authentication.svg)](https://dev.to/codebeast/how-to-protect-nextjs-13-app-routes-with-authentication-1bjh)
-[![Applying the Open-Closed Principle To Write Clean React Components](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Applying_the_Open-Closed_Principle_To_Write_Clean_React_Components.svg)](https://dev.to/mohammadfaisal/applying-the-open-closed-principle-to-write-clean-react-components-400o)
-[![Narrow profile LLM](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Narrow_profile_LLM.svg)](https://dev.to/aigerim_zhunisbekova_ae0a/narrow-profile-llm-19dl)
-[![Meme Monday](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Meme_Monday.svg)](https://dev.to/ben/meme-monday-51j1)
+[![#ThisMonthInSWA - Jul 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_ThisMonthInSWA_-_Jul_2023.svg)](https://dev.to/azure/thismonthinswa-jul-2023-348h)
+[![📁myFiles 2.0 First Week On Sale🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/📁myFiles_2.0_First_Week_On_Sale🚀.svg)](https://dev.to/blueberry077/myfiles-20-first-week-on-sale-ma)
+[![How long would it take you to learn something new](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_long_would_it_take_you_to_learn_something_new.svg)](https://dev.to/juanfrank77/how-long-would-it-take-you-to-learn-something-new-3go6)
+[![From Novice to Sensei: An Exciting Adventure in Software Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/From_Novice_to_Sensei__An_Exciting_Adventure_in_Software_Development.svg)](https://dev.to/avwerosuoghene/from-novice-to-sensei-an-exciting-adventure-in-software-development-1nfk)
+[![Bonzai and how to create a personal CLI to rule them all](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Bonzai_and_how_to_create_a_personal_CLI_to_rule_them_all.svg)](https://dev.to/cherryramatis/bonzai-and-how-to-create-a-personal-cli-to-rule-them-all-1bnl)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, July 31, 2023 at 12:10:22 PM
+> Last updated: Monday, July 31, 2023 at 6:51:07 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, July 31, 2023 at 12:10:29 PM
+> Last updated: Monday, July 31, 2023 at 6:51:15 PM
 
 > Showing 5 of 30 posts.
 
+[![API with NestJS #118. Uploading and streaming videos](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__118._Uploading_and_streaming_videos.svg)](https://wanago.io/2023/07/31/api-nestjs-streaming-videos/)
 [![Lume, the static site generator for Deno](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Lume__the_static_site_generator_for_Deno.svg)](https://lume.land/)
 [![
 VanJS (World's smallest reactive UI framework) 1.0.0 released
@@ -57,7 +58,6 @@ https://vanjs.org/
 [![Run Just a Single Test in Mocha](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Run_Just_a_Single_Test_in_Mocha.svg)](
 https://masteringjs.io/tutorials/mocha/run-single-test
 )
-[![Creating Our Own Chat GPT](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Creating_Our_Own_Chat_GPT.svg)](https://soshace.com/creating-our-own-chat-gpt/)
 
 
 <!-- post-list:end -->
