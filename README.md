@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, August 1, 2023 at 12:11:34 AM
+> Last updated: Tuesday, August 1, 2023 at 6:16:27 AM
 
 > Showing 5 of 12 posts.
 
-[![🦊 GitLab Pages preview : the no-compromise hack to serve per-branch pages](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🦊_GitLab_Pages_preview___the_no-compromise_hack_to_serve_per-branch_pages.svg)](https://dev.to/zenika/gitlab-pages-preview-the-no-compromise-hack-to-serve-per-branch-pages-5599)
-[![Understanding Node.js Streams](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_Node.js_Streams.svg)](https://dev.to/amplication/understanding-nodejs-streams-534o)
-[![Yet another rant in favor of Kubernetes secrets](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Yet_another_rant_in_favor_of_Kubernetes_secrets.svg)](https://dev.to/canelasevero/yet-another-rant-in-favor-of-kubernetes-secrets-432k)
-[![How to Use RXJS Debounce Time With Angular](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Use_RXJS_Debounce_Time_With_Angular.svg)](https://dev.to/mana95/how-to-use-rxjs-debounce-time-with-angular-4aj5)
-[![Introduction to Responsive Web Design (RWD)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_to_Responsive_Web_Design_(RWD).svg)](https://dev.to/kelechikizito/introduction-to-responsive-web-design-rwd-2gim)
+[![Smol AI 🐣 vs Wasp AI 🐝- Which is the Better AI Junior Developer?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Smol_AI_🐣_vs_Wasp_AI_🐝-_Which_is_the_Better_AI_Junior_Developer_.svg)](https://dev.to/wasp/smol-ai-vs-wasp-ai-which-is-the-better-ai-junior-developer-4fcb)
+[![Henry Fayol’s 14 Principles of Management: A Guide for Students](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Henry_Fayol’s_14_Principles_of_Management__A_Guide_for_Students.svg)](https://dev.to/kuldipsir/henry-fayols-14-principles-of-management-a-guide-for-students-38e4)
+[![Building a RESTful API with Node.js: A Step-by-Step Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_RESTful_API_with_Node.js__A_Step-by-Step_Guide.svg)](https://dev.to/abidullah786/building-a-restful-api-with-nodejs-a-step-by-step-guide-27op)
+[![Powerful Resources Arsenal](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Powerful_Resources_Arsenal.svg)](https://dev.to/jaloplo/powerful-resources-arsenal-14gg)
+[![Share / ShareReplay / RefCount](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Share___ShareReplay___RefCount.svg)](https://dev.to/this-is-angular/share-sharereplay-refcount-331j)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, August 1, 2023 at 12:11:38 AM
+> Last updated: Tuesday, August 1, 2023 at 6:16:29 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,11 +43,12 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, August 1, 2023 at 12:11:46 AM
+> Last updated: Tuesday, August 1, 2023 at 6:16:33 AM
 
 > Showing 5 of 30 posts.
 
-[![Announcing the Socket Web Extension - Socket](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Announcing_the_Socket_Web_Extension_-_Socket.svg)](https://socket.dev/blog/socket-web-extension)
+[![GitHub - FeatureProbe/FeatureProbe: FeatureProbe is an open source feature management service. 开源的高效可视化『特性』管理平台，提供特性开关、灰度发布、AB实验全功能。](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_FeatureProbe_FeatureProbe__FeatureProbe_is_an_open_source_feature_management_service._开源的高效可视化『特性』管理平台，提供特性开关、灰度发布、AB实验全功能。.svg)](https://github.com/FeatureProbe/FeatureProbe)
+[![Announcing the Socket Web Extension - Socket](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Announcing_the_Socket_Web_Extension_-_Socket.svg)](https://socket.dev/blog/socket-web-extension?utm_medium=feed)
 [![API with NestJS #118. Uploading and streaming videos](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__118._Uploading_and_streaming_videos.svg)](https://wanago.io/2023/07/31/api-nestjs-streaming-videos/)
 [![Lume, the static site generator for Deno](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Lume__the_static_site_generator_for_Deno.svg)](https://lume.land/)
 [![
@@ -55,7 +56,6 @@ VanJS (World's smallest reactive UI framework) 1.0.0 released
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_VanJS_(World's_smallest_reactive_UI_framework)_1.0.0_released_.svg)](
 https://vanjs.org/
 )
-[![Automatic width and height of local MDX images with Next.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Automatic_width_and_height_of_local_MDX_images_with_Next.js.svg)](https://mmazzarolo.com/blog/2023-07-29-nextjs-mdx-image-size)
 
 
 <!-- post-list:end -->
