@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, August 2, 2023 at 6:15:42 AM
+> Last updated: Wednesday, August 2, 2023 at 12:09:58 PM
 
 > Showing 5 of 12 posts.
 
-[![Mastering Input Handling with the Debounce Function in React.js: A Journey to Seamless User Experiences](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_Input_Handling_with_the_Debounce_Function_in_React.js__A_Journey_to_Seamless_User_Experiences.svg)](https://dev.to/raymondkingjnr/mastering-input-handling-with-the-debounce-function-in-reactjs-a-journey-to-seamless-user-experiences-kb3)
-[![How to create a launch countdown timer with JavaScript in 10 minutes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_a_launch_countdown_timer_with_JavaScript_in_10_minutes.svg)](https://dev.to/tobezhanabi/how-to-create-a-launch-countdown-timer-with-javascript-in-10-minutes-2kp9)
-[![Best CSS Animation on internet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_CSS_Animation_on_internet.svg)](https://dev.to/democode7451/best-css-animation-on-internet-1hd8)
-[![Should New Developers Use AI Coding Tools?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Should_New_Developers_Use_AI_Coding_Tools_.svg)](https://dev.to/catalinpit/should-new-developers-use-ai-coding-tools-2bfc)
-[![Pet insurance claim management automation solution](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Pet_insurance_claim_management_automation_solution.svg)](https://dev.to/abtosoftware/pet-insurance-claim-management-automation-solution-2n03)
+[![The Art Of Messy Code - Chapter 1: Introduction](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Art_Of_Messy_Code_-_Chapter_1__Introduction.svg)](https://dev.to/darkterminal/the-art-of-messy-code-chapter-1-introduction-3j42)
+[![Building a Bubble Chart (JS): Top 30 Most-Liked YouTube Videos](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_Bubble_Chart_(JS)__Top_30_Most-Liked_YouTube_Videos.svg)](https://dev.to/andreykh/building-a-bubble-chart-js-top-30-most-liked-youtube-videos-3i4g)
+[![Making Accessibility a Part of the Design Process from Conception](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Making_Accessibility_a_Part_of_the_Design_Process_from_Conception.svg)](https://dev.to/bennyblvck/making-accessibility-a-part-of-the-design-process-from-conception-1cm)
+[![How to Use AI for Effective Diagram Creation: A Guide to ChatGPT and Mermaid](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Use_AI_for_Effective_Diagram_Creation__A_Guide_to_ChatGPT_and_Mermaid.svg)](https://dev.to/alexanderop/how-to-use-ai-for-effective-diagram-creation-a-guide-to-chatgpt-and-mermaid-2gip)
+[![What are ChatGPT tokens?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_are_ChatGPT_tokens_.svg)](https://dev.to/lonetools/what-are-chatgpt-tokens-5401)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, August 2, 2023 at 6:15:44 AM
+> Last updated: Wednesday, August 2, 2023 at 12:10:01 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, August 2, 2023 at 6:15:49 AM
+> Last updated: Wednesday, August 2, 2023 at 12:10:05 PM
 
 > Showing 5 of 30 posts.
 
+[![Working with Timezones using date-fns and date-fns-tz](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Working_with_Timezones_using_date-fns_and_date-fns-tz.svg)](
+https://masteringjs.io/tutorials/date-fns/tz
+)
 [![GitHub - MarketingPipeline/Media-Card-Web-Component: A web component to display books, movies, TV shows & song details on any website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_MarketingPipeline_Media-Card-Web-Component__A_web_component_to_display_books__movies__TV_shows___song_details_on_any_website.svg)](https://github.com/MarketingPipeline/Media-Card-Web-Component)
-[![Use relative paths in markdown and MDX images with Next.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Use_relative_paths_in_markdown_and_MDX_images_with_Next.js.svg)](https://mmazzarolo.com/blog/2023-07-30-nextjs-mdx-image-source)
+[![Use relative paths in markdown and MDX images with Next.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Use_relative_paths_in_markdown_and_MDX_images_with_Next.js.svg)](https://mmazzarolo.com/blog/2023-07-30-nextjs-mdx-image-source/)
 [![better-sqlite3 is not better, it’s just a sqlite3-sync](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/better-sqlite3_is_not_better__it’s_just_a_sqlite3-sync.svg)](https://medium.com/@paleoparoi/better-sqlite3-is-not-better-its-just-a-sqlite3-sync-37b8b79fc4be)
 [![GitHub - FeatureProbe/FeatureProbe: FeatureProbe is an open source feature management service. 开源的高效可视化『特性』管理平台，提供特性开关、灰度发布、AB实验全功能。](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_FeatureProbe_FeatureProbe__FeatureProbe_is_an_open_source_feature_management_service._开源的高效可视化『特性』管理平台，提供特性开关、灰度发布、AB实验全功能。.svg)](https://github.com/FeatureProbe/FeatureProbe)
-[![Announcing the Socket Web Extension - Socket](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Announcing_the_Socket_Web_Extension_-_Socket.svg)](https://socket.dev/blog/socket-web-extension)
 
 
 <!-- post-list:end -->
