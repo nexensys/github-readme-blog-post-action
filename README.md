@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, August 1, 2023 at 12:10:08 PM
+> Last updated: Tuesday, August 1, 2023 at 6:45:44 PM
 
 > Showing 5 of 12 posts.
 
-[![Top 10 Beginner-Friendly Django Project Ideas: Jumpstart Your Web Development Journey](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_10_Beginner-Friendly_Django_Project_Ideas__Jumpstart_Your_Web_Development_Journey.svg)](https://dev.to/max24816/top-10-beginner-friendly-django-project-ideas-jumpstart-your-web-development-journey-5e72)
-[![WordPress VS Elanat](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/WordPress_VS_Elanat.svg)](https://dev.to/elanatframework/wordpress-vs-elanat-36m1)
-[![Impact of AJAX-Loaded Content on SEO and Search Engines - Google Search Console insights](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Impact_of_AJAX-Loaded_Content_on_SEO_and_Search_Engines_-_Google_Search_Console_insights.svg)](https://dev.to/sh20raj/impact-of-ajax-loaded-content-on-seo-and-search-engines-google-search-console-insights-330j)
-[![Top 7 Featured DEV Posts from the Past Week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_7_Featured_DEV_Posts_from_the_Past_Week.svg)](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-5b4g)
-[![Bandit Level 8 Level 9](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Bandit_Level_8_Level_9.svg)](https://dev.to/christianpaez/bandit-level-8-level-9-5bp4)
+[![Set Up Webpack 5 To Work With Static Files](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Set_Up_Webpack_5_To_Work_With_Static_Files.svg)](https://dev.to/matheus4lves/set-up-webpack-5-to-work-with-static-files-52gk)
+[![My Developers Portfolio](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_Developers_Portfolio.svg)](https://dev.to/abokintech/my-developers-portfolio-446g)
+[![Plan Your Dream Trip with Wanderkit.net: A Behind-the-Scenes Look](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Plan_Your_Dream_Trip_with_Wanderkit.net__A_Behind-the-Scenes_Look.svg)](https://dev.to/levischouten/plan-your-dream-trip-with-wanderkitnet-a-behind-the-scenes-look-3g47)
+[![Why is using TypeScript a good idea?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_is_using_TypeScript_a_good_idea_.svg)](https://dev.to/clickit_devops/why-is-using-typescript-a-good-idea-2gc7)
+[![Keyed Services in .NET8's Dependency Injection](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Keyed_Services_in_.NET8's_Dependency_Injection.svg)](https://dev.to/xelit3/keyed-services-in-net8s-dependency-injection-2gni)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, August 1, 2023 at 12:10:11 PM
+> Last updated: Tuesday, August 1, 2023 at 6:45:47 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, August 1, 2023 at 12:10:20 PM
+> Last updated: Tuesday, August 1, 2023 at 6:45:53 PM
 
 > Showing 5 of 30 posts.
 
