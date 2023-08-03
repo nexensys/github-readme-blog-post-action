@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, August 3, 2023 at 6:16:05 AM
+> Last updated: Thursday, August 3, 2023 at 12:10:12 PM
 
 > Showing 5 of 12 posts.
 
-[![10 Cool CodePen Demos (July 2023)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_Cool_CodePen_Demos_(July_2023).svg)](https://dev.to/alvaromontoro/10-cool-codepen-demos-july-2023-590l)
-[![Out Systems Shaping the Future !](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Out_Systems_Shaping_the_Future_!.svg)](https://dev.to/hasanelsherbiny/out-systems-shaping-the-future--4891)
-[![What is Rocketgraph](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_Rocketgraph.svg)](https://dev.to/kaushik94/what-is-rocketgraph-1h6f)
-[![Finally the messages component](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Finally_the_messages_component.svg)](https://dev.to/kaushik94/finally-the-messages-component-j70)
-[![Create event triggers for PostgresDB](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_event_triggers_for_PostgresDB.svg)](https://dev.to/kaushik94/create-event-triggers-for-postgresdb-132o)
+[![Scaling Node.js to Infinity and Beyond: Cluster and Load Balancing for Galactic Performance.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Scaling_Node.js_to_Infinity_and_Beyond__Cluster_and_Load_Balancing_for_Galactic_Performance..svg)](https://dev.to/raxraj/scaling-nodejs-to-infinity-and-beyond-cluster-and-load-balancing-for-galactic-performance-g60)
+[![The Next AGE of Discord](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Next_AGE_of_Discord.svg)](https://dev.to/rrrokhtar/the-next-age-of-discord-4hl5)
+[![Flask Course Tutorials: Top 10 Web Development Resources in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Flask_Course_Tutorials__Top_10_Web_Development_Resources_in_2023.svg)](https://dev.to/max24816/flask-course-tutorials-top-10-web-development-resources-in-2023-j7k)
+[![PostGraphile V5 public beta — get involved!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/PostGraphile_V5_public_beta_—_get_involved!.svg)](https://dev.to/graphile/postgraphile-v5-public-beta-get-involved-1lg9)
+[![Don't forget the leaks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Don't_forget_the_leaks.svg)](https://dev.to/peterwitham/dont-forget-the-leaks-2m4f)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, August 3, 2023 at 6:16:07 AM
+> Last updated: Thursday, August 3, 2023 at 12:10:15 PM
 
 > Showing 4 of 4 posts.
 
+[![Taking JavaScript into Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Taking_JavaScript_into_Python.svg)](https://javascriptweekly.com/issues/650)
 [![Name mangling](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Name_mangling.svg)](https://javascriptweekly.com/issues/649)
 [![The tale of how static typing came to JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/The_tale_of_how_static_typing_came_to_JavaScript.svg)](https://javascriptweekly.com/issues/648)
 [![htmx in 100 seconds](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/htmx_in_100_seconds.svg)](https://javascriptweekly.com/issues/647)
-[![CommonJS, we love you, we love you not..](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/CommonJS__we_love_you__we_love_you_not...svg)](https://javascriptweekly.com/issues/646)
 
 
 ## Echo JS
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, August 3, 2023 at 6:16:17 AM
+> Last updated: Thursday, August 3, 2023 at 12:10:20 PM
 
 > Showing 5 of 30 posts.
 
