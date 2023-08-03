@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, August 2, 2023 at 6:45:19 PM
+> Last updated: Thursday, August 3, 2023 at 12:10:42 AM
 
 > Showing 5 of 12 posts.
 
-[![Shopify App - Theme Extension with React + Tailwind CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Shopify_App_-_Theme_Extension_with_React_+_Tailwind_CSS.svg)](https://dev.to/iskurbanov/shopify-app-theme-extension-with-react-tailwind-css-3n9e)
-[![Testing Flutter Plugins: A Step-by-Step Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Testing_Flutter_Plugins__A_Step-by-Step_Guide.svg)](https://dev.to/odinachi/testing-flutter-plugins-a-step-by-step-guide-5h6b)
-[![5 Essential Frontend Development Best Practices Every Developer Should Know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Essential_Frontend_Development_Best_Practices_Every_Developer_Should_Know.svg)](https://dev.to/josematoswork/5-essential-frontend-development-best-practices-every-developer-should-know-23el)
-[![PHP-FPM 8.2 on OpenBSD 7.3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/PHP-FPM_8.2_on_OpenBSD_7.3.svg)](https://dev.to/nabbisen/php-fpm-82-on-openbsd-73-ahj)
-[![How to use IAST to prove exploitable vulnerabilities within your first-party code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_IAST_to_prove_exploitable_vulnerabilities_within_your_first-party_code.svg)](https://dev.to/newrelic/how-to-use-iast-to-prove-exploitable-vulnerabilities-within-your-first-party-code-2jmc)
+[![Cucumber Selenium tests taking longer duration in multi-Threaded mode on latest chrome versions and on AL2 Linux](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Cucumber_Selenium_tests_taking_longer_duration_in_multi-Threaded_mode_on_latest_chrome_versions_and_on_AL2_Linux.svg)](https://dev.to/venkatesh2944/cucumber-selenium-tests-taking-longer-duration-in-multi-threaded-mode-on-latest-chrome-versions-and-on-al2-linux-1noe)
+[![Perfect Guide To Start Laundry Business In India](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Perfect_Guide_To_Start_Laundry_Business_In_India.svg)](https://dev.to/mohit7899/perfect-guide-to-start-laundry-business-in-india-3220)
+[![CSS z index not working (Reason with solution live snippet code)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CSS_z_index_not_working_(Reason_with_solution_live_snippet_code).svg)](https://dev.to/lakshmananarumugam/css-z-index-not-working-reason-with-solution-live-snippet-code-1589)
+[![What's the difference between arrow functions and regular functions?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What's_the_difference_between_arrow_functions_and_regular_functions_.svg)](https://dev.to/pedrogustavo/whats-the-difference-between-arrow-functions-and-regular-functions-352c)
+[![More Accessible Graphs with Jetpack Compose Part 2: Adding Keyboard Interaction](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/More_Accessible_Graphs_with_Jetpack_Compose_Part_2__Adding_Keyboard_Interaction.svg)](https://dev.to/eevajonnapanula/more-accessible-graphs-with-jetpack-compose-part-2-adding-keyboard-interaction-1gpd)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, August 2, 2023 at 6:45:22 PM
+> Last updated: Thursday, August 3, 2023 at 12:10:45 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, August 2, 2023 at 6:45:26 PM
+> Last updated: Thursday, August 3, 2023 at 12:10:48 AM
 
 > Showing 5 of 30 posts.
 
