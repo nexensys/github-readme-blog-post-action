@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, August 2, 2023 at 12:09:58 PM
+> Last updated: Wednesday, August 2, 2023 at 6:45:19 PM
 
 > Showing 5 of 12 posts.
 
-[![The Art Of Messy Code - Chapter 1: Introduction](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Art_Of_Messy_Code_-_Chapter_1__Introduction.svg)](https://dev.to/darkterminal/the-art-of-messy-code-chapter-1-introduction-3j42)
-[![Building a Bubble Chart (JS): Top 30 Most-Liked YouTube Videos](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_Bubble_Chart_(JS)__Top_30_Most-Liked_YouTube_Videos.svg)](https://dev.to/andreykh/building-a-bubble-chart-js-top-30-most-liked-youtube-videos-3i4g)
-[![Making Accessibility a Part of the Design Process from Conception](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Making_Accessibility_a_Part_of_the_Design_Process_from_Conception.svg)](https://dev.to/bennyblvck/making-accessibility-a-part-of-the-design-process-from-conception-1cm)
-[![How to Use AI for Effective Diagram Creation: A Guide to ChatGPT and Mermaid](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Use_AI_for_Effective_Diagram_Creation__A_Guide_to_ChatGPT_and_Mermaid.svg)](https://dev.to/alexanderop/how-to-use-ai-for-effective-diagram-creation-a-guide-to-chatgpt-and-mermaid-2gip)
-[![What are ChatGPT tokens?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_are_ChatGPT_tokens_.svg)](https://dev.to/lonetools/what-are-chatgpt-tokens-5401)
+[![Shopify App - Theme Extension with React + Tailwind CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Shopify_App_-_Theme_Extension_with_React_+_Tailwind_CSS.svg)](https://dev.to/iskurbanov/shopify-app-theme-extension-with-react-tailwind-css-3n9e)
+[![Testing Flutter Plugins: A Step-by-Step Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Testing_Flutter_Plugins__A_Step-by-Step_Guide.svg)](https://dev.to/odinachi/testing-flutter-plugins-a-step-by-step-guide-5h6b)
+[![5 Essential Frontend Development Best Practices Every Developer Should Know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Essential_Frontend_Development_Best_Practices_Every_Developer_Should_Know.svg)](https://dev.to/josematoswork/5-essential-frontend-development-best-practices-every-developer-should-know-23el)
+[![PHP-FPM 8.2 on OpenBSD 7.3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/PHP-FPM_8.2_on_OpenBSD_7.3.svg)](https://dev.to/nabbisen/php-fpm-82-on-openbsd-73-ahj)
+[![How to use IAST to prove exploitable vulnerabilities within your first-party code](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_IAST_to_prove_exploitable_vulnerabilities_within_your_first-party_code.svg)](https://dev.to/newrelic/how-to-use-iast-to-prove-exploitable-vulnerabilities-within-your-first-party-code-2jmc)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, August 2, 2023 at 12:10:01 PM
+> Last updated: Wednesday, August 2, 2023 at 6:45:22 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, August 2, 2023 at 12:10:05 PM
+> Last updated: Wednesday, August 2, 2023 at 6:45:26 PM
 
 > Showing 5 of 30 posts.
 
