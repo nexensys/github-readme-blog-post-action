@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, August 3, 2023 at 12:10:12 PM
+> Last updated: Thursday, August 3, 2023 at 6:46:04 PM
 
 > Showing 5 of 12 posts.
 
-[![Scaling Node.js to Infinity and Beyond: Cluster and Load Balancing for Galactic Performance.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Scaling_Node.js_to_Infinity_and_Beyond__Cluster_and_Load_Balancing_for_Galactic_Performance..svg)](https://dev.to/raxraj/scaling-nodejs-to-infinity-and-beyond-cluster-and-load-balancing-for-galactic-performance-g60)
-[![The Next AGE of Discord](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Next_AGE_of_Discord.svg)](https://dev.to/rrrokhtar/the-next-age-of-discord-4hl5)
-[![Flask Course Tutorials: Top 10 Web Development Resources in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Flask_Course_Tutorials__Top_10_Web_Development_Resources_in_2023.svg)](https://dev.to/max24816/flask-course-tutorials-top-10-web-development-resources-in-2023-j7k)
-[![PostGraphile V5 public beta — get involved!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/PostGraphile_V5_public_beta_—_get_involved!.svg)](https://dev.to/graphile/postgraphile-v5-public-beta-get-involved-1lg9)
-[![Don't forget the leaks](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Don't_forget_the_leaks.svg)](https://dev.to/peterwitham/dont-forget-the-leaks-2m4f)
+[![How to Build a Tip Calculator in the Command Line with Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Build_a_Tip_Calculator_in_the_Command_Line_with_Python.svg)](https://dev.to/terieyenike/how-to-build-a-tip-calculator-in-the-command-line-with-python-4ed2)
+[![Exploring How Websites Talk: A Beginner's Guide to HTTP Requests, APIs, and Backend Magic](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exploring_How_Websites_Talk__A_Beginner's_Guide_to_HTTP_Requests__APIs__and_Backend_Magic.svg)](https://dev.to/ibrahzizo360/exploring-how-websites-talk-a-beginners-guide-to-http-requests-apis-and-backend-magic-4l48)
+[![Automating Talend Jobs Using Apache Airflow .](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Automating_Talend_Jobs_Using_Apache_Airflow_..svg)](https://dev.to/wanjohichristopher/automating-talend-jobs-using-apache-airflow--4ank)
+[![Changelog: Don't forget to hit that notification bell](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Changelog__Don't_forget_to_hit_that_notification_bell.svg)](https://dev.to/devteam/changelog-dont-forget-to-hit-that-notification-bell-328c)
+[![Meet Mr. Query Selector - Your New BFF for DOM Manipulation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Meet_Mr._Query_Selector_-_Your_New_BFF_for_DOM_Manipulation.svg)](https://dev.to/mohitsinghchauhan/meet-mr-query-selector-your-new-bff-for-dom-manipulation-295d)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, August 3, 2023 at 12:10:15 PM
+> Last updated: Thursday, August 3, 2023 at 6:46:08 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, August 3, 2023 at 12:10:20 PM
+> Last updated: Thursday, August 3, 2023 at 6:46:15 PM
 
 > Showing 5 of 30 posts.
 
