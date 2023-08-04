@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, August 4, 2023 at 12:10:47 AM
+> Last updated: Friday, August 4, 2023 at 6:15:23 AM
 
 > Showing 5 of 12 posts.
 
-[![Top Technical Tips to Reduce Battery Consumption by an Android App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_Technical_Tips_to_Reduce_Battery_Consumption_by_an_Android_App.svg)](https://dev.to/dhruvjoshi9/top-technical-tips-to-reduce-battery-consumption-by-an-android-app-d5g)
-[![Case Study: How Company X Leveraged Apache AGE to Enhance Fraud Detection](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Case_Study__How_Company_X_Leveraged_Apache_AGE_to_Enhance_Fraud_Detection.svg)](https://dev.to/huzaiifaaaa/case-study-how-company-x-leveraged-apache-age-to-enhance-fraud-detection-193k)
-[![7 Best Advanced Data Science Online Courses](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/7_Best_Advanced_Data_Science_Online_Courses.svg)](https://dev.to/aqsa81/7-best-advanced-data-science-online-courses-2bi8)
-[![Crafting Prompt Templates for Code Generation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Crafting_Prompt_Templates_for_Code_Generation.svg)](https://dev.to/stephenc222/crafting-prompt-templates-for-code-generation-l6d)
-[![Micro-Frontends: Unleashing the Avengers' Newest Superpower!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Micro-Frontends__Unleashing_the_Avengers'_Newest_Superpower!.svg)](https://dev.to/kpnigalye/micro-frontends-unleashing-the-avengers-newest-superpower-26k2)
+[![How to use online VS Code editor alongside your GitHub repo ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_online_VS_Code_editor_alongside_your_GitHub_repo__.svg)](https://dev.to/manutheblacker/how-to-use-online-vs-code-editor-alongside-your-github-repo--58l4)
+[![Styling the HTML5 `<audio>` Tag with CSS and WebKit Properties](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Styling_the_HTML5_`_audio_`_Tag_with_CSS_and_WebKit_Properties.svg)](https://dev.to/sh20raj/styling-the-html5-tag-with-css-and-webkit-properties-nf3)
+[![Agile VS Scrum VS Waterfall](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Agile_VS_Scrum_VS_Waterfall.svg)](https://dev.to/hasanelsherbiny/agile-vs-scrum-vs-waterfall-58da)
+[![Emacs Lisp Cheat Sheet for Clojure Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Emacs_Lisp_Cheat_Sheet_for_Clojure_Developers.svg)](https://dev.to/robertmjohnson/emacs-lisp-cheat-sheet-for-clojure-developers-2h4p)
+[![Thank Goodness It's Friday: Celebrating Developer Wins! 🎉](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Thank_Goodness_It's_Friday__Celebrating_Developer_Wins!_🎉.svg)](https://dev.to/mitchiemt11/thank-goodness-its-friday-celebrating-developer-wins-dnh)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, August 4, 2023 at 12:10:50 AM
+> Last updated: Friday, August 4, 2023 at 6:15:26 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, August 4, 2023 at 12:10:56 AM
+> Last updated: Friday, August 4, 2023 at 6:15:34 AM
 
 > Showing 5 of 30 posts.
 
+[![Headless CMS: Strapi vs DatoCMS ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Headless_CMS__Strapi_vs_DatoCMS_.svg)](https://www.voorhoede.nl/en/blog/headless-cmss-go-head-to-head-strapi-vs-datocms/)
 [![React Lazy — Optimizing Bundle Size](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_Lazy_—_Optimizing_Bundle_Size.svg)](https://levelup.gitconnected.com/react-lazy-optimizing-bundle-size-fd82f4de2382)
 [![Working with Timezones using date-fns and date-fns-tz](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Working_with_Timezones_using_date-fns_and_date-fns-tz.svg)](
 https://masteringjs.io/tutorials/date-fns/tz
 )
 [![GitHub - MarketingPipeline/Media-Card-Web-Component: A web component to display books, movies, TV shows & song details on any website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_MarketingPipeline_Media-Card-Web-Component__A_web_component_to_display_books__movies__TV_shows___song_details_on_any_website.svg)](https://github.com/MarketingPipeline/Media-Card-Web-Component)
 [![Use relative paths in markdown and MDX images with Next.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Use_relative_paths_in_markdown_and_MDX_images_with_Next.js.svg)](https://mmazzarolo.com/blog/2023-07-30-nextjs-mdx-image-source/)
-[![better-sqlite3 is not better, it’s just a sqlite3-sync](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/better-sqlite3_is_not_better__it’s_just_a_sqlite3-sync.svg)](https://medium.com/@paleoparoi/better-sqlite3-is-not-better-its-just-a-sqlite3-sync-37b8b79fc4be)
 
 
 <!-- post-list:end -->
