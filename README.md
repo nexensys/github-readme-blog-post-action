@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, August 3, 2023 at 6:46:04 PM
+> Last updated: Friday, August 4, 2023 at 12:10:47 AM
 
 > Showing 5 of 12 posts.
 
-[![How to Build a Tip Calculator in the Command Line with Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Build_a_Tip_Calculator_in_the_Command_Line_with_Python.svg)](https://dev.to/terieyenike/how-to-build-a-tip-calculator-in-the-command-line-with-python-4ed2)
-[![Exploring How Websites Talk: A Beginner's Guide to HTTP Requests, APIs, and Backend Magic](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exploring_How_Websites_Talk__A_Beginner's_Guide_to_HTTP_Requests__APIs__and_Backend_Magic.svg)](https://dev.to/ibrahzizo360/exploring-how-websites-talk-a-beginners-guide-to-http-requests-apis-and-backend-magic-4l48)
-[![Automating Talend Jobs Using Apache Airflow .](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Automating_Talend_Jobs_Using_Apache_Airflow_..svg)](https://dev.to/wanjohichristopher/automating-talend-jobs-using-apache-airflow--4ank)
-[![Changelog: Don't forget to hit that notification bell](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Changelog__Don't_forget_to_hit_that_notification_bell.svg)](https://dev.to/devteam/changelog-dont-forget-to-hit-that-notification-bell-328c)
-[![Meet Mr. Query Selector - Your New BFF for DOM Manipulation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Meet_Mr._Query_Selector_-_Your_New_BFF_for_DOM_Manipulation.svg)](https://dev.to/mohitsinghchauhan/meet-mr-query-selector-your-new-bff-for-dom-manipulation-295d)
+[![Top Technical Tips to Reduce Battery Consumption by an Android App](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_Technical_Tips_to_Reduce_Battery_Consumption_by_an_Android_App.svg)](https://dev.to/dhruvjoshi9/top-technical-tips-to-reduce-battery-consumption-by-an-android-app-d5g)
+[![Case Study: How Company X Leveraged Apache AGE to Enhance Fraud Detection](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Case_Study__How_Company_X_Leveraged_Apache_AGE_to_Enhance_Fraud_Detection.svg)](https://dev.to/huzaiifaaaa/case-study-how-company-x-leveraged-apache-age-to-enhance-fraud-detection-193k)
+[![7 Best Advanced Data Science Online Courses](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/7_Best_Advanced_Data_Science_Online_Courses.svg)](https://dev.to/aqsa81/7-best-advanced-data-science-online-courses-2bi8)
+[![Crafting Prompt Templates for Code Generation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Crafting_Prompt_Templates_for_Code_Generation.svg)](https://dev.to/stephenc222/crafting-prompt-templates-for-code-generation-l6d)
+[![Micro-Frontends: Unleashing the Avengers' Newest Superpower!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Micro-Frontends__Unleashing_the_Avengers'_Newest_Superpower!.svg)](https://dev.to/kpnigalye/micro-frontends-unleashing-the-avengers-newest-superpower-26k2)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, August 3, 2023 at 6:46:08 PM
+> Last updated: Friday, August 4, 2023 at 12:10:50 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, August 3, 2023 at 6:46:15 PM
+> Last updated: Friday, August 4, 2023 at 12:10:56 AM
 
 > Showing 5 of 30 posts.
 
