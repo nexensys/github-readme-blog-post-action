@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, August 4, 2023 at 6:15:23 AM
+> Last updated: Friday, August 4, 2023 at 12:09:54 PM
 
 > Showing 5 of 12 posts.
 
-[![How to use online VS Code editor alongside your GitHub repo ?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_online_VS_Code_editor_alongside_your_GitHub_repo__.svg)](https://dev.to/manutheblacker/how-to-use-online-vs-code-editor-alongside-your-github-repo--58l4)
-[![Styling the HTML5 `<audio>` Tag with CSS and WebKit Properties](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Styling_the_HTML5_`_audio_`_Tag_with_CSS_and_WebKit_Properties.svg)](https://dev.to/sh20raj/styling-the-html5-tag-with-css-and-webkit-properties-nf3)
-[![Agile VS Scrum VS Waterfall](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Agile_VS_Scrum_VS_Waterfall.svg)](https://dev.to/hasanelsherbiny/agile-vs-scrum-vs-waterfall-58da)
-[![Emacs Lisp Cheat Sheet for Clojure Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Emacs_Lisp_Cheat_Sheet_for_Clojure_Developers.svg)](https://dev.to/robertmjohnson/emacs-lisp-cheat-sheet-for-clojure-developers-2h4p)
-[![Thank Goodness It's Friday: Celebrating Developer Wins! 🎉](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Thank_Goodness_It's_Friday__Celebrating_Developer_Wins!_🎉.svg)](https://dev.to/mitchiemt11/thank-goodness-its-friday-celebrating-developer-wins-dnh)
+[![It's Follow Friday! Celebrate the Stars of dev.to! ✨💫](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/It's_Follow_Friday!_Celebrate_the_Stars_of_dev.to!_✨💫.svg)](https://dev.to/devteam/its-follow-friday-celebrate-the-stars-of-devto-2h1o)
+[![10 Best Spring Courses in 2023: Master the Spring Framework and Boost Your Java Career](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_Best_Spring_Courses_in_2023__Master_the_Spring_Framework_and_Boost_Your_Java_Career.svg)](https://dev.to/max24816/10-best-spring-courses-in-2023-master-the-spring-framework-and-boost-your-java-career-589m)
+[![Mastering JavaScript Array Methods](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_JavaScript_Array_Methods.svg)](https://dev.to/mohitsinghchauhan/mastering-javascript-array-methods-96p)
+[![Leveraging Existing Web Content to Build Hybrid Apps with .NET MAUI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Leveraging_Existing_Web_Content_to_Build_Hybrid_Apps_with_.NET_MAUI.svg)](https://dev.to/dotnet/leveraging-existing-web-content-to-build-hybrid-apps-with-net-maui-48me)
+[![Write React code with CDN in HTML! 🌐](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Write_React_code_with_CDN_in_HTML!_🌐.svg)](https://dev.to/jeetvora331/write-react-code-with-cdn-in-html-56i9)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, August 4, 2023 at 6:15:26 AM
+> Last updated: Friday, August 4, 2023 at 12:09:56 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, August 4, 2023 at 6:15:34 AM
+> Last updated: Friday, August 4, 2023 at 12:10:01 PM
 
 > Showing 5 of 30 posts.
 
