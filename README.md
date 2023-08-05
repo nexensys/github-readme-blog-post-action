@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, August 5, 2023 at 12:09:39 AM
+> Last updated: Saturday, August 5, 2023 at 6:14:09 AM
 
 > Showing 5 of 12 posts.
 
-[![🚀 Embracing the Beauty of Functional-Style Programming! 🌟](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🚀_Embracing_the_Beauty_of_Functional-Style_Programming!_🌟.svg)](https://dev.to/kaushit/embracing-the-beauty-of-functional-style-programming-572n)
-[![Time Travel in React with Immer: A Step-by-Step Tutorial](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Time_Travel_in_React_with_Immer__A_Step-by-Step_Tutorial.svg)](https://dev.to/brainiacneit/time-travel-in-react-with-immer-a-step-by-step-tutorial-201p)
-[![Sticky navbar only using CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Sticky_navbar_only_using_CSS.svg)](https://dev.to/preetsuthar17/sticky-navbar-only-using-css-3nki)
-[![Elevating Focus: The Tranquility of Zen Mode in VSCode](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Elevating_Focus__The_Tranquility_of_Zen_Mode_in_VSCode.svg)](https://dev.to/kachidk/elevating-focus-the-tranquility-of-zen-mode-in-vscode-41oo)
-[![Variables CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Variables_CSS.svg)](https://dev.to/kadea-academy/variables-css-523o)
+[![Dark Mode Tailwind CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dark_Mode_Tailwind_CSS.svg)](https://dev.to/hyeo151/dark-mode-tailwind-css-ec6)
+[![Unleash Creativity with Wunjo AI: Synthesize Speech and Create Deepfake Videos on free open-source project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unleash_Creativity_with_Wunjo_AI__Synthesize_Speech_and_Create_Deepfake_Videos_on_free_open-source_project.svg)](https://dev.to/wladradchenko/unleash-creativity-with-wunjo-ai-synthesize-speech-and-create-deepfake-videos-on-free-open-source-project-58o2)
+[![Extremely reducing the size of NPM package](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Extremely_reducing_the_size_of_NPM_package.svg)](https://dev.to/yoskutik/extremely-reducing-the-size-of-npm-package-3420)
+[![Unraveling the Magic of APIs: A Beginner's Guide to Integration Superpowers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unraveling_the_Magic_of_APIs__A_Beginner's_Guide_to_Integration_Superpowers.svg)](https://dev.to/ainasanghi/unraveling-the-magic-of-apis-a-beginners-guide-to-integration-superpowers-c39)
+[![🧑🏻‍💻 My First 5 {Fun} projects (source code + demo)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🧑🏻‍💻_My_First_5_{Fun}_projects_(source_code_+_demo).svg)](https://dev.to/lakshmananarumugam/my-first-5-fun-projects-source-code-demo-3e31)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, August 5, 2023 at 12:09:41 AM
+> Last updated: Saturday, August 5, 2023 at 6:14:13 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, August 5, 2023 at 12:09:47 AM
+> Last updated: Saturday, August 5, 2023 at 6:14:20 AM
 
 > Showing 5 of 30 posts.
 
