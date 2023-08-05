@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, August 4, 2023 at 12:09:54 PM
+> Last updated: Friday, August 4, 2023 at 6:43:37 PM
 
 > Showing 5 of 12 posts.
 
-[![It's Follow Friday! Celebrate the Stars of dev.to! ✨💫](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/It's_Follow_Friday!_Celebrate_the_Stars_of_dev.to!_✨💫.svg)](https://dev.to/devteam/its-follow-friday-celebrate-the-stars-of-devto-2h1o)
-[![10 Best Spring Courses in 2023: Master the Spring Framework and Boost Your Java Career](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_Best_Spring_Courses_in_2023__Master_the_Spring_Framework_and_Boost_Your_Java_Career.svg)](https://dev.to/max24816/10-best-spring-courses-in-2023-master-the-spring-framework-and-boost-your-java-career-589m)
-[![Mastering JavaScript Array Methods](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_JavaScript_Array_Methods.svg)](https://dev.to/mohitsinghchauhan/mastering-javascript-array-methods-96p)
-[![Leveraging Existing Web Content to Build Hybrid Apps with .NET MAUI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Leveraging_Existing_Web_Content_to_Build_Hybrid_Apps_with_.NET_MAUI.svg)](https://dev.to/dotnet/leveraging-existing-web-content-to-build-hybrid-apps-with-net-maui-48me)
-[![Write React code with CDN in HTML! 🌐](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Write_React_code_with_CDN_in_HTML!_🌐.svg)](https://dev.to/jeetvora331/write-react-code-with-cdn-in-html-56i9)
+[![A Beginner's Guide: Understanding CSS Animation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Beginner's_Guide__Understanding_CSS_Animation.svg)](https://dev.to/meganad60/a-beginners-guide-understanding-css-animation-29l2)
+[![Amazon EC2 (Elastic Compute Cloud): Empowering Scalable Cloud Computing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Amazon_EC2_(Elastic_Compute_Cloud)__Empowering_Scalable_Cloud_Computing.svg)](https://dev.to/hasanelsherbiny/amazon-ec2-elastic-compute-cloud-empowering-scalable-cloud-computing-41ac)
+[![Top 10 AWS Services](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_10_AWS_Services.svg)](https://dev.to/hasanelsherbiny/top-10-aws-services-kjc)
+[![KUCHLI VA PROFESSIONAL DASTURCHILARDAN MASLAHATLAR.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/KUCHLI_VA_PROFESSIONAL_DASTURCHILARDAN_MASLAHATLAR..svg)](https://dev.to/sevara_nurnazarova/kuchli-va-professional-dasturchilardan-maslahatlar-34fp)
+[![Flutter 3 on Devuan 4: 始め方](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Flutter_3_on_Devuan_4__始め方.svg)](https://dev.to/nabbisen/flutter-3-on-devuan-4-shi-mefang-4hik)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, August 4, 2023 at 12:09:56 PM
+> Last updated: Friday, August 4, 2023 at 6:43:40 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,11 +43,13 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, August 4, 2023 at 12:10:01 PM
+> Last updated: Friday, August 4, 2023 at 6:43:45 PM
 
 > Showing 5 of 30 posts.
 
-[![Headless CMS: Strapi vs DatoCMS ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Headless_CMS__Strapi_vs_DatoCMS_.svg)](https://www.voorhoede.nl/en/blog/headless-cmss-go-head-to-head-strapi-vs-datocms/)
+[![Using `it.skip()` in Mocha](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_`it.skip()`_in_Mocha.svg)](
+https://masteringjs.io/tutorials/mocha/it-skip
+)
 [![React Lazy — Optimizing Bundle Size](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_Lazy_—_Optimizing_Bundle_Size.svg)](https://levelup.gitconnected.com/react-lazy-optimizing-bundle-size-fd82f4de2382)
 [![Working with Timezones using date-fns and date-fns-tz](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Working_with_Timezones_using_date-fns_and_date-fns-tz.svg)](
 https://masteringjs.io/tutorials/date-fns/tz
