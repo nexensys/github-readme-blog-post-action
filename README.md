@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, August 4, 2023 at 6:43:37 PM
+> Last updated: Saturday, August 5, 2023 at 12:09:39 AM
 
 > Showing 5 of 12 posts.
 
-[![A Beginner's Guide: Understanding CSS Animation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Beginner's_Guide__Understanding_CSS_Animation.svg)](https://dev.to/meganad60/a-beginners-guide-understanding-css-animation-29l2)
-[![Amazon EC2 (Elastic Compute Cloud): Empowering Scalable Cloud Computing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Amazon_EC2_(Elastic_Compute_Cloud)__Empowering_Scalable_Cloud_Computing.svg)](https://dev.to/hasanelsherbiny/amazon-ec2-elastic-compute-cloud-empowering-scalable-cloud-computing-41ac)
-[![Top 10 AWS Services](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_10_AWS_Services.svg)](https://dev.to/hasanelsherbiny/top-10-aws-services-kjc)
-[![KUCHLI VA PROFESSIONAL DASTURCHILARDAN MASLAHATLAR.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/KUCHLI_VA_PROFESSIONAL_DASTURCHILARDAN_MASLAHATLAR..svg)](https://dev.to/sevara_nurnazarova/kuchli-va-professional-dasturchilardan-maslahatlar-34fp)
-[![Flutter 3 on Devuan 4: 始め方](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Flutter_3_on_Devuan_4__始め方.svg)](https://dev.to/nabbisen/flutter-3-on-devuan-4-shi-mefang-4hik)
+[![🚀 Embracing the Beauty of Functional-Style Programming! 🌟](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🚀_Embracing_the_Beauty_of_Functional-Style_Programming!_🌟.svg)](https://dev.to/kaushit/embracing-the-beauty-of-functional-style-programming-572n)
+[![Time Travel in React with Immer: A Step-by-Step Tutorial](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Time_Travel_in_React_with_Immer__A_Step-by-Step_Tutorial.svg)](https://dev.to/brainiacneit/time-travel-in-react-with-immer-a-step-by-step-tutorial-201p)
+[![Sticky navbar only using CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Sticky_navbar_only_using_CSS.svg)](https://dev.to/preetsuthar17/sticky-navbar-only-using-css-3nki)
+[![Elevating Focus: The Tranquility of Zen Mode in VSCode](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Elevating_Focus__The_Tranquility_of_Zen_Mode_in_VSCode.svg)](https://dev.to/kachidk/elevating-focus-the-tranquility-of-zen-mode-in-vscode-41oo)
+[![Variables CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Variables_CSS.svg)](https://dev.to/kadea-academy/variables-css-523o)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, August 4, 2023 at 6:43:40 PM
+> Last updated: Saturday, August 5, 2023 at 12:09:41 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, August 4, 2023 at 6:43:45 PM
+> Last updated: Saturday, August 5, 2023 at 12:09:47 AM
 
 > Showing 5 of 30 posts.
 
