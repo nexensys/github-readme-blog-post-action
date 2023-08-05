@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, August 5, 2023 at 6:14:09 AM
+> Last updated: Saturday, August 5, 2023 at 12:08:56 PM
 
 > Showing 5 of 12 posts.
 
-[![Dark Mode Tailwind CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Dark_Mode_Tailwind_CSS.svg)](https://dev.to/hyeo151/dark-mode-tailwind-css-ec6)
-[![Unleash Creativity with Wunjo AI: Synthesize Speech and Create Deepfake Videos on free open-source project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unleash_Creativity_with_Wunjo_AI__Synthesize_Speech_and_Create_Deepfake_Videos_on_free_open-source_project.svg)](https://dev.to/wladradchenko/unleash-creativity-with-wunjo-ai-synthesize-speech-and-create-deepfake-videos-on-free-open-source-project-58o2)
-[![Extremely reducing the size of NPM package](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Extremely_reducing_the_size_of_NPM_package.svg)](https://dev.to/yoskutik/extremely-reducing-the-size-of-npm-package-3420)
-[![Unraveling the Magic of APIs: A Beginner's Guide to Integration Superpowers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unraveling_the_Magic_of_APIs__A_Beginner's_Guide_to_Integration_Superpowers.svg)](https://dev.to/ainasanghi/unraveling-the-magic-of-apis-a-beginners-guide-to-integration-superpowers-c39)
-[![🧑🏻‍💻 My First 5 {Fun} projects (source code + demo)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🧑🏻‍💻_My_First_5_{Fun}_projects_(source_code_+_demo).svg)](https://dev.to/lakshmananarumugam/my-first-5-fun-projects-source-code-demo-3e31)
+[![CSS Animation: Card Width expand on hover](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CSS_Animation__Card_Width_expand_on_hover.svg)](https://dev.to/jon_snow789/css-animation-card-width-expand-on-hover-me4)
+[![Unleashing the Power of useEffect](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unleashing_the_Power_of_useEffect.svg)](https://dev.to/capwellmurimi/unleashing-the-power-of-useeffect-3b2p)
+[![LeetCode 2532 (Hard++, Extra Category, Amazon). Time to Cross a Bridge.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/LeetCode_2532_(Hard++__Extra_Category__Amazon)._Time_to_Cross_a_Bridge..svg)](https://dev.to/sergeyleschev/leetcode-2532-hard-time-to-cross-a-bridge-5a5c)
+[![Unleashing the Power of Elegance: A Guide to Styling Django Forms](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unleashing_the_Power_of_Elegance__A_Guide_to_Styling_Django_Forms.svg)](https://dev.to/conrad/unleashing-the-power-of-elegance-a-guide-to-styling-django-forms-3oi7)
+[![Use Type, not Interface in TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Use_Type__not_Interface_in_TypeScript.svg)](https://dev.to/treasuredev_/use-type-not-interface-in-typescript-34i7)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, August 5, 2023 at 6:14:13 AM
+> Last updated: Saturday, August 5, 2023 at 12:09:00 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, August 5, 2023 at 6:14:20 AM
+> Last updated: Saturday, August 5, 2023 at 12:09:04 PM
 
 > Showing 5 of 30 posts.
 
+[![
+RxDB as a Database for React Applications
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_RxDB_as_a_Database_for_React_Applications_.svg)](
+https://rxdb.info/articles/react-database.html
+)
 [![Using `it.skip()` in Mocha](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_`it.skip()`_in_Mocha.svg)](
 https://masteringjs.io/tutorials/mocha/it-skip
 )
@@ -55,7 +60,6 @@ https://masteringjs.io/tutorials/mocha/it-skip
 https://masteringjs.io/tutorials/date-fns/tz
 )
 [![GitHub - MarketingPipeline/Media-Card-Web-Component: A web component to display books, movies, TV shows & song details on any website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_MarketingPipeline_Media-Card-Web-Component__A_web_component_to_display_books__movies__TV_shows___song_details_on_any_website.svg)](https://github.com/MarketingPipeline/Media-Card-Web-Component)
-[![Use relative paths in markdown and MDX images with Next.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Use_relative_paths_in_markdown_and_MDX_images_with_Next.js.svg)](https://mmazzarolo.com/blog/2023-07-30-nextjs-mdx-image-source/)
 
 
 <!-- post-list:end -->
