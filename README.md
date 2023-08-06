@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, August 6, 2023 at 12:09:55 AM
+> Last updated: Sunday, August 6, 2023 at 6:13:16 AM
 
 > Showing 5 of 12 posts.
 
-[![📸OpenCV🔮the Enchanted Palette 🎨✨Part: 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/📸OpenCV🔮the_Enchanted_Palette_🎨✨Part__2.svg)](https://dev.to/thisisdeveloper/opencvthe-enchanted-palette-part-2-21e2)
-[![The Web Has Threads? Building Super-Charged Parallel Web Applications.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Web_Has_Threads__Building_Super-Charged_Parallel_Web_Applications..svg)](https://dev.to/sfundomhlungu/the-web-has-threads-building-super-charged-parallel-web-applications-3f33)
-[![OpenBSD httpd 7.3: Web サーバー](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/OpenBSD_httpd_7.3__Web_サーバー.svg)](https://dev.to/nabbisen/openbsd-httpd-73-web-saba-18hj)
-[![Custom cursor in next js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Custom_cursor_in_next_js.svg)](https://dev.to/preetsuthar17/custom-cursor-in-next-js-4l0c)
-[![Underrated React Hook - useSyncExternalStore](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Underrated_React_Hook_-_useSyncExternalStore.svg)](https://dev.to/brainiacneit/underrated-react-hook-usesyncexternalstore-h8h)
+[![Security](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Security.svg)](https://dev.to/foziljonov7/security-31g1)
+[![Full Stack Observability: Connecting AWS with Datadog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Full_Stack_Observability__Connecting_AWS_with_Datadog.svg)](https://dev.to/indika_wimalasuriya/full-stack-observability-connecting-aws-with-datadog-1dbj)
+[![*Beginner Friendly* Convert a existing website of HTML and CSS to ReactJS project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_Beginner_Friendly__Convert_a_existing_website_of_HTML_and_CSS_to_ReactJS_project.svg)](https://dev.to/ankur0904/beginner-friendly-convert-a-existing-website-of-html-and-css-to-reactjs-project-3mfh)
+[![📸OpenCV🔮the Enchanted Palette 🎨✨Part: 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/📸OpenCV🔮the_Enchanted_Palette_🎨✨Part__2.svg)](https://dev.to/thisisdeveloper/opencvthe-enchanted-palette-part-2-424k)
+[![Create an Appwrite Database using only Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_an_Appwrite_Database_using_only_Python.svg)](https://dev.to/sachingeek/create-an-appwrite-database-using-only-python-450k)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, August 6, 2023 at 12:09:59 AM
+> Last updated: Sunday, August 6, 2023 at 6:13:19 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, August 6, 2023 at 12:10:04 AM
+> Last updated: Sunday, August 6, 2023 at 6:13:33 AM
 
 > Showing 5 of 30 posts.
 
