@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, August 5, 2023 at 6:41:18 PM
+> Last updated: Sunday, August 6, 2023 at 12:09:55 AM
 
 > Showing 5 of 12 posts.
 
-[![Level Up Your Programming Skills: Git and GitHub Made Easy for Beginners.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Level_Up_Your_Programming_Skills__Git_and_GitHub_Made_Easy_for_Beginners..svg)](https://dev.to/koderkareem/level-up-your-programming-skills-git-and-github-made-easy-for-beginners-1ldc)
-[![Leveraging Amazon Bedrock for Advanced Generative AI Applications on AWS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Leveraging_Amazon_Bedrock_for_Advanced_Generative_AI_Applications_on_AWS.svg)](https://dev.to/jito/leveraging-amazon-bedrock-for-advanced-generative-ai-applications-on-aws-15i8)
-[![5 Authentic Websites to Generate Stunning Favicons for Your Next.js or React Project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Authentic_Websites_to_Generate_Stunning_Favicons_for_Your_Next.js_or_React_Project.svg)](https://dev.to/mrpaulishaili/5-authentic-websites-to-generate-stunning-favicons-for-your-nextjs-or-react-project-5eif)
-[![Build Your Own CLI App in 5 Minutes (ClackJS + Node + NPM Tutorial)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_Your_Own_CLI_App_in_5_Minutes_(ClackJS_+_Node_+_NPM_Tutorial).svg)](https://dev.to/therubberduckiee/build-your-own-cli-app-in-5-minutes-clackjs-node-npm-tutorial-4nkl)
-[![Mastering Flexible Component Design in React with the Compound Components Pattern](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_Flexible_Component_Design_in_React_with_the_Compound_Components_Pattern.svg)](https://dev.to/yanagisawahidetoshi/mastering-flexible-component-design-in-react-with-the-compound-components-pattern-n96)
+[![📸OpenCV🔮the Enchanted Palette 🎨✨Part: 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/📸OpenCV🔮the_Enchanted_Palette_🎨✨Part__2.svg)](https://dev.to/thisisdeveloper/opencvthe-enchanted-palette-part-2-21e2)
+[![The Web Has Threads? Building Super-Charged Parallel Web Applications.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Web_Has_Threads__Building_Super-Charged_Parallel_Web_Applications..svg)](https://dev.to/sfundomhlungu/the-web-has-threads-building-super-charged-parallel-web-applications-3f33)
+[![OpenBSD httpd 7.3: Web サーバー](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/OpenBSD_httpd_7.3__Web_サーバー.svg)](https://dev.to/nabbisen/openbsd-httpd-73-web-saba-18hj)
+[![Custom cursor in next js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Custom_cursor_in_next_js.svg)](https://dev.to/preetsuthar17/custom-cursor-in-next-js-4l0c)
+[![Underrated React Hook - useSyncExternalStore](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Underrated_React_Hook_-_useSyncExternalStore.svg)](https://dev.to/brainiacneit/underrated-react-hook-usesyncexternalstore-h8h)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, August 5, 2023 at 6:41:21 PM
+> Last updated: Sunday, August 6, 2023 at 12:09:59 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, August 5, 2023 at 6:41:25 PM
+> Last updated: Sunday, August 6, 2023 at 12:10:04 AM
 
 > Showing 5 of 30 posts.
 
