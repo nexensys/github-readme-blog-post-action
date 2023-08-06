@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, August 5, 2023 at 12:08:56 PM
+> Last updated: Saturday, August 5, 2023 at 6:41:18 PM
 
 > Showing 5 of 12 posts.
 
-[![CSS Animation: Card Width expand on hover](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CSS_Animation__Card_Width_expand_on_hover.svg)](https://dev.to/jon_snow789/css-animation-card-width-expand-on-hover-me4)
-[![Unleashing the Power of useEffect](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unleashing_the_Power_of_useEffect.svg)](https://dev.to/capwellmurimi/unleashing-the-power-of-useeffect-3b2p)
-[![LeetCode 2532 (Hard++, Extra Category, Amazon). Time to Cross a Bridge.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/LeetCode_2532_(Hard++__Extra_Category__Amazon)._Time_to_Cross_a_Bridge..svg)](https://dev.to/sergeyleschev/leetcode-2532-hard-time-to-cross-a-bridge-5a5c)
-[![Unleashing the Power of Elegance: A Guide to Styling Django Forms](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unleashing_the_Power_of_Elegance__A_Guide_to_Styling_Django_Forms.svg)](https://dev.to/conrad/unleashing-the-power-of-elegance-a-guide-to-styling-django-forms-3oi7)
-[![Use Type, not Interface in TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Use_Type__not_Interface_in_TypeScript.svg)](https://dev.to/treasuredev_/use-type-not-interface-in-typescript-34i7)
+[![Level Up Your Programming Skills: Git and GitHub Made Easy for Beginners.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Level_Up_Your_Programming_Skills__Git_and_GitHub_Made_Easy_for_Beginners..svg)](https://dev.to/koderkareem/level-up-your-programming-skills-git-and-github-made-easy-for-beginners-1ldc)
+[![Leveraging Amazon Bedrock for Advanced Generative AI Applications on AWS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Leveraging_Amazon_Bedrock_for_Advanced_Generative_AI_Applications_on_AWS.svg)](https://dev.to/jito/leveraging-amazon-bedrock-for-advanced-generative-ai-applications-on-aws-15i8)
+[![5 Authentic Websites to Generate Stunning Favicons for Your Next.js or React Project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Authentic_Websites_to_Generate_Stunning_Favicons_for_Your_Next.js_or_React_Project.svg)](https://dev.to/mrpaulishaili/5-authentic-websites-to-generate-stunning-favicons-for-your-nextjs-or-react-project-5eif)
+[![Build Your Own CLI App in 5 Minutes (ClackJS + Node + NPM Tutorial)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_Your_Own_CLI_App_in_5_Minutes_(ClackJS_+_Node_+_NPM_Tutorial).svg)](https://dev.to/therubberduckiee/build-your-own-cli-app-in-5-minutes-clackjs-node-npm-tutorial-4nkl)
+[![Mastering Flexible Component Design in React with the Compound Components Pattern](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_Flexible_Component_Design_in_React_with_the_Compound_Components_Pattern.svg)](https://dev.to/yanagisawahidetoshi/mastering-flexible-component-design-in-react-with-the-compound-components-pattern-n96)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, August 5, 2023 at 12:09:00 PM
+> Last updated: Saturday, August 5, 2023 at 6:41:21 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, August 5, 2023 at 12:09:04 PM
+> Last updated: Saturday, August 5, 2023 at 6:41:25 PM
 
 > Showing 5 of 30 posts.
 
