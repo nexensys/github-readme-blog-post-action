@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, August 6, 2023 at 6:13:16 AM
+> Last updated: Sunday, August 6, 2023 at 12:09:02 PM
 
 > Showing 5 of 12 posts.
 
-[![Security](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Security.svg)](https://dev.to/foziljonov7/security-31g1)
-[![Full Stack Observability: Connecting AWS with Datadog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Full_Stack_Observability__Connecting_AWS_with_Datadog.svg)](https://dev.to/indika_wimalasuriya/full-stack-observability-connecting-aws-with-datadog-1dbj)
-[![*Beginner Friendly* Convert a existing website of HTML and CSS to ReactJS project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_Beginner_Friendly__Convert_a_existing_website_of_HTML_and_CSS_to_ReactJS_project.svg)](https://dev.to/ankur0904/beginner-friendly-convert-a-existing-website-of-html-and-css-to-reactjs-project-3mfh)
-[![📸OpenCV🔮the Enchanted Palette 🎨✨Part: 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/📸OpenCV🔮the_Enchanted_Palette_🎨✨Part__2.svg)](https://dev.to/thisisdeveloper/opencvthe-enchanted-palette-part-2-424k)
-[![Create an Appwrite Database using only Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Create_an_Appwrite_Database_using_only_Python.svg)](https://dev.to/sachingeek/create-an-appwrite-database-using-only-python-450k)
+[![Yet Another Newsletter LOL: Sharp!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Yet_Another_Newsletter_LOL__Sharp!.svg)](https://dev.to/nickytonline/yet-another-newsletter-lol-sharp-57o9)
+[![Tansforms, Transitions and Animations : Elevating User Experiences with CSS Transitions and Animations🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tansforms__Transitions_and_Animations___Elevating_User_Experiences_with_CSS_Transitions_and_Animations🚀.svg)](https://dev.to/mohiyaddeen7/tansforms-transitions-and-animations-elevating-user-experiences-with-css-transitions-and-animations-364j)
+[![The Environmental Impact of Tech: Navigating the Digital Carbon Footprint](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Environmental_Impact_of_Tech__Navigating_the_Digital_Carbon_Footprint.svg)](https://dev.to/codewithsom/the-environmental-impact-of-tech-navigating-the-digital-carbon-footprint-49jg)
+[![Which UI library for react or next are you using in your project?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Which_UI_library_for_react_or_next_are_you_using_in_your_project_.svg)](https://dev.to/srbhr/which-ui-library-for-react-or-next-are-you-using-in-your-project-4mfm)
+[![Babylon.js + Google Blockly = No Code FPS, TPS🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Babylon.js_+_Google_Blockly_=_No_Code_FPS__TPS🔥.svg)](https://dev.to/helicity/babylonjs-google-blockly-no-code-fps-tps-3bld)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, August 6, 2023 at 6:13:19 AM
+> Last updated: Sunday, August 6, 2023 at 12:09:05 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, August 6, 2023 at 6:13:33 AM
+> Last updated: Sunday, August 6, 2023 at 12:09:09 PM
 
 > Showing 5 of 30 posts.
 
