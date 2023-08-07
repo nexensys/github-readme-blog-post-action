@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, August 7, 2023 at 12:11:00 AM
+> Last updated: Monday, August 7, 2023 at 6:15:25 AM
 
 > Showing 5 of 12 posts.
 
-[![Power Apps Cards - How to Make Planning Poker](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Power_Apps_Cards_-_How_to_Make_Planning_Poker.svg)](https://dev.to/wyattdave/power-apps-cards-how-to-make-planning-poker-3oi4)
-[![The Power of Default](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Power_of_Default.svg)](https://dev.to/eevajonnapanula/the-power-of-default-79c)
-[![Simplify Your Workflow 📈: A Guide to Standardizing Commit Messages with Husky 🐶 in Monorepos 📦](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Simplify_Your_Workflow_📈__A_Guide_to_Standardizing_Commit_Messages_with_Husky_🐶_in_Monorepos_📦.svg)](https://dev.to/harithzainudin/simplify-your-workflow-a-guide-to-standardizing-commit-messages-with-husky-in-monorepos-542l)
-[![5 Simple UX Rules that make great front-end](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Simple_UX_Rules_that_make_great_front-end.svg)](https://dev.to/rushitjivani/5-simple-ux-rules-that-make-great-front-end-3dgl)
-[![Monitor API Health Check with Prometheus](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Monitor_API_Health_Check_with_Prometheus.svg)](https://dev.to/apisix/monitor-api-health-check-with-prometheus-4806)
+[![How to Create a Sticky NavBar using Tailwind CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Create_a_Sticky_NavBar_using_Tailwind_CSS.svg)](https://dev.to/bobbyiliev/how-to-create-a-sticky-navbar-using-tailwind-css-1587)
+[![From Personal Project to Open Source: Releasing Japan Listed Companies Site](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/From_Personal_Project_to_Open_Source__Releasing_Japan_Listed_Companies_Site.svg)](https://dev.to/yuki0920/from-personal-project-to-open-source-releasing-japan-listed-companies-site-41d3)
+[![Top 7 Things That Kill Developer Productivity](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_7_Things_That_Kill_Developer_Productivity.svg)](https://dev.to/surajondev/top-7-things-that-kill-developer-productivity-ef9)
+[![Windows Talker (Part 2)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Windows_Talker_(Part_2).svg)](https://dev.to/schbenedikt/windows-talker-part-2-375j)
+[![Exploring Mirage JS: Simplifying API Mocking in React Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exploring_Mirage_JS__Simplifying_API_Mocking_in_React_Development.svg)](https://dev.to/bilal1718/exploring-mirage-js-simplifying-api-mocking-in-react-development-5cld)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, August 7, 2023 at 12:11:03 AM
+> Last updated: Monday, August 7, 2023 at 6:15:28 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,26 +43,18 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, August 7, 2023 at 12:11:07 AM
+> Last updated: Monday, August 7, 2023 at 6:15:30 AM
 
 > Showing 5 of 30 posts.
 
-[![
-api2ai - create an AI agent for any API from OpenAPI Spec
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_api2ai_-_create_an_AI_agent_for_any_API_from_OpenAPI_Spec_.svg)](
-https://github.com/mquan/api2ai
-)
+[![How to speed up Jest test runs by splitting and parallelising them 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_speed_up_Jest_test_runs_by_splitting_and_parallelising_them_🚀.svg)](https://chiragswadia.medium.com/how-to-speed-up-jest-test-runs-by-splitting-and-parallelising-them-1be7c1c8600d)
+[![I've made an Express.js based source viewer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/I've_made_an_Express.js_based_source_viewer.svg)](https://krasimirtsonev.com/blog/article/expressjs-source-viewer)
+[![Kay Iron Works (Jorian) Pvt Ltd](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Kay_Iron_Works_(Jorian)_Pvt_Ltd.svg)](https://kayironjorian.in)
+[![GitHub - mquan/api2ai](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_mquan_api2ai.svg)](https://github.com/mquan/api2ai)
 [![
 RxDB as a Database for React Applications
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_RxDB_as_a_Database_for_React_Applications_.svg)](
 https://rxdb.info/articles/react-database.html
-)
-[![Using `it.skip()` in Mocha](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_`it.skip()`_in_Mocha.svg)](
-https://masteringjs.io/tutorials/mocha/it-skip
-)
-[![React Lazy — Optimizing Bundle Size](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_Lazy_—_Optimizing_Bundle_Size.svg)](https://levelup.gitconnected.com/react-lazy-optimizing-bundle-size-fd82f4de2382)
-[![Working with Timezones using date-fns and date-fns-tz](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Working_with_Timezones_using_date-fns_and_date-fns-tz.svg)](
-https://masteringjs.io/tutorials/date-fns/tz
 )
 
 
