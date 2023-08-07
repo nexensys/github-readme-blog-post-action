@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, August 6, 2023 at 12:09:02 PM
+> Last updated: Sunday, August 6, 2023 at 6:45:31 PM
 
 > Showing 5 of 12 posts.
 
-[![Yet Another Newsletter LOL: Sharp!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Yet_Another_Newsletter_LOL__Sharp!.svg)](https://dev.to/nickytonline/yet-another-newsletter-lol-sharp-57o9)
-[![Tansforms, Transitions and Animations : Elevating User Experiences with CSS Transitions and Animations🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Tansforms__Transitions_and_Animations___Elevating_User_Experiences_with_CSS_Transitions_and_Animations🚀.svg)](https://dev.to/mohiyaddeen7/tansforms-transitions-and-animations-elevating-user-experiences-with-css-transitions-and-animations-364j)
-[![The Environmental Impact of Tech: Navigating the Digital Carbon Footprint](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Environmental_Impact_of_Tech__Navigating_the_Digital_Carbon_Footprint.svg)](https://dev.to/codewithsom/the-environmental-impact-of-tech-navigating-the-digital-carbon-footprint-49jg)
-[![Which UI library for react or next are you using in your project?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Which_UI_library_for_react_or_next_are_you_using_in_your_project_.svg)](https://dev.to/srbhr/which-ui-library-for-react-or-next-are-you-using-in-your-project-4mfm)
-[![Babylon.js + Google Blockly = No Code FPS, TPS🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Babylon.js_+_Google_Blockly_=_No_Code_FPS__TPS🔥.svg)](https://dev.to/helicity/babylonjs-google-blockly-no-code-fps-tps-3bld)
+[![Mastering JavaScript Shorthand Techniques: Code Faster and Cleaner Part 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_JavaScript_Shorthand_Techniques__Code_Faster_and_Cleaner_Part_2.svg)](https://dev.to/abidullah786/mastering-javascript-shorthand-techniques-code-faster-and-cleaner-part-2-4n2n)
+[![Building an AI-Powered, Decentralized App for Time Management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_an_AI-Powered__Decentralized_App_for_Time_Management.svg)](https://dev.to/github/building-an-ai-powered-decentralized-app-for-time-management-88l)
+[![Loki: Getting Started](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Loki__Getting_Started.svg)](https://dev.to/joachim8675309/loki-getting-started-n8o)
+[![Typescript Utility Types](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Typescript_Utility_Types.svg)](https://dev.to/kevin-uehara/typescript-utility-types-7nm)
+[![Vacation Coding Amnesia](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Vacation_Coding_Amnesia.svg)](https://dev.to/klc/vacation-coding-amnesia-d11)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, August 6, 2023 at 12:09:05 PM
+> Last updated: Sunday, August 6, 2023 at 6:45:35 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, August 6, 2023 at 12:09:09 PM
+> Last updated: Sunday, August 6, 2023 at 6:45:39 PM
 
 > Showing 5 of 30 posts.
 
