@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, August 6, 2023 at 6:45:31 PM
+> Last updated: Monday, August 7, 2023 at 12:11:00 AM
 
 > Showing 5 of 12 posts.
 
-[![Mastering JavaScript Shorthand Techniques: Code Faster and Cleaner Part 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_JavaScript_Shorthand_Techniques__Code_Faster_and_Cleaner_Part_2.svg)](https://dev.to/abidullah786/mastering-javascript-shorthand-techniques-code-faster-and-cleaner-part-2-4n2n)
-[![Building an AI-Powered, Decentralized App for Time Management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_an_AI-Powered__Decentralized_App_for_Time_Management.svg)](https://dev.to/github/building-an-ai-powered-decentralized-app-for-time-management-88l)
-[![Loki: Getting Started](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Loki__Getting_Started.svg)](https://dev.to/joachim8675309/loki-getting-started-n8o)
-[![Typescript Utility Types](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Typescript_Utility_Types.svg)](https://dev.to/kevin-uehara/typescript-utility-types-7nm)
-[![Vacation Coding Amnesia](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Vacation_Coding_Amnesia.svg)](https://dev.to/klc/vacation-coding-amnesia-d11)
+[![Power Apps Cards - How to Make Planning Poker](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Power_Apps_Cards_-_How_to_Make_Planning_Poker.svg)](https://dev.to/wyattdave/power-apps-cards-how-to-make-planning-poker-3oi4)
+[![The Power of Default](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Power_of_Default.svg)](https://dev.to/eevajonnapanula/the-power-of-default-79c)
+[![Simplify Your Workflow 📈: A Guide to Standardizing Commit Messages with Husky 🐶 in Monorepos 📦](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Simplify_Your_Workflow_📈__A_Guide_to_Standardizing_Commit_Messages_with_Husky_🐶_in_Monorepos_📦.svg)](https://dev.to/harithzainudin/simplify-your-workflow-a-guide-to-standardizing-commit-messages-with-husky-in-monorepos-542l)
+[![5 Simple UX Rules that make great front-end](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Simple_UX_Rules_that_make_great_front-end.svg)](https://dev.to/rushitjivani/5-simple-ux-rules-that-make-great-front-end-3dgl)
+[![Monitor API Health Check with Prometheus](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Monitor_API_Health_Check_with_Prometheus.svg)](https://dev.to/apisix/monitor-api-health-check-with-prometheus-4806)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, August 6, 2023 at 6:45:35 PM
+> Last updated: Monday, August 7, 2023 at 12:11:03 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, August 6, 2023 at 6:45:39 PM
+> Last updated: Monday, August 7, 2023 at 12:11:07 AM
 
 > Showing 5 of 30 posts.
 
+[![
+api2ai - create an AI agent for any API from OpenAPI Spec
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_api2ai_-_create_an_AI_agent_for_any_API_from_OpenAPI_Spec_.svg)](
+https://github.com/mquan/api2ai
+)
 [![
 RxDB as a Database for React Applications
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_RxDB_as_a_Database_for_React_Applications_.svg)](
@@ -59,7 +64,6 @@ https://masteringjs.io/tutorials/mocha/it-skip
 [![Working with Timezones using date-fns and date-fns-tz](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Working_with_Timezones_using_date-fns_and_date-fns-tz.svg)](
 https://masteringjs.io/tutorials/date-fns/tz
 )
-[![GitHub - MarketingPipeline/Media-Card-Web-Component: A web component to display books, movies, TV shows & song details on any website](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_MarketingPipeline_Media-Card-Web-Component__A_web_component_to_display_books__movies__TV_shows___song_details_on_any_website.svg)](https://github.com/MarketingPipeline/Media-Card-Web-Component)
 
 
 <!-- post-list:end -->
