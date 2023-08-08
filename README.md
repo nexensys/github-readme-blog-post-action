@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, August 7, 2023 at 6:44:10 PM
+> Last updated: Tuesday, August 8, 2023 at 12:10:42 AM
 
 > Showing 5 of 12 posts.
 
-[![Using Object.create to clone](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_Object.create_to_clone.svg)](https://dev.to/idmontie/using-objectcreate-to-clone-30bp)
-[![SSH Authentication Process: Practical Walkthrough - Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/SSH_Authentication_Process__Practical_Walkthrough_-_Part_1.svg)](https://dev.to/thatechmaestro/ssh-authentication-process-practical-walkthrough-part-1-2k0o)
-[![Amazon RDS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Amazon_RDS.svg)](https://dev.to/hasanelsherbiny/amazon-rds-3i16)
-[![Building a Real-Time Chat Gateway with NestJS: Testing WebSocket Features and Implementing Simple Private Messaging](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_Real-Time_Chat_Gateway_with_NestJS__Testing_WebSocket_Features_and_Implementing_Simple_Private_Messaging.svg)](https://dev.to/jfrancai/building-a-real-time-chat-gateway-with-nestjs-testing-websocket-features-and-implementing-simple-private-messaging-467l)
-[![Splitting vendor chunk with Vite and loading them async](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Splitting_vendor_chunk_with_Vite_and_loading_them_async.svg)](https://dev.to/tassiofront/splitting-vendor-chunk-with-vite-and-loading-them-async-15o3)
+[![Why is it important to write good code?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_is_it_important_to_write_good_code_.svg)](https://dev.to/mikenjuki/why-is-it-important-to-write-good-code-pke)
+[![Node.js asynchronous flow control and event loop](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Node.js_asynchronous_flow_control_and_event_loop.svg)](https://dev.to/amplication/nodejs-asynchronous-flow-control-and-event-loop-4aa5)
+[![Flutter's Rise in Web and Desktop Development: A Comprehensive Guide.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Flutter's_Rise_in_Web_and_Desktop_Development__A_Comprehensive_Guide..svg)](https://dev.to/yatendra2001/flutters-rise-in-web-and-desktop-development-a-comprehensive-guide-5dih)
+[![20 Essential Docker Commands Every Developer Should Know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/20_Essential_Docker_Commands_Every_Developer_Should_Know.svg)](https://dev.to/giasuddin90/20-essential-docker-commands-every-developer-should-know-34dk)
+[![Apache2 in Local Machine](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Apache2_in_Local_Machine.svg)](https://dev.to/technonotes/apache2-in-local-machine-28no)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, August 7, 2023 at 6:44:14 PM
+> Last updated: Tuesday, August 8, 2023 at 12:10:46 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, August 7, 2023 at 6:44:16 PM
+> Last updated: Tuesday, August 8, 2023 at 12:10:51 AM
 
 > Showing 5 of 30 posts.
 
-[![
-API with NestJS #119. Type-safe SQL queries with Kysely and PostgreSQL
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_API_with_NestJS__119._Type-safe_SQL_queries_with_Kysely_and_PostgreSQL_.svg)](
-https://wanago.io/2023/08/07/api-nestjs-kysely-postgresql/
-)
+[![API with NestJS #119. Type-safe SQL queries with Kysely and PostgreSQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__119._Type-safe_SQL_queries_with_Kysely_and_PostgreSQL.svg)](https://wanago.io/2023/08/07/api-nestjs-kysely-postgresql/)
 [![How to speed up Jest test runs by splitting and parallelising them 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_speed_up_Jest_test_runs_by_splitting_and_parallelising_them_🚀.svg)](https://chiragswadia.medium.com/how-to-speed-up-jest-test-runs-by-splitting-and-parallelising-them-1be7c1c8600d)
 [![I've made an Express.js based source viewer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/I've_made_an_Express.js_based_source_viewer.svg)](https://krasimirtsonev.com/blog/article/expressjs-source-viewer)
 [![GitHub - mquan/api2ai](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_mquan_api2ai.svg)](https://github.com/mquan/api2ai)
