@@ -78,7 +78,7 @@
       <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
         <div class="image" />
 <div class="text">
-          <div class="title">How&#0032;to&#0032;speed&#0032;up&#0032;Jest&#0032;test&#0032;runs&#0032;by&#0032;splitting&#0032;and&#0032;parallelising&#0032;them&#0032;🚀</div>
+          <div class="title">How&#0032;to&#0032;Speed&#0032;up&#0032;Jest&#0032;Test&#0032;Runs&#0032;by&#0032;Splitting&#0032;and&#0032;Parallelising&#0032;Them</div>
           <div class="description">If&#0032;you&#0032;write&#0032;functional&#0032;tests&#0032;using&#0032;Jest&#0032;and&#0032;React&#0032;testing&#0032;library&#0032;for&#0032;your&#0032;web&#0032;apps&#0032;and&#0032;prefer&#0032;writing&#0032;them&#0032;over&#0032;unit&#0032;tests&#0044;&#0032;then&#0032;soon&#0032;you…</div>
           <div class="date"></div>
           <div class="data">
