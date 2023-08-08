@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, August 7, 2023 at 12:09:53 PM
+> Last updated: Monday, August 7, 2023 at 6:44:10 PM
 
 > Showing 5 of 12 posts.
 
-[![Enhance your TypeScript with Type Guards](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Enhance_your_TypeScript_with_Type_Guards.svg)](https://dev.to/brainiacneit/enhance-your-typescript-with-type-guards-1f2h)
-[![Build Chess game with Pygame](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_Chess_game_with_Pygame.svg)](https://dev.to/sadeedpv/build-chess-game-with-pygame-55h0)
-[![Hugging Face is now supported in Supabase](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Hugging_Face_is_now_supported_in_Supabase.svg)](https://dev.to/supabase/hugging-face-is-now-supported-in-supabase-l4f)
-[![Understanding Linux Permissions: A Comprehensive Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_Linux_Permissions__A_Comprehensive_Guide.svg)](https://dev.to/iamcymentho/understanding-linux-permissions-a-comprehensive-guide-3k1c)
-[![Intro to Python: Day 7 - Private Methods in Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Intro_to_Python__Day_7_-_Private_Methods_in_Python.svg)](https://dev.to/jwhubert91/intro-to-python-day-7-private-variables-in-python-7a6)
+[![Using Object.create to clone](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Using_Object.create_to_clone.svg)](https://dev.to/idmontie/using-objectcreate-to-clone-30bp)
+[![SSH Authentication Process: Practical Walkthrough - Part 1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/SSH_Authentication_Process__Practical_Walkthrough_-_Part_1.svg)](https://dev.to/thatechmaestro/ssh-authentication-process-practical-walkthrough-part-1-2k0o)
+[![Amazon RDS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Amazon_RDS.svg)](https://dev.to/hasanelsherbiny/amazon-rds-3i16)
+[![Building a Real-Time Chat Gateway with NestJS: Testing WebSocket Features and Implementing Simple Private Messaging](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_Real-Time_Chat_Gateway_with_NestJS__Testing_WebSocket_Features_and_Implementing_Simple_Private_Messaging.svg)](https://dev.to/jfrancai/building-a-real-time-chat-gateway-with-nestjs-testing-websocket-features-and-implementing-simple-private-messaging-467l)
+[![Splitting vendor chunk with Vite and loading them async](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Splitting_vendor_chunk_with_Vite_and_loading_them_async.svg)](https://dev.to/tassiofront/splitting-vendor-chunk-with-vite-and-loading-them-async-15o3)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, August 7, 2023 at 12:09:56 PM
+> Last updated: Monday, August 7, 2023 at 6:44:14 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, August 7, 2023 at 12:09:59 PM
+> Last updated: Monday, August 7, 2023 at 6:44:16 PM
 
 > Showing 5 of 30 posts.
 
+[![
+API with NestJS #119. Type-safe SQL queries with Kysely and PostgreSQL
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_API_with_NestJS__119._Type-safe_SQL_queries_with_Kysely_and_PostgreSQL_.svg)](
+https://wanago.io/2023/08/07/api-nestjs-kysely-postgresql/
+)
 [![How to speed up Jest test runs by splitting and parallelising them 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_speed_up_Jest_test_runs_by_splitting_and_parallelising_them_🚀.svg)](https://chiragswadia.medium.com/how-to-speed-up-jest-test-runs-by-splitting-and-parallelising-them-1be7c1c8600d)
 [![I've made an Express.js based source viewer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/I've_made_an_Express.js_based_source_viewer.svg)](https://krasimirtsonev.com/blog/article/expressjs-source-viewer)
 [![GitHub - mquan/api2ai](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_mquan_api2ai.svg)](https://github.com/mquan/api2ai)
@@ -54,9 +59,6 @@ http://www.echojs.com
 RxDB as a Database for React Applications
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_RxDB_as_a_Database_for_React_Applications_.svg)](
 https://rxdb.info/articles/react-database.html
-)
-[![Using `it.skip()` in Mocha](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Using_`it.skip()`_in_Mocha.svg)](
-https://masteringjs.io/tutorials/mocha/it-skip
 )
 
 
