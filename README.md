@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, August 8, 2023 at 6:15:50 AM
+> Last updated: Tuesday, August 8, 2023 at 12:10:55 PM
 
 > Showing 5 of 12 posts.
 
-[![🪄 Migrating from RBAC to ABAC with Permit.io 🐕🤯](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🪄_Migrating_from_RBAC_to_ABAC_with_Permit.io_🐕🤯.svg)](https://dev.to/permit_io/migrating-from-rbac-to-abac-with-permitio-1lko)
-[![Is OpenJDK Just a Drop-In Replacement?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Is_OpenJDK_Just_a_Drop-In_Replacement_.svg)](https://dev.to/codenameone/is-openjdk-just-a-drop-in-replacement-4dok)
-[![Reset centOS root password](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Reset_centOS_root_password.svg)](https://dev.to/technology-schaechner/reset-centos-root-password-25l0)
-[![Add Authentication to Any Web Page in 10 Minutes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Add_Authentication_to_Any_Web_Page_in_10_Minutes.svg)](https://dev.to/bobur/add-authentication-to-any-web-page-in-10-minutes-jo8)
-[![✨ 7 open-source libraries you must know in 2023 🪄✨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/✨_7_open-source_libraries_you_must_know_in_2023_🪄✨.svg)](https://dev.to/github20k/7-open-source-libraries-you-must-know-in-2023-2ach)
+[![Utilizing VisX for React Data Visualization](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Utilizing_VisX_for_React_Data_Visualization.svg)](https://dev.to/brainiacneit/utilizing-visx-for-react-data-visualization-1lkl)
+[![5 Ways to Center A Div](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Ways_to_Center_A_Div.svg)](https://dev.to/jon_snow789/5-ways-to-center-a-div-22cg)
+[![Top 7 Featured DEV Posts from the Past Week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_7_Featured_DEV_Posts_from_the_Past_Week.svg)](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-26gk)
+[![Running The Feast Feature Store With Dragonfly](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Running_The_Feast_Feature_Store_With_Dragonfly.svg)](https://dev.to/dragonflydbio/running-the-feast-feature-store-with-dragonfly-195a)
+[![React Hooks: Cheat Sheet, with examples](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Hooks__Cheat_Sheet__with_examples.svg)](https://dev.to/alakkadshaw/react-hooks-cheat-sheet-with-examples-4o30)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, August 8, 2023 at 6:15:54 AM
+> Last updated: Tuesday, August 8, 2023 at 12:10:59 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, August 8, 2023 at 6:16:02 AM
+> Last updated: Tuesday, August 8, 2023 at 12:11:06 PM
 
 > Showing 5 of 30 posts.
 
