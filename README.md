@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, August 8, 2023 at 12:10:55 PM
+> Last updated: Tuesday, August 8, 2023 at 6:45:27 PM
 
 > Showing 5 of 12 posts.
 
-[![Utilizing VisX for React Data Visualization](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Utilizing_VisX_for_React_Data_Visualization.svg)](https://dev.to/brainiacneit/utilizing-visx-for-react-data-visualization-1lkl)
-[![5 Ways to Center A Div](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Ways_to_Center_A_Div.svg)](https://dev.to/jon_snow789/5-ways-to-center-a-div-22cg)
-[![Top 7 Featured DEV Posts from the Past Week](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_7_Featured_DEV_Posts_from_the_Past_Week.svg)](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-26gk)
-[![Running The Feast Feature Store With Dragonfly](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Running_The_Feast_Feature_Store_With_Dragonfly.svg)](https://dev.to/dragonflydbio/running-the-feast-feature-store-with-dragonfly-195a)
-[![React Hooks: Cheat Sheet, with examples](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Hooks__Cheat_Sheet__with_examples.svg)](https://dev.to/alakkadshaw/react-hooks-cheat-sheet-with-examples-4o30)
+[![Telegram Channel Developer Cheatsheet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Telegram_Channel_Developer_Cheatsheet.svg)](https://dev.to/colinmcdermott/telegram-channel-developer-cheatsheet-bci)
+[![Configure Grafana Cloud SAML to work with JumpCloud](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Configure_Grafana_Cloud_SAML_to_work_with_JumpCloud.svg)](https://dev.to/hronom/configure-grafana-cloud-saml-to-work-with-jumpcloud-2l92)
+[![The Ultimate Guide to building a UI Library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Ultimate_Guide_to_building_a_UI_Library.svg)](https://dev.to/byteflowinc/the-ultimate-guide-to-building-a-ui-library-mbp)
+[![Which Tech Trends Missed the Mark?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Which_Tech_Trends_Missed_the_Mark_.svg)](https://dev.to/devteam/which-tech-trends-missed-the-mark-2f7p)
+[![Amazon API Gateway](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Amazon_API_Gateway.svg)](https://dev.to/hasanelsherbiny/amazon-api-gateway-o64)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, August 8, 2023 at 12:10:59 PM
+> Last updated: Tuesday, August 8, 2023 at 6:45:30 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, August 8, 2023 at 12:11:06 PM
+> Last updated: Tuesday, August 8, 2023 at 6:45:37 PM
 
 > Showing 5 of 30 posts.
 
