@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, August 8, 2023 at 6:45:27 PM
+> Last updated: Wednesday, August 9, 2023 at 12:11:20 AM
 
 > Showing 5 of 12 posts.
 
-[![Telegram Channel Developer Cheatsheet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Telegram_Channel_Developer_Cheatsheet.svg)](https://dev.to/colinmcdermott/telegram-channel-developer-cheatsheet-bci)
-[![Configure Grafana Cloud SAML to work with JumpCloud](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Configure_Grafana_Cloud_SAML_to_work_with_JumpCloud.svg)](https://dev.to/hronom/configure-grafana-cloud-saml-to-work-with-jumpcloud-2l92)
-[![The Ultimate Guide to building a UI Library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Ultimate_Guide_to_building_a_UI_Library.svg)](https://dev.to/byteflowinc/the-ultimate-guide-to-building-a-ui-library-mbp)
-[![Which Tech Trends Missed the Mark?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Which_Tech_Trends_Missed_the_Mark_.svg)](https://dev.to/devteam/which-tech-trends-missed-the-mark-2f7p)
-[![Amazon API Gateway](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Amazon_API_Gateway.svg)](https://dev.to/hasanelsherbiny/amazon-api-gateway-o64)
+[![Clean UI Guide: 15 White Space Design Tips 🚀💡](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Clean_UI_Guide__15_White_Space_Design_Tips_🚀💡.svg)](https://dev.to/margishpatel/clean-ui-guide-15-white-space-design-tips-3fkg)
+[![Kettlebells & Code: Dev Health](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Kettlebells___Code__Dev_Health.svg)](https://dev.to/nickytonline/kettlebells-code-dev-health-3eim)
+[![A Guide to Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Guide_to_Python.svg)](https://dev.to/cry/a-guide-to-python-48ob)
+[![Testing the Redux Store using Cypress in Next.js (TypeScript)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Testing_the_Redux_Store_using_Cypress_in_Next.js_(TypeScript).svg)](https://dev.to/rashidshamloo/testing-the-redux-store-using-cypress-in-nextjs-typescript-1k6o)
+[![Introdução a APIS s](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introdução_a_APIS_s.svg)](https://dev.to/leviackr/introducao-a-apiss-3jp0)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, August 8, 2023 at 6:45:30 PM
+> Last updated: Wednesday, August 9, 2023 at 12:11:24 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, August 8, 2023 at 6:45:37 PM
+> Last updated: Wednesday, August 9, 2023 at 12:11:30 AM
 
 > Showing 5 of 30 posts.
 
