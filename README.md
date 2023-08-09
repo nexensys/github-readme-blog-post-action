@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, August 9, 2023 at 6:16:55 AM
+> Last updated: Wednesday, August 9, 2023 at 12:10:52 PM
 
 > Showing 5 of 12 posts.
 
-[![Comparing Tortoise and Bark for Voice Synthesis](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Comparing_Tortoise_and_Bark_for_Voice_Synthesis.svg)](https://dev.to/mikeyoung44/comparing-tortoise-and-bark-for-voice-synthesis-1nlb)
-[![Building a multilingual NextJS app using the new app directory](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_multilingual_NextJS_app_using_the_new_app_directory.svg)](https://dev.to/codegino/building-a-multilingual-nextjs-app-using-the-new-app-directory-2anf)
-[![Build a real-time voting app with WebSockets, React & TypeScript 🔌⚡️](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_a_real-time_voting_app_with_WebSockets__React___TypeScript_🔌⚡️.svg)](https://dev.to/wasp/build-a-real-time-voting-app-with-websockets-react-typescript-1bm9)
-[![What are Challenges do you face in Writing Technical Articles?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_are_Challenges_do_you_face_in_Writing_Technical_Articles_.svg)](https://dev.to/surajondev/what-are-challenges-do-you-face-in-writing-technical-articles-3cfp)
-[![A Beginners Guide: Polymorphism, Virtual Functions, and Abstract Classes With C++](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Beginners_Guide__Polymorphism__Virtual_Functions__and_Abstract_Classes_With_C++.svg)](https://dev.to/gyauelvis/a-beginners-guide-polymorphism-virtual-functions-and-abstract-classes-1m6)
+[![The Constant Gardener](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Constant_Gardener.svg)](https://dev.to/jameslau/the-constant-gardener-531l)
+[![Neumorphism Button Styles in CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Neumorphism_Button_Styles_in_CSS.svg)](https://dev.to/jon_snow789/neumorphism-button-styles-in-css-26of)
+[![Exploring the Cutting-Edge: Frontend AI Tools Transforming Companies](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exploring_the_Cutting-Edge__Frontend_AI_Tools_Transforming_Companies.svg)](https://dev.to/yogeshhack/exploring-the-cutting-edge-frontend-ai-tools-transforming-companies-166m)
+[![The Next Level of AI: ChatGPT's Six Enhancements](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Next_Level_of_AI__ChatGPT's_Six_Enhancements.svg)](https://dev.to/mitchiemt11/the-next-level-of-ai-chatgpts-six-enhancements-5bpm)
+[![Introduction To Python Programming - part 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_To_Python_Programming_-_part_2.svg)](https://dev.to/akinnimimanuel/introduction-to-python-programming-part-2-3f36)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, August 9, 2023 at 6:16:59 AM
+> Last updated: Wednesday, August 9, 2023 at 12:10:55 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, August 9, 2023 at 6:17:07 AM
+> Last updated: Wednesday, August 9, 2023 at 12:10:59 PM
 
 > Showing 5 of 30 posts.
 
-[![Pickleball for Beginner to Intermediate | Pickleball Strategy Doubles](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Pickleball_for_Beginner_to_Intermediate___Pickleball_Strategy_Doubles.svg)](https://bobsavarpickleball.com/about-pickleball-for-beginners-part-ii/)
-[![Generate Random Fake Data Online](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Generate_Random_Fake_Data_Online.svg)](https://dotrand.com)
 [![Functional Programming with TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Functional_Programming_with_TypeScript.svg)](http://www.youtube.com/playlist?list=PLuPevXgCPUIMbCxBEnc1dNwboH6e2ImQo)
 [![API with NestJS #119. Type-safe SQL queries with Kysely and PostgreSQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__119._Type-safe_SQL_queries_with_Kysely_and_PostgreSQL.svg)](https://wanago.io/2023/08/07/api-nestjs-kysely-postgresql/)
 [![How to Speed up Jest Test Runs by Splitting and Parallelising Them](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Speed_up_Jest_Test_Runs_by_Splitting_and_Parallelising_Them.svg)](https://medium.com/stackademic/how-to-speed-up-jest-test-runs-by-splitting-and-parallelising-them-1be7c1c8600d)
+[![I've made an Express.js based source viewer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/I've_made_an_Express.js_based_source_viewer.svg)](https://krasimirtsonev.com/blog/article/expressjs-source-viewer)
+[![GitHub - mquan/api2ai](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_mquan_api2ai.svg)](https://github.com/mquan/api2ai)
 
 
 <!-- post-list:end -->
