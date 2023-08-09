@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, August 9, 2023 at 12:11:20 AM
+> Last updated: Wednesday, August 9, 2023 at 6:16:55 AM
 
 > Showing 5 of 12 posts.
 
-[![Clean UI Guide: 15 White Space Design Tips 🚀💡](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Clean_UI_Guide__15_White_Space_Design_Tips_🚀💡.svg)](https://dev.to/margishpatel/clean-ui-guide-15-white-space-design-tips-3fkg)
-[![Kettlebells & Code: Dev Health](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Kettlebells___Code__Dev_Health.svg)](https://dev.to/nickytonline/kettlebells-code-dev-health-3eim)
-[![A Guide to Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Guide_to_Python.svg)](https://dev.to/cry/a-guide-to-python-48ob)
-[![Testing the Redux Store using Cypress in Next.js (TypeScript)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Testing_the_Redux_Store_using_Cypress_in_Next.js_(TypeScript).svg)](https://dev.to/rashidshamloo/testing-the-redux-store-using-cypress-in-nextjs-typescript-1k6o)
-[![Introdução a APIS s](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introdução_a_APIS_s.svg)](https://dev.to/leviackr/introducao-a-apiss-3jp0)
+[![Comparing Tortoise and Bark for Voice Synthesis](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Comparing_Tortoise_and_Bark_for_Voice_Synthesis.svg)](https://dev.to/mikeyoung44/comparing-tortoise-and-bark-for-voice-synthesis-1nlb)
+[![Building a multilingual NextJS app using the new app directory](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_multilingual_NextJS_app_using_the_new_app_directory.svg)](https://dev.to/codegino/building-a-multilingual-nextjs-app-using-the-new-app-directory-2anf)
+[![Build a real-time voting app with WebSockets, React & TypeScript 🔌⚡️](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_a_real-time_voting_app_with_WebSockets__React___TypeScript_🔌⚡️.svg)](https://dev.to/wasp/build-a-real-time-voting-app-with-websockets-react-typescript-1bm9)
+[![What are Challenges do you face in Writing Technical Articles?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_are_Challenges_do_you_face_in_Writing_Technical_Articles_.svg)](https://dev.to/surajondev/what-are-challenges-do-you-face-in-writing-technical-articles-3cfp)
+[![A Beginners Guide: Polymorphism, Virtual Functions, and Abstract Classes With C++](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Beginners_Guide__Polymorphism__Virtual_Functions__and_Abstract_Classes_With_C++.svg)](https://dev.to/gyauelvis/a-beginners-guide-polymorphism-virtual-functions-and-abstract-classes-1m6)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, August 9, 2023 at 12:11:24 AM
+> Last updated: Wednesday, August 9, 2023 at 6:16:59 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,19 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, August 9, 2023 at 12:11:30 AM
+> Last updated: Wednesday, August 9, 2023 at 6:17:07 AM
 
 > Showing 5 of 30 posts.
 
+[![Pickleball for Beginner to Intermediate | Pickleball Strategy Doubles](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Pickleball_for_Beginner_to_Intermediate___Pickleball_Strategy_Doubles.svg)](https://bobsavarpickleball.com/about-pickleball-for-beginners-part-ii/)
+[![Generate Random Fake Data Online](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Generate_Random_Fake_Data_Online.svg)](https://dotrand.com)
+[![Functional Programming with TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Functional_Programming_with_TypeScript.svg)](http://www.youtube.com/playlist?list=PLuPevXgCPUIMbCxBEnc1dNwboH6e2ImQo)
 [![API with NestJS #119. Type-safe SQL queries with Kysely and PostgreSQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__119._Type-safe_SQL_queries_with_Kysely_and_PostgreSQL.svg)](https://wanago.io/2023/08/07/api-nestjs-kysely-postgresql/)
 [![How to Speed up Jest Test Runs by Splitting and Parallelising Them](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Speed_up_Jest_Test_Runs_by_Splitting_and_Parallelising_Them.svg)](https://medium.com/stackademic/how-to-speed-up-jest-test-runs-by-splitting-and-parallelising-them-1be7c1c8600d)
-[![I've made an Express.js based source viewer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/I've_made_an_Express.js_based_source_viewer.svg)](https://krasimirtsonev.com/blog/article/expressjs-source-viewer)
-[![GitHub - mquan/api2ai](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_mquan_api2ai.svg)](https://github.com/mquan/api2ai)
-[![
-RxDB as a Database for React Applications
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_RxDB_as_a_Database_for_React_Applications_.svg)](
-https://rxdb.info/articles/react-database.html
-)
 
 
 <!-- post-list:end -->
