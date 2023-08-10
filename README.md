@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, August 9, 2023 at 12:10:52 PM
+> Last updated: Wednesday, August 9, 2023 at 6:47:02 PM
 
 > Showing 5 of 12 posts.
 
-[![The Constant Gardener](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Constant_Gardener.svg)](https://dev.to/jameslau/the-constant-gardener-531l)
-[![Neumorphism Button Styles in CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Neumorphism_Button_Styles_in_CSS.svg)](https://dev.to/jon_snow789/neumorphism-button-styles-in-css-26of)
-[![Exploring the Cutting-Edge: Frontend AI Tools Transforming Companies](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exploring_the_Cutting-Edge__Frontend_AI_Tools_Transforming_Companies.svg)](https://dev.to/yogeshhack/exploring-the-cutting-edge-frontend-ai-tools-transforming-companies-166m)
-[![The Next Level of AI: ChatGPT's Six Enhancements](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Next_Level_of_AI__ChatGPT's_Six_Enhancements.svg)](https://dev.to/mitchiemt11/the-next-level-of-ai-chatgpts-six-enhancements-5bpm)
-[![Introduction To Python Programming - part 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_To_Python_Programming_-_part_2.svg)](https://dev.to/akinnimimanuel/introduction-to-python-programming-part-2-3f36)
+[![#DEVDiscuss: AI Coding Tools](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_DEVDiscuss__AI_Coding_Tools.svg)](https://dev.to/devteam/devdiscuss-ai-coding-tools-489b)
+[![React State vs. React Context: Deciding How to Manage State](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_State_vs._React_Context__Deciding_How_to_Manage_State.svg)](https://dev.to/imevanc/react-state-vs-react-context-deciding-how-to-manage-state-15e3)
+[![Embarking on a Cloud Adventure: Unveiling the Magic of Cloud Computing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Embarking_on_a_Cloud_Adventure__Unveiling_the_Magic_of_Cloud_Computing.svg)](https://dev.to/arbythecoder/embarking-on-a-cloud-adventure-unveiling-the-magic-of-cloud-computing-118c)
+[![Binary Tree 3.0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Binary_Tree_3.0.svg)](https://dev.to/livshits_ivan/binary-tree-30-4jjo)
+[![React Custom Hook: useCookie](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Custom_Hook__useCookie.svg)](https://dev.to/sergeyleschev/react-custom-hook-usecookie-5e35)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, August 9, 2023 at 12:10:55 PM
+> Last updated: Wednesday, August 9, 2023 at 6:47:06 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, August 9, 2023 at 12:10:59 PM
+> Last updated: Wednesday, August 9, 2023 at 6:47:12 PM
 
 > Showing 5 of 30 posts.
 
