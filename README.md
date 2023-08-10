@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, August 10, 2023 at 6:16:57 AM
+> Last updated: Thursday, August 10, 2023 at 12:09:58 PM
 
 > Showing 5 of 12 posts.
 
-[![What if Apps had superpowers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_if_Apps_had_superpowers.svg)](https://dev.to/fred_abkb/what-if-apps-had-superpowers-373f)
-[![Host your own 🖊️blog, chat, community and courses for FREE🆓.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Host_your_own_🖊️blog__chat__community_and_courses_for_FREE🆓..svg)](https://dev.to/schbenedikt/host-your-own-blog-chat-community-and-courses-for-free-pa0)
-[![TaiPy - Some quirks with a neat Python GUI library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/TaiPy_-_Some_quirks_with_a_neat_Python_GUI_library.svg)](https://dev.to/gbritoda/taipy-some-quirks-6b4)
-[![AWS IAM](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_IAM.svg)](https://dev.to/hasanelsherbiny/aws-iam-1b4d)
-[![50 High-Quality Developer Jobs at VC-Backed Startups: Your Weekly Roundup [10th Aug, 2023]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/50_High-Quality_Developer_Jobs_at_VC-Backed_Startups__Your_Weekly_Roundup_[10th_Aug__2023].svg)](https://dev.to/mohanmukund13/50-high-quality-developer-jobs-at-vc-backed-startups-your-weekly-roundup-10th-aug-2023-2445)
+[![User and Group Management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/User_and_Group_Management.svg)](https://dev.to/scorcism/user-and-group-management-deo)
+[![Get Class Name in Typescript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Get_Class_Name_in_Typescript.svg)](https://dev.to/idmontie/get-class-name-in-typescript-23ih)
+[![How to install PDlib on your Server💻 (EASY)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_install_PDlib_on_your_Server💻_(EASY).svg)](https://dev.to/technology-schaechner/how-to-install-pdlib-hg)
+[![How to build a custom widget in Flutter — GoGoSoon](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_build_a_custom_widget_in_Flutter_—_GoGoSoon.svg)](https://dev.to/5minslearn/how-to-build-a-custom-widget-in-flutter-gogosoon-mpl)
+[![Introducing Goctopus: open-source, state-of-the-art GraphQL endpoint discovery & fingerprinting tool.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_Goctopus__open-source__state-of-the-art_GraphQL_endpoint_discovery___fingerprinting_tool..svg)](https://dev.to/escape/introducing-goctopus-open-source-state-of-the-art-graphql-endpoint-discovery-fingerprinting-tool-mg1)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, August 10, 2023 at 6:17:00 AM
+> Last updated: Thursday, August 10, 2023 at 12:10:02 PM
 
 > Showing 4 of 4 posts.
 
+[![Svelte 5 is going to be radical](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Svelte_5_is_going_to_be_radical.svg)](https://javascriptweekly.com/issues/651)
 [![Taking JavaScript into Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Taking_JavaScript_into_Python.svg)](https://javascriptweekly.com/issues/650)
 [![Name mangling](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Name_mangling.svg)](https://javascriptweekly.com/issues/649)
 [![The tale of how static typing came to JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/The_tale_of_how_static_typing_came_to_JavaScript.svg)](https://javascriptweekly.com/issues/648)
-[![htmx in 100 seconds](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/htmx_in_100_seconds.svg)](https://javascriptweekly.com/issues/647)
 
 
 ## Echo JS
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, August 10, 2023 at 6:17:06 AM
+> Last updated: Thursday, August 10, 2023 at 12:10:08 PM
 
 > Showing 5 of 30 posts.
 
