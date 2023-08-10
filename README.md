@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, August 9, 2023 at 6:47:02 PM
+> Last updated: Thursday, August 10, 2023 at 12:11:09 AM
 
 > Showing 5 of 12 posts.
 
-[![#DEVDiscuss: AI Coding Tools](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_DEVDiscuss__AI_Coding_Tools.svg)](https://dev.to/devteam/devdiscuss-ai-coding-tools-489b)
-[![React State vs. React Context: Deciding How to Manage State](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_State_vs._React_Context__Deciding_How_to_Manage_State.svg)](https://dev.to/imevanc/react-state-vs-react-context-deciding-how-to-manage-state-15e3)
-[![Embarking on a Cloud Adventure: Unveiling the Magic of Cloud Computing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Embarking_on_a_Cloud_Adventure__Unveiling_the_Magic_of_Cloud_Computing.svg)](https://dev.to/arbythecoder/embarking-on-a-cloud-adventure-unveiling-the-magic-of-cloud-computing-118c)
-[![Binary Tree 3.0](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Binary_Tree_3.0.svg)](https://dev.to/livshits_ivan/binary-tree-30-4jjo)
-[![React Custom Hook: useCookie](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Custom_Hook__useCookie.svg)](https://dev.to/sergeyleschev/react-custom-hook-usecookie-5e35)
+[![Linux file system](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Linux_file_system.svg)](https://dev.to/scorcism/linux-file-system-217i)
+[![DevRel is not a big deal: How to do it like a PRO?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/DevRel_is_not_a_big_deal__How_to_do_it_like_a_PRO_.svg)](https://dev.to/codingnninja/devrel-is-not-a-big-deal-how-to-do-it-like-a-pro-16e7)
+[![Linux Kernel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Linux_Kernel.svg)](https://dev.to/scorcism/linux-kernel-4don)
+[![Linux Devices Management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Linux_Devices_Management.svg)](https://dev.to/scorcism/linux-devices-management-2e18)
+[![createContext in React? Important for Interview and Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/createContext_in_React__Important_for_Interview_and_Development.svg)](https://dev.to/diwakarkashyap/createcontext-in-react-important-for-interview-and-development-22d3)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, August 9, 2023 at 6:47:06 PM
+> Last updated: Thursday, August 10, 2023 at 12:11:13 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, August 9, 2023 at 6:47:12 PM
+> Last updated: Thursday, August 10, 2023 at 12:11:19 AM
 
 > Showing 5 of 30 posts.
 
