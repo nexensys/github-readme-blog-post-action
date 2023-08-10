@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, August 10, 2023 at 12:11:09 AM
+> Last updated: Thursday, August 10, 2023 at 6:16:57 AM
 
 > Showing 5 of 12 posts.
 
-[![Linux file system](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Linux_file_system.svg)](https://dev.to/scorcism/linux-file-system-217i)
-[![DevRel is not a big deal: How to do it like a PRO?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/DevRel_is_not_a_big_deal__How_to_do_it_like_a_PRO_.svg)](https://dev.to/codingnninja/devrel-is-not-a-big-deal-how-to-do-it-like-a-pro-16e7)
-[![Linux Kernel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Linux_Kernel.svg)](https://dev.to/scorcism/linux-kernel-4don)
-[![Linux Devices Management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Linux_Devices_Management.svg)](https://dev.to/scorcism/linux-devices-management-2e18)
-[![createContext in React? Important for Interview and Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/createContext_in_React__Important_for_Interview_and_Development.svg)](https://dev.to/diwakarkashyap/createcontext-in-react-important-for-interview-and-development-22d3)
+[![What if Apps had superpowers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_if_Apps_had_superpowers.svg)](https://dev.to/fred_abkb/what-if-apps-had-superpowers-373f)
+[![Host your own 🖊️blog, chat, community and courses for FREE🆓.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Host_your_own_🖊️blog__chat__community_and_courses_for_FREE🆓..svg)](https://dev.to/schbenedikt/host-your-own-blog-chat-community-and-courses-for-free-pa0)
+[![TaiPy - Some quirks with a neat Python GUI library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/TaiPy_-_Some_quirks_with_a_neat_Python_GUI_library.svg)](https://dev.to/gbritoda/taipy-some-quirks-6b4)
+[![AWS IAM](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/AWS_IAM.svg)](https://dev.to/hasanelsherbiny/aws-iam-1b4d)
+[![50 High-Quality Developer Jobs at VC-Backed Startups: Your Weekly Roundup [10th Aug, 2023]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/50_High-Quality_Developer_Jobs_at_VC-Backed_Startups__Your_Weekly_Roundup_[10th_Aug__2023].svg)](https://dev.to/mohanmukund13/50-high-quality-developer-jobs-at-vc-backed-startups-your-weekly-roundup-10th-aug-2023-2445)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, August 10, 2023 at 12:11:13 AM
+> Last updated: Thursday, August 10, 2023 at 6:17:00 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, August 10, 2023 at 12:11:19 AM
+> Last updated: Thursday, August 10, 2023 at 6:17:06 AM
 
 > Showing 5 of 30 posts.
 
+[![How to Connect Onn Soundbar to TV? [Easy Solution] - Toolpub](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Connect_Onn_Soundbar_to_TV__[Easy_Solution]_-_Toolpub.svg)](https://toolpub.com/how-to-connect-onn-soundbar-to-tv/)
 [![Functional Programming with TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Functional_Programming_with_TypeScript.svg)](http://www.youtube.com/playlist?list=PLuPevXgCPUIMbCxBEnc1dNwboH6e2ImQo)
 [![API with NestJS #119. Type-safe SQL queries with Kysely and PostgreSQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__119._Type-safe_SQL_queries_with_Kysely_and_PostgreSQL.svg)](https://wanago.io/2023/08/07/api-nestjs-kysely-postgresql/)
-[![How to Speed up Jest Test Runs by Splitting and Parallelising Them](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Speed_up_Jest_Test_Runs_by_Splitting_and_Parallelising_Them.svg)](https://medium.com/stackademic/how-to-speed-up-jest-test-runs-by-splitting-and-parallelising-them-1be7c1c8600d)
+[![How to Speed up Jest Test Runs by Splitting and Parallelising Them](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Speed_up_Jest_Test_Runs_by_Splitting_and_Parallelising_Them.svg)](https://blog.stackademic.com/how-to-speed-up-jest-test-runs-by-splitting-and-parallelising-them-1be7c1c8600d)
 [![I've made an Express.js based source viewer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/I've_made_an_Express.js_based_source_viewer.svg)](https://krasimirtsonev.com/blog/article/expressjs-source-viewer)
-[![GitHub - mquan/api2ai](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_mquan_api2ai.svg)](https://github.com/mquan/api2ai)
 
 
 <!-- post-list:end -->
