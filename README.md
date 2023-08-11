@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, August 11, 2023 at 6:14:09 AM
+> Last updated: Friday, August 11, 2023 at 12:09:35 PM
 
 > Showing 5 of 12 posts.
 
-[![6 Essential React Libraries You Should Know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/6_Essential_React_Libraries_You_Should_Know.svg)](https://dev.to/bilal1718/6-essential-react-libraries-you-should-know-3ccm)
-[![Desvendando as Diferenças: APIs, Web Services, SOAP e HTTP Simplificados](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Desvendando_as_Diferenças__APIs__Web_Services__SOAP_e_HTTP_Simplificados.svg)](https://dev.to/matt1cs/desvendando-as-diferencas-apis-web-services-soap-e-http-simplificados-4230)
-[![Ubuntu 22.04 - Using NTP and Disabling It](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ubuntu_22.04_-_Using_NTP_and_Disabling_It.svg)](https://dev.to/openlab/ubuntu-2204-using-ntp-and-disabling-it-31f1)
-[![Product of Array Except Self - LeetCode Java Solution](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Product_of_Array_Except_Self_-_LeetCode_Java_Solution.svg)](https://dev.to/aswin2001barath/product-of-array-except-self-leetcode-java-solution-4j72)
-[![Two Sum — LeetCode Java Solution](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Two_Sum_—_LeetCode_Java_Solution.svg)](https://dev.to/aswin2001barath/two-sum-leetcode-java-solution-5545)
+[![HTML Semantic Tags](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/HTML_Semantic_Tags.svg)](https://dev.to/tech_olaide/html-semantic-tags-424o)
+[![Top 10 Flutter Side Projects that can end up becoming your next big startup project or SAAS 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_10_Flutter_Side_Projects_that_can_end_up_becoming_your_next_big_startup_project_or_SAAS_🚀.svg)](https://dev.to/yatendra2001/top-10-flutter-side-projects-that-can-end-up-becoming-your-next-big-startup-project-or-saas-4pma)
+[![GADT-like types in Rust](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/GADT-like_types_in_Rust.svg)](https://dev.to/aripiprazole/gadt-like-types-in-rust-4hcp)
+[![Channels in Go](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Channels_in_Go.svg)](https://dev.to/sd007cse/channels-in-go-273h)
+[![Stop using JavaScript for everything!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Stop_using_JavaScript_for_everything!.svg)](https://dev.to/sadeedpv/stop-using-javascript-for-everything-370p)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, August 11, 2023 at 6:14:12 AM
+> Last updated: Friday, August 11, 2023 at 12:09:39 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, August 11, 2023 at 6:14:21 AM
+> Last updated: Friday, August 11, 2023 at 12:09:46 PM
 
 > Showing 5 of 30 posts.
 
+[![Encode base64 in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Encode_base64_in_JavaScript.svg)](
+https://masteringjs.io/tutorials/fundamentals/encode-base64
+)
 [![How to Connect Onn Soundbar to TV? [Easy Solution] - Toolpub](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Connect_Onn_Soundbar_to_TV__[Easy_Solution]_-_Toolpub.svg)](https://toolpub.com/how-to-connect-onn-soundbar-to-tv/)
 [![Functional Programming with TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Functional_Programming_with_TypeScript.svg)](http://www.youtube.com/playlist?list=PLuPevXgCPUIMbCxBEnc1dNwboH6e2ImQo)
 [![API with NestJS #119. Type-safe SQL queries with Kysely and PostgreSQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__119._Type-safe_SQL_queries_with_Kysely_and_PostgreSQL.svg)](https://wanago.io/2023/08/07/api-nestjs-kysely-postgresql/)
 [![How to Speed up Jest Test Runs by Splitting and Parallelising Them](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Speed_up_Jest_Test_Runs_by_Splitting_and_Parallelising_Them.svg)](https://blog.stackademic.com/how-to-speed-up-jest-test-runs-by-splitting-and-parallelising-them-1be7c1c8600d)
-[![I've made an Express.js based source viewer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/I've_made_an_Express.js_based_source_viewer.svg)](https://krasimirtsonev.com/blog/article/expressjs-source-viewer)
 
 
 <!-- post-list:end -->
