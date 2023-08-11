@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, August 11, 2023 at 12:10:25 AM
+> Last updated: Friday, August 11, 2023 at 6:14:09 AM
 
 > Showing 5 of 12 posts.
 
-[![My First Project: Making a VSCode Color Theme](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_First_Project__Making_a_VSCode_Color_Theme.svg)](https://dev.to/psudo-dev/my-first-project-making-a-vscode-color-theme-306i)
-[![State Management with RxJS and React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/State_Management_with_RxJS_and_React.svg)](https://dev.to/brainiacneit/state-management-with-rxjs-and-react-1dj6)
-[![Getting Familiar with GSAP ScrollTrigger 🌱](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_Familiar_with_GSAP_ScrollTrigger_🌱.svg)](https://dev.to/quicksilversel/getting-familiar-with-gsap-scrolltrigger-5bda)
-[![Setting JavaScript framework standards ( what’s wrong with the React-set standard and why everyone should be like Svelte)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Setting_JavaScript_framework_standards_(_what’s_wrong_with_the_React-set_standard_and_why_everyone_should_be_like_Svelte).svg)](https://dev.to/n3rd/setting-javascript-framework-standards-whats-wrong-with-the-react-set-standard-and-why-everyone-should-be-like-svelte-4eha)
-[![What's wrong with Docker?🐳](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What's_wrong_with_Docker_🐳.svg)](https://dev.to/code42cate/whats-wrong-with-docker-3414)
+[![6 Essential React Libraries You Should Know](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/6_Essential_React_Libraries_You_Should_Know.svg)](https://dev.to/bilal1718/6-essential-react-libraries-you-should-know-3ccm)
+[![Desvendando as Diferenças: APIs, Web Services, SOAP e HTTP Simplificados](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Desvendando_as_Diferenças__APIs__Web_Services__SOAP_e_HTTP_Simplificados.svg)](https://dev.to/matt1cs/desvendando-as-diferencas-apis-web-services-soap-e-http-simplificados-4230)
+[![Ubuntu 22.04 - Using NTP and Disabling It](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ubuntu_22.04_-_Using_NTP_and_Disabling_It.svg)](https://dev.to/openlab/ubuntu-2204-using-ntp-and-disabling-it-31f1)
+[![Product of Array Except Self - LeetCode Java Solution](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Product_of_Array_Except_Self_-_LeetCode_Java_Solution.svg)](https://dev.to/aswin2001barath/product-of-array-except-self-leetcode-java-solution-4j72)
+[![Two Sum — LeetCode Java Solution](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Two_Sum_—_LeetCode_Java_Solution.svg)](https://dev.to/aswin2001barath/two-sum-leetcode-java-solution-5545)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, August 11, 2023 at 12:10:29 AM
+> Last updated: Friday, August 11, 2023 at 6:14:12 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, August 11, 2023 at 12:10:36 AM
+> Last updated: Friday, August 11, 2023 at 6:14:21 AM
 
 > Showing 5 of 30 posts.
 
