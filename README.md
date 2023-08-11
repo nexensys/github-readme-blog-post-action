@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, August 10, 2023 at 12:09:58 PM
+> Last updated: Thursday, August 10, 2023 at 6:36:03 PM
 
 > Showing 5 of 12 posts.
 
-[![User and Group Management](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/User_and_Group_Management.svg)](https://dev.to/scorcism/user-and-group-management-deo)
-[![Get Class Name in Typescript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Get_Class_Name_in_Typescript.svg)](https://dev.to/idmontie/get-class-name-in-typescript-23ih)
-[![How to install PDlib on your Server💻 (EASY)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_install_PDlib_on_your_Server💻_(EASY).svg)](https://dev.to/technology-schaechner/how-to-install-pdlib-hg)
-[![How to build a custom widget in Flutter — GoGoSoon](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_build_a_custom_widget_in_Flutter_—_GoGoSoon.svg)](https://dev.to/5minslearn/how-to-build-a-custom-widget-in-flutter-gogosoon-mpl)
-[![Introducing Goctopus: open-source, state-of-the-art GraphQL endpoint discovery & fingerprinting tool.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introducing_Goctopus__open-source__state-of-the-art_GraphQL_endpoint_discovery___fingerprinting_tool..svg)](https://dev.to/escape/introducing-goctopus-open-source-state-of-the-art-graphql-endpoint-discovery-fingerprinting-tool-mg1)
+[![What's wrong with Docker?🐳](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What's_wrong_with_Docker_🐳.svg)](https://dev.to/code42cate/whats-wrong-with-docker-3414)
+[![5 Docker Commands You Don't Know Yet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Docker_Commands_You_Don't_Know_Yet.svg)](https://dev.to/code42cate/5-docker-commands-you-dont-know-yet-2e78)
+[![🧠 How to validate ideas (Building 101 #2)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🧠_How_to_validate_ideas_(Building_101__2).svg)](https://dev.to/ideahub/how-to-validate-ideas-building-101-2-30n5)
+[![Why You Should Stop Building Communities on Slack w/ Domitrius Clerk](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_You_Should_Stop_Building_Communities_on_Slack_w__Domitrius_Clerk.svg)](https://dev.to/tdesseyn/why-you-should-stop-building-communities-on-slack-w-domitrius-clerk-4pjo)
+[![Making Money with ChatGPT: Unleashing the Potential of ChatGPT Empire](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Making_Money_with_ChatGPT__Unleashing_the_Potential_of_ChatGPT_Empire.svg)](https://dev.to/ronakmunjapara/making-money-with-chatgpt-unleashing-the-potential-of-chatgpt-empire-2dl3)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, August 10, 2023 at 12:10:02 PM
+> Last updated: Thursday, August 10, 2023 at 6:36:06 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, August 10, 2023 at 12:10:08 PM
+> Last updated: Thursday, August 10, 2023 at 6:36:12 PM
 
 > Showing 5 of 30 posts.
 
