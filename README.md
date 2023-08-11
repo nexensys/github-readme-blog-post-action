@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, August 10, 2023 at 6:36:03 PM
+> Last updated: Friday, August 11, 2023 at 12:10:25 AM
 
 > Showing 5 of 12 posts.
 
+[![My First Project: Making a VSCode Color Theme](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_First_Project__Making_a_VSCode_Color_Theme.svg)](https://dev.to/psudo-dev/my-first-project-making-a-vscode-color-theme-306i)
+[![State Management with RxJS and React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/State_Management_with_RxJS_and_React.svg)](https://dev.to/brainiacneit/state-management-with-rxjs-and-react-1dj6)
+[![Getting Familiar with GSAP ScrollTrigger 🌱](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_Familiar_with_GSAP_ScrollTrigger_🌱.svg)](https://dev.to/quicksilversel/getting-familiar-with-gsap-scrolltrigger-5bda)
+[![Setting JavaScript framework standards ( what’s wrong with the React-set standard and why everyone should be like Svelte)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Setting_JavaScript_framework_standards_(_what’s_wrong_with_the_React-set_standard_and_why_everyone_should_be_like_Svelte).svg)](https://dev.to/n3rd/setting-javascript-framework-standards-whats-wrong-with-the-react-set-standard-and-why-everyone-should-be-like-svelte-4eha)
 [![What's wrong with Docker?🐳](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What's_wrong_with_Docker_🐳.svg)](https://dev.to/code42cate/whats-wrong-with-docker-3414)
-[![5 Docker Commands You Don't Know Yet](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Docker_Commands_You_Don't_Know_Yet.svg)](https://dev.to/code42cate/5-docker-commands-you-dont-know-yet-2e78)
-[![🧠 How to validate ideas (Building 101 #2)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🧠_How_to_validate_ideas_(Building_101__2).svg)](https://dev.to/ideahub/how-to-validate-ideas-building-101-2-30n5)
-[![Why You Should Stop Building Communities on Slack w/ Domitrius Clerk](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_You_Should_Stop_Building_Communities_on_Slack_w__Domitrius_Clerk.svg)](https://dev.to/tdesseyn/why-you-should-stop-building-communities-on-slack-w-domitrius-clerk-4pjo)
-[![Making Money with ChatGPT: Unleashing the Potential of ChatGPT Empire](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Making_Money_with_ChatGPT__Unleashing_the_Potential_of_ChatGPT_Empire.svg)](https://dev.to/ronakmunjapara/making-money-with-chatgpt-unleashing-the-potential-of-chatgpt-empire-2dl3)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, August 10, 2023 at 6:36:06 PM
+> Last updated: Friday, August 11, 2023 at 12:10:29 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, August 10, 2023 at 6:36:12 PM
+> Last updated: Friday, August 11, 2023 at 12:10:36 AM
 
 > Showing 5 of 30 posts.
 
