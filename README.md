@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, August 11, 2023 at 6:35:27 PM
+> Last updated: Saturday, August 12, 2023 at 12:09:20 AM
 
 > Showing 5 of 12 posts.
 
-[![“Sprints”: The biggest mistake of Software Engineering](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/“Sprints”__The_biggest_mistake_of_Software_Engineering.svg)](https://dev.to/noriller/sprints-the-biggest-mistake-of-software-engineering-39oo)
-[![Creating abilities - Ground pound](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_abilities_-_Ground_pound.svg)](https://dev.to/eduardojuliao/creating-abilities-ground-pound-50ho)
-[![🧠 Unleash Your Focus: The Ultimate ADHD Pomodoro Method for Enhanced Productivity! 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🧠_Unleash_Your_Focus__The_Ultimate_ADHD_Pomodoro_Method_for_Enhanced_Productivity!_🚀.svg)](https://dev.to/matheusmanuel/unleash-your-focus-the-ultimate-adhd-pomodoro-method-for-enhanced-productivity-3pmd)
-[![Prestige Over Influence: Choosing A More Impactful Online Presence](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Prestige_Over_Influence__Choosing_A_More_Impactful_Online_Presence.svg)](https://dev.to/jpmcb/prestige-over-influence-choosing-a-more-impactful-online-presence-5cje)
-[![Build a Chrome Extension using Manifest V3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_a_Chrome_Extension_using_Manifest_V3.svg)](https://dev.to/nazmulidris/build-a-chrome-extension-using-manifest-v3-2oid)
+[![Websites to practice & upskill your Web Development skills](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Websites_to_practice___upskill_your_Web_Development_skills.svg)](https://dev.to/rahilisvahora/websites-to-practice-upskill-your-web-development-skills-ol3)
+[![Best Django Courses and Certifications for Web Developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Best_Django_Courses_and_Certifications_for_Web_Developers.svg)](https://dev.to/max24816/best-django-courses-and-certifications-for-web-developers-2dlm)
+[![Embarking on the Cybersecurity Journey: A Beginner’s Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Embarking_on_the_Cybersecurity_Journey__A_Beginner’s_Guide.svg)](https://dev.to/aswin2001barath/embarking-on-the-cybersecurity-journey-a-beginners-guide-307o)
+[![Debugging Rules: Understand the System](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Debugging_Rules__Understand_the_System.svg)](https://dev.to/rajasegar/debugging-rules-understand-the-system-ho5)
+[![The Ultimate Roadmap and Free Resources for Becoming a DevOps Engineer in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Ultimate_Roadmap_and_Free_Resources_for_Becoming_a_DevOps_Engineer_in_2023.svg)](https://dev.to/durgesh4993/the-ultimate-roadmap-and-free-resources-for-becoming-a-devops-engineer-in-2023-5b8n)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, August 11, 2023 at 6:35:30 PM
+> Last updated: Saturday, August 12, 2023 at 12:09:23 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, August 11, 2023 at 6:35:36 PM
+> Last updated: Saturday, August 12, 2023 at 12:09:27 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - AblerSong/MVMDemo: h5,iOS,Android, software architecture,MVM](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_AblerSong_MVMDemo__h5_iOS_Android__software_architecture_MVM.svg)](https://github.com/AblerSong/MVMDemo)
 [![Supercharge Your ChatGPT Conversations with JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Supercharge_Your_ChatGPT_Conversations_with_JavaScript.svg)](https://wonderwhy-er.medium.com/supercharge-your-chatgpt-conversations-with-javascript-e11485115592)
 [![Encode base64 in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Encode_base64_in_JavaScript.svg)](
 https://masteringjs.io/tutorials/fundamentals/encode-base64
 )
 [![How to Connect Onn Soundbar to TV? [Easy Solution] - Toolpub](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Connect_Onn_Soundbar_to_TV__[Easy_Solution]_-_Toolpub.svg)](https://toolpub.com/how-to-connect-onn-soundbar-to-tv/)
 [![Functional Programming with TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Functional_Programming_with_TypeScript.svg)](http://www.youtube.com/playlist?list=PLuPevXgCPUIMbCxBEnc1dNwboH6e2ImQo)
-[![API with NestJS #119. Type-safe SQL queries with Kysely and PostgreSQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__119._Type-safe_SQL_queries_with_Kysely_and_PostgreSQL.svg)](https://wanago.io/2023/08/07/api-nestjs-kysely-postgresql/)
 
 
 <!-- post-list:end -->
