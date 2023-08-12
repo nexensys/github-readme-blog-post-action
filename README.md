@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, August 11, 2023 at 12:09:35 PM
+> Last updated: Friday, August 11, 2023 at 6:35:27 PM
 
 > Showing 5 of 12 posts.
 
-[![HTML Semantic Tags](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/HTML_Semantic_Tags.svg)](https://dev.to/tech_olaide/html-semantic-tags-424o)
-[![Top 10 Flutter Side Projects that can end up becoming your next big startup project or SAAS 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_10_Flutter_Side_Projects_that_can_end_up_becoming_your_next_big_startup_project_or_SAAS_🚀.svg)](https://dev.to/yatendra2001/top-10-flutter-side-projects-that-can-end-up-becoming-your-next-big-startup-project-or-saas-4pma)
-[![GADT-like types in Rust](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/GADT-like_types_in_Rust.svg)](https://dev.to/aripiprazole/gadt-like-types-in-rust-4hcp)
-[![Channels in Go](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Channels_in_Go.svg)](https://dev.to/sd007cse/channels-in-go-273h)
-[![Stop using JavaScript for everything!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Stop_using_JavaScript_for_everything!.svg)](https://dev.to/sadeedpv/stop-using-javascript-for-everything-370p)
+[![“Sprints”: The biggest mistake of Software Engineering](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/“Sprints”__The_biggest_mistake_of_Software_Engineering.svg)](https://dev.to/noriller/sprints-the-biggest-mistake-of-software-engineering-39oo)
+[![Creating abilities - Ground pound](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_abilities_-_Ground_pound.svg)](https://dev.to/eduardojuliao/creating-abilities-ground-pound-50ho)
+[![🧠 Unleash Your Focus: The Ultimate ADHD Pomodoro Method for Enhanced Productivity! 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🧠_Unleash_Your_Focus__The_Ultimate_ADHD_Pomodoro_Method_for_Enhanced_Productivity!_🚀.svg)](https://dev.to/matheusmanuel/unleash-your-focus-the-ultimate-adhd-pomodoro-method-for-enhanced-productivity-3pmd)
+[![Prestige Over Influence: Choosing A More Impactful Online Presence](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Prestige_Over_Influence__Choosing_A_More_Impactful_Online_Presence.svg)](https://dev.to/jpmcb/prestige-over-influence-choosing-a-more-impactful-online-presence-5cje)
+[![Build a Chrome Extension using Manifest V3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_a_Chrome_Extension_using_Manifest_V3.svg)](https://dev.to/nazmulidris/build-a-chrome-extension-using-manifest-v3-2oid)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, August 11, 2023 at 12:09:39 PM
+> Last updated: Friday, August 11, 2023 at 6:35:30 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, August 11, 2023 at 12:09:46 PM
+> Last updated: Friday, August 11, 2023 at 6:35:36 PM
 
 > Showing 5 of 30 posts.
 
+[![Supercharge Your ChatGPT Conversations with JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Supercharge_Your_ChatGPT_Conversations_with_JavaScript.svg)](https://wonderwhy-er.medium.com/supercharge-your-chatgpt-conversations-with-javascript-e11485115592)
 [![Encode base64 in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Encode_base64_in_JavaScript.svg)](
 https://masteringjs.io/tutorials/fundamentals/encode-base64
 )
 [![How to Connect Onn Soundbar to TV? [Easy Solution] - Toolpub](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Connect_Onn_Soundbar_to_TV__[Easy_Solution]_-_Toolpub.svg)](https://toolpub.com/how-to-connect-onn-soundbar-to-tv/)
 [![Functional Programming with TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Functional_Programming_with_TypeScript.svg)](http://www.youtube.com/playlist?list=PLuPevXgCPUIMbCxBEnc1dNwboH6e2ImQo)
 [![API with NestJS #119. Type-safe SQL queries with Kysely and PostgreSQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__119._Type-safe_SQL_queries_with_Kysely_and_PostgreSQL.svg)](https://wanago.io/2023/08/07/api-nestjs-kysely-postgresql/)
-[![How to Speed up Jest Test Runs by Splitting and Parallelising Them](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Speed_up_Jest_Test_Runs_by_Splitting_and_Parallelising_Them.svg)](https://blog.stackademic.com/how-to-speed-up-jest-test-runs-by-splitting-and-parallelising-them-1be7c1c8600d)
 
 
 <!-- post-list:end -->
