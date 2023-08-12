@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, August 12, 2023 at 6:13:03 AM
+> Last updated: Saturday, August 12, 2023 at 12:08:38 PM
 
 > Showing 5 of 12 posts.
 
-[![What is 360 Marketing Strategy? A Beginner’s Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_360_Marketing_Strategy__A_Beginner’s_Guide.svg)](https://dev.to/fourty60blog/what-is-360deg-marketing-strategy-a-beginners-guide-59e9)
-[![Amazing Developer T-shirt](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Amazing_Developer_T-shirt.svg)](https://dev.to/ahmed_onour/amazing-developer-t-shirt-1h5j)
-[![Backup Strategies: Preserving Data Integrity and Resilience with Regular Backups](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Backup_Strategies__Preserving_Data_Integrity_and_Resilience_with_Regular_Backups.svg)](https://dev.to/documatic/backup-strategies-preserving-data-integrity-and-resilience-with-regular-backups-5839)
-[![🚀 Building an Invoice PDF system with React.js , Redux and Node.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🚀_Building_an_Invoice_PDF_system_with_React.js___Redux_and_Node.js.svg)](https://dev.to/idurar/building-an-invoice-pdf-system-with-reactjs-redux-and-nodejs-5g1a)
-[![React's Responsive Magic: Harnessing useCheckMobileScreen Hook 🔥](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React's_Responsive_Magic__Harnessing_useCheckMobileScreen_Hook_🔥.svg)](https://dev.to/malikbilal111/reacts-responsive-magic-harnessing-usecheckmobilescreen-hook-5fg0)
+[![How to Write Quality Code: A Developer's Guide.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Write_Quality_Code__A_Developer's_Guide..svg)](https://dev.to/yatendra2001/how-to-write-quality-code-a-developers-guide-3lbm)
+[![52 Frontend Interview Questions - JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/52_Frontend_Interview_Questions_-_JavaScript.svg)](https://dev.to/m_midas/52-frontend-interview-questions-javascript-59h6)
+[![Kubernetes Architecture](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Kubernetes_Architecture.svg)](https://dev.to/scorcism/kubernetes-architecture-390j)
+[![Full-Stack Engineer: Decoding the Jack-of-All-Trades in Software Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Full-Stack_Engineer__Decoding_the_Jack-of-All-Trades_in_Software_Development.svg)](https://dev.to/inovak/full-stack-engineer-decoding-the-jack-of-all-trades-in-software-development-5bg2)
+[![Building Serverless Applications with AWS – Security](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_Serverless_Applications_with_AWS_–_Security.svg)](https://dev.to/aws-builders/building-serverless-applications-with-aws-security-44bk)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, August 12, 2023 at 6:13:06 AM
+> Last updated: Saturday, August 12, 2023 at 12:08:41 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, August 12, 2023 at 6:13:08 AM
+> Last updated: Saturday, August 12, 2023 at 12:08:44 PM
 
 > Showing 5 of 30 posts.
 
