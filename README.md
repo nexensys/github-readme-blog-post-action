@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, August 13, 2023 at 12:09:15 AM
+> Last updated: Sunday, August 13, 2023 at 6:13:06 AM
 
 > Showing 5 of 12 posts.
 
-[![Storing image from React formData to Cloudinary using Node/Express API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Storing_image_from_React_formData_to_Cloudinary_using_Node_Express_API.svg)](https://dev.to/meghannfh/storing-image-from-react-formdata-to-cloudinary-using-nodeexpress-api-1c6a)
-[![Top ReactJS Courses to Excel in Web Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_ReactJS_Courses_to_Excel_in_Web_Development.svg)](https://dev.to/max24816/top-reactjs-courses-to-excel-in-web-development-5hbd)
-[![Toying with web API's: Media Capture and Download!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Toying_with_web_API's__Media_Capture_and_Download!.svg)](https://dev.to/sfundomhlungu/toying-with-web-apis-media-capture-and-download-38d2)
-[![From Zero to GraphQL Hero: The Ultimate Getting Started Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/From_Zero_to_GraphQL_Hero__The_Ultimate_Getting_Started_Guide.svg)](https://dev.to/mohitsinghchauhan/from-zero-to-graphql-hero-the-ultimate-getting-started-guide-46o7)
-[![Authentication with middlewares in NextJS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Authentication_with_middlewares_in_NextJS.svg)](https://dev.to/brainiacneit/authentication-with-middlewares-in-nextjs-279p)
+[![PostgreSQL Optimization: A Quick Tip on Using Values Expression](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/PostgreSQL_Optimization__A_Quick_Tip_on_Using_Values_Expression.svg)](https://dev.to/nightbird07/postgresql-optimization-a-quick-tip-on-using-values-expression-2fce)
+[![A Step-by-Step Guide to Building a Responsive and Mobile-Friendly website from scratch](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Step-by-Step_Guide_to_Building_a_Responsive_and_Mobile-Friendly_website_from_scratch.svg)](https://dev.to/wilsonadedamola/a-step-by-step-guide-to-building-a-responsive-and-mobile-friendly-website-from-scratch-h51)
+[![My Life as an Influencer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_Life_as_an_Influencer.svg)](https://dev.to/polterguy/my-life-as-an-influencer-1f2)
+[![What does a good Software Architecture support?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_does_a_good_Software_Architecture_support_.svg)](https://dev.to/khrasikh/what-does-a-good-software-architecture-support-4oho)
+[![__init__ Vs __new__ - When to Use and How](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/__init___Vs___new___-_When_to_Use_and_How.svg)](https://dev.to/sachingeek/init-vs-new-when-to-use-and-how-119e)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, August 13, 2023 at 12:09:18 AM
+> Last updated: Sunday, August 13, 2023 at 6:13:10 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,21 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, August 13, 2023 at 12:09:20 AM
+> Last updated: Sunday, August 13, 2023 at 6:13:13 AM
 
 > Showing 5 of 30 posts.
 
+[![
+Using localStorage in Modern Applications: A Comprehensive Guide
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Using_localStorage_in_Modern_Applications__A_Comprehensive_Guide_.svg)](
+https://rxdb.info/articles/localstorage.html
+)
 [![GleiphQL : A Rate-Limiting/Monitoring Solution for GraphQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GleiphQL___A_Rate-Limiting_Monitoring_Solution_for_GraphQL.svg)](https://gleiphql.medium.com/gleiphql-a-rate-limiting-monitoring-solution-for-graphql-8f2fefa8d5f7)
 [![GitHub - AblerSong/MVMDemo: h5,iOS,Android, software architecture,MVM](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_AblerSong_MVMDemo__h5_iOS_Android__software_architecture_MVM.svg)](https://github.com/AblerSong/MVMDemo)
 [![Supercharge Your ChatGPT Conversations with JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Supercharge_Your_ChatGPT_Conversations_with_JavaScript.svg)](https://wonderwhy-er.medium.com/supercharge-your-chatgpt-conversations-with-javascript-e11485115592)
 [![Encode base64 in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Encode_base64_in_JavaScript.svg)](
 https://masteringjs.io/tutorials/fundamentals/encode-base64
 )
-[![How to Connect Onn Soundbar to TV? [Easy Solution] - Toolpub](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Connect_Onn_Soundbar_to_TV__[Easy_Solution]_-_Toolpub.svg)](https://toolpub.com/how-to-connect-onn-soundbar-to-tv/)
 
 
 <!-- post-list:end -->
