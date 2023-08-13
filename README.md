@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, August 12, 2023 at 12:08:38 PM
+> Last updated: Saturday, August 12, 2023 at 6:38:29 PM
 
 > Showing 5 of 12 posts.
 
-[![How to Write Quality Code: A Developer's Guide.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Write_Quality_Code__A_Developer's_Guide..svg)](https://dev.to/yatendra2001/how-to-write-quality-code-a-developers-guide-3lbm)
-[![52 Frontend Interview Questions - JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/52_Frontend_Interview_Questions_-_JavaScript.svg)](https://dev.to/m_midas/52-frontend-interview-questions-javascript-59h6)
-[![Kubernetes Architecture](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Kubernetes_Architecture.svg)](https://dev.to/scorcism/kubernetes-architecture-390j)
-[![Full-Stack Engineer: Decoding the Jack-of-All-Trades in Software Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Full-Stack_Engineer__Decoding_the_Jack-of-All-Trades_in_Software_Development.svg)](https://dev.to/inovak/full-stack-engineer-decoding-the-jack-of-all-trades-in-software-development-5bg2)
-[![Building Serverless Applications with AWS – Security](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_Serverless_Applications_with_AWS_–_Security.svg)](https://dev.to/aws-builders/building-serverless-applications-with-aws-security-44bk)
+[![roguelike i made (wip)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/roguelike_i_made_(wip).svg)](https://dev.to/jossse69/roguelike-i-made-wip-361m)
+[![How to use ABI in JavaScript(ether.js)?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_use_ABI_in_JavaScript(ether.js)_.svg)](https://dev.to/mundinho340/how-to-use-abi-in-javascriptetherjs-115h)
+[![How to delete ENI's](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_delete_ENI's.svg)](https://dev.to/aws-builders/how-to-delete-enis-26eg)
+[![Working with JavaScript Local Storage](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Working_with_JavaScript_Local_Storage.svg)](https://dev.to/theonlyabdull/working-with-javascript-local-storage-49d9)
+[![Getting started with CSS Nesting](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_started_with_CSS_Nesting.svg)](https://dev.to/creatures-dev/getting-started-with-css-nesting-1b1k)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, August 12, 2023 at 12:08:41 PM
+> Last updated: Saturday, August 12, 2023 at 6:38:32 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,17 +43,17 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, August 12, 2023 at 12:08:44 PM
+> Last updated: Saturday, August 12, 2023 at 6:38:36 PM
 
 > Showing 5 of 30 posts.
 
+[![GleiphQL : A Rate-Limiting/Monitoring Solution for GraphQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GleiphQL___A_Rate-Limiting_Monitoring_Solution_for_GraphQL.svg)](https://gleiphql.medium.com/gleiphql-a-rate-limiting-monitoring-solution-for-graphql-8f2fefa8d5f7)
 [![GitHub - AblerSong/MVMDemo: h5,iOS,Android, software architecture,MVM](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_AblerSong_MVMDemo__h5_iOS_Android__software_architecture_MVM.svg)](https://github.com/AblerSong/MVMDemo)
 [![Supercharge Your ChatGPT Conversations with JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Supercharge_Your_ChatGPT_Conversations_with_JavaScript.svg)](https://wonderwhy-er.medium.com/supercharge-your-chatgpt-conversations-with-javascript-e11485115592)
 [![Encode base64 in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Encode_base64_in_JavaScript.svg)](
 https://masteringjs.io/tutorials/fundamentals/encode-base64
 )
 [![How to Connect Onn Soundbar to TV? [Easy Solution] - Toolpub](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/How_to_Connect_Onn_Soundbar_to_TV__[Easy_Solution]_-_Toolpub.svg)](https://toolpub.com/how-to-connect-onn-soundbar-to-tv/)
-[![Functional Programming with TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Functional_Programming_with_TypeScript.svg)](http://www.youtube.com/playlist?list=PLuPevXgCPUIMbCxBEnc1dNwboH6e2ImQo)
 
 
 <!-- post-list:end -->
