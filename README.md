@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, August 13, 2023 at 6:13:06 AM
+> Last updated: Sunday, August 13, 2023 at 12:08:44 PM
 
 > Showing 5 of 12 posts.
 
-[![PostgreSQL Optimization: A Quick Tip on Using Values Expression](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/PostgreSQL_Optimization__A_Quick_Tip_on_Using_Values_Expression.svg)](https://dev.to/nightbird07/postgresql-optimization-a-quick-tip-on-using-values-expression-2fce)
-[![A Step-by-Step Guide to Building a Responsive and Mobile-Friendly website from scratch](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Step-by-Step_Guide_to_Building_a_Responsive_and_Mobile-Friendly_website_from_scratch.svg)](https://dev.to/wilsonadedamola/a-step-by-step-guide-to-building-a-responsive-and-mobile-friendly-website-from-scratch-h51)
-[![My Life as an Influencer](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/My_Life_as_an_Influencer.svg)](https://dev.to/polterguy/my-life-as-an-influencer-1f2)
-[![What does a good Software Architecture support?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_does_a_good_Software_Architecture_support_.svg)](https://dev.to/khrasikh/what-does-a-good-software-architecture-support-4oho)
-[![__init__ Vs __new__ - When to Use and How](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/__init___Vs___new___-_When_to_Use_and_How.svg)](https://dev.to/sachingeek/init-vs-new-when-to-use-and-how-119e)
+[![*Beginner Friendly* Version control using `git`](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_Beginner_Friendly__Version_control_using_`git`.svg)](https://dev.to/ankur0904/beginner-friendly-version-control-using-git-4m51)
+[![K8s Pods](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/K8s_Pods.svg)](https://dev.to/scorcism/k8s-pod-d7l)
+[![Criando um hello world para micro controladores Atmel usando o avr-gcc](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Criando_um_hello_world_para_micro_controladores_Atmel_usando_o_avr-gcc.svg)](https://dev.to/prinewgirl/criando-um-hello-world-para-micro-controladores-atmel-usando-o-avr-gcc-5alm)
+[![Supercharge Your Flutter Workflow Using 7 Pro Tools 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Supercharge_Your_Flutter_Workflow_Using_7_Pro_Tools_🚀.svg)](https://dev.to/yatendra2001/supercharge-your-flutter-workflow-using-7-pro-tools-1bji)
+[![Advancеd Quеrying Tеchniquеs in PostgrеSQL: Part 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Advancеd_Quеrying_Tеchniquеs_in_PostgrеSQL__Part_2.svg)](https://dev.to/hassanrehan/advancied-quierying-tiechniquies-in-postgriesql-part-2-2gh7)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, August 13, 2023 at 6:13:10 AM
+> Last updated: Sunday, August 13, 2023 at 12:08:47 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, August 13, 2023 at 6:13:13 AM
+> Last updated: Sunday, August 13, 2023 at 12:08:49 PM
 
 > Showing 5 of 30 posts.
 
