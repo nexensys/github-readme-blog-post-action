@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, August 13, 2023 at 6:37:18 PM
+> Last updated: Monday, August 14, 2023 at 12:10:50 AM
 
 > Showing 5 of 12 posts.
 
-[![Learn Vue: List and Conditional Rendering.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Learn_Vue__List_and_Conditional_Rendering..svg)](https://dev.to/kingowisdom/learn-vue-list-and-conditional-rendering-203j)
-[![Injecting Micro-Frontend CSS in single-spa](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Injecting_Micro-Frontend_CSS_in_single-spa.svg)](https://dev.to/webjose/injecting-micro-frontend-css-in-single-spa-oe8)
-[![Complementing exceptions - Introducing monads for error handling in ruby](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Complementing_exceptions_-_Introducing_monads_for_error_handling_in_ruby.svg)](https://dev.to/cherryramatis/complementing-exceptions-introducing-monads-on-ruby-5fip)
-[![Building a REST API with Deno and Hono.js: A Step-by-Step Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_REST_API_with_Deno_and_Hono.js__A_Step-by-Step_Guide.svg)](https://dev.to/franciscomendes10866/building-a-rest-api-with-deno-and-honojs-a-step-by-step-guide-48ed)
-[![How to Create a Custom Hook in Your ReactJs Application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Create_a_Custom_Hook_in_Your_ReactJs_Application.svg)](https://dev.to/canhamzacode/how-to-create-a-custom-hook-in-your-reactjs-application-2eod)
+[![Getting Started with Svelte: A Refreshingly Different Approach to Web Development](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_Started_with_Svelte__A_Refreshingly_Different_Approach_to_Web_Development.svg)](https://dev.to/ironside/getting-started-with-svelte-a-refreshingly-different-approach-to-web-development-35j1)
+[![Docker Compose Logs: Guide & Best Practices](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Docker_Compose_Logs__Guide___Best_Practices.svg)](https://dev.to/squadcast/docker-compose-logs-guide-best-practices-1b2k)
+[![Linux Commands - All Purpose](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Linux_Commands_-_All_Purpose.svg)](https://dev.to/scorcism/linux-commands-all-purpose-l06)
+[![Differentiating Material and Cupertino in Flutter](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Differentiating_Material_and_Cupertino_in_Flutter.svg)](https://dev.to/brainiacneit/differentiating-material-and-cupertino-in-flutter-1pll)
+[![Let's Connect and Collaborate! || My Inbox](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Let's_Connect_and_Collaborate!____My_Inbox.svg)](https://dev.to/abidullah786/lets-connect-and-collaborate-my-inbox-bbe)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, August 13, 2023 at 6:37:21 PM
+> Last updated: Monday, August 14, 2023 at 12:10:53 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, August 13, 2023 at 6:37:24 PM
+> Last updated: Monday, August 14, 2023 at 12:10:55 AM
 
 > Showing 5 of 30 posts.
 
