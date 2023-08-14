@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, August 13, 2023 at 12:08:44 PM
+> Last updated: Sunday, August 13, 2023 at 6:37:18 PM
 
 > Showing 5 of 12 posts.
 
-[![*Beginner Friendly* Version control using `git`](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_Beginner_Friendly__Version_control_using_`git`.svg)](https://dev.to/ankur0904/beginner-friendly-version-control-using-git-4m51)
-[![K8s Pods](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/K8s_Pods.svg)](https://dev.to/scorcism/k8s-pod-d7l)
-[![Criando um hello world para micro controladores Atmel usando o avr-gcc](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Criando_um_hello_world_para_micro_controladores_Atmel_usando_o_avr-gcc.svg)](https://dev.to/prinewgirl/criando-um-hello-world-para-micro-controladores-atmel-usando-o-avr-gcc-5alm)
-[![Supercharge Your Flutter Workflow Using 7 Pro Tools 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Supercharge_Your_Flutter_Workflow_Using_7_Pro_Tools_🚀.svg)](https://dev.to/yatendra2001/supercharge-your-flutter-workflow-using-7-pro-tools-1bji)
-[![Advancеd Quеrying Tеchniquеs in PostgrеSQL: Part 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Advancеd_Quеrying_Tеchniquеs_in_PostgrеSQL__Part_2.svg)](https://dev.to/hassanrehan/advancied-quierying-tiechniquies-in-postgriesql-part-2-2gh7)
+[![Learn Vue: List and Conditional Rendering.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Learn_Vue__List_and_Conditional_Rendering..svg)](https://dev.to/kingowisdom/learn-vue-list-and-conditional-rendering-203j)
+[![Injecting Micro-Frontend CSS in single-spa](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Injecting_Micro-Frontend_CSS_in_single-spa.svg)](https://dev.to/webjose/injecting-micro-frontend-css-in-single-spa-oe8)
+[![Complementing exceptions - Introducing monads for error handling in ruby](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Complementing_exceptions_-_Introducing_monads_for_error_handling_in_ruby.svg)](https://dev.to/cherryramatis/complementing-exceptions-introducing-monads-on-ruby-5fip)
+[![Building a REST API with Deno and Hono.js: A Step-by-Step Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_a_REST_API_with_Deno_and_Hono.js__A_Step-by-Step_Guide.svg)](https://dev.to/franciscomendes10866/building-a-rest-api-with-deno-and-honojs-a-step-by-step-guide-48ed)
+[![How to Create a Custom Hook in Your ReactJs Application](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Create_a_Custom_Hook_in_Your_ReactJs_Application.svg)](https://dev.to/canhamzacode/how-to-create-a-custom-hook-in-your-reactjs-application-2eod)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, August 13, 2023 at 12:08:47 PM
+> Last updated: Sunday, August 13, 2023 at 6:37:21 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, August 13, 2023 at 12:08:49 PM
+> Last updated: Sunday, August 13, 2023 at 6:37:24 PM
 
 > Showing 5 of 30 posts.
 
