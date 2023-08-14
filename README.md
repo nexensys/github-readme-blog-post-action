@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, August 14, 2023 at 6:15:07 AM
+> Last updated: Monday, August 14, 2023 at 12:09:43 PM
 
 > Showing 5 of 12 posts.
 
-[![Safeguarding the Digital Frontier](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Safeguarding_the_Digital_Frontier.svg)](https://dev.to/hillary/safeguarding-the-digital-frontier-33c1)
-[![Case study: PDF Insights with AWS Textract and OpenAI integration](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Case_study__PDF_Insights_with_AWS_Textract_and_OpenAI_integration.svg)](https://dev.to/brainhubeu/case-study-pdf-insights-with-aws-textract-and-openai-integration-5fp9)
-[![Why and how to check if your app environment is staging or production?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_and_how_to_check_if_your_app_environment_is_staging_or_production_.svg)](https://dev.to/woovi/why-and-how-to-check-if-your-app-environment-is-staging-or-production-29ah)
-[![Multiple Checkbox checked with count](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Multiple_Checkbox_checked_with_count.svg)](https://dev.to/pszwt/multiple-checkbox-checked-with-count-14bm)
-[![Navigating the Tech Startup Odyssey: Lessons from Tech Code ke's Journey 🚀🌟](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Navigating_the_Tech_Startup_Odyssey__Lessons_from_Tech_Code_ke's_Journey_🚀🌟.svg)](https://dev.to/hillary/navigating-the-tech-startup-odyssey-lessons-from-tech-code-kes-journey-5161)
+[![Protected Routes in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Protected_Routes_in_React.svg)](https://dev.to/sundarbadagala081/protected-routes-in-react-47b1)
+[![Build your own custom AI CLI tools](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_your_own_custom_AI_CLI_tools.svg)](https://dev.to/wesen/build-your-own-custom-ai-cli-tools-195)
+[![FLaNK Stack Weekly for 14 Aug 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/FLaNK_Stack_Weekly_for_14_Aug_2023.svg)](https://dev.to/tspannhw/flank-stack-weekly-for-14-aug-2023-boa)
+[![How to pass parameters from child commponent to parent component in React?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_pass_parameters_from_child_commponent_to_parent_component_in_React_.svg)](https://dev.to/saurav181229/how-to-pass-parameters-from-child-commponent-to-parent-component-in-react-9im)
+[![5 Extensões do VSCode para facilitar sua vida](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Extensões_do_VSCode_para_facilitar_sua_vida.svg)](https://dev.to/noriuki/5-extensoes-do-vscode-para-facilitar-sua-vida-3mim)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, August 14, 2023 at 6:15:10 AM
+> Last updated: Monday, August 14, 2023 at 12:09:46 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, August 14, 2023 at 6:15:13 AM
+> Last updated: Monday, August 14, 2023 at 12:09:51 PM
 
 > Showing 5 of 30 posts.
 
+[![API with NestJS #120. One-to-one relationships with the Kysely query builder](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__120._One-to-one_relationships_with_the_Kysely_query_builder.svg)](https://wanago.io/2023/08/14/api-nestjs-kysely-one-to-one/)
 [![
 Using localStorage in Modern Applications: A Comprehensive Guide
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Using_localStorage_in_Modern_Applications__A_Comprehensive_Guide_.svg)](
@@ -55,9 +56,6 @@ https://rxdb.info/articles/localstorage.html
 [![GleiphQL : A Rate-Limiting/Monitoring Solution for GraphQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GleiphQL___A_Rate-Limiting_Monitoring_Solution_for_GraphQL.svg)](https://gleiphql.medium.com/gleiphql-a-rate-limiting-monitoring-solution-for-graphql-8f2fefa8d5f7)
 [![GitHub - AblerSong/MVMDemo: h5,iOS,Android, software architecture,MVM](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_AblerSong_MVMDemo__h5_iOS_Android__software_architecture_MVM.svg)](https://github.com/AblerSong/MVMDemo)
 [![Supercharge Your ChatGPT Conversations with JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Supercharge_Your_ChatGPT_Conversations_with_JavaScript.svg)](https://wonderwhy-er.medium.com/supercharge-your-chatgpt-conversations-with-javascript-e11485115592)
-[![Encode base64 in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Encode_base64_in_JavaScript.svg)](
-https://masteringjs.io/tutorials/fundamentals/encode-base64
-)
 
 
 <!-- post-list:end -->
