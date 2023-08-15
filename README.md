@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, August 15, 2023 at 12:10:21 AM
+> Last updated: Tuesday, August 15, 2023 at 6:14:24 AM
 
 > Showing 5 of 12 posts.
 
-[![A comprehensive guide to making your web app feel native](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_comprehensive_guide_to_making_your_web_app_feel_native.svg)](https://dev.to/atype/a-comprehensive-guide-to-making-your-web-app-feel-native-3bl9)
-[![Unveiling the Future: Buzz Chat - Where AI Shapes Personalized App Experiences](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unveiling_the_Future__Buzz_Chat_-_Where_AI_Shapes_Personalized_App_Experiences.svg)](https://dev.to/fred_abkb/unveiling-the-future-buzz-chat-where-ai-shapes-personalized-app-experiences-1gff)
-[![“Talckatoo: Your Real-Time Multilingual Chat Solution Built with SocketIO, Express.js, and React!” — Part 2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/“Talckatoo__Your_Real-Time_Multilingual_Chat_Solution_Built_with_SocketIO__Express.js__and_React!”_—_Part_2.svg)](https://dev.to/miminiverse/talckatoo-your-real-time-multilingual-chat-solution-built-with-socketio-expressjs-and-react-part-2-2h35)
-[![9. Zinx Connection Management and Property Setting](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/9._Zinx_Connection_Management_and_Property_Setting.svg)](https://dev.to/aceld/9-zinx-connection-management-and-property-setting-28ha)
-[![Profile not creating when creating a User with Django](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Profile_not_creating_when_creating_a_User_with_Django.svg)](https://dev.to/highcenburg/profile-not-creating-when-creating-a-user-with-django-27nd)
+[![Choosing dev.to: My Perspective on Blogging Platform Preference](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Choosing_dev.to__My_Perspective_on_Blogging_Platform_Preference.svg)](https://dev.to/frolovpetro/choosing-devto-my-perspective-on-blogging-platform-preference-1816)
+[![Introduction To Python Programming - part 4](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_To_Python_Programming_-_part_4.svg)](https://dev.to/akinnimimanuel/introduction-to-python-programming-part-4-1d10)
+[![A guide to Git Aliases](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_guide_to_Git_Aliases.svg)](https://dev.to/techielass/a-guide-to-git-aliases-558n)
+[![Seaborn-High Level Graphical Representation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Seaborn-High_Level_Graphical_Representation.svg)](https://dev.to/muradalhasan/seaborn-high-level-graphical-representation-167d)
+[![I was tired of Langchain and created my own wrapper](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_was_tired_of_Langchain_and_created_my_own_wrapper.svg)](https://dev.to/zakharsmirnoff/i-was-tired-of-langchain-and-created-my-own-wrapper-1dfo)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, August 15, 2023 at 12:10:25 AM
+> Last updated: Tuesday, August 15, 2023 at 6:14:28 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,16 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, August 15, 2023 at 12:10:30 AM
+> Last updated: Tuesday, August 15, 2023 at 6:14:34 AM
 
 > Showing 5 of 30 posts.
 
+[![
+Nebra – Type-Safe NoSQL with Node and SQLite
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Nebra_–_Type-Safe_NoSQL_with_Node_and_SQLite_.svg)](
+https://aerotoad.github.io/nebra/
+)
+[![Why you should use StrictExtract and StrictExclude instead of Extract and Exclude in TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Why_you_should_use_StrictExtract_and_StrictExclude_instead_of_Extract_and_Exclude_in_TypeScript.svg)](https://blog.stackademic.com/why-you-should-use-strictextract-and-strictexclude-instead-of-extract-and-exclude-in-typescript-e46b8726a497)
 [![Check if a Date is Valid in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Check_if_a_Date_is_Valid_in_JavaScript.svg)](
 https://masteringjs.io/tutorials/fundamentals/check-if-date-is-valid
 )
@@ -56,8 +62,6 @@ Using localStorage in Modern Applications: A Comprehensive Guide
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Using_localStorage_in_Modern_Applications__A_Comprehensive_Guide_.svg)](
 https://rxdb.info/articles/localstorage.html
 )
-[![GleiphQL : A Rate-Limiting/Monitoring Solution for GraphQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GleiphQL___A_Rate-Limiting_Monitoring_Solution_for_GraphQL.svg)](https://gleiphql.medium.com/gleiphql-a-rate-limiting-monitoring-solution-for-graphql-8f2fefa8d5f7)
-[![GitHub - AblerSong/MVMDemo: h5,iOS,Android, software architecture,MVM](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_AblerSong_MVMDemo__h5_iOS_Android__software_architecture_MVM.svg)](https://github.com/AblerSong/MVMDemo)
 
 
 <!-- post-list:end -->
