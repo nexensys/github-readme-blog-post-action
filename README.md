@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, August 14, 2023 at 12:09:43 PM
+> Last updated: Monday, August 14, 2023 at 6:36:31 PM
 
 > Showing 5 of 12 posts.
 
-[![Protected Routes in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Protected_Routes_in_React.svg)](https://dev.to/sundarbadagala081/protected-routes-in-react-47b1)
-[![Build your own custom AI CLI tools](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Build_your_own_custom_AI_CLI_tools.svg)](https://dev.to/wesen/build-your-own-custom-ai-cli-tools-195)
-[![FLaNK Stack Weekly for 14 Aug 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/FLaNK_Stack_Weekly_for_14_Aug_2023.svg)](https://dev.to/tspannhw/flank-stack-weekly-for-14-aug-2023-boa)
-[![How to pass parameters from child commponent to parent component in React?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_pass_parameters_from_child_commponent_to_parent_component_in_React_.svg)](https://dev.to/saurav181229/how-to-pass-parameters-from-child-commponent-to-parent-component-in-react-9im)
-[![5 Extensões do VSCode para facilitar sua vida](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Extensões_do_VSCode_para_facilitar_sua_vida.svg)](https://dev.to/noriuki/5-extensoes-do-vscode-para-facilitar-sua-vida-3mim)
+[![How to choose a design system](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_choose_a_design_system.svg)](https://dev.to/byewind/how-to-choose-a-design-system-4oad)
+[![If you are begging to be hired, you are probably doing something very wrong](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/If_you_are_begging_to_be_hired__you_are_probably_doing_something_very_wrong.svg)](https://dev.to/sarahokolo/if-you-are-begging-to-be-hired-you-are-probably-doing-something-very-wrong-2cg8)
+[![10 Essential Firebase Tutorials for Beginners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/10_Essential_Firebase_Tutorials_for_Beginners.svg)](https://dev.to/mrcflorian/10-essential-firebase-tutorials-for-beginners-4i39)
+[![Creating a Blob Storage Account in Azure](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Creating_a_Blob_Storage_Account_in_Azure.svg)](https://dev.to/ogah2_il/creating-a-blob-storage-account-in-azure-16kb)
+[![A Better Way To Store Record Status In A Relational Database](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Better_Way_To_Store_Record_Status_In_A_Relational_Database.svg)](https://dev.to/houseman/a-better-way-to-store-record-status-in-a-relational-database-2ik1)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, August 14, 2023 at 12:09:46 PM
+> Last updated: Monday, August 14, 2023 at 6:36:33 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,13 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, August 14, 2023 at 12:09:51 PM
+> Last updated: Monday, August 14, 2023 at 6:36:37 PM
 
 > Showing 5 of 30 posts.
 
+[![Check if a Date is Valid in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Check_if_a_Date_is_Valid_in_JavaScript.svg)](
+https://masteringjs.io/tutorials/fundamentals/check-if-date-is-valid
+)
 [![API with NestJS #120. One-to-one relationships with the Kysely query builder](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__120._One-to-one_relationships_with_the_Kysely_query_builder.svg)](https://wanago.io/2023/08/14/api-nestjs-kysely-one-to-one/)
 [![
 Using localStorage in Modern Applications: A Comprehensive Guide
@@ -55,7 +58,6 @@ https://rxdb.info/articles/localstorage.html
 )
 [![GleiphQL : A Rate-Limiting/Monitoring Solution for GraphQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GleiphQL___A_Rate-Limiting_Monitoring_Solution_for_GraphQL.svg)](https://gleiphql.medium.com/gleiphql-a-rate-limiting-monitoring-solution-for-graphql-8f2fefa8d5f7)
 [![GitHub - AblerSong/MVMDemo: h5,iOS,Android, software architecture,MVM](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_AblerSong_MVMDemo__h5_iOS_Android__software_architecture_MVM.svg)](https://github.com/AblerSong/MVMDemo)
-[![Supercharge Your ChatGPT Conversations with JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Supercharge_Your_ChatGPT_Conversations_with_JavaScript.svg)](https://wonderwhy-er.medium.com/supercharge-your-chatgpt-conversations-with-javascript-e11485115592)
 
 
 <!-- post-list:end -->
