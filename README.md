@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, August 15, 2023 at 6:14:24 AM
+> Last updated: Tuesday, August 15, 2023 at 12:09:32 PM
 
 > Showing 5 of 12 posts.
 
-[![Choosing dev.to: My Perspective on Blogging Platform Preference](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Choosing_dev.to__My_Perspective_on_Blogging_Platform_Preference.svg)](https://dev.to/frolovpetro/choosing-devto-my-perspective-on-blogging-platform-preference-1816)
-[![Introduction To Python Programming - part 4](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_To_Python_Programming_-_part_4.svg)](https://dev.to/akinnimimanuel/introduction-to-python-programming-part-4-1d10)
-[![A guide to Git Aliases](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_guide_to_Git_Aliases.svg)](https://dev.to/techielass/a-guide-to-git-aliases-558n)
-[![Seaborn-High Level Graphical Representation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Seaborn-High_Level_Graphical_Representation.svg)](https://dev.to/muradalhasan/seaborn-high-level-graphical-representation-167d)
-[![I was tired of Langchain and created my own wrapper](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_was_tired_of_Langchain_and_created_my_own_wrapper.svg)](https://dev.to/zakharsmirnoff/i-was-tired-of-langchain-and-created-my-own-wrapper-1dfo)
+[![DAY 73 - 86. Partition List](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/DAY_73_-_86._Partition_List.svg)](https://dev.to/pahujanayan/day-73-86-partition-list-nf5)
+[![I “Promise” that u will understand promises in JS forever 😜](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_“Promise”_that_u_will_understand_promises_in_JS_forever_😜.svg)](https://dev.to/dev_en/i-promise-that-u-will-understand-promises-in-js-forever-1i32)
+[![The Union of GraphQL and Large Language Models](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Union_of_GraphQL_and_Large_Language_Models.svg)](https://dev.to/blazestudios23/the-union-of-graphql-and-large-language-models-23dl)
+[![We moved our Cloud operations to a Kubernetes Operator](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/We_moved_our_Cloud_operations_to_a_Kubernetes_Operator.svg)](https://dev.to/sklarsa/we-moved-our-cloud-operations-to-a-kubernetes-operator-392n)
+[![Why are WebSockets so hard?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_are_WebSockets_so_hard_.svg)](https://dev.to/momentohq/why-are-websockets-so-hard-59i4)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, August 15, 2023 at 6:14:28 AM
+> Last updated: Tuesday, August 15, 2023 at 12:09:36 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, August 15, 2023 at 6:14:34 AM
+> Last updated: Tuesday, August 15, 2023 at 12:09:43 PM
 
 > Showing 5 of 30 posts.
 
