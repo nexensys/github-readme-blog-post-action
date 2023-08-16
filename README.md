@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, August 16, 2023 at 6:14:22 AM
+> Last updated: Wednesday, August 16, 2023 at 12:09:27 PM
 
 > Showing 5 of 12 posts.
 
-[![Demystifying "No 'Access-Control-Allow-Origin' Header" in JavaScript and Postman: A Comprehensive Exploration](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Demystifying__No_'Access-Control-Allow-Origin'_Header__in_JavaScript_and_Postman__A_Comprehensive_Exploration.svg)](https://dev.to/iamcymentho/demystifying-no-access-control-allow-origin-header-in-javascript-and-postman-a-comprehensive-exploration-4na5)
-[![🥇 The Best Serverless Framework in 2023: A Data-Driven Showdown for AWS Projects](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🥇_The_Best_Serverless_Framework_in_2023__A_Data-Driven_Showdown_for_AWS_Projects.svg)](https://dev.to/slsbytheodo/the-best-serverless-framework-in-2023-a-data-driven-showdown-for-aws-projects-1p3h)
-[![Top Api Architectural Styles](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_Api_Architectural_Styles.svg)](https://dev.to/emmanuel_ishola/top-api-architectural-styles-4340)
-[![Impossible⁉️ CSS only syntax highlighting 😱 ...with a single element and GRADIENTS 🤯](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Impossible⁉️_CSS_only_syntax_highlighting_😱_...with_a_single_element_and_GRADIENTS_🤯.svg)](https://dev.to/grahamthedev/impossible-css-only-js-syntax-highlighting-with-a-single-element-and-gradients-243j)
-[![Data Structures and Algorithms: Big O Notation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Data_Structures_and_Algorithms__Big_O_Notation.svg)](https://dev.to/purity_gwaro/data-structures-and-algorithms-big-o-notation-1m3b)
+[![build your own FAAS provider](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/build_your_own_FAAS_provider.svg)](https://dev.to/saphidev/build-your-own-faas-provider-2gca)
+[![The significance of performance testing for retail and e-commerce apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_significance_of_performance_testing_for_retail_and_e-commerce_apps.svg)](https://dev.to/williamamanda23/the-significance-of-performance-testing-for-retail-and-e-commerce-apps-1e89)
+[![Migrate from WordPress to a headless CMS in 3 easy steps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Migrate_from_WordPress_to_a_headless_CMS_in_3_easy_steps.svg)](https://dev.to/tonyspiro/migrate-from-wordpress-to-a-headless-cms-in-3-easy-steps-20fp)
+[![How to create Sitemap.xml for ASP.net Core Razor Pages](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_Sitemap.xml_for_ASP.net_Core_Razor_Pages.svg)](https://dev.to/xakpc/how-to-create-sitemapxml-for-aspnet-core-razor-pages-38fl)
+[!["Pivoting to Tech from Biomedical Science": CodeNewbie Podcast S25E1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_Pivoting_to_Tech_from_Biomedical_Science___CodeNewbie_Podcast_S25E1.svg)](https://dev.to/codenewbieteam/pivoting-to-tech-from-biomedical-science-codenewbie-podcast-s25e1-khn)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, August 16, 2023 at 6:14:27 AM
+> Last updated: Wednesday, August 16, 2023 at 12:09:30 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,16 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, August 16, 2023 at 6:14:33 AM
+> Last updated: Wednesday, August 16, 2023 at 12:09:39 PM
 
 > Showing 5 of 30 posts.
 
+[![
+[Ask EchoJS] How do I handlie CORS Issues in Fetch API?
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_[Ask_EchoJS]_How_do_I_handlie_CORS_Issues_in_Fetch_API__.svg)](
+http://www.echojs.com/news/41943
+)
+[![Building Your Front-End with Intention](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_Your_Front-End_with_Intention.svg)](https://cfe.dev/events/frontend-with-intention/)
 [![
 Nebra – Type-Safe NoSQL with Node and SQLite
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Nebra_–_Type-Safe_NoSQL_with_Node_and_SQLite_.svg)](
@@ -55,12 +61,6 @@ https://aerotoad.github.io/nebra/
 [![Why you should use StrictExtract and StrictExclude instead of Extract and Exclude in TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Why_you_should_use_StrictExtract_and_StrictExclude_instead_of_Extract_and_Exclude_in_TypeScript.svg)](https://blog.stackademic.com/why-you-should-use-strictextract-and-strictexclude-instead-of-extract-and-exclude-in-typescript-e46b8726a497)
 [![Check if a Date is Valid in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Check_if_a_Date_is_Valid_in_JavaScript.svg)](
 https://masteringjs.io/tutorials/fundamentals/check-if-date-is-valid
-)
-[![API with NestJS #120. One-to-one relationships with the Kysely query builder](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__120._One-to-one_relationships_with_the_Kysely_query_builder.svg)](https://wanago.io/2023/08/14/api-nestjs-kysely-one-to-one/)
-[![
-Using localStorage in Modern Applications: A Comprehensive Guide
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Using_localStorage_in_Modern_Applications__A_Comprehensive_Guide_.svg)](
-https://rxdb.info/articles/localstorage.html
 )
 
 
