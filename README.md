@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, August 15, 2023 at 12:09:32 PM
+> Last updated: Tuesday, August 15, 2023 at 6:36:33 PM
 
 > Showing 5 of 12 posts.
 
-[![DAY 73 - 86. Partition List](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/DAY_73_-_86._Partition_List.svg)](https://dev.to/pahujanayan/day-73-86-partition-list-nf5)
-[![I “Promise” that u will understand promises in JS forever 😜](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/I_“Promise”_that_u_will_understand_promises_in_JS_forever_😜.svg)](https://dev.to/dev_en/i-promise-that-u-will-understand-promises-in-js-forever-1i32)
-[![The Union of GraphQL and Large Language Models](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Union_of_GraphQL_and_Large_Language_Models.svg)](https://dev.to/blazestudios23/the-union-of-graphql-and-large-language-models-23dl)
-[![We moved our Cloud operations to a Kubernetes Operator](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/We_moved_our_Cloud_operations_to_a_Kubernetes_Operator.svg)](https://dev.to/sklarsa/we-moved-our-cloud-operations-to-a-kubernetes-operator-392n)
-[![Why are WebSockets so hard?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_are_WebSockets_so_hard_.svg)](https://dev.to/momentohq/why-are-websockets-so-hard-59i4)
+[![Computer Science 4 Newbies - Understanding The Big-O](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Computer_Science_4_Newbies_-_Understanding_The_Big-O.svg)](https://dev.to/yelldutz/computer-science-4-newbies-understanding-the-big-o-4pf1)
+[![Week 04: Unleash the Power of AWS Storage: Dive into Amazon S3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Week_04__Unleash_the_Power_of_AWS_Storage__Dive_into_Amazon_S3.svg)](https://dev.to/arbythecoder/week-04-unleash-the-power-of-aws-storage-dive-into-amazon-s3-27lk)
+[![A Step-by-Step Guide to Building a Simple Next.js 13 Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Step-by-Step_Guide_to_Building_a_Simple_Next.js_13_Blog.svg)](https://dev.to/digitalpollution/a-step-by-step-guide-to-building-a-simple-nextjs-13-blog-2cc8)
+[![Como conquistei a certificação AWS Cloud Practitioner](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Como_conquistei_a_certificação_AWS_Cloud_Practitioner.svg)](https://dev.to/laryssa/como-conquistei-a-certificacao-aws-cloud-practitioner-38g2)
+[![React Custom Hook: useEffectOnce](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Custom_Hook__useEffectOnce.svg)](https://dev.to/sergeyleschev/react-custom-hook-useeffectonce-24j4)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, August 15, 2023 at 12:09:36 PM
+> Last updated: Tuesday, August 15, 2023 at 6:36:37 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, August 15, 2023 at 12:09:43 PM
+> Last updated: Tuesday, August 15, 2023 at 6:36:57 PM
 
 > Showing 5 of 30 posts.
 
