@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, August 16, 2023 at 12:10:31 AM
+> Last updated: Wednesday, August 16, 2023 at 6:14:22 AM
 
 > Showing 5 of 12 posts.
 
-[![Basic SQL Select + From Statements with Examples.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Basic_SQL_Select_+_From_Statements_with_Examples..svg)](https://dev.to/rashtech/basic-sql-select-from-statements-with-examples-32hn)
-[![Transactions And Transaction Propagation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Transactions_And_Transaction_Propagation.svg)](https://dev.to/sohailshah/transactions-and-transaction-propagation-2noh)
-[![LAMP & Wordpress Installation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/LAMP___Wordpress_Installation.svg)](https://dev.to/technonotes/lamp-wordpress-installation-1acf)
-[![CSS Widget](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CSS_Widget.svg)](https://dev.to/freedashboards/css-widget-55l7)
-[![Advanced HTML5 Tags](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Advanced_HTML5_Tags.svg)](https://dev.to/syedmuhammadaliraza/advanced-html5-tags-5dec)
+[![Demystifying "No 'Access-Control-Allow-Origin' Header" in JavaScript and Postman: A Comprehensive Exploration](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Demystifying__No_'Access-Control-Allow-Origin'_Header__in_JavaScript_and_Postman__A_Comprehensive_Exploration.svg)](https://dev.to/iamcymentho/demystifying-no-access-control-allow-origin-header-in-javascript-and-postman-a-comprehensive-exploration-4na5)
+[![🥇 The Best Serverless Framework in 2023: A Data-Driven Showdown for AWS Projects](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🥇_The_Best_Serverless_Framework_in_2023__A_Data-Driven_Showdown_for_AWS_Projects.svg)](https://dev.to/slsbytheodo/the-best-serverless-framework-in-2023-a-data-driven-showdown-for-aws-projects-1p3h)
+[![Top Api Architectural Styles](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_Api_Architectural_Styles.svg)](https://dev.to/emmanuel_ishola/top-api-architectural-styles-4340)
+[![Impossible⁉️ CSS only syntax highlighting 😱 ...with a single element and GRADIENTS 🤯](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Impossible⁉️_CSS_only_syntax_highlighting_😱_...with_a_single_element_and_GRADIENTS_🤯.svg)](https://dev.to/grahamthedev/impossible-css-only-js-syntax-highlighting-with-a-single-element-and-gradients-243j)
+[![Data Structures and Algorithms: Big O Notation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Data_Structures_and_Algorithms__Big_O_Notation.svg)](https://dev.to/purity_gwaro/data-structures-and-algorithms-big-o-notation-1m3b)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, August 16, 2023 at 12:10:35 AM
+> Last updated: Wednesday, August 16, 2023 at 6:14:27 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, August 16, 2023 at 12:10:43 AM
+> Last updated: Wednesday, August 16, 2023 at 6:14:33 AM
 
 > Showing 5 of 30 posts.
 
