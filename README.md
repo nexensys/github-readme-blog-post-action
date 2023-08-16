@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, August 15, 2023 at 6:36:33 PM
+> Last updated: Wednesday, August 16, 2023 at 12:10:31 AM
 
 > Showing 5 of 12 posts.
 
-[![Computer Science 4 Newbies - Understanding The Big-O](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Computer_Science_4_Newbies_-_Understanding_The_Big-O.svg)](https://dev.to/yelldutz/computer-science-4-newbies-understanding-the-big-o-4pf1)
-[![Week 04: Unleash the Power of AWS Storage: Dive into Amazon S3](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Week_04__Unleash_the_Power_of_AWS_Storage__Dive_into_Amazon_S3.svg)](https://dev.to/arbythecoder/week-04-unleash-the-power-of-aws-storage-dive-into-amazon-s3-27lk)
-[![A Step-by-Step Guide to Building a Simple Next.js 13 Blog](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Step-by-Step_Guide_to_Building_a_Simple_Next.js_13_Blog.svg)](https://dev.to/digitalpollution/a-step-by-step-guide-to-building-a-simple-nextjs-13-blog-2cc8)
-[![Como conquistei a certificação AWS Cloud Practitioner](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Como_conquistei_a_certificação_AWS_Cloud_Practitioner.svg)](https://dev.to/laryssa/como-conquistei-a-certificacao-aws-cloud-practitioner-38g2)
-[![React Custom Hook: useEffectOnce](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Custom_Hook__useEffectOnce.svg)](https://dev.to/sergeyleschev/react-custom-hook-useeffectonce-24j4)
+[![Basic SQL Select + From Statements with Examples.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Basic_SQL_Select_+_From_Statements_with_Examples..svg)](https://dev.to/rashtech/basic-sql-select-from-statements-with-examples-32hn)
+[![Transactions And Transaction Propagation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Transactions_And_Transaction_Propagation.svg)](https://dev.to/sohailshah/transactions-and-transaction-propagation-2noh)
+[![LAMP & Wordpress Installation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/LAMP___Wordpress_Installation.svg)](https://dev.to/technonotes/lamp-wordpress-installation-1acf)
+[![CSS Widget](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/CSS_Widget.svg)](https://dev.to/freedashboards/css-widget-55l7)
+[![Advanced HTML5 Tags](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Advanced_HTML5_Tags.svg)](https://dev.to/syedmuhammadaliraza/advanced-html5-tags-5dec)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, August 15, 2023 at 6:36:37 PM
+> Last updated: Wednesday, August 16, 2023 at 12:10:35 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, August 15, 2023 at 6:36:57 PM
+> Last updated: Wednesday, August 16, 2023 at 12:10:43 AM
 
 > Showing 5 of 30 posts.
 
