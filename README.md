@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, August 17, 2023 at 6:14:10 AM
+> Last updated: Thursday, August 17, 2023 at 12:09:48 PM
 
 > Showing 5 of 12 posts.
 
-[![Top 5 Project Management Tools Platforms Solutions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_5_Project_Management_Tools_Platforms_Solutions.svg)](https://dev.to/vs7330242/top-5-project-management-tools-platforms-solutions-1ekd)
-[![Building Machine Learning Models with PySpark's pyspark.ml Library: A Comprehensive Guide.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_Machine_Learning_Models_with_PySpark's_pyspark.ml_Library__A_Comprehensive_Guide..svg)](https://dev.to/grayhat/building-machine-learning-models-with-pysparks-pysparkml-library-a-comprehensive-guide-4g5h)
-[![Efficient Deep Cloning of Objects in JavaScript: A Comprehensive Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Efficient_Deep_Cloning_of_Objects_in_JavaScript__A_Comprehensive_Guide.svg)](https://dev.to/iamcymentho/efficient-deep-cloning-of-objects-in-javascript-a-comprehensive-guide-2dei)
-[![Optimize Dockerfile By `Yarn Prune`](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Optimize_Dockerfile_By_`Yarn_Prune`.svg)](https://dev.to/berk/optimize-dockerfile-for-yarn-based-nodejs-web-apps-3al7)
-[![Open Source ABCs: Hacking](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Open_Source_ABCs__Hacking.svg)](https://dev.to/opensauced/open-source-abcs-hacking-74g)
+[![🚀 List Of 10 Flutter Libraries and Frameworks to Speed Up Your Development:](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🚀_List_Of_10_Flutter_Libraries_and_Frameworks_to_Speed_Up_Your_Development_.svg)](https://dev.to/yatendra2001/list-of-10-flutter-libraries-and-frameworks-to-speed-up-your-development-5fe6)
+[![Custom Middleware for FastAPI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Custom_Middleware_for_FastAPI.svg)](https://dev.to/sbalasa/custom-middleware-for-fastapi-4ifg)
+[![How should I start?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_should_I_start_.svg)](https://dev.to/alanmbarr/how-should-i-start-4ccj)
+[![System Design Introduction](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/System_Design_Introduction.svg)](https://dev.to/rajrathod/system-design-introduction-9o8)
+[![React useInView Hook - How to create useInView Hook in ReactJs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_useInView_Hook_-_How_to_create_useInView_Hook_in_ReactJs.svg)](https://dev.to/gihanrangana/react-useinview-hook-how-to-create-useinview-hook-in-reactjs-1hp9)
 
 
 ## JavaScript Weekly
@@ -26,14 +26,14 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, August 17, 2023 at 6:14:13 AM
+> Last updated: Thursday, August 17, 2023 at 12:09:54 PM
 
 > Showing 4 of 4 posts.
 
+[![We're taking a few weeks off, but..](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/We're_taking_a_few_weeks_off__but...svg)](https://javascriptweekly.com/issues/652)
 [![Svelte 5 is going to be radical](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Svelte_5_is_going_to_be_radical.svg)](https://javascriptweekly.com/issues/651)
 [![Taking JavaScript into Python](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Taking_JavaScript_into_Python.svg)](https://javascriptweekly.com/issues/650)
 [![Name mangling](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/Name_mangling.svg)](https://javascriptweekly.com/issues/649)
-[![The tale of how static typing came to JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/JavaScript_Weekly/The_tale_of_how_static_typing_came_to_JavaScript.svg)](https://javascriptweekly.com/issues/648)
 
 
 ## Echo JS
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, August 17, 2023 at 6:14:17 AM
+> Last updated: Thursday, August 17, 2023 at 12:09:57 PM
 
 > Showing 5 of 30 posts.
 
