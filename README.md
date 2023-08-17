@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, August 17, 2023 at 12:10:25 AM
+> Last updated: Thursday, August 17, 2023 at 6:14:10 AM
 
 > Showing 5 of 12 posts.
 
-[![8 Completely FREE Big Data Resources](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/8_Completely_FREE_Big_Data_Resources.svg)](https://dev.to/aqsa81/8-completely-free-big-data-resources-2chh)
-[![Top 5 Best News APIs for developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_5_Best_News_APIs_for_developers.svg)](https://dev.to/newsdataio/top-5-best-news-apis-for-developers-4e5a)
-[![30 Days of Solidity. Day 3. Getter. Setter. Uint. Int.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/30_Days_of_Solidity._Day_3._Getter._Setter._Uint._Int..svg)](https://dev.to/jsqueen/30-days-of-solidity-day-3-getter-setter-uint-int-516k)
-[![Establishing PostgreSQL Connection with Prisma in NestJS: A Comprehensive Guide with Bookmark API Example](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Establishing_PostgreSQL_Connection_with_Prisma_in_NestJS__A_Comprehensive_Guide_with_Bookmark_API_Example.svg)](https://dev.to/vishnucprasad/establishing-postgresql-connection-with-prisma-in-nestjs-a-comprehensive-guide-with-bookmark-api-example-2960)
-[![Generating Optimized Image Formats with Node.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Generating_Optimized_Image_Formats_with_Node.js.svg)](https://dev.to/brainiacneit/generating-optimized-image-formats-with-nodejs-hj3)
+[![Top 5 Project Management Tools Platforms Solutions](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_5_Project_Management_Tools_Platforms_Solutions.svg)](https://dev.to/vs7330242/top-5-project-management-tools-platforms-solutions-1ekd)
+[![Building Machine Learning Models with PySpark's pyspark.ml Library: A Comprehensive Guide.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_Machine_Learning_Models_with_PySpark's_pyspark.ml_Library__A_Comprehensive_Guide..svg)](https://dev.to/grayhat/building-machine-learning-models-with-pysparks-pysparkml-library-a-comprehensive-guide-4g5h)
+[![Efficient Deep Cloning of Objects in JavaScript: A Comprehensive Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Efficient_Deep_Cloning_of_Objects_in_JavaScript__A_Comprehensive_Guide.svg)](https://dev.to/iamcymentho/efficient-deep-cloning-of-objects-in-javascript-a-comprehensive-guide-2dei)
+[![Optimize Dockerfile By `Yarn Prune`](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Optimize_Dockerfile_By_`Yarn_Prune`.svg)](https://dev.to/berk/optimize-dockerfile-for-yarn-based-nodejs-web-apps-3al7)
+[![Open Source ABCs: Hacking](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Open_Source_ABCs__Hacking.svg)](https://dev.to/opensauced/open-source-abcs-hacking-74g)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, August 17, 2023 at 12:10:28 AM
+> Last updated: Thursday, August 17, 2023 at 6:14:13 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, August 17, 2023 at 12:10:29 AM
+> Last updated: Thursday, August 17, 2023 at 6:14:17 AM
 
 > Showing 5 of 30 posts.
 
