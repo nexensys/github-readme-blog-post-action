@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, August 16, 2023 at 6:35:55 PM
+> Last updated: Thursday, August 17, 2023 at 12:10:25 AM
 
 > Showing 5 of 12 posts.
 
-[![useCallback: Guide, use-cases, examples](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/useCallback__Guide__use-cases__examples.svg)](https://dev.to/alakkadshaw/usecallback-guide-use-cases-examples-40fg)
-[![Unveiling the JavaScript Magic: Event Loop, Single Thread, and Beyond](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unveiling_the_JavaScript_Magic__Event_Loop__Single_Thread__and_Beyond.svg)](https://dev.to/ibrahzizo360/unveiling-the-javascript-magic-event-loop-single-thread-and-beyond-10pi)
-[![Building inclusive UI for Neurodivergent Users](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_inclusive_UI_for_Neurodivergent_Users.svg)](https://dev.to/amera/building-inclusive-ui-for-neurodivergent-users-1kda)
-[![How do millions of people book meetings with God?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_do_millions_of_people_book_meetings_with_God_.svg)](https://dev.to/svemaraju/how-do-millions-of-people-book-meetings-with-god-4ccb)
-[![5 Best Real Estate Technology Trends to Look for in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Best_Real_Estate_Technology_Trends_to_Look_for_in_2023.svg)](https://dev.to/charli_martell/5-best-real-estate-technology-trends-to-look-for-in-2023-ea7)
+[![8 Completely FREE Big Data Resources](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/8_Completely_FREE_Big_Data_Resources.svg)](https://dev.to/aqsa81/8-completely-free-big-data-resources-2chh)
+[![Top 5 Best News APIs for developers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_5_Best_News_APIs_for_developers.svg)](https://dev.to/newsdataio/top-5-best-news-apis-for-developers-4e5a)
+[![30 Days of Solidity. Day 3. Getter. Setter. Uint. Int.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/30_Days_of_Solidity._Day_3._Getter._Setter._Uint._Int..svg)](https://dev.to/jsqueen/30-days-of-solidity-day-3-getter-setter-uint-int-516k)
+[![Establishing PostgreSQL Connection with Prisma in NestJS: A Comprehensive Guide with Bookmark API Example](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Establishing_PostgreSQL_Connection_with_Prisma_in_NestJS__A_Comprehensive_Guide_with_Bookmark_API_Example.svg)](https://dev.to/vishnucprasad/establishing-postgresql-connection-with-prisma-in-nestjs-a-comprehensive-guide-with-bookmark-api-example-2960)
+[![Generating Optimized Image Formats with Node.js](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Generating_Optimized_Image_Formats_with_Node.js.svg)](https://dev.to/brainiacneit/generating-optimized-image-formats-with-nodejs-hj3)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, August 16, 2023 at 6:35:58 PM
+> Last updated: Thursday, August 17, 2023 at 12:10:28 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, August 16, 2023 at 6:36:15 PM
+> Last updated: Thursday, August 17, 2023 at 12:10:29 AM
 
 > Showing 5 of 30 posts.
 
