@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, August 16, 2023 at 12:09:27 PM
+> Last updated: Wednesday, August 16, 2023 at 6:35:55 PM
 
 > Showing 5 of 12 posts.
 
-[![build your own FAAS provider](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/build_your_own_FAAS_provider.svg)](https://dev.to/saphidev/build-your-own-faas-provider-2gca)
-[![The significance of performance testing for retail and e-commerce apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_significance_of_performance_testing_for_retail_and_e-commerce_apps.svg)](https://dev.to/williamamanda23/the-significance-of-performance-testing-for-retail-and-e-commerce-apps-1e89)
-[![Migrate from WordPress to a headless CMS in 3 easy steps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Migrate_from_WordPress_to_a_headless_CMS_in_3_easy_steps.svg)](https://dev.to/tonyspiro/migrate-from-wordpress-to-a-headless-cms-in-3-easy-steps-20fp)
-[![How to create Sitemap.xml for ASP.net Core Razor Pages](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_Sitemap.xml_for_ASP.net_Core_Razor_Pages.svg)](https://dev.to/xakpc/how-to-create-sitemapxml-for-aspnet-core-razor-pages-38fl)
-[!["Pivoting to Tech from Biomedical Science": CodeNewbie Podcast S25E1](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_Pivoting_to_Tech_from_Biomedical_Science___CodeNewbie_Podcast_S25E1.svg)](https://dev.to/codenewbieteam/pivoting-to-tech-from-biomedical-science-codenewbie-podcast-s25e1-khn)
+[![useCallback: Guide, use-cases, examples](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/useCallback__Guide__use-cases__examples.svg)](https://dev.to/alakkadshaw/usecallback-guide-use-cases-examples-40fg)
+[![Unveiling the JavaScript Magic: Event Loop, Single Thread, and Beyond](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unveiling_the_JavaScript_Magic__Event_Loop__Single_Thread__and_Beyond.svg)](https://dev.to/ibrahzizo360/unveiling-the-javascript-magic-event-loop-single-thread-and-beyond-10pi)
+[![Building inclusive UI for Neurodivergent Users](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_inclusive_UI_for_Neurodivergent_Users.svg)](https://dev.to/amera/building-inclusive-ui-for-neurodivergent-users-1kda)
+[![How do millions of people book meetings with God?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_do_millions_of_people_book_meetings_with_God_.svg)](https://dev.to/svemaraju/how-do-millions-of-people-book-meetings-with-god-4ccb)
+[![5 Best Real Estate Technology Trends to Look for in 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/5_Best_Real_Estate_Technology_Trends_to_Look_for_in_2023.svg)](https://dev.to/charli_martell/5-best-real-estate-technology-trends-to-look-for-in-2023-ea7)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, August 16, 2023 at 12:09:30 PM
+> Last updated: Wednesday, August 16, 2023 at 6:35:58 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,12 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, August 16, 2023 at 12:09:39 PM
+> Last updated: Wednesday, August 16, 2023 at 6:36:15 PM
 
 > Showing 5 of 30 posts.
 
+[![Cleaning up import paths in JS/TS packages - Socket](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Cleaning_up_import_paths_in_JS_TS_packages_-_Socket.svg)](https://socket.dev/blog/we-don-t-need-more-path-aliases)
+[![GitHub - pakastin/flanets: Flanets 2D space flight simulator](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_pakastin_flanets__Flanets_2D_space_flight_simulator.svg)](https://github.com/pakastin/flanets)
 [![
 [Ask EchoJS] How do I handlie CORS Issues in Fetch API?
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_[Ask_EchoJS]_How_do_I_handlie_CORS_Issues_in_Fetch_API__.svg)](
@@ -57,10 +59,6 @@ http://www.echojs.com/news/41943
 Nebra – Type-Safe NoSQL with Node and SQLite
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Nebra_–_Type-Safe_NoSQL_with_Node_and_SQLite_.svg)](
 https://aerotoad.github.io/nebra/
-)
-[![Why you should use StrictExtract and StrictExclude instead of Extract and Exclude in TypeScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Why_you_should_use_StrictExtract_and_StrictExclude_instead_of_Extract_and_Exclude_in_TypeScript.svg)](https://blog.stackademic.com/why-you-should-use-strictextract-and-strictexclude-instead-of-extract-and-exclude-in-typescript-e46b8726a497)
-[![Check if a Date is Valid in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Check_if_a_Date_is_Valid_in_JavaScript.svg)](
-https://masteringjs.io/tutorials/fundamentals/check-if-date-is-valid
 )
 
 
