@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, August 17, 2023 at 12:09:48 PM
+> Last updated: Thursday, August 17, 2023 at 6:36:10 PM
 
 > Showing 5 of 12 posts.
 
-[![🚀 List Of 10 Flutter Libraries and Frameworks to Speed Up Your Development:](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🚀_List_Of_10_Flutter_Libraries_and_Frameworks_to_Speed_Up_Your_Development_.svg)](https://dev.to/yatendra2001/list-of-10-flutter-libraries-and-frameworks-to-speed-up-your-development-5fe6)
-[![Custom Middleware for FastAPI](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Custom_Middleware_for_FastAPI.svg)](https://dev.to/sbalasa/custom-middleware-for-fastapi-4ifg)
-[![How should I start?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_should_I_start_.svg)](https://dev.to/alanmbarr/how-should-i-start-4ccj)
-[![System Design Introduction](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/System_Design_Introduction.svg)](https://dev.to/rajrathod/system-design-introduction-9o8)
-[![React useInView Hook - How to create useInView Hook in ReactJs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_useInView_Hook_-_How_to_create_useInView_Hook_in_ReactJs.svg)](https://dev.to/gihanrangana/react-useinview-hook-how-to-create-useinview-hook-in-reactjs-1hp9)
+[![How to Customize or Make your own VSCode Color Theme](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Customize_or_Make_your_own_VSCode_Color_Theme.svg)](https://dev.to/psudo-dev/how-to-customize-or-make-your-own-vscode-color-theme-49j1)
+[![3 Cool Developer Console Tricks you must know! (with code)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/3_Cool_Developer_Console_Tricks_you_must_know!_(with_code).svg)](https://dev.to/jeetvora331/3-cool-developer-console-tricks-you-must-know-1ncc)
+[![Never write tests or docs again! - Amalgam could change everything.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Never_write_tests_or_docs_again!_-_Amalgam_could_change_everything..svg)](https://dev.to/adam_cyclones/never-write-a-tests-or-docs-again-amalgam-could-change-everything-1m99)
+[![Adding a "share to mastodon" link to any web site](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Adding_a__share_to_mastodon__link_to_any_web_site.svg)](https://dev.to/codepo8/adding-a-share-to-mastodon-link-to-any-web-site-485m)
+[![Next.Js 13 Parallel Routes: A Comprehensive Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Next.Js_13_Parallel_Routes__A_Comprehensive_Guide.svg)](https://dev.to/digitalpollution/nextjs-13-parallel-routes-a-comprehensive-guide-5fgi)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, August 17, 2023 at 12:09:54 PM
+> Last updated: Thursday, August 17, 2023 at 6:36:13 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, August 17, 2023 at 12:09:57 PM
+> Last updated: Thursday, August 17, 2023 at 6:36:15 PM
 
 > Showing 5 of 30 posts.
 
