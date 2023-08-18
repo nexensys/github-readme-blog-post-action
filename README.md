@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Thursday, August 17, 2023 at 6:36:10 PM
+> Last updated: Friday, August 18, 2023 at 12:10:18 AM
 
 > Showing 5 of 12 posts.
 
-[![How to Customize or Make your own VSCode Color Theme](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Customize_or_Make_your_own_VSCode_Color_Theme.svg)](https://dev.to/psudo-dev/how-to-customize-or-make-your-own-vscode-color-theme-49j1)
-[![3 Cool Developer Console Tricks you must know! (with code)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/3_Cool_Developer_Console_Tricks_you_must_know!_(with_code).svg)](https://dev.to/jeetvora331/3-cool-developer-console-tricks-you-must-know-1ncc)
-[![Never write tests or docs again! - Amalgam could change everything.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Never_write_tests_or_docs_again!_-_Amalgam_could_change_everything..svg)](https://dev.to/adam_cyclones/never-write-a-tests-or-docs-again-amalgam-could-change-everything-1m99)
-[![Adding a "share to mastodon" link to any web site](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Adding_a__share_to_mastodon__link_to_any_web_site.svg)](https://dev.to/codepo8/adding-a-share-to-mastodon-link-to-any-web-site-485m)
-[![Next.Js 13 Parallel Routes: A Comprehensive Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Next.Js_13_Parallel_Routes__A_Comprehensive_Guide.svg)](https://dev.to/digitalpollution/nextjs-13-parallel-routes-a-comprehensive-guide-5fgi)
+[![Skytrust](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Skytrust.svg)](https://dev.to/skyturst/skytrust-23l2)
+[![Unlocking Success: The Top 5 Benefits of Engaging a Dedicated Development Team for Your Upcoming Project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unlocking_Success__The_Top_5_Benefits_of_Engaging_a_Dedicated_Development_Team_for_Your_Upcoming_Project.svg)](https://dev.to/techwabmaster/unlocking-success-the-top-5-benefits-of-engaging-a-dedicated-development-team-for-your-upcoming-project-5404)
+[![🚀 'GET' API in API Maker](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🚀_'GET'_API_in_API_Maker.svg)](https://dev.to/apimaker/get-api-in-api-maker-5c45)
+[![Javascript Array methods : slice ,splice , concat , push ,pop ,shift ,unshift](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Javascript_Array_methods___slice__splice___concat___push__pop__shift__unshift.svg)](https://dev.to/syedmuhammadaliraza/javascript-array-methods-slice-splice-concat-push-pop-shift-unshift-13jj)
+[![Complex DataTypes in JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Complex_DataTypes_in_JS.svg)](https://dev.to/gfish94/complex-datatypes-in-js-1cem)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Thursday, August 17, 2023 at 6:36:13 PM
+> Last updated: Friday, August 18, 2023 at 12:10:22 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Thursday, August 17, 2023 at 6:36:15 PM
+> Last updated: Friday, August 18, 2023 at 12:10:24 AM
 
 > Showing 5 of 30 posts.
 
