@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, August 18, 2023 at 12:10:18 AM
+> Last updated: Friday, August 18, 2023 at 6:14:17 AM
 
 > Showing 5 of 12 posts.
 
-[![Skytrust](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Skytrust.svg)](https://dev.to/skyturst/skytrust-23l2)
-[![Unlocking Success: The Top 5 Benefits of Engaging a Dedicated Development Team for Your Upcoming Project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unlocking_Success__The_Top_5_Benefits_of_Engaging_a_Dedicated_Development_Team_for_Your_Upcoming_Project.svg)](https://dev.to/techwabmaster/unlocking-success-the-top-5-benefits-of-engaging-a-dedicated-development-team-for-your-upcoming-project-5404)
-[![🚀 'GET' API in API Maker](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🚀_'GET'_API_in_API_Maker.svg)](https://dev.to/apimaker/get-api-in-api-maker-5c45)
-[![Javascript Array methods : slice ,splice , concat , push ,pop ,shift ,unshift](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Javascript_Array_methods___slice__splice___concat___push__pop__shift__unshift.svg)](https://dev.to/syedmuhammadaliraza/javascript-array-methods-slice-splice-concat-push-pop-shift-unshift-13jj)
-[![Complex DataTypes in JS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Complex_DataTypes_in_JS.svg)](https://dev.to/gfish94/complex-datatypes-in-js-1cem)
+[![Mastering Background Processing in Android with WorkManager: A Guide to Efficient Background Processing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_Background_Processing_in_Android_with_WorkManager__A_Guide_to_Efficient_Background_Processing.svg)](https://dev.to/manoj_pedvi/mastering-background-processing-in-android-with-workmanager-a-guide-to-efficient-background-processing-1h7h)
+[![Mastering Email Address Validation in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_Email_Address_Validation_in_JavaScript.svg)](https://dev.to/iamcymentho/mastering-email-address-validation-in-javascript-4f0j)
+[![How to Process Scheduled Queue Jobs in Node.js with BullMQ and Redis on Heroku](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Process_Scheduled_Queue_Jobs_in_Node.js_with_BullMQ_and_Redis_on_Heroku.svg)](https://dev.to/lirantal/how-to-process-scheduled-queue-jobs-in-nodejs-with-bullmq-and-redis-on-heroku-3dl7)
+[![Database Transactions in Laravel](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Database_Transactions_in_Laravel.svg)](https://dev.to/jonhyknid/database-transactions-in-laravel-39b1)
+[![Why Consistency Matters the Most in Programming](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Why_Consistency_Matters_the_Most_in_Programming.svg)](https://dev.to/akashpattnaik/why-consistency-matters-the-most-in-programming-43ie)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, August 18, 2023 at 12:10:22 AM
+> Last updated: Friday, August 18, 2023 at 6:14:20 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, August 18, 2023 at 12:10:24 AM
+> Last updated: Friday, August 18, 2023 at 6:14:26 AM
 
 > Showing 5 of 30 posts.
 
+[![
+Why is the following CSS code not centering my button horizontally within a div element?
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Why_is_the_following_CSS_code_not_centering_my_button_horizontally_within_a_div_element__.svg)](
+http://www.echojs.com/news/41946
+)
 [![Cleaning up import paths in JS/TS packages - Socket](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Cleaning_up_import_paths_in_JS_TS_packages_-_Socket.svg)](https://socket.dev/blog/we-don-t-need-more-path-aliases)
 [![GitHub - pakastin/flanets: Flanets 2D space flight simulator](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_pakastin_flanets__Flanets_2D_space_flight_simulator.svg)](https://github.com/pakastin/flanets)
 [![
@@ -55,11 +60,6 @@ http://www.echojs.com
 http://www.echojs.com/news/41943
 )
 [![Building Your Front-End with Intention](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_Your_Front-End_with_Intention.svg)](https://cfe.dev/events/frontend-with-intention/)
-[![
-Nebra – Type-Safe NoSQL with Node and SQLite
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Nebra_–_Type-Safe_NoSQL_with_Node_and_SQLite_.svg)](
-https://aerotoad.github.io/nebra/
-)
 
 
 <!-- post-list:end -->
