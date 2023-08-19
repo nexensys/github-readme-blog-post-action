@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, August 18, 2023 at 6:34:55 PM
+> Last updated: Saturday, August 19, 2023 at 12:09:07 AM
 
 > Showing 5 of 12 posts.
 
-[![#100DaysOfOSS Recap: Day 15-27](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_100DaysOfOSS_Recap__Day_15-27.svg)](https://dev.to/adiatiayu/100daysofoss-recap-day-15-27-360h)
-[![Online Security - A Simple Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Online_Security_-_A_Simple_Guide.svg)](https://dev.to/mohabgabber/online-security-a-simple-guide-d7g)
-[![React Custom Hook: useGeolocation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Custom_Hook__useGeolocation.svg)](https://dev.to/sergeyleschev/react-custom-hook-usegeolocation-1oh)
-[![A Step-by-Step Guide to Building and Publishing a React Package](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Step-by-Step_Guide_to_Building_and_Publishing_a_React_Package.svg)](https://dev.to/iamkelv/a-step-by-step-guide-to-building-and-publishing-a-react-package-3o8m)
-[![Proving natural numbers are infinity in Coq 🧙🏼](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Proving_natural_numbers_are_infinity_in_Coq_🧙🏼.svg)](https://dev.to/vit0rr/proving-natural-numbers-are-infinity-in-coq-2356)
+[![Unpacking The OSI Model](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unpacking_The_OSI_Model.svg)](https://dev.to/stungnet/unpacking-the-osi-model-3fha)
+[![6 Tips for Effective React Pagination: Building a User-Friendly Navigation Component](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/6_Tips_for_Effective_React_Pagination__Building_a_User-Friendly_Navigation_Component.svg)](https://dev.to/bilal1718/6-tips-for-effective-react-pagination-building-a-user-friendly-navigation-component-4i5h)
+[![JavaScript in Detail](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_in_Detail.svg)](https://dev.to/scorcism/javascript-in-detail-51a4)
+[![Optional Semicolons in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Optional_Semicolons_in_JavaScript.svg)](https://dev.to/better678/optional-semicolons-in-javascript-4bp6)
+[![What is Machine Learning?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_Machine_Learning_.svg)](https://dev.to/codeperfectplus/what-is-machine-learning-4kc8)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, August 18, 2023 at 6:34:58 PM
+> Last updated: Saturday, August 19, 2023 at 12:09:11 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, August 18, 2023 at 6:35:09 PM
+> Last updated: Saturday, August 19, 2023 at 12:09:14 AM
 
 > Showing 5 of 30 posts.
 
