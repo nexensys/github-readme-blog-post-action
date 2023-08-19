@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Friday, August 18, 2023 at 12:09:26 PM
+> Last updated: Friday, August 18, 2023 at 6:34:55 PM
 
 > Showing 5 of 12 posts.
 
-[![Moonly weekly progress update #61 - Automatio FAQ/2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Moonly_weekly_progress_update__61_-_Automatio_FAQ_2.svg)](https://dev.to/moonly/moonly-weekly-progress-update-61-automatio-faq2-ibl)
-[![Exploring Component Lifecycle Methods in React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exploring_Component_Lifecycle_Methods_in_React.svg)](https://dev.to/the2minengineer/exploring-component-lifecycle-methods-in-react-13p9)
-[![Benefits of hybrid search](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Benefits_of_hybrid_search.svg)](https://dev.to/neuml/benefits-of-hybrid-search-4fma)
-[![Top 7 Libraries for Blazingly Fast ReactJS Applications](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Top_7_Libraries_for_Blazingly_Fast_ReactJS_Applications.svg)](https://dev.to/mohammadfaisal/top-7-libraries-for-blazingly-fast-reactjs-applications-38dj)
-[![Simple AWS: Lambda in a VPC](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Simple_AWS__Lambda_in_a_VPC.svg)](https://dev.to/aws-builders/simple-aws-lambda-in-a-vpc-2eg7)
+[![#100DaysOfOSS Recap: Day 15-27](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_100DaysOfOSS_Recap__Day_15-27.svg)](https://dev.to/adiatiayu/100daysofoss-recap-day-15-27-360h)
+[![Online Security - A Simple Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Online_Security_-_A_Simple_Guide.svg)](https://dev.to/mohabgabber/online-security-a-simple-guide-d7g)
+[![React Custom Hook: useGeolocation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Custom_Hook__useGeolocation.svg)](https://dev.to/sergeyleschev/react-custom-hook-usegeolocation-1oh)
+[![A Step-by-Step Guide to Building and Publishing a React Package](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Step-by-Step_Guide_to_Building_and_Publishing_a_React_Package.svg)](https://dev.to/iamkelv/a-step-by-step-guide-to-building-and-publishing-a-react-package-3o8m)
+[![Proving natural numbers are infinity in Coq 🧙🏼](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Proving_natural_numbers_are_infinity_in_Coq_🧙🏼.svg)](https://dev.to/vit0rr/proving-natural-numbers-are-infinity-in-coq-2356)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Friday, August 18, 2023 at 12:09:29 PM
+> Last updated: Friday, August 18, 2023 at 6:34:58 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Friday, August 18, 2023 at 12:09:44 PM
+> Last updated: Friday, August 18, 2023 at 6:35:09 PM
 
 > Showing 5 of 30 posts.
 
