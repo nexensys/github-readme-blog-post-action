@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, August 19, 2023 at 6:13:06 AM
+> Last updated: Saturday, August 19, 2023 at 12:08:43 PM
 
 > Showing 5 of 12 posts.
 
-[![How to increase your product page conversion rate [20+ examples]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_increase_your_product_page_conversion_rate_[20+_examples].svg)](https://dev.to/belhassen07/how-to-increase-your-product-page-conversion-rate-20-examples-24da)
-[![Harnessing GitHub Actions for Seamless Workflow Automation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Harnessing_GitHub_Actions_for_Seamless_Workflow_Automation.svg)](https://dev.to/nitinkumar30/harnessing-github-actions-for-seamless-workflow-automation-40kp)
-[![Ways To Keep Up Motivation In Your Career](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ways_To_Keep_Up_Motivation_In_Your_Career.svg)](https://dev.to/eleftheriabatsou/ways-to-keep-up-motivation-in-your-career-3jll)
-[![Implementing Enums in Golang](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Implementing_Enums_in_Golang.svg)](https://dev.to/ankitmalikg/implementing-enums-in-golang-40ie)
-[![Smoke Animation(color with background music)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Smoke_Animation(color_with_background_music).svg)](https://dev.to/dimple031/smoke-animationcolor-with-background-music-37cn)
+[![Getting Started with Go: A Quick Guide.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_Started_with_Go__A_Quick_Guide..svg)](https://dev.to/hazarnenni/getting-started-with-go-a-quick-guide-1m95)
+[![How do I switch from 1 database to 1 database per subdomain rails in saas app](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_do_I_switch_from_1_database_to_1_database_per_subdomain_rails_in_saas_app.svg)](https://dev.to/suhelrana10/how-do-i-switch-from-1-database-to-1-database-per-subdomain-rails-in-saas-app-21i7)
+[![LeetCode, Hard: 2818. Apply Operations to Maximize Score. Swift](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/LeetCode__Hard__2818._Apply_Operations_to_Maximize_Score._Swift.svg)](https://dev.to/sergeyleschev/leetcode-hard-2818-apply-operations-to-maximize-score-swift-3n60)
+[![Gestão de tempo e produtividade para Devs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Gestão_de_tempo_e_produtividade_para_Devs.svg)](https://dev.to/ryrden/gestao-de-tempo-e-produtividade-para-devs-2h85)
+[![Design Patterns: Factory Method](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Design_Patterns__Factory_Method.svg)](https://dev.to/ianito/design-patterns-factory-method-22if)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, August 19, 2023 at 6:13:09 AM
+> Last updated: Saturday, August 19, 2023 at 12:08:46 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, August 19, 2023 at 6:13:12 AM
+> Last updated: Saturday, August 19, 2023 at 12:08:48 PM
 
 > Showing 5 of 30 posts.
 
