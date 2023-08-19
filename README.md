@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, August 19, 2023 at 12:09:07 AM
+> Last updated: Saturday, August 19, 2023 at 6:13:06 AM
 
 > Showing 5 of 12 posts.
 
-[![Unpacking The OSI Model](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unpacking_The_OSI_Model.svg)](https://dev.to/stungnet/unpacking-the-osi-model-3fha)
-[![6 Tips for Effective React Pagination: Building a User-Friendly Navigation Component](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/6_Tips_for_Effective_React_Pagination__Building_a_User-Friendly_Navigation_Component.svg)](https://dev.to/bilal1718/6-tips-for-effective-react-pagination-building-a-user-friendly-navigation-component-4i5h)
-[![JavaScript in Detail](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_in_Detail.svg)](https://dev.to/scorcism/javascript-in-detail-51a4)
-[![Optional Semicolons in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Optional_Semicolons_in_JavaScript.svg)](https://dev.to/better678/optional-semicolons-in-javascript-4bp6)
-[![What is Machine Learning?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_Machine_Learning_.svg)](https://dev.to/codeperfectplus/what-is-machine-learning-4kc8)
+[![How to increase your product page conversion rate [20+ examples]](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_increase_your_product_page_conversion_rate_[20+_examples].svg)](https://dev.to/belhassen07/how-to-increase-your-product-page-conversion-rate-20-examples-24da)
+[![Harnessing GitHub Actions for Seamless Workflow Automation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Harnessing_GitHub_Actions_for_Seamless_Workflow_Automation.svg)](https://dev.to/nitinkumar30/harnessing-github-actions-for-seamless-workflow-automation-40kp)
+[![Ways To Keep Up Motivation In Your Career](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Ways_To_Keep_Up_Motivation_In_Your_Career.svg)](https://dev.to/eleftheriabatsou/ways-to-keep-up-motivation-in-your-career-3jll)
+[![Implementing Enums in Golang](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Implementing_Enums_in_Golang.svg)](https://dev.to/ankitmalikg/implementing-enums-in-golang-40ie)
+[![Smoke Animation(color with background music)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Smoke_Animation(color_with_background_music).svg)](https://dev.to/dimple031/smoke-animationcolor-with-background-music-37cn)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, August 19, 2023 at 12:09:11 AM
+> Last updated: Saturday, August 19, 2023 at 6:13:09 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, August 19, 2023 at 12:09:14 AM
+> Last updated: Saturday, August 19, 2023 at 6:13:12 AM
 
 > Showing 5 of 30 posts.
 
