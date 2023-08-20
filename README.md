@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, August 20, 2023 at 6:12:53 AM
+> Last updated: Sunday, August 20, 2023 at 12:08:35 PM
 
 > Showing 5 of 12 posts.
 
-[![20 VS Code Extensions That Will Take Your Productivity to the Next Level](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/20_VS_Code_Extensions_That_Will_Take_Your_Productivity_to_the_Next_Level.svg)](https://dev.to/devland/20-vs-code-extensions-that-will-take-your-productivity-to-the-next-level-9g)
-[![Designing an Autocomplete UI Component 🔍](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Designing_an_Autocomplete_UI_Component_🔍.svg)](https://dev.to/vikas2426/designing-an-autocomplete-ui-component-2fbd)
-[![Spring Shell - Build CLI apps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Spring_Shell_-_Build_CLI_apps.svg)](https://dev.to/noelopez/spring-shell-build-cli-apps-2l1o)
-[![Difference between cookie and session in PHP?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Difference_between_cookie_and_session_in_PHP_.svg)](https://dev.to/sonamojha/difference-between-cookie-and-session-in-php-hm)
-[![Can it work faster? Aka how to use Chrome DevTools to improve your webpage performance](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Can_it_work_faster__Aka_how_to_use_Chrome_DevTools_to_improve_your_webpage_performance.svg)](https://dev.to/this-is-learning/can-it-work-faster-aka-how-to-use-chrome-devtools-to-improve-your-webpage-performance-5689)
+[![How to make an impact as a developer advocate](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_make_an_impact_as_a_developer_advocate.svg)](https://dev.to/blackgirlbytes/how-to-make-an-impact-as-a-developer-advocate-1jge)
+[![Demystifying EKS Authentication and Authorization: A Guide to Strengthening Network Security](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Demystifying_EKS_Authentication_and_Authorization__A_Guide_to_Strengthening_Network_Security.svg)](https://dev.to/aws-builders/demystifying-eks-authentication-and-authorization-a-guide-to-strengthening-network-security-32eb)
+[![Comprehensive Walkthrough on How to Connect Your Flutter App to a REST API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Comprehensive_Walkthrough_on_How_to_Connect_Your_Flutter_App_to_a_REST_API.svg)](https://dev.to/yatendra2001/comprehensive-walkthrough-on-how-to-connect-your-flutter-app-to-a-rest-api-33pe)
+[![JavaScript Operators: A Comprehensive Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_Operators__A_Comprehensive_Guide.svg)](https://dev.to/arsalanmee/javascript-operators-a-comprehensive-guide-592l)
+[![Getting Started with WebSockets in Deno: Tutorial and Examples](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_Started_with_WebSockets_in_Deno__Tutorial_and_Examples.svg)](https://dev.to/franciscomendes10866/getting-started-with-websockets-in-deno-tutorial-and-examples-4e5i)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, August 20, 2023 at 6:12:56 AM
+> Last updated: Sunday, August 20, 2023 at 12:08:38 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, August 20, 2023 at 6:12:59 AM
+> Last updated: Sunday, August 20, 2023 at 12:08:41 PM
 
 > Showing 5 of 30 posts.
 
