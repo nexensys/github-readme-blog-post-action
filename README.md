@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, August 19, 2023 at 6:38:27 PM
+> Last updated: Sunday, August 20, 2023 at 12:09:24 AM
 
 > Showing 5 of 12 posts.
 
-[![Figma to React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Figma_to_React.svg)](https://dev.to/herofy_co/figma-to-react-1d1h)
-[![How to create a SLO for Cloud Run programatically](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_a_SLO_for_Cloud_Run_programatically.svg)](https://dev.to/mesmacosta/how-to-create-a-slo-for-cloud-run-programatically-hp)
-[![React Custom Hook: useHover](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Custom_Hook__useHover.svg)](https://dev.to/sergeyleschev/react-custom-hook-usehover-27lg)
-[![Use Precise types instead of String types](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Use_Precise_types_instead_of_String_types.svg)](https://dev.to/adeleke5140/use-precise-types-instead-of-string-types-2f05)
-[![Converting Any Python Web Framework to FastAPI: A Comprehensive Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Converting_Any_Python_Web_Framework_to_FastAPI__A_Comprehensive_Guide.svg)](https://dev.to/akarshan/converting-any-python-web-framework-to-fastapi-a-comprehensive-guide-291b)
+[![Bare Metal vs Virtual Machine vs Containers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Bare_Metal_vs_Virtual_Machine_vs_Containers.svg)](https://dev.to/scorcism/bare-metal-vs-virtual-machine-vs-containers-a7e)
+[![Types, Values, and Variables in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Types__Values__and_Variables_in_JavaScript.svg)](https://dev.to/better678/types-values-and-variables-in-javascript-123g)
+[![🚀 Your Guide to Prometheus Monitoring on Kubernetes with Grafana](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🚀_Your_Guide_to_Prometheus_Monitoring_on_Kubernetes_with_Grafana.svg)](https://dev.to/softwaresennin/your-guide-to-prometheus-monitoring-on-kubernetes-with-grafana-gi8)
+[![Part 2 - Building a Full Stack Contact Form: Node.js Backend 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Part_2_-_Building_a_Full_Stack_Contact_Form__Node.js_Backend_2023.svg)](https://dev.to/elenadiaz32505/part-2-building-a-full-stack-contact-form-nodejs-backend-2023-jdp)
+[![Part 1 - Full Stack Contact Form: Getting Started & React Frontend 2023](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Part_1_-_Full_Stack_Contact_Form__Getting_Started___React_Frontend_2023.svg)](https://dev.to/elenadiaz32505/part-1-full-stack-contact-form-getting-started-react-frontend-2023-1bh4)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, August 19, 2023 at 6:38:31 PM
+> Last updated: Sunday, August 20, 2023 at 12:09:28 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, August 19, 2023 at 6:38:35 PM
+> Last updated: Sunday, August 20, 2023 at 12:09:31 AM
 
 > Showing 5 of 30 posts.
 
