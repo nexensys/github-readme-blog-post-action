@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Saturday, August 19, 2023 at 12:08:43 PM
+> Last updated: Saturday, August 19, 2023 at 6:38:27 PM
 
 > Showing 5 of 12 posts.
 
-[![Getting Started with Go: A Quick Guide.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_Started_with_Go__A_Quick_Guide..svg)](https://dev.to/hazarnenni/getting-started-with-go-a-quick-guide-1m95)
-[![How do I switch from 1 database to 1 database per subdomain rails in saas app](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_do_I_switch_from_1_database_to_1_database_per_subdomain_rails_in_saas_app.svg)](https://dev.to/suhelrana10/how-do-i-switch-from-1-database-to-1-database-per-subdomain-rails-in-saas-app-21i7)
-[![LeetCode, Hard: 2818. Apply Operations to Maximize Score. Swift](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/LeetCode__Hard__2818._Apply_Operations_to_Maximize_Score._Swift.svg)](https://dev.to/sergeyleschev/leetcode-hard-2818-apply-operations-to-maximize-score-swift-3n60)
-[![Gestão de tempo e produtividade para Devs](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Gestão_de_tempo_e_produtividade_para_Devs.svg)](https://dev.to/ryrden/gestao-de-tempo-e-produtividade-para-devs-2h85)
-[![Design Patterns: Factory Method](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Design_Patterns__Factory_Method.svg)](https://dev.to/ianito/design-patterns-factory-method-22if)
+[![Figma to React](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Figma_to_React.svg)](https://dev.to/herofy_co/figma-to-react-1d1h)
+[![How to create a SLO for Cloud Run programatically](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_a_SLO_for_Cloud_Run_programatically.svg)](https://dev.to/mesmacosta/how-to-create-a-slo-for-cloud-run-programatically-hp)
+[![React Custom Hook: useHover](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Custom_Hook__useHover.svg)](https://dev.to/sergeyleschev/react-custom-hook-usehover-27lg)
+[![Use Precise types instead of String types](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Use_Precise_types_instead_of_String_types.svg)](https://dev.to/adeleke5140/use-precise-types-instead-of-string-types-2f05)
+[![Converting Any Python Web Framework to FastAPI: A Comprehensive Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Converting_Any_Python_Web_Framework_to_FastAPI__A_Comprehensive_Guide.svg)](https://dev.to/akarshan/converting-any-python-web-framework-to-fastapi-a-comprehensive-guide-291b)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Saturday, August 19, 2023 at 12:08:46 PM
+> Last updated: Saturday, August 19, 2023 at 6:38:31 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Saturday, August 19, 2023 at 12:08:48 PM
+> Last updated: Saturday, August 19, 2023 at 6:38:35 PM
 
 > Showing 5 of 30 posts.
 
