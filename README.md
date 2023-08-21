@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, August 21, 2023 at 6:14:56 AM
+> Last updated: Monday, August 21, 2023 at 12:08:25 PM
 
 > Showing 5 of 12 posts.
 
-[![Exploring the Diverse Landscape: 10 Roles of UX/UI Designers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exploring_the_Diverse_Landscape__10_Roles_of_UX_UI_Designers.svg)](https://dev.to/stokry/exploring-the-diverse-landscape-10-roles-of-uxui-designers-4fd6)
-[![Boost Your Coding Speed with These Productivity Tools](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Boost_Your_Coding_Speed_with_These_Productivity_Tools.svg)](https://dev.to/surajondev/boost-your-coding-speed-with-these-productivity-tools-1k4a)
-[![Understanding AWS Key Management Service (KMS) Policies](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_AWS_Key_Management_Service_(KMS)_Policies.svg)](https://dev.to/aws-builders/understanding-aws-key-management-service-kms-policies-3l5i)
-[![How to create a product page in an eCommerce website?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_a_product_page_in_an_eCommerce_website_.svg)](https://dev.to/emmanuelkatto/how-to-create-a-product-page-in-an-ecommerce-website-1l1l)
-[![Software installation with Ansible](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Software_installation_with_Ansible.svg)](https://dev.to/kuldipmori/software-installation-with-ansible-14i6)
+[![Simplify Complex SQL Queries with Common Table Expressions (CTEs)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Simplify_Complex_SQL_Queries_with_Common_Table_Expressions_(CTEs).svg)](https://dev.to/karishmashukla/simplify-complex-sql-queries-with-common-table-expressions-ctes-3kf5)
+[![Some Popular React.js Libraries](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Some_Popular_React.js_Libraries.svg)](https://dev.to/munavvar/some-popular-reactjs-libraries-298e)
+[![9 Pro Tips for Effective Version Control and Collaboration using Git](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/9_Pro_Tips_for_Effective_Version_Control_and_Collaboration_using_Git.svg)](https://dev.to/yatendra2001/9-pro-tips-for-effective-version-control-and-collaboration-using-git-3nik)
+[![Demystifying JavaScript Arrays: A Comprehensive Guide for Beginners and Intermediates](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Demystifying_JavaScript_Arrays__A_Comprehensive_Guide_for_Beginners_and_Intermediates.svg)](https://dev.to/bolajibolajoko51/demystifying-javascript-arrays-a-comprehensive-guide-for-beginners-and-intermediates-19n5)
+[![rpcbenchmark.com - New SaaS to benchmark RPC Nodes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/rpcbenchmark.com_-_New_SaaS_to_benchmark_RPC_Nodes.svg)](https://dev.to/aspnxdd/rpcbenchmarkcom-new-saas-to-benchmark-rpc-nodes-52g2)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, August 21, 2023 at 6:15:00 AM
+> Last updated: Monday, August 21, 2023 at 12:08:29 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, August 21, 2023 at 6:15:06 AM
+> Last updated: Monday, August 21, 2023 at 12:08:35 PM
 
 > Showing 5 of 30 posts.
 
+[![
+An Improved Unix Terminal – Demo App for VanJS
+](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_An_Improved_Unix_Terminal_–_Demo_App_for_VanJS_.svg)](
+https://github.com/vanjs-org/van/tree/main/demo/terminal
+)
 [![Emmanuel Katto Foundation Bridging the healthcare gap of underprivileged Childrens of Uganda - Apsters Media](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Emmanuel_Katto_Foundation_Bridging_the_healthcare_gap_of_underprivileged_Childrens_of_Uganda_-_Apsters_Media.svg)](https://www.apstersmedia.com/emmanuel-katto-foundation-bridging-the-healthcare-gap-of-underprivileged-childrens-of-uganda/)
 [![
 Why is the following CSS code not centering my button horizontally within a div element?
@@ -55,11 +60,6 @@ http://www.echojs.com/news/41946
 )
 [![Cleaning up import paths in JS/TS packages - Socket](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Cleaning_up_import_paths_in_JS_TS_packages_-_Socket.svg)](https://socket.dev/blog/we-don-t-need-more-path-aliases)
 [![GitHub - pakastin/flanets: Flanets 2D space flight simulator](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_pakastin_flanets__Flanets_2D_space_flight_simulator.svg)](https://github.com/pakastin/flanets)
-[![
-[Ask EchoJS] How do I handlie CORS Issues in Fetch API?
-](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_[Ask_EchoJS]_How_do_I_handlie_CORS_Issues_in_Fetch_API__.svg)](
-http://www.echojs.com/news/41943
-)
 
 
 <!-- post-list:end -->
