@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, August 21, 2023 at 12:11:12 AM
+> Last updated: Monday, August 21, 2023 at 6:14:56 AM
 
 > Showing 5 of 12 posts.
 
-[![What is routing and how to implement attribute routing in Asp.net MVC?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_routing_and_how_to_implement_attribute_routing_in_Asp.net_MVC_.svg)](https://dev.to/ifourtechnolab/what-is-routing-and-how-to-implement-attribute-routing-in-aspnet-mvc-3hn3)
-[![Conditional Statements: Making Decisions in JavaScript 😎🔀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Conditional_Statements__Making_Decisions_in_JavaScript_😎🔀.svg)](https://dev.to/aswin2001barath/conditional-statements-making-decisions-in-javascript-2l8m)
-[![Mastering JavaScript Data Types: Unveiling the Magic! ✨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_JavaScript_Data_Types__Unveiling_the_Magic!_✨.svg)](https://dev.to/aswin2001barath/mastering-javascript-data-types-unveiling-the-magic-1i3m)
-[![Understanding Variables in JavaScript: The Var, Let, and Const Adventure!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_Variables_in_JavaScript__The_Var__Let__and_Const_Adventure!.svg)](https://dev.to/aswin2001barath/understanding-variables-in-javascript-the-var-let-and-const-adventure-1a4d)
-[![Numerals in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Numerals_in_JavaScript.svg)](https://dev.to/better678/numerals-in-javascript-5519)
+[![Exploring the Diverse Landscape: 10 Roles of UX/UI Designers](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exploring_the_Diverse_Landscape__10_Roles_of_UX_UI_Designers.svg)](https://dev.to/stokry/exploring-the-diverse-landscape-10-roles-of-uxui-designers-4fd6)
+[![Boost Your Coding Speed with These Productivity Tools](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Boost_Your_Coding_Speed_with_These_Productivity_Tools.svg)](https://dev.to/surajondev/boost-your-coding-speed-with-these-productivity-tools-1k4a)
+[![Understanding AWS Key Management Service (KMS) Policies](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_AWS_Key_Management_Service_(KMS)_Policies.svg)](https://dev.to/aws-builders/understanding-aws-key-management-service-kms-policies-3l5i)
+[![How to create a product page in an eCommerce website?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_create_a_product_page_in_an_eCommerce_website_.svg)](https://dev.to/emmanuelkatto/how-to-create-a-product-page-in-an-ecommerce-website-1l1l)
+[![Software installation with Ansible](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Software_installation_with_Ansible.svg)](https://dev.to/kuldipmori/software-installation-with-ansible-14i6)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, August 21, 2023 at 12:11:17 AM
+> Last updated: Monday, August 21, 2023 at 6:15:00 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, August 21, 2023 at 12:11:21 AM
+> Last updated: Monday, August 21, 2023 at 6:15:06 AM
 
 > Showing 5 of 30 posts.
 
+[![Emmanuel Katto Foundation Bridging the healthcare gap of underprivileged Childrens of Uganda - Apsters Media](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Emmanuel_Katto_Foundation_Bridging_the_healthcare_gap_of_underprivileged_Childrens_of_Uganda_-_Apsters_Media.svg)](https://www.apstersmedia.com/emmanuel-katto-foundation-bridging-the-healthcare-gap-of-underprivileged-childrens-of-uganda/)
 [![
 Why is the following CSS code not centering my button horizontally within a div element?
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Why_is_the_following_CSS_code_not_centering_my_button_horizontally_within_a_div_element__.svg)](
@@ -59,7 +60,6 @@ http://www.echojs.com/news/41946
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_[Ask_EchoJS]_How_do_I_handlie_CORS_Issues_in_Fetch_API__.svg)](
 http://www.echojs.com/news/41943
 )
-[![Building Your Front-End with Intention](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Building_Your_Front-End_with_Intention.svg)](https://cfe.dev/events/frontend-with-intention/)
 
 
 <!-- post-list:end -->
