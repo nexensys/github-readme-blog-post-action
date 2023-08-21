@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, August 20, 2023 at 12:08:35 PM
+> Last updated: Sunday, August 20, 2023 at 6:36:52 PM
 
 > Showing 5 of 12 posts.
 
-[![How to make an impact as a developer advocate](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_make_an_impact_as_a_developer_advocate.svg)](https://dev.to/blackgirlbytes/how-to-make-an-impact-as-a-developer-advocate-1jge)
-[![Demystifying EKS Authentication and Authorization: A Guide to Strengthening Network Security](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Demystifying_EKS_Authentication_and_Authorization__A_Guide_to_Strengthening_Network_Security.svg)](https://dev.to/aws-builders/demystifying-eks-authentication-and-authorization-a-guide-to-strengthening-network-security-32eb)
-[![Comprehensive Walkthrough on How to Connect Your Flutter App to a REST API](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Comprehensive_Walkthrough_on_How_to_Connect_Your_Flutter_App_to_a_REST_API.svg)](https://dev.to/yatendra2001/comprehensive-walkthrough-on-how-to-connect-your-flutter-app-to-a-rest-api-33pe)
-[![JavaScript Operators: A Comprehensive Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_Operators__A_Comprehensive_Guide.svg)](https://dev.to/arsalanmee/javascript-operators-a-comprehensive-guide-592l)
-[![Getting Started with WebSockets in Deno: Tutorial and Examples](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Getting_Started_with_WebSockets_in_Deno__Tutorial_and_Examples.svg)](https://dev.to/franciscomendes10866/getting-started-with-websockets-in-deno-tutorial-and-examples-4e5i)
+[![React Props vs State](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Props_vs_State.svg)](https://dev.to/imevanc/react-props-vs-state-jn)
+[![React Custom Hook: useLongPress](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Custom_Hook__useLongPress.svg)](https://dev.to/sergeyleschev/react-custom-hook-uselongpress-5c0j)
+[![JavaScript Objects and its secret associates](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_Objects_and_its_secret_associates.svg)](https://dev.to/ms_74/javascript-objects-and-its-secret-associates-3bi2)
+[![Astro Beginners Guide, Part 1: Overview](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Astro_Beginners_Guide__Part_1__Overview.svg)](https://dev.to/kblo4517/astro-beginners-guide-part-1-overview-2647)
+[![Unveiling Our Art-Guide Telegram Bot: Where AI and Artistry Converge](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unveiling_Our_Art-Guide_Telegram_Bot__Where_AI_and_Artistry_Converge.svg)](https://dev.to/arielxx/unveiling-our-art-guide-telegram-bot-where-ai-and-artistry-converge-58k2)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, August 20, 2023 at 12:08:38 PM
+> Last updated: Sunday, August 20, 2023 at 6:36:55 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, August 20, 2023 at 12:08:41 PM
+> Last updated: Sunday, August 20, 2023 at 6:36:59 PM
 
 > Showing 5 of 30 posts.
 
