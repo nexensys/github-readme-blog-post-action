@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Sunday, August 20, 2023 at 6:36:52 PM
+> Last updated: Monday, August 21, 2023 at 12:11:12 AM
 
 > Showing 5 of 12 posts.
 
-[![React Props vs State](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Props_vs_State.svg)](https://dev.to/imevanc/react-props-vs-state-jn)
-[![React Custom Hook: useLongPress](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Custom_Hook__useLongPress.svg)](https://dev.to/sergeyleschev/react-custom-hook-uselongpress-5c0j)
-[![JavaScript Objects and its secret associates](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/JavaScript_Objects_and_its_secret_associates.svg)](https://dev.to/ms_74/javascript-objects-and-its-secret-associates-3bi2)
-[![Astro Beginners Guide, Part 1: Overview](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Astro_Beginners_Guide__Part_1__Overview.svg)](https://dev.to/kblo4517/astro-beginners-guide-part-1-overview-2647)
-[![Unveiling Our Art-Guide Telegram Bot: Where AI and Artistry Converge](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Unveiling_Our_Art-Guide_Telegram_Bot__Where_AI_and_Artistry_Converge.svg)](https://dev.to/arielxx/unveiling-our-art-guide-telegram-bot-where-ai-and-artistry-converge-58k2)
+[![What is routing and how to implement attribute routing in Asp.net MVC?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/What_is_routing_and_how_to_implement_attribute_routing_in_Asp.net_MVC_.svg)](https://dev.to/ifourtechnolab/what-is-routing-and-how-to-implement-attribute-routing-in-aspnet-mvc-3hn3)
+[![Conditional Statements: Making Decisions in JavaScript 😎🔀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Conditional_Statements__Making_Decisions_in_JavaScript_😎🔀.svg)](https://dev.to/aswin2001barath/conditional-statements-making-decisions-in-javascript-2l8m)
+[![Mastering JavaScript Data Types: Unveiling the Magic! ✨](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Mastering_JavaScript_Data_Types__Unveiling_the_Magic!_✨.svg)](https://dev.to/aswin2001barath/mastering-javascript-data-types-unveiling-the-magic-1i3m)
+[![Understanding Variables in JavaScript: The Var, Let, and Const Adventure!](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Understanding_Variables_in_JavaScript__The_Var__Let__and_Const_Adventure!.svg)](https://dev.to/aswin2001barath/understanding-variables-in-javascript-the-var-let-and-const-adventure-1a4d)
+[![Numerals in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Numerals_in_JavaScript.svg)](https://dev.to/better678/numerals-in-javascript-5519)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Sunday, August 20, 2023 at 6:36:55 PM
+> Last updated: Monday, August 21, 2023 at 12:11:17 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Sunday, August 20, 2023 at 6:36:59 PM
+> Last updated: Monday, August 21, 2023 at 12:11:21 AM
 
 > Showing 5 of 30 posts.
 
