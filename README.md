@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, August 21, 2023 at 12:08:25 PM
+> Last updated: Monday, August 21, 2023 at 6:37:06 PM
 
 > Showing 5 of 12 posts.
 
-[![Simplify Complex SQL Queries with Common Table Expressions (CTEs)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Simplify_Complex_SQL_Queries_with_Common_Table_Expressions_(CTEs).svg)](https://dev.to/karishmashukla/simplify-complex-sql-queries-with-common-table-expressions-ctes-3kf5)
-[![Some Popular React.js Libraries](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Some_Popular_React.js_Libraries.svg)](https://dev.to/munavvar/some-popular-reactjs-libraries-298e)
-[![9 Pro Tips for Effective Version Control and Collaboration using Git](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/9_Pro_Tips_for_Effective_Version_Control_and_Collaboration_using_Git.svg)](https://dev.to/yatendra2001/9-pro-tips-for-effective-version-control-and-collaboration-using-git-3nik)
-[![Demystifying JavaScript Arrays: A Comprehensive Guide for Beginners and Intermediates](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Demystifying_JavaScript_Arrays__A_Comprehensive_Guide_for_Beginners_and_Intermediates.svg)](https://dev.to/bolajibolajoko51/demystifying-javascript-arrays-a-comprehensive-guide-for-beginners-and-intermediates-19n5)
-[![rpcbenchmark.com - New SaaS to benchmark RPC Nodes](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/rpcbenchmark.com_-_New_SaaS_to_benchmark_RPC_Nodes.svg)](https://dev.to/aspnxdd/rpcbenchmarkcom-new-saas-to-benchmark-rpc-nodes-52g2)
+[![Sendbird Alternatives vs Compititors](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Sendbird_Alternatives_vs_Compititors.svg)](https://dev.to/alakkadshaw/sendbird-alternatives-vs-compititors-1o4c)
+[![Practical steps on how to apply the useParams hook of React router.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Practical_steps_on_how_to_apply_the_useParams_hook_of_React_router..svg)](https://dev.to/meganad60/practical-steps-on-how-to-apply-the-useparams-hook-of-react-router-101o)
+[![Exploring Go's Concurrency: The Benefits of Goroutines and Channels](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exploring_Go's_Concurrency__The_Benefits_of_Goroutines_and_Channels.svg)](https://dev.to/tonieng/exploring-gos-concurrency-the-benefits-of-goroutines-and-channels-dg)
+[![Simple Dev.to Article Improvements](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Simple_Dev.to_Article_Improvements.svg)](https://dev.to/cwprogram/simple-devto-article-improvements-2nhe)
+[![A Go net.Listen() function that includes SSO, AuthZ, sessions Management and Anycast](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Go_net.Listen()_function_that_includes_SSO__AuthZ__sessions_Management_and_Anycast.svg)](https://dev.to/aws-builders/a-go-netlisten-function-that-includes-sso-authz-sessions-management-and-anycast-4id4)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, August 21, 2023 at 12:08:29 PM
+> Last updated: Monday, August 21, 2023 at 6:37:09 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,16 +43,16 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, August 21, 2023 at 12:08:35 PM
+> Last updated: Monday, August 21, 2023 at 6:37:19 PM
 
 > Showing 5 of 30 posts.
 
+[![API with NestJS #121. Many-to-one relationships with PostgreSQL and Kysely](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__121._Many-to-one_relationships_with_PostgreSQL_and_Kysely.svg)](https://wanago.io/2023/08/21/api-nestjs-many-to-one-postgresql-kysely/)
 [![
 An Improved Unix Terminal – Demo App for VanJS
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_An_Improved_Unix_Terminal_–_Demo_App_for_VanJS_.svg)](
 https://github.com/vanjs-org/van/tree/main/demo/terminal
 )
-[![Emmanuel Katto Foundation Bridging the healthcare gap of underprivileged Childrens of Uganda - Apsters Media](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Emmanuel_Katto_Foundation_Bridging_the_healthcare_gap_of_underprivileged_Childrens_of_Uganda_-_Apsters_Media.svg)](https://www.apstersmedia.com/emmanuel-katto-foundation-bridging-the-healthcare-gap-of-underprivileged-childrens-of-uganda/)
 [![
 Why is the following CSS code not centering my button horizontally within a div element?
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Why_is_the_following_CSS_code_not_centering_my_button_horizontally_within_a_div_element__.svg)](
