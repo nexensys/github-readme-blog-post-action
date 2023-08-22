@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, August 22, 2023 at 6:14:59 AM
+> Last updated: Tuesday, August 22, 2023 at 12:09:39 PM
 
 > Showing 5 of 12 posts.
 
-[![Automate your repitative git commands like a pro](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Automate_your_repitative_git_commands_like_a_pro.svg)](https://dev.to/eagledev_/automate-your-repetitive-git-commands-like-a-pro-15c2)
-[![React Native Maps: Easy Bird's Eye View Animation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Native_Maps__Easy_Bird's_Eye_View_Animation.svg)](https://dev.to/noahvelasco/react-native-maps-easy-birds-eye-view-animation-23dj)
-[![Guide: Creating Stored Procedures in PostgreSQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Guide__Creating_Stored_Procedures_in_PostgreSQL.svg)](https://dev.to/dukeofhazardz/guide-creating-stored-procedures-in-postgresql-4g3c)
-[![⚖️ 9 Best Resources to Learn the Secrets of Scala](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/⚖️_9_Best_Resources_to_Learn_the_Secrets_of_Scala.svg)](https://dev.to/evergrowingdev/9-best-resources-to-learn-the-secrets-of-scala-f0m)
-[![Maximizing React Component Efficiency with the useRef Hook](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Maximizing_React_Component_Efficiency_with_the_useRef_Hook.svg)](https://dev.to/rolxmehh/maximizing-react-component-efficiency-with-the-useref-hook-32ck)
+[![🔥✍️ Notion-like Experience for Your GitHub Content](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🔥✍️_Notion-like_Experience_for_Your_GitHub_Content.svg)](https://dev.to/areknawo/notion-like-experience-for-your-github-content-5gk1)
+[![Building Next.js apps with Materio](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_Next.js_apps_with_Materio.svg)](https://dev.to/logrocket/building-nextjs-apps-with-materio-21mc)
+[![🪂 Looking Beyond ChatGPT: 7 Innovative Chatbot Alternatives 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🪂_Looking_Beyond_ChatGPT__7_Innovative_Chatbot_Alternatives_🚀.svg)](https://dev.to/shreya_gr/looking-beyond-chatgpt-7-innovative-chatbot-alternatives-4c4c)
+[![Containerizing Next.js App with Docker: Quick Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Containerizing_Next.js_App_with_Docker__Quick_Guide.svg)](https://dev.to/pulkit30/containerizing-nextjs-app-with-docker-quick-guide-51ml)
+[![12 Ruby Gems to make your Ruby coding smoother](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/12_Ruby_Gems_to_make_your_Ruby_coding_smoother.svg)](https://dev.to/beacampos/12-ruby-gems-to-make-your-ruby-coding-smoother-1619)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, August 22, 2023 at 6:15:03 AM
+> Last updated: Tuesday, August 22, 2023 at 12:09:42 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, August 22, 2023 at 6:15:09 AM
+> Last updated: Tuesday, August 22, 2023 at 12:09:46 PM
 
 > Showing 5 of 30 posts.
 
