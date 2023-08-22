@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, August 22, 2023 at 12:10:18 AM
+> Last updated: Tuesday, August 22, 2023 at 6:14:59 AM
 
 > Showing 5 of 12 posts.
 
-[![Scratch is Addictive: How to get rid of your Scratch addiction](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Scratch_is_Addictive__How_to_get_rid_of_your_Scratch_addiction.svg)](https://dev.to/alteca/scratch-is-addictive-how-to-get-rid-of-your-scratch-addiction-28cg)
-[![Differences Between ASP.NET and ASP.NET Core - ASP.NET vs ASP.NET Core](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Differences_Between_ASP.NET_and_ASP.NET_Core_-_ASP.NET_vs_ASP.NET_Core.svg)](https://dev.to/ifourtechnolab/differences-between-aspnet-and-aspnet-core-aspnet-vs-aspnet-core-1pc0)
-[![How to pick the perfect Domain Name?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_pick_the_perfect_Domain_Name_.svg)](https://dev.to/alteca/how-to-pick-the-perfect-domain-name-4mo3)
-[![Google Maps: How to add building, address and road to the main map? (to be visible in the app)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Google_Maps__How_to_add_building__address_and_road_to_the_main_map__(to_be_visible_in_the_app).svg)](https://dev.to/asbakalov/google-maps-how-to-add-building-address-and-road-to-the-main-map-to-be-visible-in-the-app-52ie)
-[![Peer Dependencies in depth](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Peer_Dependencies_in_depth.svg)](https://dev.to/icy0307/peer-dependencies-in-depth-1o3b)
+[![Automate your repitative git commands like a pro](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Automate_your_repitative_git_commands_like_a_pro.svg)](https://dev.to/eagledev_/automate-your-repetitive-git-commands-like-a-pro-15c2)
+[![React Native Maps: Easy Bird's Eye View Animation](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/React_Native_Maps__Easy_Bird's_Eye_View_Animation.svg)](https://dev.to/noahvelasco/react-native-maps-easy-birds-eye-view-animation-23dj)
+[![Guide: Creating Stored Procedures in PostgreSQL](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Guide__Creating_Stored_Procedures_in_PostgreSQL.svg)](https://dev.to/dukeofhazardz/guide-creating-stored-procedures-in-postgresql-4g3c)
+[![⚖️ 9 Best Resources to Learn the Secrets of Scala](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/⚖️_9_Best_Resources_to_Learn_the_Secrets_of_Scala.svg)](https://dev.to/evergrowingdev/9-best-resources-to-learn-the-secrets-of-scala-f0m)
+[![Maximizing React Component Efficiency with the useRef Hook](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Maximizing_React_Component_Efficiency_with_the_useRef_Hook.svg)](https://dev.to/rolxmehh/maximizing-react-component-efficiency-with-the-useref-hook-32ck)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, August 22, 2023 at 12:10:20 AM
+> Last updated: Tuesday, August 22, 2023 at 6:15:03 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, August 22, 2023 at 12:10:26 AM
+> Last updated: Tuesday, August 22, 2023 at 6:15:09 AM
 
 > Showing 5 of 30 posts.
 
+[![React JS Clean Code Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_JS_Clean_Code_Guide.svg)](https://javascript.withcodeexample.com/blog/react-js-clean-code-best-practices/)
 [![API with NestJS #121. Many-to-one relationships with PostgreSQL and Kysely](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__121._Many-to-one_relationships_with_PostgreSQL_and_Kysely.svg)](https://wanago.io/2023/08/21/api-nestjs-many-to-one-postgresql-kysely/)
 [![
 An Improved Unix Terminal – Demo App for VanJS
@@ -59,7 +60,6 @@ Why is the following CSS code not centering my button horizontally within a div 
 http://www.echojs.com/news/41946
 )
 [![Cleaning up import paths in JS/TS packages - Socket](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Cleaning_up_import_paths_in_JS_TS_packages_-_Socket.svg)](https://socket.dev/blog/we-don-t-need-more-path-aliases)
-[![GitHub - pakastin/flanets: Flanets 2D space flight simulator](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_pakastin_flanets__Flanets_2D_space_flight_simulator.svg)](https://github.com/pakastin/flanets)
 
 
 <!-- post-list:end -->
