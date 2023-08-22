@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Monday, August 21, 2023 at 6:37:06 PM
+> Last updated: Tuesday, August 22, 2023 at 12:10:18 AM
 
 > Showing 5 of 12 posts.
 
-[![Sendbird Alternatives vs Compititors](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Sendbird_Alternatives_vs_Compititors.svg)](https://dev.to/alakkadshaw/sendbird-alternatives-vs-compititors-1o4c)
-[![Practical steps on how to apply the useParams hook of React router.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Practical_steps_on_how_to_apply_the_useParams_hook_of_React_router..svg)](https://dev.to/meganad60/practical-steps-on-how-to-apply-the-useparams-hook-of-react-router-101o)
-[![Exploring Go's Concurrency: The Benefits of Goroutines and Channels](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Exploring_Go's_Concurrency__The_Benefits_of_Goroutines_and_Channels.svg)](https://dev.to/tonieng/exploring-gos-concurrency-the-benefits-of-goroutines-and-channels-dg)
-[![Simple Dev.to Article Improvements](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Simple_Dev.to_Article_Improvements.svg)](https://dev.to/cwprogram/simple-devto-article-improvements-2nhe)
-[![A Go net.Listen() function that includes SSO, AuthZ, sessions Management and Anycast](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Go_net.Listen()_function_that_includes_SSO__AuthZ__sessions_Management_and_Anycast.svg)](https://dev.to/aws-builders/a-go-netlisten-function-that-includes-sso-authz-sessions-management-and-anycast-4id4)
+[![Scratch is Addictive: How to get rid of your Scratch addiction](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Scratch_is_Addictive__How_to_get_rid_of_your_Scratch_addiction.svg)](https://dev.to/alteca/scratch-is-addictive-how-to-get-rid-of-your-scratch-addiction-28cg)
+[![Differences Between ASP.NET and ASP.NET Core - ASP.NET vs ASP.NET Core](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Differences_Between_ASP.NET_and_ASP.NET_Core_-_ASP.NET_vs_ASP.NET_Core.svg)](https://dev.to/ifourtechnolab/differences-between-aspnet-and-aspnet-core-aspnet-vs-aspnet-core-1pc0)
+[![How to pick the perfect Domain Name?](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_pick_the_perfect_Domain_Name_.svg)](https://dev.to/alteca/how-to-pick-the-perfect-domain-name-4mo3)
+[![Google Maps: How to add building, address and road to the main map? (to be visible in the app)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Google_Maps__How_to_add_building__address_and_road_to_the_main_map__(to_be_visible_in_the_app).svg)](https://dev.to/asbakalov/google-maps-how-to-add-building-address-and-road-to-the-main-map-to-be-visible-in-the-app-52ie)
+[![Peer Dependencies in depth](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Peer_Dependencies_in_depth.svg)](https://dev.to/icy0307/peer-dependencies-in-depth-1o3b)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Monday, August 21, 2023 at 6:37:09 PM
+> Last updated: Tuesday, August 22, 2023 at 12:10:20 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Monday, August 21, 2023 at 6:37:19 PM
+> Last updated: Tuesday, August 22, 2023 at 12:10:26 AM
 
 > Showing 5 of 30 posts.
 
