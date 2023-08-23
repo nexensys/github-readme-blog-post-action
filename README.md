@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, August 22, 2023 at 12:09:39 PM
+> Last updated: Tuesday, August 22, 2023 at 6:36:36 PM
 
 > Showing 5 of 12 posts.
 
-[![🔥✍️ Notion-like Experience for Your GitHub Content](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🔥✍️_Notion-like_Experience_for_Your_GitHub_Content.svg)](https://dev.to/areknawo/notion-like-experience-for-your-github-content-5gk1)
-[![Building Next.js apps with Materio](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Building_Next.js_apps_with_Materio.svg)](https://dev.to/logrocket/building-nextjs-apps-with-materio-21mc)
-[![🪂 Looking Beyond ChatGPT: 7 Innovative Chatbot Alternatives 🚀](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/🪂_Looking_Beyond_ChatGPT__7_Innovative_Chatbot_Alternatives_🚀.svg)](https://dev.to/shreya_gr/looking-beyond-chatgpt-7-innovative-chatbot-alternatives-4c4c)
-[![Containerizing Next.js App with Docker: Quick Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Containerizing_Next.js_App_with_Docker__Quick_Guide.svg)](https://dev.to/pulkit30/containerizing-nextjs-app-with-docker-quick-guide-51ml)
-[![12 Ruby Gems to make your Ruby coding smoother](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/12_Ruby_Gems_to_make_your_Ruby_coding_smoother.svg)](https://dev.to/beacampos/12-ruby-gems-to-make-your-ruby-coding-smoother-1619)
+[![Guia para Iniciantes: Criando uma API com Node.js, PostgreSQL e Padrão MVC](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Guia_para_Iniciantes__Criando_uma_API_com_Node.js__PostgreSQL_e_Padrão_MVC.svg)](https://dev.to/matt1cs/guia-para-iniciantes-criando-uma-api-com-nodejs-postgresql-e-padrao-mvc-4027)
+[![Infer keyword in TypeScript 📜](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Infer_keyword_in_TypeScript_📜.svg)](https://dev.to/0ro/infer-keyword-in-typescript-3nig)
+[![A Guide to Date and Time Formatting in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Guide_to_Date_and_Time_Formatting_in_JavaScript.svg)](https://dev.to/diorla/a-guide-to-date-and-time-formatting-in-javascript-2ol2)
+[![Autenticação e Autorização de uma ASP .NET Web API com Keycloak](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Autenticação_e_Autorização_de_uma_ASP_.NET_Web_API_com_Keycloak.svg)](https://dev.to/gloinho/autenticacao-e-autorizacao-de-uma-asp-net-web-api-com-keycloak-loe)
+[![Enhancing Text with CSS Text Shadow Effects](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Enhancing_Text_with_CSS_Text_Shadow_Effects.svg)](https://dev.to/vayolapradeep/enhancing-text-with-css-text-shadow-effects-3n5e)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, August 22, 2023 at 12:09:42 PM
+> Last updated: Tuesday, August 22, 2023 at 6:36:40 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,7 +43,7 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, August 22, 2023 at 12:09:46 PM
+> Last updated: Tuesday, August 22, 2023 at 6:36:45 PM
 
 > Showing 5 of 30 posts.
 
