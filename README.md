@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Tuesday, August 22, 2023 at 6:36:36 PM
+> Last updated: Wednesday, August 23, 2023 at 12:10:43 AM
 
 > Showing 5 of 12 posts.
 
-[![Guia para Iniciantes: Criando uma API com Node.js, PostgreSQL e Padrão MVC](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Guia_para_Iniciantes__Criando_uma_API_com_Node.js__PostgreSQL_e_Padrão_MVC.svg)](https://dev.to/matt1cs/guia-para-iniciantes-criando-uma-api-com-nodejs-postgresql-e-padrao-mvc-4027)
-[![Infer keyword in TypeScript 📜](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Infer_keyword_in_TypeScript_📜.svg)](https://dev.to/0ro/infer-keyword-in-typescript-3nig)
-[![A Guide to Date and Time Formatting in JavaScript](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/A_Guide_to_Date_and_Time_Formatting_in_JavaScript.svg)](https://dev.to/diorla/a-guide-to-date-and-time-formatting-in-javascript-2ol2)
-[![Autenticação e Autorização de uma ASP .NET Web API com Keycloak](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Autenticação_e_Autorização_de_uma_ASP_.NET_Web_API_com_Keycloak.svg)](https://dev.to/gloinho/autenticacao-e-autorizacao-de-uma-asp-net-web-api-com-keycloak-loe)
-[![Enhancing Text with CSS Text Shadow Effects](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Enhancing_Text_with_CSS_Text_Shadow_Effects.svg)](https://dev.to/vayolapradeep/enhancing-text-with-css-text-shadow-effects-3n5e)
+[![An Introduction to DevOps](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/An_Introduction_to_DevOps.svg)](https://dev.to/cloudsec_/an-introduction-to-devops-26kj)
+[![Publish a GitHub Action in the Marketplace](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Publish_a_GitHub_Action_in_the_Marketplace.svg)](https://dev.to/balastrong/publish-a-github-action-in-the-marketplace-7f0)
+[![The Convenience of Printout Shops: Your Ultimate Resource for Quick and Quality Printing](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/The_Convenience_of_Printout_Shops__Your_Ultimate_Resource_for_Quick_and_Quality_Printing.svg)](https://dev.to/himanshu9/the-convenience-of-printout-shops-your-ultimate-resource-for-quick-and-quality-printing-169g)
+[![Hosting static websites with versioning for free](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Hosting_static_websites_with_versioning_for_free.svg)](https://dev.to/pebl/hosting-static-websites-with-versioning-for-free-1a49)
+[![How to Deploy a React app to Heroku](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_Deploy_a_React_app_to_Heroku.svg)](https://dev.to/mrcflorian/how-to-deploy-a-react-app-to-heroku-44ig)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Tuesday, August 22, 2023 at 6:36:40 PM
+> Last updated: Wednesday, August 23, 2023 at 12:10:46 AM
 
 > Showing 4 of 4 posts.
 
@@ -43,10 +43,11 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Tuesday, August 22, 2023 at 6:36:45 PM
+> Last updated: Wednesday, August 23, 2023 at 12:10:50 AM
 
 > Showing 5 of 30 posts.
 
+[![GitHub - codeacme17/examor: For students, scholars, interviewees and lifelong learners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_codeacme17_examor__For_students__scholars__interviewees_and_lifelong_learners.svg)](https://github.com/codeacme17/examor)
 [![React JS Clean Code Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_JS_Clean_Code_Guide.svg)](https://javascript.withcodeexample.com/blog/react-js-clean-code-best-practices/)
 [![API with NestJS #121. Many-to-one relationships with PostgreSQL and Kysely](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__121._Many-to-one_relationships_with_PostgreSQL_and_Kysely.svg)](https://wanago.io/2023/08/21/api-nestjs-many-to-one-postgresql-kysely/)
 [![
@@ -59,7 +60,6 @@ Why is the following CSS code not centering my button horizontally within a div 
 ](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/_Why_is_the_following_CSS_code_not_centering_my_button_horizontally_within_a_div_element__.svg)](
 http://www.echojs.com/news/41946
 )
-[![Cleaning up import paths in JS/TS packages - Socket](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Cleaning_up_import_paths_in_JS_TS_packages_-_Socket.svg)](https://socket.dev/blog/we-don-t-need-more-path-aliases)
 
 
 <!-- post-list:end -->
