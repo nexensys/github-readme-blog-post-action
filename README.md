@@ -10,15 +10,15 @@ Here's an example of how it looks given the URLs for DEV Community, JavaScript W
 The most recent home feed on DEV Community.
 
 [Read more](https://dev.to)
-> Last updated: Wednesday, August 23, 2023 at 12:08:15 PM
+> Last updated: Wednesday, August 23, 2023 at 6:36:28 PM
 
 > Showing 5 of 12 posts.
 
-[![Migration of Terraform State file from Azure Storage Account to Terraform Cloud workspace](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Migration_of_Terraform_State_file_from_Azure_Storage_Account_to_Terraform_Cloud_workspace.svg)](https://dev.to/this-is-learning/migration-of-terraform-state-file-from-azure-storage-account-to-terraform-cloud-workspace-3530)
-[!["The Journey from a Bootcamp to a FAANG": CodeNewbie Podcast S25E2](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_The_Journey_from_a_Bootcamp_to_a_FAANG___CodeNewbie_Podcast_S25E2.svg)](https://dev.to/codenewbieteam/the-journey-from-a-bootcamp-to-a-faang-codenewbie-podcast-s25e2-1c0m)
-[![#DEVDiscuss: Sassy CSS](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/_DEVDiscuss__Sassy_CSS.svg)](https://dev.to/devteam/devdiscuss-sassy-css-acn)
-[![Use Copilot Chat to Guide Your JavaScript to TypeScript Migration](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Use_Copilot_Chat_to_Guide_Your_JavaScript_to_TypeScript_Migration.svg)](https://dev.to/github/migrate-from-javascript-to-typescript-with-copilot-chat-2f91)
-[![Setting up WordPress with Docker](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Setting_up_WordPress_with_Docker.svg)](https://dev.to/olucasquadros/setting-up-wordpress-with-docker-2b9i)
+[![Introduction to the Tower library](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Introduction_to_the_Tower_library.svg)](https://dev.to/nfrankel/introduction-to-the-tower-library-3jp6)
+[![Setting up Bcrypt in your Rails project](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Setting_up_Bcrypt_in_your_Rails_project.svg)](https://dev.to/mandy_petrakis/setting-up-bcrypt-in-your-rails-project-fn0)
+[![Interesting Malware Analysis Writeups](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Interesting_Malware_Analysis_Writeups.svg)](https://dev.to/ghrake/interesting-malware-analysis-writeups-23la)
+[![Agile or not Agile](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/Agile_or_not_Agile.svg)](https://dev.to/ivangavlik/agile-or-not-agile-28hn)
+[![How to mirror GitLab repo to GitHub](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/DEV_Community/How_to_mirror_GitLab_repo_to_GitHub.svg)](https://dev.to/dmitry-kabanov/how-to-mirror-gitlab-repo-to-github-5835)
 
 
 ## JavaScript Weekly
@@ -26,7 +26,7 @@ The most recent home feed on DEV Community.
 A newsletter of JavaScript articles, news and cool projects
 
 [Read more](https://javascriptweekly.com/)
-> Last updated: Wednesday, August 23, 2023 at 12:08:18 PM
+> Last updated: Wednesday, August 23, 2023 at 6:36:32 PM
 
 > Showing 4 of 4 posts.
 
@@ -43,15 +43,15 @@ Description pending
 [Read more](
 http://www.echojs.com
 )
-> Last updated: Wednesday, August 23, 2023 at 12:08:20 PM
+> Last updated: Wednesday, August 23, 2023 at 6:36:38 PM
 
 > Showing 5 of 30 posts.
 
 [![Error Handling in React: Techniques and Examples](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Error_Handling_in_React__Techniques_and_Examples.svg)](https://javascript.withcodeexample.com/blog/error-handling-react-techniques-examples/)
 [![GitHub - oslabs-beta/Chronos: 📊 📊 📊 Monitors the health and web traffic of servers, microservices, Kubernetes/Kafka clusters, containers, and AWS services with real-time data monitoring and receive automated notifications over Slack or email.](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_oslabs-beta_Chronos__📊_📊_📊_Monitors_the_health_and_web_traffic_of_servers__microservices__Kubernetes_Kafka_clusters__containers__and_AWS_services_with_real-time_data_monitoring_and_receive_automated_notifications_over_Slack_or_email..svg)](https://github.com/oslabs-beta/Chronos)
-[![Exploring the popular Music Genres of Uganda with Emmanuel Katto (Local Ugandan Journalist)](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/Exploring_the_popular_Music_Genres_of_Uganda_with_Emmanuel_Katto_(Local_Ugandan_Journalist).svg)](https://vocal.media/art/exploring-the-popular-music-genres-of-uganda-with-emmanuel-katto-local-ugandan-journalist)
 [![GitHub - codeacme17/examor: For students, scholars, interviewees and lifelong learners](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/GitHub_-_codeacme17_examor__For_students__scholars__interviewees_and_lifelong_learners.svg)](https://github.com/codeacme17/examor)
 [![React JS Clean Code Guide](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/React_JS_Clean_Code_Guide.svg)](https://javascript.withcodeexample.com/blog/react-js-clean-code-best-practices/)
+[![API with NestJS #121. Many-to-one relationships with PostgreSQL and Kysely](https://raw.githubusercontent.com/ErrorGamer2000/github-readme-blog-post-action/main/generated_files/_Echo_JS_/API_with_NestJS__121._Many-to-one_relationships_with_PostgreSQL_and_Kysely.svg)](https://wanago.io/2023/08/21/api-nestjs-many-to-one-postgresql-kysely/)
 
 
 <!-- post-list:end -->
